@@ -1,0 +1,222 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+24137,33396,,,2836-08-07 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+
+Admission Date: [**2836-8-7**]        Discharge Date: [**2836-8-7**]
+
+Date of Birth:  [**2758-11-24**]        Sex:  M
+
+Service:
+
+
+HISTORY OF PRESENT ILLNESS:  Mr. [**Known patient lastname **] is a 77-year-old
+gentleman who was found down by a neighbor at his home with
+altered mental status. The patient was transferred to the
+[**Hospital3 879**] where his mental status improved, but was
+found to be hypotensive. They were unable to obtain adequate
+vascular access at the time, and his hypotension continued.
+The patient got a chest x-ray which showed no pneumothorax,
+and then a CT of his chest and abdomen which revealed a small
+left anterior pneumothorax as well as a liver laceration and
+splenic laceration. The patient was transferred from [**Location (un) **]
+to the [**Hospital1 4**] for further
+evaluation.
+
+The patient arrived to the trauma bay at the [**Hospital1 374**] at which time his GCS was 14 and the
+patient's BP was 76/palp, his heart rate was 110, his
+respiratory rate was 24. The patient immediately got a left
+subclavian Cordis placed and received 2 liters of IV fluid
+with which his blood pressure responded appropriately. After
+the 2 liters, the patient's blood pressure was 134/52.
+
+FAST examination revealed positive fluid around the liver and
+within Morison pouch. Trauma examination revealed at the time
+of admission, once again, a temperature of 100.8, pulse rate
+of 96, blood pressure of 90/55 which increased to 130/70
+after resuscitation, respiratory rate of 24, saturations of
+100%. Patient was mentating and conversant, but was
+complaining of severe abdominal pain. His lung sounds were
+clear. His rate was regular, but tachycardic. His abdomen was
+distended and diffusely tender. The patient was guaiac
+negative and had normal tone. His extremities were cool with
+palpable pulses.
+
+At that time, it was decided the patient was stable. Given
+that the patient was stable, it was decided that a CT of the
+abdomen would be obtained. However, the patient's mental
+status quickly deteriorated. Patient required intubation. An
+intubation by the emergency room physician was attempted, but
+unfortunately, an esophageal intubation occurred. After
+calling anesthesia stat and an anesthesiologist was able to
+come down and was unable to intubate the patient despite
+several attempts because of laryngeal edema and some bleeding
+from the oral cavity.
+
+The patient was masked ventilated throughout the episode. It
+was decided that time that a surgical airway needed to be
+obtained. Given that the trauma attending and the chief
+resident were present, a surgical airway was undertaken. A
+cricothyroidotomy was undertaken in the emergency room and 6
+French ET tube was placed, and the patient was adequately
+ventilated. The patient continued to be hypotensive. Required
+multiple fluid resuscitations. The patient was started on
+multiple pressors, but remained hypotensive.
+
+The patient was taken immediately to the operating room for
+exploration. Once in the operating room, the patient
+continued to require massive resuscitation with blood, FFP,
+and platelets. So the patient's abdomen was opened, and the
+spleen was found to be shattered. A trauma splenectomy was
+undertaken. In addition, the large liver laceration was found
+at the time which was repaired primarily and a patch of
+omentum was placed over the oversewn liver laceration.
+
+Throughout this time, the patient remained hemodynamically
+unstable requiring multiple pressors and transfusions. At
+this time, given the patient's abdominal distention, the
+patient's abdomen was closed with a [**Location (un) 4722**] bag. The patient
+was then transferred to the ICU and on several episodes, had
+bradycardic episodes. At that time, ACLS protocol was
+initiated, and patient was brought back 2 times. But on the
+3rd time, the patient quickly deteriorated from a sinus
+bradycardia into PEA through which he could not be shocked
+despite ACLS protocol.
+
+His rhythm then quickly degenerated to V-fib and the patient
+was then pronounced dead at 6 a.m. on [**2836-8-7**].
+
+Pertinent labs: The patient's hematocrit after resuscitation
+was a white count of 12, hematocrit of 33.9, platelets of
+121. Chem-7 was a sodium 145, potassium 3.8, chloride 111,
+bicarbonate of 16, BUN of 7, creatinine of 0.9. Amylase was
+101. EtOH was 69.
+
+CONDITION ON DISCHARGE:  Patient had expired on [**2836-8-7**] at 6 a.m.
+
+DISCHARGE DIAGNOSES:  Traumatic splenic laceration as well as
+traumatic liver laceration.
+
+
+
+                        [**First Name8 (NamePattern2) 674**] [**Last Name (NamePattern1) 1114**], MD [**MD Number 1406**]
+
+Dictated By:[**Doctor Last Name 4723**]
+MEDQUIST36
+D:  [**2836-11-10**] 18:51:06
+T:  [**2836-11-11**] 11:00:35
+Job#:  [**Job Number 4724**]
+Signed electronically by: DR. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **]
+ on: [**Doctor First Name 122**] [**2836-11-20**] 6:16 AM
+(End of Report)
+
+
+",,
+24137,33396,,,2836-08-07 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+",,
+24137,33396,,,2836-08-07 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+",,
+24137,33396,,,2836-08-07 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2836-8-7**] 1:55 AM
+     CHEST (PORTABLE AP); -76 BY SAME PHYSICIAN                      [**Name Initial (PRE) 36**] # [**Clip Number (Radiology) 15889**]
+     Reason: TRAUMA
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     
+     HISTORY:  Status post trauma and chest tube placement.
+     
+     COMPARISON:  One hour prior on [**2836-8-7**].
+     
+     FINDINGS:  The patient has been intubated, and the endotracheal tube
+     terminates in the right main stem bronchus.  The left lung is collapsed, and
+     the heart and mediastinum are shifted to the left.  Compared to the previous
+     study pneumomediastinum and a large right pneumothorax are now present.
+     Subcutaneous emphysema is noted in the neck bilaterally and in the left chest
+     wall.  There is a new left basilar chest tube.  There is a nasogastric tube
+     extending below the left hemidiaphragm.  The position of its tip is uncertain.
+     The trauma team was aware of these findings at the time this study was
+     obtained.
+     
+     IMPRESSION:
+     1.  Endotracheal tube malposition in the right main stem bronchus.  Associated
+     collapse of the left lung.
+     
+     2.  New pneumomediastinum, large right tension pneumothorax, and extensive
+     subcutaneous emphysema.
+                                                                           DFDkq
+
+",,
+24137,33396,,,2836-08-07 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2836-8-7**] 12:18 AM
+     TRAUMA #2 (AP CXR & PELVIS PORT)                                Clip # [**Clip Number (Radiology) 15888**]
+     Reason: trauma                                                      
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      72 year old man with trauma                                                     
+     REASON FOR THIS EXAMINATION:
+      trauma                                                                          
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Trauma.
+     
+     COMPARISON:  No previous studies.
+     
+     CHEST:  AP supine portable view.  Evaluation is limited by the superimposed
+     trauma board structures.  The patient is rotated.  There is mild mediastinal
+     widening, which may be a technical artifact of technique and patient rotation.
+     The lungs are grossly clear.  There is a very small lateral lucency in the
+     left costophrenic angle, which may represent a small pneumothorax.  There is
+     no pleural effusion.  No definite fractures are identified.
+     
+     PELVIS:  AP supine portable view.  Evaluation is limited by the superimposed
+     trauma board structures.  There is no evidence of a fracture or malalignment
+     on the single view provided.  Degenerative changes are noted in both hip
+     joints.
+     
+     IMPRESSION:
+     1.  Possible small left pneumothorax.
+     2.  No evidence of acute pelvic fracture on limited evaluation.
+                                                                           
+
+",,
+24137,33396,,,2836-08-07 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2836-8-7**] 2:22 AM
+     CHEST (PORTABLE AP); -77 BY DIFFERENT PHYSICIAN                 [**Name Initial (PRE) 36**] # [**Clip Number (Radiology) 15890**]
+     Reason: TRAUMA
+     Admitting Diagnosis: S/P FALL
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  77-year-old male status post trauma and chest tube placement.
+     
+     COMMENTS: A single supine AP radiograph was reviewed and compared to the AP
+     chest radiograph from 1 hour prior on [**2836-8-7**].
+     
+     The tip of an endotracheal tube is seen terminating in the right main
+     bronchus.  The left lung is collapsed and the heart and mediastinum are
+     shifted to the left.  A large (approximately 50%) right tension pneumothorax
+     is identified.  Extensive subcutaneous emphysema is noted in the neck
+     bilaterally and in the left chest wall.  A left basilar chest tube remains
+     unchanged in position.  A nasogastric tube courses towards the stomach and out
+     of view. There are multiple left-sided rib fractures.
+     
+     IMPRESSION:
+     1)  Endotracheal tube malpositioned in the right main stem bronchus.
+     2)  Large right tension pneumothorax.
+     3)  Extensive subcutaneous air.  Please note, the side port on the chest tube
+     is located in the soft subcutaneous tissues. Consider re-positioning the tube
+     for optimal position.
+
+",,
+24137,,29982,0,2836-08-07 05:19:00 EST,2836-08-07 05:35:00 EST,4467,"N",54,"Nursing/Other",,"
+
+T-SICU NPN/ADMISSION NOTE
+77yo male transferred from OSH to [**Hospital1 3**] ER.    Per verbal report from ED, pt with 2 episodes of bradycardia and PEA-> ACLS initiated in ER.  Pt with worsening abd distention-> emergently brought to OR.  s/p splenectomy and liver lac which was packed.  Per report from OR, pt with SBP 60's, hemodynamically unstable.  Upon arrival to T-SICU CPR initiated.  Please see arrest record for specifics.  Dr. [**Last Name (STitle) 779**] spoke with pt's 2 daughters in waiting area.  Dr. [**Last Name (STitle) 779**], [**Doctor Last Name 83**], [**Doctor Last Name 76**] and 3 additional MD's present in room.  Pt asystolic, declared by MD.  Daughters tearful, appropriate at bedside.  Awaiting arrival of clergy. 
+",,

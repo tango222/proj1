@@ -1,0 +1,781 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+24924,4331,,,3498-02-04 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+
+Admission Date:  [**3498-2-4**]       Discharge Date:  [**3498-2-11**]
+
+Date of Birth:   [**3417-3-29**]       Sex:  F
+
+Service:  CCU
+
+HISTORY OF PRESENT ILLNESS:  This is an 80-year-old female
+with type II diabetes, chronic obstructive pulmonary disease
+who is being treated for pneumonia at rehabilitation with
+levofloxacin with she developed fever, wheezing and decreased
+blood pressure on [**2-2**].  In the Emergency Department
+at [**Hospital1 770**], temperatures were noted to be 101�� with a heart
+rate of 125, blood pressure of 102/51, respiratory rate of 28
+and patient was 99% on nonrebreather and 94% on 3 liters of
+O2.  Her blood pressure decreased to 60/palp requiring
+intravenous fluid.  There is no infiltrate noted on chest
+x-ray, but treated with ceftriaxone as well as Zosyn.
+Arterial blood gases in the Emergency Room at that time was
+noted to be a pH of 7.33, CO2 of 55, O2 of 107 on 3 liters of
+O2.
+
+On the medical records from the outside hospital, the patient
+was noted to have a recent experience of chest pain at rest
+as well as with exertion.  It is unclear from the medical
+records whether the chest pain was new versus chronic and
+whether there was a progressive component to this.  The
+patient was treated as a chronic obstructive pulmonary
+disease exacerbation with nebulizers and steroids and the
+patient had cardiac enzymes cycled.  The patient was not
+given a beta blocker or aspirin.  The patient was emergently
+intubated on [**2-3**] in the a.m. for respiratory
+distress.  Arterial blood gases at that time was noted to
+have a pH of 7.19, PCO2 of 68 and an O2 of 76.
+
+CKs peaked at the outside hospital at 188 with an MB of 21
+and an index of 11.7 on the morning of [**2-3**].  The
+patient was also noted to have the evolution of T-wave
+inversions in the lateral and inferior leads.  She was
+diuresed with Lasix 60 mg intravenous total.  A beta blocker
+still was not added on at that time.  The patient also did
+not receive aspirin until [**2-3**] in the p.m. secondary
+to a questionable aspirin allergy.  Heparin drip was started
+on [**2-3**] in the evening and the patient was also
+transfused 2 units of packed red blood cells.  The patient
+was then transferred to [**Hospital6 84**]
+for further work up including cardiac catheterization.  On
+arrival to [**Hospital6 84**], the patient
+was arousable and denied any chest pain or any other pain.
+
+PAST MEDICAL HISTORY:
+1.  Type II diabetes, insulin requiring
+2.  Hypertension
+3.  Chronic obstructive pulmonary disease
+4.  History of pneumonia 1 to 2 times a year
+5.  Right tibial fracture status post motor vehicle accident
+in [**3497-11-6**] requiring rehabilitation; also an unclear
+history of head trauma secondary to this motor vehicle
+accident.
+6.  Right rotator cuff injury
+7.  Degenerative joint disease
+8.  Questionable history of renal cell carcinoma, status post
+nephrectomy
+
+REHABILITATION MEDICATIONS:
+1.  Quinine 325 mg po q day
+2.  Digoxin 0.125 mg po q day
+3.  Lasix 40 mg po q day
+4.  Lovenox 30 mg subcutaneous bid
+5.  Serevent Metered dose inhaler
+6.  Nitroglycerin patch
+7.  Levofloxacin
+8.  Albuterol metered dose inhaler
+9.  Humulin
+
+TRANSFER MEDICATIONS:
+1.  Heparin drip
+2.  Tequin 400 mg intravenous po q day
+3.  Solu-Medrol 80 mg po tid
+4.  Enteric coated aspirin 325 mg po q day
+5.  Digoxin 0.125 mg po q day
+6.  Isoptin Sustained Relief 120 mg po q day
+7.  Regular insulin sliding scale
+8.  Nitroglycerin drip
+9.  Zosyn 3.375 gm po q6h intravenous
+10. Pepcid 20 mg po tid
+11. Albuterol and Atrovent nebulizers
+12. Quinine 325 mg po q day
+13. Versed drip
+
+SOCIAL HISTORY:  Recently admitted for a rehabilitation stay
+in [**Hospital1 770**].  The patient is full code.  Proxy is patient's
+granddaughter who name is [**First Name4 (NamePattern1) 444**] [**Last Name (NamePattern1) 6357**].  Phone number is
+([**Telephone/Fax (1) 6358**].
+
+PHYSICAL EXAM:
+GENERAL:  The patient is an elderly woman intubated and
+sedated.
+VITAL SIGNS:  Temperature 98.8��, blood pressure 145/44, heart
+rate 63, respiratory rate 20, O2 saturation 99% on 40% FIO2
+and a weight of 56 kg.
+HEAD, EARS, EYES, NOSE AND THROAT:  Questionable resolving
+ecchymosis on the right cheekbone.  Pupils equally round and
+reactive to light.  Extraocular muscles are intact,
+anicteric.
+NECK:  Questionable status post right CEA, supple, positive
+jugular venous distention to jaw, 2+ carotids, no bruits.
+CHEST:  Decreased breath sounds at the bases anteriorly,
+slight bibasilar crackles, no wheezing.
+HEART:  Regular rate and rhythm, S1, S2, 2/6 systolic
+ejection murmur best at the right upper sternal border, no
+radiation, no S3, no S4, normoactive bowel sounds, soft,
+nontender, nondistended.  No guarding, no rebound.
+GROIN:  2+ femorals, positive bruits bilaterally.
+EXTREMITIES:  No edema, 2+ DPs bilaterally.
+NEUROLOGIC:  Sedated but arousable, nodding yes and no,
+moving all extremities.
+
+LABORATORY DATA FROM [**2-4**]:  White blood cells of 4.2,
+hematocrit of 28.7, platelets 157.  PTT 150, PT 15.4, INR
+1.7.  Sodium 138, potassium 3.3, chloride 103, bicarbonate
+24, BUN 41, creatinine 1.1, glucose 228.  Arterial blood
+gases:  pH of 7.37, carbon dioxide of 45 and a PO2 of 116 on
+40% O2, on SIMV 550/12/10/5.  CK was 64.  Calcium was 8.0.
+Magnesium was 1.8.  Phosphorus was 3.6.
+
+LABS FROM [**2-3**] FROM OUTSIDE HOSPITAL:  White blood
+cells 4.1, hematocrit 25.8, platelets 155.  PT 13.9, PTT
+36.8, INR 1.4.  Sodium 138, potassium 4.4, chloride 103,
+bicarbonate 23, BUN 31, creatinine 1.8, glucose 251, calcium
+7.8, magnesium 1.9, phosphorus 3.8.  Serial CKs included 147,
+188, 151, 89 with MBs of 7.5, 21, 19.7, 15.7 respectively,
+index of 2.5, 11.7, 13 and 7.6 respectively and a troponin of
+11.1 with a first set of CKs.
+
+X-RAYS:  Electrocardiogram from [**2-2**] showed normal
+sinus rhythm at 100 beats per minute, slight left axis
+deviation, normal interval with a borderline QTC, 0.[**Street Address 1087**]
+elevations in V3 through V6, T-waves in V5 through V6, as
+well as 1 in AVL.  There are Q-waves noted.  Good R-wave
+progression.  Electrocardiogram from [**2-4**] at [**Hospital6 283**] was normal sinus rhythm in
+the 60s, normal axis, prolonged QT, borderline PR, left
+anterior fascicular block, no Qs, no ST changes, deep and
+wide T-wave inversions in V2 through V6, 2, 3 and AVF.  Early
+R-wave progression.  Chest x-ray revealed hyperinflation,
+flattened diaphragms consistent with chronic obstructive
+pulmonary disease.  AP film revealed mild congestive heart
+failure.  No focal infiltrate.
+
+IMPRESSION:  This is an 80-year-old female with type II
+diabetes, hypertension, tobacco history, chronic obstructive
+pulmonary disease who was admitted to [**Hospital 770**] Hospital on
+[**2-2**] with pneumonia and chronic obstructive
+pulmonary disease exacerbation.  He appeared to have an
+ischemic event.  On the night of [**2-2**] there was
+evolution of infarct in the inferior and lateral leads by the
+a.m. of [**2-3**].  The patient was transferred to the
+[**Hospital6 84**] for cardiac
+catheterization.
+
+HOSPITAL COURSE BY SYSTEM:
+
+1.  CARDIAC:  The patient was taken to the cardiac
+catheterization lab on [**3498-2-4**].  Findings included:
+One vessel coronary artery disease, left main coronary artery
+had mild disease, the LAD had an ulcerated 70% proximal
+stenosis and a 50% mid lesion, the left circumflex and RCA
+had mild diffuse disease, mild elevation of the wedge
+pressure noted at 15 mmHg, mild PA hypertension with a
+pressure of 37/15 and status post successful direct stenting
+to the LAD.  The patient tolerated the procedure well without
+any complications.  Post catheter checks revealed no bruit or
+hematoma.
+
+Post catheter, the patient was started on a regimen which
+included aspirin, Plavix, Captopril, Lopressor and her
+cholesterol labs were checked.  Doses of medication were
+incrementally increased based on blood pressure and at the
+time of discharge, the patient was maintained on a dose of
+Zestril 40 mg po q day and atenolol 37.5 mg po q day.  In
+light of the patient's history of chronic obstructive
+pulmonary disease and likely concomitant chronic obstructive
+pulmonary disease exacerbation, the patient's beta blocker
+dose was slowly increased, however the patient tolerated all
+dose adjustments without any respiratory decompensation.
+
+PUMP:  The patient had an echocardiogram on [**3498-2-4**]
+which revealed an ejection fraction of 20%.  Other findings
+included severe global left ventricular hypokinesis/akinesis,
+focal hypokinesis of the apical free wall of the right
+ventricle and 1+ mitral regurgitation.  Based on these
+findings, the patient was started on a heparin drip as well
+as Coumadin for cardiac thrombus prophylaxis.  It was the
+feeling of the CCU team that repeat evaluation of ejection
+fraction via echocardiogram would be beneficial to evaluate
+for the necessity of long term anticoagulation in a patient
+with a non Q-wave myocardial infarction.  Initially, during
+patient's stay in the CCU, she was noted to be in mild
+congestive heart failure and was diuresed gently with Lasix.
+The patient had good urine output and was noted to have
+improved O2 saturations with this diuresis.  Towards the end
+of her hospital stay, the patient was saturating well and did
+not require any further Lasix diuresis.
+
+RHYTHM:  Initially, on admission to the CCU, the patient was
+noted to be in a sinus bradycardia and atropine and pacer
+pads were placed at the bedside.  The patient's vital signs
+with this bradycardic rhythm remained stable and subsequently
+the patient's rate gradually increased and remained in the
+70s to 90s for the remainder of the hospital stay.
+
+2.  PULMONARY:  The patient was noted to have a chronic
+obstructive pulmonary disease exacerbation with questionable
+pneumonia at outside hospital.  The patient was treated with
+steroids and nebulizers, as well as Zosyn and Tequin at the
+outside hospital.  On admission to [**Hospital6 1288**], the patient was placed on an antibiotic
+regimen of Zithromax and Rocephin.  In addition, the patient
+was continued on Solu-Medrol and nebulizers prn.  In
+addition, as above, the patient arrived to [**Hospital6 283**] intubated and was
+successfully extubated on [**3498-1-8**] without much
+difficulty.  The patient's shortness of breath and wheezing
+improved on this regimen and on [**1-8**], decision was
+made to switch from intravenous steroids to po prednisone.
+The patient was to be tapered slowly on this medication.  In
+addition, the patient remained afebrile and no definite
+infiltrate was noted radiographically and decision was made
+to discontinue antibiotics.  The patient was switched from
+nebulizer treatment to metered dose inhalers and was
+receiving Serevent, albuterol and Atrovent metered dose
+inhalers at the time of discharge.
+
+3.  HEMATOLOGY:  The patient was noted to be anemic on
+admission with a hematocrit of 28.7, status post 1 unit of
+packed red blood cells at the outside hospital.  The patient
+was transferred an additional 2 units of packed red blood
+cells on admission in light of upcoming cardiac
+catheterization.  On [**1-9**], the patient was noted to
+have oozing of blood from her right femoral catheter site as
+well as the right antecubital fossa.  In addition, the
+patient was noted to have one to two episodes of melanotic
+stools.  At this time, the patient's PTT was noted to be
+supertherapeutic at 150.  Heparin and Coumadin were
+discontinued and serial hematocrits were followed.  The
+patient was noted to have a slightly decrease in hematocrit
+likely secondary to all this bleeding and was transfused an
+additional 1 unit of packed red blood cells.  Melanotic
+stools were then noted to resolve and oozing from the groin
+site was noted to stop with a pressure dressing applied.  For
+the remainder of the hospital stay, the patient's hematocrit
+remained stable requiring no further transfusion.
+
+4.  ENDOCRINE:  The patient with a history of diabetes,
+insulin requiring.  It was unclear from the medical records
+sent from the outside hospital what the patient's usual
+regimen was.  The patient was maintained on a regular insulin
+sliding scale with fingerstick blood sugars qid.  The
+patient's fingersticks were noted to be elevated and the
+decision was made to add on extending dose of NPH in the
+morning and evening for more long-term coverage.  Initially,
+the patient was started on NPH 4 units subcutaneous bid and
+at the time of discharge, the patient was receiving 12 units
+bid.  The patient's blood sugars were somewhat better
+controlled with this regimen, however further incremental
+increase in NPH would likely be required.
+
+5.  RENAL:  The patient's creatinine remained stable while an
+inpatient at [**Hospital6 84**] and there
+were no active issues.
+
+6.  MUSCULOSKELETAL:  The patient is status post a motor
+vehicle accident in [**3497-11-6**] requiring rehabilitation
+stay.  The patient intermittently complained of left sided
+chest pain which was noted to be reproducible with
+palpitation over a prominent left lower rib.  Initially, the
+patient's chest pain was treated with narcotics, including
+morphine.  However, the patient was switched to nonsteroidal
+antiinflammatory medications for pain control towards the end
+of her hospital stay.
+
+7.  PROPHYLAXIS:  The patient was maintained on Protonix and
+subcutaneous heparin/heparin drip.
+
+DISCHARGE CONDITION:  Stable
+
+DISCHARGE STATUS:  The patient is to be discharged to
+rehabilitation.
+
+DISCHARGE DIAGNOSES:
+1.  One vessel coronary artery disease, status post LAD stent
+2.  Congestive heart failure with an ejection fraction of
+20%.
+3.  Diabetes type II
+4.  Hypertension
+5.  Chronic obstructive pulmonary disease exacerbation
+6.  Anemia
+
+DISCHARGE MEDICATIONS:
+1.  Plavix 75 mg po q day x24 days to complete a 30 days
+course
+2.  Zestril 40 mg po q day
+3.  Atenolol 37.5 mg po q day
+4.  Aspirin 325 mg po q day
+5.  Lipitor 10 mg po q day
+6.  Coumadin 5 mg po q day
+7.  Albuterol metered dose inhalers 2 puffs qid prn
+8.  Atrovent metered dose inhalers 2 puffs qid prn
+9.  Serevent metered dose inhaler 2 puffs bid
+10. NPH 12 units subcutaneous bid
+11. Regular insulin sliding scale
+12. Prednisone taper 40 mg po q day x2 days, then 30 mg po q
+day x3 days, then 20, 10, 5 x3 days, then taper to off
+13. Subcutaneous Heparin 5000 units bid
+14. Protonix 40 mg po q day
+15. Motrin 600 mg po tid prn
+
+The patient's PT and INR could be checked on [**3498-1-16**].  End results to be sent to primary care physician.  [**Name10 (NameIs) **]
+addition, the patient is to follow up with cardiologist as
+per primary care physician or at [**Hospital6 1288**].  Will discuss with son as to preference for
+his mother.
+
+
+
+
+                            [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **], M.D.  [**MD Number 1783**]
+
+Dictated By:[**Name8 (MD) 6359**]
+MEDQUIST36
+
+D:  [**3498-2-11**]  05:09
+T:  [**3498-2-11**]  07:44
+JOB#:  [**Job Number 6360**]
+Signed electronically by: DR. [**First Name11 (Name Pattern1) **] [**Initials (NamePattern4) **] [**Last Name (NamePattern4) **]
+ on: SUN [**3498-2-13**] 4:55 PM
+(End of Report)
+
+
+",,
+24924,4331,,,3498-02-04 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3498-2-4**] 4:45 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 7633**]
+     Reason: please evaluate for CHF and infiltrate
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      80 year old woman with COPD exacerbation and nonQwave MI is transferred from
+      OSH intubated
+     REASON FOR THIS EXAMINATION:
+      please evaluate for CHF and infiltrate
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     
+     CHEST, SINGLE AP FILM.
+     
+     HISTORY:  COPD with myocardial infarction and intubation.
+     
+     ET tube is 4 cm above carina.  NG tube extends below diaphragm.  Heart size is
+     borderline for technique.  No definite CHF.  There is probable bibasilar
+     atelectasis/scarring, but no confluent air space consolidation.  Skin folds
+     overlie left apical region.  No previous films for comparison.  Surgical clips
+     are present in the right upper abdomen.  No evidence for CHF or pneumonia.
+     
+
+",,
+24924,4331,30948,0,3498-02-04 04:30:00 EST,3498-02-04 04:34:00 EST,785,"N",1,"Nursing/Other","Respiratory Care:","
+Respiratory Care:
+Pt. received from OLH, arrived intubated with 7.0 OET, patent/secure 22@lip.  B/S course bilaterally, with better air entry noted on Lt.  Per report, Pt. with resp. failure, due to LLL pneumonia and new onset NQWMI.  CXR pending, ABG's well oxygenated with ~normal range acid-base on settings per flowsheet.  ? cardiac cath today.  Will monitor and adjust settings accordingly.
+",,
+24924,4331,30948,0,3498-02-04 04:49:00 EST,3498-02-04 05:22:00 EST,330,"N",1,"Nursing/Other","CCU NPN ADMIT","
+CCU NPN ADMIT
+O:  80 yo  female transferred from OSH s/p MI , requiring intubtation for cath/eval.
+
+PMH:  COPD, asthma, DM, CAD
+      MVA [**11-6**]:  right tibia fx, right shoulder rotator cuff tear.
+        went to [**Hospital **] hosp. for rx , discharged to rehab.
+
+ALL:  ? asa, eggs
+
+HPI:  developed SOB, diaphoresis [**2-2**] at rehab. was being rx for pneumonia with levoflox.   sent to [**Hospital1 **] EW where EKG showed non spec. TW changes.  T101.  ABG 7.33/PCO2 55, tried bipap not tolerated.  BP dropped to 60's rx with IVF.   
+In CCU [**2-3**], dev. resp. distress with PH down 7.19/69/76.  intubated in AM.  BP stable.  EKG showing evolution of MI.  TW inversions ANT/LAT.  trop. 11.1 on admit.  MB peak 21.  
+started TNG/HEP/versed gtt.  HR 69-70's SR.  BP 130's/  ABG corrected on vent
+afeb.  pan cx.  
+HCT 25, transfused 2 UPRBC.  no source possible bleed.
+
+transferred to [**Hospital1 3**] for cath
+
+CCU :  Arrived to CCU at 0330 [**2-4**].  intubated, arousable to name.  nods head approp. to questions.  versed gtt at 5mg/hr.  well sedated and appearing comf. 
+
+CV:  HR 53-65SR.  no VEA.  K+ onadmit 3.3-> repleted with total 80meq. KCL divided doses.  right rad. aline BP 130-140/40.  CK 64.  
+heparin at 1000u/hr.  PTT 150. off x1hour and dec. to 800u/hr.  
+TNG at 40mcq.  
+pt. denies CP/SOB when asked.  shakes head ""no""  
+EKG:  SR 65.  PR.20/.12/  TW inversions I,II, III, F, V2-6.  
+
+resp:  vent IMV 500x12/.40/10ps/5peep.  ABG on admit 7.37/45/116.  sats 99%.  LS course dependent, clear upper.  sx for scant thin white. 
+
+GU:  foley draining yellow.  u/o ~20cc/hr.  
+GI:  oral GT with (+) CXR placement.  10cc bile residual.  no coffee gnds.  guiac (-).  
+
+heme:  HCT on admit 28.7 (s/p 2U at OSH).  order to transfuse 2 additional UPRBC .  phone consent obtain from proxy.  plts pnd. 198 at OSH.  no stool.  
+
+DM:  admit BS 228.  on SS reg. insulin.
+
+neuro:  as above , wakes to name and nods approp.  moving all extrem.  hands restrained for safety.  versed gtt at 5mg.  pt. allergic to eggs, therefore cannot use propofol.  
+
+lines:  right rad. aline, sutured.  right ant #18, right hand #22, left hand #20.  
+
+skin:  small abrasion on coccyx.  open to air.  
+
+A:  s/p MI, COPD exac. with pneumonia.  
+P:  cath today.   follow plts.  PTT.  lytes, CK. follow sats, ABG on current settings.   
+
+family :  1)  proxy is grandaughter:  [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 5300**]- [**Telephone/Fax (1) 5301**]
+          2)  son:                    [**First Name5 (NamePattern1) 154**] [**Known patient lastname 5302**] - [**Telephone/Fax (1) 5303**]
+
+",,
+24924,4331,30948,0,3498-02-04 15:28:00 EST,3498-02-04 16:13:00 EST,285,"N",1,"Nursing/Other","CCU NPN 7am - 3pm","
+CCU NPN 7am - 3pm
+S/O:  Resp:  Pt. remains vented on IMV 40%, vT 550, rate of 12.  ABG done in the cath lab was good.  See flow sheet for specific data.  Suctioned Q 4 for scant, white, thin secretions.  
+
+CVS:  Pt. had cath this morning.  The LAD was occluded and was opened and stented.  There was some mild disease in the LCX.  Filling pressures were :  W - 16,  PAP - 35/15.  BP - 130 - 140/60.  HR - 48 - 90  SB/ST.  Pt. continues on NTG at 40 mcgs.   Heparin changed to lovenox and coumadin.  Pt. to start on captopril 12.5.  Sheaths were pulled at 2 pm.  The right groin is D &I.  Pedal pulses are dopplerable.  Echo done showing an EF of 20%.
+
+I.D.:  temp.  95.8 ax. - 97.3 p.o.  Pt. is recieving ceftriaxone IV and zithromycin via OGT.
+
+G.I.:  Aspirates per OGT are grossly OB pos.  Bowel sounds hypoactive.
+
+Mental status:  Pt. is well sedated on 3 mg of versed/hr.
+
+G.U.:  voiding clear yellow urine via foley catheter.  U/O - 30 - 50 cc/hr.
+
+Heme:  HCT 26 this morning.  Pt. received 2 UPRBC's without problems.
+
+A:  s/p cath, stent to LAD.
+
+P:  monitor resp. status, follow HCT,  blood as needed,  keep clot up to date, post cath care,  antibiotics as written.
+",,
+24924,4331,30948,0,3498-02-04 17:46:00 EST,3498-02-04 17:49:00 EST,-1,"N",1,"Nursing/Other","Respiratory care note:","
+Respiratory care note:
+Pt remains intubated and on SIMV/PSV mode. Settings have not changed this shift: Vt= 550, RR= 12, Fio2= 40%. Spontaneous efforts have been made for a total rr= 14. Pt went to cath lab today for a procedure without complications. 
+",,
+24924,4331,30948,0,3498-02-04 21:10:00 EST,3498-02-04 21:30:00 EST,295,"N",1,"Nursing/Other","ccu NURSING PROGRESS NOTE  3P - 11PM","
+ccu NURSING PROGRESS NOTE  3P - 11PM
+S:   ORALLY INTUBATED
+O:  
+CV: FOR A COMPLETE SET OF VS AND OBJECTIVE DATA PLEASE REFER TO CARE VUE FLOW SHEET SECTION.  PT REMAINS IN SB RHYTHM WITHOUT ANY VEA NOTED. SBP 140 - 160 RANGE.  NITRO AT 40 MCG CONTINUES.  TOLETATED FIRST DOSE OF 12.5 MG CATOPRIL AT 4 PM.  DOSE TO BE INCREASED AT 12 AM TO 25 MG.  R GROIN SITE POST CATH REMAINS D/I, NO HEMATOMA NOTED.  PULSES DOPPLERABLE.  FEET COOL TO TOUCH.  LOVONEX AND COUMADIN STARTED.  POST CATH FLUIDS AT 150 CC/O FINISHED AT 9 PM.  PT IS ALMOST 2L POSITIVE FOR [**2-4**].  PCWP IN LAB 16.  
+
+RESP:  FIO2 DECREASED TO 30%, VT REMAINS AT 550 , AND A RATE 12 . ABG THIS EVENING 7.35/39/90 . LUNGS CLEAR . SATS 99- 100%.   MINIMAL SECRETIONS OF THIN WHITE SPUTUM .  SXN Q 4 HOURS. 
+
+NEURO:  PT REMAINS WELL SEDATED .  VERSED GGT AT 3 MG/ HOUR.  RESPONDING TO PAINFUL STIMULI.  
+
+GI/GU:  ABD SOFT AND NON TENDER.  ASPIRATES MINIMAL BUT ARE GUIAC POS.  NO STOOL.  URINE IS CLEAR / YELLOW, 40 - 50 CC/O.  
+
+ID:  AFEBRILE.  
+
+A:  TOLERATING ADDITION OF CATOPRIL, APPEARS COMFORTABLE, SATS, ABG AND LUNG EXAM ARE ADEQUATE  WITH POSITIVE FLUID BALANCE
+P:  CONT TO MONITOR, ? LIGHTEN UP SEDATION IN AM AND ATTEMPT TO WEAN 
+",,
+24924,4331,30948,,3498-02-05 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3498-2-5**] 7:50 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 7634**]
+     Reason: please evaluate for infiltrate vs CHF
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      80 year old woman with COPD exacerbation and nonQwave MI is transferred from
+      OSH intubated
+     REASON FOR THIS EXAMINATION:
+      please evaluate for infiltrate vs CHF
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  COPD exacerbation.  Transfer from outside institution.
+     
+     PORTABLE AP CHEST:
+     
+     COMPARISON:  [**3498-2-4**].
+     
+     There is an ET tube 4.5 cm above the carina.  There is an NG tube extending
+     below the diaphragms.  There are clips in the right upper abdomen.  The heart
+     is borderline for technique.  There is no CHF, focal pneumonia, pleural
+     effusion, or significant change from 1 day earlier.
+     
+
+",,
+24924,4331,30948,0,3498-02-05 07:30:00 EST,3498-02-05 07:38:00 EST,105,"N",1,"Nursing/Other",,"
+
+S/P CATH ....STENT ..INTUBATION
+S/O PLS SEE CAREVIEW FLOWSHEET FOR ALL OBJ/NUMERICAL DATA 
+CV   HR 60-70'S...SINUS ....SBP 130-140'S/60'S..TOLERATING INCREASE IN ACE INHIB...REMAINS ON IV NTG AT 40 MCGS 
+RESP ON AC MODE ..RATE OF 10..OVERBREATHING [**1-9**] OVER RATE ...30%FIO2..7.5 PEEP...TV 600...MINIMAL ETT/ORAL SECRETIONS ..LUNGS WITH DECREASED BREATH SOUNDS /EXP WHEEZES ...
+GI OGT CLAMPED ..MINIMAL ASPIRATES ...INC SMALL AMOUNTS OF LOOSE BRN ..OB POS  STOOL ....
+GU ..U/O 40-60 CC ..
+HEME ..REPEAT HCT 32 ...2 U PRBCS IN RESERVE ..
+COMFORT ...COMFORTABLE ON 3 MG/HR OF VERSED ...ATTEMPTS TO OPEN EYES TO PAINFUL STIMULI...POS  COUGH...ATTEMPTING TO SELF EXTUBATE WHEN UNRESTRAINED ...
+A HEMODYN STABLE 
+P ? WEAN SEDATION WITH ATTEMPT TOWARD EXTUBATION 
+",,
+24924,4331,30948,0,3498-02-05 12:20:00 EST,3498-02-05 12:25:00 EST,69,"N",1,"Nursing/Other",,"
+
+Patient extubated and placed on 28% aerosol mask HR 79,RR 24, SAT 96%.Patient suctioned for moderate amount of secretion white thick.Plan to draw ABG on 28% 0pen face mask if OK ; will switch patient to 24% N/C.Remains on combiventQ4 and Serevent BID.
+",,
+24924,4331,30948,0,3498-02-05 17:05:00 EST,3498-02-05 17:39:00 EST,492,"N",1,"Nursing/Other","CCU NURSING PROGRESS NOTE","
+CCU NURSING PROGRESS NOTE
+S.  ""MY BREATHING FEELS HEAVY.""
+
+O.  SEE CAREVUE FLOWSHEET FOR COMPLETE VS, OBJECTIVE DATA
+
+CV:  DENIES CHEST PAIN, HR 60-80'S SR NO ECTOPY NOTED
+BP 147-162/60-70'S, LOPRESSOR 12.5 BID ADDED, CAPTOPRIL INCREASED TO 50MG TID, TOLERATED WELL, IV NTG D/C'D IN AM, R GROIN SITE, SM OLD-LOOKING HEMATOMA, SIGHT BLOODY OZING IN AM, NOW D+I, R FOOT COLD TO TOUCH IN AM COMPARED TO WARM R FOOT, PULSES DOP/1+, COLOR DUSKY BILAT; VASCULAR SAW PT, RECOMMENDED MAINTAINING HEPARIN GTT; THIS PM, R FOOT WARMER W/ 1+ PALP PULSES BILAT, HEPARIN AT 800U/HR RESTARTED AT 2PM
+
+RESP:  SEDATION D/C'D AT 10 AM, PLACED ON PS - 5/5 PEEP - GOOD ABG - EXTUBATED AT 12 PM, TOLERATED WELL, O2 WEANED TO 2L N/C W/SATS 97-99% LAST ABG 110/47/7.34/26/0, C/O HEAVY BREATHING - EXPIRATORY WHEEZES W/GOOD ABG, ALB/ATROVENT NEBS GIVEN X 2 W/FAIR-GOOD EFFECT
+CONGESTED COUGH - EXPECTORATED RED BLOODY SECRETIONS X 1
+
+NEURO: VERSED GTT UNTIL 10AM, NOW AWAKE, LETHARGIC BUT ORIENTED, NO FURTHER MEDS 
+
+GI:  OGT W/BILEOUS ASPIRATES G+ IN AM, NOW TAKING SIPS H2O, TOLERATING WELL, LOOSE, BROWN STOOL X2 GUIAC NEG
+
+GU: FOLEY DRAINING CLEAR YELLOW URINE, 2 PM U/O INCREASED TO > 100CC/HR NEG ~500CC
+
+ENDOCRINE:  FS QID, 12PM 222 - 2 U REGULAR, 6PM 4U NPH INSULIN
+
+ID: AFEBRILE, IV ANTIBX CHANGED TO LEVO QD
+
+SOCIAL:  SON IN TO VISIT THIS PM, APPEARS INVOLVED IN CARE/SUPPORTIVE
+
+A:  S/P MI, SUCCESSFULLY EXTUBATED
+    REMAINS W/EXP WHEEZES
+    R FOOT IMPROVED FROM AM 
+
+P:  MONITOR ABG'S, ASSESS LUNG SOUNDS - NEBS, PRN, ASSESS NEED FOR DIURETICS, FOLLOW HCT/GLUCOSE, FOLLOW TEMPS/WBC'S ON LEVO, CONTINUE SUPPORTIVE CARE, EMOTIONAL SUPPORT.
+",,
+24924,4331,30948,,3498-02-06 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3498-2-6**] 7:15 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 7636**]
+     Reason: 80 F s/p NQMI, extubated [**2-5**], with persistent wheezing, blo
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      80 year old woman with COPD exacerbation and nonQwave MI is transferred from
+      OSH intubated
+     REASON FOR THIS EXAMINATION:
+      80 F s/p NQMI, extubated [**2-5**], with persistent wheezing, blood-tinged
+      secretions, please eval for pna/failure/chronic process (pt reports lung
+      nodules in past?)
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY: Persistent wheezing and blood tinged secretions. History of
+     questionable lung nodules in the past.
+     
+     AP chest, one view: Since the prior study of 7.5 hours earlier, there is no
+     significant interval change. The patient is rotated. The lungs are
+     hyperinflated. There is no vascular congestion, focal consolidation, or
+     pleural effusion. There is nodular density at the upper most left apex, seen
+     on the recent exams. More remote studies from outside hospitals are not
+     available for comparison. If these can be obtained, we would be happy to make
+     a comparison and issue an addendum. There are clips in the upper abdomen
+     towards the right.
+     
+     IMPRESSION: No pneumonia or CHF. Left apical ill-defined density, of uncertain
+     etiology. Recommend comparison with more remote studies to assess for
+     stability of this finding.
+
+",,
+24924,4331,30948,,3498-02-06 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3498-2-6**] 12:25 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 7635**]
+     Reason: SOB, new R sided crackles on exam, eval for pna/CHF
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      80 year old woman with COPD exacerbation and nonQwave MI is transferred from
+      OSH intubated, extubated [**3498-2-5**]
+     REASON FOR THIS EXAMINATION:
+      SOB, new R sided crackles on exam, eval for pna/CHF
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: COPD.  Exacerbation.  Shortness of breath.
+     
+     COMPARISON; [**3498-2-5**]
+     
+     PORTABLE AP CHEST, ONE VIEW: Since the prior exam, the ET tube and NG tube
+     have been removed.  The heart is normal in size. The lungs are hyperinflated,
+     but otherwise clear without vascular congestion, focal consolidation or
+     pleural effusion.  There is vague illdefined nodular density at the left apex,
+     seen on recent [**Hospital1 550**] studies.  Recommend comparison with more remote studies
+     to insure stability of this finding.  There are clips in the right upper
+     abdomen.
+     
+     IMPRESSION:
+     1. No pneumonia or CHF.
+     2. Illdefined nodular density at the left apex for which comparison with
+     remote studies from an outside institution are recommended to insure
+     stability.  If these can be obtained, we would be happy to make a comparison
+     and issue an addendum.
+
+",,
+24924,4331,30948,0,3498-02-06 05:32:00 EST,3498-02-06 05:49:00 EST,103,"N",1,"Nursing/Other","CCU NSG PROGRESS NOTE 7P-7A/ R/I MI; PNEUMONIA;CHF","
+CCU NSG PROGRESS NOTE 7P-7A/ R/I MI; PNEUMONIA;CHF
+
+S- ""I CANNOT BREATHE...""
+
+O- SEE FLOWSHEET FOR OBJECTIVE DATA.
+
+CV- PT WITH HR- 80-100 ST, REMAINS ON LOPRESSOR 12.5 MG BID.
+NO INCREASE D/T CONCERN RE: WHEEZE/COPD.
+TOLERATING INCREASE IN CAPTOPRIL 75 TID- BP- 140-150/60'S.
+
+1)EVENT- INCREASE IN RESP DISTRESS OVER COURSE OF EVE, NONSPECIFIC ANXIETY AND CONSTANT C/O ""CAN'T BREATHE"". ABG WNL/O2 SATS >97%.
+BY 12 AM, PT VERY ANXIOUS AND DISTRESSED- CALLED HO.
+INCREASED CRACKLES FROM EARLIER IN DAY PER HO.
+STAT CXR/STARTED TNG GTT AND GIVEN 20/40 LASIX AND MSO4 2 MG X 2 IVP.
+CXR (-) PULM EDEMA BY REPORT.
+CHECKED EKG- NO ISCHEMIA. DIURESED WELL TO LASIX DOSES- >1500CC OVER PAST 6 HOURS.
+PT WITH LESS DISTRESS AND FELL ASLEEP AFTER 1 1/2 HOURS OF TREATMENT.
+
+2)ALSO- EVENT X 2 WITH PROLONGED BLEEDING=- FIRST TIME 10PM- BLEEDING FROM ANTECUBITAL- HELD PRESSURE 1 HOUR, HELD HEPARIN 2 HOURS AND DECREASED FROM 800-600U. PTT>150 AND INR- 2.6.
+4AM- SECOND PROLONGED BLEEDED - INVOLVED RT FEMORAL SITE AS WELL AS IV SITE IN ANTECUBITAL AGAIN. HELD PRESSURE FOR 45 MINUTES TO GROIN, 1 1/2 HOURS TO ANTECUBITAL SITE.
+HEPARIN ON HOLD TILL FURTHER NOTICE FROM TEAM,
+STAT LABS REVEALED STABLE HCT AT 32, INR INCREASED TO 2.8 AND PTT >150.
+2 U PRBC ON HOLD.
+
+HEME- SEE ABOVE.
+
+RESP- PT WITH 2 L NP- C.O STEADY LEVEL OF INABILITY TO BREATHE ALL EVE IN SPITE OF GOOD RESP RATE AND O2 SATS.
+SEE ABOVE- RE: TREATMENTS AND EVENT.
+CURRENTLY ON 28% COOL NEB AND ON/OFF 2 L NP.
+REPEAT ABG'S APPEAR TO BE STABLE AT BASLINE S/P EXTUBATION [**2-5**].
+DIURESED WELL TO LASIX.
+STRONG NON PRODUCTIVE COUGH, VERY GENTLE CPT.
+ATTEMPTED X 1 TO NT SUCTION WITH OUT SUCCESS. VERY DISTRESSING TO AN ALREADY VERY ANXIOUS PT.
+IMPROVED LUNG SOUNDS THIS AM AFTER DIURESIS, BUT STILL REQUIRING Q 2 HOUR NEBS. 
+
+ID- AFEBRILE.
+REMAINS ON LEVO PO.
+
+GI- TAKING ICE CHIPS/SIPS H20.
+FREQUENT SMALL STOOLS LOOSE- G (+) ALL EVE- EVERY 1 HOUR.
+LESS SINCE MN.
+
+GU- GOOD DIURESIS FROM FOLEY CATH.
+SEE ABOVE.
+I/O (-) 1 LITER AS OF 12 AM PRE-DIURESIS, IN SETTING OF RESP DISTRESS.
+
+MS- PT IN MUCH MUCH NEED OF SUPPORT- VERY VERY DISTRESSED AND ANXIOUS AND FEELING LIKE SHE IS ""GOING TO DIE TONITE""..
+MUCH TIME SPENT IN ROOM WITH PT ESP WITH EVENTS MENTIONED ABOVE.
+DID WELL WITH MSO4 4 MG,
+NO BENZOS THIS SHIFT.
+CALLING OUT TO STAFF, ANXIOUS.
+
+A/P- PT WITH RESP DISTRESS/PRESUMED PULM EDEMA- RESPONDING WELL TO DIURESIS/DECREASING PRELOAD.
+    PT WITH BLEEDING ISSUES REQUIRING HEPARIN ON HOLD FOR INCREASING INR.
+
+CONTINUE TO CLOSELY MONITOR HEMODYNAMICS- INCREASE CAPTOPRIL AS TOLERATED. DISCUSS B BLOCKER DOSING.
+WATCH FOR MORE BLEEDING- CHECK ANOTHER HCT THIS AM. DISCUSS ANTICOAG PLAN THIS AM.
+CLOSELY WATCH RESP STATUS, ANY NEED FOR FURTHER DIURESIS.
+DISCUSS ANXIETY ISSUE. ? ADD BENZOS.
+REPLETE LYTES AS NEEDED.
+
+",,
+24924,4331,30948,0,3498-02-06 18:05:00 EST,3498-02-06 18:29:00 EST,492,"N",1,"Nursing/Other","CCU NURSING PROGRESS NOTE","
+CCU NURSING PROGRESS NOTE
+S.  ""HELP ME.. I'M HAVING THE WORST PAIN OF MY LIFE!!!""
+
+O.  SEE CAREVUE FLOWSHEET FOR COMPLETE VS, OBJECTIVE DATA
+
+CV:  HR 100-110 ST IN AM, DECREASED TO 80-90 SR AFTER IV NTG WEANED OFF, NO VEA, K+ 3.8 - 40MEQ PO GIVEN, REPEAT PND, BP 106-140/60-70 ON IV NTGIN AM - CAPTOPRIL INCREASED TO 100MG - GIVEN AT 8AM, IV NTG SLOWLY WEANED OFF W/BP 100-120'S/, 5PM, CAPTOPRIL 75 MG GIVEN - 6PM BP DOWN TO 80'S/ WHILE ASLEEP, 103/ WHEN WAKENED
+3 EPISODES PAIN TODAY:  7 AM - C/O R SHOULDER PAIN, L 5TH ICS PAIN - MSO4 1MG X 2 W/RELIEF; 2PM C/O SAME PAIN W/SOB, SATS 96% GOOD ABG BUT BILAT RALES/EXP WHEEZES, EKG W/O CHANGES, RECEIVED MSO4 1MG X 2, 40 IV LASIX - ~500CC U/O W/EVENTUAL IMPROVEMENT; 4PM AGAIN C/O WORSE PAIN IN HER LIFE - R ARM, L 5 TH ICS, RECEIVED ATIVAN 0.5MG IV X2, MSO4 1MG IV W/GOOD EFFECT, NOW ASLEEPING COMFORTABLY
+CPK IN AM 80 - REPEAT PND
+
+R GROIN SITE W/PRESSURE DSG IN PLACE THROUGHOUT DAY - NOTED RED BLOOD UNDER DSG ~ 2PM - OOZING FROM BOTH A AND V PUNCTURE SITES, MANUAL PRESSURE HELD X 10 MIN UNTIL HEMOSTASIS, PRESSURE DSG REAPPLIED, FEET BILAT WARM TODAY, PULSES PALPABLE
+
+HEPARIN OFF SINCE 4 AM - REPEAT COAGS AT 10 AM - PT/PTT/INR= 18.5/63.4/2.4, REPEAT SENT AT 6PM, HEPARIN REMAINS OFF
+
+RESP:  2PM SOB W/CP AS NOTED ABOVE,LASIX W/FAIR RESPONSE, NOW ON 3L N/C W/SATS 95-97%, BBR, RR 20'S 
+
+GI:  DRINKING ICE WATER/ICE CHIPS, TAKING FEW BITES SOLIDS BUT C/O NOT HUNGRY, NO STOOL THIS SHIFT
+
+HEME:  6PM HCT PND
+
+ENDOCRINE:  RECEIVING 4U NPH BID, FS 165 X 2 NO REGULAR INSULIN COVERAGE PER SS
+
+GU: FOLEY DRAINING CLEAR YELLOW URINE - NEGATIVE THIS SHIFT
+
+MS: PT AWAKE ALERT AND ORIENTED BUT VERY POOR SHORT TERM MEMORY, INCREASED ANXIETY W/ C/O PAIN
+
+SOCIAL: SON IN TO VISIT TODAY
+
+A:  PAIN - ? CARDIAC IN ORIGIN VS MUSCULO-SKELETAL FROM MVA VS OTHER ETIOLOGY, INCREASED ANXIETY W/PAIN - ATIVAN W/GOOD EFFECT
+CHF - RESPONDING TO LASIX; INR REMAINS ELEVATED 
+
+P: MONITOR HR/BP - ASSESS FLUID STATUS, MONITOR R GROIN SITE, PULSES, ASSESS PAIN - RX PER HOUSE STAFF, CONTINUE SUPPORTIVE CARE/EMOTIONAL SUPPORT FOR ANXIETY/ATVAN PER HO.
+",,
+24924,4331,30948,0,3498-02-07 05:08:00 EST,3498-02-07 05:23:00 EST,103,"N",1,"Nursing/Other","CCU NSG PROGRESS NOTE 7P-7A/ S/P MI/CHF; COPD","
+CCU NSG PROGRESS NOTE 7P-7A/ S/P MI/CHF; COPD
+
+S- "" I NEED SOME WATER I AM SO DRY""
+
+O- SEE FLOWSHEET FOR OBJECTIVE DATA.
+
+CV- HEMODYNAMICS WELL CONTROLLED ON 12.5 LOPRESSOR BID/100 CAPTOPRIL TID. GIVEN LOWER DOSE OF 75 MG AT 12 AM, D/T LARGE DIURESIS AND BP- 110/ NO DROP IN BP WITH THAT DOSE.
+CUURENTLY- BP- 108/42- 138/55. HR- 78-92 SR , ST.
+NO VEA.
+SOME LEFT RIB PAIN- WORSE WITH PRESSING ON SITE AS WITH YESTERDAY'S EPISODES- TX WITH MSO4/ATIVAN WITH SUCCESS.
+CPK'S REMAIN (-) . R/O FROM 3/3 EPISODES OF RESP DISTRESS/CHEST/RIB PAIN.
+
+RESP- PT CONTINUES TO RECEIVE INHALER/NEB TREATMENTS AS ORDERED.
+CONTINUE ON PREDNISONE 60 MG, LASIX PRN.
+I/O (-) 2500CC AS OF MIDNIGHT, SO NO FURHTER LASIX GIVEN THIS SHIFT.
+CONTINUE WITH EXP WHEEZE OCCASIONALLY AND CX [**12-9**] RT>LEFT.
+DESATS WITH O2 OFF TO MID 80'S. WITH 2 L NP ON, AND SLEEPING WITH NO ANXIETY, PT WITH O2 SATS- 97-98%.
+
+ID- AFEBRILE- CONTINUES ON PO LEVO FOR ?R/O PNEUMONIA.
+NO SOURCE AS OF YET BY REPORT.
+
+GI- TAKING SOME SANDWICH, LIX WITHOUT DIFFICULTY. NOT MUCH APPETITE.
+NO STOOL THIS SHIFT.
+PROTONIX Q D. REMAINS ON BID NPH AND QID REG INSULIN COVERAGE.
+
+HEME- HCT DRIFTING DOWN TO 28.7 FROM 30 [**2-6**] AM, AFTER MULTIPLE BLEEDS FROM IV SITE/CATH SITE IN SETTING OF ELEVATED INR/PTT ON HEPARIN [**2-6**] NITES/DAYS.
+CURRENTLY, HEPARIN REMAINS OFF UNTIL INR COMES DOWN TO 2.0 AND NO FURTHER BLEEDING FROM ANY SITES.
+TOLERATING 1 U PRBC WITHOUT ISSUE.
+
+GU- GOOD UO WITHOUT LASIX THIS SHIFT- 100CC/HOUR.
+
+MS- PT VERY ANXIOUS,IN MUCH NEED OF EMOTIONAL SUPPORT. 
+ATIVAN 0.5 MG X 3 DOSES OVER 12 HOURS WITH EXCELLENT RESULTS- 
+MUCH LESS ANXIETY, BETTER CONTROLLED, AND THEREFORE, LESS C/O SHORTNESS OF BREATH AND PANIC THIS SHIFT.
+TREATED X 2 WITH 0.5 MG MSO4 FOR C/O RIB PAIN AS WELL.
+CURRENTLY RESTING, EASY TO AWAKEN AND ALERT AND ORIENTED X 3.
+GRANDDAUGHTER (SPOKESPERSON)CALLED TO GET UPDATE LAST EVE.
+
+A/P- PT S/P STENT LAD/MI/COPD EXACERBATION- CURRENTLY REMAINS WITHOUT RESP DISTRESS ON CURRENT MEDICAL REGIMEN,S/P DIURESIS.
+
+    - AFEBRILE ON CURRENT ANTIBX REGIMEN.
+
+     -ALTERED COMFORT/COPING:ANXIETY- WELL CONTROLLED ON CURRENT PRN ATIVAN DOSING.
+
+CONTINUE TO CLOSELY FOLLOW HEMODYNAMICS- DISCUSS B BLOCKER/ACE DOSING THIS AM.
+OBSERVE FOR ANY POSSIBLE ISCHEMIA.
+CONTINUE TO WATCH RESP STATUS CLOSELY- DIURESIS AS NEEDED.
+CONTINUE STEROIDS/ANTIBX/BRONCHODILATORS AS ORDERED.
+COMFORT/SUPPORT/PAIN CONTROL AS NEEDED FOR PT.
+
+ONCE RESP STATUS IS LESS LABILE= D/C ALINE AND C/O TO FLOOR ONCE MEDICALLY APPROPRIATE.
+KEEP PT AND FAMILY AWARE OF PLAN OF CARE.
+",,
+24924,4331,30948,0,3498-02-07 06:41:00 EST,3498-02-07 06:48:00 EST,487,"N",1,"Nursing/Other","Respiratory care:","
+Respiratory care:
+Patient followed for albuterol/atrovent nebs PRN. Patient treated at 8pm and 12am with albuterol 2.5mg and 0.5cc atrovent via svn.  BS: Crackles at bases with occational forced expiratory wheezes. HR 90's RR: 24. BS Post treatment unchanged.
+Plan: Will follow with nebs/mdi's as ordered.
+",,
+24924,4331,30948,0,3498-02-07 13:36:00 EST,3498-02-07 13:52:00 EST,187,"N",1,"Nursing/Other",,"
+
+80 YR OLD ADMITTED FROM REHAB C PNEUMONIA AND MI [**2-3**] . STENT TO LAD. SHE HAD BEEN RECOUPERATING AT REHAB SP MV ACCIDENT [**11-6**] IN WHICH SHE SUFFERED A R FX TIBIA, R FX SHOULDER . 
+
+PMH COPD,ASTHMA,DM.
+
+CV SR 80S TO 90S NO ECTOPY. LOPRESSER BEING INCREASED . BP 100 TO 140/47. TOL CAPTOPRIL 100 MG . CATH SITE C/D . PULSES BY DOPPLER. CO L RIB PAIN RX C PRN MSO4 .NEG 2500, ABLE TO HAVE UP TO 2L PO . 
+
+RESP BS WHEEZES IN BASES, MDI, INHALERS . SAT 98 3L NP . CONTINUES ON STEROIDS.LEVOQUIN FINISHED .
+
+TAKING LIGHT DIET.PASIING BLACK LIQUID STOOL QUIAC POS ,HCT 30 POST [**2-6**] TX . BS 200 TO 350, 4 U NPH BID ,COVERED C SSRI.
+
+HUO 100CC ,NO LASIX TODAY .
+
+DUODERM ON SM ABRASION ON BUTTOCK .
+
+PT BECOMES ANXOIUS AND AGITATED, RESPONDS WELL TO ATIVAN .5 PO . ORIENTED ,COOPERATIVE .
+
+CARDIAC STABLE ,TOL MEDS.RESP STATUS IMPROVING .
+
+MDI,NEBS PRN
+MED PRN PAIN 
+ENCOURAGE PO,LIBERALIZE FLUIDS. 
+
+
+",,

@@ -1,0 +1,641 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+24935,5271,,,3058-11-05 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+
+Admission Date:  [**3058-11-5**]     Discharge Date:  [**3058-11-12**]
+
+Date of Birth:   [**2989-12-7**]     Sex:  M
+
+Service:  TRAUMA [**Last Name (un) **]
+
+ADDENDUM:  This is an addendum to the Discharge Summary
+dictated on [**3058-11-8**].
+
+Initial disposition plan was to send Mr. [**Known patient lastname 6382**] to
+rehabilitation in order to receive Physical Therapy; however,
+it took some time to find a rehabilitation slot for this
+gentleman.  Over the next several days, Physical Therapy
+continued to evaluate and treat the patient and found his
+ambulation improved such that he did not require inpatient
+rehabilitation.  In conjunction with case management,
+Physical Therapy felt that discharge to home with home
+Physical Therapy and Occupational Therapy would be
+appropriate for him.
+
+In the interim, Addiction Services came to see the patient.
+They spoke with him extensively about alcohol treatment
+programs.  Mr. [**Known patient lastname 6382**] was amenable to seeking treatment for
+his alcohol abuse, however, his insurance did not cover
+inpatient programs in his home area.
+
+Addiction Services found him several day program options
+close to his home that would be suitable for him.  He was
+given the numbers to contact said programs.
+
+On the morning of [**11-11**], the patient developed a fever
+to 101.7 F.; at that time his blood pressure was 140/60;
+heart rate 94; respiratory rate 18.  He remained awake and
+alert with clear breath sounds.  The only change in his
+examination was asymmetric one to two plus pitting edema of
+the left lower extremity with tenderness anteriorly over the
+tibia.  There was no posterior tenderness or cords palpable.
+He had palpable pulses, dorsalis pedis and posterior tibial
+in that foot.
+
+To work-up his fever, blood cultures as well as urinalysis
+and urine cultures were taken.  Urinalysis had negative
+nitrite and leukocyte esterase and did not indicate urinary
+tract infection.  CBC showed a normal white blood cell count
+of 6.0.  Chest x-ray was negative for infiltrate to suggest a
+pneumonia.
+
+He had a left ankle film that was taken the night before
+which showed no fracture or dislocation or effusion in the
+joint.  He was given a gram of Ancef to cover him for
+cellulitis.  A rheumatology consultation was called in case
+this represented a flare of his gout in the ankle and lower
+extremity Dopplers were ordered which were negative for deep
+vein thrombosis.
+
+Rheumatology came to see the patient and felt that this was
+not joint involved, but rather soft tissue inflammation.  He
+was continued on Ancef until the point of discharge, at which
+point he was switched to Keflex for presumed cellulitis as
+the source of the fever.
+
+Cultures remained no growth to date at the time of discharge.
+
+Other laboratory work taken on the 16th showed an apparent
+decrease in hematocrit from 29 to 25.  However, this was
+shown to be laboratory error.  Repeat testing showed a
+hematocrit of 29, stable for the previous five days.  His
+coagulations remained normal.
+
+The patient was discharged the following day on [**11-12**],
+to home, with services provided, including Physical Therapy
+and Occupational Therapy.  He was placed on a ten day course
+of Keflex for presumed left lower extremity cellulitis and
+given a prescription for Vioxx for joint pain which he has
+taken previously.
+
+He was afebrile and ambulatory at the time of discharge and
+tolerating p.o. well.
+
+He was sent out with the recommendation to follow-up with
+Neurosurgery Clinic for his history of traumatic subarachnoid
+hemorrhage in two weeks and given the number for a clinic
+appointment.
+
+He was informed that he had a probable right shoulder rotator
+cuff tear and would need MRI as an outpatient to follow-up
+for that injury.  He declined to have MRI while in the
+hospital and therefore will need outpatient follow-up.
+
+He has an Orthopedic doctor in his home town and would prefer
+to follow-up with that doctor.  He left with information to
+follow-up with outpatient day programs for alcohol treatment.
+Prior to his leaving, I spoke with primary care physician,
+[**Last Name (NamePattern4) **]. [**Known patient firstname **] [**Last Name (NamePattern1) 3700**], [**Location (un) 6383**], [**State 427**], with
+[**Hospital **] Medical Group.  I explained his hospital course and
+explained to both the patient and Dr. [**First Name (STitle) 3700**] that he would
+need a follow-up appointment with his primary care physician
+next week.
+
+We discussed the need to re-examine the left lower extremity
+to establish resolution of the cellulitis.  We also discussed
+his relative anemia.  The patient has previously received
+extensive work-up for anemia and his primary care physician
+feels that that number is both consistent with his prior
+results and indicative of liver disease from ETOH
+consumption.
+
+The patient was instructed to continue his home medication
+regimen with the exception of Coumadin.  I explained to him
+that he needed to not take his Coumadin for at least the next
+six weeks and then be re-evaluated by his physician prior to
+restarting that medication secondary to his traumatic
+subarachnoid.
+
+He was sent home with a prescription for Keflex 500 four
+times a day for ten days as well as Vioxx 12.5 p.o. q. day.
+
+
+
+                          [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 105**], M.D.  [**MD Number 106**]
+
+Dictated By:[**Last Name (NamePattern1) 6384**]
+
+MEDQUIST36
+
+D:  [**3058-11-13**]  18:44
+T:  [**3058-11-14**]  21:41
+JOB#:  [**Job Number 6385**]
+Signed electronically by: DR. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **]
+ on: SUN [**3058-11-28**] 6:34 PM
+(End of Report)
+
+
+",,
+24935,5271,,,3058-11-05 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3058-11-5**] 8:02 PM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 7718**]
+     Reason: S/P FALL,ETOH,R/O BLEED
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      68 year old man s/p fall on coumadin. +EtOH
+     REASON FOR THIS EXAMINATION:
+      eval hemorrhage
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: 68 year old man who is intoxicated and fell down stairs.  He is on
+     Coumadin.  Evaluate for intracranial hemorrhage.  He has a known subarachnoid
+     hemorrhage seen at an outside hospital.
+     
+     TECHNIQUE: Noncontrast head CT.
+     
+     FINDINGS: There is high density materal interdigitating between the sulci of
+     the left temporoparietal lobe and layering in the sylvian fissure compatible
+     with subarachnoid hemorrhage.  There is a small amount of interventricular
+     blood in the left occipital [**Doctor Last Name 79**].  Additionally there is a small amount of
+     high attenuation material along the epindymal layer of the left lateral
+     ventricle seen on image 18.  This may be within the posterior portion of the
+     corpus callosum.  The ventricles are not dilated.  The sulci are not effaced.
+     There is no evidence of herniation.
+     
+     BONE WINDOWS: There is no skul fracture.  The paranasal sinuses are normally
+     pneumatized.
+     
+     IMPRESSION: Subarachnoid hemorrhage and interventricular hemorrhages as
+     described above.  No evidence of skull fracture.
+
+",,
+24935,5271,,,3058-11-05 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3058-11-5**] 8:01 PM
+     TRAUMA #2 (AP CXR & PELVIS PORT)                                Clip # [**Clip Number (Radiology) 7717**]
+     Reason: eval for injury
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      68 year old man s/p fall on coumadin. +EtOH
+     REASON FOR THIS EXAMINATION:
+      eval for injury
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Status post trauma.
+     
+     PORTABLE AP CHEST X-RAY:  Film is limited secondary to overlying trauma board.
+     There is prominence of the cardiac and mediastinal contours, which may reflect
+     supine technique and reduced lung volumes. Recommend clinical correlation. The
+     lungs are grossly clear. There are no evidence of fracture or pneumothorax.
+     
+     AP PELVIS: The study is quite limited by overlying trauma board and marked
+     patient rotataion. Patient is status post left total hip replacement. There is
+     no gross evidence of fracture or dislocation. The superior aspect of the
+     sacrum and iliac wings are not included on the film.
+     
+
+",,
+24935,5271,,,3058-11-05 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3058-11-5**] 8:04 PM
+     CT C-SPINE W/O CONTRAST; CT RECONSTRUCTION                      Clip # [**Clip Number (Radiology) 7719**]
+     Reason: S/P FALL,ETOH,R/O FX
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      68 year old man s/p fall on coumadin. +EtOH
+     REASON FOR THIS EXAMINATION:
+      eval fx
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Intoxicated elderly male who fell down stairs. Evaluate for
+     cervical spine fracture.
+     
+     TECHNIQUE: Axial images were performed through the cervical spine.
+     Sagittal and  coronal reformatted images were obtained.
+     
+     FINDINGS:  No cervical spine fracture is seen. There is relatively normal
+     alignment of the cervical spine. There is extensive degenerative disc disease
+     involving C3-4, C4-5, C5-6, C6-7 and C7-T1 with endplate sclerosis and loss of
+     disc height at all of these levels. There is cervical spondylosis.
+     Additionally, there is anterior osteophytes at all these levels. There is no
+     prevertebral soft tissue swelling. The soft tissues of the neck are symmetric.
+     There are coarse calcifications within the carotid bifurcation. No evidence of
+     pneumothorax in the pulmonary apices.
+     
+     IMPRESSION:  No cervical spine fracture. Degenerative changes as described. If
+     the patient has persistent pain or if there is concern for ligamentous injury,
+     an MR [**First Name (Titles) 1328**] [**Last Name (Titles) 7720**] imaging should be performed.
+
+",,
+24935,5271,,,3058-11-05 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3058-11-5**] 8:04 PM
+     CT C-SPINE W/O CONTRAST; CT RECONSTRUCTION                      Clip # [**Clip Number (Radiology) 7719**]
+     Reason: S/P FALL,ETOH,R/O FX
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      68 year old man s/p fall on coumadin. +EtOH
+     REASON FOR THIS EXAMINATION:
+      eval fx
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Intoxicated elderly male who fell down stairs. Evaluate for
+     cervical spine fracture.
+     
+     TECHNIQUE: Axial images were performed through the cervical spine.
+     Sagittal and  coronal reformatted images were obtained.
+     
+     FINDINGS:  No cervical spine fracture is seen. There is relatively normal
+     alignment of the cervical spine. There is extensive degenerative disc disease
+     involving C3-4, C4-5, C5-6, C6-7 and C7-T1 with endplate sclerosis and loss of
+     disc height at all of these levels. There is cervical spondylosis.
+     Additionally, there is anterior osteophytes at all these levels. There is no
+     prevertebral soft tissue swelling. The soft tissues of the neck are symmetric.
+     There are coarse calcifications within the carotid bifurcation. No evidence of
+     pneumothorax in the pulmonary apices.
+     
+     IMPRESSION:  No cervical spine fracture. Degenerative changes as described. If
+     the patient has persistent pain or if there is concern for ligamentous injury,
+     an MR [**First Name (Titles) 1328**] [**Last Name (Titles) 7720**] imaging should be performed.
+
+",,
+24935,5271,,,3058-11-05 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3058-11-5**] 8:04 PM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 7721**]
+     CT 150CC NONIONIC CONTRAST
+     Reason: eval solid organ injury, FF
+     Field of view: 50 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      68 year old man s/p fall on coumadin. +EtOH
+     REASON FOR THIS EXAMINATION:
+      eval solid organ injury, FF
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: 68 year old man who is intoxicated and fell down the stairs.  He
+     is on Coumadin.
+     
+     TECHNIQUE: Helically aquired contiguous axial images were obtained from the
+     lung bases through pubic symphysis after IV contrast.
+     
+     150 cc Optiray were administered due to the trauma protocol.
+     
+     CT ABDOMEN WITH CONTRAST: There is minimal atelectasis at the lung bases.
+     There is cardiomegaly.  There is streak artifact slightly limiting the
+     evaluation of the liver and spleen.  There is no evidence of perisplenic or
+     perihepatic hematoma.  There is no solid organ laceration.  The kidneys,
+     adrenals, pancreas and gallbladder are within normal limits.  The upper bowel
+     loops appear normal.  There is no intraabdominal free fluid or free air.
+     
+     CT PELVIS WITH CONTRAST: The unopacified bowel loops appear normal.  There is
+     no pelvic free fluid.  The prostate has coarse calcifications.  The urinary
+     bladder is within normal limits.  Incidental note is made of a coarse
+     calcification within the left buttock, presumably an injection granuloma or
+     related to prior trauma.
+     
+     On bone windows no acute fractures are seen.  There are old healed left lower
+     rib fractures.
+     
+     IMPRESSION: No evidence of traumatic injury in the abdomen or pelvis.
+
+",,
+24935,5271,,,3058-11-05 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3058-11-5**] 8:04 PM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 7721**]
+     CT 150CC NONIONIC CONTRAST
+     Reason: eval solid organ injury, FF
+     Field of view: 50 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      68 year old man s/p fall on coumadin. +EtOH
+     REASON FOR THIS EXAMINATION:
+      eval solid organ injury, FF
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: 68 year old man who is intoxicated and fell down the stairs.  He
+     is on Coumadin.
+     
+     TECHNIQUE: Helically aquired contiguous axial images were obtained from the
+     lung bases through pubic symphysis after IV contrast.
+     
+     150 cc Optiray were administered due to the trauma protocol.
+     
+     CT ABDOMEN WITH CONTRAST: There is minimal atelectasis at the lung bases.
+     There is cardiomegaly.  There is streak artifact slightly limiting the
+     evaluation of the liver and spleen.  There is no evidence of perisplenic or
+     perihepatic hematoma.  There is no solid organ laceration.  The kidneys,
+     adrenals, pancreas and gallbladder are within normal limits.  The upper bowel
+     loops appear normal.  There is no intraabdominal free fluid or free air.
+     
+     CT PELVIS WITH CONTRAST: The unopacified bowel loops appear normal.  There is
+     no pelvic free fluid.  The prostate has coarse calcifications.  The urinary
+     bladder is within normal limits.  Incidental note is made of a coarse
+     calcification within the left buttock, presumably an injection granuloma or
+     related to prior trauma.
+     
+     On bone windows no acute fractures are seen.  There are old healed left lower
+     rib fractures.
+     
+     IMPRESSION: No evidence of traumatic injury in the abdomen or pelvis.
+
+",,
+24935,5271,,,3058-11-05 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3058-11-5**] 8:04 PM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 7721**]
+     CT 150CC NONIONIC CONTRAST
+     Reason: eval solid organ injury, FF
+     Field of view: 50 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      68 year old man s/p fall on coumadin. +EtOH
+     REASON FOR THIS EXAMINATION:
+      eval solid organ injury, FF
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: 68 year old man who is intoxicated and fell down the stairs.  He
+     is on Coumadin.
+     
+     TECHNIQUE: Helically aquired contiguous axial images were obtained from the
+     lung bases through pubic symphysis after IV contrast.
+     
+     150 cc Optiray were administered due to the trauma protocol.
+     
+     CT ABDOMEN WITH CONTRAST: There is minimal atelectasis at the lung bases.
+     There is cardiomegaly.  There is streak artifact slightly limiting the
+     evaluation of the liver and spleen.  There is no evidence of perisplenic or
+     perihepatic hematoma.  There is no solid organ laceration.  The kidneys,
+     adrenals, pancreas and gallbladder are within normal limits.  The upper bowel
+     loops appear normal.  There is no intraabdominal free fluid or free air.
+     
+     CT PELVIS WITH CONTRAST: The unopacified bowel loops appear normal.  There is
+     no pelvic free fluid.  The prostate has coarse calcifications.  The urinary
+     bladder is within normal limits.  Incidental note is made of a coarse
+     calcification within the left buttock, presumably an injection granuloma or
+     related to prior trauma.
+     
+     On bone windows no acute fractures are seen.  There are old healed left lower
+     rib fractures.
+     
+     IMPRESSION: No evidence of traumatic injury in the abdomen or pelvis.
+
+",,
+24935,5271,,,3058-11-05 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3058-11-5**] 8:45 PM
+     SHOULDER (AP, NEUTRAL & AXILLARY) TRAUMA RIGHT; HUMERUS (AP & LAT) RIGHTClip # [**Telephone/Fax (1) 7724**]
+     Reason: eval for fx/dislocation                                     
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      68 year old man s/p fall +LOC, right knee hematoma                              
+     REASON FOR THIS EXAMINATION:
+      eval for fx/dislocation                                                         
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Status post fall with pain.
+     
+     RIGHT SHOULDER: Two views of the shoulder were obtained. There is no
+     dislocation. The bones are diffusely demineralized. No fractures.
+     
+     RIGHT HUMERUS:  AP and lateral views were obtained. No fracture. No cortical
+     irregularities.
+
+",,
+24935,5271,,,3058-11-05 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3058-11-5**] 8:45 PM
+     SHOULDER (AP, NEUTRAL & AXILLARY) TRAUMA RIGHT; HUMERUS (AP & LAT) RIGHTClip # [**Telephone/Fax (1) 7724**]
+     Reason: eval for fx/dislocation                                     
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      68 year old man s/p fall +LOC, right knee hematoma                              
+     REASON FOR THIS EXAMINATION:
+      eval for fx/dislocation                                                         
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Status post fall with pain.
+     
+     RIGHT SHOULDER: Two views of the shoulder were obtained. There is no
+     dislocation. The bones are diffusely demineralized. No fractures.
+     
+     RIGHT HUMERUS:  AP and lateral views were obtained. No fracture. No cortical
+     irregularities.
+
+",,
+24935,5271,,,3058-11-05 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3058-11-5**] 8:44 PM
+     KNEE (AP, LAT & OBLIQUE) RIGHT                                  Clip # [**Clip Number (Radiology) 7723**]
+     Reason: eval for fx/dislocation                                     
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      68 year old man s/p fall +LOC, right knee hematoma                              
+     REASON FOR THIS EXAMINATION:
+      eval for fx/dislocation                                                         
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Status post fall with pain.
+     
+     RIGHT KNEE:  AP and lateral views were obtained. There is marked pre-patellar
+     soft tissue swelling.
+     
+     While there is no definite fracture, there is an extra calcific density
+     projecting over the medial compartment on the frontal vew, not clearly related
+     to chondrocalcinosis or osteophyte formation. Subtle fracture here cannot be
+     excluded.
+     
+     There is no evidence of dislocation.
+     
+     Clinical correlation is recommended with additional imaging as clinically
+     indicated. 
+
+",,
+24935,5271,,,3058-11-05 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3058-11-5**] 8:43 PM
+     T-SPINE; L-SPINE (AP & LAT)                                     Clip # [**Clip Number (Radiology) 7722**]
+     Reason: eval for fx                                                 
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      68 year old man s/p fall +LOC                                                   
+     REASON FOR THIS EXAMINATION:
+      eval for fx                                                                     
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Status post fall with pain.
+     
+     THORACIC SPINE AND LUMBAR SPINE:  AP and lateral views were obtained. The
+     uppermost thoracic spine is not included. There is no evidence of acute
+     fracture or dislocation. Multilevel degenerative changes are noted, including
+     calcification in the anterior longitudinal ligament of the thoracic spine.
+
+",,
+24935,5271,,,3058-11-05 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3058-11-5**] 8:43 PM
+     T-SPINE; L-SPINE (AP & LAT)                                     Clip # [**Clip Number (Radiology) 7722**]
+     Reason: eval for fx                                                 
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      68 year old man s/p fall +LOC                                                   
+     REASON FOR THIS EXAMINATION:
+      eval for fx                                                                     
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Status post fall with pain.
+     
+     THORACIC SPINE AND LUMBAR SPINE:  AP and lateral views were obtained. The
+     uppermost thoracic spine is not included. There is no evidence of acute
+     fracture or dislocation. Multilevel degenerative changes are noted, including
+     calcification in the anterior longitudinal ligament of the thoracic spine.
+
+",,
+24935,5271,30960,,3058-11-06 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3058-11-6**] 11:39 AM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 7725**]
+     Reason: evaluate for ongoing SAH.                                   
+     Admitting Diagnosis: SUBARACHNOID HEMORRHAGE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       68 year old man s/p fall on coumadin. +EtOH                                    
+     REASON FOR THIS EXAMINATION:
+      evaluate for ongoing SAH.                                                       
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Follow up intracranial hemorrhage.
+     
+     TECHNIQUE: Noncontrast head CT.
+     
+     COMPARISONS: [**3058-11-5**]
+     
+     FINDINGS: There has been no significant change compared to the prior study.
+     Again demonstrated subarachnoid hemorrhage within the left temporal parietal
+     region extending into the sylvian fissure. The small amount of
+     intraventricular blood within the left occipital [**Doctor Last Name 79**] is unchanged. There is
+     loss of the normal sulcation within the left temporal and parietal lobes
+     consistent with edema.  The degree of edema is unchanged compared to the prior
+     study.  There is no shift of normally midline structures.  The ventricles are
+     not dilated.  Again demonstrated is a tiny hemorrhage within the midline
+     adjacent to the septum pellicudum likely within the posterior portion of the
+     corpus callosum.  This is unchanged in size. The area of increased attenuation
+     within the left temporal lobe extends into the white matter regions and may
+     represent intraparenchymal contusion.
+     
+     The osseous structures and visualized paranasal sinuses are unremarkable.
+     
+     IMPRESSION:  There is no significant change in the appearance of the left
+     temporal parietal subarachnoid hemorrhage.  There is no change in the size of
+     the intraventricular hemorrhage.  There is mild edema within the left temporal
+     and parietal lobes with loss of the normal sulcation. The appearance is
+     unchanged compared with [**3058-11-5**].
+
+",,
+24935,5271,30960,0,3058-11-06 19:11:00 EST,3058-11-06 19:13:00 EST,3063,"N",53,"Nursing/Other","Phone contact with pt's daughter","
+Phone contact with pt's daughter
+Pt's daughter called  to get information on pt.  Daughter expressed concern about pt's drinking and accidents.  Daughter would like to talk to SW about EtOH treatment options for her dad.  Daughter's home phone ([**Telephone/Fax (1) 5312**], cell phone # ([**Telephone/Fax (1) 5313**].  Daughter will probably visit pt tomorrow.   [**First Name8 (NamePattern2) 4688**] [**Last Name (NamePattern1) 5314**], RN
+",,
+24935,5271,,,3058-11-10 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3058-11-10**] 3:41 PM
+     ANKLE (AP, MORTISE & LAT) LEFT                                  Clip # [**Clip Number (Radiology) 7726**]
+     Reason: s/p fall, r/o fx.                                           
+     Admitting Diagnosis: SUBARACHNOID HEMORRHAGE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      68 year old man                                                                 
+     REASON FOR THIS EXAMINATION:
+      s/p fall, r/o fx.                                                               
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATIONS:   Status post fall, r/o fracture.
+     
+     FINDINGS:   Left ankle, AP, mortise and lateral views were obtained.
+     
+     No fracture or dislocation is detected.  Inferior and posterior calcaneal spur
+     noted.
+     
+     IMPRESSION:   No fracture detected.
+
+",,
+24935,5271,,,3058-11-11 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3058-11-11**] 1:30 PM
+     CHEST (PA & LAT)                                                Clip # [**Clip Number (Radiology) 7727**]
+     Reason: r/o infiltrate                                              
+     Admitting Diagnosis: SUBARACHNOID HEMORRHAGE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      68 year old man with fever to 101.7 today                                       
+     REASON FOR THIS EXAMINATION:
+      r/o infiltrate                                                                  
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CHEST TWO VIEWS.
+     
+     INDICATION:  68 year old man with fever.
+     
+     COMMENTS:  PA and lateral chest were reviewed.  No previous study is available
+     for comparison.
+     
+     The lungs are clear.  The heart is mildly enlarged.  There is mild tortuosity
+     of the thoracic aorta.
+     
+     No focal opacity indicating pneumonia is identified.
+     
+     IMPRESSION:  No active lung disease without evidence for pneumonia.
+
+",,
+24935,5271,,,3058-11-11 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3058-11-11**] 1:43 PM
+     UNILAT LOWER EXT VEINS LEFT                                     Clip # [**Clip Number (Radiology) 7728**]
+     Reason: LEFT FOOT SWELLING PLEASE CHECK FOR DVT
+     Admitting Diagnosis: SUBARACHNOID HEMORRHAGE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      68 year old man with                                                            
+     REASON FOR THIS EXAMINATION:
+      r/o DVT                                                                         
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Left lower extremity swelling.
+     
+     LEFT LOWER EXTREMITY VENOUS ULTRASOUND:  [**Doctor Last Name **]-scale and Doppler sonograms of
+     the left common femoral, superficial femoral and popliteal veins were
+     performed.  Normal flow, compressibility, wave forms and augmentation are
+     demonstrated.  No intraluminal thrombus is seen.
+     
+     IMPRESSION:  No evidence of deep venous thrombosis.
+     
+
+",,
+24935,5271,,,3058-11-11 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+",,

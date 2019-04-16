@@ -1,0 +1,1135 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+24295,8544,,,3342-03-11 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+ 
+ 
+ 
+Admission Date:  [**3342-3-11**]              Discharge Date:   [**3342-3-27**]
+ 
+Date of Birth:  [**3253-9-12**]             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Patient recorded as having No Known Allergies to Drugs
+ 
+Attending:[**First Name3 (LF) 766**] 
+Addendum:
+Mr. [**Known patient lastname 5103**] was kept one additional day for a follow up CT head 
+and EEG per neurology request for change in MS over a the period 
+of one weeks time. His head CT showed resolving areas of 
+hemorrhage without any evidence of rebleed. An EEG was obtained 
+on the day of discharge. The results will be faxed to the rehab 
+facility once they are in. The patient remained afebrile and 
+without leukocytosis for >5 days prior to discharge. Blood 
+cultures have all been negative. The patient will be discharged 
+to a rehab facility today after his EEG. He has an appointment 
+with Dr. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **] in neurology after discharge. Per neurology 
+the patient's SBP should be kept between 130-160 and his 
+platelets kept above 100k.
+
+Head CT: 1. Evolution of blood products in the area of the right 
+caudate head. No new areas of hemorrhage.
+2. Interval partial opacification of the mastoid air cells.
+.
+WBC 6, HCT 26, pl 133, BUN 26, Cr 0.9, Na 142
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+[**Hospital **] rehab
+ 
+                             [**Name6 (MD) **] [**Last Name (NamePattern4) 780**] MD [**MD Number 781**]
+ 
+Completed by: [**First Name8 (NamePattern2) 1968**] [**Last Name (NamePattern1) 5104**] MD [**MD Number 5105**] [**3342-3-27**] @ 1422
+Signed electronically by: DR. [**First Name8 (NamePattern2) **] [**Name (STitle) **]
+ on: TUE [**3342-3-27**] 6:55 PM
+(End of Report)
+
+
+",,
+24295,8544,,,3342-03-11 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3342-3-11**] 8:57 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 1413**]
+     Reason: eval for tube placement                                     
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      88 year old man with ICB                                                        
+     REASON FOR THIS EXAMINATION:
+      eval for tube placement                                                         
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Evaluate tube placement.
+     
+     COMPARISON:  None.
+     
+     PORTABLE AP CHEST:  Endotracheal tube has been placed and is approximately 4
+     cm from the tip of the carina.  A nasogastric tube is seen traversing below
+     the level of the diaphragm, however, its tip projects off the bottom of the
+     film.  Low lung volumes are noted bilaterally, and cardiomediastinal contours
+     are grossly unremarkable.  The lungs appear clear, and no pneumothorax is
+     seen.
+     
+     IMPRESSION:  Satisfactory placement of endotracheal tube.
+                                                                           
+
+",,
+24295,8544,,,3342-03-11 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+",,
+24295,8544,30178,,3342-03-12 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3342-3-12**] 2:11 PM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 1414**]
+     Reason: eval for interval changes (original films from OSH)         
+     Admitting Diagnosis: INTRACRANIAL HEMORRHAGE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      88 year old man with IVH s/p fall.                                              
+     REASON FOR THIS EXAMINATION:
+      eval for interval changes (original films from OSH)                             
+     CONTRAINDICATIONS for IV CONTRAST:
+      head bleed
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Patient with intraventricular hemorrhage post-fall.  Patient was
+     found in apartment after unknown period of time, possibly days.  Pressure
+     sores found on knees.  Evaluate for interval change.
+     
+     There are no prior studies for comparison.  No outside hospital examinations
+     have been provided.
+     
+     NON-CONTRAST HEAD CT SCAN:  There is a sizeable hemorrhage centered about the
+     right caudate nucleus, measuring up to 4.1 cm in diameter.  The hemorrhage
+     extends into the ventricular system, with hemorrhage expanding the frontal
+     [**Doctor Last Name 79**] of the right lateral ventricle, displacing the septum pellucidum 11 mm
+     leftward. Hemorrhage layers posteriorly within the lateral ventricles. There
+     is a moderate amount of edema surrounding the area of parenchymal hemorrhage.
+     Aside from displacement of the septum pellucidum leftward, other structures do
+     not appear to be displaced.  There is moderate mucosal thickening within the
+     ethmoid air cells, and probable mucus retention cysts within both maxillary
+     antra.  The left mastoid air cells are less pneumatized than the right.
+     Osseous and soft tissue structures are unremarkable.
+     
+     IMPRESSION:  
+     Intraparenchymal hemorrhage centered in the right caudate nucleus head,
+     possibly hypertensive in etiology. Hemorrhage extends into both lateral
+     ventricles. The septum pellucidum is displaced 11 mm leftward.
+     
+     Findings were discussed with Dr. [**Last Name (STitle) 1415**] on the afternoon of [**3342-3-12**].
+     
+
+",,
+24295,8544,30178,,3342-03-12 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3342-3-12**] 2:13 PM
+     CT T-SPINE W/O CONTRAST                                         Clip # [**Clip Number (Radiology) 1418**]
+     Reason: eval for fracture                                           
+     Admitting Diagnosis: INTRACRANIAL HEMORRHAGE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      88 year old man with IVH s/p found down                                         
+     REASON FOR THIS EXAMINATION:
+      eval for fracture                                                               
+     CONTRAINDICATIONS for IV CONTRAST:
+      head bleed
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Patient with intraventricular hemorrhage, found down for unknown
+     period of time, possibly days.  Patient is obtunded and cannot be examined.
+     
+     There are no prior studies for comparison.
+     
+     TECHNIQUE:  Contiguous axial images through the thoracic spine were obtained
+     without IV contrast.  Coronal and sagittal reformatted images were generated.
+     
+     CT OF THE THORACIC SPINE WITHOUT CONTRAST:  No thoracic spine fracture is
+     identified.  The thoracic vertebral body heights and alignment are maintained.
+     The intervertebral disc spaces are narrowed at multiple lower thoracic levels.
+     There is degenerative calcification of the anterior longitudinal ligament.
+     Though CT does not provide intrathecal detail comparable to that of MRI, the
+     central spinal canal appears patent.
+     
+     Endotracheal and nasogastric tubes are in place.  There are patchy dependent
+     opacities of the imaged portions of the lungs. These patchy opacities may
+     reflect atelectasis, aspiration, or pneumonia. There are small-to-moderate
+     pleural effusions layering posteriorly, bilaterally.  There are
+     atherosclerotic calcifications of the thoracic aorta.
+     
+     IMPRESSION:
+     1.  No evidence of thoracic spine fracture or malalignment.
+     2.  Patchy opacities in the dependent portion of the lungs, partially imaged.
+     These may represent areas of atelectasis, aspiration, or pneumonia.  Please
+     correlate clinically.
+     3.  Small-to-moderate bilateral pleural effusions seen layering posteriorly,
+     partially imaged.
+     4.  Atherosclerotic calcifications of the aorta.
+
+",,
+24295,8544,30178,,3342-03-12 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3342-3-12**] 2:12 PM
+     CT L-SPINE W/O CONTRAST                                         Clip # [**Clip Number (Radiology) 1417**]
+     Reason: eval for lumbar spine injury                                
+     Admitting Diagnosis: INTRACRANIAL HEMORRHAGE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      88 year old man with IVH s/p found down                                         
+     REASON FOR THIS EXAMINATION:
+      eval for lumbar spine injury                                                    
+     CONTRAINDICATIONS for IV CONTRAST:
+      head bleed
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Patient with intraventricular hemorrhage found down.  Evaluate
+     for lumbar spine injury.  Patient obtunded.
+     
+     No prior studies for comparison are available.
+     
+     TECHNIQUE:  Contiguous axial images through the lumbar spine were obtained
+     without IV contrast.  Coronal and sagittal reformatted images were generated.
+     
+     CT OF THE LUMBAR SPINE WITHOUT IV CONTRAST:  No fracture of the lumbar spine
+     is identified.  The lumbar vertebral body heights and alignment are
+     maintained.  There is intervertebral disc space narrowing at the L4/5 and
+     L5/S1 interspaces.
+     
+     At L2/3, there is mild-to-moderate central canal stenosis related to bulging
+     of the intervertebral disc and thickening of the ligamentum flavum.
+     
+     At L3/4, thickening of the ligamentum flavum mildly narrows the central canal.
+     
+     At L4/5, there is narrowing of the central canal related to bulging of the
+     intervertebral disc and thickening of the ligamentum flavum.  There are
+     degenerative changes of the right facet joint at this level.
+     
+     At L5/S1, there is no significant central canal stenosis.
+     
+     There are atherosclerotic calcifications of the inferior abdominal aorta and
+     the common iliac arteries.
+     
+     IMPRESSION:
+     1.  No evidence of fracture of the lumbar spine.
+     2.  Degenerative changes of the lower lumbar spine as described.
+     3.  Atherosclerotic calcifications of the abdominal aorta.
+                                                                           
+
+",,
+24295,8544,30178,,3342-03-12 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3342-3-12**] 2:12 PM
+     CT C-SPINE W/O CONTRAST                                         Clip # [**Clip Number (Radiology) 1416**]
+     Reason: eval for fracture s/p fall                                  
+     Admitting Diagnosis: INTRACRANIAL HEMORRHAGE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      88 year old man with IVH s/p fall.                                              
+     REASON FOR THIS EXAMINATION:
+      eval for fracture s/p fall                                                      
+     CONTRAINDICATIONS for IV CONTRAST:
+      head bleed
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Patient with intraventricular hemorrhage post fall.  Patient was
+     found down after unknown period of time, possibly days.  The patient is
+     obtunded and cannot be examined.
+     
+     There are no prior studies for comparison.
+     
+     TECHNIQUE:  Contiguous axial images through the cervical spine were obtained
+     without IV contrast.  Coronal and sagittal reformatted images were generated.
+     
+     CT OF THE CERVICAL SPINE WITHOUT CONTRAST:  No acute cervical spine fractures
+     are identified.  The cervical vertebral body heights and alignment are
+     maintained.  There is intervertebral disc space narrowing especially at C5/6,
+     and to a lesser degree at C6/7.  There are medium-sized anterior osteophytes
+     at these levels.  Though CT does not provide intrathecal detail comparable to
+     that of MR, there is evidence of small-to-moderate disc protrusions at C5/6
+     and C6/7, encroaching upon the spinal cord.
+     
+     There is likely small degenerative calcification of the nuchal ligament at the
+     posterior aspect of the C7 spinous process.  There are atherosclerotic
+     calcifications of the carotid artery bifurcations bilaterally, greater on the
+     left. Endotracheal and nasogastric tubes are in place, without a definite
+     abnormality of the prevertebral soft tissues.
+     
+     IMPRESSION:
+     1.  No acute cervical spine fracture or malalignment.
+     2.  Degenerative changes of the lower cervical spine, greatest at C5/6, as
+     detailed above.
+     3.  Atherosclerotic calcifications of the carotid arteries.
+
+",,
+24295,8544,30178,0,3342-03-12 05:42:00 EST,3342-03-12 06:00:00 EST,7797,"N",74,"Nursing/Other","T/SICU Nursing Admission Note","
+T/SICU Nursing Admission Note
+88 year old male with known history of hypertension and myelodysplasia syndrome on protonix and hytrin who was found down for a questionable 2 days prone on his kitchen floor. At the scene he was alert and oriented, stated he fell while cooking breakfast. He was taken to [**Hospital6 **] where he was found to have an ICH, and was intubated for airway protection and transferred to [**Hospital1 3**] for neurosurgical evaluation. Neurosurgery signed off as non-operative and the patient was admitted under the neurology service to the T/SICU. His son is his next of [**Doctor First Name **] and he is [**Doctor First Name 2358**] from South America, expected to arrive sometime in the evening [**3-12**]. Reportedly the patient has a DNR order at home.
+
+Current ROS/
+Neuro: Not sedated - did receive intubation drugs at OSH and midazolam/fentanyl in the [**Hospital1 3**] ER. Opens eyes to voice / stimulus. Moves all extremities purposefully, right side > left and inconsistently follows commands by moving feet on the bed, however will not follow any other simple commands. Localizes briskly to mild stimulus (light rub to chest or oral care). Right pupil 3mm, left pupil 2mm, both briskly reactive and accomodating to light. Gag, cough, corneal reflexes intact. Was loaded with dilantin at [**Hospital3 **] but not ordered here. Bedrest/logroll/c-collar
+
+Pain: Appears comfortable when not stimulated, no evidence of pain.
+
+Resp: Lungs were initally coarse but have cleared, and are equal bilaterally to auscultation. Suctioned for moderate amounts of blood tinged sputum. Ventilator weened to CPAP+PS 5/5/40% with normal ABG. RSBI 40.
+
+CV: Sinus rhythm rate high 50's-60's with frequent PAC's, rare PNC's. BP goal MAP<130 per neurology & ICU resident. Strong palpable distal pulses.
+
+GI: Abdomen soft, non-tender, non-distended. Bowel sounds hypoactive. OGT sumping dark brown matter. Protonix IV.
+
+GU: Foley to gravity, urine initially amber and cloudy, now clearing after fluid bolus for low output.
+
+Endo: RISS with coverage for FSBG 152.
+
+Lytes: Repleting KCl - others normal. Serum osmolality 313 - mannitol held and rechecked (pending).
+
+Skin: Abrasions to bilat knees are pink.
+
+Social: As per above son is [**Name2 (NI) 2358**] - he is a priest / professor [**First Name8 (NamePattern2) **] [**Last Name (Titles) 4448**]. Family friend [**Name (NI) 3208**] is in our waiting room, expressed that the son was told a poor prognosis and ""is aware (the patient) could pass any time"".
+
+Plan:
+Maintain safety
+q1 hr neuro checks, mannitol if osm comes down
+Vent ween to extubate
+Replete electrolytes
+? need to obtain imaging of TLS spine
+Social support
+Notify team of acute changes
+",,
+24295,8544,30178,1,3342-03-12 05:42:00 EST,3342-03-12 06:05:00 EST,7797,"Y",74,"Nursing/Other","T/SICU Nursing Admission Note","
+T/SICU Nursing Admission Note
+Addendum:
+At the 6AM neuro check right after my shift note was written, the patient opened his eyes to voice, nodded appropriately to questions, followed commands consistently with all extremities, and indicated he was in no pain except for discomfort with the ETT.
+",,
+24295,8544,30178,0,3342-03-12 05:54:00 EST,3342-03-12 05:56:00 EST,7780,"N",74,"Nursing/Other","Respiratory Care","
+Respiratory Care
+Pt. adm. to unit intubated for airway protection. ABG good ventilation with hyperoxia on minimal PSV. Plan is to wean to extubation this a.m.
+BS clear.
+",,
+24295,8544,30178,0,3342-03-12 17:27:00 EST,3342-03-12 17:38:00 EST,6230,"N",74,"Nursing/Other","TSICU Nursing Progress Note","
+TSICU Nursing Progress Note
+Events:
+Pt traveled to CT for scans of head, c-spine, T and L spine.  Well tolerated.
+
+ROS: 
+
+Neuro - Pt now sedated on propofol for comfort with tubes.  Off propofol, pt opens eyes to voice, attends speaker, follows commands consistently, nodds appropriately.  Right side stronger than left, though now lifts left hand to ett when not restrained.  Pupils consistently unequal, briskly reactive.  Osmolality > 200 so mannitol held.  CT head repeated.  C-collar on, logroll maintained.
+
+CV - HR 60s to 70s, sinus, frequent supraventricular beats.  SBP 140s to 150s by cuff.  Peripheral pulses palpable.  Scleral edema, possibly due to long down time in prone position.
+
+Resp - Lungs CTA, dim in bases.  Tolerating CPAP throughout shift.  SBT well tolerated this AM.  Now suctioned for blood tinged sputum.  ? from oral secretions and bloody oral sectetions suctioned with oral care.
+
+GI - Abdomen soft, ND, + BS.  NGT to wall suction with bilious output.
+
+GU - Adequate clear yellow urine via foley.
+
+ID - T-max 99.7.  No abx.
+
+Social - Friend (wife of HCP) in most of shift.  Son is on his way, will be in late tonight.
+
+A - Neuro status stable.  Tolerating CPAP, awaiting extubation.
+
+P - Continue serial exams.  Continue to monitor osmolality, sodium.  Extubate if back cleared.  Support family.
+",,
+24295,8544,30178,0,3342-03-12 18:36:00 EST,3342-03-12 18:39:00 EST,175,"N",74,"Nursing/Other",,"
+
+Rerspiratory Care:
+Pt finally extubated after a long day with a CT scan and slow wean. 
+Now on 40% cool neb and talking coherently to the RN. Sat = 99%.
+",,
+24295,8544,30178,,3342-03-13 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3342-3-13**] 11:00 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 1419**]
+     Reason: dobhoff position                                            
+     Admitting Diagnosis: INTRACRANIAL HEMORRHAGE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       88 year old man with ICB                                                       
+       
+     REASON FOR THIS EXAMINATION:
+      dobhoff position                                                                
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  88-year-old man with intracranial hemorrhage.  Evaluate tube
+     placement.
+     
+     COMPARISON:  AP upright portable chest x-ray dated [**3342-3-11**].
+     
+     AP UPRIGHT PORTABLE CHEST X-RAY:  A Dobbhoff tube has been placed with the tip
+     in the left piriform sinus and the tube coiled within the mid/distal
+     esophagus.  Allowing for differences in technique, the cardiac silhouette is
+     unchanged.  There is new  right hilar fullness with suggestion of underlying
+     lymphadenopathy.  Opacification of the right heart border suggests right
+     middle lobe collapse.  The lungs are otherwise clear.  There are no effusions.
+     The surrounding soft tissue and osseous structures again demonstrate
+     degenerative changes throughout the thoracic spine.
+     
+     IMPRESSION:
+     1.  Dobbhoff tube coiled within the mid esophagus with the tip overlying the
+     left larynx.
+     2.  Obscuration of the right heart border consistent with right middle lobe
+     collapse and consolidation.  Further evaluation with a lateral film is
+     recommended.
+     3.  Suggestion of new right hilar lymphadenopathy.  
+     
+     These findings were discussed with Dr. [**First Name4 (NamePattern1) 1420**] [**Last Name (NamePattern1) 1421**] at 2:08 p.m. on
+     [**3342-3-13**].
+
+",,
+24295,8544,30178,,3342-03-13 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3342-3-13**] 12:53 PM
+     CHEST (PORTABLE AP); -77 BY DIFFERENT PHYSICIAN                 [**Name Initial (PRE) 232**] # [**Clip Number (Radiology) 1422**]
+     Reason: NG tube position                                            
+     Admitting Diagnosis: INTRACRANIAL HEMORRHAGE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        88 year old man with ICB                                                      
+         
+     REASON FOR THIS EXAMINATION:
+      NG tube position                                                                
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Evaluation of NGT placement.
+     
+     PORTABLE AP CHEST:
+     
+     The tip of the NG tube is in the proximal stomach.  The side port beyond the
+     OG junction.  The heart size is borderline normal.  Lung fields are clear.
+     There are no pleural effusions or pneumothorax.
+     
+     IMPRESSION:  Appropriate placement of the NG tube.
+
+",,
+24295,8544,30178,0,3342-03-13 17:06:00 EST,3342-03-13 17:16:00 EST,8775,"N",74,"Nursing/Other","Nursing Progress Note","
+Nursing Progress Note
+Review of Systems:
+
+Skin: bilat knee abrasions-baci applied
+
+Neuro: Pt MAE's LLE weaker than rest of extremities. R pupil 3mm and L pupil 2mm-both reactive to light.pt only opens eyes when [**Doctor First Name **] ask him too. Pt alert and oriented to person, and sometimes the month and year, but can't remember where he is. mannitol ordered bid-osmo to high to give.
+
+CV: SBP 140's-180's. 10mg IV hydralazine given and po 12.5 mg lopressor started via NGT this afternoon. afebrile. pboots on. 1 burst of high HR 130's, occasional APC's in the am, run of 4 PVC's-ectopy seemed to resolve throughout the day after 30meq of KCL.
+
+Resp: weaned to 4 L NC with sats 99-100%. bilat upper lobes slightly coarse, clear to dim bilat lower lobes. productive cough-thick blood tinge sputum.
+
+GI: NPO. BS present. abd soft, ND. NGT placed-replete with fiber @ 10cc started . no BM
+
+GU:[**Last Name (un) 4449**] cath, draining slightly cloudy, yellow urine. adequate amt of urine an hour
+
+Pain: pt has not c/o any pain
+
+Activity: bedrest
+
+Access: 2 bilat upper extrem PIV's. IVF @ KVO
+
+Social: son in from out of the country and visited this afternoon. wants to try and get father back to [**Hospital3 **]-closer to home.
+
+Plan: Assess neuro status for any changes
+      increase tubefeeds as tolerated
+       increase activity as tolerated
+",,
+24295,8544,30178,,3342-03-14 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3342-3-14**] 5:27 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 1423**]
+     Reason: pneumonia?  chf?                                            
+     Admitting Diagnosis: INTRACRANIAL HEMORRHAGE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+         88 year old man with ICB  now w/ wheezing and tachypnea                      
+                               
+     REASON FOR THIS EXAMINATION:
+      pneumonia?  chf?                                                                
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     AP CHEST 5:37 A.M. [**3-14**]
+     
+     HISTORY:  Wheezing and tachypnea.
+     
+     IMPRESSION:  AP chest compared to [**3-11**] through 30:
+     
+     Consolidation at the medial aspect of the right lung base which developed
+     between [**3-11**] and [**3-13**] following extubation is probably
+     atelectasis.  Left lung is clear.  Mild cardiomegaly is stable, following
+     extubation.  Mediastinal vascular engorgement suggests volume overload and now
+     there is no pulmonary edema.
+                                                                           
+
+",,
+24295,8544,30178,,3342-03-14 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3342-3-14**] 9:55 AM
+     CHEST (PORTABLE AP); -76 BY SAME PHYSICIAN                      [**Name Initial (PRE) 232**] # [**Clip Number (Radiology) 1424**]
+     Reason: eval position of NGT                                        
+     Admitting Diagnosis: INTRACRANIAL HEMORRHAGE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+          88 year old man with ICB  now w/ wheezing and tachypnea                     
+                                 
+     REASON FOR THIS EXAMINATION:
+      eval position of NGT                                                            
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     AP CHEST, 10:16 A.M., [**3-14**]
+     
+     HISTORY:  Intracerebral bleed.  Wheezing and tachypneic.  Evaluate NG tube
+     placement.
+     
+     IMPRESSION:  AP chest compared to [**3-11**] through 5:37 a.m. today:
+     
+     Lung volumes have improved, but right infrahilar atelectasis persists.  Mild
+     pulmonary vascular congestion is new but there is no edema or pleural
+     effusion.  Heart size top normal.  Nasogastric tube ends in the upper stomach.
+     No pneumothorax or appreciable pleural effusion.
+                                                                           
+
+",,
+24295,8544,30178,0,3342-03-14 05:31:00 EST,3342-03-14 05:43:00 EST,7797,"N",74,"Nursing/Other","T/SICU Nursing 19-07","
+T/SICU Nursing 19-07
+Neuro: Awake / arousable to voice. Follows commands consistently. Always confused to exact place but consistently states we are in [**State **] and occasionally knows the year. R pupil 2.5mm, L pupil 2mm, both briskly reactive to light.
+
+Pain: Denies
+
+Resp: Lungs are coarse in all fields, diminished bibasilar --> at 4am noted increased work of breathing and audible wheezes, non-responsive to albuterol/atrovent nebs. Chest xray pending. SPO2 remains in high 90's and rate is high teens to low twenties, however appears labored and remains wheezy in all fields. Prior to that had been on room air. Placed on humidified face mask at 40% mainly for humidity as pt's secretions and mouth are very dry.
+
+CV: Sinus rhythm with frequent supraventricular ectopy. Remains hypertensive with SBP 160-180's+, non-responsive to hydralazine and lopressor. Initiated labetalol gtt as SBP was occasionally in the 190's, however questionably it is contributing to reactive airway/bronchospasm so gtt is stopped and plan to be discussed in morning rounds. Goal MAP per neurology is less than 135, we remain in this parameter. Strong palpable distal pulses. PIVx1 placed tonight.
+
+GI: Abdomen soft, non-tender, very slightly distended - ? last BM. Pt d/c'd his own NGT and RN/MD were unable to replace, will remain NPO pending speech & swallow eval.
+
+GU: Foley to gravity drains cloudy yellow urine qs; UA C&S sent.
+
+Endo: RISS with coverage as ordered.
+
+Skin: Healing abrasions to bilateral knees.
+
+ID: Febrile to 100.7 AX. WBC count remains normal. Cultured blood and urine, chest xray done, tylenol given.
+
+Labs: OSM remains >300, mannitol held. Needs k-phos.
+
+Social: No family contact.
+
+Plan:
+Maintain safety
+Hypertension management - hold beta blockers?
+Pulmonary toileting
+Promote normothermia
+Nutrition
+Emotional support
+Notify team of changes
+",,
+24295,8544,30178,0,3342-03-14 06:57:00 EST,3342-03-14 06:58:00 EST,7780,"N",74,"Nursing/Other","Respiratory Care","
+Respiratory Care
+ABG successfully drawn from R radial Artery with out any adverse event. Results reveal all values within normal limits.
+",,
+24295,8544,,,3342-03-15 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3342-3-15**] 7:04 PM
+     CHEST (PORTABLE AP); -77 BY DIFFERENT PHYSICIAN                 [**Name Initial (PRE) 232**] # [**Clip Number (Radiology) 1426**]
+     Reason: s/p NGT placement                                           
+     Admitting Diagnosis: INTRACRANIAL HEMORRHAGE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+            88 year old man with ICB  now w/ wheezing and tachypnea                   
+                                     
+     REASON FOR THIS EXAMINATION:
+      s/p NGT placement                                                               
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  88-year-old male with wheezing and tachypnea.  Status post NG tube
+     placement.
+     
+     Comparison is made to prior radiograph from earlier in the day and [**3342-3-14**].
+     
+     SINGLE PORTABLE AP CHEST RADIOGRAPH
+     
+     Overall lung volumes are low; however, no evidence of parenchymal
+     consolidation or pleural effusion is identified bilaterally.  There is
+     slightly increased atelectasis noted within the left base.  No evidence of
+     pulmonary edema.  A nasogastric tube is coiled within the stomach.
+     
+     IMPRESSION:
+     Slightly increased left basilar atelectasis with no evidence of parenchymal
+     consolidation bilaterally.
+
+",,
+24295,8544,,,3342-03-15 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3342-3-15**] 8:35 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 1425**]
+     Reason: CHF, penumonia?                                             
+     Admitting Diagnosis: INTRACRANIAL HEMORRHAGE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+           88 year old man with ICB  now w/ wheezing and tachypnea                    
+                                   
+     REASON FOR THIS EXAMINATION:
+      CHF, penumonia?                                                                 
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Wheezing and tachypnea.
+     
+     PORTABLE AP CHEST.
+     
+     Heart size is normal.  The aorta is unfolded.  The lung fields are clear.  Low
+     lung volumes.  NG tube tip is in the stomach.
+     
+     IMPRESSION:  No pneumonia.
+                                                                           
+
+",,
+24295,8544,,,3342-03-16 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3342-3-16**] 6:08 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 1427**]
+     Reason: r/o PNA                                                     
+     Admitting Diagnosis: INTRACRANIAL HEMORRHAGE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+             88 year old man with ICB  now w/ wheezing and tachypnea                  
+                                       
+     REASON FOR THIS EXAMINATION:
+      r/o PNA                                                                         
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CLINICAL HISTORY:  Wheezing and tachypnea.
+     
+     CHEST:
+     
+     The heart is somewhat enlarged with left ventricular prominence, tortuosity,
+     and calcification of the aorta is present.  No failure is present.  No
+     pneumonia is seen.  A nasogastric tube is present in satisfactory position.
+     
+     IMPRESSION:  No failure.  No infiltrates.
+                                                                           
+
+",,
+24295,8544,,,3342-03-17 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3342-3-17**] 4:15 PM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 1429**]
+     Reason: less responsive over 1 days, please look at sinuses         
+     Admitting Diagnosis: INTRACRANIAL HEMORRHAGE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      88 year old man with ich                                                        
+     REASON FOR THIS EXAMINATION:
+      less responsive over 1 days, please look at sinuses                             
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  88-year-old man with intracranial hemorrhage, less responsive
+     over the past one day.
+     
+     COMPARISON:  Non-contrast head CT dated [**3342-3-12**].
+     
+     TECHNIQUE:  Routine non-contrast head CT.
+     
+     FINDINGS:  A moderately large intraparenchymal hemorrhage centered within the
+     right caudate head measures slightly smaller than on prior exam at 3.8 cm in
+     diameter.  The hemorrhage extends into the ventricular system, and there is
+     stable or slightly decreased right-to-left shift at the level of the septum
+     pellucidum by 9 mm.  Periventricular edema within the right frontal lobe is
+     either stable or minimally increased since the prior exam.  There is no
+     additional evidence of herniation.  Layering blood within the posterior [**Doctor Last Name 79**]
+     of the left lateral ventricle is slightly decreased, and that within the right
+     lateral ventricle is slightly increased.
+     
+     Dense mucosal thickening and polyps within bilateral maxillary sinuses are
+     again noted.  There is near complete opacification of bilateral ethmoid air
+     cells, dense mucosal thickening is also seen in bilateral sphenoid air cells
+     and frontal sinuses.  No new air-fluid levels are identified.
+     
+     IMPRESSION:  Slight interval decrease in size of right intraparenchymal
+     hemorrhage, with slight decrease in right-to-left midline shift at the level
+     of the septum pellucidum.  No new herniation.
+     
+
+",,
+24295,8544,,,3342-03-17 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3342-3-17**] 4:31 PM
+     CHEST (PA & LAT)                                                Clip # [**Clip Number (Radiology) 1432**]
+     Reason: UA resp sounds prominent, please also eval upper airway     
+     Admitting Diagnosis: INTRACRANIAL HEMORRHAGE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+               88 year old man with ICB  now w/ wheezing and tachypnea                
+                                           
+     REASON FOR THIS EXAMINATION:
+      UA resp sounds prominent, please also eval upper airway                         
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CLINICAL HISTORY:  Intracerebral bleed, now with wheezing.
+     
+     CHEST:
+     
+     Cardiac size is within normal limits, no failure is seen.  No evidence of
+     aspiration is present.  Nasogastric tube is present with the tip within the
+     stomach.
+     
+     IMPRESSION:  No failure.  No infiltrates
+                                                                           
+
+",,
+24295,8544,,,3342-03-17 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3342-3-17**] 5:50 AM
+     CHEST (PORTABLE AP); -59 DISTINCT PROCEDURAL SERVICE            Clip # [**Clip Number (Radiology) 1428**]
+     Reason: confirm NGT placement                                       
+     Admitting Diagnosis: INTRACRANIAL HEMORRHAGE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+              88 year old man with ICB  now w/ wheezing and tachypnea                 
+                                         
+     REASON FOR THIS EXAMINATION:
+      confirm NGT placement                                                           
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     SINGLE VIEW OF THE CHEST DATED [**3342-3-17**]
+     
+     COMPARISON:  Chest x-ray dated [**3342-3-16**].
+     
+     INDICATION:  88-year-old male with ICD, now with wheezing and tachypnea,
+     confirm NG tube placement.
+     
+     FINDINGS:  Single frontal radiograph of the chest labeled supine demonstrates
+     a nasogastric tube with distal tip overlying the body of the stomach.  There
+     is atherosclerotic calcification of the aortic arch, and the aorta is
+     tortuous, unchanged.  The cardiac silhouette is enlarged, stable.  There is no
+     evidence of pneumothorax or pleural effusion.  There is no evidence of
+     pulmonary edema.  There is slight opacity in the retrocardiac region, likely
+     atelectasis.
+     
+     IMPRESSION:  Nasogastric tube with distal tip overlying the body of the
+     stomach.  Retrocardiac airspace opacity, likely atelectasis.
+                                                                           
+
+",,
+24295,8544,,,3342-03-17 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3342-3-17**] 4:19 PM
+     CT SINUS/MANDIBLE/MAXILLOFACIAL W/O CONTRAST                    Clip # [**Clip Number (Radiology) 1430**]
+     Reason: eval for sinusitis                                          
+     Admitting Diagnosis: INTRACRANIAL HEMORRHAGE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      88 year old man with right basal ganglia bleed s/p intubation with persistent 
+      fever, nasal discharge.
+     REASON FOR THIS EXAMINATION:
+      eval for sinusitis                                                              
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  88-year-old man with right basal ganglia and intracranial
+     hemorrhage status post intubation with persistent fever and nasal discharge.
+     
+     COMPARISON:  None.
+     
+     TECHNIQUE:  MDCT imaging of the paranasal sinuses were performed without
+     intravenous contrast.  Coronal reformatted images were obtained.
+     
+     FINDINGS:  Moderate mucosal thickening in bilateral frontal sinuses, with a
+     small left frontal mucosal polyp.  There is almost complete opacification of
+     bilateral ethmoid air cells.  There is dense mucosal thickening in the right
+     sphenoid air cell, and moderate mucosal thickening in the left sphenoid air
+     cell.  Moderate mucosal thickening in posterior polyps are seen within the
+     bilateral maxillary sinuses.  No air-fluid levels are identified.  The
+     anterior clinoid processes are equal in height.  The sphenoid sinus septum
+     inserts on the right carotid canal.  The lamina papyracea are intact
+     bilaterally.  The nasal septum deviates slightly to the right, with an apical
+     spur.  The anterior clinoid processes are not pneumatized.  There is a small
+     amount of fluid within scattered left mastoid air cells.
+     
+     The surrounding bony structures are preserved.  Intracranial findings are as
+     described on report under clip #[**Clip Number (Radiology) 1431**].  The surrounding soft tissues are
+     otherwise unremarkable.
+     
+     IMPRESSION:  Diffuse sinus disease as described above.  No air-fluid levels
+     identified.
+                                                                           
+
+",,
+24295,8544,,,3342-03-19 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3342-3-19**] 9:43 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 1433**]
+     Reason: pneumonia                                                   
+     Admitting Diagnosis: INTRACRANIAL HEMORRHAGE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      88 year old man with ICB  now respiratory distress (mild ), upper airway 
+      congestion and fever 104
+     REASON FOR THIS EXAMINATION:
+      pneumonia                                                                       
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  88-year-old male with intracranial bleed and respiratory distress
+     and fever.  Evaluate for pneumonia.
+     
+     Comparison is made to prior radiographs dated [**3342-3-17**].
+     
+     SINGLE PORTABLE UPRIGHT AP CHEST RADIOGRAPH:
+     
+     Since most recent prior film, there appears to be a slight increase to
+     retrocardiac opacity and mild elevation of the left hemidiaphragm suggesting
+     underlying left lower lobe atelectasis, however, consolidative process cannot
+     be completely excluded.  Remaining lung fields appear grossly clear, without
+     evidence of effusions or pulmonary edema.  Calcifications within a tortuous
+     thoracic aorta are unchanged in appearance and the nasogastric tube tip is
+     difficult to visualize on this slightly over exposed radiograph.
+     
+     IMPRESSION:  Slight increase to retrocardiac opacity, with mild elevation of
+     the left hemidiaphragm suggesting atelectasis. However, consolidative process
+     cannot be completely excluded.
+
+",,
+24295,8544,,,3342-03-20 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3342-3-20**] 7:17 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 1434**]
+     Reason: confirm NGT placement                                       
+     Admitting Diagnosis: INTRACRANIAL HEMORRHAGE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       88 year old man with NGT                                                       
+     REASON FOR THIS EXAMINATION:
+      confirm NGT placement                                                           
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     PORTABLE CHEST 7:19 P.M. ON [**3-20**]
+     
+     INDICATION:  NGT placement.
+     
+     FINDINGS:  The tip of the NGT is within the fundus of the stomach.  Left
+     ventricular enlargement, as before.  Lungs are clear.  No CHF.
+     
+     Compared with [**3342-3-19**], the left lower lobe atelectasis has resolved.
+                                                                           
+
+",,
+24295,8544,,,3342-03-21 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3342-3-21**] 12:26 PM
+     HIP UNILAT MIN 2 VIEWS LEFT                                     Clip # [**Clip Number (Radiology) 1439**]
+     Reason: pain at rom                                                 
+     Admitting Diagnosis: INTRACRANIAL HEMORRHAGE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      88 year old man with r basal ganglia bleed                                      
+     REASON FOR THIS EXAMINATION:
+      pain at rom                                                                     
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     STUDY:  AP of the pelvis, four views of the left hip.
+     
+     INDICATION:  88-year-old female with decreased range of motion and pain of the
+     left hip.
+     
+     COMPARISONS:  None.
+     
+     FINDINGS:
+     
+     No fracture or dislocation is detected.  There are mild degenerative changes
+     of the lower lumbosacral spine.  No SI joint or pubic symphysis diastasis is
+     identified. No focal lytic or sclerotic lesion is detected.  No soft tissue
+     calcification or radiopaque foreign body is seen.
+     
+     IMPRESSION:  No left hip fracture detected.
+     
+
+",,
+24295,8544,,,3342-03-21 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+",,
+24295,8544,,,3342-03-21 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3342-3-21**] 12:06 PM
+     CT CHEST W/O CONTRAST                                           Clip # [**Clip Number (Radiology) 1437**]
+     Reason: explore for consolidation at left lower lobe                
+     Admitting Diagnosis: INTRACRANIAL HEMORRHAGE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       88 year old man with R BG hemorrhage, developed resp distress, fever.          
+     REASON FOR THIS EXAMINATION:
+      explore for consolidation at left lower lobe                                    
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CT CHEST WITHOUT CONTRAST DATED [**3342-3-21**]
+     
+     INDICATION:  Intracranial hemorrhage.  Respiratory distress and fever.
+     
+     COMPARISON:  Portable chest radiograph of [**3342-3-20**].
+     
+     Multidetector CT of the chest was performed without intravenous or oral
+     contrast administration.  Images are presented for display in the axial plane
+     at 5 mm and 1.25 mm collimation.  A series of coronal reconstruction images
+     are also presented for review.
+     
+     The examination is of suboptimal quality due to extensive respiratory motion
+     and  inadvertent imaging during the expiratory phase of respiration rather
+     than the standard and inspiratory technique.  This limits assessment for
+     subtle areas of abnormality such as small lung nodules.
+     
+     Small left and trace right pleural effusions are present with adjacent
+     dependent areas of atelectasis.  No confluent areas of consolidation are
+     present.  Assessment of the airways demonstrates accentuated expiratory
+     collapse within the main bronchi, bronchus intermedius and lower lobe bronchi
+     as well as portions of the trachea concerning for airway malacia.
+     
+     The intrathoracic esophagus is markedly distended to approximately the level
+     of the carina.  Below this level, there is mild intermittent distention.  A
+     small hiatal hernia is present.  Nasogastric tube courses below the diaphragm
+     to terminate in the upper stomach.
+     
+     Asymmetry of the vocal cords is present with the left appearing medially
+     displaced compared to the right and the left appearing more full and globular
+     than the right side.  Within the mediastinum, there are several anterior
+     mediastinal lymph nodes, measuring up to 6 mm in diameter.  These do not
+     individually meet size criteria for enlargement but are increased in number. 
+     The main pulmonary artery is enlarged at 4.2 cm.  Heart is mildly enlarged and
+     diffuse coronary artery calcifications are present.
+     
+     In the imaged portion of the upper abdomen, a cystic lesion is present in the
+     upper pole portion of the right kidney measuring over 4 cm in diameter.  This
+     is probably a simple cyst, but is difficult to fully characterize in this
+     unenhanced scan with a moderate degree of image, noise and degradation from
+     motion.  Remaining imaged portion of the upper abdomen is unremarkable on this
+     unenhanced CT which is not specifically tailored to evaluate the abdominal
+                                                                 (Over)
+
+     DATE: [**3342-3-21**] 12:06 PM
+     CT CHEST W/O CONTRAST                                           Clip # [**Clip Number (Radiology) 1437**]
+     Reason: explore for consolidation at left lower lobe                
+     Admitting Diagnosis: INTRACRANIAL HEMORRHAGE
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     organs.
+     
+     Degenerative changes are present within the spine.
+     
+     IMPRESSION:
+     1.  No areas of consolidation to suggest pneumonia.
+     
+     2.  Asymmetrical enlargement of left vocal cord, for which further evaluation
+     with direct visualization is recommended as communicated by telephone to Dr.
+     [**Last Name (STitle) 1438**] on [**3342-3-21**].
+     
+     3.  Small left and trace right pleural effusion with adjacent dependent areas
+     of atelectasis.
+     
+     4.  Distension of intrathoracic esophagus concerning for esophageal
+     dysmotility.
+     
+     5.  Tracheobronchomalacia.  Once the patient's condition has been stabilized,
+     this could be more fully assessed with a dedicated CT trachea study if
+     warranted clinically.
+     
+     6.  Coronary artery calcifications.
+     
+     7.  4 cm right renal lesion, probably a cyst, but difficult to fully
+     characterize. Ultrasound may be helpful, if warranted clinically. 
+
+",,
+24295,8544,,,3342-03-21 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3342-3-21**] 11:23 AM
+     BILAT LOWER EXT VEINS                                           Clip # [**Clip Number (Radiology) 1435**]
+     Reason: SOB, EXPLORE FOR DVTS
+     Admitting Diagnosis: INTRACRANIAL HEMORRHAGE
+     ______________________________________________________________________________
+                                     FINAL ADDENDUM
+     ADDENDUM: Review of the initial images demonstrates right superficial femoral
+     vein wall thickening with a patent lumen.  The appearance is compatible with
+     chronic thrombus and vessel recanalization.  There is no evidence on this
+     study to suggest acute thrombus.  These films were also re-reviewed with the
+     initial reporting physician, [**Last Name (NamePattern4) **]. [**Last Name (STitle) 1436**] who concurs.
+                                                                           
+
+
+     DATE: [**3342-3-21**] 11:23 AM
+     BILAT LOWER EXT VEINS                                           Clip # [**Clip Number (Radiology) 1435**]
+     Reason: SOB, EXPLORE FOR DVTS
+     Admitting Diagnosis: INTRACRANIAL HEMORRHAGE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      88 year old man with R BG hemorrhage. Developed fever, resp distress.           
+     REASON FOR THIS EXAMINATION:
+      Explore for DVTs.                                                               
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     LOWER EXTREMITY DVT STUDY
+     
+     INDICATION FOR STUDY:  Fever, respiratory distress, explore for DVTs.
+     
+     A bilateral lower extremity DVT study was performed.  The left common and
+     superficial femoral veins and popliteal veins are widely patent with
+     augmentation and compressibility and wall-to-wall flow.  On the right side, an
+     area of nonocclusive thrombus is noted within the mid to distal superficial
+     femoral vein.  This thrombus is of indeterminate age.  The proximal
+     superficial femoral and common femoral on the right side are widely patent as
+     is the popliteal vein.
+     
+     IMPRESSION:  Age-indeterminate nonocclusive thrombus in the mid to distal
+     right superficial femoral vein.
+                                                                           
+
+",,
+24295,8544,,,3342-03-22 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3342-3-22**] 7:26 AM
+     PERC G/G-J TUBE PLMT                                            Clip # [**Clip Number (Radiology) 1440**]
+     Reason: G-PEG placement. Any PLT counts, Hct level we should keep (p
+     Admitting Diagnosis: INTRACRANIAL HEMORRHAGE
+      Contrast: OPTIRAY Amt: 30CC
+     ********************************* CPT Codes ********************************
+     * 43750 PERC PLCMT GASTROMY TUBE       74350 PERC PLCMT GASTROSOTMY TUBE   *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      88 year old man with R basal ganglia hemorrhage with dysphagia. Also had PMH of 
+      MDS.
+     REASON FOR THIS EXAMINATION:
+      G-PEG placement. Any PLT counts, Hct level we should keep (pt has 
+      Myelodysplastic synd)?
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Intraparenchymal hemorrhage, aspiration risk.
+     
+     TECHNIQUE/FINDINGS:  Informed consent was obtained from the patient's son. 
+     The anterior abdominal wall was prepped and draped in a sterile fashion. 
+     Insufflation of the stomach via a previously placed NG tube was performed. 
+     This allowed direct fluoroscopic visualization of a distended gastric body. 
+     The colon was also air filled, which gave additional benefit in that this
+     could be easily avoided with tube placement.
+     
+     1% lidocaine without epinephrine was used to anesthetize the anterior
+     abdominal wall after which two T-fasteners were placed along the greater
+     curvature of the stomach.  Between these two T-fasteners, a 5-French sheath
+     was placed and through which a Kumpe catheter and Bentson guidewire were used
+     to manipulate the catheter into the proximal jejunum.  The [**Last Name (un) 767**] wire was
+     exchanged for an Amplatz wire.  The tract was then dilated after which a
+     14-French GJ tube was placed, tip within the proximal jejunum and confirmed
+     with contrast injection.  The catheter was secured in place with a
+     flexi-tract.
+     
+     Of note, ultrasound was performed within the Angiography Suite which again
+     demonstrated distal right superficial femoral vein wall thickening only, no
+     evidence of acute DVT.  After discussion with the referring physicians, given
+     the lack of acute clot burden, IVC filter placement was not carried out.
+     
+     IMPRESSION:  Placement of a 14-French [**Doctor Last Name 1059**] GJ tube cuff, tip within the
+     proximal jejunum and ready for use.
+                                                                           
+
+",,
+24295,8544,,,3342-03-22 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+",,
+24295,8544,,,3342-03-23 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3342-3-23**] 10:31 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 1441**]
+     Reason: r/o volume overload and infiltrate                          
+     Admitting Diagnosis: INTRACRANIAL HEMORRHAGE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      88 year old man with ICH s/p intubation, now with tachypnea                     
+     REASON FOR THIS EXAMINATION:
+      r/o volume overload and infiltrate                                              
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  88-year-old male with intracranial bleed status post intubation with
+     increasing heart rate.
+     
+     Comparison is made to prior radiographs dated [**3342-3-20**] and prior CT
+     dated [**3342-3-21**].
+     
+     SINGLE PORTABLE AP UPRIGHT CHEST RADIOGRAPH
+     
+     Since prior film on [**3-20**], there appears to be increased retrocardiac
+     opacity with obscuration of the left diaphragmatic border likely representing
+     underlying atelectasis as similar appearance was noted prior to [**3-19**].
+     There are perhaps small bilateral pleural effusions, however, no new focal
+     parenchymal consolidations are identified and there is no evidence of
+     pneumothorax or pulmonary edema.  Cardiomediastinal silhouette and hilar
+     contours are unchanged as is calcification within a tortuous descending
+     thoracic aorta.  Nasogastric tube is identified within the stomach, and there
+     appears to be interval placement of J tube.
+     
+     IMPRESSION:
+     1.  Interval increase in left lower lobe atelectasis with no new focal
+     parenchymal consolidation identified.  No evidence of pulmonary edema.
+     
+     
+
+",,
+24295,8544,,,3342-03-26 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3342-3-26**] 5:24 PM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 1442**]
+     Reason: r/o worsening bleed                                         
+     Admitting Diagnosis: INTRACRANIAL HEMORRHAGE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      88 year old man with recent ICH and MS [**First Name (Titles) 1443**] [**Last Name (Titles) 1444**].                          
+     REASON FOR THIS EXAMINATION:
+      r/o worsening bleed                                                             
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Recent intracranial hemorrhage and mental status below baseline.
+     Evaluate for worsening hemorrhage.
+     
+     COMPARISON:  [**3342-3-17**].
+     
+     NON-CONTRAST HEAD CT SCAN:  There is interim evolution of blood products
+     within the previously described intraparenchymal hemorrhage, centered at the
+     right caudate head.  On the current study, the largest area of acute
+     hemorrhage measures 2.2 x 1.5 cm on axial images.  There is continued right to
+     left shift of the septum pellucidum.  Hypodensity of the right frontal and
+     subinsular region parenchyma is similar in peripheral extent, representing
+     vasogenic edema.  Adjacent to the area of hemorrhage, hypodensity may
+     represent encephalomalacic change.  There are no new areas of hemorrhage.
+     Blood within the lateral ventricles is nearly resolved, with a small amount
+     seen layering posteriorly on the right.  There is partial opacification of the
+     posterior ethmoid air cells, and circumferential mucosal thickening within the
+     sphenoid sinus.  There are mucus retention cysts in the maxillary antra,
+     bilaterally. The mastoid air cells are nearly completely opacified, increased
+     from [**3-17**].
+     
+     IMPRESSION:
+     1.  Evolution of blood products in the area of the right caudate head.  No new
+     areas of hemorrhage.
+     2.  Interval partial opacification of the mastoid air cells.
+
+",,

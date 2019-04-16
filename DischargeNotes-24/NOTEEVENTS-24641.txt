@@ -1,0 +1,162 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+24641,2108,,,2822-11-12 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+
+Admission Date:  [**2822-11-12**]       Discharge Date:  [**2822-11-15**]
+
+Date of Birth:   [**2751-5-4**]       Sex:  M
+
+Service:  BLUE SURGERY
+
+HISTORY OF PRESENT ILLNESS:  This is a 71-year-old male with
+a past medical history of duodenal ulcer bleeding, who
+presented with a chief complaint of two days of orthostasis,
+fatigue and malaise with dark and tarry stools on [**2822-11-12**] to the [**Hospital1 4**]
+Emergency Room.  The patient reportedly denied nausea,
+vomiting, hematemesis, bright red blood per rectum, or
+syncope.  The patient, however, did note fatigue, weakness
+and orthostasis.  The patient reportedly contacted Dr. [**First Name4 (NamePattern1) **]
+[**Last Name (NamePattern1) **] on [**2822-11-12**], after realizing that his
+symptoms were consistent with a prior episode of duodenal
+ulcer bleeding.  The patient was subsequently referred to the
+[**Hospital1 4**] Emergency Room and
+admitted on [**2822-11-12**], for workup of suspected upper
+gastrointestinal bleed.
+
+PAST MEDICAL HISTORY:  Polycythemia [**Doctor First Name **], coronary artery
+disease, hypertension, gout, depression, basal cell and
+squamous cell carcinoma, duodenal ulcer with repeated bleeds,
+status post splenectomy, status post right coronary artery
+stent, status post multiple skin biopsies, status post
+appendectomy.
+
+MEDICATIONS AT HOME:  Protonix, aspirin, hydroxyurea,
+Procardia, fexofenadine, allopurinol.
+
+ALLERGIES:  Tetracycline.
+
+PHYSICAL EXAMINATION:  Temperature 97.2, blood pressure
+112/51, heart rate 57, respiratory rate 16, oxygen saturation
+95% on room air.  The patient was noted to be normocephalic,
+atraumatic, pupils equal, round and reactive to light and
+accommodation.  The patient had moist mucous membranes and a
+clear oropharynx, no lymphadenopathy or jugular venous
+distention was noted, and no carotid bruits were noted
+bilaterally.  Heart examination demonstrated a regular rate
+and rhythm, normal S1 S2, and a II/VI systolic murmur.
+Respiratory examination demonstrated lungs clear to
+auscultation bilaterally, with diminished sounds at the
+bases.  Abdominal examination was soft, with minimal
+protuberance, nontender, no palpable masses.  Rectal
+examination demonstrated brown stool, strongly guaiac
+positive, no palpable masses, and normal tone.  Extremities
+were warm and well perfused, with no cyanosis, clubbing or
+edema.  Neurologic examination was alert and oriented x 3,
+appropriate.
+
+LABORATORY DATA:  White blood cell count 9.1, hematocrit
+23.6, platelet count 780.  Sodium 134, potassium 5.4,
+chloride 103, bicarbonate 20, BUN 47, creatinine 1.6, glucose
+46.  A previously-drawn Helicobacter pylori test was antibody
+negative.  PT 12.7, PTT 29.2, INR 1.1.
+
+HOSPITAL COURSE:  The patient was admitted to the Blue
+Surgery service on [**2822-11-12**], under the direction of
+Dr. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) **], with a presumptive diagnosis of upper
+gastrointestinal bleeding.  The patient was admitted to the
+Surgical Intensive Care Unit for close hemodynamic
+monitoring, and was immediately transfused two units of
+packed red blood cells.  An endoscopy conducted the evening
+of admission demonstrated a normal esophagus, melena in the
+antrum and stomach body, and a single acute cratered bleeding
+7 mm ulcer in the distal bulb of the duodenum, with edema of
+the surrounding walls and a narrowing of the lumen.  Ten 1 cc
+epinephrine 1:10,000 injections were applied for hemostasis,
+with success.  [**Hospital1 **]-cap electrocautery was applied for
+hemostasis successfully.  The patient was followed with
+serial hematocrits every four hours through the evening of
+admission, into hospital day number one, during which time
+the patient required two additional units of packed red blood
+cells to be transfused, resulting in a hematocrit of 27.3 on
+the morning of hospital day number one.
+
+Given this inappropriate response to four units of packed red
+blood cells transfused, the patient received continuous every
+four hour hematocrit checks through hospital day number
+three.  The patient subsequently required two additional
+units of packed red blood cells and was noted to demonstrate
+a stable hematocrit of 31.8 on hospital day number three.
+
+Given the stabilization, the patient was subsequently
+transferred out of the Intensive Care Unit on the evening of
+hospital day number three, with instructions for continued
+hematocrit monitoring.  Serial studies conducted throughout
+the course of hospital day number three and four demonstrated
+stabilization of the patient's hematocrit at approximately
+31.7.
+
+On hospital day number four, the patient was advanced to a
+regular diet.  His intravenous fluids were discontinued, and
+he was transitioned to oral medications.  A follow-up
+evaluation by the Gastroenterology service noted the patient
+to be doing well, in stable condition, and advised continued
+oral Protonix therapy twice daily for at least eight weeks,
+with once daily therapy thereafter.  The patient was
+subsequently cleared for discharge to home, with instructions
+for follow up.
+
+CONDITION AT DISCHARGE:  Patient to be discharged to home,
+with instructions for follow up.
+
+DISCHARGE STATUS:  Stable.
+
+DISCHARGE MEDICATIONS:
+1.  Pantoprazole 40 mg by mouth twice a day
+2.  Sucralfate 1 gram by mouth four times a day
+
+DISCHARGE INSTRUCTIONS:  The patient is to observe a planned
+non-acidic diet, Sucralfate 1 gram by mouth four times a day,
+pantoprazole 40 mg by mouth every 12 hours.  The patient is
+to limit physical exercise, no excessive exertion.  The
+patient is to follow up with Dr. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) **] in the
+outpatient surgical clinic three to four weeks following
+discharge.  The patient is to call [**Telephone/Fax (1) 5770**] to schedule
+an appointment.
+
+
+
+
+                            [**First Name11 (Name Pattern1) 328**] [**Last Name (NamePattern1) 1708**], M.D.  [**MD Number 1709**]
+
+Dictated By:[**Last Name (NamePattern1) 5771**]
+MEDQUIST36
+
+D:  [**2822-11-15**]  21:45
+T:  [**2822-11-16**]  00:17
+JOB#:  [**Job Number 5772**]
+Signed electronically by: DR. [**First Name (STitle) 328**] [**Doctor Last Name **]
+ on: FRI [**2822-11-18**] 4:00 PM
+(End of Report)
+
+
+",,
+24641,2108,30599,0,2822-11-13 08:10:00 EST,2822-11-13 08:26:00 EST,-1,"N",54,"Nursing/Other","Admit/Condition Update B:","
+Admit/Condition Update B:
+ROS:
+NEUERO: Alert and oriented x3. MAE. PERLA [**2-20**] brisk. C/O HA upon arrival. Resolved after versed and fentanyl admin for upper GI. Cepacol PRN for c/o sore throat w/ good effect.
+CV: afebrile. HR SB->NSR no ectopy. SBP 130-140. No edema. Palp bilat pedal pulses. A-line placed (L) radial by Dr. [**Last Name (STitle) 76**]. Denies CP, palp, racing. s/p 2 units PRBC in ER, 2 units in ICU. Following lytes q2h. Mg and Ca repleted this morning. Hct, drawn as transfusion completed, 27.
+RESP: 2l NC. LS CTA. Denies SOB. Gag and cough reflex intact.
+GI: Upper GI performed at bedside in ICU [**11-12**]. Tolerated the procedure well. active rebleeding of duadenal ulcer seen and cauterized by GI. NPO except meds. Denies diff swallowing. Abd s/nt/nd. BS pos. pos flatus, no stool.
+GU: Foley patent draining clear yellow urine>100cch.
+SKIN: W/D/I.
+SOCIAL: Pt wife at bedside over night.
+
+PLAN: Monitor electrolytes q2h, hct q4h. Monitor i/o. Monitor s/s of active bleeding. Provide emotional supprt as needed.
+",,
+24641,2108,30599,0,2822-11-13 16:24:00 EST,2822-11-13 16:28:00 EST,3441,"N",54,"Nursing/Other","nsg progress note","
+nsg progress note
+pt a+o x3, hct this am after receiving 2 units prbc on night shift 27. 1 unit prbc given. repeat hct post unit [**Unit Number **]- 2nd prbc given. repeat hct 32.8. (goal hct >30). to cont hct q4. denies abd pain, npo, no ngt. + flatuence. tol up to chair. potassium 4.3- 4.6. 
+",,
+24641,2108,30599,0,2822-11-14 06:31:00 EST,2822-11-14 06:35:00 EST,3399,"N",54,"Nursing/Other","focus:condition update","
+focus:condition update
+data: pt c/o back discomfort, requesting tylenol and a sleeping pill.  pt refused physical care, stating he just wanted to get some [**Doctor Last Name **] and not be moved around alot.  medicated with tyleno 650 mg po x 1, and benadryl 12.5 mg po x 1.  Pt appeared to [**Doctor Last Name **] well most of night. hct sent, 33, rpt 31.8. No vomiting or stools, no evidence of bleeding. Pt oriented and pleasant.  No other complaints. 
+",,

@@ -1,0 +1,949 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+24019,,,,3097-01-03 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3097-1-3**] 6:23 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 14887**]
+     Reason: eval for chf/pna                                            
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       63 year old man with bradycardia                                               
+         
+     REASON FOR THIS EXAMINATION:
+      eval for chf/pna                                                                
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Bradycardia, metastatic lung cancer, evaluate for CHF or
+     pneumonia.
+     
+     COMPARISON:  [**3096-12-21**].
+     
+     TECHNIQUE:  Single AP portable upright chest.
+     
+     FINDINGS:
+     
+     There is stable mild cardiac enlargement.  Again seen is a large mass within
+     the left upper lung field and opacity overlying the right lung base. Calcified
+     right diaphragmatic, right apical, and right lateral pleural plaques. In
+     comparison with the previous exam, there is interval improvement in aeration
+     within the left mid lung field and at the right base.  Slight blunting of the
+     costophrenic angles bilaterally appears unchanged.  No pneumothorax. The
+     surrounding osseous structures appear unchanged.  There is slight increase in
+     fluid layering within the minor fissure.
+     
+     IMPRESSION:
+     
+     Stable left upper lobe mass and interval improvement in aeration in the left
+     mid lung field and at the right base.  No definite new areas of consolidation
+     to suggest pneumonia are identified.
+
+",,
+24019,,,,3097-01-04 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3097-1-4**] 12:12 PM
+     FEMUR (AP & LAT) RIGHT                                          Clip # [**Clip Number (Radiology) 14888**]
+     Reason: evaluate for bone mets                                      
+     Admitting Diagnosis: BRADYCARDIA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      63 year old man with stge IV SCLC with pain in right thigh                      
+     REASON FOR THIS EXAMINATION:
+      evaluate for bone mets                                                          
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Right thigh pain; assess for bone mets.
+     
+     RIGHT FEMUR: Views of the right femur are provided, and demonstrate no
+     evidence of focal lytic or blastic lesion.  No focal skeletal or soft tissue
+     abnormality is seen.
+     
+     If indicated, nuclear medicine Bone Scan can be obtained.
+
+",,
+24019,24587,,,3097-01-23 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+ 
+ 
+ 
+Admission Date:  [**3097-1-23**]              Discharge Date:   [**3097-1-28**]
+ 
+Date of Birth:  [**3033-9-13**]             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Patient recorded as having No Known Allergies to Drugs
+ 
+Attending:[**First Name3 (LF) 434**] 
+Chief Complaint:
+Hypotension per VNA services
+ 
+Major Surgical or Invasive Procedure:
+Intubated 
+ 
+History of Present Illness:
+63 yo man with h/o orthotopic liver x-plant in [**3093**], SCLC with 
+mets to bone and liver (recently taken off chemo due to CRI, 
+pancytopenia and liver x-plant) presents with 3 day history of 
+cough, shortness of breath. Has had increased edema with 
+lethargy for past 2 weeks.  Pt noted to have BP of 70/40 by VNA 
+services and thus sent to ED.   Also c/o orthopnea.  Denies any 
+diarrhea, nausea, vomiting. 
+
+In ED pt met criteria for MUST protocol. Pt given vanc, levo, 
+flagyl in ED. Put on levophed.  
+
+ 
+Past Medical History:
+1.  SCLC metastasis to bone (pelvis) and liver on etoposide and 
+cisplatin treatment.
+2.  Liver transplant secondary to hepatoma on [**9-19**] from 
+hepatitis C cirhossis
+3.  DM
+4.  GERD
+5.  MR
+6.  Afib -s/p ablation
+7.  CHF - preserved EF
+8.  Home oxygen at 4L NC (normal SaO2 at 96-97%)
+9.  CRI - baseline cr 1.8
+10. h/[**Initials (NamePattern4) **] [**Last Name (NamePattern4) **] esophagitis
+
+ 
+Social History:
+Pt is a former construction workers who reported has had some 
+exposure to asbestos.  The patient is also a fomer tobacco 
+smoker - more thatn 1ppd x 40+years who quit in [**August 3096**].  The 
+patient also admits to some social alcohol use but quit two 
+years prior to his liver transplant in '[**91**].  The patient denies 
+ever using illicit drugs.
+ 
+Family History:
+NC, no cancer in family
+ 
+Physical Exam:
+T 96 BP 100/70 HR 98 RR 16 O2sats 96% on AC w/ FiO2 100% PEEP 5
+Gen: Cachectic, ill appearing, intubated male
+HEENT: intubated, dry mm, perrl, eomi
+Neck: no jvd
+Lungs: increased AP dia., bilateral rhonchi, decrease BS at 
+bases b/l l>r
+Heart: irregularly irregular, no m/r/g
+Abd: firm, + mid epigastric tenderness
+Ext: [**2-19**]+ pitting edema in LE b/l
+Neuro: awake, moving all 4 ext
+ 
+Pertinent Results:
+[**3097-1-23**] 05:55PM   GLUCOSE-234* UREA N-96* CREAT-3.4*# 
+SODIUM-141 POTASSIUM-4.7 CHLORIDE-94* TOTAL CO2-34* ANION GAP-18
+[**3097-1-23**] 05:55PM   WBC-2.6* RBC-2.65* HGB-8.0* HCT-25.4* MCV-96 
+MCH-30.3 MCHC-31.6 RDW-19.9*
+[**3097-1-23**] 05:55PM   PLT COUNT-125*
+[**3097-1-23**] 05:55PM   PT-13.6 PTT-24.7 INR(PT)-1.2
+[**3097-1-23**] 06:07PM   LACTATE-4.8*
+
+CT TORSO
+1. Significant interval increase in the size of the large left 
+upper lobe mass as well as interval worsening of the liver and 
+splenic metastases.
+2. Diffuse septal thickening, which may relate to congestive 
+heart failure. Lymphangitic spread of tumor cannot be excluded.
+3. Mottled appearance of the iliac bones, which may relate to 
+metastatic lesions.
+
+ECHO
+The left atrium is mildly dilated. Left ventricular wall 
+thicknesses are  
+normal. The left ventricular cavity size is normal. LV systolic 
+function  
+appears moderately depressed with global hypokinesis. [Intrinsic 
+left  
+ventricular systolic function may be more depressed given the 
+severity of  
+valvular regurgitation.] The right ventricular cavity is 
+dilated. Right  
+ventricular systolic function appears depressed. [Intrinsic 
+right ventricular systolic function may be more depressed given 
+the severity of tricuspid regurgitation.] The ascending aorta is 
+mildly dilated. The aortic valve leaflets are mildly thickened. 
+There is no aortic valve stenosis. No aortic regurgitation is 
+seen. The mitral valve leaflets are mildly thickened. Moderate 
+(2+) mitral regurgitation is seen. The mitral regurgitation jet 
+is eccentric. The tricuspid valve leaflets are mildly thickened. 
+Severe [4+] tricuspid regurgitation is seen. There is a small 
+pericardial effusion. There are no echocardiographic signs of 
+tamponade. Echocardiographic signs of tamponade may be absent in 
+the presence of elevated right sided pressures.  
+No vegetations seen (cannot exclude).  
+Compared with the report of the prior study (tape unavailable 
+for review) of [**3090-9-11**], biventricular abnormalities are new and 
+mitral regurgitation and tricuspid regurgitation are now 
+significantly worse.  
+
+ 
+Brief Hospital Course:
+Pt was admitted for sepsis and started on the MUST protocol.  
+Source of infection felt to be from the lungs, as pt with stage 
+4 lung cancer with rapidly growing tumor.  Felt to have post 
+obstructive PNA.  He was started on 
+vanco/flagyl/ceftriaxone/levo after being intubated in the ED.  
+He was started on levophed to maintain MAP>65.  He was 
+aggressively hydrated to keep CVP 8-12.  This was then backed 
+off as CVP was > 15.  Held his diuretics and anti-HTN meds.  Pt 
+was also in ARF was cr at 3.4 but this quickly improved with 
+fluids.  We were able to wean his vent settings to CPAP.  He was 
+seen by hepatology in regards to his liver transplant and 
+continued on tacrolimus.  Also followed by onc for his cancer.  
+It was felt that his cancer was end stage and no further 
+treatment was available given the extent of his disease.  With 
+time pressors were weaned off.  As patient improved he was 
+asking that the ETT be removed.  He ended up self extubating 
+himself.  But only lasted about 30 minutes before he became 
+severely acidotic and required reintubation.  He then self 
+extubated himself for a second and asked that he not be 
+re-intubated.  Discussion was held with family and patient.  
+Given poor prognosis due to the cancer, pt decided he wanted no 
+further treatment and requested comfort measures only.  All meds 
+were stopped except for morphine, ativan.  These were titrated 
+to comfort.  Pt then expired on [**3097-1-28**] at 1235pm with his 
+family at the bedside.    
+ 
+Medications on Admission:
+prograft, lopressor, lasix, prednisone, fludrocortisone, 
+bactrim, glyburide, amiodarone, protonix, tacrolimus
+ 
+Discharge Medications:
+N/A
+ 
+Discharge Disposition:
+Expired
+ 
+Discharge Diagnosis:
+Small Cell Lung Cancer
+Sepsis
+Acute renal failure
+Respiratory failure
+
+ 
+Discharge Condition:
+Expired [**3097-11-27**] at 1235pm
+ 
+Discharge Instructions:
+N/A
+ 
+Followup Instructions:
+N/A
+ 
+                             [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 446**] MD [**MD Number 447**]
+ 
+Completed by: [**First Name11 (Name Pattern1) 144**] [**Last Name (NamePattern4) 4102**] MD [**MD Number 4103**] [**3097-3-22**] @ 0827
+Signed electronically by: DR. [**First Name11 (Name Pattern1) **] [**Initial (NamePattern1) **] [**Last Name (NamePattern4) **]
+ on: WED [**3097-3-31**] 9:31 AM
+(End of Report)
+
+
+",,
+24019,24587,,,3097-01-23 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3097-1-23**] 8:40 PM
+     CHEST (PORTABLE AP); -76 BY SAME PHYSICIAN                      [**Name Initial (PRE) 36**] # [**Clip Number (Radiology) 14891**]
+     Reason: eval L sc central line placement                            
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+          63 year old man with pna. sepsis                                            
+     REASON FOR THIS EXAMINATION:
+      eval L sc central line placement                                                
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Pneumonia and sepsis.  Status post central line placement.
+     
+     COMPARISON:  [**3096-1-23**], at 19:40 and 18:27.
+     
+     SUPINE AP VIEW OF THE CHEST:  There has been interval placement of a left
+     subclavian central venous catheter with the tip at the
+     brachiocephalic/proximal superior vena cava junction.  There is no
+     pneumothorax.  Endotracheal tube remains in stable position.  The appearance
+     of the chest remains unchanged.  No pneumothorax.
+     
+     IMPRESSION:
+     
+     Left subclavian central venous catheter with tip at the brachiocephalic/SVC
+     junction.  No pneumothorax.
+                                                                           DFDdp
+
+",,
+24019,24587,,,3097-01-23 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3097-1-23**] 8:40 PM
+     CHEST (PORTABLE AP); -76 BY SAME PHYSICIAN                      [**Name Initial (PRE) 36**] # [**Clip Number (Radiology) 14891**]
+     Reason: eval L sc central line placement                            
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+          63 year old man with pna. sepsis                                            
+     REASON FOR THIS EXAMINATION:
+      eval L sc central line placement                                                
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Pneumonia and sepsis.  Status post central line placement.
+     
+     COMPARISON:  [**3096-1-23**], at 19:40 and 18:27.
+     
+     SUPINE AP VIEW OF THE CHEST:  There has been interval placement of a left
+     subclavian central venous catheter with the tip at the
+     brachiocephalic/proximal superior vena cava junction.  There is no
+     pneumothorax.  Endotracheal tube remains in stable position.  The appearance
+     of the chest remains unchanged.  No pneumothorax.
+     
+     IMPRESSION:
+     
+     Left subclavian central venous catheter with tip at the brachiocephalic/SVC
+     junction.  No pneumothorax.
+                                                                           DFDdp
+
+",,
+24019,24587,,,3097-01-23 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3097-1-23**] 7:36 PM
+     CHEST (PORTABLE AP); -76 BY SAME PHYSICIAN                      [**Name Initial (PRE) 36**] # [**Clip Number (Radiology) 14890**]
+     Reason: s/p intub, eval tube placement                              
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+         63 year old man with cough and hypotension eval for PNA                      
+                               
+     REASON FOR THIS EXAMINATION:
+      s/p intub, eval tube placement                                                  
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Often hypertension, lung cancer, status post intubation.
+     
+     SUPINE AP VIEW:  Comparison is made to a prior radiograph from approximately
+     one hour earlier the same day.  The patient has undergone interval intubation
+     with endotracheal tube tip lying approximately 7.6 cm above the carina, in
+     satisfactory position.  Appearance of the lungs again remains unchanged with
+     the large left upper lobe mass and air space opacities in both bases.  Cardiac
+     and mediastinal contours remain unchanged.  No pneumothorax is demonstrated.
+     
+     IMPRESSION:
+     
+     Satisfactory endotracheal tube placement.  Stable appearance of the chest from
+     one hour earlier.
+                                                                           
+
+",,
+24019,24587,,,3097-01-23 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3097-1-23**] 7:36 PM
+     CHEST (PORTABLE AP); -76 BY SAME PHYSICIAN                      [**Name Initial (PRE) 36**] # [**Clip Number (Radiology) 14890**]
+     Reason: s/p intub, eval tube placement                              
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+         63 year old man with cough and hypotension eval for PNA                      
+                               
+     REASON FOR THIS EXAMINATION:
+      s/p intub, eval tube placement                                                  
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Often hypertension, lung cancer, status post intubation.
+     
+     SUPINE AP VIEW:  Comparison is made to a prior radiograph from approximately
+     one hour earlier the same day.  The patient has undergone interval intubation
+     with endotracheal tube tip lying approximately 7.6 cm above the carina, in
+     satisfactory position.  Appearance of the lungs again remains unchanged with
+     the large left upper lobe mass and air space opacities in both bases.  Cardiac
+     and mediastinal contours remain unchanged.  No pneumothorax is demonstrated.
+     
+     IMPRESSION:
+     
+     Satisfactory endotracheal tube placement.  Stable appearance of the chest from
+     one hour earlier.
+                                                                           
+
+",,
+24019,24587,,,3097-01-23 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3097-1-23**] 6:19 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 14889**]
+     Reason:   63 year old man with cough and hypotension eval for PNA   
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        63 year old man with cough and hypotension eval for PNA                       
+                             
+     REASON FOR THIS EXAMINATION:
+        63 year old man with cough and hypotension eval for PNA                       
+                             
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Lung cancer, cough and hypotension.
+     
+     COMPARISON:  [**3097-1-3**] and [**3096-12-21**].
+     
+     AP UPRIGHT VIEW OF THE CHEST:  There is stable cardiac enlargement.
+     Mediastinal contours remain unchanged.  Again demonstrated is a large left
+     upper lobe mass.  There has been interval development of a patchy opacity
+     within the left lung base and interval worsening of the patchy opacity present
+     within the right lung base.  There has been interval increase in the pleural
+     fluid along the right inferolateral chest wall as well as continued fluid
+     within the right minor fissure.  Mild blunting at the left costophrenic angle
+     persists.  No pneumothorax is demonstrated.  Again seen are several calcified
+     pleural plaques within the left lung apex and right base. Soft tissues and
+     osseous structures are unchanged.
+     
+     IMPRESSION:
+     
+     1.  Interval development of left basilar opacity and worsening of right
+     basilar patchy opacity, findings most suggestive of multifocal pneumonia.
+     Asymmetric pulmonary edema and lymphangitic spread of cancer are also
+     considerations.
+     
+     2.  Stable appearance of left upper lobe mass.
+     
+                                                                           DFDdp
+
+",,
+24019,24587,29831,,3097-01-24 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3097-1-24**] 12:25 AM
+     PORTABLE ABDOMEN                                                Clip # [**Clip Number (Radiology) 14892**]
+     Reason: please assess OG tube placement and eval for SBO            
+     Admitting Diagnosis: SEPSIS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      63 year old man with abdominal pain, recent intubation and OG tube placement.   
+     REASON FOR THIS EXAMINATION:
+      please assess OG tube placement and eval for SBO                                
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CLINICAL HISTORY:  Abdominal pain, recent intubation and OG tube placed. Check
+     position for abdomen.
+     
+     The film is underpenetrated and the exact position of the orogastric tube is
+     difficult to determine.  A portion of it is definitely below the diaphragm
+     within the anteral region.
+     
+     Lung infiltrates are noted.
+     
+     IMPRESSION:  A gastric in stomach, theexact end-point could not be determined.
+
+",,
+24019,24587,29831,0,3097-01-24 05:19:00 EST,3097-01-24 05:52:00 EST,953,"N",69,"Nursing/Other","MICU NPN 2300-0700","
+MICU NPN 2300-0700
+Pt is 63y/o male with PMH Hep C cirrhosis, s/p liver transplant [**9-19**], DM, GERD, MR, Afib - s/p ablation, CHF-home O2 2-4L, CRI, and stage IV small cell lung ca with mets to liver and bone.  Pt was tx with chemo unsuccessfully and was recently told that there is no further treatment.  Pt into EW today with hypotension and 3 day history of increased weakness.  In EW, pt intubated for poor ABG's.  He was started on the MUST protocol and transferred to MICU.
+
+Neuro:  Pt arrived on small amount of propofol, awake and alert.  Propfol changed to fentanyl.  Pt remains awake and alert, follows all commands.  He is primarily italian speaking but understands most english.  Pt appears to be in pain, bolused x2 with 50mcg fentanyl with good effect.
+
+CV:  HR 80's-90's, Afib, no ectopy noted.  BP on arrival in the 60's.  On levofed gtt which has been titrated to keep MAP >60, presently on .06 mcg/kg/min.  Presep catheter in place with CVP ranging [**7-28**].   SVO2 ranging 50's-70's on monitor.  HCT in EW 25, being transfused with 2units PRBC's, 2nd unit up at 0500.  Maintenance fluid 500cc/hour for 3L, stopped for blood tx, but restarted for low u/o and rising lactate.  Lacate had been trending down, but last 2 levels rising, most recently 4.6.  3+ pitting edema to BLE which SO has reported has been getting worse over past 3 weeks.  K+ and Mag low this am, will replete.
+
+Resp:  LS's coarse througout.  Vented on AC 600x16, PEEP 5, FiO2 70%.  Not requiring suctioning.  O2 sat 100%.  HO will get ABG in am.
+
+GI:  Abd firm, absent BS's.  OGT placed and confirmed by auscultation and x-ray.  Abd very tender to touch.  Upright abd x-ray done, no report as of yet.
+
+GU:  Foley draining 20-50cc/hour clear yellow urine.
+
+Endo:  BS on arrival 222, insulin gtt started and titrated for BS 80-120.
+
+ID:  Hypothermic on arrival, warming to tmax 98.8.  WBC 3 this am.  On flagyl and cefepime.  He rec'd levaquin and ceftriaxone in the EW.  Bld cx X2 sent, urine sent in EW.
+
+Access:  Left SC presep cathter and PIV x2 to left FA, flushed and patent.
+
+Skin:  No breakdown noted to backside, turned and repositioned as tolerated.  Pt appears to have a lot of discomfort with movement.
+
+Soc:  Pt's [**Initials (NamePattern4) **] [**Doctor Last Name 143**] and another relative in with pt on admission.  [**Doctor Last Name 143**] is health care proxy, consents signed.  She was updated on the plan of care, rec'd phone number to the unit and went home.
+
+Plan:  Cont to monitor VS's, I&O, labs, resp status, mental status and pain control.  ?extubate today.
+
+
+ 
+",,
+24019,24587,29831,0,3097-01-24 05:35:00 EST,3097-01-24 05:36:00 EST,731,"N",69,"Nursing/Other",,"
+
+Resp Care,
+Pt. admitted to MICU from ER intubated. Currently on A/C 600 RR 16 70% 5peep. Started on Albuterol MDI. Wean Fio2 as tol. See carevue.
+",,
+24019,24587,29831,0,3097-01-24 16:54:00 EST,3097-01-24 17:25:00 EST,762,"N",69,"Nursing/Other",,"
+
+NPN
+
+Neuro:  Pt dozing on and off, conts on fent at 25mcg/hr, easily arousible, denies pain.  He is able understand some english nad is also able to gester some of his needs.
+
+CV:  Pt remains on levo, able to decreased the dose from .065 to .02, occationally he drops his BP to the 70s but has maintained his MAP >60.  His HR has been steadily increasing through the day, he was in the 80s this morning and it has increased to the 120s-130s this afternoon.  His CVP has been ~ 16, U/O has been decreasing now at ~ 10cc/hr.  He was given a 250cc NS bolus.  An echo has been ordered for tomorrow.  He has 4 + pitting edema of his lower extremities - he has been ordered for LE US tomorrow.  He is to be started on steroid due to a low response from the cortstim test.  CPK were 202 with MBs of 3.
+
+Resp:  Remains intubated, he is now on [**4-22**]/.5 and feels ok on these settings.  02 SAT mid 90s, sv02 has been ~70.  Sx for mod amounts of thick yellow secreations - sent for clx.  He may be extubated tomorrow.
+
+GI:  ABD firm, pos BS, presently NPO for possible extubation tomorrow. No plan for CT at present.
+
+GU:  His u/o initially was ~ 100cc/hr this was while he was receiving his NS boluses, his u/o has since decreased  to ~ 8-10cc/hr, he was given a 250cc bolus with no effect.  Last creat was 2.6 with a BUN of 79.
+
+ID:  He has been afebrile, his lactate was 2.1, vanco was added.  SV02~ 70.
+
+Heme:  His HCT was 29.6 after the 2 units of PRBC he received earlier this morning.
+
+Endo:  His blood sugars have been 70-120 - he has been off of the insulin gtt since before 7am.
+
+",,
+24019,24587,29831,,3097-01-25 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3097-1-25**] 1:50 PM
+     CT CHEST W/O CONTRAST; CT ABDOMEN W/O CONTRAST                  Clip # [**Clip Number (Radiology) 14894**]
+     CT PELVIS W/O CONTRAST
+     Reason: abscess? bleed? new pleural effusion? characterize lung mass
+     Admitting Diagnosis: SEPSIS
+     Field of view: 36
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      63 year old man with lung mets and new fever.also falling Hct after left SC 
+      placed           
+     REASON FOR THIS EXAMINATION:
+      abscess? bleed? new pleural effusion? characterize lung mass                    
+     CONTRAINDICATIONS for IV CONTRAST:
+      renal failure;ARF
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Metastatic lung cancer, new fever, falling hematocrit.  Evaluate
+     for abscess, hemorrhage, or new pleural effusion.
+     
+     TECHNIQUE:  Contiguous axial images were obtained from the thoracic inlet to
+     the femoral heads without intravenous contrast.
+     
+     COMPARISON:  CT of the chest from [**3096-12-2**] and a CT of the abdomen and
+     pelvis from [**3096-11-18**].
+     
+     CT chest without IV contrast:  There is a very large mass in the left upper
+     lobe, which has significantly increased in size from [**3096-12-2**].  At the level
+     of the aortic arch, this mass spans the entire A-P diameter of the chest.
+     There is increased atelectasis of the left lower lobe, presumably related to
+     compression from the large left upper lobe mass.  There are small bilateral
+     pleural effusions.  The heart is enlarged.  There is diffuse septal
+     thickening, which may relate to congestive heart failure.  However,
+     lymphangitic spread of cancer cannot be excluded.  The endotracheal tube
+     extends to just above the carina.
+     
+     Abdomen without IV contrast:  There are numerous large low attenuation masses
+     throughout the liver, significantly increased in size and number from
+     [**3096-11-18**].  These findings are consistent with diffuse metastatic disease.
+     The splenic metastasis is also increased in size, currently measuring 5.3 x
+     5.4 cm.  The pancreas is unremarkable on unenhanced scan.  The adrenal glands
+     and kidneys appear normal.  There is extensive ascites throughout the abdomen
+     and pelvis, significantly increased in extent from the prior study. The
+     opacified loops of bowel are unremarkable.  The IVC is prominent, which may
+     relate to congestive heart failure.  This appearance is not significantly
+     changed in the interval.  However, thrombosis in this region cannot be
+     excluded on this unenhanced scan.
+     
+     CT pelvis without IV contrast:  A Foley catheter is in place.  There is
+     extensive ascites throughout the pelvis.  Diffuse vascular calcifications are
+     also noted.
+     
+     Bone windows demonstrate a mottled appearance of the iliac bones bilaterally,
+     adjacent to the sacroiliac joints.  These findings raise concern for
+                                                                 (Over)
+
+     DATE: [**3097-1-25**] 1:50 PM
+     CT CHEST W/O CONTRAST; CT ABDOMEN W/O CONTRAST                  Clip # [**Clip Number (Radiology) 14894**]
+     CT PELVIS W/O CONTRAST
+     Reason: abscess? bleed? new pleural effusion? characterize lung mass
+     Admitting Diagnosis: SEPSIS
+     Field of view: 36
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     metastatic disease.  There is also a suggestion of a lytic lesion within the
+     L4 vertebral body on the right.  This may represent a metastasis.
+     
+     IMPRESSION:
+     1.  Significant interval increase in the size of the large left upper lobe
+     mass as well as interval worsening of the liver and splenic metastases.
+     2.  Diffuse septal thickening, which may relate to congestive heart failure.
+     Lymphangitic spread of tumor cannot be excluded.
+     3.  Mottled appearance of the iliac bones, which may relate to metastatic
+     lesions.
+
+",,
+24019,24587,29831,,3097-01-25 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3097-1-25**] 9:13 AM
+     BILAT LOWER EXT VEINS PORT                                      Clip # [**Clip Number (Radiology) 14893**]
+     Reason: BILAT LEG SWELLING, MET NSCLC, HYPOXIA, ? DVT'S
+     Admitting Diagnosis: SEPSIS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       63 year old man with h/o met NSCLC p/w hypoxia, has  asymmetrically enlarged 
+      RLE but B large LE's. 
+     REASON FOR THIS EXAMINATION:
+      DVT's?                                                                          
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Bilateral leg swelling.  Nonsmall cell lung cancer.  Hypoxia.
+     
+     COMPARISON:  [**3096-11-26**], prior study failed to demonstrate DVT in the right
+     lower extremity.
+     
+     The right and left common femoral, femoral, and popliteal veins are well
+     visualized.  They are easily compressible.  They also demonstrate normal flow
+     and augmentation.
+     
+     IMPRESSION:
+     
+     No evidence of DVT in the visualized venous structures bilaterally.
+                                                                           
+
+",,
+24019,24587,29831,,3097-01-25 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3097-1-25**] 1:50 PM
+     CT CHEST W/O CONTRAST; CT ABDOMEN W/O CONTRAST                  Clip # [**Clip Number (Radiology) 14894**]
+     CT PELVIS W/O CONTRAST
+     Reason: abscess? bleed? new pleural effusion? characterize lung mass
+     Admitting Diagnosis: SEPSIS
+     Field of view: 36
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      63 year old man with lung mets and new fever.also falling Hct after left SC 
+      placed           
+     REASON FOR THIS EXAMINATION:
+      abscess? bleed? new pleural effusion? characterize lung mass                    
+     CONTRAINDICATIONS for IV CONTRAST:
+      renal failure;ARF
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Metastatic lung cancer, new fever, falling hematocrit.  Evaluate
+     for abscess, hemorrhage, or new pleural effusion.
+     
+     TECHNIQUE:  Contiguous axial images were obtained from the thoracic inlet to
+     the femoral heads without intravenous contrast.
+     
+     COMPARISON:  CT of the chest from [**3096-12-2**] and a CT of the abdomen and
+     pelvis from [**3096-11-18**].
+     
+     CT chest without IV contrast:  There is a very large mass in the left upper
+     lobe, which has significantly increased in size from [**3096-12-2**].  At the level
+     of the aortic arch, this mass spans the entire A-P diameter of the chest.
+     There is increased atelectasis of the left lower lobe, presumably related to
+     compression from the large left upper lobe mass.  There are small bilateral
+     pleural effusions.  The heart is enlarged.  There is diffuse septal
+     thickening, which may relate to congestive heart failure.  However,
+     lymphangitic spread of cancer cannot be excluded.  The endotracheal tube
+     extends to just above the carina.
+     
+     Abdomen without IV contrast:  There are numerous large low attenuation masses
+     throughout the liver, significantly increased in size and number from
+     [**3096-11-18**].  These findings are consistent with diffuse metastatic disease.
+     The splenic metastasis is also increased in size, currently measuring 5.3 x
+     5.4 cm.  The pancreas is unremarkable on unenhanced scan.  The adrenal glands
+     and kidneys appear normal.  There is extensive ascites throughout the abdomen
+     and pelvis, significantly increased in extent from the prior study. The
+     opacified loops of bowel are unremarkable.  The IVC is prominent, which may
+     relate to congestive heart failure.  This appearance is not significantly
+     changed in the interval.  However, thrombosis in this region cannot be
+     excluded on this unenhanced scan.
+     
+     CT pelvis without IV contrast:  A Foley catheter is in place.  There is
+     extensive ascites throughout the pelvis.  Diffuse vascular calcifications are
+     also noted.
+     
+     Bone windows demonstrate a mottled appearance of the iliac bones bilaterally,
+     adjacent to the sacroiliac joints.  These findings raise concern for
+                                                                 (Over)
+
+     DATE: [**3097-1-25**] 1:50 PM
+     CT CHEST W/O CONTRAST; CT ABDOMEN W/O CONTRAST                  Clip # [**Clip Number (Radiology) 14894**]
+     CT PELVIS W/O CONTRAST
+     Reason: abscess? bleed? new pleural effusion? characterize lung mass
+     Admitting Diagnosis: SEPSIS
+     Field of view: 36
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     metastatic disease.  There is also a suggestion of a lytic lesion within the
+     L4 vertebral body on the right.  This may represent a metastasis.
+     
+     IMPRESSION:
+     1.  Significant interval increase in the size of the large left upper lobe
+     mass as well as interval worsening of the liver and splenic metastases.
+     2.  Diffuse septal thickening, which may relate to congestive heart failure.
+     Lymphangitic spread of tumor cannot be excluded.
+     3.  Mottled appearance of the iliac bones, which may relate to metastatic
+     lesions.
+
+",,
+24019,24587,29831,,3097-01-25 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3097-1-25**] 1:50 PM
+     CT CHEST W/O CONTRAST; CT ABDOMEN W/O CONTRAST                  Clip # [**Clip Number (Radiology) 14894**]
+     CT PELVIS W/O CONTRAST
+     Reason: abscess? bleed? new pleural effusion? characterize lung mass
+     Admitting Diagnosis: SEPSIS
+     Field of view: 36
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      63 year old man with lung mets and new fever.also falling Hct after left SC 
+      placed           
+     REASON FOR THIS EXAMINATION:
+      abscess? bleed? new pleural effusion? characterize lung mass                    
+     CONTRAINDICATIONS for IV CONTRAST:
+      renal failure;ARF
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Metastatic lung cancer, new fever, falling hematocrit.  Evaluate
+     for abscess, hemorrhage, or new pleural effusion.
+     
+     TECHNIQUE:  Contiguous axial images were obtained from the thoracic inlet to
+     the femoral heads without intravenous contrast.
+     
+     COMPARISON:  CT of the chest from [**3096-12-2**] and a CT of the abdomen and
+     pelvis from [**3096-11-18**].
+     
+     CT chest without IV contrast:  There is a very large mass in the left upper
+     lobe, which has significantly increased in size from [**3096-12-2**].  At the level
+     of the aortic arch, this mass spans the entire A-P diameter of the chest.
+     There is increased atelectasis of the left lower lobe, presumably related to
+     compression from the large left upper lobe mass.  There are small bilateral
+     pleural effusions.  The heart is enlarged.  There is diffuse septal
+     thickening, which may relate to congestive heart failure.  However,
+     lymphangitic spread of cancer cannot be excluded.  The endotracheal tube
+     extends to just above the carina.
+     
+     Abdomen without IV contrast:  There are numerous large low attenuation masses
+     throughout the liver, significantly increased in size and number from
+     [**3096-11-18**].  These findings are consistent with diffuse metastatic disease.
+     The splenic metastasis is also increased in size, currently measuring 5.3 x
+     5.4 cm.  The pancreas is unremarkable on unenhanced scan.  The adrenal glands
+     and kidneys appear normal.  There is extensive ascites throughout the abdomen
+     and pelvis, significantly increased in extent from the prior study. The
+     opacified loops of bowel are unremarkable.  The IVC is prominent, which may
+     relate to congestive heart failure.  This appearance is not significantly
+     changed in the interval.  However, thrombosis in this region cannot be
+     excluded on this unenhanced scan.
+     
+     CT pelvis without IV contrast:  A Foley catheter is in place.  There is
+     extensive ascites throughout the pelvis.  Diffuse vascular calcifications are
+     also noted.
+     
+     Bone windows demonstrate a mottled appearance of the iliac bones bilaterally,
+     adjacent to the sacroiliac joints.  These findings raise concern for
+                                                                 (Over)
+
+     DATE: [**3097-1-25**] 1:50 PM
+     CT CHEST W/O CONTRAST; CT ABDOMEN W/O CONTRAST                  Clip # [**Clip Number (Radiology) 14894**]
+     CT PELVIS W/O CONTRAST
+     Reason: abscess? bleed? new pleural effusion? characterize lung mass
+     Admitting Diagnosis: SEPSIS
+     Field of view: 36
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     metastatic disease.  There is also a suggestion of a lytic lesion within the
+     L4 vertebral body on the right.  This may represent a metastasis.
+     
+     IMPRESSION:
+     1.  Significant interval increase in the size of the large left upper lobe
+     mass as well as interval worsening of the liver and splenic metastases.
+     2.  Diffuse septal thickening, which may relate to congestive heart failure.
+     Lymphangitic spread of tumor cannot be excluded.
+     3.  Mottled appearance of the iliac bones, which may relate to metastatic
+     lesions.
+
+",,
+24019,24587,29831,0,3097-01-25 06:12:00 EST,3097-01-25 06:16:00 EST,296,"N",69,"Nursing/Other",,"
+
+Resp Care: Pt continues intubated and on ventilatory support, abg drawn from lRA >> resp acidosis with poor oxygenation >> changed to a/c; bs coarse, sxn thick yell secretions, rx with mdi albuterol except when hr elevated, will cont full support.
+",,
+24019,24587,29831,0,3097-01-25 07:00:00 EST,3097-01-25 07:32:00 EST,995,"N",69,"Nursing/Other",,"
+
+D neuro: pt alert  responds to commands and question communicates well with gestures and mouthing words, pt primary language is italian but he is able to understand basic english. MAE. PERL. 
+
+CV: AF 110-140's.  pt is in chronic AF throughout night HR has been high pt is usually on betablockers but currently unable to give do to low BP. pt on levophed at start of shift. attempted to wean levophed in hopes of reducing HR but pt BP too unstable . placed on vasopressin .04units and reduced then stopped levophed for a few hours but HR continue to be high . At 0100 pt B/p started to drop to 70's; Hr 130-140; no urine output. pt on vasopressin restarteed levophed and discussed with Dr [**Last Name (STitle) **]. fluid NS boluses  and pressures to be used to maintain MAP > 60. after 1 liter  pt started to put out some urine  CVP 18 then 16 then 15 currently 14-19. after 2 liters of NS levophed is off and vasopressin is on. HCT 24.3, K 3.5 CR 2.8 discussed with Dr [**Last Name (STitle) **]. repleat lytes with caution due to high CRE and BUN . lactate still high. SVO2 60-70 most of night droped to 55-57 when pressure was low and pt was turned.  LSC 3 lumen presep cath. R aline placed and  R PIV patent. Drips fentanyl at 40mcg. vasopressin at .04 levophed off. NS kvo. insulin.
+ 
+Lungs; pt on 50/ 5 PS 5 peep and appeared comfortable with SAT > 95 then about  0100. SAT down to 93  SVO2 556-62. ABG sent PO2 55 PCO2 56 PH 7.22 pt placed on AC and fentanyl increased from 30 to 40mcg. lungs upper clear to coarse bases coase to diminished.  SVO2 dropped when turning pt . space activity.  suction for scant amt of thick clear to light tan sputum. 
+
+GI: ABD distended slight soft. NG in place checked by ascultation.  TF promote with fiber started at 10cc no advnced for residual of 50cc and pt hemodynamic instability.  BS present  to hypoactive. 
+
+GU: urine clear to cloudy and yellow initially 8-10cc an hour . after 2 liter of fluid 40cc an hour. 
+
+Skin intact. no redness or breakdown old scaring in buttock area. 
+
+A unstable
+p possible transfusion of PRBC, possible lyte repleation.  maintain MAP > 60 with pressors and fluids as needed. FS hourly titrate regular insulin as indicated.  promote pt comfort elevate scrotum . continue fentanyl drip.  
+",,
+24019,24587,29831,0,3097-01-25 17:17:00 EST,3097-01-25 17:32:00 EST,379,"N",69,"Nursing/Other","MSICU NPN 0700-1900","
+MSICU NPN 0700-1900
+
+
+see flowsheet for further details....
+
+
+Alert. Follows commands. Makes needs known. Denies pain except when moved he has hip pain (chronic per S.O.). 
+
+Fent gtt dc'd as he failed PSV trial (see abg) although at the time his MV was 6L. He denied SOB and appeared very comfortable. ?central in etiology. Plan for possible head ct in am. O2sats had been good but currently unable to get them. FiO2 increased to 60%. Currently on a/c. Occ over breathes 1-2 breaths. MIn secretions. SVO2 67-72.
+
+800cc readi cat given for chest and abd ct. Vomited x3 in ct. No noted aspiration. Residual barium (400cc) aspirated out and discarded. In am he had >100cc residual and TFs were dc'd. Plan to start Reglan and resume Nepro at 10cc/hr. No stool. + bowel sds.
+
+Given 2uPRBCs with repeat Hct ~34.
+
+Central line fell out of phalange in ct scan. Currently has 3 PIVs. Stable BP off Vassopressin. Remains in A-Fib. Cardiac echo done.
+
+K+, Mg++ and Calcium replaced.
+
+Afebrile all day.
+
+[**Initials (NamePattern4) **] [**Doctor Last Name 143**] in all day and updated by pulm fellow.
+",,
+24019,24587,29831,0,3097-01-25 18:34:00 EST,3097-01-25 18:37:00 EST,1039,"N",69,"Nursing/Other","Respiratory Care","
+Respiratory Care
+Pt. placed back on A/C after failed wean from [**9-22**] with abg resulting in 723/56/53/25/-4/ , even with a RSBI of 13, rr 14 mv only 4.0. Will stoop fentyl and wean in am.
+",,
+24019,24587,29831,0,3097-01-25 18:41:00 EST,3097-01-25 18:42:00 EST,1039,"N",69,"Nursing/Other","Respiratory Care","
+Respiratory Care
+Pt to cat-scan without respiratory complications.
+",,
+24019,24587,29831,0,3097-01-26 06:25:00 EST,3097-01-26 06:52:00 EST,1014,"N",69,"Nursing/Other",,"
+
+npn 7p-7a (see carevue flownotes for objective data)
+
+dx: s/p liver transplant [**9-19**]; since transplant developed lung CA, now with liver mets and possible pelvic mets;
+
+neuro/c-v:
+received pt off fentanyl; some gtts dc'd abruptly yesterday afternoon d/t cvl came out at procedure (CT) during transfer; 
+   pt stable, restarted fentanyl at low dose d/t pt w hx pelvic pain, and goal to avoid w/drawal syndrome;
+   urine output low, v-response increased to 130's up to 150 at times; received 500 cc IVF boluses over the night x2; did also receive IV lopressor 5 mg x2, 2nd dose after 2nd 500 bolus infused--to avoid hypotension;  hrt rate did decrease to low 100's/low 110's;
+   urine output remained low overnight despite fluid boluses; BUN/creatinine w/out much change from previous;
+
+resp:
+pt s/p PS trial yesterday;
+   received pt on a/c rate 16 decreased to 10 last eve, TV 500/.60/peep 8; ABG showed good toleration of settings; at 06:00 changed to PS, immediately hrt rhythm became rapid a-fib in 140's, sbp increased from 99/102 to 140's, resp rate increased; peep 8 added; pt's vs returned to current baseline with PS 15/Peep 8, FIO2 .60--pt's resp rate approx 22 without distress;
+
+g-i:
+started on Nepro, tolerated increase w/ scant resids overnight, currently at 30 cc/hr, which is current goal for this formula; whith continued toleration, nurition c/s suggests switching to Nepro [**1-21**] to promode 55 g daily, with goal 45 cc/hr;
+   no stool this night;
+
+endo:
+insulin gtt off late last eve, has stayed off overnight, with FS's 99-104; 
+
+skin:
+pt with taught skin in peri-area d/t generalized anascara d/t liver failure; smaller than dime size decube rt hip; coccyx slightly reddned, though w/out breakdown; 
+   
+access:
+left a.c. IV site found infiltrated at beginning of shift, new #20 started in rt hand; managing this pt with delicate hemodynamic situation may be tenuous with only periph IV's; may want to consider another cvl or PICC; 
+
+social:
+pt's [**Initials (NamePattern4) **] [**Doctor Last Name 143**] present last eve, as well as other visitors; 
+
+i.d./spesis:
+continues to receive IV Abx; WBC 2.0 this a.m.; afebrile overnight;
+
+PLAN:
+see how long pt tolerates PS/PEEP; rest back on A/C if resp distress occurs; ? extubation if very good toleration with continued wean;
+   keep narcotics low dose re liver mets;
+   meticulous skin care;
+   consider access situation re [**Hospital 254**] medical/physical status;
+",,
+24019,24587,29831,0,3097-01-26 17:50:00 EST,3097-01-26 17:52:00 EST,1437,"N",69,"Nursing/Other",,"
+
+Resp Care
+
+Attempted pt on psv 5/5 this am.  Follow up abg 7.18/58/60/23.  Pt placed on A/C with a corresponding improved abg.  BS coarse. Receiving Alb mdi's
+",,
+24019,24587,29831,0,3097-01-26 18:15:00 EST,3097-01-26 18:34:00 EST,762,"N",69,"Nursing/Other",,"
+
+NPN
+
+Neuro:  Pt alert and oriented, able to understand a fair amount of english, able to participate some in his care.
+
+CV:  Pt was started on lopressor 25mg per OGT, this lowered his HR from the 120s-150s to the 90s-100s, SBP also decreased from the 120s-130s to the 90s.
+
+Resp:  Remains vented, he was tried on PS of 5/5 and his ABG was 7.18/58/60, he was placed back on A/C 16/500/5/.5 and his ABG was 7.27/45/100 - his rate was increaed to 22.  Sx for a mod amount of yellow secreations.
+
+GI:  He remains on nepro at 30cc/hr - his goal rate.  He has been intermitantly c/o feeling nauseated for short periods of time.  He has been ordered for compazine.  His abd remains firm, hypoactive BS, he did have a lg BM today.
+
+GU:  Poor u/o ~ 2-10cc/hr, there was some discussion on rounds about starting lasix but it has not been ordered.
+
+Endo:  He is now back on an insulin gtt to maintain a BS 80-120.
+
+Soc:  There was a family meeting today to discuss end of life choices. The attending, intern, myself, an italian interpreter, and his family were there.  We talked to him about taking him off of the vent and keeping him comfortable on morphine gtt vs taking him off of the vent with the option of putting him back on the vent if he didn't tolerate being extubated.  He talked to his family after the meeting and per his SO he would want to go back on the vent if he needed to.  We will have another discussion with him tomorrow with the interpreter.
+
+",,
+24019,24587,29831,,3097-01-27 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3097-1-27**] 8:12 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 14895**]
+     Reason: please assess ETT placement                                 
+     Admitting Diagnosis: SEPSIS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+           63 year old man with pna. sepsis self-extubated, now reintubated.          
+                                       
+     REASON FOR THIS EXAMINATION:
+      please assess ETT placement                                                     
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Pneumonia and sepsis. EETT placement.  COMPARISON: [**3097-1-23**].
+     
+     AP bedside chest:  The endotracheal tube is unchanged in position.  The tip of
+     the nasogastric tube is seen well below the left diaphragm in the expected
+     stomach.  The left subclavian central venous catheter has been removed.  No
+     pneumothorax.  A large left upper lobe opacity/mass is unchanged.  There is
+     lucency of the right upper lobe which may represent a bulla.  Right and left
+     pleural effusions are present, layering posteriorly.  The right pleural
+     effusion is seen in the 'open' portion of the right major fissure laterally.
+     No pneumothorax.  The cardiovascular status of the patient is difficult to
+     assess on this bedside exam.  There is borderline cardiomegaly with prominent
+     pulmonary vasculature, without overt failure.
+     
+     IMPRESSION:  No significant interval change except for removal of left
+     subclavian central venous catheter.  No pneumothorax.
+
+",,
+24019,24587,29831,0,3097-01-27 04:24:00 EST,3097-01-27 04:45:00 EST,760,"N",69,"Nursing/Other","Smicu nsg progress note","
+Smicu nsg progress note
+Neuro- Initially quite agitated moving about in bed pulling sheets on and off. Pt oriented and answering questions appropiately. Asking for something to help him [**Doctor Last Name **]. Given .5mg ativan followed by additional 1mg without change. Pt then becoming confused attemping to get oob pulling at tubes. Restraints on for safety. Ho notified and pt given 1mg haldolx2 followed by 4mg with improvement of agitation although pt still unable to [**Doctor Last Name **]. Pt requiring frequent reorientation to room and reason he was admitted. 
+
+Resp- Remains intub/vented on ac 500x22 breathing [**1-23**] above vent. Suctioned for minimal secretions. On 50% 5peep with sats 96-98%.
+
+Cardiac- Bp remains stable. Cont in af with hr low 98 to high 140 dependent on state of agitiation. No futher fluid boluses. Cont with total body anascara and minimal uo. ?need to diuresis before attempting to wean.
+
+Gi- On goal tube feeds at 30/hr with minimal aspirates. Abdomen firm with bs. C/o intermittent nausea. Given compazine with some improvement. Passing sm amt loose stool. Cont on insulin gtt adjusted according to fs (see flow sheet)
+
+Id- Remains afebrile on current antibiotics. 
+",,
+24019,24587,29831,0,3097-01-27 06:32:00 EST,3097-01-27 06:37:00 EST,760,"N",69,"Nursing/Other","Nsg addendem","
+Nsg addendem
+At 6am pt found self extubated. Hands in soft restraints at time. 100% nr on. Although pt denies sob appears sob with rr 26 rales anteriorly. Given 40mg lasix. Hr now 130's with bp 140/80. Awaiting abg for possible re-intubation. Pt's [**First Name8 (NamePattern2) **] [**Doctor Last Name 143**] called and she is on her way to hospital.
+",,
+24019,24587,29831,0,3097-01-27 17:32:00 EST,3097-01-27 18:21:00 EST,209,"N",69,"Nursing/Other","FINARD 4 ICU NPN 0700-1900","
+[**Hospital Ward Name 312**] 4 ICU NPN 0700-1900
+
+Self-extubated for second time in five hrs despite being on fentanyl gtt after the first extubation. Per family he did not know why he pulled the tube out but just wanted to go home. Placed on supportive mask ventilation until brother arrived  this afternoon. When all family present decision was to make pt CMO. Currently on morphine sulfate gtt at 3 mg/hr. Presently unresponsive when name called. RR 20's. Does not appear be be in pain.
+
+Unable to determine if pt oriented this morning. Unable to effective communicate with pt when intubated & with mask ventilation. ABG 92/61/7.15-7.26/21/-7. BS coarse.
+
+Oliguric.
+
+Fentanyl gtt stopped when pt extubated self. Attorney [**First Name8 (NamePattern2) 4056**] [**Last Name (NamePattern1) **] arrived shortly after extubation  Documents signed by pt with an X. Signing not witnessed by this nurse or any medical staff. When questioned about the documents this nurse [**First Name (Titles) 4057**] [**Last Name (Titles) 4058**] [**Doctor First Name **] & visiters that pt's mental status was in question this morning & pt's blood PH was very acidotic as well.
+Attorney provided one document which was copied & returned to attorney
+Second document was placed in orange folder.
+
+A/P: 
+CMO goal for pt care. Titrate morphine sulfate to comfort.
+? competency of pt's mentals status throughout tha day.
+Support to family.
+
+",,
+24019,,29831,0,3097-01-28 04:35:00 EST,3097-01-28 04:40:00 EST,760,"N",69,"Nursing/Other","Smicu nsg progress note","
+Smicu nsg progress note
+s/o- Pt unresponsive on 3mg/hr morphine. Agonal breathing with rr 8-10 with minimal bp thoughout night. Family in and out at bedside.
+A- without pain on morphine gtt. Family grieving appropriately
+P- Cont with comfort measures. Support family.
+",,
+24019,,29831,0,3097-01-28 14:18:00 EST,3097-01-28 14:23:00 EST,209,"N",69,"Nursing/Other","FINARD 4 ICU NPN 0700-1900","
+[**Hospital Ward Name 312**] 4 ICU NPN 0700-1900
+Unresponsive on MS04 3mg hr. Family members in & out throughout the day. Expired at 12:35Pm. Catholic priest & social worker supporting family. Autopsy declined by family.
+",,

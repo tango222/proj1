@@ -1,0 +1,1474 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+24674,24230,,,3038-10-22 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+ 
+ 
+ 
+Admission Date:  [**3038-10-22**]              Discharge Date:   [**3038-11-5**]
+ 
+Date of Birth:  [**2984-10-14**]             Sex:   F
+ 
+Service: ORTHOPAEDICS
+ 
+Allergies: 
+Penicillins / Shellfish / Fish Product Derivatives / Barium 
+Sulfate / Iodine
+ 
+Attending:[**First Name3 (LF) 1567**] 
+Addendum:
+Pt developed acute renal failure requiring an ICU transfer 
+[**Date range (1) 5844**]. 
+ 
+Major Surgical or Invasive Procedure:
+anterior lumbar fusion L5-S1 [**3038-10-22**]. posterior lumbar fusion 
+L5-S1 [**3038-10-23**]
+
+ 
+Past Medical History:
+RA--on chronic prednisone and arava
+osteoporosis
+spinal stenosis s/p laminectomy and decomp of C6-C7
+recent pyelo/ horshoe kidney
+ulcerative keratitis from RA
+reactive airway disease
+RLL nodules (seen [**3038-3-7**])
+chronic anemia-Fe deficiency
+reactive airway disease
+
+ 
+Social History:
+Denies EtOH, tobacco, illicits
+
+ 
+Family History:
+NC
+
+ 
+Pertinent Results:
+[**3038-11-5**] 03:11AM BLOOD WBC-8.5 RBC-2.90* Hgb-7.9* Hct-24.2* 
+MCV-83 MCH-27.3 MCHC-32.7 RDW-15.9* Plt Ct-365
+[**3038-11-2**] 08:11AM BLOOD WBC-9.6 RBC-2.94* Hgb-8.1* Hct-24.4* 
+MCV-83 MCH-27.7 MCHC-33.5 RDW-16.1* Plt Ct-388
+[**3038-11-5**] 03:11AM BLOOD Plt Ct-365
+[**3038-11-5**] 03:11AM BLOOD PT-12.8 INR(PT)-1.1
+[**3038-11-5**] 03:11AM BLOOD Glucose-166* UreaN-98* Creat-4.0*# Na-139 
+K-5.2* Cl-107 HCO3-20* AnGap-17
+[**3038-10-31**] 03:04AM BLOOD Glucose-128* UreaN-114* Creat-7.8* Na-141 
+K-5.2* Cl-103 HCO3-19* AnGap-24*
+[**3038-10-26**] 03:49PM BLOOD Glucose-185* UreaN-22* Creat-4.0*# Na-136 
+K-4.5 Cl-103 HCO3-20* AnGap-18
+[**3038-11-5**] 03:11AM BLOOD Calcium-8.5 Phos-4.6* Mg-1.6
+ 
+Brief Hospital Course:
+pt transferred to ICU 11/4-119 secondary to acute renal failure.
+ 
+Discharge Medications:
+1. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2 
+times a day).  
+2. Albuterol Sulfate 0.083 % Solution Sig: [**12-24**]  Inhalation Q6H 
+(every 6 hours) as needed for wheezing.  
+3. Albuterol-Ipratropium 103-18 mcg/Actuation Aerosol Sig: [**12-24**] 
+Puffs Inhalation Q6H (every 6 hours) as needed for wheezing.  
+4. Fluticasone 110 mcg/Actuation Aerosol Sig: Two (2) Puff 
+Inhalation BID (2 times a day) as needed for wheezing.  
+5. Hydroxychloroquine 200 mg Tablet Sig: One (1) Tablet PO BID 
+(2 times a day).  
+6. Oxycodone 10 mg Tablet Sustained Release 12HR Sig: Three (3) 
+Tablet Sustained Release 12HR PO Q12H (every 12 hours).  
+7. Oxycodone 20 mg Tablet Sustained Release 12HR Sig: One (1) 
+Tablet Sustained Release 12HR PO DAILY (Daily).  
+8. Hydrocodone-Acetaminophen 5-500 mg Tablet Sig: 1-2 Tablets PO 
+Q4-6H (every 4 to 6 hours) as needed.  
+9. Bisacodyl 5 mg Tablet, Delayed Release (E.C.) Sig: Two (2) 
+Tablet, Delayed Release (E.C.) PO BID (2 times a day) as needed. 
+ 
+10. Clonazepam 0.5 mg Tablet Sig: One (1) Tablet PO QHS (once a 
+day (at bedtime)) as needed for insomnia.  
+11. Zolpidem 5 mg Tablet Sig: One (1) Tablet PO HS (at bedtime) 
+as needed for insomnia.  
+12. Heparin (Porcine) 5,000 unit/mL Solution Sig: One (1)  
+Injection TID (3 times a day): until ambulating regularly.  
+13. Calcium Acetate 667 mg Tablet Sig: Two (2) Tablet PO TID 
+W/MEALS (3 TIMES A DAY WITH MEALS).  
+14. Insulin Regular Human 100 unit/mL Solution Sig: One (1)  
+Injection ASDIR (AS DIRECTED).  
+15. Sevelamer 800 mg Tablet Sig: Two (2) Tablet PO TID (3 times 
+a day).  
+16. Calcium Carbonate 500 mg Tablet, Chewable Sig: One (1) 
+Tablet, Chewable PO QID (4 times a day) as needed for 
+indigestion.  
+17. Pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One 
+(1) Tablet, Delayed Release (E.C.) PO once a day.  
+18. Valium 2 mg Tablet Sig: One (1) Tablet PO every eight (8) 
+hours as needed.  
+19. Hydrocortisone 20 mg Tablet Sig: Four (4) Tablet PO every 
+eight (8) hours: titrate per pcp.  
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+[**Hospital6 694**] - [**Location (un) 695**]
+ 
+Discharge Diagnosis:
+Degenerative disc disease. Acute renal failure.
+
+ 
+Discharge Condition:
+good
+
+ 
+Discharge Instructions:
+keep incisions clean and dry X 2. 
+Physical Therapy:
+no lifting > 15 lbs. no bending/twisting
+Treatments Frequency:
+keep incision clean and dry
+ 
+Followup Instructions:
+10 days with Dr [**Last Name (STitle) 540**] [**Telephone/Fax (1) 103**]. 10 days with PCP Monitor 
+pt's creatinine/BUN levels QOD
+
+ 
+                             [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 1568**] MD [**MD Number 1569**]
+ 
+Completed by: [**Hospital1 **] [**Doctor Last Name 2865**] DO 70-BUK [**3038-11-5**] @ 1035
+Signed electronically by: DR. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **]
+ on: MON [**3038-11-5**] 11:43 AM
+(End of Report)
+
+
+",,
+24674,24230,,,3038-10-22 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3038-10-22**] 9:05 AM
+     LUMBAR SP,SINGLE FILM IN O.R.                                   Clip # [**Clip Number (Radiology) 4932**]
+     Reason: ANTERIOR LUMBAR FUSION
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Anterior lumbar fusion.
+     
+     COMPARISON:  MR lumbar spine dated [**3038-8-11**].
+     
+     SINGLE INTRAOPERATIVE LATERAL VIEW OF THE LUMBAR SPINE: 
+     
+     There is an intervertebral fusion device which is well seated between the L5
+     and S1 vertebral bodies.  There is grade I anterolisthesis of L5 on S1.
+     Surgical tools are seen anterior to the spine.  There are surgical clips
+     anterior to the fusion device and the L5 vertebral body.  Please refer to the
+     operative report for full details.
+
+",,
+24674,24230,,,3038-10-22 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3038-10-22**] 10:35 AM
+     CHEST PORT. LINE PLACEMENT                                      Clip # [**Clip Number (Radiology) 4933**]
+     Reason: check position R IJ                                         
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      54 year old woman with R IJ inserted                                            
+     REASON FOR THIS EXAMINATION:
+      check position R IJ                                                             
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  54-year-old woman status post insertion of right IJ line.  Please
+     assess position of line.
+     
+     TECHNIQUE:  A single semi-upright portable AP chest radiograph was obtained.
+     
+     COMPARISON:  PA and lateral views of the chest [**3038-8-9**].
+     
+     FINDINGS:  There is a right internal jugular central venous catheter with tip
+     in the SVC.  Given the patient's position, there is no appreciable change in
+     appearance of the cardiomediastinal contours and cardiomegaly.  The left base
+     is not fully visualized on this study, but there is an apparent new opacity of
+     the left lateral hemithorax, which is new in comparison to [**3038-8-9**],
+     and may represent a new layering left pleural effusion.  There also is
+     apparent parenchymal opacification at the left base consistent with
+     atelectasis.  The right lung is grossly clear.  Skeletal structures are
+     notable for spinal hardware in the cervical spine, which is stable.
+     
+     IMPRESSION:  Right IJ central catheter as described.  New left pleural
+     opacification, which is suggestive of pleural effusion with probable adjacent
+     atelectasis.  A full chest radiograph is recommended to better evaluate the
+     left hemithorax, which is incompletely imaged on this study.
+     
+
+",,
+24674,24230,,,3038-10-23 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3038-10-23**] 3:07 PM
+     L-SPINE (AP & LAT) IN O.R.                                      Clip # [**Clip Number (Radiology) 4934**]
+     Reason: LUMBAR
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Status post posterior lumbar fusion.
+     
+     COMPARISON:  Intraoperative film of the lumbar spine from [**3038-10-22**].
+     
+     SINGLE LATERAL VIEW OF THE LUMBAR SPINE:  The patient is status post posterior
+     fusion of L5-S1 with two short posterior rods and two pairs of pedicle screws.
+     Again seen is an intervertebral fusion device at L5-S1.  The vertebral body
+     heights are well preserved.  The alignment of L5-S1 cannot be assessed
+     secondary to underpenetration.
+
+",,
+24674,24230,,,3038-10-25 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3038-10-25**] 11:59
+     PORTABLE ABDOMEN                                                Clip # [**Clip Number (Radiology) 4935**]
+     Reason: UMBILICAL HERNIA, ? OBSTRUCTION
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      54 year old woman s/p spine surgery                                             
+     REASON FOR THIS EXAMINATION:
+      54 year old woman s/p spine surgery                                             
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  54-year-old woman status post spine surgery.
+     
+     ABDOMEN SINGLE VIEW:  There is distention of the large bowel loops consistent
+     with postoperative colonic ileus.  Fixation device is visualized at the L5-S1
+     level for L5/S1 level fusion.
+
+",,
+24674,24230,,,3038-10-26 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3038-10-26**] 1:41 PM
+     CHEST PORT. LINE PLACEMENT                                      Clip # [**Clip Number (Radiology) 4937**]
+     Reason: assess for ptx after rt subclavian attempt                  
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       54 year old woman with R IJ inserted                                           
+       
+     REASON FOR THIS EXAMINATION:
+      assess for ptx after rt subclavian attempt                                      
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     PORTABLE SEMI-UPRIGHT CHEST, [**3038-10-26**]
+     
+     COMPARISON:  [**3038-10-22**]
+     
+     INDICATION:  Right subclavian line attempt.
+     
+     There is no evidence of pneumothorax.
+     
+     There is stable cardiomegaly.  There is mild engorgement of the pulmonary
+     vasculature and peribronchial cuffing as well as slight perihilar haziness. 
+     Discoid atelectasis is seen in the left lower lobe as well as a small left
+     pleural effusion.
+     
+     IMPRESSION:
+     1.  No evidence of pneumothorax.
+     2.  Mild congestive heart failure.
+     3.  Discoid atelectasis left lower lobe and small left pleural effusion.
+                                                                           
+
+",,
+24674,24230,,,3038-10-26 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3038-10-26**] 3:36 AM
+     RENAL U.S. PORT                                                 Clip # [**Clip Number (Radiology) 4936**]
+     Reason: 54 year old woman with ARF                                  
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      54 year old woman with ARF                                                      
+     REASON FOR THIS EXAMINATION:
+      54 year old woman with ARF                                                      
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     
+     HISTORY:  Acute renal failure.
+     
+     COMPARISON:  Abdominal CT from [**3038-3-6**].
+     
+     RENAL ULTRASOUND:  Study is limited due to patient's body habitus and
+     overlying bandages.  A horseshoe kidney is present.  The right-sided moiety
+     measures approximately 12 cm, and the left-sided moiety measures approximately
+     17 cm.  No hydronephrosis was identified, and no renal masses or renal calculi
+     were noted.  The bladder cannot be imaged secondary to an overlying bandage.
+     
+     IMPRESSION:  Limited study.  Horseshoe kidney without evidence of
+     hydronephrosis.
+
+",,
+24674,24230,,,3038-10-26 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3038-10-26**] 3:22 PM
+     CHEST PORT. LINE PLACEMENT; -76 BY SAME PHYSICIAN               [**Name Initial (PRE) 232**] # [**Clip Number (Radiology) 4938**]
+     Reason: s/p left subclavian line placement, eval for PTX            
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        54 year old woman with R IJ inserted                                          
+         
+     REASON FOR THIS EXAMINATION:
+      s/p left subclavian line placement, eval for PTX                                
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  54-year-old woman status post new central catheter placement.
+     
+     TECHNIQUE:  AP chest compared with [**3038-10-26**] at 1426.
+     
+     FINDINGS:  There has been interval placement of a left subclavian central
+     catheter with tip just below the cavoatrial junction within the proximal right
+     atrium.  Tip of the nasogastric tube extends beyond the inferior border of
+     this image but likely is within the stomach.  The stomach is noted to be
+     markedly distended.  Aside from the placement of the subclavian catheter and
+     gastric distension, there is no significant change in appearance of the chest
+     compared to prior study approximately one hour earlier.
+                                                                           
+
+",,
+24674,24230,,,3038-10-26 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3038-10-26**] 3:22 PM
+     CHEST PORT. LINE PLACEMENT; -76 BY SAME PHYSICIAN               [**Name Initial (PRE) 232**] # [**Clip Number (Radiology) 4938**]
+     Reason: s/p left subclavian line placement, eval for PTX            
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        54 year old woman with R IJ inserted                                          
+         
+     REASON FOR THIS EXAMINATION:
+      s/p left subclavian line placement, eval for PTX                                
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  54-year-old woman status post new central catheter placement.
+     
+     TECHNIQUE:  AP chest compared with [**3038-10-26**] at 1426.
+     
+     FINDINGS:  There has been interval placement of a left subclavian central
+     catheter with tip just below the cavoatrial junction within the proximal right
+     atrium.  Tip of the nasogastric tube extends beyond the inferior border of
+     this image but likely is within the stomach.  The stomach is noted to be
+     markedly distended.  Aside from the placement of the subclavian catheter and
+     gastric distension, there is no significant change in appearance of the chest
+     compared to prior study approximately one hour earlier.
+                                                                           
+
+",,
+24674,24230,30637,0,3038-10-26 06:56:00 EST,3038-10-26 06:59:00 EST,3273,"N",53,"Nursing/Other",,"
+
+NPN (NOC):  PLEASE SEE FHPA AND FLOWSHEET FOR DETAILS OF PMHX, HPI AND ASSESSMENT.  BRIEFLY, PT IS A 57 Y/O WOMAN WHO THIS WEEK UNDERWENT ANT/PST L5-S1 LAMI/FUSION.  SHE WAS READY TO GO TO REHAB WHEN IT WAS NOTED LAST NIGHT THAT HER UO DROPPED TO ZERO FROM 2 PM TO MN.  SHE DID NOT RESPOND TO FB'S AND CRAET HAS TRIPLED TO 2.7 (0.9).  ALSO ABD IS DISTENDED.  KUB SHOWS DILATED LOOPS OF BOWEL.  PT REF NGT. SO FAR GIVEN ONE 500 CC FB SINCE ADM TO SICU W/O UO.  
+",,
+24674,24230,30637,0,3038-10-26 17:05:00 EST,3038-10-26 17:31:00 EST,6232,"N",53,"Nursing/Other","NSICU Nursing Progress Note","
+NSICU Nursing Progress Note
+Neuro - Pt alert and oriented.  C/o constant pain ""everywhere.""  MAE spontaneously and to command.  Emotionally distresssed, unable to be cooperative with procedures.
+
+CV - NSR, one short burst of SVT.  MBPs 60s to 80s by cuff.  Peripheral pulses palpable.  CVP placed with pressures 11 - 13.
+
+Resp - 2-4 liters nasal canula with O2 sat > 96%.  Lungs CTA, diminished in bases.  Strong, nonproductive cough with encouragement.
+
+GI - NPO.  Several episodes of vomiting this AM.  NGT placed, draining bilious fluid.  Small liquid (watery) brown BM this morning.
+
+GU - Anuric despite multiple fluid boluses, adequate blood pressure and CVP.  UA, urine lytes and cx sent.  Potassium level rising (no K+ in IVF).  Renal recommends watchful waiting, fluid for low CVP.
+
+Endo - Regular insulin sliding scale.
+
+Skin - Incisions with steri-strips intact.
+
+A - ARF (ATN) s/p spinal surgery.
+
+P - Medicate for pain, anxiety.  Monitor fluid status, lytes.  Maintain NPO.  Fluid for low CVP.
+",,
+24674,24230,30637,0,3038-10-27 05:52:00 EST,3038-10-27 06:07:00 EST,3214,"N",53,"Nursing/Other","NURSING UPDATE","
+NURSING UPDATE
+   ALERT AND ORIENTED, CONVERSATION APPROPRIATE THOUGH SPEECH DIFFICULT TO UNDERSTAND AT TIMES, PT SAYS THIS IS HER USUAL SPEECH.  REQUIRED ANALGESIA APPROX Q2H TO MAINTAIN TOLERABLE LEVEL OF COMFORT.
+   CARDIOVASCULARLY STABLE. NORMOTENSIVE.  LOW GRADE TEMP, TMAX 99.3.  HCT 25...NO CHANGE FROM YESTERDAY'S BASELINE.
+   URINE OUTPUT 115CC FOR ENTIRE 12 HOUR SHIFT.  URINE PALE CLEAR YELLOW. CREAT CONTINUES TO RISE, UP TO 5.0 THIS AM.
+   NPO, NGT DRAINING GREEN BILE TO LOW WALL SUCTION.  BOWEL SOUNDS VERY HYPOACTIVE, ABDOMEN FIRM, DISTENDED AND TENDER ON PALPATION. ATTEMPTED USE OF BEDPAN X1, PASSED FLATUS, NO BM.
+",,
+24674,24230,30637,0,3038-10-27 16:05:00 EST,3038-10-27 16:26:00 EST,6570,"N",53,"Nursing/Other","NURSING NOTE 7A-7P","
+NURSING NOTE 7A-7P
+SEE CAREVUE FOR SPECIFICS:
+NEURO-A&OX3, PERRLA, MOVES ALL EXTREMS. PLEASANT & COOPERATIVE, SPEECH DIFF TO UNDERSTAND AT TIMES (BASELINE). ANXIOUS WITH ACTIVITY/MOVEMENT. NEEDS LOTS OF ENCOURAGEMENT WITH POSITION CHANGES. NO ACTIVITY LIMITATIONS PER DR. [**Last Name (STitle) 210**]. 
+CV-HCT STABLE, HR 60-90s WITH OCCAS PVCs, SBP 120s-160s, (+)PPs, CVP 12-18, AFEB WBC. C/O ABD /BACK PAIN FENTANYL PRN WITH EFFECT.
+RESP-SPO2 95-100% ON 2L VIA NC. LS COARSE WITH OCCAS EXP WHEEZES, INHALES a/o'd & PRN WITH EFFECT. CPT WITH POSITION CHANGES.
+ABD-NPO, OGT TO LCWS WITH BILOUS DRNG, TOL BEING CLAMPED FOR 2HRS AFTER MEDS, NO C/O N/V. ABD FIRMLY DISTENDED, (+) HYPOACTIVE BSX4.
+GU-ARF, U/O 20-25cc Q2HRS, RENAL FOLLOWING, NO IVFs OR LASIX AT THIS TIME, WILL CONSIDER IF BECOMES HYPOTENSIVE/HYPOVOLEMIC.
+ENDO-BS QID WITH SC COVERAGE, NO INSULIN NEEDED THIS SHIFT.
+SKIN-ABD & BACK STERI-STRIPS C/D/I, 
+A/P-STABLE, CONTINUE WITH CURRENT CARE PLAN. CLOSELY MONITOR KIDNEY FUNCTION (U/O, CREAT). ENCOURAGE REPOSITION CHANGES. PULMONARY TOILETING
+
+",,
+24674,24230,30637,0,3038-10-28 15:48:00 EST,3038-10-28 16:01:00 EST,7313,"N",53,"Nursing/Other","SICU nursing progress note","
+SICU nursing progress note
+Please refer to flowsheet for specific info.
+
+Neuro: Alert O x 3. Assessment is consistent with previous assessment.
+
+Pain: C/o incisional / back discomfort and medicated with fentanyl 50 mcg IV q 1.5-2 hours. prn. with good effect. Repositioned for comfort. 
+
+Resp: Breath sounds clear and equal bilaterally. 02 2L NC, with sat's >98%. Encouraged to Cough and deep breath. Incentive spirometry 500- 750cc q 2-3 hours. 
+
+CV: SB to SR. Well perfused with brisk cap refill < 2seconds. BP stable.
+
+GI/ Abd: Hypoactive bs x 4, Abdomen softly distended. NGT with bilious color returns on Low continuous suction.
+
+GU: Foley cath to gravity, UOP 10-30cc/ hour. PM labs with increase in BUN 61, creatinine 7.2. Calcium 7.1, Phosphorus 8.5, K+ 4.9. Dr. [**Last Name (STitle) 1707**] updated. Renal team following. Please refer to consult note. 
+
+Social: Family called and updated, verbalizing understanding. 
+
+Plan: Cont to follow glucose q 6 hours/ sliding scale coverage. Cont to medicate for pain prn. Renal team following. NGT to low cont sxn. Labs as ordered. Reposition as tolerated. Encourage C/DB q 2hours and prn. D/C plan is ongoing. 
+
+
+
+
+",,
+24674,24230,30637,,3038-10-29 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3038-10-29**] 10:16 AM
+     L-SPINE (AP & LAT)                                              Clip # [**Clip Number (Radiology) 4939**]
+     Reason: check hardware                                              
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      54 year old woman with s/p lumbar fusion                                        
+     REASON FOR THIS EXAMINATION:
+      check hardware                                                                  
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CLINICAL HISTORY:  Status post lumbar fusion.  Evaluate hardware.
+     
+     Lumbar spine AP and lateral [**3038-10-29**]; acquired images markedly limited by
+     patient's body habitus.  Compared to [**3038-10-23**], reidentified is posterior L5-S1
+     osteometallic fusion with the pedicle screws, short rods, laminectomy and
+     intervertebral disc spacer.
+     
+     There is marked distention of the visualized colon with one loop of bowel
+     (probably sigmoid) measuring up to 10 cm.
+     
+     IMPRESSION:
+     1.  Status post L5-S1 posterior osteometallic fusion.
+     2.  Gaseous distention of the visualized large bowel.  KUB recommended to
+     evaluate for possible post-op ileus.
+
+",,
+24674,24230,30637,0,3038-10-29 05:31:00 EST,3038-10-29 05:42:00 EST,3214,"N",53,"Nursing/Other","NURSING UPDATE","
+NURSING UPDATE
+CV: 
+   HR NSR, NORMOTENSIVE. AFEBRILE. CVP  10-12. WEIGHT DOWN 1KG OVER 24H. HCT LOW BUT SAME AS YESTERDAY 24.4, TEAM AWARE, NOT TRANSFUSIONS ORDERED AT THIS TIME.
+
+GI:  
+   PRN DULCOLAX GIVEN FOR BOWEL STIM, ATTEMPTED BEDPAN, FLATUS NO BM. BOWEL SOUNDS REMAIN HYPOACTIVE. NGT DRAINING BILE TO LWS.
+
+RENAL:  
+   F/CATH DRAINING CLEAR YELLOW URINE, 25-40CC/H. CREAT CONTINUES TO RISE, 7.8 THIS AM, K+ 5.0.
+
+PAIN/ANXIETY:
+   GENERAL JOINT AND BACK PAIN DUE TO R/A.  ACCEPTABLE COMFORT LEVEL MAINTAINED WITH FENTANYL AND DIAZEPAM IV.  
+
+PLAN: CONTINUE TO WATCH RENAL STATUS AT THIS TIME PER RENAL TEAM. MAINTAIN COMFORTABLE STATUS.
+",,
+24674,24230,30637,0,3038-10-29 15:49:00 EST,3038-10-29 16:06:00 EST,6570,"N",53,"Nursing/Other","NURSING NOTE","
+NURSING NOTE
+SEE CAREVUE FOR SPECIFICS:
+NEURO-REMAINS A&OX3, PLEASANT & COOPERATIVE, ANXIOUS AT TIMES RESPONDS WELL TO EXPLANTAION AND ENCOURAGEMENT.  OOB TO CHAIR TOL FOR 45MINS. L SPINES COMPLETED FOR HARWARE CHECK, NO ACTIVITY LIMITATIONS PER DR. [**Last Name (STitle) 210**]. C/O BACK PAIN AT REST & WITH ACTIVITY, FENTANYL PRN WITH GOOD EFFECT.
+CV-HR 50s-70S, NSR/SB DR. [**Last Name (STitle) 382**],J AWARE, SBP STABLE 120s-140s, AM HCT 24.4 NO TRANSFUSION ORDRS AT PRESENT TIME, D/T MOST LIKELY DILUTIONAL.
+PHOSP 9.1 CONTINUED ON CALCIUM ACETATE TID,
+RESP-LS CLEAR & DIMINISHED, SPO2 95-100% ON 4L WEANED TO 2L TOL WELL, DESATS TO 90-91% ON RA. 
+GI- NPO, NGT TO LCWS WITH BILOUS DRNG, TOL BEING CLAMPED FOR 1-2HRS AFTER MEDS GIVEN, NO C/O N&V. ABD SOFTLY DISTENDED, (+)HYPOACTIVE BSX4, SM SOFT STOOL NOTED AROUND RECTUM. 
+GU-CREAT 7.8 THIS AM (CHECKING QD PER RENAL/SICU TEAM), U/O CONTINUES TO IMPROVE 30-60cc/hr. RENAL FOLLOWING
+ENDO-BS QID WITH SC COVERAGE, NO INSULIN NEEDED TODAY.
+SKIN-ABD & LOWER BACK STERI STRIPS C/D/I.
+A/P-ARF S/P LAMI FUSION. CONTINUE WITH CURRENT CARE PLAN. MONITOR RENAL FUCTION CLOSELY, ENCOURAGE ACTIVITY/OOB.
+
+ 
+",,
+24674,24230,30637,0,3038-10-30 04:50:00 EST,3038-10-30 05:00:00 EST,6327,"N",53,"Nursing/Other",,"
+
+1900-0700
+
+Neuro: Pt awake, alert, oriented. Follows commands well, answers questions appropriately. Weakly moves ext/lifts and holds. C/o of pain to back at rest and with movement. Medicated with Fentanyl 50mcg with good effect.
+
+Resp: Pt on 2L NC, tolerating well. no SOB. Pt resp easy and regular. Lungs clear/ diminished at the bases. Weak cough noted. O2sat 94-98%. Encouraged to use IS.
+
+CV: S.Bradycardia without ectopy. HR 50-60, SBP 130-150. afebrile. Weak pulses to lower ext. Generalized edema. Skin intact. Abd with incision site C+D, steri strips intact. Back dsg D+I. L SC tlc. HCT:24.9, K:4.8.
+
+GI/GU: Abd softly distended and tender, hypo bs, no bm. Remains receiving colace/ducalox. [**Hospital1 **] sump to LCWS draining bilious fluid. NPO/taking ice chips to wet mouth for comfort. Foley to BSD draining clear yellow urine approx 25-50cc/hr.
+
+Endo: RISS
+
+Plan: Continue supportive care. Pain management. 
+",,
+24674,24230,30637,1,3038-10-30 15:21:00 EST,3038-10-30 16:41:00 EST,4061,"Y",53,"Nursing/Other",,"
+
+Pt oob to chair w/ PT assist - very difficult!!!  Will [**Doctor Last Name **] BTB when ready to return to bed.
+",,
+24674,24230,30637,0,3038-10-30 15:21:00 EST,3038-10-30 15:42:00 EST,4061,"N",53,"Nursing/Other",,"
+
+
+FULL CODE   Universal Precautions   
+Allergies:  PCN, shellfish, fish product derivatives, barium
+
+
+Neuro:  AAOx3, MAEx4 - upper extrems stronger.  Attempted to get OOB, but lower extrems too weak - knees buckled and was sliding to the floor.  Able to get pt BTB w/o incident.  Difficult to understand her at times.
+
+CV:  HR=50-60s, NSR/SB, no ectopy.  BP=120-130/50-60s.  + weak periph pulses, extrems warm, +edema.  CVP=[**10-4**].  
+
+Resp:  2L n/p w/ 02sat 97-98%.  Lungs clear, diminished in bases bilat.  Fair cough effort - non-productive.  RR=[**8-9**].
+
+GI/GU:  abd large, round, +BS, passing flatus, no BM.  NGT to LCWS w/ bilious drainage.  Foley cath w/ clear yellow urine - 30-80cc/hr.
+
+Pain:  Med w/ fent 50mcg IV x3 for incisional/leg discomfort.
+
+Skin:  abd and back incision intact, steri-strips inplace, no drainage.  
+
+ID:  afebrile, no antibx.
+
+Access:  LSC TLC
+
+Labs:  BS=133 - no coverage required per RISS
+
+Social:  Mother called from [**State **] to check on pt - updated on pt's status.
+
+Plan:  Attempt to get OOB w/ PT.  Monitor pain relief.  Monitor cardiac/neuro/resp status.
+
+",,
+24674,24230,30637,0,3038-10-31 14:04:00 EST,3038-10-31 14:12:00 EST,4061,"N",53,"Nursing/Other",,"
+
+
+FULL CODE   Universal Precautions
+Allegies:  PCN, fish, fish derivatives, iodine, barium
+
+
+Neuro:  AAOx3, MAEx4 spont/command.  Pt feels much better today, not requiring much pain med.  Will attempt to get OOB w/ PT assistance later today.
+
+CV:  HR=60-70s, NSR, no ectopy.  +weak periph pulses, extrems warm, +edema.  BP=130-140/40-50s.  
+
+Resp:  2l n/p to R/A.  When pt asleep, 02sat will drop to low 90s when 02 is off.  Lungs clear bilat.  Using IS fair.  Non-productive cough.
+
+GI/GU:  abd soft, obese, +BS, no BM.  NGT d/c'd this am.  On PPI.  Taking diet fair.  Foley cath w/ clear yellow urine, ~70cc/hr; BUN/CR 114/7.8 this am.
+
+Pain:  Med x1 w/ oxycodone 30mg po this afternoon for discomfort.
+
+Access:  LSC TLC.
+
+Labs:  FS=149 - no coverage required per RISS.
+
+Social:  No calls or visits as of yet today.
+
+Skin:  abd and back incisions intact.
+
+Plan:  Tx to CC6 when bed available.
+
+  
+",,
+24674,,,,3038-12-08 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3038-12-8**] 10:12 AM
+     CT ORBITS, SELLA & IAC W/ CONTRAST; CT 100CC NON IONIC CONTRAST Clip # [**Clip Number (Radiology) 4941**]
+     Reason: FACIAL CELLULITIS, EVALUATE ORBITAL CELLULITIS
+     Admitting Diagnosis: CELLULITIS
+      Contrast: OPTIRAY Amt: 50
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      54 y/o F w/ facial cellulitis, concern for orbital extension                    
+     REASON FOR THIS EXAMINATION:
+      r/o orbital cellulitis                                                          
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATIONS:  54-year-old female with facial cellulitis, concern for orbital
+     extension.
+     
+     FINDINGS:  Axial CT images of the orbits were obtained with 50 cc of
+     intravenous Optiray, and coronal reconstructions were performed.  There is
+     inflammatory change and thickening of the subcutaneous tissues overlying the
+     skin mediolateral to the orbit.  There is some involvement of preseptal
+     tissues, but no definite post-septal extension, the globes, extraocular
+     muscles and optic nerves appear intact.  There is a retention cyst in the
+     right maxillary sinus.  Otherwise, the paranasal sinuses are clear.  The
+     cellulitis may involve the nasal turbinates.
+     
+     Limited views of the brain are unremarkable.
+     
+     IMPRESSION:  No evidence of post-septal involvement of facial cellulitis.
+                                                                           
+
+",,
+24674,,,,3038-12-08 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3038-12-8**] 10:12 AM
+     CT CHEST W/CONTRAST; CT 100CC NON IONIC CONTRAST                Clip # [**Clip Number (Radiology) 4942**]
+     -59 DISTINCT PROCEDURAL SERVICE
+     Reason: eval pulmonary nodules seen on [**3038-2-20**] CT                
+     Admitting Diagnosis: CELLULITIS
+      Contrast: OPTIRAY Amt: 70
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      54 y/o F with incidental pulmonary nodules seen on previous CT                  
+     REASON FOR THIS EXAMINATION:
+      eval pulmonary nodules seen on [**3038-2-20**] CT                                    
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT  (REVISED)
+     INDICATIONS:  54-year-old woman with pulmonary nodules.
+     
+     COMPARISONS:  [**3038-3-6**].
+     
+     TECHNIQUE:  Axial non-contrast CT images of the chest were obtained.
+     
+     CT OF THE CHEST WITHOUT IV CONTRAST:  There is no axillary, hilar or
+     mediastinal lymphadenopathy.  The heart, great vessels, and pericardium are
+     unremarkable.  There is slight pleural thickening at both bases, which is
+     unchanged, but no definite effusions.  There is a 2-mm granuloma in the right
+     lower lobe, which is unchanged.  The previously described soft tissue density
+     of 8 mm in diameter is unchanged at the extreme left lung base.  The other
+     previously identified nodules are not conspicuous on this study.  There are
+     some areas of subsegmental atelectasis and a vague nodular opacity in the
+     right middle lobe, which is new, but nonspecific.
+     
+     BONE WINDOWS:  There are no suspicious lytic or blastic lesions.  The patient
+     is status post anterior fusion. In addition, there is a stable lytic lesion
+     within the right humeral head, which may represent a subchondral cyst, related
+     to degenerative changes. It is unchanged. Also, there are probable loose
+     bodies within the right glenohumeral joint, as well as a joint effusion. The
+     effusion is larger than before.
+     
+     
+     IMPRESSION:
+     
+     1. Stable pulmonary nodules.  Further followup in three more months is
+     suggested.
+     2. Larger effusion with loose bodies in the right shoulder joint, with
+     degenerative changes.
+     3. A non-aggressive appearing lytic lesion in the right humeral head may
+     represent a subchondral cyst and has been stable.
+     
+     
+                                                                 (Over)
+
+     DATE: [**3038-12-8**] 10:12 AM
+     CT CHEST W/CONTRAST; CT 100CC NON IONIC CONTRAST                Clip # [**Clip Number (Radiology) 4942**]
+     -59 DISTINCT PROCEDURAL SERVICE
+     Reason: eval pulmonary nodules seen on [**3038-2-20**] CT                
+     Admitting Diagnosis: CELLULITIS
+      Contrast: OPTIRAY Amt: 70
+     ______________________________________________________________________________
+                                     FINAL REPORT  (REVISED)
+     (Cont)
+
+",,
+24674,,,,3038-12-08 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3038-12-8**] 9:01 AM
+     C-SPINE NON-TRAUMA [**1-25**] VIEWS; L-SPINE (AP & LAT)                Clip # [**Clip Number (Radiology) 4940**]
+     Reason: r/o fx                                                      
+     Admitting Diagnosis: CELLULITIS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      54 y/o F S/P C4-C7 & L5-S1 fusion, S/P multiple falls, back & neck pain         
+     REASON FOR THIS EXAMINATION:
+      r/o fx                                                                          
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     EXAM ORDER:  Cervical spine.
+     
+     Status post lumbar fusion, neck pain, multiple falls.
+     
+     LUMBAR SPINE:  AP and lateral views of the lumbar spine show L4-L5 posterior
+     and interbody fusion, unchanged in alignment since the previous examination of
+     [**3038-10-29**].  There is grade 1 L5-S1 spondylolisthesis.  The positions of
+     the posterior fusion hardware and interbody fusion device show no significant
+     change since the previous exam.  There is minimal retrolisthesis at L4-L5
+     level.  There is mild scoliosis of lumbar spine convex right.  There is also
+     minimal L1-L2 anterolisthesis.  No acute compression fracture is seen. There
+     is chronic compression fracture of T10.
+     
+     CERVICAL SPINE:  AP and lateral views show C4-C7 anterior and interbody fusion
+     with an anterior plate and four pairs of vertebral body screws, unchanged in
+     position since the previous examination of [**3038-9-12**].  Again note is
+     made of angular deformity at C6-C7 level with subluxation of the C6-C7 facet
+     joints.  There are laminectomy defects extending from C4 through T1.  The
+     inferior tip of the anterior spinal fusion plate resides on T1.  There is
+     degenerative disc disease at C3-C4 level. There is no widening of the
+     atlantoaxial distance.
+     
+     IMPRESSION:  Chronic T10 compression fracture.  No evidence of acute
+     compression fracture involving lumbar spine.  Posterior and interbody fusion
+     of L5-S1 with grade 1 L5-S1 spondylolisthesis.
+     
+     C4-C7 anterior spinal fusion, C6-C7 anterolisthesis with kyphotic deformity,
+     subluxation facets at C6-C7 level. Bilateral C3-C7 laminectomy defects.
+     
+
+             DR. [**First Name (STitle) 1391**] [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 1392**]
+",,
+24674,,,,3038-12-08 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3038-12-8**] 9:01 AM
+     C-SPINE NON-TRAUMA [**1-25**] VIEWS; L-SPINE (AP & LAT)                Clip # [**Clip Number (Radiology) 4940**]
+     Reason: r/o fx                                                      
+     Admitting Diagnosis: CELLULITIS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      54 y/o F S/P C4-C7 & L5-S1 fusion, S/P multiple falls, back & neck pain         
+     REASON FOR THIS EXAMINATION:
+      r/o fx                                                                          
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     EXAM ORDER:  Cervical spine.
+     
+     Status post lumbar fusion, neck pain, multiple falls.
+     
+     LUMBAR SPINE:  AP and lateral views of the lumbar spine show L4-L5 posterior
+     and interbody fusion, unchanged in alignment since the previous examination of
+     [**3038-10-29**].  There is grade 1 L5-S1 spondylolisthesis.  The positions of
+     the posterior fusion hardware and interbody fusion device show no significant
+     change since the previous exam.  There is minimal retrolisthesis at L4-L5
+     level.  There is mild scoliosis of lumbar spine convex right.  There is also
+     minimal L1-L2 anterolisthesis.  No acute compression fracture is seen. There
+     is chronic compression fracture of T10.
+     
+     CERVICAL SPINE:  AP and lateral views show C4-C7 anterior and interbody fusion
+     with an anterior plate and four pairs of vertebral body screws, unchanged in
+     position since the previous examination of [**3038-9-12**].  Again note is
+     made of angular deformity at C6-C7 level with subluxation of the C6-C7 facet
+     joints.  There are laminectomy defects extending from C4 through T1.  The
+     inferior tip of the anterior spinal fusion plate resides on T1.  There is
+     degenerative disc disease at C3-C4 level. There is no widening of the
+     atlantoaxial distance.
+     
+     IMPRESSION:  Chronic T10 compression fracture.  No evidence of acute
+     compression fracture involving lumbar spine.  Posterior and interbody fusion
+     of L5-S1 with grade 1 L5-S1 spondylolisthesis.
+     
+     C4-C7 anterior spinal fusion, C6-C7 anterolisthesis with kyphotic deformity,
+     subluxation facets at C6-C7 level. Bilateral C3-C7 laminectomy defects.
+     
+
+             DR. [**First Name (STitle) 1391**] [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 1392**]
+",,
+24674,,,,3038-12-08 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3038-12-8**] 10:12 AM
+     CT ORBITS, SELLA & IAC W/ CONTRAST; CT 100CC NON IONIC CONTRAST Clip # [**Clip Number (Radiology) 4941**]
+     Reason: FACIAL CELLULITIS, EVALUATE ORBITAL CELLULITIS
+     Admitting Diagnosis: CELLULITIS
+      Contrast: OPTIRAY Amt: 50
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      54 y/o F w/ facial cellulitis, concern for orbital extension                    
+     REASON FOR THIS EXAMINATION:
+      r/o orbital cellulitis                                                          
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATIONS:  54-year-old female with facial cellulitis, concern for orbital
+     extension.
+     
+     FINDINGS:  Axial CT images of the orbits were obtained with 50 cc of
+     intravenous Optiray, and coronal reconstructions were performed.  There is
+     inflammatory change and thickening of the subcutaneous tissues overlying the
+     skin mediolateral to the orbit.  There is some involvement of preseptal
+     tissues, but no definite post-septal extension, the globes, extraocular
+     muscles and optic nerves appear intact.  There is a retention cyst in the
+     right maxillary sinus.  Otherwise, the paranasal sinuses are clear.  The
+     cellulitis may involve the nasal turbinates.
+     
+     Limited views of the brain are unremarkable.
+     
+     IMPRESSION:  No evidence of post-septal involvement of facial cellulitis.
+                                                                           
+
+",,
+24674,,,,3038-12-08 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3038-12-8**] 10:12 AM
+     CT CHEST W/CONTRAST; CT 100CC NON IONIC CONTRAST                Clip # [**Clip Number (Radiology) 4942**]
+     -59 DISTINCT PROCEDURAL SERVICE
+     Reason: eval pulmonary nodules seen on [**3038-2-20**] CT                
+     Admitting Diagnosis: CELLULITIS
+      Contrast: OPTIRAY Amt: 70
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      54 y/o F with incidental pulmonary nodules seen on previous CT                  
+     REASON FOR THIS EXAMINATION:
+      eval pulmonary nodules seen on [**3038-2-20**] CT                                    
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT  (REVISED)
+     INDICATIONS:  54-year-old woman with pulmonary nodules.
+     
+     COMPARISONS:  [**3038-3-6**].
+     
+     TECHNIQUE:  Axial non-contrast CT images of the chest were obtained.
+     
+     CT OF THE CHEST WITHOUT IV CONTRAST:  There is no axillary, hilar or
+     mediastinal lymphadenopathy.  The heart, great vessels, and pericardium are
+     unremarkable.  There is slight pleural thickening at both bases, which is
+     unchanged, but no definite effusions.  There is a 2-mm granuloma in the right
+     lower lobe, which is unchanged.  The previously described soft tissue density
+     of 8 mm in diameter is unchanged at the extreme left lung base.  The other
+     previously identified nodules are not conspicuous on this study.  There are
+     some areas of subsegmental atelectasis and a vague nodular opacity in the
+     right middle lobe, which is new, but nonspecific.
+     
+     BONE WINDOWS:  There are no suspicious lytic or blastic lesions.  The patient
+     is status post anterior fusion. In addition, there is a stable lytic lesion
+     within the right humeral head, which may represent a subchondral cyst, related
+     to degenerative changes. It is unchanged. Also, there are probable loose
+     bodies within the right glenohumeral joint, as well as a joint effusion. The
+     effusion is larger than before.
+     
+     
+     IMPRESSION:
+     
+     1. Stable pulmonary nodules.  Further followup in three more months is
+     suggested.
+     2. Larger effusion with loose bodies in the right shoulder joint, with
+     degenerative changes.
+     3. A non-aggressive appearing lytic lesion in the right humeral head may
+     represent a subchondral cyst and has been stable.
+     
+     
+                                                                 (Over)
+
+     DATE: [**3038-12-8**] 10:12 AM
+     CT CHEST W/CONTRAST; CT 100CC NON IONIC CONTRAST                Clip # [**Clip Number (Radiology) 4942**]
+     -59 DISTINCT PROCEDURAL SERVICE
+     Reason: eval pulmonary nodules seen on [**3038-2-20**] CT                
+     Admitting Diagnosis: CELLULITIS
+      Contrast: OPTIRAY Amt: 70
+     ______________________________________________________________________________
+                                     FINAL REPORT  (REVISED)
+     (Cont)
+
+",,
+24674,,,,3038-12-08 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3038-12-8**] 10:12 AM
+     CT CHEST W/CONTRAST; CT 100CC NON IONIC CONTRAST                Clip # [**Clip Number (Radiology) 4942**]
+     -59 DISTINCT PROCEDURAL SERVICE
+     Reason: eval pulmonary nodules seen on [**3038-2-20**] CT                
+     Admitting Diagnosis: CELLULITIS
+      Contrast: OPTIRAY Amt: 70
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      54 y/o F with incidental pulmonary nodules seen on previous CT                  
+     REASON FOR THIS EXAMINATION:
+      eval pulmonary nodules seen on [**3038-2-20**] CT                                    
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT  (REVISED)
+     INDICATIONS:  54-year-old woman with pulmonary nodules.
+     
+     COMPARISONS:  [**3038-3-6**].
+     
+     TECHNIQUE:  Axial non-contrast CT images of the chest were obtained.
+     
+     CT OF THE CHEST WITHOUT IV CONTRAST:  There is no axillary, hilar or
+     mediastinal lymphadenopathy.  The heart, great vessels, and pericardium are
+     unremarkable.  There is slight pleural thickening at both bases, which is
+     unchanged, but no definite effusions.  There is a 2-mm granuloma in the right
+     lower lobe, which is unchanged.  The previously described soft tissue density
+     of 8 mm in diameter is unchanged at the extreme left lung base.  The other
+     previously identified nodules are not conspicuous on this study.  There are
+     some areas of subsegmental atelectasis and a vague nodular opacity in the
+     right middle lobe, which is new, but nonspecific.
+     
+     BONE WINDOWS:  There are no suspicious lytic or blastic lesions.  The patient
+     is status post anterior fusion. In addition, there is a stable lytic lesion
+     within the right humeral head, which may represent a subchondral cyst, related
+     to degenerative changes. It is unchanged. Also, there are probable loose
+     bodies within the right glenohumeral joint, as well as a joint effusion. The
+     effusion is larger than before.
+     
+     
+     IMPRESSION:
+     
+     1. Stable pulmonary nodules.  Further followup in three more months is
+     suggested.
+     2. Larger effusion with loose bodies in the right shoulder joint, with
+     degenerative changes.
+     3. A non-aggressive appearing lytic lesion in the right humeral head may
+     represent a subchondral cyst and has been stable.
+     
+     
+                                                                 (Over)
+
+     DATE: [**3038-12-8**] 10:12 AM
+     CT CHEST W/CONTRAST; CT 100CC NON IONIC CONTRAST                Clip # [**Clip Number (Radiology) 4942**]
+     -59 DISTINCT PROCEDURAL SERVICE
+     Reason: eval pulmonary nodules seen on [**3038-2-20**] CT                
+     Admitting Diagnosis: CELLULITIS
+      Contrast: OPTIRAY Amt: 70
+     ______________________________________________________________________________
+                                     FINAL REPORT  (REVISED)
+     (Cont)
+
+",,
+24674,,,,3039-01-16 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3039-1-16**] 4:05 PM
+     L-SPINE (AP & LAT)                                              Clip # [**Clip Number (Radiology) 4943**]
+     Reason: S/P LUMBAR FUSION
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Status post lumbar fusion.
+     
+     LUMBAR SPINE, TWO VIEWS.
+     
+     A brace is in place.  There are five non-rib-bearing vertebral bodies.  There
+     is mild-to-moderate right convex scoliosis centered at L1-2.  The patient is
+     status post laminectomy and fusion, with bilateral pedicle screws and
+     intervening fusion plug at the presumptive L5-S1 level.  No hardware loosening
+     is identified.  There is grade 1 anterolisthesis of L5 on S1, unchanged.  Bony
+     detail is mildly limited due to patient body habitus, technique, and probable
+     slight motion.
+                                                                           
+
+",,
+24674,,,,3039-03-13 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3039-3-13**] 3:47 PM
+     L-SPINE (AP & LAT)                                              Clip # [**Clip Number (Radiology) 4944**]
+     Reason: S/P LUMBAR FUSION
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     
+     INDICATION:  Status post lumbar fusion, follow up.
+     
+     COMPARISON:  [**3039-1-16**].
+     
+     TECHNIQUE:  Two views of lumbar spine.
+     
+     FINDINGS:  The patient is status post fusion of L5-S1 with bilateral posterior
+     fusion rods and two pairs of vertebral body screws.  A metallic interbody
+     spacer is present at L5-S1 in unchanged alignment.  There is no evidence of
+     hardware loosening.  Grade 1 anterolisthesis of L5 on S1 appears unchanged.
+     There is minor anterolisthesis of L1 on L2, also unchanged.  There is minimal
+     narrowing of the L1-2 intervertebral disc space.  The vertebral body heights
+     appear preserved.
+     
+     There is no significant interval change since the previous examination.
+     
+     IMPRESSION:  Unchanged alignment status post L5-S1 fusion.
+     
+     
+     
+     
+
+",,
+24674,,,,3039-05-13 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3039-5-13**] 6:19 PM
+     CT ABDOMEN W/O CONTRAST; CT PELVIS W/O CONTRAST                 Clip # [**Clip Number (Radiology) 4945**]
+     Reason: po contrast to eval for colitis, collection                 
+     Field of view: 42
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      54 year old woman with ra on prednisone, p/w uti, diffuse [**Last Name (un) 149**] pain, has 
+      solitary horseshoe kidney
+     REASON FOR THIS EXAMINATION:
+      po contrast to eval for colitis, collection                                     
+     CONTRAINDICATIONS for IV CONTRAST:
+      anaphylaxis
+     ______________________________________________________________________________
+     WET READ: MNIa MON [**3039-5-13**] 7:27 PM
+      1. Limited study without IV contrast. Fibroid uterus. Horseshoe kidney. 7 mm
+      RLL nodule in the lung. No evidence of bowel abnormality seen. Fat containing
+      abdominal wall hernia.
+      
+      2. Mild fat stranding surrounding kidney. Clinical correlation is recommended.
+      3. Compression fracture of the lower t spine.
+     WET READ AUDIT #1 MNIa MON [**3039-5-13**] 7:17 PM
+      Limited study without IV contrast. Fibroid uterus. Horseshoe kidney. 7 mm RLL
+      nodule in the lung. No evidence of bowel abnormality seen. Fat containing
+      abdominal wall hernia.
+     WET READ AUDIT #2 MNIa MON [**3039-5-13**] 7:25 PM
+      1. Limited study without IV contrast. Fibroid uterus. Horseshoe kidney. 7 mm
+      RLL nodule in the lung. No evidence of bowel abnormality seen. Fat containing
+      abdominal wall hernia.
+      
+      2. Mild fat stranding surrounding kidney. Clinical correlation is recommended.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  54-year-old woman with diffuse abdominal pain, horseshoe kidney.
+     Evaluate for colitis.
+     
+     TECHNIQUE:  Contiguous axial CT images of the abdomen and pelvis without IV
+     contrast.  Intravenous contrast was not administered in this patient with
+     anaphylaxis to the contrast.
+     
+     Multiplanar reformation images are reconstructed.
+     
+     COMPARISON:  CT torso study dated [**3038-3-6**].
+     
+     FINDINGS:  The evaluation of abdominal organs are somewhat limited due to lack
+     of intravenous contrast [**Doctor Last Name 92**].  No evidence of intraperitoneal free clear.
+     Note is made of horseshoe kidney, with minimal fat stranding surrounding the
+     kidney especially on the right, which needs clinical correlation.  No
+     significant lymphadenopathy.  The liver is unremarkable without evidence of
+     focal liver lesion.  Spleen, pancreas, adrenal glands, gallbladder, the
+     visualized portion of large and small intestines are within normal limits.  No
+     ascites.
+     
+     PELVIS:  Note is made of calcified fibroids.  No ascites.  No significant
+                                                                 (Over)
+
+     DATE: [**3039-5-13**] 6:19 PM
+     CT ABDOMEN W/O CONTRAST; CT PELVIS W/O CONTRAST                 Clip # [**Clip Number (Radiology) 4945**]
+     Reason: po contrast to eval for colitis, collection                 
+     Field of view: 42
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     lymphadenopathy.  Again note is made of fat-containing ventral hernia,
+     unchanged compared to the prior study.
+     
+     In the lung window, note is made of 7 mm non-calcified pulmonary nodule in the
+     right lung base.  Calcified granuloma is seen in the right lower lobe. Basilar
+     atelectasis is noted.
+     
+     The patient is status post posterior lumbar fixation.  Note is made of
+     multiple healed fractures of the ribs.
+     
+     Compression fracture in lower thoracic vertebrae is seen.
+     
+     IMPRESSION:
+     1.  Limited study due to lack of intravenous contrast [**Doctor Last Name 92**].  No bowel wall
+     thickening.
+     2.  Horseshoe kidney with mild fat stranding on the right, which may be due to
+     prior infectious process of urogenital tracts. The finding needs clinical
+     correlation.
+     3.  Fibroid uterus.
+     4.  Unchanged appearance of 7 mm right lower lobe nodule in the lung.
+     5.  Multiple healed rib fractures and compression fracture of the mid thoracic
+     spine.
+     
+     The information was communicated electronically to ED dashboard.
+     
+     
+
+",,
+24674,,,,3039-05-13 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3039-5-13**] 6:19 PM
+     CT ABDOMEN W/O CONTRAST; CT PELVIS W/O CONTRAST                 Clip # [**Clip Number (Radiology) 4945**]
+     Reason: po contrast to eval for colitis, collection                 
+     Field of view: 42
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      54 year old woman with ra on prednisone, p/w uti, diffuse [**Last Name (un) 149**] pain, has 
+      solitary horseshoe kidney
+     REASON FOR THIS EXAMINATION:
+      po contrast to eval for colitis, collection                                     
+     CONTRAINDICATIONS for IV CONTRAST:
+      anaphylaxis
+     ______________________________________________________________________________
+     WET READ: MNIa MON [**3039-5-13**] 7:27 PM
+      1. Limited study without IV contrast. Fibroid uterus. Horseshoe kidney. 7 mm
+      RLL nodule in the lung. No evidence of bowel abnormality seen. Fat containing
+      abdominal wall hernia.
+      
+      2. Mild fat stranding surrounding kidney. Clinical correlation is recommended.
+      3. Compression fracture of the lower t spine.
+     WET READ AUDIT #1 MNIa MON [**3039-5-13**] 7:17 PM
+      Limited study without IV contrast. Fibroid uterus. Horseshoe kidney. 7 mm RLL
+      nodule in the lung. No evidence of bowel abnormality seen. Fat containing
+      abdominal wall hernia.
+     WET READ AUDIT #2 MNIa MON [**3039-5-13**] 7:25 PM
+      1. Limited study without IV contrast. Fibroid uterus. Horseshoe kidney. 7 mm
+      RLL nodule in the lung. No evidence of bowel abnormality seen. Fat containing
+      abdominal wall hernia.
+      
+      2. Mild fat stranding surrounding kidney. Clinical correlation is recommended.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  54-year-old woman with diffuse abdominal pain, horseshoe kidney.
+     Evaluate for colitis.
+     
+     TECHNIQUE:  Contiguous axial CT images of the abdomen and pelvis without IV
+     contrast.  Intravenous contrast was not administered in this patient with
+     anaphylaxis to the contrast.
+     
+     Multiplanar reformation images are reconstructed.
+     
+     COMPARISON:  CT torso study dated [**3038-3-6**].
+     
+     FINDINGS:  The evaluation of abdominal organs are somewhat limited due to lack
+     of intravenous contrast [**Doctor Last Name 92**].  No evidence of intraperitoneal free clear.
+     Note is made of horseshoe kidney, with minimal fat stranding surrounding the
+     kidney especially on the right, which needs clinical correlation.  No
+     significant lymphadenopathy.  The liver is unremarkable without evidence of
+     focal liver lesion.  Spleen, pancreas, adrenal glands, gallbladder, the
+     visualized portion of large and small intestines are within normal limits.  No
+     ascites.
+     
+     PELVIS:  Note is made of calcified fibroids.  No ascites.  No significant
+                                                                 (Over)
+
+     DATE: [**3039-5-13**] 6:19 PM
+     CT ABDOMEN W/O CONTRAST; CT PELVIS W/O CONTRAST                 Clip # [**Clip Number (Radiology) 4945**]
+     Reason: po contrast to eval for colitis, collection                 
+     Field of view: 42
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     lymphadenopathy.  Again note is made of fat-containing ventral hernia,
+     unchanged compared to the prior study.
+     
+     In the lung window, note is made of 7 mm non-calcified pulmonary nodule in the
+     right lung base.  Calcified granuloma is seen in the right lower lobe. Basilar
+     atelectasis is noted.
+     
+     The patient is status post posterior lumbar fixation.  Note is made of
+     multiple healed fractures of the ribs.
+     
+     Compression fracture in lower thoracic vertebrae is seen.
+     
+     IMPRESSION:
+     1.  Limited study due to lack of intravenous contrast [**Doctor Last Name 92**].  No bowel wall
+     thickening.
+     2.  Horseshoe kidney with mild fat stranding on the right, which may be due to
+     prior infectious process of urogenital tracts. The finding needs clinical
+     correlation.
+     3.  Fibroid uterus.
+     4.  Unchanged appearance of 7 mm right lower lobe nodule in the lung.
+     5.  Multiple healed rib fractures and compression fracture of the mid thoracic
+     spine.
+     
+     The information was communicated electronically to ED dashboard.
+     
+     
+
+",,
+24674,,,,3039-05-30 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3039-5-30**] 11:08 AM
+     L-SPINE (AP & LAT)                                              Clip # [**Clip Number (Radiology) 4946**]
+     Reason: S/P L5-S1 FUSION
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Status post L5-S1 fusion.
+     
+     Lspine,2 vws
+     
+     Compared with [**3039-3-13**] and allowing for differences in technique, no
+     significant change is detected in the L5-S1 laminectomy, with bilateral
+     pedicle screws and intervening fusion plug.  No hardware loosening is
+     identified.  Again seen is grade 1 anterolisthesis of L5 on S1.  Minimal
+     anterolisthesis of L1 on L2 is again noted, unchanged.
+
+",,
+24674,20937,,,3039-10-03 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3039-10-3**] 5:24 AM
+     CHEST (PA & LAT)                                                Clip # [**Clip Number (Radiology) 4947**]
+     Reason: chest pain                                                  
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      54 year old woman with chest pain, SOB                                          
+     REASON FOR THIS EXAMINATION:
+      chest pain                                                                      
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Chest pain, shortness of breath.
+     
+     COMPARISON:  [**3038-10-26**].
+     
+     Appearance of the right base is unchanged from [**3038-3-6**], consisting of
+     prominent epicardial fat.  No additional airspace consolidations are
+     identified.  The pleura are normal.  The heart and mediastinal contours are
+     stable.  Patient is status post cervical spine fusion.
+     
+     IMPRESSION:  No acute cardiopulmonary process.
+                                                                           
+
+",,
+24674,20937,,,3039-10-03 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3039-10-3**] 9:59 AM
+     CT ABDOMEN W/O CONTRAST; CT PELVIS W/O CONTRAST                 Clip # [**Clip Number (Radiology) 4948**]
+     Reason: ? Perf, Abscess                                             
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      54 year old woman with Abd pain on steroids                                     
+     REASON FOR THIS EXAMINATION:
+      ? Perf, Abscess                                                                 
+     CONTRAINDICATIONS for IV CONTRAST:
+      CR
+     ______________________________________________________________________________
+     WET READ: [**First Name9 (NamePattern2) 4949**] [**Doctor First Name 98**] [**3039-10-3**] 11:20 AM
+      pneumoperitonium. most likely cause is perforated duodenal ulcer (inflammatory
+      change near panc head)
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Abdominal pain, on steroids.
+     
+     COMPARISON:  [**3039-5-13**].
+     
+     TECHNIQUE:  Axial images through the abdomen and pelvis with oral contrast. 
+     IV contrast was not administered due to acute renal failure.  Multiplanar
+     reformats were performed.
+     
+     CT OF THE ABDOMEN WITHOUT IV CONTRAST:  The lung bases are clear.  There are
+     scattered foci of free intraperitoneal air, which is seen extending into the
+     umbilical hernia.  There is a small amount of stranding in the region of the
+     pancreatic head and duodenal sweep.  There are no dilated loops of large or
+     small bowel.  On this unenhanced scan, the liver, spleen, adrenal glands, and
+     gallbladder are normal.  Note is made of small calcifications in the
+     pancreatic tail.  There is fatty replacement of most of the pancreas.  Note is
+     made of a horseshoe kidney without evidence of hydronephrosis or other
+     abnormalities on this unenhanced scan.  There is no free fluid or
+     pathologically enlarged lymph nodes.
+     
+     CT OF THE PELVIS WITHOUT IV CONTRAST:  There is a calcified fibroid uterus.  A
+     Foley catheter is within the bladder.  There is no free fluid.  The rectum and
+     sigmoid colon are normal.  There are no adnexal masses.  There is no
+     lymphadenopathy.
+     
+     REFORMATTED IMAGES:  Note is made of a calcified right lower lobe pulmonary
+     nodule.  There is a stable noncalcified 7 mm right lower lobe pulmonary
+     nodule.  The patient is status post lumbar fixation.  There is a compression
+     fracture of T10 which is stable in appearance.
+     
+     IMPRESSION:
+     1.  Pneumoperitoneum with the likely etiology, a perforated duodenal ulcer. 
+     This was discussed with Dr. [**Last Name (STitle) 2572**] in the emergency department at 11:00 a.m. on
+     [**3039-10-3**].
+     2.  Stable 7 mm right lower lobe noncalcified pulmonary nodule.  Followup is
+     recommended.
+     3.  Fibroid uterus.
+                                                                           
+                                                                 (Over)
+
+     DATE: [**3039-10-3**] 9:59 AM
+     CT ABDOMEN W/O CONTRAST; CT PELVIS W/O CONTRAST                 Clip # [**Clip Number (Radiology) 4948**]
+     Reason: ? Perf, Abscess                                             
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+
+",,
+24674,20937,,,3039-10-03 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3039-10-3**] 9:59 AM
+     CT ABDOMEN W/O CONTRAST; CT PELVIS W/O CONTRAST                 Clip # [**Clip Number (Radiology) 4948**]
+     Reason: ? Perf, Abscess                                             
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      54 year old woman with Abd pain on steroids                                     
+     REASON FOR THIS EXAMINATION:
+      ? Perf, Abscess                                                                 
+     CONTRAINDICATIONS for IV CONTRAST:
+      CR
+     ______________________________________________________________________________
+     WET READ: [**First Name9 (NamePattern2) 4949**] [**Doctor First Name 98**] [**3039-10-3**] 11:20 AM
+      pneumoperitonium. most likely cause is perforated duodenal ulcer (inflammatory
+      change near panc head)
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Abdominal pain, on steroids.
+     
+     COMPARISON:  [**3039-5-13**].
+     
+     TECHNIQUE:  Axial images through the abdomen and pelvis with oral contrast. 
+     IV contrast was not administered due to acute renal failure.  Multiplanar
+     reformats were performed.
+     
+     CT OF THE ABDOMEN WITHOUT IV CONTRAST:  The lung bases are clear.  There are
+     scattered foci of free intraperitoneal air, which is seen extending into the
+     umbilical hernia.  There is a small amount of stranding in the region of the
+     pancreatic head and duodenal sweep.  There are no dilated loops of large or
+     small bowel.  On this unenhanced scan, the liver, spleen, adrenal glands, and
+     gallbladder are normal.  Note is made of small calcifications in the
+     pancreatic tail.  There is fatty replacement of most of the pancreas.  Note is
+     made of a horseshoe kidney without evidence of hydronephrosis or other
+     abnormalities on this unenhanced scan.  There is no free fluid or
+     pathologically enlarged lymph nodes.
+     
+     CT OF THE PELVIS WITHOUT IV CONTRAST:  There is a calcified fibroid uterus.  A
+     Foley catheter is within the bladder.  There is no free fluid.  The rectum and
+     sigmoid colon are normal.  There are no adnexal masses.  There is no
+     lymphadenopathy.
+     
+     REFORMATTED IMAGES:  Note is made of a calcified right lower lobe pulmonary
+     nodule.  There is a stable noncalcified 7 mm right lower lobe pulmonary
+     nodule.  The patient is status post lumbar fixation.  There is a compression
+     fracture of T10 which is stable in appearance.
+     
+     IMPRESSION:
+     1.  Pneumoperitoneum with the likely etiology, a perforated duodenal ulcer. 
+     This was discussed with Dr. [**Last Name (STitle) 2572**] in the emergency department at 11:00 a.m. on
+     [**3039-10-3**].
+     2.  Stable 7 mm right lower lobe noncalcified pulmonary nodule.  Followup is
+     recommended.
+     3.  Fibroid uterus.
+                                                                           
+                                                                 (Over)
+
+     DATE: [**3039-10-3**] 9:59 AM
+     CT ABDOMEN W/O CONTRAST; CT PELVIS W/O CONTRAST                 Clip # [**Clip Number (Radiology) 4948**]
+     Reason: ? Perf, Abscess                                             
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+
+",,
+24674,20937,30638,0,3039-10-03 17:48:00 EST,3039-10-03 18:04:00 EST,7632,"N",74,"Nursing/Other","TSICU Nursing Admission Note","
+TSICU Nursing Admission Note
+Pt admitted from ED after 4 days of abdominal pain at home due to ? perforated duodenal ulcer.  Hx rheumatoid arthritis, osteoporosis, asthma, HTN, hypercholesterolemia, horseshoe kidney, prednisone induced diabetes, s/p cervical and lumbar spinal surgeries, bilateral knee replacements.  ? treatment plan right now.
+
+Neuro - A&O x3.  MAE's to command, PERRLA, good strength.  Reports abdominal pain occasionally medicated with 2 mg morphine with + results.
+
+CV - HR 70-90 NSR, rare PVC's.  BP by cuff 110-150 systolic.  + peripheral pulses.  Skin warm and dry.  
+
+Resp - Lungs clear throughout, diminished at bases.  Sat 95-98% on room air.  Denies shortness of breath or difficulty breathing.
+
+GI - Abdomen obese, soft, hyperactive bowel sounds throughout.  NGT to suction putting out 400cc brown/bloody fluid.  Black liquid stool x2, received Kayexalate in ED.  Denies nausea since admission to ICU, given anzemet x3 in ED.  NPO.
+
+GU - Foley draining clear yellow urine in adequate amounts.  Lytes correcting.
+
+Endo - No insulin needed per RISS.
+
+Id - afebrile since admission to ICU.  Tmax in ED 102.8, blood cultures sent, tylenol given po and PR.
+
+Psych/social - lives alone in senior housing.  Called mother, who lives in [**State **], and brother and few other friends on phone.  Has home healthaide who comes twice per week.
+
+A - s/p abdominal pain, ?perforated duodenal ulcer, acute pain.
+
+Plan - Continue to monitor per routine.  Awaiting arrival of surgical attending to make final plan for pt, OR vs conservative treatment.  Continue to monitor and treat for pain PRN.  Monitor electrolytes and renal function.  Continue to update pt and family of current plan of care.
+",,
+24674,20937,30638,,3039-10-04 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3039-10-4**] 9:23 AM
+     BAS/UGI AIR/SBFT                                                Clip # [**Clip Number (Radiology) 4950**]
+     Reason: perf bowel NGT placement; please use gastrografin           
+     Admitting Diagnosis: PNEUMOPERITONEUM
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      54 year old woman with perf ulcer                                               
+     REASON FOR THIS EXAMINATION:
+      perf bowel NGT placement; please use gastrografin                               
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  54-year-old woman with perforated ulcer.  NGT placement.
+     
+     COMPARISON:  CT abdomen [**3039-10-3**].
+     
+     FINDINGS:  Limited upper GI evaluation was performed using Gastrografin
+     through an NG tube.  The duodenal bulb appears distorted with an area of edema
+     and ulceration identified within the duodenal bulb.  No extravasation of
+     contrast is seen.  The remainder of the stomach and visualized portions of the
+     duodenum appear unremarkable.
+     
+     IMPRESSION:  Distorted duodenal bulb with area of edema and ulceration. 
+     Ulceration has no definitive features that are suggestive of malignancy,
+     however, follow up with either future barium studies vs. endoscopy are
+     suggested to resolution.
+     
+     These findings were discussed with the caring surgical team after the study
+     was performed.
+                                                                           
+
+",,
+24674,20937,30638,,3039-10-04 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3039-10-4**] 9:24 AM
+     ABDOMEN (SUPINE & ERECT)                                        Clip # [**Clip Number (Radiology) 4951**]
+     Reason: perforation                                                 
+     Admitting Diagnosis: PNEUMOPERITONEUM
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      54 year old woman w/perforated ulcer                                            
+     REASON FOR THIS EXAMINATION:
+      perforation                                                                     
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  54-year-old with perforated ulcer.
+     
+     FINDINGS:  An NG tube is seen within the stomach.  The bowel gas pattern is
+     unremarkable and no free air is identified.  Lumbar fixation device is noted. 
+     Degenerative changes of the spine are noted.
+     
+     IMPRESSION:  Unremarkable bowel gas pattern.  No obvious evidence of the free
+     air seen on recent CT.
+                                                                           
+
+",,
+24674,20937,30638,0,3039-10-04 04:57:00 EST,3039-10-04 05:10:00 EST,8775,"N",74,"Nursing/Other",,"
+
+Nursing Progress Note 
+
+Review of Systems:
+
+Neuro:  A& O x 3.  cooperative but very needy at times.  Pt c/o feeling anxious.  .5mg of Ativan given x 2 IV. good results.
+
+CV:  HR stable 60's-80's. very rarely noted a PVC. SBP 150's-190's.  Pt written for 5mg lopressor q 6 hrs.  Left radial Aline placed. good waveform, but no longer has a blood return. Pt refuses to wear pneumatic boots.  afebrile. 2 units of PRBC's given for hct of 20.7
+
+Resp:  Bilat lungsounds clear.  nonprod cough. RA with sats of 96%.
+
+GI:  NPO. Hyperactive bowel sounds. no bm. NGT to cont low sxn.  old bloody drainage. abd obese, soft.
+
+GU:  foley cath.  clear yellow urine. adequate amt of urine an hour.
+
+ENdo: RISS. had to cover pt once for 135.
+
+pain: pt c/o back and abd pain approx q 3 hours.  2-4mg of IV morphine given. positive effect. 
+
+Lines:  2 piv's. L radial aline placed- good waveform, no blood return. LR going at 125cc/hr
+",,
+24674,20937,30638,0,3039-10-04 05:13:00 EST,3039-10-04 05:14:00 EST,8775,"N",74,"Nursing/Other",,"
+
+10/120B 
+addendum Skin: intact no signs or symptoms of breakdown
+",,
+24674,20937,30638,0,3039-10-04 14:42:00 EST,3039-10-04 14:48:00 EST,873,"N",74,"Nursing/Other",,"
+
+
+See carevue for objective data.
+
+Awake/alert though with baseline mumbled speech. 
+HR/BP non-labile. Arterial line dc'd due to dampened waveform and unable to draw blood. 
+To radiology for UGI/SBFT. Decision made for pt to be treated conservatively and not to go to surgery. + heme diarrhea post gastrograf ingestion. Remains with + RUQ tenderness. Afebrile.
+NGT to LCWS.
+Medicated Q3H with morphine with adequate relief. Also C/O anxiety and treated with .5 mg ativan IV with good effect.
+Adequate urine output. LR at 125cc's an hour patent.
+Next HCT due at 2000.
+? C/O to floor if pt remains stable.
+
+",,
+24674,20937,30638,0,3039-10-05 04:52:00 EST,3039-10-05 05:12:00 EST,417,"N",74,"Nursing/Other","T/SICU Nursing Progress Note","
+T/SICU Nursing Progress Note
+S: ""I'm glad I don't need surgery."" When can I get this tube out of my nose?"".
+O: Review of systems:
+Neuro: Awake alert and oriented. C/o abdominal pain in L upper quadrant. Is difficult to understand because of speech.  Medicated q 3 hours with 4 mg morphine ivp for pain with fair relief. Pt. describes pain as [**8-1**] despite pain medication, repositioning and distraction. Pt. is very anxious, cries and shakes with procedures such as drawing blood or flushing ivs.  Moves as extremities equally purposefully.
+CVS; rare pvc. BP 140-160/50-60. On 5 mg lopressor iv. Peripheral pulase palpable.
+RESP: on room air.  Sats 94-96%.  When pt is deeply asleep, sats fall to 65% at times. Returns to 90% when pt awakens.  Lung clear. 
+RENAL: Receiving ns @ 100cc/hr. K+3.8. Urine output adequate Cr 1.2
+GI: ng in place, on protonix bid. Ng drainage bloody varying from dark red to bright red. Belly soft with bowel sounds.  Had two liquid melanic stool (guaic +).
+Endo: SSRI, no insulin needed
+ID: on levofloxacin, flagyl, fluconozole. WBC 9.9. T max 99.3
+SKIN: intact
+Lines: Has 20g angio R wrist. L wrist iv removed as was red and painful.
+Heme: hct 23.5 (previous 24.6). INR 1.2. No pneumoboots.
+A:??GI bleed. Resolving bowel perf but continued pain. Stable hemodynamics.
+P: continue to monitor. OOB to chair today. Transfer to floor when bed available.
+",,

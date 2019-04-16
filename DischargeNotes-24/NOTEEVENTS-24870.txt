@@ -1,0 +1,212 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+24870,15867,,,3407-04-06 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+
+Admission Date:  [**3407-4-6**]     Discharge Date:  [**3407-4-13**]
+
+Date of Birth:   [**3336-1-15**]     Sex:  M
+
+Service:  [**Company 36**]
+
+CHIEF COMPLAINT:  Fluid overload.
+
+HISTORY OF PRESENT ILLNESS:  This is a 72 year-old gentleman
+with a history of coronary artery disease status post
+coronary artery bypass graft, atrial fibrillation, congestive
+heart failure, with ejection fraction about 10 to 15%
+followed by the Heart Failure Clinic who presented with
+congestive heart failure exacerbation.  He was initially
+admitted to Coronary Care Unit for Swan-Ganz placement and
+diuresis with Nitrocor.  He had gained about 15 pounds from
+his baseline and he has been feeling lousy for the past two
+weeks prior to his admission.  He complained of increased
+dyspnea on exertion, unable to climb six stairs without
+stopping.  He has been on congestive heart failure diet with
+fluid restriction.  He has been drinking less then 1 to 1.5
+liters of fluid a day and takes less then 2 grams of sodium a
+day.  He denies episodes of orthopnea or paroxysmal nocturnal
+dyspnea, but did report getting up one to two times per day
+to urinate.  He also had occasional nonproductive cough, but
+denied any fevers or chills or night sweats.  He has had
+constipation for which he took two Fleet's enemas [**4-2**]
+with good relief.  His last bowel movement was the day before
+admission.  He denies nausea, vomiting, bleeding per rectum.
+He also reports a brief episode of associated chest pain
+starting from the left side radiating to the right side.
+
+PAST MEDICAL HISTORY:
+1.  Congestive heart failure with an ejection fraction 10 to
+15%.
+2.  Coronary artery disease status post coronary artery
+bypass graft with redo in [**3404**], saphenous vein graft to left
+anterior descending coronary artery, saphenous vein graft to
+right coronary artery, saphenous vein graft to obtuse
+marginal.
+3.  Hypertension.
+4.  Atrial fibrillation.
+5.  Chronic renal failure.
+6.  Post polio syndrome at age 5.
+7.  Mitral and tricuspid valvuloplasty.
+8.  AV block status post pacer placement in [**3405-2-11**]
+upgraded to ICD and biventricular pacer in [**3407-1-11**].
+9.  Type 1 diabetes.
+10.  Gastroesophageal reflux disease.
+11.  Peripheral neuropathy.
+
+MEDICATIONS ON ADMISSION:  Bumex 3 mg po b.i.d., Hydralazine
+40 mg q.i.d., Imdur 30 mg q.d., Coreg 3.125 mg po b.i.d.,
+Protonix 40 mg po q.d., Synthroid 25 micrograms po q.d.,
+Amiodarone 200 mg po q.d., Neurontin 100 mg po q.d., aspirin
+81 mg po q day, Coumadin one tablet po q.h.s.
+
+ALLERGIES:  Lipitor and Welchol with arthralgias.
+
+PHYSICAL EXAMINATION:  Blood pressure 122/64.  Heart rate 70.
+O2 sat 96% on room air.  Respirations 12.  Weight 85.5
+kilograms.  General lying in bed in no acute distress.  Head
+and neck examination oropharynx is clear.  JVP 11 cm up to
+the earlobe.  Cardiovascular distant heart sounds, S1 and S2
+present.  Lungs clear to auscultation bilaterally.  Abdomen
+slightly distended, nontender, nondistended.  Well healed
+scar appendectomy and hernia repair.  No hepatosplenomegaly.
+Extremities 2+ pitting edema up to the knees bilaterally.
+
+LABORATORIES ON ADMISSION:  Sodium 128, potassium 3.9,
+chloride 86, bicarb 29, BUN 72, creatinine 2.9, glucose 79,
+ALT 32, AST 24, albumin 3.8, calcium 8.5, phos 4.3, magnesium
+2.3, alkaline phosphatase 162.  Total bilirubin .7, CK of
+653, PT 18.2, PTT 35.6, INR 2.2, white blood cell count of
+7.9, hematocrit 29.7, platelets 188, MCV 85.  Chest x-ray
+upper zone vascular redistribution.  No overt evidence of
+pulmonary edema.
+
+HOSPITAL COURSE:  The patient was initially admitted to the
+Coronary Care Unit for possible Swan-Ganz placement and
+Nitrocor for diuresis, however, the placement of Swan-Ganz
+was deferred secondary to the recent placement of
+biventricular pacemaker.  Since the patient had a good
+diuresing effect with intravenous Bumex and nitro drip he was
+transferred to the CMED Service for further diuresis on nitro
+drip and Bumex.  The diuresing effect of nitro drip and
+intravenous Bumex slowed down after a few days with good
+response.  He was then started on Nitrocor for further
+diuresing.  Although his weight remained kind of stable,
+clinically he looked much better with continuous 1 to 1.5
+liter negative of ins and outs per day.  Since his TSH and
+free T4 were on the low side his Levothyroxine was increased
+to 50 micrograms po q day.  His TSH should be rechecked in
+four to six weeks to ensure adequate replacement.  He also
+received 1 unit of packed red blood cells for a low
+hematocrit of 28.  He was started on Epogen and iron
+supplements for anemia of iron deficiency and chronic renal
+insufficiency.  His renal function also improved
+significantly after aggressive diuresing.  His creatinine
+went down to 1.9 on the day of discharge.
+
+DISCHARGE CONDITION:  Stable.
+
+DISCHARGE STATUS:  Home.
+
+DISCHARGE DIAGNOSIS:
+Congestive heart failure exacerbation.
+
+DISCHARGE MEDICATIONS:  Coreg 3.125 mg po b.i.d., Protonix 40
+mg po q day, Amiodarone 200 mg po q day, Neurontin 100 mg po
+q day, aspirin 81 mg po q day, Levothyroxine 15 micrograms po
+q day, Warfarin one tablet po q.h.s.  The patient was told to
+resume his regular Coumadin dose.  Lovenox 60 mg subQ b.i.d.
+until INR greater then 2.  Iron sulfate 325 mg po q day,
+Bumex 3 mg po b.i.d., Hydralazine 25 mg po q.i.d., Imdur 30
+mg po q.d., Epogen 5000 units subQ three times a week,
+Monday, Wednesday and Friday.
+
+DISCHARGE FOLLOW UP:  The patient will see Dr. [**Last Name (STitle) **] in the
+congestive heart failure clinic on [**3407-4-28**] at 9:30
+a.m..  He will also continue to follow up with his primary
+care physician.  [**Name10 (NameIs) **] will have his INR checked on Wednesday
+[**4-15**] of 2003 and have his TSH checked in four weeks.
+Since the patient has significant coronary artery disease and
+congestive heart failure starting the patient on an ace
+inhibitor and statin would be beneficial as an outpatient.
+
+
+
+
+
+
+                          [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **], M.D.  [**MD Number 551**]
+
+Dictated By:[**First Name8 (NamePattern2) 6211**]
+
+MEDQUIST36
+
+D:  [**3407-4-13**]  10:38
+T:  [**3407-4-13**]  11:40
+JOB#:  [**Job Number 6212**]
+Signed electronically by: DR. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **]
+ on: [**Doctor First Name 122**] [**3407-6-25**] 2:10 PM
+(End of Report)
+
+
+",,
+24870,15867,,,3407-04-06 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3407-4-6**] 3:40 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 6902**]
+     Reason: Please evaluate for acute cardiopulm process                
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      71 year old man with CHF (EF 10-15%) admitted w/ 15lb wt. gain, decreased 
+      exercise tolerance.
+     REASON FOR THIS EXAMINATION:
+      Please evaluate for acute cardiopulm process                                    
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     PORTABLE CHEST:
+     
+     Compared to [**3407-1-27**].
+     
+     INDICATION: Weight gain in patient with congestive heart failure.
+     
+     The heart demonstrates left ventricular enlargement. The aorta is slightly
+     tortuous. The pulmonary vascularity shows slight upper zone redistribution.
+     There is no overt evidence of pulmonary edema. No pleural effusions are
+     evident, but the right costophrenic angle has been excluded from the study,
+     and cannot be assessed.
+     
+     An ICD remains in place with 4 leads. One of the leads has an unusual
+     orientation, possibly due to biventricular pacing. This appears unchanged.
+     
+     Note is made of prior median sternotomy and mitral valve replacement.
+     
+     IMPRESSION: Upper zone vascular redistribution, but no overt evidence of
+     pulmonary edema.
+
+",,
+24870,15867,30880,0,3407-04-06 17:35:00 EST,3407-04-06 17:44:00 EST,-1,"N",1,"Nursing/Other","CCU NPN","
+CCU NPN
+71 y.o. gentlemen w/ severe ischemic CM admitted to CCU for swan/inotropic therapy.
+
+CV: Tele AV paced @ 70, rare PVC. CPKs found to be 653, rest of cardiac enzymes pending. Plan was for natrecor tonight, swan under fluoro tomorrow. Natrecor d/c d/t enzymes, attending does not want to risk interfering w/ pacing wires to float swan. 2+ Pitting edema BLE, palp pulses.
+
+Neuro: Alert and oriented x 3, MAE. Ambulated from chair to bed using cane independently.
+
+Pulm: LS CTA but diminished on R. Sats 95% on RA
+
+GI/GU: +BS, abd soft, non-tender. Voiding cl yellow urine via urinal. Creat 2.9, has CRF.
+
+Access: 1 18G PIV R AC.
+
+Endo: IDDM, cont on NPH/reg insulin BID, FS QID.
+
+A/P: Cycle enzymes, ?gentle diuresis, cont insulin, c/o to floor. Emotional support for pt's wife and family.
+",,
+24870,15867,30880,0,3407-04-07 04:38:00 EST,3407-04-07 04:47:00 EST,330,"N",1,"Nursing/Other","CCU NPN 1900-0700","
+CCU NPN 1900-0700
+O:  afeb.  HR 70 AV paced.  BP 94-113/50-60.  nitro .23mcq/k/min
+slept well all night.  wakes easily.  no CP/SOB.  
+sats 97%.  LS dimnished - clear.  
+voided 600cc, (-)200cc for [**4-6**].
+CK down to 485/20.
+A/P:  plan to transfer to floor today.  
+",,

@@ -1,0 +1,945 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+24466,,,,2562-10-04 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2562-10-4**] 3:00 PM
+     MR HEAD W & W/O CONTRAST; MR CONTRAST GADOLIN                   Clip # [**Clip Number (Radiology) 2768**]
+     Reason: cll in right parietal brain
+      Contrast: MAGNEVIST Amt: 20
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      60 year old man with cll
+     REASON FOR THIS EXAMINATION:
+      cll in right parietal brain
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  60 year old man with CLL.
+     
+     COMPARISON:  MRI of the brain dated [**2562-8-25**].
+     
+     TECHNIQUE:  Multiplanar T1 and T2 images were obtained of the head. Diffusion-
+     weighted and T1-weighted post gadolinium images were also obtained.
+     
+     FINDINGS:  There are new enhancing masses of decreased T2 signal present along
+     the ependymal margins of the posterior horns of both the right and left
+     lateral ventricles and extending into the posterior corpus callosum, which are
+     surrounded by areas of increased T2 signal, and consistent with
+     lymphomatous/leukemic masses with edema. The edema in the right side of the
+     brain extends from the posterior right parietal region to the right temporal
+     subcortical white matter.  This is increased compared to the prior study.
+     There is no hydrocelphalus.
+     Also noted is abnormal marrow signal of the vertebral bodies that may be
+     related to the patient's known history of CLL. Cervical lymphadenopathy is
+     also demonstrated.
+     
+     IMPRESSION:  New enhancing masses located along the posterior horns of the
+     lateral ventricles and involving the posterior corpus callosum that are
+     concerning for CNS lymphoma or chloromas.
+
+",,
+24466,,,,2562-10-05 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2562-10-5**] 7:53 PM
+     CHEST (PRE-OP PA & LAT)                                         Clip # [**Clip Number (Radiology) 2769**]
+     Reason: BRAIN TUMOR
+     Admitting Diagnosis: BRAIN TUMOR
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      60 year old man with                                                            
+     REASON FOR THIS EXAMINATION:
+      pre-op                                                                          
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY: Brain tumor and CLL.  Preoperative evaluation for brain biopsy.
+     
+     COMPARISON: Most recent chest radiographs of 4/19,  [**5-4**] and [**2562-4-28**], cannot
+     be currently retrieved from the PAX archiving system.  The reports are
+     available for correlation.
+     
+     FINDINGS: PA AND LATERAL VIEWS: The heart and pulmonary vascularity are
+     normal.  A prominent azygous contour remains present, not significantly
+     changed since [**2562-2-24**].  This may represent lymphadenopathy.  If clinically
+     indicated, chest CT may be helpful for further evaluation.  The lungs appear
+     clear.  There is no pleural effusion.  The visualized osseous structures
+     appear unremarkable.
+     
+     IMPRESSION:
+     1.  No evidence of a new cardiopulmonary abnormality.
+     2.  Stable prominence of the azygous vein contour.
+
+",,
+24466,,,,2562-10-06 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2562-10-6**] 6:44 PM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 2771**]
+     Reason: r/o blood post biopsy after seizure                         
+     Admitting Diagnosis: BRAIN TUMOR
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      60 year old man s/p brain bx, just had seizure                                  
+     REASON FOR THIS EXAMINATION:
+      r/o blood post biopsy after seizure                                             
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     PROCEDURE:  CT head without contrast.
+     
+     INDICATION:  Seizure.  Status post brain biopsy earlier in the day.
+     
+     Comparison is made to the prior examination of [**2562-10-6**].
+     
+     FINDINGS:  Compared to the previous exam, there is no definite new
+     intracranial hemorrhage. There was not a precontrast study on the prior, so a
+     small amount of hemorrhage is not excluded. A focus of intracranial
+     pneumocephalus is seen at the presumed site of stereotactic biopsy. There is
+     no change in appearance to mass lesions within the brain and the degree of
+     surrounding vasogenic edema. Ventricles are stable in size.  No shift of the
+     normally midline structures.
+     
+     IMPRESSION:  No definite intracranial hemorrhage status post biopsy.  Small
+     focus of pneumocephalus at site of biopsy.
+     
+
+",,
+24466,,,,2562-10-06 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2562-10-6**] 2:10 PM
+     CT STEREOTAXIS W/ CONTRAST; CT 100CC NON IONIC CONTRAST         Clip # [**Clip Number (Radiology) 2770**]
+     Reason: Please do study in am of 8/25, pt for stereotactic biopsy in
+     Admitting Diagnosis: BRAIN TUMOR
+      Contrast: OPTIRAY Amt: 100
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      60 year old man with CLL                                                        
+     REASON FOR THIS EXAMINATION:
+      Please do study in am of 8/25, pt for stereotactic biopsy in OR                 
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  60-year-old man with CLL for stereotactic biopsy.
+     
+     TECHNIQUE: Contrast enhanced axial images of the head were obtained with the
+     stereotactic apparatus in place.
+     
+     COMPARISON:  MR of the head dated [**2562-10-4**].
+     
+     FINDINGS: Enhancing lesion present in the subependymal regions of the
+     posterior horns of the lateral ventricles and involving the posterior corpus
+     callosum with surrounding rim of edema is visualized.
+     
+     IMPRESSION: Images obtained for stereotactic location of enhancing brain mass.
+     
+
+",,
+24466,7877,,,2562-10-11 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+ 
+ 
+ 
+Admission Date:  [**2562-10-11**]              Discharge Date:   [**2562-10-27**]
+ 
+Date of Birth:  [**2502-7-18**]             Sex:   M
+ 
+Service: NMED
+ 
+Allergies: 
+Patient recorded as having No Known Allergies to Drugs
+ 
+Attending:[**First Name3 (LF) 5210**] 
+Chief Complaint:
+Tonic-Clonic seizures and left sided weakness
+ 
+Major Surgical or Invasive Procedure:
+Endoscopic placement of jejunostomy tube
+ 
+History of Present Illness:
+60 yo M w/ h/o CLL and CNS lymphoma admitted on [**2562-10-11**] s/p 
+seizure x 3 at rehab.  He is a patient of Dr. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **].  The 
+patient initially presented in [**2557**] with an increased WBC found 
+during a pre-op workup for a hernia repair.  Further workup 
+found this to be CLL and the patient was treated with a cycle of 
+chlorambucil and prednisone finished in [**2562-7-15**].  
+
+The patient was doing well until [**2-14**] when he presented with 
+mild ataxia and memory problems. A sterotactic biospy of his 
+right parietal lesion revealed a B-cell lymphoproliferative 
+disorder with evidence of demylination though was not diagnostic 
+of lymphoma. He underwent 2 cycles of CHOP/rituxan but 
+progressed. He was thus tried on high dose MTX x 2 to 3 cycles. 
+This was c/b ARF and the onset of seizures. He continued to 
+progress on this course of treatment and was thus tried on a 
+course of total brain irradiation from [**2562-6-24**] to [**2562-8-5**] for 
+a total of 6,000 cGy. An attempt was made to wean his Decadron 
+post-tx but was c/b L focal motor seizure. 
+
+Further imaging revealed possibly progressive dz. Stereotactic 
+brain bx [**2562-10-6**] c/b postop sz confirmed his dx of high-grade B 
+Cell lymphoma (CD20+ lymphoma, labs to determine if EBV-related 
+are pending). He was d/c [**2562-10-8**] to [**Hospital1 **], unfortunately 
+off his lamictal. The morning of [**2562-10-11**], he suffered 3 
+generalized tonic-clonic seizures and was brought to the ER. 
+There his medication error was recognized and his lamictal was 
+restarted. He was admitted on [**2562-10-11**] for re-imaging and 
+treatment. 
+
+During this admission, the patient continued to have seizures 
+involving his left side. However, [**2562-10-13**] and [**2562-10-14**], he 
+became more confused and lethargic, and have myoclonic movements 
+of his right arm. He was then transferred to the ICU for close 
+monitoring. An EEG in the ICU showed no evidence of seizure 
+acitivity and then he was transferred back to the floor. 
+
+Regarding his lymphoma, a repeat head MRI on [**2562-10-11**] has shown 
+interval worseining of his mass. He has completed his 3rd cycle 
+of rituxan and ara-c on [**2562-10-18**].  
+ 
+Past Medical History:
+1. CLL: dx '[**57**] when he was noted to have an elevated wbc on 
+preop labs for a hernia repair, 1st tx in 10/02 w/ chlorambucil 
+and prednisone for NS, lymphadenopathy, and splenomegaly  
+2. hypercholesterolemia  
+3. CNS lymphoma - see hx above  
+4. GERD  
+PSHx:  
+1. s/p stereotactic brain biopsy [**2562-2-24**] and [**2562-10-6**]  
+2. s/p ear surgery  
+3. s/p hernia repair in [**2557**].  
+
+ 
+Social History:
+No EtOH, tob, drugs. Up until 1 week ago he was living alone, 
+completely independent in a 5th floor apartment. He was spending 
+a lot of time at his home in [**State 311**] with his girlfriend. Since 
+his sz following the brain bx ([**2562-10-6**]), he has been at 
+[**Hospital3 693**].  
+He worked in a brokerage firm in the past. He is divorced w/ 3 
+children (2 daughters in [**Name2 (NI) 439**], 1 son in [**Name2 (NI) **], CO)
+
+ 
+Family History:
+F w/ cancer (unknown primary), M w/ lung cancer (h/o tobacco) 
+ 
+Physical Exam:
+VS T98.5 P82 BP119/68 RR20 O2Sat93%  
+HEENT: Some crusting inside mouth, but no lesions suggestive of 
+thrush or mucositis.  
+Neck: No cervical lymphadenopathy.  
+Cardiovascular: Normal S1, S2, Regular, rate, and rhythm, no 
+murmurs, rubs or gallops.  
+Lungs: Clear to auscultation (anterior exam)  
+Abdomen: Hypoactive bowel sounds, soft, nontender, nondistended, 
+no rebound, no guarding.  
+Extremities: Warm, no clubbing cyanosis, or edema. Erythema 
+resolving.  
+Neuro: No longer rousable to voice or responding to commands.  
+ 
+Pertinent Results:
+[**2562-10-11**] 10:00AM   GLUCOSE-105 UREA N-15 CREAT-0.8 SODIUM-141 
+POTASSIUM-3.3 CHLORIDE-103 TOTAL CO2-27 ANION GAP-14
+[**2562-10-11**] 10:00AM   LIPASE-22
+[**2562-10-11**] 10:00AM   CALCIUM-9.4 PHOSPHATE-3.1 MAGNESIUM-2.0
+[**2562-10-11**] 10:00AM   PHENYTOIN-16.8
+[**2562-10-11**] 10:00AM   WBC-16.3* RBC-4.94 HGB-14.3 HCT-40.7 MCV-82 
+MCH-28.9 MCHC-35.1* RDW-14.3
+[**2562-10-11**] 10:00AM   NEUTS-25* BANDS-1 LYMPHS-35 MONOS-6 EOS-0 
+BASOS-0 ATYPS-32* METAS-0 MYELOS-1*
+[**2562-10-11**] 10:00AM   HYPOCHROM-NORMAL ANISOCYT-NORMAL 
+POIKILOCY-NORMAL MACROCYT-NORMAL MICROCYT-NORMAL 
+POLYCHROM-NORMAL
+[**2562-10-11**] 10:00AM   PLT COUNT-147*
+[**2562-10-11**] 10:00AM   PT-13.1 PTT-21.7* INR(PT)-1.1
+------------
+
+MR CONTRAST GADOLIN  [**2562-10-11**] 7:55 PM
+Status post biopsy. Increasing extent of enhancement of the mass 
+lesions present at the posterior horns of the lateral ventricles 
+and splenium of the corpus callosum, with mass effect producing 
+a mild right to left shift.
+------------
+
+CT HEAD W/O CONTRAST  [**2562-10-11**] 11:02 AM
+Again identified are numerous periventricular masses. These are 
+slightly hyperdense on this non-contrast study. This appearance 
+has not changed since the examination of [**2562-10-6**]. There is 
+massive surrounding edema with mass effect on the ventricles and 
+right to left mid-line shift. This has increased slightly since 
+the prior study. There is no evidence of hemorrhage in the 
+interval. There is a small amount of air at the biopsy site. 
+This now demonstrates an air fluid level, which is new since the 
+prior study.
+
+CONCLUSION: S/P biopsy of multiple bilateral deep white matter 
+masses. There is no evidence of hemorrhage. Again identified are 
+numerous masses with massive edema and right to left mid-line 
+shift. There has been a slight increase in right hemispheric 
+edema since the prior study. 
+-------------
+
+EEG Study Date of [**2562-10-15**] 
+This is an abnormal portable EEG due to the presence of a 
+slow and disorganized background rhythm in the delta frequency 
+range 
+with generalized bursts of delta and theta frequency slowing. 
+These 
+findings suggest an encephalopathy. Mixed theta and delta 
+frequency 
+slowing was also noted to be more prominant at times over the 
+right 
+peri-central region. This finding suggests subcortical 
+dysfunction in 
+the right posterior frontal and parietal regions. No 
+epileptiform 
+activity was seen during the recording. Note was made of ectopy 
+on the 
+cardiac monitor. 
+-------------
+
+EEG Study Date of [**2562-10-16**] 
+This is an abnormal discontinuous 24-hour bedside telemetry. 
+At the beginning of the record, the background rhythm appeared 
+slow and 
+disorganized in the 3 Hz delta frequency range. There were 
+generalized 
+bursts of delta frequency slowing and at times the slowing 
+appeared more 
+prominent in the right parietal region. The findings are 
+suggestive of 
+encephalopathy and there may also be a subcortical region of 
+dysfunction 
+in the right parietal region. As the record progressed, the 
+background 
+rhythm did increase in frequency at times reaching the upper 
+theta 
+frequency range. There was a brief period of delta frequency 
+slowing in 
+the right parietal region that did have some sharp features. No 
+clear 
+epileptiform activity was seen. Also, at times during the 
+record, some 
+higher frequency activity and slightly higher amplitude was 
+noted over 
+the right pareital temporal region. This suggests a subcortical 
+dysfunction in this region and could reflect a breach rhythm. It 
+was 
+made on the cardiac monitor and occasional ectopy. No clear 
+seizure 
+activity was seen during this recording. 
+-------------
+
+CT HEAD W/O CONTRAST  [**2562-10-17**] 4:57 PM
+1. Numerous masses with massive edema, minimally increased from 
+the prior
+study, and consistent with a known history of CNS lymphoma.
+2. Persistent right-to-left midline shift, not significantly 
+changed.
+3. No new intracranial hemorrhage.
+-------------
+
+MR CONTRAST GADOLIN  [**2562-10-22**] 7:09 PM
+No significant interval change in extent and appearances of the 
+enhancing component of the lesion involving the splenium and 
+periatrial region of both lateral ventricles compared with the 
+prior study of [**2562-10-11**]. No new lesions are identified. The 
+examination is slightly limited by motion.
+ 
+Brief Hospital Course:
+60M CLL, CNS lymphoma diagnosed in [**2562-2-11**] status post 
+multiple treatments now with progressive disease and increasing 
+seizure frequency.
+
+1. Seizures:  Patient was initially admitted for seizure 
+management and was given lorazepam as needed to terminate 
+seizures.  Following rituxan and high-dose AraC therapy, patient 
+began to experience twitching of his left lower extremity, which 
+he and his family thought were the prodromal effects of 
+seizures.  Therefore, although patient was initially managed on 
+the floor, he was then transferred to the unit for concern of 
+status epilepticus and frequent neurological exams.
+
+Following two EEGs, it was determined that patient was not in 
+fact in status, and that sedative medications should be 
+minimized.  Dilantin was titrated to a serum level of 19-20, and 
+Lamictal was continued and no further seizures were noted.
+
+2. CNS lymphoma:  Patient was initially treated with rituxan and 
+high-dose AraC for the synergy.  Cerebral edema was managed with 
+standing dexamethasone with intermittent increases as needed.  
+However, despite treatment and lack of change on repeat MRI, 
+patient's mental status began to worsen.  Although patient was 
+initially able to respond verbally with full-length sentences, 
+at the time of discharge, patient was completely unable to 
+respond to verbal stimuli and was only able to respond to 
+noxious stimuli.  Since there was no gross change on repeat MRI, 
+it was thought that patient's disease continued to progress on a 
+microscopic level that was not visualized by MRI.  Further 
+chemotherapy was felt to be futile.  Therefore, near the end of 
+the [**Hospital 874**] hospital course, a family meeting was held and it 
+was decided that patient would be taken to his home in [**State 311**] for 
+hospice care.  In preparation, patient underwent endoscopic 
+placement of a jejunostomy tube for continued PO medications 
+(especially anti-epileptics).
+
+At the time of discharge, patient's prognosis was poor given the 
+progression of his disease despite chemo/biological therapy, and 
+it was felt that patient would benefit from hospice care.  
+Patient was taken home to [**State 311**] with hospice nursing care.  
+Patient's family was instructed to contact the hospital if they 
+needed further assistance with management of palliative 
+medications.
+
+ 
+Medications on Admission:
+Protonix 40 p qd
+Colace 100 mg po BID
+Zoloft 25mg po qd
+dexamethasome 4mg IV q6h
+lamictal 150mg po BID
+Dilantin 200mg po BID 
+Tylenol prn
+Clotrimazole troche 
+folate 1mg po qd
+Nystatin 
+ 
+Discharge Medications:
+1. Lamictal 150 mg Tablet Sig: One (1) Tablet PO twice a day.
+Disp:*60 Tablet(s)* Refills:*2*
+2. Phenytoin 100 mg/4 mL Suspension Sig: Twelve (12) ml PO twice 
+a day.
+Disp:*400 ml* Refills:*2*
+3. Bisacodyl 10 mg Suppository Sig: One (1) tab Rectal once a 
+day as needed for constipation.
+Disp:*30 tablets* Refills:*2*
+4. Colace 150 mg/15 mL Liquid Sig: Ten (10) ml PO twice a day as 
+needed for constipation.
+Disp:*600 ml* Refills:*2*
+5. Ativan 0.5 mg Tablet Sig: 1-2 Tablets PO at bedtime as needed 
+for insomnia: and as needed for agitation.
+Disp:*90 Tablet(s)* Refills:*2*
+6. Azithromycin 100 mg/5 mL Suspension for Reconstitution Sig: 
+Fifteen (15) ml PO once a day for 4 days.
+Disp:*60 ml* Refills:*0*
+7. Zyprexa Zydis 20 mg Tablet, Rapid Dissolve Sig: One (1) 
+Tablet, Rapid Dissolve PO at bedtime as needed for insomnia.
+Disp:*30 Tablet, Rapid Dissolve(s)* Refills:*2*
+8. Dexamethasone 1 mg/mL Drops Sig: Six (6) ml PO 9AM, 11AM, 
+1PM: and four (4) ml at 3PM.
+Disp:*700 ml* Refills:*2*
+9. Lansoprazole 30 mg Susp,Delayed Release for Recon Sig: Thirty 
+(30) mg PO once a day.
+Disp:*1000 mg* Refills:*2*
+10. Acetaminophen 325 mg Suppository Sig: 1-2 tabs Rectal every 
+4-6 hours as needed for fever or pain.
+Disp:*300 tabs* Refills:*2*
+11. Morphine Sulfate 10 mg/5 mL Solution Sig: [**4-16**] ml PO every 
+4-6 hours as needed for pain.
+Disp:*500 ml* Refills:*2*
+12. Metoprolol Tartrate 25 mg Tablet Sig: One (1) Tablet PO 
+twice a day.
+Disp:*60 Tablet(s)* Refills:*2*
+13. Lactulose 10 g/15 mL Syrup Sig: Thirty (30) ml PO three 
+times a day as needed for constipation.
+Disp:*1000 ml* Refills:*2*
+14. Bactrim 400-80 mg Tablet Sig: One (1) Tablet PO every Monday 
+Wednesday Friday.
+Disp:*60 Tablet(s)* Refills:*2*
+
+ 
+Discharge Disposition:
+Home with Service
+ 
+Discharge Diagnosis:
+Central Nervous System Lymphoma
+Seizure Disorder
+Chronic Lymphocytic Leukemia
+Cellulitis
+Urinary tract infection
+
+ 
+Discharge Condition:
+Fair
+ 
+Discharge Instructions:
+1) Continue taking the following medications:
+- Dilantin (phenytoin) oral suspension 300mg twice a day
+- Lamictal 150mg twice a day
+- Azithromycin 250mg once a day for four days
+- Bactrim SS 1 tab Monday, Wednesday, Friday
+- Metoprolol 25mg twice a day
+- Ativan 1mg at bedtime, and 0.5mg as needed for agitation
+- Zyprexa Zydis 20mg at bedtime
+- Prevacid (lansoprazole) 30mg once a day
+- Morphine oral suspension as needed for pain
+- Dexamethasone 6ml at 9AM, 11AM, 1PM, then 4ml at 3PM.  
+- Bisacodyl suppository for constipation
+- Docusate twice a day for constipation
+- Lactulose 30ml as needed for constipation
+- Acetaminophen 1-2 tablets every 4-6 hours for fever or pain
+
+2) Call your doctor if [**Doctor First Name **] need help with any of these 
+medications.
+
+3) No invasive procedures, do not resuscitate, do not intubate.
+ 
+Followup Instructions:
+None
+
+ 
+                             [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 3261**] MD [**MD Number 5213**]
+ 
+Completed by: [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 1913**] [**Name8 (MD) **] MD [**MD Number 1914**] [**2562-12-18**] @ 1706
+Signed electronically by: DR. [**First Name11 (Name Pattern1) **] [**Initial (NamePattern1) **] [**Last Name (NamePattern4) **]
+ on: SUN [**2563-1-9**] 8:47 AM
+(End of Report)
+
+
+",,
+24466,7877,,,2562-10-11 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2562-10-11**] 7:55 PM
+     MR HEAD W & W/O CONTRAST; MR CONTRAST GADOLIN                   Clip # [**Clip Number (Radiology) 2773**]
+     Reason: Evaluate progress of CNS lymphoma, r/o leptomeningeal involv
+     Admitting Diagnosis: BRAIN TUMOR
+      Contrast: MAGNEVIST Amt: 20
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      60 year old man with CNS lymphoma w/ increasing seizures and known increase in 
+      brain lesions.
+     REASON FOR THIS EXAMINATION:
+      Evaluate progress of CNS lymphoma, r/o leptomeningeal involvement               
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  60 y/o man with history of CNS lymphoma with increasing seizure
+     frequency, status post biopsy.
+     
+     COMPARISON:  MR of the head dated [**2562-10-4**].
+     
+     TECHNIQUE:   Multiplanar T1 and T2 weighted images of the head were obtained.
+     Diffusion weighted images and T1w post Gadolinium images were also obtained.
+     
+     FINDINGS:
+     
+     An air fluid level is present at the biopsy site.  The mass lesions seen at
+     the posterior horns of the lateral ventricles, also involving the splenium of
+     the corpus callosum demonstrate interval increase in the extent of
+     enhancement.  The extent of surrounding edema appears grossly unchanged.
+     Although the study is limited by motion artifact, there appears to be a mild
+     right to left shift of the septum pellucidum, and right lateral ventricle.
+     There is no abnormal signal seen on diffusion weighted images.  The area of
+     the biopsy demonstrates susceptibility artifact consistent with air or
+     hemorrhage.  There are no new focal areas of abnormal enhancement.
+     
+     IMPRESSION:
+     
+     Status post biopsy.  Increasing extent of enhancement of the mass lesions
+     present at the posterior horns of the lateral ventricles and splenium of the
+     corpus callosum, with mass effect producing a mild right to left shift.
+     
+
+",,
+24466,7877,,,2562-10-11 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2562-10-11**] 11:02 AM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 2772**]
+     Reason: evaluate for bleed or acute changes                         
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       60 year old man w/ CNS lymphoma s/p brain bx [**10-6**] now w/ tonic-clonic 
+      seizures.                           
+     REASON FOR THIS EXAMINATION:
+      evaluate for bleed or acute changes                                             
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+     WET READ: DBH MON [**2562-10-11**] 12:29 PM
+      No evidence of hemorrhage. No increase in edema. Again seen are numerous deep
+      white matter masses with extensive surrounding edema, unchanged since [**2562-10-6**].
+      S/P biospy with decreased air in the biopsy site.
+     ______________________________________________________________________________
+                                     FINAL REPORT *ABNORMAL!
+     HISTORY:  Seizures 5 days S/P brain biopsy.
+     
+     Contiguous axial images were obtained through the brain.  No contrast was
+     administered.  Comparison to a head CT of [**2562-10-6**].
+     
+     FINDINGS:  Again identified are numerous periventricular masses.  These are
+     slightly hyperdense on this non-contrast study.  This appearance has not
+     changed since the examination of [**2562-10-6**].  There is massive surrounding edema
+     with mass effect on the ventricles and right to left mid-line shift.  This has
+     increased slightly since the prior study.  There is no evidence of hemorrhage
+     in the interval.  There is a small amount of air at the biopsy site. This now
+     demonstrates an air fluid level, which is new since the prior study.
+     
+     CONCLUSION:  S/P biopsy of multiple bilateral deep white matter masses.  There
+     is no evidence of hemorrhage.  Again identified are numerous masses with
+     massive edema and right to left mid-line shift. There has been a slight
+     increase in right hemispheric edema since the prior study.
+
+",,
+24466,7877,,,2562-10-14 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2562-10-14**] 6:43 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 2774**]
+     Reason: Evaluate for infiltrate                                     
+     Admitting Diagnosis: BRAIN TUMOR
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      60 year old man with seizures. Concern could have aspirated.                    
+     REASON FOR THIS EXAMINATION:
+      Evaluate for infiltrate                                                         
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  History of seizure.  Evaluate for aspiration or infiltrate.
+     
+     PORTABLE AP CHEST X-RAY:  Comparison is made to the study from [**2562-10-5**].  No
+     opacities or infiltrates are seen.  Pleural effusions are identified.  The
+     heart size and mediastinal contours are unchanged.  No pneumothorax is seen.
+     The osseous structures are within normal limits.
+     
+     IMPRESSION:  No opacities identified to suggest aspiration or infiltrate.
+
+",,
+24466,7877,30368,0,2562-10-14 16:15:00 EST,2562-10-14 16:41:00 EST,379,"N",69,"Nursing/Other","MSICU NSG ACCEPTANCE NOTE 1630-1900","
+MSICU NSG ACCEPTANCE NOTE 1630-1900
+see flowsheet for further details.
+
+
+60 yo man w/  h/o CLL progression to CNS lymphoma, transferred to MSICU w/ increasing sz activity.  Brain bx done in ~[**Female First Name (un) **] and received whole brain XRT. Brain Bx repeated [**9-15**] and pt was [**Last Name (un) **] to rehab. Re admitted with increased Sz activity after not recieving lamictal in rehab. Per 11R RN his initial szs were L side twitching mostly on LLE. Today twitching moved to r side. Also noted to have ? [**Doctor Last Name **] apnea with periods of apnea assoc w/drop in O2sats to 80s that resolve when he starts to breath again.
+
+Arrive to ICU somnulent and difficult to arouse at time. Pupils 3cm and react. R side strength normal. No mvmt or sensation noted on L. Follows commands. Using urinal without problem. ~10 sec periods of apnea noted assoc w/ O2sats 86%. Difficult to arouse at these times but episodes self-limiting. O2sats 96% when awake. 
+
+Plan for ?continous EEG monitoring. Neurology following and currently
+speaking with family. Has 2 dgts,1 son and [**Initials (NamePattern4) **] [**Doctor First Name **].
+",,
+24466,7877,30368,0,2562-10-14 21:06:00 EST,2562-10-14 21:17:00 EST,117,"N",69,"Nursing/Other","MICU NPN 7PM-11PM:","
+MICU NPN 7PM-11PM:
+Neuro: Pt alert, restless at times. Oriented times one to two. Knows he is in the hospital in [**Location (un) 366**]. Moves right side well but left arm is flaccid and left leg moves in spastic motion at times. Speech is garbled. Pt has intermittent c/o being hot/cold. Given his dose of iv dilantin as well as PO lamictal. No seizure activity noted. Seizure pads in place.
+
+CV: BP 130-160/60-80. HR 70's. Given one dose of hydralizine 10mg IV at 10PM. Will need to watch for the effects.
+
+Resp: Pt has short periods of apnea but sats have been mantained. RR 10-20/min. Lungs are clear.
+
+GI: NPO for now. Pt took pills PO without difficulty, sitting bolt upright in bed. Given lactulose dose this eve due to no stool today according to family who had been with him since 9AM.
+
+GU: Voiding frequently in urinal but needs assistance in order to not spill.
+
+ID: Afebrile
+
+IV: Pt with two peripheral IV's in place working well.
+
+Social: Family was here to visit until almost 9PM this evening. 
+",,
+24466,7877,30368,0,2562-10-15 05:34:00 EST,2562-10-15 05:53:00 EST,1303,"N",69,"Nursing/Other","NPN  2300-0700","
+NPN  2300-0700
+Neuro:  Pt alert, awake and restless most of noc, confused, oriented only to person, garbled speech.  Pt obeys most commands.  He freq tried to get OOB by swinging his left leg over side rail.   PERL at 3mm.  Pt does not move left arm at all.  Can lift left leg, but doesn't move freq.  Pt fell asleep at ~0530.  No seizure activity noted, no twitching.  Seizure pads in place.  Dilantin continued.
+
+RespL  Pt has irregular breathing pattern, and apnea when asleep.  With 2L o2 NC, pt did not drop sats <95%.  RR 10-24.  Lungs clear.
+
+CV:  BP 129/92-152/85.  HR 62-90, nsr, occ pvcs, occ multifocal pvcs.
+Afebrile.  AM labs back K 3.1, Mag 1.7 need repletion.  Hct 38.9.
+
+Gi:  NPO.  +BS, abd soft.  No stool this shift despite Lactulose given on eves.
+
+GU:  Voiding q few hours adequate amts.  Pt - 100mls this shift.
+
+Skin:  Intact.
+
+Social:  No calls from family this shift.
+
+
+",,
+24466,7877,30368,0,2562-10-15 15:55:00 EST,2562-10-15 16:10:00 EST,379,"N",69,"Nursing/Other","MSICU NPN 0700-1900","
+MSICU NPN 0700-1900
+
+
+Periods of somnulence alt w/periods of interactiveness. No noted siezure activity. A&O x1. Follows commands. Speech somewhat garbled but clearer than yesterday. Difficult word finding w/min short term memory. Also forgot girlfriend's name but knew he had forgotten and asked what it was.
+Able to move R side without difficult. PEARL. Can lift and hold LLE, could not bend it this a.m. but was able to bend it slightly this afternoon. Moves LUE slightly on bed. Minimal sensation on L side. Placed on continuous EEG monitoring. Plan to run EEG x6 pages q1hr. Pt not restless but does move in bed without regard to EEG leads. Still able to ask for urinal (UO ~50cc/hr) and bed pan. + flatus but no stool. Able to take pills without problem. 
+
+2L N/C. RR ~16. Periods of apnea when asleep 5-10sec long. Lungs clear. O2sats maintaining mid 90s.
+
+Afebrile.
+
+Mg and K+ replaced. IVFs changed to NS. FSs 120s-130s. No Insulin required.
+
+Various visitors in and out today. Updated.
+",,
+24466,7877,30368,,2562-10-16 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2562-10-16**] 10:55 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 2775**]
+     Reason: ?placement NG tube                                          
+     Admitting Diagnosis: BRAIN TUMOR
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       60 year old man with seizures. Concern could have aspirated.                   
+       
+     REASON FOR THIS EXAMINATION:
+      ?placement NG tube                                                              
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  NG tube placement in patient with seizures and possible aspiration.
+     NG tube is in stomach.  The lungs are clear.  The left CPA is not included on
+     the film.
+
+",,
+24466,7877,30368,0,2562-10-16 03:42:00 EST,2562-10-16 03:55:00 EST,1238,"N",69,"Nursing/Other","Nursing Progress Note 1900-0700","
+Nursing Progress Note 1900-0700
+Pt very restless, confused and agitated in bed all noc after family left. pulled off several EEG electrodes, pulling at IV's, trying to get OOB. medication w/ 3mg Ativan x2 w/ minimal affect. sitter at bedside. no seizure activity seen. continued w/ q1hr EEG strips even though some of the electrodes were removed by pt. remained hemodynamically stable.
+
+ROS-
+
+CV- NSR HR 60-90's. BP 120-180's systolic. extremities warm, pulses palpable. am hct stable at 37.2. Afebrile.
+
+RESP- recieved pt on 2 liters NC, pt pulling off frequently. during very brief episodes of [**Doctor Last Name **], pt noted to have marked [**Doctor Last Name **] apnea. desaturated into upper 80's, o2 up to 4 liters. No cough or SOB. 
+
+NEURO- oriented to self only. restless, seeking reassurance frequently. no short term memory, difficult to redirect at times. denies pain. garbled speech. continues w/ L sided weakness. very strong R side. able to slightly move L side on bed. clonus activity noted to LLE, very tense, twitching at times w/ stimulation. Continues on IV DIlantin. am level 20.1. 
+
+GI/GU- NPO, given sips of water w/o difficulty. abd soft/ NT/ND. no stool. remains on Colace and Lactulose. IVF, NS at 100cc/hr. voiding in urinal. foley inserted briefly to r/o urine retention as a cause of agitation. Had 300cc return, but foley appeared to further agitate pt and was removed. 
+
+SKIN- intact. 
+
+SOCIAL- GF and daughters very involved in care. anxious at bedside. updated on progress/ plan.
+
+ACCESS- Piv x2. d/t agitation, difficult to secure IV's. 
+
+PLAN- ?sundowning, will likely see improvement w/ agitation/ confusion in am. Ativan prn for safety. may need sitter again overnoc. replace EEG leads. ?the need to continue continuous EEG monitoring. frequent reorientation and reassurance. q 1hr neuro checks. FULL CODE>
+
+
+",,
+24466,7877,30368,0,2562-10-16 16:21:00 EST,2562-10-16 16:45:00 EST,66,"N",69,"Nursing/Other","M/SICU Nursing Progress Note 7a-7p","
+M/SICU Nursing Progress Note 7a-7p
+See Careview for Additional Objective Data
+#1:Altered MS r/t High Grade CNS Lymphoma
+D:MS [**First Name (Titles) 1164**] [**Last Name (Titles) 4630**] with somnulance with bursts of agitation. When awake MS waxes and wanes from confusion, unable to follow commands, restless in bed, pulling at IV, catheter, electrodes to answering questions, following simple commands. Speech is garbled. PERRL. R side with Normal stregth, L UE weakness, no movement noted on LLE. No seizure activity noted. Nuerology in this am to review EEG: noted slowing c/w encephalopathy, no seizures. Dilantin and lamictal therapeutic. No sedation given this shift
+  Afebrile, WBC:WNL
+  Hemodynamically stable
+  BUN/Cr:WNL, small amount of hematuria noted this afternoon after patient found pulling at condom catheter. U/O:80-180cc/void. Inc x2 this am prior to condom cath placed
+  NPO except meds, patient too somnulant to receive po meds. Abd soft, non-tender, +BS, + flatus, no BM
+  4L NC with SpO2:>95% BS:Clear, no cough, no sputum production
+  BS:112
+
+A:Chemotherapy initiated at 15:00
+  NGT placed for po meds/nutrition
+  Foley placed
+  EEG's D/C'ed
+  K repleated
+  24h sitters initiated for safety
+  Lactulose D/C'ed
+  Family in and updated
+
+R:MS as described above, patient more alert this afternoon in comparison to this am without additional sedatives given, minimize sedation when possible-ativan rather than haldol, no seizure activity, cont with 24 h sitters for safety, chemotherapy precautions-contain all secreations,D/C laxatives, gown/chemo gloves, monitor electrolytes, repleate prn, continue with supportive care as previously documented.
+",,
+24466,7877,30368,,2562-10-17 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2562-10-17**] 2:17 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 2776**]
+     Reason: Evaluate NG tube placement                                  
+     Admitting Diagnosis: BRAIN TUMOR
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      60 year old man with seizures. NG tube placed.                                  
+     REASON FOR THIS EXAMINATION:
+      Evaluate NG tube placement                                                      
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     History of seizures and NG tube placement.
+     
+     The distal end of the NG tube is difficult to localize on this film beyond the
+     region of the distal esophagus and a repeat film should be obtained.
+     
+
+",,
+24466,7877,30368,,2562-10-17 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2562-10-17**] 4:57 PM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 2777**]
+     Reason: eval for interval change                                    
+     Admitting Diagnosis: BRAIN TUMOR
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      60 y/o male with primary CNS lymphoma, here with worsening seizures, now with 
+      worsening mental status
+     REASON FOR THIS EXAMINATION:
+      eval for interval change                                                        
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  CNS lymphoma, worsening seizures and mental status.
+     
+     TECHNIQUE:  Axial noncontrast Head CT.
+     
+     COMPARISON:  Comparison was made with [**2562-10-11**].
+     
+     CT HEAD w/o CONTRAST:  Again, noted are numerous periventricular masses, which
+     are slightly hyperattenuating on this noncontrast study.  These may have
+     slightly increased in size compared to the prior study.  There is massive
+     edema surrounding these lesions with mass effect on the ventricles.  There is
+     midline shift towards the left, as seen previously.  The edema may have also
+     slightly increased from the prior study.  This study is somewhat limited due
+     to patient motion, although multiple attempts were made.  Again, there is a
+     small amount of air at the biopsy site, slightly decreased from the prior
+     study.  No evidence of intra- or extraaxial hemorrhage.  There are polyps vs.
+     mucosal retension cysts in both maxillary sinuses, with otherwise well-aerated
+     paranasal sinuses.  No acute fractures.
+     
+     IMPRESSION
+     
+     1.  Numerous masses with massive edema, minimally increased from the prior
+         study, and consistent with a known history of CNS lymphoma.
+     
+     2.  Persistent right-to-left midline shift, not significantly changed.
+     3.  No new intracranial hemorrhage.
+     
+     As discussed with the referring resident, an MRI would provide more detail,
+     but at this time it was felt that the patient would not tolerate this study.
+     These findings were discussed with the resident, Dr. [**Last Name (STitle) 2778**].
+
+",,
+24466,7877,30368,0,2562-10-17 02:48:00 EST,2562-10-17 03:19:00 EST,585,"N",69,"Nursing/Other","micu npn 1900-0700","
+micu npn 1900-0700
+please see carevue flowsheet for all objective data
+
+     pt remains confused/very agitated at times, attempting to get oob, kick and punch sitter with attempts to keep legs in bed or reposition for safety.. oriented x1 for most part o/n. r arm restrained for safety. pt has excellent strength in r arm and leg.. moves l leg and improving strength in l arm. ativan 1 mg given x2 w/pt screaming out, kicking.. not much effect noted. pt slept very little if any overnight.. garbled speech, remains on dexamethasone 4 mg q6hrs.
+
+cv- vss. bp 120-160-170's when agitated. hr 80's no ectopy. 
+resp- remains on 4l nasal cannula, o2sats >95%, l/s diminished. 
+gi- npo. ngt for meds. ?nutrition.. to consult nutrition for recs today?? no stool. 
+gu- excellent u/o via foley catheter, clear, yellow.
+id- low grade 98.7 axillary. not on antibiotics.
+
+continue chemotherapy today.. remains on chemo precautions. sitters at bedside for safety, will utilize family to stay w/patient for safety.. ?may go to floor..
+",,
+24466,7877,30368,0,2562-10-17 17:50:00 EST,2562-10-17 18:04:00 EST,228,"N",69,"Nursing/Other","pmicu nursing progress note","
+pmicu nursing progress note
+resp:  on 3l nasal prongs---with o2 sats of 97-99% and a resp rate of 15-26.  frequent periods of apnea lasting approx 25secs.  lung sounds coarse (difficult to assess with pt snoring).  frequent moisture applied to mouth and tongue, but tongue very very dry.  
+
+cardiac:  bp 117-175/60-90 with a pulse of 68-79 sr, no ectopy noted.  k+ 3.8--rec'd 40 meq of kcl.  mag 1.7--pt given 2gms of mag.  
+
+neuro:  down for head c-scan.  this am pt very agitated, calling out and flipping right leg over the siderail.  gradually throughout the day pt has become more somulent, but arouseable.  but also having gradually longer periods of apnea.  right hand is restrained, as when pt is awake he will pull at catheter.
+
+gi:  abdomin soft/distended/  hypoactive bowel sounds.  obtained from the ng tube this morning was 65cc of ""brick-red"", ob + drainage.  ng was lavaged until clear, and then the ng tube was removed.  pt will take crushed pills in custard, without any difficulty.  no stool
+
+gu:  foley in place.  urinary output approx 40cc/hr.  bun 12 and creat .7.
+
+chemo/neuro:  pt received chemo today after being premedicated with decadron and anzemet.  no seizure activity noted--receiving dilantin and lamotrigine.  dilantin level was 19.  
+
+endo:  no reg insulin given.  fingersticks of 102 and 132.
+",,
+24466,7877,30368,0,2562-10-17 19:49:00 EST,2562-10-17 19:51:00 EST,6152,"N",69,"Nursing/Other",,"
+
+
+family at bedside and son requested to get update of CT results. The physician on call in the MSICU spoke with the whole family and updated them on all procedures. The family left at 2000. Pt then examined by RN and medications given [**Name8 (MD) 59**] MD orders. Sitter at bedside. Pt snoring and appears comfortable and in no pain. Vital stable.
+",,
+24466,7877,,,2562-10-22 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2562-10-22**] 7:09 PM
+     MR HEAD W & W/O CONTRAST; MR CONTRAST GADOLIN                   Clip # [**Clip Number (Radiology) 2779**]
+     Reason: ?Change in brain lesions                                    
+     Admitting Diagnosis: BRAIN TUMOR
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       60 year old man with CNS lymphoma w/ increasing seizures and known brain 
+      lesions, s/p high dose Ara-C and Rituxan.
+     REASON FOR THIS EXAMINATION:
+      ?Change in brain lesions                                                        
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CLINICAL INFORMATION:  Patient with CNS lymphoma and increasing seizures and
+     brain lesions.
+     
+     TECHNIQUE: T1 sagittal and FLAIR T2 susceptibility and diffusion axial images
+     were obtained before gadolinium.  T1 axial sagittal and coronal images were
+     obtained following gadolinium.  Comparison was made with the previous MRI
+     examination of [**2562-10-11**].
+     
+     FINDINGS:  Again enhancing lesion is identified involving the periventricular
+     region and splenium of corpus callosum with extension to the septum extension
+     for the region of fornix.  There is extensive edema seen in both parietal
+     occipital region predominantly on the right side.  The previously seen air
+     within the lesion secondary to biopsy in the right parietal lobe has resolved.
+      There has been no significant interval change in the extent of enhancement
+     and edema compared to the prior study.  No new areas of enhancement are
+     identified. A small subdural collection possibly post-surgical is seen on the
+     right side.
+     
+     IMPRESSION:  No significant interval change in extent and appearances of the
+     enhancing component of the lesion involving the splenium and periatrial region
+     of both lateral ventricles compared with the prior study of [**2562-10-11**].  No new
+     lesions are identified.  The examination is slightly limited by motion.
+
+",,
+24466,7877,,,2562-10-23 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2562-10-23**] 12:31 AM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 2780**]
+     Reason: Please evaluate for new intracranial pathology              
+     Admitting Diagnosis: BRAIN TUMOR
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        60 year old man w/ CNS lymphoma s/p brain bx [**10-6**] now with sudden change in 
+      mental status. 
+     REASON FOR THIS EXAMINATION:
+      Please evaluate for new intracranial pathology                                  
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  60-year-old with CNS lymphoma status-post brain biopsy 3 weeks
+     ago with sudden change in mental status.  Evaluate for new intracranial
+     pathology.
+     
+     COMPARISON:  [**2562-10-17**].
+     
+     TECHNIQUE:  Noncontrast Head CT.
+     
+     FINDINGS:  There is no change from the prior study.  Again, there are numerous
+     periventricular masses which are slightly hyperattenuating on this noncontrast
+     study.  These involve the corpus callosum and periventricular white matter and
+     do cross the midline.  There is extensive low attenuation in the subcortical
+     white matter involving the entirety of the right temporal and parietal lobes,
+     and to a lesser extent the right frontal and left temporal and occipital
+     lobes representing edema.  There is stable midline shift towards the left.
+     There is no evidence of intra- or extraaxial hemorrhage.
+     
+     Motion limits the exam.  There are polyps vs. retension cysts in both
+     maxillary sinuses.
+     
+     IMPRESSION:  No change from prior.
+     
+
+",,
+24466,7877,,,2562-10-24 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2562-10-24**] 12:09 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 2781**]
+     Reason: Please evaluate for infection.                              
+     Admitting Diagnosis: BRAIN TUMOR
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       60 year old man with h/o CNS lymphoma with altered mental status/?delerium 
+      with unchanged head CT and unchanged MRI. 
+     REASON FOR THIS EXAMINATION:
+      Please evaluate for infection.                                                  
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  60-year-old man with history of CNS lymphoma, evaluate for
+     infection.
+     
+     COMPARISON:  Comparison is made to the prior study of [**2562-10-17**].
+     
+     CHEST, PORTABLE AP VIEW:  This study shows no significant change in the
+     appearance of the lung fields.  The previously seen NG tube has been removed.
+     There is no evidence of pleural effusion or pneumothorax.
+     
+     IMPRESSION:  The lung fields are clear.  Interval removal of the NG tube.
+
+",,

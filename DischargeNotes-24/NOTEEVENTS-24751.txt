@@ -1,0 +1,696 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+24751,20537,,,3391-12-02 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+ 
+ 
+ 
+Admission Date:  [**3391-12-2**]              Discharge Date:   [**3391-12-6**]
+ 
+Date of Birth:  [**3308-6-22**]             Sex:   M
+ 
+Service: NEUROLOGY
+ 
+Allergies: 
+Erythromycin Base / Penicillins / Tetracyclines / Iodine 
+Containing Agents Classifier
+ 
+Attending:[**First Name3 (LF) 217**] 
+Chief Complaint:
+RIGHT face weakness and inability to speak 
+ 
+Major Surgical or Invasive Procedure:
+0.9mg/kg IV t-PA
+ 
+History of Present Illness:
+84 yo RHM with multiple vascular risk factors including 
+coumadin-na ve atrial fibrillation presents with rapid-onset of 
+RIGHT facial weakness and mutism between 10:30-12PM today. He 
+was 
+seen this morning by his wife who [**Name2 (NI) 5986**] that he was at his 
+baseline, talkative, without focal wekanes, able to move all 
+extremities, and able to walk. She left the house at about 10am 
+and then received a call from his HHA at approximately 12pm 
+reporting the above symptoms to her. They immediately called 911 
+
+and brought the pt to [**Hospital1 25**]. He underwent a head CT which was 
+negative for intracranial hemorrhage. An MRI was performed. The 
+pt was seen by Dr. [**Last Name (STitle) 2762**] and Dr. [**Last Name (STitle) **] of Neurology and an NIH 
+Stroke Scale of 12 was determined. The pt received 0.9mg/kg of 
+t- 
+PA intravenously. The patient was transferred to the ICU for 
+close post-procedure monitoring. 
+ 
+Past Medical History:
+1) chronic atrial fibrillation  
+2) CAD - s/p cath in [**3385**] which revealed LAD occlusion, good  
+collateral flow.  
+3) pleural pericarditis - Pleural effusion since [**3385**]. In [**3385**], 
+the patient underwent a procedure to examine the pleural fluid 
+as well as a lung biopsy, both of which did not reveal a clear 
+etiology to the source of the patient's effusion. The patient at 
+that time also had a pericardial window procedure performed for 
+a
+pericardial effusion.
+4) hypertension  
+5) type 2 diabetes  
+6) chronic mitral regurgitation  
+7) chronic obstructive pulmonary disease  
+8) depression  
+9) hyperlipidemia  
+10) mild renal insufficiency  
+11) hard of hearing  
+12) Hemorrhoids
+13) Chronic urinary retention/BPH
+ 
+Social History:
+The patient retired from his medical practice  
+about five years ago and has not taken up any new activities  
+since that time. He denies any interest  
+in reading, movies, or other entertainment. He rarely goes out.  
+
+He does have two sons and several grandchildren whom he enjoys.  
+
+He denies alcohol and stopped smoking in [**3347**].  
+
+ 
+Family History:
+Family History: Remarkable for colon cancer in a brother.  
+No reported history of neurological disease.  
+ 
+Physical Exam:
+T 97.7 HR 98  RR22   BP 108/78 Pox 94% 2L NC
+Gen NAD 
+CV: Irregularly irregular rate, no m/r/g
+Distal pulses palpable at radius equally, no JVD 
+Resp Mild crackles at RLL 
+GI: soft, NT, ND, +BS 
+GU: Foley in place, I/O 1180/1660
+EXT: Bilateral pitting edema to lower legs bilaterally, with 
+some interval improvement since admission
+NEURO: AA&O to person and place. Eyes open spontaneously. Pt. 
+follows commands. His speech is markedly slurred, hypophonic and 
+dysarthric however fluent. Repetition and naming are intact.
+CN: I--not tested; II,III-PERRLA [**3-22**] b/l, VFF by confrontation; 
+III,IV,VI-EOMI w/o nystagmus, no ptosis; V--sensation intact to 
+LT/PP, masseters strong symmetrically; VII-there is dense RIGHT 
+facial weakness sparing the forehead; IX,X--voice nasal, palate 
+elevates symmetrically, uvula midline, gag weakly intact; [**Doctor First Name 210**]-- 
+SCM/trapezii [**5-26**]; XII--tongue protrudes midline, no atrophy or 
+fasciculation. 
+Motor: normal bulk and tone, no tremor, rigidity or 
+bradykinesia, 
+no pronator drift. Strength: 
+  Tri  [**Hospital1 **] FE  WE  IP
+R  4+  5  5   5   5
+L  5   5  5   5   5
+ 
+Refl: 
+|[**Hospital1 **] |tri |bra |pat |[**Doctor First Name **] |toe | 
+L | 2 | 2 | 2 | 2 | 1 | mute | 
+R | 2 | 2 | 2 | 2 | 1 | up | 
+ 
+[**Last Name (un) **]: LT intact without extinction 
+Gait: pt has repeatedly deferred gait testing 
+
+ 
+Pertinent Results:
+The patient was admitted to the Neuro ICU
+[**3391-12-5**] 07:30AM BLOOD WBC-10.5 RBC-4.40* Hgb-14.2 Hct-41.0 
+MCV-93 MCH-32.4* MCHC-34.8 RDW-14.5 Plt Ct-119*#
+[**3391-12-5**] 07:30AM BLOOD WBC-10.5 RBC-4.40* Hgb-14.2 Hct-41.0 
+MCV-93 MCH-32.4* MCHC-34.8 RDW-14.5 Plt Ct-119*#
+[**3391-12-5**] 07:30AM BLOOD Plt Ct-119*#
+[**3391-12-5**] 07:30AM BLOOD Glucose-88 UreaN-21* Creat-1.2 Na-140 
+K-4.9 Cl-103 HCO3-27 Calcium-8.4 Phos-3.5 Mg-1.9
+[**3391-12-3**] 02:52AM BLOOD CK(CPK)-27*
+[**3391-12-2**] 08:47PM BLOOD CK(CPK)-24*
+[**3391-12-2**] 05:14PM BLOOD CK(CPK)-24*
+[**3391-12-3**] 02:52AM BLOOD CK-MB-NotDone cTropnT-0.03*
+[**3391-12-2**] 08:47PM BLOOD CK-MB-NotDone cTropnT-0.03*
+[**3391-12-2**] 05:14PM BLOOD CK-MB-NotDone cTropnT-<0.01
+
+[**3391-12-3**] 02:52AM BLOOD %HbA1c-6.2* [Hgb]-DONE [A1c]-DONE
+[**3391-12-3**] 02:52AM BLOOD Triglyc-171* HDL-39 CHOL/HD-5.5 
+LDLcalc-140*
+ 
+Brief Hospital Course:
+Dr. [**Known patient lastname 5987**] was diagnosed with an embolic stroke of the MCA 
+territory, his NIH stroke scale was calculated at 12 - he had a 
+dense RIGHT facial weakness in an UMN distribution and he was 
+essentially mute; he had little observed focal weakness of his 
+extremities at this time. He receieved IV t-PA at 0.9mg/kg and 
+was transferred to the Neuro-ICU for close monitoring. He 
+remained hemodynamically stable there overnight with noticeable 
+improvement in his speech. His verbal output greatly increased 
+although his speech remains quite dysarthric. He was ruled out 
+for MI.
+Neurologically, Dr. [**Known patient lastname 5987**] has remained stable with dense RIGHT 
+lower facial paresis and dysarthria. He also was noted to have a 
+fairly weak gag reflex. He failed his speech and swallow 
+evaluation. An NGT was placed for nutritional purposes. Dr. 
+[**Known patient lastname 5987**] has been reticent with PT. Because  of his atrial 
+fibrillation, he has reluctantly agreed to begin warfarin which 
+was started [**3391-12-5**] PM at 5mg QHS. 
+
+The patient has remained hemodynamically stable. He has had some 
+evidence of fluid retention with intermitent bibasilar crackles 
+and lower extremity edema. He has required several boluses of IV 
+furosemide to improve his urine output. His oxygen requirement 
+has been 2L NC to mainatin Pox>95%. CXRs have revealed a stable 
+chronic RIGHT pleural effusion, cardiomegaly, and some discoid 
+atelectasis. He has chronic atrial fibrillation and had episodes 
+of recorded tachycardia likely secondary to irregular rate.
+
+At admission, Dr. [**Known patient lastname 5987**] had an indwelling Foley catheter 
+because of chronic urinary retention likely secondary to BPH. A 
+urinalysis revealed >50 WBCs. Ciprofloxacin was started. The 
+patient has completed [**4-28**] day course. Results of UCx are still 
+pending. 
+
+With regard to nutrition, Dr. [**Known patient lastname 5987**] failed a speech and swallow 
+evaluation with solids and liquids. He was started on tube 
+feeding [**3391-12-5**] with Promote w/fiber. Nutrition was consulted. 
+
+ 
+Medications on Admission:
+Glipizide 2.5 mg daily 
+Metoprolol 100mg daily 
+Spironolactone 25 mg daily 
+Zoloft 25 mg daily 
+ 
+Discharge Medications:
+1. Bisacodyl 5 mg Tablet, Delayed Release (E.C.) Sig: Two (2) 
+Tablet, Delayed Release (E.C.) PO DAILY (Daily) as needed.
+Disp:*40 Tablet, Delayed Release (E.C.)(s)* Refills:*2*
+2. Aspirin 325 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Disp:*30 Tablet(s)* Refills:*5*
+3. Ciprofloxacin 500 mg Tablet Sig: One (1) Tablet PO Q12H 
+(every 12 hours) for 3 days.
+Disp:*6 Tablet(s)* Refills:*0*
+4. Famotidine 20 mg Tablet Sig: One (1) Tablet PO BID (2 times a 
+day).
+Disp:*60 Tablet(s)* Refills:*2*
+5. Atorvastatin 10 mg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).
+Disp:*30 Tablet(s)* Refills:*3*
+6. Acetaminophen 325 mg Tablet Sig: 1-2 Tablets PO Q4-6H (every 
+4 to 6 hours) as needed.
+Disp:*60 Tablet(s)* Refills:*0*
+7. Zoloft 20 mg/mL Concentrate Sig: Twenty Five (25) mg PO once 
+a day: per NGT.
+Disp:*50 mL* Refills:*1*
+8. Warfarin 5 mg Tablet Sig: One (1) Tablet PO HS (at bedtime): 
+Please adjust dose to INR 2.0-2.5.
+Disp:*10 Tablet(s)* Refills:*0*
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+[**Hospital6 2841**] for the Aged - Acute Rehab
+ 
+Discharge Diagnosis:
+LEFT MCA stroke 
+RIGHT facial paresis
+Dysarthria and tongue apraxia
+Urinary Retention
+UTI
+Borderline dementia
+
+ 
+Discharge Condition:
+Hemodynamically stable. 
+Dr. [**Known patient lastname 5987**] has a RIGHT facial weakness. Tongue apraxia, a weak 
+gag reflex. 
+He failed speech/swalow evaluation. An NGT was placed for oral 
+nutrition. Nutrition was consulted and made specific 
+recommendations.
+He is being treateed for a UTI with ciprofloxacin 400 q12h
+Warfarin was started [**3391-12-5**], INR needs to be monitored with 
+goal of 2.0-2.5, please adjust warfarin dose accordingly
+
+ 
+Discharge Instructions:
+Discharge to [**Hospital1 409**] Home for rehabilitation
+ 
+Followup Instructions:
+Follow-up visit in 2-3 months with Dr. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) 2464**]/Dr. 
+[**First Name (STitle) **] [**Name (STitle) **] of [**Hospital3 **] Neurology [**Telephone/Fax (1) 1214**]
+
+ 
+                             [**Name6 (MD) **] [**Name8 (MD) **] MD, [**MD Number 225**]
+ 
+Completed by: [**First Name11 (Name Pattern1) 652**] [**Last Name (NamePattern4) 5791**] MD [**MD Number 5792**] [**3391-12-6**] @ 1323
+Signed electronically by: DR. [**First Name (STitle) **] [**Name (STitle) **]
+ on: SAT [**3391-12-24**] 4:31 PM
+(End of Report)
+
+
+",,
+24751,20537,30737,0,3391-12-02 18:35:00 EST,3391-12-02 18:47:00 EST,6910,"N",53,"Nursing/Other","condition update","
+condition update
+received from e.d. @ 1445, pt arrive directly from MRI, tpa off.  
+Neuro: alert, nodding appropriatley, moves all extremities to command. garbled speech, right sided facial droop/tongue deviation noted.  Pupils, left 3mm, right 2mm  - briskly reactive.  
+CV: a-fib, rate in 70's.  BP well controlled (goal to keep sbp<180, dbp<120).  urine output low 25cc's over 1.5hr, received 250cc bolus with some diuresis, neuro and sicu team aware. NS at 80cc/hr.  No arterial stick tonight d/t tpa. 
+Resp: ls clear/diminished, 3.0 liters n.c.   
+GI: npo, to have speech and swallow exam in am, abd. soft, non-tender. 
+GU: urine cloudy with some sediment, catheter flushed, u/a sent.  
+Endo: bs 75, ssri for coverage if necessary.
+Plan: speech swallow exam in am, neuro checks q 1hr, freuqent vital signs, monitor for bleeding, monitor u/o, ct in am. chest x-ray tongiht. 
+",,
+24751,20537,30737,0,3391-12-02 22:13:00 EST,3391-12-02 22:33:00 EST,5219,"N",53,"Nursing/Other",,"
+
+[**12-2**]    19/07
+   NEURO PLEASE CAREVIEW FOR DETAILED Q 1 HOUR ASSESSMENTS PER ORDER DONE BY THIS NURSE [**First Name (Titles) 4999**] [**Last Name (Titles) **] THRU SHIFT ALERT TRIES TO TALK EXPRESSIVE APHASIA 
+   RESP CLEAR SAT 98 ON 3 LITERS NO SOB NOTED 
+   HEART S1S2 DISTANT TONES PT POST TPA MD [**First Name (Titles) **] [**Last Name (Titles) **] DOPPLER NVD NOTED AF OCC PVC RUN OF WIDE COMPLEX [**Name8 (MD) **] MD AWARE K AND MAG WNL STABLE H/H
+   GI POS B/S NPO UNTIL SWOLLOW STUDY ABD SOFT POS B/S
+    SAFTY RAILS UP MONITOR ALARMS ON V/S WITH FULL NEURO ASSESSMENT Q1 HOUR  
+    PLAN SUPPORTIVE PT OT FAMILY LAB WORK
+",,
+24751,,,,3392-01-18 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3392-1-18**] 10:32 AM
+     PERC G/G-J TUBE PLMT                                            Clip # [**Clip Number (Radiology) 5843**]
+     Reason: please place G-J tube                                       
+     Admitting Diagnosis: ALTERED MENTAL STATUS CHANGES;EKG CHANGES;TELEMETRY
+      Contrast: OPTIRAY Amt: 50
+     ********************************* CPT Codes ********************************
+     * 43750 PERC PLCMT GASTROMY TUBE       74350 PERC PLCMT GASTROSOTMY TUBE   *
+     * C1769 GUID WIRES INCL INF            C1769 GUID WIRES INCL INF           *
+     * C1769 GUID WIRES INCL INF            C1769 GUID WIRES INCL INF           *
+     * C1892 INT/SHTH,EP,FXD CURVE/[**Doctor Last Name 939**] AWY C1894 INT.SHTH NOT/GUID,EP,NONLASER *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       83 year old man with a stroke and dysphagia, multiple failed swallow  
+      evaluations
+     REASON FOR THIS EXAMINATION:
+      please place G-J tube                                                           
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     
+     INDICATION:  Subdural hemorrhage.  Inability to swallow.
+     
+     PROCEDURE/FINDINGS:  This procedure was performed by Dr. [**First Name (STitle) 2247**] [**Name (STitle) 2248**] with Dr.
+     [**First Name8 (NamePattern2) 2234**] [**Last Name (NamePattern1) 489**], the attending radiologist, present and supervising.  Risks and
+     benefits of the procedure were explained to the patient's wife and informed
+     consent was obtained over the telephone.  Pre-procedure time-out was performed
+     to confirm patient's identity and procedure.
+     
+     The patient's abdomen was prepped and draped in the usual sterile fashion. The
+     stomach was insufflated via a NG tube.  Under fluoroscopic guidance, the skin
+     overlying the inferior body/antrum of the stomach was locally anesthetized
+     with 10 cc of 1% lidocaine.  With the stomach insufflated, two gastropexy T-
+     fasteners were placed percutaneously with fluoroscopic guidance using 17-gauge
+     needle and secured to the skin.  Between the two fasteners, a skin [**Doctor Last Name 4184**] was
+     made and a 17-gauge needle was advanced into the stomach, with confirmation by
+     aspiration of air from the stomach.  Subsequently, a 0.035 Bentson guidewire
+     was inserted through the needle and into the stomach advanced to the duodenum.
+     The needle was removed and a 5-French bright tip sheath was advanced over the
+     wire.  The dilator was subsequently removed and a 5-French Kumpe catheter was
+     advanced over the wire through the cannula until reaching beyond the ligament
+     of Treitz.  Subsequently, the Bentson guidewire was exchanged a Super Stiff
+     Amplatz guidewire, which was advanced beyond the fourth portion of the
+     duodenum.  The 5-French cannula and Kumpe catheter was removed and a 14-French
+     peel-away sheath was advanced over the guidewire. Dilator was removed and
+     [**Doctor Last Name 1059**] gastrojejunostomy catheter was advanced through the sheath as the
+     sheath was peeled away.  Pigtail was performed in the duodenal bulb and the
+     catheter secured to the skin with a 0 silk suture.
+     
+     There were no associated complications.  Radiology nursing provided continuous
+     hemodynamic monitoring and conscious sedation for the procedure.
+     
+     IMPRESSION:  Successful percutaneous placement of a 14-French [**Doctor Last Name 1059**]
+     gastrojejunostomy catheter.
+                                                                 (Over)
+
+     DATE: [**3392-1-18**] 10:32 AM
+     PERC G/G-J TUBE PLMT                                            Clip # [**Clip Number (Radiology) 5843**]
+     Reason: please place G-J tube                                       
+     Admitting Diagnosis: ALTERED MENTAL STATUS CHANGES;EKG CHANGES;TELEMETRY
+      Contrast: OPTIRAY Amt: 50
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     
+     
+     
+
+",,
+24751,,,,3392-01-18 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3392-1-18**] 10:32 AM
+     PERC G/G-J TUBE PLMT                                            Clip # [**Clip Number (Radiology) 5843**]
+     Reason: please place G-J tube                                       
+     Admitting Diagnosis: ALTERED MENTAL STATUS CHANGES;EKG CHANGES;TELEMETRY
+      Contrast: OPTIRAY Amt: 50
+     ********************************* CPT Codes ********************************
+     * 43750 PERC PLCMT GASTROMY TUBE       74350 PERC PLCMT GASTROSOTMY TUBE   *
+     * C1769 GUID WIRES INCL INF            C1769 GUID WIRES INCL INF           *
+     * C1769 GUID WIRES INCL INF            C1769 GUID WIRES INCL INF           *
+     * C1892 INT/SHTH,EP,FXD CURVE/[**Doctor Last Name 939**] AWY C1894 INT.SHTH NOT/GUID,EP,NONLASER *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       83 year old man with a stroke and dysphagia, multiple failed swallow  
+      evaluations
+     REASON FOR THIS EXAMINATION:
+      please place G-J tube                                                           
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     
+     INDICATION:  Subdural hemorrhage.  Inability to swallow.
+     
+     PROCEDURE/FINDINGS:  This procedure was performed by Dr. [**First Name (STitle) 2247**] [**Name (STitle) 2248**] with Dr.
+     [**First Name8 (NamePattern2) 2234**] [**Last Name (NamePattern1) 489**], the attending radiologist, present and supervising.  Risks and
+     benefits of the procedure were explained to the patient's wife and informed
+     consent was obtained over the telephone.  Pre-procedure time-out was performed
+     to confirm patient's identity and procedure.
+     
+     The patient's abdomen was prepped and draped in the usual sterile fashion. The
+     stomach was insufflated via a NG tube.  Under fluoroscopic guidance, the skin
+     overlying the inferior body/antrum of the stomach was locally anesthetized
+     with 10 cc of 1% lidocaine.  With the stomach insufflated, two gastropexy T-
+     fasteners were placed percutaneously with fluoroscopic guidance using 17-gauge
+     needle and secured to the skin.  Between the two fasteners, a skin [**Doctor Last Name 4184**] was
+     made and a 17-gauge needle was advanced into the stomach, with confirmation by
+     aspiration of air from the stomach.  Subsequently, a 0.035 Bentson guidewire
+     was inserted through the needle and into the stomach advanced to the duodenum.
+     The needle was removed and a 5-French bright tip sheath was advanced over the
+     wire.  The dilator was subsequently removed and a 5-French Kumpe catheter was
+     advanced over the wire through the cannula until reaching beyond the ligament
+     of Treitz.  Subsequently, the Bentson guidewire was exchanged a Super Stiff
+     Amplatz guidewire, which was advanced beyond the fourth portion of the
+     duodenum.  The 5-French cannula and Kumpe catheter was removed and a 14-French
+     peel-away sheath was advanced over the guidewire. Dilator was removed and
+     [**Doctor Last Name 1059**] gastrojejunostomy catheter was advanced through the sheath as the
+     sheath was peeled away.  Pigtail was performed in the duodenal bulb and the
+     catheter secured to the skin with a 0 silk suture.
+     
+     There were no associated complications.  Radiology nursing provided continuous
+     hemodynamic monitoring and conscious sedation for the procedure.
+     
+     IMPRESSION:  Successful percutaneous placement of a 14-French [**Doctor Last Name 1059**]
+     gastrojejunostomy catheter.
+                                                                 (Over)
+
+     DATE: [**3392-1-18**] 10:32 AM
+     PERC G/G-J TUBE PLMT                                            Clip # [**Clip Number (Radiology) 5843**]
+     Reason: please place G-J tube                                       
+     Admitting Diagnosis: ALTERED MENTAL STATUS CHANGES;EKG CHANGES;TELEMETRY
+      Contrast: OPTIRAY Amt: 50
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     
+     
+     
+
+",,
+24751,,,,3392-01-18 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3392-1-18**] 10:32 AM
+     PERC G/G-J TUBE PLMT                                            Clip # [**Clip Number (Radiology) 5843**]
+     Reason: please place G-J tube                                       
+     Admitting Diagnosis: ALTERED MENTAL STATUS CHANGES;EKG CHANGES;TELEMETRY
+      Contrast: OPTIRAY Amt: 50
+     ********************************* CPT Codes ********************************
+     * 43750 PERC PLCMT GASTROMY TUBE       74350 PERC PLCMT GASTROSOTMY TUBE   *
+     * C1769 GUID WIRES INCL INF            C1769 GUID WIRES INCL INF           *
+     * C1769 GUID WIRES INCL INF            C1769 GUID WIRES INCL INF           *
+     * C1892 INT/SHTH,EP,FXD CURVE/[**Doctor Last Name 939**] AWY C1894 INT.SHTH NOT/GUID,EP,NONLASER *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       83 year old man with a stroke and dysphagia, multiple failed swallow  
+      evaluations
+     REASON FOR THIS EXAMINATION:
+      please place G-J tube                                                           
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     
+     INDICATION:  Subdural hemorrhage.  Inability to swallow.
+     
+     PROCEDURE/FINDINGS:  This procedure was performed by Dr. [**First Name (STitle) 2247**] [**Name (STitle) 2248**] with Dr.
+     [**First Name8 (NamePattern2) 2234**] [**Last Name (NamePattern1) 489**], the attending radiologist, present and supervising.  Risks and
+     benefits of the procedure were explained to the patient's wife and informed
+     consent was obtained over the telephone.  Pre-procedure time-out was performed
+     to confirm patient's identity and procedure.
+     
+     The patient's abdomen was prepped and draped in the usual sterile fashion. The
+     stomach was insufflated via a NG tube.  Under fluoroscopic guidance, the skin
+     overlying the inferior body/antrum of the stomach was locally anesthetized
+     with 10 cc of 1% lidocaine.  With the stomach insufflated, two gastropexy T-
+     fasteners were placed percutaneously with fluoroscopic guidance using 17-gauge
+     needle and secured to the skin.  Between the two fasteners, a skin [**Doctor Last Name 4184**] was
+     made and a 17-gauge needle was advanced into the stomach, with confirmation by
+     aspiration of air from the stomach.  Subsequently, a 0.035 Bentson guidewire
+     was inserted through the needle and into the stomach advanced to the duodenum.
+     The needle was removed and a 5-French bright tip sheath was advanced over the
+     wire.  The dilator was subsequently removed and a 5-French Kumpe catheter was
+     advanced over the wire through the cannula until reaching beyond the ligament
+     of Treitz.  Subsequently, the Bentson guidewire was exchanged a Super Stiff
+     Amplatz guidewire, which was advanced beyond the fourth portion of the
+     duodenum.  The 5-French cannula and Kumpe catheter was removed and a 14-French
+     peel-away sheath was advanced over the guidewire. Dilator was removed and
+     [**Doctor Last Name 1059**] gastrojejunostomy catheter was advanced through the sheath as the
+     sheath was peeled away.  Pigtail was performed in the duodenal bulb and the
+     catheter secured to the skin with a 0 silk suture.
+     
+     There were no associated complications.  Radiology nursing provided continuous
+     hemodynamic monitoring and conscious sedation for the procedure.
+     
+     IMPRESSION:  Successful percutaneous placement of a 14-French [**Doctor Last Name 1059**]
+     gastrojejunostomy catheter.
+                                                                 (Over)
+
+     DATE: [**3392-1-18**] 10:32 AM
+     PERC G/G-J TUBE PLMT                                            Clip # [**Clip Number (Radiology) 5843**]
+     Reason: please place G-J tube                                       
+     Admitting Diagnosis: ALTERED MENTAL STATUS CHANGES;EKG CHANGES;TELEMETRY
+      Contrast: OPTIRAY Amt: 50
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     
+     
+     
+
+",,
+24751,,,,3392-01-18 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3392-1-18**] 10:32 AM
+     PERC G/G-J TUBE PLMT                                            Clip # [**Clip Number (Radiology) 5843**]
+     Reason: please place G-J tube                                       
+     Admitting Diagnosis: ALTERED MENTAL STATUS CHANGES;EKG CHANGES;TELEMETRY
+      Contrast: OPTIRAY Amt: 50
+     ********************************* CPT Codes ********************************
+     * 43750 PERC PLCMT GASTROMY TUBE       74350 PERC PLCMT GASTROSOTMY TUBE   *
+     * C1769 GUID WIRES INCL INF            C1769 GUID WIRES INCL INF           *
+     * C1769 GUID WIRES INCL INF            C1769 GUID WIRES INCL INF           *
+     * C1892 INT/SHTH,EP,FXD CURVE/[**Doctor Last Name 939**] AWY C1894 INT.SHTH NOT/GUID,EP,NONLASER *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       83 year old man with a stroke and dysphagia, multiple failed swallow  
+      evaluations
+     REASON FOR THIS EXAMINATION:
+      please place G-J tube                                                           
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     
+     INDICATION:  Subdural hemorrhage.  Inability to swallow.
+     
+     PROCEDURE/FINDINGS:  This procedure was performed by Dr. [**First Name (STitle) 2247**] [**Name (STitle) 2248**] with Dr.
+     [**First Name8 (NamePattern2) 2234**] [**Last Name (NamePattern1) 489**], the attending radiologist, present and supervising.  Risks and
+     benefits of the procedure were explained to the patient's wife and informed
+     consent was obtained over the telephone.  Pre-procedure time-out was performed
+     to confirm patient's identity and procedure.
+     
+     The patient's abdomen was prepped and draped in the usual sterile fashion. The
+     stomach was insufflated via a NG tube.  Under fluoroscopic guidance, the skin
+     overlying the inferior body/antrum of the stomach was locally anesthetized
+     with 10 cc of 1% lidocaine.  With the stomach insufflated, two gastropexy T-
+     fasteners were placed percutaneously with fluoroscopic guidance using 17-gauge
+     needle and secured to the skin.  Between the two fasteners, a skin [**Doctor Last Name 4184**] was
+     made and a 17-gauge needle was advanced into the stomach, with confirmation by
+     aspiration of air from the stomach.  Subsequently, a 0.035 Bentson guidewire
+     was inserted through the needle and into the stomach advanced to the duodenum.
+     The needle was removed and a 5-French bright tip sheath was advanced over the
+     wire.  The dilator was subsequently removed and a 5-French Kumpe catheter was
+     advanced over the wire through the cannula until reaching beyond the ligament
+     of Treitz.  Subsequently, the Bentson guidewire was exchanged a Super Stiff
+     Amplatz guidewire, which was advanced beyond the fourth portion of the
+     duodenum.  The 5-French cannula and Kumpe catheter was removed and a 14-French
+     peel-away sheath was advanced over the guidewire. Dilator was removed and
+     [**Doctor Last Name 1059**] gastrojejunostomy catheter was advanced through the sheath as the
+     sheath was peeled away.  Pigtail was performed in the duodenal bulb and the
+     catheter secured to the skin with a 0 silk suture.
+     
+     There were no associated complications.  Radiology nursing provided continuous
+     hemodynamic monitoring and conscious sedation for the procedure.
+     
+     IMPRESSION:  Successful percutaneous placement of a 14-French [**Doctor Last Name 1059**]
+     gastrojejunostomy catheter.
+                                                                 (Over)
+
+     DATE: [**3392-1-18**] 10:32 AM
+     PERC G/G-J TUBE PLMT                                            Clip # [**Clip Number (Radiology) 5843**]
+     Reason: please place G-J tube                                       
+     Admitting Diagnosis: ALTERED MENTAL STATUS CHANGES;EKG CHANGES;TELEMETRY
+      Contrast: OPTIRAY Amt: 50
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     
+     
+     
+
+",,
+24751,,,,3392-01-18 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3392-1-18**] 10:32 AM
+     PERC G/G-J TUBE PLMT                                            Clip # [**Clip Number (Radiology) 5843**]
+     Reason: please place G-J tube                                       
+     Admitting Diagnosis: ALTERED MENTAL STATUS CHANGES;EKG CHANGES;TELEMETRY
+      Contrast: OPTIRAY Amt: 50
+     ********************************* CPT Codes ********************************
+     * 43750 PERC PLCMT GASTROMY TUBE       74350 PERC PLCMT GASTROSOTMY TUBE   *
+     * C1769 GUID WIRES INCL INF            C1769 GUID WIRES INCL INF           *
+     * C1769 GUID WIRES INCL INF            C1769 GUID WIRES INCL INF           *
+     * C1892 INT/SHTH,EP,FXD CURVE/[**Doctor Last Name 939**] AWY C1894 INT.SHTH NOT/GUID,EP,NONLASER *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       83 year old man with a stroke and dysphagia, multiple failed swallow  
+      evaluations
+     REASON FOR THIS EXAMINATION:
+      please place G-J tube                                                           
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     
+     INDICATION:  Subdural hemorrhage.  Inability to swallow.
+     
+     PROCEDURE/FINDINGS:  This procedure was performed by Dr. [**First Name (STitle) 2247**] [**Name (STitle) 2248**] with Dr.
+     [**First Name8 (NamePattern2) 2234**] [**Last Name (NamePattern1) 489**], the attending radiologist, present and supervising.  Risks and
+     benefits of the procedure were explained to the patient's wife and informed
+     consent was obtained over the telephone.  Pre-procedure time-out was performed
+     to confirm patient's identity and procedure.
+     
+     The patient's abdomen was prepped and draped in the usual sterile fashion. The
+     stomach was insufflated via a NG tube.  Under fluoroscopic guidance, the skin
+     overlying the inferior body/antrum of the stomach was locally anesthetized
+     with 10 cc of 1% lidocaine.  With the stomach insufflated, two gastropexy T-
+     fasteners were placed percutaneously with fluoroscopic guidance using 17-gauge
+     needle and secured to the skin.  Between the two fasteners, a skin [**Doctor Last Name 4184**] was
+     made and a 17-gauge needle was advanced into the stomach, with confirmation by
+     aspiration of air from the stomach.  Subsequently, a 0.035 Bentson guidewire
+     was inserted through the needle and into the stomach advanced to the duodenum.
+     The needle was removed and a 5-French bright tip sheath was advanced over the
+     wire.  The dilator was subsequently removed and a 5-French Kumpe catheter was
+     advanced over the wire through the cannula until reaching beyond the ligament
+     of Treitz.  Subsequently, the Bentson guidewire was exchanged a Super Stiff
+     Amplatz guidewire, which was advanced beyond the fourth portion of the
+     duodenum.  The 5-French cannula and Kumpe catheter was removed and a 14-French
+     peel-away sheath was advanced over the guidewire. Dilator was removed and
+     [**Doctor Last Name 1059**] gastrojejunostomy catheter was advanced through the sheath as the
+     sheath was peeled away.  Pigtail was performed in the duodenal bulb and the
+     catheter secured to the skin with a 0 silk suture.
+     
+     There were no associated complications.  Radiology nursing provided continuous
+     hemodynamic monitoring and conscious sedation for the procedure.
+     
+     IMPRESSION:  Successful percutaneous placement of a 14-French [**Doctor Last Name 1059**]
+     gastrojejunostomy catheter.
+                                                                 (Over)
+
+     DATE: [**3392-1-18**] 10:32 AM
+     PERC G/G-J TUBE PLMT                                            Clip # [**Clip Number (Radiology) 5843**]
+     Reason: please place G-J tube                                       
+     Admitting Diagnosis: ALTERED MENTAL STATUS CHANGES;EKG CHANGES;TELEMETRY
+      Contrast: OPTIRAY Amt: 50
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     
+     
+     
+
+",,
+24751,,,,3392-01-18 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3392-1-18**] 10:32 AM
+     PERC G/G-J TUBE PLMT                                            Clip # [**Clip Number (Radiology) 5843**]
+     Reason: please place G-J tube                                       
+     Admitting Diagnosis: ALTERED MENTAL STATUS CHANGES;EKG CHANGES;TELEMETRY
+      Contrast: OPTIRAY Amt: 50
+     ********************************* CPT Codes ********************************
+     * 43750 PERC PLCMT GASTROMY TUBE       74350 PERC PLCMT GASTROSOTMY TUBE   *
+     * C1769 GUID WIRES INCL INF            C1769 GUID WIRES INCL INF           *
+     * C1769 GUID WIRES INCL INF            C1769 GUID WIRES INCL INF           *
+     * C1892 INT/SHTH,EP,FXD CURVE/[**Doctor Last Name 939**] AWY C1894 INT.SHTH NOT/GUID,EP,NONLASER *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       83 year old man with a stroke and dysphagia, multiple failed swallow  
+      evaluations
+     REASON FOR THIS EXAMINATION:
+      please place G-J tube                                                           
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     
+     INDICATION:  Subdural hemorrhage.  Inability to swallow.
+     
+     PROCEDURE/FINDINGS:  This procedure was performed by Dr. [**First Name (STitle) 2247**] [**Name (STitle) 2248**] with Dr.
+     [**First Name8 (NamePattern2) 2234**] [**Last Name (NamePattern1) 489**], the attending radiologist, present and supervising.  Risks and
+     benefits of the procedure were explained to the patient's wife and informed
+     consent was obtained over the telephone.  Pre-procedure time-out was performed
+     to confirm patient's identity and procedure.
+     
+     The patient's abdomen was prepped and draped in the usual sterile fashion. The
+     stomach was insufflated via a NG tube.  Under fluoroscopic guidance, the skin
+     overlying the inferior body/antrum of the stomach was locally anesthetized
+     with 10 cc of 1% lidocaine.  With the stomach insufflated, two gastropexy T-
+     fasteners were placed percutaneously with fluoroscopic guidance using 17-gauge
+     needle and secured to the skin.  Between the two fasteners, a skin [**Doctor Last Name 4184**] was
+     made and a 17-gauge needle was advanced into the stomach, with confirmation by
+     aspiration of air from the stomach.  Subsequently, a 0.035 Bentson guidewire
+     was inserted through the needle and into the stomach advanced to the duodenum.
+     The needle was removed and a 5-French bright tip sheath was advanced over the
+     wire.  The dilator was subsequently removed and a 5-French Kumpe catheter was
+     advanced over the wire through the cannula until reaching beyond the ligament
+     of Treitz.  Subsequently, the Bentson guidewire was exchanged a Super Stiff
+     Amplatz guidewire, which was advanced beyond the fourth portion of the
+     duodenum.  The 5-French cannula and Kumpe catheter was removed and a 14-French
+     peel-away sheath was advanced over the guidewire. Dilator was removed and
+     [**Doctor Last Name 1059**] gastrojejunostomy catheter was advanced through the sheath as the
+     sheath was peeled away.  Pigtail was performed in the duodenal bulb and the
+     catheter secured to the skin with a 0 silk suture.
+     
+     There were no associated complications.  Radiology nursing provided continuous
+     hemodynamic monitoring and conscious sedation for the procedure.
+     
+     IMPRESSION:  Successful percutaneous placement of a 14-French [**Doctor Last Name 1059**]
+     gastrojejunostomy catheter.
+                                                                 (Over)
+
+     DATE: [**3392-1-18**] 10:32 AM
+     PERC G/G-J TUBE PLMT                                            Clip # [**Clip Number (Radiology) 5843**]
+     Reason: please place G-J tube                                       
+     Admitting Diagnosis: ALTERED MENTAL STATUS CHANGES;EKG CHANGES;TELEMETRY
+      Contrast: OPTIRAY Amt: 50
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     
+     
+     
+
+",,

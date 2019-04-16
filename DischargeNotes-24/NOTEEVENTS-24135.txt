@@ -1,0 +1,548 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+24135,8325,,,2989-01-26 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+
+Admission Date:  [**2989-1-26**]     Discharge Date:  [**2989-2-9**]
+
+Date of Birth:   [**2918-12-4**]     Sex:  F
+
+Service:
+
+DISCHARGE SUMMARY ADDENDUM:  The discharge was delayed
+secondary to lack of rehab beds.  Currently neurologically
+the patient is opening her eyes. She is purposeful with the
+left upper extremity. She withdraws to pain in the lower
+extremities. She continues to have a right hemiparesis.  She
+is not following commands, not verbalizing. Her vital signs
+have been stable. She has been afebrile. She is ready to
+transfer to rehab today.
+
+She is in stable.  Will follow up with Dr. [**First Name (STitle) **] in three to
+four weeks time.
+
+
+
+
+
+
+                          [**First Name11 (Name Pattern1) 1196**] [**Last Name (NamePattern4) 1197**], M.D.  [**MD Number 1198**]
+
+Dictated By:[**Last Name (NamePattern1) 130**]
+
+MEDQUIST36
+
+D:  [**2989-2-9**]  10:57
+T:  [**2989-2-9**]  14:18
+JOB#:  [**Job Number 4713**]
+Signed electronically by: DR. [**First Name8 (NamePattern2) 1196**] [**Last Name (NamePattern1) **]
+ on: TUE [**2989-3-10**] 9:33 AM
+(End of Report)
+
+
+",,
+24135,8325,29980,0,2989-01-27 05:57:00 EST,2989-01-27 06:05:00 EST,3772,"N",54,"Nursing/Other","NEURO STATUS","
+NEURO STATUS
+D: PT IS SEDATED BUT AGITATED WHEN STIMULATED. SHE DOES NOT FOLLOW COMMANDS. MOVES ALL EXTREMITIES TO PAINFUL STIMULI. PUPILS ARE EQUAL AND REACTIVE  TO LIGHT. SPEECH IS GARBLED AND INCOMPREHENDABLE. PT BECAME HYPOTENSIVE ON NIPRIDE AND NIPRIDE SHUT OFF. PT CONTINUES TO BE HYPOTENSIVE. 
+A: PT GIVEN FLUID BOLUS OF 500CC OF FLUID. 
+R: PT STILL HYPOTENSIVE WITH SBP 70-80. NEURO STATUS IS UNCHANGED.  
+A: PT GIVEN NS BOLUS OF 500CC.  MANNITOL HELD TILL BP IS BETTER. URINE LYTES AND OSMO SENT. NEURO [**Doctor First Name 125**] IS AWARE. 
+R: SBP UP TO 100. MANNITOL GIVEN. AFTER MANNITOL PT BECAME HYPOTENSIVE AGAIN AND NEURO SIGNS AR UNCHANGED. SBP DOWN TO 78-82
+A: SPOLE TO DR. [**Last Name (STitle) 2245**] AND NEO STARTED TO KEEP SBP GREATER THAN 90.
+R: NEO UP TO .6MCG/KG/MIN. SBP IS GREATER THAN 90. NEURO SIGNS ARE UNCHANGED FROM ADMISSION.    
+
+
+ 
+",,
+24135,8325,29980,0,2989-01-27 18:39:00 EST,2989-01-27 18:44:00 EST,3360,"N",54,"Nursing/Other","PROGRESS NOTE","
+PROGRESS NOTE
+NEURO: PT INITIALLY LETHARGIC, CLENCHING EYES WHEN ATTEMPTING TO OPEN, MOVING SPONT EXTREM ON BED BUT NOT FOLLOWING COMMANDS. AS DAY WENT ON, PT FOLLOWING SOME COMMANDS WITH LEFT ARM AND SQEEZING ON COMMAND. SPEAKING WORDS CLEARLY BUT PERSEVERATING ON STATEMENTS.  PERL. L GAZE PREFERENCE. PROBABLE RLE AND RUE WEAKNESS. CONT ON DPH. MANNITOL D/C'D.
+
+CV:D5NS AT 75 CC/HOUR. P-BOOTS ON. NEO WEANED OFF THIS AM TO KEEP SYS >90. NIPRIDE STARTED THIS PM SECONDARY TO INCREASING BP WITH AWAKENING. GOAL SBP <140
+
+RESP:LS CLEAR, DIMINISHED. O2 SAT ON 2L 93-99%
+
+GI:ABD SOFT, NT,ND. 
+
+GU:FOLEY PATENT DRNG CLEAR YELLOW URINE.
+
+SOCIAL: FAMILY AT BEDSIDE AND SUPPORTIVE. EXPRESSING WISHES TO STAY WITH PT AT ALL TIMES- FAMILY TO TAKE SHIFTS. 
+
+",,
+24135,8325,29980,0,2989-01-28 06:37:00 EST,2989-01-28 06:43:00 EST,3229,"N",54,"Nursing/Other",,"
+
+NEURO; RARELY OPENS EYES WITH STIMULATION, PERL #[**3-8**] BRISK, AND EQUAL, DOES NOT FOLLOW COMMANDS, MAE, RT ARM SEEMS LESS BRISK IN ACTIVITY THAN LEFT, NIPRIDE TITRATED TO KEEP[ SYS < 140, PRESENTLY OFF, 
+CARDIOVASCULAR;  GIVEN LOPRESSOR 2.5 MGM IV FOR TACHYCARDIA WITH RATE LOW 100'S AND TO AUGMENT WEANING OFF NIPRIDE, HR PRESENTLY 85 SR, EXTREMITIES WARM, PULSES EASILY PALPABLE, LEFT RADIAL A LINE OOZING MODER AMT SERO-SANGE DGE, DSG CHANGED BY H.O. X 1, BUT LINE BECAME VERY POSITIONAL THIS AM WITH VERY DAMPENED WAVEFORM, LINE REMOVED PER ORDER H.O. TEMP UP TO 101.3 AXILLARY, REPORTED TO HO, AND TYLENOL SUPPOS GIVEN, TEMP NOW 98.6 AXILLARY, PERIOD OF HYPOTENSION THIS AM AND NIPRIDE OFF BUT RESTARTED AT 1 MCG/KG/MIN, AND AT PRESENT IS OFF, SICU H.O. ACCEPTING SYS < 150
+
+ENDOCRINE.  BS 183 AON LATE EVES, AND RX WITH 2 UNITS HUMULIN REG, AWAITING LAB RESULTS FOR THIS AM, 
+
+RESPIR;  LUNGS CLEAR, 02 SAT 97 ON R/A 
+",,
+24135,8325,29980,0,2989-01-28 17:38:00 EST,2989-01-28 17:43:00 EST,3360,"N",54,"Nursing/Other","Nursing Progress Note","
+Nursing Progress Note
+Neuro:Pt agitated this AM with insertion of NGT, Haldol 2mg given. Pt remained sedated, flesing UE to nailbed and spont moving lower extrem throughout day.  Pt awoke 5p, speech slurred at times and not approp. Pt not following all commands, will follow squeeze of hands intermittetnly. MAE's spont, ? R arm weakness. Dilantin changed to PNGT. Pt agitated and pulling for NGT. restrained bilat arms.  
+
+CV:New IV polaced Left arm. K 3.3- repleted with 40 meq via NGT and 60 MEQ added periph to IV.  P-boots on. 
+
+RESP:LS diminished, o2sat 92-98%RA. Pt not following commands to C+DB. CXR clear per team.
+
+GI:NGT placed, promote with fiber started at 10cc/hr. abd soft,nt,nd. 
+
+GU:foley patent clear yellow urine.
+
+ENDO:FS WNL>
+
+Social:family at bedside receiving updates from MD's approp. Daughter to stay overnoc as sitter to ensure pt's safety.
+
+PLAN:cont close neuro checks. Dilantin via NGT. Restraints and daughter to ensure pt safety.  
+
+
+",,
+24135,8325,29980,0,2989-01-29 17:29:00 EST,2989-01-29 17:33:00 EST,3683,"N",54,"Nursing/Other","CONDITION UPDATE","
+CONDITION UPDATE
+S/O:  VSS, LOW GRADE TEMP.  PT VERY LETHARGIC MAJORITY OF SHIFT.  MOVING EXTREMITIES TO PAINFUL STIMULI.  LATE AFTERNOON MORE AWAKE - SPEECH GARBLED, NOT MAKING SENSE.  AWAKE PERIOD SHORT LIVED (ABOUT 1.5HRS).  PUPILS EQUAL AND REACTIVE.  LUNGS CTA BILAT.  O2SAT ACCEPTABLE ON 3L NP.  ABD SOFT.  TOLERATING TFEEDS.  U/O QS VIA FOLEY.
+A/P:  CONT CLOSE NEURO ASSESSMENT, MONITOR FOR S/S OF BLEED.  CONT ICU CARE AND TREATMENTS.
+",,
+24135,8325,29980,0,2989-01-30 11:34:00 EST,2989-01-30 11:49:00 EST,3683,"N",54,"Nursing/Other","TRANSFER NOTE:  DECEMBER 28, 2001","
+TRANSFER NOTE:  [**2989-1-30**]
+S/O:  70 Y.O. FEMALE W/ PMH SIGNIFICANT FOR HTN, AND ARTHRITIS.  PT TRANSFERRED HERE ON [**1-26**] FROM [**Hospital3 **] W/ ICH.  ON [**1-26**] PT C/O OBSTRUCTION OF VISION ON ONE SIDE, AND BEGAN TO DEMONSTRATE DIFFICULTY IN UNDERSTANDING WHAT WAS BEING SAID TO HER BY HER FAMILY.  PT BROUGHT TO [**Last Name (NamePattern4) 4213**] WHERE CTSCAN WAS DONE SHOWING PT TO HAVE A LFRONTAL PARIETAL BLEED W/ MIDLINE SHIFT.
+       PT ADMITTED TO NSICU. HOSPITAL COURSE UNCOMPLICATED.  PT BRIEFLY ON NIPRIDE FOR BP CONTROL.  MENTAL STATUS WAXING AND [**Doctor Last Name 463**].  DURING DAY PT QUITE LETHARGIC, MOVING ALL EXTREMITIES TO PAINFUL STIMULI.  MOVING LEFT SIDE MORE THAN RIGHT.  DURING NIGHT PT W/ PERIODS OF INCREASED ALERTNESS, AT TIMES AGITATED.  DURING PERIODS OF ALERTNESS PT SPEAKING (SPEECH CLEAR TO GARBLED, INAPPROPRIATE TO APPROPRIATE).  FAMILY MEMBERS VERY INVOLVED IN PATIENT CARE, ASKING APPROPRIATE QUESTIONS. FAMILY STAYING NIGHT W/ PATIENT - PROVIDING OBVIOUS SUPPORT DURING PERIODS OF AGITATION (PT QUITE RESPONSIVE TO FAMILY MEMBERS).
+       VSS STABLE, NGT PLACED FOR NOURISHMENT AND MEDS.  BP CONTROLLED W/ LOPRESSOR.  EXTRA DOSE OF IV LOPRESSOR GIVEN THIS AM W/ EFFECT. LUNGS CTA BILAT.  O2 SAT GOOD ON 3L NP.  ABD SOFT.  U/O QS VIA FOLEY.
+A/P:  TRANSFER TO FLOOR WHEN BED AVAILABLE.  D/C PLANNING - CASE MGMENT CONTACTED.
+",,
+24135,,,,2989-02-27 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2989-2-27**] 3:34 PM
+     IVC GRAM/FILTER                                                 Clip # [**Clip Number (Radiology) 15884**]
+     Reason: pt with multiple bilateral PE and recent hemorrhagic stroke
+      Contrast: OPTIRAY Amt: 40
+     ********************************* CPT Codes ********************************
+     * 37620 INTERUP IVC                    36010 INTRO CATH SVC/IVC            *
+     * -51 MULTI-PROCEDURE SAME DAY         75940 PERC PLCMT IVC FILTER         *
+     * 75825 IVC GRAM                       76942 UD GUID FOR NEEDLE PLACMENT   *
+     * NON-IONIC 30 CC                      NON-IONIC 30 CC                     *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      70 year old woman with recent hemorrhagic stroke and multiple bilateral PE with
+      RV strain on echo and initially hypotensive.  Lysis and heparin
+      contraindicated.  Will need IVC filter. 
+     REASON FOR THIS EXAMINATION:
+      pt with multiple bilateral PE and recent hemorrhagic stroke
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY: 70 year old woman with acute bilateral pulmonary embolism and a
+     recent hemorrhagic stroke precluding anticoagulation.
+     
+     RADIOLOGISTS: Drs. [**Last Name (STitle) **] [**Last Name (NamePattern4) 1196**] and [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 188**] d'Othee. Dr. [**Last Name (STitle) 188**] [**Name (STitle) 189**], the
+     Attending Radiologist, was present and supervised the entire procedure.
+     
+     TECHNIQUE:
+     The procedure was discussed with the patient's family and informed consent was
+     obtained from the husband. The right groin was prepped and draped in the usual
+     sterile manner, and ultrasound examination of the right groin was performed.
+     
+     Under ultrasound guidance, the right common femoral vein was accessed using a
+     19-gauge single-wall needle. A 0.035 guide wire was subsequently advanced into
+     the inferior vena cava under fluoroscopic guidance. The needle was then
+     exchanged for a 5-French pigtail catheter, the tip of which was positioned in
+     the distal right common iliac vein under fluoroscopic guidance. A venacavogram
+     was performed in the AP projection.
+     
+     The pigtail catheter was then exchanged for the IVC filter introducer sheath
+     over the guidewire. [**Initials (NamePattern4) **] [**Last Name (NamePattern4) **]-Nitinol filter was then deployed in the infrarenal
+     inferior vena cava under fluoroscopic guidance.
+     
+     A post-placement venacavogram was then repeated through the introducer sheath.
+     
+     COMPLICATIONS: The patient tolerated the procedure without complication.
+     
+     MEDICATIONS: A total of 60 cc of IV non-ionic contrast was utilized secondary
+     to the patient's history of allergy.
+     
+     FINDINGS:
+     Ultrasound examination of the right groin demonstrated a patent and
+     compressible right common femoral vein.
+     Venacavogram demonstrated a patent inferior vena cava with single bilateral
+     renal vein inflows, and no evidence of caval anomalies.
+                                                                 (Over)
+
+     DATE: [**2989-2-27**] 3:34 PM
+     IVC GRAM/FILTER                                                 Clip # [**Clip Number (Radiology) 15884**]
+     Reason: pt with multiple bilateral PE and recent hemorrhagic stroke
+      Contrast: OPTIRAY Amt: 40
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     Post-placement venacavogram demonstrated the filter in an adequate infrarenal
+     position.
+     
+     IMPRESSION: Technically-successful placement of a 7-French [**Doctor Last Name **]-Nitinol
+     filter in the infrarenal inferior vena cava via the right femoral vein
+     approach. 
+
+",,
+24135,,,,2989-02-27 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2989-2-27**] 3:34 PM
+     IVC GRAM/FILTER                                                 Clip # [**Clip Number (Radiology) 15884**]
+     Reason: pt with multiple bilateral PE and recent hemorrhagic stroke
+      Contrast: OPTIRAY Amt: 40
+     ********************************* CPT Codes ********************************
+     * 37620 INTERUP IVC                    36010 INTRO CATH SVC/IVC            *
+     * -51 MULTI-PROCEDURE SAME DAY         75940 PERC PLCMT IVC FILTER         *
+     * 75825 IVC GRAM                       76942 UD GUID FOR NEEDLE PLACMENT   *
+     * NON-IONIC 30 CC                      NON-IONIC 30 CC                     *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      70 year old woman with recent hemorrhagic stroke and multiple bilateral PE with
+      RV strain on echo and initially hypotensive.  Lysis and heparin
+      contraindicated.  Will need IVC filter. 
+     REASON FOR THIS EXAMINATION:
+      pt with multiple bilateral PE and recent hemorrhagic stroke
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY: 70 year old woman with acute bilateral pulmonary embolism and a
+     recent hemorrhagic stroke precluding anticoagulation.
+     
+     RADIOLOGISTS: Drs. [**Last Name (STitle) **] [**Last Name (NamePattern4) 1196**] and [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 188**] d'Othee. Dr. [**Last Name (STitle) 188**] [**Name (STitle) 189**], the
+     Attending Radiologist, was present and supervised the entire procedure.
+     
+     TECHNIQUE:
+     The procedure was discussed with the patient's family and informed consent was
+     obtained from the husband. The right groin was prepped and draped in the usual
+     sterile manner, and ultrasound examination of the right groin was performed.
+     
+     Under ultrasound guidance, the right common femoral vein was accessed using a
+     19-gauge single-wall needle. A 0.035 guide wire was subsequently advanced into
+     the inferior vena cava under fluoroscopic guidance. The needle was then
+     exchanged for a 5-French pigtail catheter, the tip of which was positioned in
+     the distal right common iliac vein under fluoroscopic guidance. A venacavogram
+     was performed in the AP projection.
+     
+     The pigtail catheter was then exchanged for the IVC filter introducer sheath
+     over the guidewire. [**Initials (NamePattern4) **] [**Last Name (NamePattern4) **]-Nitinol filter was then deployed in the infrarenal
+     inferior vena cava under fluoroscopic guidance.
+     
+     A post-placement venacavogram was then repeated through the introducer sheath.
+     
+     COMPLICATIONS: The patient tolerated the procedure without complication.
+     
+     MEDICATIONS: A total of 60 cc of IV non-ionic contrast was utilized secondary
+     to the patient's history of allergy.
+     
+     FINDINGS:
+     Ultrasound examination of the right groin demonstrated a patent and
+     compressible right common femoral vein.
+     Venacavogram demonstrated a patent inferior vena cava with single bilateral
+     renal vein inflows, and no evidence of caval anomalies.
+                                                                 (Over)
+
+     DATE: [**2989-2-27**] 3:34 PM
+     IVC GRAM/FILTER                                                 Clip # [**Clip Number (Radiology) 15884**]
+     Reason: pt with multiple bilateral PE and recent hemorrhagic stroke
+      Contrast: OPTIRAY Amt: 40
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     Post-placement venacavogram demonstrated the filter in an adequate infrarenal
+     position.
+     
+     IMPRESSION: Technically-successful placement of a 7-French [**Doctor Last Name **]-Nitinol
+     filter in the infrarenal inferior vena cava via the right femoral vein
+     approach. 
+
+",,
+24135,,,,2989-02-27 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2989-2-27**] 3:34 PM
+     IVC GRAM/FILTER                                                 Clip # [**Clip Number (Radiology) 15884**]
+     Reason: pt with multiple bilateral PE and recent hemorrhagic stroke
+      Contrast: OPTIRAY Amt: 40
+     ********************************* CPT Codes ********************************
+     * 37620 INTERUP IVC                    36010 INTRO CATH SVC/IVC            *
+     * -51 MULTI-PROCEDURE SAME DAY         75940 PERC PLCMT IVC FILTER         *
+     * 75825 IVC GRAM                       76942 UD GUID FOR NEEDLE PLACMENT   *
+     * NON-IONIC 30 CC                      NON-IONIC 30 CC                     *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      70 year old woman with recent hemorrhagic stroke and multiple bilateral PE with
+      RV strain on echo and initially hypotensive.  Lysis and heparin
+      contraindicated.  Will need IVC filter. 
+     REASON FOR THIS EXAMINATION:
+      pt with multiple bilateral PE and recent hemorrhagic stroke
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY: 70 year old woman with acute bilateral pulmonary embolism and a
+     recent hemorrhagic stroke precluding anticoagulation.
+     
+     RADIOLOGISTS: Drs. [**Last Name (STitle) **] [**Last Name (NamePattern4) 1196**] and [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 188**] d'Othee. Dr. [**Last Name (STitle) 188**] [**Name (STitle) 189**], the
+     Attending Radiologist, was present and supervised the entire procedure.
+     
+     TECHNIQUE:
+     The procedure was discussed with the patient's family and informed consent was
+     obtained from the husband. The right groin was prepped and draped in the usual
+     sterile manner, and ultrasound examination of the right groin was performed.
+     
+     Under ultrasound guidance, the right common femoral vein was accessed using a
+     19-gauge single-wall needle. A 0.035 guide wire was subsequently advanced into
+     the inferior vena cava under fluoroscopic guidance. The needle was then
+     exchanged for a 5-French pigtail catheter, the tip of which was positioned in
+     the distal right common iliac vein under fluoroscopic guidance. A venacavogram
+     was performed in the AP projection.
+     
+     The pigtail catheter was then exchanged for the IVC filter introducer sheath
+     over the guidewire. [**Initials (NamePattern4) **] [**Last Name (NamePattern4) **]-Nitinol filter was then deployed in the infrarenal
+     inferior vena cava under fluoroscopic guidance.
+     
+     A post-placement venacavogram was then repeated through the introducer sheath.
+     
+     COMPLICATIONS: The patient tolerated the procedure without complication.
+     
+     MEDICATIONS: A total of 60 cc of IV non-ionic contrast was utilized secondary
+     to the patient's history of allergy.
+     
+     FINDINGS:
+     Ultrasound examination of the right groin demonstrated a patent and
+     compressible right common femoral vein.
+     Venacavogram demonstrated a patent inferior vena cava with single bilateral
+     renal vein inflows, and no evidence of caval anomalies.
+                                                                 (Over)
+
+     DATE: [**2989-2-27**] 3:34 PM
+     IVC GRAM/FILTER                                                 Clip # [**Clip Number (Radiology) 15884**]
+     Reason: pt with multiple bilateral PE and recent hemorrhagic stroke
+      Contrast: OPTIRAY Amt: 40
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     Post-placement venacavogram demonstrated the filter in an adequate infrarenal
+     position.
+     
+     IMPRESSION: Technically-successful placement of a 7-French [**Doctor Last Name **]-Nitinol
+     filter in the infrarenal inferior vena cava via the right femoral vein
+     approach. 
+
+",,
+24135,,,,2989-02-27 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2989-2-27**] 3:34 PM
+     IVC GRAM/FILTER                                                 Clip # [**Clip Number (Radiology) 15884**]
+     Reason: pt with multiple bilateral PE and recent hemorrhagic stroke
+      Contrast: OPTIRAY Amt: 40
+     ********************************* CPT Codes ********************************
+     * 37620 INTERUP IVC                    36010 INTRO CATH SVC/IVC            *
+     * -51 MULTI-PROCEDURE SAME DAY         75940 PERC PLCMT IVC FILTER         *
+     * 75825 IVC GRAM                       76942 UD GUID FOR NEEDLE PLACMENT   *
+     * NON-IONIC 30 CC                      NON-IONIC 30 CC                     *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      70 year old woman with recent hemorrhagic stroke and multiple bilateral PE with
+      RV strain on echo and initially hypotensive.  Lysis and heparin
+      contraindicated.  Will need IVC filter. 
+     REASON FOR THIS EXAMINATION:
+      pt with multiple bilateral PE and recent hemorrhagic stroke
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY: 70 year old woman with acute bilateral pulmonary embolism and a
+     recent hemorrhagic stroke precluding anticoagulation.
+     
+     RADIOLOGISTS: Drs. [**Last Name (STitle) **] [**Last Name (NamePattern4) 1196**] and [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 188**] d'Othee. Dr. [**Last Name (STitle) 188**] [**Name (STitle) 189**], the
+     Attending Radiologist, was present and supervised the entire procedure.
+     
+     TECHNIQUE:
+     The procedure was discussed with the patient's family and informed consent was
+     obtained from the husband. The right groin was prepped and draped in the usual
+     sterile manner, and ultrasound examination of the right groin was performed.
+     
+     Under ultrasound guidance, the right common femoral vein was accessed using a
+     19-gauge single-wall needle. A 0.035 guide wire was subsequently advanced into
+     the inferior vena cava under fluoroscopic guidance. The needle was then
+     exchanged for a 5-French pigtail catheter, the tip of which was positioned in
+     the distal right common iliac vein under fluoroscopic guidance. A venacavogram
+     was performed in the AP projection.
+     
+     The pigtail catheter was then exchanged for the IVC filter introducer sheath
+     over the guidewire. [**Initials (NamePattern4) **] [**Last Name (NamePattern4) **]-Nitinol filter was then deployed in the infrarenal
+     inferior vena cava under fluoroscopic guidance.
+     
+     A post-placement venacavogram was then repeated through the introducer sheath.
+     
+     COMPLICATIONS: The patient tolerated the procedure without complication.
+     
+     MEDICATIONS: A total of 60 cc of IV non-ionic contrast was utilized secondary
+     to the patient's history of allergy.
+     
+     FINDINGS:
+     Ultrasound examination of the right groin demonstrated a patent and
+     compressible right common femoral vein.
+     Venacavogram demonstrated a patent inferior vena cava with single bilateral
+     renal vein inflows, and no evidence of caval anomalies.
+                                                                 (Over)
+
+     DATE: [**2989-2-27**] 3:34 PM
+     IVC GRAM/FILTER                                                 Clip # [**Clip Number (Radiology) 15884**]
+     Reason: pt with multiple bilateral PE and recent hemorrhagic stroke
+      Contrast: OPTIRAY Amt: 40
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     Post-placement venacavogram demonstrated the filter in an adequate infrarenal
+     position.
+     
+     IMPRESSION: Technically-successful placement of a 7-French [**Doctor Last Name **]-Nitinol
+     filter in the infrarenal inferior vena cava via the right femoral vein
+     approach. 
+
+",,
+24135,,,,2989-02-27 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2989-2-27**] 3:34 PM
+     IVC GRAM/FILTER                                                 Clip # [**Clip Number (Radiology) 15884**]
+     Reason: pt with multiple bilateral PE and recent hemorrhagic stroke
+      Contrast: OPTIRAY Amt: 40
+     ********************************* CPT Codes ********************************
+     * 37620 INTERUP IVC                    36010 INTRO CATH SVC/IVC            *
+     * -51 MULTI-PROCEDURE SAME DAY         75940 PERC PLCMT IVC FILTER         *
+     * 75825 IVC GRAM                       76942 UD GUID FOR NEEDLE PLACMENT   *
+     * NON-IONIC 30 CC                      NON-IONIC 30 CC                     *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      70 year old woman with recent hemorrhagic stroke and multiple bilateral PE with
+      RV strain on echo and initially hypotensive.  Lysis and heparin
+      contraindicated.  Will need IVC filter. 
+     REASON FOR THIS EXAMINATION:
+      pt with multiple bilateral PE and recent hemorrhagic stroke
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY: 70 year old woman with acute bilateral pulmonary embolism and a
+     recent hemorrhagic stroke precluding anticoagulation.
+     
+     RADIOLOGISTS: Drs. [**Last Name (STitle) **] [**Last Name (NamePattern4) 1196**] and [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 188**] d'Othee. Dr. [**Last Name (STitle) 188**] [**Name (STitle) 189**], the
+     Attending Radiologist, was present and supervised the entire procedure.
+     
+     TECHNIQUE:
+     The procedure was discussed with the patient's family and informed consent was
+     obtained from the husband. The right groin was prepped and draped in the usual
+     sterile manner, and ultrasound examination of the right groin was performed.
+     
+     Under ultrasound guidance, the right common femoral vein was accessed using a
+     19-gauge single-wall needle. A 0.035 guide wire was subsequently advanced into
+     the inferior vena cava under fluoroscopic guidance. The needle was then
+     exchanged for a 5-French pigtail catheter, the tip of which was positioned in
+     the distal right common iliac vein under fluoroscopic guidance. A venacavogram
+     was performed in the AP projection.
+     
+     The pigtail catheter was then exchanged for the IVC filter introducer sheath
+     over the guidewire. [**Initials (NamePattern4) **] [**Last Name (NamePattern4) **]-Nitinol filter was then deployed in the infrarenal
+     inferior vena cava under fluoroscopic guidance.
+     
+     A post-placement venacavogram was then repeated through the introducer sheath.
+     
+     COMPLICATIONS: The patient tolerated the procedure without complication.
+     
+     MEDICATIONS: A total of 60 cc of IV non-ionic contrast was utilized secondary
+     to the patient's history of allergy.
+     
+     FINDINGS:
+     Ultrasound examination of the right groin demonstrated a patent and
+     compressible right common femoral vein.
+     Venacavogram demonstrated a patent inferior vena cava with single bilateral
+     renal vein inflows, and no evidence of caval anomalies.
+                                                                 (Over)
+
+     DATE: [**2989-2-27**] 3:34 PM
+     IVC GRAM/FILTER                                                 Clip # [**Clip Number (Radiology) 15884**]
+     Reason: pt with multiple bilateral PE and recent hemorrhagic stroke
+      Contrast: OPTIRAY Amt: 40
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     Post-placement venacavogram demonstrated the filter in an adequate infrarenal
+     position.
+     
+     IMPRESSION: Technically-successful placement of a 7-French [**Doctor Last Name **]-Nitinol
+     filter in the infrarenal inferior vena cava via the right femoral vein
+     approach. 
+
+",,
+24135,,,,2989-02-27 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2989-2-27**] 3:34 PM
+     IVC GRAM/FILTER                                                 Clip # [**Clip Number (Radiology) 15884**]
+     Reason: pt with multiple bilateral PE and recent hemorrhagic stroke
+      Contrast: OPTIRAY Amt: 40
+     ********************************* CPT Codes ********************************
+     * 37620 INTERUP IVC                    36010 INTRO CATH SVC/IVC            *
+     * -51 MULTI-PROCEDURE SAME DAY         75940 PERC PLCMT IVC FILTER         *
+     * 75825 IVC GRAM                       76942 UD GUID FOR NEEDLE PLACMENT   *
+     * NON-IONIC 30 CC                      NON-IONIC 30 CC                     *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      70 year old woman with recent hemorrhagic stroke and multiple bilateral PE with
+      RV strain on echo and initially hypotensive.  Lysis and heparin
+      contraindicated.  Will need IVC filter. 
+     REASON FOR THIS EXAMINATION:
+      pt with multiple bilateral PE and recent hemorrhagic stroke
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY: 70 year old woman with acute bilateral pulmonary embolism and a
+     recent hemorrhagic stroke precluding anticoagulation.
+     
+     RADIOLOGISTS: Drs. [**Last Name (STitle) **] [**Last Name (NamePattern4) 1196**] and [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 188**] d'Othee. Dr. [**Last Name (STitle) 188**] [**Name (STitle) 189**], the
+     Attending Radiologist, was present and supervised the entire procedure.
+     
+     TECHNIQUE:
+     The procedure was discussed with the patient's family and informed consent was
+     obtained from the husband. The right groin was prepped and draped in the usual
+     sterile manner, and ultrasound examination of the right groin was performed.
+     
+     Under ultrasound guidance, the right common femoral vein was accessed using a
+     19-gauge single-wall needle. A 0.035 guide wire was subsequently advanced into
+     the inferior vena cava under fluoroscopic guidance. The needle was then
+     exchanged for a 5-French pigtail catheter, the tip of which was positioned in
+     the distal right common iliac vein under fluoroscopic guidance. A venacavogram
+     was performed in the AP projection.
+     
+     The pigtail catheter was then exchanged for the IVC filter introducer sheath
+     over the guidewire. [**Initials (NamePattern4) **] [**Last Name (NamePattern4) **]-Nitinol filter was then deployed in the infrarenal
+     inferior vena cava under fluoroscopic guidance.
+     
+     A post-placement venacavogram was then repeated through the introducer sheath.
+     
+     COMPLICATIONS: The patient tolerated the procedure without complication.
+     
+     MEDICATIONS: A total of 60 cc of IV non-ionic contrast was utilized secondary
+     to the patient's history of allergy.
+     
+     FINDINGS:
+     Ultrasound examination of the right groin demonstrated a patent and
+     compressible right common femoral vein.
+     Venacavogram demonstrated a patent inferior vena cava with single bilateral
+     renal vein inflows, and no evidence of caval anomalies.
+                                                                 (Over)
+
+     DATE: [**2989-2-27**] 3:34 PM
+     IVC GRAM/FILTER                                                 Clip # [**Clip Number (Radiology) 15884**]
+     Reason: pt with multiple bilateral PE and recent hemorrhagic stroke
+      Contrast: OPTIRAY Amt: 40
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     Post-placement venacavogram demonstrated the filter in an adequate infrarenal
+     position.
+     
+     IMPRESSION: Technically-successful placement of a 7-French [**Doctor Last Name **]-Nitinol
+     filter in the infrarenal inferior vena cava via the right femoral vein
+     approach. 
+
+",,

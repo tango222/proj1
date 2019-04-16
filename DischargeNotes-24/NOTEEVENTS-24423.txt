@@ -1,0 +1,368 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+24423,19020,,,3484-12-18 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+
+Admission Date:  [**3484-12-18**]       Discharge Date:
+
+Date of Birth:                    Sex:
+
+Service:  NEUROLOGY
+
+HISTORY OF THE PRESENT ILLNESS:  [**Known patient firstname **] [**Known patient lastname 5353**] is an
+82-year-old gentleman, former physician at this institution.
+He has a known history of Alzheimer's disease, hypertension,
+non-Q-wave MI, atrial fibrillation, CHF and hyperthyroidism.
+The patient presented on the day of admission with new onset
+of right-sided weakness and dysarthria.  He has been followed
+in the Department of Behavioral Neurology for memory
+difficulties and Alzheimer's disease.  But, he was apparently
+at his baseline, which was talking and unable to be somewhat
+minimally responsive until the morning of admission.  His
+health aid heard a thump and saw that Dr. [**Known patient lastname 5353**] has fallen
+to the floor.  He appeared weak on the right.  Speech was
+unintelligible.  By the time of the EMTs arrived, his speech
+was intelligible.  He appeared to be gaining strength in his
+right arm.  However, upon arrival to the ED, he was again
+weak in the right upper extremity and speech was
+unintelligible.
+
+PAST MEDICAL HISTORY:  History was as above.
+
+MEDICATIONS ON ADMISSION:
+1.  Aricept 10.
+2.  Aspirin 81.
+3.  Nitroglycerin p.r.n.
+4.  Sertraline 150.
+5.  Lasix 40.
+6.  Amiodarone 200.
+7.  Synthroid 125 mcg.
+8.  Potassium 20 mEq.
+9.  Vitamin E.
+
+ALLERGIES:  The patient has no drug allergies.
+
+SOCIAL HISTORY:  The patient is a retired pediatrician and he
+does not smoke or drink.
+
+PHYSICAL EXAMINATION:  On examination, the patient's blood
+pressure was 180/100, heart rate 70.  GENERAL:  Head and neck
+examination were normal except for some blood on the outside
+of the right ear.  Neck showed no carotid bruits.  Heart
+revealed regular rate and rhythm.  Lungs were clear.  Abdomen
+was benign.  Extremities were warm without edema.
+Neurological examination revealed that the patient awake, but
+drowsy.  Speech is unintelligible and dysarthric.  He could
+repeat very simple words, but no sentences.  He could not
+read or name.  He could follow some simple midline commands.
+When asked to do things with the right side, he would do the
+same thing with the left side and he was unable to move the
+right side at all.  Cranial nerve examination revealed pupils
+equal and reactive.  There is decreased blink to threat on
+the right, but this was unreliable.  Extraocular muscles are
+intact without nystagmus.  There was no RAPD.  There was a
+right facial droop with decreased excursion.  On motor
+examination, bulk was normal.  He had decreased tone in the
+right upper extremity.  Formal strength test was difficult,
+but it appeared full on the left.  On the right, he had [**4-10**]
+at the deltoid, triceps, and possibly [**2-11**] at the finger
+extensors.  The right lower extremity was able to move
+spontaneously.  Reflexes were brisk on the right upper
+extremity, compared to the left.  The right toe was upgoing.
+The left toe was down.  He appeared to respond less to pain
+in the right upper extremity.
+
+The MRI, with diffusion-light imaging was done.  This showed
+two areas of restrictive diffusion in the posterior portion
+and in the posterior-superior region of the temporal lobe.
+There were no areas of abnormal susceptibility.
+
+HOSPITAL COURSE:  The patient was admitted for observation to
+the ICU.  His blood pressure was controlled.  He was given
+IVTPA, but showed no real improvement.  He did not require
+intubation.  He was transferred to the floor on [**3484-12-19**].
+Repeat CT scan showed no evidence of bleed.  Aspirin was
+restarted.  The possibility of anticoagulation given with a
+past medical history of atrial fibrillation was discussed
+with the PCP.  [**Name10 (NameIs) 5354**], the PCP felt that because of his
+concomitant medical problems, as well as the fact that he had
+only had intermittent trouble with atrial fibrillation in the
+past, this was not something that he would recommend.  He did
+not improve much at all over the course of the next few days.
+Departments of Physical Therapy and Speech Therapy
+consultations were obtained; results of which are still
+pending at this time.  His blood pressure was somewhat
+labile, ranging from the 120s to the 180s, close to the
+previous antihypertensive dose.  Lopressor was added for
+improved control and also because his heart rate tended to be
+elevated.  The remainder of the hospital course will be
+included in the discharge summary addendum.
+
+DISCHARGE MEDICATIONS:  These will be included in the
+addendum.
+
+DISCHARGE DIAGNOSIS:
+1.  Acute stroke.
+2.  Alzheimer's disease.
+3.  Hypertension.
+4.  Non-Q-wave MI by history.
+5.  Hemigastroplasty in the past.
+6.  History of atrial fibrillation.
+7.  History of cardiomyopathy.
+8.  History of CHF.
+9.  Hypothyroidism.
+
+DISCHARGE PLAN:  Discharge plan will also be contained in the
+addendum.
+
+
+
+
+                            [**Doctor Last Name 144**] [**Name8 (MD) 5355**], M.D.  [**MD Number 5356**]
+
+Dictated By:[**Last Name (NamePattern1) 5357**]
+MEDQUIST36
+
+D:  [**3484-12-22**]  09:35
+T:  [**3484-12-22**]  09:40
+JOB#:  [**Job Number 5358**]
+Signed electronically by: DR. [**First Name (STitle) 144**] [**Initials (NamePattern4) **] [**Doctor Last Name **]
+ on: FRI [**3485-3-13**] 11:30 AM
+(End of Report)
+
+
+",,
+24423,19020,,,3484-12-18 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3484-12-18**] 6:53 PM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 2556**]
+     Reason: rule out bleed
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      82 year old man with new onset right hemiparesis, wernicke aphasia, s/p tPA
+      worsening
+     REASON FOR THIS EXAMINATION:
+      rule out bleed
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: New onset right hemiparesis and aphasia with status post TPA.
+     
+     COMPARISON: MRI of same day.
+     
+     TECHNIQUE: CT of the head without IV contrast.
+     
+     FINDINGS: There are no intra or extraaxial hemorrhage, edema, or shift of
+     normal midline structures. The ventricles are symmetric in size. There is
+     tortuousity of the vertebral and basilar arteries as was seen on the MRA.
+     
+     White matter hypodensity and volume loss are seen, and reflect microvascular
+     ischemia and infarction.  An acute infarction may be difficult to discern,
+     given the gliotic changes. Overall cortical density appears to be preserved.
+     
+     BONE WINDOWS: There are no suspicious osseous lesions.
+     
+     IMPRESSION: No evidence of acute intracranial hemorrhage.
+
+",,
+24423,19020,,,3484-12-18 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3484-12-18**] 1:15 PM
+     MR HEAD W/O CONTRAST; MR-ANGIO HEAD                             Clip # [**Clip Number (Radiology) 2555**]
+     MR RECONSTRUCTION IMAGING
+     Reason: 82 yo male with ride sided weakness and aphasia.  please do 
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      82 year old man with above
+     REASON FOR THIS EXAMINATION:
+      82 yo male with ride sided weakness and aphasia.  please do MRI with dWI and
+      MRA intractranials
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Right sided weakness and aphasia.
+     
+     TECHNIQUE:  Multiplanar T1 and T2 weighted images were performed. Additional
+     diffusion weighted images were performed.
+     
+     MR HEAD W/O CONTRAST:  There is no intra or extra-axial hemorrhage. There is
+     no mass, mass effect or shift of normally midline structures. There is
+     moderate symmetrical enlargement of the ventricles and sulci compatible with
+     age related atrophy.  There is a moderate to severe amount of periventricular
+     T2 hyperintensity consistent with chronic white matter microvascular
+     infarction and subsequent gliosis.  No major vascular territorial infarction
+     is seen.  No areas of restricted diffusion are identified to suggest acute
+     infarction.  The soft tissues, osseous structures and visualized paranasal
+     sinuses are unremarkable.
+     
+     MRA OF THE CIRCLE OF [**Location (un) **]:  3D time of flight images were performed and
+     correlated with MIP multiplanar images.  No aneurysmal dilatation, diminuitive
+     flow or segmental stenosis is seen.  A right vertebral dominant system is
+     identified.
+     
+     IMPRESSION: 1) No acute cerebral infarction.  2) Moderate atrophy with severe
+     chronic white matter microvascular infarction.
+
+",,
+24423,19020,30317,0,3484-12-18 20:44:00 EST,3484-12-18 20:50:00 EST,-1,"N",54,"Nursing/Other","Admission Note","
+Admission Note
+Pt admitted to the NSICU from the ED at 2000. Neuolgically pt is not intact, Pt cannot move right side, left arm with good strength and pt can move left leg in the bed. Speech is weak, garbled and incomprehensible. Pt can follow commands. Hemodynamics SBP is within parameters, SR/SB no ectopy. Lungs are CTA but diminished. Foley cath placed, u/o qs. Pt noted to have a right ear abrasion that is oozing blood. DSD applied. Pt also with hematoma on the right side of neck and hematoma on the right rib cage area. Hematomas outlined with marker. See flowsheet for details.
+",,
+24423,19020,30317,,3484-12-19 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3484-12-19**] 8:52 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 2557**]
+     Reason: ng tube placement
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      82 year old man with stroke
+     REASON FOR THIS EXAMINATION:
+      ng tube placement
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Check NG tube placement.
+     
+     CHEST SINGLE VIEW TIME 20:50:  The tip of the NG tube is in the distal
+     esophagus just above the gastroesophageal junction.  There is linear density
+     at the left lung base, probably due to either atelectasis or scarring.
+     Otherwise the lungs are clear with no failure.  Cardiomediastinal silhouette
+     is normal.
+     
+     IMPRESSION:  The NG tube terminates in the distal esophagus just above the GE
+     junction.
+
+",,
+24423,19020,30317,0,3484-12-19 04:27:00 EST,3484-12-19 04:29:00 EST,-1,"N",54,"Nursing/Other","Shift update.","
+Shift update.
+Pt sleeping for short periods of time, pt attempting to get oob. Neurologically pt is not intact, Left side with good strenght, Right side no movement in arm but leg does move a little. See flowsheet for details.
+",,
+24423,19020,30317,0,3484-12-19 05:53:00 EST,3484-12-19 05:54:00 EST,-1,"N",54,"Nursing/Other","Shift update","
+Shift update
+Pt extremely combative this am, attempting to climb out of bed. HO aware, haldol ordered and given with effect.
+",,
+24423,19020,30317,0,3484-12-19 18:29:00 EST,3484-12-19 18:33:00 EST,3683,"N",54,"Nursing/Other","TRANSFER NOTE","
+TRANSFER NOTE
+S/O:  82 Y.O MALE W/ PMH SIGNIFICANT FOR ALZHEIMERS, NON QWAVE MI (MANY YRS AGO), PUD, S/P HEMIGASROPLASTY 65', CHF,HYPTHYROID, AND BENIGN CARDIOMYOPATHY.  PT ADMITTED TO E.R. ON [**12-18**] S/P FALL.  POST FALL PT WAS NOTED BY FAMILY TO HAVE SLURRED SPEECH AND RSIDED WEAKNESS W/ RFACIAL DROOP.  QUESTION LOC.  MRI DONE, SHOWING EVIDENCE OF LMCA INFARCT - PT TX'D W/ TPA IN E.R.  PT ADMITTED TO NSICU FOR MONITORING POST TPA ADMINISTRATION.  
+      SICU COURSE:  PROBLEMS W/ HYPERTENSION AND AGITATION.  PT GIVEN HALDOL X1 W/ TRANSIENT EFFECT AND STARTED ON IV HYDRALAZINE.  NEUROLOGY AND SICU TEAM AWARE OF HTN, STILL WANT PT TRANSFERRED TO FLOOR.  PT ALERT, SPEECH SLURRED (AT TIMES ABLE TO UNDERSTAND ONE WORD), MOVING LSIDE W/ NL STRENGTH, MOVING RLEG ON BED AND NO MOVEMENT OF LEFT ARM NOTED.  PT NPO.  NGT PLACED, STARTED ON TFEED.  U/O QS. NO S/S OF BLEEDING.
+A/P:  REPORT CALLED TO FLOOR.  TRANSFER [**Name8 (MD) **] MD'S ORDERS WHEN BED AVAILABLE.
+",,
+24423,19020,,,3484-12-21 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3484-12-21**] 12:03 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 2558**]
+     Reason: 82 yom wit stroke, now febrile.
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      82 year old man with as above
+     REASON FOR THIS EXAMINATION:
+      82 yom wit stroke, now febrile.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Fever.
+     
+     There is an NGT terminating at the GE junction. The heart is at the upper
+     limits of normal in size, and there is mild subsegmental atelectasis at the
+     left lung base.  There are no focal areas of consolidation.
+     
+     IMPRESSION:  No acute cardiopulmonary process.
+     
+
+",,
+24423,19020,,,3484-12-22 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3484-12-22**] 5:21 PM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 2559**]
+     Reason: Please evaluate for stroke/bleed.
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      82 year old man with new onset right hemiparesis, wernicke aphasia, s/p tPA
+      not becoming more alert.
+     REASON FOR THIS EXAMINATION:
+      Please evaluate for stroke/bleed.
+     ______________________________________________________________________________
+                                     FINAL REPORT  (REVISED)
+     HISTORY:  New onset right hemiparesis and Wernicke aphasia.
+     
+     COMPARISONS:  CT head [**3484-12-18**].
+     
+     TECHNIQUE:  Multiple images of the head were obtained without IV contrast.
+     
+     UNENHANCED HEAD CT:  There is a new focus of low attenuation extending from
+     the left posterior centrum semiovale to the region of the angular gyrus. Again
+     noted is diffuse white matter hypodensity consistent with chronic
+     microvascular ischemia.  There is no shift of normally midline structures or
+     mass effect.  The ventricles, sulci, and cisterns are mildly prominent
+     consistent with age related involution.  There is loss of the normal [**Doctor Last Name 66**]-
+     white matter differentiation within the above described new focus of
+     hypodensity.
+     
+     The soft tissues and osseous structures are unremarkable.
+     
+     IMPRESSION:  New area of low attenuation within the left cerebral hemisphere
+     extending into the region of the angular gyrus.  These findings are consistent
+     with evolving infarction.
+     
+     
+
+",,
+24423,19020,,,3484-12-23 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3484-12-23**] 3:49 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 2560**]
+     Reason: tachypnic/ crackles/ 02sat is 89%, please eval for chf vs as
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      82 year old man with as above
+     REASON FOR THIS EXAMINATION:
+      tachypnic/ crackles/ 02sat is 89%, please eval for chf vs aspiration
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Tachypnea with crackles.
+     
+     FINDINGS:  A single portable chest radiograph with comparison to same day
+     approximately 16 hours prior.  There is a NGT present whose tip likely resides
+     above the GE junction.  There are surgical clips seen in the epigastric
+     region.  There is perihilar haziness and vascular indistinctness and
+     cephalization consistent with worsening CHF.  There is no evidence of
+     pneumothorax or pleural effusions.  No consolidations are seen.
+     
+     IMPRESSION: Worsening congestive heart failure.
+     
+     
+
+",,
+24423,19020,,,3484-12-23 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3484-12-23**] 11:15 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 2561**]
+     Reason: please evaluate position of NGT
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      82 year old man with mca infarct, h/o mi now s/p placement of new ngt. Please
+      do CXR before morning rounds.
+     REASON FOR THIS EXAMINATION:
+      please evaluate position of NGT
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Assess NG tube placement in patient S/P MI and MCA infarct.
+     
+     COMPARISON:  [**3484-12-23**]
+     
+     FINDINGS:   There is a nasogastric tube which extends into the stomach, loops
+     superiorly, and returns into the mid-esophagus with the tip at the approximate
+     level of the aortic arch. There is partial resolution of the bilateral
+     pericentral infiltrates consistent with improving pulmonary edema.  There is
+     persistence of cardiomegaly with left ventricular predominance.  No new
+     pulmonary infiltrates are seen.  The pulmonary vasculature cannot be assessed
+     secondary to supine position, therefore heart failure cannot be ruled out.
+     
+     IMPRESSION:  1)  Poorly positioned nasogastric tube with the tip in the mid-
+     esophagus.  This finding was discussed by telephone with the referring house
+     officer.
+     2)  Interval decrease in bilateral pericentral infiltrates consistent with
+     improving pulmonary edema.
+
+",,

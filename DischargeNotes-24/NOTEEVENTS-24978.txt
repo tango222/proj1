@@ -1,0 +1,503 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+24978,21201,,,3072-09-27 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+
+Admission Date:  [**3072-9-27**]     Discharge Date:  [**3072-10-2**]
+
+Date of Birth:   [**3018-1-19**]     Sex:  M
+
+Service:  [**Company 36**] FIRM
+HISTORY OF PRESENT ILLNESS:  This is a 54-year-old gentlemen
+with a past medical history significant for AIDS, most recent
+CD4 count 99 and viral load greater than 300,000, congestive
+heart failure, diabetes [**Company 6449**] and history of lymphoma who
+presents with a one week history of Voluminous diarrhea 10 to
+positive abdominal pain which is diffuse, not related to foot
+intake or bowel movements.  No nausea or vomiting.  Decreased
+appetite and decreased po intakes times seven days.  Patient
+does have a recent history of C. difficile toxin positive on
+[**3072-9-10**].  He was treated with Flagyl for one week at
+that time with good resolution of his diarrhea, but
+subsequent recurrence in two to three weeks.  Also reports
+to admission and rigors at home one day prior to admission.
+He also noted decreased urine output for one to two days with
+no urine output for 18 hours prior to admission.  He reports
+weakness and fatigue, also, increased sensitivity to light,
+flash photophobia for three days with accompanied neck
+stiffness/pain which is new for him.  No confusion or mental
+status changes.
+
+In the Emergency Room, the patient was afebrile.  Blood
+pressure was 62/36.  Respiratory rate was between 25 and 35
+and heart rate was 100.  He was noted to have a creatinine of
+4.3 with a baseline of 0.8.  An anion gap of 16, white blood
+cell count of 9.8 with 18% bands.  Arterial blood gases
+showed a pH of 7.36, pCO2 of 30, pO2 of 71.  Also notable is
+five days history of Vioxx that he started for lower back
+pain.  Also reports subjective shortness of breath for one to
+two days.  No relationship to exercise.
+
+In the Emergency Room, he was orthostatic by heart rate.
+Urine and blood cultures were sent.  Chest x-ray showed mild
+congestive heart failure.  Electrocardiogram was without
+change.  Vancomycin, Ciprofloxacin and Flagyl were initiated.
+He was given four days of normal saline with minimal blood
+pressure response.  Foley was placed with small amount of
+concentrated urine output.
+
+The patient was admitted to the Medical Intensive Care Unit
+because of his hypotension and acute renal failure.  He was
+hydrated overnight and was transferred to the General
+Medicine Floor the following day.
+
+PAST MEDICAL HISTORY:
+1.  HIV/AIDS diagnosed in [**3057**].  Most recent CD4 count 99,
+viral load 312, 000 in [**3072-8-3**].  HIV complicated by
+history of PCP [**Last Name (NamePattern4) **] [**3066**], history of [**Doctor First Name **] of the right groin,
+history of Nocardia of the right lower extremity.
+2.  Non-Hodgkin's lymphoma diagnosed 1999, status post
+chemotherapy with CHOP.  No XRT.
+3.  History of congestive heart failure and Adriamycin
+induced cardiomyopathy.  Ejection fraction of 40% in [**3072-7-3**].
+4.  C. difficile diarrhea, treated.
+5.  Type 2 diabetes.
+6.  Hypertension.
+7.  Peripheral neuropathy.
+8.  Depression.
+9.  History of fatty liver and hepatomegaly with probable
+small hemangioma in the right lobe of his liver.
+
+MEDICATIONS:  Acyclovir 400 mg b.i.d., Diflucan 200 mg q.d.,
+Klonopin 0.5 mg b.i.d., Epivir 150 mg b.i.d., Mepron 750 mg
+b.i.d. for PCP prophylaxis, Neurontin 300 mg q.d.,
+nortriptyline 25 mg q.d., Prilosec, Prozac 10 mg q.d.,
+Kaletra 3 tablets b.i.d., Zerit 48 mg b.i.d., Toprol XL 50 mg
+q.d., Flagyl 500 mg t.i.d. started [**9-26**].  Vioxx times
+one week for lower back pain.
+
+ALLERGIES:  Bactrim causes  syndrome and delavirdine causes a
+rash.
+
+FAMILY HISTORY:  Mother with diabetes [**Month Day 6449**] and acute
+leukemia.  Father diabetes [**Name2 (NI) 6449**] and a cerebral
+hemorrhage.
+
+SOCIAL HISTORY:  The patient lives with partner in [**Name2 (NI) 695**],
+very occasional alcohol use.  Remote marijuana use, no
+intravenous drug use.  Questionable smoking history.  Works
+as a haircut shop owner.
+
+PHYSICAL EXAMINATION:  Vital signs:  Temperature 97.2.  Blood
+pressure 62/46.  Respiratory rate 25-35.  Heart rate 100.
+Blood pressure lying down 72/44 with a heart rate of 96,
+sitting up blood pressure is 70/44 with a heart rate of 108.
+In general, alert and oriented times three, pleasant in no
+apparent distress.  Head, eyes, ears, nose and throat:
+Pupils equal, round and reactive to light.  Extraocular
+muscles were intact.  Dry mucous membranes.  Neck:  Supple,
+no lymphadenopathy.  Positive tenderness on posterior
+palpation.  Lungs:  Right basilar rales, coarse breath sounds
+in the bilateral bases, otherwise, clear to auscultation.
+Heart:  Regular rate and rhythm S1, S2, no murmurs.  Abdomen:
+Normal active bowel sounds, soft liver edge decreased, 3 cm
+below costal border and tender.  Diffuse mild tenderness, no
+rebound and no guarding.  Lower extremities:  Warm, no
+cyanosis, clubbing or edema.  Neurological:  [**4-6**] motor
+bilateral lower extremity and upper extremity.  Sensory
+decreased symmetric bilateral lower extremity.  Back:
+Diffuse erythroderma branching back, chest and upper
+extremities.
+
+PERTINENT LABORATORY DATA:  White blood cell count 9.8,
+hematocrit 32.8, platelets 87,000.  Differential:  57%
+neutrophils, 18% bands, 8% lymphocytes, 13% monocytes, INR
+1.4, PT 14, PTT 33.  Sodium 134, potassium 4.9, chloride 99,
+bicarbonate 19, BUN 41, creatinine 4.3, glucose 104, ALT 34,
+AST 55, alkaline phosphatase 60, T bilirubin 0.8.
+Urinalysis:  Trace blood, nitrate positive, protein greater
+than 300, ketones trace, small bilirubin, [**2-5**] red blood
+cells, 21-50 white blood cells, many bacteria, 0-2 white
+blood cells, casts, no glucose.  Chest x-ray:  Slight
+cardiomegaly, mild upper zone redistribution, question of
+mild congestive heart failure.  Electrocardiogram:  Normal
+sinus rhythm at 100, right bundle branch block, left axis
+deviation, T wave inversion in V1, III, T wave finding in aVF
+old, ST elevation V3 to V6, V3 to V4 more pronounced, V5 and
+V6 old. Calcium 6.5, magnesium 1.2, phosphorus 3.2.  Urine
+creatinine 279.  Urine sodium 51 with a FeNA of 0.6.
+Arterial blood gases:  pH 7.36/30/71 on room air. Lactate
+1.9.  Cryptococcal antigen negative.  [**12-5**] aerobic blood
+culture bottles grew gram positive cocci in pairs and
+clusters and eventually grew Staph coag negative.  C.
+difficile from [**9-27**] positive.  C. difficile on [**9-28**] negative.  MCV 100.  Thecal culture:  No enteric rods, no
+Salmonella, Shigella, no Campylobacter, no vibrio, no E. Coli
+0157:H7.  Vitamin B12 820, folate 13.1, absolute CD4 count
+78, hemoglobin A1C 8.  Urine cultures:  Microsporidia
+negative, cryptosporidia negative, Isosporidium negative,
+cyclosporin negative.  CT of the head normal.  Renal
+ultrasound:  No hydronephrosis, small cortical defect within
+the lower pole of the right kidney likely related to medical
+renal disease or old infection.  Urine dip done on [**9-28**]
+showing large blood, 2+ protein, negative white blood cells,
+negative glucose, negative nitrate, negative ketones.
+Sediment showing numerous muddy blood cast, occasional white
+blood cells, occasional epithelial tubular cells.
+
+IMPRESSION:  This is a 54-year-old gentlemen with history of
+AIDS and congestive heart failure admitted with seven days of
+perfuse diarrhea, fevers and chills found to be in acute
+renal failure with a creatinine of 4.3 and hypotensive and
+admitted to the Medical Intensive Care Unit for one night,
+transferred to the floor after receiving aggressive
+intravenous hydration and starting antibiotics.
+
+SUMMARY OF HOSPITAL COURSE:
+
+1.  Infectious Disease:  It was felt that the patient's
+diarrhea was the most likely source of his fevers and chills
+and had caused severe dehydration leading to hypotension,
+acute renal failure with prerenal and intrarenal ATM effect.
+Given his history of AIDS, a SMV cryptococcus [**Doctor First Name **] were
+checked as were microsporidia, cryptosporidia, Isospora and
+cyclosporia when these were negative.  Given his recent
+consumption of shellfish, vibrio was also checked and this
+was negative.  Given his increased white blood cells, count
+with left shift and increased bands, as well as a guaiac
+positive nature on the floor, bacterial cultures of stools
+including Campylobacter, Salmonella and Shigella were checked
+and were all negative.  Given his recent antibiotics and his
+recent C. difficile infection, the C. difficile was
+rechecked, one was negative and one was positive.  Ova and
+parasites were negative and E. coli 0157H7 was also negative.
+Patient's first urinalysis was consistent with a urinary
+tract infection, although the urine culture showed no growth.
+Second urinalysis and sedimentation was consistent with ATN
+and not a urinary tract infection.  ATN was most likely
+secondary to decreased perfusion of the kidneys during his
+hypotensive episode.  An lumbar puncture was deferred given
+resolution of his neck stiffness and pain and a clinical
+picture not consistent with meningitis.  The patient remained
+afebrile after 24 hours after admission.  The patient's
+diarrhea continued and actually worsened to become more
+watery in consistency and more frequent as his hospital stay
+went on until the day of discharge.  He remained afebrile and
+continued to have diffuse abdominal tenderness.  The Staph
+coag negative that grew in his blood was considered a
+contaminant, however, before this was isolated, he was placed
+back on vancomycin which had been discontinued when he moved
+to the floor.  His Ciprofloxacin and Flagyl were continued
+also.  His CD4 count was lower than it had been in the past
+and this made opportunistic infections as the cause of his
+diarrhea more likely and that is why his microsporidian,
+cryptosporidia, Isosporidium, cyclosporia was sent.
+Patient's Ciprofloxacin was increased to 500 mg b.i.d. as his
+renal function improved and his Flagyl was also continued.
+An antidiarrheal [**Doctor Last Name 978**] was avoided especially since he was
+found to be C. difficile positive.  And eventually, two days
+prior to discharge, his Ciprofloxacin was discontinued.
+
+Patient continued with pandemia and this should be followed
+up as an outpatient.  It may be secondary to his C. difficile
+infection.  If his diarrhea had continued without
+improvement, CT of the abdomen and colonoscopy with biopsies
+to rule out CMV and [**Doctor First Name **] would have been considered more
+seriously.  His acyclovir was held off because of his renal
+dysfunction.  He continued to be hydrated until two days
+prior to discharge when his intravenous fluids were
+discontinued since he was taking good po intake.
+
+2.  Cardiovascular:  Patient's hypotension was most likely
+secondary to dehydration from his diarrhea.  Other
+possibilities postulated were septic shock with infection and
+cardiogenic shock, although, he did not have any signs and
+symptoms of congestive heart failure.  His blood pressure did
+not initially respond to aggressive intravenous hydration,
+but then did and he was transferred to the floor.  His blood
+pressure on the floor remained stable throughout his four
+days.
+
+3.  Renal:  Patient was presenting with acute renal failure
+most likely secondary to prerenal from decreased perfusion
+from his hypotension and ATN.  His Vioxx was also held as
+this may have been a contributing factor five days prior to
+admission.  No hydronephrosis was on renal ultrasound.  His
+medications were initially renally dosed and he was hydrated
+aggressively.  His renal function remarkably improved to
+normal within two days after starting his aggressive
+hydration.  Patient was found to have metabolic acidosis but
+normal lactate and with compensatory increased respiratory
+rate.  After his kidney function resolved, his medications
+were increased back to their normal doses.  His Foley was
+discontinued on hospital day number three.
+
+4.  Gastrointestinal:  Patient with history of hepatomegaly
+and now with abdominal tenderness.  This most likely
+secondary to his diarrhea versus ischemic bowel from his
+hypotension.  His exam was following and was unchanged so an
+abdominal CT was not done.
+
+5.  Diabetes [**Doctor First Name 6449**]:  Patient was placed on a regular
+insulin sliding scale.  Hemoglobin A1C was sent and was found
+to be elevated at 8 which is better than his value in [**3072-7-3**] which was 8.5, but still showing that his diabetes is
+not well-controlled.  This should be discussed as an
+outpatient.
+
+CONDITION OF DISCHARGE:  Stable.
+
+DISCHARGE STATUS:  To home.
+
+PATIENT DISCHARGE INSTRUCTIONS:  Patient is to follow-up with
+Dr. [**Last Name (STitle) 3258**] within one week.  Patient is to call the
+Infectious Disease fellow on call if he experiences any more
+fevers or chills or increased in his diarrhea or pain.
+
+DISCHARGE MEDICATIONS:  As prior to admission with the
+addition of Flagyl 500 mg t.i.d. for a total course of 21
+days.
+
+DISCHARGE DIAGNOSES:
+1.  HIV/AIDS.
+2.  C. difficile diarrhea.
+3.  Diabetes [**Last Name (STitle) 6449**].
+4.  Congestive heart failure.
+5.  Hypertension.
+6.  Peripheral neuropathy.
+7.  Depression.
+
+
+
+
+
+
+                          [**Doctor First Name **] [**Name8 (MD) 6450**], M.D.  [**MD Number 6451**]
+
+Dictated By:[**Last Name (NamePattern1) 2818**]
+
+MEDQUIST36
+
+D:  [**3072-10-5**]  09:34
+T:  [**3072-10-5**]  09:34
+JOB#:  [**Job Number 6452**]
+
+
+
+Signed electronically by: DR. [**First Name11 (Name Pattern1) **] [**Initial (NamePattern1) **] [**Last Name (NamePattern1) **]
+ on: FRI [**3072-11-15**] 3:24 PM
+(End of Report)
+
+
+",,
+24978,21201,,,3072-09-27 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3072-9-27**] 8:27 PM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 8029**]
+     Reason: h/o hydrocephalus
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      54 year old man with AIDS, CHF, neck pain, HA
+     REASON FOR THIS EXAMINATION:
+      h/o hydrocephalus
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: Aids, CHF and headache.  Please evaluate for hydrocephalus.
+     
+     COMPARISON: [**3071-10-22**]
+     
+     TECHNIQUE: Contiguous axial imaging was obtained from the foramen magnum to
+     cranial vertex.
+     
+     CT SCAN OF THE HEAD WITHOUT CONTRAST: There is no intra-axial or extra-axial
+     hemorrhage.  There is no mass, mass effect or shift of the normal midline
+     structures.  The ventricles and sulci are normal.  No major vascular territory
+     infarction is seen.  The bone windows demonstrate no fracture and the
+     visualized paranasal sinuses are clear.
+     
+     IMPRESSION: Normal head CT.
+
+",,
+24978,21201,,,3072-09-27 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3072-9-27**] 9:08 PM
+     RENAL U.S.                                                      Clip # [**Clip Number (Radiology) 8030**]
+     Reason: r/o hydronephrosis
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      54 year old man with AIDS, CHF, low urine output
+     REASON FOR THIS EXAMINATION:
+      r/o hydronephrosis
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     RENAL ULTRASOUND [**3072-9-27**].
+     
+     INDICATION:  54 year old man with AIDS, lower urine output, rule out
+     hydronephrosis.
+     
+     RENAL ULTRASOUND:  The right kidney measures 14 cm.  There is a focal cortical
+     defect within the lower pole that could be related to old infection or other
+     medical renal disease.  The left kidney measures 14.2 cm.  There is no
+     hydronephrosis or stones.  The bladder contains a Foley catheter.
+     
+     IMPRESSION:  No hydronephrosis.  Small cortical defect within the lower pole
+     of the right kidney likely related to medical renal disease or old infection.
+     
+
+",,
+24978,21201,,,3072-09-27 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3072-9-27**] 12:40 PM
+     CHEST (PA & LAT)                                                Clip # [**Clip Number (Radiology) 8028**]
+     Reason: tachypnea, AIDS, CHF
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      54 year old man with AIDS, CHF
+     REASON FOR THIS EXAMINATION:
+      tachypnea, AIDS, CHF
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  AIDS, CHF, shortness of breath.
+     
+     COMPARISON STUDY:  [**3072-3-10**].
+     
+     CHEST, 2 VIEWS:  There has been slight interval increase in cardiomegaly.
+     There is mild upper zone redistribution, which could represent slight CHF.
+     The configuration of the cardiac silhouette raises the possibility of
+     pericardial effusion.  There are no confluent opacities.  No pleural effusion
+     or pneumothorax.
+     
+     IMPRESSION:  Slight increased cardiomegaly and mild upper zone redistribution,
+     possibly mild CHF.  Question of pericardial effusion.
+
+",,
+24978,21201,31016,,3072-09-28 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3072-9-28**] 11:49 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 8031**]
+     Reason: s/p L subclavian line placement.
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      54 year old man with above.
+     REASON FOR THIS EXAMINATION:
+      s/p L subclavian line placement.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CLINICAL INDICATION: Central venous catheter placement.
+     
+     COMPARISION: Previous study of [**3072-3-10**].
+     
+     A left subclavian central venous catheter is present and terminates in the
+     left brachiocephalic vein, near the junction with the superior vena cava.  No
+     pneumothorax is identified.
+     
+     The cardiac silhouette appears prominent but is likely accentuated by portable
+     supine technique.  The lungs reveal no confluent areas of consolidation.
+     There is a small linear opacity in the left lower lobe peripherally and there
+     is slight elevation of the right hemidiaphragm.
+     
+     IMPRESSION: Left subclavian central venous catheter terminates in distal left
+     brachiocephalic vein, near the junction with the superior vena cava.  No
+     pneumothorax is identified.
+
+",,
+24978,21201,31016,0,3072-09-28 04:03:00 EST,3072-09-28 06:07:00 EST,-1,"N",69,"Nursing/Other","PMICU Nursing Admitting Note","
+PMICU Nursing Admitting Note
+Allergies: Sulfa Drugs  Full Code
+
+54 y/o male w/ AIDS admitted to the ED for voluminous diarrhea ([**9-13**] BM per day), hypotension, dizziness, and severe dehydration. Recent history of C-Diff ([**9-10**]), tx'd w/ Flagyl for one week following which was effective in decreasing diarrhea until last seven days.  Other PMH includes CHF x 2yrs (following chemo), IDDM X 6 yrs, h/o Lymphoma X 2 yrs, Depression, peripheral neuropathy. 
+
+In ED BP 62/36, RR 25-35, Creatinine 4.3, WBC 9.8, ABG 7.36/30/71, Creat. 4.3,; Urine and bld cultures sent. CXR showed mild CHF. Pt receieved Flagyl, Cipro, and 4 L NS while in the ED with minimal BP response. Foley placed while in ED.
+
+Pt. then sent to the MICU for conitued hydration, contiued monitoring of hypotension and administration of abx.
+
+Review of Systems-
+
+CV- On arrival to MICU; hypotensive 70's/40, improved after 5th Liter NS wide open to BP's in 110's/ 40's w/ MAP in 60's.  Remained normotensive o/n with NS infusing at 150cc/hr. HR 110's, remained in ST w/ no ectopy. Right Bundle Branch Block. 
+
+Resp- RRR 16-20 breaths per min., inc. to 25 breaths per min w/ distress. Pt. in metabolic acidosis w/ resp. compensation. LS with crackles at bases R>L.. cxr in EW shows mild chf.. ivf decreased from 250cc/hr to 150cc/hr... no lasix given.
+
+GU- In ED pt. had < 25 cc U/O/hr. Averaged 100cc/U/O/hr o/n, color went from amber to yellow overnight. Urine sample sent from foley for culture.
+ 
+GI -  NPO, Abd. soft and distended, hyperactive BS in all quadrants.  Diarrhea X 5, liquid brown color, culture sent x 3 total.  
+
+ID- Afebrile, currently receiving antibiotic therapy includng Cipro, Flagyl, Vanco. Also cont on usual anitiviral cocktail. 
+
+F/E- After much difficulty d/t poor access, am lytes sent.. Mg 1.2, so Repleted w/ Mag 4 amps total, and K+ 3.5, repleted with 40meq kcl po. phos wnl, and albumin added so we can calculate corrected calcium. total fluid balance since MN inaccurate d/t diarrha and foley broke at one point, but estimated at +200cc's.. pt currently receiving liter # 7 IVF (including fluid in EW). Has order written for one more additional L ivf when current liter complete.. ivf currently dripping to gravity, as iv so positional, pump alarmed almost incessently.. piv flushes without difficulty.  
+
+Access-  18 g IV in L anticub. extremely positional, several attempts made to start another line w/ no success. IV team attempted w/ out success. Please refer to their note and suggestions. Team notified of limited access central line discussed. 
+ 
+Comfort: PT c/o increasing pain of bilateral upper extremities and shoulders (worse in wrists and elbows) over the course of the night; stated that he ""has never had pain like this before"", given 2 tab of percocet w/out significant effect. HO called in to see pt. Per pt, has had peripheral neuropathy pain in feet, but not in arms. Pt also received his usual elavil and neurontin. NO further orders at thsi time/   
+
+A-P- cont abx, ivf, and lyte repletion..  follow stool cx..
+",,
+24978,21201,31016,0,3072-09-28 04:04:00 EST,3072-09-28 06:07:00 EST,-1,"N",69,"Nursing/Other","PMICU Nursing Admitting Note","
+PMICU Nursing Admitting Note
+(Continued)
+ no immodium until rules out for c-diff.. cont pain assessment. team to place central line to facilitate ivf/abx infusion and lab draws. Cont emotional  support.
+",,
+24978,21201,31016,0,3072-09-28 12:19:00 EST,3072-09-28 12:37:00 EST,2147,"N",69,"Nursing/Other","NSG TRANSFER NOTE P-MICU TO 5F","
+NSG TRANSFER NOTE P-MICU TO 5F
+54 YO MALE ADMITTED LAST EVENING WITH HYPOTENSION/ATN/DIARRHEA.PLEASE REFER TO ADMIT NOTE WRITTEN THIS MORNING.
+
+ROS: C/V: BP after several L's NS 7th L infusing now BP 90-110/50,HR 100-110 ST with no ectopy noted. 
+
+Respir: O2 sats on RA 94-99% with RR 18-24 no acute SOB noted. L/S crackles bilat. 
+
+GU: U/O has increased 50-80cc/hr, has ATN. Repeat Lytes sent to be reckecked this evening. 
+
+GI: Having frequent mod amts of brown liquidy diarrhea, able to get on/off bedpan. [**Last Name (un) 292**] soft non-tender, no N/V noted. Has poor appetite. several stool specs' have been sent.
+
+ID: Temp 98.9 PO max, rec'ing multiple antibs'x. 
+
+IV access: Central line placed R SC, CXR checked for placement. 
+
+Neuro: Is A&O times 3, does c/o'd of extremity pain x4, has peripheral neuropathy, has rec'd Percocet PO with good response. 
+
+Stable for transfer to 5F. 
+",,
+24978,21201,,,3072-09-30 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3072-9-30**] 4:46 PM
+     ABDOMEN (SUPINE & ERECT)                                        Clip # [**Clip Number (Radiology) 8032**]
+     Reason: r/o toxic megacolon
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      54 year old man with AIDS admitted w/ recurrent profuse diarrhea, C. Diff
+      positive and also w/ diffuse abdominal pain.
+     REASON FOR THIS EXAMINATION:
+      r/o toxic megacolon
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     
+     ABDOMEN, TWO VIEWS:
+     
+     HISTORY:  AIDS with recurrent diarrhea and positive C-Defocele. Now complains
+     of abdominal pain.  Evaluate for toxic megacolon.
+     
+     Distribution of bowel gas is unremarkable.  No evidence for intestinal
+     obstruction.  No free intraperitoneal gas.  A few non-dilated gas-filled loops
+     of small bowel without air fluid levels are present in the  abdomen.  No
+     evidence for toxic megacolon.
+     
+     IMPRESSION:  No diagnostic abnormality.  Specifically, no evidence for toxic
+     megacolon.
+     
+
+",,
+24978,27974,31017,0,3075-02-04 05:27:00 EST,3075-02-04 05:45:00 EST,2804,"N",69,"Nursing/Other",,"
+
+NEURO; PT. IS A/A AND DISORIENTED. PT. DENIES ANY PAIN OR DISCOMFORT AT THIS TIME. PT. MAE'S, WITH NO NEURO DEFICITS OTHER THAN CONFUSION WHICH CT SCAN REPORTED NEG. PT. IS AFEBRILE A THIS TIME. MULTIPLE DOSES OF ATIVAN GIVEN, ALONG WITH XANAX, AND HALDOL THROUGHT THIS SHIFT, FOR AGITATION.
+
+CV; PT. HAS BEEN NSR-ST 70-110 WITH NO REPORTED ECTOPY AT THIS TIME. PT. ARRIVED ON DOPAMINE GTT AT 2MCG/KG/MIN AND THIS WAS TITRATED OFF AT MIDNIGHT. MAP'S HAVE BEEN >60'S. PEDALS ARE WEAK BUT PALPABLE WITH NO NOTED EDEMA.
+
+RESP; PT. IS 96-100% ON R/A LUNG SOUNDS HAVE VARIED BETWEEN CLEAR THROUGHOUT TO SLIGHT CRACKLES NOTED IN THE BASES. RESP RATE CONTROLLED IN THE 20'S.
+
+GI/GU; PT. TOLERATES HIS 2GR NA DIET, ABD. ASSESSMENT BENIGN, MEDIUM FORMED STOOL NOTED, AND GUIACED NEG. PT. HAS FOLEY CATHETER DRAINING 40-90CC/HR OF CLEAR YELLOW URINE. 
+
+SKIN; SMALL DIME SIZED AREA NOTED TO COCCYX, NO DRAINAGE, NOR ODOR NOTED. DUODERM APPLIED.
+
+DISPO: PT. IS FOR PROBABLE TRANSFER TO FLOOR, DOPAMINE GTT OFF, HCT. STABLE WITH NO SIGNS OF BLEEDING.
+
+",,

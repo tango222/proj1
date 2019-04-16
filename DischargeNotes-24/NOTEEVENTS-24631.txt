@@ -1,0 +1,709 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+24631,22350,,,3287-09-23 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+ 
+ 
+ 
+Admission Date:  [**3287-9-23**]              Discharge Date:   [**3287-10-4**]
+ 
+Date of Birth:  [**3209-5-30**]             Sex:   M
+ 
+Service: MED
+ 
+Allergies: 
+Aldactone / Iodine; Iodine Containing
+ 
+Attending:[**First Name3 (LF) 756**] 
+Chief Complaint:
+78 yo m with h/o coronary artery disease, congestive heart 
+failure, (dilated cardiomyopathy w/ EF 20-25%), hypertension, 
+type II diabetes, peripheral vascular disease, positive ppd, who 
+was admitted to MICU after he was found at nursing home with 
+respiratory distress (hypoxic to 84% O2 sat and tachypneic to 
+38).
+ 
+Major Surgical or Invasive Procedure:
+PEG tube placement
+
+ 
+History of Present Illness:
+78 yo m w/ h/o cad, chf (dilated cm w/ ef 20-25%), htn, type II 
+dm, pvd, asd, positive ppd, who was BIB by ambulance after he 
+was found at NSH w/ sao2 84% and tacypneic to 38.  At baseline, 
+pt largely non-verbal but communicates his needs, follows 
+commands, incontinent of bladder/bowel.  
+
+In ED, found to be febrile to 100.8, bp 199/96, 92%ra.
+Initial ABG 7.26/83/306, lactate 0.7.    Rec'd 500cc BS bolus.
+
+ 
+Past Medical History:
+1.  Coronary artery disease: The patient has known
+cardiomyopathy with an ejection fraction of 30%.
+2.  Congestive heart failure:  The patient was hospitalized
+in the summer of [**3284**] for CHF exacerbation.
+3.  History of an admission in [**3286-2-26**] for a rib
+contusion and fracture that was managed conservatively.
+4.  Hypertension.
+5.  Noninsulin-dependent diabetes mellitus with peripheral
+neuropathy.
+6.  Peripheral vascular disease, status post right great toe
+and third left toe amputation for osteomyelitis.
+7.  Gout.
+8.  Question of senile dementia.
+9.  History of falls.
+10. Atrial septal defect.
+11. Positive PPD in the past.
+12. Hypercholesterolemia.
+13. B12 deficiency.
+14. prior CVA with residual left-sided weakness
+ 
+Social History:
+He is a resident of assisted living.  He has
+seven children.  He is not married.  He is unemployed now.
+He worked previously in a warehouse.  He has a history of
+smoking.  He quit in [**3250**].  He denied current alcohol use.
+He also quit in [**3250**].  He has an extensive past history of
+both smoking and alcohol use up until the time of quitting.
+He denied prior use of cocaine and heroin.
+
+ 
+Family History:
+noncontributory
+ 
+Physical Exam:
+t 97.3, bp 189/89, p 77, r 32 97% on 26% on bipap
+Responsive to voice but non-verbal, follows simple commands
+OP clear.  MMM
+Regular s1,s2, II/VI SEM at apex
+B/L crackles diffuse crackles at both bases.
++bs. soft. nt. nd.  
+no le edema
+
+On admission to the floor:
+Gen: pt breathing comfortably, NAD; NG tube in place
+Neuro: pupils reactive, pt cannot blink eyes to command; can 
+slightly squeeze fingers bilaterally; cannot follow other 
+commands; occasionally moans
+HEENT:  Small red lesion on roof of mouth, appears raised, not 
+bleeding, no pus; small petechial lesions; edentulous
+CV:  RRR, nl S1/S2, 2/6 systolic murmur loudest at apex
+Pulm: anterior exam only, could not cooperate with taking deep 
+breaths; scattered crackles
+Abd: soft, NT/ND, +BS
+Ext: [**11-29**]+ LE edema up to knees; amputation of R great toe with 
+red lesion over medial aspect of hallux; edema in UE to elbows; 
+soft restraints in place
+
+ 
+Pertinent Results:
+CBC:
+[**3287-9-23**] 10:00PM BLOOD WBC-5.6 RBC-4.54* Hgb-13.4* Hct-43.8 
+MCV-97 MCH-29.6 MCHC-30.6* RDW-13.3 Plt Ct-192
+[**3287-9-23**] 08:29AM BLOOD Neuts-73.7* Lymphs-19.8 Monos-4.0 Eos-1.8 
+Baso-0.7
+
+Coags:
+[**3287-9-23**] 10:00PM BLOOD PT-13.3 PTT-28.7 INR(PT)-1.1
+
+Chemistry: 
+[**3287-9-23**] 10:00PM BLOOD Glucose-128* UreaN-24* Creat-0.7 Na-155* 
+K-4.5 Cl-116* HCO3-34* AnGap-10
+[**3287-9-23**] 08:29AM BLOOD ALT-32 AST-26 CK(CPK)-39 AlkPhos-93 
+Amylase-62 TotBili-0.5
+
+Cardiac Enzymes:
+[**3287-9-23**] 08:29AM BLOOD cTropnT-0.04*
+[**3287-9-23**] 05:02PM BLOOD CK-MB-NotDone cTropnT-0.03*
+[**3287-9-23**] 10:00PM BLOOD Calcium-8.5 Phos-3.9 Mg-2.4
+[**3287-9-23**] 09:07AM BLOOD Type-ART pO2-306* pCO2-83* pH-7.26* 
+calHCO3-39* Base XS-7
+[**3287-9-23**] 02:35PM BLOOD Type-ART pO2-145* pCO2-60* pH-7.26* 
+calHCO3-28 Base XS--1
+[**3287-9-23**] 10:15PM BLOOD Type-ART PEEP-5 O2-26 pO2-80* pCO2-74* 
+pH-7.27* calHCO3-35* Base XS-3 Intubat-NOT INTUBA
+[**3287-9-24**] 12:45AM BLOOD Type-ART pO2-111* pCO2-71* pH-7.24* 
+calHCO3-32* Base XS-0 Intubat-NOT INTUBA
+[**3287-9-24**] 02:02AM BLOOD Type-ART pO2-86 pCO2-68* pH-7.28* 
+calHCO3-33* Base XS-2
+[**3287-9-24**] 04:29AM BLOOD Type-ART pO2-145* pCO2-64* pH-7.29* 
+calHCO3-32* Base XS-2 Intubat-NOT INTUBA
+[**3287-9-23**] 09:07AM BLOOD Lactate-0.7
+
+CXR: Cardiac enlargement with mild congestive heart failure.
+CTA: 1. No pulmonary embolus.
+2. Moderate to large bilateral pleural effusions with bibasilar 
+atelectasis. A consolidation in the left lower lobe cannot be 
+excluded.
+3. Small pulmonary nodules seen on the prior study are not 
+visualized on the current study.
+CT Head: No evidence of intracranial hemorrhage. No evidence of 
+infarction. Mild left maxillary sinus disease
+ECG: 60 bpm, L axis, sinus, no st-tw changes
+
+ 
+Brief Hospital Course:
+Plan:
+1. respiratory failure--initial thinking was pneumonia vs chf vs 
+central cause. unclear if pt is chronic C02 retainer; no hx 
+COPD. ABGs with pH 7.26 then 7.24 then 7.28 on bipap. No longer 
+on BiPAP.  CXR with LLL effusion vs consolidation vs 
+atelectasis, not significantly changed from old films (has had 
+pleural effusions consistently since [**3285**]). retrocardiac 
+density. R base with small effusion. CT without evidence of PE.  
+Pt was put on clinda temporarily.  By the time pt was 
+transferred to floor, respiratory status had stabilized and pt 
+required about 1-2L O2 by NC with good O2 sats.
+
+2. hypernatremia--Na on presentation 154. Given NS to rehydrate, 
+as initially thought to have hypovolemic hypernatremia given 
+limited diet, NH residence, limited ability feed himself, on 
+lasix 40mg daily at baseline. On prior admissions has had sodium 
+of 145 but not as high as 154.  Free water flushes were given 
+through the NG tube, and his sodium came down to 148, then 141.  
+
+
+3. mental status change--seen by neuro in the EW. Unclear if L 
+sided weakness is worse as can't cooperate w/full neuro exam. 
+Head CT neg; no anticoagulation per neuro recs. Would have 
+needed intubation to obtain MRI; not done per neuro.  Systolic 
+BP was kept around 150 initially with concern of stroke.  Mental 
+status continued to improve on transfer to the floor, and pt was 
+somewhat responsive and somewhat able to follow commands.  Pt's 
+PCP, [**Last Name (NamePattern4) **]. [**Last Name (STitle) **], notes that this is still far from his 
+baseline, when he was able to communicate somewhat.
+
+4. CHF--systolic and diastolic. CXR without evidence significant 
+failure. Stable for now.  Pt was diuresed with lasix; lungs 
+remained clear with no increase in O2 requirement.  Weights were 
+measured but difficult to interpret as different numbers of bed 
+clothes/sheets/pillows were on the bed each morning.    
+
+5. DM--takes glyburide at baseline. Covered with insulin scale, 
+qid checks and dosing of humalog (correction doses). QID 
+fingersticks were continued, which showed good glucose control.  
+On addition of NG tube feeds, NPH insulin was given at 4 units 
+bid, which resulted in good control of glucose, around 90s-130s. 
+ 
+
+6. bradycardia--pt bradys down to 30s-40s.  Likely has some AV 
+nodal dysfunction.  However, is asymptomatic and maintains his 
+BP adequately.  Telemetry was discontinued after discussion with 
+cardiology, as pt is not a candidate for a pacer.  Remained 
+asymptomatic with bradycardia, and actually was noted to have a 
+more normal pulse in the last few days prior to discharge.
+
+7. HTN--BP kept slightly high initially given concern for CVA. 
+Was put back on lisinopril and titrated up; giving 40mg daily on 
+discharge.
+
+8.  Nutrition - initially an NG tube was placed, and pt received 
+tube feeds with nutrition on consult for particular 
+recommendations.  Pt continued to pull out NG tube, and soft 
+restraints were placed to prevent this.  As pt's mental status 
+did not seem to improve substantially, and a speech/swallow 
+evaluation revealed that pt was aspirating anything placed in 
+his mouth, the family was contacted and met with Dr. [**Last Name (STitle) **], 
+pt's PCP to discuss options for long-term nutrition.  Pt's 
+family corroborated that they had discussed this with him in the 
+past and he would want a G tube.  Therefore, a PEG was placed by 
+GI, which pt tolerated well.  Tube feeds were restarted, and pt 
+was discharged back to nursing home 24 hours after tube feeds 
+through G tube were begun.
+
+9. prophylaxis--sq heparin, IV protonix
+
+10. code--full. Daughter corroborated this on several occasions.
+
+ 
+Medications on Admission:
+asa 325
+tylenol
+lasix 40 po qd
+protonix 40 po qd
+lipitor 10 qhs
+mirtazapine
+allopurinol 150 qod
+glyburide 2.5
+zyrtec 10
+lisinopril 30mg qd
+mvi
+senna
+colace
+vitamin c
+ 
+Discharge Medications:
+1. Heparin Sodium (Porcine) 5,000 unit/mL Solution Sig: 5000 
+(5000) units Injection TID (3 times a day).  
+2. Docusate Sodium 150 mg/15 mL Liquid Sig: One Hundred (100) mg 
+PO BID (2 times a day).  
+3. Allopurinol 300 mg Tablet Sig: 0.5 Tablet PO EVERY OTHER DAY 
+(Every Other Day).  
+4. Aspirin 325 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).  
+5. Gabapentin 250 mg/5 mL Solution Sig: Three Hundred (300) mg 
+PO TID (3 times a day).  
+6. Senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a 
+day).  
+7. Atorvastatin Calcium 10 mg Tablet Sig: One (1) Tablet PO 
+DAILY (Daily).  
+8. Artificial Tear Ointment 0.1-0.1 % Ointment Sig: One (1) Appl 
+Ophthalmic  QID (4 times a day).  
+9. Acetaminophen 325 mg Tablet Sig: 1-2 Tablets PO Q4-6H (every 
+4 to 6 hours) as needed.  
+10. Lisinopril 20 mg Tablet Sig: Two (2) Tablet PO DAILY 
+(Daily).  
+11. Acetaminophen 650 mg Suppository Sig: One (1) Suppository 
+Rectal Q6H (every 6 hours) as needed for pain: no more than 4g 
+tylenol total in one day.  
+12. Pantoprazole Sodium 40 mg Tablet, Delayed Release (E.C.) 
+Sig: One (1) Tablet, Delayed Release (E.C.) PO once a day.  
+13. insulin
+sliding scale insulin as per attached sliding scale
+4 units NPH insulin bid
+14. Lasix 40 mg Tablet Sig: One (1) Tablet PO once a day.  
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+[**Hospital1 **] - [**Location (un) **]
+ 
+Discharge Diagnosis:
+1. Coronary artery disease
+2. Congestive heart failure
+3. History of rib contusion and fracture that was managed 
+conservatively.  
+4. Hypertension.  
+5. Noninsulin-dependent diabetes mellitus with peripheral  
+neuropathy.  
+6. Peripheral vascular disease, status post right great toe  
+and third left toe amputation for osteomyelitis.  
+7. Gout.  
+8. Question of senile dementia.  
+9. History of falls.  
+10. Atrial septal defect.  
+11. Positive PPD in the past.  
+12. Hypercholesterolemia.  
+13. B12 deficiency.  
+14. prior CVA with residual left-sided weakness  
+15. hypernatremia
+
+ 
+Discharge Condition:
+stable, PEG tube in place, tolerating feeds
+ 
+Discharge Instructions:
+Please have patient follow up with his primary care doctor.
+ 
+Followup Instructions:
+Pt should see his primary care doctor in 1-2 weeks.
+
+ 
+                             [**First Name4 (NamePattern1) 185**] [**Last Name (NamePattern1) **] MD [**MD Number 759**]
+ 
+Completed by: [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 5752**] MD [**MD Number 5753**] [**3287-10-4**] @ 1118
+Signed electronically by: DR. [**First Name4 (NamePattern1) 185**] [**Last Name (NamePattern1) **]
+ on: TUE [**3287-10-28**] 9:59 PM
+(End of Report)
+
+
+",,
+24631,22350,30587,0,3287-09-24 03:31:00 EST,3287-09-24 03:47:00 EST,693,"N",69,"Nursing/Other",,"
+
+Admission:
+
+Pt admitted from EW last eve. Sent to ew by nursing home staff stating he had ms changes. baseline, pt. mumbles is basically nonverbal. Follows basic commands. In nursing home became unresponsive in his wheelchair with eyes open not following commands. 
+cv/resp nsr to sb ? sinus vs af. rate as low as low 40's. bp with htn noted syst 160-180. aline inserted in micu for frequent abg monitoring. bipap resumed upon arrival to micu via mask ventilation.
+see resp notes for details
+gi/gu foley draining 20 cc/hr and higher sm.stool upon to icu.
+aspiration precautions. basically npo.
+integ duoderm on coccyx intact. 
+plan frequent abgs to monitor resp status. attempts to avoid intubation
+status Full code. This was confirmed with daughter on phone this eve.
+ivf+d5w at 100cc/hr
+has 2 piv in right arm. 
+abg slightly improving. continues on bipap
+",,
+24631,22350,30587,0,3287-09-24 05:29:00 EST,3287-09-24 05:33:00 EST,894,"N",69,"Nursing/Other",,"
+
+RESP CARE: Pt recieved from ED on 100% NRB, had been on Bipap. Pt placed on non-invasive ventilation using full face mask, CPAP/PSV 8/20/.26. ABGs slowly improving throughout the shift. Pt has irreg. resp pattern. At 0600 Bipap removed and pt placed on 28% venti mask after vomiting into Bipap mask. An NG tube was placed. Will rest pt for a short time/obtain ABG and monitor.
+",,
+24631,22350,30587,0,3287-09-24 05:44:00 EST,3287-09-24 05:45:00 EST,693,"N",69,"Nursing/Other",,"
+
+pt. noted to have vomited on bipap. bipap removed temporarily. ng tube inserted. attempts to nt suction unsuccessful. urine c+s sent.
+",,
+24631,22350,30587,0,3287-09-24 17:14:00 EST,3287-09-24 17:30:00 EST,843,"N",69,"Nursing/Other",,"
+
+Nursing Progress Note
+[**3287-9-24**]   08:30->19:30
+
+S/O
+
+NEURO: Pt awake, moaning most of shift despite all therapeutic interventions. Pt unable to verbalize source for persistent moaning and rstlessness.
+Pt's HR dropped to 40's with SBP 110's. Pt noted to have glazed eyes with gaze deviating up and to left, marked left mouth droop, rhythmic motion of right thumb and unresponsive to verbal istruuctions. Episode lasted ~ 2 minutes then pt began to follow left-sided motor instructions. M/SICU team notified, Dr [**First Name4 (NamePattern1) 658**] [**Last Name (NamePattern1) 3470**] in to evaluate. Pt lethargic x ~ 1hr after episode. Head CT obtained tis afternoon; results pending.
+
+CV: HR irregular and 50's, sinus rhythm, sinus brady, ? afib but P waves noted in precordial leads on 12-lead EKG. Ventricular escape / PVCs with HR < 45. See Careview flowsheet for details.
+
+RESP: Weaned O2 from venti mask @ 28% to nc at 2LPM with SpO2 96-100. LS rhonchorous; often difficult to assess due to pt's persistent moaning.
+
+GI: Passing BM, soft, brown, formed. Abd slight distended but soft with + BS all quadrants. No guarding on abd percusion and light palpation. Pt pulled NGT despite right wrist being restrained -> rerplaced and CXR obtained.
+
+FEN: Afternoon labs pending. Blood glucoses 180's, receiving regular insulin per sliding scale -> see MARs and flowsheet. Received pt on D5W at 100mL/hr. Discussed with Dr [**First Name (STitle) 3470**] and senior changing IVF to NS for neuro protective effects (changing from hypo-osmolar in face of acute neuro changes), discussed with them possibility of consulting with neuromed to optimally manage fluid status. Per team, IVF d/c'd; awaiting results of CT.
+
+No nutrition infusing at this time.
+
+HAEM: No acute issues.
+
+ID: Afebrile, normothermic.
+
+SKIN: Oral thrush lesions -> lidocaine:benadryl:maalox swabs to mouth followed 15 minutes later by cleaning with 1/2strength H2O2 and mouthwash then Nystatin swabs.
+Coccyx with 3 pink lesion across sacrum area -> cleaned with NS, dressed with tegaderm. Pt turned side-to-side to keep off coccyx.
+
+A/P
+F/U on CT results. 
+Optimize pt comfort.
+
+GU: Urine output marginal at times, dropping in volume s/p cessation of IVF and pt being NPO.
+",,
+24631,22350,30587,0,3287-09-24 23:02:00 EST,3287-09-24 23:18:00 EST,6328,"N",69,"Nursing/Other","nursing note 2300-0700","
+nursing note 2300-0700
+NEURO: Pt lying in bed on right side, pt with eyes closed, but opens to voice, Pt will follow commands to squeeze hands, perl, Pt has + gag/cough reflex, pt moves extremities slightly, but moves right more than left, pt not on sedation at this time, right hand restrianed, but released for rom and turning, csm is wnl to extremity,  no seizure activity noted
+
+CV:  Pt's vss, afebrile, pt denies pain by squeezing hands per my request, pt skin is tan, warm, and dry, pp + & =, with +1 edema, pt has left radial a-line csm and waveform wnl, pt has #20 in right hand and a/c, right a/c is patent and intact, right hand has ns @ kvo,  
+
+RESP:  Pt's ls are clear, but at times is difficult to assess due to baseline moaning, pt on o2 @ 3 L. v/nc, with sats 98-100%, pt has occasional congested non-productive cough
+
+GI:  Pt has ngt in left nare, placement confirmed via air bolus, bs +, with softly distended abd, pt given 250 cc free water bolus [**Name8 (MD) 59**] md order
+
+GU:  Pt's foley draining clear yellow urine
+
+ENDO:  pt's blood sugar 174, given 2 units regular insulin in left upper posterior arm
+",,
+24631,22350,30587,0,3287-09-25 00:40:00 EST,3287-09-25 00:55:00 EST,1197,"N",69,"Nursing/Other","MICU NPN: Late entry 1900-2300","
+MICU NPN: Late entry 1900-2300
+NEURO: Pt. opens eyes to voice. Follows commands but non-verbal, moaning but no understandable words. Does not appear to be in pain. Moving all extremities in bed R>L. No sz-like activity noted. 
+CV: Afeb. Pt. occasionally bradying down to HR 39-40s with stable BP with MAP >60 via A-line. Dr. [**Last Name (STitle) 4008**] and [**Doctor Last Name 3470**] aware. HR mostly 40s-50s SB with rare PVC. BP 100s-140s/40s-50s via A-line with good waveform. Skin warm and dry with 2-3+ generalized edema. Palpable pedal pulses. 
+RESP: On 2L O2 with O2 Sat >95%. LS clear throughout. Occasional non-productive cough. 
+GI/GU: Abd. soft with positive bowel sounds, no BM. NGT intact and placement confirmed via air auscultation and via CXR earlier in day. No IVF or TF ordered and verified with Dr. [**Last Name (STitle) 4843**]. Urine output low and NS 500cc bolus given with good effect. Na 149 and free water bolus 250cc given as ordered. No IVF ordered at this time. Would benefit from nutrition consult and TF. Foley with clear amber urine. 
+SKIN: Oral thrush with nystatin s&s given via swab to mouth. Duoderm to coccyx intact and repositioned side to side q2hrs. 2 IVs to L arm intact and patent. L radial a-line intact with good waveform. 
+",,
+24631,22350,30587,0,3287-09-25 05:42:00 EST,3287-09-25 05:48:00 EST,6328,"N",69,"Nursing/Other","addendum note","
+addendum note
+Pt's urine output low during night, md order 500 cc ns bolus x2 doses last bolus finishing at 0600 as of 0630 pt has 22 cc's urine, and 250 cc free water x3 doses pt's sodium level decreased to 146, 
+",,
+24631,22350,30587,0,3287-09-25 16:51:00 EST,3287-09-25 17:06:00 EST,1520,"N",69,"Nursing/Other",,"
+
+M/SICU NPN for 7a-7p:          FULL CODE     
+
+
+                    Please See Flowsheet for more Details
+
+Neuro:  Conts. to have periods of moaning with incomprehensible words. However, does have times where [**Doctor First Name **] can understand words, but still difficult.  PERLA.  Conts. with old left sided weakness with favoring of right side.  Soft wrist restraint in place to Right arm.  No s/sx of acute pain/distress.  (Per family)  Pt. is about baseline as he is at the nsg home.
+
+Resp:  2L with adequate sats.  Lung sounds clear/diminished in bases. Non-productive cough. 
+
+CV:  SB with HR 40-60's.  BP stable.  Palp. distal pulses x 4.  Afebrile. Dependent edema noted extremities. P. IV's x 2 to Right arm.
+
+GI/GU:  + BS noted.  Abd. soft distended, appears non-tender.  Tolerating Po intake well.  Requires full assistance with meals. Small formed BM for my time.  Foley remains in place.  MD's requesting Foley to be d/c'ed, but awaiting lab results at present.
+
+Skin:   Impaired with breakdown noted to coccyx area.  Duoderm in place and intact. No other breakdown noted at present.
+
+Plan:  Cont. with current plan of care. Monitor per protocol. Scheduled to be discharge to nursing home tomorrow if bed is available. Awaiting lab results at present.  Needs Foley discontinued. Family in this afternoon and updated by RN.
+",,
+24631,22350,30587,0,3287-09-26 04:16:00 EST,3287-09-26 04:28:00 EST,5197,"N",69,"Nursing/Other",,"
+
+NARRATIVE NOTE:
+
+RESP: PT REMAINS ON 2L N/C WITH SAO2 96-99% LUNGS CLEAR IN UPPER LOBES, DIM IN BASES. TACHYPNIC WITH RR 30-40 RANGE, SHALLOW. NPC. 
+
+CV: B/P HAS RANGED FROM 152/59-113/38. SB WITH H/R 40-50 RANGE. T-MAX 100.1 RECTAL. SKIN W/D TO TOUCH PALE IN COLOR. PPP BILAT. [**1-30**]+ PERIPH EDEMA.
+
+NEURO: ALERT. AT TIMES ANSWERS QUESTIONS APPROPRIATLY. AT TIMES WORDS ARE INCOMPREHENSIBLE. MOANS AT TIMES. LEFT SIDE WEAK, WILL SQUEEZE WITH HAND WEAKLY. DOES NOT WIGGLE TOES ON COMMAND. RIGHT SIDE WITH MORE STRENGTH, MOVEMENT WITH PURPOSE. 
+
+GU/GI: NGT PLACEMENT VERIFIED CORRECT WITH AIR BOLUS AND X-RAY. PT RECIEVED FREE H2O X2 THIS SHIFT. U/O REMAINS LOW, TEAM AWARE. URINE AMBER IN COLOR WITH SEDIMENT. PT DOES NOT TOL LIQUIDS, CHOKES EASILY. DOES TOL DIET BUT EATS VERY SLOWLY. 
+
+SKIN: COCCYX OPEN, NOT VISUALIZED DUE TO DUODERM INTACT.
+
+PLAN: CONT TO MONITOR UNTIL PT IS TRANSFERED TO NSG HOME. TRANSFER WHEN THERE IS A BED. CONT TO OBSERVE PT FOR S/SX OF CVA.
+",,
+24631,5830,30588,1,3287-10-12 18:43:00 EST,3287-10-12 19:06:00 EST,980,"Y",69,"Nursing/Other",,"
+
+Above note is for Mr. [**Known patient firstname 4844**] [**Known patient lastname **] not Mr. [**Last Name (Titles) **]. 
+",,
+24631,5830,30588,0,3287-10-12 18:43:00 EST,3287-10-12 19:01:00 EST,980,"N",69,"Nursing/Other",,"
+
+Nursing Note (1730-1900hrs)
+
+Mr. [**Name13 (STitle) **] was recently discharged from [**Hospital1 3**] with aspiration pneumonia and probably bacteremia. Discharged on levo and flagyl.  Received am meds at nursing home at 6am and 9am; pt later found to be unresponsive with apnea; ambulance called and pt oxygenated en route; upon arrival to EW, ABG 7.36/74/240 with BIPAP.  Pt then transferred to EW with bilateral pleural effusions/infiltrates. Pt has a significant PMhx for CHF, heart murmur with EF 20-30%, mod AR, severe MR, mild AS, dilated LA, LVH with gloval hypokinsis, RVH, sepsis, AODM, cellulitus, lipoproteinemia, HTN, gout, thrombophlebitis, atypical CP, (+)PPD inpast, atrial septal defect, left hemiparesis.
+
+Review of systems:
+Neuro: Opening eyes to verbal stimuli. No attempts to verbalize; withdraws minimally to painful stimuli.  PERL. Left hemi.
+
+CV: Brady 40-50's, SR. BP 120-130/50's. #18 RLA, patent; attempted to draw peripheral labs without success, medical team promptly notified, will obtain labs with placement of a-line. Three small open areas to coccyx, no drainage; duoderm placed. Skin dry.  
+
+Resp: LS diminshed to bases; coarse to upper lobes. Appeared to be failing with nonrebreathing on arrival; placed on BIPAP at approx 1830hrs. Team to obtain ABG. Resp 20's, no cough noted. Saturation 100%. 
+
+Gi/GU: Awaiting feeding pump to begin TF via peg. Foley patent for amber urine for adequate amts. Received 250cc bolus in EW. Small semi-loose stool on arrival to floor, OB neg. Abd distended, soft.
+
+Endo: Awaiting arrival of TF before giving NPH. 
+
+Social: No contact with family; Per EW nurse, granddaughter and sister were in EW with patient. Full Code.
+
+Plan: Pulmonary toileting, CPT; BIPAP. Monitor labs/abgs. Attempt to obtain second peripheral IV. Initiate TF and insulin therapy. IV antibx. Frequent position changes for skin care. Await cultures. 
+",,
+24631,5830,30588,0,3287-10-12 20:57:00 EST,3287-10-12 21:29:00 EST,6328,"N",69,"Nursing/Other","Nursing Assessment Note 1900-0700","
+Nursing Assessment Note 1900-0700
+Pt Report received from [**Name8 (MD) **] RN, Pt found lying in bed on right side, with Bipap mask on
+
+NEURO:  Pt opens eyes to voice and will squeeze hands and wiggle toes to command, but pt is baseline non-verbal, but does moan with regular frequency, PERL, Pt has weak cough reflex,
+
+CV:  Pt's vss, afebrile, Pt assessed for pain using non-verbal cues and has no pain,  Pt has #18 in right hand which is patent and intact, pt receiving 250 cc NS bolus for low urine output, otherwise not receiving iv fluids,  Pt's skin is wnl for race, warm, and dry, PP + & =, very difficult to palpate, but pt has good flow using doppler,  Pt has +2 upper extremity edema and +1 lower extremity edema, pt also has scrotal & penile edema
+
+RESP:  Pt's lung sounds are clear, but coarse, it is sometimes difficult to assess lung sounds due to pt frequent moaning, pt on Bipap 5-15-30%, with sats 100%, pt is not noted to have cough or sob
+
+GI:  Pt is npo, but has a G-tube & placement confirmed via air bolus, Pt started on promote with fiber @ 50 cc/hr, with goal rate of 70 cc/hour, pt's bowel sounds +, with soft slightly distended abd
+
+GU:  Pt's foley draining amber urine with sediment, output is low, md notified and ordered 250 cc NS bolus
+
+Skin: Pt has duoderm on coccyx, for stage 2 decubitis, G-tube insertion site wnl, 
+
+ENDO:  Pt due for blood sugar at 0000, Pt received scheduled 4 units nph sc in left arm
+",,
+24631,5830,30588,0,3287-10-12 22:46:00 EST,3287-10-12 22:48:00 EST,6328,"N",69,"Nursing/Other","addendum note","
+addendum note
+Pt had high minute volumes, pressure support decreased initially to 5, but minute volume slightly low, so it was increased to 10, with good minute volumes, continue to monitor
+",,
+24631,5830,30588,0,3287-10-12 23:32:00 EST,3287-10-12 23:33:00 EST,6328,"N",69,"Nursing/Other","Addendum Note","
+Addendum Note
+Pt's urine output remains low, md notified, ordered 250 cc NS [**Last Name (LF) 1456**], [**First Name3 (LF) 34**] also send urine for lytes
+",,
+24631,5830,30588,0,3287-10-13 03:27:00 EST,3287-10-13 03:29:00 EST,6328,"N",69,"Nursing/Other","Addendum note","
+Addendum note
+pt's tube feed residual less than 5 cc's, rate increased to goal rate of 70 cc/hr, pt inc of small amount stool
+",,
+24631,5830,30588,0,3287-10-13 05:13:00 EST,3287-10-13 05:17:00 EST,731,"N",69,"Nursing/Other",,"
+
+Resp Care,
+Pt. remains on mask ventilation overnoc on IPS 10 30% 5peep. VT 400's, RR 20's. ABG earlier in shift 7.40/65/133/42 on 40% IPS 15. Fio2 decreased to 30%, and IPS decreased to 10 due to high VT. Sat 98%, Albuterol/Atrovent MDI's as ordered. May trial off mask ventilation this am.
+",,
+24631,5830,30588,0,3287-10-13 05:35:00 EST,3287-10-13 05:38:00 EST,6328,"N",69,"Nursing/Other","Addendum Note","
+Addendum Note
+Pt getting restless, trying to pull off Bipap mask, Pt's Bipap d/c'd and placed on 40% mist mask, Pt tol mask well, pt now much more clam and relaxed not trying to pull mask off. Pt's sats maintain at 99-100% and rr 18-24, Will continue to monitor
+",,
+24631,5830,30588,0,3287-10-13 06:58:00 EST,3287-10-13 06:59:00 EST,6328,"N",69,"Nursing/Other","Addendum Note","
+Addendum Note
+Pt has one episode with hr briefly failing to 39, pt completely asymptomatic, and increased spontaneously to baseline hr, no further episodes noted
+",,
+24631,5830,30588,0,3287-10-13 17:49:00 EST,3287-10-13 17:53:00 EST,69,"N",69,"Nursing/Other",,"
+
+Patient remains on 35% cool mist all day without difficulty.Bronchial hygien done by RN PRN. Treated with 2.5 mg albuterol * 2. BS diminished without wheezes,patient (+) on his I/O 1160 ccs.Vent will be left for NIV over night. If not used it will be pulled tomorrow.
+",,
+24631,5830,30588,0,3287-10-13 18:29:00 EST,3287-10-13 18:46:00 EST,863,"N",69,"Nursing/Other",,"
+
+MICU Nursing Progress NOte 7a-7p
+
+78 y/o chronically ill male transferred from assisted living yesterday w/ episode of brief apnea in cycle of cheynbe-stoke breathing, hypotension. Treated w/ IVF bolus 250ccx3, BIPAP, then NRB improving to aerosol mask. Now HD and resp stable. Awaiting bed on floor. Refer to transfer note.
+Neuro-
+Moves RUE, no movemnt of LUE, lower extremities. Interm FC, tracking, nodding yes/no to simple questions.
+resp-
+.35 aerosol mask, RR 30-40 irreg alt w/ reg rhythm, sat 99-100%, BS course upper, lower diminished. Albuterol nebs q6h.
+CV-
+HR 48-65 SB, SR, w/ some 1st degree AV block. BP 138-148/45-60, Ace of captopril restarted 6.25mg tid.
+u/o 30-50cc/hr, lytes wnl, Bun/Cr improved 35/.7
+GI-
+Promote w/ fiber@70/hr tol well. Large stool this am.
+Endo-
+Fixed dose of NPH bid, Humalog ss givne x1, BS 140-194
+Social-
+Family memebers visiting this evening. Questions/concerns answered, medical status updated. Discussed options of family discussing and reevaluating aggressive treatment interventions. Family to discuss w/ each other.
+A/P
+Pt resp status improved to near baseline. levo and flagyl cont.
+Monitor CV, renal, GI, and Endocrine status 
+Provide information to family to assist discussion of comfort non- aggressive care as a priority.
+
+",,
+24631,,30588,0,3287-10-14 05:15:00 EST,3287-10-14 05:34:00 EST,6173,"N",69,"Nursing/Other",,"
+
+Shift Update-
+
+Neuro- Pt awake and moaning through the night. Pt occasionally attempts to vocalize, but speech is very garbled. Pt squeezes R hand and wiggles toes to command. Slight movement of L arm noted x1. Pt does try to pull face mask off with R hand.
+
+Cardiac- HR 38-60, SBP 110-130. SB with occasional PVC's.
+
+Resp- Pt remained on 40% cool face mask overnight. O2 sats 95-100%.  Occasional periods of [**Last Name (un) **]-[**Doctor Last Name **] pattern breathing seen. Pt's HR dropped to 38 during this time.  Diff. to assess breath sounds d/t pts constant moaning. BIl bases with crackles.
+
+GI- Promote with Fiber running at 70cc/hr. Held for several hours d/t high residual. TF's restarted @ 0100. Abdomen is soft with + bs. PEG tube site d/i without any redness.  Large,soft, brown stool overnight.
+
+GU- 30-40 cc/hr of clear, yellow urine per foley cath.
+
+Pain- Difficult to assess pain scale d/t pt being non-verbal.  Pts HR and BP did not reflect any signs of pain, nor did any non-verbal cues.
+
+Skin- Duoderm on coccyx intact. Skin otherwise intact.
+
+Family- Pts nephew @ bs at the beginning of the shift. Dr. [**Last Name (STitle) **] updated family.
+
+Plan- Pt.is C/O
+      Monitor resp. status
+      
+
+",,
+24631,,30588,0,3287-10-14 12:09:00 EST,3287-10-14 12:32:00 EST,1277,"N",69,"Nursing/Other",,"
+
+pt is afebrile and vital signs stable. will d/c back to nursing home today
+neuro: perl pt understands commands and has purposeful movement in all extremities
+card: brady cardic 50-6- rate with few pvcs. bp stable with sys 130-140.
+resp: no secretions. lung snds are clear at upper lobes and dinished at lower lobes. o2 sat is 97 -100% on 5l nc oxygen.
+gi: inc of stool today. tube feedings promote with fiber at 70cc/hr with 100 cc free h2o q 6hr gives. peg placement confirmed with air ausc in abd. residual is 35 cc undigested tube feeding.
+gu: output 30-50 cc hr with lungs clear. edema [**1-30**] + in extremities.
+skin: 2 stage 1 decubiti on either side og coccyx at fold with no drainage covered with duoderm. no other breakdown. PEG tube in place and sm amt of crusty bld at exit site
+endo: required coveerage for glucose checked q6h during night and recieved NPH 4 units this am. see care vue for q 6h fingerstick levels.
+ID: pt remains afebrile and on 3 antibx. see discharge summary from MD [**First Name (Titles) **] [**Last Name (Titles) 4845**] meds.
+plan: d/c to nursing home today. 
+",,
+24631,6473,30589,0,3287-10-18 16:39:00 EST,3287-10-18 17:04:00 EST,760,"N",69,"Nursing/Other","Smicu nsg admission note","
+Smicu nsg admission note
+78yo NH resident admitted multiple times with resp failure/aspiration who was just recently d/c'd from micu after admission for resp failure presented to ew today with hypoxia requiring intubation. See fhpa for details pmh/hpi.
+R.O.S.
+Resp-Intub/vented initially on ac changed to ps 10 5peep with stable abg. Sats 100% on 35%. Suctioned for minimal secretions. Given 20mg lasix for increased pleural effusions on x-ray.
+
+Cardiac- Bp stable. Hr 48-58sb without ectopy. Recieved one liter of ns in ew. No iv fluid now.
+
+Gi- Abdomen soft non-tender. Peg tube in place. Pt started on tube feeds fs promote with fiber at 10cc/hr to be increased q4hrs 10cc to goal of 70cc/hr. Will stop at 12m for possible extub in am. Will be following with s/s insulin.
+
+Neuro- Initially nonresponsive pupil equal and reactive. Later pt becoming more awake able to squeeze hands on command. Denies pain.
+
+Id- Afebrile. Cultured in ew.
+
+Skin- Multiple stage 2 ulcers note coccyx. Duoderm applied.
+Also with swelling all extremities. Lt arm larger then rt.
+",,
+24631,6473,30589,0,3287-10-18 16:46:00 EST,3287-10-18 16:49:00 EST,1039,"N",69,"Nursing/Other","Respiratory Care","
+Respiratory Care
+Pt recieved on A/C ventilation weaned to PSV tol well. Last abg746/58/87/42/14/100.  plan to diresis and extube in am.
+",,
+24631,6473,30589,0,3287-10-19 02:42:00 EST,3287-10-19 03:25:00 EST,6328,"N",69,"Nursing/Other","Nursing Assessment Note 1900-0700","
+Nursing Assessment Note 1900-0700
+NEURO:  Pt intubated, but will follow commands to squeeze right hand and slightly wiggles toes on right foot, left arm and leg flaccid, PERL, , Pt has + cough/gag reflexes, 
+
+CV:  Pt's vss, febrile to 99.8 axillary, pt has #18 in right a/c, and #20 in left lower arm, both are patent and intact, flushing well, Pt denies pain by not squeezing my hand when asked, Skin is wnl for race, warm, and dry, pp + & =, but weakly palpable, Pt has +2 - +3  edema in left arm and leg, and +1 - +2 edema in right arm, and leg,  Pt has stage 2 ulcer on coccyx, and has duoderm intact over ulcer, 
+
+RESP:  Pt's lung sounds are coarse with diminished bases, Pt received 20 mg Lasix IV x 2 doses, with fair effect, Pt on cpap 5-10-35%, but between 0000 and 0130, pt had difficulty obtaining sufficient Min volumes and had frequent apnea despite numerous different approaches, Pt changed to MMV RR-12, TV-400, PEEP-5, PS-10 with 30 % Fio2, Min volumes now around 4.8 L/min, Sats maintained above 94% at all times even with periods of apnea, Pt suctioned for large amount thick yellowish sputum and clear thin oral secretions
+
+GI:  Pt has peg tube with tube feeding of promote with fiber started at 10 cc/hr, increased to 20 cc/hr because of no residual, Pt's BS +, with softly distended abd, Pt inc of small amount of stool, pt given 150 cc free water at 0000, and then tube feeding shut off, so pt may be extubated later today,
+
+GU:  Pt's foley draining clear yellow urine, most of night pt's urine output qs, but it slowed to 24, then 22 cc/hr, md ordered 20 mg IV lasix, and urine output picked up to 40 cc the next hour
+
+ENDO:  Pt's blood sugar was 111, no coverage needed, pt's am nph insulin will be held as pt is npo and not receiving tube feeding for extubation later today
+",,
+24631,6473,30589,2,3287-10-19 05:30:00 EST,3287-10-19 05:48:00 EST,1047,"Y",69,"Nursing/Other","Respiratory Care:","
+Respiratory Care:
+RSBI recorded belongs to anotheer patient.Patient was changed to MMV to accomodate spontaneous respiration, while establishing a minial ventilatory threshold.
+",,
+24631,6473,30589,0,3287-10-19 05:30:00 EST,3287-10-19 05:34:00 EST,1047,"N",69,"Nursing/Other","Respiratory Care:","
+Respiratory Care:
+Patient changed from CPAP/PSV due to increasing lengths of apnea.  Morning abg results revealed a respiratory alkalosis with very mild hypoxmeia.  
+
+RSBI = 113.2 on 0-PEEP and 5 cm PSV.
+",,
+24631,6473,30589,1,3287-10-19 05:30:00 EST,3287-10-19 05:47:00 EST,1047,"Y",69,"Nursing/Other","Respiratory Care:","
+Respiratory Care:
+RSBI recorded belongs to anotheer patient.Patient was changed to MMV to accomodate spontaneous respiration, while establishing a minial ventilatory threshold.
+",,
+24631,6473,30589,0,3287-10-19 06:34:00 EST,3287-10-19 06:38:00 EST,6328,"N",69,"Nursing/Other","Addendum Nursing Note","
+Addendum Nursing Note
+Pt  had uneventful night, Pt turned and repositioned with comfort measure q2 hours, pt remain edematous with left extremities worse than right extremities,  Pt's urine output qs, pt received total of 2 doses of lasix 20 mg IV, with fair effect,  Pt conintues to follow commands to squeeze right hand and wiggle toes on right foot, Pt's blood sugar 111, no coverage needed, pt's free water bolus and NPH insulin dose held as pt is npo for extubation today;  Continue to monitor
+",,
+24631,6473,30589,0,3287-10-19 15:52:00 EST,3287-10-19 16:19:00 EST,760,"N",69,"Nursing/Other","Smicu nsg progress note","
+Smicu nsg progress note
+Neuro- Alert and able to follow simple commands (squeeze hands wiggle toes). Does grimmice with turning. Pt found twice reaching up with rt arm and pulling at et tube. Rt hand restrained for safety.
+
+Resp- Remains intub on 7ps 5peep. Cont with episodes chenyes [**Doctor Last Name **] resp. Suctioned for minimal secretions. Sats 97-100% on 30%fio2. Decision made to hold off on extub and diuresis. Given 20mg lasix/125 diamox. Pt ~ 600cc neg as of 4pm.
+
+Cardiac- Cont with bradycardia stable bp. Pt restarted on captopril
+
+Gi- Abdomen soft without tenderness. Passing sm amt brown stool. Am hct 29. No s/s bleeding. Hct re-checked at 4pm. Clot sent to bb. Pt restarted on tube feeds at 20cc/hr to be advanced to goal of 70cc/hr. Being covered with s/s insulin. Fix dose insulin held today. Will again be npo after 12m for possible extubation.
+
+Id- Remains afebrile with normal wbc's.
+
+Social- Still unable to contact pt's daughter [**Name (NI) 4846**] who is health care proxy. This has been a problem in the past and according to pt's sister, a meeting had been planned for Monday in the nursing home. We have contacted legal services here and plan to persue change in [**Location (un) **] care proxy. 
+",,
+24631,6473,30589,0,3287-10-19 18:20:00 EST,3287-10-19 18:24:00 EST,1039,"N",69,"Nursing/Other","Respiratory Care","
+Respiratory Care
+Pt. weaned to PSV 7/5 tol well. RSBI 132. PT ordered for mdi and recieved later in shift, Et-tube retaped to 23 cm. Awaiting family meeting to decide on HCP.
+",,
+24631,6473,30589,0,3287-10-20 00:40:00 EST,3287-10-20 01:02:00 EST,6328,"N",69,"Nursing/Other","Nursing Assessment Note 1900-0700","
+Nursing Assessment Note 1900-0700
+NEURO:  Pt Alert and follows commands to squeeze right hand and wiggle toes on right foot, Pt flaccid on left side for old cva,  PERL, Pt has + cough/Gag Reflexes, Pt slightly anxious and agitated, found attempting to self extubate at 0000, Pt wrist restriant [**Name6 (MD) 4847**] and md notified, pt's lip line was 21-22 cm, with baseline at 23, breath sounds revealed greater air movement on right than left, but tidal volumes and minute volumes remained constant, sats 96-98%, CXR ordered and obtained, currently awaiting results, Pt medicated with versed 0.5 mg initially at 0030 & will monitor for effectivness
+
+CV:  Pt's vss, afebrile, pt deneis pain by not squeezing hand when asked to if he had pain, Pt has #20 in left wrist and #18 in right A/C, both are patent and intact, Skin is wnl for race, warm, and dry, pp + & =, with +1 edema on right extremities and +2 edema on left extremites, Pt received Lasix 20 mg IV push to obtain goal of 1.5 liters negative in fluid balance at 2130
+
+RESP:  Pt's lung sound are coarse and diminshed in bases, Pt intubated with 7.5 ETT at 23 cm lip line, Pt attempted to extubate self, but was stopped, pt pulled ETT out to 21-22 cm lip line, Tube repositioned and CXR obtained awaiting results tidal volumes and minute volumes remain constant, sats 98%, Pt suctioned for moderate amount thick yellowish sputum, and minimal amount thin clear oral secretions, Pt on CPAP with PS-7 PEEP-5 Fio2 30%, with tidal volumes 230-300 and minute volumes 7.2-8.0 L
+
+GI:  Pt npo after midnight, tube feeding stopped at rate of 40 cc/hour, residual less than 10 cc's, 150 cc free water bolus given and tube clamped, BS+, with softly distended abd, Pt inc small amount stool x2
+
+GU: Pt's foley draining clear yellow urine qs
+
+ENDO:  Pt's 0000 blood sugar was 144, no coverage needed
+",,
+24631,6473,30589,0,3287-10-20 01:01:00 EST,3287-10-20 01:02:00 EST,6328,"N",69,"Nursing/Other","Addendum Note","
+Addendum Note
+Pt remains restless, medicated with additional 0.5 mg Versed IV push, continue to monitor
+",,
+24631,6473,30589,0,3287-10-20 05:56:00 EST,3287-10-20 05:59:00 EST,1047,"N",69,"Nursing/Other","Respiratory Care:","
+Respiratory Care:
+Patient remained on ventilatory support (CPAP/PSV) with no parameter changes made throughout the night.  No morning abg results at this time.
+
+RSBI = 73.6 on 0-PEEP and 5 cm PSV.
+",,
+24631,6473,30589,0,3287-10-20 05:59:00 EST,3287-10-20 06:02:00 EST,6328,"N",69,"Nursing/Other","Addendum Note","
+Addendum Note
+Pt calm rest of night after receiving total of 1 mg of versed, Pt's 0600 blood sugar was 112, no coverage or fixed dose insulin given as pt is npo without any tube feeding infusing since midnight because pt may be extubated this am, pt also not given free water bolus d/t npo
+",,
+24631,6473,30589,0,3287-10-20 13:56:00 EST,3287-10-20 14:01:00 EST,511,"N",69,"Nursing/Other",,"
+
+RESP: BS'S CLEAR. O2 SATS IN HIGH 90'S. NO VENT CHANGES TODAY. HO TO DRAW ABG'S. SUCTIONED FOR SCANT-SMALL THICK WHITE SECRETIONS.
+GI: NPO. PEG FUNCTIONING WELL.
+RENAL: 40MG LASIX IVP GIVEN WITH MODERATE DIURESIS. 
+NEURO: APPEARS ALERT. SEEN TO MOVE LEFT ARM AS WELL AS RIGHT. CONT. TO BE RESTRAINED. 
+CV: SB WITH PVC'S AND RUN OF SVT. NO CHANGE IN HEMODYNAMICS. CAPTOPRIL INCREASED TO 12.5MG. EXTRA DOSE OF 6.25 GIVEN AT 12NOON. 
+ENDOC; NO SSI REQUIRED.
+ID: AFEBRILE. ON ANTIBIOTICS. 
+SKIN INTEGRITY: DUODERM INTACT ON COCCYX. 
+SOCIAL: SISTER AND NEPHEW HERE TO VISIT. HIS NEPHEW WILL ATTEMPT TO CONTACT PT'S DAUGHTER TOMORROW. NO CALLS FROM DAUGHTER TAKEN. 
+PLAN: EXTUBATE THIS AFTERNOON. CONT. TO BE FULL CODE.
+
+",,
+24631,6473,30589,0,3287-10-20 14:42:00 EST,3287-10-20 14:43:00 EST,848,"N",69,"Nursing/Other","Respiratory Care:","
+Respiratory Care:
+Pt extubated & placed on 40% cool mist via face tent.  Tolerating well at this point.  Will initiate mask ventilation if indicated.
+",,
+24631,6473,30589,0,3287-10-20 18:16:00 EST,3287-10-20 18:29:00 EST,348,"N",69,"Nursing/Other","3-7 pm npn","
+[**2-2**] pm npn
+RESP: pt doing well post extubation on 50% face tent,  rr~20, O2 Sats 98%   lungs w/ coarse breath sounds, orally suctined for tan secretions, pt w/ good cough, poor gag reflex. 
+
+CV:  bp stable 135/59  HR  54 SB  occ pvc,  K~4.0   pt w/ [**11-29**] + edema on arms and feet   remains on Captopril 12.5 mg po q 8 hrs.  continues w/ good UO  40-50 cc/hr 
+
+GI: tube feeds restarted  FS Promote w/ fiber @ 70 cc/hr   free H2O 150 cc q 6 hrs.   
+
+ID:  afebrile  WBC 6.3  pt remains on Levofloxacin 500 mg po q 24 hrs. 
+
+NEURO:  unable to understand pt,  mumbling.  when asked to squeeze my hands, he was able to do both, and able to wiggle both feet.  hands unrestrained post extubation.  PERLA
+
+SKIN:  duoderm on coccyx,  turned q 2 hrs. 
+",,
+24631,6473,30589,0,3287-10-21 05:29:00 EST,3287-10-21 05:37:00 EST,1197,"N",69,"Nursing/Other","MICU NPN:","
+MICU NPN:
+NEURO: Alert, follows commands intermittently and MAE in bed R >L. Able to wiggle toes on both sides and squeeze hands on both sides but R side much stronger.  Speech mumbled and unable to understand. Does not appear to be in pain.
+CV: Afeb. HR 40s-60s SB/SR with occ. PACs/PVCs. BP stable. Skin warm and dry with palpable pedal and radial pulses. [**1-30**]+ edema to extremities. Extremities cool to touch. 
+RESP: Continues on 50% O2 via face tent with O2 Sat >95%. Productive cough with secretions able to be suctioned out of pt's throat with Yankar. Very weak/absent gag. RR 20s-30s. 
+GI/GU: Abd. soft with positive bowel sounds. No BM. G-tube intact with TF at 70cc/hr with minimal residuals. HOB kept >45 degrees to prevent aspiration. Foley with clear yellow urine 30cc/hr or more.
+SKIN: Intact. Duoderm intact to coccyx. Scrotal edema noted. Repositioned side to side.
+",,
+24631,6473,30589,0,3287-10-21 19:22:00 EST,3287-10-21 19:31:00 EST,209,"N",69,"Nursing/Other","FINARD 4 ICU NPN 0700-1900","
+[**Hospital Ward Name 312**] 4 ICU NPN 0700-1900
+Called out the floor. Note done. Update prior to transfer. Pt made DNR/DNI after family meeting today. O2 2L NP alt with 40% face tent. RR 20's-30's. Desats to 86% when mouth breathing. BS clear. will cough secretions back to throat. Lasix restarted. fair response to first dose. second dose given early. 
+Occas moans. Does not follow commands. 
+A/P: Stable. 
+Will follow fld volume status.
+
+",,

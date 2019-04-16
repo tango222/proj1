@@ -1,0 +1,777 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+24049,22925,,,3408-04-29 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+
+Admission Date:  [**3408-4-29**]       Discharge Date:  [**3408-5-14**]
+
+Date of Birth:   [**3345-10-12**]       Sex:  F
+
+Service:  [**Location (un) **]
+
+CHIEF COMPLAINT/REASON FOR ADMISSION:  Hyperkalemia and acute
+renal failure.
+
+HISTORY OF THE PRESENT ILLNESS:  Mrs. [**Known patient lastname 4471**] is a
+62-year-old female with a past medical history significant
+for alcoholic pancreatitis and cirrhosis, type 3 diabetes
+mellitus, and depression.  The patient presented to the [**Hospital1 930**] Emergency Room complaining of
+nausea, anorexia, and weakness.  These symptoms have worsened
+over the past week.  She denies any nausea, vomiting,
+diarrhea.  She has not noted any decrease in urine output.
+In the emergency department, she was found to have a
+creatinine of 11, potassium of 8.4, pH of 7.20.  The EKG
+revealed evidence of increased QRS interval widening and
+peaked T waves.  The patient was given Kayexalate, insulin
+and D50 immediately and then had a left Quinton subclavian
+line placed emergently for emergency hemodialysis.  She was
+then transferred to the medical Intensive Care Unit for
+further observation.
+
+PAST MEDICAL HISTORY:
+1.  Alcoholic cirrhosis.
+2.  Type diabetes mellitus, diet controlled, status post
+partial gastrectomy with a Billroth II in [**3388**].
+3.  History of multiple falls.
+4.  Gastroesophageal reflux disease.
+5.  Depression, status post appendectomy, status post total
+abdominal hysterectomy, bilateral salpingo-oophorectomy,
+status post laminectomy.
+6.  Degenerative joint disease, status post right shoulder
+surgery.
+7.  History of chronic pancreatitis, pancreatic
+insufficiency, history of recurrent lower extremity
+cellulitis.
+
+MEDICATIONS ON ADMISSION:
+1.  Aldactone 25 mg p.o.q.d.
+2.  Carafate 1 mg p.o.t.i.d.
+3.  Inderal 60 mg p.o.q.d.
+4.  K-Dur 10 meq p.o.q.d.
+5.  Lasix 40 mg p.o.q.d.
+6.  Pancrease 2 tabs t.i.d.
+7.  Prilosec 20 mg p.o.q.d.
+8.  Rhinocort.
+9.  Trazodone 50 mg q.h.s.
+10. Ultram 15 mg p.r.n.
+11. Verapamil 40 mg p.o.b.i.d.
+12. Vioxx 25 mg p.o.q.d.
+13. Zyprexa 10 mg q.h.s.
+
+ALLERGIES:  The patient is allergic to VANCOMYCIN, WHICH
+LEADS TO A SEVERE RASH; DEMEROL.
+
+SOCIAL HISTORY:  The patient lives alone in [**Location 4472**].
+She is close with her son.  She quit alcohol use in the
+1980s.  She is homebound.
+
+FAMILY HISTORY:  The patient's father died of a myocardial
+infarction at the age of 49.
+
+PHYSICAL EXAMINATION:  GENERAL:  The patient was in bed in no
+apparent distress with occasional twitches.  HEENT:  Pupils
+equal, round, and reactive to light.  Extraocular muscles are
+intact.  Oropharynx dry.  NECK:  No JVD, no lymphadenopathy.
+LUNGS:  Lungs were clear to auscultation bilaterally.
+CARDIOVASCULAR:  Regular rate and rhythm, no murmurs, rubs,
+or gallops.  ABDOMEN:  Midline scar, soft, nontender,
+nondistended, good bowel sounds, no hepatosplenomegaly.
+EXTREMITIES:  The patient had an area of erythema, warmth,
+over the dorsum of her right foot along with an area of
+erythema over her inferior/anterior tibia consistent with
+cellulitis.
+
+LABORATORY DATA:  Laboratory data revealed the following:
+White count 5.5, hematocrit 28.3, platelet count 297, sodium
+124, potassium 8.4, chloride 105, bicarbonate 7, BUN 144,
+creatinine 11.9, glucose 87.  Urinalysis revealed the pH of
+5.0 with one white blood cell and two white blood cells.  ALT
+12, AST 11.  Alkaline phosphatase 225, amylase 40, total
+bilirubin 0.3, CK 127, less than 0.3, lipase 9, albumin 3.5,
+calcium 6.9, phosphatase 12.2, hematocrit 1.6, pH 7.20, pCO2
+24, PAO2 116 on room air.
+
+Chest x-ray revealed no acute cardiopulmonary disease.
+
+Renal ultrasound was performed showing bilaterally small
+echogenic kidneys consistent with medical renal disease.
+There was no evidence of hydronephrosis or stones.
+
+HOSPITAL COURSE:
+
+PROBLEM LIST:
+
+RENAL FAILURE:  The patient required hemodialysis three times
+a week while she was in the hospital, being stable on
+hemodialysis.  Surgery Department was consulted and attempted
+to place an A-V graft in her right arm, but they were
+ultimately unsuccessful.  She will need followup with the
+Department of Surgery at a later date for them to attempt a
+graft of fistula at another site.  While in the operating
+room, she had a right IJ Perm-A-Cath placed for hemodialysis.
+The left subclavian Quinton line, which was inserted on
+admission, was discontinued before discharge.  The exact
+cause of her renal failure was unclear.  Acute and chronic
+renal failure may have been precipitated by her NSAID use.
+
+MENTAL STATUS CHANGES:  The patient became nonverbal after
+her first course of hemodialysis.  She remained nonverbal for
+four days and eventually returned to her baseline mental
+status.  She became talkative and returned to her baseline
+mental status five days afterwards.  During this time, head
+CT was done, which revealed no evidence of intracranial
+pathology.  EEG was done, which showed a result consistent
+with widespread encephalopathy likely secondary to her renal
+failure.  Mental status remained stable throughout the rest
+of her hospital stay.
+
+LOWER EXTREMITY CELLULITIS:  The patient was started on
+Levofloxacin, Flagyl, and Oxacillin for treatment of her
+cellulitis.  On day #10, she was switched to dicloxacillin
+with continued improvement of the affected area.  She will
+need to complete a total of a 14-day course of Levofloxacin,
+Flagyl, and Dicloxacillin.
+
+LINE TIP INFECTION:  Because the femoral and hip culture grew
+Methicillin resistant Staphylococcus aureus and
+coagulase-negative staph, the patient was treated with a
+five-day course of Linezolid for possible line infection.
+She was treated with Linezolid rather than Vancomycin due to
+her confirmed allergy to Vancomycin.  Repeat blood cultures
+were no growth.  The patient remained afebrile, except for
+minor temperature spike of 99.5 four days prior to admission.
+
+FLUIDS, ELECTROLYTES, AND NUTRITION:  The patient was started
+on tubes feeds for nutrition upon admission.  She required
+frequent electrolyte repletion on the first several days of
+admission, but became stable after several courses of
+hemodialysis.  The patient was also started on Vitamin B12
+injections after discovering that her vitamin B12s were low.
+After the mental status had improved, two swallowing studies
+were done, which revealed that she was aspirating only thin
+liquids.  She was kept on a ground-solid renal diet with
+nectar-thickened liquids.  She was given
+...................at breakfast, lunch, and dinner and
+thiamine and Nephrocaps to for vitamin supplementation.  She
+was continued on her outpatient dose of pancrease for her
+pancreatic insufficiency.
+
+CONDITION ON DISCHARGE:  Stable.
+
+DISCHARGE STATUS:  The patient was discharged to a
+rehabilitation facility.
+
+MEDICATIONS ON DISCHARGE:
+1.  Protonix 40 mg p.o.q.d.
+2.  Thiamine 100 mg p.o.q.d.
+3.  Tramadol 25 mg p.o.q.4h to 6h.p.r.n.
+4.  Vitamin B12 100 mcg IM q. month.
+5.  Calcium carbonate 500 mg p.o.t.i.d. hold if the phosphate
+is less than 4.5.
+6.  Miconazole powder 2% applied to the feet b.i.d.
+7.  Nephrocaps one p.o.q.d.
+8.  Pancrease two caps p.o. t.i.d. with meals.
+9.  Heparin 5000 units subcutaneously b.i.d.
+10. Metoprolol 12.5 mg p.o.b.i.d.
+11. EPO alpha 4000 units subcutaneously IV q Monday,
+Wednesday, and Friday at hemodialysis.
+12. Trazodone 50 mg p.o.q.h.s.p.r.n.
+13. Tylenol 650 mg q.4h to 6h.p.r.n. pain.
+14. Levofloxacin 250 mg q.4h.to 8h.times two days.
+15. Dicloxacillin 250 mg q.6h.p.o. for two more days.
+16. Flagyl 500 mg p.o.b.i.d. times two more days.
+
+FOLLOW-UP CARE:  The patient is to followup with her PCP, [**Last Name (NamePattern4) **].
+[**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) 4473**] in one week.
+
+PROBLEM LIST:
+
+1.  End-stage renal disease on hemodialysis.
+2.  Bilateral lower extremity cellulitis
+3.  Type 2 diabetes mellitus.
+4.  Alcoholic cirrhosis, status post partial gastrectomy with
+Billroth II.
+5.  History of multiple falls.
+6.  Gastroesophageal reflux disease.
+7.  Depression.
+8.  Status post appendectomy.
+9.  Status post total abdominal hysterectomy, bilateral
+salpingo-oophorectomy, status post laminectomy.
+10. Osteoarthritis/degenerative joint disease.
+11. Status post right shoulder injury.
+12. Chronic pancreatic insufficiency secondary to chronic
+pancreatitis.
+
+                            DR.[**Last Name (STitle) 3132**],[**First Name3 (LF) **] 12-658
+
+Dictated By:  [**First Name11 (Name Pattern1) **] [**Initial (NamePattern1) **] [**Last Name (NamePattern1) **], M.D.
+MEDQUIST36
+D:  [**3408-5-13**]  15:12
+T:  [**3408-5-13**]  16:07
+JOB#:  [**Job Number 4474**]
+Signed electronically by: DR. [**First Name11 (Name Pattern1) **] [**Initial (NamePattern1) **]. [**Last Name (NamePattern1) 3132**]
+ on: MON [**3408-6-20**] 10:45 AM
+(End of Report)
+
+
+",,
+24049,22925,,,3408-04-29 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3408-4-29**] 7:39 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 15076**]
+     Reason: check line placement
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      62 year old woman with change of scl line over wire.
+      check placement.
+     REASON FOR THIS EXAMINATION:
+      check line placement
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Evaluate new subclavian line placement.
+     
+     COMPARISON:  [**3408-4-29**] at 15:16.
+     
+     CHEST, SINGLE VIEW:  The heart size is normal.  The aorta is minimally
+     unfolded.  The lungs are clear without focal opacities or effusions.  No
+     pneumothorax is identified.  A new left subclavian catheter is seen with tip
+     at the junction of the left brachiocephalic vein and SVC.  The right humerus
+     is missing.
+     
+     IMPRESSION: Left subclavian catheter tip at left brachiocephalic vein/SVC
+     junction. No evidence of pneumothorax.
+
+",,
+24049,22925,,,3408-04-29 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3408-4-29**] 7:12 PM
+     RENAL U.S. PORT                                                 Clip # [**Clip Number (Radiology) 15075**]
+     Reason: r/o obstruction
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      62 year old woman with arf of unclear etiology.
+     REASON FOR THIS EXAMINATION:
+      r/o obstruction
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Acute renal failure of uncertain etiology.
+     
+     RENAL ULTRASOUND:  The right kidney measures 8.1 cm.  The left kidney measures
+     7.5 cm.  The kidneys are both diffusely echogenic.  There is no
+     hydronephrosis, mass or stones.
+     
+     IMPRESSION:  Bilaterally small and echogenic kidneys consistent with medical
+     renal disease.  No hydronephrosis or stones.
+
+",,
+24049,22925,,,3408-04-29 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3408-4-29**] 3:05 PM
+     CHEST (PA & LAT)                                                Clip # [**Clip Number (Radiology) 15074**]
+     Reason: r/o pneumonia, chf
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      62 year old woman with increased edema, generalized complaints
+     REASON FOR THIS EXAMINATION:
+      r/o pneumonia, chf
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Increasing edema.  Generalized complaints.
+     
+     COMPARISON:  [**3407-8-27**].
+     
+     AP LATERAL CHEST:  The cardiac silhouette is within normal limits.  The
+     mediastinum is normal in appearance.  The aorta is tortuous and unfolded.
+     There are no pleural effusions or focal parenchymal opacities.  No
+     pneumothorax is present.  The right humerus is again noted to be absent.
+     
+     IMPRESSION: No acute cardiopulmonary disease
+
+",,
+24049,22925,29867,,3408-04-30 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3408-4-30**] 7:17 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 15077**]
+     Reason: Eval for pneumothorax after multiple Right IJ central line a
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      62 year old woman with ARF and hyperkalemia, cellulitis.
+     REASON FOR THIS EXAMINATION:
+      Eval for pneumothorax after multiple Right IJ central line attempts that were
+      unsuccessful.  Clinically, oxygenating well and stable.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Right IJ line placement. Query pneumothorax.
+     
+     COMPARISONS: [**3408-4-29**].
+     
+     AP PORTABLE CHEST:  Left subclavian catheter again noted. Cardiac and
+     pulmonary findings are stable. Specifically, there is no evidence of a
+     pneumothorax. The lungs are clear with no evidence of acute intrathoracic
+     disease.  Note made of advanced degenerative change in the left glenohumeral
+     joint.  The right humerus is surgically absent.
+
+",,
+24049,22925,29867,0,3408-04-30 04:43:00 EST,3408-04-30 05:23:00 EST,3214,"N",54,"Nursing/Other","ADMISSION NOTE:","
+ADMISSION NOTE:
+  THIS 62 YEAR OLD FEMALE WAS ADMITTED VIA ER @ 2000. 
+PAST HISTORY: ETOH HEPATITIS AND CIRRHOSIS, TYPE II DM, HTN, PARTIAL GASTRECTOMY, PVD, ORTHO [**Doctor First Name 125**] RT SHOULDER, MULT FALLS, GERD/ESOPHAGITIS, DEPRESSION, LAMINECTOMY, DJD.
+
+SOCIAL: LIVES ALONE. HAS 4 CHILDREN. VNA X2/WEEK FOR DRESSING OF LEG ULCERS.
+
+ALLERGIES: VANCO AND DEMEROL.
+
+CURRENT HISTORY: C/O MUSCLE SPASMS, H/A X 2DAYS, AND INCREASED WEAKNESS TO VNA NURSE, AMBULANCE CALLED.  IN [**Hospital1 3**] ER PT A&O X3, K+8.4, BUN 144, CREAT 11.9.  RECEIVED CACL 2AMPS, NAHCO3 2AMPS, REG INSULIN 10U, D50 1AMP, DDAVP 21MCG, KAYEXLATE 30G PO.  CVL PLACED IN LT SUBCLAVIAN IN ER, MD UNABLE TO PLACE QUINTON CATH, SO CVL CHANGED TO QUINTON OVER WIRE. EKG DONE.
+
+  ADMITTED TO NSICU C/O MICU.  CXR CONFIRMED QUINTON PLACEMENT. HEMODIALYSIS PERFORMED 2000-2300, HD NURSE [**First Name (Titles) **] [**Last Name (Titles) **].  PT ALERT AND ORIENTED THROUGHOUT. DURING HD, HYPOTENSIVE SBP 88-90'S, ALSO TRANSIENT BRADY TO 40 X2, RESOLVED IMMEDIATELY, MD AWARE. AFEBRILE ON ADMISSION AND  @ 2400.  QUINTON CATH NOT TO BE USED FO IVF [**Name6 (MD) **] RENAL, MD AWARE, IVF NOT STARTED.
+   AT 0400, PT DIFFICULT TO AROUSE FROM [**Doctor Last Name 7**], VERY LETHARGIC WHEN AWAKE. TEMP SPIKE OF 101.4. VOMITED APPROX 100CC BILE AND UNDIGESTED FOOD.  LEG DRESSING REMOVED - EXTENSIVE CELLULITIS EXTENDING FROM TOES TO LEFT CALF, AND ULCERATION OF LEFT TOES WITH PURULENT DRAINAGE.  RESIDENT AND INTERN CALLED RE ALL STATUS - INTERN IN ATTENDANCE. AWAITING FULL LAB REPORT AT THIS TIME. 
+
+
+
+
+
+
+
+
+
+
+
+",,
+24049,22925,29867,0,3408-04-30 17:42:00 EST,3408-04-30 17:51:00 EST,3062,"N",54,"Nursing/Other",,"
+
+NUERO: PT REMAIN LETHAGIC, AT TIMES WILL OPEN HER EYES WHEN [**Doctor First Name **] CALL HER NAME, AT AT TIMES PT WILL OPEN HER EYES TO PAINFUL STIMULI. PT NOT FOLLOWING COMMANDS. PT DOES WITHDRAW ALL FOUR EXTREMTIES TO PAINFUL STIMULI, PUPILS EQUAL AND REACTIVE TO LIGHT, DR. [**First Name (STitle) **] AWARE. PULM: LUNGS DIMISHED AT BASES, 02SAT 98%. CARDS: PT IN SR TO ST,PLEASE SEE FLOW SHEET FOR VS. PT IS NPO, PT STARTED ON LOPRESSOR 5MG IV EVERY SIX HOURS. PT HAD DIALYSIS THIS MORNING, NO EPOSIDES OF BRADYCARDIA NOTED. GI: PT VOMITED X3 TODAY, NGTUBE INSERTED BY DR.[**Last Name (STitle) **], NGTUBE TO LWS DRAINING BILOUS DRAINAGE. GU: PT HAD HEMODIAYSIS THIS MORNING, U/O ONLY 10-15CC./HR, DR. [**Last Name (STitle) **] AWARE.  F/E REPEAT CHEM 10 SENT AT 1600 CA 6.8, PT PRESENTLY RECIEVING 3GM OF CALICUM GLUCONATE OVER 3HRS. MG 1.3, DR. [**First Name (STitle) **] AWARE, NO TX ORDERED. PHOSHROUS 7.0, CO2 20 DR. [**First Name (STitle) **],IS AWARE.  PT HAS IV 2AMP NAHCO3 IN 1/2 NS PT TO RECIEVE A TOTAL OF 3LITER, 1AT LITER IS INFUSING. . PT TO HAVE CHEM 10 CHECKED AT 2100.
+",,
+24049,22925,29867,0,3408-04-30 17:54:00 EST,3408-04-30 17:55:00 EST,3062,"N",54,"Nursing/Other",,"
+
+ADD:  RIGHT LEG CELLUTIS REMIANS UNCHANGED, DR.[**Last Name (STitle) **] INTO ASSESS THIS MORNING, PT HAS DOPPLER DP PULSES BILATERALLY, PT STARTED ON FLAGYL,AND LEVOQUIN.
+.
+",,
+24049,22925,29867,,3408-05-01 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3408-5-1**] 3:08 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 15079**]
+     Reason: s/p R ij placement; please check for placement and r/o pneum
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      62 year old woman with ARF and hyperkalemia, cellulitis. 
+     REASON FOR THIS EXAMINATION:
+      s/p R ij placement; please check for placement and r/o pneumothorax
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Right IJ placement.
+     
+     PORTABLE CHEST:  Comparison is made to prior films, the most recent from 8:57
+     the same day.
+     
+     The previously noted NGT remains in place, with  its tip distal aspect coiled
+     within the stomach.  There is a new right IJ catheter, itsh tip in the SVC. No
+     pneumothorax is seen on this supine film.  The cardiac and mediastinal contour
+     appear unchanged.  No acute changes are seen within the lung parenchyma.
+     
+     IMPRESSION:  New right IJ catheter tip in SVC.  No pneumothorax is seen on
+     this supine film.
+
+",,
+24049,22925,29867,,3408-05-01 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3408-5-1**] 8:24 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 15078**]
+     Reason: eval for effusion, CHF
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      62 year old woman with ARF and hyperkalemia, cellulitis. 
+     REASON FOR THIS EXAMINATION:
+      eval for effusion, CHF
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: Hyperkalemia and cellulitis.
+     
+     PORTABLE CHEST: Comparison is made to prior film from one day earlier. There
+     is a nasogastric tube in place, which has its distal end coiled within the
+     stomach. The previously noted left subclavian central venous catheter is
+     unchanged, its tip in the left brachiocephalic vein. Heart size is unchanged.
+     Evaluation of mediastinal and hilar contours is somewhat limited by AP film
+     technique and rotation; there is soft tissue prominence in the region of the
+     azygous vein, of uncertain significance.
+     
+     The lungs appear clear. The lateral costophrenic angles are sharp without
+     effusion.
+     
+     IMPRESSION: 1. Central venous catheter tip in left brachiocephalic vein.
+     2. Distal aspect of new nasogastric tube coiled in stomach.
+     3. No evidence of pleural effusion.
+     4. Clear lungs.
+     
+
+",,
+24049,22925,29867,0,3408-05-01 04:30:00 EST,3408-05-01 04:38:00 EST,3214,"N",54,"Nursing/Other","STATUS UPDATE","
+STATUS UPDATE
+   TMAX 100.6, DOWN TO 99.2 THIS AM.  HR AND BP STABLE. SATS 96-98% ON ROOM AIR.  URINE CLEAT YELLOW, HOURLY 8-20CC. 
+   HCT 23.9, MD NOTIFIED, NO ORDER UNTIL RECHECK @ 0100 HCT 22.8.  FOR TRANSFUSION OF 2U PRBC'S, FIRST UNIT BEING TRANSFUSED AT THIS TIME.  CA GLUC 2G GIVEN FOR ICA 0.94 2 2100.  CO2 23 -> IVF DC'D, KVO MAINTAINED VIA HL.
+   LLE IMPROVED OVER 24H. INFLAMMATION DIMINISHED.  CALF DRESSED WITH NON-STICK DSD AND WRAP, FOOT LEFT OPEN TO AIR.  MICONAZOLE POWDER APPLIED TO ALL SKIN FOLDS.
+",,
+24049,22925,29867,0,3408-05-01 17:33:00 EST,3408-05-01 17:50:00 EST,3062,"N",54,"Nursing/Other",,"
+
+NUERO: PT AT TIMES LETHAGIC, AT OTHER TIMES PT WILL OPEN HER EYES WHEN [**Doctor First Name **] CALL HER NAME.   A COUPLE OF TIMES PT DID TELL ME WHERE SHE WAS. PT DOES NOT FOLLOWING ANY COMMANDS, PT DOES WITHDRAW ALL FOUR EXTREMETIES TO PAINFUL STIMULI. PUPILS EQUAL AND REACTIVE TO LIGHT. DR. [**Last Name (STitle) **] AWARE. CARDS: PT IN SR TO SB. PLEASE SEE FLOW SHEET FOR VS. LOPRESSOR CHANGED TO 12.5MG DOWN NG TUBE. PULM: LUNGS ARE DIMISHED AT BASES. 02SAT 96-98%. GI: PT STARTED ON TUBEFEEDINGS NEPHO AT 10CC/HR. GU: PT MAKINGS 10-30CC/HR OF URINE. PT TO HAVE DIALYSIS IN AM. SKIN: GRION FOLDS, REDDENED, BROKEN DOWN YEASTY. MYCOSTATIN POWDER APPLIED.  RIGHT FOOT REMAINS EDEMOUS, AND REDDENED, LEFT LEG ALSO EDEMOUS AND REDDENED. F/E ICA .93 THIS MORNING PT RECIEVED 3GM OF CALICUM GLUCONATE. PT RECIEVED 2ND UNIT OF BLOOD, REPEAT HCT 27.3.
+IV ACCESS: RIGHT SUBCLAVIN LINE PLACED,CONFIRMED BY CXR PER DR. [**Last Name (STitle) **], LEFT FEMEROL CENTRAL TIP SENT FOR CULTURE.
+",,
+24049,22925,29867,1,3408-05-01 17:33:00 EST,3408-05-01 18:58:00 EST,3062,"Y",54,"Nursing/Other",,"
+
+add: right ij line placed not right subclavin. pt daughter in law took bracelet, and cross, and watch home home with her.
+",,
+24049,22925,29867,,3408-05-02 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3408-5-2**] 11:16 AM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 15080**]
+     Reason: Acute change in MS, new dialysis pt.  Please evaluate for ce
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      62 year old woman with 
+     REASON FOR THIS EXAMINATION:
+      Acute change in MS, new dialysis pt.  Please evaluate for cerebral edema
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Acute change in mental status in patient newly started on
+     dialysis treatment.
+     
+     TECHNIQUE:  Noncontrast head CT.
+     
+     COMPARISON:  [**3405-11-22**].
+     
+     FINDINGS:  There is no intra- or extra-axial hemorrhage.  There is no shift of
+     normally midline structures or mass effect.  The ventricles are somewhat
+     prominent but unchanged in appearance since the prior study.  The cisterns and
+     sulci are unremarkable.  There is normal attenuation of the brain parenchyma.
+     Specifically there is no evidence of cerebral edema.  The [**Doctor Last Name **]-white matter
+     differentiation is preserved.  The osseous structures, paranasal sinuses,
+     mastoid air cells, and soft tissues are normal in appearance.
+     
+     IMPRESSION:  No interval change in the appearance of the brain since the prior
+     study of 10/99.  Specifically, there is no evidence of cerebral edema.
+
+",,
+24049,22925,29867,0,3408-05-02 10:57:00 EST,3408-05-02 11:20:00 EST,3409,"N",54,"Nursing/Other","nsg transfer note","
+nsg transfer note
+SEE FLOWSHEET FOR SPECIFICS.
+
+PT IS 62 Y/O FEMALE ADMITTED TO [**Hospital1 3**] ON [**3408-4-29**] C/O MUSCLE WEAKNESS, MUSCLE SPASMS AND HA. SHE HAD K+ 8.4, BUN 144, CREAT 11.9. A QUINTIN CATH WAS INSERTED AND HD WAS PERFORMED. PT HAS HAD MS CHANGES SINCE ADMISSION. TO HAVE CT TODAY. PT STABLE FOR TRANSFER. PT TO [**Hospital 4084**] TRANSFER TO HD, AND TO FLOOR WHEN DIALYSIS COMPLETE. PE AS FOLLOWS:
+
+PMH: ETOH, HEPATITIS, CIRRHOSIS, TYPE 2 DM, HTN, PARTIAL GASTRECTOMY, PVD, ORTHO [**Doctor First Name 125**] RIGHT SHOULDER, MULTI FALLS, DJD, LAMINECTOMY, GERD/ESOPHAGITIS, DEPRESSION, CHRONIC PAIN, APPT, TAH/BSO, .
+
+ALLERGIES: VANCO, DEMEROL.
+
+NEURO-AWAKE, OPENS EYES SPONT. PERRL. PT MAKES SOUNDS, BUT DOES NOT SPEAK WORDS. FOLLOWS COMMANDS MINIMALLY AND VERY INCONSISTENTLY. MOVES LEGS AND LEFT ARM WELL. ONLY VERY SL MOVES RIGHT ARM AT BASELINE. 
+TURNS HEAD WHEN NAME CALLED. TO HAVE HEAD CT TODAY. 
+
+CV-AFEBRILE. HR 70'S, NSR, NO ECTOPY. OCC BRADY TO 40'S, QIUCKLY RESOLVES SPONT, PT ASYMPTOMATIC. SBP 120-140'S. SKIN PALE, W+D. +PP VIA DOPPLER. 
+
+RESP-O2 SAT 98% RA, LS CTA. NARD NOTED. 
+
+GI-ABD SOFT, NT/ND. +BS. NGT IN PLACE. TF INFUSING WITH MIN RESIDUALS. WILL INCREASE AS TOL TO GOAL 40CC/HR. 
+
+GU-VOIDING VIA FOLEY CL YELLOW URINE. TO HAVE HD TODAY.
+
+ACT-AS NOTED ABOVE. 
+
+COMFORT-APPEARS COMFORTABLE. 
+
+LINES-HAS RIGHT TLCL. AREA WITH ECCHYMOSIS EXTENDING TO BACK OF SHOULDER. TEAM AWARE. HAS LEFT QUITON CATH.
+
+ENDO-FS QID. ON SSRI.
+
+SKIN-PT WITH CELLULITIS ON BILAT LOWER LEGS. AREA OF REDDNESS MARKED THIS AM, REPORTEDLY DECREASING. AREA LEFT OTA. ON IV ABX. PT ALSO WITH MULTI OPEN AREAS WITH SM AMT PURULENT DRG IN SKIN FOLDS. AREAS CLEANED, NYSTATIN POWDER APPLIED. 
+
+PLAN-CON'T WITH CURRENT PLAN. TO HAVE HEAD CT. TO HAVE HD TODAY. TRANSFER TO FLOOR. 
+",,
+24049,22925,,,3408-05-03 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3408-5-3**] 10:03 AM
+     ABDOMEN U.S. (COMPLETE STUDY)                                   Clip # [**Clip Number (Radiology) 15081**]
+     Reason: 62 y.o. admitted for MS changes, Acute on chronic renal fail
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      62 year old woman with arf of unclear etiology.
+     REASON FOR THIS EXAMINATION:
+      62 y.o. admitted for MS changes, Acute on chronic renal failure.  Cause of MS
+      changes unclear.  ? h/o cirrhosis.  h/o gallstones.  Would like to evaluate
+      gallbladder and liver for anything that may cause MS changes.   Please evaluate
+      for ascites also.   
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     
+     INDICATION:  Mental status changes, acute on chronic renal failure.  ? h/o
+     cirrhosis and gallstones.  Please evaluate gallbladder and liver.
+     
+     ABDOMINAL ULTRASOUND:  The liver has  a homogeneous echo texture without focal
+     mass.  Incidental note is made of two calcified granulomas in the right dome
+     of the liver.   There is normal hepatopetal flow.  There is no ascites.  The
+     gallbladder contains numerous small shadowing stones.  There is no edema
+     within the wall of the gallbladder or pericholecystic fluid.   The common bile
+     duct measures from 9 mm to 1 cm, while this is slightly enlarged, it is not
+     changed compared to a study dating back to [**3407-8-25**].  Incidental note is made
+     of a right pleural effusion and a echogenic kidney.  The echogenecity of the
+     kidney has not changed compared to the prior exam.
+     
+     IMPRESSION:
+     1)  Cholelithiasis without evidence of acute cholecystitis. Stable mild
+     dilatation of CBD.
+     
+     2)  Right pleural effusion.
+     
+     3)  Echogenic right kidney, not changed compared to prior exam.
+     
+     
+     
+     
+     
+
+",,
+24049,22925,,,3408-05-06 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3408-5-6**] 11:14 AM
+     VIDEO OROPHARYNGEAL SWALLOW                                     Clip # [**Clip Number (Radiology) 15082**]
+     Reason: 62 y.o. female admitted for RF requiring emergent hemodialys
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      62 year old woman with ESRD on HD, etoh cirrhosis, dm2, gerd, pud, espophgitis
+     REASON FOR THIS EXAMINATION:
+      62 y.o. female admitted for RF requiring emergent hemodialysis complicated by
+      MS changes.  Was made nPO and was fed through NG tube.  Would like to start
+      feeding the pt by mouth.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  History of ESRD and diabetes. Esophagitis.
+     
+     VIDEO OROPHARYNGEAL SWALLOW
+     
+     TECHNIQUE:  This study was performed in conjunction with the speech therapist.
+     Various consistencies of barium were given to the patient orally.  There is
+     normal bolus formation with evidence of premature spilling.  No evidence of
+     significant residual in the pyriform sinuses or vallecula.  No evidence of
+     laryngeal penetration.  Aspiration is noted with thin liquid.  No evidence of
+     cough after aspiration.
+     
+     IMPRESSION:  Evidence of mild aspiration with thin liquids. No evidence of
+     cough response.
+
+",,
+24049,22925,,,3408-05-10 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3408-5-10**] 11:25 AM
+     VIDEO OROPHARYNGEAL SWALLOW                                     Clip # [**Clip Number (Radiology) 15083**]
+     Reason: 62 y.o. needs f/u swallowing eval
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      62 year old woman with ESRD on HD, etoh cirrhosis, dm2, gerd, pud, espophgitis
+     REASON FOR THIS EXAMINATION:
+      62 y.o. needs f/u swallowing eval
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Esophagitis. Prior aspiration. Follow up swallowing evaluation.
+     
+     TECHNIQUE:  This study was performed in conjunction with the speech therapist.
+     Various consistencies of barium were administered orally.
+     
+     VIDEO OROPHARYNGEAL SWALLOW:  There is normal bolus formation with evidence of
+     premature spilling to the valleculae and pyriform sinuses with both thin
+     liquids and nectar.  Retention in the vallecula noted with all substances.
+     Laryngeal penetration was detected with both thin liquids and nectar. The
+     penetration is particularly deep with the thin liquids along with a trace
+     amount of aspiration seen one time only.  No evidence of cough following
+     aspiration.  A grade 2 spondylolisthesis of L3 on L4 incidentally noted.
+     
+     IMPRESSION:  Trace aspiration with thin liquids. No evidence of cough
+     response.  
+
+",,
+24049,22925,,,3408-05-12 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3408-5-12**] 10:29 AM
+     [**Last Name (un) **] DUP EXTEXT BIL (MAP/DVT)                                    Clip # [**Clip Number (Radiology) 15084**]
+     Reason: 60 y.o. female who needs b/l U/S of subclavians for placment
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      62 year old woman with etoh cirrhosis, type 2 dm, htn, gerd, pud depression,
+      djc, chronic pancreatitis
+     REASON FOR THIS EXAMINATION:
+      60 y.o. female who needs b/l U/S of subclavians for placment of AV fistula
+      along with vein mapping.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Pre-op for AV fistula creation.
+     
+     FINDINGS:  Duplex and color Doppler demonstrate patent cephalic and basilic
+     veins bilaterally.  On the right, the basilic vein is .22 cm in the
+     antecubital fossa and increases to .36 cm at its transition to the axillary
+     vein.  Similar ---- on the left are .33 and .23 cm respectively.  The right
+     cephalic vein is .15 cm throughout its course, the left .21 cm at the
+     antecubital fossa and .23 cm at its insertion to the subclavian vein.
+     
+     There are single widely patent, normal appearing brachial arteries
+     bilaterally, showing normal triphasic wave forms.  Venous wave forms indicate
+     no evidence of high grade venous obstruction.
+     
+     IMPRESSION:
+     1)  Bilateral patent cephalic and basilic veins, dimensions as described.
+     2)  No indirect evidence of central venous stenosis.
+     3)  Normal bilateral brachial arteries, normal arterial inflow to both upper
+     extremities.
+
+",,
+24049,22925,,,3408-05-12 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+",,
+24049,22925,,,3408-05-13 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3408-5-13**] 9:14 AM
+     CHEST (SINGLE VIEW); CHEST FLUORO WITHOUT RADIOLOGIST           Clip # [**Clip Number (Radiology) 15085**]
+     Reason: PORTACATH PLACEMENT R/O PTX
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CHEST, SINGLE VIEW:
+     
+     INDICATION:  Evaluate for pneumothorax following portacath placement.
+     
+     Single film obtained during the placement of a portacath is submitted.  The
+     film appears to have been obtained with the C-arm intraoperatively.  A
+     portacath extends into the region of the right atrium via the right
+     brachiocephalic vein.  No obvious pneumothorax is seen on this projection; if
+     this remains a concern, then post procedural standard chest radiograph would
+     be indicated.
+     
+
+",,
+24049,22925,,,3408-05-13 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+",,
+24049,22925,,,3408-05-13 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3408-5-13**] 11:01 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 15086**]
+     Reason: P/RE-WIRE PERMCATH
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CHEST, PORTABLE, SINGLE VIEW:
+     
+     INDICATION:  Assess portacath placement.
+     
+     A single AP semi-erect portable chest radiograph shows a dual lumen catheter
+     extending from the right brachiocephalic vein to the SVC/right atrial
+     junction.  A dual lumen left subclavian catheter terminates in the left
+     innominate vein approximately 2 cm from the brachiocephalic venous junction.
+     No pneumothorax or other complication of catheter placement can be seen.  The
+     lung fields are clear.  The heart, mediastinal contours, hilar structures and
+     pulmonary vasculature are within normal limits for the projection.
+     
+     IMPRESSION:  Bilateral catheter positions as described.  No complication of
+     catheter placement.
+
+",,
+24049,22925,,,3408-05-13 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3408-5-13**] 9:14 AM
+     CHEST (SINGLE VIEW); CHEST FLUORO WITHOUT RADIOLOGIST           Clip # [**Clip Number (Radiology) 15085**]
+     Reason: PORTACATH PLACEMENT R/O PTX
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CHEST, SINGLE VIEW:
+     
+     INDICATION:  Evaluate for pneumothorax following portacath placement.
+     
+     Single film obtained during the placement of a portacath is submitted.  The
+     film appears to have been obtained with the C-arm intraoperatively.  A
+     portacath extends into the region of the right atrium via the right
+     brachiocephalic vein.  No obvious pneumothorax is seen on this projection; if
+     this remains a concern, then post procedural standard chest radiograph would
+     be indicated.
+     
+
+",,
+24049,,,,3408-06-11 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3408-6-11**] 6:36 PM
+     CHEST (PA & LAT)                                                Clip # [**Clip Number (Radiology) 15087**]
+     Reason: 62 y/o WF with mult medical problems transferred with nausea
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      62 year old woman with increased edema, generalized complaints
+     REASON FOR THIS EXAMINATION:
+      62 y/o WF with mult medical problems transferred with nausea and fevers
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CLINICAL INDICATION:  62 year old woman with multiple medical problems.  Now
+     with increased edema, nausea and fevers.
+     
+     Frontal and lateral radiographs of the chest were obtained and compared to the
+     next-prior study dated [**3408-5-13**].
+     
+     There is a dual-lumen central venous line identified with lower tip in the mid
+     SVC.  No pneumothorax is seen.  The heart size is normal as are the
+     mediastinal and hilar contours.  The lungs are clear.  The pulmonary
+     vascularity is normal with no evidence of left heart failure and there are no
+     pleural effusions.  The right humerus is not identified.
+     
+     IMPRESSION:  No radiographic evidence of acute cardiopulmonary disease.
+
+",,
+24049,7524,29868,0,3409-08-27 06:31:00 EST,3409-08-27 06:47:00 EST,3647,"N",54,"Nursing/Other","focus hemodynmics and admission to the sicu.","
+focus hemodynmics and admission to the sicu.
+focus : admitted to sicu from the pacu. alert and oriented. having conversations and very pleasant. pt unable to move arms or legs due to paralysis from the cervical stenosis. extremities edematous and placed on pillows. tpn infusing at 30cc/hr. ns at 30cc/hr infusing. abd dsg intact with visable dsg and tegaderm dsg on top. abd soft. ngt patent and draining bilious drainage (500cc). seen by dr [**Last Name (STitle) **] and informed pt of her surgical results. ice chips able to be given per dr [**Last Name (STitle) **]. o2 at 5liters via np. o2sats 99-100%. coughing with raising sputum. complains of neck and abd pain. dilaudid iv ordered and given per dr [**Last Name (STitle) 4085**]. colostomy pink and protruding . colostomy draining old bloody fluid. pad's [**6-19**]. cvp 2-11. co 5.10 ci 3.2-3.3, svr 1048 and 1443. 
+action: flagyl iv q8hrs given. lopressor 5mg iv given q6hrs. tpn infusing. dilaudid for pain control. ice chips po per dr [**Last Name (STitle) **]. cefazolin iv as ordered. 
+response: monitor closely. 
+",,
+24049,7524,29868,0,3409-08-27 18:57:00 EST,3409-08-27 19:08:00 EST,-1,"N",54,"Nursing/Other",,"
+
+NURSING NOTE 7A-7P REVIEW OF SYSTEMS;
+NEURO: AWAKE ALERT AND ORIENTED,NO MOVEMENT OF EXTREMITIES. 
+C/V: SR RATE 60-80'S NO ECTOPY. SBP 140'S/70'S. PLAN TO START WARFARIN THIS EVENING. #3 OF 3 CK'S DONE THIS AM.  HCT THIS AFTERNOON 28.5
+RESP: O2 ON AT 3L NC, LUNG SOUNDS CLEAR.
+PAIN MANAGEMENT: MED WITH DILAUDID, MSO4, AND LORAZAPAN WIH SOME EFFECTS.  PATIENT FREQUENTLY CRYING OUT IN PAIN, C/O BACK NECK AND ABD PAIN. PLEASE SEE MED SHEETS. REPOSITIONED FREQUENTLY.
+GI:  NGT PATENT TO LWS DRAINING GREEN BILE. TAKING SIPS H2O WITH MEDS. BS PRESENT, COLOSTOMY BAG INTACT DRAINING LIQUID BROWN STOOL.  FLEETS ENEMA GIVEN BY RESIDENT RETURNED LIQUID BROWN STOOL. TPN INFUSING AT 42CC/HR.
+GU: FOLEY PATENT DRAINING CLEAR YELLOW URINE HOURLY OUTPUT DECREASED THROUGHOUT DAY.
+SOCIAL: TWO SONS INTO VISIT THIS MORNING, UPDATED OF PATIENTS CONDITION.
+PLAN: CONTINUE TO MONITOR HEMODYNAMIC STATUS, ? TRANSFER TOMORROW.
+",,
+24049,7524,29868,0,3409-08-28 06:48:00 EST,3409-08-28 07:05:00 EST,3647,"N",54,"Nursing/Other","focus hemodynamics","
+focus hemodynamics
+data: vss. as per flow sheet. alert and oriented. calls out that she is in pain. dilaudid iv given with only moderate amt of effect. pt complains of neck pain and neck roll placed. abd dsg intact with original dsg present. tegaderm dsg in place. colostomy bag intact with 35cc of light brown stool. stoma swollen  and protruding. kinair bed in place. ngt draining bilious drainage. pt stating she does not want to live this way. she wishes to close her eyes and not wake up. dr [**Last Name (STitle) **]  and sicu team aware. pt is on prozac. tpn infusing. 
+action: dilaudid given for pain control. tpn infusing. k 10meq iv given for k 3.4. 1gm of mag sulfate iv given. [**Doctor First Name **] air bed in place. abd dsg intact and it is the original dsg. 
+response: to have diaylsis today. dsg will be changed by the ho per drfischer. . provide emotional support as pt is very depressed. 
+",,
+24049,7524,29868,0,3409-08-28 17:40:00 EST,3409-08-28 17:49:00 EST,3062,"N",54,"Nursing/Other",,"
+
+nuero: pt alert and oriented x3. pt following commands. pt calling at in pain, pt recieved diluadid with some effect, recieved ativan for anxiety with some effect.
+
+pulm: pt remain on 5lnp. lungs clear. pt coughing and deepbreathing.
+
+cards: pt remians in sr, to st. pt has hemodiaysis done today,removed 3.5kg.  noninvasive cuff reading 90's, aline higher please see flow sheet noninvasive cuff up to 104. dr. [**Last Name (STitle) **] aware, pt to go out to floor.
+
+gi: pt continues on hyperal.
+
+f/e blood sugar 164 tx with 6units of regular per sliding scale.
+
+abd: abd dsg and colstomy pouch changed by dr. [**Last Name (STitle) **].
+
+social: daughter into see patient this evening.
+
+plan: pt to transfer to floor.
+",,
+24049,7524,29868,0,3409-08-28 18:30:00 EST,3409-08-28 18:31:00 EST,3062,"N",54,"Nursing/Other",,"
+
+add: earlier pt c/o left arm pian, denied any c/o chestpain, dr. [**Last Name (STitle) **], dr. [**Last Name (STitle) 4086**] aware. ekg done, no changes on ekg per dr. [**Last Name (STitle) **].
+",,

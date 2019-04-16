@@ -1,0 +1,239 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+24435,21375,,,2563-10-03 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+
+Admission Date:  [**2563-10-3**]       Discharge Date:  [**2563-10-9**]
+
+Date of Birth:   [**2475-4-29**]       Sex:  M
+
+Service:  CARDIOTHORACIC
+
+HISTORY OF PRESENT ILLNESS:  Patient is an 80 year-old male
+with worsening dyspnea on exertion times one year.  His
+symptoms resolved with Nitropaste.  Persantine exercise
+Thallium test was negative.  Ejection fraction was estimated
+to be 36 percent with global hypokinesis.  Catheterization
+report showed a left main was patent, LAD 60 to 70 percent
+proximally occluded, 90 percent mid occluded, circumflex
+collateral to OM2 and LPL, RCA bridges collateral.
+
+Patient underwent coronary artery bypass graft times three by
+Dr. [**Last Name (STitle) 14**] on [**2563-10-4**] with LIMA to LAD, SVG to OM,
+SVG to RPDA.  Postoperatively patient did well.  Patient was
+extubated and weaned off all drips without incident.  Chest
+tube was removed on postoperative day number three.  However,
+patient's recovery course is complicated by postoperative
+atrial fibrillation.  Patient was put on Amiodarone and was
+initially rate controlled with Lopressor.  His vital signs
+were stable and his heart rate was controlled and patient was
+in sinus when transferred to the floor.  Patient essentially
+had no other events and recovered well on the floor.  Patient
+was ambulating at level three with assistance and discharge
+medications includes Lopressor 12.5 mg p.o. b.i.d., aspirin
+81 mg p.o. q. day, Lasix 20 mg p.o. b.i.d. times five days,
+potassium chloride 20 mEq p.o. b.i.d. times five days,
+Amiodarone 400 mg p.o. b.i.d. times four then switch to 400
+mg p.o. q.d. and Percocet 1 to 2 tabs p.o. q. 4 to 6 h p.r.n.
+
+
+The patient will be discharged to a rehabilitation facility
+and upon discharge his physical condition was stable, vital
+signs were stable, afebrile, and chest was clear.  Heart
+regular rate and rhythm, normal sinus.  Incision was clean,
+dry and intact, no drainage, no pus.  Sternum was stable.
+Patient was told to follow up with Dr. [**Last Name (STitle) 14**] in three to
+four weeks.
+
+
+
+
+                            [**First Name11 (Name Pattern1) 185**] [**Initials (NamePattern4) **] [**Last Name (NamePattern4) **], M.D.  [**MD Number 186**]
+
+Dictated By:[**Name8 (MD) 1458**]
+MEDQUIST36
+
+D:  [**2563-10-9**]  10:15
+T:  [**2563-10-9**]  10:23
+JOB#:  [**Job Number 5372**]
+Signed electronically by: DR. [**First Name8 (NamePattern2) 185**] [**Last Name (NamePattern1) **]
+ on: MON [**2563-10-10**] 11:48 AM
+(End of Report)
+
+
+",,
+24435,21375,,,2563-10-03 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2563-10-3**] 5:17 PM
+     CHEST (PA & LAT)                                                Clip # [**Clip Number (Radiology) 2603**]
+     Reason: pre-op CABG surgery, please do after 5pm today
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      88 year old man with 3VD, decreased EF plans for CABG
+     REASON FOR THIS EXAMINATION:
+      pre-op CABG surgery, please do after 5pm today
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Preop for CABG.
+     
+     FINDINGS:  PA and lateral chest without priors for comparison.  There is
+     slight left ventricular enlargement.  There is a small right-sided pleural
+     effusion.  Biapical capping.  Flowing osteophytes in the thoracic spine.
+     Clear lungs.  Mediastinal and hilar contours are within normal limits.
+     
+     IMPRESSION:  Left ventricular enlargment with small right-sided pleural
+     effusion.
+     
+
+",,
+24435,21375,30331,0,2563-10-04 16:44:00 EST,2563-10-04 17:04:00 EST,3819,"N",54,"Nursing/Other",,"
+
+ADMIT NOTE~
+
+PT IS AN 88 YEAR OLD MALE, S/P MI, HIGH CHOLESTEROL AND DJD. S/P L FOREHEAD MELANOMA EXCISED. H/O SMOKING QUIT 25 YEARS AGO, OCCASIONAL ETOH USE. 
+
+PT HAD AN UNEVENTFUL CABG X3 EPI POST PUMP. 
+
+NEURO~PT SEDATED ON PROPOFOL, PT WARMED REVERSED AND PROPOFOL TO OFF. PT ATTEMPTING TO SIT UP IN BED AND NODDING APPROPRIATELY TO QUESTIONS. 
+
+CV~SR WITH BURST OF ST WITH PAC'S, ANESTHESIA STATED THAT ATRIUM ""VERY IRRITABLE"" DURING CASE. EPI WITH SLOW WEAN TO KEEP CI>2.0. HCT STABLE. PULSES BY DOPPLER.  
+
+RESP~LS DIMINISHED AT BASES~PT WEANED TO CPAP WITH 5/5 WITH TV IN 500'S. ABG WNL~EXTUBATED.  CT ""OOZY"" WITH OUTPUT FORM 30-100CC WITH TURNING. ACT CHECKED FOR 113~NOT TREATED AT PRESENT. 
+
+GI~OGT D/C'D WITH EXTUBATION.  NO BS NOTED. 
+
+GU~ADEQAUTE U/O. 
+
+ENDO~SUGARS TREATED AS DOCUMENTED~PT NONDM. 
+
+PT VERY LETHARGIC POST EXTUBATION~NONVERBAL AND NOT FOLLOWING COMMANDS~WOULD RESPOND TO PAINFUL STIMULI AND EVENTFUL WITH INTERMITTENTLY NOD TO QUESTIONS ASKED. ABG REDRAWN SHOWING SLIGHT RESP ACIDOSIS~PT CONTINUALLY ENCOURAGE TO COUGH AND DEEP BREATH. SLOWLY WAKING. 
+
+SKIN~STERNAL INCISION INTACT. L LEG WITH ACE WRAP 
+
+PLAN ~WEAN NEO OVERNOC TO KEEP MAPS>60 AND CI>2.0. CLOSELY MONITOR RESP STATUS. 
+",,
+24435,21375,30331,,2563-10-05 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2563-10-5**] 3:00 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 2604**]
+     Reason: s/p chest tube removal
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      88 year old man with 
+     REASON FOR THIS EXAMINATION:
+      s/p chest tube removal
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Status post chest tube removal.  Status post CABG.
+     
+     Comparison is made to the prior study of [**2563-10-3**].
+     
+     FINDINGS:  Since the prior study there are new median sternotomy wires and
+     surgical clips overlying the heart consistent with recent CABG.  There is
+     slight left ventricular enlargement with no evidence of heart failure.  There
+     are no focal pulmonary opacifications or pleural effusions.  There are minor
+     atelectatic changes in the left lower lobe posteriorly, which are associated
+     with elevation of the left hemidiaphragm.
+     
+     IMPRESSION:  Slight left ventricular enlargement with no evidence of heart
+     failure.
+     
+     2. Elevation of the left hemidiaphragm with minor atelectatic changes in the
+     left lower lobe.
+     
+
+",,
+24435,21375,30331,0,2563-10-05 03:33:00 EST,2563-10-05 03:36:00 EST,-1,"N",54,"Nursing/Other","Shift Note","
+Shift Note
+Neuroloically pt can MAE to command, however pt has mild confusion. Pt needs reorienting. Hemodynamics stable, epi to off. Lungs CTA bilat but diminished. Pt with low U/O, H.O. aware, Tx with hespan with little effect then lasix with better results. See flowsheet for details, continue to monitor.
+",,
+24435,21375,30331,1,2563-10-05 12:23:00 EST,2563-10-05 13:51:00 EST,3819,"Y",54,"Nursing/Other",,"
+
+PT WITH CT REMOVAL @1400~POST APPEARED PATIENT WAS IN SUSTAINED AFLUTTER CONTROLLED RATES, STABLE BP~CONFIRMED BY A WIRE TRACE. AMIODARONE 400MG STARTED TID~LABS DONE.
+",,
+24435,21375,30331,0,2563-10-05 12:23:00 EST,2563-10-05 12:34:00 EST,3819,"N",54,"Nursing/Other",,"
+
+NEUROLOGICALLY INTACT~PT ORIENTATED TO PERSON AND PLACE, ALTHOUGH THOUGHT HE WAS ""IN THE KITCHEN LAST NOC"". PT IS AWARE HE HAD HEART SURGERY AND KNOWS HE IS AT A HOSPITAL IN [**Location (un) **]. MAE TO COMMAND, OOB TO CHAIR WITH ASSIST OF 2~TOLERATED WELL. 
+
+CV~SR WITH BURSTS OF ST WITH PACS/AFIB~PT WITH THIS RHYTHM POST OP AS WELL.  STARTED ON 12.5MG PO LOPRESSOR AND 2 GRAMS OF IV MGSO4 GIVEN.  HCT STABLE. PULSES AS DOCUMENTED. EXTREMITIES WARM TO TOUCH. 
+
+RESP~LS DIMINSHED BILATERALLY AT BASES.  PT C/O PAIN AT CHEST TUBE SITE AND SAID IT HURTS TO TAKE DEEP BREATH~ 1 TYLENOL WITH CODEINE ORDERED.  DUMP OF 110CC WITH OOB~SEROUS/SANG.  
+
+GI~HYPOACTIVE BS~TOLERATE CLEAR LIQS. 
+
+GU~LASIX 20MG PO GIVEN AT 1030 AM~WITH MINIMAL DIURESIS~PT GIVEN 10MG IV LASIX AT 1300.  
+
+SKIN~INCISIONS INTACT. PT DELINED WITHOUT INCIDENT. #16 GAUGE PERIPHERAL IN R ARM. 
+
+VANCO X2 MORE DOSES. ENDO~NO NEED FOR INSULIN THIS AFTERNOON.
+
+PER DR [**Last Name (STitle) 103**] PT TO REMAIN IN UNIT OVERNOC TO CLOSELY MONITOR NEUROLOGICALLY STATUS~ PLAN TO TRANSFER TO [**Hospital Ward Name **] 6 IN AM. 
+",,
+24435,21375,30331,0,2563-10-06 04:28:00 EST,2563-10-06 04:54:00 EST,3169,"N",54,"Nursing/Other",,"
+
+[**10-5**] 7P-7A SHIFT SUMMARY; 
+
+NEURO; ALERT, AND MORE CONFUSED TO PLACE AS NOC WENT ON. KNOWS THE YEAR, PRESIDENT, AND AT TIMES KNOWS HE'S IN THE HOSPITAL AND HAD SURGERY AND OTHER TIMES DOES NOT KNOW WHERE HE IS.  EASILY REORIENTED BUT WITH SHORT TERM MEMORY NEEDS TO BE CONSTANTLY REMINDED HE'S IN [**Hospital **] HOSPITAL AFTER HEART SURGERY. RESTLESS AT TIMES ATTEMPTING TO GET OOB LEGS OVER THE SIDERAILS AND SOMETIMES THRU THE SIDERAILS. POSEY WAIST BELT IN PLACE FOR PT'S OWN PROTECTION FOR PT IS A HIGH RISK FOR FALLING. PT'S FAMILY IN EARIELR AND STATES PT IS UNSTEADY ON HIS FEET. PT ALSO PULLING 02 OFF FREQ. PULLING AT OTHER LINES.  TOOK ACE DRESSING OFF SEVERAL TIMES TO LT LEG AND HAD TO BE REDRESSED SEVERAL TIMES. DR [**Last Name (STitle) 852**] OF PT CONFUSION AND ATTEMPTING TO CLIMB OUT OF BED. PT GIVEN HALDOL 2.5MG IV SEVERAL TIMES WITH GOOD SHORT TERM EFFECT. SLEPT OFF AND ON IN SHORT NAPS PT WAS AWAKE MORE THAN ASLEEP ALL NOC. CONSTANTLY PICKING AT EVERYTHING.
+
+RESP; LUNGS CLEAR DIM IN THE BASES HAS HACKY NONPRODUCTIVE COUGH. INSTRUCTED PT IN I.S. WITH DECREASED INSPIRATORY EFFECT AND HAS DIFFICULTY IN USE. 02 SAT'S AND RR WNL ALL NOC.
+
+CARDIOVAS; REMAINS IN AFIB CONTROLLED VENT. RATE WITH FREQ TO OCC.  PVC'S PT ON AMIODARONE PO. SBP AND MAP WNL ALL NOC. 
+
+GI; BS PRESENT  TAKING AND TOLERATING SIPS OF FLUID AND TAKES PO MEDS WITH OUT DIFFICULTY.
+
+GU;  URINE OP WNL. 
+
+PLAN; TRANSFER TO [**Hospital Ward Name **] 6 TODAY AND POSS. NEED A SITTER D/T CONFUSION AND ATTEMPTS TO CLIMB OOB AND IS A HIGH RISK FOR FALLS 
+
+
+",,
+24435,21375,30331,0,2563-10-06 08:27:00 EST,2563-10-06 08:44:00 EST,3240,"N",54,"Nursing/Other",,"
+
+CSRU TRANSFER NOTE
+
+Mr. [**Known patient lastname 4609**] is a 88 year old man who is s/p CABG x 3 with LIMA to LAD.  Irritable atrium intra op.  Extubated evening of surgery.  Stayed in CSRU d/t confusion.  Received Haldol IV last night.  On amiodarone po for atrial fib.
+
+NKDA
+
+Neuro:  Pt is oriented x 3 in conversation this am with verbal cues as to where he is. Clearly oriented to person.  Stated he didn't understand why he was feeling so confused.  He has however tried to get OOB independently this am.  Vest posey restraint cont's to be in place.  Skin intact.  Pulling off [**Doctor First Name 1181**]. Short term memory seems poor with regards to explanations regarding not getting OOB by himself. Reorient patient prn.  Does follow commands and MAE with equal strength.  Narcotic pain relief d/c'd.  To cont on Tylenol only.
+
+CV:  HR 80-90's A fib with occasional PVC's.  BP 100-130/30-50.  Cont's on Amiodarone po.  Skin warm, dry.  +3 DP bilat.  Hct 25.9.  Up 8 kg from pre op.  Slight upper extremity edema noted.
+
+Resp:  BS clear, diminished at bases bilat.  Does c/o discomfort w/ coughing.  Cough is dry, NP.  O2 sats 96% or greater on 2l np.  No resp distress noted.
+
+GI/GU:  Abd soft, + BS.  No appetite per patient.  Takes liquids without difficulty. No BM yet.  u/o adequate w/ po lasix, 60-200cc/hr.  BUN/Cr 17/1.4--NP aware of increase in Cr today.
+
+ID:  Temp 98-99.  WBC 12.5.  Received 3 out of 4 doses of Vanco post op d/t elevated Vanco trough.
+
+Skin:  Intact.  Left leg incision wrapped w/ ace bandage.  No dng noted this am.  Sternal incision OTA, no dng noted.  
+
+Activity/Comfort:  OOB to chair w/ 2 assist.  Pain as above.
+
+A/P:  Hemodynamically stable in atrial fib.  Cont Amiodarone po.  Monitor VS.  Cont pulmonary hygiene.  Wean O2 as tolerated.  Diuresis. Monitor Bun/Cr closely.  Monitor neuro status and reorient pt prn.  Posey vest for safety.  Anticipate transfer to [**Hospital Ward Name 41**] 6 today w/ sitter.
+",,
+24435,,,,2564-08-06 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2564-8-6**] 3:49 PM
+     CHEST (PA & LAT)                                                Clip # [**Clip Number (Radiology) 2605**]
+     Reason: evaluate for CHF.
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      89 year old man with A. Flutter and SOB
+     REASON FOR THIS EXAMINATION:
+      evaluate for CHF.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: Atrial flutter and shortness of breath. Rule out CHF.
+     
+     COMPARISONS: [**2563-10-3**].
+     
+     PA AND LATERAL CHEST: Sternotomy wires and mediastinal metal clips are new,
+     consistent with status post interval CABG. Cardiac, mediastinal and hilar
+     contours are stable. Pulmonary vascularity is normal. There are no pleural
+     effusions. Osseous structures show minimal degenerative change of the spine.
+     Soft tissues are unremarkable.
+     
+     IMPRESSION: Status post CABG. No acute cardiopulmonary process.
+
+",,

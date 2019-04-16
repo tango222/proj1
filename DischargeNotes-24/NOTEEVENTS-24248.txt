@@ -1,0 +1,1847 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+24248,,,,2916-07-29 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2916-7-29**] 12:35 PM
+     RENAL U.S.                                                      Clip # [**Clip Number (Radiology) 923**]
+     Reason: S/P STENT PLACEMENT.HX OF STONES.. HEMATURIA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      40 year old man with kidney stone, partially obstructing.
+     REASON FOR THIS EXAMINATION:
+      Patient with history of kidney stone, hydronephrosis of right kidney, s/p stent
+      placement. Continues to have hematuria. 
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  A 40-year-old man with kidney stone, partially obstructing.
+     Evaluate for hydronephrosis, other reasons for hematuria.
+     
+     COMPARISON:  Comparison is made with a prior ultrasound report from [**2916-6-22**].
+     
+     FINDINGS:  The right kidney measures 11.3 cm.  There is a 4.9 x 4.4 x 4.3 cm
+     simple, anechoic cyst in the upper pole of the right kidney.  This is slightly
+     smaller than on prior examination at which time it measured 5.1 x 4.5 x 5.4
+     cm.  The left kidney measures 11.9 cm.  Bilateral kidneys are diffusely
+     echogenic in appearance consistent with the patient's history of HIV.  There
+     is no evidence of hydronephrosis, stones, or masses bilaterally.  The bladder
+     is normal in appearance.
+     
+     IMPRESSION:
+     1.  Diffuse echogenicity of bilateral kidneys consistent with the patient's
+     history of HIV.
+     2.  Simple cyst in upper pole of right kidney which is slightly smaller than
+     on prior examination.
+     3.  No evidence of hydronephrosis, stones or masses bilaterally.
+     
+
+",,
+24248,11487,,,2916-08-20 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+ 
+ 
+ 
+Admission Date:  [**2916-8-20**]              Discharge Date:   [**2916-8-27**]
+ 
+Date of Birth:  [**2876-1-29**]             Sex:   M
+ 
+Service: MED
+ 
+Allergies: 
+Bactrim
+ 
+Attending:[**First Name3 (LF) 4961**] 
+Chief Complaint:
+sob
+ 
+Major Surgical or Invasive Procedure:
+none
+ 
+History of Present Illness:
+Mr. [**Known patient lastname **] is a 40 year old man with AIDS (criteria of CD-4 counts 
+and opportunistic infections) who is being admitted for dyspnea,
+fevers, and hypoxia.
+
+Mr. [**Known patient lastname **] says that he was in his usual state of (chronically
+poor) health until about 3 days ago when he began to have more
+fatigue than usual. He then began to have fevers up to 
+99.0-100.0
+and yesterday started to develop left sided chest pain that came
+on with deep breaths and coughing, and fevers up to 103 degrees
+with chills but no rigors. He is coughing up scant, thick yellow
+sputum, without any blood in the sputum.
+
+He came to the Infectious Disease Outpatient Clinic this morning
+and was found to have a temp of 102 degrees, and an oxygen
+saturation after walking down the hallway that was 71.%. He was
+brought to the Emergency Room and admitted from there.
+
+He was last hospitalized here from [**6-22**] -> [**2916-6-29**] for persistent
+pain from a right-sided kidney stone. During the hospital-
+ization, he had a stent placed into the right kidney to help
+remove the stone. The stent was removed prior to his discharge.
+A chest X ray during that admission revealed a faint opacity in
+the left lower lobe that obscured the left hemidiaphragm on the
+lateral view. He was, therefore, put on cefpodixime for 7 days.""
+ 
+In ER VSS were temp of 101.7 HR of 99 BP 112/72  R24, 74% on RA, 
+99% on 2L.  Cxray notable for LLL infiltrate. EKG notable for 
+sinus tach at 92, negative axis, R wave transition in v3, flat T 
+waves V5-V6, q3T3, q in 2/3/avf (no change from baseline). INR 
+was 0.9. Cr of 1.6. Blood cultures were sent. In ed received 
+tylenol, ceftriaxone 2mg iv, MS contin and heparin IV. 
+40 M w/AIDS (CD4 count of 9 on [**2916-4-16**]) admitted [**8-20**] for 
+dyspnea, fevers to 103, and hypoxia. (In [**Hospital **] clinic with 
+temperature of 102 degrees and ambulatory o2 sat of 71%. Please 
+see ID admit note in OMR for complete HPI/history.) In short, 
+patient was in his usual state of health until three days prior 
+to admission when he experienced more fatigue, fevers up to 
+99.0-100.0, pleuritic chest pain and cough. (Patient was last 
+hospitalized at [**Hospital1 25**] from [**6-22**] to [**2916-6-29**] for persistent pain 
+from a right-sided kidney stone, a stent was placed and 
+removed.)
+ 
+In ER on admission: VSS were temp of 101.7 HR of 99 BP 112/72 
+R24, 74% on RA, 99% on 2L. Chest xray was notable for LLL 
+infiltrate. EKG notable for sinus tach at 92, negative axis, R 
+wave transition in v3, flat T waves V5-V6, q3T3, q in 2/3/avf 
+(no change from baseline). INR was 0.9. Cr of 1.6. In the ed the 
+patient received tylenol, ceftriaxone 2mg IV, MS contin and 
+heparin IV. 
+
+ROS: Man with HIV/AIDS last CD4 count of 9.  On transfer to the 
+east campus patient continues to express sharp chest pain in 
+left sternal area radiating to left shoulder [**4-30**] in intensity 
+worse with inspiration, patient also reports not some SOB. 
+Patient reports intermittent hematuria. He denies abdominal 
+pain, diarrhea, melena, headache, sore throat, dysuria, lower 
+extremity swelling or pain, orthopnea.
+
+ 
+Past Medical History:
+1. AIDS dx 1986: [**4-24**] VL 23K; [**3-24**] CD4 1 VL 47K- initially on 
+monotherapy starting in [**2899**], now with variable degrees of 
+resistance to HAART.
+2. PCP x5: 1990(intubated) c/b perirectal HSV and pancreatitis 
+from pentamidine and/or steroids, [**1-/2910**] c/b LUE axillary vein 
+thrombosis, [**5-/2910**], [**7-/2910**], [**3-/2912**]
+3. Disseminated MAC bacteremia 1992
+4. Didanosine associated pancreatitis [**6-/2905**]
+5. Aseptic meningitis [**1-/2909**] secondary to TMP/SMX
+6. Cerebral MAC (diff from [**2903**] organism) c/b seizures [**3-/2912**]
+7. Necrotic HSV L chest wall lesion resistant to acyclovir and 
+ganciclovir and treated with Foscarnet [**3-23**]
+8. Acyclovir resitant HSV R chest wall lesion [**4-24**] treated with 
+Foscarnet (to stop [**2916-6-25**])
+9. Neurosurgical drainage of a R sided subdural fluid collection 
+[**11-21**] c/b post-op seizure and intubation for airway protection
+10. HTN
+11. Chronic peripheral neuropathy (legs>arms)
+12. Systolic CHF (Echo [**9-23**] EF 50% w/ 1+AR, [**11-22**]+MR, 1+ TR)
+13. Coagulopathy [**12-23**] lupus anticoagulant c/b DVT/PE [**4-21**] and 
+[**9-23**], on anticoagulation with IVC filter in place
+14. IMI [**4-21**] (presumed [**12-23**] hypercoagulable state) s/p RCA 
+stenting
+15. Aflutter s/p ablation [**12-25**]
+16. Thrush-resistant to fluconazole (now tx w/ voriconazole)
+17. Asthma
+18. Chronic renal failure
+19. Hyperkalemia
+
+ 
+
+ 
+Social History:
+-Divorced; contracted HIV from his ex-wife after their child 
+died of AIDS. They were subsequently tested and found to both be 
+HIV+ and wife admitted to IVDU. She has since died.-Lives alone 
+with dog, Cinnamon. Lives in studio apt rented from his 
+mother.-Smoked 1 ppd x 2 years (on job). Quit 5 mths ago when he 
+stopped working as a an operations manager in scrap metal.  
+-EtOH- occas wine; Marijuana occas for nausea; Exercises 
+5x/wk-H/o asbestos exposure
+ 
+Family History:
+Mom-mild HTN and hypercholesterolemia; brother- asthma, HTN. 3 
+sisters-alive and healthy
+ 
+Physical Exam:
+OBJ: T 99.9  BP 142/104 HR 97 R 20 98% on 1.5 L
+GEN: emaciated gentleman, in mild respiratory distress
+HEENT: OP clear, no evidence of thrush, no cervical 
+lymphadenopathy
+CV: RRR with systolic murmur
+LUNG: crackles auscultated on Left base
+ABD: +BS/NT/ND, no organomegally, no rebound, no guard
+EXT: no edema/cyanosis/pulses intact, skin dorsum of hands is 
+red-purple in color right greater than left
+NEURO:[**1-2**] intact, upper extremity, lower extremity strength 
+symmetric and intact
+Skin: normal skin tone, no erythema/rashes
+
+ 
+Pertinent Results:
+[**2916-8-20**] 01:15PM   POTASSIUM-4.4
+[**2916-8-20**] 12:55PM   PT-12.0 PTT-18.2* INR(PT)-0.9
+[**2916-8-20**] 11:56AM   LACTATE-1.9
+[**2916-8-20**] 11:54AM   GLUCOSE-92 UREA N-23* CREAT-1.6* SODIUM-135 
+POTASSIUM-6.6* CHLORIDE-101 TOTAL CO2-23 ANION GAP-18
+[**2916-8-20**] 11:54AM   ALT(SGPT)-15 AST(SGOT)-43* ALK PHOS-73 
+AMYLASE-31 TOT BILI-1.3
+[**2916-8-20**] 11:54AM   ALBUMIN-3.8
+[**2916-8-20**] 11:54AM   WBC-3.1* RBC-3.36* HGB-11.3* HCT-35.6* 
+MCV-106* MCH-33.7* MCHC-31.8 RDW-16.2*
+[**2916-8-20**] 11:54AM   NEUTS-71.6* LYMPHS-11.6* MONOS-12.3* EOS-3.6 
+BASOS-0.7
+[**2916-8-20**] 11:54AM   HYPOCHROM-2+ ANISOCYT-1+ MACROCYT-3+
+[**2916-8-20**] 11:54AM   PLT COUNT-223
+
+renal u/s ([**2916-7-29**]): IPRESSION:
+1.  Diffuse echogenicity of bilateral kidneys consistent with 
+the patient's
+history of HIV.
+2.  Simple cyst in upper pole of right kidney which is slightly 
+smaller than
+on prior examination.
+3.  No evidence of hydronephrosis, stones or masses bilaterally.
+
+Ct abdomen: [**2916-6-10**] IMPRESSION:  6-mm partially obstructing 
+calculus within the proximal right ureter, with acute forniceal 
+rupture.
+
+EKG: EKG notable for sinus tach at 92, negative axis, R wave 
+transition in v3, flat T waves V5-V6, q3T3, q in 2/3/avf (no 
+change from baseline). 
+
+cath [**5-21**]: FINAL DIAGNOSIS:
+1. Patent RCA stents.
+2. Normal biventricular filling pressures.
+3. Mild LV systolic dysfunction with dopamine infusion.
+
+CXRAY ([**2916-8-20**]): IMPRESSION: Patchy bibasilar opacities 
+consistent with pneumonia.  
+
+Lower extremity u/s:IMPRESSION:  Chronic deep venous thrombosis 
+extending from the proximal left superficial femoral vein to the 
+left popliteal vein, with multiple collaterals.
+
+ 
+Brief Hospital Course:
+40 M w/ AIDS (CD4 of 9), multiple medical problems presents with 
+dypnea and fever.  
+
+SOB - On the floor antibiotic was changed to cefipime. One day 
+following admission, patient developed additional chest pain and 
+hypoxia initially read in o2 sat of 70s requiring 10L of O2 at 
+which patient was 93% (abg was 7.35/34/90 on 10L face-mask), 
+patient's systolic blood pressure was also in 100s compared to 
+baseline of 130s. Unclear if relative hypotension was secondary 
+to pain medications, dehydration, developing heart failure from 
+possible PE, verus worsening PNA, therefore patient was 
+transferred to unit.
+
+In FICU supportive measures were continued. The patient was 
+provided with IV fluid.  Empiric treatment for PCP [**Name Initial (PRE) **] 
+(primaquine) but then discontinued.  CT on [**8-22**] showed: LLL 
+PNA, effusion, enlargement of nodule at left lung apex and new 
+nodule in the medial LUL nodule, possibly representing 
+differences in slice selection compared to [**9-23**]. Patient will 
+need to follow up with Dr. [**Last Name (STitle) 3258**] regarding further work-up of 
+these findings.  (A contrast CT was not performed secondary to 
+the patient's CRI.) Labs on [**8-24**] notable for HCT 25.5, Retic 
+0.7, LDH normal, INR of 1.6,  Cr at 1.6 (down from elevated 1.9 
+on admission), of note Trop maximum at 0.83 and an echo was 
+performed on [**8-22**] which demonstrated normal systolic function, 
+therefore felt to represent possible RV strain. Patient's 
+respiratory status improved on antibiotics and patients 
+transferred out of unit. Of note cryptococcal antigen was 
+negative.  Nasopharyngeal culture for ADENO,PARAINFLUENZA 1,2,3 
+INFLUENZA A,B AND RSV was negative. CMV DNA was negative.  
+Patient o2 sat was 94% while ambulating on discharged but with 
+subjective feeling of intermittent dyspnea we discharge with 
+oxygen.  Patient will also be discharged on Lovenox SC, until 
+INR is therapeutic.  A picc line was placed on discharge for 
+outpatient cefipime.  
+ 
+2. Fever - Patient with AIDS, history of fever and chest 
+xray/chest CT notable for PNA. Blood cultures / urine cultures 
+in-house were negative.  Patient without diarrhea.  Reticulocyte 
+low, LDH normal, D bili was slightly elevated.  
+
+3. CRI/Hematuria - Patient with a history of renal stones, 
+recent admission for kidney stone and urthethral stent presents 
+with elevated CR compared to baseline. The etiology was likely 
+prerenal as patient responded to fluids. On discharge CR was 1.3 
+(baseline 1.3-1.8).
+
+4. Cardiac/CAD - Of note patient with a history of RCA stent, 
+IMI in past, q waves on inferior leads on EKG. Patient is not 
+maintained on cardiac medications secondary to concerns 
+regarding drug interactions (discussed with attending). Patient 
+experienced elevated troponins during episodes of chest pain. An 
+echo demonstrated intact systolic function. Patient discharged 
+on aspirin.
+
+5. HIV - Patient on antiretroviral medications tonofovir, 
+stavudine, ritonavir, Fuzeon, Emtricitabine, Atazanavir. Patient 
+is on empiric AIDS coverage with cipro, azithro, acyclovir. 
+
+6. Neurology/History of seizure - Maintain on kepra. Seizure 
+thought to be due to a focus from scar of a prior brain abscess. 
+Patient reports using gabapentin for neuropathic pain.  
+
+7. Anemia - Patient presented with a hematocrit of 34, wide 
+variation in baseline (34-44). Throughout hospitalization 
+hematocrit went down to 25 but stabilized.  This decrease likely 
+reprented fluid shifts from hydration.  The differential for 
+anemia includes low production given anemia of chronic disease, 
+low reticulocyte count. Iron studies demonstrated low iron, low 
+b12. Therefore b12 was provided. Patient has history of procrit 
+use which will be resumed on discharge.  
+
+10. Code - DNR/DNI.  
+
+ 
+Medications on Admission:
+(per OMR on [**2916-7-28**])
+
+ACYCLOVIR 400MG--One capsule by mouth twice a day
+ALBUTEROL 90MCG--2 puffs every 4 hours as needed for coughing
+not relieved by serevent.
+ATAZANAVIR 150 MG--Two capsules (300 mg) by mouth once (one
+time) daily.
+AZITHROMYCIN 250MG--One capsule by mouth twice a day
+CIPROFLOXACIN HCL ORAL 500 MG TABLET 500MG--One tablet by mouth
+twice a day
+COUMADIN 5MG--Take 7.5 mg/day until further notice.
+DILAUDID 2MG--One tablet every 3 hours as needed for pain not
+controlled with morphine contin.
+EFFEXOR XR 75MG--One capsule daily.
+EMTRICITABINE  200 MG--One capsule by mouth daily.
+ETHAMBUTOL HCL 400MG--One tablet by mouth three times a day
+FLONASE 50MCG--Two sprays each nostril twice a day
+FUSEON 90 MG--Inject one vial (90 mg) sq bid.
+ITRACONAZOLE 10MG/ML--20 cc (200 mg) swish and swallow daily.
+KEPPRA 500MG--One tablet by mouth twice a day for suppression of
+seizures
+LOVENOX 120MG/.8ML--One injection sq daily.
+NEUPOGEN 300MCG/0.5--Inject one cc every other week (every 2
+weeks).
+NEURONTIN 100MG--Two capsules three times a day with two of the
+400 mg capsules for 1000 mg by mouth three times a day for
+control of discomfort from peripheral neuropathy.
+OPIUM 10%--One cc by mouth four times a day as needed for
+diarrhea
+OXANDROLONE 10MG--One tablet (10 mg) by mouth twice a day for
+weight loss.
+PENTAMIDINE ISETHIONATE 300MG--Given by aerosol monthly
+PERCOCET 5-325MG--One to two tablets every 4 hours as needed for
+pain not controlled by morphine contin.
+PROCRIT 40000 U/ML--One cc every other week (every 2 weeks).
+RITONAVIR 100MG--One capsule once daily, with two capsules of
+atazanavir (reyetaz).
+SEREVENT DISKUS 50MCG--Two puffs bid.
+STAVUDINE 15MG--One capsule by mouth twice a day
+SYRINGE/SAFETY GLIDE 25GX0.625""--Use one cc 25 g x 0.625""
+syringes for procrit and g-csf injections.
+TENOVOFIR 300 MG--One tablet daily
+ULTRASE MT 18 59-18-59--Two capsules by mouth with each meal
+ZOFRAN 4MG--One tablet by mouth q 6 hours as needed for nausea /
+vomiting
+MEGACE 40MG--One tablet daily, for enhancement of appetite.
+
+-per patient he does not take albuterol/dilaudid/itraconazole
+-he does take gabapentin and amphotericin
+
+ 
+Discharge Medications:
+1. Albuterol 90 mcg/Actuation Aerosol Sig: 1-2 Puffs Inhalation 
+Q4H (every 4 hours) as needed.
+Disp:*1 30* Refills:*0*
+2. Atazanavir Sulfate 100 mg Capsule Sig: Three (3) Capsule PO 
+QD (once a day).
+Disp:*90 Capsule(s)* Refills:*2*
+3. Azithromycin 250 mg Capsule Sig: One (1) Capsule PO BID (2 
+times a day).
+Disp:*60 Capsule(s)* Refills:*2*
+4. Ciprofloxacin 500 mg Tablet Sig: One (1) Tablet PO Q12H 
+(every 12 hours).
+Disp:*60 Tablet(s)* Refills:*2*
+5. Venlafaxine HCl 75 mg Capsule, Sust. Release 24HR Sig: One 
+(1) Capsule, Sust. Release 24HR PO QAM (once a day (in the 
+morning)).
+Disp:*30 Capsule, Sust. Release 24HR(s)* Refills:*2*
+6. Emtricitabine 200 mg Capsule Sig: One (1) Capsule PO qd ().
+Disp:*30 Capsule(s)* Refills:*2*
+7. Ethambutol HCl 400 mg Tablet Sig: One (1) Tablet PO TID (3 
+times a day).
+Disp:*90 Tablet(s)* Refills:*2*
+8. Enfuvirtide 90 mg Kit Sig: One (1) Kit Subcutaneous BID (2 
+times a day): 90 mg SC injection.
+Disp:*60 Kit(s)* Refills:*2*
+9. Levetiracetam 500 mg Tablet Sig: One (1) Tablet PO BID (2 
+times a day).
+Disp:*60 Tablet(s)* Refills:*2*
+10. Morphine Sulfate 15 mg Tablet Sustained Release Sig: Three 
+(3) Tablet Sustained Release PO Q8H (every 8 hours).
+Disp:*4 Tablet Sustained Release(s)* Refills:*2*
+11. Gabapentin 800 mg Tablet Sig: One (1) Tablet PO TID (3 times 
+a day).
+Disp:*90 Tablet(s)* Refills:*2*
+12. Oxandrolone 2.5 mg Tablet Sig: Four (4) Tablet PO BID (2 
+times a day).
+Disp:*240 Tablet(s)* Refills:*2*
+13. Ritonavir 100 mg Capsule Sig: One (1) Capsule PO QD (once a 
+day).
+Disp:*30 Capsule(s)* Refills:*2*
+14. Salmeterol Xinafoate 50 mcg/Dose Disk with Device Sig: One 
+(1) Disk with Device Inhalation Q12H (every 12 hours): (50 mcg) 
+2 INH IH Q12H 
+.
+Disp:*60 Disk with Device(s)* Refills:*2*
+15. Tenofovir Disoproxil Fumarate 300 mg Tablet Sig: One (1) 
+Tablet PO QD (once a day).
+Disp:*30 Tablet(s)* Refills:*2*
+16. Stavudine 30 mg Capsule Sig: One (1) Capsule PO Q12H (every 
+12 hours).
+Disp:*60 Capsule(s)* Refills:*2*
+17. Amphotericin B 50 mg Recon Soln Sig: One (1) Recon Soln 
+Injection QID (4 times a day): DOSE: 20 mg.
+Disp:*120 Recon Soln(s)* Refills:*2*
+18. Aspirin 81 mg Tablet, Delayed Release (E.C.) Sig: One (1) 
+Tablet, Delayed Release (E.C.) PO QD (once a day).
+Disp:*30 Tablet, Delayed Release (E.C.)(s)* Refills:*2*
+19. Acetaminophen 325 mg Tablet Sig: 1-2 Tablets PO Q4-6H (every 
+4 to 6 hours) as needed.
+Disp:*30 Tablet(s)* Refills:*0*
+20. Polyvinyl Alcohol 1.4 % Drops Sig: 1-2 Drops Ophthalmic  PRN 
+(as needed).
+Disp:*1 30* Refills:*2*
+21. Multivitamin,Tx-Minerals     Tablet Sig: One (1) Tablet PO 
+QD (once a day).
+Disp:*30 Tablet(s)* Refills:*2*
+22. Cyanocobalamin 500 mcg Tablet Sig: Two (2) Tablet PO QD 
+(once a day).
+Disp:*60 Tablet(s)* Refills:*2*
+23. Aluminum-Magnesium Hydroxide 225-200 mg/5 mL Suspension Sig: 
+15-30 MLs PO QID (4 times a day) as needed.
+Disp:*15 ML(s)* Refills:*0*
+24. Warfarin Sodium 5 mg Tablet Sig: 1.5 Tablets PO at bedtime.
+Disp:*45 Tablet(s)* Refills:*2*
+25. Enoxaparin Sodium 80 mg/0.8 mL Syringe Sig: One (1) 
+injection of 0.8 ML Subcutaneous Q12H (every 12 hours) for 4 
+days.
+Disp:*8 injection of 0.8 ML* Refills:*0*
+26. Dilaudid 4 mg Tablet Sig: 1-2 Tablets PO four times a day as 
+needed for pain for 7 days.
+Disp:*20 Tablet(s)* Refills:*0*
+27. Outpatient Lab Work
+Please obtain INR value on [**2916-8-30**]
+28. Cefepime HCl 2 g Piggyback Sig: One (1) Piggyback 
+Intravenous  Q12H (every 12 hours) for 10 days.
+Disp:*20 Piggyback(s)* Refills:*0*
+29. Other
+Please continue procrit administration as prior to 
+hospitalization. Normally given every other Tuesday.
+30. instruction
+Please take pentamadine as prior to hospitalization.
+(dose provided in the hospital on [**8-21**])
+31. Outpatient Lab Work
+Please obtain INR as an outpatient.
+Please send results to Dr. [**Last Name (STitle) 3258**]
+
+32. Oxygen
+Oxygen 2L via nasal cannual
+
+PRN dyspnea
+
+33. oxygen
+2 liters continuous 
+
+ 
+Discharge Disposition:
+Home with Service
+ 
+Discharge Diagnosis:
+PNA
+
+ 
+Discharge Condition:
+stable
+ 
+Discharge Instructions:
+Please return if [**Doctor First Name **] experience increasing shortness of breath, 
+chest pain or pressure
+
+Please continue procrit and pentamadine as prior to 
+hospitalization.
+ 
+Followup Instructions:
+Follow up with Dr. [**Last Name (STitle) 3258**] within 2 weeks. ([**Telephone/Fax (1) 461**])
+Appointment made Tuesday at 3:00 pm.
+
+Provider UROLOGY UNIT Where: [**Hospital6 53**] SURGICAL 
+SPECIALTIES Phone:[**Telephone/Fax (1) 775**] Date/Time:[**2916-9-16**] 9:00
+
+Provider [**First Name11 (Name Pattern1) **] [**Initial (NamePattern1) **] [**Last Name (NamePattern1) **], MD [**MD Number 52**]: [**Hospital6 53**] 
+CARDIAC SERVICES Phone:[**Telephone/Fax (1) 464**] Date/Time:[**2916-9-21**] 1:15
+
+ 
+                             [**Name6 (MD) 3584**] [**Last Name (NamePattern4) 4962**] MD, [**MD Number 4963**]
+ 
+Completed by: [**Name6 (MD) 2364**] [**Last Name (NamePattern4) 2365**] MD [**MD Number 2366**] [**2917-4-19**] @ 1505
+Signed electronically by: DR. [**First Name4 (NamePattern1) 3584**] [**Last Name (NamePattern1) **]
+ on: [**Doctor First Name 122**] [**2917-6-3**] 11:18 AM
+(End of Report)
+
+
+",,
+24248,11487,,,2916-08-20 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2916-8-20**] 12:19 PM
+     CHEST (PA & LAT)                                                Clip # [**Clip Number (Radiology) 924**]
+     Reason: Please evaluate for pneumonia                               
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        40 year old man with AIDS and multiple prior opportunistic infections   
+      (including PCP x5) and PE presents with fever, room air O2 74%, Left lower 
+      chest pain
+     REASON FOR THIS EXAMINATION:
+      Please evaluate for pneumonia                                                   
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: AIDS and history of opportunistic infections. Fever and hypoxia.
+     Left lower chest pain.
+     
+     COMPARISON: [**2916-7-6**].
+     
+     AP AND LATERAL CHEST: The heart size is unchanged. The pulmonary vascularity
+     is not increased. Patchy bibasilar opacities are present. There is no pleural
+     effusion or pneumothorax. The visualized osseous structures are unremarkable.
+     
+     IMPRESSION: Patchy bibasilar opacities consistent with pneumonia.
+
+",,
+24248,11487,,,2916-08-21 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2916-8-21**] 10:58 AM
+     [**Last Name (un) 212**] DUP EXTEXT BIL (MAP/DVT)                                    Clip # [**Clip Number (Radiology) 925**]
+     Reason: EVALUATE LE DUE TO PAIN HISTORY OF LEFT SIDED CLOT
+     Admitting Diagnosis: HYPOXIA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      40 year old man with history of pleuritic chest pain, PE suggested, history of 
+      chronic LE DVT (assess change)
+     REASON FOR THIS EXAMINATION:
+      evaluate LE                                                                     
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  History of pleuritic chest pain and known, chronic left lower
+     extremity DVTs, assess for interval change.
+     
+     COMPARISON:  [**2914-10-31**].
+     
+     TECHNIQUE:  [**Doctor Last Name **]-scale, color, and Doppler imaging of the left common femoral,
+     superficial femoral, deep femoral, and popliteal veins was performed.  Normal
+     flow and compressibility are demonstrated within the left common femoral vein.
+      Within the left superficial femoral vein, extending from the proximal portion
+     of the superficial femoral vein to the popliteal vein, there is echogenic
+     mural thrombus.  This is located in the regions previously involved with
+     thrombosis.  The non- thrombosed portions of the veins are compressible, and
+     there is color flow adjacent to the area of thrombus. The appearance is
+     suggestive of chronic thrombus. Normal color flow, compressibility, and
+     waveforms are demonstrated within the deep femoral vein. In addition, multiple
+     small collaterals are visualized adjacent to the thrombosed superficial
+     femoral vein, containing color flow.
+     
+     IMPRESSION:  Chronic deep venous thrombosis extending from the proximal left
+     superficial femoral vein to the left popliteal vein, with multiple
+     collaterals.
+
+",,
+24248,11487,,,2916-08-21 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2916-8-21**] 7:17 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 926**]
+     Reason: evaluate parenchyma                                         
+     Admitting Diagnosis: HYPOXIA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      40 year old man with history of pleuritic chest pain                            
+     REASON FOR THIS EXAMINATION:
+      evaluate parenchyma                                                             
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Pleuritic chest pain.
+     
+     COMPARISON:  Comparison is made to the prior examination of [**2916-8-20**].
+     
+     FINDINGS:  The cardiomediastinal borders are unchanged allowing for technique.
+     The pulmonary vasculature is unremarkable and unchanged.  Bibasilar opacities
+     are again noted, left greater than right,  with a component of linear
+     atelectasis now seen in the left lower lung zone.  There is no pneumothorax or
+     definite pleural effusions. Please note that the left costophrenic angle is
+     excluded from view. No pneumothorax.
+     
+     IMPRESSION:  No significant change from previous exam with the exception of
+     a component of linear atelectasis seen in the left lower lung zone.
+     
+
+",,
+24248,11487,30120,,2916-08-22 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+",,
+24248,11487,30120,,2916-08-22 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2916-8-22**] 9:16 AM
+     CT CHEST W/O CONTRAST                                           Clip # [**Clip Number (Radiology) 927**]
+     Reason: please assess for pneumonia, ? PE (although not gold standar
+     Admitting Diagnosis: HYPOXIA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      40 year old man with HIV and history of lupus anticoagulant with recurrent PEs 
+      now with acute shortness of breath
+     REASON FOR THIS EXAMINATION:
+      please assess for pneumonia, ? PE (although not gold standard )                 
+     CONTRAINDICATIONS for IV CONTRAST:
+      elevated creatinine
+     ______________________________________________________________________________
+                                     FINAL REPORT  (REVISED)
+     HISTORY:  HIV positive patient with acute shortness of breath and history of
+     recurrent pulmonary embolism.  History of lupus anticoagulent antibody.
+     
+     COMPARISON:  [**2915-9-26**] and [**2915-9-23**].
+     
+     TECHNIQUE:  Axial multidetector CT scan of the chest was performed without
+     contrast.  Intravenous contrast was withheld due to the patient's renal
+     failure.
+     
+     CHEST CT w/o CONTRAST:  There are no pathologically enlarged mediastinal or
+     axillary lymph nodes. Pulmonary vasculature cannot be evaluated in the absence
+     of intravenous contrast. There is no pericardial effusion. There is a small
+     left pleural effusion. There is a combination of atelectasis and consolidation
+     in the left lower lobe, consistent with pneumonia. The airways are patent to
+     the level of the segmental bronchi bilaterally.
+     
+     Multiple small pulmonary nodules are again seen. The majority of the nodules
+     appear smaller or unchanged in size compared to [**2915-9-26**]. However, the most
+     superior nodule in the left upper lobe, at the lateral left lung apex,
+     measures 6 x 6 mm, which is slightly larger than on [**2915-9-26**].  There is also a
+     new 4 x 4 mm nodule just lateral to the proximal left subclavian artery. These
+     differences may be secondary to slice selection. Unfortunately, chest CT scans
+     performed in [**2913**] cannot be currently retrieved from the PACS archiving system
+     for further comparison. Comparison to those studies is recommended when
+     feasible.
+     
+     A large cyst is again partially visualized in the upper pole of the right
+     kidney.  The visualized portions of the liver, spleen, pancreas, adrenal
+     glands, and left kidney appear unremarkable.  The visualized osseous
+     structures are also unremarkable.
+     
+     The findings were discussed with Dr. [**Last Name (STitle) 928**] at 2:30 PM on [**2916-8-22**].
+     
+     IMPRESSION
+     
+     1.  Left lower lobe pneumonia and a small left pleural effusion.
+     
+     2.  Slight enlargement of a small nodule at the left lung apex and a new
+     nodule in the medial left upper lobe nodule, possibly representing differences
+                                                                 (Over)
+
+     DATE: [**2916-8-22**] 9:16 AM
+     CT CHEST W/O CONTRAST                                           Clip # [**Clip Number (Radiology) 927**]
+     Reason: please assess for pneumonia, ? PE (although not gold standar
+     Admitting Diagnosis: HYPOXIA
+     ______________________________________________________________________________
+                                     FINAL REPORT  (REVISED)
+     (Cont)
+     in slice selection compared to [**9-23**]. Comparison with chest CT scans from [**2913**]
+     is recommended when feasible.  The remainder of pulmonary nodules are
+     unchanged.
+
+",,
+24248,11487,30120,0,2916-08-22 05:01:00 EST,2916-08-22 05:50:00 EST,6325,"N",69,"Nursing/Other",,"
+
+1900-0700
+
+  Received pt from 11 [**Hospital Ward Name **] with c/o of lethargy after receiving MOS4,Dilaudid,? resp compromise. Pt admitted to [**Hospital1 3**] [**2916-8-20**] with c/o of L Chest pain, hypoxia, temp 101.1, productive cough. Admitted with dx r/o PE/PCP [**Name Initial (PRE) **]. INR sub theraputic 0.6.CXR on admission showed patchy bibasilar opacities.Pt has significant medical hx: HIV+/AIDS(CD4 9 and VL23K in Aug) with multiple opportunistic infections:see chart. Pt DNR/DNI.   
+
+Neuro: Pt awake, alert, oriented, follows commands well, moves all ext well. No evidence of lethargy. Seizure precautions due to scar tissue from brain abcess. Neuropathic pain receiving neurontin.
+
+Resp: 5L NC, resp easy and regular.O2sat 90-98%, no SOB noted. Desaturation noted with removal of O2. Lungs clear RUL, diminished RLL, clear LUL, crackles LLL. Pt receiving Pentamidine inhaler, albuterol, Salmeterol Xinafoate Diskus.
+
+CV: NSR on c-monitor, BP stable, HR 80's, afebrile. EKG completed @ 2100:NSR. Denies L chest pain. 1/2NSS@100cc/hr+ Heparin drip infusing @ 1300u/hr. Started on warfin. PTT 88.7, INR 1.1, WBC 2.4. Antibiotic cov:Clindamycin, Cefepime, Azithromycin. Hx: RCA stent, IMI,systolic murmur. +pulses to lower ext, no edema noted. Skin warm/dry/intact. Pt for Echo today.
+
+GI/GU: House diet, pt tolerating well. abd flat soft + BS, BM noted. Voiding via urinal. HX of renal stones, renal insufficiency?. 
+
+Plan: Continue anticoagulation, cont antibiotic coverage. Possible transfer-tele. Check cultures.
+
+                    [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 1947**] RN    
+",,
+24248,11487,30120,0,2916-08-22 17:09:00 EST,2916-08-22 17:51:00 EST,5192,"N",69,"Nursing/Other","micu/sicu nsg note: 07:00-19:00","
+micu/sicu nsg note: 07:00-19:00
+events: spiked temp to 100.9 with c/o feeling warm,headache tx'd with po tylenol. continues with l rib pain esp with deep breaths. had an episode of palpitations around l rib around 11am with no significant ekg changes per team. palpitations subsided as pt's pain subsided with dilaudid. pt has required dilaudid po and sc dilaudid for breakthrough pain. had chest ct in am revealing lll pna. cardiac echo also done with no change from previous one/no new r heart strain. no evidence of pcp [**Name6 (MD) 59**] id md/pcp meds [**Name Initial (PRE) **]/c'd. pt desats to 80s when takes 02 off to blow nose but goes up to low 90s when 5lnc replaced, up to high 90s at rest. 
+
+neuro: a&ox3, mae, able to reposition self in bed independently. able to transfer to commode with contact guard just to assist with multiple equipment wires. 
+
+cv: hr ranging 80-89 sr with no ectopy noted. bp ranging 92-116/48-85. +strong pp, +csm. heparin gtt infusing at 1300u/hr(per team, still not clear if pt with an acute PE but since difinitive dx, will continue iv heparin gtt and coumadin for antiphospholipid syndrome.) required 500cc ns bolus this am when bp 91/49, responded fairly well with bp up to 103/51, and sbp has mainly been high 90s to low 100s. had one episode of palpitations in l rib area resolving after rib pain controlled with dilaudid/no ekg changes. 
+
+resp: lungs cta in upper lung fields, decreased in r base, crackles in l base. sp02 ranging 92-97%. desats to 80s when 02 off to blow nose. +doe when oob to commode washing up relieved with rest. no cough or sputum production. no evidence of pcp-[**Name10 (NameIs) 4363**] meds [**Name Initial (PRE) **]/c'd. continues on iv cefipime for pna.
+
+gi/gu: abd soft, nt,nd, +bs, +nausea requiring 8mg iv zofran x2 with good effect in am/fair effect in pm. fair po intake of house diet. bm x2: brown loose ob negative. voiding adequate amts clear yellow urine via urinal. receiving 2nd liter of 1/2 ns at 100cc/hr. 
+
+skin: cwd&i. 
+
+lines: ra #18 g patent. iv rn attempted 2nd iv several times without success for backup iv.
+
+social: mother and sister in to visit today. very supportive. will continue to assess need for services t/o hospital stay.
+
+plan: continue to monitor resp status and bp. per team if sbp remains in low 90s, may need further ivf boluses. continue abx, monitor temp, follow micro data, iv zofran prn nausea, dilaudid po prn l pleuritic pain, sc prn breakthrough pain. pentamidine inhalation in am by respiratory. 
+",,
+24248,11487,30120,0,2916-08-23 05:19:00 EST,2916-08-23 05:49:00 EST,511,"N",69,"Nursing/Other",,"
+
+NARRATIVE NOTE:
+
+RESP: SAO2 93-97% ON 5L N/C. LUNGS CLEAR IN UPPER LOBES, RALES IN LOWER LOBES. INTERMITTENT NPC. NO SOB NOTED THROUGHOUT NIGHT.
+
+CV: B/P HAS RANGED FROM 87/43-114/66. NSR WITH H/R 70-80 RANGE, NO ECTOPY NOTED. TMAX 99.9, TYLENOL 650 MG. PPP BILAT. SKIN W/D TO TOUCH, PALE IN COLOR. NO PALPATATIONS NOTED THROUGHOUT SHIFT.
+
+NEURO: INTACT. MAE PEARL. A&O X3.
+
+GU/GI: MOD SOFT FORMED BM. BS+X4 QUADS. ABD SOFT, NON-TENDER. VOIDS IN URINAL, CLEAR DARK YELLOW URINE.
+
+IV ACCESS: R AC PERIPHERAL SITE WITH SM AMT OOZING BLOOD AT SITE. IV NOT INFILTRATED. HEPARIN GTT REMAINS AT 1300 UNITS. 2ND LINE STARTED, #20 UPPER RIGHT ARM.
+
+PLAN: CONT ON ATB. MONITOR FOR S&S OF INCREASED INFECTION. CONT TO PROVIDE EMOTINAL SUPPORT. 
+",,
+24248,11487,30120,0,2916-08-23 18:35:00 EST,2916-08-23 18:59:00 EST,5192,"N",69,"Nursing/Other","micu/sicu nsg note: 07:00-19:00","
+micu/sicu nsg note: 07:00-19:00
+events: hypotensive(sbp in low 80s) in am responding to 500cc ns bolus. tmax 100.2, now afebrile. subtherapeutic ptt, heparin increased to 1500u/hr at 5pm. improved mobility and l rib pain and 02 sats-tolerating 02 wean to 2lnc. had lost some blood at 6pm when hl cap fell off and blood on sheets and clothes. awaiting stat hct. 
+
+neuro: a&ox3, mae, able to ambulate to commode/chair independently but requires help with medical equipment. able to ambulate to room 409 and back with minimal doe with o2 sats in low 90s after walked back to room and sat in chair. perrla 3mm brisk.
+
+cv: hr ranging 71-80 sr with no ectopy noted. bp ranging 83/51-had received 500cc ns bolus- to 103/43. bp up to 130s after hl had fallen out with some blood loss on sheets. micu md aware of blood loss incident. +strong pp, +csm, no edema. 
+
+resp: lungs cta in upper lung fields, crackles at bases. occas + dry cough. had pentamidine inhalant tx this am. sp02 in low 90s with activity, in high 90s at rest on 2lnc. given incentive spirometer and using with good technique q1hr while awake.
+
+gi/gu: abd soft, nt/nd, +bs, appetite fair for breakfast, did not feel like eating lunch, minimal dinner intake. denies n/v, just states not that hungry. voiding clear yellow urine via urinal+ had some mixed with loose brown ob negative stool x1. u.o. seems decreased (see carevue for details)-team aware and pt written to continue with 1/2 ns at 100cc/hr. 
+
+skin: cwd&i.
+
+comfort: still c/o l rib pain but states it's a 5 and feels much better today and that he doesn't need the dilaudid today. c/o feeling anxious in early afternoon and requested dilaudid to [**Doctor Last Name **]. pt appeared comfortable and was dozing on and off in the afternoon-no dilaudid was given. 
+
+lines: rantecub iv was sl leaking around site. d/c'd and iv rn placed 2 new pivs in l arm: lhand #22g, lposterior upper arm #20g-both patent. 
+
+id: t max 100.3-now down to 97.4po. continues on iv cefepime for pna. 
+
+plan: continue to monitor lung exam, abx, monitor temp, cont to monitor micro data, follow up with stat hct results, pt to have [**Last Name (un) 414**] stim test: baseline cortisol level drawn at 6:45pm, continue ivf, cont incentive spirometer use, cont oob with amb as tolerated, continue to provide emotional support, continue to assess level of comfort-dilaudid prn. redraw ptt at 11pm and continue iv heparin gtt per ss. 
+",,
+24248,11487,30120,0,2916-08-24 03:24:00 EST,2916-08-24 03:38:00 EST,5197,"N",69,"Nursing/Other",,"
+
+NARRATIVE NOTE:
+
+RESP: SAO2 91-97% ON 3L N/C. LUNGS CLEAR IN UPPER LOBES WITH RALES IN BASES. NPC. NO SOB NOTED. 
+
+CV: B/P RANGE 81/35 AFTER PT RECIEVED PO MORPHINE AND FELL ASLEEP, B/P INCREASED TO 90 SYSTOLIC WHEN AWAKENED, TO HIGH OF 135/86. PPP BILAT, STRONG. SKIN W/D TO TOUCH, SLIGHTLY PALE IN COLOR. HEPARIN GTT INFUSING AT 1500 UNITS/HR. PTT AT 2300, 98. PTT GOAL 90-100, NO CHANGES MADE. HCT @ 2300 25.3, DROPPED FROM 27.6 @ 1800. MD AWARE, WILL RECHECK HCT AND PTT WITH AM LABS. H/R NSR WITH RATE 62-83, NO ECTOPY NOTED.
+
+NEURO: A&O X3. MAE. PEARL. DOZED ON AND OFF THROUGHOUT NIGHT. NO RESTLESSNESS OR ANXIETY NOTED. 
+
+GU/GI: VOIDING IN MED-LG AMTS. VERY SM SOFT LIGHT BROWN STOOL. UNABLE TO CHECK OB, STOOL MIXED WITH URINE. ABD SOFT, NON-TENDER. BS+X4 QUADS.
+
+PLAN: MONITOR HCT FOR FURTHER DROP. OBSERVE STOOLS CHECK FOR OB. MONITOR PTT AND TITRATE HEPARIN GTT ACCORDINGLY. ASSIST PT TO GET UP IN CHAIR AND AMB SHORT DISTANCES. PROVIDE EMOTIONAL SUPPORT THROUGHOUT.
+
+",,
+24248,11487,30120,0,2916-08-24 13:43:00 EST,2916-08-24 13:50:00 EST,895,"N",69,"Nursing/Other","PMICU Nursing Progress Note 9a-3p","
+PMICU Nursing Progress Note 9a-3p
+Pt called out and awaiting bed on flr.  Nsg transfer note completed by night shift RN.
+
+Review of Systems
+
+Neuro- AxOx3, cooperative w/ care. OOB to chair for most of day, MAE, ambulates well. No c/o pn, continues on MS contin and neurontin PO w. good effect.
+CV- Hemodynamically stable. Cont on Heparin gtt at 1400 u/hr, PTT sent at 1400. Goal 60-80, plan to follow up w/ team. 2 attempts made at HCT bld draw, veins kept collapsing plan to try again this afternoon. HO notified. Repleted w/ 2 g of mag sulfate IVP. Low grade temp 99.1, cont on multiple IVAB.
+Resp- 2L NC, sats 93-96%. LS clr in upper lobes, rales in bases. Cont on atrovent. No cough.
+Gi- Abd soft, +BS, no BM today (last o/n). Good appetite, ate most of lunch. Cont on NS @ 100 cc/hr.
+GU- Adequate u/o, voids in urinal. Please refer to CV for FB.
+Plan- Cont supportive medical care, pt's mother in to see pt this am.
+
+
+",,
+24248,11487,30120,0,2916-08-24 19:13:00 EST,2916-08-24 19:21:00 EST,348,"N",69,"Nursing/Other","3-11 pm npn","
+[**1-30**] pm npn
+CV/HEME:  bp 104/53   HR 70's SR  no VEA,  remains on Heparin gtt @ 1400 u/hr,   IVF 1/2 NS @ 100cc/hr.    PTT 97.1  (goal 81-100)   Hct 25.5  (transfuse less than 23) 
+
+RESP:   remains on 3 l n/p    rr~20-22  O2 sats 92-95%   lungs w/ crackle @ bases   no c/o SOB 
+
+GI:  fair appetite this eve,  taking in po's   no stool.   c/o nausea~pt medicated with 8 mg IV Zofran x1 with good affect. 
+
+GU:  voiding clear, yellow urine via urinal. 
+
+NEURO:  A+Ox3, MAE   continues on Neurotin  1000 mg po TID and Morphine Sulfate SR 45 mg po q 8 hrs    OOB to chair 
+
+PLAN:  continue to follow Hct, PTT, continue IV Heparin gtt,  O2 @ 3 l n/p   OOB to chair  pt called out to the floor, note done   pt is DNR/DNI
+",,
+24248,11487,,,2916-08-26 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2916-8-26**] 12:52 PM
+     PICC LINE PLACMENT SCH                                          Clip # [**Clip Number (Radiology) 929**]
+     Reason: please place PICC line.                                     
+     Admitting Diagnosis: HYPOXIA
+     ********************************* CPT Codes ********************************
+     * 36569 PICC W/O [**State/Zipcode 259**] FLUOR GUID PLCT/REPLCT/REMOVE *
+     * C1751 CATH [**Last Name (LF) 260**],[**First Name3 (LF) 261**]/CENT/MID(NOT D C1769 GUID WIRES INCL INF           *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      40 year old man with history of AIDS/PNA, needs IV antibiotics                  
+     REASON FOR THIS EXAMINATION:
+      please place PICC line.                                                         
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY: 40 year old with history of AIDS, needs intravenous antibiotics.
+     
+     PROCEDURE/FINDINGS:
+     The procedure was performed by Dr. [**First Name8 (NamePattern2) 930**] [**Name (STitle) 931**] and Dr. [**First Name8 (NamePattern2) 282**] [**Name (STitle) 4**], with Dr.
+     [**Last Name (STitle) 4**] supervising the procedure. The patient was placed supine on the
+     angiographic table. The right upper arm was prepped and draped in standard
+     sterile fashion. Under ultrasonographic guidance, after administration of 1%
+     lidocaine a 21 gauge needle was advanced into the right brachial vein. The
+     measuring guide wire was introduced through the needle, but could not be
+     advanced into the right brachial vein. This was exchanged for an .018 Nitinol
+     wire which also could not be advanced. Subsequently an .018 glide wire was
+     used, which was advanced under fluoroscopic guidance into the distal SVC. The
+     needle was exchanged for a 4 Fr sheath. It was determined that a length of 35
+     cm would be suitable. A 4 Fr single-lumen PICC line was advanced over the wire
+     and the peelaway sheath removed using fluoroscopic guidance. The wire was
+     removed and chest x- ray obtained which demonstrated tip of the PICC line to
+     be in the distal superior vena cava. The line was flushed and heplocked, and
+     secured with a StatLock. The line is ready for use.
+     
+     COMPLICATIONS: None.
+     
+     IMPRESSION: Successful placement of 35 cm single-lumen right brachial PICC
+     line with tip in distal SVC, ready for use.
+     
+     
+     
+
+",,
+24248,11487,,,2916-08-26 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2916-8-26**] 12:52 PM
+     PICC LINE PLACMENT SCH                                          Clip # [**Clip Number (Radiology) 929**]
+     Reason: please place PICC line.                                     
+     Admitting Diagnosis: HYPOXIA
+     ********************************* CPT Codes ********************************
+     * 36569 PICC W/O [**State/Zipcode 259**] FLUOR GUID PLCT/REPLCT/REMOVE *
+     * C1751 CATH [**Last Name (LF) 260**],[**First Name3 (LF) 261**]/CENT/MID(NOT D C1769 GUID WIRES INCL INF           *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      40 year old man with history of AIDS/PNA, needs IV antibiotics                  
+     REASON FOR THIS EXAMINATION:
+      please place PICC line.                                                         
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY: 40 year old with history of AIDS, needs intravenous antibiotics.
+     
+     PROCEDURE/FINDINGS:
+     The procedure was performed by Dr. [**First Name8 (NamePattern2) 930**] [**Name (STitle) 931**] and Dr. [**First Name8 (NamePattern2) 282**] [**Name (STitle) 4**], with Dr.
+     [**Last Name (STitle) 4**] supervising the procedure. The patient was placed supine on the
+     angiographic table. The right upper arm was prepped and draped in standard
+     sterile fashion. Under ultrasonographic guidance, after administration of 1%
+     lidocaine a 21 gauge needle was advanced into the right brachial vein. The
+     measuring guide wire was introduced through the needle, but could not be
+     advanced into the right brachial vein. This was exchanged for an .018 Nitinol
+     wire which also could not be advanced. Subsequently an .018 glide wire was
+     used, which was advanced under fluoroscopic guidance into the distal SVC. The
+     needle was exchanged for a 4 Fr sheath. It was determined that a length of 35
+     cm would be suitable. A 4 Fr single-lumen PICC line was advanced over the wire
+     and the peelaway sheath removed using fluoroscopic guidance. The wire was
+     removed and chest x- ray obtained which demonstrated tip of the PICC line to
+     be in the distal superior vena cava. The line was flushed and heplocked, and
+     secured with a StatLock. The line is ready for use.
+     
+     COMPLICATIONS: None.
+     
+     IMPRESSION: Successful placement of 35 cm single-lumen right brachial PICC
+     line with tip in distal SVC, ready for use.
+     
+     
+     
+
+",,
+24248,11487,,,2916-08-26 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2916-8-26**] 12:52 PM
+     PICC LINE PLACMENT SCH                                          Clip # [**Clip Number (Radiology) 929**]
+     Reason: please place PICC line.                                     
+     Admitting Diagnosis: HYPOXIA
+     ********************************* CPT Codes ********************************
+     * 36569 PICC W/O [**State/Zipcode 259**] FLUOR GUID PLCT/REPLCT/REMOVE *
+     * C1751 CATH [**Last Name (LF) 260**],[**First Name3 (LF) 261**]/CENT/MID(NOT D C1769 GUID WIRES INCL INF           *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      40 year old man with history of AIDS/PNA, needs IV antibiotics                  
+     REASON FOR THIS EXAMINATION:
+      please place PICC line.                                                         
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY: 40 year old with history of AIDS, needs intravenous antibiotics.
+     
+     PROCEDURE/FINDINGS:
+     The procedure was performed by Dr. [**First Name8 (NamePattern2) 930**] [**Name (STitle) 931**] and Dr. [**First Name8 (NamePattern2) 282**] [**Name (STitle) 4**], with Dr.
+     [**Last Name (STitle) 4**] supervising the procedure. The patient was placed supine on the
+     angiographic table. The right upper arm was prepped and draped in standard
+     sterile fashion. Under ultrasonographic guidance, after administration of 1%
+     lidocaine a 21 gauge needle was advanced into the right brachial vein. The
+     measuring guide wire was introduced through the needle, but could not be
+     advanced into the right brachial vein. This was exchanged for an .018 Nitinol
+     wire which also could not be advanced. Subsequently an .018 glide wire was
+     used, which was advanced under fluoroscopic guidance into the distal SVC. The
+     needle was exchanged for a 4 Fr sheath. It was determined that a length of 35
+     cm would be suitable. A 4 Fr single-lumen PICC line was advanced over the wire
+     and the peelaway sheath removed using fluoroscopic guidance. The wire was
+     removed and chest x- ray obtained which demonstrated tip of the PICC line to
+     be in the distal superior vena cava. The line was flushed and heplocked, and
+     secured with a StatLock. The line is ready for use.
+     
+     COMPLICATIONS: None.
+     
+     IMPRESSION: Successful placement of 35 cm single-lumen right brachial PICC
+     line with tip in distal SVC, ready for use.
+     
+     
+     
+
+",,
+24248,11487,,,2916-08-26 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2916-8-26**] 12:52 PM
+     PICC LINE PLACMENT SCH                                          Clip # [**Clip Number (Radiology) 929**]
+     Reason: please place PICC line.                                     
+     Admitting Diagnosis: HYPOXIA
+     ********************************* CPT Codes ********************************
+     * 36569 PICC W/O [**State/Zipcode 259**] FLUOR GUID PLCT/REPLCT/REMOVE *
+     * C1751 CATH [**Last Name (LF) 260**],[**First Name3 (LF) 261**]/CENT/MID(NOT D C1769 GUID WIRES INCL INF           *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      40 year old man with history of AIDS/PNA, needs IV antibiotics                  
+     REASON FOR THIS EXAMINATION:
+      please place PICC line.                                                         
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY: 40 year old with history of AIDS, needs intravenous antibiotics.
+     
+     PROCEDURE/FINDINGS:
+     The procedure was performed by Dr. [**First Name8 (NamePattern2) 930**] [**Name (STitle) 931**] and Dr. [**First Name8 (NamePattern2) 282**] [**Name (STitle) 4**], with Dr.
+     [**Last Name (STitle) 4**] supervising the procedure. The patient was placed supine on the
+     angiographic table. The right upper arm was prepped and draped in standard
+     sterile fashion. Under ultrasonographic guidance, after administration of 1%
+     lidocaine a 21 gauge needle was advanced into the right brachial vein. The
+     measuring guide wire was introduced through the needle, but could not be
+     advanced into the right brachial vein. This was exchanged for an .018 Nitinol
+     wire which also could not be advanced. Subsequently an .018 glide wire was
+     used, which was advanced under fluoroscopic guidance into the distal SVC. The
+     needle was exchanged for a 4 Fr sheath. It was determined that a length of 35
+     cm would be suitable. A 4 Fr single-lumen PICC line was advanced over the wire
+     and the peelaway sheath removed using fluoroscopic guidance. The wire was
+     removed and chest x- ray obtained which demonstrated tip of the PICC line to
+     be in the distal superior vena cava. The line was flushed and heplocked, and
+     secured with a StatLock. The line is ready for use.
+     
+     COMPLICATIONS: None.
+     
+     IMPRESSION: Successful placement of 35 cm single-lumen right brachial PICC
+     line with tip in distal SVC, ready for use.
+     
+     
+     
+
+",,
+24248,,,,2916-10-27 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2916-10-27**] 6:59 PM
+     CHEST (PA & LAT)                                                Clip # [**Clip Number (Radiology) 932**]
+     Reason: eval for pulm infiltrates/consolidation                     
+     Admitting Diagnosis: PNEUMOCYSTIS PNEUMONIA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      40 year old man with HIV/AIDS h/o PCP and SOB                                   
+     REASON FOR THIS EXAMINATION:
+      eval for pulm infiltrates/consolidation                                         
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CLINICAL INDICATION:  AIDS.  PCP.  [**Name10 (NameIs) 933**] of breath.  
+     
+     Compared to [**2916-8-21**].
+     
+     The heart size is normal.  There is a rounded configuration of the left hilum,
+     which appears stable.  The right hilar contour and medistinal contours are
+     normal.  The lungs demonstrate interval improvement in previously present left
+     lower lobe opacity with residual hazy areas of opacity remaining.  On the
+     lateral view this appears somewhat more confluent, however.  The right lung is
+     grossly clear, except for a small granuloma in the right upper lobe and a
+     peripheral area of linear opacity in the right mid lung zone.
+     
+     Review of the patient's Radiology folder reveals that a chest CT was performed
+     on [**2916-8-21**].
+     
+     IMPRESSION:
+     1. Improving left lower lobe process, likely due to resolving pneumonia.
+     
+     2. Rounded appearance of left hilar region. When available, direct comparison
+     will be made to the [**2916-8-22**], CT scan, and an addendum will be issued
+     to this report.
+     
+     ADDENDUM: The left hilum appears stable to the scout image of the CT scan.
+     This may be due to prominent vessels, but it is difficult to exclude lymph
+     node enlargement as the CT was performed without intravenous contrast. 
+     
+     
+
+",,
+24248,,,,2917-02-05 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2917-2-5**] 5:45 PM
+     CT ABDOMEN W/O CONTRAST; CT PELVIS W/O CONTRAST                 Clip # [**Clip Number (Radiology) 935**]
+     CT RECONSTRUCTION
+     Reason: eval for kidney stone, colitis, diverticulitis              
+     Admitting Diagnosis: RENAL FAILURE-DEHYDRATION
+     Field of view: 39
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      41 year old man with lower abdominal pain, AIDS, fever, also has h/o kidney 
+      stone and had flank pain yesterday
+     REASON FOR THIS EXAMINATION:
+      eval for kidney stone, colitis, diverticulitis                                  
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+     WET READ: KKXa FRI [**2917-2-5**] 10:13 PM
+      No renal calculus seen or hydronephrosis. Study limited because it is non-
+      contrast but there is subtle stranding about the right kidney. This maybe
+      old/chronic though as the patient had a CT in [**2916-5-21**] which showed acute
+      changes at that time related to right ureteral stone. Please correlate with
+      UA. No definite bowel abnormality; no obstruction or mesenteric stranding.
+      Shoddy retroperitoneal nodes are unchanged from prior report. I am at 42563
+      for questions.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Lower abdominal pain, AIDS, and fever.  The patient has history
+     of kidney stones and had flank pain yesterday.
+     
+     COMPARISON:  [**2916-6-10**].
+     
+     TECHNIQUE:  Contiguous axial images through the abdomen and pelvis were
+     obtained with oral contrast only.  IV contrast was not administered due to the
+     patient's rising creatinine of 2.2.  Coronal and sagittal reformations were
+     obtained.
+     
+     CT OF THE ABDOMEN WITHOUT IV CONTRAST:  There is scarring and atelectasis at
+     the lung bases.  There are coronary artery calcifications.  The noncontrast-
+     enhanced liver, gallbladder, spleen, pancreas, and adrenals are normal.  There
+     is a large hypodense cyst of the right upper pole of the kidney that is not
+     well characterized on this noncontrast-enhanced study, but likely unchanged.
+     The right kidney remains slightly enlarged compared to the left. There is
+     stranding about the right kidney, which may indicate the recent passage of a
+     stone, though no radiopaque stones are identified.  There is no
+     hydronephrosis. The stomach and proximal small bowel are unremarkable.  No
+     free air within the abdomen.  Small and large bowel are unremarkable.  At the
+     hepatic flexure, there is a small area of focal colonic wall thickening that
+     is likely related to focal peristalsis. There are small retroperitoneal lymph
+     nodes present that do not meet CT criteria for pathologic enlargement.  They
+     measure up to 8 mm in short axis.  There are also small lymph nodes at the
+     porta hepatis.
+     
+     CT OF THE PELVIS WITH CONTRAST:  The rectum, sigmoid, and bladder are
+     unremarkable.  No free fluid within the pelvis, and no pathologically enlarged
+     lymph nodes.  The appendix is not visualized, though there is no stranding
+                                                                 (Over)
+
+     DATE: [**2917-2-5**] 5:45 PM
+     CT ABDOMEN W/O CONTRAST; CT PELVIS W/O CONTRAST                 Clip # [**Clip Number (Radiology) 935**]
+     CT RECONSTRUCTION
+     Reason: eval for kidney stone, colitis, diverticulitis              
+     Admitting Diagnosis: RENAL FAILURE-DEHYDRATION
+     Field of view: 39
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     within the right lower quadrant.
+     
+     BONE WINDOWS:  There is an unusual appearance of the femoral heads
+     bilaterally, which may be related to prior trauma or avascular necrosis.
+     
+     Multiplanar reformatted images were essential in delineating the anatomy in
+     this case.
+     
+     IMPRESSION:
+     
+     1)  Stranding about the right kidney, without radiopaque renal or ureteric
+     stone present.  Note that Indinavir stones are radiolucent. The findings may
+     be related to recent stone passage or a radiolucent stone.
+     
+     2)  No evidence of appendicitis or diverticulitis.
+     
+     3)  Small lymph nodes within the retroperitoneum and at the porta hepatis.
+     
+     4)  Coronary artery calcifications.
+     
+     5)  Abnormal appearance of the femoral heads, which may be related to prior
+     trauma or avascular necrosis.
+     
+
+",,
+24248,,,,2917-02-05 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2917-2-5**] 2:59 PM
+     CHEST (PA & LAT)                                                Clip # [**Clip Number (Radiology) 934**]
+     Reason: eval for penumonia                                          
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      41 year old man with fever, AIDS                                                
+     REASON FOR THIS EXAMINATION:
+      eval for penumonia                                                              
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Fever and HIV.  Evaluate for pneumonia.
+     
+     COMPARISON:  [**2916-10-27**]
+     
+     PA AND LATERAL CHEST:  The heart size is normal.  The mediastinal and hilar
+     contours are unchanged.  The left hilum again has a rounded contour.  There is
+     new ill-defined opacity of the left upper lobe concerning for pneumonia. There
+     is also subtle opacity of the right upper lobe. No pleural effusions.  The
+     osseous structures are unchanged.
+     
+     IMPRESSION:  Left upper lobe pneumonia.
+
+",,
+24248,,,,2917-02-05 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2917-2-5**] 5:45 PM
+     CT ABDOMEN W/O CONTRAST; CT PELVIS W/O CONTRAST                 Clip # [**Clip Number (Radiology) 935**]
+     CT RECONSTRUCTION
+     Reason: eval for kidney stone, colitis, diverticulitis              
+     Admitting Diagnosis: RENAL FAILURE-DEHYDRATION
+     Field of view: 39
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      41 year old man with lower abdominal pain, AIDS, fever, also has h/o kidney 
+      stone and had flank pain yesterday
+     REASON FOR THIS EXAMINATION:
+      eval for kidney stone, colitis, diverticulitis                                  
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+     WET READ: KKXa FRI [**2917-2-5**] 10:13 PM
+      No renal calculus seen or hydronephrosis. Study limited because it is non-
+      contrast but there is subtle stranding about the right kidney. This maybe
+      old/chronic though as the patient had a CT in [**2916-5-21**] which showed acute
+      changes at that time related to right ureteral stone. Please correlate with
+      UA. No definite bowel abnormality; no obstruction or mesenteric stranding.
+      Shoddy retroperitoneal nodes are unchanged from prior report. I am at 42563
+      for questions.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Lower abdominal pain, AIDS, and fever.  The patient has history
+     of kidney stones and had flank pain yesterday.
+     
+     COMPARISON:  [**2916-6-10**].
+     
+     TECHNIQUE:  Contiguous axial images through the abdomen and pelvis were
+     obtained with oral contrast only.  IV contrast was not administered due to the
+     patient's rising creatinine of 2.2.  Coronal and sagittal reformations were
+     obtained.
+     
+     CT OF THE ABDOMEN WITHOUT IV CONTRAST:  There is scarring and atelectasis at
+     the lung bases.  There are coronary artery calcifications.  The noncontrast-
+     enhanced liver, gallbladder, spleen, pancreas, and adrenals are normal.  There
+     is a large hypodense cyst of the right upper pole of the kidney that is not
+     well characterized on this noncontrast-enhanced study, but likely unchanged.
+     The right kidney remains slightly enlarged compared to the left. There is
+     stranding about the right kidney, which may indicate the recent passage of a
+     stone, though no radiopaque stones are identified.  There is no
+     hydronephrosis. The stomach and proximal small bowel are unremarkable.  No
+     free air within the abdomen.  Small and large bowel are unremarkable.  At the
+     hepatic flexure, there is a small area of focal colonic wall thickening that
+     is likely related to focal peristalsis. There are small retroperitoneal lymph
+     nodes present that do not meet CT criteria for pathologic enlargement.  They
+     measure up to 8 mm in short axis.  There are also small lymph nodes at the
+     porta hepatis.
+     
+     CT OF THE PELVIS WITH CONTRAST:  The rectum, sigmoid, and bladder are
+     unremarkable.  No free fluid within the pelvis, and no pathologically enlarged
+     lymph nodes.  The appendix is not visualized, though there is no stranding
+                                                                 (Over)
+
+     DATE: [**2917-2-5**] 5:45 PM
+     CT ABDOMEN W/O CONTRAST; CT PELVIS W/O CONTRAST                 Clip # [**Clip Number (Radiology) 935**]
+     CT RECONSTRUCTION
+     Reason: eval for kidney stone, colitis, diverticulitis              
+     Admitting Diagnosis: RENAL FAILURE-DEHYDRATION
+     Field of view: 39
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     within the right lower quadrant.
+     
+     BONE WINDOWS:  There is an unusual appearance of the femoral heads
+     bilaterally, which may be related to prior trauma or avascular necrosis.
+     
+     Multiplanar reformatted images were essential in delineating the anatomy in
+     this case.
+     
+     IMPRESSION:
+     
+     1)  Stranding about the right kidney, without radiopaque renal or ureteric
+     stone present.  Note that Indinavir stones are radiolucent. The findings may
+     be related to recent stone passage or a radiolucent stone.
+     
+     2)  No evidence of appendicitis or diverticulitis.
+     
+     3)  Small lymph nodes within the retroperitoneum and at the porta hepatis.
+     
+     4)  Coronary artery calcifications.
+     
+     5)  Abnormal appearance of the femoral heads, which may be related to prior
+     trauma or avascular necrosis.
+     
+
+",,
+24248,,,,2917-02-05 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2917-2-5**] 5:45 PM
+     CT ABDOMEN W/O CONTRAST; CT PELVIS W/O CONTRAST                 Clip # [**Clip Number (Radiology) 935**]
+     CT RECONSTRUCTION
+     Reason: eval for kidney stone, colitis, diverticulitis              
+     Admitting Diagnosis: RENAL FAILURE-DEHYDRATION
+     Field of view: 39
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      41 year old man with lower abdominal pain, AIDS, fever, also has h/o kidney 
+      stone and had flank pain yesterday
+     REASON FOR THIS EXAMINATION:
+      eval for kidney stone, colitis, diverticulitis                                  
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+     WET READ: KKXa FRI [**2917-2-5**] 10:13 PM
+      No renal calculus seen or hydronephrosis. Study limited because it is non-
+      contrast but there is subtle stranding about the right kidney. This maybe
+      old/chronic though as the patient had a CT in [**2916-5-21**] which showed acute
+      changes at that time related to right ureteral stone. Please correlate with
+      UA. No definite bowel abnormality; no obstruction or mesenteric stranding.
+      Shoddy retroperitoneal nodes are unchanged from prior report. I am at 42563
+      for questions.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Lower abdominal pain, AIDS, and fever.  The patient has history
+     of kidney stones and had flank pain yesterday.
+     
+     COMPARISON:  [**2916-6-10**].
+     
+     TECHNIQUE:  Contiguous axial images through the abdomen and pelvis were
+     obtained with oral contrast only.  IV contrast was not administered due to the
+     patient's rising creatinine of 2.2.  Coronal and sagittal reformations were
+     obtained.
+     
+     CT OF THE ABDOMEN WITHOUT IV CONTRAST:  There is scarring and atelectasis at
+     the lung bases.  There are coronary artery calcifications.  The noncontrast-
+     enhanced liver, gallbladder, spleen, pancreas, and adrenals are normal.  There
+     is a large hypodense cyst of the right upper pole of the kidney that is not
+     well characterized on this noncontrast-enhanced study, but likely unchanged.
+     The right kidney remains slightly enlarged compared to the left. There is
+     stranding about the right kidney, which may indicate the recent passage of a
+     stone, though no radiopaque stones are identified.  There is no
+     hydronephrosis. The stomach and proximal small bowel are unremarkable.  No
+     free air within the abdomen.  Small and large bowel are unremarkable.  At the
+     hepatic flexure, there is a small area of focal colonic wall thickening that
+     is likely related to focal peristalsis. There are small retroperitoneal lymph
+     nodes present that do not meet CT criteria for pathologic enlargement.  They
+     measure up to 8 mm in short axis.  There are also small lymph nodes at the
+     porta hepatis.
+     
+     CT OF THE PELVIS WITH CONTRAST:  The rectum, sigmoid, and bladder are
+     unremarkable.  No free fluid within the pelvis, and no pathologically enlarged
+     lymph nodes.  The appendix is not visualized, though there is no stranding
+                                                                 (Over)
+
+     DATE: [**2917-2-5**] 5:45 PM
+     CT ABDOMEN W/O CONTRAST; CT PELVIS W/O CONTRAST                 Clip # [**Clip Number (Radiology) 935**]
+     CT RECONSTRUCTION
+     Reason: eval for kidney stone, colitis, diverticulitis              
+     Admitting Diagnosis: RENAL FAILURE-DEHYDRATION
+     Field of view: 39
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     within the right lower quadrant.
+     
+     BONE WINDOWS:  There is an unusual appearance of the femoral heads
+     bilaterally, which may be related to prior trauma or avascular necrosis.
+     
+     Multiplanar reformatted images were essential in delineating the anatomy in
+     this case.
+     
+     IMPRESSION:
+     
+     1)  Stranding about the right kidney, without radiopaque renal or ureteric
+     stone present.  Note that Indinavir stones are radiolucent. The findings may
+     be related to recent stone passage or a radiolucent stone.
+     
+     2)  No evidence of appendicitis or diverticulitis.
+     
+     3)  Small lymph nodes within the retroperitoneum and at the porta hepatis.
+     
+     4)  Coronary artery calcifications.
+     
+     5)  Abnormal appearance of the femoral heads, which may be related to prior
+     trauma or avascular necrosis.
+     
+
+",,
+24248,,,,2917-02-08 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2917-2-8**] 10:13 PM
+     MR HEAD W & W/O CONTRAST; MR CONTRAST GADOLIN                   Clip # [**Clip Number (Radiology) 936**]
+     Reason: Please do an MRI of the head with and without contrast to ev
+     Admitting Diagnosis: RENAL FAILURE-DEHYDRATION
+      Contrast: MAGNEVIST Amt: 15
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      41 year old man with AIDS (CD4-9)c/b disseminated MAC currently with low grade 
+      temps and episodes of waking up in the middle of the night with anxiety 
+      attacks.
+     REASON FOR THIS EXAMINATION:
+      Please do an MRI of the head with and without contrast to evaluate for source 
+      of ?seizures. Please compare to old MRIs of the head which were notable for MAC 
+      lesions, also evaluate medial temporal lobes for possible seizure foci and MTS. 
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  AIDS and mycobacterium infection with anxiety attacks awakening
+     him from [**Doctor Last Name 937**].  MRI to evaluate there is a source of seizures.
+     
+     TECHNIQUE:  Multiplanar T1 and T2-weighted imaging of the brain was performed.
+     
+     Comparison is made to the most recent previous CT scan of the brain from
+     [**2912-12-25**] and an MRI from [**2912-3-4**].
+     
+     FINDINGS:
+     
+     There are multiple foci of increased T2 signal in the periventricular and
+     subcortical white matter of both cerebral hemispheres.  This finding was
+     present on the older examinations.  The ventricles are prominent, and the
+     sulci are widened, consistent with diffuse brain atrophy.  There is also a
+     right subdural CSF signal intensity collection, which was present on the older
+     exam and is probably about the same size and shape as on the [**2912-12-25**] CT.
+     Though the subdural collection mildly impresses the right superior cerebral
+     hemisphere, there is no definite shift of midline structures and the basal
+     cisternal spaces are wide.
+     
+     Post-contrast images reveal no abnormal intracranial enhancement.  There is no
+     asymmetry of the temporal lobes identified.  There is no susceptibility
+     artifact to indicate the presence of blood products.  No diffusion signal
+     abnormality is seen to suggest recent infarction.
+     
+     IMPRESSION:  Chronic changes that are consistent with HIV infection.  No
+     evidence of abnormal intracranial enhancement.
+     
+                                                                           DFDgf
+
+",,
+24248,,,,2917-02-08 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2917-2-8**] 10:13 PM
+     MR HEAD W & W/O CONTRAST; MR CONTRAST GADOLIN                   Clip # [**Clip Number (Radiology) 936**]
+     Reason: Please do an MRI of the head with and without contrast to ev
+     Admitting Diagnosis: RENAL FAILURE-DEHYDRATION
+      Contrast: MAGNEVIST Amt: 15
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      41 year old man with AIDS (CD4-9)c/b disseminated MAC currently with low grade 
+      temps and episodes of waking up in the middle of the night with anxiety 
+      attacks.
+     REASON FOR THIS EXAMINATION:
+      Please do an MRI of the head with and without contrast to evaluate for source 
+      of ?seizures. Please compare to old MRIs of the head which were notable for MAC 
+      lesions, also evaluate medial temporal lobes for possible seizure foci and MTS. 
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  AIDS and mycobacterium infection with anxiety attacks awakening
+     him from [**Doctor Last Name 937**].  MRI to evaluate there is a source of seizures.
+     
+     TECHNIQUE:  Multiplanar T1 and T2-weighted imaging of the brain was performed.
+     
+     Comparison is made to the most recent previous CT scan of the brain from
+     [**2912-12-25**] and an MRI from [**2912-3-4**].
+     
+     FINDINGS:
+     
+     There are multiple foci of increased T2 signal in the periventricular and
+     subcortical white matter of both cerebral hemispheres.  This finding was
+     present on the older examinations.  The ventricles are prominent, and the
+     sulci are widened, consistent with diffuse brain atrophy.  There is also a
+     right subdural CSF signal intensity collection, which was present on the older
+     exam and is probably about the same size and shape as on the [**2912-12-25**] CT.
+     Though the subdural collection mildly impresses the right superior cerebral
+     hemisphere, there is no definite shift of midline structures and the basal
+     cisternal spaces are wide.
+     
+     Post-contrast images reveal no abnormal intracranial enhancement.  There is no
+     asymmetry of the temporal lobes identified.  There is no susceptibility
+     artifact to indicate the presence of blood products.  No diffusion signal
+     abnormality is seen to suggest recent infarction.
+     
+     IMPRESSION:  Chronic changes that are consistent with HIV infection.  No
+     evidence of abnormal intracranial enhancement.
+     
+                                                                           DFDgf
+
+",,
+24248,,,,2917-06-30 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2917-6-30**] 12:04 PM
+     PICC LINE PLACMENT SCH                                          Clip # [**Clip Number (Radiology) 938**]
+     Reason: Pt needs PICC for foscarnet. IV RN attempted to place picc a
+     ICD9 code from order: 780.6
+     ********************************* CPT Codes ********************************
+     * 36569 PICC W/O [**State/Zipcode 259**] FLUOR GUID PLCT/REPLCT/REMOVE *
+     * 76937 US GUID FOR VAS. ACCESS        C1751 CATH [**Last Name (LF) 260**],[**First Name3 (LF) 261**]/CENT/MID(NOT D*
+     * C1892 INT/SHTH,EP,FXD CURVE/[**Doctor Last Name 939**] AWY                                     *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      41 year old man with hx.of thyroid CA who needs Foscarnet for skin infection.
+     REASON FOR THIS EXAMINATION:
+      Pt needs PICC for foscarnet. IV RN attempted to place picc at bedside, unable
+      to thread wire.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     
+     HISTORY:  HIV, needs IV foscarnet.
+     
+     PROCEDURE/FINDINGS:  The procedure was performed by Dr. [**First Name (STitle) **], Dr. [**Last Name (STitle) 281**], and
+     Dr. [**Last Name (STitle) 489**].  Dr. [**Last Name (STitle) 489**], the attending radiologist, was present and
+     supervising throughout.  The right upper arm was prepped and draped in the
+     usual sterile fashion.  Because no suitable superficial veins were visible,
+     ultrasound was used to find a suitable vein.  The right brachial vein was
+     patent and compressible.  After local anesthesia with 5 cc of 1% lidocaine,
+     the brachial vein was entered under ultrasonographic guidance with a 21-gauge
+     needle.  Hard copies of ultrasound images were obtained documenting patent
+     vein before and after establishing an access.  Attempts were made to pass a
+     0.018 guide wire, then  subsequently a nitinol guide wire under fluoroscopy;
+     however, there was resistance met in the wire within the upper arm. Therefore,
+     5 cc of contrast was injected manually through the access needle under
+     fluoroscopy to help map the course of the vein.  A 0.018-angled Glidewire was
+     then advanced under fluoroscopy to the superior vena cava.  It was determined
+     that a length of 41 cm would be suitable.  Attempts were made to pass a 4-
+     French introducer sheath over the Glidewire without success secondary to the
+     toughness of the patient's fascia.  After dilatation of the access tract, a
+     micropuncture sheath, 5-French peel-away sheath was advanced over the
+     Glidewire to the brachial vein.  The PICC was advanced through the sheath
+     under fluoroscopic guidance into the superior vena cava.  The sheath was
+     removed, and the catheter was flushed.  A final chest x-ray was obtained
+     demonstrating the tip to be in the superior vena cava.  The line is ready for
+     use.  A StatLock was applied, and line was heplocked.
+     
+     IMPRESSION:  Successful placement of 41 cm total length right brachial PICC,
+     with tip in the superior vena cava.  The line is ready for use.
+     
+                                                                           DFDdp
+
+",,
+24248,,,,2917-06-30 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2917-6-30**] 12:04 PM
+     PICC LINE PLACMENT SCH                                          Clip # [**Clip Number (Radiology) 938**]
+     Reason: Pt needs PICC for foscarnet. IV RN attempted to place picc a
+     ICD9 code from order: 780.6
+     ********************************* CPT Codes ********************************
+     * 36569 PICC W/O [**State/Zipcode 259**] FLUOR GUID PLCT/REPLCT/REMOVE *
+     * 76937 US GUID FOR VAS. ACCESS        C1751 CATH [**Last Name (LF) 260**],[**First Name3 (LF) 261**]/CENT/MID(NOT D*
+     * C1892 INT/SHTH,EP,FXD CURVE/[**Doctor Last Name 939**] AWY                                     *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      41 year old man with hx.of thyroid CA who needs Foscarnet for skin infection.
+     REASON FOR THIS EXAMINATION:
+      Pt needs PICC for foscarnet. IV RN attempted to place picc at bedside, unable
+      to thread wire.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     
+     HISTORY:  HIV, needs IV foscarnet.
+     
+     PROCEDURE/FINDINGS:  The procedure was performed by Dr. [**First Name (STitle) **], Dr. [**Last Name (STitle) 281**], and
+     Dr. [**Last Name (STitle) 489**].  Dr. [**Last Name (STitle) 489**], the attending radiologist, was present and
+     supervising throughout.  The right upper arm was prepped and draped in the
+     usual sterile fashion.  Because no suitable superficial veins were visible,
+     ultrasound was used to find a suitable vein.  The right brachial vein was
+     patent and compressible.  After local anesthesia with 5 cc of 1% lidocaine,
+     the brachial vein was entered under ultrasonographic guidance with a 21-gauge
+     needle.  Hard copies of ultrasound images were obtained documenting patent
+     vein before and after establishing an access.  Attempts were made to pass a
+     0.018 guide wire, then  subsequently a nitinol guide wire under fluoroscopy;
+     however, there was resistance met in the wire within the upper arm. Therefore,
+     5 cc of contrast was injected manually through the access needle under
+     fluoroscopy to help map the course of the vein.  A 0.018-angled Glidewire was
+     then advanced under fluoroscopy to the superior vena cava.  It was determined
+     that a length of 41 cm would be suitable.  Attempts were made to pass a 4-
+     French introducer sheath over the Glidewire without success secondary to the
+     toughness of the patient's fascia.  After dilatation of the access tract, a
+     micropuncture sheath, 5-French peel-away sheath was advanced over the
+     Glidewire to the brachial vein.  The PICC was advanced through the sheath
+     under fluoroscopic guidance into the superior vena cava.  The sheath was
+     removed, and the catheter was flushed.  A final chest x-ray was obtained
+     demonstrating the tip to be in the superior vena cava.  The line is ready for
+     use.  A StatLock was applied, and line was heplocked.
+     
+     IMPRESSION:  Successful placement of 41 cm total length right brachial PICC,
+     with tip in the superior vena cava.  The line is ready for use.
+     
+                                                                           DFDdp
+
+",,
+24248,,,,2917-06-30 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2917-6-30**] 12:04 PM
+     PICC LINE PLACMENT SCH                                          Clip # [**Clip Number (Radiology) 938**]
+     Reason: Pt needs PICC for foscarnet. IV RN attempted to place picc a
+     ICD9 code from order: 780.6
+     ********************************* CPT Codes ********************************
+     * 36569 PICC W/O [**State/Zipcode 259**] FLUOR GUID PLCT/REPLCT/REMOVE *
+     * 76937 US GUID FOR VAS. ACCESS        C1751 CATH [**Last Name (LF) 260**],[**First Name3 (LF) 261**]/CENT/MID(NOT D*
+     * C1892 INT/SHTH,EP,FXD CURVE/[**Doctor Last Name 939**] AWY                                     *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      41 year old man with hx.of thyroid CA who needs Foscarnet for skin infection.
+     REASON FOR THIS EXAMINATION:
+      Pt needs PICC for foscarnet. IV RN attempted to place picc at bedside, unable
+      to thread wire.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     
+     HISTORY:  HIV, needs IV foscarnet.
+     
+     PROCEDURE/FINDINGS:  The procedure was performed by Dr. [**First Name (STitle) **], Dr. [**Last Name (STitle) 281**], and
+     Dr. [**Last Name (STitle) 489**].  Dr. [**Last Name (STitle) 489**], the attending radiologist, was present and
+     supervising throughout.  The right upper arm was prepped and draped in the
+     usual sterile fashion.  Because no suitable superficial veins were visible,
+     ultrasound was used to find a suitable vein.  The right brachial vein was
+     patent and compressible.  After local anesthesia with 5 cc of 1% lidocaine,
+     the brachial vein was entered under ultrasonographic guidance with a 21-gauge
+     needle.  Hard copies of ultrasound images were obtained documenting patent
+     vein before and after establishing an access.  Attempts were made to pass a
+     0.018 guide wire, then  subsequently a nitinol guide wire under fluoroscopy;
+     however, there was resistance met in the wire within the upper arm. Therefore,
+     5 cc of contrast was injected manually through the access needle under
+     fluoroscopy to help map the course of the vein.  A 0.018-angled Glidewire was
+     then advanced under fluoroscopy to the superior vena cava.  It was determined
+     that a length of 41 cm would be suitable.  Attempts were made to pass a 4-
+     French introducer sheath over the Glidewire without success secondary to the
+     toughness of the patient's fascia.  After dilatation of the access tract, a
+     micropuncture sheath, 5-French peel-away sheath was advanced over the
+     Glidewire to the brachial vein.  The PICC was advanced through the sheath
+     under fluoroscopic guidance into the superior vena cava.  The sheath was
+     removed, and the catheter was flushed.  A final chest x-ray was obtained
+     demonstrating the tip to be in the superior vena cava.  The line is ready for
+     use.  A StatLock was applied, and line was heplocked.
+     
+     IMPRESSION:  Successful placement of 41 cm total length right brachial PICC,
+     with tip in the superior vena cava.  The line is ready for use.
+     
+                                                                           DFDdp
+
+",,
+24248,,,,2917-06-30 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2917-6-30**] 12:04 PM
+     PICC LINE PLACMENT SCH                                          Clip # [**Clip Number (Radiology) 938**]
+     Reason: Pt needs PICC for foscarnet. IV RN attempted to place picc a
+     ICD9 code from order: 780.6
+     ********************************* CPT Codes ********************************
+     * 36569 PICC W/O [**State/Zipcode 259**] FLUOR GUID PLCT/REPLCT/REMOVE *
+     * 76937 US GUID FOR VAS. ACCESS        C1751 CATH [**Last Name (LF) 260**],[**First Name3 (LF) 261**]/CENT/MID(NOT D*
+     * C1892 INT/SHTH,EP,FXD CURVE/[**Doctor Last Name 939**] AWY                                     *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      41 year old man with hx.of thyroid CA who needs Foscarnet for skin infection.
+     REASON FOR THIS EXAMINATION:
+      Pt needs PICC for foscarnet. IV RN attempted to place picc at bedside, unable
+      to thread wire.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     
+     HISTORY:  HIV, needs IV foscarnet.
+     
+     PROCEDURE/FINDINGS:  The procedure was performed by Dr. [**First Name (STitle) **], Dr. [**Last Name (STitle) 281**], and
+     Dr. [**Last Name (STitle) 489**].  Dr. [**Last Name (STitle) 489**], the attending radiologist, was present and
+     supervising throughout.  The right upper arm was prepped and draped in the
+     usual sterile fashion.  Because no suitable superficial veins were visible,
+     ultrasound was used to find a suitable vein.  The right brachial vein was
+     patent and compressible.  After local anesthesia with 5 cc of 1% lidocaine,
+     the brachial vein was entered under ultrasonographic guidance with a 21-gauge
+     needle.  Hard copies of ultrasound images were obtained documenting patent
+     vein before and after establishing an access.  Attempts were made to pass a
+     0.018 guide wire, then  subsequently a nitinol guide wire under fluoroscopy;
+     however, there was resistance met in the wire within the upper arm. Therefore,
+     5 cc of contrast was injected manually through the access needle under
+     fluoroscopy to help map the course of the vein.  A 0.018-angled Glidewire was
+     then advanced under fluoroscopy to the superior vena cava.  It was determined
+     that a length of 41 cm would be suitable.  Attempts were made to pass a 4-
+     French introducer sheath over the Glidewire without success secondary to the
+     toughness of the patient's fascia.  After dilatation of the access tract, a
+     micropuncture sheath, 5-French peel-away sheath was advanced over the
+     Glidewire to the brachial vein.  The PICC was advanced through the sheath
+     under fluoroscopic guidance into the superior vena cava.  The sheath was
+     removed, and the catheter was flushed.  A final chest x-ray was obtained
+     demonstrating the tip to be in the superior vena cava.  The line is ready for
+     use.  A StatLock was applied, and line was heplocked.
+     
+     IMPRESSION:  Successful placement of 41 cm total length right brachial PICC,
+     with tip in the superior vena cava.  The line is ready for use.
+     
+                                                                           DFDdp
+
+",,
+24248,,,,2917-06-30 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2917-6-30**] 12:04 PM
+     PICC LINE PLACMENT SCH                                          Clip # [**Clip Number (Radiology) 938**]
+     Reason: Pt needs PICC for foscarnet. IV RN attempted to place picc a
+     ICD9 code from order: 780.6
+     ********************************* CPT Codes ********************************
+     * 36569 PICC W/O [**State/Zipcode 259**] FLUOR GUID PLCT/REPLCT/REMOVE *
+     * 76937 US GUID FOR VAS. ACCESS        C1751 CATH [**Last Name (LF) 260**],[**First Name3 (LF) 261**]/CENT/MID(NOT D*
+     * C1892 INT/SHTH,EP,FXD CURVE/[**Doctor Last Name 939**] AWY                                     *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      41 year old man with hx.of thyroid CA who needs Foscarnet for skin infection.
+     REASON FOR THIS EXAMINATION:
+      Pt needs PICC for foscarnet. IV RN attempted to place picc at bedside, unable
+      to thread wire.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     
+     HISTORY:  HIV, needs IV foscarnet.
+     
+     PROCEDURE/FINDINGS:  The procedure was performed by Dr. [**First Name (STitle) **], Dr. [**Last Name (STitle) 281**], and
+     Dr. [**Last Name (STitle) 489**].  Dr. [**Last Name (STitle) 489**], the attending radiologist, was present and
+     supervising throughout.  The right upper arm was prepped and draped in the
+     usual sterile fashion.  Because no suitable superficial veins were visible,
+     ultrasound was used to find a suitable vein.  The right brachial vein was
+     patent and compressible.  After local anesthesia with 5 cc of 1% lidocaine,
+     the brachial vein was entered under ultrasonographic guidance with a 21-gauge
+     needle.  Hard copies of ultrasound images were obtained documenting patent
+     vein before and after establishing an access.  Attempts were made to pass a
+     0.018 guide wire, then  subsequently a nitinol guide wire under fluoroscopy;
+     however, there was resistance met in the wire within the upper arm. Therefore,
+     5 cc of contrast was injected manually through the access needle under
+     fluoroscopy to help map the course of the vein.  A 0.018-angled Glidewire was
+     then advanced under fluoroscopy to the superior vena cava.  It was determined
+     that a length of 41 cm would be suitable.  Attempts were made to pass a 4-
+     French introducer sheath over the Glidewire without success secondary to the
+     toughness of the patient's fascia.  After dilatation of the access tract, a
+     micropuncture sheath, 5-French peel-away sheath was advanced over the
+     Glidewire to the brachial vein.  The PICC was advanced through the sheath
+     under fluoroscopic guidance into the superior vena cava.  The sheath was
+     removed, and the catheter was flushed.  A final chest x-ray was obtained
+     demonstrating the tip to be in the superior vena cava.  The line is ready for
+     use.  A StatLock was applied, and line was heplocked.
+     
+     IMPRESSION:  Successful placement of 41 cm total length right brachial PICC,
+     with tip in the superior vena cava.  The line is ready for use.
+     
+                                                                           DFDdp
+
+",,
+24248,,,,2917-07-22 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2917-7-22**] 6:28 PM
+     CHEST (PA & LAT)                                                Clip # [**Clip Number (Radiology) 940**]
+     Reason: r/o pcp                                                     
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      41 year old man with fever and sob                                              
+     REASON FOR THIS EXAMINATION:
+      r/o pcp                                                                         
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Fever, shortness of breath.
+     
+     PA AND LATERAL CHEST X-RAY DATED [**2917-7-22**] is COMPARED TO [**2917-2-5**]:  The heart,
+     hilar, and mediastinal contours are unremarkable.  There is no prominence of
+     the pulmonary vasculature to suggest congestive heart failure.  The lung
+     fields are now clear without focal opacity to suggest infiltrate.  The
+     surrounding osseous structures are unremarkable.  The surrounding soft tissue
+     structures show there has been interval movement of the right subclavian PICC
+     line, which now terminates in the right subclavian vein instead of the
+     superior vena cava.
+     
+     IMPRESSION:  No acute cardiopulmonary abnormality including infiltrate.
+     Interval partial withdrawal of right PICC line, which now terminates in the
+     right subclavian vein instead the superior vena cava.
+
+",,
+24248,,,,2917-07-23 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     LUNG SCAN                                                       Clip # [**Clip Number (Radiology) 941**]
+     Reason: PT WITH HIV+ ANTIFOSFOLIPID SD, PLEURITIC CHEST PAIN AND FEVER , R/O PE
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY: 41 yo man with elevated creatinine; presenting with pleuritic chest  
+     pain.  History of HIV and antiphospholipid syndrome; evaluate for pulmonary
+     embolism.  
+       
+     INTERPRETATION:  
+     Ventilation images obtained with Tc-99m aerosol in 8 views demonstrate diffuse
+     patchy areas of decreased tracer uptake.  There is also a focal area of
+     decreased tracer uptake in the anterior segment of the left upper lobe.  
+       
+     Perfusion images in the same 8 views show matched areas of decreased perfusion. 
+       
+     Chest x-ray shows no significant abnormalities.  
+       
+     IMPRESSION:Low likelihood of pulmonary embolism; matched perfusion and 
+     ventilation defects in the left upper lobe as well as diffuse patchy areas of
+     matched defects are likely secondary to airways disease. 
+                                                                           
+
+             [**Name6 (MD) 942**] [**Name8 (MD) 943**], M.D.
+             [**First Name8 (NamePattern2) 944**] [**Last Name (NamePattern1) 945**], M.D.         Approved: TUE [**2917-7-27**] 3:49 PM
+
+
+             Date Mailed: [**2917-7-28**]                     West [**Medical Record Number 946**]
+
+
+
+               RADLINE [**Telephone/Fax (1) 115**]; A radiology consult service.
+            To hear preliminary results, prior to transcription, call the
+                           Radiology Listen Line [**Telephone/Fax (1) 116**].
+
+",,
+24248,,,,2917-07-24 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2917-7-24**] 6:08 PM
+     CHEST (PA & LAT)                                                Clip # [**Clip Number (Radiology) 947**]
+     Reason: Please evaluate for infiltrate, effusion, pulmonary edema   
+     Admitting Diagnosis: FEVER;RULE-OUT MYOCARDIAL INFARCTION;TELEMETRY
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       41 year old man with fever and sob                                             
+       
+     REASON FOR THIS EXAMINATION:
+      Please evaluate for infiltrate, effusion, pulmonary edema                       
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CLINICAL HISTORY:  41-year-old man with fever and SOB.
+     
+     CHEST:  Cardiac size at the upper limits of normal.  No failure is present. 
+     No infiltrates are seen.  The costophrenic angles are not totally included but
+     no effusion is identified.
+     
+     IMPRESSION:  No failure.  No effusions.  No infiltrates.
+                                                                           
+
+",,
+24248,26068,30121,0,2918-02-18 17:43:00 EST,2918-02-18 18:03:00 EST,3885,"N",54,"Nursing/Other","npn 1700-1900","
+npn 1700-1900
+
+Patient presented to the ED this morning with CP that he rated [**5-30**]. It was substernal and radiated to the right side of his jaw. He was also dizzy.
+
+PMH: AIDS (diagnosed in [**2907**]), PCP pna, EF 20%, past MI.
+
+neuro: Pt is axox3, follows commands, MAE. Does c/o neuropathy pain in both feet.
+
+resp: Sats 96% on 2L, LS clear.
+
+cv: SR in the 70's, no ectopy. BP 100/60's. Levophed off since 1730.
+CVP 12-13.
+
+access: RIJ pre-sep catheter. 
+
+gi/gu: Belly is soft with + BS. Patent foley with good u/o.
+
+skin: Intact. Has a herpes dermatitis on both hands (not a new finding).
+
+Plan: Continue to monitor labs. Determine source of infection.
+",,
+24248,26068,30121,0,2918-02-19 06:18:00 EST,2918-02-19 06:36:00 EST,4027,"N",54,"Nursing/Other","NURSING PROGRESS NOTE 1900-0700","
+NURSING PROGRESS NOTE 1900-0700
+REPORT RECEIVED FROM AM SHIFT.  ALL ALARMS ON MONITOR ARE FUNCTIONING PROPERLY.  PT'S ENVIRONMENT SECURED FOR SAFETY.
+
+THIS IS A 42 Y/O M WITH ADVANCED HIV/AIDS, H/O PCP PNA MULTIPLE TIMES WITH RECENT ADMIT FROM [**12-21**] TO [**1-1**] AND AGAIN [**Date range (1) 4364**] FOR PCP [**Name9 (PRE) 4365**] TREATED WITH CLINDAYMYCIN/PRIMAQUINE/STEROIDS.  PT PRESENTED TO ED ON [**2918-2-18**] C/P CP RADIATING THROUGH HIS CHEST TO HIS TEETH, BILATERAL UPPER AND LOWER EXTREMITY TINGLING AND CHILLS.  PT STATES HE WOKE UP IN THE MORNING WITH SUBSTERNAL CHEST PAIN [**5-30**] UNRELATED TO EXERTION WHICH LASTED APPROXIMATELY 6 HRS.  RESOLVED ON IT'S OWN.  UPON PRESENTATION TO ED, NOTED TO HAVE SBP IN THE 70'S- NOREPI GTT INITIATED INTERMITTENTLY, LACTATE OF 4.  CONCEREND FOR SEPSIS- PRESEPT CATHETER INSERTION- VANCOMYCIN AND LEVOFLOXACIN GIVEN.  CARDS CONSULTED- FEEL THAT THERE IS NO SIGNIFICANT CHANGE IN EKG.  PT REHYDRATED- LACTATE DECREASED TO 1.0.  ADMITTED TO MICU FOR FURTHER MANAGEMENT.
+
+NEURO:  ALERT AND ORIENTED X 3.  SPEECH CLEAR.  ABLE TO FOLLOW COMMANDS WITHOUT DIFFICULTY.  REPOSITIONS HIMSELF WITHOUT DIFFICULTY.  ABLE TO MOVE INDEPENDENTLY AND ASSIST WITH PM CARE- FEEDING HIMSELF.  AFEBRILE.  NO SEIZURE ACTIVITY NOTED.
+
+RR:  BBS= ESSENTIALLY CLEAR THROUGHOUT ALL LUNG FIELDS.  BILATERAL CHEST EXPANSION NOTED.  CURRENTLY ON 2L NC.  SP02 > OR = TO 95%.  NO C/O SOB OR DIFFICULTY BREATHING.  STRONG COUGH EFFORT- NON-PRODUCTIVE.
+
+CV:  S1 AND S2 AS PER AUSCULTATION.  NSR- HR 70'S WITH NO SIGNS OF ECTOPY NOTED.  NO PRESSOR REQUIREMENT.  RECEIVED TOTAL OF 500CC NS BOLUS AND 1L LR BOLUS.  DENIES ANY CHEST PAIN. CVP 8-10.  SVO2 55-60.  PALPABLE PULSES NOTED TO BILATERAL DORSALIS AND RADIALS.  RT IJ PRESEPT CATHETER IS SECURE AND PATENT.  HEPARIN GTT INITIATED- INCREASED TO 1350U/HR- WILL NEED PTT AT NOON.
+
+GI:  ABD IS SOFT, NON-DISTENDED AND NON-TENDER TO PALPATION.  BS X 4 QUADRANTS.  PT'S DIET ADVANCED TO REGULAR-CARDIAC DIET.  PT ABLE TO TOLERATE PO'S WITHOUT DIFFICULTY.  NO C/O N,V,D.  PASSING FLATUS.  NO BM THIS SHIFT.
+
+GU:  INDWELLING FOLEY CATHETER IS SECURE AND PATENT.  CLEAR, YELLOW URINE NOTED IN ADEQUATE AMOUNTS.
+
+INTEG:  NO SIGNS OF BREAKDOWN NOTED TO BACK OR BUTTOCKS.  PT HAS DERMATITIS/RASH/HERPES TO BILATERAL HANDS.  (THIS IS NOT NEW)
+
+SOCIAL:  DAUGHTER AND FRIENDS IN TO VISIT.  NO QUESTIONS.  NO ISSUES. 
+
+PLAN:  MONITOR PTT- NEXT ONE IS DUE AT NOON PLEASE.  POSSIBLE CALL OUT.  TRANSFER NOTE DONE.  PLEASE SEE FLOW SHEET AS NEEDED FOR ADDITIONAL INFORMATION.  THANK [**Doctor First Name **]!
+",,
+24248,,30122,0,2918-04-03 05:29:00 EST,2918-04-03 05:43:00 EST,419,"N",69,"Nursing/Other",,"
+
+Respiratory Care
+Pt placed on non-invasive ventilation due to persistent desaturation and increased work of breathing. O2 sat up to 100% on 80% FIO2 with 5 of peep. Attempted to use pressure support but with pt's high resp rate and dyspnea he appears more comfortable on assist/control. Although breathing appears much more comfortable, pt is extremely anxious with very high minute ventilation,frequent disconnects from the vent with desaturation. Pt has received Ativan with minimal effect. Pt has stated wish not to be intubated at this time. Plan is to continue with NIV, Ativan, ? Morphine. 
+",,
+24248,,30122,0,2918-04-03 05:31:00 EST,2918-04-03 06:01:00 EST,7748,"N",69,"Nursing/Other",,"
+
+42 yr old male adv HIV  HX of peripheral  neuropathy thrush CRF hyperkalemia lupus anticoagopathy multiple thromoboemboli  IVC filter   CAD RCA stent placement X 3  multi PE  DVT's  postive PCP admitted to MICU with resp distress  hemoptysis.
+
+Neuro pt alert oreinted X 3  able to follow command, Previous to admission independent of  ADl's. Previous Hx of drainage of subdural fluid.
+
+CV HX cardiomyopathy, CAD, Hr within normal range B/P high due to anxiety 160's/100's team aware  (see carevue) Pt received 1mg ativan IV with out adequate results  additional dose given again @ 6:40am, Resp rate high Order for morphine PRN if ativan not adequate. Pt INR 6.3 @ 5Am  Had vit K 1X yesterday 1 X PIV in right arm. 
+
+Resp Pt on 12R having progressive resp distress placed on nonrebreather mask and 02 still decreasing down to 80's.  a/c cpap Fio2 80/450 peep resp rate 24and above o2 90 Pt told team he does not want to be vented Team will call health care proxy (his mom) to address this today.
+
+GI/GU  pt voiding on own in urinal has not voided since arrived to unit.  Abd soft/ positivd bowel sounds. Had previous loose stools per report from floor. 
+
+
+Skin is dry multiple small breaks arms etc.growth on right side of neck area
+
+Social  pt wife and daughter both had aids and have passed.  Lives with family in [**Location (un) 4366**] and mother is health care proxy. Pt is currently full code but does not want to be intubated.     
+            
+",,
+24248,,30122,0,2918-04-03 11:05:00 EST,2918-04-03 11:11:00 EST,1520,"N",69,"Nursing/Other",,"
+
+MICU Easy Nursing Progress Note:
+
+Events:  Progressively respiratory distress worsening and unable to tolerated Mask venitlation.  Given Ativan/Morphine IV PRN w/ good short-term effect.  Mother, his healthcare proxy notified and made aware of pt's wishing not to be intubated. 
+9:30: Mother and his PCP in to see. Both in agreement that patient treatment goals should be geared to comfort only.  Talked to patient and this is his wishes as well.
+10:05---Started on Morphine gtt at 5mg/hr and increased to 20mg/hr to maintain comfort.  
+11:45:  Pt. asystolic and pronounced by MICU resident.  Family at bedside.
+",,

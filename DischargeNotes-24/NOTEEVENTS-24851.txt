@@ -1,0 +1,361 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+24851,156,,,3258-02-15 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+
+Admission Date: [**3258-2-15**]        Discharge Date: [**3258-2-21**]
+
+Date of Birth:  [**3175-2-13**]        Sex:
+
+Service:
+
+
+DATE OF DEATH:  [**3258-2-21**]
+
+The patient is an 83-year-old patient with multiple medical
+problems who presented to [**Hospital1 73**] on [**3258-2-15**], with complaint of intermittent diarrhea,
+nausea following a viral URI (treated with Zithromax).  The
+patient initially went to an outside hospital where she was
+noted to have a K of 10.  She transferred here for a possible
+hemodialysis.  At [**Hospital1 4**], the
+patient was treated with Kayexalate, bicarbonate, calcium,
+D50, insulin and Lasix.  She was also noted to be in acute
+renal failure, BUN and creatinine were 122 and 3.4
+respectively with a K of 10 and bicarbonate of 9.
+
+The patient is without history of renal insufficiency, it was
+thought that the patient's metabolic acidosis was secondary
+to severe diarrhea and acute renal failure, was prerenal in
+etiology.  In the MICU, K and acidemia improved with
+hydration.  The patient also underwent abdominal CT, which
+was within normal limits.  The patient was called out of the
+MICU on [**3258-2-16**], noted to have improved renal function.
+Spironolactone was restarted shortly thereafter on the floor.
+The patient's systolic blood pressure was around 90-100 on
+the afternoon of [**3258-2-19**], did spike a temperature to 101
+associated with shortness of breath and rigors.  Chest x-ray
+showed no evidence of CHF or infiltrate.  She was
+pancultured.  EKG showed increased rate with no other
+changes.  In the evening of [**3258-2-19**], she was noted to be
+hypotensive with the BP in the 60s, given fluid boluses,
+started on low-dose dopamine and transferred to the MICU.
+EKG noted for new onset atrial fibrillation.
+
+PAST MEDICAL HISTORY:  CHF, EF of 30 percent on 3 liters of
+home O2.
+
+Bilateral CEA.
+
+CAD status post CABG, 1996.
+
+Dyslipidemia.
+
+Pacemaker placement status post syncope.
+
+AICD placement status post Vtach, 1999.
+
+Hypertension.
+
+OA.
+
+Hypothyroidism.
+
+Pulmonary hypertension.
+
+ALLERGIES:  No known drug allergies.
+
+TRANSFER MEDICATIONS:  Included Lipitor, sotalol, furosemide,
+KCl, metoprolol, levothyroxine, docusate, ASA,
+spironolactone, amlodipine, pantoprazole, and heparin.
+
+PHYSICAL EXAMINATION:  Elderly-appearing female,
+uncomfortable.  Temperature was 98.0 degrees, blood pressure
+73/30, heart rate 109, respiratory rate 29, O2 saturation was
+96 percent on room air and 100 percent on nonrebreather.
+HEENT:  Normocephalic, atraumatic, PERRL.  Mucous membranes
+were moist.  Sclerae were anicteric.  Neck was supple with no
+lymphadenopathy, no carotid bruits, right subclavian line.
+CARDIOVASCULAR:  Tachy, irregular, S1, S2 with 2/6 systolic
+ejection murmur.  Lungs were clear to auscultation
+anterolaterally.  Abdomen was obese, soft and nontender,
+nondistended with no hepatosplenomegaly.  EXTREMITIES:  No
+CCE.  NEUROLOGIC:  Alert and oriented x3.  Cranial nerves II
+to XII are grossly  intact, moved all extremities well.
+
+LABORATORY FINDINGS:  Relevant data on MICU transfer included
+CBC which was essentially within normal limits with the
+exception of a creatinine of 1.8.  UA with moderate bacteria
+with 42 white blood cells and urine and blood cultures were
+pending.  Etiology data was reviewed essentially above.
+
+ASSESSMENT, PLAN AND HOSPITAL COURSE:  An 83-year-old female
+with history of cardiac disease admitted to MICU on [**3258-2-15**]
+with hyperkalemia, acidemia, and acute renal failure, was
+readmitted to the MICU with new onset of atrial fibrillation
+with RVR and associated hypotension.  Lab data notable for
+UTI and leukocytosis.
+
+Hypotension:  Differential initially included sepsis,
+hypovolemia, diuresis, poor forward flow in the setting of
+adrenal insufficiency and MI.  The patient was continued on
+pressors, and she was originally placed on rule out sepsis.
+
+Plan in addition, urine culture came back positive for fecal
+contamination and blood cultures showed gram positive cocci
+in clusters and pairs.  Thus she was started on vancomycin
+and Levaquin and Flagyl for ? C-difficile after Zithromax.
+Left subclavian line was removed and a new line was inserted.
+The patient was given a cortisol test, which was not in
+keeping with adrenal insufficiency.  No labs are going to be
+drawn given family preference given the hypotension and poor
+prognosis of this septic patient; this was in context of a
+family meeting, [**3258-2-20**], to discuss the plan.  The family
+decided on yes antibiotics and supportive care; no lab draws,
+no pressors; DNR/DNI.  The patient had been kept on pressors
+until this point.
+
+Sepsis:  The fever began to trend down with the treatment
+with antibiotics.  Blood cultures were positive in 5 out of 6
+bottles.  Levaquin was continued for ? UTI, Flagyl for ? C.
+difficile and vancomycin was continued as well.
+
+Atrial fibrillation:  The patient was continued on
+amiodarone.  She had the pacer but the ICD was disabled per
+family interest and patient's comfort and to avoid shocking
+this very ill patient.
+
+Coronary artery disease:  The patient was continued on
+aspirin and statin, followed on telemetry.
+
+GI:  Clostridium difficile assay was attempted although the
+patient did not have a bowel movement in the final days of
+her life and comfort was the main key here.
+
+FEN:  Ad lib given goal of patient comfort.
+
+PPI:  PPX, subcutaneous heparin, PPI.
+
+Communication was with the patient and the daughter.
+
+Respiratory failure:  The patient was hypoxemic and kept on
+face mask to keep comfortable.  She did not tolerate BiPAP or
+nonrebreather well.  Given the better articulated family
+goals and patient's goal, the patient was maintained on
+facemask.
+
+DISPOSITION:  Plan was initially to transfer the patient to
+the floor, but after a brief stay in the MICU and transfer of
+antibiotics to oxacillin on the day of her death.  The
+patient was kept in the MICU just for the sake of comfort and
+lack of disruption and she passed away on the night of
+[**3258-2-21**] with her family and friends at the bedside.
+
+
+
+                        [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) 6168**] [**Name8 (MD) **], MD
+
+Dictated By:[**Last Name (NamePattern1) 6169**]
+MEDQUIST36
+D:  [**3258-6-18**] 18:37:50
+T:  [**3258-6-19**] 23:37:53
+Job#:  [**Job Number 6170**]
+Signed electronically by: DR. [**First Name (STitle) 15**] [**Doctor Last Name **]
+ on: SUN [**3258-6-23**] 3:46 PM
+(End of Report)
+
+
+",,
+24851,156,30855,0,3258-02-15 06:19:00 EST,3258-02-15 06:38:00 EST,2108,"N",69,"Nursing/Other","micu nursing admission note","
+micu nursing admission note
+pt is an 83 yo female transferred from [**Hospital3 **]. came into er there after hx of n/v/d , gen weakness. yesterday with persistant nausea and dry heaves. significant cardiac history, no cp or sob. k at osh 10. transferred here for urgent cath placemnet and dialysis. 
+
+brief ros-
+pt on arrival alert/oriented x3, though difficult to understand. pt recevied phenergan in the er w/some confusion noted after. reportedly a+o at baseline. hr 60's, no ectopy. has internal pacer. initially on presentation to the er hr in the 30's, paced. pacer pads still on.o2 sats high 90's on 2 l nasal cannula. [**Doctor First Name **] excelate, insulin, d50., mg, given in the er. renal fellow in now for line placement. poor access, arrived from osh w/2 piv's. foley in place. appears to be in arf d/t dehydration x2-3 wks of diarrah. pt lives at home with her daughter in [**Name2 (NI) **] who helps care for her.
+plan for ?dialysis, line placement being attempted presently.. agressive rehydration, bicarb, ?insulin gtt when line is in. ?dialize if necessary
+ 
+
+",,
+24851,156,30855,0,3258-02-15 21:12:00 EST,3258-02-15 21:40:00 EST,2437,"N",69,"Nursing/Other","nursing note: 7a-11p","
+nursing note: 7a-11p
+neuro- pt alert and oriented x3. pleasant and cooperative with care. no complaints until approx 3pm when c/o nausea with dry heaves and lower abd discomfort. zofran and tylenol with little to no effect. morphine and ativan given this evening with thus far pt appears more comfortable. mae, at times startles awake with jerking of extremities. 
+
+resp- ls clear sats on 3-4 l n/c 92-96%. 
+
+cv- hr 60-70's sr with increase in ectopy this afternoon. bp improved over coarse of day, initially hypotensive to sbp 70, bolused 1 liter, antihypertensives held. more recently bp 120-130's.  k checked throughout day, at 3pm down to 3.5, repleted with 20meq iv. repeat k pending now. cvp 10-12
+
+gi- abd soft obese + bs. liquid stool this am in response to kayexelate. dr [**Last Name (STitle) **] in to assess pt's abd after pt's c/o of cramping progressed to aching pain. taking po fluids well. lite snack at lunch and nothing for dinner [**2-18**] nausea.
+
+gu- foley patent for adequate amounts of clear yellow urine. this evening u/o became more concentrated. dr [**Last Name (STitle) **] aware. ivf d51/2ns at 75cc/h
+
+lytes- na improved to 146, k 3.5 and repeat pending. mag 1.9 repleted as well. bicarb up to 22 after 7 amps repletion. if 2100 lytes stable next check with am labs per dr [**Last Name (STitle) **].
+
+access- poor peripheral access. rsc tlcl placed. catheter positioned and secured with approx 7cm exposed. 
+
+social- pt's daughter [**Name2 (NI) 5141**] in to visit most of day. updated by dr [**Last Name (STitle) **]. 
+
+dispo- remains in micu, full code. continue to monitor lytes. treat for nausea and pain. 
+",,
+24851,156,30855,,3258-02-16 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3258-2-16**] 11:57 AM
+     CT ABDOMEN W/O CONTRAST; CT PELVIS W/O CONTRAST                 Clip # [**Clip Number (Radiology) 6698**]
+     Reason: ASSESS FOR OBSTRUCTION
+     Admitting Diagnosis: HYPERKALEMIA
+     Field of view: 42
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      83 year old woman with ARF, N/V abd pain, elevated WBC                          
+     REASON FOR THIS EXAMINATION:
+      r/o obstruction                                                                 
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CLINICAL HISTORY: 83-year-old woman with acute renal failure, nausea, vomiting
+     and abdominal pain with elevated white blood cell count.
+     
+     COMPARISON:  None.
+     
+     TECHNIQUE: Multiple axial images of the abdomen and pelvis were obtained
+     following administration of oral contrast.  No IV contrast was used secondary
+     to patient's elevated creatine.
+     
+     CT ABDOMEN W/O IV CONTRAST: There are some dependent changes at the lung
+     bases.  The liver, adrenal glands and pancreas are normal in appearance. There
+     are some small calcifications seen in the spleen, likely small granulomas. The
+     kidneys are atrophic without evidence of hydronephrosis or hydroureter. There
+     are gallstones seen in the gallbladder. No pericholecystic fluid is
+     identified.  Please note that evaluation of intraabdominal organs is limited
+     by the lack of IV contrast.
+     
+     The aorta and its branches have numerous calcifications seen within them.
+     There is a calcification in the right renal artery.
+     
+     There is no air or free fluid in the abdomen.  The opacified stomach, small
+     and large bowel loops are grossly normal.  There is some mild dilatation of
+     the large bowel loop, without obstruction and oral contrast reaches the
+     sigmoid.
+     
+     CT OF THE PELVIS W/O IV CONTRAST:
+     
+     FINDINGS: There is diverticulosis of the sigmoid colon without diverticulitis.
+     There is no air or free fluid in the pelvis.  There is a Foley catheter in the
+     bladder with some air present in the bladder presumably from Foley catheter
+     insertion.  The uterus and adnexa are normal in appearance.  There is no
+     significant inguinal or pelvic lymphadenopathy.
+     
+     BONE WINDOWS:
+     
+     FINDINGS: No suspicious lytic or blastic lesions.  Degenerative changes are
+     seen in the lumbar spine.
+     
+     IMPRESSION:
+     1.  No obstruction.  Oral contrast reaches the sigmoid colon.
+                                                                 (Over)
+
+     DATE: [**3258-2-16**] 11:57 AM
+     CT ABDOMEN W/O CONTRAST; CT PELVIS W/O CONTRAST                 Clip # [**Clip Number (Radiology) 6698**]
+     Reason: ASSESS FOR OBSTRUCTION
+     Admitting Diagnosis: HYPERKALEMIA
+     Field of view: 42
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     2.  Evaluation of intrabdominal organs is limited by lack of IV contrast.
+
+",,
+24851,156,30855,0,3258-02-16 06:34:00 EST,3258-02-16 07:01:00 EST,1774,"N",69,"Nursing/Other","MICU NPN 11P-7A","
+MICU NPN 11P-7A
+NEURO: SLEEPING WELL, EASILY AROUSED. ALERT AND ORIENTED X3. RESTLESS AT TIMES [**2-18**] ABDOMINAL DISCOMFORT. PAIN IS CONSTANT AND BECAME MORE SEVERE AND GIVEN 1MG MSO4 IV WITH GOOD STATED EFFECT. FOLLOWING COMMANDS AND MOVING ALL EXTREMITIES. 
+
+CARDIAC: HR 72-81 SR WITH FREQUENT PVC'S. BP 93-120/27-80. BP MEDS HELD DURING THE EVENING [**2-18**] LOW BP. HCT 29.9 SRABLE.
+
+RESP: ON 4L N/C WITH RR 19-26 AND SATS 96-100%. LS CLEAR. OCCASIONAL CONG NONPRODUCTIVE COUGH.
+
+GI/GU: AND SOFT AND DISTENDED AND TENDER TO PALPATION. BS+. FIB INTACT WITH GOLDEN LIQUID STOOL. U/O BRISK 50-100CC/HR YELLOW AND CLEAR. CRE TRENDING DOWN SLOWLY, NOW 2.2.
+
+FEN: EUVOLEMIC, CONTINUES ON D5.45NS @75CC/HR. K+ 3.6 FIVEN 20MEQ KCL, AM K+ 3.3, MD AWARE AND WILL REPLETE. TOOK SOME WATER DURING THE NOC, NO COMPLAINTS OF NAUSEA. FS 204 (4U) AND 140. 
+
+ID: TMAX 99.8 WITH BUMP IN WBC 13.1 FROM 8.5. CURRENTLY NOT ON ABX.
+
+SKIN: INTACT.
+
+ACCESS: PIV X1, RSC CL. 
+
+SOCIAL/DISPO: FULL CODE. DAUGHTER HAS CALLED TWICE AND BEEN UPDATED. WILL BE IN LATER THIS MORNING. POSSIBLE CALL OUT TODAY.
+",,
+24851,156,30856,0,3258-02-20 06:59:00 EST,3258-02-20 07:23:00 EST,2715,"N",69,"Nursing/Other",,"
+
+Nursing Admission Note
+[**3258-2-20**] 2315->0730
+
+S/O
+
+NEURO: Lethargic, oriented x3, moves all extremities, assisted with care and turning. Pt denies pain, acknowleged manageable feelings of nervousness. Pt had sudden rise in BP followed by sudden and precipitous BP drop thne became diaphoretic and dyspneic. Unable to determine if events d/t cardiac issues d/t internal pacer and defibrillator; MSO4 2mg IV given x1 for cardioprotective reasons; 2nd dose of MSO4 2mg IV given for respiratory discomfort. Pt also given Ativan 0.5mg IV for dyspnea and anxiety, dose effective anxiolytic, and pt currently resting quietly and comfortably with family at bedside.
+
+CV: Received pt on dopamine @ 5.5 mcg with rapid afib to 130's -> started on Levo-phed, dopa shut off, and HR decreased to 110-100's. Amiodarone 150mg IVB given over 10minutes, and gtt started at 1.0 mg/min x 6 hours then decreased to 0.5mg/hour. Vasopressin started at 0.04units/min. Levo weaned off ~ 03:45; AVP off at 05:30 after family meeting between pt's daughter and Dr [**Last Name (STitle) **] [**Name (STitle) 1032**] re: pt's manifestation of end-stage heart disease. Pressors off and analgesics and sedation given to maintain pt comfort. 
+See CareVue for details and procedures.
+
+RESP: Received pt on NRB; weaned to 50% face tent. With sudden onset of BP changes, pt developed audible wheezes and markedly decreased air movement in bases, rales auscultated by Drs [**Last Name (STitle) 2296**] and [**Name5 (PTitle) **]???(complete name). Atrovent neb given w/o resolution of sx. Discussion with night resident float, nurse, pt and ICU MD's noted re: PPV. Dr [**Last Name (STitle) 1032**] up to talk with family, and PPV not started. 
+Resp shallow at current time, no further wheezing noted.
+See CarVue for details.
+
+GI: BS positive. Took in sips H2O and ice but became nauseous after, ? d/t cardiac sx during episode noted vs intake-induced nausea. Zofran 4mg IV given with immediate but not lasting relief. Return of nausea relieved after MSO4 given.
+
+FEN: K+ repleted with KCL 20mEq for K+ = 3.8; Mg++ repleted with MgSO4 2Gm IV x2 for Mg++ = 1.5. BS 180's, no RISS coverage ordered after discussing with Dr. [**Last Name (STitle) 2296**] -> will monitor.
+
+GU: U/O foul-smelling, UA positive for UTI. Levoflox ordered, not arrived yet from pharmacy. U/O x2, small amounts. Creatinine climing.
+
+PSYCOSOC: Daughter, family at bedside, appropriate. Staying with patient in current circumstances.
+
+
+A/P
+
+Call EP lab to turn off pt's internal [**Last Name (LF) 5142**], [**First Name3 (LF) 59**] Dr. [**Last Name (STitle) 1032**] and Dr [**Last Name (STitle) 2296**].
+Maintain comfortable respiratroy status and overall comfort for pt.
+Support family as needed and appropriate.
+
+",,
+24851,156,30856,0,3258-02-20 16:26:00 EST,3258-02-20 16:51:00 EST,2651,"N",69,"Nursing/Other","Nursing Progress Note 0700-1900","
+Nursing Progress Note 0700-1900
+Family meeting held. Family decision to make pt DNR/DNI/no pressors. Pt is essentially CMO except pt to continue on IV abx. BP continues to run low 60-90/20-50. Pt remains on amiodarone gtt d/t rapid Afib. ICD mode on pacemaker shut off by Cardiology. Pt has rested comfortably today. MSO4 for comfort. 
+
+ROS-
+
+CV- Afib, rate 90-130's. amiodarone gtt at 0.5mg/hr. To be dc'ed at midnight. occasional PVC's, with a few <10beat runs of SVT. Extremities warm and pulses palpable. BP as above. 
+
+RESP- recieved pt on 100% NRB. am abg7.32/41/35. o2 weaned to 8liters simple face mask. LS very diminished at bases. crackles at upper lobes. no cough. Resp rate up into the 50's at times, shallow breaths. 
+
+NEURO- very lethargic but easily arousable to voice. able to communcate needs, pain/thurst effectively. has denied pain all shift. minimal movement of extremities, follow commands. 
+
+GI/GU- no attempts at giving PO intake d/t lethargy. Pt has coughed and appears to choke on water a few times when attempting to drink. No stool. hyperactive BS's. Foley inserted, draining 20-60cc/hr cloudy yellow urine. UA positive for infection. 
+
+ID- Tmax 101.8 oral. placed on IV Flagyl, Vanco, and Levo. wbc's 15.8. 
+
+ACCESS- L IJ quad lumen.  
+
+SOCIAL- multiple family members at bedside throughout the day. Daughter, [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **], very involoved on care/ decisions. given frequent updates and support.
+
+PLAN- keep pt comfortable. monitor o2 sats and adjust o2 appropriately. MSO4 for comfort. continue IV abx and follow fever curve. Pt to be called out when amiodarone gtt completed. restrict IVF's d/t CHF. 
+
+ 
+       
+",,
+24851,156,30856,0,3258-02-21 04:06:00 EST,3258-02-21 04:23:00 EST,2696,"N",69,"Nursing/Other",,"
+
+7p to 7a Micu Progress Note
+
+Neuro - Pt alert, oriented x 2. MAE. Follows commands. Medicated with 2 mg morphine iv x 1 for c/o back discomfort and repositioned. Pt slept intermittently throughout the noc. 
+
+C-V - HR 104-120 afib with occas pvcs. BP 64-85/24-50. Amiodarone drip infused at .5mg/min until mn. 
+
+Resp - Maintained on 8 L FM with 02 sats > 95%. RR 23-34. LS clear, diminished at bases. 
+
+GI - Abd soft. +BS. No stool. Tolerating water without coughing or choking. 
+
+F/E - Scant urine output via foley cath ( 15-20ccs/hr). Urine cloudy and foul-smelling. 
+
+ID - Max temp 99 po. Current antibiotic regime consists of iv flagyl, vanco and levaquin. BC + staph cocci. 
+
+Social - Dtr visited most of the evening and called for update.
+
+A+P - Pt DNR/DNI - CMO except for antibiotics. Continue to assess effectiveness of pain mgt. ? call out to floor today. 
+",,

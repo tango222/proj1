@@ -1,0 +1,512 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+24294,,,,2525-11-14 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2525-11-14**] 6:04 PM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 1405**]
+     Reason: r/o bleed                                                   
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      [**Age over 90 **] year old man with aphasia, vomited this am, with hypertension, on plavix     
+     REASON FOR THIS EXAMINATION:
+      r/o bleed                                                                       
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+     WET READ: ESE WED [**2525-11-14**] 7:34 PM
+      No acute hemorrhage.
+     ______________________________________________________________________________
+                                     FINAL REPORT  (REVISED)
+     INDICATION:  Aphasia with history of hypertension on Plavix.
+     
+     TECHNIQUE:  Axial images of the head were obtained from the occiput to the
+     vertex without intravenous contrast.
+     
+     COMPARISON:  [**2524-8-4**] head CT.
+     
+     HEAD CT:  There is no intra or extra-axial hemorrhage.  Focal low attenuation
+     white matter changes are present in the left frontal lobe, immediately lateral
+     to the left lateral ventricle.  This was not seen on prior study and likely
+     consistent with encephalomalacic changes from an interval ischemic event.
+     There is extensive periventricular low attenuation white matter changes,
+     consistent with chronic microvascular disease.  A low attenuation focus is
+     seen in the right anterior caudate consistent with an old lacunar infarct.
+     There is prominence of the ventricles and sulci consistent with global
+     cerebral atrophy. However, communicating hydrocephalus could be considered,
+     with appropriate clinical history.  The osseous structures, mastoid air cells,
+     and visualized paranasal sinuses are unremarkable.
+     
+     IMPRESSION:
+     
+     1)  No acute intracranial hemorrhage.
+     2)  Low attenuation changes in the left frontal region consistent with
+     encephalomalacia.  This was not seen on prior study and is likely consistent
+     with an interval ischemic event.
+     3)  Ventriculomegaly- brain atrohpy v. communicating hydrocephalus.
+     Neurological consultation is suggested.
+     
+     An MRI is recommended as a more sensitive measure if there is a clinical
+     suspicion of acute brain ischemia.
+     
+
+",,
+24294,,,,2525-11-14 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2525-11-14**] 7:21 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 1406**]
+     Reason: eval for aspiration                                         
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      [**Age over 90 **] year old man with dysphagia, right base crackles, ? aspiration               
+     REASON FOR THIS EXAMINATION:
+      eval for aspiration                                                             
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Right base crackles in patient with dysphagia.
+     
+     COMPARISON:  [**2524-8-4**]
+     
+     CHEST AP PORTABLE RADIOGRAPH:  The cardiomediastinal and hilar contours are
+     stable in appearance.  The lungs are clear.  The soft tissue and osseous
+     structures are unremarkable.
+     
+     IMPRESSION:  Unremarkable chest radiograph.
+     
+
+",,
+24294,,,,2525-11-14 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2525-11-14**] 9:44 PM
+     MR HEAD W/O CONTRAST; MR-ANGIO HEAD                             Clip # [**Clip Number (Radiology) 1407**]
+     Reason: CVA, RECENT ONSET EXPRESSIVE APHASIA,DECREASED COMPREHENSION
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      [**Age over 90 **] year old man with h/o cva, with new expressive aphasia, decrease 
+      comprehension.  r/o cva. pls do mri/mra with dwi.
+     REASON FOR THIS EXAMINATION:
+      r/o cva                                                                         
+     ______________________________________________________________________________
+     WET READ: [**First Name9 (NamePattern2) 1408**] [**Doctor First Name 98**] [**2525-11-15**] 11:13 AM
+      acute to subacute left frontal CVA. Occlusion of right internal carotid
+      artery, new since last study.
+     ______________________________________________________________________________
+                                     FINAL REPORT *ABNORMAL!
+     INDICATIONS:    History of old stroke, now with new expressive aphasia and
+     confusion.
+     
+     TECHNIQUE:   Multiplanar MR imaging of the brain without IV contrast,
+     including diffusion weighted imaging.
+     
+     FINDINGS:  Comparison is made to the study from [**2524-3-1**].  There is a new focus
+     of restricted diffusion within the left frontal lobe, which is located more
+     anterior and inferior to the prior stroke. No areas of increased
+     susceptibility are present to suggest hemorrhage.  There is stable prominence
+     of the ventricles, out of proportion to the widened sulci.  There is extensive
+     confluent T2 signal hyperintensity within the periventricular white matter
+     consistent with chronic microvascular infarction.  There are stable areas of
+     cortical loss in the left frontal lobe, and parietal lobes.
+     
+     IMPRESSION:   Acute left frontal stroke in MCA distribution.  No evidence of
+     hemorrhage. Stable prominent ventricular dilatation.  Extensive microvascular
+     disease.
+     
+     MRA OF THE BRAIN:
+     
+     TECHNIQUE:   2D and 3D time of flight imaging of the internal carotid arteries
+     and major intracranial branches. Multiplanar reformations were made.
+     
+     FINDINGS:   Comparison is made to the study from [**2524-3-1**].  There is new
+     occlusion of the right internal carotid artery. There is minimal distal
+     reconstitution of blood flow, possibly from the inferolateral trunk, although
+     the reconstituting communications are not visualized on MRA. Both vertebral
+     arteries and the basilar artery are patent, without aneurysmal dilatation.
+     
+     The right posterior communicating artery is not visualized.  The left
+     posterior communicating artery is visualized and is normal.  Both posterior
+     cerebral arteries are patent in the proximal portions.  Weak flow is seen in
+     the right middle cerebral artery. The left middle cerebral artery is
+     visualized to the bifurcation, and demonstrates no evidence of aneurysmal
+     dilatation.  Flow is seen within the proximal portions of both anterior
+     cerebral arteries. The anterior communicating artery is questionably
+     visualized on the source data.
+                                                                 (Over)
+
+     DATE: [**2525-11-14**] 9:44 PM
+     MR HEAD W/O CONTRAST; MR-ANGIO HEAD                             Clip # [**Clip Number (Radiology) 1407**]
+     Reason: CVA, RECENT ONSET EXPRESSIVE APHASIA,DECREASED COMPREHENSION
+     ______________________________________________________________________________
+                                     FINAL REPORT *ABNORMAL!
+     (Cont)
+     
+     IMPRESSION:  Complete occlusion of right internal carotid artery with minimal
+     colateralization and reconstitution at the level of the cavernous sinus. This
+     is a new finding since the prior study.
+     
+     Above findings were discussed with Dr. [**Last Name (STitle) 1409**] at 11 a.m. on [**2525-11-15**].
+     
+
+",,
+24294,,,,2525-11-14 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2525-11-14**] 9:44 PM
+     MR HEAD W/O CONTRAST; MR-ANGIO HEAD                             Clip # [**Clip Number (Radiology) 1407**]
+     Reason: CVA, RECENT ONSET EXPRESSIVE APHASIA,DECREASED COMPREHENSION
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      [**Age over 90 **] year old man with h/o cva, with new expressive aphasia, decrease 
+      comprehension.  r/o cva. pls do mri/mra with dwi.
+     REASON FOR THIS EXAMINATION:
+      r/o cva                                                                         
+     ______________________________________________________________________________
+     WET READ: [**First Name9 (NamePattern2) 1408**] [**Doctor First Name 98**] [**2525-11-15**] 11:13 AM
+      acute to subacute left frontal CVA. Occlusion of right internal carotid
+      artery, new since last study.
+     ______________________________________________________________________________
+                                     FINAL REPORT *ABNORMAL!
+     INDICATIONS:    History of old stroke, now with new expressive aphasia and
+     confusion.
+     
+     TECHNIQUE:   Multiplanar MR imaging of the brain without IV contrast,
+     including diffusion weighted imaging.
+     
+     FINDINGS:  Comparison is made to the study from [**2524-3-1**].  There is a new focus
+     of restricted diffusion within the left frontal lobe, which is located more
+     anterior and inferior to the prior stroke. No areas of increased
+     susceptibility are present to suggest hemorrhage.  There is stable prominence
+     of the ventricles, out of proportion to the widened sulci.  There is extensive
+     confluent T2 signal hyperintensity within the periventricular white matter
+     consistent with chronic microvascular infarction.  There are stable areas of
+     cortical loss in the left frontal lobe, and parietal lobes.
+     
+     IMPRESSION:   Acute left frontal stroke in MCA distribution.  No evidence of
+     hemorrhage. Stable prominent ventricular dilatation.  Extensive microvascular
+     disease.
+     
+     MRA OF THE BRAIN:
+     
+     TECHNIQUE:   2D and 3D time of flight imaging of the internal carotid arteries
+     and major intracranial branches. Multiplanar reformations were made.
+     
+     FINDINGS:   Comparison is made to the study from [**2524-3-1**].  There is new
+     occlusion of the right internal carotid artery. There is minimal distal
+     reconstitution of blood flow, possibly from the inferolateral trunk, although
+     the reconstituting communications are not visualized on MRA. Both vertebral
+     arteries and the basilar artery are patent, without aneurysmal dilatation.
+     
+     The right posterior communicating artery is not visualized.  The left
+     posterior communicating artery is visualized and is normal.  Both posterior
+     cerebral arteries are patent in the proximal portions.  Weak flow is seen in
+     the right middle cerebral artery. The left middle cerebral artery is
+     visualized to the bifurcation, and demonstrates no evidence of aneurysmal
+     dilatation.  Flow is seen within the proximal portions of both anterior
+     cerebral arteries. The anterior communicating artery is questionably
+     visualized on the source data.
+                                                                 (Over)
+
+     DATE: [**2525-11-14**] 9:44 PM
+     MR HEAD W/O CONTRAST; MR-ANGIO HEAD                             Clip # [**Clip Number (Radiology) 1407**]
+     Reason: CVA, RECENT ONSET EXPRESSIVE APHASIA,DECREASED COMPREHENSION
+     ______________________________________________________________________________
+                                     FINAL REPORT *ABNORMAL!
+     (Cont)
+     
+     IMPRESSION:  Complete occlusion of right internal carotid artery with minimal
+     colateralization and reconstitution at the level of the cavernous sinus. This
+     is a new finding since the prior study.
+     
+     Above findings were discussed with Dr. [**Last Name (STitle) 1409**] at 11 a.m. on [**2525-11-15**].
+     
+
+",,
+24294,14700,,,2525-11-15 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+
+Admission Date:  [**2525-11-15**]       Discharge Date:  [**2525-11-16**]
+
+Date of Birth:   [**2435-2-22**]       Sex:  M
+
+Service:  NEUROLOGY
+
+HISTORY OF PRESENT ILLNESS:  This is a [**Age over 90 **] year old gentleman
+with a past medical history of hypertension and stroke, with
+baseline deficits in speech and right sided weakness since
+[**2524-1-1**].  He has had a deteriorating course in the
+last three months, according to his wife.  On the day of
+admission, however, the patient had chocking spells with
+vomiting and nausea, and was perceived to be weaker on the
+right side to the extent that he could not support his
+weight.  He was transferred to our hospital for further
+work-up.
+
+PAST MEDICAL HISTORY:
+1.  Carotid stenosis repaired with two stents on the left
+side with complicated cerebrovascular accident in [**2524-1-1**].
+2.  Multiple transient ischemic attacks before [**2524-1-1**].
+3.  Hypertension for over 20 years.
+4.  Chronic lymphoid leukemia over 20 years.
+5.  Gastritis.
+6.  Gout.
+7.  Peripheral neuropathy.
+8.  Chronic renal insufficiency with creatinine of 1.7 at
+baseline.
+
+ALLERGIES:   Codeine and tetracycline.
+
+SOCIAL HISTORY:  Lives with wife and has been independent.
+Has been walking with walker prior to this admission.  No
+smoking since [**52**] years ago.  No alcohol intake.
+
+MEDICATIONS PRIOR TO ADMISSION:
+1.  Allopurinol.
+2.  Prilosec.
+3.  Aspirin.
+4.  Plavix.
+5.  Lipitor.
+6.  Lisinopril.
+
+PHYSICAL EXAMINATION:  Vital signs are blood pressure
+230/110; 98.1 F.; 18 and 95% on room air.  Neurological
+examination on admission revealed an alert patient who has
+problems following commands.  Speech was sparse with
+occasional yes or no answers.  The patient had right facial
+flattening.  Tongue was midline.  Palate could be elevated.
+Extraocular movements appeared intact.  No visual deficits.
+Could turn his head bilaterally.  On motor examination, the
+patient had a right pronator drift, but could hold his both
+arms on counting up to ten.  The strength was normal in upper
+extremities.  Slight deficits of strength in the right lower
+extremity.  Coordination test was abnormal with intention
+tremor.  Sensory examination was intact.  Gait was deferred.
+Reflexes were more active on the right upper extremity.
+
+LABORATORY & IMAGING:  MRI and MRA of the brain compared to
+previous study from [**2525-3-1**], showed a new focus of
+restricted diffusion within the left frontal lobe which is
+located more anterior and inferior to the prior stroke.  No
+suggestions of hemorrhage.  Extensive T2 signal
+hyperintensity within the periventricular white matter was
+also observed.  A new occlusion of the right internal carotid
+artery was observed.  Both vertebral arteries and the basilar
+arteries were patent without aneurysmal dilatation.
+
+The right posterior communicating artery could not be
+visualized.  The left posterior communicating artery was
+normal.   Weak flow was seen in the right middle cerebral
+artery whereas the left middle cerebral artery was visualized
+to the bifurcation.
+
+On admission, mild degree of anemia with hemoglobin in the
+range of 12 to 13.0.  Hematocrit in the range of 34 to 38.
+Lower platelet counts of 130s.  Urinalysis negative.
+Creatinine 1.5.  Liver enzymes normal.  CK MB normal.
+Troponin T slightly elevated consistent with chronic renal
+insufficiency.
+
+Lipid panels, triglycerides 19, HDL 54, LDL 63, and
+homocystine 11.7.
+
+Echocardiogram:  Showed a mild regional left ventricular
+systolic dysfunction with ejection fraction of 50 to 55%.
+Basal and mild inferolateral wall motion abnormalities were
+also seen.  Compared to the previous report, there were no
+significant changes.
+
+HOSPITAL COURSE:  The patient was seen by our Stroke Team
+upon admission.  Due to the severity of the patient's
+hypertension at admission, the patient was admitted to the
+Intensive Care Unit with Labetalol drip to stabilize his
+blood pressure.  He was treated with normal saline
+intravenous fluids and his blood glucose was checked every
+six hours.  Cardiac enzymes ruled out the possibility of any
+myocardial infarction.  Carotid ultrasounds showed widely patent
+left ICA status post stent placement with a complete occlusion of
+the right internal carotid artery.  The patient continued with
+aspirin and Plavix, but later this was changed to Aggrenox and
+Plavix, since the patient had acquired a new stroke on those
+two medications before.
+
+The patient's blood pressure was regulated in the range of
+160 to 180.  As mentioned above, his chest x-ray, urinalysis,
+liver enzymes and other laboratory findings did not reveal
+any signs of ongoing infection.  He was examined with a
+speech and swallow test that cleared his swallow function for
+a soft diet and thin fluids.
+
+The patient had a stable course throughout his stay on our
+service and his language was perceived to be typical
+transcortical sensory aphasia with echolalia.  The patient's
+family, and the patient's wife declared a strong wish that we
+should respect the patient's request for not being
+resuscitated and his code status remained ""DO NOT
+RESUSCITATE"" ""DO NOT INTUBATE"" throughout his stay with us.
+He was discharged in stable condition to a rehabilitation
+facility.
+
+CONDITION AT DISCHARGE:   Good.
+
+DISCHARGE STATUS:  Discharged to a rehabilitation hospital.
+
+DISCHARGE MEDICATIONS:
+1.  Aggrenox, one capsule p.o. twice a day.
+2.  Simvastatin, 10 mg p.o. q. day.
+3.  Protonix 40 mg p.o. q. day.
+4.  Tylenol 650 mg p.o. q. four to six hours p.r.n.
+5.  Lisinopril 10 mg p.o. q. day; hold if systolic blood
+pressure less than 150.
+6.  Plavix 75 mg p.o. q. day.
+7.  Allopurinol 100 mg p.o. q. day.
+
+DISCHARGE INSTRUCTIONS:  No follow-up was scheduled on the
+discharge.
+
+
+
+                            [**Name6 (MD) **] [**Name8 (MD) **], M.D.  [**MD Number 1067**]
+
+Dictated By:[**Last Name (NamePattern1) 5101**]
+MEDQUIST36
+
+D:  [**2525-11-16**]  13:24
+T:  [**2525-11-16**]  13:45
+JOB#:  [**Job Number 5102**]
+Signed electronically by: DR. [**First Name (STitle) **] [**Name (STitle) **]
+ on: TUE [**2525-12-4**] 2:10 PM
+(End of Report)
+
+
+",,
+24294,14700,,,2525-11-15 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2525-11-15**] 11:34 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 1411**]
+     Reason: r/o effusion                                                
+     Admitting Diagnosis: CEREBROVASCULAR ACCIDENT
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       [**Age over 90 **] year old man with dysphagia, right base crackles, ? aspiration              
+       
+     REASON FOR THIS EXAMINATION:
+      r/o effusion                                                                    
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: Dysphagia, crackles.
+     
+     VIEWS: Supine AP view compared with erect AP view from [**2525-11-14**].
+     
+     FINDINGS: The cardiac and mediastinal contours remain stable in appearance.
+     There is mild upper zone redistribution with perihilar haziness consistent
+     with minimal pulmonary edema. There has been interval development of a small
+     left pleural effusion with left basilar atelectasis.
+     
+     IMPRESSION:
+     1. Minimal congestive heart failure.
+     2. New small left pleural effusion and left basilar atelectasis.
+
+",,
+24294,14700,,,2525-11-15 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2525-11-15**] 3:47 PM
+     VIDEO OROPHARYNGEAL SWALLOW                                     Clip # [**Clip Number (Radiology) 1412**]
+     Reason: DIFFICULTY SWALLOWING
+     Admitting Diagnosis: CEREBROVASCULAR ACCIDENT
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Difficulty swallowing.
+     
+     VIDEO OROPHARYNGEAL SWALLOW:  This study was performed in conjunction with the
+     speech/swallow therapist.  Various consistencies of barium were administered
+     orally.  The oral phase is normal.  There is no delay in the pharyngeal phase.
+     The larynx elevates and epiglottis deflects normally.  Trace residua is noted
+     in the valleculae with all consistencies which clears with repeat swallow.
+     There was no laryngeal penetration or aspiration with any consistency.  A
+     prominent cricopharyngeus is noted.
+     
+     IMPRESSION:  No evidence of aspiration or observed difficulty swallowing.
+     Mild vallecular residue cleared with repeat swallows.
+
+",,
+24294,14700,,,2525-11-15 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2525-11-15**] 10:00 AM
+     CAROTID SERIES COMPLETE                                         Clip # [**Clip Number (Radiology) 1410**]
+     Reason: please evaluate status of known carotid stenoses            
+     Admitting Diagnosis: CEREBROVASCULAR ACCIDENT
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      [**Age over 90 **] year old man with new left hemispheric stroke. Had left ica stent [**12-31**] and 
+      80-99% carotid stenosis on right in 1/03.
+     REASON FOR THIS EXAMINATION:
+      please evaluate status of known carotid stenoses                                
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: [**Age over 90 **]-year-old man with a new left hemispheric stroke, and who had
+     stent placement in the left internal carotid artery (ICA) in [**2524-1-1**].
+     Known stenosis of 80 to 99% in diameter in the right ICA ([**2525-1-31**]).
+     
+     COMPARISON: Prior similar examination from [**2524-3-2**] had shown a widely
+     patent left ICA stent and the 80 to 99% stenosis in the right ICA.
+     
+     TECHNIQUE AND FINDINGS: [**Doctor Last Name **] scale, color Doppler and spectral Doppler
+     examinations were performed bilaterally at the level of cervical portions of
+     the carotid and vertebral arteries.
+     
+     Again, there is extensive plaque in the right ICA. No flow can be detected in
+     this vessel. The peak systolic velocities in the right common and external
+     caortid arteries are 45 and 163 cm/sec, respectively.
+     
+     On the left, the carotid arteries and the stent are widely patent. The
+     waveforms and velocities are normal.
+     
+     There is antegrade flow in the bilateral vertebral arteries.
+     
+     CONCLUSION: No significant change since [**2524-2-1**], i.e.:
+     1. occlusion of the right internal carotid artery, and
+     2. widely patent left ICA, status post stent placement.
+
+",,
+24294,14700,30177,0,2525-11-15 04:21:00 EST,2525-11-15 04:35:00 EST,2421,"N",69,"Nursing/Other",,"
+
+npn 03:00-07:15    (please also see careview flownotes for objective data)
+
+pt admitted for refractory htn, and possible new/additional CVA;
+
+neuro exam unchanged this 4 hourse; pt lethargiac, attmepts simple single word communications;
+
+c-v:
+b/p within acceptable range, hrt rate sinus, no ectopy observed;
+
+resp: O2 sat 100% on 2 l n.c.;
+
+g-i:
+NPO for now, in preparation for  liklihood of CT.
+
+g-u:
+no apprent issuues at this time;
+
+skin:
+peri-area/back- intact; IV site intact;
+
+social:
+suppor wive;
+",,
+24294,14700,30177,0,2525-11-15 04:48:00 EST,2525-11-15 04:53:00 EST,2421,"N",69,"Nursing/Other",,"
+
+npn 03:00-07:00 cont:
+
+PLAN:
+1) NPO
+2) carotid duplex u/s rtn today
+3) ?repeat CT
+4) card echo (surface) today; eval source of stroke
+5) 3rd set cardia enzymes [**11-15**], 12 noon
+6) LABETELOL HCL 10 MG IV Q 6 HRS PRN B/P >190
+7) goal for sbp 150-180
+",,
+24294,14700,30177,0,2525-11-15 12:48:00 EST,2525-11-15 12:53:00 EST,2605,"N",69,"Nursing/Other",,"
+
+D:Please see [**Name6 (MD) 104**] data, MD notes,orders. Neuro: More alert, answers y/n questions but he is unable to answer complex questions and tends to repeat words that are spoken to him. [**Last Name (LF) **], [**First Name3 (LF) 26**], Slight left eye droop and asymetrical smile noted. CV: SR SBP 160-180.Cardiace enzymes neg x2, third set pending. Pulm:RA sat 96%, lungs clear. GU: UO 25-45cc/hr. Abd benign, NPO except meds until second portion of swallow eval comepleted. Wife at bedside and updated on plan of care. Pt to go to vidio swallow eval and then to [**Hospital Ward Name 41**] 5 room 524. Transfer note comepleted and faxed to accepting unit.
+",,

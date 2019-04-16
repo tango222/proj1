@@ -1,0 +1,527 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+24956,15812,,,3160-02-04 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+
+Admission Date:  [**3160-2-4**]     Discharge Date:  [**3160-2-10**]
+
+Date of Birth:   [**3082-6-10**]     Sex:  F
+
+Service:
+
+HISTORY OF PRESENT ILLNESS:  Ms. [**Known patient lastname 6416**] is a 77-year-old woman
+with a past medical history of rheumatic heart disease,
+congestive heart failure, and chronic renal failure (with one
+kidney) who presents from primary care physician's office
+with a chief complaint of dyspnea.  She was being seen for
+management of congestive heart failure.
+
+She had been having increased dyspnea and orthopnea dating
+back to [**3159-9-25**] with worsening symptoms over the
+past week; increased fatigue, dyspnea on exertion, nausea,
+vomiting, weakness, and orthopnea.  She also reports
+pleuritic chest pain, decreased oral intake, and left-sided
+abdominal pain.  Her chest pain is both at rest and with
+activity.  Decreased activity capacity over approximately
+seven days.  She has been having worsening renal function
+over the past three months or so.
+
+On the floor, when she was admitted to the [**Doctor Last Name 2451**] team, she
+was found to have a potassium of 7 and a bicarbonate of 10.
+Bradycardic with widened QRS.  Digoxin level was 4.8.  She
+was hypotensive with a blood pressure of 80/40 and was 97% on
+room air.
+
+The patient was transferred to the Medical Intensive Care
+Unit and underwent dialysis.  Found to have an INR of
+approximately 8 possible secondary to the medications that
+she had been taking; however, the patient was unclear what
+medicine she had been taking.  She had been given vitamin A
+and fresh frozen plasma times two.  She also had negative
+creatinine kinases times three and ruled out for a myocardial
+infarction.  Ms. [**Known patient lastname 6416**] spent an evening in the Medical
+Intensive Care Unit and then was transferred out to the
+[**Hospital1 **] team.
+
+PAST MEDICAL HISTORY:  (Past medical history is notable for)
+ 1.  Atrial fibrillation and rheumatic heart disease (class
+III).
+ 2.  Congestive heart failure.
+ 3.  Hypertension.
+ 4.  Diastolic function.
+ 5.  Mitral regurgitation (3+), mitral stenosis, and aortic
+regurgitation; all secondary to rheumatic heart disease.
+ 6.  She has diverticulitis; status post colectomy.
+ 7.  She has chronic renal insufficiency; she had been
+started on an ACE inhibitor approximately six months ago.
+ 8.  She is status post nephrectomy (which is old).
+ 9.  She has had a history of basal cell carcinoma; status
+post resection.
+10.  She is status post total abdominal hysterectomy.
+11.  She has gout.
+
+MEDICATIONS ON ADMISSION:  Her medications on admission were
+Vioxx 12.5, warfarin 2.5, Lopressor 50 mg p.o. twice per day,
+lisinopril 40 mg p.o. once per day (this was started in
+[**3159-9-25**]), digoxin 0.125 mg p.o. once per day,
+allopurinol 100 mg p.o. every day, Lasix 40 mg p.o. once per
+day, and triamterene.
+
+ALLERGIES:  She is allergic to SULFA as well as to MOTRIN.
+
+SOCIAL HISTORY:  She lives at home with daughter who assists
+her with her medications.  She does not smoke.  She does not
+drink alcohol.
+
+REVIEW OF SYSTEMS:   She reports increased shortness of
+breath, orthopnea, and chest pain times four months.  Nausea
+and vomiting times four weeks and diarrhea.  No fevers or
+chills.  No falls.  No bright red blood per rectum.  She
+denies melena.
+
+PHYSICAL EXAMINATION ON PRESENTATION:  On examination on
+transfer to the [**Hospital1 **] team, her blood pressure was 84 to
+91/30 to 50.  She was pale and in no acute distress.  Her
+heart rate was 90 to 100, a regular rate and rhythm.  She was
+97% on 4 liters.  She had pale conjunctivae.  Extraocular
+movements were intact.  Pupils were equal, round, and
+reactive to light and accommodation.   Mucous membranes were
+moist.  Her neck was supple.  Her jugular venous pulsation
+was up to her mandible.  Heart:  Regular rate and rhythm with
+a III/VI systolic ejection murmur at the left upper sternal
+border and right upper sternal border.  She had a III/VI left
+upper sternal border systolic ejection murmur to the axilla.
+Her lungs were clear to auscultation anteriorly.  The abdomen
+was nontender with normal active bowel sounds.  Her abdomen
+was soft.  She had trace to 1+ lower extremity edema.  Her
+cranial nerves II through XII were intact.  She had no flank
+ecchymosis or tenderness.
+
+PERTINENT LABORATORY VALUES ON PRESENTATION:  On [**2-4**],
+she had a white blood cell count of 9.8, hematocrit was 29.4,
+and platelets were 264.  INR was 7.9.  Sodium was 134,
+potassium was 7, chloride was 103, bicarbonate was 10, blood
+urea nitrogen was 163, creatinine was 10.8, and blood glucose
+was 120.  Calcium was 8.9, phosphorous was 11.5, and
+magnesium was 2.6.
+
+Her laboratories on [**4-6**] revealed white blood cell count
+was 6, hemoglobin was 8.5, hematocrit was 24.4, and platelets
+were 167.  INR was 2.4.  Thyroid-stimulating hormone was
+0.92.  Sodium was 137, potassium was 4, chloride was 102,
+bicarbonate was 20, blood urea nitrogen was 93, and
+creatinine was 6.5 (this was after dialysis).  Creatinine
+kinases were 47, 30, and 28.  Calcium was 8.6, phosphorous
+was 7.9, and magnesium was 1.9.
+
+PERTINENT RADIOLOGY/IMAGING:  She had a KUB on [**3160-2-4**]
+which showed a small-bowel resection in the pelvis.
+Small-bowel distention may indicate the presence of early
+obstruction given dilation down to the levels of earlier
+surgery.  A follow-up KUB should be obtained if symptoms
+persist.  She had a renal ultrasound on [**2-4**] as well.
+Impression was no hydronephrosis.
+
+An abdominal ultrasound on [**2-10**]; probable simple left
+cyst.  Liver demonstrates coarse echogenicity without focal
+mass or hepatic ductal dilatation.  The kidney was 10.6 with
+a 2.6 cm cyst which is probably simple.
+
+HOSPITAL COURSE BY ISSUE/SYSTEM:  The patient is a
+77-year-old woman with severe valvular disease, chest
+pain/pressure, dyspnea on exertion and at rest, fatigue, and
+found to be in acute renal failure, hypotensive, status post
+dialysis, with a persistent low blood pressure.  Hematocrit
+was 24.4 of unclear etiology.
+
+1.  HEMATOLOGIC ISSUES:  Hematocrit was down to 24.4 in the
+context of an elevated INR.  The patient received 2 units of
+fresh frozen plasma and 1 unit of vitamin K.  Her Coumadin
+was held.  She was typed and crossed 2 units.  She was
+transfused 2 units of packed red blood cells.  Her hematocrit
+jumped to 32.9.  Stools were guaiac-positive.  History of
+diverticulosis with a supratherapeutic INR on presentation.
+
+Gastroenterology was consulted who recommended an outpatient
+colonoscopy as there were no signs of brisk bleed, and the
+patient's hematocrit was stable for greater than 48 hours
+status post the initial transfusion.  Liver function tests
+were within normal limits.
+
+The patient had a right upper quadrant ultrasound, as stated
+earlier above.  Her INR was 1.7 on the day of discharge.  She
+was started back on her Coumadin at 2.5 mg when her INR was
+1.7.  She was to follow up with both her primary care
+physician and the Congestive Heart Failure Clinic shortly
+after discharge as well as to have Visiting Nurse Association
+to come to the house and monitor her INR.  The patient was to
+have an outpatient colonoscopy to follow up on the
+guaiac-positive stools in the context of a very
+supratherapeutic INR.  Iron studies were consistent with iron
+deficiency anemia.  The patient was discharged on iron
+supplements.
+
+2.  CARDIOVASCULAR SYSTEM:  (a)  Congestive heart failure:
+Initially the patient had hypotesion and was not given any
+treatment for her congestive heart failure after the blood
+transfusion and improvement of the patient's blood pressure
+to 120 to 145/50 to 60.  The patient was started on
+intravenous Lasix 40 by 20 intravenously then converted over
+to 40 p.o. every day.   The patient was initially started on
+nitrate for afterload reduction.  This was converted to oral
+nitrates and hydralazine.  An ACE inhibitor was initially not
+used given the patient's elevated creatinine.  The goal will
+be to start an ACE inhibitor and place on hydralazine and
+nitrates when the patient's creatinine is less than 1.5.
+When the patient was euvolemic, her beta blocker was titrated
+up for rhythm control for atrial fibrillation.  This was
+titrated up to 37.5 on the day of discharge on 50 p.o.
+
+The main issue and etiology of her heart failure that needed
+addressing was of course her rheumatic heart disease.
+Repeatedly during the admission, the patient refused surgery
+at the current time and preferred to have medical management.
+The Congestive Heart Failure Service assisted us with this
+medical management.  The patient was to follow up with the
+Congestive Heart Failure Service as an outpatient, at which
+time an ACE inhibitor will be added to her regimen.
+
+An echocardiogram on [**3160-2-5**] showed an ejection
+fraction of 65% and P-R gradient of approximately 32 mmHg.
+The left atrium was markedly dilated.  The right atrium was
+markedly dilated.  The ventricular wall thickness was normal.
+The left ventricular cavity size was normal.  Overall left
+ventricular systolic function was normal, greater than 55%.
+Right ventricular chamber size and free wall motion were
+normal.  The aortic root was normal in diameter.  Mild
+thickening of the aortic valve, 1+ aortic regurgitation, 3+
+mitral regurgitation, with moderate mitral stenosis, 1+
+tricuspid regurgitation.  No pericardial effusion.
+
+(b)  Rate control:  For atrial fibrillation; her heart rate
+initially was 100 when she came out of the Unit.  Beta
+blocker was titrated up as the patient was diuresed, and on
+the day of discharge her heart rate was in the low 90s, and
+her blood pressure was 112/70.
+
+2.  RENAL ISSUES:  The patient was initially dialyzed and
+then renal function improved; most likely secondary to the
+ACE inhibitor that had been titrated up in the context of the
+patient having one kidney.  It was very possible she could
+have renal vascular disease in that one kidney.  The Renal
+team was following the patient.  It was also possible that
+she had been taking a [**Doctor Last Name **]-2 inhibitor with the ACE inhibitor,
+and this combination was bad for her renal function, and it
+was eventually felt by the Renal team that this was the most
+likely etiology of the patient's renal failure.  When the
+patient was discharged, she was instructed to stay away from
+[**Doctor Last Name **]-2 inhibitors, to not take nonsteroidal antiinflammatory
+drugs, and to not take digitalis, and that she could start an
+ACE inhibitor as an outpatient.  On the day of discharge, her
+creatinine was 1.4 and her blood urea nitrogen was 35.
+
+Addendum:  The patient was offered the colonoscopy as an
+inpatient, but she had deferred it and told to be done as an
+outpatient.
+
+3.  CODE STATUS:  The patient was do not intubate during her
+stay but was positive cardiopulmonary resuscitation.
+
+DISCHARGE DISPOSITION:  The patient was discharged to home
+with services from Visiting Nurse Association who was to send
+the patient's INR levels to Dr. [**Last Name (STitle) **].  They were also
+to check daily weights.
+
+FINAL DISCHARGE DIAGNOSES:
+1.  Rheumatic heart disease with mitral stenosis, mitral
+regurgitation, aortic regurgitation, aortic stenosis.
+2.  Congestive heart failure.
+3.  Acute renal failure.
+4.  Anemia with guaiac-positive stools with an INR of 8.
+
+DISCHARGE INSTRUCTIONS/FOLLOWUP:   The patient had
+appointments made on [**2-29**] with Dr. [**Last Name (STitle) **] in the Heart
+Failure Clinic; [**3-2**] at Adult Medicine Clinic with Dr.
+[**Last Name (STitle) **]; and on [**3160-3-9**] with General Cardiology.
+
+PROCEDURES PERFORMED:  She had no major surgical procedures.
+She did have the echocardiogram (as stated earlier), and she
+was on dialysis (as stated earlier).
+
+CONDITION AT DISCHARGE:  Condition on discharge was good.
+
+MEDICATIONS ON DISCHARGE:
+1.  Calcium carbonate 500 mg p.o. three times per day (with
+meals).
+2.  Furosemide 40 mg p.o. once per day.
+3.  Metoprolol 50 mg p.o. three times per day.
+4.  Ferrous sulfate 325 mg p.o. once per day.
+5.  Coumadin 2.5 mg p.o. once per day.
+6.  Nitroglycerin sublingual tablets as needed.
+
+
+                          [**First Name11 (Name Pattern1) **] [**Initials (NamePattern4) **] [**Last Name (NamePattern4) **], M.D.  [**MD Number 1863**]
+
+Dictated By:  [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **], M.D.
+MEDQUIST36
+D:  [**3160-5-16**]  16:51
+T:  [**3160-5-24**]  10:17   JOB#:  [**Job Number 6417**]
+Signed electronically by: DR. [**First Name8 (NamePattern2) **] [**Doctor Last Name **]
+ on: SUN [**3160-7-3**] 6:41 AM
+(End of Report)
+
+
+",,
+24956,15812,,,3160-02-04 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3160-2-4**] 10:45 AM
+     ABDOMEN (SUPINE & ERECT); CHEST (PA & LAT)                      Clip # [**Clip Number (Radiology) 7881**]
+     Reason: ABD PAIN,DIARRHEA W/1X VOMITING,CHF,DULL RT BASE R/O INFILTRATE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      77 year old woman with 
+     REASON FOR THIS EXAMINATION:
+      hx sbo, abd pain, diarrhea, vomited once
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  CHF, abdomonal pain.
+     
+     The heart is enlarged.  There are no focal infiltrates.  Hilar and mediastinal
+     contours are normal.  There is a small right effusion.  There is no bone
+     destruction.
+     
+     IMPRESSION:  Cardiomegaly.
+                  Small right effusion since [**3159-12-3**].
+     
+     
+     
+     KUB AND UPRIGHT:
+     
+     There are a few moderately dilated small bowel loops on the left side.  There
+     are no air-fluid levels.  There are sutures in the pelvis.  A single bowel
+     loop is present at the suture site.  There is no free air.  No masses are
+     present.  There are no abnormal calcifications.
+     
+     IMPRESSION:
+     
+     Bowel resection in the pelvis.
+     
+     Small bowel distension.  This may indicate the presence of an early
+     obstruction, given the dilatation down to the level of the area of surgery.
+     Follow up views should be obtained if symptoms persist.
+
+",,
+24956,15812,,,3160-02-04 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3160-2-4**] 5:47 PM
+     RENAL U.S.                                                      Clip # [**Clip Number (Radiology) 7882**]
+     Reason: EVAL HYDRONEPHROSIS, ELEV CREAT
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       77 year old woman with increased creatinine, decreased urine output s/p 
+      nephrectomy.
+     REASON FOR THIS EXAMINATION:
+      does pt have hydronephrosis                                                     
+     ______________________________________________________________________________
+     WET READ: [**First Name9 (NamePattern2) 1408**] [**Doctor First Name 98**] [**3160-2-4**] 6:50 PM
+      no hydro
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATIONS: High creatinine, decreased urine output, evaluate for
+     hydronephrosis.
+     
+     No prior renal ultrasounds are available for comparison.
+     
+     LEFT RENAL ULTRASOUND: The left kidney measures 12.5 cm. The right kidney has
+     been removed surgically. There is no evidence of hydronephrosis or stones.
+     
+     IMPRESSION: No hyroneprosis.
+
+",,
+24956,15812,,,3160-02-04 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3160-2-4**] 10:45 AM
+     ABDOMEN (SUPINE & ERECT); CHEST (PA & LAT)                      Clip # [**Clip Number (Radiology) 7881**]
+     Reason: ABD PAIN,DIARRHEA W/1X VOMITING,CHF,DULL RT BASE R/O INFILTRATE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      77 year old woman with 
+     REASON FOR THIS EXAMINATION:
+      hx sbo, abd pain, diarrhea, vomited once
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  CHF, abdomonal pain.
+     
+     The heart is enlarged.  There are no focal infiltrates.  Hilar and mediastinal
+     contours are normal.  There is a small right effusion.  There is no bone
+     destruction.
+     
+     IMPRESSION:  Cardiomegaly.
+                  Small right effusion since [**3159-12-3**].
+     
+     
+     
+     KUB AND UPRIGHT:
+     
+     There are a few moderately dilated small bowel loops on the left side.  There
+     are no air-fluid levels.  There are sutures in the pelvis.  A single bowel
+     loop is present at the suture site.  There is no free air.  No masses are
+     present.  There are no abnormal calcifications.
+     
+     IMPRESSION:
+     
+     Bowel resection in the pelvis.
+     
+     Small bowel distension.  This may indicate the presence of an early
+     obstruction, given the dilatation down to the level of the area of surgery.
+     Follow up views should be obtained if symptoms persist.
+
+",,
+24956,15812,30984,0,3160-02-05 05:00:00 EST,3160-02-05 05:48:00 EST,-1,"N",69,"Nursing/Other","Nursing Note: 2035-0700","
+Nursing Note: 2035-0700
+Please see FHP for hx. Basically she is a 77yr old direct admit to cc7 from home with c/o n/v/d x7 days, orthropnea, worsening CRI, creat bump from 3.4 on [**1-29**] - 10 on admission, K+ 7.0. While being worked up Pt c/o chest pressure and was given 1 sl nitro with good effect, but then she subsequently drop her pressure to the 70s, bradycardic in the 30s she was transferred to the unit for emergent HD, after a round of kayexalate, Cagluconate and bicarb. Her Inr came back at 7.9 and dig at 4.8.
+
+N- Pt admitted alert and oriented x3, mild sob, MAE, csm+. R fem dialysis cath in place. Pt and family aware that she needs emergent HD.
+
+CV- Hr 40s sb, bp 82/40, no c/o cp at the time. She was dialyzed over 2hrs, given 1200cc ns, no fld taken off as it was felt Pt was dehydrated. C/o of chest pressure [**4-2**] at 0045 relieved with 1 sl nitro, no changes on ekg, cks cycled, had the same episode at 0230, no relief with 3sl nitro, mso4 1mg iv given with good effect.
+
+Resp- Crackles and wheezes throughout, tol O2 5l np, sats 95 - 97%, rr14 - 18. Lung sounds improved after dialysis, but still wheezing.
+
+Heme- On admission INR 7.9, r fem line was placed on the floor, no bleeding at site, she was given 2u ffp at 2300, po vit K+ also given, am inr pending. 
+
+GI- +bs, abd soft, liq brown guaiac + stool x4, taking sips of water, decrease appetite.
+
+Gu- No urine out since admission, Dialized without difficulty, creat down to 6 at 0100, K+ 3.5.
+
+Skin- warm, dry and intact.
+
+Social- Daughter [**Name (NI) **] stayed at bedside overnight.
+
+Plan- Monitor renal status, maintain bp above 90.
+",,
+24956,15812,,,3160-02-10 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3160-2-10**] 1:22 PM
+     ABDOMEN U.S. (COMPLETE STUDY)                                   Clip # [**Clip Number (Radiology) 7883**]
+     Reason: hcnage sin liver parenchyma indicating liver disease        
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      77 year old woman with elevated inr despite no coumadin x 1 week (also 
+      preseneted with very elevate inr on her maintanacne doses)
+     REASON FOR THIS EXAMINATION:
+      hcnage sin liver parenchyma indicating liver disease                            
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: Elevated iron despite no Coumadin x 1 week please evaluate.
+     
+     The liver demonstrates coarse echo texture without focal mass or hepatic
+     ductal dilatation. The common duct is normal. There are no gallstones. The
+     right kidney is not visualized. The left kidney measures 10.6 cm and contains
+     a hypoechoic 2.6 cm cyst which is probably simple. However, thorough
+     interrogation is limited due to technical factors. The spleen is not enlarged.
+     There is no ascites.
+     
+     IMPRESSION: Probably simple left renal cyst.
+     
+
+",,
+24956,,,,3160-04-28 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3160-4-28**] 2:34 PM
+     CHEST (PA & LAT); CHEST (LAT DECUB ONLY)                        Clip # [**Clip Number (Radiology) 7884**]
+     Reason: congestion, wheeze
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      77 year old woman with 1 wk productive cough, wheeze, hx CHF - ? infiltrate
+     REASON FOR THIS EXAMINATION:
+      congestion, wheeze
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     
+     CHEST, BILATERAL DECUBITUS VIEWS.
+     
+     HISTORY: Cough.
+     
+     The heart is enlarged.  There are no focal infiltrates.  Hilar and mediastinal
+     contours are normal.  There is no evidence of failure.  There is a slight
+     degree of pleural thickening at the lung bases.  There is no bone
+     destruction.
+     
+     IMPRESSION:  Cardiomegaly with areas of pleural thickening at both lung bases.
+     
+     
+
+",,
+24956,,,,3160-04-28 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3160-4-28**] 2:34 PM
+     CHEST (PA & LAT); CHEST (LAT DECUB ONLY)                        Clip # [**Clip Number (Radiology) 7884**]
+     Reason: congestion, wheeze
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      77 year old woman with 1 wk productive cough, wheeze, hx CHF - ? infiltrate
+     REASON FOR THIS EXAMINATION:
+      congestion, wheeze
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     
+     CHEST, BILATERAL DECUBITUS VIEWS.
+     
+     HISTORY: Cough.
+     
+     The heart is enlarged.  There are no focal infiltrates.  Hilar and mediastinal
+     contours are normal.  There is no evidence of failure.  There is a slight
+     degree of pleural thickening at the lung bases.  There is no bone
+     destruction.
+     
+     IMPRESSION:  Cardiomegaly with areas of pleural thickening at both lung bases.
+     
+     
+
+",,
+24956,,,,3160-10-31 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3160-10-31**] 3:22 PM
+     MAMMOGRAM (SCREENING)                                           Clip # [**Clip Number (Radiology) 7885**]
+     Reason: SCREENING
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATIONS:  Screening. 
+     
+     SCREENING MAMMOGRAM:   Comparison is made to previous films from [**Hospital1 550**] [**Location (un) 7886**]
+     on [**3155-7-6**].  Heterogenously dense breasts limit the sensitivity of mammography
+     and there are no suspicious masses.  Behind the right nipple, there is a faint
+     cluster of new microcalcifications.  The patient will be contacted to return
+     for additional views of the right breast. There are no other changes in the
+     appearance of the breast over the past five years.
+     
+     IMPRESSION:   New cluster of calcifications in the right breast and
+     additional views are to be obtained.
+     
+     BIRADS 0 - EVALUATION INCOMPLETE.
+
+",,
+24956,,,,3160-11-03 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3160-11-3**] 3:50 PM
+     UNILAT DIAGNOSTIC MAMMOGRAM                                     Clip # [**Clip Number (Radiology) 7887**]
+     Reason: ? NEW CALCS SEEN ON SCREENING MAMMOGRAM. REQUIRING ADDITIONAL VIEWS PER RADIOLOGIST
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Abnormal screening mammogram.
+     
+     Comparison with the patient's prior mammogram at [**Hospital1 550**], [**Location (un) 7886**] on [**3160-10-31**]
+     shows no suspicious masses or calcifications.  Heterogeneously dense breast
+     tissue limits the sensitivity of mammography. The suspected faint
+     calcifications posterior to the right nipple are not confirmed in additional
+     magnification views obtained separately.
+     
+     IMPRESSION:  No evidence of malignancy.  BIRADS 1 - negative.  
+
+",,

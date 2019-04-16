@@ -1,0 +1,167 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+24264,27818,,,3154-07-05 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+ 
+ 
+ 
+Admission Date:  [**3154-7-5**]              Discharge Date:   [**3154-7-12**]
+ 
+Date of Birth:  [**3103-1-28**]             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Ativan
+ 
+Attending:[**First Name3 (LF) 2592**] 
+Chief Complaint:
+FTT
+ 
+Major Surgical or Invasive Procedure:
+none.
+ 
+History of Present Illness:
+ THis is a 51 yo F with metastatic cholangiocarcinoma who was 
+transferred from [**Hospital3 400**] for FTT. The patient was 
+admitted to [**Hospital3 **] [**2-4**] N/V and abd pain. + coffee 
+ground emesis. She was not capable of taking her PO pain meds. 
+Her pain had markedly increased in the past few weeks. THe 
+patient was exeriencing increasing nausea and vomiting secondary 
+to her chemotherapy (last round two weeks ago). At [**Hospital1 **] the patient was hydrated. Her initial CXR was 
+unremarkable as was her CBC. The doctors [**First Name (Titles) **] [**Hospital3 **] 
+spoke to the patient about her poor ultimate prognosis. At that 
+point, the patient decided to come to [**Hospital1 25**] to be seen by her 
+oncologist Dr. [**First Name (STitle) **]. Currently the patient complains of mild 
+nausea, + cough, shortness of breath, and whitish sputum, occ 
+diarrhea [**2-4**] lactose intolerance. + abd pain when laying down.
+
+On review of systems, the pt. denied recent fever or chills. No 
+night sweats. + 30 lb weight loss. Denied headache, sinus 
+tenderness, rhinorrhea or congestion. Denied chest pain or 
+tightness, palpitations. Denied vomiting, diarrhea, 
+constipation. No recent change in bowel or bladder habits. No 
+dysuria. Denied arthralgias or myalgias.
+ 
+Past Medical History:
+Etoh abuse
+ONC HX:
+metastatic cholangiocarcinoma:
+TREATMENT HISTORY:  Ms. [**Known patient lastname 5010**] was diagnosed with
+cholangiocarcinoma in [**3153-5-3**] with peritoneal and omental
+metastases.  She has been treated with biliary stenting with
+resolution of jaundice. She completed 8 cycles gemcitabine and
+CPT11 in [**3154-1-3**] until relapse and was started on xeloda
+1000mg BID for 14 days of 21 day cycles.
+
+s/p stent 8x6 cm metal stent traversing the stricture from the 
+CBD to the left main hepatic duct 
+s/p exploratory laparoscopy with omental and peritoneal biopsies
+s/p chemotherapy with gemcitabine and CPT-11 x 3 doses
+
+ 
+Social History:
+Etoh abuse.  25 pack-year tobacco history.  Daily marijuana use. 
+ Lives with her boyfriend.  Currently unemployed.
+
+ 
+Family History:
+Maternal uncle with stomach cancer; grandmother with AML.
+ 
+Physical Exam:
+T 99.2, HR 85, BP 102/74, RR 18, O2 sat 92% 3L
+Gen: awake, alert, oriented. No apparent distress. Cachectic and 
+
+fatigued
+HEENT: PERRL, EOMI, sclera anicteric. MM dry. + whitish plaque 
+on tongue and palate. No erythema.
+Neck: no lad, supple.
+CV: regular rate and rythym III/VI SEM at apex. (old)Nl S1 and 
+s2. No rubs/clicks.
+Pulm: + crackles b/l. Decreased BS at bases.
+Ab: mildly distended, + TTP in epigastrium. No rebound or 
+guarding. + abd mass palpated. diminished BS.
+Ext: warm, well perfused, [**2-5**]+ pitting edema b/l. 2+ pulses.
+Skin: stage I decub ulcer.
+
+ 
+Brief Hospital Course:
+Mrs. [**Known patient lastname 5010**] was tolerating POs with liberal use of 
+anti-emetics. Her pain was controlled with a morphine drip.  Pt. 
+had an acute onset of shortness of breath and was transferred to 
+the ICU. After a long discussion with Dr. [**First Name (STitle) **], the pt and 
+family decided to reconsider code status, which was intially 
+full code. While in the ICU, Mrs. [**Known patient lastname 5010**] and her family  
+decided to change her goals of care to comfort measures only.  
+Her morphine drip was titrated to pain and dyspnea-free.  the 
+patient passed away on [**3154-7-12**].
+
+ 
+Medications on Admission:
+dilaudid, lorazepam, metoclopramide, zelnorm, senna, ranitidine, 
+promethazine, zofran, morphine drip.
+ 
+Discharge Disposition:
+Expired
+ 
+Discharge Diagnosis:
+cholangiocarcinoma
+ 
+Discharge Condition:
+pt. expired during hospital stay
+ 
+Discharge Instructions:
+none
+ 
+Followup Instructions:
+none
+ 
+                             [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 2597**] MD [**MD Number 2598**]
+ 
+Completed by: [**Name6 (MD) 2428**] [**Name8 (MD) **] MD [**MD Number 2429**] [**3154-8-30**] @ 1135
+Signed electronically by: DR. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) 994**]
+ on: [**Doctor First Name 122**] [**3154-9-16**] 10:26 AM
+(End of Report)
+
+
+",,
+24264,27818,30141,0,3154-07-09 04:57:00 EST,3154-07-09 05:18:00 EST,7212,"N",69,"Nursing/Other","acceptance note","
+acceptance note
+Pt. is a 51 y.o female dx. with cholengio carcinoma with mets to peritoneum and omentum. Pt. treated with chemo with relaps and had biliary stents for jaundice. Dx. about 1 year ago. Pt. had vomiting and feeling weak and was admited to [**First Name5 (NamePattern1) **] [**Last Name (NamePattern1) 4382**]. On [**7-5**] Pt. transfered to [**Hospital1 3**] and admited to 11R with failure to thrive and pain control. Today Pt. transfered to ICU with hypotension 80's systolic and increasing O2 demands. Pt. redived Lasix 10 mg IV for wheezing on 11R and than recived 250cc bolus for low BP. Pt. transfered to ICU with BP 105/55 HR 80's NSR and O2 98% on 100% NRB mask with no resp. distress. 
+
+Neuro: Pt. lethargic, [**Last Name (un) 2477**] arousable and alert and oriented x3. Follows commands. denies pain.
+
+Resp: LS dim with crackels at bases. O2 sat 98% on 100% NRB mask. No cough noted. CXR done on 11R prior to transfer. No resp. distress at this time.
+
+CV; BP 88-105/40's-50's. HR 70's-80's NSR with no ectopy. Pt. has pitting edema from mid back down. 2 PIVs.
+
+GI: Pt. NPO x ice chips and meds. Abd firm, ? ascitis, BS hypoactive. Denies N/V this shift. No BM this shift. AM BS 26 per labs.
+
+GU: Foley cath in place and drainig small amount of clear yellow urine. 
+
+ID: Afebrile. Blood cx + for gram - rods per Dr. [**Last Name (STitle) 4383**]. Recived one time dose on IV ZOsyn.
+
+Skin: Pt. very thin, Duoderm to R buttock intact. Might need air bed. CSD on.
+
+Social; Pt.'s husband in and aware of Pt.'s condition. Pt. had palliative care consult but would like to be a full code. 
+",,
+24264,27818,30141,0,3154-07-09 16:21:00 EST,3154-07-09 16:29:00 EST,511,"N",69,"Nursing/Other",,"
+
+RESP: CRACKLES THROUGHOUT. PRESENTLY ON NP AT 6L/MIN. TOL WELL. O2 SATS ADEQUATE. 
+GI: NO BM FOR 5 DAYS. NO C/O N/V. ABLE TO EAT SMALL AMTS OF APPLESAUCE AND ORANGE [**Last Name (un) **]. 
+RENAL: FOLEY DRAINING CLEAR URINE. 
+NEURO: MORE LETHARGIC THIS AFTERNOON, AFTER SPEAKING WITH HER ONCOLOGIST, DR. [**First Name (STitle) 4384**] RE: CODE STATUS. PT. DNR/DNI. HUSBAND VERY UPSET. DAUGHTER CRYING. FAMILY VISITING. PT. LESS INTERACTIVE, BUT AWARE OF HER SURROUNDINGS AND CONVERSATION.
+ENDOC: BS'S CONTROLLED ON D10. RECEIVED 20MEQ KCL FOR K+ 3.6. MG+ REPLETED.
+ID: ON ANTIBIOTICS FOR GM NEG RODS IN URINE/BLOOD. UNABLE TO OBTAIN FURTHER BLOOD CX'S. HO AWARE. NO FURTHER BLOOD DRAWS. 
+CV: NO FURTHER HYPOTENSIVE EPISODES. PT. NORMAL BP IS ON THE LOW SIDE. 
+SKIN INTEGRITY: DUODERM ON COCCYX. 
+PNEUMO BOOTS D/C'ED. STARTED ON HEPARIN SC. 
+PAIN CONTROL: MS [**First Name (Titles) **] [**Last Name (Titles) **].  
+PLAN: TRANSFER BACK TO FLOOR WHEN BED AVAILABLE. TRANSFER NOTE WRITTEN.
+",,
+24264,27818,30141,0,3154-07-10 04:28:00 EST,3154-07-10 04:31:00 EST,585,"N",69,"Nursing/Other","micu npn","
+micu npn
+pt conts called out, awaiting med bed on floor. DNR decision made yesteday. no blood draws, cont to treat pain and w/abx. Pt refusing much last evening, very pleasant, oriented. Refusing to have position moved as well. plan for transfe to floor ?comfort care in the near future
+",,
+24264,27818,30141,1,3154-07-10 04:28:00 EST,3154-07-10 05:25:00 EST,585,"Y",69,"Nursing/Other","micu npn","
+micu npn
+blood sugars cont to be low 50-60's o/n, d50 given [**1-4**] and 1 amp respectively. d10 increased to 40cc/hr this am.
+",,

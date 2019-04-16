@@ -1,0 +1,194 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+24082,14290,,,2501-04-28 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+ 
+ 
+ 
+Admission Date:  [**2501-4-28**]              Discharge Date:   [**2501-5-1**]
+ 
+Date of Birth:  [**2445-2-19**]             Sex:   F
+ 
+Service: CARDIOTHORACIC
+ 
+Allergies: 
+Latex / Ivp Dye, Iodine Containing / Codeine / Darvon
+ 
+Attending:[**Last Name (NamePattern1) 2345**] 
+Chief Complaint:
+small cell lung cancer
+postobstructive pneumonia
+ 
+Major Surgical or Invasive Procedure:
+rigid bronchoscopy
+ 
+History of Present Illness:
+56F with recurrent small cell lung ca, diagnosed 1 year ago, s/p 
+chemo & radiation at OSH.  She presents with a post-obstructive 
+pneumonia.
+ 
+Past Medical History:
+asthma
+COPD
+GERD
+cholelithiasis
+nephrolithiasis
+ 
+Social History:
++cigs
+ 
+Family History:
+noncontributory
+ 
+Physical Exam:
+afebrile
+intubated & sedated
+cachectic
+decreased BS on left
+
+ 
+Pertinent Results:
+n/a
+ 
+Brief Hospital Course:
+She was transferred from [**Hospital 1**] Hospital, intubated & sedated, 
+for possible surgical management.  She arrived in the SICU on 
+[**4-28**], was brought to OR for rigid bronch & possible stent 
+placement on [**4-29**].  Unfortunately a stent could not be placed 
+across her obstructing endobronchial lesion.  A family meeting 
+was held on the morning on [**4-30**], where the family changed her 
+code status to CMO.  A morphine drip was instituted & her 
+mechanical ventilation was decreased to minimal levels.  She 
+passed at the morning of 5/1.  The family, primary team, 
+admitting office,  medical examiner & NEOB were all notified.
+ 
+Medications on Admission:
+vanc/zosyn
+ 
+Discharge Medications:
+none
+ 
+Discharge Disposition:
+Expired
+ 
+Facility:
+n/a
+ 
+Discharge Diagnosis:
+small cell lung cancer
+ 
+Discharge Condition:
+dead
+ 
+Discharge Instructions:
+none
+ 
+Followup Instructions:
+none
+ 
+                             [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) **] [**Name8 (MD) **] MD [**MD Number 2349**]
+ 
+Completed by: [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **] MD [**MD Number 2079**] [**2501-5-1**] @ 0746
+Signed electronically by: DR. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) **]
+ on: WED [**2501-5-4**] 8:20 PM
+(End of Report)
+
+
+",,
+24082,14290,,,2501-04-28 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2501-4-28**] 6:31 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 15400**]
+     Reason: please check for et tube positioning                        
+     Admitting Diagnosis: SMALL CELL LUNG CANCER
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      56 year old woman new transfer with respiratory failure, intubated              
+     REASON FOR THIS EXAMINATION:
+      please check for et tube positioning                                            
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Respiratory failure requiring intubation.
+     
+     SINGLE SUPINE PORTABLE AP VIEW OF THE CHEST:  An endotracheal tube is seen in
+     good position.  There is a layering left pleural effusion with associated
+     atelectasis. Increased pulmonary vascular markings and perihilar edema
+     indicate a degree of failure. Surrounding soft tissues and osseous structures
+     are unremarkable.
+     
+     IMPRESSION:  Successful placement of endotracheal tube. Left pleural effusion
+     and atelectasis.
+
+",,
+24082,14290,29907,0,2501-04-28 18:06:00 EST,2501-04-28 18:13:00 EST,1158,"N",1,"Nursing/Other",,"
+
+See [**Name6 (MD) 104**] data, MD notes/orders, [**Hospital 860**] hospital hx. Recieved sedated 56yr old female to ICU bed 678 with dx tracheal malasia. Pt was intubated prior to admission for respitory distress. Neuro: [**Last Name (LF) 106**], [**First Name3 (LF) **], responds to tactile stimuli. Propofol currently at 10mcg/kg/min with good effect. CV: SR/no ectopy, sbp 1teens-90's/50's. Pulm: Abgs/pxcr comepleted, see RT notes. Lungs clear bilaterally, 02 sats 99%. GU: Uo >100cc/hr clear yellow. GI: Abd flat, bs+, inc of small amount soft stool, currently npo. Endo: Per ssc Skin: Grossly intact, peripheral pulses palpable. Soc: Sister [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 4132**] notified of transfer [**Name8 (MD) 59**] RN [**Country 2912**] from [**Hospital 860**] hospital. No contact from family since admission here. P: Continue full support, probable bronch/stent placement for tumor infringing upon left main stem. Keep family up to date on plan of care, clarify spokersperson once contact established. 
+",,
+24082,14290,29907,0,2501-04-29 03:41:00 EST,2501-04-29 03:48:00 EST,638,"N",1,"Nursing/Other",,"
+
+Respiratory Care:
+
+Patient intubated on mechanical support. Vent settings unchanged. Vt 450, A/c 14, Fio2 50%, Peep 5. Bs slightly coarse with few exipiratory wheezes bilaterally earlier this shift. Albuterol MDI given Q4hr with improvement. Bs clear bilaterally. Sx'd for sm amounts of thick tan secretions. [**4-28**] CXR revealed mild to moderate cardiac failure with L pleural effusion. Abg's within normal limits with PaO2 109. No further changes made. Continue with mechanical support and wean Fio2 as tolerated. 
+",,
+24082,14290,29907,0,2501-04-29 05:16:00 EST,2501-04-29 05:21:00 EST,252,"N",1,"Nursing/Other",,"
+
+NPN (NOC):  PT RESTED OVERNOC ON A/C 14X450X50%.  NOT OVERBREATHING SET RATE.  AM ABG:  109/40/7.39/0.  BS'S WHEEZY.  RECEIVING PUFFERS BY RT.  SX'D FOR SCANT AMTS OF SECRETIONS.  SPEC SENT.  TO HAVE BRONCH/STENT TODAY, ?TIME.  TEAM PLACED NGT, BUT PT KEPT NPO.  PROPAFOL DRIP TITRATED TO KEEP PT FROM SITTING UP IN BED/TUGGING AT TUBES.    
+",,
+24082,14290,29907,0,2501-04-29 15:38:00 EST,2501-04-29 15:44:00 EST,873,"N",1,"Nursing/Other",,"
+
+See carevue for objective data.
+
+Remains sedated on proprofol with prn dosing of fentanyl for C/O pain.
+Follows commands consistently when proprofol lightened. 
+NSR with no ectopy. Periods of hypotension following fentanyl dose-resolves spontaneously.
+Remains on same vent settings. Went to OR for rigid bronch and unable to stent-diffuse bilateral cancer. Received 5 mg vec during procedure. Plan is to discuss with family for direction of care. Post bronch pt with bloody secretions. Will monitor.
+Receiving IVF at 50cc's/hr. Adequate urine output. 
+Slightly reddenned area at base of coccyx-stage I. Turned and repositioned frequently.
+
+Continue to monitor and support hemodynamics/respiratory status until decision made as to direction of care.
+
+",,
+24082,14290,29907,0,2501-04-29 17:54:00 EST,2501-04-29 17:59:00 EST,328,"N",1,"Nursing/Other",,"
+
+Resp Care: Pt remains intubated via #8 ETT secured 21cm at lip following rigid bronch in OR. In AM BS rales L, I wheeze RUL, E wheeze RLL. BS in pm post-op clear on R, coarse L. Sx'd for small amt thin bloody sputum. MDi's given as ordered. No ABG's, no vent changes made this shift. Please see carevue for further vent inquiries.
+",,
+24082,14290,29907,0,2501-04-30 00:11:00 EST,2501-04-30 00:15:00 EST,638,"N",1,"Nursing/Other",,"
+
+Respiratory Care:
+
+Patient remains intubated on mechanical support. Rigid bronch done yesterday. Vent settings unchanged. Vt 450, A/C 14, Fio2 50%, and Peep 5. Low PAP/Plateau pressures 19/17. Bs clear and slightly decreased L Lung. Albuterol/Atrovent MDI's given Q4hr. Sx'd for sm amounts of thin blood tinged secretions. Adequate O2 sats. No further changes made. Plan: Continue with mechanical support and wean Fio2 as tolerated. 
+",,
+24082,14290,29907,0,2501-04-30 02:20:00 EST,2501-04-30 02:32:00 EST,380,"N",1,"Nursing/Other","Update","
+Update
+O: see carevue for specifics.Bronch today w/o stent placment. Per Icu team, keep rested overnight.Updated plan of care needs to be d/w family/pt given poor prognostic indicators(unable to place bronchial stents).
+Pt kept sedated overnight on propofol.Vent settings cmv tv450 fio2 40
+%, peep 5cm. rr 14. Suctioned for sm amts bl tinge sputum from ett and copious amts clear secretions from mouth. Cv status stable sr no ectopy.. Resp spo2 w poor signal, req freq adjustment.
+
+Gi status:ngt to liws w bilious dnrg, +bowel snds.
+Gu status: adeq pale cl yellow urine.
+
+Heme/Id; afebrile. Hct pending w lytes.
+
+A/P: cont to support/monitor hemodynamic status. Pulm toilet.. 
+Follow am lab results and rx lytes as needed.
+",,
+24082,14290,29907,0,2501-04-30 16:39:00 EST,2501-04-30 16:42:00 EST,514,"N",1,"Nursing/Other",,"
+
+O. Family meeting Ms. [**Known patient lastname 4133**] made CMO placed on morphine 5mg IV drip and placed on cpap ps0 peep 0. Pt appears comfortable family supported.
+",,
+24082,14290,29907,0,2501-04-30 17:22:00 EST,2501-04-30 17:27:00 EST,1446,"N",1,"Nursing/Other",,"
+
+RESPIRATORY----
+FAMILY MEETING THIS AFTERNOON CULMINATED IN THE DECISION TO CONVERT THE STATUS OF THE PT TO C.M.O GIVEN HER POOR PROGNOSIS. VENTILATOR WAS CHANGED TO FIO2 OF 21% WITH SPONTANEOUS VENTILATION ONLY, ORDERS WRITTEN. FAMILY DID REQUEST TO LEAVE ENDO TUBE IN AND ATTACHED TO THE VENTILATOR. PLAN IS TO TITRATE MORPHINE TO COMFORT.
+",,
+24082,,29907,0,2501-05-01 05:05:00 EST,2501-05-01 05:07:00 EST,785,"N",1,"Nursing/Other","Respiratory Care:","
+Respiratory Care:
+Pt. is essentially on a closed ""T-Piece"" system via the ventilator, which provides the continuous flow, connected to the endotracheal tube.  She is on room air (21%) oxygen, and continues on ""CMO"".
+",,
+24082,,29907,0,2501-05-01 05:19:00 EST,2501-05-01 05:21:00 EST,380,"N",1,"Nursing/Other","Update","
+Update
+O: Pt on CMO-> mso4 gtt titrated to 20mg/hr.Propofol remains on at 35mcg/kg/m Remains on 21% 0peep 0ps.Daughter at bedside all night. Emotional support to family given.
+",,
+24082,,29907,0,2501-05-01 09:15:00 EST,2501-05-01 09:16:00 EST,1043,"N",1,"Nursing/Other","EXPIRATION","
+EXPIRATION
+PT EXPIRED SHORTLY AFTER 7AM. DAUGHTER AT BEDSIDE. MD [**Doctor Last Name **] ON TO PRONOUNCE.
+",,

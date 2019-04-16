@@ -1,0 +1,775 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+24730,,,,3011-06-25 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3011-6-25**] 4:16 PM
+     FEMUR (AP & LAT) RIGHT; KNEE (AP, LAT & OBLIQUE) RIGHT          Clip # [**Clip Number (Radiology) 5584**]
+     Reason: Has metastatic melanoma getting chemotherapy. Has had right 
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      47 year old woman with melanoma.
+     REASON FOR THIS EXAMINATION:
+      Has metastatic melanoma getting chemotherapy. Has had right groin dissection.
+      Having severe right femur and knee pain. 
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY: Metastatic melanoma on chemotherapy, now with right femur and knee
+     pain. Previous right groin dissection.
+     
+     RIGHT FEMUR 2 VIEWS: X-ray examination of the right femur is within normal
+     limits. Limited assessment of the right hip is also unremarkable.
+     
+     RIGHT KNEE 3 VIEWS: X-ray examination of the right knee is within normal
+     limits. No lytic or sclerotic foci. No joint effusion.
+
+",,
+24730,,,,3011-06-25 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3011-6-25**] 4:16 PM
+     FEMUR (AP & LAT) RIGHT; KNEE (AP, LAT & OBLIQUE) RIGHT          Clip # [**Clip Number (Radiology) 5584**]
+     Reason: Has metastatic melanoma getting chemotherapy. Has had right 
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      47 year old woman with melanoma.
+     REASON FOR THIS EXAMINATION:
+      Has metastatic melanoma getting chemotherapy. Has had right groin dissection.
+      Having severe right femur and knee pain. 
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY: Metastatic melanoma on chemotherapy, now with right femur and knee
+     pain. Previous right groin dissection.
+     
+     RIGHT FEMUR 2 VIEWS: X-ray examination of the right femur is within normal
+     limits. Limited assessment of the right hip is also unremarkable.
+     
+     RIGHT KNEE 3 VIEWS: X-ray examination of the right knee is within normal
+     limits. No lytic or sclerotic foci. No joint effusion.
+
+",,
+24730,,,,3011-06-26 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3011-6-26**] 11:20 AM
+     CHEST (PA & LAT)                                                Clip # [**Clip Number (Radiology) 5585**]
+     Reason: Pt with shaking chills, fever last noc, new cough, decreased
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      47 year old woman with met melanoma
+     REASON FOR THIS EXAMINATION:
+      Pt with shaking chills, fever last noc, new cough, decreased lung sounds.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY: Metastatic melanoma. Cough and fevers.
+     
+     CHEST, 2 VIEWS: There are no prior chest xrays available for comparison. There
+     is a pleural based mass in the left upper thorax posteriorly. There are
+     pulmonary nodules in the lungs, most obvious in the left upper lobe, with
+     more subtle small nodular densities in the right lung. There is patchy density
+     in the left lower lobe with obliteration of the diaphragm. There is a left
+     pleural effusion. There is no right effusion. There are prominent interstitial
+     markings throughout the lungs. There is prominent soft tissue density in the
+     region of both hila.
+     
+     IMPRESSION: Parenchymal and pleural base masses, consistent with metastases.
+     Left lower lobe consolidation with effusion. Underlying mass in this region
+     cannot be excluded. Prominent interstitial markings, which could represent
+     lymphangetic carcinomatosis. Prominent nodular opacities in the region of the
+     hila, possibly representing adenopathy. If warranted, CT scan could be
+     performed for further evaluation.
+
+",,
+24730,,,,3011-07-04 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3011-7-4**] 12:06 PM
+     CT HEAD W/ & W/O CONTRAST                                       Clip # [**Clip Number (Radiology) 5587**]
+     Reason: HX METASTATIC MELANOMA, S/P CHEMO, NOW C/O VISUAL DISTURBANCES AND PRESSURE, 
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      47 year old woman with metastatic melanoma
+     REASON FOR THIS EXAMINATION:
+      woman with a history of melanoma. Just complete two cycles of chemotherapy. Now
+      with 1 day complaints of vague visual disturbances and pressure. Need to r/o
+      cns mets in this high-risk patient.  
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY: 47-year-old female with metastatic melanoma, now with visual
+     disturbance and headache.
+     
+     TECHNIQUE: Axial images of the brain were obtained after the administration of
+     100 cc of intravenous Conray.
+     
+     COMPARISON: [**3011-5-9**].
+     
+     CT HEAD WITH IV CONTRAST: Again seen is linear tubular enhancement within the
+     right inferior frontal lobe extending to the right frontal [**Doctor Last Name 79**] ependymal
+     surface, a finding which is unchanged from prior exam  and probably represents
+     a developmental venous anomaly. There is no surrounding mass effect, midline
+     shift, or edema. The CSF spaces are stable, normal for this patient's age.
+     There is no evidence of intra- or extra-axial hemorrhage. No pathologic
+     enhancement to suggest metastatic disease.
+     
+     The low attenuation previously noted on the left frontal aspect of the
+     calvarium is not apparent on the current study.
+     
+     IMPRESSION:
+     1. No evidence for metastatic disease.
+     
+     2. Probable developmental venous anomaly involving the right inferior frontal
+     lobe.
+
+",,
+24730,,,,3011-07-04 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3011-7-4**] 12:06 PM
+     CT ABD W&W/O C; CT CHEST W/CONTRAST                             Clip # [**Clip Number (Radiology) 5586**]
+     CT PELVIS W/CONTRAST
+     Reason: HX METASTATIC MELANOMA, S/P CHEMO, ASSESS DISEASE STATUS
+     Field of view: 32 Contrast: CONRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      47 year old woman with metastatic melanoma
+     REASON FOR THIS EXAMINATION:
+      Pt. with metastatic melanoma s/p 2 cycles of chemotherapy. Please assess for
+      status of disease.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Metastatic melanoma. Assess disease status.
+     
+     TECHNIQUE: Multiple axial images were obtained above the lung apices to the
+     pubic symphysis following the administration of IV contrast. Noncontrast
+     images were obtained through the liver. Oral contrast was given.
+     
+     CONTRAST:  150 cc Optiray due to history of allergies.
+     
+     COMPARISONS:  [**3011-5-9**].
+     
+     CT CHEST WITH CONTRAST:  There has been marked interval progression in
+     thoracic adenopathy. There is new bilateral supraclavicular adenopathy. Right
+     axillary, right hilar and mediastinal adenopathy have progressed.  Adenopathy
+     involves the superior mediastinum, paratracheal, precarinal and subcarinal
+     regions.  Please see oncology summary for exact measurements.  A left chest
+     wall mass has increased in size and appears to involve the adjacent rib. There
+     is a new small left pleural effusion.
+     
+     The lung parenchyma demonstrates interval progression in size and number of
+     pulmonary metastases.  No endobronchial lesion is demonstrated.
+     
+     CT ABDOMEN WITH AND WITHOUT CONTRAST:  The liver, spleen, and adrenals are
+     unremarkable. There is a stable low attenuation lesion of the  medial right
+     kidney with septations which may represent a complex cyst. There is no
+     hydronephrosis.  There has been progression in size of multiple hypodense
+     pancreatic and peripancreatic masses. For example, a mass in the region of the
+     head of the pancreas has progressed to 3.2 x 2.6 cm, previously 2.2 x 1.7 cm.
+     The bowel is unremarkable.
+     
+     A subcentimeter subcutaneous soft tissue nodule in the left upper quadrant
+     appears slightly more prominent.  A subcutaneous nodule in the lower right
+     anterior abdominal wall has also slightly progressed in size. A mass between
+     the left kidney and descending colon has increased in size to 3.2 x 2.8 cm,
+     previously 1.9 x 1.8 cm.  There is no bowel obstruction.
+     
+     CT PELVIS WITH CONTRAST:  The bladder and uterus are unremarkable. A large
+     enhancing mass in the right gluteal masses is reidentified. A mass in the
+     muscles of the anterior right thigh has progressed in size to 4.4 x 3.0 cm,
+     previously 2.1 x 1.6 cm.
+     
+                                                                 (Over)
+
+     DATE: [**3011-7-4**] 12:06 PM
+     CT ABD W&W/O C; CT CHEST W/CONTRAST                             Clip # [**Clip Number (Radiology) 5586**]
+     CT PELVIS W/CONTRAST
+     Reason: HX METASTATIC MELANOMA, S/P CHEMO, ASSESS DISEASE STATUS
+     Field of view: 32 Contrast: CONRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     IMPRESSION:
+     1. Interval progression in widespread metastases as described above.
+
+",,
+24730,,,,3011-07-04 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3011-7-4**] 12:06 PM
+     CT ABD W&W/O C; CT CHEST W/CONTRAST                             Clip # [**Clip Number (Radiology) 5586**]
+     CT PELVIS W/CONTRAST
+     Reason: HX METASTATIC MELANOMA, S/P CHEMO, ASSESS DISEASE STATUS
+     Field of view: 32 Contrast: CONRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      47 year old woman with metastatic melanoma
+     REASON FOR THIS EXAMINATION:
+      Pt. with metastatic melanoma s/p 2 cycles of chemotherapy. Please assess for
+      status of disease.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Metastatic melanoma. Assess disease status.
+     
+     TECHNIQUE: Multiple axial images were obtained above the lung apices to the
+     pubic symphysis following the administration of IV contrast. Noncontrast
+     images were obtained through the liver. Oral contrast was given.
+     
+     CONTRAST:  150 cc Optiray due to history of allergies.
+     
+     COMPARISONS:  [**3011-5-9**].
+     
+     CT CHEST WITH CONTRAST:  There has been marked interval progression in
+     thoracic adenopathy. There is new bilateral supraclavicular adenopathy. Right
+     axillary, right hilar and mediastinal adenopathy have progressed.  Adenopathy
+     involves the superior mediastinum, paratracheal, precarinal and subcarinal
+     regions.  Please see oncology summary for exact measurements.  A left chest
+     wall mass has increased in size and appears to involve the adjacent rib. There
+     is a new small left pleural effusion.
+     
+     The lung parenchyma demonstrates interval progression in size and number of
+     pulmonary metastases.  No endobronchial lesion is demonstrated.
+     
+     CT ABDOMEN WITH AND WITHOUT CONTRAST:  The liver, spleen, and adrenals are
+     unremarkable. There is a stable low attenuation lesion of the  medial right
+     kidney with septations which may represent a complex cyst. There is no
+     hydronephrosis.  There has been progression in size of multiple hypodense
+     pancreatic and peripancreatic masses. For example, a mass in the region of the
+     head of the pancreas has progressed to 3.2 x 2.6 cm, previously 2.2 x 1.7 cm.
+     The bowel is unremarkable.
+     
+     A subcentimeter subcutaneous soft tissue nodule in the left upper quadrant
+     appears slightly more prominent.  A subcutaneous nodule in the lower right
+     anterior abdominal wall has also slightly progressed in size. A mass between
+     the left kidney and descending colon has increased in size to 3.2 x 2.8 cm,
+     previously 1.9 x 1.8 cm.  There is no bowel obstruction.
+     
+     CT PELVIS WITH CONTRAST:  The bladder and uterus are unremarkable. A large
+     enhancing mass in the right gluteal masses is reidentified. A mass in the
+     muscles of the anterior right thigh has progressed in size to 4.4 x 3.0 cm,
+     previously 2.1 x 1.6 cm.
+     
+                                                                 (Over)
+
+     DATE: [**3011-7-4**] 12:06 PM
+     CT ABD W&W/O C; CT CHEST W/CONTRAST                             Clip # [**Clip Number (Radiology) 5586**]
+     CT PELVIS W/CONTRAST
+     Reason: HX METASTATIC MELANOMA, S/P CHEMO, ASSESS DISEASE STATUS
+     Field of view: 32 Contrast: CONRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     IMPRESSION:
+     1. Interval progression in widespread metastases as described above.
+
+",,
+24730,,,,3011-07-04 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3011-7-4**] 12:06 PM
+     CT ABD W&W/O C; CT CHEST W/CONTRAST                             Clip # [**Clip Number (Radiology) 5586**]
+     CT PELVIS W/CONTRAST
+     Reason: HX METASTATIC MELANOMA, S/P CHEMO, ASSESS DISEASE STATUS
+     Field of view: 32 Contrast: CONRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      47 year old woman with metastatic melanoma
+     REASON FOR THIS EXAMINATION:
+      Pt. with metastatic melanoma s/p 2 cycles of chemotherapy. Please assess for
+      status of disease.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Metastatic melanoma. Assess disease status.
+     
+     TECHNIQUE: Multiple axial images were obtained above the lung apices to the
+     pubic symphysis following the administration of IV contrast. Noncontrast
+     images were obtained through the liver. Oral contrast was given.
+     
+     CONTRAST:  150 cc Optiray due to history of allergies.
+     
+     COMPARISONS:  [**3011-5-9**].
+     
+     CT CHEST WITH CONTRAST:  There has been marked interval progression in
+     thoracic adenopathy. There is new bilateral supraclavicular adenopathy. Right
+     axillary, right hilar and mediastinal adenopathy have progressed.  Adenopathy
+     involves the superior mediastinum, paratracheal, precarinal and subcarinal
+     regions.  Please see oncology summary for exact measurements.  A left chest
+     wall mass has increased in size and appears to involve the adjacent rib. There
+     is a new small left pleural effusion.
+     
+     The lung parenchyma demonstrates interval progression in size and number of
+     pulmonary metastases.  No endobronchial lesion is demonstrated.
+     
+     CT ABDOMEN WITH AND WITHOUT CONTRAST:  The liver, spleen, and adrenals are
+     unremarkable. There is a stable low attenuation lesion of the  medial right
+     kidney with septations which may represent a complex cyst. There is no
+     hydronephrosis.  There has been progression in size of multiple hypodense
+     pancreatic and peripancreatic masses. For example, a mass in the region of the
+     head of the pancreas has progressed to 3.2 x 2.6 cm, previously 2.2 x 1.7 cm.
+     The bowel is unremarkable.
+     
+     A subcentimeter subcutaneous soft tissue nodule in the left upper quadrant
+     appears slightly more prominent.  A subcutaneous nodule in the lower right
+     anterior abdominal wall has also slightly progressed in size. A mass between
+     the left kidney and descending colon has increased in size to 3.2 x 2.8 cm,
+     previously 1.9 x 1.8 cm.  There is no bowel obstruction.
+     
+     CT PELVIS WITH CONTRAST:  The bladder and uterus are unremarkable. A large
+     enhancing mass in the right gluteal masses is reidentified. A mass in the
+     muscles of the anterior right thigh has progressed in size to 4.4 x 3.0 cm,
+     previously 2.1 x 1.6 cm.
+     
+                                                                 (Over)
+
+     DATE: [**3011-7-4**] 12:06 PM
+     CT ABD W&W/O C; CT CHEST W/CONTRAST                             Clip # [**Clip Number (Radiology) 5586**]
+     CT PELVIS W/CONTRAST
+     Reason: HX METASTATIC MELANOMA, S/P CHEMO, ASSESS DISEASE STATUS
+     Field of view: 32 Contrast: CONRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     IMPRESSION:
+     1. Interval progression in widespread metastases as described above.
+
+",,
+24730,,,,3011-07-24 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3011-7-24**] 10:19 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 5588**]
+     Reason: Evaluate for metastases, effusion in patient with metastatic
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      47 year old woman with as above
+     REASON FOR THIS EXAMINATION:
+      Evaluate for metastases, effusion in patient with metastatic melanoma,
+      increasing SOB x 3-4 days.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  47 y/o woman with metastatic melanoma. Increasing shortness of
+     breath in last 3-4 days.
+     
+     Comparison study dated [**3011-6-26**].
+     
+     PORTABLE CHEST
+     
+     FINDINGS:  There has been interval development of a large left sided pleural
+     effusion. There also has been interval development of a large right upper lobe
+     alveolar process likely representing pneumonia.  Again seen are multiple
+     pulmonary parenchymal nodules.
+     
+     IMPRESSION:
+     
+     1. New large left sided pleural effusion with associated left lower lobe
+     collapse/consolidation.
+     2. New  extensive right upper lobe pneumonia.
+     3. Multiple pulmonary nodules compatible with metastatic melanoma.
+
+",,
+24730,22009,,,3011-07-25 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+
+Admission Date:  [**3011-7-25**]     Discharge Date:  [**3011-7-30**]
+
+Date of Birth:   [**2964-1-25**]     Sex:  F
+
+Service:  Medicine, [**Doctor Last Name 2451**] Firm
+HISTORY OF PRESENT ILLNESS:  The patient is a 47-year-old
+woman who, in [**3003**], had an 81.14-mm thick melanoma found on
+her right posterior thigh.  In [**3009-3-23**], the patient had
+a right inguinal area lymph node resected with positive
+margins.  Between [**3009-4-22**] and [**3009-6-22**], the patient
+from [**3009-4-22**] to [**3010-4-23**].  In [**3009-8-23**], a CT
+of the chest showed a right upper lobe nodule.  In [**3010-8-24**], two more right upper lobe nodules were found.  In
+[**3010-12-24**] a CT of the chest revealed left lower lobe
+nodule, and in [**3011-3-24**] a CT revealed pancreatic lesions
+times two, as well as new lesions in the left lower lobe and
+right upper lobe.  Also noted was a subcutaneous mass in the
+patient underwent COG and a 36958 trial beginning on [**3011-5-27**].  On [**3011-7-8**], the patient reported cough and fever
+and was started on Zithromax but continued to have a dry
+cough and dyspnea on exertion.
+
+One day prior to admission, the patient had fever to 100.
+Her oxygen saturation was apparently checked at home and
+found to be 91% on room air.  The patient was sent to the
+Emergency Department for further evaluation.
+
+PAST MEDICAL HISTORY:   Melanoma metastatic to lungs, pleura,
+pancreas, axilla.  In [**3003**], status post resection of melanoma
+from right posterior thigh.  In [**3009-3-23**], status post
+right inguinal lymph node resection with positive margins.
+Radiation therapy from [**3009-4-22**] through [**3009-6-22**].  In
+[**3009-4-22**] through [**3010-4-23**], the patient received
+interferon.  In [**3009-8-23**], right upper lobe lung
+nodules were found.  In [**3010-12-24**] new nodules were
+found in the left lower lobe.  In [**3011-3-24**] pancreatic
+lesions were found.  In [**3011-4-23**] subcutaneous axillary
+nodules were found.  The patient experienced femoral
+neuropathy secondary to radiation therapy.
+
+MEDICATIONS ON ADMISSION:  MSIR 24 st q.d., MS Contin p.o.
+b.i.d. (the patient did not know dose).  In the Emergency
+Department the patient received Levaquin 500 mg intravenously
+times one, as well as Flagyl 500 mg intravenously times one,
+and morphine 2 mg intravenously times two, and 4 mg
+intravenously times two.
+
+ALLERGIES:  No known drug allergies.
+
+SOCIAL HISTORY:  The patient is married and smoked one to two
+packs of cigarettes per day times 30 years; she quit in
+[**3010-12-24**].
+
+FAMILY HISTORY:  The patient's father died at the age of 67
+of leukemia.
+
+LABORATORY DATA ON ADMISSION:  Complete blood count was
+notable for a white blood cell count of 14.8, hematocrit
+of 34, and platelets 636.  The patient's Chem-7 revealed a
+sodium of 133, potassium of 4, chloride of 96, bicarbonate
+of 18, BUN of 15, creatinine of 0.5, glucose of 112.  Anion
+gap of 19.  Creatine kinase was 34, and troponin was 0.3.
+INR was 1.3, PTT was 27.8, PT was 13.9.
+
+PHYSICAL EXAMINATION ON ADMISSION:  In general, the patient
+was a cachectic ill-appearing female with moderate
+respiratory distress.  Vital signs were as follows:
+Temperature 97.6, heart rate 113, blood pressure 98/66,
+breathing 20 times per minute.  HEENT revealed pupils were
+equal, round, and reactive to light.  Oropharynx with dry
+mucous membranes.  Neck revealed no jugular venous
+distention.  Chest examination revealed pulmonary crackles at
+the right anterior upper field as well as decreased breath
+sounds and tubular sounds in the left side.  Cardiovascular
+examination revealed tachycardia with no murmurs heard.
+Heart sounds were clear.  Abdomen was soft, nontender, and
+nondistended, positive bowel sounds, positive subcutaneous
+nodule in the right upper quadrant.  Extremities were without
+edema.
+
+RADIOLOGY/IMAGING:  Other studies on admission included chest
+CT from [**7-24**] revealed extensive lymphadenopathy in the
+right axilla, especially in the superior region.  There was a
+right hilar, and pretracheal, and precarinal lymphadenopathy;
+left-sided pleural effusion approximately halfway up the
+field; slight right shift of the mediastinum; right upper
+lobe pneumonia; right pleural based nodules; left lower lobe
+complete collapse.
+
+Chest x-ray on [**7-24**] revealed a new left-sided effusion as
+noted above, right high-powered border with questionable
+border.
+
+Electrocardiogram of [**3011-7-24**], revealed sinus
+tachycardia with a heart rate of 133, right bundle-branch
+block pattern with loss of R waves anteriorly, low voltages.
+Compared with [**3011-4-23**], the right bundle-branch block was
+new, and the voltages were significantly lower.
+
+
+HOSPITAL COURSE:  The patient was admitted to the O-MED
+Service on [**3011-7-24**], due to her dyspnea and elevated
+temperatures at home.  As noted above, CT and chest x-ray
+revealed multiple pulmonary nodules, as well as a large
+left-sided pleural effusion, and right upper lobe pneumonia.
+The patient was started on levofloxacin and Flagyl, and
+underwent 2-liter thoracentesis.  Electrocardiogram showed
+low voltage.  Echocardiogram revealed pericardial effusion
+with sustained right atrium and diastolic right ventricular
+collapse.
+
+Thus, the patient underwent a 350-cc pericardiocentesis and
+was transferred to the Coronary Care Unit with a pigtail
+drain.  The drain was discontinued on [**3011-7-27**], without
+any complications.  The patient's condition continued to wane
+despite her antibiotics and pleurocentesis and
+pericardiocentesis.
+
+The patient's husband did not want the patient to have home
+hospice secondary to concerns about the patient and her
+husband's children being at home.  The husband, thus,
+preferred inpatient hospice.  The patient and the patient's
+family changed the patient's status to DNR/DNI on [**3011-7-26**], and she was made comfort measures only.  All
+medications and monitoring were discontinued except for
+morphine and Ativan.  The patient was transferred to the
+medical floor on [**3011-7-29**].
+
+On the morning of [**3011-7-30**], the cross-covering house
+officer was called to evaluate the patient for lack of
+spontaneous respirations.  The house officer found the
+patient to be without spontaneous respirations, and without
+spontaneous heart beats, as well as to have fixed and dilated
+pupils bilaterally.  The patient was thus pronounced dead on
+the morning of [**3011-7-30**].
+
+DISCHARGE DIAGNOSES:
+1.  Widely metastatic melanoma.
+2.  Status post radiation therapy.
+3.  Status post chemotherapy.
+4.  Pneumonia.
+
+
+
+
+
+
+
+
+
+
+
+
+CONDITION AT DISCHARGE:  The patient, as noted above, was
+pronounced dead on the morning of [**3011-7-30**].
+
+
+
+                          [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 5939**], M.D.  [**MD Number 5940**]
+
+Dictated By:[**Last Name (NamePattern1) 1578**]
+
+MEDQUIST36
+
+D:  [**3011-7-31**]  09:40
+T:  [**3011-8-4**]  07:02
+JOB#:  [**Job Number 5941**]
+Signed electronically by: DR. [**First Name11 (Name Pattern1) **] [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 1017**]
+ on: SUN [**3011-8-4**] 4:10 PM
+(End of Report)
+
+
+",,
+24730,22009,,,3011-07-25 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3011-7-25**] 12:44 AM
+     CT CHEST W/CONTRAST                                             Clip # [**Clip Number (Radiology) 5589**]
+     Reason: To evaluate for progression of metastatic disease in patient
+     Field of view: 32 Contrast: OPTIRAY Amt: 110
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      47 year old woman with met. melanoma, known lung mets, presents with tachypnea,
+      hypoxia.
+     REASON FOR THIS EXAMINATION:
+      To evaluate for progression of metastatic disease in patient with melanoma,
+      rapid onset of respiratory distress and new RUL infiltrate/mass, new large left
+      pleural effusion, with no established code status. 
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CT CHEST [**3011-7-25**].
+     
+     INDICATION:  47 year old woman with metastatic melanoma presenting with
+     tachypnea and hypoxia.  Please evaluate for progression of metastatic disease.
+     
+     TECHNIQUE:  Contiguous helical imaging was obtained from the thoracic inlet to
+     the upper abdomen after administration of IV contrast.
+     
+     CONTRAST:  110 cc of Optiray contrast used secondary to respiratory distress.
+     
+     COMPARISON STUDY:  [**3011-7-4**].
+     
+     CT SCAN OF THE CHEST WITH CONTRAST:  Soft tissue windows demonstrate extensive
+     right axillary lymphadenopathy that has increased in the interval.  Also again
+     identified is extensive superior mediastinal, right hilar, pretracheal and
+     subcarinal lymphadenopathy.  This is all slightly increased when compared to
+     previous exam.  Also increased in the interval is the left-sided pleural
+     effusion which was previously small and is now marked and fills approximately
+     [**12-25**] of the left hemithorax.  There is a slight rightward shift of the
+     mediastinal structures.  Also new in the interval is a small right-sided
+     pleural effusion.  Again metastatic pleural disease is identified within the
+     left pleural space.  There is also metastatic pleural disease within the right
+     pleural space on the current exam.
+     
+     The lung windows demonstrate a right upper lobe alveolar opacity with air
+     bronchograms compatible with pneumonia.  There is complete collapse of the
+     left lower lobe associated with this pleural effusion.  There is some passive
+     atelectasis associated with the right lower lobe pleural effusion.  Multiple
+     pulmonary nodules are seen throughout all aerated lung compatible with
+     metastatic disease.
+     
+     IMPRESSION:
+     1.  Extensive metastatic disease that has slightly progressed in the interval
+     as discussed above.
+     2.  Right upper lobe pneumonia.
+     3.  Increasing large left-sided pleural effusion which now occupies over half
+     the left thoracic cavity.  Again pleural metastatic disease is seen within
+     this pleural effusion.  There is associated complete collapse of the left
+     lower lobe.  There is a small right-sided pleural effusion with associated
+                                                                 (Over)
+
+     DATE: [**3011-7-25**] 12:44 AM
+     CT CHEST W/CONTRAST                                             Clip # [**Clip Number (Radiology) 5589**]
+     Reason: To evaluate for progression of metastatic disease in patient
+     Field of view: 32 Contrast: OPTIRAY Amt: 110
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     pleural metastatic disease which is new in the interval.  There is a small
+     amount of passive atelectasis associated with this pleural effusion.
+     
+
+",,
+24730,22009,,,3011-07-25 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3011-7-25**] 1:05 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 5590**]
+     Reason: S/P pleurecentesis, r/o ptx
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      47 year old woman with as above 
+     REASON FOR THIS EXAMINATION:
+      S/P pleurecentesis, r/o ptx
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Hypotension. Status post thoracentesis. Rule out pneumothorax.
+     
+     CHEST, SINGLE VIEW  [**3011-7-25**]
+     
+     Comparison study dated [**3011-6-26**], CT exam dated [**3011-7-25**].
+     
+     The heart is not grossly enlarged, however when compared with prior study from
+     [**3011-6-26**] appears somewhat increased in size. This is consistent with patient's
+     known history of pericardial effusion.  Mediastinal and hilar contours are
+     otherwise unremarkable. There has been interval drainage of a left sided
+     pleural effusion.  There is now a infiltrate apparent in the left lower lung
+     field which could represent pneumonia or re-expansion pulmonary edema. The
+     right upper lobe infiltarte noted on prior exam [**7-24**] appears somewhat decreased
+     in intensity. Again noted are multiple pulmonary nodules. There is no
+     pneumothorax. Soft tissues and osseous structures are unremarkable.
+     
+     IMPRESSION:
+     
+     1.  Resolution of left sided effusion.
+     2.  Left lower lung field infiltrate.
+     3.  Slight decrease in right upper lung infiltrate.
+     4.  Multiple pulmonary nodules.
+
+",,
+24730,22009,30710,0,3011-07-25 18:54:00 EST,3011-07-25 19:27:00 EST,96,"N",1,"Nursing/Other","pericardial effusion","
+pericardial effusion
+ccu nsg admit note
+pt is 47 y/o female with nkda. past hx- (see md notes for details of treatment). malignant melanoma since [**3003**]. has metastasis to lungs, pancreas with multiple positive nodes. had xrt and chemo. 
+hpi- admitted [**7-24**] to 4south via [**Hospital1 **] er. 
+resp-c/o sob. cxr showed bilat. pl. effusions l>r, rul pneumonia, met dx and lll collapse associated with the effusion. had l pleural tap this am, [**7-25**] with 2liters of clear fluid obtained. o2 on 3l sat 96. had dry cough and started on abx for pneumonia.  
+cv- hr 120s st with rbbb. bp down to 78-80 after tap, also diaphoretic and dizzy. mentating ok. re'd 500cc n/s bolus x2, then on 200cc/hr. bp up to 88-90/. cks neg x3. echo showed pericardial effusion with r atrial and r vent. collapse. 
+gi- no n/v. gu- foley in. 
+ms- re'd mso4 2mg at 8:45am for r leg pain, also re'd ativan 1mg iv at 11am pre tap. re'd usual 30mg ms contin at 10am. 
+to cath lab for pericardial tap. removed 370cc of pericardial fluid with drain left in place. sheaths left in on r. 
+to ccu at 7pm- hr 100-120s st, no vea. bp 98-120s/. r groin d+i. pulses dopp. x4 dp/pt. tech will return to pull sheaths. pericardial drain with small amt of sero-sang drainage in bag. ho to contact c. fellow for post tap orders. 
+resp- sob, worse with exertion. on nrb, sats 93-98. l/s dim thruout with coarse sounds l lower. foley in with 80cc conc. urine. ivf off pnd orders. 
+gi- took sips water, no n/v. 
+ms- a+o x3, c/o generalized pain. re'd 2mg mso4 iv with some relief. 
+social- fx spoke to md and informed of cath lab results. fx in to see pt, supportive. is married with 2 dtrs, ages 16,18, siblings also visited. 
+   
+
+ 
+",,
+24730,22009,30710,,3011-07-26 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3011-7-26**] 7:16 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 5591**]
+     Reason: s/p pericardiocentesis and thoracentesis for pleural and per
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      47 year old woman with melenoma and mets
+     REASON FOR THIS EXAMINATION:
+      s/p pericardiocentesis and thoracentesis for pleural and pericardial effusion
+      to evalulate for increase or resolution
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: Metastatic melanoma. S/P pericardiocentesis and thoracentesis.
+     
+     COMPARISON: [**3011-7-25**].
+     
+     PORTABLE SEMI-UPRIGHT CHEST @ 7:40: There has been interval placement of a
+     drain the tip of which overlies the cardiac silhouette. The right upper lobe
+     air space opacity is perhaps slightly increased since the previous
+     examination. There is diffuse increased opacity over the left hemithorax which
+     is also new since the previous exam and could reflect air space consolidation
+     vs. re-expansion of pulmonary edema. There is probably some remaining pleural
+     fluid on the left. No pneumothorax is seen.
+     
+     IMPRESSION: Persistent right upper lobe pneumonia. New increased opacity over
+     the left hemithorax which may represent re-expansion of pulmonary edema vs.
+     developing infectious process.
+
+",,
+24730,22009,30710,0,3011-07-26 05:12:00 EST,3011-07-26 05:24:00 EST,738,"N",1,"Nursing/Other",,"
+
+CCU NPN: PLEASE SEE FLOWSHEET FOR OBJECTIVE DATA.
+
+CARDIAC: HR VARIED FROM 70'S TO 130'S ST WITH RARE PVC'S. BP 85/40-120/60. PERICARDIAL DRAIN IN PLACE DRAINING MOSTLY THICK STRAW COLORED FLUID. ASPIRATED FLUID  AT 12 AND 5AM AND FLUSHED WITH 2CC OF 1U/ML HEPARIN FLUSH. SITE CLEAN.SHEATH SITE CLEAN AND DRY.
+
+RESP: RR 16-32,INITIALLY ON 100%NRB BUT KEPT TAKING MASK OFF,NOW ON 4LNP WITH SATS MID 90'S.
+
+ID: AFEBRILE ON PO FLAGYL AND LEVOQUIN. 
+
+GI: HAD ONE EPISODE OF NAUSEA WHICH WAS RELIEVED WITH 10MG IV COMPAZINE.
+
+GU: FOLEY INTACT,UO 20-25CC/HR. RECEIVING D5 1/2NS AT 75CC/HR
+
+COMFORT: RECEIVING 2MGIV MORPHINE FOR PAIN Q2-3 AND  1MGIV ATIVAN Q2-3 FOR ANXIETY.SISTER [**Name (NI) **] AND HUSBAND [**Name (NI) **] SPENT THE NIGHT IN THE ROOM. 
+",,
+24730,22009,30710,0,3011-07-26 05:49:00 EST,3011-07-26 05:55:00 EST,738,"N",1,"Nursing/Other",,"
+
+CCU NPN ADDENDUM:
+
+COMFORT/COPING: HUSBAND EXPRESSED CONCERNED REGARDING PT'S LABORED BREATHING. WAS HOPING PERICARIDAL TAP AND DRAIN WOULD EASE HER BREATHING.DISCUSSED FOCUS OF CARE, THAT MAYBE COMFORT WOULD BECOME THE PRIORITY. HOUSE STAFF DID E-MAIL ONCOLOGY ATTENDING DR [**Last Name (STitle) 4965**]. 
+
+A/P: PROVIDE FAMILY AND PT WITH ALL CURRENT INFO TO ASSIST IN MAKING FURTHER PLANS.
+",,
+24730,22009,30710,0,3011-07-26 16:56:00 EST,3011-07-26 17:22:00 EST,620,"N",1,"Nursing/Other","ccu nursing progress note","
+ccu nursing progress note
+s: whatever [**Doctor First Name **] can give me go ahead (pain/anxiety meds)
+o: pls see carevue flowsheet for complete vs/data/events
+cv: tachycardic to 130 all day. no vea. bp 75-100/40-60. ivf dc'd. now on kvo. pericardial drain to [**Last Name (un) 475**]. flushed at noon, aspirated easily and 200cc drained. at 6pm flushed with some slight resistance, unable to aspirate at all. total of 3cc infused at that time of heparinized saline per protocol. total of 250-300cc of yellow exudative drg. drsg d/i.
+fem site, d/i. hct stable at 30.8.
+resp: rate 16-28. labored at times with exp wheeze. congested nonprod  cough. bs scatt coarse. refusing o2. sats 88-93% on ra. c/o some sob, med with mso4 and ativan with good effect.
+gi: very poor, minimal intake. no stool. no n/v.
+gu: urine conc, <40cc/hr. dc'd per pt request at 10:30am. has not voided as of yet.
+id: afeb. wbc 17.0. cont on po flagyl and levo for pneumonia.
+ms/comfort: resting porly this am, restless at times. c/o generalized discomfort. sometimes located to l arm/shoulder. mso4 gtt started at 2mg/hr and pt also rec'ing prn ativan 1-2mg q 2-4hrs. when aroused the pt is sometimes confused but easily reoriented and quickly drops back to [**Doctor Last Name **].
+dispo: family and pt informed by dr [**Last Name (STitle) **] of her poor prognosis. decision made for comfort care. dnr/dni order signed by attending oncologist. plans in place for d/c home tomorrow with services by ss vna. likley to be hospice care but husband wants to be sure wife understands and agrees but her ms has been less than alert for him to have a clear and meaningful discussion with her on this issue. he left for a few hours this afternoon. both dtrs visited. pt's sisters and brother also visiting. all updated by team/oncology/nsg. social worker and case manager also involved. pls see case manager's note for vna #'s. pg 1 completed, pg 2 begun.
+a: cont with pericardial drg. alt comfort. tachycardic, hypotensive. dnr/dni. 
+p: follow aspirates of pericardial drain. follow bp/hr. med for comfort. d/c planning. support to pt and family.
+",,
+24730,22009,30710,0,3011-07-27 04:30:00 EST,3011-07-27 04:38:00 EST,738,"N",1,"Nursing/Other",,"
+
+CCU NPN:
+
+S/O: PT SLEEPING MOST OF NIGHT WITH FAMILY IN THE ROOM. MORPHINE AT 2MG/HR NO ATIVAN OVERNIGHT. HR 120-130'S ST RARE PVC. BP 90/ O2 SAT MID 90'S ON 4L AND HIGH 80'S ON RA. DOES NOT LIKE NASAL CANNULA OR MASK. MINIMAL PO INTAKE. TOO LETHARGIC TO TKE MEDS. NO URINE OUTPUT SINCE FOLEY D/CED.PERICARDIAL DRAIN IN PLACE. FLUSHED AND ASPIRATED AT 12AM. 
+
+A/P: COMFORT MEASURES. PLANS FOR PERICARDIAL DRAIN TO BE D/CED AND DISCHARGE TO HOME WITH EITHER VNA OR HOSPICE CARE.
+",,
+24730,22009,30710,0,3011-07-27 16:39:00 EST,3011-07-27 16:44:00 EST,507,"N",1,"Nursing/Other",,"
+
+CCU NPN 7a-7p
+
+Pt responsive to verbal and tactile stimuli. Remains on Mso4 gtt which has been titrated to 8mg/hr for comfort with intermittent MSO4 boluses for breakthrough pain.  Rec'g infrequent doses of ativan as well. Bp 90-100. HR 128. Pericardial drain was dc'd by Dr. [**Last Name (STitle) **]. Pt appears comfortable at this time.
+Family has been in and out all day. Plan for pt to be transferred to medical floor (private room) once bed becomes available. Bereavement has been consulted for follow up by case manager.
+Family is aware and in agreement with the above plan.
+
+",,
+24730,22009,30710,0,3011-07-28 06:13:00 EST,3011-07-28 06:16:00 EST,284,"N",1,"Nursing/Other","NURSING PROGRESS NOTE","
+NURSING PROGRESS NOTE
+COMFORTABLE NOC.  GIVEN COMPAZINE FOR NAUSEA WITH GOOD EFFECT.  PT PREFERS TO STAY ON BACK.  TURNED SIDE TO SIDE AND BACK MASSAGE GIVEN.  GIVEN SMAL SIPS OF WATER.  TOL WELL.  CONGESTED NON PRODUCTIVE COUGH.  LETHARGIC BUT AROUSABLE.  CONT ON MSO4 GTT AT 8 MG.  TEMP MAX. 100.8 R  GIVEN TYLENOL FOR COMFORT.
+",,
+24730,22009,30710,0,3011-07-28 16:30:00 EST,3011-07-28 16:34:00 EST,507,"N",1,"Nursing/Other",,"
+
+CCU NURSING PROGRESS NOTE 7A-7P
+
+Pt conts on Mso4 gtt which has been titrated up to 10mg/hr for comfort. Pt is presently arousable to voice and per family is becoming slightly more disoriented. States she does not have any  pain and appears comfortable at this time. MS [**First Name (Titles) **] [**Last Name (Titles) **]'d.  HR 120-130, BP 96/60. Pt's RR down to 12 with notable cheynne [**Doctor Last Name **] breathing pattern.
+Family has been at bedside all day. Support given as needed.
+",,
+24730,22009,30710,0,3011-07-29 05:42:00 EST,3011-07-29 05:48:00 EST,514,"N",1,"Nursing/Other",,"
+
+S. Husband asked for ativan for his wife felt she was jittery
+o. neuro slept most shift on mso4 10 mg iv cont. appeared comfortable.
+Ativn given with good results.  Family in with pt all night. pt continues with [**Last Name (un) 806**] [**Doctor Last Name **] breathing.
+A. end stage melanoma comfort care
+P. support patient and family comfort care only
+",,
+24730,22009,30710,0,3011-07-29 11:54:00 EST,3011-07-29 11:56:00 EST,620,"N",1,"Nursing/Other","ccu nursing note","
+ccu nursing note
+s/o: pt not responding verbally. rr 8-22, irreg. hr 120-130 and reg. not on tele. cont on mso4 gtt at 10mg/hr. family at bedside. 
+a/p: transfer to cc7 for cont comfort care and support of pt and family.
+",,

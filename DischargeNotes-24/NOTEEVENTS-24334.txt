@@ -1,0 +1,888 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+24334,8374,,,2512-12-28 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+
+Admission Date:  [**2512-12-28**]     Discharge Date:  [**2513-1-10**]
+
+Date of Birth:   [**2463-11-11**]     Sex:  M
+
+Service:  GENERAL SURGERY
+
+COMPLICATIONS:  Myocardial infarction and death.
+
+HISTORY OF PRESENT ILLNESS:  This patient is a 49 year-old
+male who had no significant past medical history except for
+chronic renal insufficiency and hypertension who was
+transferred from an outside hospital after sustaining a
+hemorrhagic stroke in the left basal ganglia causing symptoms
+of right hemiplegia on [**2512-12-28**].  He was admitted to
+the Neurology Service for management of his hemorrhagic
+stroke.  Subsequently his renal insufficiency worsened and he
+subsequently went into renal failure, which required
+hemodialysis.  Over the following week and a half he was
+managed on multiple antihypertensive regimens in the
+Intensive Care Unit and was stabilized and transferred to the
+floor on [**1-6**].  He was receiving prophylaxis, stress
+peptic ulcer prophylaxis on Protonix.  On [**1-7**], the
+patient complained of acute abdominal pain during dialysis
+and an upright chest x-ray was obtained.  He was noted to
+have free air and was brought to the Operating Room
+emergently.  He was found on exploration to have a perforated
+sigmoid colon secondary to diverticulitis with an abscess.
+The patient was resected and immediately after his resection
+he suffered a cardiac arrest and developed PEA on the
+Operating Room table.  His abdomen was closed rapidly without
+maturation of his colostomy and he was brought to the
+Intensive Care Unit on pressors for resuscitation.
+
+He ruled in for a massive myocardial infarction with peak
+troponins over 5 and CKMBs over 1000.  The plan had been to
+return him to the Operating Room for completion of his
+colostomy, however, given that his cardiac status was so
+severe after consultation with cardiology consult we decided
+to wait until the following day before taking him back to the
+Operating Room given the stress to his heart.  However, on
+postop day number three the day we had planned on returning
+him to the Operating Room for his colostomy, he suffered
+another cardiac arrest.  He was given multiple intravenous
+medications and ACLS protocol was initiated.  He was coded
+for approximately thirty minutes before expiring.
+
+Autopsy revealed death caused by acute myocardial infarction.
+
+
+
+
+
+
+                          [**First Name11 (Name Pattern1) 652**] [**Last Name (NamePattern4) 653**], M.D.  [**MD Number 654**]
+
+Dictated By:[**Name8 (MD) 3045**]
+
+MEDQUIST36
+
+D:  [**2513-1-20**]  17:04
+T:  [**2513-1-23**]  11:45
+JOB#:  [**Job Number 5191**]
+Signed electronically by: DR. [**First Name8 (NamePattern2) 652**] [**Last Name (NamePattern1) **]
+ on: WED [**2513-1-25**] 1:45 PM
+(End of Report)
+
+
+",,
+24334,8374,,,2512-12-28 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2512-12-28**] 8:11 PM
+     MR HEAD W/O CONTRAST; MR-ANGIO HEAD                             Clip # [**Clip Number (Radiology) 1613**]
+     MR RECONSTRUCTION IMAGING
+     Reason: 49 y/o man with left BG bleed.
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      49 year old man with hx HTN.
+     REASON FOR THIS EXAMINATION:
+      49 y/o man with left BG bleed.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     
+     INDICATION:  Hypertension and left basal ganglia bleed. R/O infarction.
+     
+     TECHNIQUE:  Multiplanar T1 and T2 weighted imaging of the brain was performed.
+      Diffusion weighted imaging is included.
+     3D time of flight angiography of the Circle of [**Location (un) 309**] is also performed.
+     Mutliplanar reformatted images of the cerebral vasculature are provided.
+     
+     MR HEAD W/O CONTRAST:  There is a very large left cerebral hemorrhage centered
+     in the putamen and extending into the insula.  There is flattening of the left
+     lateral ventricular body.  There is narrowing of the left Sylvian fissure.
+     Minimal midline shift is present at this time.  The basal cisternal spaces are
+     well visualized.  There is no evidence of restricted diffusion in this area to
+     suggest infarction beyond the area of hemorrhage.  There are no other areas of
+     acute or chronic infarction evident.  Cortical signal is preserved throughout.
+      There are a few tiny foci of white matter T2 signal hyperintensity, which is
+     a non-specific finding of uncertain clinical significance.  There is blood in
+     the lateral ventricles.  The ventricles are not dilated.
+     
+     There are flow voids in the major branches of the Circle of [**Location (un) 309**].
+     
+     There is fluid in the ethmoid air cells.
+     
+     MR [**First Name (Titles) **] [**Last Name (Titles) 1337**] normal flow signal in the  major branches of the
+     Circle of [**Location (un) 309**], including the intracranial vertebral arteries, basilar
+     artery and proximal portions of the posterior cerebral and superior cerebral
+     arteries.  There is flow in the intracranial carotid arteries and the proximal
+     portions of the anterior and middle cerebral arteries.  Sylvian branches of
+     the middle cerebral arteries are not completely visualized.  No arterial
+     venous malformations or aneurysms are identified.  There may be a basilar
+     artery fenestration, which is a morphologic variant.
+     
+     IMPRESSION: There is a large cerebral hemorrhage centered in the left basal
+     ganglia.  No acute or old infarction is evident within the brain.  No vascular
+     abnormalities are detected on the MRA of Circle of [**Location (un) 309**], though Sylvian
+     branches are incompletely viewed.
+     
+     Findings were discussed with Dr.[**Last Name (STitle) 1614**] of the NeuroSICU on [**2512-12-29**] at 10 am.
+     
+                                                                 (Over)
+
+     DATE: [**2512-12-28**] 8:11 PM
+     MR HEAD W/O CONTRAST; MR-ANGIO HEAD                             Clip # [**Clip Number (Radiology) 1613**]
+     MR RECONSTRUCTION IMAGING
+     Reason: 49 y/o man with left BG bleed.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+
+",,
+24334,8374,,,2512-12-28 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2512-12-28**] 8:11 PM
+     MR HEAD W/O CONTRAST; MR-ANGIO HEAD                             Clip # [**Clip Number (Radiology) 1613**]
+     MR RECONSTRUCTION IMAGING
+     Reason: 49 y/o man with left BG bleed.
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      49 year old man with hx HTN.
+     REASON FOR THIS EXAMINATION:
+      49 y/o man with left BG bleed.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     
+     INDICATION:  Hypertension and left basal ganglia bleed. R/O infarction.
+     
+     TECHNIQUE:  Multiplanar T1 and T2 weighted imaging of the brain was performed.
+      Diffusion weighted imaging is included.
+     3D time of flight angiography of the Circle of [**Location (un) 309**] is also performed.
+     Mutliplanar reformatted images of the cerebral vasculature are provided.
+     
+     MR HEAD W/O CONTRAST:  There is a very large left cerebral hemorrhage centered
+     in the putamen and extending into the insula.  There is flattening of the left
+     lateral ventricular body.  There is narrowing of the left Sylvian fissure.
+     Minimal midline shift is present at this time.  The basal cisternal spaces are
+     well visualized.  There is no evidence of restricted diffusion in this area to
+     suggest infarction beyond the area of hemorrhage.  There are no other areas of
+     acute or chronic infarction evident.  Cortical signal is preserved throughout.
+      There are a few tiny foci of white matter T2 signal hyperintensity, which is
+     a non-specific finding of uncertain clinical significance.  There is blood in
+     the lateral ventricles.  The ventricles are not dilated.
+     
+     There are flow voids in the major branches of the Circle of [**Location (un) 309**].
+     
+     There is fluid in the ethmoid air cells.
+     
+     MR [**First Name (Titles) **] [**Last Name (Titles) 1337**] normal flow signal in the  major branches of the
+     Circle of [**Location (un) 309**], including the intracranial vertebral arteries, basilar
+     artery and proximal portions of the posterior cerebral and superior cerebral
+     arteries.  There is flow in the intracranial carotid arteries and the proximal
+     portions of the anterior and middle cerebral arteries.  Sylvian branches of
+     the middle cerebral arteries are not completely visualized.  No arterial
+     venous malformations or aneurysms are identified.  There may be a basilar
+     artery fenestration, which is a morphologic variant.
+     
+     IMPRESSION: There is a large cerebral hemorrhage centered in the left basal
+     ganglia.  No acute or old infarction is evident within the brain.  No vascular
+     abnormalities are detected on the MRA of Circle of [**Location (un) 309**], though Sylvian
+     branches are incompletely viewed.
+     
+     Findings were discussed with Dr.[**Last Name (STitle) 1614**] of the NeuroSICU on [**2512-12-29**] at 10 am.
+     
+                                                                 (Over)
+
+     DATE: [**2512-12-28**] 8:11 PM
+     MR HEAD W/O CONTRAST; MR-ANGIO HEAD                             Clip # [**Clip Number (Radiology) 1613**]
+     MR RECONSTRUCTION IMAGING
+     Reason: 49 y/o man with left BG bleed.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+
+",,
+24334,8374,,,2512-12-28 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2512-12-28**] 3:06 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 1612**]
+     Reason: please eval ETT placement
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      49 year old man with 
+     REASON FOR THIS EXAMINATION:
+      please eval ETT placement
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Endotracheal tube placement.
+     
+     FINDINGS:  Single view of the chest.  The endotracheal tube tip resides 5 cm
+     above the carina.  The nasogastric tube terminates below the diaphragm. There
+     is diffuse bilateral air space disease.  The left costophrenic angle is not
+     included.  Bilateral pleural effusions cannot be excluded.  The heart appears
+     prominent in size.  There is no pneumothorax.
+     
+     IMPRESSION:  1)  Satisfactory placement of endotracheal tube.  There is no
+     evidence of pneumothorax.
+     
+     2)  Bilateral air space disease.  This is non-specific and could represent
+     congestive heart failure diffuse infectious process, or ARDS.
+
+",,
+24334,8374,,,2512-12-28 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2512-12-28**] 8:11 PM
+     MR HEAD W/O CONTRAST; MR-ANGIO HEAD                             Clip # [**Clip Number (Radiology) 1613**]
+     MR RECONSTRUCTION IMAGING
+     Reason: 49 y/o man with left BG bleed.
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      49 year old man with hx HTN.
+     REASON FOR THIS EXAMINATION:
+      49 y/o man with left BG bleed.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     
+     INDICATION:  Hypertension and left basal ganglia bleed. R/O infarction.
+     
+     TECHNIQUE:  Multiplanar T1 and T2 weighted imaging of the brain was performed.
+      Diffusion weighted imaging is included.
+     3D time of flight angiography of the Circle of [**Location (un) 309**] is also performed.
+     Mutliplanar reformatted images of the cerebral vasculature are provided.
+     
+     MR HEAD W/O CONTRAST:  There is a very large left cerebral hemorrhage centered
+     in the putamen and extending into the insula.  There is flattening of the left
+     lateral ventricular body.  There is narrowing of the left Sylvian fissure.
+     Minimal midline shift is present at this time.  The basal cisternal spaces are
+     well visualized.  There is no evidence of restricted diffusion in this area to
+     suggest infarction beyond the area of hemorrhage.  There are no other areas of
+     acute or chronic infarction evident.  Cortical signal is preserved throughout.
+      There are a few tiny foci of white matter T2 signal hyperintensity, which is
+     a non-specific finding of uncertain clinical significance.  There is blood in
+     the lateral ventricles.  The ventricles are not dilated.
+     
+     There are flow voids in the major branches of the Circle of [**Location (un) 309**].
+     
+     There is fluid in the ethmoid air cells.
+     
+     MR [**First Name (Titles) **] [**Last Name (Titles) 1337**] normal flow signal in the  major branches of the
+     Circle of [**Location (un) 309**], including the intracranial vertebral arteries, basilar
+     artery and proximal portions of the posterior cerebral and superior cerebral
+     arteries.  There is flow in the intracranial carotid arteries and the proximal
+     portions of the anterior and middle cerebral arteries.  Sylvian branches of
+     the middle cerebral arteries are not completely visualized.  No arterial
+     venous malformations or aneurysms are identified.  There may be a basilar
+     artery fenestration, which is a morphologic variant.
+     
+     IMPRESSION: There is a large cerebral hemorrhage centered in the left basal
+     ganglia.  No acute or old infarction is evident within the brain.  No vascular
+     abnormalities are detected on the MRA of Circle of [**Location (un) 309**], though Sylvian
+     branches are incompletely viewed.
+     
+     Findings were discussed with Dr.[**Last Name (STitle) 1614**] of the NeuroSICU on [**2512-12-29**] at 10 am.
+     
+                                                                 (Over)
+
+     DATE: [**2512-12-28**] 8:11 PM
+     MR HEAD W/O CONTRAST; MR-ANGIO HEAD                             Clip # [**Clip Number (Radiology) 1613**]
+     MR RECONSTRUCTION IMAGING
+     Reason: 49 y/o man with left BG bleed.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+
+",,
+24334,8374,30219,0,2512-12-28 18:23:00 EST,2512-12-28 18:29:00 EST,3672,"N",54,"Nursing/Other","Respiratory note:","
+Respiratory note:
+49 yr M with uncontrolled HTN,recently diagnosed CRI. Now with left sided basal ganglia hemorrhage.C-xray shows mod diffuse pulm edema.
+Brought to [**Hospital1 3**] Intubated, for airway protection with #7ETT.Pt is sedated and is placed on mech vent a/c 700x12, Fio2 50%, 5 peep.ABG shows met acidosis.
+Plan to continue vent support.
+",,
+24334,8374,30219,0,2512-12-28 19:39:00 EST,2512-12-28 19:59:00 EST,-1,"N",54,"Nursing/Other","focus note-admit to SICU","
+focus note-admit to SICU
+49 year old male with PMH of uncontolled hypertension, renal insufficency, and headaches. Per wife he was asking her for an item this morning and his speech was garbeled he was unable to use his right arm, she brought him to [**Hospital3 **] in [**Location (un) **]. He arrived at [**Hospital **] hospital at 0900 garbled speech/right hemiparesis CT scan showed left 3X5 basal ganglial bleed, CXR consistent with mild failure.  He was given lasix and started on a nipride drip and medflighted here.  
+
+In the ER he was given fentanyl 100mcg/ativan 1mg for sedation at 1400, intubated A/C 700X 12, 50% O2, peep 5, he was admitted to the SICU at 1500.
+
+Pt was sedated, with facial grimaces to sternal rub, moving left upper and lower extremities on bed, withdrawing from pain r side, slight movement of the right lower extremity seen, no spont movement of the right upper extremitiy seen, pupils 3 and sluggish at 1800, right pupil appered markedly more sluggish than the left, [**First Name8 (NamePattern2) 137**] [**Last Name (NamePattern1) **], MD made aware and stroke fellow evaluated pt.
+
+He requires nipride and labetolol to keep bp<150, attemnpting to wean nipride. propofol added for sedation with some improvement in bp control. his lungs are very coarse with productive suctioning. He received 2u ffp for inr 1.4. HCT 28--TO BE FOLLOWED. POSITIVE TROPONIN AND EKG CHANGES IN ER--CYCLING CK'S. lower abd and groin area with questionable dark brown spots--some hard to the touch. Team and neurology service evaluated--unknown etiology.
+
+Plan: continue to monitor neuro status on a q1hr, Pt to have brain MRI tonight. wean nipride as able.
+",,
+24334,8374,30219,,2512-12-29 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2512-12-29**] 12:12 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 1615**]
+     Reason: new chf, elevated cardiac enzymes, please eval for chf/infil
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      49 year old man with 
+     REASON FOR THIS EXAMINATION:
+      new chf, elevated cardiac enzymes, please eval for chf/infiltrate
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  ASSESSMENT OF CHF.
+     
+     CHEST AP:
+     
+     Comparison is made to the prior film dated [**2512-12-28**].  Again noted is evidence
+     of slight LV enlargement.  Again noted is evidence of diffuse airspace disease
+     bilaterally, right worse than left.  The above findings remain unchanged from
+     the prior study.  Also noted is evidence of bilateral pleural effusions.  The
+     ET tube and the NG tube are again noted, both of which are in satisfactory
+     position.
+     
+     IMPRESSION:
+     
+     1.  Persistent bilateral airspace disease, consistent with congestive heart
+     failure.
+     
+     2.  Placement of NG tube and ET tube, both of which are in satisfactory
+     position.  No evidence of pneumothorax.
+
+",,
+24334,8374,30219,,2512-12-29 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2512-12-29**] 4:00 PM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 1616**]
+     Reason: PT W/ BASAL GANG BLEED -- PLEASE EVAL FOR PROGRESSION
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      49 year old man with 
+     REASON FOR THIS EXAMINATION:
+      PT W/ BASAL GANG BLEED -- PLEASE EVAL FOR PROGRESSION
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Evaluate progression of left basal ganglia bleed.
+     
+     TECHNIQUE:  Noncontrast axial images were obtained from the skull base to the
+     vertex.
+     
+     CT HEAD W/O IV CONTRAST:  There is a large left basal ganglia hemorrhage with
+     minimal surrounding edema.  There has been no significant increase in size
+     compared with MR of [**2512-12-28**].  There is mass effect on the left lateral
+     ventricle also without significant change. The ventricular size is stable.
+     There is slight obliteration of the sulci, left side greater than right,
+     representing mass effect from the hemorrhage.  Hemorrhage layers within both
+     occipital horns.  There is no extra axial fluid collection.  The osseous
+     structures are intact. The visualized paranasal sinuses are clear aside from
+     minimal left ethmoid sinus opacification.
+     
+     IMPRESSION:
+     
+     1. Large left basal ganglia hemorrhage with intraventricular extension, not
+     significantly changed from [**2512-12-28**].
+
+",,
+24334,8374,30219,0,2512-12-29 04:09:00 EST,2512-12-29 04:15:00 EST,3601,"N",54,"Nursing/Other",,"
+
+PT TO MRI AT 8PM UNTIL 10PM; LABETOLOL OFF; NIPRIDE AND PROPOFOL USED FOR BP CONTROL WHILE IN MRI AND LABETOLOL USED ONCE BACK IN THE UNIT. PT'S BP RESPONDS TO LEVEL OF STIMULATION. WILL ADD NTG TO MIX AND ATTEMPT TO WEAN NIPRIDE DUE TO (+)TROPONIN LEVELS
+2 UNITS PRBC'S ^ NO REACTION NOTED BUT WILL TRANSFUSE SLOWLY DUE TO RENAL STATUS
+",,
+24334,8374,30219,0,2512-12-29 17:54:00 EST,2512-12-29 17:56:00 EST,3568,"N",54,"Nursing/Other",,"
+
+Resp. Care Note
+Pt remains intubated and vented on settings SIMV 700x 8x 40% peep 5 psv 5. Pt with spont RR above vent to rate of 20-24 with spont TV 500's. No vent changes made this shift. Sxn for large amount of old blood tinged secretions. Pt transported to CT scan in afternoon without incident. cont vent support.
+",,
+24334,8374,30219,0,2512-12-29 18:44:00 EST,2512-12-29 19:05:00 EST,3825,"N",54,"Nursing/Other","FOCUS: STATUS UPDATE","
+FOCUS: STATUS UPDATE
+DATA:
+PT. CONTINUES TO BE SEDATED ON PROPOFOL DRIP. SPONT MOVEMENT NOTED LUE, LLE, RLE MOVES W/STIMULATION AND R ARM WITH NO MOVEMENT, ALTHOUGH HE GRIMACES AND MOVES LUE WHEN NAIL BED PRESSURE APPLIED TO RLE. HIS PUPILS ARE EQUAL WITH R SOMEWHAT SLUGGISH. HE HAD EPISODE OF SEVERE BRADYCARDIA TO 31 WITH INITIAL HYPERTENSION WITH AGITATION WHEN TAKEN OFF PROPOFOL FOR NEURO ASSESS THIS AM. ALINE TRACING WAS MOMENTARILY LOST AFTER HYPERTENSION AND SITUATION WAS CORRECTED AFTER BEING BOLUSED WITH PROPOFOL. AT THE TIME PT WAS OBSERVED BITING ON ETT AND STRAINING HARD(FACE BEET-RED). SICU TEAM PRESENT-NO ATROPINE GIVEN. HE CONTINUES ON SIMV VENT 40%, 700X8, [**3-26**]. LOW PO2 AT 1730--FIO2 TO 50%. LUNGS COARSE, SUCTIONED FOR COPIOUS TAN. SPUT CX SENT. STARTED TF TODAY THRU OGT WHICH WERE NOT TOL AND TF NOW ON HOLD. RENAL CONSULTED TODAY--CONJUGATED ESTROGEN GIVEN--NEW RENAL USE OF DRUG TO PREVENT UREMIC BLEEDING, URINE TAKEN AND TESTED BY THEM, LASIX TOT OF 160MG GIVEN WITH SMALL RESULTS BUT ADEQUATE ENOUGH. THEY MAY RECOMMEND CVVH IN NEAR FUTURE. URINE SENT FOR LYTES AND OSMO AT THEIR REQUEST. CARDIAC ECHO DONE AT BEDSIDE PER CARDIOLOGY REQUEST--RESULTS PENDING. POSITIVE TROPONIN LEVEL MAY NOT BE INDICATIVE OF MI D/T POOR RENAL CLEARANCE OF TROPONIN. HEAD CT DONE PER NEURORADIOLOGY REQUEST WHO IS ALSO CONSULTING. BLEED UNCHANGED FROM PRELIMINARY REPORT. 
+
+PLAN: 
+CONTINUE SEDATION AND LIGHTEN UP FOR ASSESSMENT AS NEC BUT DO NOT STOP DRIP. LABETOLOL AND NTG AS NEEDED.
+",,
+24334,8374,30219,,2512-12-30 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+",,
+24334,8374,30219,0,2512-12-30 04:41:00 EST,2512-12-30 04:46:00 EST,3090,"N",54,"Nursing/Other",,"
+
+Patient has a compensated metabolic acidosis with PH7.40-29-86-(-19).Suctioned for copious amount of clear sputum,CXR LV enlargement,diffuse air spac disease associated with bilateral pleural effusion. Hct 25 patient remains on mechanical ventilation @ SIMV 700*8-.50-5p/5ps.
+",,
+24334,8374,30219,0,2512-12-30 16:59:00 EST,2512-12-30 17:24:00 EST,-1,"N",54,"Nursing/Other",,"
+
+Nursing condition update:
+
+Neuro: Remains sedated on Propofol gtt, not following commands. Withdraws all ext. to noxious stim, MAE spont. except right arm which does withdraw to pain. PERRL, 2mm and brisk bilat.  
+
+CV: SBP kept <160 w/Nitro and Labetolol gtts. Hydralazine 10mg given x1 w/effect for SBP >160.SB 48-60, no ectopy. Wearing pboots. Easily palpable pulses. Mult. IV sites benign and patent. Right femoral DL Quentin cath inserted by SICU team today for ? HD/CVVH [**Date range (1) 4487**]. 
+
+RESP: Lungs coarse, sxn'd mult. times for thick tan secretions. Remains on SIMV/PS, 50%, 700x8 w/pt. occ. breathing a few breaths over the vent, 5 IPS/5 PS. ABGs acceptable. 
+
+GI: +bs, abdomen soft, +flatus, 30cc Lactulose via NGT w/effect pending. Tolerating TFs w/minimal residuals, Nepro at 30cc/hr. To be changed in am per dietary, mixture not available this evening.
+
+GU: Foley patent adequate amounts amber urine. Lasix 60mg IV x 1 given w/some effect. 
+
+Skin: no areas of breakdown, on 1st step mattress.
+
+Plan: cont. neuro checks, keep SBP <160, monitor labs , ?HD/CVVH , aggressive pulm. hygeine. 
+",,
+24334,8374,30219,0,2512-12-30 17:57:00 EST,2512-12-30 17:59:00 EST,3568,"N",54,"Nursing/Other",,"
+
+Resp.Care Note
+Pt remains intubated and vented on settings SIMV 700x 8x50% peep 5 PSV 5, with spont. RR 8-10 above ventwith spont. TV 600 range. No vent changes made this shift. Sxn freq. for tannish secretions. Cont vent support.
+",,
+24334,8374,30219,,2512-12-31 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2512-12-31**] 11:47 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 1617**]
+     Reason: 49 y.o. male with L CVA, s/p R IJ TLCath placement. Confirm 
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      49 year old man with L CVA, HTN, renal insufficiency.
+     REASON FOR THIS EXAMINATION:
+      49 y.o. male with L CVA, s/p R IJ TLCath placement. Confirm line placement, r/o
+      pneumo. 
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATIONS:    49 y/o with left CVA, hypertension, and renal insufficiency,
+     check line placement, r/o pneumonia and pneumothorax.
+     
+     COMPARISONS:  Made to patient's prior portable chest from [**2512-12-29**].
+     
+     IMPRESSION:
+     
+     1.  Nasogastric tube and endotracheal tube are unchanged in position.
+     Interval placement of a right internal jugular central venous line with the
+     tip in the superior vena cava.
+     
+     2.  No evidence of pneumothorax on this supine film.  Interval improvement in
+     bilateral air space process suggesting improving pulmonary edema rather than
+     pneumonia.  Bilateral effusions also appear to be slightly improved.
+     
+     3.  Stable enlarged heart unchanged mediastinal contours.
+
+",,
+24334,8374,30219,0,2512-12-31 04:15:00 EST,2512-12-31 04:19:00 EST,3090,"N",54,"Nursing/Other",,"
+
+Patient on SIMV 700*8-.60-5p-15Ps. ABG 7.40-30-108-19-98%. CXR LV enlargement,bilateral diffuse airway disease R>L.BS rhochi,HR 57,BP 146/60,Sat97%.
+",,
+24334,8374,30219,0,2512-12-31 06:28:00 EST,2512-12-31 06:43:00 EST,3647,"N",54,"Nursing/Other","focus hemodynmics","
+focus hemodynmics
+data: cvvh intitiated at 1900. to remove 100cc. calicium gtt infusing and being titrated according to ion calicium. trisdione citrate infusing via cvvh machine. assess pressure alarm sounding and unable to reshoot. dr.[**Last Name (STitle) 4488**] called and cvvh d/c'd. femoral ports flushed with heparin. on propofol and titrated for sedation. iv labetalol and iv nitro for bp control. tube fdg at 30cc/hr. no movement noticed on r side. pt moves l arm and leg. perla and #3 bilaterally. 
+action: calicium repleted x2. good u.o. cont with labetaol and iv nitro. ?cvvh to be restarted this am. hct 26 and ho aware. neuro signs q1hrs. 
+response: monitor closely.  
+",,
+24334,8374,30219,0,2512-12-31 17:08:00 EST,2512-12-31 17:29:00 EST,3773,"N",54,"Nursing/Other",,"
+
+FOCUS:  CONDITION UPDATE
+D: PATIENT REMAINS SEDATED ON PROPFOL, ONLY MOVEMENT NOTED TODAY WAS SPONTANEOUS/PURPOUSFUL MOVEMENT OF LEFT HAND, NO OTHER MOVEMENT NOTED. PUPILS [**12-26**], EQUAL AND REACTIVE TO LIGHT. REMAINS ON LABETOLOL/NITRO DRIPS, WITH GOAL TO KEEP SBP<160. RIGHT IJ CENTRAL LINE PLACD BY DR. [**First Name (STitle) **], CXRAY +PLACEMENT. 3 HR. DIALYSIS RUN DONE TODAY, TOLERATED WELL, RECEIVING 2 U PRBC WITH DIALYSIS. LASIX DRIP STARTED WITH GOAL OF 150-200CC HR URINE, CURRENTLY AT 30 MG HR (LIMIT 600 MG/24 HOURS,WILL REASSESS GOALS/DOSES WITH AM ROUNDS). FAMILY IN WITH PATIENT MOST OF THE AFTERNOON, AWARE OF CURRENT CONDITION. VS PER FLOW SHEET.
+R: STABLE. SLIGHTLY IMPROVED.
+",,
+24334,8374,30219,,2513-01-01 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2513-1-1**] 10:53 AM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 1618**]
+     Reason: f/u ICH
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      49 year old man with HTN, L basal ganglia ICH
+     REASON FOR THIS EXAMINATION:
+      f/u ICH
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: 49 year old man with hypertension and left basal ganglia
+     hemorrhage presents for reevaluation.
+     
+     COMPARISONS: [**2512-12-29**].
+     
+     TECHNIQUE: Contiguous axial images of the head were obtained without
+     intravenous contrast.
+     
+     HEAD CT WITHOUT CONTRAST: The previously described large left basal ganglia
+     hemorrhage is unchanged from the prior study. There is stable surrounding
+     edema around area of hemorrhage. There is stable mass effect causing slight
+     shift of the normally midline structures and efacement of the neighboring CSF
+     spaces. The amount of layering hemorrhage in bilateral occipital horns is
+     unchanged. No new abnormalities are identified. The osseous structures and
+     soft tissues are unremarkable. Soft tissue opacification of bilateral ethmoid,
+     bilateral maxillary and sphenoid sinuses shows interval worsening.
+     
+     IMPRESSION: 1. No change in the appearance of large left basal ganglia
+     hemorrhage. 2. No new intracranial abnormalities.
+
+",,
+24334,8374,30219,0,2513-01-01 05:22:00 EST,2513-01-01 05:33:00 EST,3647,"N",54,"Nursing/Other","FOCUS HEMODYNMICS","
+FOCUS HEMODYNMICS
+DATA: ON IV LASIX GTT. U.O OK. K REPLETED. PROPOFOL INFUSING. LABETALOL AND NITRO GTT INFUSING. BP 140-160. TUBE FDG TOL WELL. SALT TABS ADDED TO FDGS. NA LEVEL LOW.  NO MOVEMENT ON R SIDE. MOVES L ARM AND ONLY MOVED L LEG X2 WHILE TURNING. PERLA #3 BILATERALLY. STOOL X2. 
+ACTION: CALICIUM AND K REPLETED. SUCTIONED FREQ. NEURO SIGNS Q1HRS. PROPOFOL FOR SEDATION. CONT WITH NITRO AND LABETOLOL. LABS PRN. SALT TABS ADDED TO TUBE FDGS. 
+RESPONSE: MONITOR CLOSELY. 
+",,
+24334,8374,30219,0,2513-01-01 17:14:00 EST,2513-01-01 17:28:00 EST,3773,"N",54,"Nursing/Other",,"
+
+FOCUS:  CONDITION UPDATE
+D: PATIENT WOKEN UP THIS MORNING, ICU TEAM AND NEUROLOGY TEAM INTO ASSESS--PATIENT DID WAKE, MOVES LEFT SIDE AND FOLLOWS COMMANDS WITH LEFT SIDE.  NO MOVEMENT NOTED FROM RIGHT SIDE. PUPILS [**1-23**], EQUAL AND REACTIVE TO LIGHT. HEAD CT SCAN DONE THIS AFTERNOON.  CONTINUES TO BE SUCTIONED FOR LARGE AMOUNTS OF THICK TAN SPUTUM--DID GROW OUT ORGANISMS-- ANTIBIOTICS CHANGED TO CEFTRIAXONE. DIURESING WELL WITH LASIX, KCL/CALCIUM CONSTANTLY REPLACED. LABETOLOL/NITRO/LASIX/PROPOFOL PER FLOW SHEET. FAMILY IN TO VISIT THIS AFTERNOON--AWARE OF PATIENT'S PROGRESS. 
+A: CONTINUE TO KEEP SEDATED/FREQUENT LAB CHECKS/SUCTIONED AS NEEDED/NEURO CHECKS. CALL HO WITH ANY CHANGES.
+
+",,
+24334,8374,30219,0,2513-01-02 05:57:00 EST,2513-01-02 06:01:00 EST,-1,"N",54,"Nursing/Other",,"
+
+PT VSS, SLIGHT CHANGES TO LABATELOL GTT MADE THROUGH THE NIGHT.  SLIGHTLY MORE BRADYCARDIC.  ON NTG, LASIX, AND PROPOFOL GTT. LUNGS COARSE-VENT PER RESP NOTES.  FREQUENT SXN FOR COPIOUS ORAL AND ETT SECRETIONS.  TOF TF WELL, PASSING STOOL.  GOOD HUO VIA FOLEY.  
+",,
+24334,8374,30219,0,2513-01-02 17:57:00 EST,2513-01-02 17:59:00 EST,-1,"N",54,"Nursing/Other","Respiratory care note:","
+Respiratory care note:
+Pt extubated at 1700 today. Previous to extubation, pt VT= 650 and rr= [**11-10**]. Fio2= .70 currently with Spo2= 97%. Total RR= 25. BS= very coarse post extubation. Pt requires a lot of deep breaths and coughing instructions. 
+",,
+24334,8374,30219,0,2513-01-02 18:38:00 EST,2513-01-02 19:02:00 EST,-1,"N",54,"Nursing/Other",,"
+
+PT ALERT X 1, FOLLOWS COMMANDS, OPENS EYES SPONTANEOUSLY, CONTINUES TO HAVE BLOOD PRESSURE CONTROLLED WITH LABETOLOL AND NITRO, LABETOLO WEANED TO 1MG/KG/MIN, NITRO TO .5, GIVEN HYDRAZALINE FOR SBP 170-180 X2 AT 1400 AND 1800. EKG THIS AFTERNOON NO CHANGE, INDICATING LVH. 
+
+OFF PROPOFOL FOR EXTUBATION SINCE 1600, EXTUBATED AT 1700 TOLERATED WELL EXCEPT FOR SBP 170-180 AT WHICH TIME LABETOLO DRIP WAS INCREASED AND HYDRAZALINE WAS GIVEN WITH SBP DECREASING TO 158/64 IN 15 MIN, SINCE EXTUBATION WEAK COUGH, SUCTION ORALLY MULTIPLE TIMES, O2 SAT AT 98-100% VIA FM AT 70% MISTED O2, LUNG SOUNDS ARE COARSE RIGHT > LEFT. 
+
+GI/GU FEEDING VIA ORAL TUBE AT 40 CC/HR UNTIL 1200NOON, RESIDUAL 250CC, TUBE CLAMPED AND D/CED WITH EXTUBATION, URINE OUTPUT APROX 90 CC Q HOUR/ WITH LASIX DRIP AT 20 CC/HR. GOAL PER RENAL 1.5-2L NEG.
+
+EEG PERFORMED TODAY-NO OBVIOUS SIGNS OF SEIZURE ACTIVITY/PENDING FORMAL RESULTS
+
+NO DIALYSIS TODAY SECONDARY TO ADEQUATE DIURESING WITH LASIX--WILL EVALUATE AGAIN IN AM.
+
+FAMILY VERY ATTENTIVE AND IN TO VISIT ALL AFTERNOON
+
+PLAN: PLAN TO CONTINUE TO WEAN LABETOLOL AND NITRO DRIPS, MAINTAIN SBP 120-160 KEEP HR > 60. KEEP LASIX 20 CC/HR FOR URINE OUTPUT 80-120, GUIAC ALL STOOLS, MONITOR K AND CA Q 8 HOURS, MONITOR RESPIRATORY STATUS, CONTINUE TO PROVIDE NEURO CHECKS, PROVIDE SUPPORTIVE ENVIRONMENT FOR PT AD FAMILY.
+
+
+",,
+24334,8374,30219,,2513-01-03 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2513-1-3**] 5:37 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 1619**]
+     Reason: 49 y.o. male with HTN, L CVA, pulmonary edema, vent support.
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      49 year old man with L CVA, HTN, renal insufficiency.
+     REASON FOR THIS EXAMINATION:
+      49 y.o. male with HTN, L CVA, pulmonary edema, vent support. Eval. for
+      pulmonary edema, r/o infiltrate.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Ventilator support.  Evaluate for pulmonary edema or infiltrate.
+     
+     AP CHEST:  Comparison to [**2512-12-31**] demonstrates interval removal of the ET tube
+     and NG tube.  The right IJ catheter is still in appropriate position.  There
+     is slight tracheal narrowing at the level of the thoracic inlet.  This could
+     be related to recent intubation.  There is an enlarged cardiac silhouette that
+     is not significantly changed.  There is haziness to the right lower lung field
+     that likely represents a right layering pleural effusion.  There is also
+     probable subpulmonic effusion on the left.  The pulmonary vascularity appears
+     normal.  There is left lower lobe collapse/consolidation.  The extreme left
+     costophrenic angle is not included on the film.  Osseous structures are
+     unchanged.
+     
+     IMPRESSION:  1)  Status post extubation with slight tracheal narrowing at the
+     level of the thoracic inlet.  This may be due to the recent intubation.
+     
+     2)  Bilateral pleural effusions.
+     
+     3)  Left lower lobe collapse/consolidation which may be related to atelectasis
+     or infection.
+     
+
+",,
+24334,8374,30219,,2513-01-03 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2513-1-3**] 1:44 PM
+     PORTABLE ABDOMEN                                                Clip # [**Clip Number (Radiology) 1620**]
+     Reason: s/p feeding tube placement -- please assess
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      49 year old man with L CVA, HTN, renal insufficiency.
+     REASON FOR THIS EXAMINATION:
+      s/p feeding tube placement -- please assess
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  49 year old man with history of CVA, hypertension, renal
+     insufficiency status post feeding tube placement, assess positioning.
+     
+     ABDOMEN, SINGLE VIEW: There is a nonspecific bowel gas pattern in the abdomen.
+     No abnormal calcifications are noted.  This film appears to be mislabeled
+     given the path of the feeding tube (left to right reversal).  However,
+     regardless of radiograph orientation the feeding tube tip appears to overlie
+     the stomach. There appears to be a catheter within what is labeled as the left
+     femoral vein.
+     
+     IMPRESSION:
+     1.  Possible left-right reversal of the film.  The feeding catheter tip
+     appears to overlie the stomach.
+     2.  Nonspecific bowel gas pattern.
+     
+
+",,
+24334,8374,30219,0,2513-01-03 18:35:00 EST,2513-01-03 18:46:00 EST,3825,"N",54,"Nursing/Other","FOCUS: STATUS UPDATE","
+FOCUS: STATUS UPDATE
+DATA:
+PT. AROUSABLE TO VOICE. PERL. FOLLOWING COMMANDS W/R UPPER AND LOWER EXTREMITIES. HAS WIGGLED TOES R FOOT X1 ONLY EARLY AM OTHERWISE NO MOVEMENT WITHOUT STIMULATION. NO MOVEMENT R UE. GARBLED SPEECH. DIFFICULT TO AROUSE THIS PM BUT ONCE STIMULATED OTHER NEURO EXAM UNCHANGED. DR. [**First Name (STitle) **] AWARE. HYPERTENSION MOST OF DAY--VERY DIFFICULT TO CONTROL--NTP, LOPRESSOR, NORVASC AND HYDRALAZINE BEFORE EFFECT. CONTINUES ON LABETOLOL DRIP WHICH IS BEING WEANED. FT INSERTED(GASTRIC) AND TF RESTARTED WITH MINIMAL RESIDUALS. STOOL X2. LASIX STOPPED D/T INCREASED U/O--CONTINUES TO DIURESE WELL WITHOUT DRIP. 
+
+PLAN:
+WEAN OFF LABETOLOL AND TRANSFER TO FLOOR IN AM.
+",,
+24334,8374,30219,0,2513-01-04 07:44:00 EST,2513-01-04 07:52:00 EST,3647,"N",54,"Nursing/Other","FOCUS HEMODYNMIC","
+FOCUS HEMODYNMIC
+DATA: BP 160-190'S. LABETOLOL IV GTT INFUSING AND INCREASED TO HELP DECREASE BP. LASIX GTT RESTARTED AT 5MG/HR. U.O >100CC/HR. K 3.7 AND REPLACED WITH 20MEQ KCL VIA TUBE. HYDRALAZINE INCREASED TO 40MG Q8HRS. DOSES GIVEN EARLY. LOPRESSOR VIA TUBE GIVEN WITH HR DROPPING INTO THE 50'S. HO NOTIFIED. INCONT OF STOOL X4. REMAINS EXTUBATED AND O2 VIA FACE MASK. NO MOVEMENT VIA R ARM OR LEG. MOVES L ARM AND WLL ATTEMPT TO MOVE L LEG. 
+ACTION: KCL REPLETED. CALICIUM REPLETED. HYDRALAZINE INCREASED. TUBE FDG TOL WELL. 
+RESPONSE: MONITOR BP CLOSELY. 
+",,
+24334,8374,30219,0,2513-01-04 17:25:00 EST,2513-01-04 17:32:00 EST,3825,"N",54,"Nursing/Other","FOCUS: STATUS UPDATE","
+FOCUS: STATUS UPDATE
+DATA:
+NEUROLOGICALLY IMPROVED TODAY. MORE AWAKE AND FOLLOWING COMMANDS MORE CONSISTENTLY. TALKING WITH SOME SLURRING BUT IS UNDERSTOOD. A/OX2--ANSWERED 1982 FOR YEAR. MOVING L ARM AND L LEG, R LEG ONLY TO STIMULATION AND NO MOVEMENT R ARM. PERL. ABLE TO PARTICIPATE IN ROM EXERCISES WITH PHYSICAL THERAPIST. R LEG MULTIPODUS ORDERED TO PREVENT FOOT DROP. LUNGS COARSE BUT HE IS EXPECTORATING WELL. SATS 100% CONT ON 70% OPEN FM D/T MOUTH BREATHING AND DESATING OFF O2(TO 93). ABD SOFT. TF AT GOAL WITH MIN RESIDUALS. LARGE AMOUNTS OF STOOL, GUAIAC NEG-STOOL CX SENT AS WELL AS C-DIFF. U/O ADEQUATE--LASIX DRIP D/C'D PER RENAL REQUEST. BUN AND CREAT INCREASING.
+
+PLAN:
+CONT TO WEAN OFF LABETOLOL AS TOL. BP CONTROL IS MAIN GOAL.
+",,
+24334,8374,30219,0,2513-01-05 17:45:00 EST,2513-01-05 17:47:00 EST,3773,"N",54,"Nursing/Other",,"
+
+FOCUS:  CONDITION UPDATE
+D: PATIENT IMPROVING SLOWLY. ALERT, YET SPEECH VERY DYSARTHRIC. MOVES ONLY LEFT SIDE, NO MOVEMENT OF RIGHT NOTED. FOLLOWS ALL COMMANDS, APPEARS TO UNDERSTAND WHAT YOU'RE SAYING TO HIM, AND HE DOES ATTEMPT TO ANSWER, YET UNABLE TO UNDERSTAND WHAT HE IS SAYING. LABETOLOL OFF, ISORDIL STARTED WITH GOOD BLOOD PRESSURE CONTROL.  GOAL OF SBP 160-180. TUBE FEEDS AT GOAL. PT IN TO WORK WITH PATIENT TODAY.DID NOT GET OOB TODAY, PATIENT TOO WEAK TO BEAR ANY WEIGHT ON GOOD SIDE. FAMILY NOT IN YET.
+A: CONTINUE OFF LABETOLOL, ?TO FLOOR IN AM.
+
+",,
+24334,8374,30219,0,2513-01-06 11:33:00 EST,2513-01-06 11:47:00 EST,3683,"N",54,"Nursing/Other","TRANSFER NOTE:  FEBURARY 15, 2002","
+TRANSFER NOTE:  FEBURARY 15, 2002
+S/O: 49 YO MALE W/ PMH SIGNIFICANT FOR UNCONTROLLED HTN, NEWLY DIAGNOSED CRI, ANXIETY, CAD, AND CHF.  PT TRANSFERRED EMERGENTLY FROM OUTSIDE HOSPITAL ON [**12-28**] AFTER PRESENTING TO [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) **] W/ DYSARTHIA AND RSIDE PARALYSIS.  AT [**Hospital1 **] PT WAS FOUND TO HAVE LEFT BASAL GANGLIA HEMORRHAGE.  PT TRANSFERRED TO [**Hospital1 3**] FOR FURTHER EVAL AND NEURO MANAGEMENT.  
+      NSICU COURSE COMPLICATED BY HTN - ON/OFF LABETALOL AND NIPRIDE DRIPS - AS OF 2/14 PT OFF ALL DRIPS.  BP ACCEPTABLE ON ORAL AGENTS. PT ON MULT ANTIHYPERTENSIVES. COURSE FURTHER COMPLICATED BY WORSENING KIDNEY FUNCTION - NEEDED TO BE DIALYZED ON [**12-31**].
+      NEURO:  PT ALERT, ORIENTED X2.  PER DOCUMENTATION NEURO STATUS IMPROVING DAILY.  SPEECH VERY GARBLED, DIFFICULT TO UNDERSTAND.  NOT MOVING RARM, MOVING RLE TO STIMULUS, MOVING LSIDE W/ NORMAL STRENGTH (ABLE TO LIFT AND HOLD).  PUPILS EQUAL AND REACTIVE.  LUNGS CTA BILAT.  U/O QS VIA FOLEY.  SWALLOWING STUDY DONE TODAY - NO THIN LIQS, RECCOMENDATION OF TRIALS OF APPLESAUCE AND CUSTARD W/ STRICT SUPERVISION.  SEEN BY OT/PT TODAY.
+A/P:  TRANSFER TO FLOOR WHEN BED AVAIALBLE. 
+",,
+24334,8374,30219,,2513-01-07 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2513-1-7**] 10:48 AM
+     ABDOMEN (SUPINE & ERECT)                                        Clip # [**Clip Number (Radiology) 1622**]
+     Reason: please obtain views through abdomen when perfomring CXR, as 
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      49 year old man s/p CVA, intubation, now with renal failure, abdominal
+      distention
+     REASON FOR THIS EXAMINATION:
+      please obtain views through abdomen when perfomring CXR, as patient is slightly
+      distended. 
+      thank [**Doctor First Name 14**]
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     ABDOMINAL SERIES [**2513-1-7**]
+     
+     Two views of the abdomen are submitted for interpretation and reviewed in
+     conjunction with a chest radiograph obtained at approximately the same time.
+     
+     CLINICAL INDICATION:  Abdominal distention.
+     
+     On the accompanying chest radiograph, there is evidence for a large amount of
+     free intraperitoneal air.
+     
+     A feeding tube is present, terminating in the region of the distal stomach.
+     
+     A nonobstructed bowel gas pattern is seen.  Note is made of thickening of the
+     wall of the colon predominantly in the ascending and transverse portions.
+     
+     Degenerative changes are evident in the spine.
+     
+     IMPRESSION:
+     1.  Large amount of free intraperitoneal air seen on accompanying chest
+     radiograph which is dictated separately.  This is concerning for a perforated
+     abdominal viscus in the absence of recent surgical intervention in the
+     abdomen.  This finding has been communicated to the referring clinical
+     physician on the date of the exam.
+     2.  Bowel wall thickening in the ascending and transverse portions of the
+     colon.  This could be due to ischemia, hemorrhage, edema or infection.
+     
+
+",,
+24334,8374,30219,,2513-01-07 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2513-1-7**] 10:48 AM
+     CHEST (PA & LAT)                                                Clip # [**Clip Number (Radiology) 1621**]
+     Reason: 49 yo w/ new strroke, renal failure, s/p extubation several 
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      49 year old man with 
+     REASON FOR THIS EXAMINATION:
+      49 yo w/ new strroke, renal failure, s/p extubation several days ago, with low
+      grade temperature and ?crackles
+      Thank [**Doctor First Name 14**]
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     TWO VIEW CHEST [**2513-1-7**].
+     
+     CLINICAL INDICATION:  Low grade temperature.  Status post stroke.
+     
+     Comparison is made to previous study of [**2513-1-3**].
+     
+     There is evidence of a large amount of free intraperitoneal air below the
+     hemidiaphragms.
+     
+     The heart is enlarged and there is slight vascular engorgement and perihilar
+     haziness.  There is some elevation of the right hemidiaphragm with associated
+     crowding of the vessels in the right base.  Previously present pleural
+     effusions appear improved.
+     
+     IMPRESSION:
+     1.  Large amount of free intraperitoneal air, as communicated to the clinical
+     service caring for the patient.  In the absence of recent surgical
+     intervention in the abdomen, this is highly concerning for a perforated
+     abdominal viscus.
+     2.  Mild fluid overload.
+     3.  Improved pleural effusions.
+     
+
+",,
+24334,8374,30219,,2513-01-07 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2513-1-7**] 6:11 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 1623**]
+     Reason: assess chest tube placement, swan placement
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      49 year old man with L CVA, HTN, renal insufficiency s/p ex-lap for perf
+      viscus, s/p bilateral chest tube placement and swan placement L chest
+     REASON FOR THIS EXAMINATION:
+      assess chest tube placement, swan placement
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: Status post bilateral chest tube placement and Swan placement,
+     assess tubes.
+     
+     FINDINGS: A single portable chest radiograph is compared with the PA and
+     lateral study done 8 hours earlier. An endotracheal tube is in appropriate
+     position below the thoracic inlet. A right sided and a left sided chest tube
+     both also appear to be in appropriate position. The Swan-Ganz catheter
+     terminates appropriately in the interlobar artery. No evidence for pneumo-
+     thorax. There is decreased appearance of pulmonary edema compared with the
+     prior examination. No free air is currently identified below the diaphragms
+     on this film.
+     
+     IMPRESSION: 1. Appropriately positioned lines and tubes. No evidence for
+     pneumothorax. 
+
+",,
+24334,8374,30219,0,2513-01-08 04:25:00 EST,2513-01-08 04:47:00 EST,3214,"N",54,"Nursing/Other","READMISSION","
+READMISSION
+   WHILE ON FLOOR, PT EXPERIENCED ABDOMINAL PAIN AND DISTENTION WITH TENDERNESS.  KUB INDICATED FREE AIR.  TAKEN TO OR FOR EXP LAP, FINDINGS-> SIGMOID COLON ISCHEMIC AND PERFORATED. SIGMOID RESECTION DONE BUT PT TOO UNSTABLE FOR CREATION OF OSTOMY.  DEVELOPED HYPOTENSION, BRADY AND PEA, RESUSCITATED WITH EPI, ATROPINE, & INTERNAL TRANSDIAPHRAGMATIC COMPRESSIONS, THOUGH BP IN 30'S FOR 'SEVERAL MINUTES', BILATERAL ANTERIOR CHEST TUBES INSERTED.
+   ADMITTED TO NSICU @ 1815, INTUBATED FROM OR.  STARTED ON NEO GTTS BRIEFLY, CHANGED TO LEVO AND TITRATED TO MAINTAIN MAP>75.  CO PERSISTANTLY LOW WITH EXCESSIVE SVR'S, DOBUTAMINE GTTS STARTED TO MAINTAIN CI>2.0, BOTH GOALS ACHEIVED, SEE FLOW SHEET FOR DETAILS OF VS AND GTT TITRATION. ALBUMIN 5% X1. LABS CHECKED Q4H.
+   SEDATED ON PROPOFOL GTTS, TITRATED FOR SEDATION, AND OPTIMAL VENTILATION.  MAINTAINED ON CMV, SEVERAL VENT CHANGES IN ORDER TO ACHEIVE IMPROVEMENTS IN ABG AND CORRECT ACIDOSIS.  BREATH SOUNDS SL COARSE->CLEAR, NO SECRETIONS OBTAINED VIA ETT SXN.
+   NOT MAKING URINE, FOLEY CATH CHANGED FROM #12 TO #16 TO ENSURE PATENCY, MOD AMOUNT OF YELLOWISH TAN DISCHARGE @ MEATUS BUT NO SLUDGE PASSING VIA FOLEY.
+   TEMP MAX 102.4, DOWN TO 101.8 THIS AM, BLOOD CULTURES SENT FROM CVL, SWAN AND PERIPHERALLY. UNABLE TO OBTAIN SUFFICIENT SPUTUM OR URINE FOR CULTURE. 
+   SOCIAL: WIFE PRESENT IN ROOM THROUGHOUT NOC, NEPHEW ALSO ON STANDBY IN HOSPITAL FOR SUPPORT.
+",,
+24334,8374,30219,0,2513-01-08 04:53:00 EST,2513-01-08 04:56:00 EST,3681,"N",54,"Nursing/Other",,"
+
+Resp Care Note:
+
+Pt cont intub on mech vent as per Carevue. Lung sounds coarse rhonchi clearing with suct for mod th white. Multiple vent changes made to maintain adequate ABGs. Pt presently breathing over vent. Cont mech vent support  switch to PSV as tol.
+",,
+24334,8374,30219,0,2513-01-08 17:57:00 EST,2513-01-08 18:12:00 EST,-1,"N",54,"Nursing/Other",,"
+
+NEURO:PT PROPOFOL GTT OFF FOR NEURO ASSESSMENT, ABLE TO DEMONSTRATE STRONG L HAND GRASP,ABLE TO TRACK, ATTEMPTING TO MOUTH WORDS. OTHERWISE PT SEDATED PRESENTLY ON PROPOFOL 31MCG/KG/MIN,R PUPIL 5MM/SLUGGISH,L PUPIL 4MM SLUGGISH BUT SLIGHTLY MORE REACTIVE. 
+CV: TMAX 101.1 PRESENTLY 100.2 WITHOUT INTERVENTION. HR 0-80'S NSR WITH OCCASIONAL PVC'S, SBP 135-154 PITRESSIN STARTED AT 0.4U/MIN ABLE TO WEAN DOBUTAMINE OFF. PAP SYSTOLIC 35-25, WEDGE 18 THIS AM DOWN TO 8 FOLLOWING DIALYSIS. CO 5.91, CI 2.53, SVR 1151. EXTREMITIES WARM + PEDAL AND PT PULSES. 2+ PITTING EDEMA BILAT LE. 1500CC ULTRAFILTRATE REMOVED WITH DIALYSIS TODAY. REPLEATED WITH CA+ THIS AM
+RESP: NO VENT CHANGES TODAY. ABG'S = METABOLIC ACIDOSIS. LUNGS COARSE DIMINISHED AT BASES SATS 99-100% R CHEST TUBE DRAINING 20CC SERO-SANG DRG. L CHEST TUBE DRAINING 5 CC SEROSANGDRG. NO CREPITUS NO LEAK NOTED EITHER CHEST TUBE.  BILAT CT DRESSING CHANGED REINFORCED WITH VASOLINE GAUZE INSERTION SITE CLEAR WITH NO DRG, SUTURES INTACT.SUCTIONED X1 FOR SCANT AMOUNT THIN CLEAR SPUTUM. 
+GI: NGT TO LCWS DRAINING SMALL AMOUNT OF BILIOUS DRG. DOBROFF TUBE IN R NARES CLAMPED. 
+SKIN: ABDOMINAL INCISION WELL APPROX STAPLES INTACT. SMALL AMOUNT OF SERO-SANG DRG ON OLD DRESSING. DSD APPLIED.
+",,
+24334,8374,30219,,2513-01-09 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2513-1-9**] 8:17 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 1624**]
+     Reason: 49 y.o. male with HTN, CVA, perforated bowel,s/p cardiac arr
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      49 year old man with L CVA, HTN, renal insufficiency s/p ex-lap for perf
+      viscus, s/p bilateral chest tube placement and swan placement L chest
+     REASON FOR THIS EXAMINATION:
+      49 y.o. male with HTN, CVA, perforated bowel,s/p cardiac arrest.
+      Check ETT position, PAC position, r/o infiltrate, CHF.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Check ET tube and line positions.
+     
+     Comparison film from two days prior.
+     
+     AP CHEST:  Chest tubes are seen in both hemithoraces with the tips in the mid
+     lung zones.  A SG catheter entering from the left has its tip in a right
+     interlobar artery.  A right IJ catheter is seen with its tip in the mid SVC.
+     ET tube tip is 6 cm above the crina.  A NG tube and feeding tube are seen
+     coursing below the diaphragm; however their tips are not included on the film.
+      There is stable LV enlargement. Behind the heart in the left lower lobe there
+     is suggestion of an ill-defined infiltrate adjacent to the spine. This may
+     represent consolidation or collapse.  The remainder of the lungs are clear.
+     There is no definite evidence of failure or effusions.
+     
+     IMPRESSION:
+     
+     1. Lines and tubes in appropriate position.
+     
+     2. Left lower lobe ill-defined opacity that may represent collapse or
+     consolidation.
+
+",,
+24334,8374,30219,0,2513-01-09 04:16:00 EST,2513-01-09 04:17:00 EST,3681,"N",54,"Nursing/Other",,"
+
+RESP CARE NOTE:
+
+Pt cont intub on mech vent as per Carevue. Lung sounds coarse scat rhonchi clearing with suct for mod th white. No changes made overnoc. Cont mech vent support.
+",,
+24334,8374,30219,0,2513-01-09 15:30:00 EST,2513-01-09 16:19:00 EST,-1,"N",54,"Nursing/Other","focus update note","
+focus update note
+T 99, P 80s first degree A-V block, rare PVCs, 0700 pt hypertensive to 170 despite being on pitressin and propofol.  Pt given MSO4 8mg IVP over 1.5 hours this am for abdominal discomfort noted by withdrawal from abdominal assessment and increase in SBP. pitressin d/ced at 10 am, SBP increased to 170-180 despite pt appearing comfortable, Dr [**First Name (STitle) **] notified/IV lopressor given.  At 1200 SBP 190, pt placed on Nitro, ativan and MSO4 drips (keep MAP 70-90)Nitro up to 3mcg/kg/min. 
+
+HD initiated at 1300 ( pre HD C.o 6.32, CVP 16, PCWP 13, CI 2.70, SVR 1076-will repeat numbers after HD)- during HD fluid decreased to KVO/ Dr [**First Name (STitle) 3954**] aware that pt rec'd previously ordered 500 CC bolus. completed at 1600(1 kilo ultrafiltrated) extremely minimal UO.
+
+ventilator changed to SIMV to avoid hyperventilation Co2=22 (Dr [**First Name (STitle) 3954**] aware of metabolic acidosis on todays abgs) this am/700X10, PEEP 5, FIO2 50 %. RR 20-22 o2 sat at 99-100%
+
+alert X 1, follows commands off propofol, able to give ""thumbs up sign on"" LUE,moves LLE on bed, he is unable to move right UE or LE but exhibits facial grimaces with nail bed pressure.  Pupils are 5 bilat and brisk.
+
+plan: ?pt to surgery today for completion of bowel resection and creation of ostomy, maintain MAP 70-90 with IV nitro and lopressor, keep pt pain free with MSO4.
+  
+
+
+
+",,
+24334,8374,30219,0,2513-01-09 17:19:00 EST,2513-01-09 17:25:00 EST,3349,"N",54,"Nursing/Other",,"
+
+Resp Care: pt remains intubated via #8 ETT secured 23cm at lip. BS clear at apices, fine rales bibasally, decreased at RLL. sx'd for mod. amt. thick tan sputum. Changed from A/C to SIMV and decreased Vt to 700 and rate down to 8 per team. Svt=290-500 (recommend ^IPS), RR14-23 Pip/Plat 24/21. (pH 7.30). No other vent changes made this shift. Please see carevue for further vent inqueries.
+",,
+24334,,30219,0,2513-01-10 04:45:00 EST,2513-01-10 04:48:00 EST,3681,"N",54,"Nursing/Other",,"
+
+Resp Care Note:
+
+Pt cont intub on mech vent as per Carevue. Lung sounds ess clear but dim suct sm th white. Only vent change was RR increased despite pt breathing spont which resulted in no change in over all Ve. Cont mech vent support would wean to PSV as tol.
+",,
+24334,,30219,0,2513-01-10 05:16:00 EST,2513-01-10 05:19:00 EST,3601,"N",54,"Nursing/Other",,"
+
+PT RESPONSIVE TO STIMULATION; MOVES (L)SIDE ON BED; (R)SIDE IMMOBILE
+",,
+24334,,30219,0,2513-01-10 06:49:00 EST,2513-01-10 06:54:00 EST,3601,"N",54,"Nursing/Other",,"
+
+HEMODYNAMICS IMPROVED WITH INDEX > 2.5 OFF GTTS. HR STABLE RATE 80-90'S CONTINUES WITH IV LOPRESSOR. NTG OFF
+VENT CHANGES MADE (SEE FLOW SHEET) AND PT SEDATED (MSO4/ATIVAN GTT'S) ABG'S THIS AM 7.25/38/148/17.
+PLAN TO D'C CT TUBES THIS AM, REINSERT ART LINE AND PLAN FOR OR THIS PM.
+",,
+24334,,30219,0,2513-01-10 14:19:00 EST,2513-01-10 14:56:00 EST,-1,"N",54,"Nursing/Other","FOCUS UPDATE NOTE","
+FOCUS UPDATE NOTE
+T 99.7, P90S, BP 130/80, RR 12.  1ST DEGREE BLOCK NOTED WITH INCREASE IN PR INTERVAL TO .32-.36, AT 1300/REPORTED TO [**First Name4 (NamePattern1) 240**] [**Last Name (NamePattern1) 4489**], MD-EKG DONE AT 1500/(HOLD LOPRESSOR PER DR [**Last Name (STitle) 4489**]). THIS AM PRE DIALYSIS CI2.32/CO5.44 MAINTAINED WITH MAP ABOVE 70 WITHOUT PRESSOR SUPPORT, PCWP 14 ICU TEAM AWARE LR DECREASED TO KVO, DIALYSIS STARTED TODAY AT 1400 PRIOR TO OR. AT 1000 PT EXHIBITED SIGNS OF PAIN(INCREASED BP, FACIAL GRIMACES, AND WITHDRAWAL FROM ABDOMINAL ASSESSMENT) INCREASE IN MSO4 WAS DISCUSSED WITH ICU TEAM/MSO4 KEPT AT 5MG/HR, ATIVAN INCREASED TO 3MG/HR.  AT 1300 BP 111/70, PT VERY SEDATED RESPONDING TO STERNAL RUB AND NAIL BED PRESSURE [**First Name5 (NamePattern1) 240**] [**Last Name (NamePattern1) 4490**] AND [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 129**] , MD AWARE/ATIVAN DECREASED TO 2MG/HR AND MSO4 TO 4 MG/HR, AT 1400 BP INCREASED TO 130/74.
+
+VENTILATOR MAINTAINED AT SIMV&PS .50%FIO2/ VT750X12 PS5/PEEP5-O2SAT AT 100%, PT SUCTIONED FOR THIN CLEAR SECRETIONS, LUNG SOUNDS CLEAR BILAT UPPER [**Last Name (un) **] AND DECREASED IN BILATERAL LOWER LOBES.
+
+PRIEST SAW PT TODAY TO GIVE SACRAMENT OF THE SICK AT FAMILY REQUEST.
+
+PLAN: PT TO OR FOR COMPLETION OF BOWEL RESECTION AND CREATION OF OSTOMY, MAINTAIN MAP 70-90, KEEP PT PAINFREE AND COMFORTABLE WITH ATIVAN AND MSO4 DRIPS.
+
+
+",,
+24334,,30219,0,2513-01-10 16:24:00 EST,2513-01-10 16:36:00 EST,-1,"N",54,"Nursing/Other","CONDITION UPDATE","
+CONDITION UPDATE
+1500 ST ELEVATION NOTED ONE HOUR INTO HD ON MONITOR, NO CHANGES IN BP OR PA NUMBERS NOTED AT THIS TIME. 12 LEAD EKG PEFORMED, DR [**First Name (STitle) **] AND [**First Name (STitle) 4491**] NOTIFIED-ST ELEVATION CONFIRMED. RIGHT SIDED EKG PERFOMED PER CARDIOLOGY-RV INFARCTION CONFIRMED. PT IMMEDIATELY STARTED ON IV ESMOLOL AND NITRO. HD STOPPED AFTER 1 KILO REMOVED.
+ 
+PLAN: MAINTAIN SBP > 110 WITH IV NITRO. TITRATE ESMOLOL IF BP TOLERATES TO HEART RATE IN 70S. CALL HO IF FILLING PRESSURES ARE LOW, CARDIAC ENZYMES Q 8 HOURS. PT MAY NEED PACING SWAN IF GOING TO OR FOR COMPLETION OF PLANNED SURGERY TONIGHT.
+
+CURRENTLY PT ONLY TOLERATING .25 MCG OF NITRO WITH SBP AT 110, ESMOLOL MAINTAINED AT 50 MCGS WITH HEART RATE IN 80S.  DR [**First Name4 (NamePattern1) 240**] [**Last Name (NamePattern1) 4491**] AWARE.
+",,
+24334,,30219,0,2513-01-10 18:03:00 EST,2513-01-10 18:09:00 EST,3683,"N",54,"Nursing/Other","PROGRESS NOTE (3 TO 7PM)","
+PROGRESS NOTE (3 TO 7PM)
+PT CONSULTED BY CARDIOLOGY PREVIOUS SHIFT. ON ESMOLOL AND NTG DRIP FOR INFARCT.  ESMOLOL TITRATED PER SICU ATTENDING FOR HR CONTROL.  WHILE ON AFOREMENTIONED DRIPS PT REQUIRING NEO TO MAINTAIN SBP PER CARDIOLOGY'S RECCOMENDATIONS.  AROUND 16:40 BP RAPIDLY DROPPING - NSICU TEAM NOTIFIED AND PRESENT.  NEO INCREASED, SEDATIVES, ESMOLOL AND NTG OFF.  SHORTLY THEREAFTER PT LOST PULSE.  CPR INITIATED.  SEE CPR FLOW SHEET FOR DETAILS.  CPR W/ GRAVE RESULTS.  CODE CALLED BY DR. [**Last Name (STitle) **].  AWAITING FAMILY MEMBERS.  SEE FLOW SHEETS FOR DETAILS. 
+",,

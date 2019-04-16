@@ -1,0 +1,335 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+24351,,,,2938-09-29 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2938-9-29**] 4:15 PM
+     ORBITS (WATERS, [**Location (un) 1782**] & LAT)                                 Clip # [**Clip Number (Radiology) 1783**]
+     Reason: FELL AND HIT LEFT ORBIT R/O FX
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     FACIAL BONES:
+     HISTORY: Injury to left orbit after fall.
+     
+     There are no apparent fractures and there is no orbital emphysema. There are
+     no opaque foreign bodies. Surrounding paranasal sinuses are normal.
+     
+     IMPRESSION: Normal facial bones.
+
+",,
+24351,,,,2938-10-19 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2938-10-19**] 10:16 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 1784**]
+     Reason: r/o sz, r/o cva                                             
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      70 year old woman with intubation                                               
+     REASON FOR THIS EXAMINATION:
+      r/o sz, r/o cva                                                                 
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Status post intubation.
+     
+     CHEST X-RAY, PORTABLE AP:
+     
+     FINDINGS:  There are no prior studies for comparison.  There is an
+     endotracheal tube with tip 4 cm from the carina.  A nasogastric tube is in
+     place with the tip in the stomach.  The cardiomediastinal silhouette is within
+     normal limits.  Minimal atelectasis is present in the lung bases.  The lungs
+     are otherwise clear.  The left costophrenic angle is not included on this
+     film.  There is no pneumothorax.
+     
+
+",,
+24351,,,,2938-10-19 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2938-10-19**] 10:16 PM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 1785**]
+     Reason: r/o sz, r/o cva                                             
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      70 year old woman with MS changes                                               
+     REASON FOR THIS EXAMINATION:
+      r/o sz, r/o cva                                                                 
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+     WET READ: ESE SUN [**2938-10-19**] 10:53 PM
+      Large left basal ganglia hemorrhage with intraventricular and subarachnoid
+      extension.
+     ______________________________________________________________________________
+                                     FINAL REPORT *ABNORMAL!
+     INDICATION:  Mental status changes.
+     
+     TECHNIQUE:  Axial images of the head were obtained from the occiput to the
+     vertex without intravenous contrast.
+     
+     COMPARISON:  None.
+     
+     FINDINGS:  There is a large area of intraparenchymal hemorrhage centered in
+     the left thalamus.  This measures 5.2 x 3.8 cm in greatest dimension. There
+     are surrounding low attenuation changes consisting of edema.  High attenuation
+     material is seen within the ventricles consistent with intraventricular
+     extension of hemorrhage.  The lateral ventricles are moderately dilated.
+     Hemorrhage extends into the superior midbrain. There is mass effect with
+     displacement of the third ventricle to the right by approximately 1 cm., and
+     anterolateral displacement of the left caudate and putamen.  Periventricular
+     white matter foci of low attenuation are present, likely consistent with
+     chronic microvascular infarctions.
+     
+     The osseous structures, mastoid air cells, and visualized paranasal sinuses
+     are unremarkable.
+     
+     IMPRESSION:  Large left thalamic hemorrhage with intraventricular extension
+     and hydrocephalus.
+
+",,
+24351,30338,,,2938-10-20 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+ 
+ 
+ 
+Admission Date:  [**2938-10-20**]              Discharge Date:   [**2938-10-20**]
+ 
+Date of Birth:  [**2868-2-20**]             Sex:   F
+ 
+Service: NEUROLOGY
+ 
+Allergies: 
+No Drug Allergy Information on File
+ 
+Attending:[**First Name3 (LF) 217**] 
+Chief Complaint:
+""Found down""
+ 
+Major Surgical or Invasive Procedure:
+-Status post intubation 
+-Mechanical ventilation
+-Status post extubation
+ 
+History of Present Illness:
+This is a 70 year old woman with a past medical history 
+significant for hypertension who was found down in parking lot 
+with altered mental status on the evening of admission. 
+Apparently, she was on a trip to [**Location (un) 5219**] to visit her sister and 
+flew back to the [**Location (un) 695**] area earlier in the evening. She 
+apparently was driving home from the airport, but between the 
+airport and home, stopped at her place of work (she is a Home 
+Health Aide). She was then found there in the parking lot 
+unresponsive by a bystander. EMS was called and she was brought 
+to [**Hospital1 25**] ED. Time schedule as it is known: 8:20pm, arrived at 
+[**Location (un) 1322**]. 9:52pm, Neurology was paged regarding her soon arrival. 
+9:55pm, she arrived. On initial exam, she reportedly had right 
+sided facial droop and right-sided weakness. She was noted to 
+have unequal pupils, with left pupil 5mm and right 3mm but both 
+reactive. While she being stabilized in the ED, she vomited, had 
+urinary incontinence and was intubated for airway protection. By 
+10:10pm her pupils were both dilated and fixed.
+
+ 
+Past Medical History:
+1. Hypertension
+2. Amputation of left toes
+ 
+Social History:
+Divorced. Worked as a home health aide. Has one child, [**Doctor First Name 516**], in 
+the area. 
+ 
+Family History:
+Not known. 
+ 
+Physical Exam:
+Vitals BP 251/150 ; HR 84 ; RR 16; O2 sat 100% on vent
+General Appearance-Intubated.
+HEENT: Mucosa moist. Oropharynx clear. No scleral icterus or 
+injection.
+Neck: Supple.
+Lungs: Clear to auscultation bilaterally.
+Heart: Regular rate and rhythm. Normal s1/s2 heart sounds. 
+Abdomen: Soft, non-tender, non-distended.
+Extremities: Warm. No edema.
+Neurologic:
+Mental Status: Intubated, not responding to commands.
+Cranial Nerves: Pupils 6mm bilaterally and fixed. No Doll's 
+eyes. +Corneal reflexes bilaterally. No gag.
+Motor: Bilateral decerebrate posturing. No withdrawal to pain.
+Reflexes: Toes mute, (L great toe absent).
+Sensation: No withdrawal to pain.
+Coordination: Not able to assess.
+Gait: Not able to assess.
+
+ 
+Pertinent Results:
+[**2938-10-19**] 10:05PM   WBC-7.2 RBC-3.61* HGB-11.1* HCT-32.6* MCV-90 
+MCH-30.8 MCHC-34.1 RDW-11.9
+[**2938-10-19**] 10:05PM   PLT COUNT-301
+[**2938-10-19**] 10:05PM   PT-12.3 PTT-19.9* INR(PT)-1.0
+[**2938-10-19**] 10:05PM   GLUCOSE-121* UREA N-16 CREAT-0.6 SODIUM-144 
+POTASSIUM-2.7* CHLORIDE-105 TOTAL CO2-30* ANION GAP-12
+-----
+CT head without contrast [**2938-10-19**]: There is a large area of 
+intraparenchymal hemorrhage centered in the left thalamus. This 
+measures 5.2 x 3.8 cm in greatest dimension. There are 
+surrounding low attenuation changes consisting of edema. High 
+attenuation material is seen within the ventricles consistent 
+with intraventricular extension of hemorrhage. The lateral 
+ventricles are moderately dilated. Hemorrhage extends into the 
+superior midbrain. There is mass effect with displacement of the 
+third ventricle to the right by approximately 1 cm., and 
+anterolateral displacement of the left caudate and putamen. 
+Periventricular white matter foci of low attenuation are 
+present, likely consistent with chronic microvascular 
+infarctions. The osseous structures, mastoid air cells, and 
+visualized paranasal sinuses are unremarkable. IMPRESSION: Large 
+left thalamic hemorrhage with intraventricular extension and 
+hydrocephalus.
+
+ 
+Brief Hospital Course:
+This is a 70 year old  woman with known history of hypertension 
+who presented with elevated blood pressure right-sided weakness 
+and vomiting. Her status rapidly deteriorated in the ED, 
+requiring emergent intubation for airway protection. On later 
+exam, she had fixed and dilated pupils, absence of oculocephalic 
+and gag reflexes and bilateral decerebrate posturing, all 
+consistent with brainstem compression. Head CT revealed a large 
+left basal ganglia bleed with right-sided shift, 
+intraventricular hemorrhage with blood in fourth ventricle and 
+obstructive hydrocephalus. Neurosurgery was contacted regarding 
+role of ventriculostomy; given the patient's grave prognosis, 
+they did not feel a drain was warranted.
+
+The severity of the patient's condition was discussed with her 
+daughter. Patient remained full code overnight from [**Date range (1) 5220**] 
+per her daughter's wishes. She was transported to the intensive 
+care unit where she received maximal medical management with 
+blood pressure control, mannitol, and dilantin therapies. 
+
+The following morning, the patient's exam was remarkable for 
+continued brainstem compression. By noon on [**2938-10-20**], she had 
+absence of brainstem function and she was no longer 
+overbreathing her ventilator. A meeting was held between the 
+neurology team, ICU team, nursing staff, and patient's daugther 
+and sister. The gravity of the patient's condition was outlined 
+for her family. Later that evening, the patient's daughter opted 
+to withdraw care and focus on comfort measures only. The patient 
+was extubated and expired shortly thereafter. 
+        
+ 
+Medications on Admission:
+1. Verapamil 180 mg po bid
+2. Lisinopril 40 mg po bid
+3. Labetalol 300 mg po qAM, 600 mg po qPM
+4. HCTZ 12.5 mg po qd
+5. Protonix 20 mg po qd
+6. Aspirin 81 mg po qd
+ 
+Discharge Medications:
+Not applicable
+ 
+Discharge Disposition:
+Expired
+ 
+Discharge Diagnosis:
+Intracerebral hemorrhage
+ 
+Discharge Condition:
+Expired.
+ 
+Discharge Instructions:
+Not applicable.
+ 
+Followup Instructions:
+Not applicable.
+ 
+                             [**Name6 (MD) **] [**Name8 (MD) **] MD, [**MD Number 225**]
+ 
+Completed by: [**First Name11 (Name Pattern1) 1171**] [**Last Name (NamePattern4) 1565**] MD [**Last Name (un) 1566**] [**2938-10-29**] @ 1211
+Signed electronically by: DR. [**First Name (STitle) **] [**Name (STitle) **]
+ on: MON [**2938-11-3**] 10:21 PM
+(End of Report)
+
+
+",,
+24351,,30238,0,2938-10-20 04:21:00 EST,2938-10-20 04:25:00 EST,2452,"N",69,"Nursing/Other","Resp Care","
+Resp Care
+76 yo woman adm. fromNH s/p sudden onset Right sided weakness with facial droop. Brought to ED > CT: revealed lrg. left basal ganglia bleed with midline shift.Poor neuro prognosis.
+Bs: clear equal bilat.
+abgs: s/p intubation hyperoxia with resp. alakalosis, vent weaned accordingly (see careview for details)
+Plan: cont. support.
+",,
+24351,,30238,0,2938-10-20 05:59:00 EST,2938-10-20 06:21:00 EST,2519,"N",69,"Nursing/Other","NURSING ADMISSION AND PROGRESS NOTE 0200-0700","
+NURSING ADMISSION AND PROGRESS NOTE 0200-0700
+REPORT RECEIVED FROM ER.  PT TX TO MICU ACCOMPANIED BY MD- TX TO MICU 777 WITH NO UNTOWARD INCIDENCE NOTED.  PT'S ENVIRONMENT SECURED FOR SAFETY.
+
+THIS IS 70 Y/O F PT FOUND DOWN IN PARKING LOT ON THE EVENING OF [**2938-10-19**].  PT HAD BEEN ON A TRIP TO [**Location (un) 1555**] TO VISIT HER SISTER AND ARRIVED AT [**Location (un) **] IN THE EVENING.  PT WAS DRIVING TO HER WORKPLACE AND WAS FOUND IN THE PARKING LOT UNRESPONSIVE BY A BYSTANDER.  EMS ACTIVATED AND PT. TAKEN TO [**Hospital1 3**] ER.  
+
+TIME LINE OF EVENTS:
+2020- ARRIVED AT [**Location (un) **]
+2152 [**Hospital1 3**] ER PAGED REGARDING IMPENDING ARRIVAL
+2155 ARRIVED IN ER VIA EMS
+
+INITAL ASSESMENT IN ER SIGNIFICANT FOR RT SIDED FACIAL DROOP AND RT SIDED WEAKNESS, PT HAD AN EPISODE OF VOMITING, URINARY CONTINENCE AND AT 2300- NOTED TO HAVE FIXED AND DILATED PUPILS.  INTUBATED FOR AIRWAY PROTECTION.  EMERGENT HEAD CT SIGNIFICANT FOR LT BASAL GANGLIA HEMORRHAGE WITH EXTENSION INTO LATERAL VENTRICLES AND HYDROCEPHALUS.  PT STARTED ON NIPRIDE GTT, LABETOLOL AND DILANTIN BOLUS- TX TO MICU FOR OBSERVATION.
+
+NEURO:  PT UNRESPONSIVE, DOES NOT WITHDRAW FROM PAINFUL STIMULI.  NOTED TO HAVE PERIODIC FOCAL SEIZURES AS EVIDENCED BY SPASMING OF TONGUE- LASTING APPROXIMATELY 1-3 MINUTES AT A TIME.  PT DID HAVE ONE GENERAL SEIZURE- NOTED TO BITE DOWN ON TONGUE AND CLENCH TEETH- GIVEN 1MG ATIVAN FOR THIS AND BITE BLOCK INSERTED TO PROTECT TONGUE.  BILATERAL PUPILS ARE FIXED, DILATED, NR.  DOES NOT OPEN EYES.  HYPOTHERMIC WITH TEMPS OF 95- BAIR HUGGER APPLIED.
+
+CV:  S1 AND S2 AS PER AUSCULTATION.  NSR-SB WITH NO SIGNS OF ECTOPY NOTED.  HR 50-70'S.  SBP LABILE- MULTIPLE TITRATIONS OF LABETELOL, NIPRIDE AND NATRECOR.  CURRENTLY ONLY ON NIPRIDE FOR SBP CONTROL AT 5MCG/KG/MIN.  SBP GOAL 100-130.  PALPABLE PULSES NOTED TO BILATERAL RADIAL AND DORSALIS PEDIS.  RT RADIAL ALINE IS SECURE AND PATENT.  REZEROED AND RECALIBRATED DURING THE SHIFT.  
+
+LYTES:  PT'S K 2.4- RECEIVED 60MEQ VIA OGT AND CURRENTLY RECEIVING 15MMOL OF KPHOS.  RECEIVED 2GMS CAGLUC AND 2 GMS MAG AS PER PRN SLIDING SCALES.  
+
+RR:  INTUBATED.  CURRENT VENT SETTINGS ARE CMV/12/500/5/50%.  PT OVERBREATHING BY 3-4BPM. SP02 > OR = TO 95%.  NO INCREASED WOB NOTED.  BBS= ESSENTIALLY CLEAR.  BILATERAL CHEST EXPANSIO NOTED.
+
+GI:  ABD IS SOFT, NON-DISTENDED.  BS X 4 QUADRANTS.  NPO.  OGT IS SECURE AND PATENT.  PROPER PLCMT AS VERIFIED WITH AUSCULTATION. OF 30CC/AIR.  NO BM THIS SHIFT.
+
+GU:  INDWELLING FOLEY CATHETER IS SECURE AND PATENT.  CLEAR, YELLOW URINE NOTED IN ADEQUATE AMOUNTS.
+
+INTEG:  NO SIGNS OF BREAKDOWN NOTED TO BACK OR BUTTOCKS.
+
+ACCESS:  #14 TO LT AC, #18 TO LT HAND, # 14 TO RT AC.
+
+SOCIAL:  ONE DAUGHTER- [**Doctor First Name **] AT BEDSIDE.  PT'S SISTER IS TO FLY IN FROM [**State **] TODAY.  PT CURRENTLY CONTINUES TO BE FULL CODE.  DR. [**Last Name (STitle) 4498**] DISCUSSED PT'S LACK OF BRAIN STEM ACTIVITY AND GRIM STATE OF AFFAIRS.  DAUGHTER [**Name (NI) **] IS REALISTIC AND IS AWARE OR THE GRAVITAS OF THE SITUATION- WOULD LIKE TO HAVE HER AUNT HERE PRIOR TO ANY DECISIONS MADE REGARDING ADVANCEMENT OF CODE STATUS.  
+
+PLEASE SEE FLOW SHEET AS NEEDED FOR ADDITIONAL INFORMAT
+",,
+24351,,30238,0,2938-10-20 06:00:00 EST,2938-10-20 06:21:00 EST,2519,"N",69,"Nursing/Other","NURSING ADMISSION AND PROGRESS NOTE 0200-0700","
+NURSING ADMISSION AND PROGRESS NOTE 0200-0700
+(Continued)
+ION.  THANK [**Doctor First Name **]!
+
+
+
+",,
+24351,,30238,0,2938-10-20 13:52:00 EST,2938-10-20 14:28:00 EST,2423,"N",69,"Nursing/Other",,"
+
+NPN.0700-1500
+NEURO; BOTH PUPILS FIXED AND DILATED. INITIAL NEURO EXAM WITH NMED TEAM,FAINT CORNEAL REFLEX.RESPONDED TO NASAL IRRITATION,ABNORMAL WITH DRAL OF LOWER LIMBS TO PAINFUL STIMULI NO MOVEMENT OF UPPER LIMBS.  NO SPONTANEOUS  MOVEMENTS, BREATHING OVER VENT 14-23/12PT WITH WEAK GAG /[**Last Name (un) 3589**]..BY -11 AM NO WITHDRAWL TO PAINFUL STIMULI OF ANY LIMBS. MIN GAG / CORNEAL REFLEXES PRESENT. BY 1300 AGAIN WITH N/MED. NO CORNEAL REFLXES PRESENT NO RESPONSE TO PAINFUL STIMULI GAG /COUGH ABSENT. NO LONGER BREATHING OVER VENT,PROBABLY SINCE [**43**] AM-11 AM.
+
+RESP; PT ON CMV 50% 500X12 PEEP5. LUNGS CLEAR SUCTIONED FOR MOD AMOUNTS THICK TAN SECRETIONS. PROFUSE ORAL SECRTIONS SATS 99%. NO FURTHER SIEZURE ACTIVITY NOTED AFTER 9AM.
+
+CVS; TMAX 102.1 PO CURRENT 99.8 PO BEAR HUGGER REMOVED. TYLENOL GIVEN PO  ROOM TEMPERATURE RETURNED TO [**Location **]. BP EXTREMELY LABILE 60-215/45-100. LABETOLOL ADDED THEN TURNED OFF AT 930 NIPRIDE OFF AND ON CURRENTLY AT .23MCGS/KG/MIN ATTEMPTING TO KEEP SYS BP LESS THAN 130.. BP 136/64. LABILE HR 70-130. SOME  ECG CHANGES NOTED [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 4499**] MD [**First Name (Titles) **] [**Last Name (Titles) **] ADDED TO 8 AM LABS,BP LESS LABILE CURRENTLY HR STABLE 85-90 NO ECTOPY NOTED
+
+GU; DIURESING MOD AMOUNTS  YELLOW URINE WITH SOME SEDIMENT VIA FOLEY.
+
+GI ;NPO OGT INPLACE, BELLY SOFT NO STOOL NO FLATUS BS PRESENT. BS ON RISS.
+
+HEME STABLE
+
+ID; NOT CULTURED AS FELT TEMP TIED IN WITH BRAIN INJURY.PER TSICU.
+
+ACCESS ; PERIPH IN BOTH ANTICUBS 20G AND 18G IN LT WRIST.RT RAD ALINE.
+
+SOC; DAUGHTER [**Name (NI) **] AT BEDSIDE VERY DISTRESSED ACCOMPANIED BY CLOSE FRIENDS. ,[**Doctor First Name 317**]. PT'S SISTER HERE FROM [**State **] FAMILY MEETING HELD AT 1PM WITH BOTH TSICU,AND NMED AND [**First Name5 (NamePattern1) 1003**] [**Last Name (NamePattern1) 4500**] LISW DR [**Last Name (STitle) **] PRESENTED VERY GRIM PROGNOSIS AND EXPLAINED CMO DNR AND DNI STATUS ES DAUGHTER NOT READY TO MAKE DECISION AT THIS POINT .BUT IS LEANING TOWARDS CMO;AS WOULD WANT TO HONOR HER MOTHERS WISHES. AND WILL LET US KNOW WHEN SHE FEELS READY TO MAKE DECISIONS.PT AT THIS TIME [**Last Name (un) 843**] A FULL CODE. 
+
+A/P NEURO STATUS DECLINING  CONTINUE WITH HOURLY NEURO OBS.  AND ATTEMPT TO CONTROL BP LESS THAN 130 WITH NIPRIDE. CONTINUE TO OFFER  EMOTIONAL SUPPORT TO FAMILY.
+
+
+",,
+24351,,30238,0,2938-10-20 16:46:00 EST,2938-10-20 16:49:00 EST,2931,"N",69,"Nursing/Other","Resp Care","
+Resp Care
+Pt remains on A/C-parameters noted.  Breath sounds are essentially clear bilat.  Suction for small amt of thick yellow.  Plan is continue vent support and family will be mtg to decide care.
+
+",,
+24351,,30238,0,2938-10-20 20:27:00 EST,2938-10-20 20:32:00 EST,1640,"N",69,"Nursing/Other","MICU NPN 3PM-","
+MICU NPN 3PM-
+Pt's daughter in and out all afternoon accompanied by many friends for support. At 7PM daughter asked to speak to the doctors about taking the breathing tube out and making her mother comfort measures only. After speaking to neuro med and TSICU team the decision was made to stop life support, start morphine drip and stop all meds. This was done, pt extubated at 8:10PM after initiating morphine drip. Family is at her side. Pt did not have any resp effort post extubation. BP/HR slowed and pt's heart stopped. Pt pronounced by team and will be transported to the morgue.
+",,

@@ -1,0 +1,1308 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+24553,,,,3353-01-01 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3353-1-1**] 6:44 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 3577**]
+     Reason: R/O PNA 
+     Admitting Diagnosis: LEUKEMIA\BMT
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      44 year old man with acute lymphoplastic leukemia, now s/p BMT on day 4. 
+     REASON FOR THIS EXAMINATION:
+      R/O PNA 
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     PORTABLE CHEST:
+     
+     CLINICAL INDICATION:  ALL.  Clinical suspicion for pneumonia.
+     
+     Right internal jugular vascular catheters remain in place, with the right
+     catheter terminating in the proximal right atrium and the left terminating in
+     the superior vena cava.  Cardiac and mediastinal contours are within normal
+     limits and stable compared to the recent study.  The lungs remain clear
+     bilaterally, and no pleural effusions are identified.
+     
+     IMPRESSION:
+     
+     No radiographic evidence of pneumonia.
+     
+
+",,
+24553,,,,3353-01-03 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3353-1-3**] 6:50 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 3578**]
+     Reason: R/O infiltrate in recent allo-BMT/neutropenic pt
+     Admitting Diagnosis: LEUKEMIA\BMT
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      44 year old man with acute lymphoplastic leukemia, now s/p BMT on day 6.
+      Febrile despite abx.
+     REASON FOR THIS EXAMINATION:
+      R/O infiltrate in recent allo-BMT/neutropenic pt
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     PORTABLE CHEST:
+     
+     CLINICAL INDICATION:  Fever.  Status post BMT.
+     
+     Comparison is made to [**3353-1-1**] radiographs.
+     
+     Vascular catheters remain in place, unchanged in position.  The cardiac and
+     mediastinal contours are within normal limits, and the lungs remain clear.
+     
+     IMPRESSION:  No radiographic evidence of pneumonia.
+     
+
+",,
+24553,,,,3353-01-08 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3353-1-8**] 3:44 PM
+     DUPLEX DOPP ABD/PEL; ABDOMEN U.S. (COMPLETE STUDY)              Clip # [**Clip Number (Radiology) 3580**]
+     Reason: Does this pt have [**Last Name (un) **]-occlusive disease? PLEASE INCLUDE DOP
+     Admitting Diagnosis: LEUKEMIA\BMT
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      44 year old man with allo-BMT, p/w increasing bili and weight gain.
+     REASON FOR THIS EXAMINATION:
+      Does this pt have [**Last Name (un) **]-occlusive disease? PLEASE INCLUDE DOPPLER/FLOW of
+      hepatic vasculature
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: Bone marrow transplant, with increasing bilirubin and weight gain.
+     
+     RIGHT UPPER QUADRANT ULTRASOUND & LIVER DOPPLER:
+     
+     The liver is normal in echo texture, without focal masses. A small amount of
+     sludge is seen within the gallbladder. There is no gallbladder wall thickening
+     or pericholecystic fluid. No intra or extrahepatic ductal dilatation is
+     present. The common duct measures 3 mm. The spleen and pancreas are normal.
+     The right kidney measures 13.2 cm and the left kidney measures 14.0 cm. Both
+     kidneys are normal in appearance, without masses, stones or hydronephrosis.
+     
+     Normal color flow and wave forms are seen within the hepatic venous, hepatic
+     arterial and portal venous vessels. No intraluminal thrombus is identified.
+     There is also normal flow in the splenic vein.
+     
+     IMPRESSION:
+     
+     1) Gallbladder sludge.
+     
+     2) Normal liver blood flow. No thrombus.
+
+",,
+24553,,,,3353-01-08 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3353-1-8**] 10:05 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 3579**]
+     Reason: Fever in neutropenic pt on broad spectrum abx. Does this pt 
+     Admitting Diagnosis: LEUKEMIA\BMT
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      44 year old man with acute lymphoplastic leukemia, now s/p BMT on day 11.
+      Febrile despite abx.
+     REASON FOR THIS EXAMINATION:
+      Fever in neutropenic pt on broad spectrum abx. Does this pt have an infiltrate
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Fever and neutropenia.
+     
+     AP UPRIGHT CHEST:  Compared to [**3353-1-3**], the central lines are
+     unchanged in position.  Allowing for position, the heart and mediastinum are
+     unchanged.  There is no vascular congestion, pleural effusion, focal
+     infiltrates or pneumothorax.
+     
+     IMPRESSION:  No evidence of pneumonia or cardiac failure.
+     
+
+",,
+24553,,,,3353-01-08 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3353-1-8**] 3:44 PM
+     DUPLEX DOPP ABD/PEL; ABDOMEN U.S. (COMPLETE STUDY)              Clip # [**Clip Number (Radiology) 3580**]
+     Reason: Does this pt have [**Last Name (un) **]-occlusive disease? PLEASE INCLUDE DOP
+     Admitting Diagnosis: LEUKEMIA\BMT
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      44 year old man with allo-BMT, p/w increasing bili and weight gain.
+     REASON FOR THIS EXAMINATION:
+      Does this pt have [**Last Name (un) **]-occlusive disease? PLEASE INCLUDE DOPPLER/FLOW of
+      hepatic vasculature
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: Bone marrow transplant, with increasing bilirubin and weight gain.
+     
+     RIGHT UPPER QUADRANT ULTRASOUND & LIVER DOPPLER:
+     
+     The liver is normal in echo texture, without focal masses. A small amount of
+     sludge is seen within the gallbladder. There is no gallbladder wall thickening
+     or pericholecystic fluid. No intra or extrahepatic ductal dilatation is
+     present. The common duct measures 3 mm. The spleen and pancreas are normal.
+     The right kidney measures 13.2 cm and the left kidney measures 14.0 cm. Both
+     kidneys are normal in appearance, without masses, stones or hydronephrosis.
+     
+     Normal color flow and wave forms are seen within the hepatic venous, hepatic
+     arterial and portal venous vessels. No intraluminal thrombus is identified.
+     There is also normal flow in the splenic vein.
+     
+     IMPRESSION:
+     
+     1) Gallbladder sludge.
+     
+     2) Normal liver blood flow. No thrombus.
+
+",,
+24553,,,,3353-01-09 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3353-1-9**] 12:22 PM
+     CT CHEST W/CONTRAST; CT ABDOMEN W/CONTRAST                      Clip # [**Clip Number (Radiology) 3581**]
+     CT PELVIS W/CONTRAST; CT 150CC NONIONIC CONTRAST
+     Reason: Is there any source for this fever?
+     Admitting Diagnosis: LEUKEMIA\BMT
+      Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      44 year old man with ALL, s/p BMT 11 d ago, with persistent fevers despite
+      broad-spectrum abx.
+     REASON FOR THIS EXAMINATION:
+      Is there any source for this fever?
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  ALL, status post bone marrow transplant with persistent fevers.
+     
+     TECHNIQUE:  Helically acquired contiguous axial images were obtained from the
+     lung apices to the pubic symphysis following the administration of 120 cc of
+     IV optiray.  Nonionic contrast was used secondary to patient's debilitation.
+     
+     COMPARISON:  None.
+     
+     CT OF THE CHEST WITH IV CONTRAST:  No significant axillary, mediastinal or
+     hilar lymphadenopathy is identified.  The heart, paracardium, and great
+     vessels are normal.  No pleural effusions are present.  No pleural effusions
+     are present.  Dependent changes are noted at the lung bases.  Otherwise, no
+     parenchymal consolidation or pulmonary nodules are identified.  The airways
+     are patent to the level of the segmental bronchi bilaterally.
+     
+     CT OF THE ABDOMEN WITH IV CONTRAST:  The liver, gallbladder, pancreas, spleen,
+     adrenal glands, kidneys, ureters, and opacified loops of large/small bowel are
+     unremarkable.  There is no mesenteric or retroperitoneal lymphadenopathy.
+     There is no free fluid or free air.
+     
+     CT OF THE PELVIS WITH IV CONTRAST:  The distal ureters, bladder, rectum,
+     sigmoid colon, and prostate all appear unremarkable.  There is no free fluid.
+     There is no pelvic or inguinal lymphadenopathy.
+     
+     BONE WINDOWS:  Several bone islands are identified within both femoral heads,
+     thoracic vertebral bodies, and right humeral head.  No suspicious lytic or
+     sclerotic lesions otherwise are identified.
+     
+     IMPRESSION:
+     
+     1)  Minimal bibasilar atelectasis.
+     2)  Otherwise no intraabdominal or intrapelvic pathology to explain the
+     patient's fevers.
+                                                                 (Over)
+
+     DATE: [**3353-1-9**] 12:22 PM
+     CT CHEST W/CONTRAST; CT ABDOMEN W/CONTRAST                      Clip # [**Clip Number (Radiology) 3581**]
+     CT PELVIS W/CONTRAST; CT 150CC NONIONIC CONTRAST
+     Reason: Is there any source for this fever?
+     Admitting Diagnosis: LEUKEMIA\BMT
+      Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+
+",,
+24553,,,,3353-01-09 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3353-1-9**] 12:22 PM
+     CT CHEST W/CONTRAST; CT ABDOMEN W/CONTRAST                      Clip # [**Clip Number (Radiology) 3581**]
+     CT PELVIS W/CONTRAST; CT 150CC NONIONIC CONTRAST
+     Reason: Is there any source for this fever?
+     Admitting Diagnosis: LEUKEMIA\BMT
+      Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      44 year old man with ALL, s/p BMT 11 d ago, with persistent fevers despite
+      broad-spectrum abx.
+     REASON FOR THIS EXAMINATION:
+      Is there any source for this fever?
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  ALL, status post bone marrow transplant with persistent fevers.
+     
+     TECHNIQUE:  Helically acquired contiguous axial images were obtained from the
+     lung apices to the pubic symphysis following the administration of 120 cc of
+     IV optiray.  Nonionic contrast was used secondary to patient's debilitation.
+     
+     COMPARISON:  None.
+     
+     CT OF THE CHEST WITH IV CONTRAST:  No significant axillary, mediastinal or
+     hilar lymphadenopathy is identified.  The heart, paracardium, and great
+     vessels are normal.  No pleural effusions are present.  No pleural effusions
+     are present.  Dependent changes are noted at the lung bases.  Otherwise, no
+     parenchymal consolidation or pulmonary nodules are identified.  The airways
+     are patent to the level of the segmental bronchi bilaterally.
+     
+     CT OF THE ABDOMEN WITH IV CONTRAST:  The liver, gallbladder, pancreas, spleen,
+     adrenal glands, kidneys, ureters, and opacified loops of large/small bowel are
+     unremarkable.  There is no mesenteric or retroperitoneal lymphadenopathy.
+     There is no free fluid or free air.
+     
+     CT OF THE PELVIS WITH IV CONTRAST:  The distal ureters, bladder, rectum,
+     sigmoid colon, and prostate all appear unremarkable.  There is no free fluid.
+     There is no pelvic or inguinal lymphadenopathy.
+     
+     BONE WINDOWS:  Several bone islands are identified within both femoral heads,
+     thoracic vertebral bodies, and right humeral head.  No suspicious lytic or
+     sclerotic lesions otherwise are identified.
+     
+     IMPRESSION:
+     
+     1)  Minimal bibasilar atelectasis.
+     2)  Otherwise no intraabdominal or intrapelvic pathology to explain the
+     patient's fevers.
+                                                                 (Over)
+
+     DATE: [**3353-1-9**] 12:22 PM
+     CT CHEST W/CONTRAST; CT ABDOMEN W/CONTRAST                      Clip # [**Clip Number (Radiology) 3581**]
+     CT PELVIS W/CONTRAST; CT 150CC NONIONIC CONTRAST
+     Reason: Is there any source for this fever?
+     Admitting Diagnosis: LEUKEMIA\BMT
+      Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+
+",,
+24553,,,,3353-01-09 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3353-1-9**] 12:22 PM
+     CT CHEST W/CONTRAST; CT ABDOMEN W/CONTRAST                      Clip # [**Clip Number (Radiology) 3581**]
+     CT PELVIS W/CONTRAST; CT 150CC NONIONIC CONTRAST
+     Reason: Is there any source for this fever?
+     Admitting Diagnosis: LEUKEMIA\BMT
+      Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      44 year old man with ALL, s/p BMT 11 d ago, with persistent fevers despite
+      broad-spectrum abx.
+     REASON FOR THIS EXAMINATION:
+      Is there any source for this fever?
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  ALL, status post bone marrow transplant with persistent fevers.
+     
+     TECHNIQUE:  Helically acquired contiguous axial images were obtained from the
+     lung apices to the pubic symphysis following the administration of 120 cc of
+     IV optiray.  Nonionic contrast was used secondary to patient's debilitation.
+     
+     COMPARISON:  None.
+     
+     CT OF THE CHEST WITH IV CONTRAST:  No significant axillary, mediastinal or
+     hilar lymphadenopathy is identified.  The heart, paracardium, and great
+     vessels are normal.  No pleural effusions are present.  No pleural effusions
+     are present.  Dependent changes are noted at the lung bases.  Otherwise, no
+     parenchymal consolidation or pulmonary nodules are identified.  The airways
+     are patent to the level of the segmental bronchi bilaterally.
+     
+     CT OF THE ABDOMEN WITH IV CONTRAST:  The liver, gallbladder, pancreas, spleen,
+     adrenal glands, kidneys, ureters, and opacified loops of large/small bowel are
+     unremarkable.  There is no mesenteric or retroperitoneal lymphadenopathy.
+     There is no free fluid or free air.
+     
+     CT OF THE PELVIS WITH IV CONTRAST:  The distal ureters, bladder, rectum,
+     sigmoid colon, and prostate all appear unremarkable.  There is no free fluid.
+     There is no pelvic or inguinal lymphadenopathy.
+     
+     BONE WINDOWS:  Several bone islands are identified within both femoral heads,
+     thoracic vertebral bodies, and right humeral head.  No suspicious lytic or
+     sclerotic lesions otherwise are identified.
+     
+     IMPRESSION:
+     
+     1)  Minimal bibasilar atelectasis.
+     2)  Otherwise no intraabdominal or intrapelvic pathology to explain the
+     patient's fevers.
+                                                                 (Over)
+
+     DATE: [**3353-1-9**] 12:22 PM
+     CT CHEST W/CONTRAST; CT ABDOMEN W/CONTRAST                      Clip # [**Clip Number (Radiology) 3581**]
+     CT PELVIS W/CONTRAST; CT 150CC NONIONIC CONTRAST
+     Reason: Is there any source for this fever?
+     Admitting Diagnosis: LEUKEMIA\BMT
+      Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+
+",,
+24553,,,,3353-01-09 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3353-1-9**] 12:22 PM
+     CT CHEST W/CONTRAST; CT ABDOMEN W/CONTRAST                      Clip # [**Clip Number (Radiology) 3581**]
+     CT PELVIS W/CONTRAST; CT 150CC NONIONIC CONTRAST
+     Reason: Is there any source for this fever?
+     Admitting Diagnosis: LEUKEMIA\BMT
+      Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      44 year old man with ALL, s/p BMT 11 d ago, with persistent fevers despite
+      broad-spectrum abx.
+     REASON FOR THIS EXAMINATION:
+      Is there any source for this fever?
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  ALL, status post bone marrow transplant with persistent fevers.
+     
+     TECHNIQUE:  Helically acquired contiguous axial images were obtained from the
+     lung apices to the pubic symphysis following the administration of 120 cc of
+     IV optiray.  Nonionic contrast was used secondary to patient's debilitation.
+     
+     COMPARISON:  None.
+     
+     CT OF THE CHEST WITH IV CONTRAST:  No significant axillary, mediastinal or
+     hilar lymphadenopathy is identified.  The heart, paracardium, and great
+     vessels are normal.  No pleural effusions are present.  No pleural effusions
+     are present.  Dependent changes are noted at the lung bases.  Otherwise, no
+     parenchymal consolidation or pulmonary nodules are identified.  The airways
+     are patent to the level of the segmental bronchi bilaterally.
+     
+     CT OF THE ABDOMEN WITH IV CONTRAST:  The liver, gallbladder, pancreas, spleen,
+     adrenal glands, kidneys, ureters, and opacified loops of large/small bowel are
+     unremarkable.  There is no mesenteric or retroperitoneal lymphadenopathy.
+     There is no free fluid or free air.
+     
+     CT OF THE PELVIS WITH IV CONTRAST:  The distal ureters, bladder, rectum,
+     sigmoid colon, and prostate all appear unremarkable.  There is no free fluid.
+     There is no pelvic or inguinal lymphadenopathy.
+     
+     BONE WINDOWS:  Several bone islands are identified within both femoral heads,
+     thoracic vertebral bodies, and right humeral head.  No suspicious lytic or
+     sclerotic lesions otherwise are identified.
+     
+     IMPRESSION:
+     
+     1)  Minimal bibasilar atelectasis.
+     2)  Otherwise no intraabdominal or intrapelvic pathology to explain the
+     patient's fevers.
+                                                                 (Over)
+
+     DATE: [**3353-1-9**] 12:22 PM
+     CT CHEST W/CONTRAST; CT ABDOMEN W/CONTRAST                      Clip # [**Clip Number (Radiology) 3581**]
+     CT PELVIS W/CONTRAST; CT 150CC NONIONIC CONTRAST
+     Reason: Is there any source for this fever?
+     Admitting Diagnosis: LEUKEMIA\BMT
+      Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+
+",,
+24553,,,,3353-01-12 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3353-1-12**] 10:14 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 3582**]
+     Reason: Persistent fevers in neutropenic pt. Also, pt volume overloa
+     Admitting Diagnosis: LEUKEMIA\BMT
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      44 year old man with acute lymphoplastic leukemia, now s/p BMT on day 11.
+      Febrile despite abx.
+     REASON FOR THIS EXAMINATION:
+      Persistent fevers in neutropenic pt. Also, pt volume overloaded. Please asses
+      for infiltrate and CHF.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY: ALL, status post bone marrow transplant. Persistent fevers.
+     
+     AP UPRIGHT CHEST:  Comparison with [**3353-1-8**] shows no change in the position of
+     the central catheters.  There is slight increase in the retrocardiac density
+     with slight blurring of the margin of the descending aorta, but the left
+     hemidiaphragm is still well visualized.  This could represent mild atelectasis
+     versus consolidation.  Both costophrenic angles are less sharp. There is also
+     an increase in the pulmonary vascular redistribution in the upper lobes. The
+     cardiac contour is unchanged.
+     
+     IMPRESSION:  1) Likely mild pulmonary edema.  2) Slight increase in the
+     retrocardiac density which could represent atelectasis versus consolidation.
+     No definite pneumonia at this time.  Interval follow up is recommended. 
+
+",,
+24553,,,,3353-01-12 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3353-1-12**] 1:07 PM
+     LIVER OR GALLBLADDER US (SINGLE ORGAN) PORT; DUPLEX DOPP ABD/PELClip # [**Telephone/Fax (1) 3583**]
+     Reason: Pt has increasing bilirubin, weight gain. Very concerned for
+     Admitting Diagnosis: LEUKEMIA\BMT
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      44 year old man with allo-BMT, p/w increasing bili and weight gain.
+     REASON FOR THIS EXAMINATION:
+      Pt has increasing bilirubin, weight gain. Very concerned for VOD. PLEASE
+      PERFORM DOPPLER U/S of liver and assess for ascites.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Increased bilirubin and weight gain status post bone marrow
+     transplant.
+     
+     RIGHT UPPER QUADRANT ULTRASOUND AND LIVER DOPPLER:  The liver is normal in
+     echo texture, without focal masses.  There is no intra- or extrahepatic ductal
+     dilatation.  The common duct measures 4 mm.  The gallbladder is contracted.
+     
+     Normal color flow and wave forms are present in the portal venous, hepatic
+     arterial, and hepatic venous vessels.
+     
+     IMPRESSION:  Normal liver ultrasound.
+
+",,
+24553,,,,3353-01-12 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3353-1-12**] 1:07 PM
+     LIVER OR GALLBLADDER US (SINGLE ORGAN) PORT; DUPLEX DOPP ABD/PELClip # [**Telephone/Fax (1) 3583**]
+     Reason: Pt has increasing bilirubin, weight gain. Very concerned for
+     Admitting Diagnosis: LEUKEMIA\BMT
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      44 year old man with allo-BMT, p/w increasing bili and weight gain.
+     REASON FOR THIS EXAMINATION:
+      Pt has increasing bilirubin, weight gain. Very concerned for VOD. PLEASE
+      PERFORM DOPPLER U/S of liver and assess for ascites.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Increased bilirubin and weight gain status post bone marrow
+     transplant.
+     
+     RIGHT UPPER QUADRANT ULTRASOUND AND LIVER DOPPLER:  The liver is normal in
+     echo texture, without focal masses.  There is no intra- or extrahepatic ductal
+     dilatation.  The common duct measures 4 mm.  The gallbladder is contracted.
+     
+     Normal color flow and wave forms are present in the portal venous, hepatic
+     arterial, and hepatic venous vessels.
+     
+     IMPRESSION:  Normal liver ultrasound.
+
+",,
+24553,,,,3353-01-15 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3353-1-15**] 8:31 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 3584**]
+     Reason: 44 yo male with ALL s/p MUD transplant at day +17 with low g
+     Admitting Diagnosis: LEUKEMIA\BMT
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      44 year old man with acute lymphoplastic leukemia, now s/p BMT on day 17.
+      Febrile despite abx.
+     REASON FOR THIS EXAMINATION:
+      44 yo male with ALL s/p MUD transplant at day +17 with low grade fever and a
+      retro-cardiac shadow on CXR.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATIONS:  Leukemia. 
+     
+     PORTABLE AP CHEST:  Comparison is made to previous films from [**3353-1-12**], there
+     is slight decrease in the upper zone redistribution. The left ventricular
+     enlargement is stable. There is persistent atelectasis at the left lung base
+     but no definite consolidations. There are no pleural effusions.  The central
+     venous catheters are unchanged in position.
+     
+     IMPRESSION:   Improved left heart failure. No definite pneumonia.
+
+",,
+24553,,,,3353-01-15 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3353-1-15**] 5:33 PM
+     CT CHEST W/O CONTRAST; CT RECONSTRUCTION                        Clip # [**Clip Number (Radiology) 3585**]
+     Reason: BMT, NEUTROPENIC FEVER X 2 WEEKS
+     Admitting Diagnosis: LEUKEMIA\BMT
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      44 year old man s/p BMT for ALL. Now with neutropenic fever x 2 weeks
+     REASON FOR THIS EXAMINATION:
+      Does this pt have in infiltrate or finding to explain fever
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Status post bone marrow transplant for ALL, neutropenic fever for
+     two weeks, please evaluate for infiltrate.
+     
+     COMPARISON:  [**3353-1-9**].
+     
+     TECHNIQUE:  Contiguous helically-acquired axial high-resolution images were
+     obtained through the chest.  Additional reconstructed and multiplanar
+     reformatted images are provided.
+     
+     HIGH-RESOLUTION CT OF THE CHEST WITHOUT INTRAVENOUS CONTRAST:  There are
+     bilateral pleural effusions and atelectasis within the right and left lower
+     lobes posteriorly.  Minimal scarring is present at the apices bilaterally, and
+     scattered small areas of patchy ground glass opacity are present adjacent to
+     the right major fissure superiorly.  There are no definite areas of focal
+     pulmonary parenchymal consolidation.  Bilateral internal jugular venous access
+     catheters are in place.  The heart, pericardium, and great vessels appear
+     unremarkable.  The airways are patent to the level of the subsegmental bronchi
+     bilaterally.  There are multiple prominent lymph nodes within the mediastinum,
+     including several prevascular nodes adjacent to the aortic arch, a precarinal
+     node, and subcarinal nodes, the largest measuring 13 mm in short axis
+     diameter.  These appear more prominent than on the previous examination.  No
+     pathologic-appearing axillary lymph adenopathy is identified.
+     
+     Limited images of the upper abdomen appear unremarkable, without evidence of
+     hepatic masses or intrahepatic biliary ductal dilatation.  The visualized
+     portions of the pancreas and spleen appear unremarkable.  Minimal
+     intraperitoneal free fluid is seen layering adjacent to the spleen and liver
+     anteriorly.
+     
+     Bone windows demonstrate no evidence of suspicious lytic or sclerotic bony
+     lesions.
+     
+     IMPRESSION:
+     1.  Bilateral small pleural effusions, new since the previous examination, and
+     bibasilar atelectasis without evidence of focal pulmonary parenchymal
+     consolidation.
+     2.  Interval increased prominence of multiple mediastinal lymph nodes, the
+     largest of which measures 13 mm in short axis diameter.  Clinical correlation
+     is recommended.
+     
+     3.  Minimal ascites adjacent to liver and spleen.  
+                                                                 (Over)
+
+     DATE: [**3353-1-15**] 5:33 PM
+     CT CHEST W/O CONTRAST; CT RECONSTRUCTION                        Clip # [**Clip Number (Radiology) 3585**]
+     Reason: BMT, NEUTROPENIC FEVER X 2 WEEKS
+     Admitting Diagnosis: LEUKEMIA\BMT
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     
+
+",,
+24553,,,,3353-01-15 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3353-1-15**] 5:33 PM
+     CT CHEST W/O CONTRAST; CT RECONSTRUCTION                        Clip # [**Clip Number (Radiology) 3585**]
+     Reason: BMT, NEUTROPENIC FEVER X 2 WEEKS
+     Admitting Diagnosis: LEUKEMIA\BMT
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      44 year old man s/p BMT for ALL. Now with neutropenic fever x 2 weeks
+     REASON FOR THIS EXAMINATION:
+      Does this pt have in infiltrate or finding to explain fever
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Status post bone marrow transplant for ALL, neutropenic fever for
+     two weeks, please evaluate for infiltrate.
+     
+     COMPARISON:  [**3353-1-9**].
+     
+     TECHNIQUE:  Contiguous helically-acquired axial high-resolution images were
+     obtained through the chest.  Additional reconstructed and multiplanar
+     reformatted images are provided.
+     
+     HIGH-RESOLUTION CT OF THE CHEST WITHOUT INTRAVENOUS CONTRAST:  There are
+     bilateral pleural effusions and atelectasis within the right and left lower
+     lobes posteriorly.  Minimal scarring is present at the apices bilaterally, and
+     scattered small areas of patchy ground glass opacity are present adjacent to
+     the right major fissure superiorly.  There are no definite areas of focal
+     pulmonary parenchymal consolidation.  Bilateral internal jugular venous access
+     catheters are in place.  The heart, pericardium, and great vessels appear
+     unremarkable.  The airways are patent to the level of the subsegmental bronchi
+     bilaterally.  There are multiple prominent lymph nodes within the mediastinum,
+     including several prevascular nodes adjacent to the aortic arch, a precarinal
+     node, and subcarinal nodes, the largest measuring 13 mm in short axis
+     diameter.  These appear more prominent than on the previous examination.  No
+     pathologic-appearing axillary lymph adenopathy is identified.
+     
+     Limited images of the upper abdomen appear unremarkable, without evidence of
+     hepatic masses or intrahepatic biliary ductal dilatation.  The visualized
+     portions of the pancreas and spleen appear unremarkable.  Minimal
+     intraperitoneal free fluid is seen layering adjacent to the spleen and liver
+     anteriorly.
+     
+     Bone windows demonstrate no evidence of suspicious lytic or sclerotic bony
+     lesions.
+     
+     IMPRESSION:
+     1.  Bilateral small pleural effusions, new since the previous examination, and
+     bibasilar atelectasis without evidence of focal pulmonary parenchymal
+     consolidation.
+     2.  Interval increased prominence of multiple mediastinal lymph nodes, the
+     largest of which measures 13 mm in short axis diameter.  Clinical correlation
+     is recommended.
+     
+     3.  Minimal ascites adjacent to liver and spleen.  
+                                                                 (Over)
+
+     DATE: [**3353-1-15**] 5:33 PM
+     CT CHEST W/O CONTRAST; CT RECONSTRUCTION                        Clip # [**Clip Number (Radiology) 3585**]
+     Reason: BMT, NEUTROPENIC FEVER X 2 WEEKS
+     Admitting Diagnosis: LEUKEMIA\BMT
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     
+
+",,
+24553,,,,3353-01-22 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3353-1-22**] 6:28 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 3586**]
+     Reason: s/p unrelated BMT, day +20 now with new fevers
+     Admitting Diagnosis: LEUKEMIA\BMT
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      44 year old man with acute lymphoplastic leukemia, now s/p BMT
+     REASON FOR THIS EXAMINATION:
+      s/p unrelated BMT, day +20 now with new fevers
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     AP PORTABLE CHEST:
+     
+     Compared to [**3353-1-15**].
+     
+     INDICATION: Fever. S/P bone marrow transplant.
+     
+     Bilateral vascular catheters remain in place, with the right catheter
+     terminating in the right atrium and the left sided catheter terminating in the
+     superior vena cava. Cardiac and mediastinal contours are stable with
+     persistent widening of the azygous and lower right paratracheal stripes. The
+     lungs appear clear, and no pleural effusions are identified.
+     
+     IMPRESSION: No radiographic evidence of pneumonia.
+
+",,
+24553,17301,,,3353-01-29 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+
+Admission Date:  [**3353-1-29**]     Discharge Date:  [**3353-2-7**]
+
+Date of Birth:   [**3308-1-22**]     Sex:  M
+
+Service:  BONE [**Doctor First Name 5601**]
+
+HISTORY OF PRESENT ILLNESS:  Mr. [**Known patient lastname **] is a 44-year-old
+gentlemen who was diagnosed with [**Location (un) 157**] chromosome
+positive acute lymphocytic leukemia in [**3352-3-30**] and who
+was admitted on [**3353-1-29**] with RSV infection/pneumonia.
+
+The patient has been treated by Dr. [**First Name (STitle) **] since his
+diagnosis.  Initially he was treated with hyper CVAD and went
+into initial remission.  The patient was then placed on
+Gleevec from [**3352-5-30**] through [**3352-7-31**].
+However, the patient subsequently relapsed and was put back
+on a cycle of hyper CVAD.  In [**3352-10-30**], the patient's
+counts rose dramatically and he was treated with ifosfamide
+on VP16 protocol.  The patient was scheduled to be admitted
+for an allogenic bone marrow transplant on [**3352-12-8**],
+but he developed RSV infection. Nasal washing tken at that time
+were positive for RSV- DA.  On [**3352-12-14**], the patient received his tetanus,  pneumovax
+and flu shot in the left deltoid in the Infectious Disease
+Clinic.  On [**3352-12-24**], the patient was admitted for a
+matched unrelated donor allogenic bone marrow transplant.
+Day zero was [**3352-12-28**].  The patient's course was
+complicated by febrile neutropenia with no positive blood
+cultures and by a rash thought to be GVHD.  The patient was
+therefore started on prednisone at 40 mg po q.d.  The patient
+was discharged from the Bone marrow transplant Unit on
+[**3353-1-27**].
+
+The patient presented to clinic on [**3353-1-28**] with
+rhinorrhea.  Nasal aspirates were sent for RSV-DA.  The patient
+returned to clinic on [**1-29**] for a hematocrit check and at
+that time was still complaining of rhinorrhea.  RSV antigens
+came back positive and the patient was admitted to the
+Intensive Care Unit for ribavirin and monoclonal
+immunoglobulin treatments.  Prior to his transfer to the
+Intensive Care Unit, the patient received polyclonal
+immunoglobulins in the outpatient setting.
+
+While in the Intensive Care Unit, the patient received five
+days of ribavirin 2 grams inhaled three times a day.  His
+last dose was received on [**3353-2-3**]. The patient also
+received monoclonal IVIG.  Chest CT showed no residual
+pneumonia.  His course was complicated by a fever of 101.8 on
+[**2-2**].  The patient was started on cefepime for fever and
+functional neutropenia.  The patient was continued on
+cyclosporin and prednisone, and was transfused to maintain a
+hematocrit of 25.  The patient continued on total peripheral
+nutrition and tolerated a diet.
+
+The patient was transferred to the Bone Marrow Transplant
+floor on [**3353-2-4**].
+
+PAST MEDICAL HISTORY:
+1.  [**Location (un) 157**] Chromosome positive ALL.
+2.  Partially occluded deep vein thrombosis in the distal
+left subclavian vein, diagnosed [**3352-11-11**].
+
+ALLERGIES:  Penicillin causes rash and hives.
+
+MEDICATIONS ON TRANSFER:
+1.  Acyclovir 400 mg po q. 8.
+2.  Fluconazole 200 mg po q.d.
+3.  Ursodiol 300 mg po q.d.
+4.  Prednisone 40 mg po q.d.
+5.  Cefepime 2 grams intravenous q. 8.
+6.  Regular insulin sliding scale.
+7.  Cyclosporin 192 mg intravenous continuous infusion.
+8.  Zofran 4 mg intravenous q. 6.
+9.  Ativan prn.
+10. Acetaminophen prn.
+11. Diphenhydramine prn.
+
+SOCIAL HISTORY:  The patient is married with two children.
+He lives in [**Hospital1 5022**], [**State 2346**].  He is employed in the family
+construction business.  He has no history of tobacco or drug
+use.  The patient was previously a social drinker, but has
+not had any alcohol since [**3352-3-30**].
+
+FAMILY HISTORY:  Patient's father died in [**3337**] following a
+Cerebral vascular accident.  The patient's mother had a
+pacemaker placed last year.  The patient has six sibling who
+are not matches.
+
+The patient denies any current fever or chills.  He has a
+cough, which is improved, and which is productive of clear
+sputum.  He has continued clear rhinorrhea.  He denies any
+shortness of breath.
+
+PHYSICAL EXAM ON ADMISSION:  Temperature 98.6.  Heart rate
+74-82.  Blood pressure 132/70.  Respiratory rate 20.  Oxygen
+saturation 94-95% on room air.  In general, the patient is an
+ill-appearing fatigued male in no acute distress, breathing
+comfortably on room air.  Head, eyes, ears, nose and throat:
+There is mucositis, thrush or erythema.  There is clear
+rhinorrhea.  Lungs:  Slight crackles at the left base,
+otherwise, clear to auscultation bilaterally.
+Cardiovascular:  Regular without murmurs, rubs or gallops.
+Abdomen:  Soft, nontender and nondistended.  Extremities:
+There is no edema present.
+
+LABORATORIES:  White blood cell count 2.9, hematocrit 26.5,
+platelet count 34,000.  Sodium 137, potassium 4.8, chloride
+108, bicarbonate 26, BUN 31, creatinine 0.7, glucose 209,
+calcium 8.4, magnesium 2.0, phosphorus 2.5, ALT 131, AST 48,
+alkaline phosphatase 50, total bilirubin 0.9.  Microbiology
+blood cultures drawn [**2-2**] showed no growth to date.
+Sputum shows no growth to date.
+
+HOSPITAL COURSE:
+
+1.  ALL:  The patient is day plus 40, status post an
+allogeneic matched unrelated donor bone marrow transplant.
+He has engrafted well.  He is currently on prednisone 40 mg
+q.d. for graft versus host disease treatment for his grade 1
+skin GVH.  He is also on cyclosporin continuous infusion for
+his GVH prophylaxis.  During the [**Hospital 874**] hospital stay, his
+cyclosporin levels were titrated.  Initially they was thought
+to decrease his prednisone, however, the patient developed
+diarrhea, though very small volume.  There was concern that
+the diarrhea represented graft versus host disease and the
+patient was started on enterocort.  However, the volumes were
+extremely small representing about 30-100 cc per day.
+Therefore, it was not thought that this represented graft
+versus host disease, however, the prednisone was not tapered.
+
+2.  RSV:  The patient completed five days of ribavirin and
+IVIG.  His oxygenation on room air was normal and his
+breathing was comfortable.  Repeat CT scan showed no evidence
+of pneumonia.  The patient had been cefepime for neutropenic
+fever.  He received a total of four days of cefepime and it
+was then discontinued as blood cultures were negative.  The
+patient did not have any recurrent fevers, off of the
+cefepime.  He remained on prophylactic dose acyclovir and
+fluconazole.
+
+3.  Elevated LFTs:  The patient's elevated LFTs are thought
+to be due to liver graft versus host disease.  They did
+continue to improve during his hospital stay.  It is possible
+that the elevation in liver function tests was due to
+fluconazole, therefore, the patient's dose was decreased to
+200 q.d. with improvement in his liver function tests.  His
+total bilirubin on discharge from this hospital was 1.3.
+
+4.  Nutrition:  The patient was unable to tolerate a normal
+diet.  He had only small amounts of oral intake.  He was
+therefore continued on total peripheral nutrition.
+
+DISCHARGE STATUS:  To the BMT apartments with VNA.
+
+DISCHARGE CONDITION:  Stable.
+
+DISCHARGE MEDICATIONS:
+1.  Prednisone 40 mg po q.d.
+2.  Acyclovir 400 mg po t.i.d.
+3.  Ursodial 300 mg po q.d.
+4.  Cyclosporin 168 mg continuous infusion q.d. (the
+patient's dose was decreased due to elevated cyclosporin
+levels drawn the day of discharge).
+5.  Enterocort 3 mg, 1 po q.d.
+6.  TPN.
+7.  Protonix 40 mg, 1 po q.d.
+8.  Hickman line care.
+
+FINAL DIAGNOSES:
+1.  Acute lymphocytic leukemia after matched unrelated donor
+allogenic bone marrow transplant.
+2.  RSV respiratory infection, status post ribavirin,
+synergist and palivuzinad.
+
+FOLLOW-UP:  The patient is to follow-up in the Oncology
+Clinic on [**3353-2-8**] with [**Doctor First Name 2188**] and Dr. [**First Name (STitle) **].
+
+
+
+
+
+
+                  DR.[**First Name (STitle) **],[**First Name3 (LF) **] 12-AHK
+
+Dictated By:[**Dictator Info **]
+
+MEDQUIST36
+
+D:  [**3353-2-10**]  11:54
+T:  [**3353-2-11**]  08:39
+JOB#:  [**Job Number 5602**]
+Signed electronically by: DR. [**First Name11 (Name Pattern1) **] [**Initials (NamePattern4) **] [**Last Name (NamePattern4) **]
+ on: MON [**3353-3-5**] 8:25 AM
+(End of Report)
+
+
+",,
+24553,17301,,,3353-01-29 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3353-1-29**] 7:59 PM
+     CHEST (PA & LAT) PORT                                           Clip # [**Clip Number (Radiology) 3587**]
+     Reason: 44 year old male with ALL s/p BMT to start ribivarin therapy
+     Admitting Diagnosis: RSV PNUEMONIA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      44 year old man with ALL day 33 s/p BMT please evaluate for any pathology.
+       Came in with Upper respiratory tract infection and RSV + swab.
+     REASON FOR THIS EXAMINATION:
+      44 year old male with ALL s/p BMT to start ribivarin therapy. Please evaluate
+      for any pathology.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Bone marrow transplant, RFB infection.
+     
+     AP CHEST:  Compared with [**3353-1-22**], there is no significant change in the
+     appearance of the heart or lungs.  The right central venous catheter remains
+     in satisfactory position and there has been interval removal of the left
+     central line.  No focal consolidations, pleural effusions, vascular
+     congestion, or pneumothorax.
+     
+     IMPRESSION:
+     
+     No evidence of pneumonia.
+     
+
+",,
+24553,17301,30480,0,3353-01-30 02:55:00 EST,3353-01-30 02:57:00 EST,419,"N",69,"Nursing/Other",,"
+
+Respiratory Care
+Pt was started on Ribaviron therapy, first dose started at 12am, stopped at 2am. Pt tol. well; no complaints. Next dose scheduled at 8am.
+",,
+24553,17301,30480,0,3353-01-30 05:49:00 EST,3353-01-30 06:11:00 EST,43,"N",69,"Nursing/Other","S/MICU Nursing Progress Note","
+S/MICU Nursing Progress Note
+  Pt is a 44 y/o gentleman s/p MUD for ALL recently d/c on [**1-26**] presented today for labs check and c/o runny nose, flu like symptoms, nasal washing was + for RSV and admitted for ribiviran. TID treatments lasting 2hr. first treatment given at 12am and tolerated well.
+  Pt has a double lumen hickman in the R subclavian, with one port receiving cyclosporine, infusing via pt's pump. Level yesterday was slightly high  at 730 and dose decreased by 24mg. Pt did receive IVIG on the heme/onc floor and once ribiviran done given a dose of syagis at 2am. tolerated well. 
+  Skin: dry flaky skin, ichy at times, reddened area around back is presently on cyclosporine and prednisone to treat GVHD. 
+  Resp: on RA, no c/o SOB  only of his runny nose, occasionally will have productive cough. 
+  Cardiac: not on telemetry, HR in the 60's reg, BP 150-160/90's 
+  GU: voiding well using urinal. 
+  GI: did c/o nausea for short period before treatment was started. + stool med sized. taking po fluids. 
+  Plan: will continue the treatment for TID x 5days. follow cyclosporine levels and adjust according to MD orders. monitor rash  
+",,
+24553,17301,30480,0,3353-01-30 19:27:00 EST,3353-01-30 19:49:00 EST,1158,"N",69,"Nursing/Other",,"
+
+D: Please see MD notes/orders. Neuro: Pt A&O. CV: Not on telemetry, apical pulse with rrr, sbp 90's-120s. Pulm: 02 sat 97% on room air, lungs clear bilaterally. Pt with non productive dry cough, rhinorrhea. States ""runny nose"" essentially unchanged, nose drains  clear sputum frequently. GU: voids 300+cc clear amber urine q 3-4hrs. GI: Abd soft, bs+, appetite poor. Skin: surfaces intact, peripheral pulses [**2-1**]+. Pt has GVHD resulting in flaking,brown skin on head/back. Soc: Wife, mother and several brothers are staying in [**Location (un) 366**] while pt being treated. Pt/wife have small children in [**State 1406**] being cared for by family members. P: Pre medicated with ativan prn before ribavarin treatments. Have pt wash all exposed body surfaces after each treatment. Maintain  neutropenic precautions and  continue Cyclosporin/other meds for GBVH. Transfuse as ordered for hct 26.5, premedicate  prn. Encourage po intake (BMT/low bacteria trays), initiate tpn as ordered. Keep family/pt up to date on plan of care. R: 1600 dose ribavarin comeplete, wife in, assisting pt with bath. Tylenol/bendadryl given per med sheet pre transfusion. All else as above, full report given to oncoming shift.
+",,
+24553,17301,30480,0,3353-01-31 04:34:00 EST,3353-01-31 04:59:00 EST,1427,"N",69,"Nursing/Other","3/2 1900 to 3/3 0700","
+[**1-30**] 1900 to [**1-31**] 0700
+Neuro: Pt A&O x3. Received 0.5mg Lorazepam just prior to his Ribavirin treatment and tolerated it well. 
+
+CV: VSS. Pt is not on a cardiac monitor.
+
+Resp: Pt has non productive cough. Ribavirin treatments going well. 
+
+GU/GI: Pt voiding amber colored urine in urinal. Incouraged to drink his bottled water at the bed side as his wife reports he easily becomes dehydrated.
+
+Social: Wife, brother and mother visited this evening. Wife spent the night in the lounge to be near if we needed her. Pt had a good night and slept inbetween disturbances. Assisted with his bath to wash off the Ribavirin residue as pt dislikes using the shower in his room. 
+
+Plan: Continue treatments [**Name8 (MD) 59**] MD order until Saturday. Provide support to wife and family.
+",,
+24553,17301,30480,0,3353-01-31 17:10:00 EST,3353-01-31 17:32:00 EST,1008,"N",69,"Nursing/Other","MICU/SICU NPN Day #3","
+MICU/SICU NPN Day #3
+Events: Ribavirin treatments x2, increased cramping in hands
+
+S: ""I wish I could get some fresh air""
+
+O:
+
+Neuro: pt is A&Ox3, MAEW, ambulating unassisted, reports severe cramping in bilateral hands, some relief after Mg2+ repletion
+
+Resp: SpO2 97% on RA, LS CTA, intermitted nasal/sinus congestion
+
+CV: AVSS, pt is off bedside monitor
+
+Skin: skin sloughing from face, back and trunk secondary to GVHD
+
+GI/GU: abd soft, ND/ND, BS present, poor appetite, voiding qs in urinal
+
+FEN: TPN infusing as ordered, push fluids, Mg2+ repleted
+
+Lines: right SC DL Hickmann with dedicated CSA port
+
+A: 
+
+impaired skin r/t inflammatory response
+risk for fluid volume defecit r/t poor PO intake, poor appetite
+pain r/t cramping of hands
+
+P:
+
+continue Ribavirin for total 15 rx, push PO fluids, consider IV hydration to aid cramping while PO intake poor, aggressive pulmonary toilet
+",,
+24553,17301,30480,0,3353-02-01 02:42:00 EST,3353-02-01 02:46:00 EST,638,"N",69,"Nursing/Other",,"
+
+Respiratory Care:
+
+Ribaviron given with spag unit and tent at 12:10am.  2gm Ribaviron in 33ml of sterile water.  Rx stopped at 2:10 am. Tolerated well. Plan: Will continue to follow with Ribaviron Tid.  
+",,
+24553,17301,30480,0,3353-02-01 06:19:00 EST,3353-02-01 06:24:00 EST,252,"N",69,"Nursing/Other",,"
+
+NPN (NOC):  PT HAD HIS UPS AND DOWNS LAST NOC.  EARLIER IN SHIFT HAD INTERMITTANT CRAMPING PAIN IN HIS HANDS NOT RELEIVED BY HEAT/COLD OR MASSAGE.  FENTYNL 25 MCG'S IV  GIVEN W/ RELIEF, BUT CRAMPING WAS SUBSIDING BEFORE DRUG GIVEN.  VALIUM 5 MG'S PO GIVEN AT HS AND PT HAS NOT HAD CRAMPING SINCE.  MG 2AMPS + KCL 40 MEQ'S GIVEN, AM LABS PND.  ONE LITER D51/2 BEGUN TO RUN AT 100 CC'S/HR TO SUPPLEMENT PO INTAKE.  TPN UP AT 2AM TO RUN OVER 12 HRS.  UO 1400 CC'S OVERNOC.  RIBAVIRAN RX GIVEN OVER 2 HRS W/O INCIDENT.  AFBRILE.  RR NONLABORED, LUNGS CLEAR BUT HE HAS SNIFFLES.  
+",,
+24553,17301,30480,0,3353-02-01 17:28:00 EST,3353-02-01 17:47:00 EST,1008,"N",69,"Nursing/Other","MICU/SICU NPN Day #4","
+MICU/SICU NPN Day #4
+Events: Ribavirin rx [**4-14**] complete, increased coughing today causing nausea.
+
+S: ""It's so dry in here.""
+
+O:
+
+Neuro: A&Ox3, denies pain, MAEW, ambulatory, better control of hand cramping today
+
+Resp: SpO2 98-100% on RA, LS CTA, Ribavirin TID
+
+CV: AVSS, [**Last Name (un) 1799**] see flowsheet for data
+
+GI/GU: abd soft, NT/ND, BS present, poor appetitie, nausea this PM well relieved with promethazine, voiding qs in urinal
+
+Lines: right SC DL Hickmann
+
+Social: multiple famly members in to visit today
+
+A:
+
+high risk for infection r/t HSCT
+risk for fluid volume deficit
+
+
+P:
+
+continue Ribavirin rx to 15/15, encourage aggressive pulmonary toilet, push PO fluids, follow I/O & lytes closely and replete, continue TPN
+",,
+24553,17301,30480,,3353-02-02 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3353-2-2**] 2:49 PM
+     CHEST (PA & LAT)                                                Clip # [**Clip Number (Radiology) 3588**]
+     Reason: evaluate for infiltrate.  (Note: pt is in a gown b/c he is g
+     Admitting Diagnosis: RSV PNUEMONIA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      45M with leukemia.  S/p transplant.  With acute fever and cough.                
+     REASON FOR THIS EXAMINATION:
+      evaluate for infiltrate.  (Note: pt is in a gown b/c he is getting ribavirin 
+      therapy)
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CLINICAL INDICATION:  Acute fever and cough.  Leukemia.
+     
+     Comparison is made to previous study of [**3353-1-29**].
+     
+     A right internal jugular vascular catheter remains in place, terminating in
+     the region of the proximal right atrium.  The cardiac and mediastinal contours
+     are normal.  The lungs appear grossly clear, and no pleural effusions are
+     identified.  Skeletal structures reveal mild curvature of the spine.
+     
+     IMPRESSION:
+     
+     No radiographic evidence of pneumonia.
+     
+
+",,
+24553,17301,30480,0,3353-02-02 06:46:00 EST,3353-02-02 06:56:00 EST,1479,"N",69,"Nursing/Other",,"
+
+Pt stable throughout the night. Tolerated cephelasporin IVPB infused from 2200 to 0000 in designated Hickman line for cephelasporin only; level due to be drawn exactly at 1000 as per Oncology. AM labs to be drawn as well at 10AM by peripheral route. VSS. Pt c/o headache at 12AM relieved w/ tylenol 650mg PO. Pt slept comfortably throughout the night. When awake, pt anxious, refused meds and bath. Lorazepam given for anxiety, emotional support. Occasional cough, yellow productive at times. Ribavirin given by RT as per protocol; TPN held during treatment. 
+",,
+24553,17301,30480,0,3353-02-02 06:54:00 EST,3353-02-02 06:57:00 EST,994,"N",69,"Nursing/Other",,"
+
+pt recieved Ribavirin tx during PM without incidence. cleanable equipment was removed for sterilization. 
+",,
+24553,17301,30480,0,3353-02-02 16:17:00 EST,3353-02-02 16:43:00 EST,762,"N",69,"Nursing/Other",,"
+
+NPN
+
+Neuro: Pt alert, oriented, c/o feeling tired, with encouragement he did get OOB to wash with the help of his wife.
+
+CV:  VSS SBP 106-140s/60s-90s, HR low 100s
+
+Resp:  He conts with his riboviron treatments q8 hrs, LS clear though he conts to have a dry cough which seem to coinside with his treatments.  A sputum was sent, results are pending, he had a CXR on the third floor which is clear per report.
+
+GI:  He conts to have short periods of n/v, he said that they are mainly started with the coughing which causes him to vomit.  He was given phenergan which helped mainly by putting him to [**Doctor Last Name **], zofran seemed to work fairly well, the n/v decreased and he was able to take his pills though he did not eat any of his meals.  He conts to have diarrhea, he said that he had this prior to being admitted for his RSV.  ABD is soft, nontender.
+
+GU:  Voiding into a urinal, fair u/o
+
+ID:  Spiked to 101.8, pan cultured - blood, urine, sputum, stool, he went down for a CXR.  ID as well as the transplant team were contacted.  No antibiotics were started.
+
+Cyclosporine:  His level was 415 - his dose will be decreased to 75 BID.
+
+Soc:  His wife and mother were both here most of the day, his brothers came up as well.  He seems in fair spirits though tired and frustrated with the length of time here.
+
+
+",,
+24553,17301,30480,0,3353-02-02 17:03:00 EST,3353-02-02 17:05:00 EST,1311,"N",69,"Nursing/Other",,"
+
+RESP CARE
+PT GIVEN RIBAVIRON 2MG IN 33 ML STERILE H2O VIA SPAG AT 0845 AND 1600 PT. SOMETIMES VOMITS DUE TO COUGHING FITS. NO OTHER INCIDENT.
+",,
+24553,17301,30480,0,3353-02-03 03:26:00 EST,3353-02-03 03:28:00 EST,419,"N",69,"Nursing/Other",,"
+
+Respiratory Care
+Pt received Ribaviron from 12am to 2am, tol. well with no problems. Next rx scheduled 8am.
+",,
+24553,17301,30480,0,3353-02-03 05:48:00 EST,3353-02-03 06:27:00 EST,1340,"N",69,"Nursing/Other",,"
+
+NPN 1900-0700
+
+Neuro: A&O X3, pleasant, cooperative. Slept well during the night in between interventions. No anxiety exhibited. OOB X1 to wash up after ribavirin treatment. Steady on feet but weak.
+CV: NBP 110-112/74-76; HR 70's, regular. Tmax 98po. No peripheral edema, good peripheral pulses. Is receiving TPN as ordeed.
+Resp: Ribavirin treatment given at 4am; 2 more treatments planned today at 10a and 4p then to be discontinued. Pt tolerated treatment well tonight. Occasional nonproductive cough. Lungs are CTA. 
+GI: Some nausea at beginning of shift in the evening but this subsided after pt given zofran 4mg IVP. No vomiting, ate very little dinner. Abdomen is soft, ND, +BS. 
+GU: Voiding in urinal; urine is dark amber. Pt aware that he should drink more liquids. D51/2NS infusing intermittnetly while TPN is not running.
+ID: Cyclosporin given last night at 2200; Cefapime started at 8p. Pt unable to take po acyclovir at scheduled time due to nausea but finally taken around 2300. Diffuse erythematous rash continues.
+A/P: RSV pnx/complete ribavirin treatments today at 4p as scheduled using all precautions; administer other abx as ordered. Monitor temp, WBC's. Monitor cyclosporin level daily at 10am.
+A/P: ALL/ monitor WBC's and other labs.
+",,
+24553,17301,30480,0,3353-02-03 17:14:00 EST,3353-02-03 17:15:00 EST,1311,"N",69,"Nursing/Other",,"
+
+Resp. Care
+Patient given x 2 ribivarin tx's as ordered tolerating well. Regimen finished. 
+",,
+24553,17301,30480,0,3353-02-03 18:01:00 EST,3353-02-03 18:15:00 EST,762,"N",69,"Nursing/Other",,"
+
+NPN
+
+Neuro:  Alert, oriented, OOB to commode and to wash.  He is anxious to get out of his room and this unit, the treatments end this afternoon.
+
+CV:  BP 116-130/70s, HR 78-120 and regular.
+
+Resp:  LS cracles in his L bases, 02 SAT 95-96% on RA, RR 24.  He conts to have a cough, it is mainly dry.  Another sputum is needed because the specimen from yesterday had >10 epi in it.  He had his last ribavirin treatment today ending at 5:30 pm.
+
+GI:  ABD soft, nontender, still no apptite, TPN has been infusing but rather spuratically due to the ribavirin treatments.  Occationally c/o nausea and he was given Zofran 4 mg with good effect.  He conts to have diarrhea which is not new for him, he was asking for lomotil but this cannot be given until his stool specs come back negative.
+
+GU:  His urine conts to be dark, 400cc out today, creat is 1.0.
+
+Soc:  His family has been in to visit, his brothers played cards with him this afternoon.
+
+ID:  Afebrile, conts on abx, he now has crackles in his LLL.  His cyclosporin trough cont to be too high, he will start on an infusion after he leaves his room.
+
+
+",,
+24553,17301,30480,,3353-02-04 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3353-2-4**] 11:30 AM
+     CT CHEST W/O CONTRAST                                           Clip # [**Clip Number (Radiology) 3589**]
+     Reason: ? RSV/lower tract disease                                   
+     Admitting Diagnosis: RSV PNUEMONIA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       44 year old man s/p BMT for ALL admitted with RSV +, now completed ribavirin 
+      treatment
+     REASON FOR THIS EXAMINATION:
+      ? RSV/lower tract disease                                                       
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATIONS:  44 y/o male status post bone marrow transplant with RSV
+     infection, status post treatment.
+     
+     CT CHEST WITHOUT CONTRAST:  Comparison is made to previous films from [**3353-1-15**].
+     
+     TECHNIQUE:   Helically acquired contiguous axial images of the chest were
+     obtained without IV contrast.
+     
+     FINDINGS:   Previously described mediastinal lymphadenopathy is now resolved.
+     There is no hilar or axillary lymphadenopathy.  There is a very small area of
+     ground glass opacity in the superior right middle lobe (series 2, images
+     30-31).  This is of doubtful clinical significance.  There is also a small
+     peripheral opacity in the left lower lobe, consistent with atelectasis. There
+     are no areas of consolidation. The previously described bilateral pleural
+     effusions are resolved. The heart, pericardium and great vessels are
+     unremarkable.
+     
+     The visualized portions of the liver, spleen, pancreas, adrenal glands and
+     kidneys are unremarkable. There is no free intra-abdominal fluid. The
+     visualized osseous structures are unremarkable.
+     
+     IMPRESSION:
+     
+     1.  Interval resolution of mediastinal lymphadenopathy.
+     2.  Interval resolution of bilateral pleural effusions.
+     3.  No evidence of pneumonia.
+     
+     
+
+",,
+24553,17301,30480,0,3353-02-04 05:26:00 EST,3353-02-04 06:16:00 EST,95,"N",69,"Nursing/Other","P-MICU NPN 7p-7a","
+P-MICU NPN 7p-7a
+Systems Review:
+
+Resp:  O2 Sats on RA 96-97%, RR 18-24, non-labored.  LS with rales bibasilarly.  
+
+CV:  VSS.  BP 126/.  HR 84-100 regular.
+
+GI:  +BS.  No stool.  Requesting imodium again, not to be administered until culture results return.  C/O ""heartburn"", notified HO [**Location (un) 3914**], who went and evaluated pt.  Ordered and received 30ml maalox times one with good relief.  Taking in no solid po's this shift, just some po fluids.  Recieving TPN when IV meds have been infused.
+
+GU:  Voiding independently, dumping urine twice, informed pt to save output EACH time he voids.
+
+Endo:  Recieving regular SS coverage per parameters.  Documented in carevue.
+
+Neuro:  Alert and oriented, pleasant and cooperative.  At times he does seem a little forgetful, requesting things multiple times (eg. requesting a bedside table, or not following instructions after multiple requests.
+
+Social:  Family, wife and brothers, were in until ~11am.  Will be back in the am.
+
+ID:  Afebrile, receiving IV abx per orders.
+",,
+24553,17301,30480,0,3353-02-04 18:05:00 EST,3353-02-04 18:18:00 EST,762,"N",69,"Nursing/Other",,"
+
+NPN
+
+Neuro:  Alert, oriented.
+
+CV:  VSS, his HR does increase with activity to the 120s, it decreases to the 80s after resting.
+
+Resp:  LS crackles in the LLL, he had a chest CT which per report is negative.  02 SAT is in the mid to upper 90s, he cont to have a cough though fairly nonproductive, a sputum was sent for culture.  He has been afebrile, he conts on abx.  He was given an incentive spirometer to use but he has not done so.  His WBC is 3.3 no bands.
+
+GI:  He conts to have a poor appitite, TPN is being given over 12 hrs. He has had frequent stooling, a spec was sent for a viral clx.
+
+GU:  Fair u/o.
+
+Soc:  His family has been in most of the day, he tried to [**Doctor Last Name **] but was not successful.  OOB to the chair and commode.
+",,
+24553,,,,3353-03-16 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3353-3-16**] 8:38 AM
+     CHEST (PA & LAT)                                                Clip # [**Clip Number (Radiology) 3590**]
+     Reason: 44 yo male s/p BMT 60+ days with a one day history of rhinni
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      45M with leukemia.  S/p transplant.  With acute fever and cough.               
+     REASON FOR THIS EXAMINATION:
+      44 yo male s/p BMT 60+ days with a one day history of rhinnits, and cough
+      productive yellow. 
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     
+     INDICATIONS:  45 y/o male with leukemia, status post bone marrow transplant.
+     Now with productive cough. 
+     
+     PA AND LATERAL CHEST:  Comparison is made to previous films from  [**3353-2-2**].
+     
+     FINDINGS:   The heart is of normal size. The mediastinal and hilar contours
+     are within normal limits. The pulmonary vascularity is normal. The lung fields
+     are clear. There are no pleural effusions.  There is a right IJ central line
+     with its tip in proximal right atrium. The osseous structures are
+     unremarkable.
+     
+     IMPRESSION:   No radiographic evidence of pneumonia.
+
+",,
+24553,,,,3353-10-18 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3353-10-18**] 5:02 PM
+     ABDOMEN (SUPINE & ERECT)                                        Clip # [**Clip Number (Radiology) 3591**]
+     Reason: 45 y.o with recurrent ALL presents with abdominal pain and c
+     ICD9 code from order: 205
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      45 year old man with reucrrent ALL presents with abdominal pain and
+      constipation. R/O obstruction.
+     REASON FOR THIS EXAMINATION:
+      45 y.o with recurrent ALL presents with abdominal pain and constipation 
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     ABDOMEN 2 VIEWS:
+     
+     HISTORY: ALL with abdominal pain and constipation.
+     
+     Gas and fecal residue are present throughout the colon. There are a few gas
+     filled non-dilated loops of small bowel. No evidence for intestinal
+     obstruction and no free intraperitoneal gas and no soft tissue masses or
+     radiopaque calculi. Rounded calcifications overlying left femoral head are
+     likely soft tissue.
+     
+     IMPRESSION: No evidence for intestinal obstruction or other significant
+     abnormality.
+
+",,
+24553,,,,3354-01-17 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3354-1-17**] 2:01 PM
+     CT SINUS CORONAL ONLY                                           Clip # [**Clip Number (Radiology) 3592**]
+     Reason: 45 yo male s/p BMT for AML c/o green nasal drng, headache ey
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      45 year old man with 
+     REASON FOR THIS EXAMINATION:
+      45 yo male s/p BMT for AML c/o green nasal drng, headache [**Hospital Unit Name **] pain, no fevers
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Status post bone marrow transplant for AML with green nasal
+     discharge, headache and [**Hospital Unit Name **] pain.
+     
+     TECHNIQUE:  Contiguous coronal images of the paranasal sinuses were obtained
+     without IV contrast.
+     
+     FINDINGS:  There is a moderate amount of fluid visualized in the maxillary
+     sinuses bilaterally.  The ostiomeatal units do not appear to be patent.
+     Mucosal thickening and fluid is also visualized in the ethmoid air cells and
+     the sphenoid sinus.  The cribriform plates are equal in height.  The anterior
+     clinoid processes are not pneumatized.  The lamina papyracea is intact.
+     Mastoid cells are not completely imaged on this study.  However, the imaged
+     portion of the mastoid air cells are unremarkable.  The sphenoid sinuse is
+     unipartite with the septum inserting at the right carotid groove.
+     
+     IMPRESSION:  Moderate pansinusitis.
+     
+
+",,

@@ -1,0 +1,1491 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+24396,13425,,,3326-10-26 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+ 
+ 
+ 
+Admission Date:  [**3326-10-26**]              Discharge Date:   [**3326-11-13**]
+ 
+Date of Birth:  [**3265-8-20**]             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Lidocaine
+ 
+Attending:[**First Name3 (LF) 556**] 
+Chief Complaint:
+X-fer from [**Hospital 770**] Hospital- COPD with RML PNA and RUL mass. 
+ 
+Major Surgical or Invasive Procedure:
+CT guided lung biopsy
+
+ 
+History of Present Illness:
+HPI Summary: 61 YO female with Hx of COPD- bullous predominantly 
+in RUL that is transferred for a pulmonary second opinion and 
+RML pneumonia.  
+.  
+In Spring 2005, pt developed a respiratory infection which was 
+Tx with PO Antibiotic with mild resolution. However, she 
+developed a reoccurence of a RML infiltrated. The Pt was 
+admitted to the hospital for IV Antibiotics- Ceftriaxone and 
+Gatifloxacin. The patient was discharged and was placed on 
+Augmentin. She improved clinically and radiographically. The 
+patient went on vacation in August and was doing well.  
+.  
+End of August, pt was fatigued and had a CBC which showed WBC of 
+50K. The pt was referred to [**Hospital3 1722**] and a Bone Marrow Bx 
+showed a reactive process and not consistent with an acute 
+leukemia. The patient underwent a torso CT which showed 
+increased size of pneumonitis in RML eventhough symptomatically 
+was not worse. The pt was admitted to [**Hospital 770**] Hospital in 
+middle september. After 3 days, the pt had an acute exacerbation 
+and had to be intubated and was extubated after 2 days in the 
+ICU. Pt was Tx with Zosyn and gatifloxacin since that time at a 
+rehab center at the hospital. Sputum at OSH showed yeast forms, 
+upper respiratory flora and a one sputum showed aspergillous.  
+.  
+CT scan after being Tx with Zosyn and gatifloxacin showed some 
+improvement in the RML, but also had continued sever bullous 
+emphysematous changes with chronic infiltrate with stable 
+lymphadenopathy and now a patchy left lower lobe infiltrate with 
+stable lymphadenopathy and a patchy left lower lobe infiltrate. 
+In the bulla there appears to be an area suggesting a possible 
+mass in one of her cavities which certainly could signify 
+possibility of a mycetoma, aspergilloma, or neoptlams. Sputum 
+cytologies and bronchosopies x2 at OSH have been negative.  
+Note: Mycetoma- is a chronic, specific, granulomatous, 
+progressive inflammatory disease; it usually involves the 
+subcutaneous tissue after a traumatic inoculation of the 
+causative organism. Mycetoma may be caused by true fungi or by 
+higher bacteria and hence it is usually classified into 
+eumycetoma and actinomycetoma respectively (1). Tumefaction and 
+formation of sinus tracts characterize mycetoma. The sinuses 
+usually discharge purulent and seropurulent exudate containing 
+grains. It may spread to involve the skin and the deep 
+structures resulting in destruction, deformity and loss of 
+function, very occasionally it could be fatal.  
+.  
+ 
+Currently, the patient states she is resting comfortably. + mild 
+dyspnea.  
+Denies F/C, N/V, cough, sinus discharge, CP, SOB, abdominal 
+pain, and urinary symptoms 
+
+ 
+Past Medical History:
+ 
+PMH: RML PNA  
+COPD- with bullous lung disease  
+History of O2 dependence  
+?diverticulosis
+DM  
+
+ 
+Social History:
+Social History: lives alone in [**Location (un) **]. 3 healthy children. 
+Distant Hx of smoking 1 pack per year but quit 7 years ago. no 
+EtOH. 
+ 
+Physical Exam:
+Physical Exam: 98.1 146/80 104 22 97%2l  
+cachecticm ill appearing female, very articulate, AAOx3, 
+speaking rapidly  
+MMM, OP-clear, No JVD, EOMI, PERRL  
+Neck FROM, No LAD  
+decreased BS in RUL, otherwise coarse BS but no wheezes or 
+crackles.  
+RR without m, carotids- no bruits.  
+soft, NT/ND +BS  
+no c/c/e, warm, DP2+-B  
+
+ 
+Pertinent Results:
+[**3326-10-28**] 05:25AM BLOOD WBC-13.7* RBC-3.15* Hgb-9.3* Hct-28.4* 
+MCV-90 MCH-29.3 MCHC-32.6 RDW-15.4 Plt Ct-470*
+[**3326-10-27**] 05:35AM BLOOD WBC-11.4* RBC-3.02* Hgb-8.9* Hct-27.8* 
+MCV-92 MCH-29.6 MCHC-32.2 RDW-15.7* Plt Ct-432
+[**3326-10-28**] 05:25AM BLOOD Plt Ct-470*
+[**3326-10-27**] 05:35AM BLOOD PT-13.0 PTT-34.4 INR(PT)-1.1
+[**3326-10-27**] 05:35AM BLOOD Glucose-95 UreaN-9 Creat-0.6 Na-140 K-4.0 
+Cl-99 HCO3-31 AnGap-14
+ 
+Brief Hospital Course:
+A/P: 61 YO female with COPD and bullous changes x-ferred to 
+[**Hospital1 25**] for further evaluation of her persistent RML 
+pneumonia/pneumonitis and RUL mass.  
+.  
+Patient was transferred to [**Hospital1 25**] for further evaluation of the 
+RUL mass by interventional pulmonology.  CT scans were repeated 
+at [**Hospital1 25**] to better characterize the lesions (see results).  IP 
+saw the patient; they biopsied and obtained tissue on [**10-31**], 
+results showed aspergillus.  She was started on Voriconazole.  
+The patient was oberved off antibiotics for several days (as 
+felt to be fungal, not bacterial pathogen), whereupon she began 
+spike high fevers and her WBC count slowly trended upward.  
+Vanco and ceftaz were started for presumed bacterial 
+superinfection, then broadened further to include meropenem.  C. 
+diff was diagnosed, and flagyl was started.  Eventually, she had 
+to be intubated due to respiratory failure.  In the MICU, she 
+became septic.  Despite very aggressive antimicrobial and 
+pulmonary treatments, her conditioned worsened.  After multiple 
+family meetings discussing the very poor prognosis, the decision 
+was made to prioritize comfort in her care.  She passed away on 
+[**3326-11-13**].  
+
+ 
+Medications on Admission:
+Meds on X-fer: Zosyn 4.5 Q6H  
+Albuterol  
+Gatifloxacin  
+Singulair 10 QD  
+Xanax 0.25 TID PRN anxiety  
+tiotropium bromide 18 mcg QD  
+Prednisone 10 AD  
+Advair 500/50 BID  
+Insulin SS  
+folic acid  
+MVI  
+
+ 
+Discharge Medications:
+N/A
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Death
+ 
+Discharge Condition:
+Dead
+ 
+                             [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 571**] MD [**MD Number 572**]
+ 
+Completed by: [**First Name11 (Name Pattern1) 39**] [**Last Name (NamePattern4) 5302**] MD [**MD Number 5303**] [**3326-12-23**] @ 1117
+Signed electronically by: DR. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **]
+ on: [**Doctor First Name 122**] [**3326-12-26**] 10:29 AM
+(End of Report)
+
+
+",,
+24396,13425,,,3326-10-27 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3326-10-27**] 11:29 AM
+     CT CHEST W/O CONTRAST                                           Clip # [**Clip Number (Radiology) 2306**]
+     Reason: Evaluate RML and LLL PNA, bulla in RUL and evaluate for mass
+     Admitting Diagnosis: CHRONIC [**Last Name (un) 380**] PULM DISEASE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      61 year old woman with h/o bullous COPD, and PNA predominately in RUL and RML. 
+      PNA has not improved on antibiotics since [**3326**].  CT scan in September at 
+      OSH after tx with Zosyn and gatifloxacin showed some improvement in RML PNA but 
+      continued severe bullous emphysematous changes with chronic infiltrate, stable 
+      LAD and patchy LLL infiltrate.  In the bulla there was an area suggesting a 
+      possible mass in one of the cavities
+     REASON FOR THIS EXAMINATION:
+      Evaluate RML and LLL PNA, bulla in RUL and evaluate for mass in bulla           
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  61-year-old woman with history of bullous COPD and pneumonia,
+     predominantly in the right upper and middle lobes.  Pneumonia not improved
+     since Spring 2005.  The patient on antibiotics.
+     
+     CT CHEST WITHOUT CONTRAST.
+     
+     No comparison.
+     
+     TECHNIQUE:  MD CT of the chest was performed from the thoracic inlet through
+     the adrenals without injection of intravenous contrast.
+     
+     FINDINGS:  There is severe emphysema.  Emphysematous bullae are seen in both
+     lungs, more on the right.  A few of these bullae in the right middle lobe and
+     right lower lobe show nodular soft tissue opacities within, which are
+     concerning for aspergilloma.  Areas of heterogeneous opacification are seen
+     surrounding the emphysematous bullae in the right middle lobe and right lower
+     lobe and another possibility could be necrotizing pneumonia.  The airways are
+     patent up to the segmental bronchi.  There is mediastinal and hilar
+     lymphadenopathy.  The largest precarinal node measures 13 mm.  There is no
+     pleural or pericardial effusion.  Aortic valve calcification is noted.
+     
+     In the imaged portion of the upper abdomen, the liver, spleen, adrenals, and
+     kidneys are unremarkable.  No suspicious lytic or blastic lesions are seen in
+     the bones.
+     
+     IMPRESSION:  
+     1.  Severe bilateral emphysema with soft tissue nodules within multiple
+     emphysematous bullae in the right middle lobe and lower lobe. Differential
+     diagnosis includes aspergillomas and necrotizing pneumonia.
+     
+     2.  Mediastinal lymphadenopathy.  
+     
+     These findings were communicated to Dr. [**Last Name (STitle) 2307**] at the time of
+     interpretation at 7:30 p.m.
+     
+     
+                                                                 (Over)
+
+     DATE: [**3326-10-27**] 11:29 AM
+     CT CHEST W/O CONTRAST                                           Clip # [**Clip Number (Radiology) 2306**]
+     Reason: Evaluate RML and LLL PNA, bulla in RUL and evaluate for mass
+     Admitting Diagnosis: CHRONIC [**Last Name (un) 380**] PULM DISEASE
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     
+     
+     
+     
+
+",,
+24396,13425,,,3326-10-30 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3326-10-30**] 7:38 PM
+     CHEST (PA & LAT)                                                Clip # [**Clip Number (Radiology) 2309**]
+     Reason: Please assess for PNA, effusions.                           
+     Admitting Diagnosis: CHRONIC [**Last Name (un) 380**] PULM DISEASE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      61 year old woman with pulmonary infiltrates, fever.                            
+     REASON FOR THIS EXAMINATION:
+      Please assess for PNA, effusions.                                               
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Pulmonary infiltrates, fever.
+     
+     Comparison is made to the recent CT scan dated [**3326-10-27**].
+     
+     FINDINGS:  There are again demonstrated severe emphysematous changes.  There
+     are superimposed asymmetric fibronodular opacities projecting in the right mid
+     lung zone and patchy opacities at the left base.  Allowing for differences in
+     technique, this is not significantly changed compared to the recent CT scan.
+     Please refer to the CT scan for additional details.
+
+",,
+24396,13425,,,3326-10-30 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3326-10-30**] 7:01 PM
+     CT SINUS/MANDIBLE/MAXILLOFACIAL W/O CONTRAST; CT RECONSTRUCTION Clip # [**Clip Number (Radiology) 2308**]
+     Reason: Inflammatory process.                                       
+     Admitting Diagnosis: CHRONIC [**Last Name (un) 380**] PULM DISEASE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      61 year old woman with fever of unknown origin with congestion.                 
+     REASON FOR THIS EXAMINATION:
+      Inflammatory process.                                                           
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Fever of unknown origin with congestion.
+     
+     COMPARISON:  None.
+     
+     TECHNIQUE:  MDCT acquired contiguous axial images of the paranasal sinuses
+     were obtained without IV contrast.  Coronal and sagittal reconstructions were
+     performed.
+     
+     CT OF THE SINUSES WITHOUT IV CONTRAST:  Minimal mucosal thickening is
+     demonstrated within the floor of the left maxillary sinus.  Additionally, mild
+     mucosal thickening is seen within the right anterior ethmoid air cells.  The
+     remaining visualized paranasal sinuses and mastoid air cells are well
+     pneumatized, and no air-fluid levels are present.  The ostiomeatal units
+     bilaterally are patent. The frontal sinuses are hypoplastic.  Cribriform
+     plates are relatively equal in height. Nasal septum is midline, however, a
+     nasal spur is seen within the right portion of the septum.  Multiple septa are
+     seen within the sphenoid sinus, which appear to insert upon both carotid
+     grooves. Visualized portion of the brain parenchyma appears unremarkable. Soft
+     tissues are within normal limits.
+     
+     IMPRESSION:  Minimal sinus mucosal thickening involving the left maxillary
+     sinus and right ethmoid air cells.
+     
+     
+     
+                                                                           DFDdp
+
+",,
+24396,13425,,,3326-10-30 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3326-10-30**] 7:01 PM
+     CT SINUS/MANDIBLE/MAXILLOFACIAL W/O CONTRAST; CT RECONSTRUCTION Clip # [**Clip Number (Radiology) 2308**]
+     Reason: Inflammatory process.                                       
+     Admitting Diagnosis: CHRONIC [**Last Name (un) 380**] PULM DISEASE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      61 year old woman with fever of unknown origin with congestion.                 
+     REASON FOR THIS EXAMINATION:
+      Inflammatory process.                                                           
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Fever of unknown origin with congestion.
+     
+     COMPARISON:  None.
+     
+     TECHNIQUE:  MDCT acquired contiguous axial images of the paranasal sinuses
+     were obtained without IV contrast.  Coronal and sagittal reconstructions were
+     performed.
+     
+     CT OF THE SINUSES WITHOUT IV CONTRAST:  Minimal mucosal thickening is
+     demonstrated within the floor of the left maxillary sinus.  Additionally, mild
+     mucosal thickening is seen within the right anterior ethmoid air cells.  The
+     remaining visualized paranasal sinuses and mastoid air cells are well
+     pneumatized, and no air-fluid levels are present.  The ostiomeatal units
+     bilaterally are patent. The frontal sinuses are hypoplastic.  Cribriform
+     plates are relatively equal in height. Nasal septum is midline, however, a
+     nasal spur is seen within the right portion of the septum.  Multiple septa are
+     seen within the sphenoid sinus, which appear to insert upon both carotid
+     grooves. Visualized portion of the brain parenchyma appears unremarkable. Soft
+     tissues are within normal limits.
+     
+     IMPRESSION:  Minimal sinus mucosal thickening involving the left maxillary
+     sinus and right ethmoid air cells.
+     
+     
+     
+                                                                           DFDdp
+
+",,
+24396,13425,,,3326-10-31 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3326-10-31**] 8:56 PM
+     CHEST (PA & LAT)                                                Clip # [**Clip Number (Radiology) 2311**]
+     Reason: Pneumothorax?                                               
+     Admitting Diagnosis: CHRONIC [**Last Name (un) 380**] PULM DISEASE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       61 year old woman s/p CT guided lung biopsy.                                   
+     REASON FOR THIS EXAMINATION:
+      Pneumothorax?                                                                   
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  61-year-old woman status post CT-guided lung biopsy.  Please assess
+     for pneumothorax.
+     
+     TECHNIQUE:  PA and lateral views of the chest were obtained.
+     
+     COMPARISON:  PA and lateral views of the chest [**3326-10-30**].
+     
+     FINDINGS:  Again noted are severe emphysematous changes including bilateral
+     apical bullae and hyperexpansion of the lungs.  There is stable appearance of
+     superimposed fibronodular opacities projecting over the right mid lung zone as
+     well as patchy opacities at the left base.  There is no pneumothorax or
+     pleural effusion.  Excepting for differences in technique, there is no
+     significant change in appearance of the chest compared to recent CT scan.
+     Please refer to CT scan for more details.
+     
+     IMPRESSION:  No pneumothorax.  No significant change in severe emphysema,
+     fibronodular opacities of the right mid lung zone and patchy opacities at the
+     left base.  Please refer to recent CT scan for more details.
+
+",,
+24396,13425,,,3326-10-31 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3326-10-31**] 2:35 PM
+     CT CHEST W/O CONTRAST; CT FINE NEEDLE ASP                       Clip # [**Clip Number (Radiology) 2310**]
+     CT GUIDED NEEDLE PLACTMENT
+     Reason: Tissue sample and diagnosis of lung lesion.  Order is in POE
+     Admitting Diagnosis: CHRONIC [**Last Name (un) 380**] PULM DISEASE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      61 year old woman with recurrent PNA's, cystic mass on CT, not clearing with 
+      antibiotics
+     REASON FOR THIS EXAMINATION:
+      Tissue sample and diagnosis of lung lesion.  Order is in POE for items wanted 
+      from tissue (gram stain, culture, fungal culture, fungal stain, AFB, 
+      legionella).
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     PROCEDURE:  CT-guided tissue sample / FNA  of lung mass.
+     
+     HISTORY:  61-year-old woman with COPD.  PNA has not improved on antibiotics.
+     There are continued severe bullous emphysematous changes with chronic
+     infiltrate, stable patchy infiltrate throughout the lung with an area
+     suggesting possible mass in one of the cavities.
+     
+     Comparison is made with prior study dated [**3326-10-27**].
+     
+     CHEST CT WITHOUT CONTRAST:  There have been no changes in the severe
+     emphysematous changes and bullae throughout both lungs.  A cavitation in the
+     upper right lobe was chosen to be sampled.
+     
+     PROCEDURE:  The advantage and complications of the procedure were explained to
+     the patient.  Written informed consent was obtained.  The patient was prepped
+     and draped in the usual sterile fashion.  A preprocedure timeout was called to
+     confirm the identity of the patient.
+     
+     Under fluoro CT guidance and following the administration of Marcaine as local
+     anesthesia, a 22-gauge  needle was advanced via  superior posterior right
+     intercostal approach, using this an FNA was attempted obtained initially a
+     small amount of tissue. Following this, 5 cc of saline was flushed into the
+     cavity and then aspirated, obtaining more specimen (solid material) , samples
+     were also obtained from the edges of the lesions.
+     
+     There were no immediate complications.
+     
+     Chest x-ray was requested two hours post-procedure.
+     
+     CONCLUSION:  Successful tissue sample/FNA of lung cavity.
+     
+     Samples were sent for microbiology and pathology.
+     
+     
+                                                                 (Over)
+
+     DATE: [**3326-10-31**] 2:35 PM
+     CT CHEST W/O CONTRAST; CT FINE NEEDLE ASP                       Clip # [**Clip Number (Radiology) 2310**]
+     CT GUIDED NEEDLE PLACTMENT
+     Reason: Tissue sample and diagnosis of lung lesion.  Order is in POE
+     Admitting Diagnosis: CHRONIC [**Last Name (un) 380**] PULM DISEASE
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+
+",,
+24396,13425,,,3326-10-31 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3326-10-31**] 2:35 PM
+     CT CHEST W/O CONTRAST; CT FINE NEEDLE ASP                       Clip # [**Clip Number (Radiology) 2310**]
+     CT GUIDED NEEDLE PLACTMENT
+     Reason: Tissue sample and diagnosis of lung lesion.  Order is in POE
+     Admitting Diagnosis: CHRONIC [**Last Name (un) 380**] PULM DISEASE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      61 year old woman with recurrent PNA's, cystic mass on CT, not clearing with 
+      antibiotics
+     REASON FOR THIS EXAMINATION:
+      Tissue sample and diagnosis of lung lesion.  Order is in POE for items wanted 
+      from tissue (gram stain, culture, fungal culture, fungal stain, AFB, 
+      legionella).
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     PROCEDURE:  CT-guided tissue sample / FNA  of lung mass.
+     
+     HISTORY:  61-year-old woman with COPD.  PNA has not improved on antibiotics.
+     There are continued severe bullous emphysematous changes with chronic
+     infiltrate, stable patchy infiltrate throughout the lung with an area
+     suggesting possible mass in one of the cavities.
+     
+     Comparison is made with prior study dated [**3326-10-27**].
+     
+     CHEST CT WITHOUT CONTRAST:  There have been no changes in the severe
+     emphysematous changes and bullae throughout both lungs.  A cavitation in the
+     upper right lobe was chosen to be sampled.
+     
+     PROCEDURE:  The advantage and complications of the procedure were explained to
+     the patient.  Written informed consent was obtained.  The patient was prepped
+     and draped in the usual sterile fashion.  A preprocedure timeout was called to
+     confirm the identity of the patient.
+     
+     Under fluoro CT guidance and following the administration of Marcaine as local
+     anesthesia, a 22-gauge  needle was advanced via  superior posterior right
+     intercostal approach, using this an FNA was attempted obtained initially a
+     small amount of tissue. Following this, 5 cc of saline was flushed into the
+     cavity and then aspirated, obtaining more specimen (solid material) , samples
+     were also obtained from the edges of the lesions.
+     
+     There were no immediate complications.
+     
+     Chest x-ray was requested two hours post-procedure.
+     
+     CONCLUSION:  Successful tissue sample/FNA of lung cavity.
+     
+     Samples were sent for microbiology and pathology.
+     
+     
+                                                                 (Over)
+
+     DATE: [**3326-10-31**] 2:35 PM
+     CT CHEST W/O CONTRAST; CT FINE NEEDLE ASP                       Clip # [**Clip Number (Radiology) 2310**]
+     CT GUIDED NEEDLE PLACTMENT
+     Reason: Tissue sample and diagnosis of lung lesion.  Order is in POE
+     Admitting Diagnosis: CHRONIC [**Last Name (un) 380**] PULM DISEASE
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+
+",,
+24396,13425,,,3326-10-31 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3326-10-31**] 2:35 PM
+     CT CHEST W/O CONTRAST; CT FINE NEEDLE ASP                       Clip # [**Clip Number (Radiology) 2310**]
+     CT GUIDED NEEDLE PLACTMENT
+     Reason: Tissue sample and diagnosis of lung lesion.  Order is in POE
+     Admitting Diagnosis: CHRONIC [**Last Name (un) 380**] PULM DISEASE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      61 year old woman with recurrent PNA's, cystic mass on CT, not clearing with 
+      antibiotics
+     REASON FOR THIS EXAMINATION:
+      Tissue sample and diagnosis of lung lesion.  Order is in POE for items wanted 
+      from tissue (gram stain, culture, fungal culture, fungal stain, AFB, 
+      legionella).
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     PROCEDURE:  CT-guided tissue sample / FNA  of lung mass.
+     
+     HISTORY:  61-year-old woman with COPD.  PNA has not improved on antibiotics.
+     There are continued severe bullous emphysematous changes with chronic
+     infiltrate, stable patchy infiltrate throughout the lung with an area
+     suggesting possible mass in one of the cavities.
+     
+     Comparison is made with prior study dated [**3326-10-27**].
+     
+     CHEST CT WITHOUT CONTRAST:  There have been no changes in the severe
+     emphysematous changes and bullae throughout both lungs.  A cavitation in the
+     upper right lobe was chosen to be sampled.
+     
+     PROCEDURE:  The advantage and complications of the procedure were explained to
+     the patient.  Written informed consent was obtained.  The patient was prepped
+     and draped in the usual sterile fashion.  A preprocedure timeout was called to
+     confirm the identity of the patient.
+     
+     Under fluoro CT guidance and following the administration of Marcaine as local
+     anesthesia, a 22-gauge  needle was advanced via  superior posterior right
+     intercostal approach, using this an FNA was attempted obtained initially a
+     small amount of tissue. Following this, 5 cc of saline was flushed into the
+     cavity and then aspirated, obtaining more specimen (solid material) , samples
+     were also obtained from the edges of the lesions.
+     
+     There were no immediate complications.
+     
+     Chest x-ray was requested two hours post-procedure.
+     
+     CONCLUSION:  Successful tissue sample/FNA of lung cavity.
+     
+     Samples were sent for microbiology and pathology.
+     
+     
+                                                                 (Over)
+
+     DATE: [**3326-10-31**] 2:35 PM
+     CT CHEST W/O CONTRAST; CT FINE NEEDLE ASP                       Clip # [**Clip Number (Radiology) 2310**]
+     CT GUIDED NEEDLE PLACTMENT
+     Reason: Tissue sample and diagnosis of lung lesion.  Order is in POE
+     Admitting Diagnosis: CHRONIC [**Last Name (un) 380**] PULM DISEASE
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+
+",,
+24396,13425,,,3326-11-03 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3326-11-3**] 11:37 AM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 2312**]
+     Reason: please eval for bleed, lesions, mass effect                 
+     Admitting Diagnosis: CHRONIC [**Last Name (un) 380**] PULM DISEASE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      61 year old woman with cystic lesion on CXR, daily fevers, persistent H/A       
+     REASON FOR THIS EXAMINATION:
+      please eval for bleed, lesions, mass effect                                     
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+     WET READ: AZm SUN [**3326-11-3**] 12:28 PM
+      no mass effect or hemorrhage
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  61-year-old woman with cystic lesion on chest x-ray with daily
+     fevers and persistent headache.
+     
+     TECHNIQUE:  Head CT without contrast.
+     
+     FINDINGS:  There is no intracranial mass effect, hydrocephalus, shift of
+     normally midline structures or major vascular territorial infarction.  There
+     are some areas of low attenuation in the periventricular white matter region,
+     left greater than right, likely representing chronic ischemic changes.  The
+     surrounding soft tissue and osseous structures are unremarkable.
+     
+     IMPRESSION:  No mass effect or hemorrhage.
+                                                                           
+
+",,
+24396,13425,,,3326-11-05 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3326-11-5**] 4:11 PM
+     CT HEAD W/ & W/O CONTRAST; CT 100CC NON IONIC CONTRAST          Clip # [**Clip Number (Radiology) 2313**]
+     Reason: Eval for fungal mass.                                       
+     Admitting Diagnosis: CHRONIC [**Last Name (un) 380**] PULM DISEASE
+      Contrast: OPTIRAY Amt: 100
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      61 year old woman with likely aspergilloma in lung.  Persistent severe 
+      headache.
+     REASON FOR THIS EXAMINATION:
+      Eval for fungal mass.                                                           
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATIONS:  Likely aspergilloma in lung.  Severe headache.  Assess for
+     fungal mass.
+     
+     TECHNIQUE:  MDCT images of the brain were acquired before and following
+     administration of 100 cc of Optiray IV contrast.
+     
+     COMPARISON:  Head CT scan from [**3326-11-3**].
+     
+     CT OF THE HEAD WITHOUT AND WITH IV CONTRAST:  There is no acute intracranial
+     hemorrhage, hydrocephalus, shift of normally midline structures, or major
+     vascular territorial infarction. Small areas of cerebral white matter
+     hypodensity are stable. On post- contrast images, there is a vague 4- mm area
+     of enhancement in the subcortical white matter of the medial anterior left
+     frontal lobe.  A small vessel is seen coursing adjacent to this area of
+     enhancement, and this may be a vascular structure. Ther is no assocaited
+     edema. There is minor opacification of a single posterior right ethmoid air
+     cell. Remaining paranasal sinuses are clear.  There is no pneumatization of
+     the frontal sinus.
+     
+     IMPRESSION:  Questionable 4-mm ovoid area of enhancement in the left frontal
+     lobe.  The differential diagnosis includes a vascular structure or
+     malformation, a very wmall focus of infection or malignancy. Further
+     evaluation with MRI and MRA should be considered.
+                                                                           DFDgf
+
+",,
+24396,13425,,,3326-11-05 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3326-11-5**] 4:11 PM
+     CT HEAD W/ & W/O CONTRAST; CT 100CC NON IONIC CONTRAST          Clip # [**Clip Number (Radiology) 2313**]
+     Reason: Eval for fungal mass.                                       
+     Admitting Diagnosis: CHRONIC [**Last Name (un) 380**] PULM DISEASE
+      Contrast: OPTIRAY Amt: 100
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      61 year old woman with likely aspergilloma in lung.  Persistent severe 
+      headache.
+     REASON FOR THIS EXAMINATION:
+      Eval for fungal mass.                                                           
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATIONS:  Likely aspergilloma in lung.  Severe headache.  Assess for
+     fungal mass.
+     
+     TECHNIQUE:  MDCT images of the brain were acquired before and following
+     administration of 100 cc of Optiray IV contrast.
+     
+     COMPARISON:  Head CT scan from [**3326-11-3**].
+     
+     CT OF THE HEAD WITHOUT AND WITH IV CONTRAST:  There is no acute intracranial
+     hemorrhage, hydrocephalus, shift of normally midline structures, or major
+     vascular territorial infarction. Small areas of cerebral white matter
+     hypodensity are stable. On post- contrast images, there is a vague 4- mm area
+     of enhancement in the subcortical white matter of the medial anterior left
+     frontal lobe.  A small vessel is seen coursing adjacent to this area of
+     enhancement, and this may be a vascular structure. Ther is no assocaited
+     edema. There is minor opacification of a single posterior right ethmoid air
+     cell. Remaining paranasal sinuses are clear.  There is no pneumatization of
+     the frontal sinus.
+     
+     IMPRESSION:  Questionable 4-mm ovoid area of enhancement in the left frontal
+     lobe.  The differential diagnosis includes a vascular structure or
+     malformation, a very wmall focus of infection or malignancy. Further
+     evaluation with MRI and MRA should be considered.
+                                                                           DFDgf
+
+",,
+24396,13425,,,3326-11-07 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3326-11-7**] 10:29 AM
+     MR HEAD W & W/O CONTRAST; MR CONTRAST GADOLIN                   Clip # [**Clip Number (Radiology) 2315**]
+     Reason: Eval frontal lesion for AVM vs. met vs. infection.  Please d
+     Admitting Diagnosis: CHRONIC [**Last Name (un) 380**] PULM DISEASE
+      Contrast: MAGNEVIST Amt: 15
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      61 year old woman with pulmonary aspergillosis, headaches.  CT head with 
+      contrast showed frontal 4mm lesion c/w AVM vs. met.
+     REASON FOR THIS EXAMINATION:
+      Eval frontal lesion for AVM vs. met vs. infection.  Please do MRI/MRA.          
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     MR HEAD WITHOUT AND WITH CONTRAST, [**3326-11-7**]
+     
+     HISTORY:  Aspergillosis and headaches.  Possible left frontal enhancing lesion
+     on CT scan.
+     
+     Sagittal and axial short TR, short TE spin echo imaging was performed through
+     the brain.  Axial imaging was performed with long TR, long TE fast spin echo,
+     FLAIR, gradient echo, and diffusion technique.  Three-dimensional
+     time-of-flight MR arteriography was performed.  After administration of
+     gadolinium intravenous contrast, axial and coronal short TR, short TE spin
+     echo imaging was performed.  Comparison to a brain CT of [**3326-11-5**].
+     
+     FINDINGS:  The small focus of enhancement in the left frontal lobe identified
+     on the prior CT examination is not demonstrated on the current study.  In
+     retrospect, this likely represented a loop of a vessel in the depth of a
+     sulcus.  The post-contrast axial and the coronal short TR images cover this
+     area thoroughly and there is no evidence of abnormal enhancement.  The
+     ventricles and the sulci appear normal in caliber and configuration.  There is
+     marked hyperintensity in the central pons.  If there is no clinical history to
+     suggest prior osmotic demyelination, this most likely represents chronic small
+     vessel ischemia.  There are numerous areas of high signal intensity in the
+     periventricular and the subcortical white matter that also suggest chronic
+     small vessel ischemia.  There is no abnormal enhancement after contrast
+     administration.
+     
+     CONCLUSION:  No evidence of abscess.
+     
+     The small area of enhancement in the left frontal lobe demonstrated on the CT
+     scan likely represented a looping vessel in a sulcus.
+     
+     The MRA examination appears normal.
+     
+     There are white matter signal intensity abnormalities suggesting chronic small
+     vessel ischemia.  There is marked hyperintensity of the pons on the long TR
+     images, which likely represents chronic small vessel ischemia.
+                                                                           
+                                                                 (Over)
+
+     DATE: [**3326-11-7**] 10:29 AM
+     MR HEAD W & W/O CONTRAST; MR CONTRAST GADOLIN                   Clip # [**Clip Number (Radiology) 2315**]
+     Reason: Eval frontal lesion for AVM vs. met vs. infection.  Please d
+     Admitting Diagnosis: CHRONIC [**Last Name (un) 380**] PULM DISEASE
+      Contrast: MAGNEVIST Amt: 15
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+
+",,
+24396,13425,,,3326-11-07 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3326-11-7**] 10:29 AM
+     MR HEAD W & W/O CONTRAST; MR CONTRAST GADOLIN                   Clip # [**Clip Number (Radiology) 2315**]
+     Reason: Eval frontal lesion for AVM vs. met vs. infection.  Please d
+     Admitting Diagnosis: CHRONIC [**Last Name (un) 380**] PULM DISEASE
+      Contrast: MAGNEVIST Amt: 15
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      61 year old woman with pulmonary aspergillosis, headaches.  CT head with 
+      contrast showed frontal 4mm lesion c/w AVM vs. met.
+     REASON FOR THIS EXAMINATION:
+      Eval frontal lesion for AVM vs. met vs. infection.  Please do MRI/MRA.          
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     MR HEAD WITHOUT AND WITH CONTRAST, [**3326-11-7**]
+     
+     HISTORY:  Aspergillosis and headaches.  Possible left frontal enhancing lesion
+     on CT scan.
+     
+     Sagittal and axial short TR, short TE spin echo imaging was performed through
+     the brain.  Axial imaging was performed with long TR, long TE fast spin echo,
+     FLAIR, gradient echo, and diffusion technique.  Three-dimensional
+     time-of-flight MR arteriography was performed.  After administration of
+     gadolinium intravenous contrast, axial and coronal short TR, short TE spin
+     echo imaging was performed.  Comparison to a brain CT of [**3326-11-5**].
+     
+     FINDINGS:  The small focus of enhancement in the left frontal lobe identified
+     on the prior CT examination is not demonstrated on the current study.  In
+     retrospect, this likely represented a loop of a vessel in the depth of a
+     sulcus.  The post-contrast axial and the coronal short TR images cover this
+     area thoroughly and there is no evidence of abnormal enhancement.  The
+     ventricles and the sulci appear normal in caliber and configuration.  There is
+     marked hyperintensity in the central pons.  If there is no clinical history to
+     suggest prior osmotic demyelination, this most likely represents chronic small
+     vessel ischemia.  There are numerous areas of high signal intensity in the
+     periventricular and the subcortical white matter that also suggest chronic
+     small vessel ischemia.  There is no abnormal enhancement after contrast
+     administration.
+     
+     CONCLUSION:  No evidence of abscess.
+     
+     The small area of enhancement in the left frontal lobe demonstrated on the CT
+     scan likely represented a looping vessel in a sulcus.
+     
+     The MRA examination appears normal.
+     
+     There are white matter signal intensity abnormalities suggesting chronic small
+     vessel ischemia.  There is marked hyperintensity of the pons on the long TR
+     images, which likely represents chronic small vessel ischemia.
+                                                                           
+                                                                 (Over)
+
+     DATE: [**3326-11-7**] 10:29 AM
+     MR HEAD W & W/O CONTRAST; MR CONTRAST GADOLIN                   Clip # [**Clip Number (Radiology) 2315**]
+     Reason: Eval frontal lesion for AVM vs. met vs. infection.  Please d
+     Admitting Diagnosis: CHRONIC [**Last Name (un) 380**] PULM DISEASE
+      Contrast: MAGNEVIST Amt: 15
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+
+",,
+24396,13425,,,3326-11-07 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3326-11-7**] 9:29 AM
+     ABDOMEN U.S. (COMPLETE STUDY)                                   Clip # [**Clip Number (Radiology) 2314**]
+     Reason: Evaluate for biliary stasis/sludging/ductal dilation.       
+     Admitting Diagnosis: CHRONIC [**Last Name (un) 380**] PULM DISEASE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      61 year old woman with COPD, pulmonary aspergillosis.  Isolated elevation in 
+      alk phos and GGT.
+     REASON FOR THIS EXAMINATION:
+      Evaluate for biliary stasis/sludging/ductal dilation.                           
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  61-year-old woman with COPD and pulmonary aspergillosis. Elevated
+     alkaline phosphatase and GGT.
+     
+     COMPARISON:  None.
+     
+     FINDINGS:  The liver is enlarged, but no focal abnormalities or intrahepatic
+     biliary ductal dilatation is seen.  The hepatic veins are prominent,
+     consistent with passive congestion.  The gallbladder is located within the
+     right lower quadrant, and contains a 5 mm echogenic focus which is likely a
+     non-shadowing stone.  There is no gallbladder wall edema or pericholecystic
+     fluid.  The common duct measures 3 mm.  The head of the pancreas appears
+     unremarkable.  The pancreatic body and tail are not well seen due to overlying
+     bowel gas.  The aorta is not dilated.  The portal vein is open, and flow is
+     hepatopetal.  The right kidney measures 10.8 cm in length and contains a cyst
+     at the lower pole measuring approximately 1 cm.  Left kidney measures 11.3 cm
+     in length.  Both kidneys are free of stone and hydronephrosis.  The spleen is
+     enlarged.  There is no ascites.
+     
+     IMPRESSION:
+     1.  5 mm probable gallstone within the gallbladder.  Otherwise, unremarkable
+     examination of the biliary tree.
+     2.  Enlarged liver and spleen consistent with congestion.
+     
+
+",,
+24396,13425,,,3326-11-07 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3326-11-7**] 2:54 PM
+     CHEST (PA & LAT)                                                Clip # [**Clip Number (Radiology) 2316**]
+     Reason: eval for bacterial PNA superinfection on known aspergillosis
+     Admitting Diagnosis: CHRONIC [**Last Name (un) 380**] PULM DISEASE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        61 year old woman s/p CT guided lung biopsy, growing aspergilla.  Now with 
+      inc. WBC and inc. sputum, GPC and GNR in sputum cx.
+     REASON FOR THIS EXAMINATION:
+      eval for bacterial PNA superinfection on known aspergillosis.                   
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CHEST TWO VIEWS
+     
+     INDICATION:  61-year-old woman status post CT-guided lung biopsy, growing
+     aspergilloma.
+     
+     COMMENTS:  PA and lateral radiographs of the chest are reviewed, and compared
+     with previous study of [**3326-10-31**].
+     
+     The patient has underlying severe pulmonary emphysema.  Again note is made of
+     a cavity with thickened wall and air-fluid levels in the right upper lobe. 
+     These findings are consistent with patient's diagnosis of Aspergillus
+     infection.  The degree of the cavitary lesion and air-fluid levels have
+     increased compared with the previous study.
+     
+     No pneumothorax is identified.  The heart is normal in size.
+     
+     IMPRESSION:
+     1.  Severe pulmonary emphysema.
+     2.  Worsening cavitary lesion with thickened wall and air-fluid levels in the
+     right upper lobe as described above.
+                                                                           
+
+",,
+24396,13425,,,3326-11-08 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3326-11-8**] 7:47 PM
+     CHEST (PORTABLE AP); -77 BY DIFFERENT PHYSICIAN                 [**Name Initial (PRE) 232**] # [**Clip Number (Radiology) 2318**]
+     Reason: ? failure                                                   
+     Admitting Diagnosis: CHRONIC [**Last Name (un) 380**] PULM DISEASE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       61 year old woman with known aspergilloma and COPD, getting IVF with worsening 
+      hypoxia and tachypnea
+     REASON FOR THIS EXAMINATION:
+      ? failure                                                                       
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  61-year-old female with known aspergilloma presenting with
+     worsening of hypoxia.  Question CHF.
+     
+     COMPARISONS:  Comparison is made to radiograph performed on the same day
+     approximately 20 hours earlier.
+     
+     TECHNIQUE:  AP upright single view of the chest.
+     
+     FINDINGS:  There has been no significant change in the patient's chest
+     radiograph when compared to the prior x-ray performed earlier in the same day.
+     Again noted are severe emphysematous changes of the lungs.  There is also
+     volume loss in the right upper lobe with fibrotic changes and cavities.  There
+     is persistent wedge-shaped opacity in the right mid lung zone.  No definite
+     pleural effusions are seen.  There is no evidence of pneumothorax.  The
+     pulmonary vasculature is normal without evidence of CHF.
+     
+     IMPRESSION:  Stable appearance of the chest radiograph when compared to the
+     study performed earlier in the same day.  No evidence of CHF or pneumothorax.
+                                                                           
+
+",,
+24396,13425,,,3326-11-08 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3326-11-8**] 7:47 PM
+     CHEST (PORTABLE AP); -77 BY DIFFERENT PHYSICIAN                 [**Name Initial (PRE) 232**] # [**Clip Number (Radiology) 2318**]
+     Reason: ? failure                                                   
+     Admitting Diagnosis: CHRONIC [**Last Name (un) 380**] PULM DISEASE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       61 year old woman with known aspergilloma and COPD, getting IVF with worsening 
+      hypoxia and tachypnea
+     REASON FOR THIS EXAMINATION:
+      ? failure                                                                       
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  61-year-old female with known aspergilloma presenting with
+     worsening of hypoxia.  Question CHF.
+     
+     COMPARISONS:  Comparison is made to radiograph performed on the same day
+     approximately 20 hours earlier.
+     
+     TECHNIQUE:  AP upright single view of the chest.
+     
+     FINDINGS:  There has been no significant change in the patient's chest
+     radiograph when compared to the prior x-ray performed earlier in the same day.
+     Again noted are severe emphysematous changes of the lungs.  There is also
+     volume loss in the right upper lobe with fibrotic changes and cavities.  There
+     is persistent wedge-shaped opacity in the right mid lung zone.  No definite
+     pleural effusions are seen.  There is no evidence of pneumothorax.  The
+     pulmonary vasculature is normal without evidence of CHF.
+     
+     IMPRESSION:  Stable appearance of the chest radiograph when compared to the
+     study performed earlier in the same day.  No evidence of CHF or pneumothorax.
+                                                                           
+
+",,
+24396,13425,,,3326-11-08 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3326-11-8**] 12:19 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 2317**]
+     Reason: r/o PTX or pulm edema                                       
+     Admitting Diagnosis: CHRONIC [**Last Name (un) 380**] PULM DISEASE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      61 year old woman with known aspergilloma and COPD, recent blood transfusion, 
+      with worsening hypoxia and tachypnea
+     REASON FOR THIS EXAMINATION:
+      r/o PTX or pulm edema                                                           
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     AP CHEST 12:36 A.M. on [**11-8**].
+     
+     HISTORY:  Aspergilloma.  Shortness of breath following blood transfusion.
+     
+     IMPRESSION:  AP chest compared to [**11-7**] and [**10-30**] and 27:
+     
+     There has been a decrease in the volume of fluid which collected in the large
+     bullae of the right upper lobe and perhaps superior segment of the right lower
+     lobe between [**10-31**] and [**11-7**].  This was presumably hemorrhage or pus
+     and presumably has been partially expectorated since [**11-7**].  In addition
+     to severe emphysema, there is a mild interstitial abnormality most pronounced
+     in the left lower lobe which is unchanged since [**10-30**] and therefore not
+     attributable to acute edema, cardiac or otherwise.  There is no pneumothorax.
+     Heart size is normal and mediastinal position shifted slightly to the right
+     superiorly and to the left inferiorly is not changed.
+
+",,
+24396,13425,,,3326-11-10 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3326-11-10**] 7:46 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 2319**]
+     Reason: r/o infiltrate, CHF                                         
+     Admitting Diagnosis: CHRONIC [**Last Name (un) 380**] PULM DISEASE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        61 year old woman with known aspergilloma and COPD, getting IVF with 
+      worsening  hypoxia and tachypnea
+     REASON FOR THIS EXAMINATION:
+      r/o infiltrate, CHF                                                             
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     AP CHEST 8:08 A.M. [**11-10**].
+     
+     HISTORY:  Aspergilloma, COPD, worsening hypoxia.
+     
+     IMPRESSION:  AP chest compared to [**11-8**] at 8:19 p.m.
+     
+     Volume of fluid loculated in bullae in the right lung has increased since
+     [**11-8**], area consistent with an enlarged collection of pus or blood. 
+     Interstitial abnormality in the lower lungs is longstanding and more likely
+     chronic than mild pulmonary edema.  The heart is normal size.  Left lung shows
+     severe emphysema.  No pneumothorax.
+     
+     A subsequent chest radiograph, from 9:11 a.m., reported previously showed
+     standard position of the new endotracheal tube.
+                                                                           
+
+",,
+24396,13425,,,3326-11-10 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3326-11-10**] 2:41 PM
+     CHEST PORT. LINE PLACEMENT; -76 BY SAME PHYSICIAN               [**Name Initial (PRE) 232**] # [**Clip Number (Radiology) 2321**]
+     Reason: eval for line placement                                     
+     Admitting Diagnosis: CHRONIC [**Last Name (un) 380**] PULM DISEASE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       61 year old woman with known aspergilloma and COPD, recent blood transfusion,  
+      with worsening hypoxia and tachypnea
+     REASON FOR THIS EXAMINATION:
+      eval for line placement                                                         
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     AP CHEST, 3:17 P.M.
+     
+     HISTORY:  Worsening hypoxia and tachycardia.  Check for line placement.
+     
+     IMPRESSION:  AP chest compared to 9:00 a.m. today and [**11-8**]:
+     
+     New right internal jugular line, tip projects over the SVC.  The subject to
+     the limitations of supine radiography, there is no evidence of pneumothorax. 
+     Upright films are recommended when feasible both for assessment of pleural
+     abnormalities and to monitor the volume of fluid that remains in the large
+     cystic spaces of the right lung.  Left lung demonstrates severe emphysema and
+     dependent mild pulmonary edema.  Nasogastric tube is looped in the stomach. 
+     ET tube is in standard placement.  Heart size is normal and mediastinal
+     position is unchanged, essentially midline.
+                                                                           
+
+",,
+24396,13425,,,3326-11-10 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3326-11-10**] 2:41 PM
+     CHEST PORT. LINE PLACEMENT; -76 BY SAME PHYSICIAN               [**Name Initial (PRE) 232**] # [**Clip Number (Radiology) 2321**]
+     Reason: eval for line placement                                     
+     Admitting Diagnosis: CHRONIC [**Last Name (un) 380**] PULM DISEASE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       61 year old woman with known aspergilloma and COPD, recent blood transfusion,  
+      with worsening hypoxia and tachypnea
+     REASON FOR THIS EXAMINATION:
+      eval for line placement                                                         
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     AP CHEST, 3:17 P.M.
+     
+     HISTORY:  Worsening hypoxia and tachycardia.  Check for line placement.
+     
+     IMPRESSION:  AP chest compared to 9:00 a.m. today and [**11-8**]:
+     
+     New right internal jugular line, tip projects over the SVC.  The subject to
+     the limitations of supine radiography, there is no evidence of pneumothorax. 
+     Upright films are recommended when feasible both for assessment of pleural
+     abnormalities and to monitor the volume of fluid that remains in the large
+     cystic spaces of the right lung.  Left lung demonstrates severe emphysema and
+     dependent mild pulmonary edema.  Nasogastric tube is looped in the stomach. 
+     ET tube is in standard placement.  Heart size is normal and mediastinal
+     position is unchanged, essentially midline.
+                                                                           
+
+",,
+24396,13425,,,3326-11-10 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3326-11-10**] 8:37 AM
+     CHEST (PORTABLE AP); -76 BY SAME PHYSICIAN                      [**Name Initial (PRE) 232**] # [**Clip Number (Radiology) 2320**]
+     Reason: eval ETT placement                                          
+     Admitting Diagnosis: CHRONIC [**Last Name (un) 380**] PULM DISEASE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+         61 year old woman with known aspergilloma and COPD, getting IVF with  
+      worsening  hypoxia and tachypnea - now intubated
+     REASON FOR THIS EXAMINATION:
+      eval ETT placement                                                              
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     AP CHEST 9:11 A.M.
+     
+     HISTORY:  Aspergilloma, COPD, and worsening hypoxia.
+     
+     IMPRESSION:  AP chest compared to [**11-10**], at 8:00 A.M.
+     
+     Tip of a newly placed endotracheal tube is in standard placement of the
+     thoracic inlet, 5 cm above the carina.  Fluid previously collected in a
+     complex of bullae in the right mid lung may have decreased in volume although
+     the change may be due to supine positioning.  Panorex view would be necessary
+     to make side-by-side comparison.  Mild interstitial edema is present in the
+     left lower lung.  There is no pneumothorax or pleural effusion.  Nasogastric
+     tube passes into the stomach and out of view.
+     
+     Sudden decrease in volume of the purulent material in the right lung raises
+     the possibility of interval aspiration.  Followup advised.
+                                                                           
+
+",,
+24396,13425,,,3326-11-10 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3326-11-10**] 8:37 AM
+     CHEST (PORTABLE AP); -76 BY SAME PHYSICIAN                      [**Name Initial (PRE) 232**] # [**Clip Number (Radiology) 2320**]
+     Reason: eval ETT placement                                          
+     Admitting Diagnosis: CHRONIC [**Last Name (un) 380**] PULM DISEASE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+         61 year old woman with known aspergilloma and COPD, getting IVF with  
+      worsening  hypoxia and tachypnea - now intubated
+     REASON FOR THIS EXAMINATION:
+      eval ETT placement                                                              
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     AP CHEST 9:11 A.M.
+     
+     HISTORY:  Aspergilloma, COPD, and worsening hypoxia.
+     
+     IMPRESSION:  AP chest compared to [**11-10**], at 8:00 A.M.
+     
+     Tip of a newly placed endotracheal tube is in standard placement of the
+     thoracic inlet, 5 cm above the carina.  Fluid previously collected in a
+     complex of bullae in the right mid lung may have decreased in volume although
+     the change may be due to supine positioning.  Panorex view would be necessary
+     to make side-by-side comparison.  Mild interstitial edema is present in the
+     left lower lung.  There is no pneumothorax or pleural effusion.  Nasogastric
+     tube passes into the stomach and out of view.
+     
+     Sudden decrease in volume of the purulent material in the right lung raises
+     the possibility of interval aspiration.  Followup advised.
+                                                                           
+
+",,
+24396,13425,30288,0,3326-11-10 15:49:00 EST,3326-11-10 16:27:00 EST,7641,"N",1,"Nursing/Other",,"
+
+PT IS A 61YO FEMALE, ALLERGIC TO LIDOCAIN, ADMITTED TO CCU FROM CC7 FOR INTUBATION FOR RESP FAILURE.. PMH: SEVER COPD, BULLOUS EMPHYSEMA AND A 30/40 PACK YEAR SMOKING HISTIRY WITH RECURRENT PNA. O2 AND STEROID DEPENDENT. MULT. RESP DECOMPENSATIONS AND TX [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 4572**] SPECTRIM ANTIBIOTICS. NOW BEING TX. FOR ASPIRGILIS AND REINTUBATION. PAST INTUBATIONS FEB AND [**Last Name (un) **] THIS YEAR. OTHER HX. STEROID INDUCED DM, ANXIETY , ANEMIA. PT BECAME LETHARGIC ON THE FLOOR ABGS 7.27/54/91/26/. INTUBATED S INCIDENT ON ARRIVAL TO CCU. REPEAT GASES 7.26/42/115/20. SUCT THICK TAN SPEC SENT. VENT AC 40%/.400/14/5 OVERBREATHS TO 22 ATTEMPTED INCREASED PEEP TO 10 TO COMPENSATE FOR AUTO PEEP BP COULD NOT HANDLE IT DROPPED. PRESENTLY BEING SEDATED ON VERSED 1MG/ FENT .25MCG OCC. BOLUSES. ALINE PLACED CENTRAL IJ LINE CONFIRMED BY X-RAY.
+
+CV: PT REMAINS IN ST 110-130'S. PT RECEIVED 2L NS R/T INTIAL BP 70'S. BPS 90-100 SYSTOLIC VIA A-LINE.
+
+RESP:WHEEZING DECREASED BASES BILAT ON INHALERS SXT TAN THICK MAINTAINING O2 SAT 90S-100'S.
+
+GI/GU: OG PLACED, ABD SOFT BS PRESENT PT ON PREC FOR C-DIFF NO STOOL AS OF YET TUBE FEEDINGS STARTED 10CC/HR URIN 30-50CC/HR.
+
+ENDO: BS ON FLOOR THIS AM WAS 54 ON ARRIVAL TO CCU BS WAS 72 ON SLIDING SCALE.
+
+ID: AFEBRILE BACTERIAL PNA SEEN BY ID
+
+NEURO: MOVING ALL EXTREM, RESPONSIVE PRE INTUBATION PT WAS CONFUSED PROB DUE TO HYPOXIMIA. FAMILY MEETING TODAY EXPLAINED TO FAMILY  THAT THE CHANCES OF EXTUBATION WOULD BE SLIM FAMILY TOOK ALL BELONGINGS BUT LEFT DENTURES AND GLASSES. 
+
+HEME: platlets >600 CHRONIC ANEMIA HCT 26.
+
+SKIN: SMALL RASH ON GLUT APPEARS TO BE YEAST 
+
+A:RESP FAILURE C POOR PROGNOSIS OF EXTUBATION
+
+P:FAMILY SUPT.
+  FOLLOW BLOOD GASES
+  SKIN CARE
+  MONITOR HCT FOR WORSENING ANEMIA
+  CONT. WITH ANTIBIOTICS
+  
+ 
+",,
+24396,13425,30288,,3326-11-11 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3326-11-11**] 6:50 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 2322**]
+     Reason: eval for progression of PNA                                 
+     Admitting Diagnosis: CHRONIC [**Last Name (un) 380**] PULM DISEASE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+          61 year old woman with known aspergilloma and COPD, getting IVF with   
+      worsening  hypoxia and tachypnea - now intubated
+     REASON FOR THIS EXAMINATION:
+      eval for progression of PNA                                                     
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Known aspergilloma and COPD, with worsening hypoxia and
+     tachypnea.
+     
+     CHEST X-RAY, PORTABLE AP:  Comparison made to prior study of [**3326-11-10**].
+     There is an endotracheal tube with tip at the thoracic inlet.  A right
+     internal jugular central venous line is present with tip in the lower superior
+     vena cava.  There is markedly abnormal appearance of the right mid and upper
+     lung zones with cavitation and linear opacities and more dense consolidation
+     at the level of the hilum.  This appears unchanged from the prior study. 
+     Patchy nodular opacities are present in the left lower lung zone and are
+     slightly worsened from the prior study.  There is a nasogastric tube with tip
+     in the stomach.
+     
+     IMPRESSION:
+     
+     Slightly worsened opacity in the left lower lobe with stable appearance of the
+     right lung.
+                                                                           
+
+",,
+24396,13425,30288,0,3326-11-11 04:17:00 EST,3326-11-11 04:26:00 EST,2477,"N",1,"Nursing/Other","Respiratory Care Note:","
+Respiratory Care Note:
+    Patient with emphysema and aspergilloma with RUL mass and history of persistent pneumonia since [**2-9**]. She has been steroid and home O2 dependent. S/P intubation [**11-10**] for decreased mental status. Now on assist control of 500 by 18, 40% and 5 PEEP. ABG pending at this time. Earlier result showed combination resp/met acidosis with PCO2 of 50. BS are diminished bilat with occassional rhonchi. Suctioned for thick tannish sputum. She has received albuterol and atrovent MDIs Q4 without much effect on exp flow patterns which are prolonged with slight air trapping.Intrinsic PEEP noted at 7cmH20. Plan to support and allow patient to ventilate at her baseline values as tolerated.
+",,
+24396,13425,30288,0,3326-11-11 05:42:00 EST,3326-11-11 05:58:00 EST,1836,"N",1,"Nursing/Other","ccu nsg progress note-micu border.","
+ccu nsg progress note-micu border.
+o:neuro=sedated w fent 25mcg & versed 1mg w effect. arousable, but presently does not follow commands. soft restraints to upper extrem.
+  pulm=intubated & vented w present settings-ac/450x18/405/+5 w am abg-7.28/49/89/24/-3. sats upper 90's. breath sounds=deminished throughout. sx-thick tannish secretions. resp inhalers by respiratory therapy. 
+  cv=st throughout shift w rate 120's. maps mid 60's. 
+  access=peripheral x2. aline l radial. mlc rij.
+  gi=tf-promote w fiber presently @ 20ml/hr (goal 40ml/hr) w minimal residuals. wo stool.
+  heme=am hct-26.2.
+  renal=adeq uo. overall i&o positive. am bun/creat 16/1.2.
+  id=afebrile. am wbc 41.3. past cultures-bc neg. sputum neg. lung tissue positive aspergillus. stool positive c-diff. cxr-rml pneumonia. present abx-vanco po. metronidazole po. ambisome (fungal) iv. ceftazadine iv. vanco iv. & voriconazole (fungal) iv. 
+  socail=family initially present. appears aware of severity of infection & overall poor respiratory status. aware of probable need for trach in future.
+
+a:aggressive abx therapy for multiple infectious sources. chronic anemia.
+
+p:maintain adeq sedation. ?tachycardia-?rx w beta blocker. increase tf to goal as tolerated. ?tx rcb for hct <30. contin abx coverage. support pt/family as indicated.  
+",,
+24396,13425,30288,0,3326-11-11 15:28:00 EST,3326-11-11 15:40:00 EST,1698,"N",1,"Nursing/Other",,"
+
+Respiratory Care:
+Pt. remains on A/C as per CareVue with no changes planned for the
+immediate future. Sx'd for thick yellow/tan secretions. Receives 3
+MDI's as per order and has been fairly lethargic today. See CareVue
+for details.
+",,
+24396,13425,30288,0,3326-11-11 16:45:00 EST,3326-11-11 17:14:00 EST,7594,"N",1,"Nursing/Other","CCU 7A-7P","
+CCU 7A-7P
+RESP:- Remains intubated and ventilated, A/C, rate 20bpm, TV 400-500, Fi02 40%, Sa02 93-96, PEEP +5, (auto PEEP~4) occationally overbreaths. Large amounts of dirty yellow secretions on suctioning, (circuit to be changed to heated to aide secretion removal). ABGs 7.30/40/107. Aim to get Ph >7.31 then reduce rate to 18. Bilateral air-entry heard, coarse.
+
+CV:- Hypotensive this morning, A-line postitional at times, low on cuff, SBP 85-99 heart rate 110-130, no ectopics seen. Given 2litres intotal of NS to help hypotension and tachycardia, minimal effect. CVP now transduced, CVP initially [**4-10**], [**8-14**] after fluid. To aim for MAP >65 and CVP >12. If no improvement then may require Levophed. Urine output decreased throughout the day. Had 1x unit of blood, goal Hct >28.
+
+GI:- Feed now ar goal rate of 40cc/hr. Minimal residuals during the day. OG tube position checked positive for air. Bowels sounds heard but faint. No bowel movements.
+
+GU:- Urine output decreased during the day, now only 5-12cc/hr. Given in total 2 litres of fluid with no effect. Need urine sample for Na and Osmalarity.
+
+ID:- Febrile this morning at 100.6, given 650mg tylenol with good effect, 98.7 now. Large amounts of dirty yellow secretions from ETT. Blood cultures taken from central and Aline, plus fungal culture. Had all ABX as per chart, Vanco withheld as level 27.1.
+
+SKIN:- Skin remains intact, all line sites satisfactory. Barrier cream applied to heals and sacral area. Hands very oedematus, elevated on pillows. Marking easily from lines and sheets.
+
+NEURO:- Remains sedated on Versed, .5mcg/hr (down from 1mcg/min) and fentanyl 1mcg/min. Opened eyes for family. Overbreaths on cares. Not obeying commands. Pulls away when feet touched.
+
+FAMILY:- Sons, daughter and daughter-in-law visited. [**Name2 (NI) **] seem very anxious and slightly agitaited about Mrs [**Known patient lastname 4573**] condition and prognosis. PCP spoke to daughter over the telephone about prognosis and plan of care. Also MICU team spoke to family.
+
+PLAN:- To give further 500cc bolus of NS (total 2 litres given so far), goal >CVP 12 and MAP >65 if nno improvement then to commence Levo. To aim for Ph of >7.31 then reduce resp rate to 18. To moniter renal function in view that ambisone is nephrotoxic. ? for family meeting tomorrow to disscuss management of care. To give full explination of care to [**Known patient firstname 1248**] and family. post transfusion HCT 8pm. For vanc level prior to 0200 dose.
+",,
+24396,13425,30288,,3326-11-12 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3326-11-12**] 7:26 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 2323**]
+     Reason: eval ETT placement, parenchyma                              
+     Admitting Diagnosis: CHRONIC [**Last Name (un) 380**] PULM DISEASE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        61 year old woman with known aspergilloma and COPD, recent blood transfusion, 
+        with worsening hypoxia and tachypnea
+     REASON FOR THIS EXAMINATION:
+      eval ETT placement, parenchyma                                                  
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Known aspergilloma and COPD with recent blood transfusion.
+     
+     CHEST X-RAY, PORTABLE AP:  Comparison made to prior study of one day earlier. 
+     There is a right internal jugular central venous line, which is unchanged in
+     position with tip in the mid superior vena cava.  An endotracheal tube is
+     present with tip at the thoracic inlet.  There is a nasogastric tube, which is
+     curled in the stomach.  There is unchanged appearance of the right lung, with
+     cystic spaces and irregular opacity consistent with patient's known diagnosis
+     of aspergilloma.  There is interval improved aeration in the left lower lobe
+     with decreased patchy opacities.  Persistent emphysema is seen in the left
+     upper lobe.
+     
+     IMPRESSION:
+     
+     Interval improved aeration of the left lower lobe.
+                                                                           
+
+",,
+24396,13425,30288,,3326-11-12 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3326-11-12**] 5:29 PM
+     PORTABLE ABDOMEN                                                Clip # [**Clip Number (Radiology) 2324**]
+     Reason: assess for free air.                                        
+     Admitting Diagnosis: CHRONIC [**Last Name (un) 380**] PULM DISEASE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      61 year old woman with aspergilloma, now with firm abd                          
+     REASON FOR THIS EXAMINATION:
+      assess for free air.                                                            
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Firm abdomen.  Assess for free air.
+     
+     COMPARISON:  Radiograph of the chest dated [**3326-11-12**] at 7:57 a.m.
+     
+     SINGLE PORTABLE UPRIGHT VIEW OF THE ABDOMEN:  NG tube is unchanged terminating
+     in the fundus of the stomach.  A right IJ line is also unchanged.  No free air
+     is demonstrated within the abdomen.  Multiple air-filled loops of bowel are
+     seen within the lower abdomen in a nonspecific pattern.
+     
+     IMPRESSION:  No evidence of free air.
+
+",,
+24396,13425,30288,0,3326-11-12 05:51:00 EST,3326-11-12 05:58:00 EST,6508,"N",1,"Nursing/Other","Resp Care","
+Resp Care
+Pt remains on vent. Intubated with 7.5 @ 19 lip. Bs course. Suctioned mod amt of thick tan secretions. Mdis given with good results: decreased vent pressures. Abgs show metabolic acidosis. Md aware. Will continue to monitor.
+",,
+24396,13425,30288,0,3326-11-12 06:47:00 EST,3326-11-12 07:20:00 EST,2540,"N",1,"Nursing/Other","CCU Nursing Progress Note 1900-0700 MICU GRN Border","
+CCU Nursing Progress Note 1900-0700 MICU GRN Border
+S: Intubated and sedated.
+
+O: Please see careview for complete VS/additional objective data.
+
+MS: Sedation unchanged overnoc. Pt comfortable on Fentanyl 25 mcg/hr and Versed 0.5 mg/hr. Pt withdraws to painful stimuli. PEARL.
+
+CV: ST. HR 102-123. (^ while febrile). No vea. ABP 83-109/50-60. MAP>62. HO notified when MAP ~60. CVP was also around 6. Goal >12. Pt ordered for 1L IVFB. Marginal response to initial bolus. Received additional 1L IVFB per HO. CVP ^ 13-15. Currently [**10-15**]. Transfused 1 uprbcs on prior shift. Posttransfusion HCT 29 last pm. Repeat this am stable at 28.7. No plan for further transfusion at this time. Electrolytes wnl. Distal pulses palpable. 
+
+Resp: Remains mechanically ventilated on AC 40%/ 20*450/5 peep. RR 22-26. O2 sats 92-100%. Cont metabolic acidosis secondary to fever. ABG 7.20/53/86 last pm. ^ RR 22. Repeat gases PH slightly improved but cont metabolic acidosis. Pt cont to overbreath by 1-4 breaths. LS remain coarse. Suctioned for moderate to copious amts of tan thick secretions. CXR reveals ^ fluid. Severe COPD w/ aspergillus, bacterial/ fungal pna. GPC/GNR growth in sputum cx.  H/O bullous emphysema. Significant past tobacco use. 
+
+GI/GU: Abd soft. Distended. +BS. No stool. H/O Cdiff already receiving treatment. Cont on Promote w/ Fiber at GR of 40cc/hr. Minimal residuals. F/C to gravity. Poor UOP despite IVFB. Pt remains +7L LOS.
+Alk phos ^ 627. RUQ u/s wnl.
+
+ID: Tmax 101.8 po. Cont on multiple abx. Tylenol 650 mg x1. WBC improved to 35.1 this am. Bld/ urine cx pending. Contact precautions for Cdiff.
+
+Endo: BS 101-116. No coverage indicated.
+
+Skin: Some areas of ecchymosis. Otherwise intact.
+
+Dispo: Full code.
+
+Social: Daughters into visit. Updated. Dtr went home to find documentation on advanced directives. Family mtg held yesterday. Family updated on poor prognosis.
+
+A/P: 61 yo female w/ reoccurring hospitalizations for COPD exacerbations. On home O2. Tx to [**Hospital1 **] from OSH. Decompensated on floor. Intubated and tx to CCU for further mgmt. Febrile/ hypovolemic overnoc. Received 2L IVFB overnoc to maintain goal MAP>65 and CVP>12. Cont on multiple abx for multiple infectious processes. Cont Tylenol prn. Cont on Ambisome which is toxic. Follow LFTs. Cont metabolic acidosis. ^ RR as needed. Sedation for comfort. Cont to keep family updated in POC. Cont supportive care. 
+
+
+
+
+",,
+24396,13425,30288,0,3326-11-12 17:51:00 EST,3326-11-12 17:56:00 EST,2235,"N",1,"Nursing/Other",,"
+
+RESPIRATORY CARE: PT W/ A 7.5 ORAL ETT IN PLACE.
+REMAINS ON AC MODE AS PER CV. RR INCREASED TO 28
+BPM TO MATCH ASSISTING RATE. ABG C/W A PRIMARY 
+METABOLIC ACIDOSIS AND ADEQUATE OXYGENATION.
+MENTAL STATUS HAS DETERIORATED A BIT OVER THE
+COURSE OF THE SHIFT. CURRENTLY OFF ALL SEDATION. 
+ALBUTEROL AND ATROVENT MDI'S GIVEN. SX FOR TAN 
+SPUTUM. WILL C/W CURRENT VENTILATOR SETTINGS.
+",,
+24396,13425,30288,0,3326-11-12 18:32:00 EST,3326-11-12 19:22:00 EST,2499,"N",1,"Nursing/Other","CCU NPN 0700-1900 MICU border","
+CCU NPN 0700-1900 MICU border
+S: Pt orally intubated and mechanically ventilated.
+
+O: Please see careview for VS and additional data.
+
+CV: Pt 105-123 ST, pt with brief run of ventricular bigemeny this eve, HO aware, pt to NSR/ST without intervention.  ABP 86-10/45-61, MAPs 53-73.  Pt MAPS dropped to 53-57- SBP 79-80's-> levophed gtt started, weaned for goal MAP> 65, levophed gtt 0.08 mcg/kg/min.  CVP 10-18. Pt bilateral distal pulses palp.  Am HCt 28.7, K 4.4, Mg 2.2. Evening lytes and ABG sent, results pending.
+
+Resp: Pt on AC 40% 450 x 28 5 peep, please see careview for prior vent setttings/ ABGs. Most recent ABG 7.25/42/76.  pt sxn'd for sm to mod amts of thick tan secretions. Pt O2 sats 93-98, LS coarse to exp wheezes noted throughout, pt cont on MDI's per resp therapy.
+
+Neuro: Received pt on fentanyl 25 mcg/hr and versed 0.5 mg/hr, am assessment pt not responding to pain-> fentanyl gtt then versed gtt dc'd, Dr. [**Last Name (STitle) 398**] aware.  Throughout am pt moved eyelids upwards to sternal rub, withdrew bilateral LE to pain, as day continued pt with slightly improved MS/ wearing off of sedation, pt opening eyes occasionally to voice/stimulation, pt not following commands.  Pupils 2 mm equal and sluggish reactive to light.
+
+ID: Pt T max 101.1, HO aware, 650 mg tylenol given Q 6 hours. Pt continues on abx. Contact precautions for cdiff.
+
+GI/ENDO/GU: Pt abd soft distended throughout most of shift, + BS x 4, residuals checked Q4 hours. pt abd noted to be firm distended this eve, + BS x 4, 5 cc residual-Dr. [**Last Name (NamePattern4) 4574**] aware, abd xray done, TF continues Respalor 35 cc/hr. Pt FS 123-148, no ss insulin coverage given.  Pt with foley cath draining clr yellow-green tinged to amber u/o, approx 12-45 cc/hr, pt with poor u/o, CVP 10-> 1 L IVF bolus given at approx 1715. AM BUN 23, creat 1.6.
+
+Skin: Pt coccyx pink, some peeling noted-barrier cream applied, skin otherwise intact.
+
+Social: Pt adult children and sister in at bedside for most of afternoon-updated by MD [**First Name (Titles) **] [**Last Name (Titles) **].  
+
+A/P: 61 y/o female with recurring COPD exacerbations.  Pt hypotensive with decreased u/o-> 1 L IVF bolus given and levophed gtt started. As discussed per rounds, continue to monitor pt hemodyanmics-titrate levo gtt as tol.  Cont to monitor resp status, ABG's u/o-renal func.  Cont to monitor temps-admin tylenol Q 6 hours, cx's. Continue to monitor neuro status-? restart fentanyl and versed gtt's as MS clears and for pt comfort. Continue to provide emotional support to pt and family.   
+
+
+ 
+
+
+",,
+24396,13425,30288,,3326-11-13 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3326-11-13**] 6:57 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 2325**]
+     Reason: interval eval                                               
+     Admitting Diagnosis: CHRONIC [**Last Name (un) 380**] PULM DISEASE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+         61 year old woman with known aspergilloma and COPD, recent blood 
+      transfusion,    with worsening hypoxia and tachypnea
+     REASON FOR THIS EXAMINATION:
+      interval eval                                                                   
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Known aspergilloma and COPD with recent blood transfusion.
+     
+     CHEST X-RAY, PORTABLE AP:  Comparison made to prior study of one day prior.
+     The tubes and lines are unchanged.  There is an unchanged appearance of the
+     right upper lobe.  There is interval increased patchy opacities in the right
+     and left lower lobes.  The lung volumes are lower than on the prior study.
+     Relative lucency is present in the left upper lobe consistent with known
+     emphysema.
+     
+     IMPRESSION:
+     
+     Interval increase in patchy opacities in the right and left lower lung zones.
+     Of note, there have been asymmetric fluctuating opacities in the lower lobes
+     over several prior exams.  This may represent fluctuating edema versus
+     aspiration.
+     
+     No change in appearance of right upper lobe. 
+
+",,
+24396,13425,30288,0,3326-11-13 06:36:00 EST,3326-11-13 06:44:00 EST,1819,"N",1,"Nursing/Other",,"
+
+Resp Care: pt continues intubated and on ventilatory support with a/c, rate increased in an effort to improve persistent metabolic acidosis with acceptable oxygenation, autopeep continues +10; bs coarse, sxn thick tan secretions, rx with mdi albuterol/atrovent/[**Last Name (LF) 4575**], [**First Name3 (LF) 34**] cont full support.
+",,
+24396,13425,30288,0,3326-11-13 06:52:00 EST,3326-11-13 07:35:00 EST,5517,"N",1,"Nursing/Other","Nursing Note 7p-7a","
+Nursing Note 7p-7a
+S/O: Pt intubated.
+Neuro- Remains off all sedation. Pupils 2mm sluggish, responds to tactile stimulation, soft wrist restraints on for safety.
+CV- Tele SR no vea, HR 85-95. Conts on Levophed gtt @ .095mcg/kg/min with ABPs 90s-104/50s, maintaining MAPs >=65, CVPs 12-14. A-line intact/sharp, R IJ CVP/TLCL intact.
+Resp- Vented on CMV 40% 450x28 5peep, remains in metabolic acidosis latest ABG 7.22 41 78 -10 18, resp therapy ^ RR 32 to blow off more C02, ABG pending. Sx several tx thick tan sputum.
+GI/GU- OGT intact, respalor @ 35cc/hr (goal) conts, min residules. Abd firm/distended +bs, no bm post suppository. Foley patent, uop remains poor 10-15cc/hr dark amber colored. 1L NS [**Doctor Last Name 1261**] x1 given with no effect. Cre 1.8/BUN 29.
+Endo- FS 155/141
+ID- Tmax 98.5 po, WBC ^37.6 (35.1), conts on mult abx for + aspergillis pneumonia, C-diff +.
+A/P: 61yo female with Hx reoccurring COPD exacerbations, decompensated on floor tnsf CCU for intubation. Cont plan of care, monitor hemodynamics on Levophed gtt, ABGs. Monitor uop d/t Ambisome being nephrotoxic, support family.  
+",,
+24396,13425,30288,0,3326-11-13 15:01:00 EST,3326-11-13 15:03:00 EST,6828,"N",1,"Nursing/Other","respiratory care","
+respiratory care
+Pt continues to be orally intubated/ventilated.  BS:  coarse bilaterally.  Suctioned for copious yellow secretions.  MDI's given as ordered.  Metabolic acidosis improving with RR increasing to 32 and Tidal volumes increasing to 480cc's.  Auto-Peep noted to be 10-11cm.  Heated circuit applied and tube retaped at 19cm.  Will continue to closely monitor at this time.
+",,
+24396,13425,30288,0,3326-11-13 18:07:00 EST,3326-11-13 18:20:00 EST,7594,"N",1,"Nursing/Other","CCU 7A-7P","
+CCU 7A-7P
+See care view for objective data.
+
+Decision taken to withdraw treatment, Daughter brought in [**Known patient firstname 1248**]s advance directive outlining that she would not want to be artifically  ventilated, fed or having medications to support systems. long disscussions between family members with/without medical staff about withdrawning treatment. 
+
+Family decided to make [**Known patient firstname 1248**] comfortable with morphine drip and  stop all supportive treatment as per her wishes. Family also asked for a Priest to see [**Known patient firstname 1248**], priest came to unit.
+
+Family now present with [**Known patient firstname 1248**], Levophed off, IV morphine running at 20mg/hr, vent settings reduced to [**5-9**], rate down to 6 and Fi02 down to 22%. Daughter expressed wishes that we ensure she dose not have any tape marks on face once ET tube removed, stated we would do our best to do this.  
+",,
+24396,13425,30288,0,3326-11-13 21:55:00 EST,3326-11-13 22:04:00 EST,2540,"N",1,"Nursing/Other","CCU Nursing Progress Note MICU Border","
+CCU Nursing Progress Note MICU Border
+Received pt CMO on Morphine gtt at 35 mg/hr. Initial assessment found pt responsive to painful stimuli only. Aganol breathing noted while on the ventilator. Pt tachycardic w/ HR 140s. ABP via left radial arterial line 60/22. After repositioning pt and performing back care family approached RN requesting removing ETT d/t pt's ""uncomfortable looking breathing"". HO notified and present to speak with family. Pt was extubated at 2130. HO confirmed expiration at 2145. No autopsy to be performed per request of family.
+",,
+24396,13425,30288,,3326-11-14 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+",,

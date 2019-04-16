@@ -1,0 +1,1044 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+24040,11360,,,2596-03-18 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+ 
+ 
+ 
+Admission Date:  [**2596-3-18**]              Discharge Date:   [**2596-4-6**]
+ 
+Date of Birth:  [**2540-6-2**]             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Pentamidine Isethionate / Nevirapine / Sulfamethoxazole / 
+Amitriptyline Hcl / Imipramine / Clindamycin / Abacavir / 
+Gabapentin
+ 
+Attending:[**First Name3 (LF) 89**] 
+Chief Complaint:
+Reason for MICU admission: Pressors, sepsis resussitation
+ 
+Major Surgical or Invasive Procedure:
+central line placement and removal
+peripherally inserted central catheter placement, inadvertently 
+removed by patient
+bone marrow biopsy
+endoscopic retrograde cholangiography
+ 
+History of Present Illness:
+55 year old man with PMH of HIV, alcohol abuse, and PCP presents 
+with fever and diarrhea x 5 days. He reports that he was started 
+on HAART a few months ago, but had gone on an alcoholic binge 
+and decided not to take the HAART. Around Patriot's Day he had 
+some diarrhea which he attributed to HAART. He was very weak 
+during this period and stopped taking the HAART, after which he 
+felt significantly better for 2 days. Over the next few days, 
+the patient has had predominantly diarrhea with only [**11-24**] solid 
+BM's, subjective fevers and soaking night sweats, mild cough 
+productive of clear mucus. He is very weak and lethargic. His 
+friends told him that he looked [**Last Name (LF) 4451**], [**First Name3 (LF) **] he called his PCP's 
+office and came into the ED. [**Hospital1 1220**] was on diversion so he came to 
+[**Hospital1 25**] instead.  
+.  
+In the ED, his initial BP was 88/54 and he had a temp of 100.9. 
+He was given 4L of NS with no improvement of his blood pressure 
+to 80/45. He received vanc/levo/flagyl and a code sepsis was 
+called. CT abdomen/pelvis showed no pathology, and CXR showed no 
+pneumonia. He received another 1L of fluid but CVP was >8 so he 
+was started on levophed and admitted to the FICU for sepsis.  
+. 
+FICU course: Initially on vanc/levo/flagyl. Stabilized and off 
+pressors within 12hrs. US with evidence of acute 
+cholecystitis(?) - added cefepime for broader GM NEG coverage. 
+On [**3-19**], he spiked to 103.3 and on [**3-20**]: Hemolysis noted on labs 
+-> marked hemolysis requiring 2 units transfusion overnight. Due 
+to ongoing temp spikes and hypoxia, cefepime was changed to 
+meropenem. Heme saw and ruled out TTP-HUS. He also had BMBX for 
+pancytopenia. MICRO studies sent in FICU: Cdiff, Blood cultures, 
+sputum for PCP, [**Name10 (NameIs) 4452**] VL, Stool O and P, galactomannin, B glucan.  
+
+. 
+A code purple was called in the FICU prior to transfer as 
+patient wanted to leave. Controlled with Haldol. Upon arrival to 
+the floor on [**3-30**], he trigerred for hypoxia, tachycardia, had a 
+fever of 100.8, tremors -> from anxiety. Treated with nebs, 
+ativan/haldol, bl/urine cx drawn.  
+.  
+ROS: Reports that stomach is distended. Has lost 20 pounds over 
+the last 6 weeks. Fever, chills, sweats, cough, diarrhea (mucus 
+watery stool) as per HPI. Has some associated abdominal pain 
+lasting less than 10 seconds, LLQ, crampy while in hospital. 
+Also has nausea and vomiting. Feels generally ill. Has some SOB 
+at baseline, variable. Denies chest pain. Hasn't been able to 
+hold much food down - last time was 2 days PTA, could eat a 
+little pasta down. Has been able to keep liquids down.  
+ 
+Past Medical History:
+HIV, diagnosed in [**2582**], on and off various HAART regimens. Last 
+CD4 22 in 12/06 and VL > 500K
+Pneumocystis pneumonia - multiple times (last time over a year 
+ago)
+Alcohol abuse - last drink [**3-7**]
+COPD
+ 
+Social History:
+Lives alone. Partnerl died in [**2584**], smokes 1 ppd from 2 ppd for 
+30 years. Drinks 12+ beers per day when drinking (in binges). 
+Worked as house painter. 
+ 
+Family History:
+ NC
+
+ 
+Physical Exam:
+PE: Tm 101.9 Tc 99.1 P 104 BP 115/66 R21 97% 2L NC CVP 8 SVO2 
+55%
+Gen: Appears acutely ill, no respiratory distress, able to give 
+full history
+HEENT: PERRLA, EOMI, MM dry, OP clear
+Neck: right IJ in place
+Resp: end expiratory wheezes all areas, no crackles
+CV: tachy distant nl s1s2 no M
+Ext: Soft NTND hyperactive bowel sounds
+Neuro: CN [**1-4**] intact, strength intact in UE and LE.
+ 
+Pertinent Results:
+EKG: NSR at 83, NL axis, no ST/T wave changes. No previous for 
+comparison.
+.
+CXR:  Two views of the chest demonstrate clear lungs, normal 
+cardiac and mediastinal contours, and unremarkable osseous 
+structures. 
+IMPRESSION:  No pneumonia. 
+.
+CT Abd:
+IMPRESSION: 
+1.  Splenomegaly. 
+2.  Diffusely prominent mesenteric and retroperitoneal lymph[**MD Number 2082**] which overall do not meet CT criteria for pathologic 
+enlargement. 
+3.  Small amount of free fluid within the abdomen. 
+4.  Fatty liver. 
+5.  Equivocal cholelithiasis. 
+. 
+RUQ ULTRASOUND to evaluate ""equivocal"" cholelithiasis as source 
+of sepsis: 
+ADDENDUM:  Upon re-evaluation of the sonographic images, as well 
+as further clinical information, the findings are less 
+suggestive of acute cholecystitis. The patient has 
+hypoalbuminemia with an albumin level of 2.8 on [**2596-3-17**] (one day 
+prior to the ultrasound) and current albumin level of 1.7, 
+approximately four days later. Gallbladder wall edema and 
+pericholecystic fluid, as seen on the ultrasound, can be often 
+seen in patients with hypoalbuminemia. Additionally the 
+gallbladder is not tense and distended as is usually seen in 
+cholecystitis. Finally, the patient has a history of HIV and 
+could be presenting with AIDS related cholangiopathy to account 
+for his symptoms. 
+IMPRESSION: 
+1.  Gallbladder wall edema, most likely secondary to acute 
+cholecystitis. 
+2.  Common bile duct is mildly dilated, measuring 7 mm; however, 
+no stone is seen within the CBD. 
+3.  The liver demonstrates increased echogenicity with 
+appearance of fatty 
+liver; however, other liver disease including cirrhosis and 
+fibrosis cannot be excluded. 
+. 
+MRCP to further evaluate cholecystitis: 
+1.  Gallbladder wall thickening and pericholecystic fluid 
+consistent with 
+cholecystitis. 
+2.  No evidence of intra- or extra-hepatic biliary ductal 
+dilatation or 
+pancreatic ductal dilatation. 
+3.  Splenomegaly. 
+4.  Moderate right pleural effusion and small amount of ascites. 
+
+. 
+ERCP: 
+The common bile duct, common hepatic duct, right and left 
+hepatic ducts, biliary radicles, cystic duct, and gallbladder 
+were filled with contrast and well visualized. The course and 
+caliber of the structures are normal with no evidence of 
+extrinsic compression, no ductal abnormalities, and no filling 
+defects. Normal ERCP to the second part of duodenum. 
+. 
+BONE MARROW BIOPSY, for pancytopenia:  
+1.     Hypercellular, erythroid dominant bone marrow with 
+megaloblastoid erythropoiesis, left-shifted myelopoiesis, and 
+megakaryocytic hyperplasia and dysplasia, see note.
+Note:  The morphologic changes [megaloblastic erythropoiesis, 
+dysplasia] are in keeping with a background HIV-related and/or 
+treatment-related myelopathy. No lymphoma is noted.
+2.     Small, non-necrotizing granulomata seen. 
+Special stain for infectious organisms are pending and will be 
+reported in an addendum.
+
+BONE MARROW PATH REPORT ADDENDUM: 
+AFB and GMS stains are negative for acid-fast and fungal 
+organisms, respectively. Of note, the granulomas were no longer 
+present on deeper levels obtained for stains. By 
+immunohistochemistry, stain for CMV is negative. CD68 stains 
+abundant interstitial histiocytes.
+
+ 
+Brief Hospital Course:
+55yo male with h/o AIDS (CD4 51, VL >100,000), HCV, multiple 
+episodes of PCP, [**Name10 (NameIs) 4453**] initially in shock with presumed 
+sepsis of biliary source, now with AFB in blood cultures and 
+stool cultures, likely disseminated MAC  
+
+# Disseminated MAC: High suspicion of MAC given constellation of 
+diarrhea, fevers with night sweats, mesenteric lymphadenopathy, 
+and pancytopenia with necrotizing granulomata on bone marrow in 
+an AIDS patient who was not taking MAC prophylaxis. AFB in blood 
+cultures from [**3-18**] and [**3-20**] and also in stool culture from [**3-23**]. 
+Most likely MAC, less likely TB. Of note, smears of concentrated 
+sputum samples were negative x3 therefore patient does not have 
+infectious pulmonary tuberculosis. Started ethambutol 15mg/kg, 
+rifabutin 150mg every other day (dose adjusted for concurrent 
+ritonavir therapy, see below), and clarithromycin 500mg bid; 
+will need prolonged course. Had opthalmologic exam on starting 
+high dose ethambutol and will need follow-up monitoring of 
+visual acuity and repeat optho exam in one month, as ethambutol 
+can cause color blindness and decreased visual acuity; he has 
+normal color vision and no visual complaints at the time of 
+discharge. Had limited but apparently normal hearing test, but 
+limited by impacted cerumen. Debrox otic drops x4 days and then 
+repeat hearing test, as high dose clarithromycin can be ototoxic 
+and patient will need long course.  
+  
+# Biliary disease: cholecystitis, either bacterial or 
+acalculous, was aggressively pursued as source of sepsis, but 
+after extensive workup including ERCP, findings were ultimately 
+consistent with HIV cholangiopathy. During this work up, he did 
+complete 10 days of broad spectrum antibiotics, most recently 
+vancomycin and meropenem, empirically directed at biliary 
+source. GI consultant additionally recommended EGD and 
+colonoscopy because of mesenteric lymphadenopathy, which patient 
+refused; once AFB cultures turned positive, consistent with MAC, 
+further diagnostic procedures to evaluate this lymphadenopathy 
+seemed redundant, although if it does not improve with MAC 
+therapy, endoscopy should be re-considered. 
+
+# HIV: CD4 count 51, viral load >100,000 copies (checked this 
+admission); HIV genotype was sent to reference lab. Patient was 
+not taking HAART on admission, but after discussing with Dr 
+[**First Name8 (NamePattern2) 4454**] [**Last Name (NamePattern1) 167**], patient's outpatient ID/Primary Care doctor, [**Hospital1 25**] 
+ID consultant recommended initiating HAART while treatment for 
+disseminated MAC was underway. Started Kaletra and lamivudine; 
+ID initially recommended Kaletra + Truvada, but patient reported 
+significant N/V with Truvada and refused to take it, so start 
+with lamivudine for now; patient will follow-up with Dr [**Last Name (STitle) 167**] 
+and likely add another ARV to regimen. Atovaquone for PCP 
+prophylaxis because it was possible that hemolysis observed 
+during was due to dapsone and patient reports allergies to 
+bactrim and pentamadine. 
+
+# Pancytoenia: likely [**12-25**] disseminated MAC  
+** Leukopenia: received Filgrastim with improvement in ANC 
+levels twice weekly with adequate WBC response. Will continue 
+with filgrastin 300mcg twice weekly x1 month; because MAC is 
+slow to respond to antibiotics, may need longer course of GM-CSF 
+support.   
+** Anemia - stable at 24 (same as admission), low retic, 
+elevated ferritin, low hapto. Course complicated by hemolysis in 
+ICU, resolved after stopping dapsone but exact cause not 
+certain, for which he received 3 units PRBCs.  
+** low platelets - could be either PHAT (primary HIV-associated 
+thrombocytopenia) or MAC infiltration of bone marrow. HIT Ab 
+(low suspicion) was negative.   
+ 
+# Tachycardia: CTA was negative for PE, possibly due to anemia; 
+also, AIDS patients have been reported to have persistent 
+tachycardia.  
+  
+# COPD:  
+- nebs Q6H  
+  
+# Delirium: Patient very disoriented near end of ICU stay, but 
+mental state cleared and had normal sensorium on the medical 
+[**Hospital1 **]. Avoid benzos; low dose atypical antipsychotic only if 
+needed. 
+ 
+# Depression: patient seems depressed when talking to him, very 
+frustrated with hospital stay and doesn't feel that he is 
+getting any better. Appreciate psychiatry input.  
+ 
+# Ascites: likely due to aggressive volume resuscitation early 
+in ICU course. Patient refused paracentesis; after diagnosis of 
+AFB bacteremia was established, thoracentesis was not likely to 
+add additional diagnostic information, so this was not 
+revisited. 
+
+# bilateral pleural effusions: again, likely due to volume 
+resuscitation; ICU team discussed diagnostic tap with patient, 
+who refused procedure. Once unifying diagnosis of AFB 
+bacteremia/disseminated MAC was made, this was not revisited. 
+Once patient was ambulatory, effusions decreased somewhat in 
+size with pulmonary toilet and he was weaned off oxygen 
+gradually. 
+
+#) code - DNR/DNI, confirmed with patient
+#) FEN - received TPN for malnutrtion and [**Known patient lastname **] po intake while 
+in ICU. Advanced to regular diet as tolerates, with Ensure 
+supplements and Megace for AIDS wasting.  
+#) proph - low platelets so pneumoboots only 
+
+ 
+Medications on Admission:
+Dapsone
+ 
+Discharge Medications:
+1. Atovaquone 750 mg/5 mL Suspension Sig: 1500 (1500) mg PO 
+DAILY (Daily): prevents PCP [**Name Initial (PRE) 1074**].
+Disp:*300 mL* Refills:*2*
+2. Clarithromycin 250 mg Tablet Sig: Two (2) Tablet PO BID (2 
+times a day): for mycobacterium (MAC) infection.
+Disp:*120 Tablet(s)* Refills:*2*
+3. Ethambutol 400 mg Tablet Sig: Three (3) Tablet PO DAILY 
+(Daily): for mycobacterium (MAC) infection.
+Disp:*90 Tablet(s)* Refills:*2*
+4. Rifabutin 150 mg Capsule Sig: One (1) Capsule PO EVERY OTHER 
+DAY (Every Other Day): for mycobacterium (MAC) infection.
+Disp:*15 Capsule(s)* Refills:*2*
+5. Lamivudine 300 mg Tablet Sig: One (1) Tablet PO once a day: 
+for HIV.
+Disp:*30 Tablet(s)* Refills:*2*
+6. Lopinavir-Ritonavir 200-50 mg Tablet Sig: Two (2) Tablet PO 
+BID (2 times a day): for HIV.
+Disp:*120 Tablet(s)* Refills:*2*
+7. Megestrol 40 mg/mL Suspension Sig: Twenty (20) mL PO DAILY 
+(Daily): for appetite.
+Disp:*400 mL* Refills:*2*
+8. Folic Acid 1 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Disp:*100 Tablet(s)* Refills:*2*
+9. Thiamine HCl 100 mg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).
+Disp:*100 Tablet(s)* Refills:*2*
+10. Pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One 
+(1) Tablet, Delayed Release (E.C.) PO Q24H (every 24 hours).
+Disp:*30 Tablet, Delayed Release (E.C.)(s)* Refills:*2*
+11. Cane
+Please provide patient with a cane for walking
+12. Filgrastim 300 mcg/0.5 mL Syringe Sig: Three Hundred (300) 
+mcg Injection twice every week for 1 months: for bone marrow 
+suppression.
+Disp:*8 syringes* Refills:*0*
+13. Acetaminophen 650 mg Tablet Sig: One (1) Tablet PO four 
+times a day as needed for fever or pain: do not take more than 
+4,000mg in a day.  
+14. Outpatient Lab Work
+Please draw blood weekly for CBC. Please draw on same day as 
+neupogen will be given, before giving dose. Send result to Dr 
+[**First Name8 (NamePattern2) 4454**] [**Last Name (NamePattern1) 167**] phone [**Telephone/Fax (1) 4455**]/fax [**Telephone/Fax (1) 4456**]
+
+ 
+Discharge Disposition:
+Home with Service
+ 
+Discharge Diagnosis:
+1. HIV/AIDS with CD4 51, VL >100,000; complicated by PCP 
+pneumonia in the past
+2. disseminated Mycobacterium avium-intracellulare complex 
+infection
+3. chronic obstructive pulmonary disease
+4. history of alcohol abuse
+
+ 
+Discharge Condition:
+good, tolerating regular diet, ambulatory, O2 Sats >90% on room 
+air while ambulating, but intermittently febrile due to 
+disseminated Mycobacterial infection
+
+ 
+Discharge Instructions:
+[**Doctor First Name 27**] have a very wide-spread infection caused by Mycobacterium 
+avium complex. [**Doctor First Name 27**] need to take the antibiotics rifabutin, 
+clarithromycin, and ethambutol for several months for this 
+infection. Talk to Dr [**Last Name (STitle) 167**] before stopping them, and be careful 
+not to miss [**First Name (Titles) **] [**Last Name (Titles) 4457**], because missing doses can make the 
+infection harder to treat in the future. 
+
+We started [**Doctor First Name **] on Truvada and lamivudine for HIV treatment. When 
+[**Doctor First Name **] see Dr [**Last Name (STitle) 167**], [**First Name3 (LF) **] may need another medicine for HIV, as 
+well. 
+ 
+Followup Instructions:
+We have scheduled an appointment with Dr [**First Name8 (NamePattern2) 4454**] [**Last Name (NamePattern1) 167**] for [**Doctor First Name **] on 
+[**Last Name (LF) **], [**4-2**]:30pm. His office number is [**Telephone/Fax (1) 4455**]. 
+
+[**Doctor First Name 27**] should see Dr [**Last Name (STitle) 455**] in the [**Hospital1 25**] Opthalmology (Eye) Clinic 
+for a repeat screening vision exam in mid-[**Female First Name (un) 1137**], after one month 
+of ethambutol. Call [**Telephone/Fax (1) 465**] for an appointment. 
+
+ 
+                             [**First Name5 (NamePattern1) **] [**Last Name (NamePattern1) **] MD [**MD Number 98**]
+ 
+Completed by: [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 2386**] MD [**MD Number 2387**] [**2596-4-13**] @ 1352
+Signed electronically by: DR. [**First Name5 (NamePattern1) **] [**Last Name (NamePattern1) **]
+ on: WED [**2596-4-13**] 2:38 PM
+(End of Report)
+
+
+",,
+24040,11360,29858,0,2596-03-18 05:10:00 EST,2596-03-18 05:19:00 EST,8798,"N",69,"Nursing/Other","ficu nursing note 06.00-07.00","
+ficu nursing note 06.00-07.00
+Neuro:
+pt alert and orientated x3 .Pt denies pain .
+
+CV:
+See carevue for objective data,pt was given 5lt fluid in the ed ,then placed on septic protocol as bp not responding,commenced on levophed @ 0.05mcg/kg/hr.Tmax 101.8 in the ed ,now 99.7 .2 sets of blood cultures sent.
+
+GI/GU:
+pt having d/v x 5 days,one episode of watery stool since admission .
+pt had 1,750 output in the ed,using bottle to void .Stool and urine sent to lab.
+
+Resp:
+Lung sounds clear in all lobes,rr rate increased due to temp ,on 02 3l via nasal cannuala.For sv02 monitoring .
+
+Skin:
+On contact precautions due to loose stool and vomiting.
+IV access x2,wnl also pt has rt triple lumen ij wnl.
+
+Social:
+No family with pt.
+
+Plan :
+Monitor cvp,bp ,svo2 and follow up and replete lytes.
+",,
+24040,11360,29858,0,2596-03-18 13:16:00 EST,2596-03-18 13:50:00 EST,1340,"N",69,"Nursing/Other",,"
+
+NPN 0700-1900
+
+Neuro: A&O X3, tired from lack of [**Doctor Last Name **] past few days. Able to [**Doctor Last Name **] in naps. Given ativan 1mg po X1 for c/o anxiety with good effect. MAE's, says he is very weak from not eating in 3-4 days.
+
+CV: Levophed weaned off by 0730; NBP 87-143/55-77, given total 2500cc NS fluid bolus for low BP and CVP <12; HR 85-130, SR/ST with rare PVC, less tachy in afternoon when Temp down and after fluid boluses; CVP 8-12; no peripheral edema. Repeat crit this am 28.8
+
+Resp: O2 sat 97-100% on O2 at 3L NC; RR 24-35, pt reports breathing feels better today than past couple of days; Lung sounds are clear upper lobes, diminished lower lobes with intermittent scattered wheezes. Frequent productive cough of white sputum in am, but this has subsided. RT to start alb/atr nebs and to get induced sputum for r/o PCP.
+
+GI/FEN: NPO for U/S of g/b and liver (results pending); was tolerating clear liquids prior; says he feels hungry and wants to eat; abdomen is firmly distended with +BS; had [**1-24**] watery stools throughout the day, specimen sent this am, will need daily specs for C.diff. Lytes repleted as follows: 40meq KCL IV for K of 3.5, 4gms Ca gluconate for Ca of 1.03
+
+GU: Voiding ~100cc concentrated urine at a time; fluid balance is +6500cc; received total of 2500cc NS IVF boluses.
+
+ID: Tmax 104 at 0900 -> cooling blanket on and given tylenol 650mg; Tcurrrent 99; on vanco, levo, flagyl. Most recent lactate 1.0; 
+
+Plan: Monitor temp, wbc's, follow cultures, antibiotics as ordered, obtain sputum and stool specs as ordered; albuterol nebs q 6hrs, O2 @ 2-4L NC to maintain O2 sats >92%; monitor fluid/electrolyte status, replete prn; goal CVP >12 -> NS fluid bolus 500cc prn; pt is dnr/dni. 
+
+   
+",,
+24040,11360,29858,0,2596-03-18 14:19:00 EST,2596-03-18 14:24:00 EST,712,"N",69,"Nursing/Other",,"
+
+RESPIRATORY CARE: PT IS A 55 YO MALE PT 
+W/ AIDS WHO NOW PRESENTS W/ FEVER/ 
+MALAISE AND MILD SOB. PT GIVEN A NEB.
+TX W/ ALBUTEROL/ ATROVENT FOLLOWED BY
+HYPERTONIC SALINE AEROSOL X 20 MINUTES
+TO ATTEMPT A SPUTUM INDUCTION FOR PCP.
+[**Name10 (NameIs) 4072**] PENDING.
+ 
+
+",,
+24040,11360,29858,0,2596-03-19 03:13:00 EST,2596-03-19 03:23:00 EST,1008,"N",69,"Nursing/Other","MICU/SICU NPN ICU day #2","
+MICU/SICU NPN ICU day #2
+Events: bolused x1 with 500cc NS for CVP <12
+
+S: ""I'm very anxious, near panic.""
+
+O:
+
+Neuro: pt is A&Ox3, generally anxious, med x1 with IV lorazepam with good effect, CIWA scale 4-11
+
+Pulm: LS CTA, SpO2 93-100% RA
+
+CV: HR 98-122 SR/ST without appreciabel ectopy, BP 95-123/44-71, CVP 8-14, please see flowsheet for data
+
+Integ: C/W/D/I
+
+GI/GU: abd soft, NT/ND, hyperactive BS, tolerating clear liquids without difficulty, multiple liquid BM overnight, voiding small amts amber urine in urinal frequently 
+
+Access: right IJ PreSept cath day #2, PIV x2
+
+A:
+
+acute on chronic anxiety r/t hospitalization, diagnosis
+fluid volume deficit r/t diarrhea, N/V
+high risk for infection r/t invasive line
+
+P:
+
+continue to monitor hemodynamic/respiratory status, ADAT, activity progression, continue abx as ordered and follwo micro data,transfer to medical bed when available
+",,
+24040,11360,29858,0,2596-03-19 04:09:00 EST,2596-03-19 04:11:00 EST,1154,"N",69,"Nursing/Other",,"
+
+Resp: Pt ordered for nebs of Alb/Atr. Bs are diminished bilaterally. No adverse reactions following neb. Will continue to follow.
+",,
+24040,11360,29858,0,2596-03-19 14:37:00 EST,2596-03-19 14:40:00 EST,712,"N",69,"Nursing/Other",,"
+
+RESPIRATORY CARE: PT SEEN FOR AN INDUCED SPUTUM FOR PCP
+AND AFB ( [**Doctor First Name **] NOT TB ) USING INDUCTION PROTOCOL W/ 3 %
+HYPERTONIC SALINE AEROSOL. SPECIMEN OBTAINED AND SENT
+TO LAB. RESULTS PENDING. WILL REPEAT IN AM. APPEARS
+COMFORTABLE W/ SPO2 97 % ON RA. 
+",,
+24040,11360,29858,0,2596-03-19 16:13:00 EST,2596-03-19 17:10:00 EST,1340,"N",69,"Nursing/Other",,"
+
+NPN 0700-1900
+
+General/Events: Temp still spiking - up to 103.3 this am; late afternoon felt worse with diarrhea, coughing spasms and another spike in temp to 103.6ax with tachycardia -> 500cc NS fluid bolus X1 given.
+
+Neuro: A&O X3, lethargic at times but was up in chair for an hour early afternoon. Gait steady, says he felt stronger than he has in awhile. Given ativan .5mg X1 for c/o anxiety with good effect. Discouraged in afternoon when symptoms worsened.
+
+CV: NBP 89-156/49-85, HR 103-130's, ST -> given 500cc NS fluid bolus X1 for tachycardia, did not have hypotension with increased HR. No peripheral edema, pulses strong and palpable. Crit stable at 27, platelets 66.
+
+Resp: O2 sat 92-97% on RA, 99-100% on 2-3L; lung sounds are clear upper lobes, diminished lower. Has a frequent dry nonproductive cough that comes in spells, little relief from robitussin so robitussin with codeine ordered. Sputum spec sent after receiving humidified O2, pt able to expectorate small amt.
+
+GI/FEN: Abdomen firm, less distended than yesterday, NT, +BS, had [**2-25**] small to medium amt of loose brown stool -> spec sent for C. diff. Tolerating clear liquids, wants solid food. 
+Mag of 1.8 repleted with 400mg mag oxide.
+Phos of 1.5 repleted with 1 packet of neutra-phos.
+K of 3.3 repleted with 60meq KCL tabs.
+
+GU: Voiding 150-200cc at a time; fluid balance since midnight is +645, LOS +8L.
+
+ID: Tmax and current 103.6ax, continues on levo, flagy, vanco, cefapime. Urine, stool and sputum specs sent today.
+
+Plan: Monitor temp, follow cultures, continue antibiotics; monitor hemodynamic and fluid/electrolyte status -> fluid boluses for hypotension, tachycardia, low urine output, replete lytes prn
+",,
+24040,11360,29858,0,2596-03-20 02:38:00 EST,2596-03-20 02:46:00 EST,1008,"N",69,"Nursing/Other","MICU/SICU NPN ICU Day #3","
+MICU/SICU NPN ICU Day #3
+Events: bolused x2 for hypotension/tachycardia
+
+S: ""I just wish I knew what's wrong, I'm very anxious.""
+
+O:
+
+Neuro: pt is A&Ox3, MAEW, denies pain, transfers bed to commode with supervision, very anxious
+
+Pulm: LS CTA, SpO2 96-99% RA, strong cough occasionally productive
+
+CV: HR 100-128 SR/ST without appreciable ectopy, BP 79-125/46-87, CVP 13-18, please see flowsheet for data
+
+Integ: C/W/D/I
+
+GI/GU: abd is softm NT/ND, BS present, tolerating full liquids without difficutly, multiple sot/liquid BM on commode, voiding small amts amber urine frequently
+
+Access: right IJ PreSept cath day #3, PIV x2
+
+A:
+
+anxiety r/t hospitalization, diagnosis
+high risk for infection r/t invasive line
+fluid volume deficit r/t GI losses
+
+P:
+
+continue to monitor hemodynamic/respiratory status, continue abx as ordered and follow micro data, ADAT, activity progression, aggressive pulmonary toilet
+",,
+24040,11360,29858,0,2596-03-20 05:29:00 EST,2596-03-20 05:31:00 EST,1008,"N",69,"Nursing/Other","Addendum to NPN","
+Addendum to NPN
+Pt spiked to 103.7 ax, unable to obtain oral temp d/t pt agitation, blood cultures x2 including fungal isolator sent, team notified. med x1 with APAP 650 PO. continue to monitor.
+",,
+24040,11360,29858,0,2596-03-20 15:39:00 EST,2596-03-20 16:14:00 EST,1340,"N",69,"Nursing/Other",,"
+
+NPN 0700-1900
+
+Events: Temp spike to 102.2ax with HR to 150's and severe coughing spasm. CXR indicates pna. Bolused with total of 1500cc LR for tachycardia and hypotension.
+
+Neuro: A&O, lethargic at times. OOB to commode with minimal assist, weak but steady gait. 
+
+CV: NBP 78-152/48-78, 1L LR bolus given for NBP 78/48; HR 97-154, SR/ST -> EKG done when HR up to 150's -> SVT and a-fib ruled out, NBP with increased HR was 150's/80's, given 500cc LR bolus. Pt denies CP, echo ordered to R/O endocarditis. Crit at 1600 19.8 (7pt drop) ?hemolysis -> to be transfused with 2units PRBC's.
+
+Resp: O2 sat 88-99% on 3L NC, lung sounds remain clear, diminished lower bases, RR 23-37, labored at times; coughing spasms occurring with spikes in temp -> dry NP cough, no relief with guafenisen w/codeine -> lidocaine neb and benzoate tabs ordered. CXR this am suspicious for RLL pna.
+
+GI: Abdomen softly distended, slight tenderness lower quads, +BS, [**1-24**] small to medium loose stools. #3 spec for C. diff sent. Pt advanced to BRAT diet. Apetite fair.
+
+GU: Voiding small amts amber urine in urinal and commode, also occasionally incontinent. 24hr fluid status is +2500, LOS +13380. Received total of 1500cc IV fluid boluses.
+
+ID: Tmax 102.2ax, current 101.6. Received tylenol X1. Remains on levo, flagyl, cefapime, vanco. Vanco trough this am 11.6
+
+Plan: Monitor temp, follow cultures, CXR, continue broad coverage abx; monitor hemodynamic status, LR IVF boluses for hypotension and tachycardia; monitor crit and hemolysis labs; monitor fluid/electrolyte status, replete prn.  
+
+
+",,
+24040,11360,29858,0,2596-03-20 16:58:00 EST,2596-03-20 17:08:00 EST,712,"N",69,"Nursing/Other",,"
+
+RESPIRATORY CARE: PT W/ EPISODES OF TACHYCARDIA/ TACHYPNEA
+AND WHEEZING ASSOCIATED W/ INTRACTABLE COUGH. PT GIVEN A SVN
+W/ ATROVENT AND 1 % XYLOCAINE FOR WHEEZE/ COUGH. SUB/OBJ. 
+BENEFIT BUT UNCLEAR WHETHER WAS DUE TO ATROVENT/XYLOCAINE.
+PT ALSO RECIEVED CODIENE FOR COUGH [**Name8 (MD) **] RN. NO SPUTUM
+OBTAINED TODAY. WILL F/U IN AM.
+
+
+",,
+24040,11360,29858,0,2596-03-21 03:59:00 EST,2596-03-21 04:12:00 EST,1008,"N",69,"Nursing/Other","MICU/SICU NPN ICU day #4","
+MICU/SICU NPN ICU day #4
+Events: transfused 2U PRBC, spiked to 101.6PO, bolused with 1 L LR for hypotension, pt became acutely SOB with diffuse wheezes after pivoting to commode
+
+S: ""Why is my breathing so bad? I'm so anxious, what's wrong?""
+
+O:
+
+Neruo: pt is A&Ox3, MAEW, denies pain, transfers bed to commode with supervision, extremely anxious
+
+Pulm: LS are mostly CTA, but pt became acutely SOB after transfer to commode and developed diffuse expiratory wheezes requiring albuterol/Atrovent/lidocaine neb, resp status improved over several hours
+
+CV: HR 100-127 ST without appreciable ectopy, BP  76-155/39-87, CVP 15, please see flowsheet for data
+
+Integ: C/W/D/I
+
+GI/GU: abd soft, NT/ND, BS present, tolertating BRAT diet without difficulty, pt continues to have soft loose stool, voiding small amts amber urine in urinal and commode
+
+Access: right IJ PreSept cath day #4, PIV x2
+
+A:
+
+anxiety r/t hospitalization/diagonsis
+high risk for infection r/t invasive line
+fluid volume deficit r/t GI losses
+
+P:
+
+continue to monitor hemodynamic/respiratory status, continue abx as ordered and follow micro data, continue BRAT diet, activity progression as tolerated, aggressive pulmonary toilet
+",,
+24040,11360,29858,0,2596-03-21 15:09:00 EST,2596-03-21 15:25:00 EST,379,"N",69,"Nursing/Other","MICU EAST NPN 0700-1900","
+MICU EAST NPN 0700-1900
+
+Please see flowsheet for further details..
+
+A&O. Using commode w/assist. Says he is anxious, wants to [**Doctor Last Name **] and be left alone. Given .5mg Ativan x1. Refusing O2 and O2sats on RA 89-92.
+
+Lung sds with intermittent exp wheezes. Given nebs by RT and stated he felt much better with return to clear lung sds. Plan for induced sputum for PCP by RT.
+
+Freq bouts of diarrhea this am which increased after eating (PO intake very [**Known patient lastname 1391**]). Stool OB- and spec sent. Have improved sl this afternoon.
+
+Plat. Ct stable at 46. Hct also stable at 27. HIT antibody sent. R IJ with mod amt of bleeding ? r/t getting in and out of bed frequently. Re-dressed with surgifoam. No bleeding noted at present. Paln for PICC when fevers subsided.
+
+Continues to spike temps daily. Cefepime dc'd. Remains on Vanco, flagyl and Levo. 
+
+No episodes of hypotention.
+
+Followed by Social service. Stated his mother, now deseased, was his HCP. He would like his sister [**Name (NI) 4073**] to be his HCP but he hasn't spoken to her about it.
+
+
+
+",,
+24040,11360,29858,1,2596-03-21 15:09:00 EST,2596-03-21 17:29:00 EST,379,"Y",69,"Nursing/Other","MICU EAST NPN 0700-1900","
+MICU EAST NPN 0700-1900
+addendum. Plan to start Meropenum. Awaiting ID approval.
+",,
+24040,11360,29858,0,2596-03-21 17:50:00 EST,2596-03-21 18:26:00 EST,712,"N",69,"Nursing/Other",,"
+
+RESPIRATORY CARE: PT GIVEN SVN TX X 1 FOR COUGH/ WHEEZE.
+ALBUTEROL/ATROVENT/XYLOCAINE COCKTAIL. SUB/OBJ RX TO TX.
+PT REFUSED SPUTUM INDUCTION ATTEMPT TODAY.
+",,
+24040,11360,29858,0,2596-03-22 01:22:00 EST,2596-03-22 01:29:00 EST,7281,"N",69,"Nursing/Other","NPN 7P-7A","
+NPN 7P-7A
+PLEASE SEE CAREVIEW FOR OBJECTIVE DATA
+
+EVENTS: PT. VERY FRUSTRATED THROUGHOUT SHIFT. CONTINUES TO REFUSE TO WEAR O2 EVEN WITH SATS IN MID TO HIGH 80'S. PT. IS DNR. INCONTINENT OF URINE MULTIPLE TIMES BUT REFUSING CONDOM CATH. PT. CONTINUES TO SPIKE TEMPS. GIVEN TYLENOL 650MG AT MIDNIGHT WITH GOOD RESULT. MEROPENEM ADDED TO ANTIBIOTIC THERAPY. K+ OF 3.5 REPLETED WITH 40MEQ KCL IV. 
+
+NEURO: PT. ALERT AND ORIENTED X3. MAE. OOB TO COMMODE WITH ASSIST. NO C/O PAIN.
+
+RESP: PT. ON R/A WITH SATS MID 80'S TO LOW 90'S. AS STATED ABOVE, REFUSES TO WEAR O2. BREATH SOUNDS CLEAR. DIMINISHED IN BASES. EXP. WHEEZES AND DYSPNEA NOTED WITH EXCERTION. NONPRODUCTIVE COUGH NOTED.
+
+CV: PT. NSR/ST. NO ECTOPY NOTED. SBP HIGH 80'S TO LOW 100'S. MAP >60. + PULSES. NO EDEMA. TMAX 101.9 AXILLARY
+
+GI: PT. ON DIET WITH VERY [**Known patient lastname **] APPETITE. ABD. SOFT. BS+. NO BM THIS SHIFT. WHEN PT. DOES HAVE BM PLEASE SEND SAMPLE FOR CDIFF B TOXIN (SEE PENDING LABS)
+
+GU: VOIDING IN URINAL AND INCONTINENT MULTIPLE TIMES IN BED. OUTPUT INACCURATE.
+
+SKIN: INTACT
+
+ACCESS: R IJ PRECEP CATH DAY #5
+        1 PIV
+
+PLAN: CONTINUE WITH CURRENT POC. TYLENOL PRN FOR TEMPS. AGGRESSIVE ANTIBIOTIC THERAPY AS PT. DOES HAVE PNEUMONIA AND ACUTE CHOLECYSTITIS. ACTIVITY AS TOLERATED, AGGRESSIVE PULM. TOILET. 
+",,
+24040,11360,29858,0,2596-03-22 18:17:00 EST,2596-03-22 18:51:00 EST,1016,"N",69,"Nursing/Other",,"
+
+npn 0700-1900;
+events;mrircp to r/o cholelithiasis but [**Known patient lastname 1391**] study due to ascitis and pt having high rr.did not complete study.
+ct scan of chest r/o pnx  preliminary report showing fluid awaiting official read..
+
+neuro; pt remains frustrated with being ill and weak and with constant interruptions refusing to wear oxygen and pneumo boots refusing to wash etc. wants to  go home.
+
+resp ;lungs coarse upper with expiratory wheeze improves with neb treatments strong productive cough swallows most of it.sat90-94% on ra. 99% on hi flow neb rr 30-37.very diminished at bases  at times.
+
+cvs; tmax 99.[**Street Address 4074**] 100 no observed ectopy.bp 88-114/60-70.
+
+gu; low urine output icterict urine incontinent of urine x2 mod amounts bladder scan prior to mri amd prior to second incontinence showed 350-475 mls. foley considered ,but held in light of low wbc.
+
+gi; belly firm distended pos bs  bm x2 soft. formed stool with /bile colour .guaiac neg, npo 10 am for mriercp. eating min amounts
+
+skin;intact very dry refusing care but encouraged to move around  bed and move legs frequently to avoid clots. 
+
+soc; pts  talked to several people on ,phone friend into visit,
+
+a/p; npo after mn for  pos ercp in am. follow labs  follow up on cultures
+c/o that ""anxiety level is way up there!""  offer ativan  round the clock. feels that it helps greatly.
+need spec for c-diff. 
+follow up on ct scan results of chest ? needs diuresis to help improve resp status. 
+spoke with lisw who will try and see him tomorrow.
+continue to monitor urine outut closely.
+follow labs for neuropenia, hit screen pending.
+
+
+
+
+
+",,
+24040,11360,29858,0,2596-03-23 01:39:00 EST,2596-03-23 01:48:00 EST,7281,"N",69,"Nursing/Other","NPN 7P-7A","
+NPN 7P-7A
+PLEASE SEE CAREVIEW FOR OBJECTIVE DATA
+
+EVENTS: PT. HAS CONTINUED TO SPIKE TEMPS FOR PAST SEVERAL DAYS. MRCP YESTERDAY SHOWED DILATED BILE DUCTS WHICH NEED COMPRESSION. PROBABLE CHOLECYSTITIS. PT. TO HAVE ERCP TODAY. HAS BEEN NPO SINCE MIDNIGHT. PT. ALSO TO HAVE PICC PLACED THIS AM AS R IJ IS SEVEN DAYS OLD AND NEEDS TO BE REMOVED. 
+
+NEURO: PT. ALERT AND ORIENTED X3. MAE. PUPILS EQUAL AND REACTIVE. NO C/O PAIN THIS SHIFT. HE REMAINS VERY FRUSTRATED AND CONTINUES TO REFUSE O2 AND SOME NSG. CARE. 
+
+RESP: PT. REMAINED ON R/A AS HE REFUSES TO WEAR O2. SATS HIGH 80'S TO LOW 90'S. BREATH SOUNDS FREQUENTLY WITH EXPIRATORY WHEEZES WHICH CLEAR WITH PRN NEBS. DIMINISHED IN BASES. DYSPNEA NOTED WITH ANY TYPE OF EXERTION. PT. WITH NON PRODUCTIVE COUGH.
+
+CV: NSR/ST. NO ECTOPY NOTED. SBP HIGH 80'S TO LOW 100'S. MAP >60. + PULSES. NO EDEMA. TMAX 101.7 AXILLARY. GIVEN TYLENOL 650MG Q4 WITH LITTLE EFFECT. 
+
+GI: PT. ON BRAT DIET, HOWEVER, HAS BEEN NPO SINCE MIDNIGHT FOR ERCP TODAY. ABD. SOFT. BS DISTANT. PT. DID HAVE SMALL LOOSE BM THIS SHIFT. GUIAC NEGATIVE
+
+GU: PT. VOIDING IN URINAL AND INCONTINENT OF URINE IN LARGE AMOUNTS AT TIMES. OUTPUT INACCURATE. PT. ENCOURAGED TO ALLOW CONDOM CATH, HOWEVER, CONTINUOUSLY REFUSING. MD'S AWARE
+
+SKIN: INTACT
+
+ACCESS: R IJ TL
+
+PLAN: ERCP TODAY. TYPE AND CROSS DRAWN AT MIDNIGHT AND SENT TO BLOOD BANK FOR PROCEDURE. PICC TO BE PLACED THIS AM AS WELL. CONTINUE WITH CURRENT ANTIBIOTIC THERAPY. MONITOR RESP/HEMODYNAMIC STATUS CLOSELY. AM LABS PENDING. PT. IS DNR. NO CONTACT WITH FAMILY THIS SHIFT.
+
+SKIN: INTACT 
+",,
+24040,11360,29858,0,2596-03-23 12:46:00 EST,2596-03-23 13:44:00 EST,9108,"N",69,"Nursing/Other",,"
+
+NPN [**3-23**] 0700-1900
+Neuro: A&OX3, grips equal &""4"", legs equal & ""4"". No trembling,nausea, tactile disturbances, hallucinations etc.(CIWA scale) Unaware of time periods, ie when waiting 5min, thinks its 30 min.
+
+CV: HR 80's-90's SR no ectopy. Repleted slowly w/60 mEq KCL for serum K3.4. No repletion for Mg 1.9 per Dr. [**Last Name (STitle) 4075**]. BP 80's-100's/systolic. Will treat for sBP<80/ per rounds. IonizedCa= 1.12(WNL). Recieved 1 unit PLT's for PLT CT 32,000, to bring it up to 51,000. Recieved 2 units FFP as well pre ERCP to prevent bleeding (INR was 1.6 this am).
+
+Resp: O2 sat 89-99% on room air. Refused to wear O2. SOB w/ speaking & activity. RR19-35. Head of bed raised 30-45 degrees for comfort w/ breathing. Can lie flat for turning for short periods of time. Patient had diffuse wheezes this am, recieved albuterol & atrovent neb Tx's w/clearing of lung fields to:  wheeze @ R base & crackles @ L base (upper lungs clear). Recieved robitussin w/codeine X1.
+
+ID: Temps 93.7-94.9po/ax. BP& HR stable. Increased temp in room. Covered patient w/blankets. Bair hugger set up in room but patient refuses it.
+
+
+GI: Having frequent watery brown w/small lumps, guiac negative stools: X5 in 5 hrs. Stool sent for O&P, C-diff. So far, C-diff negative. + bowel sounds. Firm,distended abdomen.  Has ascites. LFT's elevated. For ERCP today to decompress bile ducts.
+
+GU: Voiding in 150-200cc amounts clear yellow urine. Refused foley catheter. Team aware. Swelling @ foreskin &penis &scrotum. Condom catheter not suggested because of swelling @ this time.
+
+Skin: Skin slightly reddened around rectum. Area cleaned well & barrier cream applied. Skin intact otherwise. PICC to be placed in R arm on [**3-24**] by IV nurse @ bedside. Will need CXR to confirm placement (of PICC) & then will need another CXR to confirm that PICC did not move after R IJ pulled.
+
+Coping: Anxious & depressed. Recieved 0.5mg po ativan per patient request q 4 hrs. Member of his church called about coming to visit him. He verbalized desire to change his health care proxy from his sister to his minister.
+  
+Activity: Remained on bedrest. Urge to void or defecate comes on too quickly to use commode. Can turn himself in bed.
+
+A/P: Patient is SOB from COPD, abd pushing against lungs, not using O2--limit activity to what patient tolerates, give neb Tx's q 6 hrs as needed, encourage O2 if sats worsen.
+     Frequent watery stool-- await final C-diff Cx results, clean skin q BM, use barrier cream, BRAT diet post ERCP
+     Anxiety-- offer emotional support.
+     Low temp--check temp frequently. Keep temp up in room. Keep patient covered.
+     Send patient to ERCP when they are ready for him.
+
+
+
+",,
+24040,11360,29858,0,2596-03-23 17:10:00 EST,2596-03-23 17:20:00 EST,9108,"N",69,"Nursing/Other",,"
+
+Addendum to NPN 1800
+Mr. [**Known patient lastname **] went down for his ERCP @ 1630 & returned @ 1730. He was intubated for the procedure & extubated just before he came back to [**Hospital Ward Name **] MICU. No gag reflex @ the time of this note prevents anything po @ this time. Procuctive cough noted frequently w/ sticky clear secretions. O2sat on 3L NP93-96%. Temp 95po-HR 91SR no ectopy -RR 20  cuff BP 104/24. Recieved 2mg versed & 100mcg fentanyl,& propofol during procedure. Sleeping-but easily arousable & oriented X3. No stones nor need for stent.
+",,
+24040,11360,29858,0,2596-03-23 17:28:00 EST,2596-03-23 17:30:00 EST,9108,"N",69,"Nursing/Other",,"
+
+PLT's not given before ERCP as they were not available until after the patient went down. The GI MD's & anesthesiology decided not to give PLT's before the ERCP based on the 1330p PLT CT 51,000. 
+",,
+24040,11360,29858,0,2596-03-23 23:14:00 EST,2596-03-23 23:17:00 EST,104,"N",69,"Nursing/Other","MICU progress note 7p-12a","
+MICU progress note 7p-12a
+Uneventful evening. 
+positive gag - able to start back on clear fluid - advance diet as tolerated. 
+given ativan 0.5mg po at midnite for anxiety, and neb tx for SOB/wheezes. LS scant crackles L bases, I/E wheezes on exertion. O2 3L overnite post ERCP.
+Temp 95. 
+SBP 90-100s. SR 90s. no ectopy. 
+voids in urinal. no loose stool tonite.  
+
+PLAN: ?call out tomorrow. ?bone marrow biopsy in am. Due for PICC line placement and RIJ TLC to be d/c'd and cultured. remains on contact precautions until cdiff ruled out. 
+",,
+24040,11360,29858,0,2596-03-24 05:49:00 EST,2596-03-24 05:51:00 EST,290,"N",69,"Nursing/Other",,"
+
+resp care
+Pt given alb/atro neb as ordered. BS diffuse bil wheeze. RR labored.Cough prod of sml amts of thick white sput. Will cont to follow with nebs.
+",,
+24040,11360,29858,0,2596-03-24 16:06:00 EST,2596-03-24 16:07:00 EST,7973,"N",69,"Nursing/Other",,"
+
+Respiratory Care: pt seen for atrovent/albuterol nebs. Lungs sounds expiratory wheezes specially with exertion. Tolerated txs well. will follow.
+",,
+24040,11360,29858,0,2596-03-24 17:49:00 EST,2596-03-24 17:57:00 EST,511,"N",69,"Nursing/Other",,"
+
+RESP: PT. EXPERIENCING RESP DISTRESS WITH ANY EXERTION. BECOMES WHEEZY, REQUIRING A TREATMENT. CONT. TO REFUSE TO WEAR HIS O2. C&R THICK WHITE SECRETIONS. GIVEN COUGH SYRUP X1. 
+GI: TAKING SMALL AMTS OF CLEARS. ON BEDPAN MULTIPLE TIMES AND UP TO THE COMMODE X1 FOR  LIQUID STOOL. BROWN. ABD FIRM AND DISTENDED. BS'S PRESENT. 
+RENAL: VOIDING AMBER COLORED URINE. IN SMALL AMTS. 
+NEURO: ALERT AND ORIENTATED, BUT VERY NEEDY, WANTS TO CONTROL HIS CARE AND STATES HE'S TIRED OF THE WHOLE BUSINESS. ATIVAN 0.5MG PO GIVEN Q6HRS WITH MOD. EFFECT. 
+CV; VERY EDEMATOUS. HEMODYNAMICALLY STABLE. ONLY WANTS HIS BP TAKEN Q4HRS. 
+ID: ? TO IR FOR GALLBLADDER DRAIN INSERTION-ON HOLD FOR TODAY. AFEBRILE, BUT FEELS WARM. NO C/O ABD PAIN WHEN ASKED. U/S OF LIVER-SMALL AREA OF ASCITIS. 
+ACCESS: IV NOTIFIED FOR PICC LINE PLACEMENT-HASN'T COME YET. 
+PLAN: POSSIBLE BONE MARROW IN FUTURE. ? OF DRAIN PLACMENT.  
+",,
+24040,11360,29858,0,2596-03-25 00:07:00 EST,2596-03-25 00:46:00 EST,8179,"N",69,"Nursing/Other",,"
+
+Patient is 55 year old male with history HIV diagnosed 1994, on and off HAART regimens, alcohol abuse, COPD and PCP presents with fever, anasarca, diffuse lymphadenopathy and hypotensive 80's ? due to diarrhea. placed on code sepsis after BP unresponsive to fluid boluses given at ED.
+
+Neuro: alert and oriented x3, receives ativan 0.5mg for anxiety with moderate effect; tylenol for chronic back pain. Moves all extremeties but weak, needs assistance with activities. Slept intermittently. Refused to use pneumoboots, takes off his O2 intermittently. 
+
+Respi: on and off O2 at 3 lpm via nsal cannula, satting >95%, lung sounds rhonchorous RL, exp wheeze LUL, dim LLL; exertional dyspnea with transfer from bed to commode or even with repositioning. less episode of coughing noted. pleural effusion per CXR ,may be related to ascitis.
+
+CV: refused BP taking eveyr hour, hemodynamically stable SBP 110-130's ST-SR 96-103 without ectopy, denies chest pain. pedal pulses palpable, + [**11-24**] edema lower extremeties, ascitis.
+
+GI/GU: bowel sounds present, firm distended abdomen, denies pain. diarrhea x 1( brown liquid c-diff negative ) on regular meal, [**Last Name **] problem swallowing. ascitis with no tappable areas of fluid in abdomen. post ERCP/MRCP per GI schedule of gallbladder drainage not to be done tomorrow, no evidence of cholangitis. vioding to amber colored urine approximately 100-150cc/3-4hrs
+
+Access: precept catheter wnl, plan for PICC  line insertion tomorrow; talked with IV nurse they will be patient in am. 
+
+ID: afebrile, continues on vacomycin and meropenem. 
+
+Social: DNR/DNI lives alone after his partner died in [**2584**], social work unable to contact his sister with the phone number given; looks depressed and withdrawn, cooperative with care although refused BP taken every hour, pneumoboots; patient also refusing bone marrow biopsy for diagnosis of MAC / lymphoma 
+
+plan: 
+
+PICC line insertion; replete lytes as needed; provide support with coping; possible call out to floor if patient remains stable; PRN neb treatments for respiratory distress/exertional dyspnea; 
+",,
+24040,11360,29858,0,2596-03-25 02:28:00 EST,2596-03-25 02:36:00 EST,638,"N",69,"Nursing/Other",,"
+
+Respiratory Care:
+
+Patient given Albuterol/Atrovent Neb with mask. Tolerated well. BS expiratory wheezes R mid to lower lung fields, L lung clear. RR 21, HR 95. Pt. wearing 3lpm nasal prongs with O2 sats 95-98%. 
+BS clear post RX. Pt. appears comfortable. See Carevue for treatment times. 
+Plan: Will continue to follow with Nebs Q6prn. 
+",,
+24040,11360,29858,0,2596-03-25 17:00:00 EST,2596-03-25 17:13:00 EST,379,"N",69,"Nursing/Other","MICU EAST NPN 0700-1900","
+MICU EAST NPN 0700-1900
+
+Please see flowsheet for further details..
+
+A&O. Stated he is sick of being sick and wants to be left alone and he is ""too weak"" to use the commode. 
+Having frequent sm stools in A.M. and occ incontinent of stools and urine. Refusing rectal bag and condom cath. Apetite [**Known patient lastname 1391**]. Plan for TPN this eve.
+
+Given 20mg IV Lasix and 25gm Albumin. Has been voiding ~ 100cc q1hr. Currently he is ~100cc neg not including multiple episodes of incontinence of urine.
+
+FiO2 alternates  between RA and 3/L N/C. O2sats 90s all day. Continues w/DOE and exertional exp wheezes. Prn albuteral/atrovent with good relief.
+
+Bone Marrow Bx done at bedside. Tol procedure fairly well.
+
+T max 99.5 po. On Vanco and Merepenum.
+
+BP stable but HR 110-120s. Up to 150s after Bx.
+
+Friend in to visit x2 today.
+
+Pr is DNR/DNI.
+",,
+24040,11360,29858,0,2596-03-26 01:47:00 EST,2596-03-26 01:54:00 EST,7281,"N",69,"Nursing/Other","NPN 7P-7A","
+NPN 7P-7A
+PLEASE SEE CAREVIEW FOR OBJECTIVE DATA
+
+EVENTS: PT. WAS CALLED OUT TO FLOOR YESTERDAY, HOWEVER, HE BECAME TACHYCARDIC AT START OF SHIFT AND REMAINED HERE IN UNIT OVERNIGHT FOR CLOSE OBSERVATION. PT. STATED HE WAS FEELING ANXIOUS, WHICH IN TURN ""MADE MY BREATHING BAD"" HE WAS GIVEN PRN NEBS AND ATIVAN PRN THROUGHOUT SHIFT AND APPEARS VERY COMFORTABLE AT THIS TIME.
+
+NEURO: PT. ALERT AND ORIENTED X3. MAE. PUPILS EQUAL AND REACTIVE. HE IS VERY DISCOURAGED WITH HIS ILLNESS STATING AT TIMES THAT HE WOULD LIKE TO GO HOME. CONTINUES TO REFUSE OXYGEN AND PNEUMO BOOTS. NO C/O PAIN THIS SHIFT. ATIVAN PRN FOR ANXIETY.
+
+RESP: PT. ON AND OFF 3L NASAL CANNULA WITH SATS REMAINING >97%. BREATH SOUNDS WITH EXPIRATORY WHEEZES WHICH CLEAR WITH NEBS. COARSE THROUGHOUT. PT. WITH PRODUCTIVE COUGH
+
+CV: NSR/ST. NO ECTOPY NOTED. SBP WNL. + PULSES. GENERALIZED EDEMA NOTED. PM K+ 3.4 TREATED WITH 40MEQ KCL IV AT START OF SHIFT. AM LABS PENDING. TMAX 100.0. MEDICATED WITH TYLENOL WITH GOOD RESULT.
+
+GI: PT. ON REGULAR DIET BUT WITH LITTLE APPETITE. STARTED ON TPN YESTERDAY. ABD. SOFT. BS+. SMALL BM THIS SHIFT.
+
+GU: PT. REFUSING FOLEY. CONTINUES TO BE INCONTINENT OF URINE. I'S AND O'S INNACCURATE AT THIS TIME.
+
+SKIN: INTACT
+
+ACCESS: L AC DL PICC PLACED YESTERDAY
+
+PLAN: CONTINUE WITH CURRENT POC. MONITOR RESP. STATUS CLOSELY. MEDICATE WITH ATIVAN PRN FOR ANXIETY. ? C/O TO FLOOR IF PT. STABLE THIS AM. PT. DNR/DNI. NO CONTACT WITH FRIENDS/FAMILY THIS SHIFT.
+
+",,
+24040,11360,29858,0,2596-03-26 04:22:00 EST,2596-03-26 04:25:00 EST,290,"N",69,"Nursing/Other",,"
+
+resp care
+Pt given alb/atro neb as ordered. Bs coarse bil wheeze. Cough prod of thick white sput.Pt has periods of tachypnea which decreaes somewhat with the neb. Intermittently wearing a 3l can. Will cont to follow with nebs.
+",,
+24040,11360,29858,0,2596-03-26 16:45:00 EST,2596-03-26 16:55:00 EST,348,"N",69,"Nursing/Other","7A-7PM Nsg Progress Note","
+7A-7PM Nsg Progress Note
+ID:  pt spike temp 100.9 PO,  blood cx's x 2 drawn (one set from PICC LINE, one set peripheral), urine cx sent.  650 mg tylenol given po.  pt on Vanco and Meropenem.  to CT scan for Head, Chest, Abd/pelvic.
+pt drank barocat.    negative for PE, pt with new ascites, and pleural effusions.  need trough Vanco level in am.    
+
+RESP: on 3 l n/p  rr~22-30   dyspneic on exertion, doesn't tolerate lying flat.  pt with exp wheezing after CT scan - received .5 mg po Ativan, and an Albuterol/atrovent neb.  wheezing decreased.
+
+CV: remains tachycardic (pt febrile)  HR  110-120 ST no vea noted,  
+BP stable ~  120/70
+
+GI:  belly firm, distended.  passed liquid stool x2.  on regular diet, [**Known patient lastname 1391**] appetite,  TPN continues at 42 cc/hr.  on Protonix. 
+
+GU:  able to use urinal with assistance.  inc of stool  I~1866  UO~ 830 (approx)  with loose stool.
+
+NEURO:  pt A+Ox3,   very weak, needs assistance to turn and lift legs in bed.  cooperative. 
+
+IV ACCESS:  left antecubital PICC line, dsg  changed, working well, site clean and no signs of redness.
+
+SKIN:  intact. 
+
+PLAN: check cultures, continue antibx, monitor resp status.  follow fever curve.   enc po intake.   PT consult.  ?call out in am.
+",,
+24040,11360,29858,0,2596-03-27 01:38:00 EST,2596-03-27 01:43:00 EST,7281,"N",69,"Nursing/Other","NPN 7P-7A","
+NPN 7P-7A
+PLEASE SEE CAREVIEW FOR OBJECTIVE DATA
+
+EVENTS: PT. REMAINED STABLE THROUGHOUT SHIFT STATING ""I FEEL BETTER TONIGHT"". PRN NEBS FOR OCCASSIONAL EXPIRATORY WHEEZING. PROBABLE C/O TO FLOOR TODAY 
+
+NEURO: PT. ALERT AND ORIENTED X3. MAE. ASSISTS WITH NSG. CARE. NO C/O PAIN. PHYSICAL THERAPY TO EVALUATE TODAY AS PT. ANXIOUS TO GET UP AND MOVING.
+
+RESP: PT. ON AND OFF 3L NASAL CANNULA WITH SATS REMAINING >94% ON R/A. REMAINS WITH DOE. BREATH SOUNDS COARSE BILAT. SOME EXP. WHEEZES NOTED WHICH CLEAR WITH NEB TREATMENTS. ORDER WRITTEN TO OBTAIN SPUTUM, HOWEVER, PT. UNABLE TO EXPECTORATE. 
+
+CV: NSR/ST. NO ECTOPY NOTED. BP WNL. + PULSES. SCROTAL EDEMA NOTED. PT. REMAINS WITH LOW GRADE TEMP. CULTURED YESTERDAY [**3-26**].
+
+GI: ABD. FIRM/DISTENDED. + ASCITES. ON DIET, HOWEVER VERY [**Known patient lastname **] APPETITE. REMAINS ON TPN. MULTIPLE SMALL LOOSE BMS THIS EVENING.
+
+GU: VOIDING IN URINAL. 
+
+SKIN: INTACT
+
+ACCESS: L AC PICC
+
+PLAN: ? C/O TO FLOOR. CONTINUE WITH ANTIBIOTIC THERAPY. MONITOR RESP. STATUS CLOSELY. PRN NEBS AS NEEDED. CONTINUE WITH ENCOURAGEMENT AND EMOTIONAL SUPPORT. DNR/DNI. AM LABS PENDING.
+",,
+24040,11360,29858,0,2596-03-27 04:02:00 EST,2596-03-27 04:03:00 EST,731,"N",69,"Nursing/Other",,"
+
+Resp Care,
+Pt. given albuterol/atrovent nebs x 2 this shift. Becomes wheezy with exertion, clears with rx. O2 3l. Will cont. to follow with nebs prn wheezes.
+",,
+24040,11360,29858,0,2596-03-27 15:54:00 EST,2596-03-27 16:21:00 EST,348,"N",69,"Nursing/Other","7A-7PM Nsg Progress Note","
+7A-7PM Nsg Progress Note
+EVENTS: pt continues with low grade fevers, dyspnea with exertion, OOB to chair (PT saw pt)  pt diuresed   pt declined thoracentesis
+
+RESP:  pt on RA,  O2 sats 92-96%  lungs w/ decreased breath sounds, exp wheezes. 
+
+CV/FLUIDS:  bp stable 120/72  HR  100-120 ST no vea noted.  + pedal pulses, lower extremities edematous.  pt received 12.5 grams of Albumin, 20 mg IVP lasix ~ with good response 1150 cc's.  
+
+ID:  temp 100.4 po,  WBC 1.1  [**Last Name (un) **] ct 690,   stool for C-diff negative, urine negative.
+pt remains on Vanco and Meropenem.  Vanco  trough level 15  
+sputum sample sent.
+
+GI:   ABD firm, distended,   [**Known patient lastname 1391**] po intake, nsg encouraging pt to  eat.  remains on TPN @ 42 cc/hr.  continues with diarrhea, OB negative.     guiac negative. pt received 4 mg Loperamide po x1.  
+
+GU: pt voiding in urinal 
+
+SKIN: intact, scrotal edema,   anasarca  with pleural effusions and ascites.
+PT following pt.  OOB to chair - pt took few steps,
+still very weak. 
+
+NEURO: pt A+Ox3,  wanting to nap all shift,  after bed changed, pt SOB, requesting .5 mg po Ativan (given with good affect)
+
+IV ACCESS: left antecubital PICC  inserted [**3-25**], dsg changed, intact, flushes well. 
+
+PLAN: overall source of infection unclear,  awaiting bone marrow biopsy data,  GI to follow up on Monday, ?colonoscopy,  treat diarrhea with Imodium,  continue TPN,   physical therapy following pt,  OOB to chair,  albuterol/atrovent MDI's prn   enc po intake,  follow temp, continue antibx,  
+",,
+24040,11360,29858,0,2596-03-28 02:16:00 EST,2596-03-28 02:52:00 EST,9171,"N",69,"Nursing/Other",,"
+
+1900-0700hrs
+
+Events: 55yo male with H/O HIV,COPD,PCP,[**Name10 (NameIs) 4076**] with fever malaise,and diarrhea,admitted in ICU for observation following hypotension and sepsis.
+
+Neuro:pt alert ,oriented well,anxious ,c/o insomnia,received 2.0mg Tab.Ativan and slept after that.
+
+Resp:On RA ,RR 18-26/Min,Spo2 93-98%,c/o SOB at 2300hrs,felt comfortable after resp.treatment.Breath sounds diminished on base and expiratory wheeze present.
+
+CVS:HR 116-130/[**Last Name (LF) **],[**First Name3 (LF) **],no ectopics,BP WNL,pulse+ on extremities with edema.PICC line on Lt.ante cub.
+
+GI:On regular diet,with little appetite,on TPN 60ml/hr,abdomen firm and distended,bowel sounds hypoactive,no bowel movement this shift.
+received Tab.Lopremide 2.0mg po.
+
+GU:Voids good amount of urine,clear amber coloured,having scrotal swelling and c/o scrotal discomfort and requested for warm wet cloth to apply to the scrotum.
+
+INTEGU:T.max 99.7, skin intact,generalised edema present.
+
+IV ACCESS:Lt.ante.cub PICC line,placed on [**2596-3-25**],dressing intact,line patent
+
+Social:Calm and co-oprative,no visitors this shift,DNR,with universal precautions.
+
+Plan:Continue TPN,and antibiotics,GI to follow up,treat diarrhea with immodium and Ativan for anxiety.continue with respiratory and physical therapy.AM labs sent.
+",,
+24040,11360,29858,0,2596-03-28 05:10:00 EST,2596-03-28 05:12:00 EST,731,"N",69,"Nursing/Other",,"
+
+Resp care,
+Pt. given albuterol/atrovent neb x 1. Pt. c/o SOB. BS crackles, no wheezes. Relief with rx. Cont. nebs prn.
+",,
+24040,11360,29858,0,2596-03-28 15:51:00 EST,2596-03-28 16:07:00 EST,379,"N",69,"Nursing/Other","MICU EAST NPN 0700-1900","
+MICU EAST NPN 0700-1900
+
+
+Please see flowsheet for further details...
+
+
+A&O. Withdrawn and depressed. Wanting to [**Doctor Last Name **] all day. Refusing to get OOB though did get OOB-chair x 1 for ~20min, as bed was saturated with urine. Needed 2 assists. Refused PT. Inc of urine after lasix but refusing condom cath. Much weaker this week than last week. No stool. Given albumin and IV Lasix and is currently diuresing. Apetite remains [**Known patient lastname 1391**]. Continues on TPN. PICC catheter ?out more than last week. CXR ok per Dr. [**Last Name (STitle) 4077**]. Total length of catheter outside of vein measured at 7cm. Plan to monitor. Bleeding mod amt at site after dsd change (d/t old blood under dsd). Placed on neutrapenic precautions. No visitors though pt had phone call in room.
+",,
+24040,11360,29858,0,2596-03-28 15:52:00 EST,2596-03-28 15:53:00 EST,7973,"N",69,"Nursing/Other",,"
+
+Respiratory Care:pt seen for albuterol/atrovent neb x 1. Lung sounds expiratory whezees, no C/O SOB, did not required further txs. Will follow.
+",,
+24040,11360,29858,0,2596-03-29 03:24:00 EST,2596-03-29 03:44:00 EST,1008,"N",69,"Nursing/Other","MICU/SICU NPN ICU Day #12","
+MICU/SICU NPN ICU Day #12
+Briefly this is a 55 yo man with PMH: end staged AIDS, HCV who was admitted [**3-18**] after several days of nausea/vomiting/diarrhea/malaise. He was admitted on the sepsis protocol and was aggresively hydrated, and covered with broad spectrum antibiotics. ICU course complicated by cyclical FUO and recurrent diarrhea. Pt was ruled out for C-diff and parasitic infection, all cultures to date have had no growth. Pt's mental state has deteriorated over the course of admission, he has become more depressed and withdrawn each day. 
+
+
+S: ""I'm very sick.""
+
+O:
+
+Neruo: pt is withdrawn and lethargic, frequently requesting medication for [**Doctor Last Name **] and reporting difficulty sleeping, by report pt slept most of yesterday refusing ADL's and physical therapy, pt also reports high state of anxiety and near panic states, pt denies pain, MAE reluctantly
+
+Pulm: LS CTA, SpO2 94%RA, pt had one episode of acute wheezing which occurred concurrently with pt's report of anxiety attack, med x1 with ipatropium neb
+
+CV: AVSS, please see flowsheet for data
+
+Integ: skin is C/W/D/I
+
+GI/GU: abd soft, NT/ND, BS present, tolerating full liquids without difficulty, and currently on TPN, voiding small amts clear amber urine frequently in urinal 
+
+Access: left brachial DL PICC day #4
+
+A:
+
+anxiety r/t hospitalization/depression
+high risk for infection r/t neutropenia, invasive line
+
+P: 
+
+transfer to medical bed when available, activity progression, psyhciatry consult re: anxiety/depression
+",,
+24040,11360,29858,0,2596-03-29 05:38:00 EST,2596-03-29 05:39:00 EST,1504,"N",69,"Nursing/Other",,"
+
+Pt asleep most of the latter night. Last rx neb with atrovent @ 0100. No wheezing noted. Pt had been given ativan and quickly fell back to [**Doctor Last Name **]
+",,
+24040,11360,29858,0,2596-03-29 16:00:00 EST,2596-03-29 16:08:00 EST,1520,"N",69,"Nursing/Other",,"
+
+MICU NPN for days:      DNR/DNI     
+
+            Please see flowsheet for more details
+
+Neuro:  Episode x 1 of ""pain attack"" and requesting ativan.  Given and pt. slept most of the day. Easily arousable and conversed when awake. Oriented x 3. PERLA. MAE.  Weak/[**Known patient lastname 1391**] effort w/ turning/repositioning. Refused to get oob to chair today.  Denies any pain/discomfort.
+
+Resp:  Remains on RA w/ stable o2 sats. Lungs w/ one episode of exp. wheezing w/ clearing after Rt administered neb tx. Otherwise, lungs CTA.  Productive cough of clear sputum. RR tachypneic w/ activity. 
+
+CV:  ST 110-120's.  No ectopy.  Spiked to 101.8.  Given tylenol 650mg po.  + ppp x 4. Conts. w/ generalized body edema. 
+
+Access:  DL PICC to LAC w/ dressing changed today. 
+
+GI/GU:  + hypoactive BS. Ascites.  No BM. Voids small frequent amts in urinal, but also incont in bed. 
+
+SKIN:  Noted coccxy area to reddened and applied barried cream. Otherwise, no other breakdown noted.
+
+Plan: Cont. w/ current plan of care.  Repleting lytes as needed. Monitor per protocol. Called out to West campus bed and awaiting bed availability.
+",,
+24040,11360,29858,0,2596-03-29 20:28:00 EST,2596-03-29 20:41:00 EST,7314,"N",69,"Nursing/Other","Note:","
+Note:
+Pt was called out of ICU and he had a bed in 711 ([**Hospital Ward Name 41**] 7, west campus), report given to RN and ambulance was called. When the ambulance arrived in patient's room, pt changed his mind of being transferred from ICU to another unit and insisted to go home. HO informed and the resident MD talked in length with the patient who still insisted to go home. Nursing supervisor ([**Doctor Last Name 1729**] [**Doctor First Name 1343**]) and the ICU resource nurse informed, then security was called and thereafter a code purple was made and a psychiatric consultant talked to pt. Prior to that, pt was given 2 mg Haldol IV, which calmed him down. After the psych. consultant spoke to pt, he verbalized that he will stay in the hospital. Resident MD informed and [**Hospital Ward Name 41**] 7 RN informed that pt is to be transferred to [**Hospital Ward Name 41**] 7. 
+
+
+",,

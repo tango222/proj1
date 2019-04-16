@@ -1,0 +1,1603 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+24691,27723,,,3310-07-15 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+ 
+ 
+ 
+Admission Date:  [**3310-7-15**]              Discharge Date:   [**3310-7-30**]
+ 
+Date of Birth:  [**3265-2-8**]             Sex:   F
+ 
+Service: SURGERY
+ 
+Allergies: 
+Patient recorded as having No Known Allergies to Drugs
+ 
+Attending:[**First Name3 (LF) 5881**] 
+Chief Complaint:
+Non healing left heal ulcer
+ 
+Major Surgical or Invasive Procedure:
+L fem-DP bpg
+L heel debridement
+
+ 
+Past Medical History:
+HTN
+IDDM with neuropathy
+Renal failure with peritoneal dialysis MWF
+MI in 12/04
+Gallbladder removal '[**85**]
+Amps of L4 and L5 '[**00**]
+Left foot debridement sub 4th and 5th met heads '[**09**]
+Amp of Right 2nd 2003. 
+ 
+Social History:
+She used to smoke, however, has quit. 
+Denies alcohol use. 
+
+ 
+Family History:
+Medical problems significant for diabetes. 
+ 
+Physical Exam:
+PE:
+AFVSS
+NEURO:
+PERRL / EOMI
+MAE equally
+Answers simple commands
+Neg pronator drift
+Sensation intact to ST
+2 plus DTR
+Neg [**Name2 (NI) 5882**]
+HEENT:
+NCAT 
+Neg lesions nares, oral pharnyx, auditory
+Supple / FAROM
+neg lyphandopathy, supra clavicular nodes
+LUNGS: CTA b/l
+CARDIAC: RRR without murmers
+ABDOMEN: Soft, NTTP, ND, pos BS, neg CVA tenderness
+EXT:
+rle - palp fem, [**Doctor Last Name 2463**], pt, dp
+lle - palp fem, [**Doctor Last Name 2463**], pt, dp
+
+ 
+Pertinent Results:
+[**3310-7-15**] 5:33 PM
+
+CHEST (PORTABLE AP)
+
+Reason: eval for cvl placement 
+
+PORTABLE SUPINE FRONTAL RADIOGRAPH: 
+
+FINDINGS:
+
+Lung volumes are reduced. Allowing for this and technique, 
+cardiac and mediastinal contours are within normal limits. There 
+is a right-sided IJ central venous catheter with its tip in the 
+mid SVC. The patient is intubated with ET tube terminating above 
+the level of the clavicles. An NG tube terminates within the 
+stomach. No pneumothorax is seen on this supine radiograph. 
+There is a small amount of atelectasis in the retrocardiac 
+region.
+
+IMPRESSION:
+
+Reduced lung volumes with left retrocardiac atelectasis. Central 
+venous catheter with its tip in the mid SVC
+
+[**3310-7-16**]
+
+LEFT HEEL, 2 VIEWS:
+
+The ulcer over the heel is noted. Some irregularity of the 
+underlying portion of the calcaneus is within the range of 
+normal. No focal bone destruction or periosteal new bone 
+formation to confirm the presence of osteomyelitis is 
+identified. No reactive sclerosis is detected. No fracture is 
+identified. Vascular calcification and surgical clips noted.
+
+IMPRESSION: Ulceration. No osteomyelitis identified.
+
+[**3310-7-28**] 
+
+Source: left heel. 
+
+**FINAL REPORT [**3310-8-1**]**
+
+GRAM STAIN (Final [**3310-7-28**]): 
+      NO POLYMORPHONUCLEAR LEUKOCYTES SEEN. 
+      1+    (<1 per 1000X FIELD):   GRAM NEGATIVE ROD(S). 
+
+WOUND CULTURE (Final [**3310-7-31**]): 
+      Due to mixed bacterial types ( >= 3 colony types) an 
+abbreviated
+      workup is performed appropriate to the isolates recovered 
+from the
+      site (including a screen for Pseudomonas aeruginosa, 
+Staphylococcus
+      aureus and beta streptococcus). 
+      GRAM NEGATIVE ROD(S).    MODERATE GROWTH. 
+      STAPHYLOCOCCUS, COAGULASE NEGATIVE.    SPARSE GROWTH. 
+      OF TWO COLONIAL MORPHOLOGIES. 
+
+ ANAEROBIC CULTURE (Final [**3310-8-1**]):    NO ANAEROBES ISOLATED
+
+[**3310-7-15**] 05:36PM   WBC-12.7* RBC-3.26* HGB-9.2* HCT-27.7* MCV-85 
+MCH-28.3 MCHC-33.1 RDW-15.0
+ 
+Brief Hospital Course:
+Pt admitted [**3310-7-15**] for ischemic foot.
+
+Pt pre-op'd cleared for surgery. IV Antibiotics started. Cx 
+taken.
+
+Podiatry consulted / plastics / renal consulted.
+
+Pt recieved PD M/W/F.
+
+Pt underwent a Left common femoral artery to dorsalis pedis 
+artery bypass graft in situ using greater saphenous vein, 
+angioscopy and valve lysis, revision of distal anastomosis, and 
+intraoperative arteriogram.
+
+Pt tolerated th procedure well. There were no complications. Pt 
+acidotic transfered to the SICU in stable condition. Intubated.
+
+It was thought that the pt was in metabolic acidosis secondary 
+to untreated renal failure, likely secondary to non compliance 
+PD.
+
+[**3310-7-17**] - [**3310-7-20**]
+
+Pt extubated.
+
+Podiatry to debride wound. 
+
+Pt remained in SICU. 
+
+[**3310-7-21**]
+
+Pt underwent a debridement of left heel.
+
+Pt tolerated th procedure well. There were no complications. Pt 
+extubted in the OR. Transfered to the PACU in stable condition.
+
+Once reccoperated from anesthesia pt transfered to the VICU in 
+stable condition.
+
+Pt had VAC after the procedure.
+
+Pt recieved PRBC's
+
+[**3310-7-22**] - [**3310-7-28**]
+
+PT consult. Pt allowed OOB to chair. NWB left foot.
+
+Awaiting cx and sensitivities / vac in place.
+
+Foley DC'd.
+
+[**3310-7-29**]
+
+Vac removed. Wound improved. Plastics see pt. Want to see on f/u 
+as out pt.
+
+Vac replaced.
+ 
+PICC placed at bedside for AB therapy.
+
+Pt dc'd in stable condition. Taking PO / ambulating with ASST, 
+pos BM, pos urination.
+
+ 
+Medications on Admission:
+insulin 70/30 40 qam, 40 qpm, 
+lasix 80 bid, 
+renagel 1200 bid, 
+zestril 40 daily. 
+ 
+Discharge Medications:
+1. Oxycodone-Acetaminophen 5-325 mg Tablet Sig: 1-2 Tablets PO 
+Q4-6H (every 4 to 6 hours) as needed.
+Disp:*30 Tablet(s)* Refills:*0*
+2. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO TID (3 
+times a day) as needed for constipation.
+Disp:*60 Capsule(s)* Refills:*0*
+3. Calcium Acetate 667 mg Tablet Sig: One (1) Tablet PO BID (2 
+times a day) as needed.  
+4. Epoetin Alfa 10,000 unit/mL Solution Sig: One (1)  Injection 
+QMOWEFR (Monday -Wednesday-Friday).  
+5. Metronidazole 500 mg Tablet Sig: One (1) Tablet PO BID (2 
+times a day) for 1 months.
+Disp:*60 Tablet(s)* Refills:*0*
+6. Levofloxacin 250 mg Tablet Sig: One (1) Tablet PO Q48H (every 
+48 hours) for 1 months.
+Disp:*15 Tablet(s)* Refills:*0*
+7. Metoprolol Tartrate 50 mg Tablet Sig: One (1) Tablet PO BID 
+(2 times a day).  
+8. Vancomycin in Dextrose 1 g/200 mL Piggyback Sig: One (1) gram 
+Intravenous  as needed per level < 15 for 1 months: blood levels 
+should be checked every third day and dosed only if level < 15; 
+dosing to be reviewed by peritoneal dialysis coordinator -- [**First Name8 (NamePattern2) 2255**] 
+[**Last Name (NamePattern1) 5883**] @ [**Telephone/Fax (1) 5884**] Fax [**Telephone/Fax (1) 5885**] for any changes during 
+therapy.
+Disp:*10 doses* Refills:*0*
+9. Heparin Flush (Porcine) in NS 100 unit/mL Kit Sig: One (1) 
+flush Intravenous  per ccs protocol.
+Disp:*qs * Refills:*2*
+
+ 
+Discharge Disposition:
+Home with Service
+ 
+Discharge Diagnosis:
+HTN
+IDDM
+ESRD
+Heel ulcer
+
+ 
+Discharge Condition:
+Good
+ 
+Discharge Instructions:
+Go to an Emergency Room if [**Doctor First Name **] experience symptoms including, 
+but not necessarily limited to: new and continuing 
+nausea,vomiting, fevers (>101.5 F), chills, or shortness of 
+breath. 
+
+Proceed to the ER/EW/ED if your wound becomes red, swollen, 
+warm, or produces pus.
+
+No driving while taking pain medications.
+
+Narcotics can cause constipation. Please take an over the 
+counter stool softener such as Colace or a gentle laxative such 
+as Milk of Magnesia if [**Doctor First Name **] experience constipation.
+
+[**Doctor First Name 27**] may resume your regular diet as tolerated.
+
+[**Doctor First Name 27**] may take showers (no baths) after your dressings have been 
+removed from your wounds.
+
+Continue taking your home medications unless otherwise indicated 
+at follow up with PCP.
+ 
+Followup Instructions:
+F/U with [**Doctor Last Name 1366**] in 1-2 wks.
+F/U with Nephrology as per routine
+F/U with PCP soon after discharge to review medications and 
+events
+
+ 
+                             [**First Name11 (Name Pattern1) 4605**] [**Last Name (NamePattern4) 5886**] MD [**MD Number 5887**]
+ 
+Completed by: [**First Name11 (Name Pattern1) 65**] [**Initial (NamePattern1) **] [**Last Name (NamePattern4) 710**] [**MD Number 711**] [**3310-9-23**] @ 1450
+Signed electronically by: DR. [**First Name8 (NamePattern2) 4605**] [**Last Name (NamePattern1) **]
+ on: WED [**3310-9-24**] 5:55 PM
+(End of Report)
+
+
+",,
+24691,27723,,,3310-07-15 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3310-7-15**] 5:33 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 5098**]
+     Reason: eval for cvl placement                                      
+     Admitting Diagnosis: PERIPHERAL VASCULAR DISEASE/SDA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      45 year old woman s/p left leg bypass and cvl placement                         
+     REASON FOR THIS EXAMINATION:
+      eval for cvl placement                                                          
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  45-year-old post-lower extremity bypass, assess central line
+     placement.
+     
+     PORTABLE SUPINE FRONTAL RADIOGRAPH:  Comparison [**3310-6-5**].
+     
+     FINDINGS:
+     
+     Lung volumes are reduced.  Allowing for this and technique, cardiac and
+     mediastinal contours are within normal limits.  There is a right-sided IJ
+     central venous catheter with its tip in the mid SVC.  The patient is intubated
+     with ET tube terminating above the level of the clavicles.  An NG tube
+     terminates within the stomach.  No pneumothorax is seen on this supine
+     radiograph.  There is a small amount of atelectasis in the retrocardiac
+     region.
+     
+     IMPRESSION:
+     
+     Reduced lung volumes with left retrocardiac atelectasis.  Central venous
+     catheter with its tip in the mid SVC.
+                                                                           
+
+",,
+24691,27723,30660,0,3310-07-15 17:51:00 EST,3310-07-15 17:54:00 EST,175,"N",1,"Nursing/Other",,"
+
+Respiratory Care:
+Pt is an obese F. admit from OR to us. She is W/Acidosis that we are trying to use the vent to compensate. This will take some work though...
+",,
+24691,27723,30660,0,3310-07-15 18:36:00 EST,3310-07-15 19:03:00 EST,6568,"N",1,"Nursing/Other","NURSING NOTE","
+NURSING NOTE
+SEE CAREVUE FOR SPECIFICS:
+
+NEURO-SEDATED, PERLLA AT 2MM WITH BRISK REACTION. DOES NOT FOLLOW COMMANDS, WITHDRAWS TO PAIN. ? PAIN MSO4 2MG IVP X1 WITH MINIMAL EFFECT. AFEB.
+
+RESP-INTUBATED, AC 700X18, PEEP 5, FIO2 60%. LS CLEAR & DIMINISHED AT BASES. REPEATED ABGs SHOW RESP ACIDOSIS (DR. [**Last Name (STitle) **] AWARE).
+
+CV-HCT 27.1, (RECEIVED 1 UNIT PRBC IN OR FOR HCT OF 20). SBP INITIALLY LOW 100s UPON ARRIVAL TO UNIT, INCREASED TO 160-180s (DR. [**Last Name (STitle) **] AWARE) ? TO RECEIVE LOPRESSOR, WILL F/U. HR 70-80s NSR, NO ECTOPY. STRONG L RADIAL PULSE WITH DOPPLER,
+STRONG PALP L FEM PULSE, (+) PALP PULSE L FOOT (GRAFT & PEDAL). CXR CONFIRMED R IJ CVL PROPER PLACEMENT, BLEEDING AT INSERTION SITE.
+
+GI- NPO, OGT TO LCWS WITH BILIOUS DRNG. ABD OBESE, SOFT, HYPOACTIVE BSX4.
+
+GU-ESRD, PD QD, K+ 5.5 , FOLEY WITH MINIMAL OUTPUT, 25-45CC/HR, LASIX DEPENDENT. RENAL FOLLOWING.
+
+ENDO-IDDM, BS QID WITH SC COVERAGE.
+
+SKIN-L FEM STAPLES INTACT, ACE WRAP FROM HIP TO FOOT C/D/I.
+
+
+
+",,
+24691,27723,30660,0,3310-07-16 03:12:00 EST,3310-07-16 03:17:00 EST,1079,"N",1,"Nursing/Other","Shift Note","
+Shift Note
+Neurologically pt is being sedated with propofol. Hemodynamically hypertensive at times, labetalol and metoprolol with good effect. Lungs are CTA but diminished. Vent setting as per flowsheet. Metabolic acidosis is known to team, NAHCO3 gtt finished infusing and PD runs continue. Acidosis is slightly improved. Pt is oliguric, PD resumed per orders, first run +200cc's, second run -500cc's, third run dwelling. Skin is intact. Elevated blood glcose initially treated with sliding scale, converted to insuling gtt this morning. See flowsheet fro details. 
+",,
+24691,27723,30660,0,3310-07-16 05:05:00 EST,3310-07-16 05:10:00 EST,638,"N",1,"Nursing/Other",,"
+
+Respiratory Care:
+
+Patient remains intubated on mechanical support. Bs clear bilaterally. Sx'd for sm amounts of thick white secretions. Pt. requiring increased minute ventilation due to metabolic acidosis. Current vent settings Vt 700, A/c 14, Fio2 50%, and Peep 5.  Peritoneal dialysis. Pt. sedated with propofol.  Plan: Continue with mechanical support and wean Fio2 as tolerated. 
+
+",,
+24691,27723,30660,0,3310-07-16 13:56:00 EST,3310-07-16 14:00:00 EST,780,"N",1,"Nursing/Other",,"
+
+Resp. Care Note: 7am-3pm
+Patient continues on CMV, RSBI done at 52.
+No changes in vent. settings this shift.
+",,
+24691,27723,30660,0,3310-07-16 14:16:00 EST,3310-07-16 14:22:00 EST,6468,"N",1,"Nursing/Other","Nursing","
+Nursing
+See flowsheet for details.
+
+Pt. opens eyes to voice, follows commands, moves upper extrem. strongly and lower extremities weakly. C/O pain when left leg examined. Left leg incision C/D/I with palpable pulses. Right leg with dopplerable pulses. Both radial pulses dopplerable. All extremities warm and dry.
+
+HR NSR with no ectopy. SBP 110-130. Propofol gtt 60-80mcg/kg, heparin gtt 700u/hr and insulin gtt 5u/hr. 
+
+Received peritoneal dialysis throughout the day. Average in time: 20 min. Average dwell time 3.5 hours. Average out time 20 min. Average cc out: 500 per run.
+
+Plan to try to wean from vent, monitor ABG pH and cont. pulse checks.
+",,
+24691,27723,30660,0,3310-07-17 03:51:00 EST,3310-07-17 04:06:00 EST,1007,"N",1,"Nursing/Other",,"
+
+NPN (SEE CAREVUE FOR SPECIFICS)
+NEURO- PT SEDATED ON PROPOFOL, AROUSABLE TO VOICE, FOLLOWING COMMANDS, MOVING ALL EXTREMETIES. MORPHINE FOR PAIN WITH GOOD EFFECT, PT COMFORTABLE MOST OF THE NIGHT. PERRL.
+CV- BP STABLE THROUGHOUT THE NIGHT, HR 70'S, NSR WITHOUT ECTOPY. TOLERATING PERITONEAL DIALYSIS. 
+RESP- LUNGS CLEAR, NO SECRETIONS. AM ABGS PENDING. 
+GI/GU- ABD SOFT, OBESE + BS. MINIMAL AMOUNT OF CLEAR YELLOW URINE PER HOUR. 
+ID- AFEBRILE
+",,
+24691,27723,30660,0,3310-07-17 05:11:00 EST,3310-07-17 05:13:00 EST,1047,"N",1,"Nursing/Other","Respiratory Care:","
+Respiratory Care:
+Patient remains on ventilatory support (A/C) with no parameter changes made throughout the night.  Morning abg results determined a metabolic acidemia with excellent oxygenation.
+
+No RSBI measured due to lack of spontaneous respirations.
+",,
+24691,27723,30660,0,3310-07-17 14:18:00 EST,3310-07-17 14:23:00 EST,962,"N",1,"Nursing/Other","Respiratory Care","
+Respiratory Care
+S Pt appears to awaken with verbal stimuli, spontaneous respirations     appear to be comfortable while on CPAP/PSV.
+O Intubated for surgery, remaining to this point to protect graft        while being sedated. 
+A Pt being weaned to CPAP/PSV with hope to extubate.
+P Extubate when pt awake, and airway uncompromised.
+",,
+24691,27723,30660,0,3310-07-17 14:38:00 EST,3310-07-17 14:44:00 EST,6468,"N",1,"Nursing/Other","Nursing","
+Nursing
+See flowsheet for details.
+
+VSS. Afebrile. On cont. PD with average 500cc neg. balance per run. Opens eyes spontaneously and follows commands. Lungs fairly CTA. Attempted to wean all day. Propofol stopped at 1500. Pt. becomes very agitated off of propofol. Insulin and heparin gtts infusing. 
+
+Left leg with good color and palpable pulses. Staples intact; incision with no drainage. Ace changed by resident this afternoon. Left heel ulcer with yellow drainage and foul odor. Dopplerable pulses both radial arteries and right leg. 
+
+Right rad a-line guide-wired by Dr. [**Last Name (STitle) 190**]. A-line with poor waveform. Right IJ TLC intact.
+
+Planning for future extubation. 
+",,
+24691,27723,30660,0,3310-07-18 00:32:00 EST,3310-07-18 01:01:00 EST,889,"N",1,"Nursing/Other","SICU NPN:","
+SICU NPN:
+S-""The pain in my leg bothers me.""
+
+SEE TRANSFER NOTE FOR DETAILED SUMMARY
+SEE CAREVUE FOR ALL OBJECTIVE DATA AND TRENDS IN VITAL SIGNS
+
+O-Uneventful night. Hemodyanmically stable. Following NIBP pressures.
+O2 weaned to off. Continuing PD with 6 exchanges per day with 4hr dwells. Overnight around (-) 200ccs per dwell. Continues Insulin and Heparin gtt. Medicated with Morphine overnight. 
+
+A/P:s/p fem-tib bypass graft doing well.
+
+PT consult today 
+Most likely call out to floor. 
+
+",,
+24691,27723,30660,0,3310-07-18 14:55:00 EST,3310-07-18 15:03:00 EST,1158,"N",1,"Nursing/Other",,"
+
+[**Name8 (MD) 1021**] MD notes/orders, transfer note. Pt has been a&o x3, pain controlled with IV morphine and po percocet. Aline dc'd, non invasive bp 1teens to 160's,  po metoprolol resumed. Pulm: Ra sats 89-92%, on 3L nc incr to 97%, pt encouraged to cough/deep breathe, lungs clear bilaterally. GU: Oliguric, uo 30-5cc/hr, PD exchanges q4hrs. GI: Renal diet inititiated and tolerated well, Abd obese, bs+. Skin: Incisions per coverage, left groin incision under skin fold draining small amounts serous fluid. Right hand with dusky cool thumb and index finger initially. Color improved after aline dc'd, radial pulse strong by doppler, weakly palpable. Pt voiced some numbness in fingers on right hand. Endo: Insulin gtt dc'd, ssc with regular insulin initiated. Pt on 70/30 insulin bid at home. P: Continue to observe right hand/fingers for any change, pt to transfer to [**Hospital Ward Name 41**] nine when bed available. 
+",,
+24691,27723,30660,0,3310-07-19 03:19:00 EST,3310-07-19 03:29:00 EST,6344,"N",1,"Nursing/Other","NPN","
+NPN
+SEe carevue for remarks and details:::
+
+Neuro: A+O x3, pleasant, cooperative. MAE, following commands appropriately. Primary [**Doctor Last Name **] spanish, communicating well. 
+
+Resp: lungs clear and diminished. No cough noted. RR12-18. O2 sats 95-100% on 3 L NC, desats to about 85% on RA. 
+
+CV: HR 70-80s.SBP stable. On lopressor BID PO. No ectopy noted. +[**4-10**] palpable pulses bilateral lower extermities. +CSM bilaterally. slight trace edema on B feet. L groin staples dry and intact-DSD placed. L leg incision dry and intact, DSD intact. L  heel dressing TID dressing changes. to be changed this am. 
+
+GI: +BS, non tender obese abd. tolerating renal diet, denies N/V. Tenckhoff cath intact, dressing dry. 
+
+GU: foley drain small amts amber clear urine. CAPD Q4hr-2.5% dextrose solution. draining clear yellow waste. dwell time 4hrs. No added medications to instilling fluid bag. 
+
+Social: family visited earlier in eve. Husband calling to check on wife about transfer to [**Hospital Ward Name **] 9. 
+
+Plan: Transfer to [**Hospital Ward Name **] 9 when tele bed available. Cont w/ CAPD Q4hr. Monitor blood sugars as ordered. Cont to monitor CV/vascular status, monitor LE dressings as needed, change Leg dressing (DSD) QD and L heel ulcer dressing (Wet-dry) TID.  cont to monitor pain as needed. Env pt to get OOB today when able. 
+",,
+24691,27723,,,3310-07-21 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3310-7-21**] 11:27 AM
+     HEEL (AXIAL & LATERAL) LEFT                                     Clip # [**Clip Number (Radiology) 5099**]
+     Reason: r/o OM                                                      
+     Admitting Diagnosis: PERIPHERAL VASCULAR DISEASE/SDA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       45 year old woman with left heel ulcer x 6 months and niddm. r/o 
+      osteomyelitis.
+     REASON FOR THIS EXAMINATION:
+      r/o OM                                                                          
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Left heel ulcer x6 months, diabetes, rule out osteomyelitis.
+     
+     LEFT HEEL, 2 VIEWS:
+     
+     The ulcer over the heel is noted.  Some irregularity of the underlying portion
+     of the calcaneus is within the range of normal.  No focal bone destruction or
+     periosteal new bone formation to confirm the presence of osteomyelitis is
+     identified.  No reactive sclerosis is detected.  No fracture is identified. 
+     Vascular calcification and surgical clips noted.
+     
+     IMPRESSION:  Ulceration.  No osteomyelitis identified.
+                                                                           
+
+",,
+24691,27723,,,3310-07-29 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3310-7-29**] 8:52 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 5100**]
+     Reason: SL PICC placed to L basilic. Please confirm placement for us
+     Admitting Diagnosis: PERIPHERAL VASCULAR DISEASE/SDA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       45 year old woman s/p left leg bypass and cvl placement                        
+       
+     REASON FOR THIS EXAMINATION:
+      SL PICC placed to L basilic. Please confirm placement for use. Thanks.Page to 
+      [**Pager number 506**].
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Statuspost left PICC placement, left leg bypass, evaluate PICC
+     tip location.
+     
+     COMPARISON:  [**3310-7-15**].
+     
+     TECHNIQUE:  Single AP portable semiupright chest.
+     
+     FINDINGS:  There has been interval removal of the right internal jugular
+     venous access catheter, endotracheal tube, and nasogastric tube.  Interval
+     placement of left-sided PICC with tip terminating in the distal SVC, just
+     above the SVC/RA junction.  The heart size and mediastinal contours are
+     unchanged.  In comparison with the previous examination, there is resolution
+     of congestive heart failure and improved aeration, with minimal residual
+     atelectasis at the left base and in the right perihilar region.  The osseous
+     structures are unchanged.
+     
+     IMPRESSION:
+     1.  Left PICC tip in distal SVC, just above the SVC/RA junction.  This was
+     discussed with [**Doctor First Name 5101**] of IV therapy at approximately 11:00 a.m.
+     2.  Resolution of congestive heart failure.
+     3  Mild right perihilar and left basilar atelectasis.
+     
+     
+
+",,
+24691,,,,3310-10-09 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3310-10-9**] 7:56 PM
+     CHEST (PRE-OP PA & LAT)                                         Clip # [**Clip Number (Radiology) 5102**]
+     Reason: ISCHEMIC LEFT LEG
+     Admitting Diagnosis: ISCHEMIC LEFT LEG
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      45 year old woman with PVD                                                      
+     REASON FOR THIS EXAMINATION:
+      pre - op                                                                        
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  45-year-old female with peripheral vascular disease, pre-op
+     evaluation.
+     
+     COMPARISONS:  Comparison is made to AP chest radiograph from [**3310-7-29**].
+     
+     TECHNIQUE/FINDINGS:  PA and lateral chest radiographs were reviewed.  The
+     radiograph was not obtained at peak expiratory effort.  Therefore, there are
+     low lung volumes.  Heart size is normal.  The mediastinal and hilar contours
+     are unremarkable.  The lungs are clear.  There are no pleural effusions or
+     pneumothoraces.  No focal areas of consolidation are identified.  The
+     visualized osseous structures are grossly normal.
+     
+     IMPRESSION:  Low lung volumes, otherwise normal radiographic appearance of the
+     chest.  No evidence of acute cardiopulmonary disease.
+                                                                           
+
+",,
+24691,,,,3310-11-21 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3310-11-21**] 10:16 AM
+     ART EXT (REST ONLY); ART EXT SGL LEVEL                          Clip # [**Clip Number (Radiology) 5103**]
+     -59 DISTINCT PROCEDURAL SERVICE
+     Reason: GANGRENE FINGERS LT HAND, LT HEEL ULCER
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     
+     HISTORY:  Left heel ulcer and gangrene of the left hand.
+     
+     FINDINGS:  Systolic pressure measurements in the left arm are 216 at the
+     brachial level, 207 at the radial level, 199 at the ulnar level, and 36 at the
+     digit level.  Waveforms of the brachial level were triphasic, those distally
+     were monophasic, waveforms at the digit level were difficult to extract.  The
+     volume recordings were performed bilaterally.  These remain symmetric
+     bilaterally up to the level of the wrist. At the digit level, there was a
+     marked relative decline in amplitude on the left when compared to the right.
+     
+     Doppler evaluation lower extremities demonstrate triphasic waveforms at the
+     femoral and popliteal levels on the right, that at the right PT level was
+     absent, and at the DP level was monophasic.  All other waveforms on the left
+     are monophasic with an absent signal from the left PT level.  ABI measurements
+     are inaccurate due to vessel non-compressibility.  Volume recordings are in
+     accord with the Doppler tracings.
+     
+     IMPRESSION:
+     1.  Significant decline in inflow to the left digits, there appears to be
+     relatively normal arterial inflow to the level of the left wrist.
+     2.  Significant right-sided tibial disease and in particular involving the PT
+     artery.
+     3.  Left-sided aortoiliac disease and definite left-sided tibial disease as
+     indicated by an absent PT waveform.
+
+",,
+24691,,,,3310-11-21 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3310-11-21**] 3:08 PM
+     HAND (AP, LAT & OBLIQUE) LEFT                                   Clip # [**Clip Number (Radiology) 5104**]
+     Reason: L Middle Finger ischemic ulcer on ulnar border at level of D
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      45 year old woman with L middle finger ischemic ulcer on volar and ulnar border
+      at level of DIP joint, r/o bony erosion/osteo. 
+     REASON FOR THIS EXAMINATION:
+      L Middle Finger ischemic ulcer on ulnar border at level of DIP joint.  R/O Bony
+      erosion, osteomylitis. 
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     STUDY:  Left hand three views.  [**3310-11-21**].
+     
+     CLINICAL HISTORY:  45-year-old woman with left middle finger ischemic ulcer
+     along the volar aspect.  Evaluate for underlying bony erosion or
+     osteomyelitis.
+     
+     FINDINGS:
+     
+     There is a small soft tissue defect along the volar aspect of the third middle
+     finger distally.  No bony erosions are identified within this region.
+     Extensive vascular calcifications are seen.  No acute fractures or significant
+     degenerative changes are identified.
+     
+     IMPRESSION:
+     
+     Soft tissue ulcer, without radiographic evidence for osteomyelitis or bony
+     erosions.
+
+",,
+24691,,,,3310-11-21 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3310-11-21**] 10:16 AM
+     ART EXT (REST ONLY); ART EXT SGL LEVEL                          Clip # [**Clip Number (Radiology) 5103**]
+     -59 DISTINCT PROCEDURAL SERVICE
+     Reason: GANGRENE FINGERS LT HAND, LT HEEL ULCER
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     
+     HISTORY:  Left heel ulcer and gangrene of the left hand.
+     
+     FINDINGS:  Systolic pressure measurements in the left arm are 216 at the
+     brachial level, 207 at the radial level, 199 at the ulnar level, and 36 at the
+     digit level.  Waveforms of the brachial level were triphasic, those distally
+     were monophasic, waveforms at the digit level were difficult to extract.  The
+     volume recordings were performed bilaterally.  These remain symmetric
+     bilaterally up to the level of the wrist. At the digit level, there was a
+     marked relative decline in amplitude on the left when compared to the right.
+     
+     Doppler evaluation lower extremities demonstrate triphasic waveforms at the
+     femoral and popliteal levels on the right, that at the right PT level was
+     absent, and at the DP level was monophasic.  All other waveforms on the left
+     are monophasic with an absent signal from the left PT level.  ABI measurements
+     are inaccurate due to vessel non-compressibility.  Volume recordings are in
+     accord with the Doppler tracings.
+     
+     IMPRESSION:
+     1.  Significant decline in inflow to the left digits, there appears to be
+     relatively normal arterial inflow to the level of the left wrist.
+     2.  Significant right-sided tibial disease and in particular involving the PT
+     artery.
+     3.  Left-sided aortoiliac disease and definite left-sided tibial disease as
+     indicated by an absent PT waveform.
+
+",,
+24691,,,,3310-11-21 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3310-11-21**] 10:16 AM
+     ART EXT (REST ONLY); ART EXT SGL LEVEL                          Clip # [**Clip Number (Radiology) 5103**]
+     -59 DISTINCT PROCEDURAL SERVICE
+     Reason: GANGRENE FINGERS LT HAND, LT HEEL ULCER
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     
+     HISTORY:  Left heel ulcer and gangrene of the left hand.
+     
+     FINDINGS:  Systolic pressure measurements in the left arm are 216 at the
+     brachial level, 207 at the radial level, 199 at the ulnar level, and 36 at the
+     digit level.  Waveforms of the brachial level were triphasic, those distally
+     were monophasic, waveforms at the digit level were difficult to extract.  The
+     volume recordings were performed bilaterally.  These remain symmetric
+     bilaterally up to the level of the wrist. At the digit level, there was a
+     marked relative decline in amplitude on the left when compared to the right.
+     
+     Doppler evaluation lower extremities demonstrate triphasic waveforms at the
+     femoral and popliteal levels on the right, that at the right PT level was
+     absent, and at the DP level was monophasic.  All other waveforms on the left
+     are monophasic with an absent signal from the left PT level.  ABI measurements
+     are inaccurate due to vessel non-compressibility.  Volume recordings are in
+     accord with the Doppler tracings.
+     
+     IMPRESSION:
+     1.  Significant decline in inflow to the left digits, there appears to be
+     relatively normal arterial inflow to the level of the left wrist.
+     2.  Significant right-sided tibial disease and in particular involving the PT
+     artery.
+     3.  Left-sided aortoiliac disease and definite left-sided tibial disease as
+     indicated by an absent PT waveform.
+
+",,
+24691,,,,3310-12-08 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3310-12-8**] 10:17 PM
+     CHEST (PA & LAT)                                                Clip # [**Clip Number (Radiology) 5105**]
+     Reason: evaluate for PNA                                            
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      45 year old woman with ESRD on PD, DM admitted with fevers and cellulitis with 
+      transient desat to upper 80s on RA, no sats 96% on 2L o2
+     REASON FOR THIS EXAMINATION:
+      evaluate for PNA                                                                
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  End-stage renal disease; on peritoneal dialysis, diabetes, admitted
+     with fevers and cellulitis.  Transient desaturation to upper 80's on room air.
+     
+     COMPARISON:  [**3310-10-9**].
+     
+     FINDINGS: Low lung volumes are present.  Cardiac and mediastinal contours are
+     unchanged. The pulmonary vascularity is normal.  Linear atelectasis is noted
+     within the left lower lobe.  There are no effusions, focal consolidations, or
+     pneumothorax demonstrated.  The osseous structures are unremarkable.
+     
+     IMPRESSION:  Low inspiratory volumes.  Left lower lobe linear atelectasis.
+                                                                           DFDdp
+
+",,
+24691,,,,3310-12-08 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3310-12-8**] 10:17 PM
+     HAND (AP, LAT & OBLIQUE) LEFT                                   Clip # [**Clip Number (Radiology) 5106**]
+     Reason: r/o for air in soft tissues                                 
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      45 year old woman with ESRD on PD, DM admitted with fevers and cellulitis of 
+      left 3rd digit (s/p partial amputation of digit on [**12-2**])
+     REASON FOR THIS EXAMINATION:
+      r/o for air in soft tissues                                                     
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Diabetes mellitus, fevers, cellulitis of the left third digit,
+     status post partial amputation of the digit on [**3310-12-2**].
+     
+     LEFT HAND, THREE VIEWS:  There has been partial amputation of the third digit
+     with the resection at the level of the distal portion of the third proximal
+     phalanx.  No evidence of subcutaneous gas is demonstrated, and no cortical
+     destruction is seen to suggest osteomyelitis. Marked vascular calcifications
+     are seen involving the entire hand. No fracture, dislocation, or other focal
+     osseous abnormality is demonstrated. Alignment is unremarkable.
+     
+     IMPRESSION:  No evidence of subcutaneous emphysema or osteomyelitis, status
+     post partial amputation of the third digit.
+                                                                           DFDdp
+
+",,
+24691,,,,3310-12-12 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3310-12-12**] 1:45 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 5107**]
+     Reason: r/o infiltrates                                             
+     Admitting Diagnosis: CELLULITIS-FEVER
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      45 year old woman with leukocytosis and fever.                                  
+     REASON FOR THIS EXAMINATION:
+      r/o infiltrates                                                                 
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     PORTABLE CHEST, [**3310-12-12**]
+     
+     COMPARISON:  [**3310-12-8**].
+     
+     INDICATION:  Leukocytosis and fever.
+     
+     Cardiac silhouette is upper limits of normal in size for technique.  The lungs
+     appear grossly clear.  There remains mild elevation of the right
+     hemidiaphragm.
+     
+     IMPRESSION:  No evidence of pneumonia.  Dedicated PA and lateral views may be
+     helpful for more complete assessment of the lung bases and may be helpful if
+     symptoms persist.
+                                                                           
+
+",,
+24691,,,,3310-12-15 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3310-12-15**] 2:16 PM
+     PICC LINE PLACMENT SCH                                          Clip # [**Clip Number (Radiology) 5108**]
+     Reason: place PICC for vancomycin administration                    
+     Admitting Diagnosis: CELLULITIS-FEVER
+     ********************************* CPT Codes ********************************
+     * 36569 PICC W/O [**State/Zipcode 259**] FLUOR GUID PLCT/REPLCT/REMOVE *
+     * C1751 CATH [**Last Name (LF) 260**],[**First Name3 (LF) 261**]/CENT/MID(NOT D                                     *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      45 year old woman with poorly controlled DM I, severe PVD, s/p L 3rd finger 
+      amputation/revision. 
+     REASON FOR THIS EXAMINATION:
+      place PICC for vancomycin administration                                        
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY: 45-year-old woman with poorly controlled diabetes, severe peripheral
+     vascular disease, status post left third finger amputation. Requires PICC for
+     long-term IV antibiotics including vancomycin.
+     
+     RADIOLOGISTS: The procedure was performed by Dr. [**Last Name (STitle) 2240**] and Dr. [**Last Name (STitle) 456**] [**Name (STitle) 457**]
+     (the attending radiologist, who was present and supervising).
+     
+     PROCEDURE AND FINDINGS: The patient's right upper arm was prepped and draped
+     in standard sterile fashion. After infusion of 1% lidocaine, the right basilic
+     vein was accessed with a 21-gauge needle under ultrasonographic guidance. A
+     0.018 wire was advanced into the superior vena cava (SVC) under flouroscopic
+     guidance. Based on the markers on the guidewire, it was determined that a 43-
+     cm PICC would be appropriate. The PICC was cut to fit and advanced over a 4-
+     French introducer sheath. The wire and sheath were removed. The line was
+     flushed and hep locked and secured with a Stat-Lock. Final chest image
+     demonstrated appropriate positioning of the PICC tip in the distal SVC. The
+     patient tolerated the procedure well and there are no immediate post-procedure
+     complications.
+     
+     IMPRESSION: Successful placement of right, 43cm long, basilic vein PICC with
+     tip in the distal SVC. Line is ready for use.
+
+",,
+24691,,,,3310-12-15 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3310-12-15**] 2:16 PM
+     PICC LINE PLACMENT SCH                                          Clip # [**Clip Number (Radiology) 5108**]
+     Reason: place PICC for vancomycin administration                    
+     Admitting Diagnosis: CELLULITIS-FEVER
+     ********************************* CPT Codes ********************************
+     * 36569 PICC W/O [**State/Zipcode 259**] FLUOR GUID PLCT/REPLCT/REMOVE *
+     * C1751 CATH [**Last Name (LF) 260**],[**First Name3 (LF) 261**]/CENT/MID(NOT D                                     *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      45 year old woman with poorly controlled DM I, severe PVD, s/p L 3rd finger 
+      amputation/revision. 
+     REASON FOR THIS EXAMINATION:
+      place PICC for vancomycin administration                                        
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY: 45-year-old woman with poorly controlled diabetes, severe peripheral
+     vascular disease, status post left third finger amputation. Requires PICC for
+     long-term IV antibiotics including vancomycin.
+     
+     RADIOLOGISTS: The procedure was performed by Dr. [**Last Name (STitle) 2240**] and Dr. [**Last Name (STitle) 456**] [**Name (STitle) 457**]
+     (the attending radiologist, who was present and supervising).
+     
+     PROCEDURE AND FINDINGS: The patient's right upper arm was prepped and draped
+     in standard sterile fashion. After infusion of 1% lidocaine, the right basilic
+     vein was accessed with a 21-gauge needle under ultrasonographic guidance. A
+     0.018 wire was advanced into the superior vena cava (SVC) under flouroscopic
+     guidance. Based on the markers on the guidewire, it was determined that a 43-
+     cm PICC would be appropriate. The PICC was cut to fit and advanced over a 4-
+     French introducer sheath. The wire and sheath were removed. The line was
+     flushed and hep locked and secured with a Stat-Lock. Final chest image
+     demonstrated appropriate positioning of the PICC tip in the distal SVC. The
+     patient tolerated the procedure well and there are no immediate post-procedure
+     complications.
+     
+     IMPRESSION: Successful placement of right, 43cm long, basilic vein PICC with
+     tip in the distal SVC. Line is ready for use.
+
+",,
+24691,,,,3310-12-15 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3310-12-15**] 2:16 PM
+     PICC LINE PLACMENT SCH                                          Clip # [**Clip Number (Radiology) 5108**]
+     Reason: place PICC for vancomycin administration                    
+     Admitting Diagnosis: CELLULITIS-FEVER
+     ********************************* CPT Codes ********************************
+     * 36569 PICC W/O [**State/Zipcode 259**] FLUOR GUID PLCT/REPLCT/REMOVE *
+     * C1751 CATH [**Last Name (LF) 260**],[**First Name3 (LF) 261**]/CENT/MID(NOT D                                     *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      45 year old woman with poorly controlled DM I, severe PVD, s/p L 3rd finger 
+      amputation/revision. 
+     REASON FOR THIS EXAMINATION:
+      place PICC for vancomycin administration                                        
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY: 45-year-old woman with poorly controlled diabetes, severe peripheral
+     vascular disease, status post left third finger amputation. Requires PICC for
+     long-term IV antibiotics including vancomycin.
+     
+     RADIOLOGISTS: The procedure was performed by Dr. [**Last Name (STitle) 2240**] and Dr. [**Last Name (STitle) 456**] [**Name (STitle) 457**]
+     (the attending radiologist, who was present and supervising).
+     
+     PROCEDURE AND FINDINGS: The patient's right upper arm was prepped and draped
+     in standard sterile fashion. After infusion of 1% lidocaine, the right basilic
+     vein was accessed with a 21-gauge needle under ultrasonographic guidance. A
+     0.018 wire was advanced into the superior vena cava (SVC) under flouroscopic
+     guidance. Based on the markers on the guidewire, it was determined that a 43-
+     cm PICC would be appropriate. The PICC was cut to fit and advanced over a 4-
+     French introducer sheath. The wire and sheath were removed. The line was
+     flushed and hep locked and secured with a Stat-Lock. Final chest image
+     demonstrated appropriate positioning of the PICC tip in the distal SVC. The
+     patient tolerated the procedure well and there are no immediate post-procedure
+     complications.
+     
+     IMPRESSION: Successful placement of right, 43cm long, basilic vein PICC with
+     tip in the distal SVC. Line is ready for use.
+
+",,
+24691,,,,3311-02-03 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3311-2-3**] 11:37 AM
+     MRA UPPER EXTREMITY LEFT; MR CONTRAST GADOLIN                   Clip # [**Clip Number (Radiology) 5109**]
+     MR RECONSTRUCTION IMAGING
+     Reason: Third finger was amputated and since then become necrotic, 4
+      Contrast: MAGNEVIST Amt: 40
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      45 year old woman with 
+     REASON FOR THIS EXAMINATION:
+      Third finger was amputated and since then become necrotic, 4th finger gangrene
+      and necrotic wound.  MRA needed to evaluate the vasculature.  Pt may have
+      incomplete arch.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CLINICAL HISTORY:  Patient with amputated third finger with necrotic wound.
+     Fourth finger gangrene.  MRA needed to evaluate vasculature.
+     
+     STUDY:  Left hand and wrist MRA.
+     
+     TECHNIQUE:  Axial, coronal HASTE and 2D time-of-flight images were used to
+     prescribe a 3D TRICKS imaging of the hand and wrist as well as a multiphase
+     gadolinium enhanced 3D T1-weighted gradient echo MRA.  Multiplanar reformats
+     and subtractions were made from these images.  Two gadolinium injections were
+     performed.
+     
+     FINDINGS:
+     No ulnar artery is visualized.  There is a diffusely very attenuated radial
+     artery that is markedly irregular at the wrist.  The radial artery gives rise
+     to a markedly attenuated deep palmar arch.  The deep palmar arch gives rise to
+     the first, second, third and fourth common metacarpal arterial branches that
+     are all diminutive.  Proper digital arteries are not seen.  Flowing in a
+     slightly delayed fashion from the carpal portion of the radial artery is a
+     palmar carpal arterial arch, though this is incomplete. There is rapid venous
+     drainage of contrast from the hand and fingers, particularly about the third
+     and fourth metacarpals and proximal digits at sites of recent surgery and
+     inflammation.
+     
+     There is soft tissue irregularity about the base of the amputated third
+     proximal phalanx.  There is fluid within the flexor tendon just proximal to
+     the third PIP joint with enhancement about this which could suggest a small
+     abscess along the flexor tendon.  No other concerning collections within the
+     visualized portions of hands and wrist, though there is extensive soft tissue
+     enhancement about the third and fourth metacarpals and proximal phalanges
+     consistent with recent surgery.  Infection here cannot be excluded.
+     
+     Multiplanar reformats were essential in evaluating the arteries.
+     
+     
+     IMPRESSION:
+     1.  Markedly abnormal arterial supply to the left wrist and hand with no ulnar
+     arterial supply to the hand and diminutive radial artery.  Radial artery
+     supplies an attenuated incomplete deep palmar arch that supplies the first
+     through fourth common metacarpal arteries, however, no superficial palmar arch
+                                                                 (Over)
+
+     DATE: [**3311-2-3**] 11:37 AM
+     MRA UPPER EXTREMITY LEFT; MR CONTRAST GADOLIN                   Clip # [**Clip Number (Radiology) 5109**]
+     MR RECONSTRUCTION IMAGING
+     Reason: Third finger was amputated and since then become necrotic, 4
+      Contrast: MAGNEVIST Amt: 40
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     or proper digital arteries are seen.
+     
+     2.  Possible small fluid collection within the flexor tendon of the third ray
+     overlying metacarpal with extensive surrounding soft tissue enhancement.
+     Infection at this site cannot be excluded.
+     
+     KEYWORD: HAND MRA
+
+",,
+24691,,,,3311-02-03 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3311-2-3**] 11:37 AM
+     MRA UPPER EXTREMITY LEFT; MR CONTRAST GADOLIN                   Clip # [**Clip Number (Radiology) 5109**]
+     MR RECONSTRUCTION IMAGING
+     Reason: Third finger was amputated and since then become necrotic, 4
+      Contrast: MAGNEVIST Amt: 40
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      45 year old woman with 
+     REASON FOR THIS EXAMINATION:
+      Third finger was amputated and since then become necrotic, 4th finger gangrene
+      and necrotic wound.  MRA needed to evaluate the vasculature.  Pt may have
+      incomplete arch.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CLINICAL HISTORY:  Patient with amputated third finger with necrotic wound.
+     Fourth finger gangrene.  MRA needed to evaluate vasculature.
+     
+     STUDY:  Left hand and wrist MRA.
+     
+     TECHNIQUE:  Axial, coronal HASTE and 2D time-of-flight images were used to
+     prescribe a 3D TRICKS imaging of the hand and wrist as well as a multiphase
+     gadolinium enhanced 3D T1-weighted gradient echo MRA.  Multiplanar reformats
+     and subtractions were made from these images.  Two gadolinium injections were
+     performed.
+     
+     FINDINGS:
+     No ulnar artery is visualized.  There is a diffusely very attenuated radial
+     artery that is markedly irregular at the wrist.  The radial artery gives rise
+     to a markedly attenuated deep palmar arch.  The deep palmar arch gives rise to
+     the first, second, third and fourth common metacarpal arterial branches that
+     are all diminutive.  Proper digital arteries are not seen.  Flowing in a
+     slightly delayed fashion from the carpal portion of the radial artery is a
+     palmar carpal arterial arch, though this is incomplete. There is rapid venous
+     drainage of contrast from the hand and fingers, particularly about the third
+     and fourth metacarpals and proximal digits at sites of recent surgery and
+     inflammation.
+     
+     There is soft tissue irregularity about the base of the amputated third
+     proximal phalanx.  There is fluid within the flexor tendon just proximal to
+     the third PIP joint with enhancement about this which could suggest a small
+     abscess along the flexor tendon.  No other concerning collections within the
+     visualized portions of hands and wrist, though there is extensive soft tissue
+     enhancement about the third and fourth metacarpals and proximal phalanges
+     consistent with recent surgery.  Infection here cannot be excluded.
+     
+     Multiplanar reformats were essential in evaluating the arteries.
+     
+     
+     IMPRESSION:
+     1.  Markedly abnormal arterial supply to the left wrist and hand with no ulnar
+     arterial supply to the hand and diminutive radial artery.  Radial artery
+     supplies an attenuated incomplete deep palmar arch that supplies the first
+     through fourth common metacarpal arteries, however, no superficial palmar arch
+                                                                 (Over)
+
+     DATE: [**3311-2-3**] 11:37 AM
+     MRA UPPER EXTREMITY LEFT; MR CONTRAST GADOLIN                   Clip # [**Clip Number (Radiology) 5109**]
+     MR RECONSTRUCTION IMAGING
+     Reason: Third finger was amputated and since then become necrotic, 4
+      Contrast: MAGNEVIST Amt: 40
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     or proper digital arteries are seen.
+     
+     2.  Possible small fluid collection within the flexor tendon of the third ray
+     overlying metacarpal with extensive surrounding soft tissue enhancement.
+     Infection at this site cannot be excluded.
+     
+     KEYWORD: HAND MRA
+
+",,
+24691,,,,3311-02-03 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3311-2-3**] 11:37 AM
+     MRA UPPER EXTREMITY LEFT; MR CONTRAST GADOLIN                   Clip # [**Clip Number (Radiology) 5109**]
+     MR RECONSTRUCTION IMAGING
+     Reason: Third finger was amputated and since then become necrotic, 4
+      Contrast: MAGNEVIST Amt: 40
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      45 year old woman with 
+     REASON FOR THIS EXAMINATION:
+      Third finger was amputated and since then become necrotic, 4th finger gangrene
+      and necrotic wound.  MRA needed to evaluate the vasculature.  Pt may have
+      incomplete arch.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CLINICAL HISTORY:  Patient with amputated third finger with necrotic wound.
+     Fourth finger gangrene.  MRA needed to evaluate vasculature.
+     
+     STUDY:  Left hand and wrist MRA.
+     
+     TECHNIQUE:  Axial, coronal HASTE and 2D time-of-flight images were used to
+     prescribe a 3D TRICKS imaging of the hand and wrist as well as a multiphase
+     gadolinium enhanced 3D T1-weighted gradient echo MRA.  Multiplanar reformats
+     and subtractions were made from these images.  Two gadolinium injections were
+     performed.
+     
+     FINDINGS:
+     No ulnar artery is visualized.  There is a diffusely very attenuated radial
+     artery that is markedly irregular at the wrist.  The radial artery gives rise
+     to a markedly attenuated deep palmar arch.  The deep palmar arch gives rise to
+     the first, second, third and fourth common metacarpal arterial branches that
+     are all diminutive.  Proper digital arteries are not seen.  Flowing in a
+     slightly delayed fashion from the carpal portion of the radial artery is a
+     palmar carpal arterial arch, though this is incomplete. There is rapid venous
+     drainage of contrast from the hand and fingers, particularly about the third
+     and fourth metacarpals and proximal digits at sites of recent surgery and
+     inflammation.
+     
+     There is soft tissue irregularity about the base of the amputated third
+     proximal phalanx.  There is fluid within the flexor tendon just proximal to
+     the third PIP joint with enhancement about this which could suggest a small
+     abscess along the flexor tendon.  No other concerning collections within the
+     visualized portions of hands and wrist, though there is extensive soft tissue
+     enhancement about the third and fourth metacarpals and proximal phalanges
+     consistent with recent surgery.  Infection here cannot be excluded.
+     
+     Multiplanar reformats were essential in evaluating the arteries.
+     
+     
+     IMPRESSION:
+     1.  Markedly abnormal arterial supply to the left wrist and hand with no ulnar
+     arterial supply to the hand and diminutive radial artery.  Radial artery
+     supplies an attenuated incomplete deep palmar arch that supplies the first
+     through fourth common metacarpal arteries, however, no superficial palmar arch
+                                                                 (Over)
+
+     DATE: [**3311-2-3**] 11:37 AM
+     MRA UPPER EXTREMITY LEFT; MR CONTRAST GADOLIN                   Clip # [**Clip Number (Radiology) 5109**]
+     MR RECONSTRUCTION IMAGING
+     Reason: Third finger was amputated and since then become necrotic, 4
+      Contrast: MAGNEVIST Amt: 40
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     or proper digital arteries are seen.
+     
+     2.  Possible small fluid collection within the flexor tendon of the third ray
+     overlying metacarpal with extensive surrounding soft tissue enhancement.
+     Infection at this site cannot be excluded.
+     
+     KEYWORD: HAND MRA
+
+",,
+24691,,,,3311-02-08 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3311-2-8**] 3:01 AM
+     CHEST (PA & LAT)                                                Clip # [**Clip Number (Radiology) 5110**]
+     Reason: assess for infiltrate, edema                                
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      45 year old woman with anasarca, doe                                            
+     REASON FOR THIS EXAMINATION:
+      assess for infiltrate, edema                                                    
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  45-year-old woman with anasarca and dyspnea on exertion, evaluate
+     for pneumonia or edema.
+     
+     PA AND LATERAL CHEST:  Compared to [**3310-12-8**].  Slightly low lung volumes, but
+     unchanged from multiple prior studies.  The heart size is stable and within
+     normal limits.  The mediastinal and hilar contours are unremarkable. Left-
+     sided PICC line with its tip likely in the right brachiocephalic/subclavian
+     vein, far right of midline.  There is no pneumothorax.  There remains mild
+     left lower lobe atelectasis but no evidence to suggest pneumonia or congestive
+     heart failure.
+     
+     IMPRESSION:
+     1) Right PICC line with its tip in the right brachiocephalic/subclavian vein;
+     this could be advanced at least 6 cm.
+     2) No evidence of an acute cardiopulmonary process.
+     
+
+",,
+24691,,,,3311-02-20 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3311-2-20**] 11:14 PM
+     HEEL (AXIAL & LATERAL) BILAT                                    Clip # [**Clip Number (Radiology) 5111**]
+     Reason: osteo, abcess                                               
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      46 year old woman with bilat heel ulcers, now increased pain, swelling, 
+      erythema after debriedment. 
+     REASON FOR THIS EXAMINATION:
+      osteo, abcess                                                                   
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     EXAM ORDER:  Bilateral heels.
+     
+     HISTORY:  Heel ulcers, now increased pain.
+     
+     BOTH HEELS:  Lateral views and [**Doctor Last Name 5112**] views were obtained.  The right [**Doctor Last Name 5112**]
+     view is limited due to over penetration of the film.  There is a large soft
+     tissue defect at the posterior aspect of the left heel without evidence of
+     osteomyelitis.  Extensive vascular calcifications are seen.  Note is made of
+     surgical clips on the left.
+     
+     IMPRESSION:  Limited right [**Doctor Last Name 5112**] view.  No definite evidence of
+     osteomyelitis.
+                                                                           
+
+",,
+24691,,,,3311-02-23 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3311-2-23**] 2:38 PM
+     CHEST (PRE-OP PA & LAT)                                         Clip # [**Clip Number (Radiology) 5114**]
+     Reason: CELLULITIS
+     Admitting Diagnosis: CELLULITIS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      46 year old woman with ?R heel infection                                        
+     REASON FOR THIS EXAMINATION:
+      pre op                                                                          
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Cellulitis.
+     
+     AP and lateral radiographs of the chest demonstrate interval removal of the
+     right-sided PICC line when compared to [**3311-2-8**].  The cardiomediastinal
+     silhouette is unchanged.  I doubt the presence of a left-sided pleural
+     effusion.  The trachea is midline.
+     
+     IMPRESSION:
+     Interval removal of right-sided PICC line.  No acute cardiopulmonary disease.
+                                                                           
+
+",,
+24691,,,,3311-02-23 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3311-2-23**] 1:44 PM
+     US EXTREMITY NONVASCULAR RIGHT                                  Clip # [**Clip Number (Radiology) 5113**]
+     Reason: Eval for abscess in right plantar heel                      
+     Admitting Diagnosis: CELLULITIS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      46 year old woman with right heel ulcer with questionable abscess, pt has a 
+      stable heel ulcer with dry eschar near area of concern.
+     REASON FOR THIS EXAMINATION:
+      Eval for abscess in right plantar heel                                          
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Right heel ulcer with questionable abscess.  The patient has a
+     stable heel ulcer with dry eschar near area of concern.
+     
+     FINDINGS:  Scans with a linear transducer were performed overlying the
+     patient's right plantar heel and adjacent soft tissue swelling extending
+     medially.  There are no well-defined fluid collections identified.  Edematous
+     changes are demonstrated in the subcutaneous tissues.  There is also note of
+     an unusual 1.1 x 1.1-cm focus, which is approximately 1 cm deep to the skin
+     overlying the medial aspect of the right heel, which causes acoustic
+     shadowing.  This structure does not appear to elongate as would be expected
+     for a vessel.
+     
+     IMPRESSION:
+     
+     1.  No definite abscess identified.
+     
+     2.  Edematous changes in the subcutaneous tissues.
+     
+     3.  Unusual shadowing focus in the medial aspect of the right heel, which
+     could represent calcifications in the subcutaneous tissues.  Given the less
+     likely alternative that this represents air, CT is recommended for further
+     evaluation.
+                                                                           
+
+",,
+24691,,,,3311-02-24 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+",,
+24691,,,,3311-02-24 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3311-2-24**] 9:14 AM
+     ART DUP EXT LO UNI;F/U; ART EXT (REST ONLY)                     Clip # [**Clip Number (Radiology) 5115**]
+     Reason: LLE GRAFT SURVEILLANCE, BILATERAL HEEL ULCERS
+     Admitting Diagnosis: CELLULITIS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      46 year old woman with heel ulcers with LLE bypass graft                        
+     REASON FOR THIS EXAMINATION:
+      assess LLE bypass graft                                                         
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Left common femoral to DP graft, with heel ulcers.
+     
+     FINDINGS:  Doppler evaluation shows a peak systolic velocity of 177 cm within
+     the left common femoral artery and at the proximal graft anastomosis with this
+     vessel, 146 cm/sec.  Graft velocities range from a minimum of 80 to a maximum
+     of 289 cm/sec, the latter at the distal graft anastomosis.  Within the distal
+     native vessel, the peak systolic velocity is 200 cm/sec.
+     
+     Noninvasive evaluation of the right lower extremity was also performed due to
+     heel ulceration.  Triphasic waveforms at the femoral through popliteal levels,
+     monophasic waveforms distally.  ABI measurements are inaccurate bilaterally
+     due to vessel non-compressibility.  Volume recordings demonstrate amplitude
+     loss and waveform widening from the low thigh distally on the right.
+     
+     IMPRESSION:
+     1.  Widely patent left common femoral to dorsalis pedis bypass graft.  PVR at
+     the left metatarsal level does not suggest compromised inflow to this level.
+     2.  Significant right-sided tibial disease.
+                                                                           
+
+",,
+24691,,,,3311-02-24 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3311-2-24**] 9:14 AM
+     ART DUP EXT LO UNI;F/U; ART EXT (REST ONLY)                     Clip # [**Clip Number (Radiology) 5115**]
+     Reason: LLE GRAFT SURVEILLANCE, BILATERAL HEEL ULCERS
+     Admitting Diagnosis: CELLULITIS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      46 year old woman with heel ulcers with LLE bypass graft                        
+     REASON FOR THIS EXAMINATION:
+      assess LLE bypass graft                                                         
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Left common femoral to DP graft, with heel ulcers.
+     
+     FINDINGS:  Doppler evaluation shows a peak systolic velocity of 177 cm within
+     the left common femoral artery and at the proximal graft anastomosis with this
+     vessel, 146 cm/sec.  Graft velocities range from a minimum of 80 to a maximum
+     of 289 cm/sec, the latter at the distal graft anastomosis.  Within the distal
+     native vessel, the peak systolic velocity is 200 cm/sec.
+     
+     Noninvasive evaluation of the right lower extremity was also performed due to
+     heel ulceration.  Triphasic waveforms at the femoral through popliteal levels,
+     monophasic waveforms distally.  ABI measurements are inaccurate bilaterally
+     due to vessel non-compressibility.  Volume recordings demonstrate amplitude
+     loss and waveform widening from the low thigh distally on the right.
+     
+     IMPRESSION:
+     1.  Widely patent left common femoral to dorsalis pedis bypass graft.  PVR at
+     the left metatarsal level does not suggest compromised inflow to this level.
+     2.  Significant right-sided tibial disease.
+                                                                           
+
+",,
+24691,,,,3311-02-26 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3311-2-26**] 2:25 PM
+     ART EXT (REST ONLY)                                             Clip # [**Clip Number (Radiology) 5116**]
+     Reason: PVR / ABI / segmental pressure                              
+     Admitting Diagnosis: CELLULITIS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      46 year old woman with heel ulcer                                               
+     REASON FOR THIS EXAMINATION:
+      PVR / ABI / segmental pressure                                                  
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     ULTRASOUND LEG
+     
+     INDICATION:  46-year-old woman with healed ulcer, status post angioplasty.
+     
+     FINDINGS:  Right leg was examined.  There is triphasic flow pattern at the
+     femoral and popliteal arteries.  No tracing was detectable at the posterior
+     tibial artery, and monophasic flow pattern was detected at the dorsalis pedis
+     artery.  The vessels are noncompressible.  There has been some interval
+     improvement in pulse volume recording compared to prior study from [**3311-2-24**].
+                                                                           
+
+",,
+24691,,,,3311-02-26 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3311-2-26**] 4:18 PM
+     PICC LINE PLACMENT SCH                                          Clip # [**Clip Number (Radiology) 5117**]
+     Reason: PICC placement unable to do at bedside.  Needs PICC placed f
+     Admitting Diagnosis: CELLULITIS
+     ********************************* CPT Codes ********************************
+     * 36569 PICC W/O [**State/Zipcode 259**] FLUOR GUID PLCT/REPLCT/REMOVE *
+     * 76937 US GUID FOR VAS. ACCESS        C1751 CATH [**Last Name (LF) 260**],[**First Name3 (LF) 261**]/CENT/MID(NOT D*
+     * C1769 GUID WIRES INCL INF                                                *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      46 year old woman with necrotic heel ulcers requiring IV abx.                   
+     REASON FOR THIS EXAMINATION:
+      PICC placement unable to do at bedside.  Needs PICC placed for long term IV 
+      abx.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Heel ulcer.  Requires long-term IV antibiotics.  IV team was not
+     able to advance the PICC line.
+     
+     PROCEDURE:  This procedure was performed by Dr. [**Last Name (STitle) 5118**] and Dr. [**Last Name (STitle) 4**].  Dr.
+     [**Last Name (STitle) 4**], the attending radiologist was present during the entire procedure
+     supervising.
+     
+     The right upper arm was prepped and draped in the standard sterile fashion.
+     Since no suitable superficial veins were visible, ultrasound was used for
+     localization of a suitable vein.  The right basilic vein was patent and
+     compressible.  After local anesthesia with 2 cc of 1% lidocaine, the right
+     basilic vein was entered under ultrasonographic guidance with a 21-gauge
+     needle.  Hard copy ultrasound images were obtained before and after venous
+     access documenting vessel patency. A 0.018 guidewire was then advanced in
+     superior vena cava. Based on markers on the guidewire, it was determined that
+     a length of 42 cm would be suitable. The PICC line was then trimmed to length
+     and advanced over a 4- French introducer sheath under fluoroscopic guidance in
+     superior vena cava. The sheath was removed.  The catheter was flushed.  A
+     final chest x-ray was obtained.  The film demonstrates the tip to be in
+     superior vena cava just above the right atrium. The line is ready for use. The
+     StatLock device was applied and the line was heplocked.
+     
+     IMPRESSION:  Successful placement of a 39-cm right basilic PICC line with the
+     tip in the SVC.  The line is ready for use.
+     
+     
+     
+     
+     
+     
+     
+                                                                 (Over)
+
+     DATE: [**3311-2-26**] 4:18 PM
+     PICC LINE PLACMENT SCH                                          Clip # [**Clip Number (Radiology) 5117**]
+     Reason: PICC placement unable to do at bedside.  Needs PICC placed f
+     Admitting Diagnosis: CELLULITIS
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+
+",,
+24691,,,,3311-02-26 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3311-2-26**] 4:18 PM
+     PICC LINE PLACMENT SCH                                          Clip # [**Clip Number (Radiology) 5117**]
+     Reason: PICC placement unable to do at bedside.  Needs PICC placed f
+     Admitting Diagnosis: CELLULITIS
+     ********************************* CPT Codes ********************************
+     * 36569 PICC W/O [**State/Zipcode 259**] FLUOR GUID PLCT/REPLCT/REMOVE *
+     * 76937 US GUID FOR VAS. ACCESS        C1751 CATH [**Last Name (LF) 260**],[**First Name3 (LF) 261**]/CENT/MID(NOT D*
+     * C1769 GUID WIRES INCL INF                                                *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      46 year old woman with necrotic heel ulcers requiring IV abx.                   
+     REASON FOR THIS EXAMINATION:
+      PICC placement unable to do at bedside.  Needs PICC placed for long term IV 
+      abx.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Heel ulcer.  Requires long-term IV antibiotics.  IV team was not
+     able to advance the PICC line.
+     
+     PROCEDURE:  This procedure was performed by Dr. [**Last Name (STitle) 5118**] and Dr. [**Last Name (STitle) 4**].  Dr.
+     [**Last Name (STitle) 4**], the attending radiologist was present during the entire procedure
+     supervising.
+     
+     The right upper arm was prepped and draped in the standard sterile fashion.
+     Since no suitable superficial veins were visible, ultrasound was used for
+     localization of a suitable vein.  The right basilic vein was patent and
+     compressible.  After local anesthesia with 2 cc of 1% lidocaine, the right
+     basilic vein was entered under ultrasonographic guidance with a 21-gauge
+     needle.  Hard copy ultrasound images were obtained before and after venous
+     access documenting vessel patency. A 0.018 guidewire was then advanced in
+     superior vena cava. Based on markers on the guidewire, it was determined that
+     a length of 42 cm would be suitable. The PICC line was then trimmed to length
+     and advanced over a 4- French introducer sheath under fluoroscopic guidance in
+     superior vena cava. The sheath was removed.  The catheter was flushed.  A
+     final chest x-ray was obtained.  The film demonstrates the tip to be in
+     superior vena cava just above the right atrium. The line is ready for use. The
+     StatLock device was applied and the line was heplocked.
+     
+     IMPRESSION:  Successful placement of a 39-cm right basilic PICC line with the
+     tip in the SVC.  The line is ready for use.
+     
+     
+     
+     
+     
+     
+     
+                                                                 (Over)
+
+     DATE: [**3311-2-26**] 4:18 PM
+     PICC LINE PLACMENT SCH                                          Clip # [**Clip Number (Radiology) 5117**]
+     Reason: PICC placement unable to do at bedside.  Needs PICC placed f
+     Admitting Diagnosis: CELLULITIS
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+
+",,
+24691,,,,3311-02-26 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3311-2-26**] 4:18 PM
+     PICC LINE PLACMENT SCH                                          Clip # [**Clip Number (Radiology) 5117**]
+     Reason: PICC placement unable to do at bedside.  Needs PICC placed f
+     Admitting Diagnosis: CELLULITIS
+     ********************************* CPT Codes ********************************
+     * 36569 PICC W/O [**State/Zipcode 259**] FLUOR GUID PLCT/REPLCT/REMOVE *
+     * 76937 US GUID FOR VAS. ACCESS        C1751 CATH [**Last Name (LF) 260**],[**First Name3 (LF) 261**]/CENT/MID(NOT D*
+     * C1769 GUID WIRES INCL INF                                                *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      46 year old woman with necrotic heel ulcers requiring IV abx.                   
+     REASON FOR THIS EXAMINATION:
+      PICC placement unable to do at bedside.  Needs PICC placed for long term IV 
+      abx.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Heel ulcer.  Requires long-term IV antibiotics.  IV team was not
+     able to advance the PICC line.
+     
+     PROCEDURE:  This procedure was performed by Dr. [**Last Name (STitle) 5118**] and Dr. [**Last Name (STitle) 4**].  Dr.
+     [**Last Name (STitle) 4**], the attending radiologist was present during the entire procedure
+     supervising.
+     
+     The right upper arm was prepped and draped in the standard sterile fashion.
+     Since no suitable superficial veins were visible, ultrasound was used for
+     localization of a suitable vein.  The right basilic vein was patent and
+     compressible.  After local anesthesia with 2 cc of 1% lidocaine, the right
+     basilic vein was entered under ultrasonographic guidance with a 21-gauge
+     needle.  Hard copy ultrasound images were obtained before and after venous
+     access documenting vessel patency. A 0.018 guidewire was then advanced in
+     superior vena cava. Based on markers on the guidewire, it was determined that
+     a length of 42 cm would be suitable. The PICC line was then trimmed to length
+     and advanced over a 4- French introducer sheath under fluoroscopic guidance in
+     superior vena cava. The sheath was removed.  The catheter was flushed.  A
+     final chest x-ray was obtained.  The film demonstrates the tip to be in
+     superior vena cava just above the right atrium. The line is ready for use. The
+     StatLock device was applied and the line was heplocked.
+     
+     IMPRESSION:  Successful placement of a 39-cm right basilic PICC line with the
+     tip in the SVC.  The line is ready for use.
+     
+     
+     
+     
+     
+     
+     
+                                                                 (Over)
+
+     DATE: [**3311-2-26**] 4:18 PM
+     PICC LINE PLACMENT SCH                                          Clip # [**Clip Number (Radiology) 5117**]
+     Reason: PICC placement unable to do at bedside.  Needs PICC placed f
+     Admitting Diagnosis: CELLULITIS
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+
+",,
+24691,,,,3311-02-26 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3311-2-26**] 4:18 PM
+     PICC LINE PLACMENT SCH                                          Clip # [**Clip Number (Radiology) 5117**]
+     Reason: PICC placement unable to do at bedside.  Needs PICC placed f
+     Admitting Diagnosis: CELLULITIS
+     ********************************* CPT Codes ********************************
+     * 36569 PICC W/O [**State/Zipcode 259**] FLUOR GUID PLCT/REPLCT/REMOVE *
+     * 76937 US GUID FOR VAS. ACCESS        C1751 CATH [**Last Name (LF) 260**],[**First Name3 (LF) 261**]/CENT/MID(NOT D*
+     * C1769 GUID WIRES INCL INF                                                *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      46 year old woman with necrotic heel ulcers requiring IV abx.                   
+     REASON FOR THIS EXAMINATION:
+      PICC placement unable to do at bedside.  Needs PICC placed for long term IV 
+      abx.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Heel ulcer.  Requires long-term IV antibiotics.  IV team was not
+     able to advance the PICC line.
+     
+     PROCEDURE:  This procedure was performed by Dr. [**Last Name (STitle) 5118**] and Dr. [**Last Name (STitle) 4**].  Dr.
+     [**Last Name (STitle) 4**], the attending radiologist was present during the entire procedure
+     supervising.
+     
+     The right upper arm was prepped and draped in the standard sterile fashion.
+     Since no suitable superficial veins were visible, ultrasound was used for
+     localization of a suitable vein.  The right basilic vein was patent and
+     compressible.  After local anesthesia with 2 cc of 1% lidocaine, the right
+     basilic vein was entered under ultrasonographic guidance with a 21-gauge
+     needle.  Hard copy ultrasound images were obtained before and after venous
+     access documenting vessel patency. A 0.018 guidewire was then advanced in
+     superior vena cava. Based on markers on the guidewire, it was determined that
+     a length of 42 cm would be suitable. The PICC line was then trimmed to length
+     and advanced over a 4- French introducer sheath under fluoroscopic guidance in
+     superior vena cava. The sheath was removed.  The catheter was flushed.  A
+     final chest x-ray was obtained.  The film demonstrates the tip to be in
+     superior vena cava just above the right atrium. The line is ready for use. The
+     StatLock device was applied and the line was heplocked.
+     
+     IMPRESSION:  Successful placement of a 39-cm right basilic PICC line with the
+     tip in the SVC.  The line is ready for use.
+     
+     
+     
+     
+     
+     
+     
+                                                                 (Over)
+
+     DATE: [**3311-2-26**] 4:18 PM
+     PICC LINE PLACMENT SCH                                          Clip # [**Clip Number (Radiology) 5117**]
+     Reason: PICC placement unable to do at bedside.  Needs PICC placed f
+     Admitting Diagnosis: CELLULITIS
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+
+",,

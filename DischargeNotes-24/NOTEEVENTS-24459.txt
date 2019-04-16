@@ -1,0 +1,3000 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+24459,23415,,,3418-06-05 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+ 
+ 
+ 
+Admission Date:  [**3418-6-5**]              Discharge Date:   [**3418-6-29**]
+ 
+Date of Birth:  [**3338-10-2**]             Sex:   F
+ 
+Service: CARDIOTHORACIC
+ 
+Allergies: 
+Codeine / Penicillins
+ 
+Attending:[**First Name3 (LF) 2549**] 
+Chief Complaint:
+CC:[**CC Contact Info 5409**] 
+Major Surgical or Invasive Procedure:
+RUL, RML, superior seg of RLL resection
+
+ 
+History of Present Illness:
+79 yo female with hx of HTN, presented to a cardiologist(Dr. 
+[**Last Name (STitle) 1684**]) for a 1 month hx of productive cough. There an EKG 
+revealed new T-wave inversions and patient was sent to [**Hospital 5410**], where she had elevated Trop I of 0.36. Patient started 
+on nirto gtt and lovenox. She also had a CT scan that revealed a 
+RUQ mass, and a bronch was done. There were no endobronchial 
+lesions, but the R upper lobe revealed easy friability, 
+bronchial washings were negative for malignant cells, and 
+bronchial cx were positive for diptheroids.  Patient was 
+imperically treated with Levofloxacin and then switched to 
+clindamycin. Patient was recommended to have a pneumonectomy, 
+but wanted a 2nd opinion and no furter work-up had been done. 
+She was sent to [**Hospital1 25**] for further work-up.
+ At [**Hospital1 25**] the patient was found to have ischemic EKG changes 
+(exact same T-wave inversions in anterolateral leads), but 
+remained asymptomatic.  Two sets of cardiac enzymes were 
+negative.  The patient was transferred to Gen Med service for 
+further work-up of her lung mass.
+Upon admission she had a CXR and repeat chest CT showing a 
+necrotic mass occupying the entire right upper lobe and 
+occluding the right upper lobe bronchus.  The patient's Abx were 
+stopped due to diarrhea, C.diff toxin was sent, and the patient 
+was started on Unasyn and flagyl.  A PPD was placed and the 
+patient was put on respiratory contact precautions.
+The patients reports not feeling well for several months, 
+experiencing weakness and occasional fevers.  Her cough produces 
+a white sputum; no hemoptysis.  She has SOB at rest.  She also 
+reports a 10 lb weight loss over the last month, and decreased 
+appetite.  She denies chills, sweats, chest pain, or diarrhea.  
+She is a lifetime non-smoker.
+
+ 
+Past Medical History:
+PMHx:
+1. hypertension 
+2. Lung Mass
+
+ 
+Social History:
+SHx:widow, lives with her daughter in [**Name2 (NI) 5411**], lifetime 
+non-smoker,
+no ETOH, no Hx of TB exposure, active
+ 
+Family History:
+FHx: No CAD and no Cancer
+ 
+Physical Exam:
+PE: 98.9, 150/64, 94, 20, 98% on 2L
+NAD, A and O times 3
+NCAT, EOMI, OP clear
+RRR, no M
+CTA with wheexes on R
++BS, soft, NT, ND, guiac negative. 
+no c/c/e
+cn II-XII intact, MAEW
+ 
+Pertinent Results:
+[**3418-6-5**] 07:08PM   PT-12.0 PTT-31.2 INR(PT)-0.9
+[**3418-6-5**] 07:08PM   PLT COUNT-494*
+[**3418-6-5**] 07:08PM   NEUTS-85.5* LYMPHS-8.8* MONOS-3.4 EOS-2.0 
+BASOS-0.2
+[**3418-6-5**] 07:08PM   WBC-13.8* RBC-3.55* HGB-10.2* HCT-31.1* 
+MCV-88 MCH-28.9 MCHC-33.0 RDW-11.9
+[**3418-6-5**] 07:08PM   ALBUMIN-3.3* CALCIUM-8.5 PHOSPHATE-2.6* 
+MAGNESIUM-1.9
+[**3418-6-5**] 07:08PM   CK-MB-5 cTropnT-0.01
+[**3418-6-5**] 07:08PM   ALT(SGPT)-22 AST(SGOT)-21 LD(LDH)-263* 
+CK(CPK)-145* ALK PHOS-77 AMYLASE-57 TOT BILI-0.2
+[**3418-6-5**] 07:08PM   GLUCOSE-164* UREA N-9 CREAT-0.6 SODIUM-135 
+POTASSIUM-3.9 CHLORIDE-99 TOTAL CO2-26 ANION GAP-14
+[**3418-6-5**] 09:44PM URINE  RBC-2 WBC-0 BACTERIA-NONE YEAST-NONE 
+EPI-<1
+[**3418-6-5**] 09:44PM URINE  BLOOD-TR NITRITE-NEG PROTEIN-NEG 
+GLUCOSE-NEG KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-7.0 
+LEUK-NEG
+[**3418-6-5**] 09:44PM URINE  COLOR-Straw APPEAR-Clear SP [**Last Name (un) 223**]-1.010
+[**3418-6-8**] 07:40AM BLOOD Glucose-110* UreaN-7 Creat-0.4 Na-136 
+K-3.8 Cl-101 HCO3-26 AnGap-13
+[**3418-6-10**] 11:00AM BLOOD Glucose-128* UreaN-11 Creat-0.5 Na-131* 
+K-3.6 Cl-93* HCO3-29 AnGap-13
+[**3418-6-16**] 01:10PM BLOOD Glucose-124* UreaN-9 Creat-0.7 Na-136 
+K-3.2* Cl-99 HCO3-29 AnGap-11
+[**3418-6-18**] 02:51AM BLOOD Glucose-107* UreaN-14 Creat-0.8 Na-142 
+K-3.9 Cl-110* HCO3-22 AnGap-14
+[**3418-6-22**] 12:35AM BLOOD Glucose-131* UreaN-23* Creat-0.6 Na-150* 
+K-4.2 Cl-119* HCO3-27 AnGap-8
+[**3418-6-24**] 06:34PM BLOOD K-4.2
+[**3418-6-27**] 11:20AM BLOOD UreaN-6 Creat-0.5 K-2.4*
+[**3418-6-28**] 05:55AM BLOOD Glucose-115* UreaN-6 Creat-0.5 Na-137 
+K-3.2* Cl-100 HCO3-28 AnGap-12
+[**3418-6-17**] 02:49PM BLOOD WBC-17.9*# RBC-3.24* Hgb-9.7* Hct-27.5* 
+MCV-85 MCH-30.1 MCHC-35.4* RDW-13.8 Plt Ct-108*#
+[**3418-6-18**] 02:51AM BLOOD WBC-9.8 RBC-3.46*# Hgb-10.3*# Hct-29.5*# 
+MCV-85 MCH-29.6 MCHC-34.7 RDW-14.5 Plt Ct-150#
+[**3418-6-19**] 03:45AM BLOOD WBC-15.9* RBC-3.64* Hgb-11.2* Hct-31.6* 
+MCV-87 MCH-30.6 MCHC-35.3* RDW-15.2 Plt Ct-179
+[**3418-6-20**] 02:16AM BLOOD WBC-9.3 RBC-3.47* Hgb-10.4* Hct-30.1* 
+MCV-87 MCH-30.0 MCHC-34.7 RDW-15.3 Plt Ct-235
+[**3418-6-22**] 12:35AM BLOOD WBC-6.4 RBC-3.41* Hgb-10.4* Hct-31.0* 
+MCV-91 MCH-30.5 MCHC-33.5 RDW-15.0 Plt Ct-281
+[**3418-6-24**] 02:47AM BLOOD WBC-13.5*# RBC-3.89* Hgb-11.9* Hct-35.7* 
+MCV-92 MCH-30.6 MCHC-33.3 RDW-14.6 Plt Ct-308
+[**3418-6-25**] 05:06AM BLOOD WBC-9.3 RBC-4.16* Hgb-12.6 Hct-37.5 
+MCV-90 MCH-30.4 MCHC-33.7 RDW-14.5 Plt Ct-283
+[**3418-6-6**] 06:43AM BLOOD Neuts-73* Bands-9* Lymphs-11* Monos-6 
+Eos-0 Baso-0 Atyps-1* Metas-0 Myelos-0
+[**3418-6-12**] 08:35AM BLOOD Neuts-85.8* Lymphs-8.6* Monos-4.1 Eos-1.2 
+Baso-0.2
+[**3418-6-20**] 09:48AM BLOOD CK-MB-NotDone cTropnT-0.02*
+[**3418-6-24**] 06:34PM BLOOD CK-MB-NotDone cTropnT-<0.01
+[**3418-6-24**] 06:34PM BLOOD Calcium-8.1* Phos-2.6* Mg-1.8
+[**3418-6-28**] 05:55AM BLOOD Calcium-8.2* Phos-1.9* Mg-1.8
+[**3418-6-6**] 06:43AM BLOOD Triglyc-69 HDL-38 CHOL/HD-2.8 LDLcalc-54
+[**3418-6-22**] 10:21AM BLOOD Type-ART Temp-36.6 Rates-/28 FiO2-50 
+pO2-102 pCO2-52* pH-7.34* calHCO3-29 Base XS-0 Intubat-NOT 
+INTUBA
+[**3418-6-23**] 05:57AM BLOOD Type-ART pO2-180* pCO2-47* pH-7.39 
+calHCO3-30 Base XS-3
+[**3418-6-23**] 11:25PM BLOOD Glucose-115* Lactate-1.0 K-3.3*
+ 
+Brief Hospital Course:
+Ms [**Known patient lastname 5412**] was originally admitted to CMED for evaluation of her 
+ischemic EKG changes.  She was stablized and transferred to 
+Medicine for work-up of her lung mass.  She underwent evaluation 
+by Thoracic Surgery and on HD 13 underwent an uncomplicated RUL, 
+RML, and superior segment of RLL resection with placement of 
+chest tubes and JP drain for intercostal flap. AdenoCA of lung 
+was found on frozen section. Please see OP report for details.
+    Post-operatively she remained in the ICU intubated.  She 
+gradually improved and was extubated on POD___.  She was in 
+atrial fibrillatin post-operatively and was converted into sinus 
+rhythm on POD__, and was maintained on amiodarone.  She was able 
+to be transferred to the floor on POD___ and continued to do 
+very well.  Her chest tubes were removed on POD__ and her JP 
+drian remained.  She eventually was weened off of oxygen and 
+ambulated well.  She was able to be dicharged home on POD 12 
+with home physical therapy and drain managment services.   
+ 
+Medications on Admission:
+Medications on Transfer:
+1. Lopressor 12.5 mg TID
+2. Clindamycin 600mg IV Q6H
+3. Lovenox 40mg SQ BID
+4. ASA 325mg QD
+5. Nitro Gtt. 
+ 
+Discharge Medications:
+1. Metoprolol Tartrate 50 mg Tablet Sig: Two (2) Tablet PO BID 
+(2 times a day).
+Disp:*120 Tablet(s)* Refills:*2*
+2. Metronidazole 500 mg Tablet Sig: One (1) Tablet PO TID (3 
+times a day) for 2 days.
+Disp:*6 Tablet(s)* Refills:*0*
+3. Amiodarone 200 mg Tablet Sig: Two (2) Tablet PO BID (2 times 
+a day) for 4 days.
+Disp:*8 Tablet(s)* Refills:*0*
+4. Oxycodone-Acetaminophen 5-325 mg Tablet Sig: 1-2 Tablets PO 
+Q4-6H (every 4 to 6 hours) as needed for pain.
+Disp:*30 Tablet(s)* Refills:*0*
+5. Amiodarone 400 mg Tablet Sig: One (1) Tablet PO once a day: 
+Start on [**7-3**] after completion of twice a day dosing.
+Disp:*30 Tablet(s)* Refills:*1*
+
+ 
+Discharge Disposition:
+Home with Service
+ 
+Discharge Diagnosis:
+s/p RUL, RML, and superior segment RLL resection with chest 
+tubes
+HTN
+A Fib s/p conversion
+
+ 
+Discharge Condition:
+stable, tolerating POs, oxygenating well, afebrile
+ 
+Discharge Instructions:
+No heavy lifting for 4 wks.
+No tub bathing for 3 [**Last Name (LF) **], [**First Name3 (LF) **] may shower.
+No driving while using narcotics.
+Please call Dr.[**Last Name (STitle) 5413**] office for fevers >101.4, chest pain, 
+shortness of breath, increased productive cough, worsening pain, 
+redness or drainage from insicion sites, or any concerns.
+ 
+Followup Instructions:
+Provider: [**Name10 (NameIs) **],[**Name11 (NameIs) **] [**Doctor Last Name 4840**]  [**Telephone/Fax (1) 4950**]
+Provider: [**Name10 (NameIs) **],[**Name11 (NameIs) **] [**Name Initial (NameIs) **].  [**Telephone/Fax (1) 842**] Call for appointment 
+in 1 wk
+
+ 
+                             [**First Name11 (Name Pattern1) **] [**MD Number 2552**] MD [**MD Number 2553**]
+ 
+Completed by: [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 4469**] NP[**MD Number 4470**] [**3418-8-31**] @ 1708
+Signed electronically by: DR. [**First Name (STitle) **] [**MD Number **]
+ on: SAT [**3418-9-5**] 1:02 PM
+(End of Report)
+
+
+",,
+24459,23415,,,3418-06-05 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3418-6-5**] 6:21 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 2663**]
+     Reason: evidence of CHF or pneumonia?                               
+     Admitting Diagnosis: EKG CHANGES
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      79 year old woman with Chest pain                                               
+     REASON FOR THIS EXAMINATION:
+      evidence of CHF or pneumonia?                                                   
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Chest pain.
+     
+     COMPARISONS:  No comparisons are available.
+     
+     TECHNIQUE:  AP upright single view of the chest.  Allowing for AP technique,
+     the heart is probably within normal limits.  The aorta is tortuous.  There is
+     a large mass, which appears to be centered in the lung in the right upper lung
+     zone.  It is probably causing some compression of the right main stem
+     bronchus, which appears to be narrowed.  The remaining portions of the lung
+     fields are clear.  No bone destruction is seen in this radiograph.
+     
+     IMPRESSION:  Large right upper lung zone mass, which could represent a lung
+     tumor. Another possibility would be a posterior mediastinal mass.  CT of the
+     chest with IV contrast is recommended. Findings were discussed with Dr. [**Last Name (STitle) 2664**]
+     at the time of the interpretation.
+
+",,
+24459,23415,,,3418-06-06 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3418-6-6**] 8:56 AM
+     CT CHEST W/CONTRAST; CT 150CC NONIONIC CONTRAST                 Clip # [**Clip Number (Radiology) 2665**]
+     Reason: please eval for RUQ mass                                    
+     Admitting Diagnosis: EKG CHANGES
+      Contrast: OPTIRAY Amt: 100
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      79 year old woman with RUQ mass and concern for R main stem bronchus 
+      obstruction
+     REASON FOR THIS EXAMINATION:
+      please eval for RUQ mass                                                        
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Right upper lobe lung mass.  Concern for right mainstem bronchus
+     obstruction.
+     
+     COMPARISON:  No previous chest CT at our institution.  The patient has an
+     outside chest CT, which is not currently available for comparison.
+     
+     TECHNIQUE:  Axial multidetector CT images of the chest were obtained with 100
+     cc of intravenous Optiray.
+     
+     FINDINGS:  There is a large mass occupying the entire right upper lobe and
+     obstructing the right upper lobe bronchus.  There is mixed soft tissue
+     attenuation and fluid attenuation within this mass, suggesting that portions
+     of it are necrotic.  Gas is also present within the mass, which may represent
+     either necrotizing infection or residual communication with the bronchial
+     tree.  Blood vessels are seen coursing through this mass, the so-called ""CT
+     angiogram sign.""  This appearance may represent bronchoalveolar carcinoma with
+     associated necrosis, probably secondary to postobstructive pneumonia.
+     Alternatively, this may represent an abscess-forming infection such as
+     tuberculosis.
+     
+     In the medial portion of the right middle lobe, there is a 24 x 18 mm
+     hypodense opacity intimately associated with bronchovascular tree, which may
+     represent a satellite mass or an enlarged intrapulmonary lymph node. In the
+     left upper lobe, there is a 3 mm pleural-based nodule, which appears
+     nonspecific, and a 3 mm calcified granuloma. There is consolidation of the
+     superior segment of the right lower lobe. There is an enlarged lymph node
+     associated with the right interlobar artery. There are patchy opacities
+     throughout the left lower lobe. There is a precarinal lymph node, measuring 9
+     mm in short axis diameter. There is no lymphadenopathy in the axilla or in the
+     left hilum. The right middle lobe, right lower lobe, and left-sided airways
+     are patent to the level of segmental bronchi.  The heart and great vessels
+     appear unremarkable. There is no pericardial or pleural effusion.
+     
+     There are multiple tiny, less than 5 mm, hypodense liver lesions, which are
+     too small to characterize.  There is a 5 mm hypodense lesion in the mid right
+     kidney, which is also too small to characterize.  The spleen, visualized
+     portions of the pancreas, adrenal glands, and visualized portions of the left
+     kidney appear unremarkable.  There is no evidence of bone destruction.
+     Scoliosis is noted at the thoracolumbar junction.
+                                                                 (Over)
+
+     DATE: [**3418-6-6**] 8:56 AM
+     CT CHEST W/CONTRAST; CT 150CC NONIONIC CONTRAST                 Clip # [**Clip Number (Radiology) 2665**]
+     Reason: please eval for RUQ mass                                    
+     Admitting Diagnosis: EKG CHANGES
+      Contrast: OPTIRAY Amt: 100
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     
+     Findings were discussed with Dr. [**Last Name (STitle) 2666**] at 11:15 a.m. on [**3418-6-6**].
+     Correlation with PPD testing was recommended.
+     
+     IMPRESSION:
+     1.  Necrotic mass occupying the entire right upper lobe and occluding the
+     right upper lobe bronchus, which may represent a neoplasm such as
+     bronchoalveolar carcinoma with necrosis and associated postobstructive
+     pneumonia. Alternatively, this may represent an abscess-forming infection,
+     including tuberculosis.
+     2.  Satellite necrotic mass or lymph node in the right middle lobe. Enlarged
+     right lower lobe intralobar lymph node.
+     3.  3 mm pleural-based nodule in the left upper lobe, which appears
+     nonspecific.
+     4.  Right lower lobe superior segment consolidation.  Patchy consolidations in
+     the left lower lobe.
+     
+     
+     
+     
+     
+                                                                           DFDkq
+
+",,
+24459,23415,,,3418-06-06 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3418-6-6**] 8:56 AM
+     CT CHEST W/CONTRAST; CT 150CC NONIONIC CONTRAST                 Clip # [**Clip Number (Radiology) 2665**]
+     Reason: please eval for RUQ mass                                    
+     Admitting Diagnosis: EKG CHANGES
+      Contrast: OPTIRAY Amt: 100
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      79 year old woman with RUQ mass and concern for R main stem bronchus 
+      obstruction
+     REASON FOR THIS EXAMINATION:
+      please eval for RUQ mass                                                        
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Right upper lobe lung mass.  Concern for right mainstem bronchus
+     obstruction.
+     
+     COMPARISON:  No previous chest CT at our institution.  The patient has an
+     outside chest CT, which is not currently available for comparison.
+     
+     TECHNIQUE:  Axial multidetector CT images of the chest were obtained with 100
+     cc of intravenous Optiray.
+     
+     FINDINGS:  There is a large mass occupying the entire right upper lobe and
+     obstructing the right upper lobe bronchus.  There is mixed soft tissue
+     attenuation and fluid attenuation within this mass, suggesting that portions
+     of it are necrotic.  Gas is also present within the mass, which may represent
+     either necrotizing infection or residual communication with the bronchial
+     tree.  Blood vessels are seen coursing through this mass, the so-called ""CT
+     angiogram sign.""  This appearance may represent bronchoalveolar carcinoma with
+     associated necrosis, probably secondary to postobstructive pneumonia.
+     Alternatively, this may represent an abscess-forming infection such as
+     tuberculosis.
+     
+     In the medial portion of the right middle lobe, there is a 24 x 18 mm
+     hypodense opacity intimately associated with bronchovascular tree, which may
+     represent a satellite mass or an enlarged intrapulmonary lymph node. In the
+     left upper lobe, there is a 3 mm pleural-based nodule, which appears
+     nonspecific, and a 3 mm calcified granuloma. There is consolidation of the
+     superior segment of the right lower lobe. There is an enlarged lymph node
+     associated with the right interlobar artery. There are patchy opacities
+     throughout the left lower lobe. There is a precarinal lymph node, measuring 9
+     mm in short axis diameter. There is no lymphadenopathy in the axilla or in the
+     left hilum. The right middle lobe, right lower lobe, and left-sided airways
+     are patent to the level of segmental bronchi.  The heart and great vessels
+     appear unremarkable. There is no pericardial or pleural effusion.
+     
+     There are multiple tiny, less than 5 mm, hypodense liver lesions, which are
+     too small to characterize.  There is a 5 mm hypodense lesion in the mid right
+     kidney, which is also too small to characterize.  The spleen, visualized
+     portions of the pancreas, adrenal glands, and visualized portions of the left
+     kidney appear unremarkable.  There is no evidence of bone destruction.
+     Scoliosis is noted at the thoracolumbar junction.
+                                                                 (Over)
+
+     DATE: [**3418-6-6**] 8:56 AM
+     CT CHEST W/CONTRAST; CT 150CC NONIONIC CONTRAST                 Clip # [**Clip Number (Radiology) 2665**]
+     Reason: please eval for RUQ mass                                    
+     Admitting Diagnosis: EKG CHANGES
+      Contrast: OPTIRAY Amt: 100
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     
+     Findings were discussed with Dr. [**Last Name (STitle) 2666**] at 11:15 a.m. on [**3418-6-6**].
+     Correlation with PPD testing was recommended.
+     
+     IMPRESSION:
+     1.  Necrotic mass occupying the entire right upper lobe and occluding the
+     right upper lobe bronchus, which may represent a neoplasm such as
+     bronchoalveolar carcinoma with necrosis and associated postobstructive
+     pneumonia. Alternatively, this may represent an abscess-forming infection,
+     including tuberculosis.
+     2.  Satellite necrotic mass or lymph node in the right middle lobe. Enlarged
+     right lower lobe intralobar lymph node.
+     3.  3 mm pleural-based nodule in the left upper lobe, which appears
+     nonspecific.
+     4.  Right lower lobe superior segment consolidation.  Patchy consolidations in
+     the left lower lobe.
+     
+     
+     
+     
+     
+                                                                           DFDkq
+
+",,
+24459,23415,,,3418-06-10 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3418-6-10**] 4:24 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 2667**]
+     Reason: Assess for infiltrate - crackles in RUL and LLL.  Spiking fe
+     Admitting Diagnosis: EKG CHANGES
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       79 year old woman with history of cough and lung mass/abscess awaiting 
+      percutaneous drainage with desaturation
+     REASON FOR THIS EXAMINATION:
+      Assess for infiltrate - crackles in RUL and LLL.  Spiking fever.                
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Cough and lung mass/abscess awaiting percutaneous drainage,
+     fever.
+     
+     COMPARISON:  [**3418-6-5**].
+     
+     TECHNIQUE:  Single AP portable upright chest.
+     
+     FINDINGS:  Since the examination dated [**3418-6-5**], the appearance of the
+     dense mass-like consolidation in the right upper lobe is similar, although
+     internal cavitary lucency is slightly different in configuration.  Narrowing
+     of the right main bronchus by hilar mass is again suggested.  The heart size
+     and mediastinal contours are unchanged.  New consolidation and volume loss in
+     the right lower lobe suggest aspiration of upper lobe contents or blood.  The
+     left lung remains clear.
+
+",,
+24459,23415,,,3418-06-10 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3418-6-10**] 2:33 PM
+     CHEST (PORTABLE AP); -76 BY SAME PHYSICIAN                      [**Name Initial (PRE) 232**] # [**Clip Number (Radiology) 2668**]
+     Reason: eval for increasing infiltrates                             
+     Admitting Diagnosis: EKG CHANGES
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      79 year old woman with history of cough and lung mass/abscess now with 
+      increaseing respiratory distress, please eval for change. 
+     REASON FOR THIS EXAMINATION:
+      eval for increasing infiltrates                                                 
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  History of cough and lung mass/abscess, evaluate for increasing
+     infiltrate.
+     
+     COMPARISON:  [**3418-6-10**].
+     
+     TECHNIQUE:  Single AP portable upright chest.
+     
+     FINDINGS:  Since the examination of several hours earlier, the appearance of
+     the mass-like consolidation containing a focus of internal lucency consistent
+     with cavitation is unchanged.  There is slight improvement in airspace opacity
+     within the right lower lobe medially, consistent with improving atelectasis. 
+     The heart size and mediastinal contours are unchanged and remainder of the
+     lungs appear clear.
+                                                                           
+
+",,
+24459,23415,,,3418-06-10 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3418-6-10**] 2:33 PM
+     CHEST (PORTABLE AP); -76 BY SAME PHYSICIAN                      [**Name Initial (PRE) 232**] # [**Clip Number (Radiology) 2668**]
+     Reason: eval for increasing infiltrates                             
+     Admitting Diagnosis: EKG CHANGES
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      79 year old woman with history of cough and lung mass/abscess now with 
+      increaseing respiratory distress, please eval for change. 
+     REASON FOR THIS EXAMINATION:
+      eval for increasing infiltrates                                                 
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  History of cough and lung mass/abscess, evaluate for increasing
+     infiltrate.
+     
+     COMPARISON:  [**3418-6-10**].
+     
+     TECHNIQUE:  Single AP portable upright chest.
+     
+     FINDINGS:  Since the examination of several hours earlier, the appearance of
+     the mass-like consolidation containing a focus of internal lucency consistent
+     with cavitation is unchanged.  There is slight improvement in airspace opacity
+     within the right lower lobe medially, consistent with improving atelectasis. 
+     The heart size and mediastinal contours are unchanged and remainder of the
+     lungs appear clear.
+                                                                           
+
+",,
+24459,23415,,,3418-06-11 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     PERSANTINE MIBI                                                 Clip # [**Clip Number (Radiology) 2669**]
+     Reason: PT WITH T WAVE CHANGES AND FOCAL AREAS OF HYPOKINESIS PLEASE EVAL FOR LARGE AREAS OF ISCHEMIA AND DECREASED
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  79 year old woman with history of abnormal EKG, observe for suspected
+     CAD.  
+       
+     SUMMARY OF THE PRELIMINARY REPORT FROM THE EXERCISE LAB:  
+     Dipyridamole was infused intravenously for 4 minutes at a  dose of 0.142 
+     milligram/kilogram/min. Two minutes after the cessation of infusion, Tc-99m
+     sestamibi was administered IV.  No anginal type symptoms or ischemic EKG changes
+     were noted. 
+       
+     INTERPRETATION:  
+     Image Protocol: Gated SPECT  
+     Resting perfusion images were obtained with thallium.  
+     Tracer was injected 15 minutes prior to obtaining the resting images.  
+     This study was interpreted using the 17-segment myocardial perfusion model.  
+       
+     Left ventricular cavity is normal.  
+     Resting and stress perfusion images reveal a moderate reversible defect
+     involving the distal anterior wall, distal septum and apex.  
+       
+     Gated images reveal normal wall motion.  
+     The calculated left ventricular ejection fraction is 68%.  
+       
+     IMPRESSION:  Moderate reversible perfusion defect involving the distal anterior
+     wall, distal septum and apex, most consistent with a distal LAD distribution. 
+     Calculated ejection fraction of 68%.  
+       
+     Results were discussed by telephone with Dr. [**First Name (STitle) 2670**] at 5 pm on [**3418-6-11**].  
+                                                                           
+
+             [**First Name8 (NamePattern2) 321**] [**Last Name (NamePattern1) 322**], M.D.
+             [**Initials (NamePattern4) 111**] [**Last Name (NamePattern4) 112**] [**Last Name (NamePattern1) 113**], M.D.     Approved: FRI [**3418-6-12**] 3:22 PM
+
+
+             Date Mailed: [**3418-6-15**]                     West [**Medical Record Number 2671**]
+
+
+
+               RADLINE [**Telephone/Fax (1) 115**]; A radiology consult service.
+            To hear preliminary results, prior to transcription, call the
+                           Radiology Listen Line [**Telephone/Fax (1) 116**].
+
+",,
+24459,23415,,,3418-06-11 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3418-6-11**] 12:00 PM
+     CHEST (PA & LAT)                                                Clip # [**Clip Number (Radiology) 2673**]
+     Reason: r/o pneumothorax s/p CT guided drainage of right upper lobe 
+     Admitting Diagnosis: EKG CHANGES
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      79 year old woman with right upper lobe abscess s/p drainage.                   
+     REASON FOR THIS EXAMINATION:
+      r/o pneumothorax s/p CT guided drainage of right upper lobe abscess at 9:30 am. 
+       Please obtain chest xray 3 hours post procedure (12:30pm). thanks.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Status post drainage of right upper lobe abscess.
+     
+     COMPARISON:  [**3418-6-10**].
+     
+     TECHNIQUE:  Single AP portable upright chest.
+     
+     FINDINGS:  Since the previous examination of one day prior, a pigtail catheter
+     has been placed terminating overlying the mass- like opacity within the right
+     upper lobe.  The size of the mass like opacity is approximately unchanged, and
+     a focal collection of loculated gas is again appreciated at the right apex. No
+     pneumothorax is identified. The radiographic appearance of the chest is
+     otherwise unchanged.
+
+",,
+24459,23415,,,3418-06-11 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3418-6-11**] 8:33 AM
+     CT CHEST W/O CONTRAST; CT GUIDANCE DRAINAGE                     Clip # [**Clip Number (Radiology) 2672**]
+     CT NECK DRAINAGE
+     Reason: please place drain and send samples for further work up of a
+     Admitting Diagnosis: EKG CHANGES
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      79 year old woman with cough, fevers and necrotic lung abscess, please place 
+      drain to help treat this infection.
+     REASON FOR THIS EXAMINATION:
+      please place drain and send samples for further work up of a necrotic lung 
+      mass/abscess
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     PROCEDURE:  CT chest without contrast.
+     
+     INDICATION:  Cough, fevers, and necrotic lung abscess.  Please place drain.
+     
+     Correlation is made to recent contrast chest CT of [**3418-6-6**].
+     
+     PRELIMINARY CT SCAN EXAMINATION:  Limited CT images through the upper thorax
+     redemonstrate necrotic consolidated lung in the right upper lobe with a large
+     component of organized intraparenchymal fluid in the posterior aspect of the
+     right upper lobe.  The appearance is similar to that seen on recent previous
+     study.
+     
+     CT DRAINAGE:
+     
+     CT GUIDED DRAINAGE LOCALIZATION:  Limited axial CT images were obtained to
+     localize the right upper lung parenchyma fluid collection to be drained.
+     
+     CT GUIDED DRAINAGE GUIDANCE:  CT fluoroscopy was used to guide in insertion of
+     a 22-gauge needle within the overlying soft tissues, for eventual guidance
+     using trocar technique as well as for instillation of several cc of 1%
+     lidocaine.
+     
+     CT GUIDED CATHETER INSERTION:  A 10 French self locking pigtail catheter was
+     inserted and deployed into the right upper lobe lung abscess.  Catheter
+     position was confirmed using CT scanning.  The catheter was locked in position
+     and secured to the skin with a percutaneous catheter fastener, and left to
+     open drainage.
+     
+     CT GUIDED FLUID ASPIRATION:  Approximately 150 cc of frank pus and
+     serosanguineous mucous material was aspirated into the drainage bag.  Samples
+     were sent for cytology and microbiology.
+     
+     CONSCIOUS SEDATION:  The patient received divided doses of fentanyl and
+     Versed.  The patient was continuously monitored by the Radiology registered
+     nurse for the duration of the procedure, and prior to sending the patient back
+     to the medical floor.
+     
+     COMPLICATIONS:  No immediate post-procedure complications occurred.  No
+                                                                 (Over)
+
+     DATE: [**3418-6-11**] 8:33 AM
+     CT CHEST W/O CONTRAST; CT GUIDANCE DRAINAGE                     Clip # [**Clip Number (Radiology) 2672**]
+     CT NECK DRAINAGE
+     Reason: please place drain and send samples for further work up of a
+     Admitting Diagnosis: EKG CHANGES
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     pneumothorax was seen on subsequent CT scan imaging.
+     
+     IMPRESSION:  Successful CT guided 10 French pigtail insertion into necrotic
+     lung abscess.  A repeat CT scan of the chest on [**3418-6-15**] is recommended for
+     reassessment of the drainage site and possible new collections.
+                                                                           
+
+",,
+24459,23415,,,3418-06-11 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3418-6-11**] 8:33 AM
+     CT CHEST W/O CONTRAST; CT GUIDANCE DRAINAGE                     Clip # [**Clip Number (Radiology) 2672**]
+     CT NECK DRAINAGE
+     Reason: please place drain and send samples for further work up of a
+     Admitting Diagnosis: EKG CHANGES
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      79 year old woman with cough, fevers and necrotic lung abscess, please place 
+      drain to help treat this infection.
+     REASON FOR THIS EXAMINATION:
+      please place drain and send samples for further work up of a necrotic lung 
+      mass/abscess
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     PROCEDURE:  CT chest without contrast.
+     
+     INDICATION:  Cough, fevers, and necrotic lung abscess.  Please place drain.
+     
+     Correlation is made to recent contrast chest CT of [**3418-6-6**].
+     
+     PRELIMINARY CT SCAN EXAMINATION:  Limited CT images through the upper thorax
+     redemonstrate necrotic consolidated lung in the right upper lobe with a large
+     component of organized intraparenchymal fluid in the posterior aspect of the
+     right upper lobe.  The appearance is similar to that seen on recent previous
+     study.
+     
+     CT DRAINAGE:
+     
+     CT GUIDED DRAINAGE LOCALIZATION:  Limited axial CT images were obtained to
+     localize the right upper lung parenchyma fluid collection to be drained.
+     
+     CT GUIDED DRAINAGE GUIDANCE:  CT fluoroscopy was used to guide in insertion of
+     a 22-gauge needle within the overlying soft tissues, for eventual guidance
+     using trocar technique as well as for instillation of several cc of 1%
+     lidocaine.
+     
+     CT GUIDED CATHETER INSERTION:  A 10 French self locking pigtail catheter was
+     inserted and deployed into the right upper lobe lung abscess.  Catheter
+     position was confirmed using CT scanning.  The catheter was locked in position
+     and secured to the skin with a percutaneous catheter fastener, and left to
+     open drainage.
+     
+     CT GUIDED FLUID ASPIRATION:  Approximately 150 cc of frank pus and
+     serosanguineous mucous material was aspirated into the drainage bag.  Samples
+     were sent for cytology and microbiology.
+     
+     CONSCIOUS SEDATION:  The patient received divided doses of fentanyl and
+     Versed.  The patient was continuously monitored by the Radiology registered
+     nurse for the duration of the procedure, and prior to sending the patient back
+     to the medical floor.
+     
+     COMPLICATIONS:  No immediate post-procedure complications occurred.  No
+                                                                 (Over)
+
+     DATE: [**3418-6-11**] 8:33 AM
+     CT CHEST W/O CONTRAST; CT GUIDANCE DRAINAGE                     Clip # [**Clip Number (Radiology) 2672**]
+     CT NECK DRAINAGE
+     Reason: please place drain and send samples for further work up of a
+     Admitting Diagnosis: EKG CHANGES
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     pneumothorax was seen on subsequent CT scan imaging.
+     
+     IMPRESSION:  Successful CT guided 10 French pigtail insertion into necrotic
+     lung abscess.  A repeat CT scan of the chest on [**3418-6-15**] is recommended for
+     reassessment of the drainage site and possible new collections.
+                                                                           
+
+",,
+24459,23415,,,3418-06-11 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3418-6-11**] 8:33 AM
+     CT CHEST W/O CONTRAST; CT GUIDANCE DRAINAGE                     Clip # [**Clip Number (Radiology) 2672**]
+     CT NECK DRAINAGE
+     Reason: please place drain and send samples for further work up of a
+     Admitting Diagnosis: EKG CHANGES
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      79 year old woman with cough, fevers and necrotic lung abscess, please place 
+      drain to help treat this infection.
+     REASON FOR THIS EXAMINATION:
+      please place drain and send samples for further work up of a necrotic lung 
+      mass/abscess
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     PROCEDURE:  CT chest without contrast.
+     
+     INDICATION:  Cough, fevers, and necrotic lung abscess.  Please place drain.
+     
+     Correlation is made to recent contrast chest CT of [**3418-6-6**].
+     
+     PRELIMINARY CT SCAN EXAMINATION:  Limited CT images through the upper thorax
+     redemonstrate necrotic consolidated lung in the right upper lobe with a large
+     component of organized intraparenchymal fluid in the posterior aspect of the
+     right upper lobe.  The appearance is similar to that seen on recent previous
+     study.
+     
+     CT DRAINAGE:
+     
+     CT GUIDED DRAINAGE LOCALIZATION:  Limited axial CT images were obtained to
+     localize the right upper lung parenchyma fluid collection to be drained.
+     
+     CT GUIDED DRAINAGE GUIDANCE:  CT fluoroscopy was used to guide in insertion of
+     a 22-gauge needle within the overlying soft tissues, for eventual guidance
+     using trocar technique as well as for instillation of several cc of 1%
+     lidocaine.
+     
+     CT GUIDED CATHETER INSERTION:  A 10 French self locking pigtail catheter was
+     inserted and deployed into the right upper lobe lung abscess.  Catheter
+     position was confirmed using CT scanning.  The catheter was locked in position
+     and secured to the skin with a percutaneous catheter fastener, and left to
+     open drainage.
+     
+     CT GUIDED FLUID ASPIRATION:  Approximately 150 cc of frank pus and
+     serosanguineous mucous material was aspirated into the drainage bag.  Samples
+     were sent for cytology and microbiology.
+     
+     CONSCIOUS SEDATION:  The patient received divided doses of fentanyl and
+     Versed.  The patient was continuously monitored by the Radiology registered
+     nurse for the duration of the procedure, and prior to sending the patient back
+     to the medical floor.
+     
+     COMPLICATIONS:  No immediate post-procedure complications occurred.  No
+                                                                 (Over)
+
+     DATE: [**3418-6-11**] 8:33 AM
+     CT CHEST W/O CONTRAST; CT GUIDANCE DRAINAGE                     Clip # [**Clip Number (Radiology) 2672**]
+     CT NECK DRAINAGE
+     Reason: please place drain and send samples for further work up of a
+     Admitting Diagnosis: EKG CHANGES
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     pneumothorax was seen on subsequent CT scan imaging.
+     
+     IMPRESSION:  Successful CT guided 10 French pigtail insertion into necrotic
+     lung abscess.  A repeat CT scan of the chest on [**3418-6-15**] is recommended for
+     reassessment of the drainage site and possible new collections.
+                                                                           
+
+",,
+24459,23415,,,3418-06-12 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3418-6-12**] 5:08 PM
+     CHEST (PA & LAT)                                                Clip # [**Clip Number (Radiology) 2674**]
+     Reason: eval for change with increased congestion                   
+     Admitting Diagnosis: EKG CHANGES
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       79 year old woman with right upper lobe abscess s/p drainage with increased 
+      respiratory effort today and congestion on exam, please eval for change
+     REASON FOR THIS EXAMINATION:
+      eval for change with increased congestion                                       
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CHEST (PA AND LATERAL)
+     
+     INDICATION:  79-year-old female with right upper lobe abscess status post
+     drainage with increased shortness of breath.
+     
+     PA AND LATERAL CHEST RADIOGRAPH:  Comparison made to prior examination from
+     [**3418-6-11**].
+     
+     A right-sided pigtail drainage catheter is in unchanged position.  Mass-like
+     opacity in the right upper lobe with a central focus of lucency is unchanged.
+     Heart size and mediastinal contours are unchanged.  There is increased opacity
+     within the right lower lobe as well as slightly increased bilateral pleural
+     effusions that are seen best on the lateral projection.  No pneumothorax is
+     identified.
+     
+     IMPRESSION:  Slightly increased right lower lobe opacity as well as small
+     effusions, seen best on the lateral radiograph.  Otherwise, unchanged
+     examination with a large mass-like opacity within the right upper lobe.
+
+",,
+24459,23415,,,3418-06-15 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     QUANTITATIVE LUNG SCAN                                          Clip # [**Clip Number (Radiology) 2675**]
+     Reason: PT WITH LUNG ABSCESS AWAITING POSSIBLE LOBECTOMY AND NEED TO ASSESS FUNCTIONAL LUNG PRE-OP.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY: Lung abscess, possible lobectomy, need to assess functional lung  
+     pre-op.  
+      
+     INTERPRETATION:  There is no ventilation or perfusion to the right upper lung
+     zone and upper portion of the right middle lung zone.  The remainder of the lung
+     fields demonstrate uniform symmetric, matched ventilation and perfusion
+     activity.  
+       
+     Regional analysis of tracer distribution in the lungs shows:  
+       
+       
+       
+                     RIGHT LUNG      LEFT LUNG  
+                     Perf. Vent.     Perf. Vent.  
+       
+     Upper  Third    2%     2%        18%   12%  
+     Middle Third    19%    25%       26%   24%  
+     Lower  Third    18%    20%       17%   17%  
+       
+                     RIGHT LUNG      LEFT LUNG  
+                     Perf. Vent.     Perf. Vent.  
+       
+     TOTAL           39%    47%       61%   53%  
+       
+     IMPRESSION: Lack of ventilation and perfusion to the right upper lung zone in
+     the area of lung abscess. Symmetric, matched ventilation and perfusion of the
+     uninvolved portion of the lungs. 
+                                                                           
+
+             [**First Name4 (NamePattern1) 109**] [**Last Name (NamePattern1) 110**], M.D.
+             [**Initials (NamePattern4) 111**] [**Last Name (NamePattern4) 112**] [**Last Name (NamePattern1) 113**], M.D.     Approved: WED [**3418-6-17**] 3:34 PM
+
+
+             Date Mailed: [**3418-6-18**]                     West [**Medical Record Number 2671**]
+
+
+
+               RADLINE [**Telephone/Fax (1) 115**]; A radiology consult service.
+            To hear preliminary results, prior to transcription, call the
+                           Radiology Listen Line [**Telephone/Fax (1) 116**].
+
+",,
+24459,23415,,,3418-06-17 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3418-6-17**] 3:44 PM
+     CHEST PORT. LINE PLACEMENT                                      Clip # [**Clip Number (Radiology) 2676**]
+     Reason: s/p cvl & thoracotomy                                       
+     Admitting Diagnosis: EKG CHANGES
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       79 year old woman with history of cough and lung mass/abscess now with  
+      increaseing respiratory distress, please eval for change. 
+     REASON FOR THIS EXAMINATION:
+      s/p cvl & thoracotomy                                                           
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  History of cough and necrotic right lung mass.
+     
+     X-RAYS CHEST, AP PORTABLE VIEW
+     
+     COMPARISON:  [**3418-6-12**].
+     
+     FINDINGS:  Multiple chest tubes are seen in the right upper hemithorax.  The
+     loculated right apical collection has decreased compared to the prior film. 
+     The endotracheal tube is 2 cm above the carina.  There is right basal
+     atelectasis with elevation of the right hemidiaphragm.  The left lung field is
+     clear.  Small right-sided effusion is noted.
+     
+     IMPRESSION:
+     1.  Decreasing size of the right apical loculated collection.  Multiple chest
+     tubes in position in the right upper hemithorax.
+     2.  Right lower lobe atelectasis.
+                                                                           
+
+",,
+24459,23415,30359,0,3418-06-17 16:35:00 EST,3418-06-17 16:50:00 EST,3209,"N",54,"Nursing/Other","T/SICU NURSING ADMISSION/TRANSFER NOTE","
+T/SICU NURSING ADMISSION/TRANSFER NOTE
+PT IS A 79 YO FEMALE WITH HX OF ~1MOS PTA OF PRODUCTIVE COUGH. PT HAD CT SCAN THAT REVEALES A RUQ MASS AND BRONCH DONE. NO LESIOS BUT RUL REVEALED EASY FRIABILITY. WASHINGS WERE NEGATIVE FOR MALIGNANT CELL. PT HAD ATYPICAL CP AND HAD COMPLETE CARDIAC WORK-UP WHICH WAS NEG. HER PMH- HTN ON LOPRESSOR. 
+
+TODAY, PT HAD A RUL AND RML LOBECTOMY AS WELL AS A SUPERIOR SEGMENT OF RLL REMOVED. ARRIVED TO SICU INTUBATED ON LEVO. PT HYPOTENSIVE. LGR R THORACOTOMY INCISION, 2 PLEURAL CT'S AND JP WHICH IS IN CHEST CAVITY.PT HAS LGR AREA OF ECCYMOISIS ACROSS LOWER ABD BELOW UMBILICUS.
+
+LINES-BOTH R AND L ARTERIAL LINES AS THEY ARE BOTH DAMPENED. L SUBCLAVIAN TL, BILATERAL ANTECUBITALS, FOLEY CATH.
+
+DISPO--FULL CODE.
+
+ROS:
+CARDIAC--REMAINS HYPOTENSIVE ON LEVO AT .32MCG/KG/MIN. HR SR/SB WITHOUT OBSERVED VEA. CVP 8. ATTEMPTING TO WEAN LEVO TO KEEP MAP >65. RECEIVED 1U PRBC'S. IVF OF NS AT 100 CCHR.
+
+RESP--REMAINS FULLY VENTILLATED ON CMV. ABG'S PENDING  L LUNG IS CLEAR AND DIMINISHED IN BASES. R LUNG SOUNDS IN LL ARE VERY DIMINISHED. SAO2 100%
+
+GI---NO NGT. BS ABSENT.
+
+GU--FOLEY CATH PATENT DRAINING >20 CC HR OF CLEAR YELLOW URINE.
+
+ENDO--BS 221. COVERED WITH 4U REG INSULIN SC. CA++REPLETED WITH 2 GMS CA GLU.
+
+SKIN--R THORACOTOMY SITE DRY AND INTACT.  
+
+ID--AFEBRILE. ON ABX.
+
+PAIN--PT IS ON EPIDURAL AT 4CC HR OF ANESTHESIA PAIN MED #10. ALSO ON 10 MCG/KG/MIN OF PROPOFOL.
+
+COPING--DAUGHTER AND HER HUSBAND IN TO VISIT. OF NOTE, PT'S DAUGHTER, [**Doctor First Name **] HAS TOURETTE'S SYNDROME.  SHE IS SYMPTOMATIC WITH THIS. VERY PLEASANT .  SHE IS HCP.  PRELIM. PATHOLOGY REPORT OF LUNG MA IS ADENO-CA. PT IS NOT AWARE AT THIS TIME AS SHE REMAINS SEDATED. DR. [**Last Name (STitle) 4625**] WILL SPEAK WITH PT TOMORROW AFTER SHE IS EXTUBATED.
+
+A--HYPOTENSIVE REQUIRING LEVO. SEDATED ON PROPOFOL
+
+P--ATTEMPT TO WEAN LEVO, ATTEMPT TO WEAN VENT. CON'T TO MONITOR. CHECK POST TX HCT DUE AT 8PM.
+",,
+24459,23415,30359,,3418-06-18 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3418-6-18**] 6:17 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 2677**]
+     Reason: tube placement, emergently intubated                        
+     Admitting Diagnosis: EKG CHANGES
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        79 year old woman with history of cough and lung mass/abscess now with   
+      increaseing respiratory distress, please eval for change. 
+     REASON FOR THIS EXAMINATION:
+      tube placement, emergently intubated                                            
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Tube placement, emergently intubated.
+     
+     TECHNIQUE:  AP chest radiograph from [**3418-6-18**], is compared to AP chest
+     radiograph from one day prior.
+     
+     FINDINGS:  The endotracheal tube ends approximately 2-3 cm from the carina.
+     All the lines and tubes are unchanged from prior exam.  Mild-to- moderate
+     pulmonary edema has worsened.  The left subclavian catheter tip abuts the
+     lateral wall of the superior vena cava.  There is no evidence of pneumothorax.
+     The small right apical collection of fluid is stable. Continued right basilar
+     atelectasis is reflected in elevation of right hemidiaphragm.
+     
+     IMPRESSION:
+     1.  Endotracheal tube is approximately 2-3 cm from the carina.
+     2.  Little change in small right apical fluid collection.
+     3.  Right lower lobe atelectasis.
+
+",,
+24459,23415,30359,,3418-06-18 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3418-6-18**] 8:55 AM
+     CHEST (PORTABLE AP); -77 BY DIFFERENT PHYSICIAN                 [**Name Initial (PRE) 232**] # [**Clip Number (Radiology) 2678**]
+     Reason: Please evaluate for placement of NG tube.                   
+     Admitting Diagnosis: EKG CHANGES
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+         79 year old woman with history of cough and lung mass/abscess s/ right 
+      thoracotomy and upper/middle lobe resection.
+     REASON FOR THIS EXAMINATION:
+      Please evaluate for placement of NG tube.                                       
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Lung abscess with right thoracotomy and upper and middle lobe
+     resection to evaluate for NG tube placement.
+     
+     CHEST AP PORTABLE VIEW.
+     
+     Comparison done with the earlier film done today.  The NG tube tip is in the
+     stomach.  The position of the ET tube and the two right-sided chest tubes are
+     in place in the right upper hemithorax.  No interval change seen.
+                                                                           
+
+",,
+24459,23415,30359,,3418-06-18 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3418-6-18**] 8:55 AM
+     CHEST (PORTABLE AP); -77 BY DIFFERENT PHYSICIAN                 [**Name Initial (PRE) 232**] # [**Clip Number (Radiology) 2678**]
+     Reason: Please evaluate for placement of NG tube.                   
+     Admitting Diagnosis: EKG CHANGES
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+         79 year old woman with history of cough and lung mass/abscess s/ right 
+      thoracotomy and upper/middle lobe resection.
+     REASON FOR THIS EXAMINATION:
+      Please evaluate for placement of NG tube.                                       
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Lung abscess with right thoracotomy and upper and middle lobe
+     resection to evaluate for NG tube placement.
+     
+     CHEST AP PORTABLE VIEW.
+     
+     Comparison done with the earlier film done today.  The NG tube tip is in the
+     stomach.  The position of the ET tube and the two right-sided chest tubes are
+     in place in the right upper hemithorax.  No interval change seen.
+                                                                           
+
+",,
+24459,23415,30359,0,3418-06-18 03:18:00 EST,3418-06-18 03:21:00 EST,6857,"N",54,"Nursing/Other",,"
+
+Pt remains intubated and mechanically ventilated on SIMV 20/300/8PSV/5peep/40%. 02 sats in high 90's. Attempted PSV 5/5peep. Periods of apnea occured. Rested on SIMV. No changes made after. BS: Essentially clear. Sx for small amts of thick pale yellow secretions. Plan is to wean of Propafol drip and begin PSV trials for possible extubation this am. 
+",,
+24459,23415,30359,0,3418-06-18 04:05:00 EST,3418-06-18 04:23:00 EST,4422,"N",54,"Nursing/Other",,"
+
+ ASSESSMENT AS NOTED
+
+RES: VENT SETTING WERE ADJUSTED ACC.  TO ABGs: SEE CAREVUE.
+PLAN - TO EXTUBATE THIS AM. LS CLEAR /DIM ON R.SIDE, SMALL AMNT RED SPUTUM IN ETT TO SUCTION, CONGESTED COUGH, CHEST TUBES ARE INTACT DRAIN S/S SECRETIONS.
+
+CV: LEVOPHED OFF AS OF LAST NIGHT, GETS HYPERTENSIVE AT TIMES (WHEN AGGITATED). >1500 CC POSITIVE AND WAS GIVEN 20 LASIX DURING BLOOD TRANSFUSION WITH RESPONSE OF 220 CC . CVP 7-10.
+
+NEURO: INTACT
+
+HEME: SEVERAL TRANSFUSION FFP, PLT, PC WERE GIVEN TO CORREST INR , PLT<60, HCT 20, 
+
+ID: LOW GRADE TEMP 99, WBC 9
+
+PAIN: ON EPIDURAL DILODID 2CC/H , DENIES PAIN
+
+GI: +BS, SOFT ABD, DENIES NAUSEA
+
+GU: 100-30/H CLEAR YELLOW
+
+LABS: MAG AND CA WERE GIVEN, BS  RISS 
+
+PLAN: EXTUBATE
+",,
+24459,23415,30359,0,3418-06-18 05:10:00 EST,3418-06-18 05:14:00 EST,6857,"N",54,"Nursing/Other",,"
+
+Pt extubated and placed on 40% humidified face tent. Shortly after RR 30-40's. 02 sats in low 90's. Racemic Epinephrine treatments given x2, with little effect. Upper airway stridor noted. Pt becoming more agitated. Pt re-intubated with size 7.5 Et Tube, taped 19@ lip. BS: Scattered wheezing throughout. AlB/Atrov MDI's to be started. Pt placed on A/C 18/300/5peep/40%. 
+",,
+24459,23415,30359,0,3418-06-18 17:58:00 EST,3418-06-18 18:34:00 EST,4467,"N",54,"Nursing/Other",,"
+
+T-SICU NPN 0700-1900
+See carevue for specifics.
+ROS: 
+Neuro: lightly sedated on propofol and fentanyl gtts.  Opens eyes spotaneously, pupils sluggish (cataracts), follows commands consistently, MAE's.  Spelling questions/words appropriately using letter board.  Denies pain, c/o throat discomfort.  Dilaudid/bupiv. epidural changed to bupivicaine only and fentanyl gtt added per pain service recs with improvement per pt.  Epid. site with scant, dry, old, bloody drainage, no new drainage this shift.
+
+CV: HR 80-100's SR/ST, BP 100-130's/50's, CVP 5-9.  Conts. lopressor 5mg IV as ordered.  Skin cool, dry.  Pedal pulses weakly palpable.  PB's/sc heparin for DVT prophylaxis.
+Heme: hct 26.8 (32.4).  Currently receiving 1 uPRBC per team, to receive lasix after blood.
+Access: R rad. a-line dc'd; L rad. aline wnl, L peripheral IV wnl, L TLCL wnl.
+
+Resp: LS diminished on R (RLL>RUL), wheezes noted on L side this am, MDI's given by resp. therapy, currently clear.  Suctioned for scant->no blood tinged sputum.  Abg this am acceptable.  No vent changes made since this am, see carevue for labs/settings/resp. notes.
+R CT 1+2 plus JP draining mod. amts. serosang. fluid in slowly decreasing amts:  DSD C/D/I, no new drainage.
+
+GI: abd soft, NT/D, BS present, NPO.  OGT clamped.  No stool thus far. Protonix for GI prophylaxis.
+
+GU: foley patent draining clear yellow urine 30-50cc/hr.  Kcl and Magnesium repleted.
+
+Endo: BS 72->85, no coverage, on SSI.
+
+ID: temp. 99.3; conts. unasyn as ordered.
+
+SKin: back/buttocks intact.  R thoracotomy DSD intact, no drainage.
+
+Psych/social: pt's daughter [**Name (NI) 1341**] in this am, affect/questions appropriate.  Daughter plans to let pt rest today, will phone for updates and return tomorrow am.
+
+A: s/p re-intubation this am, abg wnl, receiving 1uPRBC, hemodynamically stable off levo since last noc
+
+P: Monitor VS, I/O, labs.  Assess pain and adjust fent. gtt as needed.
+? possible extubation tomorrow, team to re-assess in am.  Continue ongoing comfort/support to pt and family.
+",,
+24459,23415,30359,,3418-06-19 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3418-6-19**] 10:46 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 2679**]
+     Reason: eval for infl                                               
+     Admitting Diagnosis: EKG CHANGES
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+          79 year old woman with history of cough and lung mass/abscess s/ right  
+      thoracotomy and upper/middle lobe resection.
+     REASON FOR THIS EXAMINATION:
+      eval for infl                                                                   
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATIONS:  Lung mass/abscess status post thoracotomy.
+     
+     PORTABLE AP CHEST AT 11:14:  Comparison is made to [**3418-6-18**] at 9:08.
+     Endotracheal tube, two right apical chest tubes, left subclavian central
+     venous line, and NG tube all remain in satisfactory, unchanged position.
+     Stable mild cardiac enlargement.  There is a persistent small crescentic air
+     collection located above both right apical chest tubes, which is unchanged. 
+     The degree of right lung expansion and the moderate right effusion are
+     unchanged.  Stable mild blurring of vascular detail.
+     
+     IMPRESSION:  No significant change.
+
+",,
+24459,23415,30359,0,3418-06-19 05:09:00 EST,3418-06-19 05:21:00 EST,4422,"N",54,"Nursing/Other",,"
+
+ASSESSMENT AS NOTED
+
+RES: ON A/C TOLERATES WELL SETTINGS, RSBI-41, NO OR MINIMAL SECRETIONS, LS DIM. AT BASES, ALL CHEST TUBES ARE INTACT, NO LEAK OR CREPITUS., DRAINAGE LESS THAN DAY AGO
+
+CV: IN NSR , SBP STAPLE, SLIGHT EDEMA ON BOTH HANDS, WEAK PULSES, A/LINE AND TLC ARE INTACT
+
+NEURO: INTACT.
+
+GU: BORDERLINE, LASIX WAS GIVEN 20 IV LAST NIGHT WITH FAIR RESPONSE, 
+
+GI: OGT REMAINS CLAMPED, +BS, ABD SOFT, NONTENDER
+
+SKIN: AS PER CAREVUE
+
+LABS: HCT STABLE AFTER LAST NIGHT TRANSFUSION 29-32
+
+PLAN: MONITOR RES, TRY YO WEAN OFF VENT
+",,
+24459,23415,30359,0,3418-06-19 05:18:00 EST,3418-06-19 05:20:00 EST,3317,"N",54,"Nursing/Other",,"
+
+Resp Care: Pt continues intubated and on ventilatory support with a/c, no vent changes overnoc maintaining good oxygenation; bs clear, sxn minimal secretions, rsbi 41, will wean when ready.
+",,
+24459,23415,30359,0,3418-06-19 16:33:00 EST,3418-06-19 16:44:00 EST,4450,"N",54,"Nursing/Other","nursing prog note","
+nursing prog note
+
+neuro: pt alert, following commands well. moving x4. perrla, note bilat pupil shape abnormal, both reactive. communicating w/ gestures, nods and shakes of head.
+
+resp: weaned to cpap+ps this am, tol very well, appeared more comfortable w/out set rate. ls dimin to bilat bases, right upper lobe sounds absent. abgs good, rate teens. o2 sats stable.
+
+cv: vss, hypertensive at times, lopressor dosing cont. hr nsr, no ectope, 70s-80s. ppp bilat, mild edema noted to extrem. diuresed w/ lasix bolus.
+
+gi/gu: foley patent dilute yellow urine, responds well to lasix. belly soft, nt/nd. bs present. tf started this noon, titrated toward goal. 
+
+endo: bg's stable. 
+
+id: right chest tube dsgs changed this pm, draining mod amt serosang drainage. sites w/ sutures intact.
+
+social: daughter and her husband in to visit, all updates provided, supportive toward pt.
+
+a/p: doing well s/p thoracotomy, sites w/ leaking drainage. no air leaks, no crepitus noted. pain well controlled w/ epidural, narcotic drip. cont. diuresis, responds well. plan for ?diuresis in am, monitor presence of air leak, wait for tracheal edema to improve. pulm toilet.
+",,
+24459,23415,30359,0,3418-06-19 16:54:00 EST,3418-06-19 16:57:00 EST,6863,"N",54,"Nursing/Other","Respiratory Care Note","
+Respiratory Care Note
+Pt remains intubated and on the ventilator. Pt comfortable on PSV, no resp. distress issues. Pt requires infrequent suctioning of small amounts of white sputum. Prn Mdis given X2. Plan: continue on current settings until extubation. See careview for additional vent settings and info.
+",,
+24459,23415,30359,0,3418-06-20 04:34:00 EST,3418-06-20 04:51:00 EST,4422,"N",54,"Nursing/Other",,"
+
+ASSESSMENT AS NOTED
+
+RES: REMAINS ON CPAP , MAINTAINS SO2>99, ABG WNL, SUCTIONED FOR TAN SPUTUM  WITH SMALL PLUQS, CATHETER NOT GOING ALL THE WAY IN, ALL CHEST TUBES  INTACT AND DRAIN SM AMNT S/S
+
+CV: WENT INTO RAPID AFIB 2AM , AFTER TRYING LOPRESSOR, CARDIZEM AND AMIODORON PT WAS PUT ON ESMOLOL GTT AND CONVERTED 0520 AM.SPB STABLE, GOT 500 BOLUS WHEN A FIB STARTED. CVP UP TO 10. SLIGHT EDEMA ON BOTH HANDS
+
+NEURO: INTACT
+
+GU: BORDERLINE 20-30/H, H/O AWARE
+
+GI: TOLERATES T FEEDING WELL UP TO 30/H, HAD SMALL BM, ABD SOFT, 
+
+SKIN: THORACOTHOMY INCISION INTACT, ABD BRUISE FROM HEP INJECTIONS
+
+PLAN: MONITOR RES, CV, TRY TO WEAN OFF VENT
+
+
+
+
+",,
+24459,23415,30359,0,3418-06-20 05:25:00 EST,3418-06-20 05:30:00 EST,5269,"N",54,"Nursing/Other",,"
+
+Respiratory Therapy
+Pt remains orally intubated on PSV. BS coarse with exp. wheezes mainly on rt side. MDI's as ordered. No cuff leak noted. Plan: wean as tolerated. Repeat cuff leak check.
+",,
+24459,23415,30359,0,3418-06-20 17:10:00 EST,3418-06-20 17:13:00 EST,6863,"N",54,"Nursing/Other","Respiratory Care Note","
+Respiratory Care Note
+Pt remains intubated and on the ventilator. Pt comfortable on PSV. Pt passed SBT, later needed increased pressure for comfort. Abg on increased pressure good. Pt required infrequent suctioning. Mdi's given 1x per wheezing. No cuff leak noted. Plan: continue current settings until audible cuff leak allows extubation. See careview for additional settings and info.
+",,
+24459,23415,30359,,3418-06-21 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3418-6-21**] 3:36 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 2680**]
+     Reason: s/p thoracotomy c/ RUL/RML resection w/ 2 cts               
+     Admitting Diagnosis: EKG CHANGES
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+           79 year old woman with history of cough and lung mass/abscess s/ right   
+      thoracotomy and upper/middle lobe resection.
+     REASON FOR THIS EXAMINATION:
+      s/p thoracotomy c/ RUL/RML resection w/ 2 cts                                   
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CHEST, SINGLE VIEW
+     
+     HISTORY:  Status post thoracotomy and wedge resection.
+     
+     REFERENCE EXAM:  [**6-19**].
+     
+     FINDINGS:  The endotracheal tube, 2 right apical chest tubes, left subclavian
+     central line, NG tube, and ET tube are all unchanged.  The degree of the right
+     lung expansion and the moderate right effusion are unchanged.  Mild
+     cardiomegaly is unchanged.  The crescentic air collection in the right apex
+     above the two right chest tubes is unchanged.  Moderate scoliosis is again
+     identified.  There is poor definition of the left hemidiaphragm consistent
+     with volume loss versus a small/early infiltrate.  Overall, there has been no
+     significant interval change.
+
+",,
+24459,23415,30359,0,3418-06-21 04:48:00 EST,3418-06-21 04:54:00 EST,3826,"N",54,"Nursing/Other",,"
+
+NPN
+N: SEDATED ON PROPOFUL/FENT OVERNIGHT. WHEN LIGHT, PT APPEARING ANXIOUS FLAILING ARMS. PT DENIES PAIN.
+
+CV: HD STABLE. BP 100'S/50'S. NSR 60-70'S NO ECTOPY. GIVEN [**11-30**] LOPRESSOR DOSE D/T BP. RT CT'S +FLUCTUATE/-LEAK/-CREPITUS/MIN OUTPUT.
+
+R: LUNGS CLEAR/DIM AT BASES. PLACED ON MMV D/T APNEIC PERIODS. SXN'D FOR LITTLE THICK BLD TINGED SEC. ABG STABLE.
+
+GI: ABD SOFT/ TF AT GOAL IMPACT WITH FIBER AT 50CC/HR. NO STOOL.
+
+GU: URINE OUTPUT CLEAR YELLOW ~50-60CC/HR.
+
+HEME: HCT/COAGS WNL
+
+ID: AFEBRILE. CONT ON EMPIRIC UNASYN.
+
+ENDO: GLUCOSE COVERED WITH RISS.
+
+A/P: ?EXTUBATE TODAY. PULM TOILET.
+",,
+24459,23415,30359,0,3418-06-21 06:27:00 EST,3418-06-21 06:30:00 EST,5269,"N",54,"Nursing/Other",,"
+
+Respiratory Therapy
+Pt remains orally intubated. Placed on MMV  for periods of apnea, tolerated well, synchronous with vent. MDI's as ordered. plan wean as tolerated.
+",,
+24459,23415,30359,0,3418-06-21 16:16:00 EST,3418-06-21 16:20:00 EST,6863,"N",54,"Nursing/Other","Respiratory Care Note","
+Respiratory Care Note
+Pt remains intubated and on the ventilator. Pt remains on MMV during this shift, with several episodes of tachypneia as well as apnea.  Pt required infrequent suctioning of small amounts of bloody secretions. Mdi's given as ordered. No cuff leak noted. Cardiac events noted that stopped extubation. Plan: continue on current settings until extubation or consider trach? See careview for additional vent settings and info.
+",,
+24459,23415,30359,0,3418-06-21 17:51:00 EST,3418-06-21 18:03:00 EST,4226,"N",54,"Nursing/Other",,"
+
+TSICU NPN 7A-7P:
+
+EVENTS: PLANNED TO EXTUBATE--PT DEVELOPED TACHYARHTHMIA--CLEAR P WAVES, OCCASIONALLY REGULAR WITH FREQ. PACS. SEVERAL RUNS WITH MINIMAL PERFUSION. PT EXPRESSED FEELINGS OF DOOM. ENZYMES CYCLED. INCONTINENT LARGE AMOUNTS STOOL.
+
+NEURO: ALERT. SOME INAPPROPRIATE COMMUNICATION--USES LETTERBOARD. REQUESTED TO BE SEDATED TO [**Doctor Last Name 7**]--BACK ON LOW DOSE PROPOFOL. RESTING QUIETLY. FOLLOWS COMMANDS. MAE WELL. ASSISTS WITH TURNING.
+
+CV: SR WITH PACS. SEE MULTIPLE EKG MONITOR STRIPS IN CHART. BP 100S-180S SYSTOLIC. HYDRALAZINE X1 FOR INCREASED BP. ECTOPY INCREASED AND LOPRESSOR 10 MG IV X1 GIVEN WITH SOME EFFECT. LASIX 10 MG THIS AM. LYTES REPLETED. 
+
+RESP: ORALLY INTUBATED. THICK RUST-COLORED SECRETIONS. WEAK COUGH, NONPRODUCTIVE. REMAINS ON 5/5 WITH BACKUP MMV RATE. PT HAS BEEN SPONTANEOUSLY BREATHING ALL DAY. LUNG SOUNDS COARSE. C/O SOME SHORTNESS OF BREATH WHEN HER HEART RATE STARTED TO INCREASE, ESP WITH THE RUNS OF ECTOPY. CHEST TUBES TO 20CM SUCTION. SMALL AMOUNT SEROSANG OOZE FROM DRESSING. JP IN CHEST TO BULB SUCTION. ALL WITH SEROSANG FLUID. NO LEAKS, + TIDALING.
+
+GI: ABD SOFT. + BOWEL SOUNDS. INCONTINENT LARGE AMOUNTS LIQUID GREEN/BROWN MUCIOD STOOL. SPEC SENT FOR C DIF CULTURE. TOELRATED TUBE FEEDS AT GOAL.
+
+GU: FOLEY WITH CLEAR PALE YWLLOW URINE. NEEDS PHOS REPLETION. KVO. LASIX 10 MG
+
+ENDO: COVERAGE WITH RISS.
+
+HEME: SQ HEPARIN. P BOOTS.
+
+ID: AFEBRILE. CONT. ON UNASYN.
+
+SKIN: NO NEW ISSUES.
+
+SOCIAL: PT'S DAUGHTER IN AND UPDATED. 
+
+PLAN: CONTINUE WITH MONITOR ANALYSIS/CARDS CONSULT TOMORROW. CYCLE ENZYMES. SEDATION AS NEEDED. WEAN AND EXTUBATE IF ABLE/?TRACH. 
+",,
+24459,23415,30359,0,3418-06-22 03:41:00 EST,3418-06-22 03:51:00 EST,3826,"N",54,"Nursing/Other",,"
+
+NPN
+N: SEDATED ON FENT/PROPOFUL GTTS. WHEN LIGHT, VERY APPROPRIATE, FC'S CONSISTENTLY. ATTEMPTING TO COMMUNICATE. VERY PLEASANT. DENIES PAIN ON CURRENT REGIMEN OF 30MCG FENT/HR AND .1% BUPIVICAINE EPIDURAL.
+
+CV: HD STABLE. SEE CAREVUE FOR SERIAL VS. OCC PAC'S NOTED. IN NSR 60'S-80'S. CONT WITH LOPRESSOR 10MG Q4HRS. CT'S WITH ~100CC'S EACH SEROSANG. NO LEAK. NO CREPITUS.
+
+R: LUNGS CLEAR DIM AT BASES. SXN'D FOR SM AMT THICK TAN BLD TINGED SEC. REMAINS ON CPAP/PS WITH MMV BACKUP. RR TEENS-20'S. ABG STABLE. 
+
+GI: ABD SOFT. +BS. STOOL X1 LOOSE BROWN. TOL TF AT GOAL 50CC/HR WITH NO RESIDUAL. CONT FREE H20 BOLUSES D/T INC SODIUM. NA 150.
+
+GU: BRISK CLEAR YELLOW U/O QS.
+
+HEME: WNL
+
+ID: AFEBRILE. CONT ON EMPIRIC UNASYN.
+
+ENDO: GLUCOSE TREATED PER RISS.
+
+A/P: ?EXTUBATE IF CUFF LEAK.
+",,
+24459,23415,30359,0,3418-06-22 06:05:00 EST,3418-06-22 06:09:00 EST,5269,"N",54,"Nursing/Other",,"
+
+Respiratory Therapy
+Pt remains orally intubated with 7.5 ett. No cuff leak this AM. No vent changes overnight, Vt 340-400, f 14-24. Sx minimal secretions Plan extubate when able.
+",,
+24459,23415,30359,0,3418-06-22 14:29:00 EST,3418-06-22 14:41:00 EST,3725,"N",54,"Nursing/Other","NSG NOTE:","
+NSG NOTE:
+
+ROS:  
+
+    CV:HYPERTENSIVE AND TACHY ALL DAY,HAS FREQ APC,SOME BURST SVT.CARDIOLOGY CONSULT DONE THIS PM.LOPRESSOR INCREASED,HYDRALAZINE
+ADDED ATC AS WELL AS PRN.CARDIAC ECHO TO BE DONE THIS PM D/T C/O TIGHTNESS CHEST,DIFFICULT WHETHER TIGHTNESS IS D/T THOROCOTMY INCISION AND CTS.EKG DONE.ATIVAN GIVEN.CT DRNG MOD AMT SEROSANG DRAINAGE.
+
+ RESP:   PT EXTUBATED AT 9AM,ON 50% FT WITH SAT 95.NON PROD COUGH.
+      REMAINS ON FENTANYL QTT AT 30/KG.ABGS ACCEPTABLE AT 12N.
+
+      NEURO:ALERT,ASKING FOR JUICE.APPROPIATE WITH BEHAVIOR.EPIDURAL
+DC'
+
+       GU:10 LASIX THIS AM WITH EXCELLENT DIYRESIS,K REPLACED AS ORDERED.
+
+        GI:TF DC WHEN OGT PULLED.CAN HAVE 30CC LIQ/HR.SM LIQ STOOL.
+
+         ID:AFEBRILE.
+
+         ENDO:BS TREATED AS ORDERED.
+
+    
+      
+
+      
+",,
+24459,23415,30359,0,3418-06-22 18:48:00 EST,3418-06-22 18:56:00 EST,3246,"N",54,"Nursing/Other","3-7pm NPN","
+3-7pm NPN
+Pt. has gd O2 sats all afternoon. She continues to sound stridorous or wheezy, especially on expiration. It does appear positional in that with repositioning pt.'s head and bed she is breathing clearly. She has a weak cough, not productive thus far. Her RR remains rapid, 30. She denies pain or need for pain med. Fentanyl 20mcg/hr infusing. Pt. is cooperative  and appropriate. She has been taking ice chips and clear sips. She did have a slightly difficult time getting down pills, lengthy time to swallow, multiple sips. Daughter in to see pt. this afternoon. Echo done.
+",,
+24459,23415,30359,0,3418-06-22 20:02:00 EST,3418-06-22 20:12:00 EST,5269,"N",54,"Nursing/Other",,"
+
+Respiratory Therapy
+Pt presents on cool aerosol FT BS clear with fine exp wheezes. Unit dose alb/atrovent neb given at 20:00 with increased aeration and no wheezes. At 20:30 Pt desaturated with SpO2 of 88%, increased WOB accessory muscle use and audible stridor. Pt placed on 100% Hi-[**Last Name (un) **] FM. UD recemic epi admin. with ssome relief. Sats at this time 97% awaiting results of ABG. Plan: continue to monitor resp. status closely.
+",,
+24459,23415,30359,,3418-06-23 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3418-6-23**] 1:11 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 2681**]
+     Reason: asses effusion                                              
+     Admitting Diagnosis: EKG CHANGES
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+            79 year old woman with history of cough and lung mass/abscess s/ right    
+      thoracotomy and upper/middle lobe resection.
+     REASON FOR THIS EXAMINATION:
+      asses effusion                                                                  
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Assess right effusion.
+     
+     PORTABLE AP CHEST AT 13:45:  Comparison is made to [**3418-6-21**].  Two right
+     apical chest tubes are unchanged in position.  The patient has been extubated
+     and the NG tube has been removed.  Left subclavian central venous line tip
+     remains at the brachiocephalic confluence.  There is near complete collapse of
+     the right lung.  A small right apical pocket of air is unchanged.  There is
+     likely a small subpulmonic left effusion.
+     
+     IMPRESSION:  Near complete collapse of right lung.  Persistent small
+     hydropneumothorax.
+                                                                           
+
+",,
+24459,23415,30359,,3418-06-23 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3418-6-23**] 5:34 PM
+     CHEST (PORTABLE AP); -77 BY DIFFERENT PHYSICIAN                 [**Name Initial (PRE) 232**] # [**Clip Number (Radiology) 2682**]
+     Reason: asses post-bronch                                           
+     Admitting Diagnosis: EKG CHANGES
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+             79 year old woman with history of cough and lung mass/abscess s/ right   
+        thoracotomy and upper/middle lobe resection.
+     REASON FOR THIS EXAMINATION:
+      asses post-bronch                                                               
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  79-year-old woman status post right thoracotomy and right
+     upper/middle lobe resection.
+     
+     COMPARISON:  Four hours prior.
+     
+     SINGLE AP UPRIGHT CHEST:  Lines and tubes remain in place.  There is a JP
+     drain in the right axilla, and staples in the right axilla.  A small apical
+     pocket of air in the right lung is unchanged; the trachea and mediastinal
+     structures are still shifted to the right.  The right lower lobe is slightly
+     better aerated. Linear atelectasis is seen at the left lung base. There is
+     likely a small subpulmonic left effusion. Surrounding soft tissues and osseous
+     structures are unchanged. There remains near total collapse of the right lung.
+     
+     IMPRESSION:  Slight improvement in aeration of right lung.  Otherwise no
+     significant interval change.
+
+",,
+24459,23415,30359,,3418-06-23 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3418-6-23**] 5:34 PM
+     CHEST (PORTABLE AP); -77 BY DIFFERENT PHYSICIAN                 [**Name Initial (PRE) 232**] # [**Clip Number (Radiology) 2682**]
+     Reason: asses post-bronch                                           
+     Admitting Diagnosis: EKG CHANGES
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+             79 year old woman with history of cough and lung mass/abscess s/ right   
+        thoracotomy and upper/middle lobe resection.
+     REASON FOR THIS EXAMINATION:
+      asses post-bronch                                                               
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  79-year-old woman status post right thoracotomy and right
+     upper/middle lobe resection.
+     
+     COMPARISON:  Four hours prior.
+     
+     SINGLE AP UPRIGHT CHEST:  Lines and tubes remain in place.  There is a JP
+     drain in the right axilla, and staples in the right axilla.  A small apical
+     pocket of air in the right lung is unchanged; the trachea and mediastinal
+     structures are still shifted to the right.  The right lower lobe is slightly
+     better aerated. Linear atelectasis is seen at the left lung base. There is
+     likely a small subpulmonic left effusion. Surrounding soft tissues and osseous
+     structures are unchanged. There remains near total collapse of the right lung.
+     
+     IMPRESSION:  Slight improvement in aeration of right lung.  Otherwise no
+     significant interval change.
+
+",,
+24459,23415,30359,0,3418-06-23 04:50:00 EST,3418-06-23 05:08:00 EST,3826,"N",54,"Nursing/Other",,"
+
+NPN
+N: PT PLEASANT/COOPERATIVE. CONFUSED. ORIENTED TO SELF ONLY. DENIES PAIN. GIVEN ATIVAN TO [**Doctor Last Name 7**] AS PT STARTING TO BECOME RESTLESS WITH INC WOB. 
+CV/RENAL: FREQ PAC'S WITH SELF LIMITING BURSTS OF SVT. LOPRESSOR INC TO 20MG IV Q4HRS. GIVEN 10MG LASIX LAST EVE AND DIURESED WELL. WGT DOWN 71.8KG. K/MG REPLETED.
+R: PT WITH TENUOUS RESP STATUS. BECAME STRIDOROUS LAST EVE AND RESPONDED TO RACEMIC EPI NEB. WHEN PT BECOMES RESTLESS/AGITATED WITH INC WOB BECOMES STRIDOROUS. ATIVAN WITH EFFECT. ALSO CHANGE OF POSITION WORKS WELL FOR HER. GIVEN ALB/ATROVENT NEBS Q4HRS. WEAK NON PROD COUGH.
+GI: ABD SOFT. NOTED TO BE ASPIRATING ON LIQUIDS. KEPT NPO OVERNIGHT. DROPPED SATS WITH COUGHING FROM ASPIRATION. STOOL X2 MOD AMT LOOSE BROWN.
+HEME: WNL
+ID: AFEBRILE.
+ENDO: GLUCOSE COVERED PER RISS.
+A/P: CONT TO MONITOR RESP STATUS CLOSELY. PULM TOILET.
+",,
+24459,23415,30359,0,3418-06-23 05:30:00 EST,3418-06-23 05:35:00 EST,5269,"N",54,"Nursing/Other",,"
+
+Respiratory Therapy
+Pt remains on 100% Hi Flow for sats of 99%. Alb/Atrovent nebs given Q4 with good effect-decreased wheezes on lt. ABG this AM WNL. Please see carevue and nsg note for specifics. Plan: continue to monitor resp status closely.
+",,
+24459,23415,30359,0,3418-06-23 17:46:00 EST,3418-06-23 18:00:00 EST,4226,"N",54,"Nursing/Other",,"
+
+TSICU NPN 7A-7P:
+
+EVENTS: DOING WELL OFF VENTILATOR. DOWN TO 4L NC. DESATURATED TO 88% X1 WITH INCREASED STRIDOR--?CAUSE. NT SUCTIONED FOR SCANT AMOUNT SECRETIONS. BRONCH DONE. ? ET FISTULA, MINIMAL SECRETIONS. OFF FENTANYL GTT--NO PAIN. PASSED SWALLOW EVAL--TOLERATING REG. DIT--POOR APPETITE.
+
+NEURO: ALERT AND ORIENTED X2-3. MAE WELL. DENIES PAIN.
+
+CV: SR WITH FREQ PACS, SEVERAL BURSTS SELF-LIMITING AFIB. BP STABLE. TOELRATING PO LOPRESSOR--BETTER HR AND BP CONTROL ACHIEVED. PALP DP AND PT PULSES BILAT. TRACE EDEMA. 
+
+RESP: ON 4L TO 95% FACE TENT WITH HI-FLOW. DENIES SHORTNESS OF BREATH. LUNG SOUNDS CLEAR TO COARSE WITH EXP WHEEZING. NEBS AS ORDERED. WEAK COUGH--ENCOURAGING. 2 RIGHT CHEST TUBES TO 20 CM SUCTION. SEROSANG. DRAINAGE. NO AIR LEAK, + TIDALING, NO SCE. CHEST JP DRAIN WITH SEROSANG FLUID
+
+GI: ABD. ROUND, SOFT, + BOWEL SOUNDS. TOLERATING DIET WITHOUT ISSUES. POOR APPETITE AT THIS TIME--MORE INTERESTED IN DRINKING FLUIDS. CONTINENT SMALL AMOUNTS UNFORMED BROWN STOOL.
+
+GU: FOLEY WITH CLEAR YELLOW URINE.
+
+ENDO: COVERAGE WITH RISS AS ORDERED. 
+
+ID: AFEBRILE. CONT. ON UNASYN
+
+HEME: SQ HEPARIN, P BOOTS.
+
+SKIN: INTACT. ABDOMEN BRUISING AS NOTED IN CAREVUE. SURGICAL INCISION WITH DSD IN PLACE--NO OOZE NOTED. 
+",,
+24459,23415,30359,,3418-06-24 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3418-6-24**] 6:13 PM
+     CHEST (PORTABLE AP); -77 BY DIFFERENT PHYSICIAN                 [**Name Initial (PRE) 232**] # [**Clip Number (Radiology) 2685**]
+     Reason: s/p chest tube to water seal. Eval for pneumothorax.        
+     Admitting Diagnosis: EKG CHANGES
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      79 year old woman with history of cough and lung mass/abscess s/ right 
+      thoracotomy and upper/middle lobe resection.
+     REASON FOR THIS EXAMINATION:
+      s/p chest tube to water seal. Eval for pneumothorax.                            
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  79-year-old female with history of cough and lung mass/abscess,
+     status post thoracotomy and upper/middle lobe resection.  Chest tube recently
+     placed to water seal.  Evaluate for pneumothorax.
+     
+     COMPARISON:  AP upright portable chest x-ray dated [**3418-6-24**].
+     
+     AP UPRIGHT PORTABLE CHEST X-RAY:  Three right-sided chest tubes terminate
+     within right lung apex.  There is a mild interval increase in a right apical
+     pneumothorax contained within a loculated pleural effusion.  An additional
+     pleural effusion is identified within the right lung base.  These appear
+     stable from prior exam. [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 2686**]-[**Location (un) 2687**] drain is seen within the right axilla,
+     and surgical clips extend along the right breast. The left lung is grossly
+     clear without consolidations or effusions. The surrounding soft tissue and
+     osseous structures demonstrate severe scoliosis of the lumbar spine, concave
+     to the right.
+     
+     IMPRESSION:
+     1.  Mild interval increase in right apical pneumothorax.
+     2.  Stable appearance of right loculated pleural effusions.
+
+",,
+24459,23415,30359,,3418-06-24 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3418-6-24**] 8:01 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 2683**]
+     Reason: asses interval change                                       
+     Admitting Diagnosis: EKG CHANGES
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+              79 year old woman with history of cough and lung mass/abscess s/ right  
+          thoracotomy and upper/middle lobe resection.
+     REASON FOR THIS EXAMINATION:
+      asses interval change                                                           
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  History of cough and lung abscess.  To look for interval change.
+     
+     CHEST X-RAY, AP PORTABLE VIEW.
+     
+     COMPARISON:  [**3418-6-23**].
+     
+     FINDINGS:  Lines and tubes again remain in place.  The drain is seen in the
+     right axilla along with surgical staples within the right axilla.  Persistent
+     apical pneumothorax present on the right.  There is right basilar atelectasis
+     with elevation of right hemidiaphragm, which is also persistent.  Fibronodular
+     opacities are seen in the left upper lobe suggestive of old granulomatous
+     disease.
+     
+     IMPRESSION:  No significant interval change compared to the prior x-ray.
+                                                                           
+
+",,
+24459,23415,30359,,3418-06-24 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3418-6-24**] 10:15 AM
+     UNILAT UP EXT VEINS US LEFT PORT                                Clip # [**Clip Number (Radiology) 2684**]
+     Reason: Please evaluate for LUE DVT                                 
+     Admitting Diagnosis: EKG CHANGES
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      79 year old woman s/p thoracotomy now w/LUE swelling                            
+     REASON FOR THIS EXAMINATION:
+      Please evaluate for LUE DVT                                                     
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     DOPPLER ULTRASOUND STUDY OF LEFT UPPER LIMB VEINS
+     
+     FINDINGS:  The left upper limb veins are patent and compressible with phasic
+     venous flow.  The left internal jugular vein is also patent.
+     
+     CONCLUSION:  No left upper limb deep venous thrombosis demonstrated.
+                                                                           
+
+",,
+24459,23415,30359,,3418-06-24 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3418-6-24**] 6:13 PM
+     CHEST (PORTABLE AP); -77 BY DIFFERENT PHYSICIAN                 [**Name Initial (PRE) 232**] # [**Clip Number (Radiology) 2685**]
+     Reason: s/p chest tube to water seal. Eval for pneumothorax.        
+     Admitting Diagnosis: EKG CHANGES
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      79 year old woman with history of cough and lung mass/abscess s/ right 
+      thoracotomy and upper/middle lobe resection.
+     REASON FOR THIS EXAMINATION:
+      s/p chest tube to water seal. Eval for pneumothorax.                            
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  79-year-old female with history of cough and lung mass/abscess,
+     status post thoracotomy and upper/middle lobe resection.  Chest tube recently
+     placed to water seal.  Evaluate for pneumothorax.
+     
+     COMPARISON:  AP upright portable chest x-ray dated [**3418-6-24**].
+     
+     AP UPRIGHT PORTABLE CHEST X-RAY:  Three right-sided chest tubes terminate
+     within right lung apex.  There is a mild interval increase in a right apical
+     pneumothorax contained within a loculated pleural effusion.  An additional
+     pleural effusion is identified within the right lung base.  These appear
+     stable from prior exam. [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 2686**]-[**Location (un) 2687**] drain is seen within the right axilla,
+     and surgical clips extend along the right breast. The left lung is grossly
+     clear without consolidations or effusions. The surrounding soft tissue and
+     osseous structures demonstrate severe scoliosis of the lumbar spine, concave
+     to the right.
+     
+     IMPRESSION:
+     1.  Mild interval increase in right apical pneumothorax.
+     2.  Stable appearance of right loculated pleural effusions.
+
+",,
+24459,23415,30359,0,3418-06-24 04:02:00 EST,3418-06-24 04:10:00 EST,4422,"N",54,"Nursing/Other",,"
+
+ 
+ASSESSMENT AS NOTED
+
+RES: STABLE, MAINTAINS SAT>97 ON 2L NC, NO STRIDOR, NO WHEEZING, BOTH CT AND JP ARE INTACT, NO AIR LEAK OR SQ AIR WAS NOTED, MODERATE DRAINAGE FROM #1 CT.DENIES SOB. +PROD COUGH, ENCOURAGED TO COUGH 
+
+CV: ON LOPRESSOR 100 PO, IN NSR WITH SOME PACS, BP STABLE, A/LINE DAMPED AT TIMES,  + PULSES, TRACES OF EDEMA ON BOTH HANDS, 
+
+NEURO: INTACT
+
+GI: TELLS SHE IS THIRSTY AND TOLERATES CL LIQ  WELL(JUICE, WATER, TEA)
+DENIES NAUSEA OR ABD PAIN
+
+GU: BRISK U/U
+
+LABS: HCT-35, CA, K, MAG WERE REPLETED
+
+PLAN: CONT TO MONITOR RES/VENTILATION
+",,
+24459,23415,30359,0,3418-06-24 18:43:00 EST,3418-06-24 18:57:00 EST,4226,"N",54,"Nursing/Other",,"
+
+TSICU NPN 7A-7P:
+
+HEMODYNAMICALLY STABLE THROUGHOUT THE DAY. ALERT AND ORIENTED. AMBULATED TO CHAIR. SLIGHTLY DIZZY. ENCOURAGING COUGHING AND DEEP BREATHING. USING I.S TO 250CC. BACK TO BED. TOLERATING DIET--POOR APPETITE. ON 2L VIA NC. CHEST TUBES TO WATER SEAL. HR WITH NSR WITH FREQ PACS--SOME SELF-LIMITING RUNS. REMAINED HEMODYNAMICALLY SATABLE.
+CENTRAL LINE DISCONTINUED.
+
+AT 1730, HR TO 190S, RAPID AFIB. LOPRESSOR 5MG IV X2. PT HAD PO LOPRESSOR STILL ON BOARD. NO EFFECT. AMIODARONE BOLUS GIVEN. MINIMAL EFFECT, HR TO 140S WITH BURSTS TO 190S. BP DOWN TO 70S. DR. [**Initials (NamePattern4) **] [**Last Name (NamePattern4) **] IN ROOM THROUGHOUT THIS. NEW IV PLACED. LABS SENT. EKG AND CXR DONE. DECISION TO SEDATE PT WITH FENTANYL AND VERSED AND CARDIOVERT PATIENT. CARDIOVERTED EFFECTIVELY TO NSR WITH RARE PACS, RATE 70S-80S WITH 100J. PT TOLERATED WELL. REMAINS VERY DROWSY AT THIS TIME, ANSWERING QUESTIONS. O2 INCREASED TO 4L WITH SATS 96-98%. BP BACK IN THE 90S SYSTOLIC. 
+
+DR. [**Last Name (STitle) **] [**Name (STitle) 4626**] PLANNING TO CALL PT'S FAMILY AT THIS TIME--WILL TALK TO [**Doctor First Name **] IN THE MORNING.
+",,
+24459,23415,30359,,3418-06-25 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3418-6-25**] 8:44 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 2688**]
+     Reason: asses interval change                                       
+     Admitting Diagnosis: EKG CHANGES
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       79 year old woman with history of cough and lung mass/abscess s/ right  
+      thoracotomy and upper/middle lobe resection.
+     REASON FOR THIS EXAMINATION:
+      asses interval change                                                           
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATIONS:  Thoracotomy.  Hydropneumothorax.
+     
+     PORTABLE AP CHEST AT 9:05:  Comparison is made to [**6-24**] from 1841 hours. 
+     Two right apical chest tubes remain in unchanged position.  The loculated
+     hydropneumothorax is unchanged.  Overall, degree of remaining right lung
+     inflation is stable.  Left lung pulmonary vessels are slightly less engorged. 
+     Residual minor left lower lobe atelectasis.
+                                                                           
+
+",,
+24459,23415,30359,0,3418-06-25 05:26:00 EST,3418-06-25 05:44:00 EST,3510,"N",54,"Nursing/Other","t-sicu nsg note:","
+t-sicu nsg note:
+neuro- alert and oriented, moving around well in bed. fc. improving strength.
+
+resp- bs cta, diminished bases, strong nonproductive cough, sao2 98-1005 ON 4LNC. IS pulling VT 250cc.
+
+cvs- hr 57-80's nsr occ apc, remains on amiodarone gtt @ 0.5mg/min, sbp 110-160. labs pnd. ext pacing pads remain in place. r pct's to water seal,draining serosang sm amts, no air leak.
+
+gi- abd soft, +bs, +flatus, cont oozing sm amts dk brown loose stool. tol po fluids.
+
+gu- foley patent for clear yellow urine, ~20-30cc/hr.
+
+skin- abd hematoma unchanged, r thoracotomy staples intact and dry, ct dsg intact.
+
+endo- bs rx w/ riss.
+
+a: stable night
+
+p: monitor cvs per routine, follow labs, enc c+db, enc mobility. 
+",,
+24459,23415,,,3418-06-26 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+",,
+24459,23415,,,3418-06-26 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3418-6-26**] 3:56 PM
+     CHEST (PA & LAT)                                                Clip # [**Clip Number (Radiology) 2689**]
+     Reason: interval change in PTX/acute lung process                   
+     Admitting Diagnosis: EKG CHANGES
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        79 year old woman s/p RUL, RML, partial RLL lobectomy w/ CT on water seal     
+     REASON FOR THIS EXAMINATION:
+      interval change in PTX/acute lung process                                       
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATIONS:  Prior right upper and middle lobectomies.  Chest tube on water-
+     seal.
+     
+     AP AND LATERAL CHEST:  Comparison is made to [**3418-6-25**].  One of the right
+     apical chest tubes has been removed.  The remaining right apical chest tube
+     and surgical drain along the right chest wall are unchanged in location. There
+     is slight decrease in the size of the apical air pocket, and a very slight
+     increase in the degree of remaining right lower lobe expansion. Cardiac size
+     remains within normal limits.  There is improved aeration of the left lower
+     lobe, and a small left pleural effusion has decreased in size.
+     
+     IMPRESSION:  Slight decrease in size of apical air pocket of
+     hydropneumothorax.  Improved bilateral lobe aeration and decreased size of
+     left effusion.
+
+",,
+24459,23415,,,3418-06-27 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3418-6-27**] 3:44 PM
+     CHEST (PA & LAT)                                                Clip # [**Clip Number (Radiology) 2690**]
+     Reason: eval for pnuemo                                             
+     Admitting Diagnosis: EKG CHANGES
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+         79 year old woman s/p RUL, RML, partial RLL lobectomy w/ CT removed          
+     REASON FOR THIS EXAMINATION:
+      eval for pnuemo                                                                 
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Status post right upper lobe, right middle lobe, partial right lower
+     lobe lobectomy with chest tube removed, question pneumothorax.
+     
+     CHEST, TWO VIEWS:
+     
+     Compared with one day earlier, the chest tube has been removed.  A drain is
+     again seen overlying the right chest wall.  There are extensive surgical
+     changes on the right, with evidence of volume loss, including slight
+     mediastinal shift and elevation of the right hemidiaphragm.  There is
+     opacification in much of the right apex.  There is residual aerated lung in
+     the mid zone.  In addition, some rounded and oblong areas of lucency project
+     over the right apex and could represent residual air associated with the right
+     apical fluid.  These lucent areas at the right apex are slightly more
+     prominent than on the film from one day earlier.  Findings are consistent with
+     residual air at the site of pneumonectomy.  The left lung is hyperinflated,
+     consistent with COPD,  with scarring and subsegmental atelectasis.  Minimal
+     blunting of the left costophrenic angle.  No CHF or significant left-sided
+     effusion. No left pneumothorax.
+     
+     IMPRESSION:  Slight increase in the amount of air at the right lung apex,
+     status post removal of right chest tube.  Otherwise, no significant change
+     compared with one day earlier.  The lateral view shows air projecting
+     anteriorly, but this may be an artifact of positioning.
+
+",,
+24459,23415,,,3418-06-29 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3418-6-29**] 9:36 AM
+     CHEST (PA & LAT)                                                Clip # [**Clip Number (Radiology) 2691**]
+     Reason: ? interval change in R PTX/fluid                            
+     Admitting Diagnosis: EKG CHANGES
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+          79 year old woman s/p RUL, RML, partial RLL lobectomy w/ CT removed         
+       
+     REASON FOR THIS EXAMINATION:
+      ? interval change in R PTX/fluid                                                
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATIONS:  Evaluate change in pneumothorax/effusion.
+     
+     PA AND LATERAL CHEST:  Comparison is made to [**3418-6-27**].  External
+     JP drain along the right lateral chest wall is in unchanged position. Allowing
+     for slight differences in technique, the appearance of the loculated right
+     hydropneumothorax is unchanged.  The degree of expansion of the remaining
+     right lower lobe is also stable.  Left lung remains clear. Minimal upper lung
+     zone redistribution and blunting of the left CP angle. 
+     
+     IMPRESSION:  No significant change since [**3418-6-27**].
+
+",,
+24459,,,,3418-07-29 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     FDG TUMOR IMAGING (PET-CT)                                      Clip # [**Clip Number (Radiology) 2692**]
+     Reason: LUNG CA RESTAGING
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: A 79 y.o. woman with lung cancer, staging. 
+      
+     METHODS: Approximately 1 hour after intravenous administration of F-18   
+     fluorodeoxyglucose (FDG), noncontrast CT images were obtained for attenuation
+     correction and for fusion with emission PET images. [The noncontrast CT images
+     are not used to diagnose disease independently of the PET images.]  A series of
+     overlapping emission PET images was then obtained. The fasting blood glucose
+     level, measured by glucometer before injection of FDG, was    106
+     milligram/deciliter. The area imaged spanned the region from the  skull base  to
+       the thigh. 
+       
+     Computed tomography (CT) images were co-registered and fused with emission PET
+     images to assist with the anatomic localization of tracer uptake.  The
+     determination of the site of tracer uptake seen on PET data can have important
+     implications regarding the significance of that uptake.  
+      
+     INTERPRETATION: 
+     There is focal symmetric abnormal uptake of FDG with SUV 4.3-6.4, in bilateral
+     supraclavicular areas, corresponding to the muscles. 
+      
+     The patient is s/p right upper, middle and partial lower lobectomy with
+     post-surgical changes and pleural thickening and effusion. Note is made of mild
+     FDG uptake along the chest wall on the right, with SUV 2.0-2.4, corresponding to
+     the post-surgical changes. 
+      
+     There is focal abnormal uptake of FDG in right anterior apex, with SUV of 6.3,
+     worrisome for residual tumor or residual inflammation vs. infection. There is
+     focal abnormal uptake of FDG in right anterior and lateral pleura with SUV
+     3.0-3.2.  
+      
+     There is focal abnormal uptake of FDG in right pericardial area, with SUV 2.8,
+     which may represent pericardial lymph node or residual soft tissue. 
+      
+     There is focal abnormal uptake of FDG in right paratrachea with SUV of 2.9, and
+     in the subcarina with SUV of 2.9, which probably correspond to lymph nodes. 
+      
+     Note is made of focal FDG uptake posterior to trachea at the level of thoracic
+     inlet, with SUV 4.4, which may be due to recent intubation. 
+      
+     There is focal abnormal uptake of FDG in mid pelvis, with SUV of 5.2, either
+     within or adjacent to small bowel, of unknown etiology. 
+      
+     There is focal abnormal uptake of FDG in C1 vertebral body, with SUV 4.9,
+     worrisome for metastasis. Note is made of focal FDG uptake in right posterior
+     element of C4, with SUV 2.5, which may due to degeneration, or alternatively,
+     small metastasis. There is a sclerotic area in the right ilium, without FDG
+     avidity. 
+      
+                                                                 (Over)
+
+     FDG TUMOR IMAGING (PET-CT)                                      Clip # [**Clip Number (Radiology) 2692**]
+     Reason: LUNG CA RESTAGING
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     Physiologic uptake is seen in the myocardium, liver and GI tract. 
+       
+     IMPRESSION: 
+       1. Mild FDG uptake along the chest wall on the right, with SUV 2.0-2.4,
+     corresponding to the post-surgical changes. 
+       2. Focal abnormal uptake of FDG in right anterior apex, with SUV of 6.3,
+     worrisome for residual tumor or residual inflammation vs. infection.  
+       3. Focal abnormal uptake of FDG in right anterior and lateral pleura with SUV
+     3.0-3.2.  
+       4. Focal abnormal uptake of FDG in right pericardial area, with SUV 2.8, which
+     may represent pericardial lymph node or residual soft tissue. 
+       5. Focal abnormal uptake of FDG in right paratrachea with SUV of 2.9, and in
+     the subcarina with SUV of 2.9, which probably correspond to lymph nodes. 
+       6. Focal FDG uptake posterior to trachea at the level of thoracic inlet, with
+     SUV 4.4, which may be due to recent intubation. 
+       7. Focal abnormal uptake of FDG in mid pelvis, with SUV of 5.2, either within
+     or adjacent to small bowel, of unknown etiology. 
+       8. Focal abnormal uptake of FDG in C1 vertebral body, with SUV 4.9, worrisome
+     for metastasis.  
+       9. Focal FDG uptake in right posterior element of C4, with SUV 2.5, which may
+     due to degeneration, or alternatively, small metastasis. 
+      
+                                                                           
+
+             [**Name6 (MD) 1627**] [**Name8 (MD) 1628**], M.D.
+             [**First Name11 (Name Pattern1) 365**] [**Last Name (NamePattern1) 366**], M.D.        Approved: WED [**3418-7-29**] 4:09 PM
+
+
+             Date Mailed: [**3418-7-30**]                     West [**Medical Record Number 2671**]
+
+
+
+               RADLINE [**Telephone/Fax (1) 115**]; A radiology consult service.
+            To hear preliminary results, prior to transcription, call the
+                           Radiology Listen Line [**Telephone/Fax (1) 116**].
+
+",,
+24459,,,,3418-07-29 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3418-7-29**] 6:19 AM
+     MR HEAD W & W/O CONTRAST; MR CONTRAST GADOLIN                   Clip # [**Clip Number (Radiology) 2693**]
+     Reason: please eval for ? metastatic disease                        
+      Contrast: MAGNEVIST Amt: 8
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      79 year old woman with bronchoalveolar lung cancer                              
+     REASON FOR THIS EXAMINATION:
+      please eval for ? metastatic disease                                            
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     TECHNIQUE:  Multiplanar T1 - and T2-weighted sequences were obtained through
+     the brain with multiplanar post-gadolinium T1 imaging, diffusion-weighted
+     imaging and ADC mapping.
+     
+     FINDINGS:  There are some foci of increased T2 signal within the
+     periventricular white matter, most consistent with chronic microvascular
+     ischemic changes.  There is no evidence of an enhancing lesion.  There is no
+     mass effect, hydrocephalus, and no midline shift.  There are no areas of slow
+     diffusion to indicate an acute infarct.  No abnormal susceptibility artifact
+     is identified.  Normal vascular flow voids are present.
+     
+     IMPRESSION:  No evidence of metastatic disease.  Chronic microvascular
+     ischemic changes.
+                                                                           
+
+",,
+24459,,,,3418-07-29 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3418-7-29**] 6:19 AM
+     MR HEAD W & W/O CONTRAST; MR CONTRAST GADOLIN                   Clip # [**Clip Number (Radiology) 2693**]
+     Reason: please eval for ? metastatic disease                        
+      Contrast: MAGNEVIST Amt: 8
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      79 year old woman with bronchoalveolar lung cancer                              
+     REASON FOR THIS EXAMINATION:
+      please eval for ? metastatic disease                                            
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     TECHNIQUE:  Multiplanar T1 - and T2-weighted sequences were obtained through
+     the brain with multiplanar post-gadolinium T1 imaging, diffusion-weighted
+     imaging and ADC mapping.
+     
+     FINDINGS:  There are some foci of increased T2 signal within the
+     periventricular white matter, most consistent with chronic microvascular
+     ischemic changes.  There is no evidence of an enhancing lesion.  There is no
+     mass effect, hydrocephalus, and no midline shift.  There are no areas of slow
+     diffusion to indicate an acute infarct.  No abnormal susceptibility artifact
+     is identified.  Normal vascular flow voids are present.
+     
+     IMPRESSION:  No evidence of metastatic disease.  Chronic microvascular
+     ischemic changes.
+                                                                           
+
+",,
+24459,,,,3418-08-13 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3418-8-13**] 1:18 PM
+     CHEST (PA & LAT)                                                Clip # [**Clip Number (Radiology) 2694**]
+     Reason: follow up right thoracotomy
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+          79 year old woman s/p RUL, RML, partial RLL lobectomy w/ CT removed        
+     REASON FOR THIS EXAMINATION:
+      follow up right thoracotomy
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     TWO-VIEW CHEST, [**3418-8-13**]
+     
+     COMPARISON:  [**3418-6-29**].
+     
+     INDICATION:  Status post partial resection of right lung.  Followup
+     thoracotomy.
+     
+     There is stable postoperative volume loss in the right hemithorax.  A
+     moderate-to-large right pleural fluid collection persists, most pronounced at
+     the right apex.  The previously present collections of air within the apical
+     fluid collection have resolved in the interval.  Linear scarring is noted
+     adjacent to surgical chain sutures within the right mid lung region. 
+     Left-sided mediastinal contours as well as the cardiac contour on the left are
+     within normal limits and stable.  A few calcified granulomas are incidentally
+     noted at the left apex, and there is minimal stable interstitial abnormality
+     at the left base.  A small left pleural effusion is also stable in the
+     interval.
+     
+     IMPRESSION:  Stable right-sided pleural opacities, but interval resolution of
+     the loculated collections of gas at the right apex.
+     
+     Please note that correlative FDG PET study of [**3418-7-29**] reveals that
+     a muscle flap contributes in part to the observed right apical opacity on
+     CXR.
+     
+
+",,
+24459,,,,3418-09-02 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3418-9-2**] 7:35 AM
+     CT CHEST W/CONTRAST; CT ABD W&W/O C                             Clip # [**Clip Number (Radiology) 2695**]
+     CT PELVIS W/CONTRAST; CT 150CC NONIONIC CONTRAST
+     Reason: please compare for interval change                          
+     Field of view: 30 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL ADDENDUM
+     CT OF THE ABDOMEN:
+     
+     ADDENDUM:  Per request of oncologist, oncology table was created.  Two target
+     lesions were re-measured, which yielded 11 x 9 mm and 11 x 10 mm, which are
+     recorded in the oncology table.
+                                                                           
+
+
+     DATE: [**3418-9-2**] 7:35 AM
+     CT CHEST W/CONTRAST; CT ABD W&W/O C                             Clip # [**Clip Number (Radiology) 2695**]
+     CT PELVIS W/CONTRAST; CT 150CC NONIONIC CONTRAST
+     Reason: please compare for interval change                          
+     Field of view: 30 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      79 year old woman with lung ca (adenocarcinoma with mucinous features) with ? 
+      thoracic spine mets noted on PET CT in Aug
+     REASON FOR THIS EXAMINATION:
+      please compare for interval change                                              
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CT CHEST, ABDOMEN, PELVIS
+     
+     INDICATION:  A 79-year-old woman with lung cancer, question thoracic spine
+     mets.
+     
+     COMPARISON:  [**7-29**] PET CT.
+     
+     TECHNIQUE:  Multidetector axial images were acquired from the thoracic inlet
+     through the pubic symphysis without and after the administration of Optiray
+     contrast.  Coronal and sagittal reformations were obtained and viewed.
+     
+     CT OF THE CHEST WITH CONTRAST:  In soft tissue windows, there is a pleural-
+     based soft tissue mass in the right apex that may have a portion extending
+     into the chest wall.  This corresponds to an area of FDG avidity seen on the
+     PET scan.  This area appears to have slightly progressed in the interval.
+     There are also two right rib metastases.  In the right lower lobe, there is a
+     small effusion.  There is also pleural thickening in the right base that
+     likely represents malignancy.  There is no axillary lymphadenopathy. Besides
+     the pleural thickening abutting the mediastinum, there are no definite
+     enlarged lymph nodes within the mediastinum.  The heart and great vessels are
+     unremarkable.
+     
+     In the lung windows, there are multiple pulmonary nodules visible in the left
+     lung.  There are at least six nodules with the largest in the left lower lobe
+     measuring 9 mm in diameter.  These nodules are either larger or newly
+     identified from the comparison study and represent progression of disease.
+     
+     CT OF THE ABDOMEN WITH CONTRAST:  There are multiple hypodense lesions in the
+     liver that are too small to characterize but likely represent simple cysts.
+     All but one of these lesions are visible on prior studies and are unchanged.
+     The remaining lesion that is not visible was not imaged.  The gallbladder is
+     normal.  The pancreas, spleen, and adrenal glands are normal.  The right
+     kidney contains a small 7-mm hypodense lesion that is too small to
+     characterize but likely represents a simple cyst.  The left kidney is normal.
+     There is no mesenteric or retroperitoneal lymphadenopathy.  The large and
+     small bowel loops are of normal caliber.
+     
+     CT OF THE PELVIS WITH CONTRAST:  The rectum and sigmoid colon are
+     unremarkable.  The uterus is normal size with no adnexal masses identified.
+     There is no free fluid in the pelvis.  There is no pelvic lymphadenopathy.
+                                                                 (Over)
+
+     DATE: [**3418-9-2**] 7:35 AM
+     CT CHEST W/CONTRAST; CT ABD W&W/O C                             Clip # [**Clip Number (Radiology) 2695**]
+     CT PELVIS W/CONTRAST; CT 150CC NONIONIC CONTRAST
+     Reason: please compare for interval change                          
+     Field of view: 30 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     
+     BONE WINDOWS:  There is a sclerotic lesion in the left iliac [**Doctor First Name 84**] that is
+     unchanged from the PET CT in August and this lesion did not take up activity.
+     This may represent a sclerotic bone metastasis or a large bone island.  There
+     is significant degenerative disease of the lumbar spine.  There are two
+     identified right rib metastases.  No lytic or sclerotic lesions are identified
+     in the thoracic spine.
+     
+     IMPRESSION:  Interval progression of disease with multiple enlarging and new
+     left pulmonary nodules as well as progression of pleural-based right apical
+     and right lung base disease.  Stable rib metastases and sclerotic left iliac
+     lesion.
+     
+     
+
+",,
+24459,,,,3418-09-02 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3418-9-2**] 7:35 AM
+     CT CHEST W/CONTRAST; CT ABD W&W/O C                             Clip # [**Clip Number (Radiology) 2695**]
+     CT PELVIS W/CONTRAST; CT 150CC NONIONIC CONTRAST
+     Reason: please compare for interval change                          
+     Field of view: 30 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL ADDENDUM
+     CT OF THE ABDOMEN:
+     
+     ADDENDUM:  Per request of oncologist, oncology table was created.  Two target
+     lesions were re-measured, which yielded 11 x 9 mm and 11 x 10 mm, which are
+     recorded in the oncology table.
+                                                                           
+
+
+     DATE: [**3418-9-2**] 7:35 AM
+     CT CHEST W/CONTRAST; CT ABD W&W/O C                             Clip # [**Clip Number (Radiology) 2695**]
+     CT PELVIS W/CONTRAST; CT 150CC NONIONIC CONTRAST
+     Reason: please compare for interval change                          
+     Field of view: 30 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      79 year old woman with lung ca (adenocarcinoma with mucinous features) with ? 
+      thoracic spine mets noted on PET CT in Aug
+     REASON FOR THIS EXAMINATION:
+      please compare for interval change                                              
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CT CHEST, ABDOMEN, PELVIS
+     
+     INDICATION:  A 79-year-old woman with lung cancer, question thoracic spine
+     mets.
+     
+     COMPARISON:  [**7-29**] PET CT.
+     
+     TECHNIQUE:  Multidetector axial images were acquired from the thoracic inlet
+     through the pubic symphysis without and after the administration of Optiray
+     contrast.  Coronal and sagittal reformations were obtained and viewed.
+     
+     CT OF THE CHEST WITH CONTRAST:  In soft tissue windows, there is a pleural-
+     based soft tissue mass in the right apex that may have a portion extending
+     into the chest wall.  This corresponds to an area of FDG avidity seen on the
+     PET scan.  This area appears to have slightly progressed in the interval.
+     There are also two right rib metastases.  In the right lower lobe, there is a
+     small effusion.  There is also pleural thickening in the right base that
+     likely represents malignancy.  There is no axillary lymphadenopathy. Besides
+     the pleural thickening abutting the mediastinum, there are no definite
+     enlarged lymph nodes within the mediastinum.  The heart and great vessels are
+     unremarkable.
+     
+     In the lung windows, there are multiple pulmonary nodules visible in the left
+     lung.  There are at least six nodules with the largest in the left lower lobe
+     measuring 9 mm in diameter.  These nodules are either larger or newly
+     identified from the comparison study and represent progression of disease.
+     
+     CT OF THE ABDOMEN WITH CONTRAST:  There are multiple hypodense lesions in the
+     liver that are too small to characterize but likely represent simple cysts.
+     All but one of these lesions are visible on prior studies and are unchanged.
+     The remaining lesion that is not visible was not imaged.  The gallbladder is
+     normal.  The pancreas, spleen, and adrenal glands are normal.  The right
+     kidney contains a small 7-mm hypodense lesion that is too small to
+     characterize but likely represents a simple cyst.  The left kidney is normal.
+     There is no mesenteric or retroperitoneal lymphadenopathy.  The large and
+     small bowel loops are of normal caliber.
+     
+     CT OF THE PELVIS WITH CONTRAST:  The rectum and sigmoid colon are
+     unremarkable.  The uterus is normal size with no adnexal masses identified.
+     There is no free fluid in the pelvis.  There is no pelvic lymphadenopathy.
+                                                                 (Over)
+
+     DATE: [**3418-9-2**] 7:35 AM
+     CT CHEST W/CONTRAST; CT ABD W&W/O C                             Clip # [**Clip Number (Radiology) 2695**]
+     CT PELVIS W/CONTRAST; CT 150CC NONIONIC CONTRAST
+     Reason: please compare for interval change                          
+     Field of view: 30 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     
+     BONE WINDOWS:  There is a sclerotic lesion in the left iliac [**Doctor First Name 84**] that is
+     unchanged from the PET CT in August and this lesion did not take up activity.
+     This may represent a sclerotic bone metastasis or a large bone island.  There
+     is significant degenerative disease of the lumbar spine.  There are two
+     identified right rib metastases.  No lytic or sclerotic lesions are identified
+     in the thoracic spine.
+     
+     IMPRESSION:  Interval progression of disease with multiple enlarging and new
+     left pulmonary nodules as well as progression of pleural-based right apical
+     and right lung base disease.  Stable rib metastases and sclerotic left iliac
+     lesion.
+     
+     
+
+",,
+24459,,,,3418-09-02 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3418-9-2**] 7:35 AM
+     CT CHEST W/CONTRAST; CT ABD W&W/O C                             Clip # [**Clip Number (Radiology) 2695**]
+     CT PELVIS W/CONTRAST; CT 150CC NONIONIC CONTRAST
+     Reason: please compare for interval change                          
+     Field of view: 30 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL ADDENDUM
+     CT OF THE ABDOMEN:
+     
+     ADDENDUM:  Per request of oncologist, oncology table was created.  Two target
+     lesions were re-measured, which yielded 11 x 9 mm and 11 x 10 mm, which are
+     recorded in the oncology table.
+                                                                           
+
+
+     DATE: [**3418-9-2**] 7:35 AM
+     CT CHEST W/CONTRAST; CT ABD W&W/O C                             Clip # [**Clip Number (Radiology) 2695**]
+     CT PELVIS W/CONTRAST; CT 150CC NONIONIC CONTRAST
+     Reason: please compare for interval change                          
+     Field of view: 30 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      79 year old woman with lung ca (adenocarcinoma with mucinous features) with ? 
+      thoracic spine mets noted on PET CT in Aug
+     REASON FOR THIS EXAMINATION:
+      please compare for interval change                                              
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CT CHEST, ABDOMEN, PELVIS
+     
+     INDICATION:  A 79-year-old woman with lung cancer, question thoracic spine
+     mets.
+     
+     COMPARISON:  [**7-29**] PET CT.
+     
+     TECHNIQUE:  Multidetector axial images were acquired from the thoracic inlet
+     through the pubic symphysis without and after the administration of Optiray
+     contrast.  Coronal and sagittal reformations were obtained and viewed.
+     
+     CT OF THE CHEST WITH CONTRAST:  In soft tissue windows, there is a pleural-
+     based soft tissue mass in the right apex that may have a portion extending
+     into the chest wall.  This corresponds to an area of FDG avidity seen on the
+     PET scan.  This area appears to have slightly progressed in the interval.
+     There are also two right rib metastases.  In the right lower lobe, there is a
+     small effusion.  There is also pleural thickening in the right base that
+     likely represents malignancy.  There is no axillary lymphadenopathy. Besides
+     the pleural thickening abutting the mediastinum, there are no definite
+     enlarged lymph nodes within the mediastinum.  The heart and great vessels are
+     unremarkable.
+     
+     In the lung windows, there are multiple pulmonary nodules visible in the left
+     lung.  There are at least six nodules with the largest in the left lower lobe
+     measuring 9 mm in diameter.  These nodules are either larger or newly
+     identified from the comparison study and represent progression of disease.
+     
+     CT OF THE ABDOMEN WITH CONTRAST:  There are multiple hypodense lesions in the
+     liver that are too small to characterize but likely represent simple cysts.
+     All but one of these lesions are visible on prior studies and are unchanged.
+     The remaining lesion that is not visible was not imaged.  The gallbladder is
+     normal.  The pancreas, spleen, and adrenal glands are normal.  The right
+     kidney contains a small 7-mm hypodense lesion that is too small to
+     characterize but likely represents a simple cyst.  The left kidney is normal.
+     There is no mesenteric or retroperitoneal lymphadenopathy.  The large and
+     small bowel loops are of normal caliber.
+     
+     CT OF THE PELVIS WITH CONTRAST:  The rectum and sigmoid colon are
+     unremarkable.  The uterus is normal size with no adnexal masses identified.
+     There is no free fluid in the pelvis.  There is no pelvic lymphadenopathy.
+                                                                 (Over)
+
+     DATE: [**3418-9-2**] 7:35 AM
+     CT CHEST W/CONTRAST; CT ABD W&W/O C                             Clip # [**Clip Number (Radiology) 2695**]
+     CT PELVIS W/CONTRAST; CT 150CC NONIONIC CONTRAST
+     Reason: please compare for interval change                          
+     Field of view: 30 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     
+     BONE WINDOWS:  There is a sclerotic lesion in the left iliac [**Doctor First Name 84**] that is
+     unchanged from the PET CT in August and this lesion did not take up activity.
+     This may represent a sclerotic bone metastasis or a large bone island.  There
+     is significant degenerative disease of the lumbar spine.  There are two
+     identified right rib metastases.  No lytic or sclerotic lesions are identified
+     in the thoracic spine.
+     
+     IMPRESSION:  Interval progression of disease with multiple enlarging and new
+     left pulmonary nodules as well as progression of pleural-based right apical
+     and right lung base disease.  Stable rib metastases and sclerotic left iliac
+     lesion.
+     
+     
+
+",,
+24459,,,,3418-09-02 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3418-9-2**] 7:35 AM
+     CT CHEST W/CONTRAST; CT ABD W&W/O C                             Clip # [**Clip Number (Radiology) 2695**]
+     CT PELVIS W/CONTRAST; CT 150CC NONIONIC CONTRAST
+     Reason: please compare for interval change                          
+     Field of view: 30 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL ADDENDUM
+     CT OF THE ABDOMEN:
+     
+     ADDENDUM:  Per request of oncologist, oncology table was created.  Two target
+     lesions were re-measured, which yielded 11 x 9 mm and 11 x 10 mm, which are
+     recorded in the oncology table.
+                                                                           
+
+
+     DATE: [**3418-9-2**] 7:35 AM
+     CT CHEST W/CONTRAST; CT ABD W&W/O C                             Clip # [**Clip Number (Radiology) 2695**]
+     CT PELVIS W/CONTRAST; CT 150CC NONIONIC CONTRAST
+     Reason: please compare for interval change                          
+     Field of view: 30 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      79 year old woman with lung ca (adenocarcinoma with mucinous features) with ? 
+      thoracic spine mets noted on PET CT in Aug
+     REASON FOR THIS EXAMINATION:
+      please compare for interval change                                              
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CT CHEST, ABDOMEN, PELVIS
+     
+     INDICATION:  A 79-year-old woman with lung cancer, question thoracic spine
+     mets.
+     
+     COMPARISON:  [**7-29**] PET CT.
+     
+     TECHNIQUE:  Multidetector axial images were acquired from the thoracic inlet
+     through the pubic symphysis without and after the administration of Optiray
+     contrast.  Coronal and sagittal reformations were obtained and viewed.
+     
+     CT OF THE CHEST WITH CONTRAST:  In soft tissue windows, there is a pleural-
+     based soft tissue mass in the right apex that may have a portion extending
+     into the chest wall.  This corresponds to an area of FDG avidity seen on the
+     PET scan.  This area appears to have slightly progressed in the interval.
+     There are also two right rib metastases.  In the right lower lobe, there is a
+     small effusion.  There is also pleural thickening in the right base that
+     likely represents malignancy.  There is no axillary lymphadenopathy. Besides
+     the pleural thickening abutting the mediastinum, there are no definite
+     enlarged lymph nodes within the mediastinum.  The heart and great vessels are
+     unremarkable.
+     
+     In the lung windows, there are multiple pulmonary nodules visible in the left
+     lung.  There are at least six nodules with the largest in the left lower lobe
+     measuring 9 mm in diameter.  These nodules are either larger or newly
+     identified from the comparison study and represent progression of disease.
+     
+     CT OF THE ABDOMEN WITH CONTRAST:  There are multiple hypodense lesions in the
+     liver that are too small to characterize but likely represent simple cysts.
+     All but one of these lesions are visible on prior studies and are unchanged.
+     The remaining lesion that is not visible was not imaged.  The gallbladder is
+     normal.  The pancreas, spleen, and adrenal glands are normal.  The right
+     kidney contains a small 7-mm hypodense lesion that is too small to
+     characterize but likely represents a simple cyst.  The left kidney is normal.
+     There is no mesenteric or retroperitoneal lymphadenopathy.  The large and
+     small bowel loops are of normal caliber.
+     
+     CT OF THE PELVIS WITH CONTRAST:  The rectum and sigmoid colon are
+     unremarkable.  The uterus is normal size with no adnexal masses identified.
+     There is no free fluid in the pelvis.  There is no pelvic lymphadenopathy.
+                                                                 (Over)
+
+     DATE: [**3418-9-2**] 7:35 AM
+     CT CHEST W/CONTRAST; CT ABD W&W/O C                             Clip # [**Clip Number (Radiology) 2695**]
+     CT PELVIS W/CONTRAST; CT 150CC NONIONIC CONTRAST
+     Reason: please compare for interval change                          
+     Field of view: 30 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     
+     BONE WINDOWS:  There is a sclerotic lesion in the left iliac [**Doctor First Name 84**] that is
+     unchanged from the PET CT in August and this lesion did not take up activity.
+     This may represent a sclerotic bone metastasis or a large bone island.  There
+     is significant degenerative disease of the lumbar spine.  There are two
+     identified right rib metastases.  No lytic or sclerotic lesions are identified
+     in the thoracic spine.
+     
+     IMPRESSION:  Interval progression of disease with multiple enlarging and new
+     left pulmonary nodules as well as progression of pleural-based right apical
+     and right lung base disease.  Stable rib metastases and sclerotic left iliac
+     lesion.
+     
+     
+
+",,
+24459,,,,3418-09-18 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3418-9-18**] 8:15 AM
+     CT HEAD W/ CONTRAST; CT 100CC NON IONIC CONTRAST                Clip # [**Clip Number (Radiology) 2698**]
+     Reason: H/O LUNG CA.
+      Contrast: OPTIRAY Amt: 100
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      79 year old woman with lung ca (adenocarcinoma with mucinous features) needs CT 
+      head to eval for ?brain mets as eligibilty testing for clinical trial
+     REASON FOR THIS EXAMINATION:
+      eval for metastatic disease                                                     
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  79-year-old female with history of lung cancer requiring CT head
+     to evaluate for brain mets.
+     
+     TECHNIQUE:  Contiguous axial CT images were obtained from the skull base to
+     the vertex with the administration of IV contrast.
+     
+     COMPARISONS:  Comparison was made to MR head from [**3418-7-29**].
+     
+     FINDINGS:  There is no evidence of intra- or extra-axial hemorrhage, mass
+     effect, shift of normally midline structures, or hydrocephalus.  No enhancing
+     lesions are identified.  There is a hypoattenuation identified within the
+     periventricular white matter of both cerebral hemispheres, consistent with
+     chronic microvascular ischemia.  Osseous windows reveal a lucent lesion in the
+     diploe of the right frontal bone, which corresponds to an area of
+     heterogeneous signal on the prior CT.  Although this finding may a represent a
+     venous leak, the possibility of metastatic bony lesion cannot be excluded.
+     Please correlate clinically and with scheduled bone scan.  Scout images show
+     that atlantoaxial association with a gap of 5.5 mm of unknown acuity.
+     Recommend followup with MR of the cervical spine or flexion, extension
+     radiographs.
+     
+     IMPRESSION:
+     1.  No evidence of intracranial hemorrhage or enhancing mass.
+     2.  Focal lucency within the right frontal bone, which may represent a
+     vascular leak; however, given the heterogeneous signal seen on prior MR,
+     metastatic lesions cannot be excluded.  Please correlate with the scheduled
+     bone scan.
+     3.  Atlantoaxial widening of unknown etiology.  Recommend followup MR cervical
+     spine flexions/extension radiographs.
+     
+
+",,
+24459,,,,3418-09-18 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3418-9-18**] 8:15 AM
+     CT HEAD W/ CONTRAST; CT 100CC NON IONIC CONTRAST                Clip # [**Clip Number (Radiology) 2698**]
+     Reason: H/O LUNG CA.
+      Contrast: OPTIRAY Amt: 100
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      79 year old woman with lung ca (adenocarcinoma with mucinous features) needs CT 
+      head to eval for ?brain mets as eligibilty testing for clinical trial
+     REASON FOR THIS EXAMINATION:
+      eval for metastatic disease                                                     
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  79-year-old female with history of lung cancer requiring CT head
+     to evaluate for brain mets.
+     
+     TECHNIQUE:  Contiguous axial CT images were obtained from the skull base to
+     the vertex with the administration of IV contrast.
+     
+     COMPARISONS:  Comparison was made to MR head from [**3418-7-29**].
+     
+     FINDINGS:  There is no evidence of intra- or extra-axial hemorrhage, mass
+     effect, shift of normally midline structures, or hydrocephalus.  No enhancing
+     lesions are identified.  There is a hypoattenuation identified within the
+     periventricular white matter of both cerebral hemispheres, consistent with
+     chronic microvascular ischemia.  Osseous windows reveal a lucent lesion in the
+     diploe of the right frontal bone, which corresponds to an area of
+     heterogeneous signal on the prior CT.  Although this finding may a represent a
+     venous leak, the possibility of metastatic bony lesion cannot be excluded.
+     Please correlate clinically and with scheduled bone scan.  Scout images show
+     that atlantoaxial association with a gap of 5.5 mm of unknown acuity.
+     Recommend followup with MR of the cervical spine or flexion, extension
+     radiographs.
+     
+     IMPRESSION:
+     1.  No evidence of intracranial hemorrhage or enhancing mass.
+     2.  Focal lucency within the right frontal bone, which may represent a
+     vascular leak; however, given the heterogeneous signal seen on prior MR,
+     metastatic lesions cannot be excluded.  Please correlate with the scheduled
+     bone scan.
+     3.  Atlantoaxial widening of unknown etiology.  Recommend followup MR cervical
+     spine flexions/extension radiographs.
+     
+
+",,
+24459,,,,3418-09-18 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     BONE SCAN                                                       Clip # [**Clip Number (Radiology) 2696**]
+     Reason: RECENTLY DIAGNOSED BRONCHOALVEOLAR LUNG CA; EVAL FOR ? BONY METS
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  79-year-old woman with recently diagnosed bronchoalveolar lung cancer
+     (BAC).   Evaluate for bony metastases.  
+       
+     INTERPRETATION:  Whole body images of the skeleton were obtained in anterior and
+     posterior projections. There is a focal area of increased tracer uptake seen at
+     the approximate level of T1 that corresponds to FDG avid lesion seen on prior 
+     PET-CT, concerning for metastasis.   
+       
+     There are multiple areas of increased focal uptake seen in the right chest wall
+     which may correspond to post surgical changes, as seen on prior PET-CT.   
+       
+     There is also bilateral increased tracer uptake in the shoulders, with slightly
+     greater uptake on the left that may represent degenerative changes, but
+     metastatic disease cannot be ruled out. 
+      
+     Severe scoliosis is seen with leftward convexity and apex in the upper lumbar
+     spine.  
+       
+     The kidneys and urinary bladder are visualized, the normal route of tracer
+     excretion.  
+       
+     IMPRESSION:  
+       1. Increased tracer uptake at the approximate level of T1 that, with given
+     history of lung cancer, is concerning for metastatic disease. Corraborated with
+     PET-CT.  
+       2. Focal areas of increased uptake in the right chest wall that may correspond
+     to post surgical changes. 
+       3. Left greater than right increased shoulder uptake, which may represent
+     degenerative changes, but a metastatic lesion cannot be ruled out. 
+       4. Severe scoliosis, as described above.  
+                                                                           
+
+             [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 2697**], M.D.
+             [**Initials (NamePattern4) 111**] [**Last Name (NamePattern4) 112**] [**Last Name (NamePattern1) 113**], M.D.     Approved: TUE [**3418-9-22**] 8:51 AM
+
+
+             Date Mailed: [**3418-9-23**]                     West [**Medical Record Number 2671**]
+
+
+
+               RADLINE [**Telephone/Fax (1) 115**]; A radiology consult service.
+            To hear preliminary results, prior to transcription, call the
+                           Radiology Listen Line [**Telephone/Fax (1) 116**].
+
+",,
+24459,,,,3418-09-24 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+",,
+24459,,,,3418-10-20 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3418-10-20**] 8:49 AM
+     C-SPINE FLEX AND EXT ONLY 2 VIEWS                               Clip # [**Clip Number (Radiology) 2699**]
+     Reason: please eval for ?abnormality in C spine.                    
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      79 year old woman with NSCLC, with abnormality noted on C spine on recent head 
+      CT. Pt without neck pain
+     REASON FOR THIS EXAMINATION:
+      please eval for ?abnormality in C spine.                                        
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  79-year-old woman with atlantoaxial dissociation seen on recent head
+     CT presents for follow-up.
+     
+     FINDINGS:
+     
+     Two lateral flexion views and a lateral extension view of the cervical spine
+     were obtained and compared with CT of the head, [**3418-9-18**].  On the
+     flexion views, there is approximately 4-mm atlantoaxial dissociation, which
+     corrects to the normal range on the extension view.  No fracture is
+     identified.  There is extensive degenerative change of the cervical spine with
+     anterior osteophyte formation as well as straightening and reversal of the
+     cervical lordosis.  Degenerative disc disease is noted at the C3-C4 and C4-C5
+     levels.  The vertebral body heights are preserved.  There is 2 mm of
+     anterolisthesis of C5 over C6.  Surrounding soft tissues are unremarkable.
+     
+     IMPRESSION:  4-mm atlantoaxial dissociation on flexion consistent with
+     ligamentous laxity.  Extensive degenerative change of the cervical spine.
+     Slight anterolisthesis of C5 over C6.
+     
+     
+
+",,
+24459,,,,3418-11-17 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3418-11-17**] 7:24 AM
+     CT ABD W&W/O C; CT CHEST W/CONTRAST                             Clip # [**Clip Number (Radiology) 2700**]
+     CT PELVIS W/CONTRAST; CT 150CC NONIONIC CONTRAST
+     Reason:  Torso CT for assessment of CA disease progression. , Pt is 
+     Field of view: 30 Contrast: OPTIRAY Amt: 
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      80 year old woman with Adenocarcinoma of the Lung
+     REASON FOR THIS EXAMINATION:
+       Torso CT for assessment of CA disease progression. 
+      Pt is on study: Include [**Hospital1 **]-dimensial oncology table comparing to . 
+      baseline target lesions. 
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  80-year-old woman with lung cancer.
+     
+     TECHNIQUE:  Contiguous axial CT images of the upper abdomen were obtained
+     without the administration of IV contrast [**Doctor Last Name 92**].  Contiguous axial images of
+     the chest, abdomen, and pelvis were obtained with the administration of IV
+     contrast [**Doctor Last Name 92**], 150 cc of Optiray.  Multiplanar reformation images are
+     reconstructed.
+     
+     COMPARISON:  Comparison was made with a prior CT study dated [**3418-9-2**].
+     
+     FINDINGS:
+     
+     CHEST:  Again note is made of right apical mass with heterogeneous enhancement
+     measuring 6.5 x 6.2 cm, increased in size compared to the prior study,
+     likely representing lung cancer mentioned in the history.  Note is made of
+     irregular pleural thickening with enhancement in the right thorax, associated
+     with effusion and atelectasis, probably representing combination of effusion
+     and pleural metastatic disease, increased compared to the prior study.  The
+     mass and pleural metastasis cannot be clearly delineated from the right chest
+     wall. Note is made of low-density soft tissue masses surrounding the right
+     lower ribs, increased compared to the prior study, likely representing bone
+     metastasis with soft tissue component.  There is increased soft tissue
+     involving the mediastinum, also likely representing combination of lung cancer
+     and lymph nodes. Pericardial thickening and increased pericardial effusion is
+     seen.  The right lower lobe bronchus is narrowed by the surrounding soft
+     tissue, with possible endobronchial component, however, the evaluation of
+     endobronchial component is limited on this CT scan.  In the lung window, again
+     note is made of multiple noncalcified pulmonary nodules with ill-defined
+     borders, increased in size and number compared to the prior study,
+     consistent with metastases.  In the right lung, again note is made of
+     increased interlobular septal thickening and ground glass opacity,possibly
+     related to lymphangitic spread of the tumor in this patient with advanced lung
+     cancer. Again note is made of low-density nodule in the right thyroid gland,
+     unchanged compared to the prior study.
+     
+     ABDOMEN:  Again note is made of low-density focal lesion in the segment IV
+     adjacent to the falciform ligament, increased in size compared to the prior
+     study, representing liver metastasis.  Note is made of other tiny low-density
+     areas in bilateral lobes of the liver, unchanged compared to the prior study,
+                                                                 (Over)
+
+     DATE: [**3418-11-17**] 7:24 AM
+     CT ABD W&W/O C; CT CHEST W/CONTRAST                             Clip # [**Clip Number (Radiology) 2700**]
+     CT PELVIS W/CONTRAST; CT 150CC NONIONIC CONTRAST
+     Reason:  Torso CT for assessment of CA disease progression. , Pt is 
+     Field of view: 30 Contrast: OPTIRAY Amt: 
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     which are too small to be characterized.  Gallbladder is normal without
+     evidence of stone.  Spleen, pancreas, adrenal glands and kidneys are
+     unremarkable.  Again note is made of small right renal cyst.  The visualized
+     portion of large and small intestines is within normal limits.  No ascites. No
+     lymphadenopathy.
+     
+     PELVIS:  The visualized portion of large and small intestines is within normal
+     limits.  No ascites.  No lymphadenopathy.
+     
+     BONE WINDOWS:  The patient has marked scoliosis and degenerative changes of
+     the lumbar spine.  There is asymmetry of the thoracic cage, probably due to
+     prior surgery.  As described above, there are multiple rib metastases with
+     soft tissue component on the right.
+     
+     Multiplanar reformation images confirm the above finding.
+     
+     IMPRESSION:
+     1.  Large heterogeneous right apical mass with involvement of mediastinal
+     lymph nodes and diffuse pleural metastases associated with atelectasis,
+     representing worsening lung cancer.
+     2.  Multiple  soft tissue masses surrounding the right lower ribs likely
+     representing worsening bone metastases.
+     3.  Increased interlobular septal thickening in the right lung, worrisome for
+     lymphangitic spread of the tumor.
+     4.  Increased pericardial effusion and thickening.
+     5.  Increased number and the size of multiple noncalcified pulmonary nodules
+     in bilateral lungs.
+     6.  Increase in size of right liver lesion, probably representing metastasis.
+     7.  Narrowing of the right lower lobe bronchus by surrounding soft tissue
+     mass, with possible endobronchial component as described above.
+     
+     Oncology table has been updated through CareWeb.
+     
+     
+
+",,
+24459,,,,3418-11-17 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3418-11-17**] 7:24 AM
+     CT ABD W&W/O C; CT CHEST W/CONTRAST                             Clip # [**Clip Number (Radiology) 2700**]
+     CT PELVIS W/CONTRAST; CT 150CC NONIONIC CONTRAST
+     Reason:  Torso CT for assessment of CA disease progression. , Pt is 
+     Field of view: 30 Contrast: OPTIRAY Amt: 
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      80 year old woman with Adenocarcinoma of the Lung
+     REASON FOR THIS EXAMINATION:
+       Torso CT for assessment of CA disease progression. 
+      Pt is on study: Include [**Hospital1 **]-dimensial oncology table comparing to . 
+      baseline target lesions. 
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  80-year-old woman with lung cancer.
+     
+     TECHNIQUE:  Contiguous axial CT images of the upper abdomen were obtained
+     without the administration of IV contrast [**Doctor Last Name 92**].  Contiguous axial images of
+     the chest, abdomen, and pelvis were obtained with the administration of IV
+     contrast [**Doctor Last Name 92**], 150 cc of Optiray.  Multiplanar reformation images are
+     reconstructed.
+     
+     COMPARISON:  Comparison was made with a prior CT study dated [**3418-9-2**].
+     
+     FINDINGS:
+     
+     CHEST:  Again note is made of right apical mass with heterogeneous enhancement
+     measuring 6.5 x 6.2 cm, increased in size compared to the prior study,
+     likely representing lung cancer mentioned in the history.  Note is made of
+     irregular pleural thickening with enhancement in the right thorax, associated
+     with effusion and atelectasis, probably representing combination of effusion
+     and pleural metastatic disease, increased compared to the prior study.  The
+     mass and pleural metastasis cannot be clearly delineated from the right chest
+     wall. Note is made of low-density soft tissue masses surrounding the right
+     lower ribs, increased compared to the prior study, likely representing bone
+     metastasis with soft tissue component.  There is increased soft tissue
+     involving the mediastinum, also likely representing combination of lung cancer
+     and lymph nodes. Pericardial thickening and increased pericardial effusion is
+     seen.  The right lower lobe bronchus is narrowed by the surrounding soft
+     tissue, with possible endobronchial component, however, the evaluation of
+     endobronchial component is limited on this CT scan.  In the lung window, again
+     note is made of multiple noncalcified pulmonary nodules with ill-defined
+     borders, increased in size and number compared to the prior study,
+     consistent with metastases.  In the right lung, again note is made of
+     increased interlobular septal thickening and ground glass opacity,possibly
+     related to lymphangitic spread of the tumor in this patient with advanced lung
+     cancer. Again note is made of low-density nodule in the right thyroid gland,
+     unchanged compared to the prior study.
+     
+     ABDOMEN:  Again note is made of low-density focal lesion in the segment IV
+     adjacent to the falciform ligament, increased in size compared to the prior
+     study, representing liver metastasis.  Note is made of other tiny low-density
+     areas in bilateral lobes of the liver, unchanged compared to the prior study,
+                                                                 (Over)
+
+     DATE: [**3418-11-17**] 7:24 AM
+     CT ABD W&W/O C; CT CHEST W/CONTRAST                             Clip # [**Clip Number (Radiology) 2700**]
+     CT PELVIS W/CONTRAST; CT 150CC NONIONIC CONTRAST
+     Reason:  Torso CT for assessment of CA disease progression. , Pt is 
+     Field of view: 30 Contrast: OPTIRAY Amt: 
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     which are too small to be characterized.  Gallbladder is normal without
+     evidence of stone.  Spleen, pancreas, adrenal glands and kidneys are
+     unremarkable.  Again note is made of small right renal cyst.  The visualized
+     portion of large and small intestines is within normal limits.  No ascites. No
+     lymphadenopathy.
+     
+     PELVIS:  The visualized portion of large and small intestines is within normal
+     limits.  No ascites.  No lymphadenopathy.
+     
+     BONE WINDOWS:  The patient has marked scoliosis and degenerative changes of
+     the lumbar spine.  There is asymmetry of the thoracic cage, probably due to
+     prior surgery.  As described above, there are multiple rib metastases with
+     soft tissue component on the right.
+     
+     Multiplanar reformation images confirm the above finding.
+     
+     IMPRESSION:
+     1.  Large heterogeneous right apical mass with involvement of mediastinal
+     lymph nodes and diffuse pleural metastases associated with atelectasis,
+     representing worsening lung cancer.
+     2.  Multiple  soft tissue masses surrounding the right lower ribs likely
+     representing worsening bone metastases.
+     3.  Increased interlobular septal thickening in the right lung, worrisome for
+     lymphangitic spread of the tumor.
+     4.  Increased pericardial effusion and thickening.
+     5.  Increased number and the size of multiple noncalcified pulmonary nodules
+     in bilateral lungs.
+     6.  Increase in size of right liver lesion, probably representing metastasis.
+     7.  Narrowing of the right lower lobe bronchus by surrounding soft tissue
+     mass, with possible endobronchial component as described above.
+     
+     Oncology table has been updated through CareWeb.
+     
+     
+
+",,
+24459,,,,3418-11-17 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3418-11-17**] 7:24 AM
+     CT ABD W&W/O C; CT CHEST W/CONTRAST                             Clip # [**Clip Number (Radiology) 2700**]
+     CT PELVIS W/CONTRAST; CT 150CC NONIONIC CONTRAST
+     Reason:  Torso CT for assessment of CA disease progression. , Pt is 
+     Field of view: 30 Contrast: OPTIRAY Amt: 
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      80 year old woman with Adenocarcinoma of the Lung
+     REASON FOR THIS EXAMINATION:
+       Torso CT for assessment of CA disease progression. 
+      Pt is on study: Include [**Hospital1 **]-dimensial oncology table comparing to . 
+      baseline target lesions. 
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  80-year-old woman with lung cancer.
+     
+     TECHNIQUE:  Contiguous axial CT images of the upper abdomen were obtained
+     without the administration of IV contrast [**Doctor Last Name 92**].  Contiguous axial images of
+     the chest, abdomen, and pelvis were obtained with the administration of IV
+     contrast [**Doctor Last Name 92**], 150 cc of Optiray.  Multiplanar reformation images are
+     reconstructed.
+     
+     COMPARISON:  Comparison was made with a prior CT study dated [**3418-9-2**].
+     
+     FINDINGS:
+     
+     CHEST:  Again note is made of right apical mass with heterogeneous enhancement
+     measuring 6.5 x 6.2 cm, increased in size compared to the prior study,
+     likely representing lung cancer mentioned in the history.  Note is made of
+     irregular pleural thickening with enhancement in the right thorax, associated
+     with effusion and atelectasis, probably representing combination of effusion
+     and pleural metastatic disease, increased compared to the prior study.  The
+     mass and pleural metastasis cannot be clearly delineated from the right chest
+     wall. Note is made of low-density soft tissue masses surrounding the right
+     lower ribs, increased compared to the prior study, likely representing bone
+     metastasis with soft tissue component.  There is increased soft tissue
+     involving the mediastinum, also likely representing combination of lung cancer
+     and lymph nodes. Pericardial thickening and increased pericardial effusion is
+     seen.  The right lower lobe bronchus is narrowed by the surrounding soft
+     tissue, with possible endobronchial component, however, the evaluation of
+     endobronchial component is limited on this CT scan.  In the lung window, again
+     note is made of multiple noncalcified pulmonary nodules with ill-defined
+     borders, increased in size and number compared to the prior study,
+     consistent with metastases.  In the right lung, again note is made of
+     increased interlobular septal thickening and ground glass opacity,possibly
+     related to lymphangitic spread of the tumor in this patient with advanced lung
+     cancer. Again note is made of low-density nodule in the right thyroid gland,
+     unchanged compared to the prior study.
+     
+     ABDOMEN:  Again note is made of low-density focal lesion in the segment IV
+     adjacent to the falciform ligament, increased in size compared to the prior
+     study, representing liver metastasis.  Note is made of other tiny low-density
+     areas in bilateral lobes of the liver, unchanged compared to the prior study,
+                                                                 (Over)
+
+     DATE: [**3418-11-17**] 7:24 AM
+     CT ABD W&W/O C; CT CHEST W/CONTRAST                             Clip # [**Clip Number (Radiology) 2700**]
+     CT PELVIS W/CONTRAST; CT 150CC NONIONIC CONTRAST
+     Reason:  Torso CT for assessment of CA disease progression. , Pt is 
+     Field of view: 30 Contrast: OPTIRAY Amt: 
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     which are too small to be characterized.  Gallbladder is normal without
+     evidence of stone.  Spleen, pancreas, adrenal glands and kidneys are
+     unremarkable.  Again note is made of small right renal cyst.  The visualized
+     portion of large and small intestines is within normal limits.  No ascites. No
+     lymphadenopathy.
+     
+     PELVIS:  The visualized portion of large and small intestines is within normal
+     limits.  No ascites.  No lymphadenopathy.
+     
+     BONE WINDOWS:  The patient has marked scoliosis and degenerative changes of
+     the lumbar spine.  There is asymmetry of the thoracic cage, probably due to
+     prior surgery.  As described above, there are multiple rib metastases with
+     soft tissue component on the right.
+     
+     Multiplanar reformation images confirm the above finding.
+     
+     IMPRESSION:
+     1.  Large heterogeneous right apical mass with involvement of mediastinal
+     lymph nodes and diffuse pleural metastases associated with atelectasis,
+     representing worsening lung cancer.
+     2.  Multiple  soft tissue masses surrounding the right lower ribs likely
+     representing worsening bone metastases.
+     3.  Increased interlobular septal thickening in the right lung, worrisome for
+     lymphangitic spread of the tumor.
+     4.  Increased pericardial effusion and thickening.
+     5.  Increased number and the size of multiple noncalcified pulmonary nodules
+     in bilateral lungs.
+     6.  Increase in size of right liver lesion, probably representing metastasis.
+     7.  Narrowing of the right lower lobe bronchus by surrounding soft tissue
+     mass, with possible endobronchial component as described above.
+     
+     Oncology table has been updated through CareWeb.
+     
+     
+
+",,
+24459,,,,3418-11-17 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3418-11-17**] 7:24 AM
+     CT ABD W&W/O C; CT CHEST W/CONTRAST                             Clip # [**Clip Number (Radiology) 2700**]
+     CT PELVIS W/CONTRAST; CT 150CC NONIONIC CONTRAST
+     Reason:  Torso CT for assessment of CA disease progression. , Pt is 
+     Field of view: 30 Contrast: OPTIRAY Amt: 
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      80 year old woman with Adenocarcinoma of the Lung
+     REASON FOR THIS EXAMINATION:
+       Torso CT for assessment of CA disease progression. 
+      Pt is on study: Include [**Hospital1 **]-dimensial oncology table comparing to . 
+      baseline target lesions. 
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  80-year-old woman with lung cancer.
+     
+     TECHNIQUE:  Contiguous axial CT images of the upper abdomen were obtained
+     without the administration of IV contrast [**Doctor Last Name 92**].  Contiguous axial images of
+     the chest, abdomen, and pelvis were obtained with the administration of IV
+     contrast [**Doctor Last Name 92**], 150 cc of Optiray.  Multiplanar reformation images are
+     reconstructed.
+     
+     COMPARISON:  Comparison was made with a prior CT study dated [**3418-9-2**].
+     
+     FINDINGS:
+     
+     CHEST:  Again note is made of right apical mass with heterogeneous enhancement
+     measuring 6.5 x 6.2 cm, increased in size compared to the prior study,
+     likely representing lung cancer mentioned in the history.  Note is made of
+     irregular pleural thickening with enhancement in the right thorax, associated
+     with effusion and atelectasis, probably representing combination of effusion
+     and pleural metastatic disease, increased compared to the prior study.  The
+     mass and pleural metastasis cannot be clearly delineated from the right chest
+     wall. Note is made of low-density soft tissue masses surrounding the right
+     lower ribs, increased compared to the prior study, likely representing bone
+     metastasis with soft tissue component.  There is increased soft tissue
+     involving the mediastinum, also likely representing combination of lung cancer
+     and lymph nodes. Pericardial thickening and increased pericardial effusion is
+     seen.  The right lower lobe bronchus is narrowed by the surrounding soft
+     tissue, with possible endobronchial component, however, the evaluation of
+     endobronchial component is limited on this CT scan.  In the lung window, again
+     note is made of multiple noncalcified pulmonary nodules with ill-defined
+     borders, increased in size and number compared to the prior study,
+     consistent with metastases.  In the right lung, again note is made of
+     increased interlobular septal thickening and ground glass opacity,possibly
+     related to lymphangitic spread of the tumor in this patient with advanced lung
+     cancer. Again note is made of low-density nodule in the right thyroid gland,
+     unchanged compared to the prior study.
+     
+     ABDOMEN:  Again note is made of low-density focal lesion in the segment IV
+     adjacent to the falciform ligament, increased in size compared to the prior
+     study, representing liver metastasis.  Note is made of other tiny low-density
+     areas in bilateral lobes of the liver, unchanged compared to the prior study,
+                                                                 (Over)
+
+     DATE: [**3418-11-17**] 7:24 AM
+     CT ABD W&W/O C; CT CHEST W/CONTRAST                             Clip # [**Clip Number (Radiology) 2700**]
+     CT PELVIS W/CONTRAST; CT 150CC NONIONIC CONTRAST
+     Reason:  Torso CT for assessment of CA disease progression. , Pt is 
+     Field of view: 30 Contrast: OPTIRAY Amt: 
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     which are too small to be characterized.  Gallbladder is normal without
+     evidence of stone.  Spleen, pancreas, adrenal glands and kidneys are
+     unremarkable.  Again note is made of small right renal cyst.  The visualized
+     portion of large and small intestines is within normal limits.  No ascites. No
+     lymphadenopathy.
+     
+     PELVIS:  The visualized portion of large and small intestines is within normal
+     limits.  No ascites.  No lymphadenopathy.
+     
+     BONE WINDOWS:  The patient has marked scoliosis and degenerative changes of
+     the lumbar spine.  There is asymmetry of the thoracic cage, probably due to
+     prior surgery.  As described above, there are multiple rib metastases with
+     soft tissue component on the right.
+     
+     Multiplanar reformation images confirm the above finding.
+     
+     IMPRESSION:
+     1.  Large heterogeneous right apical mass with involvement of mediastinal
+     lymph nodes and diffuse pleural metastases associated with atelectasis,
+     representing worsening lung cancer.
+     2.  Multiple  soft tissue masses surrounding the right lower ribs likely
+     representing worsening bone metastases.
+     3.  Increased interlobular septal thickening in the right lung, worrisome for
+     lymphangitic spread of the tumor.
+     4.  Increased pericardial effusion and thickening.
+     5.  Increased number and the size of multiple noncalcified pulmonary nodules
+     in bilateral lungs.
+     6.  Increase in size of right liver lesion, probably representing metastasis.
+     7.  Narrowing of the right lower lobe bronchus by surrounding soft tissue
+     mass, with possible endobronchial component as described above.
+     
+     Oncology table has been updated through CareWeb.
+     
+     
+
+",,

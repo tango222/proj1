@@ -1,0 +1,370 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+24372,17367,,,3414-01-11 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+
+Admission Date: [**3413-1-11**]     Discharge Date:  [**3414-1-23**]
+
+Date of Birth:                  Sex:
+
+Service:
+
+ADDENDUM TO DISCHARGE SUMMARY BY [**First Name8 (NamePattern2) 917**] [**Last Name (NamePattern1) **], M.D.
+
+This a Death Note.
+
+Was called to evaluate the patient for unresponsiveness.  No
+response to pain or sternal rub.  Pupils were fixed and
+unreactive.  There were no heart or lung sounds.
+
+The patient was pronounced dead at 07:05 p.m.  The attending
+of record was notified as was the admissions office.  The
+family is denying a post mortem.
+
+                      DR.[**First Name (STitle) **],[**First Name3 (LF) **] 12-944
+
+
+Dictated By:[**Name8 (MD) 2661**]
+
+MEDQUIST36
+
+D:  [**3414-1-23**]  21:37
+T:  [**3414-1-23**]  21:47
+JOB#:  [**Job Number 5254**]
+Signed electronically by: DR. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 249**] [**Doctor Last Name **]
+ on: TUE [**3414-2-8**] 3:58 PM
+(End of Report)
+
+
+",,
+24372,17367,,,3414-01-11 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3414-1-11**] 7:47 AM
+     UNILAT LOWER EXT VEINS RIGHT                                    Clip # [**Clip Number (Radiology) 1993**]
+     Reason: New R LE edema x several days, SOB - eval for DVT           
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      83 year old woman with mult [**Hospital Unit Name 145**] prob                                            
+     REASON FOR THIS EXAMINATION:
+      New R LE edema x several days, SOB - eval for DVT                               
+     ______________________________________________________________________________
+     WET READ: DRS [**First Name (STitle) 1290**] [**3414-1-11**] 9:02 AM
+      no DVT
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Right lower extremity edema.
+     
+     UNILATERAL LOWER EXTREMITY VENOUS ULTRASOUND:  [**Doctor Last Name **] scale and doppler
+     sonograms of the right common femoral, superficial femoral and popliteal
+     veins were performed.  Normal flow, compressibility, wave forms and
+     augmentation are demonstrated.  No intraluminal thrombus.
+     
+     IMPRESSION:  No evidence of deep venous thrombosis.
+     
+     
+
+",,
+24372,17367,,,3414-01-11 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3414-1-11**] 6:20 AM
+     CHEST (PA & LAT)                                                Clip # [**Clip Number (Radiology) 1992**]
+     Reason: sob - eval for pna/infil                                    
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      83 year old woman with mult [**Hospital Unit Name 145**] prob                                            
+     REASON FOR THIS EXAMINATION:
+      sob - eval for pna/infil                                                        
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CHEST:
+     
+     INDICATION:  Short of breath.  Evaluate for pneumonia, infiltrate.
+     
+     FINDINGS:  Standard PA and left lateral views.  Comparison study dated
+     [**3413-5-3**].
+     
+     The heart shows moderate left ventricular enlargement.  The aorta is dilated
+     and unfolded.  The pulmonary vessels show obvious upper zone redistribution,
+     blurring of vascular detail in the lower zones and bilateral pleural
+     effusions, larger on the right side.  In addition some atelectatic changes are
+     present in the left lower zone laterally.
+     
+     IMPRESSION:  These findings are suggestive of left heart failure associated
+     with some bilateral lower lobe infiltrates and bilateral pleural effusions,
+     larger on the right side.  Follow-up imaging is recommended to assess the
+     effect of treatment.  There is no evidence of cardiac failure on the prior
+     study.
+     
+     IMPRESSION:  Findings are consistent with acute left ventricular
+     decompensation.
+
+",,
+24372,17367,,,3414-01-11 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3414-1-11**] 5:56 PM
+     ABD COMPL INCLUDING LAT DECUB                                   Clip # [**Clip Number (Radiology) 1994**]
+     Reason: Please evaluate for obstruction.                            
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       83 year old woman with abdominal pain and distention.                          
+     REASON FOR THIS EXAMINATION:
+      Please evaluate for obstruction.                                                
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  83 year old woman with abdominal pain and distention.  Evaluate
+     for obstruction.
+     
+     FINDINGS:
+     There is no evidence of free air.  There is a nonspecific pattern of gas in
+     the small bowel.  There is gas in the descending colon and rectum.  There is
+     no definite evidence of obstruction.  No abnormal calcifications in the
+     abdomen.  There is a right convex scoliosis of the lumbar spine.
+     
+
+",,
+24372,17367,30262,0,3414-01-12 05:56:00 EST,3414-01-12 06:08:00 EST,1073,"N",69,"Nursing/Other",,"
+
+NPN 1900 -0700
+
+NEURO: PT SPEAKS ONLY CANTONESE.WILL OPEN EYES AND FOLLOW COMMANDS INCONSISTANTLY WHEN COMMUNICATED TO THROUGH INTERPERTER.FAMILY STATES PT'S BASELINE IS DEMENTED.NOTED PURPOSEFUL L ARM AND LEG MOVEMENTS.R SIDE WEAKER ??OLD CVA.
+
+RESP: CRACKLES 2/3 UP BILAT.MAINTAINING SATS MID - HIGH 90'S ON 2L NC.
+NO LASIX GIVEN DUE TO PRE LOAD DEPENDENCE.PT IN NO ACUTE DISTRESS.
+
+C/V: ST OCC PVC'S.CONT TO REQUIRE 7.5 MCG/KG/MIN OF DOPA TO MAINTAIN BP.HEPRIN NOW @ 500UNITS/HR.NEXT PTT DUE @ 0900.
+
+F/E/N : RECIEVED K EXOLATE FOR K+ OF 5.8.INCT OF LARGE AMT LOOSE STOOL.AM K= PENDING RECTAL BAG APPLIED.UO 30-40CC/HR.NO FLUID BOLUS RESUSTATION ALTHOUGH SHE DID RECIEVE 2LITERS IN ED.
+
+PLAN: WEAN PRESSORS IF ABLE, MONITOR HEMODYNAMICS , DISCUSS FUTURE GOALS W/ FAMILY.
+",,
+24372,17367,30262,0,3414-01-12 18:20:00 EST,3414-01-12 18:31:00 EST,209,"N",69,"Nursing/Other","FINARD 4 ICU NPN 0700-1900","
+[**Hospital Ward Name 312**] 4 ICU NPN 0700-1900
+
+S/O: Episode of hypotension to 79 this afternoon. R-sided EKG done. No EKG changes per resident. Given 500 cc fld bolus with improvement in BP. HR low 100's ST. On maint IVF. Cont on dopamine & heparin gtt's. PTT theraputic.
+  UO poor throughout the day. Given total two 500 cc fld boluses. Slight, transient improvement in UO after the second fld bolus.
+   Non-verbal. Occas opens eyes when family speaks to pt. Cantonese speaking only.
+   Remains NPO. Small amt vrown, OB positive stool.
+   T-amx 99PO. First of two BC obtained.
+    
+
+A/P: ? eti of hypotension.
+   UO emains poor. Check with HO for additioal fld boluses.
+   HO will speak with family as to how aggressive they want to be in light of pt's HX, prognosis.
+
+",,
+24372,17367,30262,,3414-01-13 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3414-1-13**] 8:07 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 1995**]
+     Reason: CHF, PNA?                                                   
+     Admitting Diagnosis: DYSPNEA;DEHYDRATION;TELEMETRY
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      83 year old woman with SOB, hypotension                                         
+     REASON FOR THIS EXAMINATION:
+      CHF, PNA?                                                                       
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: Shortness of breath, hypotension.
+     
+     COMPARISON: Made to prior chest x-ray on [**3414-1-11**].
+     
+     FINDINGS: There is stable cardiomegaly.  There is persistent perihilar
+     haziness and bilateral pleural effusions appearing greater on the left side.
+     There is left lower lobe atelectasis/consolidation.
+     
+     IMPRESSION:
+     1.  Findings consistent with heart failure.
+     2.  Worsened left lower lobe atelectasis/consolidation. 
+
+",,
+24372,17367,30262,0,3414-01-13 06:06:00 EST,3414-01-13 06:13:00 EST,1073,"N",69,"Nursing/Other",,"
+
+NPN 1900 -0700
+
+NO SIG OVER NOC EVENTS.
+
+RECEIEVED 1LITER NSS BOLUS EARLY IN SHIFT  W/ GOOD RESPONSE FROM UO.PRESENTLY RECIEVING 2ND LITER OF NSS , NOW AT 150CC/HR/.
+UO 30-40CC/HR, SCANT STOOL INRECTAL BAG OVER NOC.
+MN PTT > 120 , DECREASED HEPRIN TO 3OO UNITS/ HR.AM PTT PENDING.
+
+PLAN: WEAN DOPA AS FEASABLE, BOLUS AS NEEDED ,MONITOR HEMODYNAMICS
+",,
+24372,17367,30262,0,3414-01-13 15:59:00 EST,3414-01-13 16:14:00 EST,956,"N",69,"Nursing/Other",,"
+
+NURSING NOTE 7A-7P  Review of Systems:
+NEURO: Nonverbal cantonese speaking women arouses to voice, opens eyes spontaneously, Slight movement of upper extremities.  Unable to follow commands.
+C/V: NSR to ST 92-103. BP 87-128/ 48-60.  Dopamine drip weaned from 7.5mcg/kg/min to 6mcg/kg/min.  Continues on Heparin drip at 300 units/hr. 12noon PTT=67.8 no changes made. Patient to start on Digoxin in AM.
+RESP: RR 18-22 lung sounds crackles throughout Sat 98-100%.
+GI/GU: Peg tube inplace dsg changed tube feedings of Probalance started and tol well at 10cc/hr. Inc X one large amt liquid stool. Foley cath patent draining clear yellow urine sm amts 10-50cc/hr. CXR findings consistent with heart failure and worsened left lower lobe atelectasis.
+ACCESS: Two lines both Rt and Lt arms patent.
+SOCIAL: Patients son and daughter in-law in with patient all day taking turns staying with patient. 
+DESPO: Wean Dopamine then transfer patient to floors, remains DNR, family flying in from [**Location (un) 4527**] on Friday.
+",,
+24372,17367,30262,,3414-01-14 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3414-1-14**]  
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 1996**]
+     Reason: evaluate worsening effusion                                 
+     Admitting Diagnosis: DYSPNEA;DEHYDRATION;TELEMETRY
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       83 year old woman with SOB, hypotension                                        
+       
+     REASON FOR THIS EXAMINATION:
+      evaluate worsening effusion                                                     
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: Shortness of breath, hypotension.
+     
+     Comparison is made to the prior chest x ray on [**3414-1-13**].
+     
+     FINDINGS: There is stable cardiomegaly. There is persistent perihilar
+     haziness. There is also persistent left lower lobe atelectasis/consolidation.
+     The small bilateral pleural effusions are unchanged in size.
+     
+     IMPRESSION: 1) Continued failure and left lower lobe
+     atelectasis/consolidation. 2) No significant interval change.
+
+",,
+24372,17367,30262,0,3414-01-14 05:45:00 EST,3414-01-14 06:13:00 EST,995,"N",69,"Nursing/Other",,"
+
+D initially pt minimally responsive . opening eyes  to stimuli and moved  only to stimuli. Then pt was alert tracking with here eyes even speeking a little.moving hands and arms freely.Had a period of restlessness pulled out both PIV. soft restraints applied. 
+CV: SR to ST. initially on dopamine 6mcg.and heparin 300unit. SBP 88-100's . NS bolused given total of 650 before PIV dc'd. SBP was improved . off dopamine pt maintained MAP > 60. heparin restarted with new IV .low ptt no change in heparin due to interuption of infusion repeat ptt at 0800. Palp Dp  plus [**11-19**]  edema in limbs. 
+lungs: initially crackles throughout. currently coarse to clear in upper lobes. bases rales to deminished.O 2 SAT > 95 on 1.5 NC.
+GI: ABD soft BS present .loose stool. G tube in place TF probalance at 30cc currently goal is 40mg.
+GU: foley to CD. urinout put < 30 most hours FLD improve out put only slightly. CRE 1.5 
+Skin:  coccyx is red. skin turgor is poor.
+A stable.
+p monitor I/O  closley tx low sbp with fld.  note cre and bun. turn frequently. increase TF to goal if tolerated.  checl ptt at 0800.
+",,
+24372,17367,,,3414-01-17 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3414-1-17**] 7:31 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 1997**]
+     Reason: r/o pneumonia, evaluate for evidence of worsening CHF       
+     Admitting Diagnosis: DYSPNEA;DEHYDRATION;TELEMETRY
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        83 year old woman with increasing dyspnea w/ cor pulmonale and pulmonary 
+      embolism
+     REASON FOR THIS EXAMINATION:
+      r/o pneumonia, evaluate for evidence of worsening CHF                           
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Dyspnea, pulmonary embolism.
+     
+     AP SUPINE CHEST:  Comparison is made with [**3414-1-14**].  There is significant
+     respiratory motion.  There are bilateral pleural effusions, cardiomegaly and
+     left lower lobe atelectasis.  There is interstitial edema, but no focal
+     infiltrates.  A tube is seen coiled within the abdomen.  No pneumothorax.
+     
+     IMPRESSION:
+     
+     Increasing cardiac failure with cardiomegaly and bilateral pleural effusions.
+
+",,
+24372,17367,,,3414-01-17 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+",,
+24372,17367,,,3414-01-19 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3414-1-19**] 8:53 AM
+     PERC G/J TUBE CHECK                                             Clip # [**Clip Number (Radiology) 1998**]
+     Reason: repair PEJ tube                                             
+     Admitting Diagnosis: DYSPNEA;DEHYDRATION;TELEMETRY
+      Contrast: CONRAY Amt: 10
+     ********************************* CPT Codes ********************************
+     * 43760 CHANGE GASTROSTOMY TUBE        75984 CHANGE PERC TUBE OR CATH W/CON*
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      83 year old woman with PEJ placed by [**First Name4 (NamePattern1) 1174**] [**Last Name (NamePattern1) **] [**9-21**], now not flushing, bilious 
+      material extracted from site yesterday, please repair or replace
+     REASON FOR THIS EXAMINATION:
+      repair PEJ tube                                                                 
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  An 83-year-old woman with dysphagia and status post
+     gastrojejunostomy tube placed on [**3412-9-19**].  Now patient presenting with non-
+     functioning gastrojejunostomy tube.  Patient is here for tube change.
+     
+     RADIOLOGISTS: Dr. [**Last Name (STitle) 1999**], Dr. [**First Name8 (NamePattern2) 282**] [**Name (STitle) 4**], the attending radiologist
+     present and supervising throughout the procedure.
+     
+     PROCEDURE/FINDINGS:  As the patient is not consentable, written informed
+     consent was obtained from the patient's family.  The patient was placed supine
+     on the angiography table and the upper abdomen was prepped and draped in the
+     usual sterile fashion.  Under fluoroscopic guidance, the tube was found to be
+     in the optimal position.  A .035 [**Last Name (un) 2000**] guide wire was then advanced through
+     the tube with the tip in the proximal jejunum.  The tip was removed and the
+     tube was pulled back over the wire.  A 14-French Sheddy gastrojejunostomy tube
+     was then advanced over the wire with the tip in the jejunum and the pigtail
+     was formed in the post-pyloric region.  The catheter was secured to the skin
+     using a Stat-Lock.  Injection of contrast under fluoroscopic guidance
+     demonstrated the tip of the gastrojejunostomy tube in the jejunum with the
+     pigtail formed in the post-pyloric region.  The patient tolerated the
+     procedure well with no complications.
+     
+     ANESTHESIA/MEDICATIONS:  None.
+     
+     COMPLICATIONS:  None.
+     
+     IMPRESSION:  Successful exchange of gastrojejunostomy feeding tube.
+     
+
+",,
+24372,17367,,,3414-01-19 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3414-1-19**] 8:53 AM
+     PERC G/J TUBE CHECK                                             Clip # [**Clip Number (Radiology) 1998**]
+     Reason: repair PEJ tube                                             
+     Admitting Diagnosis: DYSPNEA;DEHYDRATION;TELEMETRY
+      Contrast: CONRAY Amt: 10
+     ********************************* CPT Codes ********************************
+     * 43760 CHANGE GASTROSTOMY TUBE        75984 CHANGE PERC TUBE OR CATH W/CON*
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      83 year old woman with PEJ placed by [**First Name4 (NamePattern1) 1174**] [**Last Name (NamePattern1) **] [**9-21**], now not flushing, bilious 
+      material extracted from site yesterday, please repair or replace
+     REASON FOR THIS EXAMINATION:
+      repair PEJ tube                                                                 
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  An 83-year-old woman with dysphagia and status post
+     gastrojejunostomy tube placed on [**3412-9-19**].  Now patient presenting with non-
+     functioning gastrojejunostomy tube.  Patient is here for tube change.
+     
+     RADIOLOGISTS: Dr. [**Last Name (STitle) 1999**], Dr. [**First Name8 (NamePattern2) 282**] [**Name (STitle) 4**], the attending radiologist
+     present and supervising throughout the procedure.
+     
+     PROCEDURE/FINDINGS:  As the patient is not consentable, written informed
+     consent was obtained from the patient's family.  The patient was placed supine
+     on the angiography table and the upper abdomen was prepped and draped in the
+     usual sterile fashion.  Under fluoroscopic guidance, the tube was found to be
+     in the optimal position.  A .035 [**Last Name (un) 2000**] guide wire was then advanced through
+     the tube with the tip in the proximal jejunum.  The tip was removed and the
+     tube was pulled back over the wire.  A 14-French Sheddy gastrojejunostomy tube
+     was then advanced over the wire with the tip in the jejunum and the pigtail
+     was formed in the post-pyloric region.  The catheter was secured to the skin
+     using a Stat-Lock.  Injection of contrast under fluoroscopic guidance
+     demonstrated the tip of the gastrojejunostomy tube in the jejunum with the
+     pigtail formed in the post-pyloric region.  The patient tolerated the
+     procedure well with no complications.
+     
+     ANESTHESIA/MEDICATIONS:  None.
+     
+     COMPLICATIONS:  None.
+     
+     IMPRESSION:  Successful exchange of gastrojejunostomy feeding tube.
+     
+
+",,

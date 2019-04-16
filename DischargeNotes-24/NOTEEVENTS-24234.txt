@@ -1,0 +1,174 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+24234,,,,3032-02-12 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3032-2-12**] 9:38 PM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 757**]
+     Reason: h/o etho was in detox, ? acute ms [**First Name (Titles) 758**] [**Last Name (Titles) 759**] body brusi
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      34 year old man with 
+     REASON FOR THIS EXAMINATION:
+      h/o etho was in detox, ? acute ms [**First Name (Titles) 758**] [**Last Name (Titles) 759**] body brusing--r/o bleed.
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+     WET READ: ZLb [**First Name8 (NamePattern2) 139**] [**3032-2-12**] 9:56 PM
+      neg
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Change in mental status.
+     
+     There is no evidence of acute intra- or extra-axial hemorrhage.  There is no
+     shift of normally midline structures or mass effect.  The ventricles, cisterns
+     and sulci are within normal limits.  The [**Doctor Last Name 66**]-white differentiation is normal.
+     Visualized paranasal sinuses and osseous structures are unremarkable.
+     
+     IMPRESSION:  No evidence of acute intracranial hemorrhage.
+     
+
+",,
+24234,1707,,,3032-02-13 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+
+Admission Date:  [**3032-2-12**]       Discharge Date:  [**3032-2-16**]
+
+Date of Birth:   [**2997-3-6**]       Sex:  M
+
+Service:
+
+HISTORY OF PRESENT ILLNESS:  Patient is a 35-year-old male
+with past medical history of hepatitis C, heroin abuse and
+alcoholism who was admitted to [**Hospital 4919**] Hospital on [**3032-2-8**]
+for alcohol detox and transferred to [**Hospital3 **] for
+suspected DTs on [**2-8**].  The patient to outside hospital ED
+with ETOH level of 432 and was transferred to Barnwood for
+detox.
+
+Today he was found to be delirious, agitated, sweating and
+tremulous.  He was given 2 mg of Ativan and transferred to
+the ED.  In the ED heart rate was in the 110s, blood pressure
+160/100.  He was visibly tremulous and markedly delirious.
+He received multiple doses of Ativan 4 mg q. five minutes.
+The patient received 150 mg of Ativan in the ED, four liters
+of IV fluids with brisk urine output.  Head CT Scan was
+negative.  The patient apparently has no prior history of DTs
+or seizures.
+
+MEDICATIONS ON TRANSFER:
+1.  Ativan p.r.n.
+2.  Thiamin 100 q.d.
+3.  Vitamin C q.d.
+4.  Trazodone 50 q.h.s.
+5.  Folate 1 mg q.d.
+6.  Methadone 65 mg q.d.
+7.  Depakote 500 mg b.i.d.
+8.  Paxil 40 mg q.d.
+9.  Seroquel q.h.s.
+
+ALLERGIES:  No known drug allergies.
+
+SOCIAL HISTORY:  Lives with girlfriend.  Positive ETOH.
+Positive opiate addiction.  He is unemployed.
+
+PAST MEDICAL HISTORY:
+1.  Alcoholism.
+2.  Opiate dependence on Methadone.
+3.  Hepatitis C.
+4.  PTSD.
+
+PHYSICAL EXAMINATION:  Patient's temperature is 99.0 F, heart
+rate 110, blood pressure 168/100.  In general, sedated and
+lying flat, tremulous.  Moist mucous membranes.  He was
+tachycardic, no murmurs.  Pulmonary clear to auscultation.
+Abdomen:  Soft, nontender.  Extremities:  Negative cyanosis,
+clubbing or edema.  Neuro:  Sedated, but arousable and he
+moves all extremities.
+
+LABORATORY DATA ON ADMISSION:  White count 8.4, hematocrit
+36.5, platelets 166.  ALT 117, AST 141, alkaline phosphatase
+118, t. Bilirubin 1.7, amylase 112, lipase 40.  Serum tox
+negative.  Urine tox positive Methadone.
+
+Head CT Scan negative.
+
+Sodium 135, potassium 3.5, chloride 96, bicarbonate 27, BUN
+15, creatinine 0.5, glucose 123.
+
+HOSPITAL COURSE:  Patient is a 35-year-old male with delirium
+tremens who is admitted to the MICU.  In the MICU the patient
+received a total of 100 mg of Valium and was sedated.  He
+needed no further Valium after that.  The patient was then
+admitted to the floor.  On the floor, the patient received no
+Valium and continued to awaken.  The patient was given fluids
+for the whole time and his electrolytes were repleted.  He
+was started on a clear liquid diet which was eventually
+increased and he was able to tolerate full intake.  Patient
+was then discharged to residential based care as patient had
+suicidal ideations at one point.  The patient was seen by
+Psychiatry Team and they agreed with this course.
+
+DISCHARGE DIAGNOSIS:  Delirium tremens.
+
+CONDITION ON DISCHARGE:  Fair.
+
+DISCHARGE MEDICATIONS:
+1.  Thiamin 100 mg q.d.
+2.  Folic Acid 1 mg q.d.
+3.  Multivitamins 1 q.d.
+4.  Methadone 65 mg q.d.
+
+
+
+
+                            [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern1) 244**], M.D.  [**MD Number 3291**]
+
+Dictated By:[**Name8 (MD) 4920**]
+MEDQUIST36
+
+D:  [**3032-2-16**]  15:05
+T:  [**3032-2-16**]  15:26
+JOB#:  [**Job Number 4921**]
+Signed electronically by: DR. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 249**] [**Doctor Last Name **]
+ on: MON [**3032-3-5**] 11:59 PM
+(End of Report)
+
+
+",,
+24234,1707,30101,0,3032-02-13 07:11:00 EST,3032-02-13 07:20:00 EST,1566,"N",69,"Nursing/Other","MICU Nursing Admission Note","
+MICU Nursing Admission Note
+  Pt arrived from the EW at 2:30am on Ativan IVF at 6mg/hr, in 4pt restraints, Pt was lethargic, would mumble to his name, slight resistance to reappling restraints. Ativan IVF stopped at 3am, by 5:30 pt was diaphoretic, tremors, restless in bed and hallucinationg. SIWA scale 26 2mg of IV ativan given, with good response, pt fell asleep. By 7am pt seeing his brother in the room, yelling out, +sweats, +tremors gave another 2mg IV ativan with good effect. Still in 4 pt restraints, gauze pads underneath restraints, skin intact, monitored skin q2hr, Sitter in the room, at bedside. HOB at 30angle. 
+Plan: continue to medicate accordingly to CIWA scale. medicating if CIWA>10. Provide saftey, HOB elevated, aspiration precautions. 
+",,
+24234,1707,30101,0,3032-02-13 18:29:00 EST,3032-02-13 18:46:00 EST,-1,"N",69,"Nursing/Other","PMICU Nursing Progress Note 7a-7p","
+PMICU Nursing Progress Note 7a-7p
+Review of Systems
+
+Neuro- Pt's sedated w/ valium per CIWA scale orders; receiving 10 mg/hr for CIWA greater than 10. [**Doctor Last Name 4335**] today btw [**11-25**], please cont to score q 2 hrs.  Remains in 4 pt leather restraints [**Name8 (MD) 59**] MD orders, restraint flow sheet being completed by sitter and reviewed by RN. Suicidal ideation precautions in place.  Please refer to carevue flow sheet for further details.   Pt intermittently following commands. Please refer to chart for further details of extensive psych history. PRN haldol order for agitation. 
+
+CV- Hemodynamically stable, HR 70's, NSR, no ectopy. Recieving 100 cc/hr of D5/1/2 NS w/ 20 K/hr.  
+
+Resp- LS clr, RA, sats 96-100%.
+
+GI- Abd soft, +BS, NPO. Aspiration precautions, HOB 45 degrees.  
+
+GU- Adequate amts of urine/hr- amber, clr.
+
+Plan- Cont to monitor closely and assess per CIWA scale q 2 hrs.
+",,
+24234,1707,30101,0,3032-02-14 05:05:00 EST,3032-02-14 05:20:00 EST,-1,"N",69,"Nursing/Other","7P to 7A RN Shift Summary note","
+7P to 7A RN Shift Summary note
+Overnight pt was quiet and cooperative.  Leather restraints were changed th soft wrist restraints, sitter remains in room.  CIWA scale assessments continue q2hrs.
+
+N/ Pt CIWA score has been [**10-14**] through out night.  Received 3 doses of PRN valium for score>10.  Pt has mostly been oriented X2-3, opens eyes spont or to stimuli if asleep.  Pupils are equal and brisk.  MAE, follows commands, denies any pain or discomfort.  Pt has been very cooperative and denies any auditory or visual disturbances.  ONce was seen calling out for girlfriend, but seemed to be asleep.  Denies h/a or tactile stimulation.  state he wants to go home.
+
+CV/ VS stable, NSR in the 70's with Bp 150's/90-100's.  Afebrile, good pulses, no edema noted.  2 PIVs in working order. D51/2NS with 20 KCL was continued at 100cc/hr.  Labs are pending.
+
+R/ RA, spo2>97%.  Lungs are coarse throughout.  Good cough.
+
+GI/ NPO, swallowed a sip of water without problems to assess swallow. Abdomen is soft, non tender.  Pos BS, no BM.
+
+GU/ Foley with good output.
+
+Skin/ intact.
+
+Plan/ Coninue CIWA scale and PRN sedation. May need nicotine patch as pt asked to smoke several times last night.
+",,

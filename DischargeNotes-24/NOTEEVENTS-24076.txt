@@ -1,0 +1,752 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+24076,548,,,3226-05-01 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+
+
+Admission Date:  [**3226-5-1**]     Discharge Date:  [**3226-5-8**]
+
+Date of Birth:   [**3172-9-13**]     Sex:  M
+
+Service:
+
+ADMISSION DIAGNOSIS:
+
+DISCHARGE DIAGNOSES:
+1.  Intertrochanteric hip fracture.
+2.  Aspiration pneumonia.
+
+HISTORY OF PRESENT ILLNESS:  Mr. [**Known patient firstname **] [**Known patient lastname **] is a
+53-year-old with Alzheimer's dementia who lives in a group
+home.  He was found to be ambulating with difficult yesterday
+with some pain in his right hip.  His care takers noted that
+he was unable to bear weight on his right lower extremity and
+brought him to the Emergency [**Hospital1 **].  There was no
+documentation of a traumatic fall.
+
+PAST MEDICAL HISTORY:  (Past medical history includes)
+1.  Down syndrome.
+2.  Alzheimer's.
+3.  Hypothyroidism.
+4.  Seborrhea.
+5.  Depression.
+
+PAST SURGICAL HISTORY:   None.
+
+MEDICATIONS ON ADMISSION:  Levoxyl 100 mg p.o. q.d.,
+Paxil 25 mg p.o. q.d., vitamin B, vitamin C, and Ensure.
+
+ALLERGIES:  No known drug allergies.
+
+SOCIAL HISTORY:  He lives in a group home.  No alcohol.  No
+tobacco.
+
+PHYSICAL EXAMINATION ON PRESENTATION:   Temperature on
+admission was 94.9, heart rate was 81, blood pressure
+was 117/55, respiratory rate was 16.  He had an oxygen
+saturation of 96% on room air.  He was alert and cooperative,
+in no acute distress.  He was following simple commands.  His
+lungs were clear to auscultation.  He had a regular rate and
+rhythm.  His abdomen was soft, nontender, and nondistended.
+His left lower extremity demonstrated a 2+ dorsalis pedis.
+Light touch was intact in both lower extremities.  His right
+lower extremity was flexed  and externally rotated.
+
+PERTINENT LABORATORY DATA ON PRESENTATION:   Laboratories on
+admission included a white blood cell count of 16.8, with a
+hematocrit of 44.  His had normal electrolytes with a
+potassium of 3.8 and a sodium of 141.
+
+RADIOLOGY/IMAGING:   His electrocardiogram was normal.
+
+A chest x-ray was pending.
+
+Hip demonstrated a garden 4 femoral neck fracture.
+
+HOSPITAL COURSE:   The patient was admitted on [**5-1**].  He
+was also seen and evaluated by his primary care physician
+(Dr. [**Last Name (STitle) 4548**]).  He received medical clearance.
+
+On [**3226-5-1**] he underwent a bipolar hemiarthroplasty
+without incident.  His postoperative course was remarkable
+for the development of respiratory distress noted on
+postoperative day two.  The patient developed a respiratory
+rate of 40 with room air saturations in the 80s with an
+increase in pressure, with a temperature of 100.2.  The
+patient was placed on a 100% nonrebreather with saturations
+of 97%.  A chest x-ray at that time demonstrated evidence of
+a right lower lobe pneumonia.  The patient was then placed on
+levofloxacin and Flagyl.  He was admitted to the Medical
+Intensive Care Unit and followed by that team.
+
+On [**3226-5-4**], the patient improved and was weaned off the
+nonrebreather to cool nebulizers.  He was febrile to 101.6;
+and once again was monitored by the Medical Intensive Care
+Unit team.  He improved; however, he did have a hematocrit
+drop to 23.  The patient was on Lovenox postoperatively.
+Because of this, he was transfused 2 units.  He was
+guaiac-negative.  The Lovenox was then discontinued.
+
+The patient did have lower extremity noninvasive tests
+performed on [**3226-5-5**].  These were negative, and because
+of this negative examination, the patient had his Lovenox and
+Coumadin stopped and was placed on an aspirin per day.
+
+DISCHARGE DISPOSITION/STATUS:  The patient was then
+discharged back to his group home on [**3226-5-8**] with
+appropriate treatment.  He was partial weightbearing on his
+right lower extremity at the time of discharge.  He was
+afebrile with stable vital signs and a normal white count.
+His pneumonia was managed by the Medicine Service.  The
+patient was discharged on levofloxacin.
+
+CONDITION AT DISCHARGE:  Condition on discharge was stable.
+
+DISCHARGE DIAGNOSES:
+1.  Subcapital femoral fracture.
+2.  Aspiration pneumonia.
+
+MEDICATIONS ON DISCHARGE:  (Discharge medications included)
+ 1.  Levofloxacin 500 mg p.o. q.d. (for seven days).
+ 2.  Percocet as needed.
+ 3.  Colace 100 mg p.o. b.i.d.
+ 4.  Levoxyl 100 mg p.o. q.d.
+ 5.  Vitamin B one tablet p.o. q.d.
+ 6.  Vitamin C one tablet p.o. q.d.
+ 7.  Ensure 8 ounces p.o. b.i.d.
+ 8.  Dexamethasone ointment.
+ 9.  Nizoral shampoo daily for his seborrhea.
+10.  Debrox 3 to 4 drops every week for a wax buildup.
+11.  Paxil 25 mg p.o. q.d.
+
+
+
+
+                          [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 4549**], M.D.  [**MD Number 4550**]
+
+Dictated By:[**Last Name (NamePattern4) 4551**]
+
+MEDQUIST36
+
+D:  [**3226-8-3**]  23:09
+T:  [**3226-8-11**]  09:43
+JOB#:  [**Job Number 4552**]
+Signed electronically by: DR. [**First Name11 (Name Pattern1) **] [**Initial (NamePattern1) **] [**Last Name (NamePattern4) **]
+ on: TUE [**3226-8-11**] 5:25 PM
+(End of Report)
+
+
+",,
+24076,548,,,3226-05-01 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3226-5-1**] 4:49 PM
+     PELVIS PORTABLE                                                 Clip # [**Clip Number (Radiology) 15344**]
+     Reason: IN PACU/LOW PELVIS - INCLUDE DISTAL PROSTHESIS.  r/o femur f
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      53 year old man s/p R hip hemiarthroplasty                                      
+     REASON FOR THIS EXAMINATION:
+      IN PACU/LOW PELVIS - INCLUDE DISTAL PROSTHESIS.  r/o femur fracture             
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: S/P right hip arthroplasty.
+     
+     PORTABLE AP PELVIS AND HIP: A bipolar total hip prosthesis is present on the
+     right in satisfactory position.
+     
+
+",,
+24076,548,,,3226-05-01 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3226-5-1**] 10:41 AM
+     CHEST (SINGLE VIEW)                                             Clip # [**Clip Number (Radiology) 15342**]
+     Reason: pre-op for R hemiarthroplasty
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      53 year old man with alzheimers/down's syndrome w/ R femoral neck fx.
+     REASON FOR THIS EXAMINATION:
+      pre-op for R hemiarthroplasty
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Alzheimers and Down's syndrome with right femoral neck fracture,
+     preop.
+     
+     FINDINGS:  Single frontal chest radiograph.  There are no consolidations,
+     pleural effusions, definite evidence of congestive heart failure.  There is
+     cephalization of vessels which may be secondary to patient's supine position.
+     There are linear opacities at the left lung base consistent with scarring vs.
+     atelectasis.
+     
+     IMPRESSION:  No acute cardiothoracic pathology identified.
+
+",,
+24076,548,,,3226-05-01 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3226-5-1**] 8:48 AM
+     HIP UNILAT MIN 2 VIEWS RIGHT                                    Clip # [**Clip Number (Radiology) 15341**]
+     Reason: H/O PAIN, RT HIP,R/O FX
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      53 year old man with sudden onset r hip pain unable to bear weight.  Pt has MR
+      and alzheimers and is poor historian.  Has group home staff member with him.
+      Has hx of striking at staff.  Took a swing at ems during transfer.
+     REASON FOR THIS EXAMINATION:
+      R/O FX
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Sudden onset of right hip pain in Alzheimer's patient.
+     
+     FINDINGS:  AP of the pelvis with two additional views of the right hip.  There
+     is a right subcapital fracture with displacement of the distal fracture
+     fragments superiorly with some overriding of the right femoral head which is
+     dislocated.  No additional fractures are seen.
+     
+     IMPRESSION:  Right subcapital femoral fracture.
+
+",,
+24076,548,,,3226-05-01 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3226-5-1**] 10:41 AM
+     FEMUR (AP & LAT) RIGHT                                          Clip # [**Clip Number (Radiology) 15343**]
+     Reason: Pre-op for R hemiarthroplasy.  Pt w/ R femoral neck fracture
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      53 year old man with alzheimers/down's syndrome w/ R femoral neck fx.
+     REASON FOR THIS EXAMINATION:
+      Pre-op for R hemiarthroplasy.  Pt w/ R femoral neck fracture needs 120%
+      magnified AP an lateral views of R femoral head/neck.  Please print.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Alzheimer's disease with right femoral neck fracture.
+     
+     FINDINGS:  Four views of the right femur.  There is a subcapital fracture of
+     the right femur with superior displacement of the distal femur fragment with
+     some overriding of the right femoral head.  The right femoral head remains
+     well seated within the acetabulum.  No additional fractures are seen.
+     
+     IMPRESSION:  Subcapital right femur fracture.
+
+",,
+24076,548,,,3226-05-03 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3226-5-3**] 10:26 PM
+     CHEST CTA WITH CONTRAST; CT 100CC NON IONIC CONTRAST            Clip # [**Clip Number (Radiology) 15346**]
+     Reason: r/o PE in hypoxic tachycardic tachypneic patient, 2days s/p 
+      Contrast: OPTIRAY Amt: 100
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      53 year old man with above sx                                                   
+     REASON FOR THIS EXAMINATION:
+      r/o PE in hypoxic tachycardic tachypneic patient, 2days s/p hip fx.  Need CT 
+      angiogram.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Two days status post hip fracture, hypoxic and tachycardic.
+     
+     TECHNIQUE:  Chest CT was performed according to a pulmonary angiogram
+     protocol.
+     
+     CONTRAST:  100 cc of optiray was administered.
+     
+     CHEST CT WITH INTRAVENOUS CONTRAST:  Soft tissue windows demonstrate multiple
+     bilateral axillary and hilar lymph nodes, none of which meet CT criteria for
+     pathologic enlargement.  There is no significant hilar lymphadenopathy. The
+     heart pericardium and great vessels are normal in appearance.  There is no
+     evidence of pulmonary embolism.  There is dense consolidation of the left
+     lower lobe.  There is mild atelectasis of the inferior posterior portion of
+     the right lower lobe.  No pleural effusions are present.  The remainder of the
+     lungs are clear.  The airways are patent to the level of the segmental bronchi
+     bilaterally.
+     
+     Osseous structures are unremarkable.
+     
+     IMPRESSION:  No evidence of pulmonary embolism.  Left lower lobe
+     consolidation. Mediastinal lymphadenopathy most likely reactive.  
+     
+
+",,
+24076,548,,,3226-05-03 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3226-5-3**] 10:26 PM
+     CHEST CTA WITH CONTRAST; CT 100CC NON IONIC CONTRAST            Clip # [**Clip Number (Radiology) 15346**]
+     Reason: r/o PE in hypoxic tachycardic tachypneic patient, 2days s/p 
+      Contrast: OPTIRAY Amt: 100
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      53 year old man with above sx                                                   
+     REASON FOR THIS EXAMINATION:
+      r/o PE in hypoxic tachycardic tachypneic patient, 2days s/p hip fx.  Need CT 
+      angiogram.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Two days status post hip fracture, hypoxic and tachycardic.
+     
+     TECHNIQUE:  Chest CT was performed according to a pulmonary angiogram
+     protocol.
+     
+     CONTRAST:  100 cc of optiray was administered.
+     
+     CHEST CT WITH INTRAVENOUS CONTRAST:  Soft tissue windows demonstrate multiple
+     bilateral axillary and hilar lymph nodes, none of which meet CT criteria for
+     pathologic enlargement.  There is no significant hilar lymphadenopathy. The
+     heart pericardium and great vessels are normal in appearance.  There is no
+     evidence of pulmonary embolism.  There is dense consolidation of the left
+     lower lobe.  There is mild atelectasis of the inferior posterior portion of
+     the right lower lobe.  No pleural effusions are present.  The remainder of the
+     lungs are clear.  The airways are patent to the level of the segmental bronchi
+     bilaterally.
+     
+     Osseous structures are unremarkable.
+     
+     IMPRESSION:  No evidence of pulmonary embolism.  Left lower lobe
+     consolidation. Mediastinal lymphadenopathy most likely reactive.  
+     
+
+",,
+24076,548,,,3226-05-03 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3226-5-3**] 8:41 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 15345**]
+     Reason: r/o P.E.                                                    
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      53 year old man with increasing sob                                             
+     REASON FOR THIS EXAMINATION:
+      r/o P.E.                                                                        
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Increasing shortness of breath, rule out pulmonary embolus.
+     
+     COMPARISON:  [**3226-5-1**].
+     
+     SINGLE VIEW CHEST:  The cardiac and mediastinal contours appear unremarkable.
+     There is collapse/consolidation of the left lower lobe and lingula which is
+     increased in extent from the prior study.  There is elevation of the left
+     hemidiaphragm and shift of the mediastinum to the left, indicative of volume
+     loss.  There are no pleural effusions and no evidence for congestive heart
+     failure.
+     
+     IMPRESSION:  Collapse/consolidation of the left lower lobe and lingula.  This
+     may be consistent with aspiration or pneumonia and clinical correlation is
+     suggested.
+
+",,
+24076,548,29901,,3226-05-04 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3226-5-4**] 12:56 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 15347**]
+     Reason: Evaluate LLL PNA                                            
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       53 year old man with increasing sob, LLL PNA by CTA, please eval.              
+                                    
+     REASON FOR THIS EXAMINATION:
+      Evaluate LLL PNA                                                                
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     PORTABLE CHEST RADIOGRAPH FROM [**3226-5-4**] AT 14:35.
+     
+     INDICATION:  Left lower lobe pneumonia by CT.
+     
+     Comparison is made to CT of [**3226-5-3**].
+     
+     FINDINGS:  Note that this report replaces a previous report lost in the RTAS
+     system.
+     
+     Compared to the study of [**3226-5-3**] at 20:58, there is a persistent left lower
+     lobe opacity consistent with pneumonia.  The pulmonary vessels remain okay.
+     The heart size is within normal limits.  There is apparent deviation of the
+     trachea to the right superiorly, but given lack of findings on CT of the
+     previous day, this likely represents a positional artifact.  There is blunting
+     of the left CPA, suggesting a small left-sided pleural effusion.  The right
+     lung and right CPA are clear.
+     
+     IMPRESSION:
+     
+     1) Findings consistent with left lower lobe pneumonia.
+     
+     2) Small left-sided pleural effusion.
+
+",,
+24076,548,29901,0,3226-05-04 02:43:00 EST,3226-05-04 03:22:00 EST,-1,"N",1,"Nursing/Other",,"
+
+NURSING TRANSFER NOTE FROM CC6 
+
+
+This 53 y.o. male arrived at 2300 on [**5-3**] via stretcher after CT scan from CC6. Pt. had Right hip hemiarthroplasty on [**5-1**].  At 2030 [**5-3**], pt. developed acute resp. distress with rr 40s, O2 sats 80s on R/A, tachycardic rate 140s and decreased mental status. CT angio done with no evidence for PE, but with significant LLL consolidation.
+
+
+PMH: Down's syndrome, Alzheimers, depression, hypothyroidism. Lives at group home.
+
+
+Pt. had been found by staff at group home to have difficulty ambulating on [**4-30**]. On [**5-1**], pt. unable to ambulate at all. Transported by ambulance to [**Hospital1 3**], where xray revealed right femoral neck fx. Surgery done on [**5-1**] as noted above. Pt. had been doing well on floor until this evening. Plans were for pt. to go back to group home for rehab with VNA and PT.
+
+
+NEURO: Upon admission pt. lethargic, yet stating ""want to go home."" Orientation provided to pt. Pt. falls back to [**Doctor Last Name **]. Pt. becoming more alert as the shift progressed, asking to ""go to workshop."" Pt. disoriented. Re-orientation provided. Pt. remains confused, yelling out at times. Despite re-orientation and reassurance, pt. pulls off O2 mask, desats to 89% without mask. Bilateral soft wrist restraints applied. Inconsistently following simple commands. Grimaces and yells with repositioning, falls back to [**Doctor Last Name **] when left alone.
+
+RESP: Initially arrived on 100% non-rebreather. Weaned to cool-aerosol mask at 60% with O2 sats>95%. Lungs with rhonchi, except diminished in left base. Has fair cough, not raising sputum. Resp. rate has remained <30.
+
+CV: Remains in NSR/ST with occ. PVC noted. SBP >90 by cuff. #20 gauge IV in place on left arm. #18 gauge IV started in right arm. IV fluids infusing as ordered. Kphos replacement infusing as ordered over 6 hours. Temp 101.6 rectally on arrival. Blood cultures and urine culture sent. Skin warm/dry, with palpable peripheral pulses. Initial lopressor dose held as SBP<100.
+
+GI: Initially too lethargic to take pills. Some meds changed to IV. Took sips of coffee later with assist, did cough slightly after swallowing. Pt. kept NPO for rest of shift, just swabs of water given.
+Abd. soft, hypoactive BS noted. No BM as of yet this shift.
+
+GU: Marginal urine output ~30cc/hr, cloudy, yellow urine via foley catheter.
+
+SKIN: Right hip with dressing intact with mod. amount of serosanguinous drainage noted. Right leg with knee immobilizer in place. No skin breakdown noted on back or buttocks.
+
+SOCIAL: Pt. has sister, who is guardian. MDs spoke with her prior to transfer. No contact with her by RN as of yet.
+
+PLAN: Pulmonary toilet, encourage deep breathing and coughing. Give antibiotics as ordered. Replace electrolytes as ordered. Possible swallowing evaluation.  On enoxaparin and protonix for prophylaxis. Frequent re-orientation, continue to evaluate needs for restraints.
+",,
+24076,548,29901,0,3226-05-04 12:20:00 EST,3226-05-04 12:37:00 EST,188,"N",1,"Nursing/Other","NURSING PROGRESS NOTE 0700-1500","
+NURSING PROGRESS NOTE 0700-1500
+NEURO--PER PT'S HOUSE MANAGER WHERE PT LIVES, HIS MENTAL STATUS IS BACK TO BASELINE. HE IS CONVERSANT, ALERT. INCONSISTENTLY FOLLOWS COMMANDS. SAYS NO ALOT BUT DOESN'T ALWAYS MEAN NO .MAE SPONT AND TO COMMAND. 
+
+CARDIAC--?AORTIC REGURG. CARDIAC ECHO TO BE DONE. BP 88/40-100/48. REMAINS IN SR WITH OCCASIONAL PVC'S. MSO4 2MG IV GIVEN X2 FOR INCISIONAL PAIN. RELIEF OBTAINED AS PT SLEPT IN NAPS. IVF AT 100 CC HR INFUSING. RECIEVED KPHOS.
+
+RESP--STRONG PRODUCTIVE COUGH BUT DOES NOT EXPECTORATE, HE SWALLOWS IT. LUNGS ARE COARSE IN L UPPER ,MID AND DECREASED IN BASE. R LUNG IS CLEAR AND DIMINISHED IN BASES. SAO2 >96%. WEARING O2 AT 50%FACE TENT.
+
+GI---GOOD APPETITE. NEEDS MODIFIED CONSISTENCY. PT'S HOUSE MANAGER STATES THAT PT LIKES PIZZA, WAFFLES, OATMEAL, PUDDING, [**Country **]. DID NOT COUGH AT ALL WHILE EATING BUT ALSO DID NOT HAVE LIQUIDS. NO STOOL +BS.
+
+GU--FOLEY CATH DRAINING >30 CC HR OF AMBER URINE. 
+
+ENDO--UNREMARKABLE AT PRESENT.
+
+SKIN--R HIP DRESSING WAS OOZING SEROSANGUINOUS DRAINAGE AND DRESSING WAS NOT ADHERED. DSD APPLIED. INCISION WITH STAPLES INTACT. NO FURTHER DRAINAGE.
+BUTTOCKS WITHOUT BREAKDOWN. TURNED AND REPOSITIONED Q2 HR BUT DOES NOT LIKE LYING ON R SIDE DOWN.
+
+ID--T MAX THIS SHIFT 99.6 AX.
+
+COPING-- STAFF MEMBERS OF MR [**Known patient lastname 4126**] HOME HAVE BEEN IN AND WILL CON'T TO COME IN AROUND MEAL TIMES. HE LIKES SEEING A FAMILIAR FACE . AT TIMES, [**Doctor First Name 379**] IS LOUD AND SHOUTS OUT BUT ACCORDING TO HIS HOME STAFF, THIS MEANS THAT HE IS HAPPY AND OK.  HIS SISTER HAS NOT PHONED AS OF THIS TIME. SHE IS [**Doctor First Name 4127**] GUARDIAN.
+
+A--STABLE WITHOUT RESP DISTRESS 
+
+P--CHECK 2P HCT RESULTS, CXR DONE, ECHO DONE. REDIRECT AND REORIENT AS NEEDED. OFFER SUPPORT.
+",,
+24076,548,29901,0,3226-05-04 14:05:00 EST,3226-05-04 14:08:00 EST,188,"N",1,"Nursing/Other","ADDENDUM","
+ADDENDUM
+HCT IS 23.6 DOWN FROM THIS AM OF 26.7. CALL MADE TO ORTHO  IN OR, DR [**First Name4 (NamePattern1) 4128**] [**Last Name (NamePattern1) 4129**] (SP?)  IS AWARE BUT GAVE MESSAGE TO RN THAT ""MEDICAL TEAM SHOULD HANDLE THIS"".
+
+BLOOD CONSENT OBTAINED VIA PHONE BY PT'S GUARDIAN. HE WILL GET A COUPLE OF UNITS OF PRBC. CLOT SENT TO BB AT 1430.
+",,
+24076,548,29901,0,3226-05-04 17:51:00 EST,3226-05-04 17:55:00 EST,187,"N",1,"Nursing/Other",,"
+
+HCT 23,FIRST UNIT PC HUNG.
+BP TO 84 SYS ,RESPONDED TO 250 CC NS .
+PT RESTLESS AND CALLING OUT,VISITED BY STAFF FROM HOME .
+ATE SOFT SOLIDS WELL ,COUGHED ON FLUIDS .
+DSD CHANGED FOR MOD SERO/SANG.
+",,
+24076,548,29901,0,3226-05-05 04:41:00 EST,3226-05-05 04:58:00 EST,-1,"N",1,"Nursing/Other",,"
+
+NURSING PROGRESS NOTE 1900-0700
+
+NEURO: Pt. alert, inconsistently follows commands. Very conversive at beginning of shift, as sister was visiting. Pt. pulls off O2, pulls at foley, IV. Despite re-orientation, pt. continues with behaviors. Bilateral soft wrist restraints kept on pt. Re-orientation given to pt. and reassurance given. Yells out with turning, stiffens body. Prefers to lie on left side. Morphine 2mg IV given for turns, able to [**Doctor Last Name **] on right side after MSO4 given.
+
+RESP: O2 sats 93-95% on R/A. O2 @2lpm placed on pt. while sleeping. O2 sats 96-98% on 2 liters. Lungs clear, yet diminished in bases left >right. Has strong productive cough, yet swallows sputum. Chest PT done.
+
+CV: Remains in NSR/ST with occ PVC noted. SBP 85-95. First unit of PRBC finished at 2000, second unit of PRBC finished at 2200, no s/s of transfusion reacton noted. Repeat HCT at 2400=29. D5 [**11-26**] continues at 100cc/hr. Skin warm/dry. Pt. afebrile. Strong peripheral pulses throughout.
+
+GI: Pt. tolerating pudding, ice cream well. Takes pills crushed with ice cream. No liquids given this shift. Abd. softly distended, +BS noted, +flatus. No BM as of yet.
+
+GU: Urine output marginal 30cc/hr via foley catheter.
+
+SKIN: Right hip dressing changed at beginning of shift for moderate amount of serosanguinous drainage. Right thigh swollen, redness noted. Staples intact on right hip. Right knee immobilizer in place. No skin breakdown noted on back or buttocks. Turned q2h.
+
+SOCIAL: Pt's sister in at beginning of shift. Staff from pt's group home visits throughout day.
+
+PLAN: Continue with pulmonary toilet, chest PT. Encourage coughing, deep breathing. Antibiotics as ordered.  Encourage po intake, sit upright for feedings. Monitor HCT and electrolytes. Restraints as needed, monitor CSM. Provide frequent orientation and reassurance for pt. Possible transfer out of CCU today.
+",,
+24076,548,,,3226-05-06 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3226-5-6**] 9:17 AM
+     [**Last Name (un) **] DUP EXTEXT BIL (MAP/DVT)                                    Clip # [**Clip Number (Radiology) 15348**]
+     Reason: R/O BIL LE DVT
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      53 year old man with                                                            
+     REASON FOR THIS EXAMINATION:
+      r/o bil LE DVT                                                                  
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Evalute for DVT in patient following surgery.
+     
+     FINDINGS:  Noninvasive vascular ultrasound studies were performed in the left
+     and right lower extremities.  On the left side, the common and superficial
+     femoral veins and the popliteal vein are widely patent with flow which is
+     augmentable.  All veins are compressible on the left side.  On the right side,
+     the common femoral, saphenous and proximal superficial femoral vein and
+     popliteal vein are all widely patent, with augmentation and compressibility.
+     The mid and distal superficial femoral veins could not be visualized due to
+     overlying cast.  In discussion with the patient's nurse, it was decided not to
+     remove the cast for the study.
+     
+     IMPRESSION:  No DVT in left or right lower extremity.  Please note that the
+     mid and distal superficial femoral vein on the right was not imaged due to
+     overlying cast.
+     
+
+",,
+24076,,,,3226-06-30 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3226-6-30**] 9:42 AM
+     HIP UNILAT MIN 2 VIEWS RIGHT                                    Clip # [**Clip Number (Radiology) 15349**]
+     Reason: S/P BIPOLAR
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY: F/U hip prosthesis.
+     
+     AP FILM OF PELVIS + TWO ADDED VIEWS OF THE RIGHT HIP AND PROXIMAL FEMUR:
+     There is a satisfactorily positioned bipolar right hemiarthroplasty with
+     non-cemented components.  The left hip and SI joints are normal.  No bone
+     destruction.  There is an apparent soft tissue mass in the pelvis probably
+     representing urinary bladder.  Slight angulation of the distal lumbar spine,
+     may reflect positioning.  No comparison exams.
+
+",,
+24076,,,,3226-08-02 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3226-8-2**] 4:25 AM
+     CHEST (PA & LAT)                                                Clip # [**Clip Number (Radiology) 15350**]
+     Reason: r/o pneumonia
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      53 year old man with down's syndrome, n/v.
+     REASON FOR THIS EXAMINATION:
+      r/o pneumonia
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: Nausea and vomiting in 53 year old male with Downs.
+     
+     COMPARISON: [**3226-5-4**].
+     
+     CHEST: The cardiac silhouette is within normal limits. The mediastinal and
+     hilar contours are unremarkable. There is patchy opacification overlying the
+     medial right lung base. Faint patchy opacification is also seen at the left
+     lower lobe. There are no pleural effusions. The pulmonary vasculature is
+     within normal limits. A minimally displaced fracture of the posterior right
+     4th rib is new since the prior study. There is no pneumothorax.
+     
+     IMPRESSION: 1. Right lower lobe pneumonia and possible evolving left lower
+     lobe pneumonia. 2. Fracture posterior right 4th rib.
+
+",,
+24076,,,,3226-08-02 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3226-8-2**] 4:25 AM
+     ABDOMEN (SUPINE ONLY)                                           Clip # [**Clip Number (Radiology) 15351**]
+     Reason: assess for obstruction
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      53 year old man with down's syndrome, N/V.
+     REASON FOR THIS EXAMINATION:
+      assess for obstruction
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Nausea and vomiting in patient with Down's syndrome, ?
+     obstruction.
+     
+     ABDOMEN:  There are no distended bowel loops and no air/fluid levels.  Air is
+     noted in the stomach and a few pockets of air overlie the right lower quadrant
+     and lower mid-abdomen and there is an overall paucity of bowel gas.  Stool is
+     noted in the rectum. There is no free intraperitoneal air.  Note is made of a
+     right hip prosthesis.
+     
+     IMPRESSION:  Nonspecific bowel gas pattern with no evidence of bowel
+     obstruction or perforation.
+     
+
+",,
+24076,,,,3226-08-06 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3226-8-6**] 12:51 PM
+     HIP UNILAT MIN 2 VIEWS RIGHT                                    Clip # [**Clip Number (Radiology) 15352**]
+     Reason: r/o infected prothetic hip
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      53 year old man with [**Female First Name (un) 15353**] Alzheimer s/p right hip arthroplasty now c/o hip
+      pain and septemia with ? G+cocci.
+     REASON FOR THIS EXAMINATION:
+      r/o infected prothetic hip
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY;  S/P Right hip replacement, now with hip pain and septicemia.
+     Evaluate for infected prosthesis.
+     
+     TWO VIEWS OF THE RIGHT HIP:  Comparison is made to an exam of [**3226-6-30**].  Again
+     noted, is bipolar right hip replacement with non-cemented components. The
+     prosthesis remains well positioned.  There is no evidence of prosthetic
+     loosening or periprosthetic inflammatory changes.  The visualized osseous
+     structures are unremarkable.  There are no abnormal soft tissue
+     calcifications.
+     
+     IMPRESSION:  Normal radiographic appearance of right hip prosthesis.
+     
+
+",,
+24076,,,,3226-08-06 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+",,
+24076,,,,3226-08-07 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3226-8-7**] 10:45 AM
+     CT PELVIS W/CONTRAST; CT 100CC NON IONIC CONTRAST               Clip # [**Clip Number (Radiology) 15354**]
+     Reason: G+COCCI,RT HIP PAIN,R/O ABCESS
+     Field of view: 38 Contrast: OPTIRAY Amt: 100
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      53 year old man with [**Female First Name (un) 15353**] & dementia s/p Right hip arthroplasty, now in for
+      G+cocci septemia and right hip pain. 
+     REASON FOR THIS EXAMINATION:
+      r/o infection of prosthetic hip
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CT OF THE PELVIS.
+     
+     CLINICAL INDICATION:  53 year old man with Down syndrome.  Status post right
+     hip arthroplasty.  Now with gram-positive cocci septicemia.  Evaluate for
+     infection of the prosthetic hip.
+     
+     TECHNIQUE:  Helically-acquired contiguous axial images were obtained through
+     the pelvis to the upper femurs following the administration of 100 cc of
+     Optiray contrast IV.  Optiray contrast was utilized in light of debility.
+     
+     COMPARISONS:  None.
+     
+     CT OF THE PELVIS WITH IV CONTRAST:  The patient is status post placement of a
+     metallic right hip prosthesis.  The artifact caused by this metallic hardware
+     renders evaluation of the right hip joint space impossible.  However, the
+     muscles surrounding the right hip appear symmetric in comparison with the left
+     and no abnormal fluid collections are identified anterior or posterior to the
+     hip prosthesis and the fat planes between the muscles are well preserved.
+     There is a small amount of stranding in the subcutaneous fat adjacent to the
+     hip.  There are a few small lymph nodes in the inguinal regions bilaterally
+     which do not meet CT criteria for pathologic enlargement.
+     
+     The urinary bladder, rectum and sigmoid colon are unremarkable.
+     
+     IMPRESSION:  Artifact caused by right metallic hip prosthesis obscures the
+     right hip joint and thus it is impossible to evaluate for fluid within the
+     joint space.  However, there is no suggestion of abnormal fluid collection in
+     the surrounding soft tissues.
+
+",,
+24076,,,,3226-08-07 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3226-8-7**] 10:45 AM
+     CT PELVIS W/CONTRAST; CT 100CC NON IONIC CONTRAST               Clip # [**Clip Number (Radiology) 15354**]
+     Reason: G+COCCI,RT HIP PAIN,R/O ABCESS
+     Field of view: 38 Contrast: OPTIRAY Amt: 100
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      53 year old man with [**Female First Name (un) 15353**] & dementia s/p Right hip arthroplasty, now in for
+      G+cocci septemia and right hip pain. 
+     REASON FOR THIS EXAMINATION:
+      r/o infection of prosthetic hip
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CT OF THE PELVIS.
+     
+     CLINICAL INDICATION:  53 year old man with Down syndrome.  Status post right
+     hip arthroplasty.  Now with gram-positive cocci septicemia.  Evaluate for
+     infection of the prosthetic hip.
+     
+     TECHNIQUE:  Helically-acquired contiguous axial images were obtained through
+     the pelvis to the upper femurs following the administration of 100 cc of
+     Optiray contrast IV.  Optiray contrast was utilized in light of debility.
+     
+     COMPARISONS:  None.
+     
+     CT OF THE PELVIS WITH IV CONTRAST:  The patient is status post placement of a
+     metallic right hip prosthesis.  The artifact caused by this metallic hardware
+     renders evaluation of the right hip joint space impossible.  However, the
+     muscles surrounding the right hip appear symmetric in comparison with the left
+     and no abnormal fluid collections are identified anterior or posterior to the
+     hip prosthesis and the fat planes between the muscles are well preserved.
+     There is a small amount of stranding in the subcutaneous fat adjacent to the
+     hip.  There are a few small lymph nodes in the inguinal regions bilaterally
+     which do not meet CT criteria for pathologic enlargement.
+     
+     The urinary bladder, rectum and sigmoid colon are unremarkable.
+     
+     IMPRESSION:  Artifact caused by right metallic hip prosthesis obscures the
+     right hip joint and thus it is impossible to evaluate for fluid within the
+     joint space.  However, there is no suggestion of abnormal fluid collection in
+     the surrounding soft tissues.
+
+",,
+24076,,,,3226-08-26 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3226-8-26**] 8:35 AM
+     ARTHROGRAM,HIP RIGHT                                            Clip # [**Clip Number (Radiology) 15355**]
+     Reason: request fluro-guided tap of right hip joint to rule out [**Last Name (un) 15356**]
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      53 year old man with [**Female First Name (un) 15353**] Alzheimer s/p right hip arthroplasty now c/o hip
+      pain--would like to R/O septic hip; Xray and CT of hip negative for
+      abcess/osteomyelitis, though diffraction of metal in joint reduce eval
+      effectiveness of CT; pt is being discharged today as clinically stable,
+      afebrile; [**Hospital Unit Name **] consult has recommended the hip be tapped to rule out septic
+      joint completely 
+     REASON FOR THIS EXAMINATION:
+      request fluro-guided tap of right hip joint to rule out septic joint; please
+      send aspirate for culture, gram stain, and microscopy
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  53-year-old man with Down's syndrome and superimposed Altzheimer
+     dementia.  Recently hospitalized with ?sepsis.  Right hip pain.
+     
+     After discussion with the patient's housekeeper and by phone with patient's
+     sister ([**First Name4 (NamePattern1) 15357**] [**Last Name (NamePattern1) 15358**]) a right hip aspiration was performed uneventfully
+     (this procedure was originally scheduled as in-patient). Absentee consent form
+     signed.  Preliminary fluoroscopy shows a satisfactorily positioned non-
+     cemented bipolar right hip hemiarthroplasty.  A needle was introduced into
+     several places along the metallic femoral neck of the prosthesis and 0.3 ml of
+     sanguinous ""effusion"" was aspirated.  No large collection identified.  The
+     patient tolerated the procedure with no difficulty.
+     
+     IMPRESSION:  Only several drops normal appearing fluid obtained from area of
+     prosthesis. This was sent for culture.
+
+",,
+24076,,,,3226-09-15 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3226-9-15**] 2:34 PM
+     HIP UNILAT MIN 2 VIEWS RIGHT                                    Clip # [**Clip Number (Radiology) 15359**]
+     Reason: BIPOLAR
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     
+     TWO VIEWS OF THE RIGHT HIP:
+     
+     INDICATION:  Evaluate for fracture.
+     
+     FINDINGS:  There are no studies available for comparison.  There is a bipolar
+     hemiarthroplasty in place with good positioning.  There is no evidence of
+     fracture or dislocation.  There is no evidence of bone destruction or hardware
+     loosening.  There are no suspicious lytic or sclerotic lesions.  There are no
+     abnormal soft tissue calcifications.  There is no evidence of hardware
+     failure.
+     
+     IMPRESSION:  No evidence of fracture, dislocation, or hardware loosening. 
+
+",,

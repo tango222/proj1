@@ -1,0 +1,202 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+24381,2790,,,2865-12-06 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+
+
+Admission Date:  [**2865-12-6**]     Discharge Date:  [**2865-12-8**]
+
+Date of Birth:   [**2797-4-21**]     Sex:  F
+
+Service:  Medicine
+
+HISTORY OF PRESENT ILLNESS:  The patient is a 68-year-old
+female with a history of metastatic adenocarcinoma who was
+sent to the Emergency Department with episode of syncope.
+She had just received her second round of chemotherapy (Taxol
+and carboplatin) yesterday which was tolerated well.  She had
+no nausea or vomiting.  She had been in her usual state of
+health with no recent illness or medication changes.
+
+The patient was shopping and began to feel dizzy.  No visual
+changes or tinnitus.  No shortness of breath.  No chest pain.
+She had some palpitations with dizziness and sat in a chair.
+The feeling persisted.  When she stood up to walk, she fell
+forward and hit her head and had positive loss of
+consciousness times two to three minutes.  She had no seizure
+activity, no tongue biting, no bowel or bladder incontinence,
+and no history of similar episodes in the past.  The patient
+was able to ambulate after the episode.
+
+PAST MEDICAL HISTORY:
+1.  Metastatic adenocarcinoma of unknown primary; status post
+palliative radiation therapy; status post second cycle of
+Taxol and carboplatin.
+2.  Colon cancer; resected in [**2852**] with adjuvant
+chemotherapy.
+3.  Osteoporosis.
+4.  History of pulmonary embolism in [**2859**].
+5.  History of Guillain-[**Location (un) 239**] syndrome.
+
+MEDICATIONS ON ADMISSION:
+1.  Lipitor 10 mg by mouth once per day.
+2.  Fosamax 10 mg by mouth once per day.
+3.  MS Contin 15 mg by mouth once per day.
+4.  Zantac 150 mg by mouth once per day.
+
+ALLERGIES:  No known drug allergies.
+
+SOCIAL HISTORY:  The patient is an administrative assistant.
+She has been married for 46 years.  She has a 40-pack-year
+history of smoking; quit in [**2835**].  No history of alcohol use.
+
+FAMILY HISTORY:   Family history is positive for cancer and
+positive for coronary artery disease.
+
+REVIEW OF SYSTEMS:  Review of systems was otherwise negative.
+
+PHYSICAL EXAMINATION ON PRESENTATION:  Physical examination
+revealed the patient's temperature was 98.1 degrees
+Fahrenheit, her heart rate was 97, her blood pressure was
+132/83, her respiratory rate was 21, and her oxygen
+saturation was 92% to 95% on room air.  In general, the
+patient is a pleasant elderly woman in no apparent distress.
+Head, eyes, ears, nose, and throat examination revealed the
+head was normocephalic.  Pupils were equal, round, and
+reactive to light.  Positive laceration over the right
+eyebrow.  Positive periorbital ecchymosis.  The oropharynx
+was clear.  No otorrhea or rhinorrhea.  The neck was supple.
+No lymphadenopathy.  No cervical spine tenderness.
+Cardiovascular examination revealed a regular rate and
+rhythm.  She had a 2/6 systolic ejection murmur across the
+precordium.  Pulmonary examination revealed scattered
+crackles.  Decreased breath sounds at the right base.  Poor
+inspiratory effort.  The abdomen was soft, nontender, and
+nondistended.  Normal active bowel sounds.  Extremity
+examination revealed no edema.  No palpable cords.
+Neurologic examination revealed the patient was alert and
+oriented times three.  Cranial nerves II through XII were
+intact.  Strength was [**5-25**] in all four extremities.  Sensation
+was grossly intact.
+
+PERTINENT LABORATORY VALUES ON PRESENTATION:  Laboratories
+revealed the patient's white blood cell count was 8, her
+hematocrit was 35.4, and her platelets were 322.  Chemistries
+were within normal limits.  Coagulations revealed prothrombin
+time was 12.8, partial thromboplastin time was 22.5, and her
+INR was 1.1.  Urinalysis was negative.
+
+PERTINENT RADIOLOGY/IMAGING:  A computed tomography of the
+head revealed a small right frontal subarachnoid hemorrhage.
+
+Computed tomography angiogram revealed no pulmonary embolism.
+The pericardium was normal.  Decreased size and multiple
+pleural-based lesions consistent with known adenocarcinoma.
+
+Electrocardiogram revealed a normal sinus rhythm at 81 beats
+per minute, normal intervals, and normal axis.  No acute ST-T
+wave abnormalities.
+
+CONCISE SUMMARY OF HOSPITAL COURSE BY ISSUE/SYSTEM:
+
+1.  SUBARACHNOID HEMORRHAGE ISSUES:  A Neurosurgery
+consultation was obtained.  The patient had every 1-hour
+neurologic checks in the Medical Intensive Care Unit.  The
+patient's blood pressure was kept at less than 150, and her
+platelets and coagulations were monitored and remained
+normal.
+
+She had a repeat head computed tomography on hospital day two
+which showed complete resolution of the subarachnoid
+hemorrhage and no additional injuries.  The patient was
+remained neurologically intact throughout her
+hospitalization.
+
+2.  SYNCOPE ISSUES:  Syncope was likely
+vasovagal/orthostatic.  The patient had no evidence of
+tamponade on chest computed tomography.  The patient was
+monitored on telemetry with no events.  Her enzymes were
+negative times two.
+
+She had an echocardiogram which showed a small aortic
+gradient consistent with minimal aortic stenosis which was
+deemed unlikely to have caused her syncopal symptoms.  A
+carotid ultrasound was obtained which showed no evidence of
+stenosis in either carotid artery.
+
+3.  METASTATIC ADENOCARCINOMA ISSUES:  The patient is status
+post her second cycle of Taxol and carboplatin with
+regression on prior chest computed tomography.  She was to
+follow up as an outpatient with Oncology as previously
+scheduled.
+
+DISCHARGE DIAGNOSES:
+1.  Syncope.
+2.  Right eyebrow laceration.
+3.  Dehydration.
+4.  Subarachnoid hemorrhage.
+5.  Metastatic adenocarcinoma.
+6.  Osteoporosis.
+
+MEDICATIONS ON DISCHARGE:
+1.  Atorvastatin 10 mg by mouth once per day.
+2.  Alendronate 10 mg by mouth once per day.
+3.  Zantac 150 mg by mouth once per day.
+4.  Percocet one to two tablets by mouth q.4-6h. as needed.
+
+DISCHARGE INSTRUCTIONS/FOLLOWUP:
+1.  The patient was instructed to follow up with her primary
+care physician (Dr. [**Last Name (STitle) **]) in two to three days for suture
+removal.
+2.  The patient was instructed to follow up her oncologist as
+previously scheduled.
+
+DISCHARGE ACTIVITY:  Activity as tolerated.
+
+DISCHARGE DIET:  Resume a normal diet.
+
+CONDITION AT DISCHARGE:  The patient was discharged in stable
+condition on [**2865-12-8**].
+
+
+
+
+
+           DR [**Last Name (STitle) 5280**] [**Name (STitle) 5281**] 12.AFP
+
+Dictated By:[**Name8 (MD) 2442**]
+
+MEDQUIST36
+
+D:
+T:  [**2865-12-10**]  13:58
+JOB#:  [**Job Number 5282**]
+Signed electronically by: DR. [**First Name8 (NamePattern2) 5281**] [**Name (STitle) 5280**]
+ on: TUE [**2865-12-29**] 1:33 PM
+(End of Report)
+
+
+",,
+24381,2790,30272,0,2865-12-07 07:27:00 EST,2865-12-07 07:52:00 EST,2056,"N",69,"Nursing/Other","Nsg Adm note","
+Nsg Adm note
+Mrs. [**Known patient lastname 1691**] is a lovely 68yo who was adm to the MICU after a syncopal episode in Costco.
+PMH:Adeno Lung CA with metasatic mets to bone(dx [**8-23**]:XRT and chemo:        Taxol and Carboplatium)
+    Colon CA-resected '[**54**]
+    h/o PE
+    h/[**Initials (NamePattern4) **] [**Last Name (NamePattern4) 533**] [**Location (un) **]
+    Hypercholesterolemia
+    Osteo
+All;NKDA
+Meds:lipitor  
+     Fosamax
+     MS Contin
+She recieved her most recent dose of Chemo on [**12-4**]. She did well post treatment. She was shopping with her husband on [**12-6**] when she reports that she began to feel ""whoozy"". She also had some palpatations. The symptoms did not subside while sitting but when she stood up she fell with a few min of LOC and she hit her head.She has a sm lac by her rt eye.She was abl eto walk out. In the [**Hospital1 3**] EW she was A&Ox3, MAE no deficiets noted.C-spine was neg. A head CTA was initially read neg but upon further review, it was ? for a SAH. She is now adm to the MICU for freq neuro checks and monitoring.
+MICU Course:
+Neuro:pt fully A&Ox3, MAE, good str and speech. No sz noted. She c/o sl HA after vomiting but it was gone after she slept some. She reports no pain now.No bleeding noted from rt head lac and pt denies any visual changes
+GI: pt vomited x1 in the EW and again x1 here. She states that this sometimes happens 2-3 days after her chemo. She got some Zofran and she feels better. No further abd pain or n/v.
+GU: pt voided in the EW
+CV: her BP was up on adm but that was after she vomited. Since than her BP has been in the 130's. Neuro would like to keep it <150. She is in NSR. She is being r'd/o MI 
+Resp: lungs CTA, o2 sats 98%.
+A/P:Will cont with freq neuro checks, Repeat CT this afternoon
+    Monitor BP and keep <150, lopressor for increasing BP
+    Asses nausea and offer meds if needed.
+   
+",,

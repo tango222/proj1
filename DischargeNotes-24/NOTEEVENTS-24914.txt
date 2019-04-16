@@ -1,0 +1,554 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+24914,5364,,,2778-05-21 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+     
+Admission Date: [**2778-5-21**]     Discharge Date: [**2778-5-24**]
+ 
+Date of Birth:  [**2705-7-16**]     Sex:  M
+ 
+Service: 
+
+HISTORY OF PRESENT ILLNESS:  The patient is a 72-year-old
+white male with a history of diffuse large B-cell lymphoma
+originally diagnosed in [**2773-10-10**].  He recently
+travels from [**State 176**] to [**Location (un) 695**] area for evaluation by Dr.
+[**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **] regarding possible enrollment in a clinical
+trial.  However, he was felt not to be a candidate for the
+trial.  He was treated with high-dose Solu-Medrol on [**2778-5-18**]
+and [**2778-5-19**] on outpatient setting in hopes of temporization
+of the disease so that they could safely return to the
+[**State 176**] into the care of his primary Oncologist.
+
+However, on the day prior to admission, he had sudden onset
+of dizziness, graying, and blurring of his vision, and
+lightheadedness along with some evidence of shortness of
+breath and pleuritic chest pain.  He called 911 and was
+brought in by ambulance to the [**Hospital1 73**] Emergency Department.  His symptoms were transient.
+In the Emergency Department vital signs were, temperature
+98.4, blood pressure 80/40, heart rate 70, and oxygen
+saturation 99 percent on room air.  In Emergency Department,
+he reported that his voice was higher pitched than usual and
+he noted increased nonproductive cough.  He also complained
+of increased left-sided neck pain.  His neck pain resolved
+without an intervention approximately 20 minutes after his
+arrival.  He denied any nausea, vomiting, palpitations,
+fevers, chills, abdominal pain, hemoptysis, dysphagia, throat
+pain, wheeze, or stridor.
+
+In the Emergency Department, ultrasound showed a nonocclusive
+thrombus in the right common femoral vein.  CT scan of the
+neck demonstrated a large lymphoma approximately 12.2 x 8 cm
+with the left carotid arteries patent by encased by tumor.
+He was seen in consultation by the ENT Service, who noted the
+larynx and trachea deviated to the right, but no other
+deviation of his anatomy.  Given the rapid increase in size
+of the mass, he was sent to the Medical Intensive Care Unit
+for further monitoring of concern for possible airway
+compromise.  He was also seen by the Vascular Surgery
+Service, who recommended a carotid ultrasound.  Prior to
+leaving the Emergency Department, he received allopurinol 300
+mg p.o. x 1, Decadron 40 mg p.o. x 1, and Anzemet.  He was
+monitored over night in the Medical Intensive Care Unit and
+was then discharged to the Pulmonary Transplant Unit.
+
+REVIEW OF SYSTEMS:  He denied fevers, chills, recurrent chest
+pain, stridor, wheezing, cough, or hemoptysis.  He denied any
+changes in appetite, weight, or night sweats.  No nausea,
+vomiting, diaphoresis, constipation, dysphagia, or
+odynophagia.
+
+PAST MEDICAL HISTORY:  Non-Hodgkin lymphoma, diffuse large B-
+cell type, diagnosed in [**2773-10-10**], status post  R-CHOP,
+and XRT to the groin in [**2777-9-9**], status post DHAP in
+8, 2003.  He is status post repeat cycles of R-CHOP in
+[**11/2773**] and through 02/2000.  Status post treatment with
+Taxol, topotecan, and Rituxan from [**1-/2776**] to 04/2002.
+Status post treatment with Rituxan and gemcitabine in [**5-/2777**]
+to 07/2003.  Status post repeat treatment with DHAP in
+[**2778-3-31**] to [**2778-4-3**].  Status post two cycles of Rituxan
+in [**2778-4-10**].  History of DVT and PE status post six weeks
+of Coumadin therapy, originally diagnosed in [**2778-2-9**].
+Coronary artery disease, status post CABG times four vessels
+in [**2770**].  Status post transurethral resection of prostate.
+History of shingles.
+
+ALLERGIES:  The patient was allergic to ciprofloxacin
+resulting in hives, Vicodin resulting in dehydration, and
+Humibid resulting in hives.
+
+MEDICATIONS PRIOR TO ADMISSION:
+1. Allopurinol 300 mg p.o. q.d.
+2. Digoxin 0.25 mg p.o. q.d.
+3. Aspirin 81 mg p.o. q.d.
+4. Multivitamin one p.o. q.d.
+5. Vitamin D.
+6. Calcium carbonate.
+7. Of note, he recently finished the course of Coumadin.
+
+
+SOCIAL HISTORY:  The patient lives with his wife in [**State 176**].
+He is a former tobacco smoker, but quit 25 years prior to
+admission.  Denies any alcohol or IV drug use.
+
+FAMILY HISTORY:  Noncontributory.
+
+PHYSICAL EXAMINATION:  Upon transfer:  Generally, he is a
+well-developed, well-nourished elderly male, breathing
+comfortably in no acute distress.  Head, neck exam was
+remarkable for normocephalic and atraumatic.  Pupils are
+equal, round, and reactive to light.  Extraocular eye
+movements were intact.  Sclerae anicteric.  Oral mucosa
+moist.  No oropharyngeal lesions.  Neck exam remarkable for a
+large left-sided neck mass, thick 12 X 10 cm with deviation
+in the trachea to the right.  Pulmonary exam showed lungs to
+be clear to auscultation bilaterally no adventitious breath
+sounds.  The patient also had a well-healed median sternotomy
+scar.  Cardiovascular exam was regular, rate, and rhythm and
+normal S1 and S2 with no murmurs, rubs, and gallops.  Abdomen
+soft, nontender, nondistended with positive normal bowel
+sounds.  There is no evidence of hepatosplenomegaly.
+Extremities exam showed bilateral lower extremity edema of
+right greater than left.  Distal pulses were full.
+Extremities were warm and well perfused.  Neurological exam
+show cranial nerves II through XII are intact.  The patient
+is alert and oriented x 3.
+
+PERTINENT LABS:  X-rays and other studies on transfer to the
+Pulmonary Transplant Service, the patient had a white blood
+cell count with a WBC of 8.0 with 62 percent neutrophils, 28
+percent lymphocytes, 9 percent monocytes, 0.2 percent
+eosinophils, 0.2 percent basophils, hematocrit 35.6, and
+platelets 210,000.  Coagulations were also PT 14.4, PTT 87.9,
+and INR 1.4.  Serum chemistry showed sodium 138, potassium
+4.2, chloride 102, bicarbonate 27, BUN 17, creatinine 0.8,
+glucose 156, calcium 8.8, phosphorus 3.0, magnesium 1.9, and
+uric acid 3.1.  Three sets of cardiac enzymes were
+unremarkable.  LDH elevated at 341.  Digoxin is 0.8.
+Antibody typing screen was negative.  Urinalysis negative.
+Imaging showed a chest x-ray with cardiac size slightly
+enlarged.  There was slight elevation of left hemidiaphragm
+with discoid atelectasis at the left base.  There was a left-
+sided Port-A-Cath tip that was present but difficult to
+distinguish.  A CT scan of the head without contrast
+demonstrated no acute intracranial hemorrhage or evidence of
+major vascular territorial infarct.  The patient was noted to
+have very prominent basilar artery.  CT of the neck
+demonstrated a large left-sided mass approximately 12.2 x 8.4
+cm.  There was marked right tracheal displacement with
+questionable intraluminal tracheal mass.  The tumor encased
+the left common carotid but flow appeared patent.  CT of the
+chest demonstrated no evidence of pulmonary embolus.  There
+were noted a 10 mm precarinal node.  As well, there were also
+emphysematous changes at the lung bases.  There were two
+right-sided upper lobe pulmonary nodules, the largest 6 mm in
+diameter.  Lower extremity ultrasound showed no flow in the
+right popliteal secondary to nonocclusive thrombus.
+
+BRIEF SUMMARY OF HOSPITAL COURSE:  Large B-cell lymphoma with
+the left neck mass.  The patient received IV Decadron and
+Anzemet in the Emergency Department for preparation of the
+second cycle of DHAP, which consisted of Decadron,
+cytarabine, and cisplatin.  He received a total four days of
+therapy.  This will be completed with vigorous hydration,
+allopurinol, and serial checks of tumor lysis labs.  He was
+supported with blood products.  On this regimen, the size of
+his neck mass was decreased.  He was felt stable for
+discharge and travel back to [**State 176**] and with resume care
+with his primary Oncologist there.  It was reiterated to the
+patient several times that at this time he was not a
+candidate for moment in clinical trial regarding treatment
+with Zevelin and in light of his rapidly progressive bulky
+disease, or he might be never be a candidate for such
+treatment.
+
+Deep vein thrombosis.  The patient was started on heparin and
+Coumadin when he was in the Medical Intensive Care Unit, it
+is unclear if the right deep vein thrombosis was old or new,
+I have concern for pulmonary embolus.  As the patient's CT
+was negative, he was switched Lovenox and we will continue
+this as an outpatient.
+
+Dyspnea:  CT was negative for PE.  The patient ruled out for
+MI.  There were no signs or symptoms of airway compromise.
+He was followed by the ENT Service while he was inhouse.
+After chemotherapy was complete, his neck mass had decreased
+in size somewhat.  He remained without evidence of airway
+compromise.
+
+Chest pain:  It is unclear that the patient's initial
+symptoms were more consistent with transient ischemia versus
+vasovagal episode.  His chest pain resolved on the day of
+admission.  It was felt to be atypical in character and
+unlike his previous coronary chest pain prior to his CABG, it
+was felt to be less likely to be ischemic in nature.
+Additionally, he ruled out for myocardial infarction.  Two
+sets of negative enzymes and his EKG remained unchanged.  He
+was instructed to continue digoxin and Lopressor.
+
+DISCHARGE CONDITION:  Stable.  Afebrile.  Hemodynamically
+stable.  No chest pain.  No shortness of breath.  Tolerating
+well intake without nausea or vomiting.  Ambulating
+independently.
+
+DISCHARGE STATUS:  The patient was discharged to home.
+
+DISCHARGE DIAGNOSES:  Non-Hodgkin B-cell lymphoma.
+Right lower extremity deep vein thrombosis.
+History of pulmonary embolus.
+Coronary artery disease, status post coronary artery bypass
+grafting.
+Status post transurethral resection of the prostate.
+History of shingles.
+
+DISCHARGE MEDICATIONS:
+1. Compazine 10 mg p.o. q.4-6 hours as needed for nausea.
+2. Reglan 10 mg p.o. q.i.d. a.c. and h.s.
+3. Decadron 20 mg p.o. q.d.  
+
+FOLLOWUP PLAN:  The patient was instructed to call his
+primary Oncologist, Dr. [**Last Name (STitle) 6323**], for followup appointment
+upon returning from [**State 176**].
+
+
+
+                      DR.[**First Name (STitle) **],[**First Name3 (LF) 730**] 12-699
+
+Dictated By:[**Last Name (NamePattern1) 6324**]
+MEDQUIST36
+D:  [**2778-7-18**] 17:16:41
+T:  [**2778-7-19**] 13:37:45
+Job#:  [**Job Number 6325**]
+
+cc:[**Last Name (NamePattern1) 6326**]
+Dr. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **]
+
+Dr. [**Last Name (STitle) 6327**], [**Hospital 6328**] Cancer Center
+
+
+                              
+
+Signed electronically by: DR. [**First Name8 (NamePattern2) 730**] [**Last Name (NamePattern1) **]
+ on: TUE [**2778-8-29**] 11:36 PM
+(End of Report)
+
+
+",,
+24914,5364,,,2778-05-21 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2778-5-21**] 12:33 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 7477**]
+     Reason: r/o mi                                                      
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      72 year old man with                                                            
+     REASON FOR THIS EXAMINATION:
+      r/o mi                                                                          
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Chest pain, rule out myocardial infarction.
+     
+     COMPARISON:  None.
+     
+     SINGLE VIEW CHEST, AP:  The cardiac size is slightly enlarged with left
+     ventricular prominence.  There is slight elevation of the hemidiaphragm with
+     discoid atelectasis at the left lung base.  No pleural effusions are
+     identified.  The pulmonary vascularity is within normal limits.  The patient
+     is status post median sternotomy.  The aorta is slightly unfolded.  There is a
+     left-sided Port-A-Cath with the tip difficult to distinguish.
+     
+     IMPRESSION:
+     1.  Elevation of the left hemidiaphragm with basilar atelectasis.  No acute
+     cardiopulmonary disease.
+     2.  Left-sided Port-A-Cath with tip difficult to distinguish.  If clinically
+     indicated, dedicated PA and lateral are recommended to assess tip placement.
+
+",,
+24914,5364,,,2778-05-21 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2778-5-21**] 1:08 PM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 7478**]
+     Reason: evaluate for ICH, stroke                                    
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      72 year old man with chest pain, shortness of breath, dizziness, blurry vision  
+     REASON FOR THIS EXAMINATION:
+      evaluate for ICH, stroke                                                        
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Chest pain, shortness of breath, dizziness, blurry vision.
+     Evaluate for intracranial hemorrhage or stroke.
+     
+     TECHNIQUE:  Non-contrast head CT.
+     
+     FINDINGS:  No prior studies are available for comparison.  There is no acute
+     intra- or extra-axial hemorrhage, hydrocephalus, shift of normally midline
+     structures, or major vascular territorial infarction.  Note is made of a quite
+     prominent basilar artery.  The osseous and soft tissue structures are
+     unremarkable.
+     
+     IMPRESSION:  No acute intracranial hemorrhage or evidence of major vascular
+     territorial infarction.  Very prominent basilar artery.  This could be further
+     evaluated with MRA or CTA, as clinically indicated.
+
+",,
+24914,5364,,,2778-05-21 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2778-5-21**] 4:48 PM
+     UNILAT LOWER EXT VEINS RIGHT                                    Clip # [**Clip Number (Radiology) 7480**]
+     Reason: SWOLLEN RT LEG, EVAL FOR DVT
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      72 year old man with swollen left leg and history of DVT                        
+     REASON FOR THIS EXAMINATION:
+      evaluate for dvt                                                                
+     ______________________________________________________________________________
+     WET READ: EEZ SUN [**2778-5-21**] 5:40 PM
+      non-occlusive thrombus in right common femoral and superficial femoral veins.
+      No flow in right popliteal vein. Left side normal. Unclear whether thrombus
+      is new or old; patient has history of clot on the right side.
+     WET READ AUDIT #1 EEZ SUN [**2778-5-21**] 5:40 PM
+      non-occlusive thrombus in right common femoral and superficial femoral veins.
+      No flow in right popliteal vein. Left side normal.
+     ______________________________________________________________________________
+                                     FINAL REPORT *ABNORMAL!
+     INDICATIONS:  Swollen right leg, history of prior right-sided DVT.
+     
+     BILATERAL LOWER EXTREMITY VENOUS ULTRASOUND:  Using a linear probe, [**Doctor Last Name 66**] scale
+     and color Doppler sonograms of both common femoral, superficial femoral, and
+     popliteal vessels was performed.  Within the right common femoral vein, flow
+     is seen within the central portion of the vein with thrombus located
+     peripherally.  Valsalva shows slight reduction in flow, but there is little
+     respiratory variability, suggestive of obstruction more proximally.  A very
+     small amount of flow is seen in the right superficial femoral vein.  Neither
+     of these vessels compress completely. No flow is seen within the right
+     popliteal vein. The left system demonstrates no intraluminal thrombus.  The
+     vessels demonstrate normal flow, compressibility, respiratory variability, and
+     augmentation.
+     
+     IMPRESSION:
+     1. No flow seen in right popliteal vein, and nonocclusive thrombus seen in
+     right superficial femoral and common femoral veins.  The eccentric location of
+     the clot likely makes this chronic clot with recanalization. 
+     2. Lack of respiratory variability in right common femoral vein, a finding
+     suspicous for obstruction to flow more proximally.
+     3. The left system is patent without DVT.
+     
+
+",,
+24914,5364,,,2778-05-21 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2778-5-21**] 1:09 PM
+     CTA CHEST W&W/O C &RECONS; CTA NECK W&W/OC & RECONS             Clip # [**Clip Number (Radiology) 7479**]
+     Reason: evaluate for PE                                             
+      Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      72 year old man with chest pain, shortness of breath, dizziness, blurry vision  
+     REASON FOR THIS EXAMINATION:
+      evaluate for PE                                                                 
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+     WET READ: EEZ SUN [**2778-5-21**] 4:22 PM
+      no PE. Huge left anterior neck mass (12cm) with leftward rightward tracheal
+      deviation and probable mass within trachea. Left common carotid encased by
+      mass but remains patent, with no evidence of obstruction of intracranial
+      blood flow.
+     WET READ AUDIT #1 EEZ SUN [**2778-5-21**] 4:22 PM
+      no PE. Huge left anterior neck mass (12cm) with leftward rightward tracheal
+      deviation and probable mass within trachea. Left common carotid encased by
+      mass but remains patent, with no evidence of obstruction of intracranial flow.
+     ______________________________________________________________________________
+                                     FINAL REPORT *ABNORMAL!
+     INDICATION:  Lymphoma per history, with large left-sided neck mass, now with
+     chest pain, shortness of breath, dizziness and blurry vision.  Evaluate for
+     pulmonary embolus or obstruction of blood flow intracranially.
+     
+     TECHNIQUE:  Axial images of the chest and neck were acquired helically before
+     and after administration of 150 cc of Optiray contrast.  Contrast imaging
+     initially acquired of the lungs, followed by CT angiography imaging of the
+     carotid arteries, in the appropriate arterial phase.  Multiplanar reformations
+     were made.
+     
+     CT OF THE CHEST WITH IV CONTRAST:  The pulmonary vasculature is well opacified
+     and demonstrates no intraluminal filling defects suggestive of pulmonary
+     emboli.  No pathologically-enlarged axillary or hilar lymph nodes are seen.
+     There is a single borderline enlarged precarinal lymph node which measures 10
+     mm in short axis.  There are no pleural or pericardial effusions.  Evaluation
+     of lung parenchyma is somewhat limited secondary to respiratory motion.  There
+     are some emphysematous changes in the lung bases, with areas of dependent
+     atelectasis.  Two right-sided upper lobe pulmonary nodules are present, the
+     larger of which measures 6 mm in greatest dimension.  Degenerative changes are
+     seen throughout the spine.  No suspicious lytic or sclerotic osseous lesions
+     are identified.
+     
+     CT ANGIOGRAPHY OF THE NECK:  There is a large left-sided neck mass, which
+     measures 12.2 x 8.4 cm in greatest axial dimensions.  This mass extends
+     inferiorly substernally, and causes marked rightward tracheal displacement.
+     Furthermore, on one of the images (series 3B, image 209), there is a focal
+     soft tissue density within the tracheal lumen suggestive of intraluminal mass.
+     The mass also appears intimately associated with the left lobe of the thyroid,
+     although it does not enhance to the same degree as the remaining thyroid
+     tissue.  The mass completely encases the left common carotid artery along
+     virtually its entire course.  At the level of the bifurcation, there is no
+                                                                 (Over)
+
+     DATE: [**2778-5-21**] 1:09 PM
+     CTA CHEST W&W/O C &RECONS; CTA NECK W&W/OC & RECONS             Clip # [**Clip Number (Radiology) 7479**]
+     Reason: evaluate for PE                                             
+      Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT *ABNORMAL!
+     (Cont)
+     residual mass.  The left internal carotid maintains vigorous flow, and while
+     minimally narrowed, the overall caliber remains similar to the right common
+     carotid artery.  There is no obstruction of intracranial flow.  Note is made
+     of a very prominent basilar artery, although no focal aneurysmal dilatation is
+     seen.  There is a right-sided jugulodigastric cervical lymph node, which
+     measures 11 mm in short axis.  Degenerative changes are seen in the cervical
+     spine.
+     
+     IMPRESSION:
+     1.  No pulmonary embolism.
+     2.  Large left-sided neck mass with extensive rightward tracheal deviation.
+     The mass encases but does not obstruct the left common carotid artery, along
+     its entire course. The mass extends substernally to the level of the aortic
+     arch. A right sided 11mm jugulodigastric lymph node is seen.
+     3.  small mass within the trachea.
+     4. Patent internal carotid arteries and basilar artery bilaterally. The
+     basilar artery is enlarged without focal aneurysmal dilatation.
+     5.  Single prominent pretracheal lymph node which does not meet CT criteria
+     for pathological enlargement by CT scan.
+     6.  Two right upper lobe pulmonary nodules, the largest of which is 6 mm.
+     Continued followup of these lesions is recommended. Comparison with prior
+     studies would be helpful.
+     
+
+",,
+24914,5364,,,2778-05-21 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2778-5-21**] 1:09 PM
+     CTA CHEST W&W/O C &RECONS; CTA NECK W&W/OC & RECONS             Clip # [**Clip Number (Radiology) 7479**]
+     Reason: evaluate for PE                                             
+      Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      72 year old man with chest pain, shortness of breath, dizziness, blurry vision  
+     REASON FOR THIS EXAMINATION:
+      evaluate for PE                                                                 
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+     WET READ: EEZ SUN [**2778-5-21**] 4:22 PM
+      no PE. Huge left anterior neck mass (12cm) with leftward rightward tracheal
+      deviation and probable mass within trachea. Left common carotid encased by
+      mass but remains patent, with no evidence of obstruction of intracranial
+      blood flow.
+     WET READ AUDIT #1 EEZ SUN [**2778-5-21**] 4:22 PM
+      no PE. Huge left anterior neck mass (12cm) with leftward rightward tracheal
+      deviation and probable mass within trachea. Left common carotid encased by
+      mass but remains patent, with no evidence of obstruction of intracranial flow.
+     ______________________________________________________________________________
+                                     FINAL REPORT *ABNORMAL!
+     INDICATION:  Lymphoma per history, with large left-sided neck mass, now with
+     chest pain, shortness of breath, dizziness and blurry vision.  Evaluate for
+     pulmonary embolus or obstruction of blood flow intracranially.
+     
+     TECHNIQUE:  Axial images of the chest and neck were acquired helically before
+     and after administration of 150 cc of Optiray contrast.  Contrast imaging
+     initially acquired of the lungs, followed by CT angiography imaging of the
+     carotid arteries, in the appropriate arterial phase.  Multiplanar reformations
+     were made.
+     
+     CT OF THE CHEST WITH IV CONTRAST:  The pulmonary vasculature is well opacified
+     and demonstrates no intraluminal filling defects suggestive of pulmonary
+     emboli.  No pathologically-enlarged axillary or hilar lymph nodes are seen.
+     There is a single borderline enlarged precarinal lymph node which measures 10
+     mm in short axis.  There are no pleural or pericardial effusions.  Evaluation
+     of lung parenchyma is somewhat limited secondary to respiratory motion.  There
+     are some emphysematous changes in the lung bases, with areas of dependent
+     atelectasis.  Two right-sided upper lobe pulmonary nodules are present, the
+     larger of which measures 6 mm in greatest dimension.  Degenerative changes are
+     seen throughout the spine.  No suspicious lytic or sclerotic osseous lesions
+     are identified.
+     
+     CT ANGIOGRAPHY OF THE NECK:  There is a large left-sided neck mass, which
+     measures 12.2 x 8.4 cm in greatest axial dimensions.  This mass extends
+     inferiorly substernally, and causes marked rightward tracheal displacement.
+     Furthermore, on one of the images (series 3B, image 209), there is a focal
+     soft tissue density within the tracheal lumen suggestive of intraluminal mass.
+     The mass also appears intimately associated with the left lobe of the thyroid,
+     although it does not enhance to the same degree as the remaining thyroid
+     tissue.  The mass completely encases the left common carotid artery along
+     virtually its entire course.  At the level of the bifurcation, there is no
+                                                                 (Over)
+
+     DATE: [**2778-5-21**] 1:09 PM
+     CTA CHEST W&W/O C &RECONS; CTA NECK W&W/OC & RECONS             Clip # [**Clip Number (Radiology) 7479**]
+     Reason: evaluate for PE                                             
+      Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT *ABNORMAL!
+     (Cont)
+     residual mass.  The left internal carotid maintains vigorous flow, and while
+     minimally narrowed, the overall caliber remains similar to the right common
+     carotid artery.  There is no obstruction of intracranial flow.  Note is made
+     of a very prominent basilar artery, although no focal aneurysmal dilatation is
+     seen.  There is a right-sided jugulodigastric cervical lymph node, which
+     measures 11 mm in short axis.  Degenerative changes are seen in the cervical
+     spine.
+     
+     IMPRESSION:
+     1.  No pulmonary embolism.
+     2.  Large left-sided neck mass with extensive rightward tracheal deviation.
+     The mass encases but does not obstruct the left common carotid artery, along
+     its entire course. The mass extends substernally to the level of the aortic
+     arch. A right sided 11mm jugulodigastric lymph node is seen.
+     3.  small mass within the trachea.
+     4. Patent internal carotid arteries and basilar artery bilaterally. The
+     basilar artery is enlarged without focal aneurysmal dilatation.
+     5.  Single prominent pretracheal lymph node which does not meet CT criteria
+     for pathological enlargement by CT scan.
+     6.  Two right upper lobe pulmonary nodules, the largest of which is 6 mm.
+     Continued followup of these lesions is recommended. Comparison with prior
+     studies would be helpful.
+     
+
+",,
+24914,5364,,,2778-05-21 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+",,
+24914,5364,30936,0,2778-05-22 06:22:00 EST,2778-05-22 06:31:00 EST,723,"N",69,"Nursing/Other","npn","
+npn
+neuro aox3 very pleasant man. able to make needs known. slept in [**First Name7 (NamePattern1) **] [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 5262**] during night.
+
+cad: vss hr 70-80's sr with occas. pvc's pt labs checked for ?mi cpk 41 mb 3 troponin <.01
+
+resp ls clear rr teens sats 97-99%
+
+gi: bs+ tolerated box lunch for dinner. no issues.
+
+gu pt voiding per urinal clear yellow urine. K+ repleted with 40po.
+
+labs: hct 35.6
+
+pt started on heparin gtt for dvt in right leg. right foot warm and dry pulses palpable. heprin gtt started at 8pm. ptt at 2am 81.0 no changes made. next ptt due at 8am.
+
+access pt has accessed porta-cath that does not draw . 20 guage eri in left arm.
+
+chemo: pt received chemo therapy at 12am with no issues.  see mar for orders. call &f to administer.
+
+plan: pt stated he thinks he is going to clinic today for chemo and to see dr. [**First Name (STitle) **]- i have not heard any such plans, pt is possible call out to 7f for cont of chemotherapy, cont to moniotr resp status, vs and labs  as needed.
+
+
+
+
+",,
+24914,5364,30936,0,2778-05-22 15:35:00 EST,2778-05-22 15:36:00 EST,209,"N",69,"Nursing/Other","FINARD 4 ICU NPN 0700-1900","
+[**Hospital Ward Name 312**] 4 ICU NPN 0700-1900
+Please see nsg transfer note
+",,

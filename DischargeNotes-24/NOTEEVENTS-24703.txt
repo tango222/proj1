@@ -1,0 +1,14 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+24703,5205,,,2803-03-11 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+
+",,
+24703,,30676,0,2804-02-27 04:31:00 EST,2804-02-27 04:33:00 EST,2183,"N",69,"Nursing/Other",,"
+
+Resp Care Note:
+
+Pt emergently intub #8.0 @ 22 @ lip for resp failure. Placed on mech vent as per Carevue. Lung sounds coarse equal bilat. ABGs marginal despite mech vent. Cont mech vent support.
+",,
+24703,,30676,0,2804-02-27 06:17:00 EST,2804-02-27 06:56:00 EST,2972,"N",69,"Nursing/Other","Nursing Progress Note","
+Nursing Progress Note
+Pt transferred from ED around 00:15. Pt hypotensive, extremities cool to touch and pt cyanotic. Pt intubated due to poor abg results and inability of pt to protect his own airway. Arterial line inserted per intern as well as central line. blood pressure very labile per cuff as well as a-line. Vasopressin, neosynephrine and Levophed all started between 0200 and 0300 with eventual improvement in blood pressure per NI cuff. A-line waveform inaccurate, dampened despite troubleshooting and repositioning. Pt had approximately a 20-30 beat run of VTach around 0200. Lidocaine given x's 1. Pt then converted back into a sinus rythm, the entire time being in and out of A-fib. Pt was then hemodynamically stable per NIBP, intern and resident both aware of inacurracy of a-line, as well as unobtainable SaO2 despite trying to place probe  in different locations and changing probe and cable. Advised by intern to send frequent ABG'S to obtain ventilation status, and to continue monitoring NIBP. Around 0500, NIBP unable to be read by both manual reading as well as by machine. Intern immediately paged, resource nurse notified. Intern then at bedside, continuing to try and obtain a nIBP reading on upper extremities. Resource nurse notified again of no progress being made in terms of blood pressure readings. Increased all Vasopressors to maximum dose allowed. Intern at bedside attempting to manipulate radial a-line. Pt then became bradycardic aound 0530.  Atropine given x's one. Pt bacame asystolic, pulseless, compressions started, Atropine, epi, bicarb and D50 given, please see code sheet for exact times of drugs during code. Code was officially called upon pt becoming asystolic. At 0549 code stopped per Dr. [**First Name (STitle) **]. Patient's spouse outside of room and frequently updated by resident and nurse. Mrs. [**Known patient lastname 4927**] at pt's bedside throughout the night and discussed with resident pt's condition. Please see Carevue and MARs for further details of pt care.
+",,

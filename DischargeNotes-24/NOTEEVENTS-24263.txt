@@ -1,0 +1,1686 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+24263,,,,3438-04-19 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3438-4-19**] 2:44 PM
+     CHEST (PRE-OP PA & LAT)                                         Clip # [**Clip Number (Radiology) 1120**]
+     Reason: DX: RUL NODULE PROC: (r) VATS WITH WEDGE BX/RESECTION
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      63 year old woman with 
+     REASON FOR THIS EXAMINATION:
+      DX: RUL NODULE PROC: (r) VATS WITH WEDGE BX/RESECTION
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CHEST 2 VIEWS PA & LATERAL:
+     
+     Preop right upper lobe nodule.
+     
+     S/P CABG. There is cardiomegaly but no evidence for CHF. There is pleural
+     thickening on the right with atelectasis/scarring at the right lung base
+     unchanged since the prior study of [**3438-3-8**]. Small focal irregular density at
+     the right apex. The left lung is clear.
+     
+     IMPRESSION: Cardiomegaly. No evidence for CHF. Right sided pleural thickening
+     and focal irregular density in right apical region.
+
+",,
+24263,,,,3438-04-20 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3438-4-20**] 12:02 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 1121**]
+     Reason: Post-op                                                     
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      63 year old woman s/p Bronch, thoracoscopy, minithoracotomy, CT insertion       
+     REASON FOR THIS EXAMINATION:
+      Post-op                                                                         
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  S/p bronchoscopy, thoracocsopy, mini thoracotomy.
+     
+     COMPARISON:  [**3438-4-19**].
+     
+     SINGLE-VIEW CHEST:  There is stable cardiomegaly. The pulmonary arteries are
+     prominent.  No evidence for pneumothorax.  There is volume loss of the right
+     lung and atelectasis of the right lobe, which appears unchanged over several
+     prior examinations. The trachea is again noted to be deviated to the right.
+     There is also a stable appearance of right-sided pleural thickening.  Sternal
+     wires are present.
+     
+     IMPRESSION;
+     
+     No evidence for pneumothorax.  No significant change from the prior studies.
+     These findings were relayed by telephone to the primary team.
+     
+
+",,
+24263,,,,3438-04-26 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3438-4-26**] 8:07 PM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 1122**]
+     CT RECONSTRUCTION; CT 150CC NONIONIC CONTRAST
+     Reason: presenting with RLQ pain, r/o bowel obstruction
+     Field of view: 36 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      63 year old woman with RLQ pain
+     REASON FOR THIS EXAMINATION:
+      presenting with RLQ pain, r/o bowel obstruction
+     ______________________________________________________________________________
+     WET READ: [**First Name9 (NamePattern2) 97**] [**Doctor First Name 98**] [**3438-4-26**] 8:55 PM
+      perforated cecum, free air
+     ______________________________________________________________________________
+                                     FINAL REPORT *ABNORMAL!
+     INDICATION:  Right lower quadrant pain, rule out bowel obstruction.
+     
+     TECHNIQUE:  Helically acquired contiguous axial images were obtained from the
+     lung bases through the pubic symphysis with oral and intravenous contrast.
+     Coronal reconstructions were obtained.
+     
+     CONTRAST:  Oral contrast and 150 cc of intravenous Optiray were administered
+     secondary to the patient's history of asthma.
+     
+     COMPARISON:  [**3438-2-27**].
+     
+     CT OF THE ABDOMEN WITH CONTRAST:  There is a large amount of intraperitoneal
+     free air.  The liver, spleen, adrenals and pancreas are within normal limits.
+     There are tiny punctate low attenuation foci in the cortex of the right
+     kidney, likely simple renal cysts but too small to characterize.  Within the
+     left kidney there are similar findings as well as a larger 2 cm exophytic
+     simple cyst.  The stomach and duodenum appear intact.  The small bowel is
+     unremarkable.  There is no significant retroperitoneal or mesenteric
+     adenopathy.
+     
+     CT OF THE PELVIS WITH CONTRAST:  Again there is a large amount of
+     intraperitoneal air with two more focal collections, one in the region of the
+     cecum and extending along the right paracolic gutter and another more focal
+     collection along the left lateral sigmoid.  There is no evidence of gas within
+     the vasculature and portal venous system.  There are scattered air bubbles
+     throughout the mesenteric fat.  The celiac, SMA, [**Female First Name (un) **], portal vein and splenic
+     vein appear grossly patent.  There is a small amount of intraperitoneal and
+     pelvic fluid.  There is extensive diverticulosis throughout the colon as well
+     as a few diverticula in the terminal ileum.  There is some mild fat stranding
+     around the cecum as well as adjacent to the sigmoid.  There is no
+     extravasation of either intravenous or oral contrast.  The uterus has a
+     heterogeneous appearance with some areas of coarse calcification consistent
+     with a fibroid uterus.
+     
+     Bone windows reveal degenerative changes in the lumbar spine.  There is a
+     small area of lucency in the left iliac [**Doctor First Name 84**] of doubtful clinical
+     significance.  There are no suspicious lytic or blastic lesions.
+     
+                                                                 (Over)
+
+     DATE: [**3438-4-26**] 8:07 PM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 1122**]
+     CT RECONSTRUCTION; CT 150CC NONIONIC CONTRAST
+     Reason: presenting with RLQ pain, r/o bowel obstruction
+     Field of view: 36 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT *ABNORMAL!
+     (Cont)
+     There is atelectasis within the right lower lobe as well as a small right
+     pleural effusion which may in part be loculated.  There is a small nodule in
+     the lateral right lung base.  This was not present on the prior study and
+     follow-up is recommended.  The pleural effusion and atelectasis was present
+     previously.  The left lung base reveals no suspicious nodules and no effusion.
+     
+     Reformatted images support the above findings.
+     
+     IMPRESSION:
+     1.  Moderate amount of free intraperitoneal air without a definite source. The
+     most likely source is a perforated sigmoid diverticulum or perforation
+     adjacent to the cecum.  With the extensive diverticulosis this likely is the
+     underlying cause; however, the patient does have known lung malignancy and a
+     metastatic focus is another consideration although less likely.  Another
+     possibility includes a perforated appendicitis however this is more free air
+     than typically seen with perforated appendicitis.
+     2.  Mild amount of intraperitoneal free fluid without extravasation of oral
+     contrast.
+     3.  Small nodule in the right lung base laterally not present on the prior
+     film.  This may be related to atelectasis or a metastatic focus.  Follow-up is
+     indicated.  Stable atelectasis and right effusion.
+     
+     The ordering Emergency Room physician, [**Name10 (NameIs) 1123**] [**Name11 (NameIs) 1124**], was notified immediately
+     of these findings.
+     
+     
+
+",,
+24263,,,,3438-04-26 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3438-4-26**] 8:07 PM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 1122**]
+     CT RECONSTRUCTION; CT 150CC NONIONIC CONTRAST
+     Reason: presenting with RLQ pain, r/o bowel obstruction
+     Field of view: 36 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      63 year old woman with RLQ pain
+     REASON FOR THIS EXAMINATION:
+      presenting with RLQ pain, r/o bowel obstruction
+     ______________________________________________________________________________
+     WET READ: [**First Name9 (NamePattern2) 97**] [**Doctor First Name 98**] [**3438-4-26**] 8:55 PM
+      perforated cecum, free air
+     ______________________________________________________________________________
+                                     FINAL REPORT *ABNORMAL!
+     INDICATION:  Right lower quadrant pain, rule out bowel obstruction.
+     
+     TECHNIQUE:  Helically acquired contiguous axial images were obtained from the
+     lung bases through the pubic symphysis with oral and intravenous contrast.
+     Coronal reconstructions were obtained.
+     
+     CONTRAST:  Oral contrast and 150 cc of intravenous Optiray were administered
+     secondary to the patient's history of asthma.
+     
+     COMPARISON:  [**3438-2-27**].
+     
+     CT OF THE ABDOMEN WITH CONTRAST:  There is a large amount of intraperitoneal
+     free air.  The liver, spleen, adrenals and pancreas are within normal limits.
+     There are tiny punctate low attenuation foci in the cortex of the right
+     kidney, likely simple renal cysts but too small to characterize.  Within the
+     left kidney there are similar findings as well as a larger 2 cm exophytic
+     simple cyst.  The stomach and duodenum appear intact.  The small bowel is
+     unremarkable.  There is no significant retroperitoneal or mesenteric
+     adenopathy.
+     
+     CT OF THE PELVIS WITH CONTRAST:  Again there is a large amount of
+     intraperitoneal air with two more focal collections, one in the region of the
+     cecum and extending along the right paracolic gutter and another more focal
+     collection along the left lateral sigmoid.  There is no evidence of gas within
+     the vasculature and portal venous system.  There are scattered air bubbles
+     throughout the mesenteric fat.  The celiac, SMA, [**Female First Name (un) **], portal vein and splenic
+     vein appear grossly patent.  There is a small amount of intraperitoneal and
+     pelvic fluid.  There is extensive diverticulosis throughout the colon as well
+     as a few diverticula in the terminal ileum.  There is some mild fat stranding
+     around the cecum as well as adjacent to the sigmoid.  There is no
+     extravasation of either intravenous or oral contrast.  The uterus has a
+     heterogeneous appearance with some areas of coarse calcification consistent
+     with a fibroid uterus.
+     
+     Bone windows reveal degenerative changes in the lumbar spine.  There is a
+     small area of lucency in the left iliac [**Doctor First Name 84**] of doubtful clinical
+     significance.  There are no suspicious lytic or blastic lesions.
+     
+                                                                 (Over)
+
+     DATE: [**3438-4-26**] 8:07 PM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 1122**]
+     CT RECONSTRUCTION; CT 150CC NONIONIC CONTRAST
+     Reason: presenting with RLQ pain, r/o bowel obstruction
+     Field of view: 36 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT *ABNORMAL!
+     (Cont)
+     There is atelectasis within the right lower lobe as well as a small right
+     pleural effusion which may in part be loculated.  There is a small nodule in
+     the lateral right lung base.  This was not present on the prior study and
+     follow-up is recommended.  The pleural effusion and atelectasis was present
+     previously.  The left lung base reveals no suspicious nodules and no effusion.
+     
+     Reformatted images support the above findings.
+     
+     IMPRESSION:
+     1.  Moderate amount of free intraperitoneal air without a definite source. The
+     most likely source is a perforated sigmoid diverticulum or perforation
+     adjacent to the cecum.  With the extensive diverticulosis this likely is the
+     underlying cause; however, the patient does have known lung malignancy and a
+     metastatic focus is another consideration although less likely.  Another
+     possibility includes a perforated appendicitis however this is more free air
+     than typically seen with perforated appendicitis.
+     2.  Mild amount of intraperitoneal free fluid without extravasation of oral
+     contrast.
+     3.  Small nodule in the right lung base laterally not present on the prior
+     film.  This may be related to atelectasis or a metastatic focus.  Follow-up is
+     indicated.  Stable atelectasis and right effusion.
+     
+     The ordering Emergency Room physician, [**Name10 (NameIs) 1123**] [**Name11 (NameIs) 1124**], was notified immediately
+     of these findings.
+     
+     
+
+",,
+24263,,,,3438-04-26 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3438-4-26**] 8:07 PM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 1122**]
+     CT RECONSTRUCTION; CT 150CC NONIONIC CONTRAST
+     Reason: presenting with RLQ pain, r/o bowel obstruction
+     Field of view: 36 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      63 year old woman with RLQ pain
+     REASON FOR THIS EXAMINATION:
+      presenting with RLQ pain, r/o bowel obstruction
+     ______________________________________________________________________________
+     WET READ: [**First Name9 (NamePattern2) 97**] [**Doctor First Name 98**] [**3438-4-26**] 8:55 PM
+      perforated cecum, free air
+     ______________________________________________________________________________
+                                     FINAL REPORT *ABNORMAL!
+     INDICATION:  Right lower quadrant pain, rule out bowel obstruction.
+     
+     TECHNIQUE:  Helically acquired contiguous axial images were obtained from the
+     lung bases through the pubic symphysis with oral and intravenous contrast.
+     Coronal reconstructions were obtained.
+     
+     CONTRAST:  Oral contrast and 150 cc of intravenous Optiray were administered
+     secondary to the patient's history of asthma.
+     
+     COMPARISON:  [**3438-2-27**].
+     
+     CT OF THE ABDOMEN WITH CONTRAST:  There is a large amount of intraperitoneal
+     free air.  The liver, spleen, adrenals and pancreas are within normal limits.
+     There are tiny punctate low attenuation foci in the cortex of the right
+     kidney, likely simple renal cysts but too small to characterize.  Within the
+     left kidney there are similar findings as well as a larger 2 cm exophytic
+     simple cyst.  The stomach and duodenum appear intact.  The small bowel is
+     unremarkable.  There is no significant retroperitoneal or mesenteric
+     adenopathy.
+     
+     CT OF THE PELVIS WITH CONTRAST:  Again there is a large amount of
+     intraperitoneal air with two more focal collections, one in the region of the
+     cecum and extending along the right paracolic gutter and another more focal
+     collection along the left lateral sigmoid.  There is no evidence of gas within
+     the vasculature and portal venous system.  There are scattered air bubbles
+     throughout the mesenteric fat.  The celiac, SMA, [**Female First Name (un) **], portal vein and splenic
+     vein appear grossly patent.  There is a small amount of intraperitoneal and
+     pelvic fluid.  There is extensive diverticulosis throughout the colon as well
+     as a few diverticula in the terminal ileum.  There is some mild fat stranding
+     around the cecum as well as adjacent to the sigmoid.  There is no
+     extravasation of either intravenous or oral contrast.  The uterus has a
+     heterogeneous appearance with some areas of coarse calcification consistent
+     with a fibroid uterus.
+     
+     Bone windows reveal degenerative changes in the lumbar spine.  There is a
+     small area of lucency in the left iliac [**Doctor First Name 84**] of doubtful clinical
+     significance.  There are no suspicious lytic or blastic lesions.
+     
+                                                                 (Over)
+
+     DATE: [**3438-4-26**] 8:07 PM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 1122**]
+     CT RECONSTRUCTION; CT 150CC NONIONIC CONTRAST
+     Reason: presenting with RLQ pain, r/o bowel obstruction
+     Field of view: 36 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT *ABNORMAL!
+     (Cont)
+     There is atelectasis within the right lower lobe as well as a small right
+     pleural effusion which may in part be loculated.  There is a small nodule in
+     the lateral right lung base.  This was not present on the prior study and
+     follow-up is recommended.  The pleural effusion and atelectasis was present
+     previously.  The left lung base reveals no suspicious nodules and no effusion.
+     
+     Reformatted images support the above findings.
+     
+     IMPRESSION:
+     1.  Moderate amount of free intraperitoneal air without a definite source. The
+     most likely source is a perforated sigmoid diverticulum or perforation
+     adjacent to the cecum.  With the extensive diverticulosis this likely is the
+     underlying cause; however, the patient does have known lung malignancy and a
+     metastatic focus is another consideration although less likely.  Another
+     possibility includes a perforated appendicitis however this is more free air
+     than typically seen with perforated appendicitis.
+     2.  Mild amount of intraperitoneal free fluid without extravasation of oral
+     contrast.
+     3.  Small nodule in the right lung base laterally not present on the prior
+     film.  This may be related to atelectasis or a metastatic focus.  Follow-up is
+     indicated.  Stable atelectasis and right effusion.
+     
+     The ordering Emergency Room physician, [**Name10 (NameIs) 1123**] [**Name11 (NameIs) 1124**], was notified immediately
+     of these findings.
+     
+     
+
+",,
+24263,29097,,,3438-04-27 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+
+Admission Date:  [**3438-4-26**]       Discharge Date:  [**3438-5-5**]
+
+Date of Birth:   [**3374-12-27**]       Sex:  F
+
+Service:  GENERAL S.
+
+HISTORY OF THE PRESENT ILLNESS:  The patient is a 63-year-old
+female status post thoracotomy with Dr. [**Last Name (STitle) 231**] one week prior
+for small cell lung carcinoma.  The patient was seen by the
+doctor today.  The patient had complaints of right lower
+quadrant pain times four days with fevers with nausea,
+vomiting, and increasing distention.  The patient has had
+diverticula on prior CT studies.  No prior colonoscopies.
+Prior duodenal ulcer history treated medially.  No prior
+abdominal surgeries.
+
+PAST MEDICAL HISTORY:
+1.  Atrial fibrillation.
+2.  Chronic obstructive pulmonary disease.
+3.  Small cell lung carcinoma.
+4.  ASD repair.
+5.  Pulmonary hypertension.
+
+ALLERGIES:  No known drug allergies..
+
+MEDICATIONS:
+1.  Paroxetine.
+2.  Sotalol.
+3.  Alprazolam.
+4.  Albuterol.
+5.  Prednisone.
+6.  Lasix,
+7.  Coumadin.
+8.  Protonix.
+9.  Home oxygen.
+
+The patient had a CT scan done, which showed no coronary
+artery disease and ejection fraction of 60%.
+
+PHYSICAL EXAMINATION:  On examination, the patient was
+afebrile.  Vital signs were stable.  Abdomen was firm and
+distended, tender at the right lower quadrant greater than
+the left lower quadrant with guarding, rebound, and
+percussion tenderness.  There were no hernias noted.
+
+The patient had a white count of 15, hematocrit 36, platelet
+count 310,000.  Potassium was 3.6.  Otherwise, electrolytes
+were within normal limits.
+
+CT showed positive free air, positive cecal sigmoid
+diverticula.  Duodenum appeared intact with intraluminal air
+and positive pelvic free fluid.
+
+The patient was placed on Levofloxacin and Flagyl.  The
+patient was made NPO.  The patient was started on IV fluids
+and Foley catheter was placed.
+
+HOSPITAL COURSE:  The patient was taken to the operating room
+on [**4-27**] for a perforated viscus, sigmoid diverticulitis,
+and secondary appendicitis.  Hartmann's procedure with
+appendectomy was done with no complications.  The patient was
+transferred to the SICU, intubated for monitoring.
+
+On postoperative day #1, the patient was extubated.  The
+patient was afebrile, vital signs were stable.  The patient
+had 100% saturation on two liters nasal cannula.  White count
+was done to 10.  Hematocrit was 29.  Platelet count was
+305,000.  Other electrolytes were within normal limits.
+Overnight, on postoperative day #1, the patient had an
+episode of shortness of breath.  The patient was placed on
+KVO and given Lasix.  The patient also had a brief run of
+atrial fibrillation for which she was given Lopressor.
+
+On postoperative day #3, steroids were to be weaned.  Lasix
+was continued.  The patient was still on Lopressor.  White
+count now was 11.3.  The patient was placed on broad-spectrum
+antibiotics.
+
+On postoperative day #5, the patient was still on Ampicillin,
+Levofloxacin, and Flagyl.  The patient was afebrile.  Vital
+signs were stable with the same bibasilar crackles.  Abdomen
+was soft, nontender, and nondistended.  The patient had
+positive tympany.  Serosanguinous fluid in ostomy bag, viable
+appearing pink stoma.  White count had increased to 17.6, now
+down to 13.3.
+
+On postoperative day #6, the patient continued to be
+afebrile, vital signs were stable.  The patient was still on
+Ampicillin, Levofloxacin, and Flagyl.  The patient appeared
+to be opening up, started on PO pain medications.
+
+The patient's white count was noted to be 18.3.  Abdominal CT
+was performed to rule out any leak or abscess.  CT was
+negative.
+
+On postoperative day #7, the INR was found to be
+supratherapeutic at 14.5.  Vitamin K was given.  IV:  The
+patient continued to be afebrile, vital signs were stable.
+White count now decreased to 12.9.  The INR was now down to
+1.4.  The patient with gas in ostomy.  The patient continued
+to advance with diet, holding the Coumadin.  Antibiotics were
+discontinued.
+
+On postoperative day #8, the patient had no complaints.  The
+patient was afebrile.  Vital signs were stable.  Abdomen was
+soft, nontender, and nondistended.  White count was now at
+12.8.  The patient was felt to be tolerating a good diet and
+pain was controlled.  The patient was ambulating freely.  The
+patient was stable for discharge to home with VNA services.
+
+CONDITION ON DISCHARGE:  Stable.
+
+DISCHARGE STATUS:  The patient was discharged to home with
+VNA.
+
+FINAL DIAGNOSIS:
+1.  Status post Hartmann's procedure.
+2.  Appendectomy.
+3.  Chronic obstructive pulmonary disease.
+4.  Small cell lung carcinoma.
+5.  Pulmonary hypertension.
+6.  Atrial fibrillation.
+
+DISCHARGE MEDICATIONS:
+1.  Percocet for pain control.
+2.  Prednisone 30 mg q.d.
+
+The patient is to be restarted on all previous medications.
+The patient is to follow up with Dr. [**Last Name (STitle) **].
+
+
+
+
+                            [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 1873**], M.D.  [**MD Number 1874**]
+
+Dictated By:[**Last Name (NamePattern4) 5008**]
+MEDQUIST36
+
+D:  [**3438-8-9**]  10:05
+T:  [**3438-8-9**]  10:15
+JOB#:  [**Job Number 5009**]
+Signed electronically by: DR. [**First Name11 (Name Pattern1) **] [**Initial (NamePattern1) **] [**Last Name (NamePattern4) **]
+ on: FRI [**3438-8-10**] 8:40 AM
+(End of Report)
+
+
+",,
+24263,29097,,,3438-04-27 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3438-4-27**] 3:17 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 1125**]
+     Reason: check ETT                                                   
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       63 year old woman s/p ex lap, hartmanns, intubated                             
+     REASON FOR THIS EXAMINATION:
+      check ETT                                                                       
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: Status post exploratory laparotomy and Hartmann pouch.  Still
+     intubated post-op.
+     
+     COMPARISON: [**3438-4-19**]
+     
+     SUPINE AP CHEST: Patient is status post unchanged median sternotomy.
+     Endotracheal tube has tip 4 cm above the carina.  NG tube has tip in the
+     stomach.  Allowing for differences in technique, cardiac, mediastinal and
+     hilar contours are unchanged.  Pulmonary vascularity cannot be evaluated with
+     supine technique.  Right basilar opacities are more prominent than on the
+     prior study, from enlarged pleural effusion.  Left perihilar haziness is
+     suggestive of interstitial edema or aspiration. No left sided pleural effusion
+     is seen. Osseous structures show interval resection of right sixth rib.
+     
+     IMPRESSION: 1) Stable cardiomegaly.  Supine technique prevents evaluation of
+     the pulmonary vessels. 2) Left perihilar haziness could represent unilateral
+     interstitial edema or aspiration. 3) Interval resection of right sixth rib.
+     4) Increased right-sided pleural effusion.
+
+",,
+24263,29097,30140,0,3438-04-27 05:38:00 EST,3438-04-27 05:55:00 EST,-1,"N",54,"Nursing/Other",,"
+
+4AM-7AM; FULL ASSESSMENT IN FLOW SHEET.
+
+[**Known patient firstname **] [**Known patient lastname 4380**], 62 yrs old caucasian female, transfer from PACU to SICU (cc-687).
+
+allergies: nkda
+
+PMH: COPD, pulmonary hypertension, proxymal afib (cardiovert in past), septal deficit, asthma, emphemsa, thoractomy- biopsy, small cell lung cancer found.
+
+OR procedure:  Preforated diverticulitis -> Exp lap, sigmoid colostomy, Hartmann procedure, appendectomy
+
+neuro: Alert and orient X1, Follow commands, mouth words. Open eyes to voice, Good gag reflex. MAE - strong. Propofol drip for sedation. Dilaudid drip for pain.
+
+cv: NSR 80-90 without ectopy. PR - .16 (inverted p), qrs - .12 (BBB), qt- .36 (inverted T). No episode of afib (Pt bounce back and forth from afib to NSR in PACU). warm, dry, no edema. BP 100-125/45-60. Afebrile.
+
+resp: Lung sound rhonchi bilaterally. ET tube inflated in place - SIMV - TV 550, FiO2- 40%, RR 12, [**3-25**]. no sob. pt breathing comfortablely.
+
+gu/gi; Abd slight distended. No BS X4. no pain on palpation. abd suture sites - small red drainage with clear tegaderm dressing. NG tube to lwcs - +placement, clear drainage. colostomey - beefy red, no drainage. Foley patent - yellow, clear urine. No bm, no flatus.
+
+int: Skin intact.
+
+Plan: Continue to monitor gu. Hemodynamic monitor. AM lab done. Possible ET d/c.
+
+
+",,
+24263,29097,30140,0,3438-04-27 14:22:00 EST,3438-04-27 14:30:00 EST,3600,"N",54,"Nursing/Other","Resp","
+Resp
+D: pt con't to be intubated this a.m. from surgery. (+) cuff air leak, able to lift head from pillow with propofol off. PCO2 increased ? if @ baseline. On home O2 due to COPD. abd distended and tender to palpation. distal ecchymosis noted. minimal distal S-S drng noted. Stoma pink/red with S-S drainage and some solid fecal material. haviong periods of decreased u/o, concentrated in appearence, SBP occassionally 100. HR SR with occasional PAC. I Ca 1.02
+A: weaned and extubated this a.m. without problem
+n.p. O2 @ 4 L
+Lr bolus (250ml) given x 3
+Dilaudid PCA started
+Dilaudid IV gtt d/c'd
+on tapering steroids
+R: doing well post extubation. minimal response from LR bolus'. denies pain despite transient elevation in B/P with activity. Instructed on use of PCA and enc. use. O2 Sat 95-96%. ? transfer to floor later.
+
+",,
+24263,29097,30140,,3438-04-28 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3438-4-28**] 5:34 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 1126**]
+     Reason: DYSPNEA                                                     
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        63 year old woman s/p ex lap, hartmanns, intubated                            
+       
+     REASON FOR THIS EXAMINATION:
+      DYSPNEA                                                                         
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Exploratory laparoscopy.  Hartmann's.  Dyspnea. Intubated.
+     
+     FINDINGS:  Comparison is made to study dated [**3438-4-27**].  Since the prior study,
+     the patient has been extubated.  There is an NG tube extending below the
+     diaphgram, tip not visualized.  Otherwise, there is no significant interval
+     change.  There is evidence of a right thoracotomy.  There is an 11 mm
+     spiculated density in the right upper lobe, suspicious for recurrent
+     malignancy, also reported on prior chest CT of 4/02.
+     
+
+",,
+24263,29097,30140,0,3438-04-28 01:30:00 EST,3438-04-28 01:51:00 EST,-1,"N",54,"Nursing/Other",,"
+
+7P-7a: Full assessment in flow sheet.
+
+neuro: A+oX3. clear speech. MAE - equal and strong. No pain - pain control by PCA (dilaudid). Pt slept on and off. Pt was agitated/frustrated/anxious - yelling and weeping - comfort pt verbally and MD gave order for Ativan .5 mg iv (more comfortable and relax, pt state take xanax at home at night). 
+
+resp: Lung sound clear uppers lobes to coarse with dimish at bases. Pt is on 2L NC - 94-98%. Pt was SOB and wheezing - coarse lung sound throughout, ""something stuck in middle of chest"", RR - 18-24.. Chest PT done and encourage to deep breathing and cough, inc O2 - 4L. Productive cough of white, thick sputum. Pt inc SaO2-96-100% RR 16-20.
+Fan in room per pt request for more cool air.
+
+cv: NSR with very rare PAC. VSS, afebrile. Warm, dry, no edema.
+
+gu/gi: Soft, distended, and tender abd. Slight pain on palpation - relieve with PCA. No BS X4. No flatus. Colostomy site beefy red to slight dusky -MD aware. Drainage of serosanguios liquid with scant of stool. Colostomy teaching started. Pt state she is no ready to see site. Suture sites intact with ecchyomotic in lower suture site - MD aware - scant drainage - ss. Foley patent - amber/clear urine, output 16-25 cc/hr (Dr. [**Last Name (STitle) **]. Mitchele aware). Bolus LR 250 X1, no significant result.
+
+skin: intact. Thoractomy site - Back (r. upper side) - site intact, no drainage, no pain on palpation.
+
+Plan: Monitor gu/gi. Respiratory toileting. AM lab. Possible d/c to floor.
+",,
+24263,29097,30140,0,3438-04-28 05:15:00 EST,3438-04-28 05:19:00 EST,-1,"N",54,"Nursing/Other",,"
+
+Addendum: 
+
+Correction and update for gu/gi section: Bowel sound present, hypoactive and distant in all 4 quad from 7P-7A. Distended, soft abd - tenderness on palpation. Pain control by dilaudid PCA. no flatus. Colostomy site - beefy red, slight dusky - MD aware - serosangiuos and small stooling. no nausea and vomitting.
+",,
+24263,29097,30140,0,3438-04-28 17:56:00 EST,3438-04-28 18:09:00 EST,3085,"N",54,"Nursing/Other","CONDITION UPDATE","
+CONDITION UPDATE
+D.THIS AM,HR=70-80 WITH OCCASSIONAL PAC.KCL ADDED TO PERIPH IV.. PT SCHEDULED TO BE TRANSFERRED THUS A-LINE D/CD. PT SLIGHTLY ANXIOUS RELIEVED WITH TALKING AND OOB TO CHAIR FOR 4 HRS. O2 SAT 97-95.HUO 20-40ML.GOOD  ABD PAIN RELIEF WITH DILAUDID. 
+ BY 1530 PT C/O OF SOB REQUESTING FAN IN ROOM ON HIGH AND  BLOWING ON HER..O2 SAT 89-91 WITH RR 20-26.BS WITH EXPIR. WHEEZE. PT NOTED TO HAVE BURSTS OF AF WITH STABLE BP. DR. [**Last Name (STitle) **] NOTIFIED. PT ALSO SHORTLY THEREAFTER C/O OF ""PRESSURE ""ACROSS HER UPPER ABD/LOWER CHEST AND HAVING DIFFICULTY SWALLOWING(WHCH WAS TRANGIENTLY RELIEVED WHEN NG FLUSHED WITH NS.PT APPEARED VERY ANXIOUS ALTHOUGH PT DENIED IT.
+A. DR. [**Last Name (STitle) **] NOTIFIED OF ALL ABOVE. 12LEAD EKG DONE WITH NO CHANGES PER DR. [**Last Name (STitle) **]. PT WAS GIVEN AN ALBUTEROL TX WHICH TRANGIENTLY INCREASED O2 SAT TO 96.. LASIX WAS GIVEN AND CXR DONE...PT ALSO WAS GIVEN 1 DOSE OF ATIVAN TO HELP PT STOP FOCUSING ON NG TUBE AND RELAX.REPEAT LYTES ORDEREDFOR POST DIURESIS.
+R. PT DIURESED. O2 SAT=94 ON 3L NP . PT IS CALMER.NO FURTHER C/O CHEST/ABD PRESSURE. 
+",,
+24263,29097,30140,0,3438-04-29 02:32:00 EST,3438-04-29 02:55:00 EST,-1,"N",54,"Nursing/Other",,"
+
+7P-7A: Full assessment in flow sheet.
+
+neuro: Alert and oriented X3. Calm. Two episode of restlessness and agitation - relief with Ativan 1mg ivp (result - calmer, no c/o of sob). MAE - strong, bilaterally equal. Follow all commands. No pain per pt - pain control by PCA (pt use with activities- movement and coughing). Pt slept most of the night. 
+
+cv: NSR with rare PAC, PVC. no chest pain. VSS, afebrile. warm, dry, no edema.
+
+resp: Lung sound clear in upper lobes, dimish at bases. Breathing treatment given, chest PT done, encourage to deep breath and cough. Productive cough - thick, white sputum. no sob, no accessory muscles use. NC 2-3L - SaO2-96-100%, RR 14-24.
+
+gu/gi: Soft distend abd with hypoactive BS X4. Suture site - intact with small drainage. Colostomy - beefy red with small stooling and small red drainage. foley patent - clear yellow urine >28 cc/hr. NG tube - +placement, bilious drainage.
+
+skin; Intact.
+
+No allergic reaction to antibiotic.
+
+Explain all procedures and comfort pt verbally.
+
+plan: Continue to monitor. Am lab. Transfer to floor in AM.
+
+
+
+",,
+24263,29097,30140,0,3438-04-29 15:31:00 EST,3438-04-29 15:53:00 EST,3085,"N",54,"Nursing/Other","CONDITION UPDATE","
+CONDITION UPDATE
+D. 62 YR OLD FEMALE WITH NKA.PMH= HBP,CAD,HX AFIB WITH CARDIOVERSION IN PAST.COPD ON HOME O2.,SM CELL CA IN R LUNG FOR WHICH PT HAD OPEN THORACOTOMY 1 WK PTA.
+  [**4-26**] PT ADMITTED WITH HX OF 1 WK RLQ ABD PAINAND NO BM..PERFORATED DIVERTICULITIS.[**4-27**] EXPL. LAP WITH SIGMOID COLOSTOMY,[**Doctor Last Name 4381**] PROCEDURE,AND APPENDECTOMY..PT REMAINED INTUBATED AND SEDATED OVERNITE.
+   [**4-28**] PT DUE TO BE TRANSFERRED BUT DESATED TO 89 WITH MARGINAL UO AND HIGH ANXIETY. CXR=SM FAILURE. DIURESIS SUCCESSFUL AND ATIVAN FOR ANXIETY HELPFUL TO RELIEVE HYPOXIA. O2 SAT=93 ON 2L NP ONLY.
+   [**4-29**] AFEBRILE,SR WITH OCCASSIONAL PAC,RR=13-20,O2 SAT MAINTAINED AT 93-95 ON 2L NP. BP STABLE.
+ HUO DOWN TO 20-30ML/HR WITH LAST 24 HR FLUID BALANCE REMAINING SL POS. DESPITE YESTERDAY'S DIURESIS.THUS LASIX GIVEN WITH SUCCESSFUL DIURESING.IVF AT 50ML/HR.
+ NO ACUTE ANXIETY EPISODES HOWEVER PT REQUESTED ATIVAN AT Q 6 HR INTERVALS TO ENABLE HER TO TOLERATE THE FEELING OF NG IN BACK OF THROAT.
+ PT USING DILAUDID SUCCESSFULLY AND ABLE TO COUGH WELL AND AMBULATE WITH MINIMAL DISCOMFORT AND NO O2 PER PT..
+ MORE ACTIVE BOWEL SOUNDS AND COLOSTOMY PRODUCING FLATUS ONLY TODAY.
+ ABD INCISION D&I. DILAUDID PCA SUCCESSFUL IN RELIEVING PAIN.
+A. AWAIT TELEMETRY BED WHEN AVAIABLE
+R. STABLE
+",,
+24263,29097,30140,0,3438-04-30 01:08:00 EST,3438-04-30 01:16:00 EST,-1,"N",54,"Nursing/Other",,"
+
+7p-7a: Full assessment in flow sheet. 
+
+neuro: Alert and oriented X3. Clear speech. No pain - pain control by PCA. Pt have period of agitation and uncomfortable- relief with reposition and ativan ivp - calmer and less anxious. MAE - strong bilaterally. Good cough and gag reflex. Pt refuse ambulation tonight.
+
+cv: NSR with PAC and PVC rare. No chest pain. Warm, dry, no edema. VSS afebrile.
+
+resp: Lung sound clear in upper lobes, dimish at bases. 2L NC - 94-96%, RR 16-24. Good cough and productive. clear/tan sputum. Chest PT and encourage to deep breath and cough. no sob. regular breathing.
+
+gu/gi: soft distended bowel sound X4. Positive flatus. No stool. no pain on palpation. suture site intact - small ss drainge - transparent dressing. NG tube - +placement, bilous residual. colostomy - beefy red site, edge is dusky. Foley patent - clear yellow urine. Lasix 20 mg ivp - diuresis well.
+
+int: skin intact.
+
+plan: Continue monitor. Transfer to telemtry floor in AM ?
+
+",,
+24263,29097,,,3438-05-03 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3438-5-3**] 3:26 PM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 1127**]
+     CT RECONSTRUCTION; CT 150CC NONIONIC CONTRAST
+     Reason: r/o abscess/leak                                            
+      Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      63 year old woman with perf'd diverticulitis s/p sigmoidectomy                  
+     REASON FOR THIS EXAMINATION:
+      r/o abscess/leak                                                                
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     
+     INDICATION:  ? abscess vs leak in patient s/p sigmoidectomy for
+     diverticulitis.
+     
+     TECHNIQUE: Helically aquired contiguous axial images were obtained from the
+     lung bases to the pubic symphysis after the administration of 150 cc of
+     Optiray. Non-ionic contrast was used, secondary to h/o allergies.  Coronal
+     reformations were subsequently obtained and reviewed.
+     
+     Comparison: [**3438-4-26**].
+     
+     CT ABDOMEN W/CONTRAST:  The heart is notable for poly-chamber enlargement.
+     There is redemonstration of right lower lobe atelectasis with geograhic
+     pattern suggestive of post-radiation change. Again see is right lower lobe
+     effusion with split pleural sign, suggesting loculation and possible empyema.
+     A small left effusion is also present which is also new since the prior study.
+     The liver, spleen, adrenal glands, pancreas, kidneys and ureters are
+     unremarkable and unchanged. A left renal exophytic cyst is again noted. The
+     gallbladder fluid is noted to have increased attenuation likely due to
+     contrast excretion from prior study. A trace amount of fluid is noted in
+     [**Location (un) 1128**] pouch and a moderate amount of fluid is noted in the pelvis with no
+     evidence of abscess formation or abnormal air pockets.  The distal small bowel
+     and colon is well opacified to the ostomy.  There is no evidence of contrast
+     extravasation to suggest leak.  A midline incision site with skin clips is
+     noted with no abnormal fluid collections in the subcutaneous tissues. There is
+     no retroperitoneal, mesenteric, deep pelvic, or inguinal lymphadenopathy.
+     There is no free air in the abdomen or pelvis.
+     
+     CT PELVIS WITH IV CONTRAST:  Calcification in uterus consistent with fibroid.
+     Urinary bladder unremarkable.  No lymphadenopathy.
+     
+     BONE WINDOWS:  No suspicious lytic or sclerotic osseous lesions are seen.
+     Degenerative changes are noted in the lumbar spine.
+     
+     IMPRESSION:
+     1)  No evidence of abscess or leak, s/p sigmoid colon resection.
+     2)  Moderate amount of free fluid in the pelvis tracking up to [**Location (un) 1128**]
+     pouch.
+     3)  Stable appearance of right lower lobe atelectasis vs post-radiation change
+     and apparently loculated small right pleural effusion.  Empyema cannot be
+     excluded.
+                                                                 (Over)
+
+     DATE: [**3438-5-3**] 3:26 PM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 1127**]
+     CT RECONSTRUCTION; CT 150CC NONIONIC CONTRAST
+     Reason: r/o abscess/leak                                            
+      Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     4)  Interval formation of small left pleural effusion.
+     
+     
+     
+     
+     
+
+",,
+24263,29097,,,3438-05-03 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3438-5-3**] 3:26 PM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 1127**]
+     CT RECONSTRUCTION; CT 150CC NONIONIC CONTRAST
+     Reason: r/o abscess/leak                                            
+      Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      63 year old woman with perf'd diverticulitis s/p sigmoidectomy                  
+     REASON FOR THIS EXAMINATION:
+      r/o abscess/leak                                                                
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     
+     INDICATION:  ? abscess vs leak in patient s/p sigmoidectomy for
+     diverticulitis.
+     
+     TECHNIQUE: Helically aquired contiguous axial images were obtained from the
+     lung bases to the pubic symphysis after the administration of 150 cc of
+     Optiray. Non-ionic contrast was used, secondary to h/o allergies.  Coronal
+     reformations were subsequently obtained and reviewed.
+     
+     Comparison: [**3438-4-26**].
+     
+     CT ABDOMEN W/CONTRAST:  The heart is notable for poly-chamber enlargement.
+     There is redemonstration of right lower lobe atelectasis with geograhic
+     pattern suggestive of post-radiation change. Again see is right lower lobe
+     effusion with split pleural sign, suggesting loculation and possible empyema.
+     A small left effusion is also present which is also new since the prior study.
+     The liver, spleen, adrenal glands, pancreas, kidneys and ureters are
+     unremarkable and unchanged. A left renal exophytic cyst is again noted. The
+     gallbladder fluid is noted to have increased attenuation likely due to
+     contrast excretion from prior study. A trace amount of fluid is noted in
+     [**Location (un) 1128**] pouch and a moderate amount of fluid is noted in the pelvis with no
+     evidence of abscess formation or abnormal air pockets.  The distal small bowel
+     and colon is well opacified to the ostomy.  There is no evidence of contrast
+     extravasation to suggest leak.  A midline incision site with skin clips is
+     noted with no abnormal fluid collections in the subcutaneous tissues. There is
+     no retroperitoneal, mesenteric, deep pelvic, or inguinal lymphadenopathy.
+     There is no free air in the abdomen or pelvis.
+     
+     CT PELVIS WITH IV CONTRAST:  Calcification in uterus consistent with fibroid.
+     Urinary bladder unremarkable.  No lymphadenopathy.
+     
+     BONE WINDOWS:  No suspicious lytic or sclerotic osseous lesions are seen.
+     Degenerative changes are noted in the lumbar spine.
+     
+     IMPRESSION:
+     1)  No evidence of abscess or leak, s/p sigmoid colon resection.
+     2)  Moderate amount of free fluid in the pelvis tracking up to [**Location (un) 1128**]
+     pouch.
+     3)  Stable appearance of right lower lobe atelectasis vs post-radiation change
+     and apparently loculated small right pleural effusion.  Empyema cannot be
+     excluded.
+                                                                 (Over)
+
+     DATE: [**3438-5-3**] 3:26 PM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 1127**]
+     CT RECONSTRUCTION; CT 150CC NONIONIC CONTRAST
+     Reason: r/o abscess/leak                                            
+      Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     4)  Interval formation of small left pleural effusion.
+     
+     
+     
+     
+     
+
+",,
+24263,29097,,,3438-05-03 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3438-5-3**] 3:26 PM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 1127**]
+     CT RECONSTRUCTION; CT 150CC NONIONIC CONTRAST
+     Reason: r/o abscess/leak                                            
+      Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      63 year old woman with perf'd diverticulitis s/p sigmoidectomy                  
+     REASON FOR THIS EXAMINATION:
+      r/o abscess/leak                                                                
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     
+     INDICATION:  ? abscess vs leak in patient s/p sigmoidectomy for
+     diverticulitis.
+     
+     TECHNIQUE: Helically aquired contiguous axial images were obtained from the
+     lung bases to the pubic symphysis after the administration of 150 cc of
+     Optiray. Non-ionic contrast was used, secondary to h/o allergies.  Coronal
+     reformations were subsequently obtained and reviewed.
+     
+     Comparison: [**3438-4-26**].
+     
+     CT ABDOMEN W/CONTRAST:  The heart is notable for poly-chamber enlargement.
+     There is redemonstration of right lower lobe atelectasis with geograhic
+     pattern suggestive of post-radiation change. Again see is right lower lobe
+     effusion with split pleural sign, suggesting loculation and possible empyema.
+     A small left effusion is also present which is also new since the prior study.
+     The liver, spleen, adrenal glands, pancreas, kidneys and ureters are
+     unremarkable and unchanged. A left renal exophytic cyst is again noted. The
+     gallbladder fluid is noted to have increased attenuation likely due to
+     contrast excretion from prior study. A trace amount of fluid is noted in
+     [**Location (un) 1128**] pouch and a moderate amount of fluid is noted in the pelvis with no
+     evidence of abscess formation or abnormal air pockets.  The distal small bowel
+     and colon is well opacified to the ostomy.  There is no evidence of contrast
+     extravasation to suggest leak.  A midline incision site with skin clips is
+     noted with no abnormal fluid collections in the subcutaneous tissues. There is
+     no retroperitoneal, mesenteric, deep pelvic, or inguinal lymphadenopathy.
+     There is no free air in the abdomen or pelvis.
+     
+     CT PELVIS WITH IV CONTRAST:  Calcification in uterus consistent with fibroid.
+     Urinary bladder unremarkable.  No lymphadenopathy.
+     
+     BONE WINDOWS:  No suspicious lytic or sclerotic osseous lesions are seen.
+     Degenerative changes are noted in the lumbar spine.
+     
+     IMPRESSION:
+     1)  No evidence of abscess or leak, s/p sigmoid colon resection.
+     2)  Moderate amount of free fluid in the pelvis tracking up to [**Location (un) 1128**]
+     pouch.
+     3)  Stable appearance of right lower lobe atelectasis vs post-radiation change
+     and apparently loculated small right pleural effusion.  Empyema cannot be
+     excluded.
+                                                                 (Over)
+
+     DATE: [**3438-5-3**] 3:26 PM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 1127**]
+     CT RECONSTRUCTION; CT 150CC NONIONIC CONTRAST
+     Reason: r/o abscess/leak                                            
+      Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     4)  Interval formation of small left pleural effusion.
+     
+     
+     
+     
+     
+
+",,
+24263,,,,3438-06-01 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3438-6-1**] 3:52 PM
+     CHEST (SINGLE VIEW)                                             Clip # [**Clip Number (Radiology) 1130**]
+     Reason: R/O PNEUMO SP BIOPSY
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: Status post biopsy, evaluate for pneumothorax.
+     
+     CHEST, AP: AP view demonstrates status post sternotomy.  Surgical clips are
+     identified in the mediastinal structures.  Paracardiac enlargement is present
+     with evidence of left ventricular contour to the left.  There is local plate
+     atelectasis in the right lung base and a local circular thin walled shadow
+     surrounding a most likely emphysematous bleb.  Right apical area on chest
+     superimposed by the proximal clavicle and local parenchymal density is seen
+     with some linear extensions toward the hilum.  In the right upper lobe area
+     there is local pleural density with a possible small double contour but this
+     is not representing a significant pneumothorax. Also observed is a resection
+     of the 6th rib.  Available for comparison is a previous portable AP chest
+     examination dated [**4-28**], findings are practically unchanged.  Thus there is
+     no evidence for any new significant pneumothorax.
+     
+
+",,
+24263,,,,3438-06-01 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3438-6-1**] 9:32 AM
+     CT CHEST W/O CONTRAST; CT PLEURAL BX                            Clip # [**Clip Number (Radiology) 1129**]
+     CT LOC BX; CT GUIDANCE FOR BX
+     CT FINE NEEDLE ASP
+     Reason: s/p small cell ca.  New lesion in the right lung.  Open wedg
+     Field of view: 36
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      63 year old woman with new lung lesion
+     REASON FOR THIS EXAMINATION:
+      s/p small cell ca.  New lesion in the right lung.  Open wedge could not be done
+      because of extensive scarring.  Please biopsy.  The patient is on coumadin. She
+      has been instructed to stop the coumadin 5 days prior to biopsy.  She will need
+      a PT check pre 
+       
+       
+       
+       
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Right apical lung lesion, failed open wedge.  For biopsy.
+     
+     COMPARISON:  Comparison is made with torso CT dated [**3438-2-27**].
+     
+     CT LOCALIZATION:  The patient was positioned in the LAO position feet first
+     into the scanner with grid placed over the right upper back.  Spiculated right
+     apical lung lesion was identified and an appropriate region marked on the
+     skin.
+     
+     CT GUIDANCE:  The skin mark was anesthetized with local lidocaine injection.
+     Under the guidance of CT fluoroscopy, a 19-gauge coaxial needle was advanced
+     to the margin of the pleura subjacent to the spiculated lesion.  A 20-gauge
+     Franseen needle was then advanced through the coaxial needle and multiple
+     representative samples were obtained.  Four total passes were made, and at the
+     end of the procedure an aspiration was performed through the coaxial needle.
+     
+     C- POST BIOPSY CHEST CT:  There is no pneumothorax.  A new right lower lobe
+     nodule is identified on the post-procedure scan visualized on one slice only
+     and measuring approximately 1 cm in diameter.  Its margins are smooth.  There
+     are no additional nodules identified.  There are stable radiation changes in
+     the medial aspect of the right lung.  There is accompanying volume loss on the
+     right.  This is stable.  Epicardial pacing leads are again noted, as are
+     sternal wires and multiple mediastinal clips.  There is no left-sided
+     effusion.  There is no discernible lymphadenopathy.  The visualized organs of
+     the upper abdomen are within normal limits.  The osseous structures of the
+     thorax demonstrate no suspicious findings.
+     
+     IMPRESSION:
+     
+     1) Successful CT-guided biopsy of spiculated right upper lobe nodule.
+     
+     2) Stable right-sided pleural effusion and radiation changes.
+     
+                                                                 (Over)
+
+     DATE: [**3438-6-1**] 9:32 AM
+     CT CHEST W/O CONTRAST; CT PLEURAL BX                            Clip # [**Clip Number (Radiology) 1129**]
+     CT LOC BX; CT GUIDANCE FOR BX
+     CT FINE NEEDLE ASP
+     Reason: s/p small cell ca.  New lesion in the right lung.  Open wedg
+     Field of view: 36
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     3) New 1-cm right lower lobe nodule should be followed up within three months
+     by CT.
+
+",,
+24263,,,,3438-06-01 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3438-6-1**] 9:32 AM
+     CT CHEST W/O CONTRAST; CT PLEURAL BX                            Clip # [**Clip Number (Radiology) 1129**]
+     CT LOC BX; CT GUIDANCE FOR BX
+     CT FINE NEEDLE ASP
+     Reason: s/p small cell ca.  New lesion in the right lung.  Open wedg
+     Field of view: 36
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      63 year old woman with new lung lesion
+     REASON FOR THIS EXAMINATION:
+      s/p small cell ca.  New lesion in the right lung.  Open wedge could not be done
+      because of extensive scarring.  Please biopsy.  The patient is on coumadin. She
+      has been instructed to stop the coumadin 5 days prior to biopsy.  She will need
+      a PT check pre 
+       
+       
+       
+       
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Right apical lung lesion, failed open wedge.  For biopsy.
+     
+     COMPARISON:  Comparison is made with torso CT dated [**3438-2-27**].
+     
+     CT LOCALIZATION:  The patient was positioned in the LAO position feet first
+     into the scanner with grid placed over the right upper back.  Spiculated right
+     apical lung lesion was identified and an appropriate region marked on the
+     skin.
+     
+     CT GUIDANCE:  The skin mark was anesthetized with local lidocaine injection.
+     Under the guidance of CT fluoroscopy, a 19-gauge coaxial needle was advanced
+     to the margin of the pleura subjacent to the spiculated lesion.  A 20-gauge
+     Franseen needle was then advanced through the coaxial needle and multiple
+     representative samples were obtained.  Four total passes were made, and at the
+     end of the procedure an aspiration was performed through the coaxial needle.
+     
+     C- POST BIOPSY CHEST CT:  There is no pneumothorax.  A new right lower lobe
+     nodule is identified on the post-procedure scan visualized on one slice only
+     and measuring approximately 1 cm in diameter.  Its margins are smooth.  There
+     are no additional nodules identified.  There are stable radiation changes in
+     the medial aspect of the right lung.  There is accompanying volume loss on the
+     right.  This is stable.  Epicardial pacing leads are again noted, as are
+     sternal wires and multiple mediastinal clips.  There is no left-sided
+     effusion.  There is no discernible lymphadenopathy.  The visualized organs of
+     the upper abdomen are within normal limits.  The osseous structures of the
+     thorax demonstrate no suspicious findings.
+     
+     IMPRESSION:
+     
+     1) Successful CT-guided biopsy of spiculated right upper lobe nodule.
+     
+     2) Stable right-sided pleural effusion and radiation changes.
+     
+                                                                 (Over)
+
+     DATE: [**3438-6-1**] 9:32 AM
+     CT CHEST W/O CONTRAST; CT PLEURAL BX                            Clip # [**Clip Number (Radiology) 1129**]
+     CT LOC BX; CT GUIDANCE FOR BX
+     CT FINE NEEDLE ASP
+     Reason: s/p small cell ca.  New lesion in the right lung.  Open wedg
+     Field of view: 36
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     3) New 1-cm right lower lobe nodule should be followed up within three months
+     by CT.
+
+",,
+24263,,,,3438-06-01 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3438-6-1**] 9:32 AM
+     CT CHEST W/O CONTRAST; CT PLEURAL BX                            Clip # [**Clip Number (Radiology) 1129**]
+     CT LOC BX; CT GUIDANCE FOR BX
+     CT FINE NEEDLE ASP
+     Reason: s/p small cell ca.  New lesion in the right lung.  Open wedg
+     Field of view: 36
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      63 year old woman with new lung lesion
+     REASON FOR THIS EXAMINATION:
+      s/p small cell ca.  New lesion in the right lung.  Open wedge could not be done
+      because of extensive scarring.  Please biopsy.  The patient is on coumadin. She
+      has been instructed to stop the coumadin 5 days prior to biopsy.  She will need
+      a PT check pre 
+       
+       
+       
+       
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Right apical lung lesion, failed open wedge.  For biopsy.
+     
+     COMPARISON:  Comparison is made with torso CT dated [**3438-2-27**].
+     
+     CT LOCALIZATION:  The patient was positioned in the LAO position feet first
+     into the scanner with grid placed over the right upper back.  Spiculated right
+     apical lung lesion was identified and an appropriate region marked on the
+     skin.
+     
+     CT GUIDANCE:  The skin mark was anesthetized with local lidocaine injection.
+     Under the guidance of CT fluoroscopy, a 19-gauge coaxial needle was advanced
+     to the margin of the pleura subjacent to the spiculated lesion.  A 20-gauge
+     Franseen needle was then advanced through the coaxial needle and multiple
+     representative samples were obtained.  Four total passes were made, and at the
+     end of the procedure an aspiration was performed through the coaxial needle.
+     
+     C- POST BIOPSY CHEST CT:  There is no pneumothorax.  A new right lower lobe
+     nodule is identified on the post-procedure scan visualized on one slice only
+     and measuring approximately 1 cm in diameter.  Its margins are smooth.  There
+     are no additional nodules identified.  There are stable radiation changes in
+     the medial aspect of the right lung.  There is accompanying volume loss on the
+     right.  This is stable.  Epicardial pacing leads are again noted, as are
+     sternal wires and multiple mediastinal clips.  There is no left-sided
+     effusion.  There is no discernible lymphadenopathy.  The visualized organs of
+     the upper abdomen are within normal limits.  The osseous structures of the
+     thorax demonstrate no suspicious findings.
+     
+     IMPRESSION:
+     
+     1) Successful CT-guided biopsy of spiculated right upper lobe nodule.
+     
+     2) Stable right-sided pleural effusion and radiation changes.
+     
+                                                                 (Over)
+
+     DATE: [**3438-6-1**] 9:32 AM
+     CT CHEST W/O CONTRAST; CT PLEURAL BX                            Clip # [**Clip Number (Radiology) 1129**]
+     CT LOC BX; CT GUIDANCE FOR BX
+     CT FINE NEEDLE ASP
+     Reason: s/p small cell ca.  New lesion in the right lung.  Open wedg
+     Field of view: 36
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     3) New 1-cm right lower lobe nodule should be followed up within three months
+     by CT.
+
+",,
+24263,,,,3438-06-01 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3438-6-1**] 9:32 AM
+     CT CHEST W/O CONTRAST; CT PLEURAL BX                            Clip # [**Clip Number (Radiology) 1129**]
+     CT LOC BX; CT GUIDANCE FOR BX
+     CT FINE NEEDLE ASP
+     Reason: s/p small cell ca.  New lesion in the right lung.  Open wedg
+     Field of view: 36
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      63 year old woman with new lung lesion
+     REASON FOR THIS EXAMINATION:
+      s/p small cell ca.  New lesion in the right lung.  Open wedge could not be done
+      because of extensive scarring.  Please biopsy.  The patient is on coumadin. She
+      has been instructed to stop the coumadin 5 days prior to biopsy.  She will need
+      a PT check pre 
+       
+       
+       
+       
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Right apical lung lesion, failed open wedge.  For biopsy.
+     
+     COMPARISON:  Comparison is made with torso CT dated [**3438-2-27**].
+     
+     CT LOCALIZATION:  The patient was positioned in the LAO position feet first
+     into the scanner with grid placed over the right upper back.  Spiculated right
+     apical lung lesion was identified and an appropriate region marked on the
+     skin.
+     
+     CT GUIDANCE:  The skin mark was anesthetized with local lidocaine injection.
+     Under the guidance of CT fluoroscopy, a 19-gauge coaxial needle was advanced
+     to the margin of the pleura subjacent to the spiculated lesion.  A 20-gauge
+     Franseen needle was then advanced through the coaxial needle and multiple
+     representative samples were obtained.  Four total passes were made, and at the
+     end of the procedure an aspiration was performed through the coaxial needle.
+     
+     C- POST BIOPSY CHEST CT:  There is no pneumothorax.  A new right lower lobe
+     nodule is identified on the post-procedure scan visualized on one slice only
+     and measuring approximately 1 cm in diameter.  Its margins are smooth.  There
+     are no additional nodules identified.  There are stable radiation changes in
+     the medial aspect of the right lung.  There is accompanying volume loss on the
+     right.  This is stable.  Epicardial pacing leads are again noted, as are
+     sternal wires and multiple mediastinal clips.  There is no left-sided
+     effusion.  There is no discernible lymphadenopathy.  The visualized organs of
+     the upper abdomen are within normal limits.  The osseous structures of the
+     thorax demonstrate no suspicious findings.
+     
+     IMPRESSION:
+     
+     1) Successful CT-guided biopsy of spiculated right upper lobe nodule.
+     
+     2) Stable right-sided pleural effusion and radiation changes.
+     
+                                                                 (Over)
+
+     DATE: [**3438-6-1**] 9:32 AM
+     CT CHEST W/O CONTRAST; CT PLEURAL BX                            Clip # [**Clip Number (Radiology) 1129**]
+     CT LOC BX; CT GUIDANCE FOR BX
+     CT FINE NEEDLE ASP
+     Reason: s/p small cell ca.  New lesion in the right lung.  Open wedg
+     Field of view: 36
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     3) New 1-cm right lower lobe nodule should be followed up within three months
+     by CT.
+
+",,
+24263,,,,3438-08-02 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+",,
+24263,,,,3438-08-10 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3438-8-10**] 9:24 AM
+     ESOPHAGUS                                                       Clip # [**Clip Number (Radiology) 1131**]
+     Reason: Pt with difficulty swallowing, bringing up bits or food afte
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      63 year old woman with see above.
+     REASON FOR THIS EXAMINATION:
+      Pt with difficulty swallowing, bringing up bits or food after each meal.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     
+     HISTORY:  Difficulty swallowing with regurgitation of food.
+     
+     Barium passes without obstruction through the esophagus.  There is no
+     aspiration into the airway. There is moderate pooling in the valleculae, which
+     fails to clear on subsequent swallows.  There is normal relaxation of the
+     cricopharyngeus segment.  No structural abnormality is detected in the region
+     of the hypopharynx or upper esophagus.  There are normal primary peristaltic
+     contractions.  There is a small axial hiatal hernia.  No GE reflux is observed
+     during the study.  A 13-mm barium tablet passes freely through the esophagus
+     without holdup at any specific location.  The stomach distends and empties
+     normally.
+     
+     IMPRESSION:  Moderate pooling in the valleculae and pyriform sinuses without
+     evidence of aspiration into the airway, of uncertain clinical significance.
+     Correlate clinically and if necessary, a video oropharyngogram done in
+     conjunction with the swallowing therapist may be helpful for management of the
+     swallowing problem.  Small axial hiatal hernia without demonstrable GE reflux.
+      Normal passage of barium tablet.
+     
+
+",,
+24263,,,,3438-08-23 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3438-8-23**] 11:01 AM
+     CT CHEST W/CONTRAST; CT 100CC NON IONIC CONTRAST                Clip # [**Clip Number (Radiology) 1132**]
+     Reason: f/up right apical lung nodule. Please compare to CT scan per
+      Contrast: OPTIRAY Amt: 
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      63 year old woman with h/o small cell lung cancer s/p chemo and xrt in '[**29**] with
+      new right apical lung nodule which she has had failed open lung biopsy due to
+      extensive scarring and failed FNA. Please asses interval growth. 
+     REASON FOR THIS EXAMINATION:
+      f/up right apical lung nodule. Please compare to CT scan performed on [**3438-2-27**].
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Prior history of lung CA in [**3429**], status post chemotherapy and
+     radiation therapy.  Right apical lung nodule with nondiagnostic biopsy
+     procedure.
+     
+     Compared to previous CT guided biopsy procedure of [**3438-6-1**], as well as
+     previous CT torso dated [**3438-2-27**].
+     
+     Helical CT of the thorax was performed following IV administration of 100 cc
+     Optiray.  Nonionic contrast was administered due to history of allergies.
+     Images were initially acquired with 5 mm collimation and reconstructed at 5 mm
+     intervals.  Additional targeted thin-section 1.25 mm images were obtained
+     through the right apex.
+     
+     Again demonstrated is the presence of a right apical lung nodule.  The nodule
+     has irregular margins and contains an air bronchogram.  The nodule measures
+     approximately 16 mm x 13 mm in diameter.  Previously, it measured
+     approximately 14 mm x 9 mm in diameter in [**3438-5-21**].  This was present dating
+     back to [**3438-2-19**], at which time measurements were recorded as approximately
+     13 mm x 12 mm in diameter.
+     
+     Assessment of the remaining portions of the lungs is remarkable for volume
+     loss in the right hemithorax and scattered areas of parenchymal scarring,
+     which appear stable.  There is also a focal area of rounded pleural thickening
+     in the upper right hemithorax posterolaterally adjacent to a thoracotomy site.
+      This is not seen on the [**3438-2-19**] study but was present on the [**3438-5-21**]
+     study and does appear significantly changed compared to that time.  There is a
+     background pattern of emphysema present.  Radiation changes are noted
+     anteromedially in the right lung with associated volume loss and traction
+     bronchiectasis.  This appears stable.  A small soft tissue density is seen
+     wihtin the bronchus intermedius medially, and was not seen on previous scans.
+     This abuts the anteromedial wall and measures about 4 mm in diameter.  No
+     obstructing endobronchial lesions are evident.  Radiation changes centrally in
+     the right mid and lower lung zones are also stable compared to [**3438-2-19**].
+     Small peripheral linear opacity in the left lower lobe may be due to focal
+     scarring or focal discoid atelectasis.
+     
+     Additional areas of dependent density are noted in the airway at the level of
+     the proximal right main stem bronchus and along the right lateral wall of the
+     trachea, most likely due to dependent secretions, given their dependent
+                                                                 (Over)
+
+     DATE: [**3438-8-23**] 11:01 AM
+     CT CHEST W/CONTRAST; CT 100CC NON IONIC CONTRAST                Clip # [**Clip Number (Radiology) 1132**]
+     Reason: f/up right apical lung nodule. Please compare to CT scan per
+      Contrast: OPTIRAY Amt: 
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     location.
+     
+     Skeletal structures of the thorax reveal evidence of prior right thoracotomy
+     procedure.  There has also been previous sternotomy.  Note is made of porosis
+     of several ribs on the right side posteriorly just below the level of the
+     thoracotomy site.  This is without change since the previous study and
+     could potentially reflect radiation change, given proximity to radiation
+     changes in the lungs.
+     
+     Soft tissue structures of the thorax reveal smoothly marginated pleural
+     thickening in the upper right hemithorax, which appears stable.  No
+     significantly enlarged mediastinal or hilar lymph nodes are evident.  There
+     is marked enlargement of the main and central pulmonary arteries, suggesting
+     pulmonary hypertension.  Also noted is enlargement of the right atrium and
+     right ventricle.  The pericardium is unremarkable with evidence of effusion.
+     Pleural surfaces are remarkable for a stable appearing loculated small right
+     pleural effusion with adjacent smoothly marginated pleural thickening.  No
+     significant left pleural effusion is seen.
+     
+     In the upper portion of the abdomen, the adrenal glands are normal, as well as
+     the imaged portions of the kidneys.  Assessment of the imaged portions of the
+     spleen, pancreas and liver reveals no suspicious lesions.
+     
+     IMPRESSION:
+     
+     1. Right apical lung nodule with poorly defined margins and a prominent air
+     bronchogram.  This appears to have slightly grown in the interval compared to
+     previous scans of July and [**3438-2-19**] and is concerning for a second primary
+     lung cancer (rather than metastatic focus) given the long interval since the
+     patient's prior lung CA. Considering nondiagnostic fine needle aspiration
+     biopsy, consider re- biopsy or Nuclear Medicine FDG scan for further
+     assessment.
+     
+     2. New small focal lobulated pleural opacity in right upper hemithorax
+     posteriorly near the thoracotomy site, unchanged since [**3438-5-21**] but new since
+     [**3438-2-19**].  This has fluid attenuation and is likely due to a small area of
+     loculated fluid. Other areas of pleural thickening and effusion are unchanged
+     compared to April.
+     
+     3. Marked enlargement of main and central pulmonary arteries, suggesting
+     pulmonary hypertension, with associated right ventricular enlargement.
+     
+     4. Stable post-radiation changes in the right hemithorax.
+     
+     
+                                                                 (Over)
+
+     DATE: [**3438-8-23**] 11:01 AM
+     CT CHEST W/CONTRAST; CT 100CC NON IONIC CONTRAST                Clip # [**Clip Number (Radiology) 1132**]
+     Reason: f/up right apical lung nodule. Please compare to CT scan per
+      Contrast: OPTIRAY Amt: 
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+
+",,
+24263,,,,3438-10-12 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+",,
+24263,,,,3438-10-24 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3438-10-24**] 3:17 PM
+     CHEST (SINGLE VIEW)                                             Clip # [**Clip Number (Radiology) 1134**]
+     Reason: POST CT LUNG BX
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  S/P CT lung biopsy.  Check for pneumothorax.
+     
+     FINDINGS:  A single AP upright image is provided.  Comparison study dated
+     [**3438-6-1**].  There is again evidence of collapse/consolidation at the right
+     cardiophrenic angle region.  Some pleural thickening is noted in the right
+     costophrenic angle.  S/P right thoracotomy with resection of the 6th rib noted
+     again.  Left ventricular enlargement of the heart and mid-line sternal sutures
+     also again noted.  These appearance are all unchanged since the prior study.
+     There is no evidence of any pneumothorax at this time following the biopsy.
+     
+     IMPRESSION:  No complicating pneumothorax is identified.  The appearances are
+     unchanged since [**5-22**].
+
+",,
+24263,,,,3438-10-24 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3438-10-24**] 7:12 AM
+     CT CHEST W/O CONTRAST; CT LUNG/MEDIASTINAL BX                   Clip # [**Clip Number (Radiology) 1133**]
+     CT LOC BX; CT GUIDANCE FOR BX
+     Reason: lesion right upper lobe.  Please rebiopsy
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      63 year old woman with remote history of small cell ca on the right treated in
+      [**3430**].  Now new lesion in rul ? new ca.  Previous biopsy non-dx and surgery
+      could not be done because of extensive adhesions.
+     REASON FOR THIS EXAMINATION:
+      lesion right upper lobe.  Please rebiopsy
+     CONTRAINDICATIONS for IV CONTRAST:
+      RENAL DYSFUNCTION
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  CT-guided biopsy of lung nodule.
+     
+     The comparison is CT of the chest on [**3438-8-23**].
+     
+     TECHNIQUE:  Helically-acquired contiguous axial images were obtained from the
+     thoracic inlet through the lung apices.  The patient was then changed from the
+     supine position to a left lateral decubitus position.
+     
+     CT OF THE CHEST WITHOUT IV CONTRAST:  Again noted is the right apical lung
+     nodule with poorly defined margins.  This is not significantly changed since
+     the prior study.  The visualized portion of the left lung is unremarkable.
+     Please see report from prior study for full description.
+     
+     PROCEDURE/TECHNIQUE:  Signed informed consent was obtained from the patient
+     prior to the procedure.  The patient was placed in the left lateral decubitus
+     position on the CT table.  After a reasonable site was determined using a grid
+     and CT guidance, the overlying skin region was prepped and draped in the usual
+     sterile fashion.  Approximately 10 cc of 1% lidocaine was used for local
+     anesthesia.  A 22-gauge 15-cm Chiba needle was used for the biopsy under CT
+     guidance.  Three passes were made, the tip of the needle was confirmed within
+     the lesion on all passes. The tissue was then placed on a slide for a
+     cytologic examination and examined by the cytologist.
+     
+     The patient tolerated the procedure well without immediate complications.  The
+     post-procedure images demonstrate no significant change in the lung nodule.
+     There is no post procedure pneumothorax.
+     
+     IMPRESSION:  Technically successful biopsy of a right apical lung nodule.
+     Cytology from three passes was sent for analysis.
+     
+     
+
+",,
+24263,,,,3438-10-24 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3438-10-24**] 7:12 AM
+     CT CHEST W/O CONTRAST; CT LUNG/MEDIASTINAL BX                   Clip # [**Clip Number (Radiology) 1133**]
+     CT LOC BX; CT GUIDANCE FOR BX
+     Reason: lesion right upper lobe.  Please rebiopsy
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      63 year old woman with remote history of small cell ca on the right treated in
+      [**3430**].  Now new lesion in rul ? new ca.  Previous biopsy non-dx and surgery
+      could not be done because of extensive adhesions.
+     REASON FOR THIS EXAMINATION:
+      lesion right upper lobe.  Please rebiopsy
+     CONTRAINDICATIONS for IV CONTRAST:
+      RENAL DYSFUNCTION
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  CT-guided biopsy of lung nodule.
+     
+     The comparison is CT of the chest on [**3438-8-23**].
+     
+     TECHNIQUE:  Helically-acquired contiguous axial images were obtained from the
+     thoracic inlet through the lung apices.  The patient was then changed from the
+     supine position to a left lateral decubitus position.
+     
+     CT OF THE CHEST WITHOUT IV CONTRAST:  Again noted is the right apical lung
+     nodule with poorly defined margins.  This is not significantly changed since
+     the prior study.  The visualized portion of the left lung is unremarkable.
+     Please see report from prior study for full description.
+     
+     PROCEDURE/TECHNIQUE:  Signed informed consent was obtained from the patient
+     prior to the procedure.  The patient was placed in the left lateral decubitus
+     position on the CT table.  After a reasonable site was determined using a grid
+     and CT guidance, the overlying skin region was prepped and draped in the usual
+     sterile fashion.  Approximately 10 cc of 1% lidocaine was used for local
+     anesthesia.  A 22-gauge 15-cm Chiba needle was used for the biopsy under CT
+     guidance.  Three passes were made, the tip of the needle was confirmed within
+     the lesion on all passes. The tissue was then placed on a slide for a
+     cytologic examination and examined by the cytologist.
+     
+     The patient tolerated the procedure well without immediate complications.  The
+     post-procedure images demonstrate no significant change in the lung nodule.
+     There is no post procedure pneumothorax.
+     
+     IMPRESSION:  Technically successful biopsy of a right apical lung nodule.
+     Cytology from three passes was sent for analysis.
+     
+     
+
+",,
+24263,,,,3438-10-24 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3438-10-24**] 7:12 AM
+     CT CHEST W/O CONTRAST; CT LUNG/MEDIASTINAL BX                   Clip # [**Clip Number (Radiology) 1133**]
+     CT LOC BX; CT GUIDANCE FOR BX
+     Reason: lesion right upper lobe.  Please rebiopsy
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      63 year old woman with remote history of small cell ca on the right treated in
+      [**3430**].  Now new lesion in rul ? new ca.  Previous biopsy non-dx and surgery
+      could not be done because of extensive adhesions.
+     REASON FOR THIS EXAMINATION:
+      lesion right upper lobe.  Please rebiopsy
+     CONTRAINDICATIONS for IV CONTRAST:
+      RENAL DYSFUNCTION
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  CT-guided biopsy of lung nodule.
+     
+     The comparison is CT of the chest on [**3438-8-23**].
+     
+     TECHNIQUE:  Helically-acquired contiguous axial images were obtained from the
+     thoracic inlet through the lung apices.  The patient was then changed from the
+     supine position to a left lateral decubitus position.
+     
+     CT OF THE CHEST WITHOUT IV CONTRAST:  Again noted is the right apical lung
+     nodule with poorly defined margins.  This is not significantly changed since
+     the prior study.  The visualized portion of the left lung is unremarkable.
+     Please see report from prior study for full description.
+     
+     PROCEDURE/TECHNIQUE:  Signed informed consent was obtained from the patient
+     prior to the procedure.  The patient was placed in the left lateral decubitus
+     position on the CT table.  After a reasonable site was determined using a grid
+     and CT guidance, the overlying skin region was prepped and draped in the usual
+     sterile fashion.  Approximately 10 cc of 1% lidocaine was used for local
+     anesthesia.  A 22-gauge 15-cm Chiba needle was used for the biopsy under CT
+     guidance.  Three passes were made, the tip of the needle was confirmed within
+     the lesion on all passes. The tissue was then placed on a slide for a
+     cytologic examination and examined by the cytologist.
+     
+     The patient tolerated the procedure well without immediate complications.  The
+     post-procedure images demonstrate no significant change in the lung nodule.
+     There is no post procedure pneumothorax.
+     
+     IMPRESSION:  Technically successful biopsy of a right apical lung nodule.
+     Cytology from three passes was sent for analysis.
+     
+     
+
+",,
+24263,,,,3439-02-21 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3439-2-21**] 10:22 AM
+     CT CHEST W/CONTRAST; CT 100CC NON IONIC CONTRAST                Clip # [**Clip Number (Radiology) 1135**]
+     Reason: f/up RUL nodule. Please compare to prior CT chest of [**3438-10-24**]
+      Contrast: OPTIRAY Amt: 100
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      64 year old woman with remote h/o small cell lung cancer s/p chemo/radiation on
+      right in [**3429**]. Now with new RUL nodule that has been difficult to biopsy and
+      /or remove secondary to chest wall adhesions. 
+     REASON FOR THIS EXAMINATION:
+      f/up RUL nodule. Please compare to prior CT chest of [**3438-10-24**] and [**3438-8-23**].
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  64 year old woman with remote history of small cell cancer.
+     Status post chemo/radiation on right in [**3429**].  New right upper lobe nodule.
+     
+     CT OF THE CHEST WITH CONTRAST:
+     
+     COMPARISON:  [**3438-10-24**].
+     
+     TECHNIQUE:  Contiguous serial axial images were obtained through the cest
+     after the administration of 100 cc of non-ionic Optiray contrast using 5-mm
+     collimation.  Reconstructions were performed at 5-mm intervals.  Additional
+     thin cuts, 2.5-mm collimation, were performed through the upper thorax.
+     
+     CT OF THE CHEST WITH CONTRAST:  There are numerous small mediastinal and
+     axillary lymph nodes that do not meet CT requirement for pathologic
+     enlargement.  There are extensive dense vascular calcifications.  The heart is
+     upper limits of normal.  There is stable enlargement of the main and central
+     pulmonary arteries.  Smoothly marginated pleural thickening is again noted
+     within the right upper hemithorax.
+     
+     Lung windows reveal no significant change in the 1.1 x 1.2 cm spiculated right
+     apical nodule.  There is diffuse emphysema.  There is stable radiation change
+     within the anteromedial right lung with associated volume loss and traction
+     bronchiectasis.  Somewhat focal filling defects are present within the
+     dependent and right lateral aspect of the trachea consistent with retained
+     secretions.  No obstructing endoluminal defects are identified.
+     
+     The incompletely visualized liver, gallbladder, pancreas, spleen, adrenals and
+     kidneys are grossly unremarkable.
+     
+     BONE WINDOWS:  Osseous structures demonstrate degenerative changes.  There is
+     stable thickening of multiple right lower-thoracic ribs, unchanged from prior
+     study and of uncertain clinical significance.
+     
+     IMPRESSION:
+     
+     1) There has been no significant interval change in the size or appearance of
+     the spiculated right apical mass.  Follow-up is recommended to assess
+     stability.
+     
+     2) Pleural thickening, small pleural effusion and post-radiation changes on
+                                                                 (Over)
+
+     DATE: [**3439-2-21**] 10:22 AM
+     CT CHEST W/CONTRAST; CT 100CC NON IONIC CONTRAST                Clip # [**Clip Number (Radiology) 1135**]
+     Reason: f/up RUL nodule. Please compare to prior CT chest of [**3438-10-24**]
+      Contrast: OPTIRAY Amt: 100
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     the right are stable compared to prior study.
+     
+     3) Prominence of the central and main pulmonary arteries suggests the presence
+     of pulmonary hypertension.
+
+",,
+24263,,40603,0,3443-12-19 18:42:00 EST,3443-12-19 19:01:00 EST,8202,"N",54,"Nursing/Other",,"
+
+NPN:
+
+***Droplet precautions- ? flu**
+
+Allergies: NKDA
+
+code status: full code.
+ 
+Pt admitted from OSH to ED w/ increased SOB, + non-productive cough. On Bipap @ OSH, then transferred to ED on NRB. In ED, placed on bipap, but pt refused so placed on 6L NC w/ O2 sats of 89%. Transferred to MICU 6 @ 1700 on 4L NC w/ sats of 89-93%. RR 20s-30s. LS w/ crackles to bilateral apices, and ins/exp wheezes to bilateral bases. Given atrovent/albuterol neb tx @ 1800. Abd soft, BS present, c/o epigastic pain at hernia site w/ palpatation. Hernia retractable. MDs aware. Pt w/ colostomy - pink/moist. Pt brought own ostomy supplies. Ostomy draining liquid green/stool. Pt w/o foley cath...no plans to place one. Access: 1 20g PIV wnl. VS stable, HR 90s, SR. Troponin in ED 0.02. Next CEs due @ 0.02. Plan: Chest CT to r/o PE...to given mucomyst and bicarb before and after. Echo study to be done. Blood cx, sputum, and urinalysis to be taken prior to antibiotics. EKG to be done. 
+",,
+24263,,40603,0,3443-12-20 05:31:00 EST,3443-12-20 06:11:00 EST,3269,"N",54,"Nursing/Other","pmicu npn 1900-0700","
+pmicu npn 1900-0700
+
+   the pt is a 68 yo woman with an extensive medical hx including copd on home o2. she initially presented to an osh with a 1 week h/o ^sob, wheezing, and a productive cough. over the past several days her sob progressed and her cough became nonproductive. at the osh, her initial sats on her usual amt of o2 were in the 70's. the pt received abx for ?pnx, iv steroids, was placed on bipap and transferred to [**Hospital1 **] for further care. while in the ed here, the pt refused bipap but sats were marginal on 6 liters nasal cannula. she was transferred to the micu for closer observation.
+
+allergies-> bactrim
+
+pmh-> lung ca s/p chemo and radiation tx; copd; pulmonary htn; afib s/p cardioversion last year; perforated diverticulum s/p colostomy placement; pud; htn; ventral hernia repair; chronic pulmonary emboli; right lung residual radiation fibrosis.
+
+review of systems
+
+respiratory-> received pt acutely sob and desaturating into the 80's. attempted to place a face tent which the pt refused to wear. eventually, sats improved to 92-95% on 6 liters nasal cannula at rest. while asleep overnoc, her sats improved to 95-97%. she was unable to lie flat for a cta so it was deferred until this morning. lung sounds are notable for exp wheezing and poor aeration. cxr this am reportedly more c/w a copd flare than pnx. she is receiving high dose steroids.
+
+cardiac-> hr 80-90's, sr with rare pvc's. sbp ranging 90-120's.
+
+neuro-> a&o x3 and mae x4 with good strength. she is pleasant but generally uncooperative with her care (getting oob w/o assistence, insisting that foley be removed, refusing to wear supplemental o2, etc).
+
+gi->abd is soft, +ventral hernia w/+bs. diet advanced overnoc to regular. colostomy draining golden brown, liquid stool. 
+
+gu-> foley inserted @change of shift removed ~3hrs later at pt's request. she did not void again until 0500 despite the addition of maintainence fluids. she will need a bicarb drip before and after her cta d/t rising creat.
+
+id-> pt receiving abx for ?pnx although copd more likely. 
+
+access-> #20g angios are located in either arm.
+
+social-> pt is married and lives w/her husband. no contact w/family overnoc.
+",,
+24263,,40603,0,3443-12-20 06:53:00 EST,3443-12-20 06:55:00 EST,4038,"N",54,"Nursing/Other",,"
+
+Resp: Pt rec'd on 6 lpm N/C with 02sats @ 97%. BS are diminished bilaterally, with noted decreased aeration. Nebs administered as ordered alb/atr with no changes. Nasal aspirate obtained this am. Will continue to follow. 
+",,
+24263,,40603,0,3443-12-20 14:36:00 EST,3443-12-20 15:35:00 EST,3933,"N",54,"Nursing/Other",,"
+
+npn 0700-1500;
+events;ct scan of chest and cardiac echo done today results pending.
+neuro;aoox3 mae to command oob to chair chronic back pain relieved by standing  at bedside gait steady.
+
+resp; lungs with ins/exp wheeze. coarse throughout with bibasilar crackles rt worse thn lt. imporved with atrovent/albuterol nebs
+rr 24-35 unable to tolerate lying flat as has ventral and hiatal hernias. but was able to tolerate chest ct at approx 45 degrees. with but dropped her sats to 88  on 3ln/c  at end of ct. sats up to 93% on 6l onway back to unit.weaned back to with sats 99-!)0%.
+
+cvs tm 96.3 ax. nsr 80-100 after albuterol  tx.bp 98/47-113/17.viagra held due to hypotension.
+
+gu passing small amounts urine pt had empies colostomy in with  urine on return from ctscan.
+
+gi; belly soft ocassionally c/o of discomfort on lt side.c/o of nausea resolved with zofran and eating some crackers bs covered on riss.
+
+access.;difficulty placing i.v.  receiving bicarb gtt via i.v placed in rt anticub by i.v.
+
+skin . below iv. on rt arm bruising that was present on interior aspect of forearm has extended,around arm and from elbow to knuckles. team aware .outline marked and dated . will follow inr high. holding coumadin  currently. 
+
+soc; son and husband into visit and updated with pts current condition.and plan for transsfer to floor.
+
+a/p continue with pulmonary hygiene  wean n/c to 2l  pt's baseline as tolerated.
+continue to monitor rt arm.followup on cultures and test ressults.
+ 
+
+soc; family
+
+",,
+24263,,40603,0,3443-12-20 17:01:00 EST,3443-12-20 17:14:00 EST,3568,"N",54,"Nursing/Other",,"
+
+Resp. Care Note
+Pt followed this shift for Albuterol and Atrovent nebs Q4-6 as ordered. BS with crackles over R and scattered exp wheezes. Sputum induction for PCP and Legionella as ordered with results pending. Ruled out for influenza. O2 at 3-5L NP today. Cont to follow as ordered.
+",,

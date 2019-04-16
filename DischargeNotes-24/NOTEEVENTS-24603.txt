@@ -1,0 +1,912 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+24603,29374,,,2842-10-01 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+ 
+ 
+ 
+Admission Date:  [**2842-10-1**]              Discharge Date:   [**2842-10-6**]
+ 
+Date of Birth:  [**2776-3-20**]             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Iodine; Iodine Containing
+ 
+Attending:[**First Name3 (LF) 5696**] 
+Chief Complaint:
+sepsis
+ 
+Major Surgical or Invasive Procedure:
+none
+ 
+History of Present Illness:
+Ms. [**Known patient lastname **] is a 66 year old woman with a PMH of ESRD secondary 
+to DM, on HD who was in her usual state of health until she 
+presented at HD with altered mental status and hypotension. She 
+initiated HD about 2 weeks ago, dialyzing M,W,F. She was then 
+sent to the OSH ED for evaulation of her hypotension. At the 
+[**Hospital6 4334**] she was found to have a WBC of 41.7 
+with 94 segmented neutrophils. Her labs were also notable for a 
+HCT of 29.4. Also of note, she had an alk phos of 1023. At the 
+OSH ED, she received 2 L NS, 3.375 mg zosyn, and 1 gm vancomycin 
+after blood and urine cultures were sent. She was started on 
+dopamine for a blood pressure of 53/45. Arrangements were made 
+for transfer to our ED.  
+The patient notes that she has not taken her medications for two 
+days because she ran out of some of them. She also states that 
+she is in chronic stable back and abdominal pain. The pain 
+starts in the right flank and radiates to the right UQ and 
+axilla. MRCP done to evaluate this was negative for stones but a 
+biopsy of the liver showed mucinous adenocarcinoma on [**2842-9-4**].  
+.  
+ROS: + night sweats, fatigue, anorexia, nausea, emesis x 1. 
+denies CP, hematemesis or hematochezia  
+
+ 
+Past Medical History:
+NIDDM  
+CHF  
+PNA  
+gallstones  
+CRI, secondary to DM and chronic NSAIDS, now on HD through RIJ, 
+although patient noncompliant with regimen  
+CHF  
+liver CA: primary cholangiocarcinoma or pancreatobiliary 
+carcinoma  
+Hurthle cell adenoma  
+chronic back pain on narcotics from lumbar disk disease  
+diabetic retinopathy s/p laser treatments  
+
+ 
+Social History:
+lives with her son but there is a question of protective 
+services per notes. Smoker. Denies EtOH or illicits. Former 
+candystriper. Her dog and cat need to be euthanized and this is 
+stressing her out. Her mom is also at home and sick.  
+.  
+
+ 
+Family History:
+noncontributory 
+ 
+Physical Exam:
+Vitals - T BP 90/38 on dopa[**MD Number 5697**] RR  
+Gen- pleasant, cooperative, son and his friend sitting at her 
+side  
+HEENT- dry MMM  
+Neck- supple, no LAD  
+Cor-tachy, regular, III/VI murmur best heard at LUSB  
+Pulm- CTAB but poor effort  
+Back- mild TTP at costophrenic angle  
+Abd- TTP localizing to RUQ, no rebound, no guarding, soft  
+Ext- hands cold, legs with 2+ edema to thighs  
+Neuro- A+O x 3, CN II-XII individually tested and intact, 
+strength lower extremities [**4-15**] but poor effort  
+
+ 
+Pertinent Results:
+[**2842-10-1**] 08:35PM   WBC-46.5* RBC-3.63* HGB-9.6* HCT-32.7* MCV-90 
+MCH-26.4* MCHC-29.3* RDW-17.7*
+[**2842-10-1**] 08:35PM   NEUTS-90* BANDS-6* LYMPHS-2* MONOS-1* EOS-1 
+BASOS-0 ATYPS-0 METAS-0 MYELOS-0
+[**2842-10-1**] 08:35PM   PLT COUNT-153
+[**2842-10-1**] 08:35PM   CK-MB-NotDone cTropnT-0.13*
+[**2842-10-1**] 08:35PM   LIPASE-15
+[**2842-10-1**] 08:35PM   ALT(SGPT)-52* AST(SGOT)-139* LD(LDH)-872* 
+CK(CPK)-81 ALK PHOS-1054* TOT BILI-0.7
+[**2842-10-1**] 08:35PM   GLUCOSE-147* UREA N-54* CREAT-5.7* SODIUM-138 
+POTASSIUM-4.1 CHLORIDE-99 TOTAL CO2-24 ANION GAP-19
+[**2842-10-1**] 08:42PM   LACTATE-2.2*
+[**2842-10-1**] 09:10PM URINE  BLOOD-TR NITRITE-NEG PROTEIN-30 
+GLUCOSE-NEG KETONE-TR BILIRUBIN-SM UROBILNGN-NEG PH-6.5 LEUK-TR
+............
+[**2842-10-1**]
+RUQ: 1. Diffusely enlarged liver with multiple masses consistent 
+with tumor.  
+2. Decompressed gallbladder with wall thickening.  
+3. Intrahepatic biliary dilatation. Further evaluation with MRCP 
+or ERCP is recommended.
+...............
+
+[**2842-10-1**]
+CXR
+IMPRESSION: Small right effusion with associated atelectasis. If 
+there is a persistent concern for pneumonia and lateral view 
+would be recommended to fully exclude right lower lobe pneumonia
+...........
+[**2842-10-2**]
+ECHO
+Conclusions:  
+1. The left atrium is moderately dilated.  
+2. There is severe symmetric left ventricular hypertrophy. The 
+left  
+ventricular cavity size is normal. Regional left ventricular 
+wall motion is  
+normal. Left ventricular systolic function is hyperdynamic 
+(EF>75%). There is  
+a mild resting left ventricular outflow tract obstruction.  
+3. The aortic valve leaflets are mildly thickened.  
+4. The mitral valve leaflets are mildly thickened.  
+.............
+CT chest/abd/pelvis [**2842-10-3**]
+IMPRESSION:
+1. Large, diffuse infiltrating mass within the right lobe of the 
+liver with possible peritoneal carcinomatosis. Enlarged 
+retroperitoneal lymph[**MD Number 298**], left adrenal mass and multiple lung 
+nodules consistent with metastatic disease.
+2. Small, bilateral pleural effusions.
+3. Intrahepatic biliary dilatation, likely from the obstructing 
+tumor.
+............
+[**2842-10-3**] EKG
+Sinus tachycardia. Right axis deviation. There is a late 
+transition with 
+anterior and anterolateral and lateral ST-T wave changes 
+consistent with 
+possible right ventricular hypertrophy or ischemia. Compared to 
+the previous 
+tracing of [**2842-10-1**] right axis deviation is new and the ST-T wave 
+changes are 
+more prominent. 
+..................
+CT Chest/Abd/Pelvis:
+1. Large, diffuse infiltrating mass within the right lobe of the 
+liver with 
+possible peritoneal carcinomatosis. Enlarged retroperitoneal 
+lymph[**MD Number 298**], 
+left adrenal mass and multiple lung nodules consistent with 
+metastatic 
+disease. A contrast-enhanced study is recommended. If renal 
+function 
+precludes this, consider MRI. 
+2. Small, bilateral pleural effusions. 
+3. Intrahepatic biliary dilatation, likely from the obstructing 
+tumor. 
+ 
+
+  
+
+ 
+Brief Hospital Course:
+A/P 66 y.o. with ESRD on HD with markedly elevated WBC and 
+hypotension of unclear etiology.  
+.
+# hypotension: Mrs. [**Known patient lastname **] presented with persistent hypotension 
+of unclear source. She was not previuosly dialyzed.  Sepsis was 
+considered from HD line or intraabdominal process. Pancytopenia 
+in presence of leukocytosis concerning for hematologic 
+malignancy. She had daily blood cultures, none of which grew 
+anything by the time of this summary. Cultures from the OSH did 
+not grow anything. Her diltiazem was held. She required 2 
+pressors, and was still somewhat hypotensive. She was treated 
+with vanco, levo, flagyl for a possible line infection. Renal 
+was consulted and it was decided not to pull her HD line in case 
+she needed dialysis. CT of the abdomen showed a large mass in 
+the right lobe of her liver, with possible peritoneal and lymph 
+node involvement. Over the course of her short stay her blood 
+pressure remained low. He son [**Name (NI) **] was consulted and she was 
+made DNR/DNI. He flew up from [**State **] to see her and to talk 
+with his family about CMO. Shortly after his arrival Mrs. [**Known patient lastname **] 
+died of cardiac arrest.
+.  
+# leukocytosis: Mrs. [**Known patient lastname **] had an elevated WBC count of unclear 
+source. As discussed above all cultures were negative, and she 
+received empiric antibiotic treatment with vanc, levo, flagyl. A 
+TTE evaluation for vegetations (she had a murmur) was negative. 
+Hematology/oncology was consulted, and felt that she had 
+incurable disease with a grim prognosis. In her condition on 
+admission there was no possible treatment option. This was 
+discussed with her son [**Name (NI) **], and contributed to his decision to 
+make her DNR/DNI.
+.  
+# ESRD: Mrs. [**Known patient lastname **] had been on HD for the last 2 weeks prior to 
+admission. There was no indication for acute HD although she 
+missed a few dialysis appointments. However, her HD line was 
+left in place in case she did need HD during her stay. Given her 
+clinical deterioration though, she was not dialysed.  
+.  
+#Coagulopathy - Mr. [**Known patient lastname **] had an elevated PTT and PT which was 
+thought to possible be due to liver disease, or her large tumor 
+burden. DIC panel was negative.
+.
+# DM: Mrs.[**Known patient lastname 5698**] sugars were controlled with a RISS.  
+.  
+# hepatic mucinous adenocarcinoma: Hematology/oncology was 
+consulted, and felt that she had incurable disease with a grim 
+prognosis. In her condition on admission there was no possible 
+treatment option. LFTs were followed and were elevated 
+throughout, particularly AST and Alk Phos. Her pain was 
+controlled on her home regimen of oxycodone.
+.  
+# prophylaxis: Mrs. [**Known patient lastname **] was on a PPI, SQ heparin, and a bowel 
+regimen  
+.  
+# full code on admission, then DNR/DNI, then expired before 
+family decided on CMO. 
+.  
+# access: Mrs. [**Known patient lastname **] had a LIJ, L A-line  
+.  
+# Dispo: Mrs. [**Known patient lastname **] died Monday [**10-6**] at 9PM of cardiac 
+arrest, thought to be secondary to her malignancy. An autopsy 
+was declined by her family.
+ 
+Medications on Admission:
+epo 15400 3 x week  
+phoslo 2 TID  
+prozac 20 mg QD  
+diltiazem 120 QD  
+albuterol  
+flovent  
+lipitor 20 mg  
+zemplar 4 mcg 3 x week  
+oxycontin 20 mg BID  
+oxycodone 5 mg PRN  
+ 
+Discharge Medications:
+N/A
+ 
+Discharge Disposition:
+Expired
+ 
+Discharge Diagnosis:
+expired
+ 
+Discharge Condition:
+expired
+ 
+Discharge Instructions:
+N/A
+ 
+Followup Instructions:
+N/A
+ 
+                             [**First Name8 (NamePattern2) 5281**] [**Name8 (MD) 5280**] MD [**MD Number 5699**]
+ 
+Completed by: [**First Name4 (NamePattern1) 2745**] [**Last Name (NamePattern1) 5700**] MD, [**Hospital1 5701**] [**2842-10-9**] @ 0743
+Signed electronically by: DR. [**First Name8 (NamePattern2) 5281**] [**Name (STitle) 5280**]
+ on: [**Doctor First Name 122**] [**2842-10-23**] 2:43 PM
+(End of Report)
+
+
+",,
+24603,29374,,,2842-10-01 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2842-10-1**] 8:17 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 4166**]
+     Reason: eval for infiltrate, effusion                               
+     ______________________________________________________________________________
+                                     FINAL ADDENDUM
+     An old healed left lower rib fracture is noted.
+                                                                           
+
+
+     DATE: [**2842-10-1**] 8:17 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 4166**]
+     Reason: eval for infiltrate, effusion                               
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      66 year old woman w/ ESRD on HD, CHF, with hypotension, leukocytosis.           
+     REASON FOR THIS EXAMINATION:
+      eval for infiltrate, effusion                                                   
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  66-year-old woman with end-stage renal disease.  Leukocytosis.
+     Evaluate for pneumonia.
+     
+     CHEST AP:  A double lumen central venous catheter is visualized on the right
+     side with its tips in the distal SVC and right atrium respectively.  The heart
+     size, mediastinal and hilar contours are unremarkable.  There is a small
+     right-sided pleural effusion with associated minor atelectasis.  The rest of
+     the lungs are clear.
+     
+     IMPRESSION:  Small right effusion with associated atelectasis.  If there is a
+     persistent concern for pneumonia and lateral view would be recommended to
+     fully exclude right lower lobe pneumonia.
+
+",,
+24603,29374,,,2842-10-01 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2842-10-1**] 9:45 PM
+     LIVER OR GALLBLADDER US (SINGLE ORGAN)                          Clip # [**Clip Number (Radiology) 4167**]
+     Reason: Eval CBD, stones, portal v thrombosis, ascites              
+     Admitting Diagnosis: HYPOTENSION;SEPSIS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      66 year old woman with liver cancer, elevated wbc, hypotension, edema, RUQ pain 
+     REASON FOR THIS EXAMINATION:
+      Eval CBD, stones, portal v thrombosis, ascites                                  
+     ______________________________________________________________________________
+     WET READ: SGA WED [**2842-10-1**] 10:24 PM
+      diffusely enlarged liver with multiple mets, intrahepatic biliary dilatation -
+      recommend ERCP or MRCP for further eval
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Liver cancer, leukocytosis, hypertension, right upper quadrant
+     pain.
+     
+     COMPARISONS:  None.
+     
+     RIGHT UPPER QUADRANT ULTRASOUND:  The liver is diffusely enlarged with
+     multiple abrnomal masses.  No ascites is identified. There is diffuse
+     intrahepatic biliary dilatation.  The common bile duct is not well visualized.
+     The gallbladder is decompressed with wall thickening.  The portal vein is
+     patent with hepatopetal flow.
+     
+     IMPRESSION:
+     1.  Diffusely enlarged liver with multiple masses consistent with tumor.
+     2.  Decompressed gallbladder with wall thickening.
+     3.  Intrahepatic biliary dilatation.  Further evaluation with MRCP or ERCP is
+     recommended.
+
+",,
+24603,29374,30550,,2842-10-02 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2842-10-2**] 4:39 AM
+     CHEST PORT. LINE PLACEMENT                                      Clip # [**Clip Number (Radiology) 4168**]
+     Reason: l ij placement                                              
+     Admitting Diagnosis: HYPOTENSION;SEPSIS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       66 year old woman w/ ESRD on HD, CHF, with hypotension, leukocytosis.          
+       
+     REASON FOR THIS EXAMINATION:
+      l ij placement                                                                  
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     AP CHEST, 4:56 P.M. ON [**10-2**]
+     
+     HISTORY:  End-stage renal disease.  CHF, hypotension, and leukocytosis.  Left
+     IJ line placement.
+     
+     IMPRESSION:  AP chest compared to [**10-1**] at 8:26 p.m.
+     
+     New left internal jugular line, tip projects over the SVC.  Right-sided
+     central venous dialysis catheter's end in the SVC and upper right atrium. 
+     Right lower lobe atelectasis is worsened.  Lungs otherwise clear.  Heart size
+     normal.  No pneumothorax.
+                                                                           
+
+",,
+24603,29374,30550,0,2842-10-02 05:09:00 EST,2842-10-02 05:38:00 EST,2202,"N",69,"Nursing/Other",,"
+
+MICU A Nursing Progress Note (2300-0700)
+
+Please see carevue for all objective data and FHPA for nursing admission information. Ms. [**Known patient lastname **] is a 66 year old woman with ESRD on HD who was noted to have MS changes and hypotension with dialysis treatment [**10-1**]. Sent to NWH, WBC of 41, elevated alk phos. Treated with IVF and antibiotics and dopamine.
+
+History includes DM, CHF, pneumonia and liver CA.
+
+CNS: Initially alert and oriented x 3. Somewhat agitated, asking for ""help"", wanting to sit at the edge of the bed. She does complain of diffuse abdominal pain which radiates around to her back (baseline). Pt. takes oxycontin and prn oxycodone at home. Vicodin ordered initially and given..subsequently changed to oxycodone for pain control. Pt. received 1mg dilaudid and .5mg ativan during line placements with good effect. She is now quite lethargic, yet does awaken to verbal stimuli. Confused as to place and time however post sedation. Prior to sedation, pt. stated she wished to be a full code.
+
+SOCIAL: Son,[**Doctor Last Name 465**], and his girlfriend accompanied pt. to the unit. When in to visit...he was very diaphoretic and agitated, tearful. Suggestion was made that he go to EW to be seen re:distress at mother's condition. He then became angry and defensive, stating he did ""not need any help"". Attempt made to update him on his mother's condition and he again became angry, stating ""[**Doctor First Name **] don't know what [**Doctor First Name **] are doing...I'm taking her out of here"". He eventually calmed down and left for remainder of the night. He was given the telephone# and strict visiting guidelines were stressed (12 to 8pm, 10min every hour). Low threshold for calling security when son visits. Some question as to protective services involvement with this family in the past. Of note, pt's mother is at the home also, apparently quite ill.
+
+SEPSIS: T max of 100, WBC up to 60. Pt. received one dose of vanc at NWH and has been started on flagyl and levo. Pt. received peripheral dopamine for prolonged period of time prior to central line being placed. (IV in left AC functioning without problem, no signs of infiltration). B/P readings also somewhat variable per NBP until arterial line was placed. Unable to wean dopa down past 10mcg/kg/min as SBP drops to the 70's. CVP found to be [**2-14**] despite additional liter of NS in MICU. Currently receiving another 500cc with B/P 120/syst on 11mcg/kg/min of dopa. CVP now up to 6. Pt received [**Last Name (un) 414**] stim test, yet 60min level will be inaccurate due to lack of access at the time. 
+
+RESP: Lungs with diminished breath sounds throughout. Unable to obtain accurate sats. ABG acceptable at 7.34 43 113 24 2. No cough or sputum.
+
+GI: Abdomen soft and distended with active bowel sounds throughout. Pt. able to take sips of water without difficulty. No stool overnight.
+
+RENAL: No urine output, foley in place.
+
+SKIN: Intact
+
+HEME: Coagulopathic with INR of 1.7, PTT of 90 and PT of 15. Hct 34.
+
+ENDO: Fingersicks q6hr, no sliding scale coverage required as of yet. Blood sugars have been <150
+",,
+24603,29374,30550,0,2842-10-02 05:39:00 EST,2842-10-02 05:40:00 EST,2202,"N",69,"Nursing/Other",,"
+
+Addendum: LFT's markedly elevated. Pt. to have abd ultrasound today .
+",,
+24603,29374,30550,0,2842-10-02 16:32:00 EST,2842-10-02 16:42:00 EST,5861,"N",69,"Nursing/Other",,"
+
+Events: Bedside echo done awaiting results in ccc. 
+
+Neuro: Initially pt A+Ox2 and quite lethargic but briefly arousable. Currently pt A+Ox3 and able to interact appropriately and make needs known. Pt remains sleepy however. MAE, following commands. C/O general discomfort. Repositioned often. Given 5mg Oxycodone x1. 
+
+Resp: Lung sounds clear in apices and very diminished in bases. O2 sat difficult to get clear tracing but is in mid to high 90's. Afternoon ABG 7.31/39/131/21. O2 weaned to 3L via n/c from 4. Pt preferrs sitting up straight to laying back to ease breathing. 
+
+Cardiac: ST with no ectopy on monitor. HR 100-120. Initially on 11mcg/kg/min Dopamine. Changed to levophed this am current rate 0.05mcg/kg/min. . Bolused x3 for a total of 2L NS with good effect but still unable to wean off levophed. Last CVP 9. 
+
+GI: Abd soft and nontender. hypoactive bowel sounds. No BM this shift. Appetite poor much of day. Currently eating dinner. Blood sugars 130-150's. covered with ss insulin as needed. 
+
+GU: Pt anuric throughout shift. approx 10cc out for entire shift. MD aware. Unclear wether or not she makes much urine at baseline. Had HD yesterday at osh. Unsure when next HD treatment will be. 
+
+Derm Grossly intact. L IJ tlc site wnl, aline site benign,. 
+
+Social: Social work consulting. Son called x3 but has not visited. 
+
+Plan: Wean pressors as tolerated, bolus as needed. follow culture data, IV abx as ordered. monitor hemodynamic status and mental status, Socaial work following. 
+",,
+24603,29374,30550,,2842-10-03 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2842-10-3**] 9:11 PM
+     CT CHEST W/O CONTRAST; CT ABDOMEN W/O CONTRAST                  Clip # [**Clip Number (Radiology) 4169**]
+     CT PELVIS W/O CONTRAST
+     Reason: please assess for 1. aortic dissection given systolic BP dif
+     Admitting Diagnosis: HYPOTENSION;SEPSIS
+     Field of view: 47
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      66 year old woman with ESRD, HD admitted c elevated WBC and hypotension; no 
+      clear etiology for possible sepsis.  Now also c notice of BP differential 
+      between R/L arms
+     REASON FOR THIS EXAMINATION:
+      please assess for 1. aortic dissection given systolic BP differential of 20 
+      mmHg between R/L. 2. intrabdominal processes that could account for 
+      leukocytosis.  Please use contrast for eval; was dialyzed today - will require 
+      dialysis in 24 hours, renal aware.                                              
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  End-stage renal disease, leukocytosis, hypotension.
+     
+     COMPARISONS:  Right upper quadrant ultrasound [**2842-10-1**].
+     
+     TECHNIQUE:  Axial non-contrast MDCT images were obtained from the lung apices
+     to the symphysis pubis, secondary to the patient's history of an allergy.
+     
+     CT OF THE CHEST WITHOUT IV CONTRAST:  Allowing for lack of IV contrast, the
+     aorta is unremarkable throughout the chest without evidence of aneurysm. There
+     are minimal calcifications within the wall of the aorta.  Bilateral internal
+     jugular CVLs terminate at the SVC and cavoatrial junction.  There are coronary
+     artery calcifications.  There are small, bilateral pleural effusions. Multiple
+     nodules are seen at the left lung base and along the left pleura consistent
+     with metastatic disease.
+     
+     CT OF THE ABDOMEN WITHOUT IV CONTRAST:  There is a large, infiltrating tumor
+     involving most of the right lobe of the liver.  There is intrahepatic biliary
+     dilatation within the liver as seen on the previous ultrasound.  Tumor appears
+     to be extending outside of the liver and in close proximity to the IVC.  A
+     second lesion is seen anteriorly in the liver between segments 2 and 4.  There
+     are enlarged aortocaval, retrocrural and retroperitoneal nodes.  There are
+     gallstones.  There is ascites.  There are areas of nodularity and stranding
+     within the peritoneum, which suggest peritoneal carcinomatosis. There is a
+     mass within the left adrenal gland.  The pancreas is atrophic but a definite
+     pancreatic mass is not identified without IV contrast.  The spleen and kidneys
+     are unremarkable allowing for the lack of IV contrast.
+     
+     CT OF THE PELVIS WITHOUT IV CONTRAST:  There is diffuse stranding within the
+     subcutaneous tissues consistent with anasarca.  There is a small amount of
+     free fluid within the pelvis.  A Foley catheter is seen within the bladder.
+     
+     BONE WINDOWS:  There are no suspicious lytic or sclerotic osseous lesions.
+     There are old left-sided rib fractures.
+     
+                                                                 (Over)
+
+     DATE: [**2842-10-3**] 9:11 PM
+     CT CHEST W/O CONTRAST; CT ABDOMEN W/O CONTRAST                  Clip # [**Clip Number (Radiology) 4169**]
+     CT PELVIS W/O CONTRAST
+     Reason: please assess for 1. aortic dissection given systolic BP dif
+     Admitting Diagnosis: HYPOTENSION;SEPSIS
+     Field of view: 47
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     IMPRESSION:
+     1.  Large, diffuse infiltrating mass within the right lobe of the liver with
+     possible peritoneal carcinomatosis.  Enlarged retroperitoneal lymph nodes,
+     left adrenal mass and multiple lung nodules consistent with metastatic
+     disease. A contrast-enhanced study is recommended.  If renal function
+     precludes this, consider MRI.
+     2.  Small, bilateral pleural effusions.
+     3.  Intrahepatic biliary dilatation, likely from the obstructing tumor.
+     
+     
+
+",,
+24603,29374,30550,,2842-10-03 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2842-10-3**] 9:11 PM
+     CT CHEST W/O CONTRAST; CT ABDOMEN W/O CONTRAST                  Clip # [**Clip Number (Radiology) 4169**]
+     CT PELVIS W/O CONTRAST
+     Reason: please assess for 1. aortic dissection given systolic BP dif
+     Admitting Diagnosis: HYPOTENSION;SEPSIS
+     Field of view: 47
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      66 year old woman with ESRD, HD admitted c elevated WBC and hypotension; no 
+      clear etiology for possible sepsis.  Now also c notice of BP differential 
+      between R/L arms
+     REASON FOR THIS EXAMINATION:
+      please assess for 1. aortic dissection given systolic BP differential of 20 
+      mmHg between R/L. 2. intrabdominal processes that could account for 
+      leukocytosis.  Please use contrast for eval; was dialyzed today - will require 
+      dialysis in 24 hours, renal aware.                                              
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  End-stage renal disease, leukocytosis, hypotension.
+     
+     COMPARISONS:  Right upper quadrant ultrasound [**2842-10-1**].
+     
+     TECHNIQUE:  Axial non-contrast MDCT images were obtained from the lung apices
+     to the symphysis pubis, secondary to the patient's history of an allergy.
+     
+     CT OF THE CHEST WITHOUT IV CONTRAST:  Allowing for lack of IV contrast, the
+     aorta is unremarkable throughout the chest without evidence of aneurysm. There
+     are minimal calcifications within the wall of the aorta.  Bilateral internal
+     jugular CVLs terminate at the SVC and cavoatrial junction.  There are coronary
+     artery calcifications.  There are small, bilateral pleural effusions. Multiple
+     nodules are seen at the left lung base and along the left pleura consistent
+     with metastatic disease.
+     
+     CT OF THE ABDOMEN WITHOUT IV CONTRAST:  There is a large, infiltrating tumor
+     involving most of the right lobe of the liver.  There is intrahepatic biliary
+     dilatation within the liver as seen on the previous ultrasound.  Tumor appears
+     to be extending outside of the liver and in close proximity to the IVC.  A
+     second lesion is seen anteriorly in the liver between segments 2 and 4.  There
+     are enlarged aortocaval, retrocrural and retroperitoneal nodes.  There are
+     gallstones.  There is ascites.  There are areas of nodularity and stranding
+     within the peritoneum, which suggest peritoneal carcinomatosis. There is a
+     mass within the left adrenal gland.  The pancreas is atrophic but a definite
+     pancreatic mass is not identified without IV contrast.  The spleen and kidneys
+     are unremarkable allowing for the lack of IV contrast.
+     
+     CT OF THE PELVIS WITHOUT IV CONTRAST:  There is diffuse stranding within the
+     subcutaneous tissues consistent with anasarca.  There is a small amount of
+     free fluid within the pelvis.  A Foley catheter is seen within the bladder.
+     
+     BONE WINDOWS:  There are no suspicious lytic or sclerotic osseous lesions.
+     There are old left-sided rib fractures.
+     
+                                                                 (Over)
+
+     DATE: [**2842-10-3**] 9:11 PM
+     CT CHEST W/O CONTRAST; CT ABDOMEN W/O CONTRAST                  Clip # [**Clip Number (Radiology) 4169**]
+     CT PELVIS W/O CONTRAST
+     Reason: please assess for 1. aortic dissection given systolic BP dif
+     Admitting Diagnosis: HYPOTENSION;SEPSIS
+     Field of view: 47
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     IMPRESSION:
+     1.  Large, diffuse infiltrating mass within the right lobe of the liver with
+     possible peritoneal carcinomatosis.  Enlarged retroperitoneal lymph nodes,
+     left adrenal mass and multiple lung nodules consistent with metastatic
+     disease. A contrast-enhanced study is recommended.  If renal function
+     precludes this, consider MRI.
+     2.  Small, bilateral pleural effusions.
+     3.  Intrahepatic biliary dilatation, likely from the obstructing tumor.
+     
+     
+
+",,
+24603,29374,30550,,2842-10-03 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2842-10-3**] 9:11 PM
+     CT CHEST W/O CONTRAST; CT ABDOMEN W/O CONTRAST                  Clip # [**Clip Number (Radiology) 4169**]
+     CT PELVIS W/O CONTRAST
+     Reason: please assess for 1. aortic dissection given systolic BP dif
+     Admitting Diagnosis: HYPOTENSION;SEPSIS
+     Field of view: 47
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      66 year old woman with ESRD, HD admitted c elevated WBC and hypotension; no 
+      clear etiology for possible sepsis.  Now also c notice of BP differential 
+      between R/L arms
+     REASON FOR THIS EXAMINATION:
+      please assess for 1. aortic dissection given systolic BP differential of 20 
+      mmHg between R/L. 2. intrabdominal processes that could account for 
+      leukocytosis.  Please use contrast for eval; was dialyzed today - will require 
+      dialysis in 24 hours, renal aware.                                              
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  End-stage renal disease, leukocytosis, hypotension.
+     
+     COMPARISONS:  Right upper quadrant ultrasound [**2842-10-1**].
+     
+     TECHNIQUE:  Axial non-contrast MDCT images were obtained from the lung apices
+     to the symphysis pubis, secondary to the patient's history of an allergy.
+     
+     CT OF THE CHEST WITHOUT IV CONTRAST:  Allowing for lack of IV contrast, the
+     aorta is unremarkable throughout the chest without evidence of aneurysm. There
+     are minimal calcifications within the wall of the aorta.  Bilateral internal
+     jugular CVLs terminate at the SVC and cavoatrial junction.  There are coronary
+     artery calcifications.  There are small, bilateral pleural effusions. Multiple
+     nodules are seen at the left lung base and along the left pleura consistent
+     with metastatic disease.
+     
+     CT OF THE ABDOMEN WITHOUT IV CONTRAST:  There is a large, infiltrating tumor
+     involving most of the right lobe of the liver.  There is intrahepatic biliary
+     dilatation within the liver as seen on the previous ultrasound.  Tumor appears
+     to be extending outside of the liver and in close proximity to the IVC.  A
+     second lesion is seen anteriorly in the liver between segments 2 and 4.  There
+     are enlarged aortocaval, retrocrural and retroperitoneal nodes.  There are
+     gallstones.  There is ascites.  There are areas of nodularity and stranding
+     within the peritoneum, which suggest peritoneal carcinomatosis. There is a
+     mass within the left adrenal gland.  The pancreas is atrophic but a definite
+     pancreatic mass is not identified without IV contrast.  The spleen and kidneys
+     are unremarkable allowing for the lack of IV contrast.
+     
+     CT OF THE PELVIS WITHOUT IV CONTRAST:  There is diffuse stranding within the
+     subcutaneous tissues consistent with anasarca.  There is a small amount of
+     free fluid within the pelvis.  A Foley catheter is seen within the bladder.
+     
+     BONE WINDOWS:  There are no suspicious lytic or sclerotic osseous lesions.
+     There are old left-sided rib fractures.
+     
+                                                                 (Over)
+
+     DATE: [**2842-10-3**] 9:11 PM
+     CT CHEST W/O CONTRAST; CT ABDOMEN W/O CONTRAST                  Clip # [**Clip Number (Radiology) 4169**]
+     CT PELVIS W/O CONTRAST
+     Reason: please assess for 1. aortic dissection given systolic BP dif
+     Admitting Diagnosis: HYPOTENSION;SEPSIS
+     Field of view: 47
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     IMPRESSION:
+     1.  Large, diffuse infiltrating mass within the right lobe of the liver with
+     possible peritoneal carcinomatosis.  Enlarged retroperitoneal lymph nodes,
+     left adrenal mass and multiple lung nodules consistent with metastatic
+     disease. A contrast-enhanced study is recommended.  If renal function
+     precludes this, consider MRI.
+     2.  Small, bilateral pleural effusions.
+     3.  Intrahepatic biliary dilatation, likely from the obstructing tumor.
+     
+     
+
+",,
+24603,29374,30550,0,2842-10-03 03:39:00 EST,2842-10-03 04:01:00 EST,1740,"N",69,"Nursing/Other",,"
+
+NPN 1900-0700:
+
+EVENTS: Unable to wean Levo off. Very restless, unable to get comfortable in bed; ultimately OOB to chair for the night. 
+
+ROS: 
+NEURO/COMFORT: Pt c/o general discomfort when lying in bed; [**Known patient lastname **] relief w/oxycodone. Very restless, picking at lines, tossing and turning. Ultimately OOB to chair at 0100 with improvement. She has remained restless but at least has been dozing at times. Benadryl was given at MN with [**Known patient lastname **] effect. Pt is oriented to self, hospital, month and year (not date). When in bed she repeatedly called out for help, but was unable to state what she needed/wanted. Since she's been in the chair she's been much more content. 
+RESP: Remains on 3l NC with acceptable sats when we are able to get them. RR teens, labored with acctivity. Pt states breathing is better. LS CTA upper, very diminished lower, especially on the right.
+C-V: HR low 100's, ST, no VEA. BP somewhat labile. Initially able to wean Levo slowly to .052 mcg/kg/min, but soon had to increase again. Currently at .084 mcg/kg/min. CVP 6-7. Lytes WNL. Pt has had cool extremites all shift, though pulses are weakly palpable; skin noted to be cool and clammy since ~2300 (HO aware). 
+ID: Afebrile, WBC down to 53.9 (60.2). BC X 1 sent w/AM labs. Cont's on abx. 
+GU: Pt anuric; ? what her baseline is. She has repeatedly asked to have foley removed, but team prefers to keep it in. BUN/creat stable at 55/5.6.
+GI: Belly obese, soft, active BS; no stool. 
+ENDO: FSBS WNL; no insulin needed. 
+HEME: Hct stable at 32.3 (34.4); plt's down to 145 (179). No evidence of bleeding. 
+SOCIAL: Pt's son called her several times during the evening; his voice was audible and he seemed to be upset. However, pt did not appear upset by his calls, and wanted to continue to talk to him, referring to him as her ""big baby boy"". 
+
+A: unable to wean levo significantly
+
+P: continue attempts to wean levo; check w/team regarding fluids; keep pt up in chair as much as possible; minimize tubes/lines to decrease restlessness; per renal pt to be dialyzed today; will need vanco dose post-HD; continue supportive care. 
+",,
+24603,29374,30550,0,2842-10-03 17:29:00 EST,2842-10-03 17:55:00 EST,5861,"N",69,"Nursing/Other",,"
+
+Events: Upsetting day for Ms [**Known patient lastname **]. Son  has been admitted to CCU with chest pain at hosp in [**Location (un) 734**]. 
+
+Social: Pt's son was admitted to CCU in [**Location (un) **] with chest pain last noc. Received call from son's friend telling me that he's in the hosp, is withdrawing from heroin, and has pulled out all access/wires and was leaving ama to come here to see mother. I spoke with son over phone and convinced him that his mother was [**Name2 (NI) **] and that he should stay in hosp for care. Son is currently still in hosp in [**Location (un) 734**]. Also, pt's mother is [**Name2 (NI) **], demented and lives at home with her and son. Social Services is following and had pt's mother admitted to [**Hospital1 3**] as social admit as she is dependent for care. Pt is very upset at current circumstances and is completely overwhelmed at day's events. Security is aware. 
+
+Neuro: Pt is a+ox2, cannot remember date. [**Last Name (LF) **], [**First Name3 (LF) 26**], 2 assist to transfer to chair, C/O discomfort and generalized pain (back/head)Tx with oxycodone and sitting in chair with some relief. Pt is most comfortable sitting up in chair. She squirms and is very restless when in bed. Pt is VERY needy and dramatic. Numerous vague complaints.  Pulls at lines/equipment constantly and has a hard time sitting still at all. Pt did not [**Doctor Last Name **] much last noc and is quite exhausted.
+
+Cardiac: Remains dependent on levophed for b/p. Current dose is 1.5mcg/kg/min . There is a large difference (20pts) between nbp readings R>L.  R sided nbp correlates with abp better. Pt waves arm around and plays with aline alot making it difficult to obtain accurate readings. She does however have rapid drops in b/p at times. CVP has been [**3-15**] this shift. No fluid boluses given. 
+
+Resp: Currently on 5L O2 via n/c with O2 sats in upper 90's. ABG this am showing Pao2 of 62 while on 3L. Repeat on 5L was 100. Lung sounds clear in apices and very diminished at bases. 
+
+GI: Abd soft/nontender, no bm this shift, appetite poor, taking in fluids and drinks nepro shakes. Blood sugars unremarkable. 
+
+Gu: Urine output anuric. Approx 8cc's this shift. HD done at bedside this shift. 
+
+Derm: Grossly intact with 2+ edema in legs. LIJ site intact, aline site intact. diaphoretic at times. 
+
+ID: HD line bld cx drawn, continues on vancomycin, flagyl, and levo. Order to cx urine when she makes enough. Currently afebrile. Renal service believes she is not septic but her grossly elevated 52 wbc count is due to a hematologic process related to liver. 
+
+Plan: Chest/Abd CT tonight, needs to drink contrast, continue to monitor hemodynamic status, coping support, follow cultures, Full Code
+",,
+24603,29374,30550,,2842-10-04 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2842-10-4**] 2:29 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 4170**]
+     Reason: Pneumothorax, PNA, causes for worsening SOB and hypoxia     
+     Admitting Diagnosis: HYPOTENSION;SEPSIS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        66 year old woman w/ ESRD on HD, CHF, with hypotension, leukocytosis.         
+         
+     REASON FOR THIS EXAMINATION:
+      Pneumothorax, PNA, causes for worsening SOB and hypoxia                         
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CHEST SINGLE AP FILM.
+     
+     History of end stage renal disease with hypertension, pneumonia and line
+     placements.
+     
+     Dialysis catheter is in right atrium.  Left jugular CV line is in mid SVC.  No
+     pneumothorax.  There are bibasilar opacities, increased since the prior film
+     of [**2842-10-2**], consistent with a combination on the right of right
+     pleural effusion and associated atelectasis/consolidation.  At the left base,
+     there is atelectasis.  The left CPA is not included on the film.
+     
+     IMPRESSION:  No pneumothorax.  Pleural effusions and bibasilar atelectases,
+     which are new since the prior study of [**2842-10-2**].  Cannot rule out
+     consolidation at the lung bases.
+                                                                           
+
+",,
+24603,29374,30550,0,2842-10-04 04:25:00 EST,2842-10-04 04:51:00 EST,7445,"N",69,"Nursing/Other","shift note 1900-700","
+shift note 1900-700
+Please see notes in Carevue for clinical assessments.  
+
+neuro: a&ox2(confused on date).  pt follows commands, but has difficulty expresses her exact needs.  pt restless and anxious at times.  c/o overall pain and discomfort.  oxycondone given x 1 last night.   h/o chronic back pain and on oxycondone at home.  is more comfortable in chair most of time
+
+resp:  on 5Lo2 NC.  abg this am:7.40/35/116.  difficult to get accurate pulse ox reading all the time.  lungs clear, diminished in bases.  will find pt with O2 off.  reiterate to pt the need for O2.  no cough.  h/o 1 ppd smoker.  
+
+cardiac:  st 100-120's.  has aline to right radial, inconsistent with reading due to pt's restlessness.  NBP reading vary from arm.  right arm comparable to aline reading, while left arm is has 20 point difference to right arm.  MDs aware.  Ctscan of chest done last night to r/o aortic dissection which was negative.  on Levophed at 0.12 mcg currently (was on 0.15 for most of shift) very difficult to wean patient off levophed for days.  able to titirate down when pt is asleep.  bp labile also when up in chair.   CVP to left jugular ranging [**3-17**].  renal doesn't want to give fluids. lower extremities grossly edenamous with difficulty with papable pedal pules. all  extremites cool to touch due to levophed
+
+GI/ENDO:  Abd softly distended.  hypoactive bowel sounds, last BM was on tuesday.  on bowel regimen.  poor appetite, but apparently drinks the boost shakes.  had ctscan of abd last night.  results???  Recent Dx of liver CA ([**2842-9-4**]).  fingersticks with sliding scale.  last night 170.  
+
+GU:  on hemodialysis, MWF.  was scheduled to get HD on saturday due to anticipation of getting ctscan IV constrast dye.  did not receive due to pt sts had past allergic reaction to it.  so, HD not really indicated for today.  right SC vascath (bc drawn yesterday from that line)  has foley with scant amount of urine.  need a urine sample.  currently clamped.  
+
+ID: WBC today 60. treating pt as septic but renal feels level is high due to hepatic dysfunction associated with liver CA.  afebrile.  
+
+Skin:  ashy/ renal [**Last Name (un) **].  psoriasis to right buttocks.  
+
+IV:  KVO to left jugluar TLC.  Aline to right radial.
+
+Social:  pt lives with her mother and son.  currently mother was admitted last night to Risemen 11 as a social admission due to the fact that she is legally blind and has dementia.  Son is currently hospitalized as different hospital for Chest pain/ herorin withdrawal.  Social services are on the case and will follow up with evaluating safety of home.  
+
+Plan:  titrate levophed down/off. consider d/c aline due to inconsistance of readings and unable to accurately tirtate levo down.  
+
+ 
+
+
+",,
+24603,29374,30550,0,2842-10-04 16:15:00 EST,2842-10-04 17:03:00 EST,2423,"N",69,"Nursing/Other",,"
+
+NON 0700-1900;H
+HYPOTENSION PERSIST. UNABLE TO TOLERATE HD, SBP DOWN TO 67 BECAME PROFOUNDLY DISTRESSED CLAMMY ,CXR ECG DONE NO CHANGES HYPERTENSIVE WITH RESP DISTRESS TRANSIENTLY OFF LEVO BUT ONCE  BUT ONCE SETTLED HYPOTENSION RETURNED REQURING LEVO TO .25 MCG/KG /MIN. GIVEN 1000 MLS NS OVER ONE HOUR ABLR TO START WEANING LEVO . DID BETTER IN AM OOB TO CHAIR FOR 2 HOURS.
+
+NEURO;AOOX2-3 OCCASSIONALLY GIVES RT DATE ALWAYS RT YEAR. AND PLACE.MAE TO COMMAND AND SPONTANEOUSLY.PERLA 3-4 MM . OCCASSIONALLY TEARFUL ASKING ABOUT MOTHER AND SON [**Name (NI) **]. EASILY REASSURED TALKED SHORT TIME WITH MOTHER. ON PHONE BUT BECAME FATIGED QUICKLY.OCCASSIONALLY SAYS INAPPROPRIATE THINGS BUT WILL TELL [**Doctor First Name **] THAT THEY ARE ""WALKY.
+
+RESP; LUNGS CLEAR UPPER DIMINISHED AT BASES BECOMES TACHYPNEAIC WITH EXERTION. AROUND 2 PM BECAME EXTREMELY DISTRESSED AFTER STARTING HD. BBP DOWN TO 65 SYS LEVO INCREASED THEN C/O THAT COULN'T BREATH SATS 88-93% ON 4LN/C ABG SENT PO2 84. HAD BEEN PLACED ON 1005 NRB ABG SENT SHOWED RESP ACIDISIS. WILL SEND REPEAT NOW PT IS COMFORTABLE AGAINPT SOMULENT AT TIMES BUT EASILY ROUSED.
+
+CVS;TMAX 96.8 [**Last Name (LF) **],[**First Name3 (LF) **] WITH RARE PAC LBILE BP DEPENDENT ON DEGREE OF DISTRESS PT IN. CURRENTLY HYPOTENSIVE PT CALM AND COOP,  LEVO INCREASED TO .22MCGS/KG/MIN  CVP 0-3  BEING GIVEN 1 L NS OVER 1HOUR,LEVO WEANING FOR MAP GREATER THAN 60. CURRENTLY AT O.O8MCG/KG./MIN. 3+ PITTING LOWER LIMB EDEMA
+
+GU; ANEURIC URINE SENT FOR CULTURE PT C/O BITTERLY OF DISCOMFORT FROM FOLEY. DISCONTINUE AT 1000.NO URINE SINCE.
+
+PAIN;BELLY DISTENDED C.O OF SEVERE PAIN IN LT FLANK STARTED ON OXYCODONE 10 MGS SR WITH 5MGS OXYCONDONE FOR BREAKTHROUGH PAIN PINCREASED TO 20 MG OXYCONDONE SR.C/O OF FEELING SORE ALL OVER. UNABLE TO GIVE SCORE BUT APPEARS TO BE IN SOME DEGREE OF PAIN BY GRIMACE SCALE.
+
+GI'; BELLY SOFT DISTENDED HYPOACTIVE BELLY SOUNDS C/O OF NAUSEA IMPROVED WITH ANZIMET , DUCOLAX SUPP WITH SMALL AMOUNTS SOFT STOOL X2 GUIAIC NEG,[**Known patient lastname **] APPETITE, STARTS TO EAT BUT HAS VERY [**Known patient lastname **].
+
+ENDO;RISS INCREASED TO COVER BS 178-198.
+
+ID; FLAGYL CHANGED TO ZOSYN VANCO LEVEL PENDING
+, URINE SENT FOR CULTURE
+STOOL SENT FOR CDIFF
+ FUNGAL CULTURE SENT.
+
+SKIN ECCHYMOTIC AREAS ON POSTERIOR RT ARM ABOVE ALINE. PSORRIASIS ON LT BUTTOCK AND ELBOW..
+
+SOC; SON [**Name (NI) 4801**] [**Name2 (NI) 733**] CCU. EX DAUGHTER IN LAW CLLED FOR UPDATE . ASKED LISW TO CONTACT AS SHE WOULD LIKE TO BE LIASON BETWEEN SON [**Name (NI) **] AND PT. PT SPOKE WITH PT  MOTHER ON 11 R THIS AM WAS UPSET WHEN CAME OFF PHONE .HAS NOT CALLED MOTHER BACK THIS AFTERNOON.
+
+A/P CONTINUE TOWEAN LEVO ASTOLERATED.FOLLOW LABS AND CULTURES OFFER EMOTIONAL SUPOORT TO PT AND LIASE WITH FAMLY MEMBERS IN OTHER HOSPITALS ETC.
+
+
+
+
+
+
+
+
+
+",,
+24603,29374,30550,0,2842-10-05 05:07:00 EST,2842-10-05 05:23:00 EST,2783,"N",69,"Nursing/Other","Nursing Progress Note 1900-0700","
+Nursing Progress Note 1900-0700
+Review of Systems:
+
+Neuro: Pt remains lethargic, O X 2. Complaining almost constantly of discomfort from abdomen, back, right flank. Pt repositionned several times/hr, and rec'd scheduled dose Oxycodone SR. At 0445 pt rec'd MSO4 2mg IVP with mod amt relief. 
+
+Resp: Pt rec'd on NC @ 2liters. ABG 7.28/45/78, and NC increased to 4l/min. O2 sat 94-100%, with RR 13-20. Lung snds clear in LUL, otherwise diminished. Non-productive cough.
+
+CV: HR 101-118ST with occas PAC's. Pt rec'd on Levophed 0.12mcg/kg/min, but increased to present rate 0.22mcg/kg/min to maintain SBP in 80's and MAP>60. CVP 4-6. Pt rec'd NS 1 liter bolus X 1. AM lab results include Calcium 7.5, Mg 1.5.
+
+GI: Pt taking sips H2O with freq belching. Abd remains soft/distended, with pt freq C/O abdominal discomfort. Bowel snds hypoactive. Pt refused bowel meds, no BM this shift.
+
+GU: Pt has remianed aneuric this shift. Fluid balance + 11 liters for LOS.
+
+ID: Afebrile with skin cool/clammy. AM WBC 63.6(72.8)
+
+Access: Art line dampened down, difficult to withdraw blood with vessel spasming.
+
+Plan: Cont attempts to wean Levo. Cont to attempt optimum pain control. ? D/C art line. ? discuss pt status and plan of care.
+",,
+24603,29374,30550,0,2842-10-05 16:15:00 EST,2842-10-05 16:38:00 EST,2651,"N",69,"Nursing/Other","Nursing Progress Note 0700-1900","
+Nursing Progress Note 0700-1900
+Increasingly hypotensive w/ Levophed at max dose of 0.4mcg/kg/min. increasing HR, now 130. Aline infiltrated, tenous fluid volume status. awaiting oncology's reccomendations re: prognosis and appropriateness of further aggressive care. 
+
+ROS-
+
+CV- NSR, HR 110-130's, increasing throughout the day. no ectopy. NIBP 80-100 on 0.4 mcg/kg/min levophed. will start vasopressing as next pressor. extremities very cool, cyanotic. poor peripheral pulses. hematoma to R arm from ALine infiltration. 
+
+RESP- has been intermittently on 3-4L NC w/ SPO2 >90%. but pt pulls off O@ and O2 sat frequently. LS diminished, uppers clear. no cough. + dyspnea on exertion. 
+
+NEURO- very somnolent. c/o almost constant pain in her back, abd and legs, ?from Ca. started on fentanyl patch today. changed to MS contin and prn IV morphine today. pt doses off frequently, repeatedly mumbling ""just wait a minute"". weakly MAE, needs alot of encouragement to participate in ADL's. 
+
+GI/GU- tolerating PO's without a problem. abd softly distended, poor appetite, only taking sips of liquids. anuric. on RISS. 
+
+ACCESS- L IJ TLC, intact. R SC dialysis line. 
+
+SOCIAL- daughter in law called, claiming to be the new healthcare proxy. informed that pt has not been deemed unable to make decisions for herself and that if daughter in law was the healthcare proxy, then certain paperwork would have to be completed. no other calls or visits. 
+
+PLAN- needs a palliative care consult to assess for hospice and pain management. SW following. continue supportive measures. MICU team to discuss DNR/DNI status. very hesitant to give fluid for tachycardia d/t anuria, pleural effusions and pulm edema on CXR. currently FULL CODE. 
+",,
+24603,29374,30550,,2842-10-06 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2842-10-6**] 4:53 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 4171**]
+     Reason: reassess chest                                              
+     Admitting Diagnosis: HYPOTENSION;SEPSIS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      66 year old woman w/ ESRD on HD, CHF, with hypotension, leukocytosis, 
+      disseminated metastatic CA, pleural effusions          
+     REASON FOR THIS EXAMINATION:
+      reassess chest                                                                  
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     AP CHEST, 4:46 A.M. ON [**10-6**]
+     
+     HISTORY:  End-stage renal disease.  CHF, hypotension, and leukocytosis.
+     
+     IMPRESSION:  AP chest compared to [**10-2**] and 24:
+     
+     Moderate-sized right pleural effusion is increasing.  There is either a new
+     region of consolidation in the right upper lobe sitting on the minor fissure
+     or simulation of a lung abnormality by fissural pleural fluid.  Right heart
+     border is obscured by pleural effusion but there does not appear to be
+     appreciable cardiomegaly.  Mediastinum is midline and normal caliber.  Mild
+     atelectasis is present at the base of the left lung which is otherwise clear. 
+     The longer line of a dual channel right supraclavicular central venous
+     catheter ends in the right atrium while the shorter catheter tip projects over
+     the SVC alongside a left internal jugular line.  No pneumothorax.
+                                                                           
+
+",,
+24603,,30550,0,2842-10-06 03:57:00 EST,2842-10-06 04:22:00 EST,7271,"N",69,"Nursing/Other","MICU A NPN 7P-7A","
+MICU A NPN 7P-7A
+Pt lethargic all shift, narcotics held. Vasopressin addeded and levophed able to be weaned a small amt. Pt unable to make decision about code status last evening, remains Full code at this time. 
+
+Neuro: Somnolent, unable to keep eyes open and answer questions. MS contin held at 8pm, as well as other po meds as pt too lethargic to take them. Pt is 0x2,states she is at ""[**Hospital1 4802**]"" and the year is 2005. Code status discussed with pt last evening, but it was decided that pt was not awake enough to make decisions at this time. Pt appears very weak, barely able to help with repositioning. Pt calling out in [**Doctor Last Name **] ""help me"" and ""wait a minute"" often. 
+
+CV: Pt initially on levophed 0.4mcg/kg/hr with good BPs. Then added vasopressin and able to titrate levophed down to 0.3mcg/kg/hour while keeping MAPs >60. HR 125-134 ST, no ectopy. Was given NS 500cc bolus with slight effect on HR (from 130's down to 125). Skin is cool and clammy to bilateral UE, warm to LE, dusky in appearance. Afebrile. 4+ edema to LE, dopplerable pulses. MICU team attempted to place a-line but unsuccessful. CVP reading 0-6.
+
+Pulm: LS CTA and diminished with rare exp. wheezing. Pt is on 3L NC and often takes NC off. When on RA, O2 sat is 84-88%, when on O2, sat is in mid 90's.  Pt is SOB with activity, normally RR 12-20. 
+
+GI/GU: Pt not taking po's over night d/t somnolence. +bs, no bm. FSBS checked q6hr, no coverage required. Abd is obese with hypoactive BS. Pt has been anuric overnight. 
+
+Plan: Code status and/or HCP should be determined soon d/t pts deteriorating MS. SW involved. Pt needs to have palliative care consult. Being followed by oncology and renal. ? if pt will have HD today, did  not tolerate last attempt on Saturday. Pt also has bilateral pleural effusions since admission, ?if they will be tapped. Pt is currently FULL CODE. 
+
+
+",,
+24603,,30550,0,2842-10-06 15:00:00 EST,2842-10-06 15:04:00 EST,2463,"N",69,"Nursing/Other",,"
+
+See carevue for objective data.
+
+Son,[**Doctor Last Name 4803**] notified in [**State 32**] of pt's declining status. Decision made to make pt DNR/DNI considering grim prognosis. Son is traveling to MA
+this afternoon and should arrive by 1900. 
+Remains on levo/vasopressin gtts. 
+Agonal breathing and unable to pick up O2 sats.
+Mom visited from 11Reisman. To [**Hospital3 1615**] after visit with ambulance.
+Febrile to 103.3R. Tylenol for comfort.
+
+Support family and dc gtts once son arrives.
+",,
+24603,,30550,0,2842-10-06 20:23:00 EST,2842-10-06 20:25:00 EST,2696,"N",69,"Nursing/Other",,"
+
+1900 2100
+Received pt with pressors off and IV KVO infusing. Agonal breathing. Nonresponsive. HR initially 116 ST. ~ 2030 pt vomited bilious fluid and became bradycardic. Family called back into room where pt became asystolic. Pronounced by MD at 2050. Family collected all belongings except for bracelet which could not be removed from pts left wrist. Family declined autopsy and pt rejected by organ bank.
+",,
+24603,,,,2842-10-07 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+",,

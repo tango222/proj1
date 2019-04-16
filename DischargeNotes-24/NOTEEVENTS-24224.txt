@@ -1,0 +1,924 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+24224,,,,3482-12-11 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3482-12-11**] 8:59 AM
+     CT CHEST W/CONTRAST; CT ABD W&W/O C                             Clip # [**Clip Number (Radiology) 540**]
+     CT PELVIS W/CONTRAST; CT 150CC NONIONIC CONTRAST
+     Reason: 79 y/o Russian speaking female with h/o metastatic papillary
+     Field of view: 39 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      79 year old woman with above history.
+     REASON FOR THIS EXAMINATION:
+      79 y/o Russian speaking female with h/o metastatic papillary thyroid cancer,
+      would like to assess interval disease progression.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: Metastatic follicular thyroid cancer assessment of interval
+     disease progression.
+     
+     TECHNIQUE: Multiple contiguous slices were obtained from the lung apices to
+     the pubic symphysis after administration of 150 cc of Optiray due to language
+     barrier.
+     
+     FINDINGS:
+     
+     CT of the chest with contrast: There is evidence of soft tissue defect in the
+     neck post thyroidectomy. There is no evidence of axillary lymphadenopathy.
+     There is evidence of lung mass in the left upper lobe that measures 1.8 x 2.9
+     cm and extends to a conglomerate of lymph nodes in the aortopulmonary window
+     that measure 1.5 and 1.7 cm in diameter. There is evidence of right hilar
+     lymphadenopathy that measures 1.5 x 2.7 cm. It extends into the right main
+     bronchus with an endobronchial mass that occupies almost the entire right
+     main bronchus. The endoluminal component measures 1.9 x 1.9 cm. There is
+     evidence of slight volume loss of the right lung compared to a a prior CT from
+     [**3482-7-18**].
+     
+     There are multiple lung nodules in both lobes in the right upper lobe the
+     largest lesion measures 1.4 cm in diameter. There are tiny 5 mm nodules in the
+     right lower lobe and in the right mid lobe.
+     
+     In comparison with the prior CT from [**3482-7-18**] there is increase in the size of
+     the lung nodules as well as a new
+     intrabronchial mass in the right main bronchus.
+     
+     CT of the abdomen with and without contrast: There is no evidence of focal
+     liver masses or abnormalities. There is no intra or extrahepatic bile duct
+     dilatation. The pancreas and spleen are within normal limits. There is a 1.4
+     cm adenoma of the right adrenal. There are cysts on the kidneys the largest
+     one in the right upper lobe that measures 4.1 cm in diameter. Smaller cysts
+     are also noted but some of the smaller ones cannot be fully characterized due
+     to their small size. There is no evidence of retroperitoneal lymphadenopathy.
+     
+     CT of the pelvis with contrast: There is no evidence of pelvic anomalies or
+     lymphadenopathy. There is no evidence of pelvic fluid.
+     
+     IMPRESSION: 1, Progression of the metastatic involvement of the chest with
+                                                                 (Over)
+
+     DATE: [**3482-12-11**] 8:59 AM
+     CT CHEST W/CONTRAST; CT ABD W&W/O C                             Clip # [**Clip Number (Radiology) 540**]
+     CT PELVIS W/CONTRAST; CT 150CC NONIONIC CONTRAST
+     Reason: 79 y/o Russian speaking female with h/o metastatic papillary
+     Field of view: 39 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     enlargement of the nodules that were noted on the prior study. There is
+     evidence of new intrabronchial mass in the right main bronchus that causes
+     almost complete obstruction of the bronchus with mild volume loss.
+     
+     2. Right adrenal adenoma.
+     
+     3. Simple renal cysts with some that cannot be fully characterized due to
+     their small size.
+     
+
+",,
+24224,,,,3482-12-11 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3482-12-11**] 8:59 AM
+     CT CHEST W/CONTRAST; CT ABD W&W/O C                             Clip # [**Clip Number (Radiology) 540**]
+     CT PELVIS W/CONTRAST; CT 150CC NONIONIC CONTRAST
+     Reason: 79 y/o Russian speaking female with h/o metastatic papillary
+     Field of view: 39 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      79 year old woman with above history.
+     REASON FOR THIS EXAMINATION:
+      79 y/o Russian speaking female with h/o metastatic papillary thyroid cancer,
+      would like to assess interval disease progression.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: Metastatic follicular thyroid cancer assessment of interval
+     disease progression.
+     
+     TECHNIQUE: Multiple contiguous slices were obtained from the lung apices to
+     the pubic symphysis after administration of 150 cc of Optiray due to language
+     barrier.
+     
+     FINDINGS:
+     
+     CT of the chest with contrast: There is evidence of soft tissue defect in the
+     neck post thyroidectomy. There is no evidence of axillary lymphadenopathy.
+     There is evidence of lung mass in the left upper lobe that measures 1.8 x 2.9
+     cm and extends to a conglomerate of lymph nodes in the aortopulmonary window
+     that measure 1.5 and 1.7 cm in diameter. There is evidence of right hilar
+     lymphadenopathy that measures 1.5 x 2.7 cm. It extends into the right main
+     bronchus with an endobronchial mass that occupies almost the entire right
+     main bronchus. The endoluminal component measures 1.9 x 1.9 cm. There is
+     evidence of slight volume loss of the right lung compared to a a prior CT from
+     [**3482-7-18**].
+     
+     There are multiple lung nodules in both lobes in the right upper lobe the
+     largest lesion measures 1.4 cm in diameter. There are tiny 5 mm nodules in the
+     right lower lobe and in the right mid lobe.
+     
+     In comparison with the prior CT from [**3482-7-18**] there is increase in the size of
+     the lung nodules as well as a new
+     intrabronchial mass in the right main bronchus.
+     
+     CT of the abdomen with and without contrast: There is no evidence of focal
+     liver masses or abnormalities. There is no intra or extrahepatic bile duct
+     dilatation. The pancreas and spleen are within normal limits. There is a 1.4
+     cm adenoma of the right adrenal. There are cysts on the kidneys the largest
+     one in the right upper lobe that measures 4.1 cm in diameter. Smaller cysts
+     are also noted but some of the smaller ones cannot be fully characterized due
+     to their small size. There is no evidence of retroperitoneal lymphadenopathy.
+     
+     CT of the pelvis with contrast: There is no evidence of pelvic anomalies or
+     lymphadenopathy. There is no evidence of pelvic fluid.
+     
+     IMPRESSION: 1, Progression of the metastatic involvement of the chest with
+                                                                 (Over)
+
+     DATE: [**3482-12-11**] 8:59 AM
+     CT CHEST W/CONTRAST; CT ABD W&W/O C                             Clip # [**Clip Number (Radiology) 540**]
+     CT PELVIS W/CONTRAST; CT 150CC NONIONIC CONTRAST
+     Reason: 79 y/o Russian speaking female with h/o metastatic papillary
+     Field of view: 39 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     enlargement of the nodules that were noted on the prior study. There is
+     evidence of new intrabronchial mass in the right main bronchus that causes
+     almost complete obstruction of the bronchus with mild volume loss.
+     
+     2. Right adrenal adenoma.
+     
+     3. Simple renal cysts with some that cannot be fully characterized due to
+     their small size.
+     
+
+",,
+24224,,,,3482-12-11 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3482-12-11**] 8:59 AM
+     CT CHEST W/CONTRAST; CT ABD W&W/O C                             Clip # [**Clip Number (Radiology) 540**]
+     CT PELVIS W/CONTRAST; CT 150CC NONIONIC CONTRAST
+     Reason: 79 y/o Russian speaking female with h/o metastatic papillary
+     Field of view: 39 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      79 year old woman with above history.
+     REASON FOR THIS EXAMINATION:
+      79 y/o Russian speaking female with h/o metastatic papillary thyroid cancer,
+      would like to assess interval disease progression.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: Metastatic follicular thyroid cancer assessment of interval
+     disease progression.
+     
+     TECHNIQUE: Multiple contiguous slices were obtained from the lung apices to
+     the pubic symphysis after administration of 150 cc of Optiray due to language
+     barrier.
+     
+     FINDINGS:
+     
+     CT of the chest with contrast: There is evidence of soft tissue defect in the
+     neck post thyroidectomy. There is no evidence of axillary lymphadenopathy.
+     There is evidence of lung mass in the left upper lobe that measures 1.8 x 2.9
+     cm and extends to a conglomerate of lymph nodes in the aortopulmonary window
+     that measure 1.5 and 1.7 cm in diameter. There is evidence of right hilar
+     lymphadenopathy that measures 1.5 x 2.7 cm. It extends into the right main
+     bronchus with an endobronchial mass that occupies almost the entire right
+     main bronchus. The endoluminal component measures 1.9 x 1.9 cm. There is
+     evidence of slight volume loss of the right lung compared to a a prior CT from
+     [**3482-7-18**].
+     
+     There are multiple lung nodules in both lobes in the right upper lobe the
+     largest lesion measures 1.4 cm in diameter. There are tiny 5 mm nodules in the
+     right lower lobe and in the right mid lobe.
+     
+     In comparison with the prior CT from [**3482-7-18**] there is increase in the size of
+     the lung nodules as well as a new
+     intrabronchial mass in the right main bronchus.
+     
+     CT of the abdomen with and without contrast: There is no evidence of focal
+     liver masses or abnormalities. There is no intra or extrahepatic bile duct
+     dilatation. The pancreas and spleen are within normal limits. There is a 1.4
+     cm adenoma of the right adrenal. There are cysts on the kidneys the largest
+     one in the right upper lobe that measures 4.1 cm in diameter. Smaller cysts
+     are also noted but some of the smaller ones cannot be fully characterized due
+     to their small size. There is no evidence of retroperitoneal lymphadenopathy.
+     
+     CT of the pelvis with contrast: There is no evidence of pelvic anomalies or
+     lymphadenopathy. There is no evidence of pelvic fluid.
+     
+     IMPRESSION: 1, Progression of the metastatic involvement of the chest with
+                                                                 (Over)
+
+     DATE: [**3482-12-11**] 8:59 AM
+     CT CHEST W/CONTRAST; CT ABD W&W/O C                             Clip # [**Clip Number (Radiology) 540**]
+     CT PELVIS W/CONTRAST; CT 150CC NONIONIC CONTRAST
+     Reason: 79 y/o Russian speaking female with h/o metastatic papillary
+     Field of view: 39 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     enlargement of the nodules that were noted on the prior study. There is
+     evidence of new intrabronchial mass in the right main bronchus that causes
+     almost complete obstruction of the bronchus with mild volume loss.
+     
+     2. Right adrenal adenoma.
+     
+     3. Simple renal cysts with some that cannot be fully characterized due to
+     their small size.
+     
+
+",,
+24224,,,,3482-12-11 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3482-12-11**] 8:59 AM
+     CT CHEST W/CONTRAST; CT ABD W&W/O C                             Clip # [**Clip Number (Radiology) 540**]
+     CT PELVIS W/CONTRAST; CT 150CC NONIONIC CONTRAST
+     Reason: 79 y/o Russian speaking female with h/o metastatic papillary
+     Field of view: 39 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      79 year old woman with above history.
+     REASON FOR THIS EXAMINATION:
+      79 y/o Russian speaking female with h/o metastatic papillary thyroid cancer,
+      would like to assess interval disease progression.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: Metastatic follicular thyroid cancer assessment of interval
+     disease progression.
+     
+     TECHNIQUE: Multiple contiguous slices were obtained from the lung apices to
+     the pubic symphysis after administration of 150 cc of Optiray due to language
+     barrier.
+     
+     FINDINGS:
+     
+     CT of the chest with contrast: There is evidence of soft tissue defect in the
+     neck post thyroidectomy. There is no evidence of axillary lymphadenopathy.
+     There is evidence of lung mass in the left upper lobe that measures 1.8 x 2.9
+     cm and extends to a conglomerate of lymph nodes in the aortopulmonary window
+     that measure 1.5 and 1.7 cm in diameter. There is evidence of right hilar
+     lymphadenopathy that measures 1.5 x 2.7 cm. It extends into the right main
+     bronchus with an endobronchial mass that occupies almost the entire right
+     main bronchus. The endoluminal component measures 1.9 x 1.9 cm. There is
+     evidence of slight volume loss of the right lung compared to a a prior CT from
+     [**3482-7-18**].
+     
+     There are multiple lung nodules in both lobes in the right upper lobe the
+     largest lesion measures 1.4 cm in diameter. There are tiny 5 mm nodules in the
+     right lower lobe and in the right mid lobe.
+     
+     In comparison with the prior CT from [**3482-7-18**] there is increase in the size of
+     the lung nodules as well as a new
+     intrabronchial mass in the right main bronchus.
+     
+     CT of the abdomen with and without contrast: There is no evidence of focal
+     liver masses or abnormalities. There is no intra or extrahepatic bile duct
+     dilatation. The pancreas and spleen are within normal limits. There is a 1.4
+     cm adenoma of the right adrenal. There are cysts on the kidneys the largest
+     one in the right upper lobe that measures 4.1 cm in diameter. Smaller cysts
+     are also noted but some of the smaller ones cannot be fully characterized due
+     to their small size. There is no evidence of retroperitoneal lymphadenopathy.
+     
+     CT of the pelvis with contrast: There is no evidence of pelvic anomalies or
+     lymphadenopathy. There is no evidence of pelvic fluid.
+     
+     IMPRESSION: 1, Progression of the metastatic involvement of the chest with
+                                                                 (Over)
+
+     DATE: [**3482-12-11**] 8:59 AM
+     CT CHEST W/CONTRAST; CT ABD W&W/O C                             Clip # [**Clip Number (Radiology) 540**]
+     CT PELVIS W/CONTRAST; CT 150CC NONIONIC CONTRAST
+     Reason: 79 y/o Russian speaking female with h/o metastatic papillary
+     Field of view: 39 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     enlargement of the nodules that were noted on the prior study. There is
+     evidence of new intrabronchial mass in the right main bronchus that causes
+     almost complete obstruction of the bronchus with mild volume loss.
+     
+     2. Right adrenal adenoma.
+     
+     3. Simple renal cysts with some that cannot be fully characterized due to
+     their small size.
+     
+
+",,
+24224,4964,,,3482-12-20 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+
+
+Admission Date:  [**3482-12-20**]     Discharge Date:  [**3483-1-2**]
+
+Date of Birth:   [**3403-4-21**]     Sex:  F
+
+Service:
+
+ADDENDUM:  Please note that during the last two days of the
+hospital course the patient became more conversant, and after
+an extensive discussion with her family members, the
+interpreter, and the social workers the patient decided that
+she wanted to be full code.
+
+At that time the do not resuscitate/do not intubate code
+status was reversed, and the patient was sent to the [**Hospital3 3924**] with a code status of full code.  The patient clearly
+indicated that if the patient was to decompensate the patient
+would want everything done to her.
+
+
+
+
+
+                          [**Name6 (MD) **] [**Name8 (MD) 429**], M.D.  [**MD Number 430**]
+
+Dictated By:[**Name8 (MD) 4901**]
+
+MEDQUIST36
+
+D:  [**3483-1-4**]  16:15
+T:  [**3483-1-4**]  16:31
+JOB#:  [**Job Number 4902**]
+Signed electronically by: DR. [**First Name (STitle) **] [**Name (STitle) 429**]
+ on: [**First Name9 (NamePattern2) **] [**3483-1-5**] 10:13 AM
+(End of Report)
+
+
+",,
+24224,4964,,,3482-12-20 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3482-12-20**] 3:22 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 542**]
+     Reason: s/p intubation
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      79 year old woman with 
+     REASON FOR THIS EXAMINATION:
+      s/p intubation
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY: Status post intubation.
+     
+     CHEST, PORTABLE AP: There is interval placement of ET tube, with the tip about
+     2 cm above the carina. There is also noted an NG tube. There is no evidence of
+     pneumothorax. There is significant volume loss in the right lung. There is
+     complete opacification in the lower two-thirds of the right lung. The left
+     lung demonstrates a tiny soft tissue density at the right base, which could
+     represent a granuloma versus pulmonary nodule versus a small pulmonary vessel.
+     The left lung is otherwise clear. There is also a possible right-sided pleural
+     effusion.
+     
+     IMPRESSION: Status post ET tube placement, with tip about 2 cm agove the
+     carina. No evidence of pneumothorax. Complete opacification of the right lower
+     lobe and the right middle lobe.
+
+",,
+24224,4964,,,3482-12-20 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3482-12-20**] 2:21 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 541**]
+     Reason: ET TUBE PLACEMENT, STAT
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      80 year old woman with stat!!!
+     REASON FOR THIS EXAMINATION:
+      stat
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     
+     INDICATION:  S/P intubation.
+     
+     CHEST, AP BEDSIDE:  There is an ET tube in position, 2 cm above the carina.
+     There is evidence of significant volume loss of the right lung and mediastinal
+     shift to the right which likely reflects the intrabronchial mass within the
+     right main bronchus, described on CT of [**3482-12-11**].  There is a right-sided
+     pleural effusion.  There is no evidence of heart failure.  There is a small
+     opacity within the left peripheral lung base.  There is no evidence of
+     pneumothorax.  The soft tissues and osseous structures are unremarkable.
+     
+     IMPRESSION:  ET tube placement with distal tip 2 cm above the carina. No
+     evidence of pneumothorax.  Evidence of opacification and volume loss involving
+     the right lung, secondary to a previously described right main stem bronchus
+     lesion.
+     
+     
+
+",,
+24224,4964,,,3482-12-20 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+",,
+24224,4964,30090,,3482-12-21 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3482-12-21**] 4:11 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 543**]
+     Reason: eval OGT                                                    
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       79 year old woman w/ RMS bronchus tumor obstruction                            
+     REASON FOR THIS EXAMINATION:
+      eval OGT                                                                        
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     AP BEDSIDE CHEST RADIOGRAPH.
+     
+     INDICATION:  79 year old female with bronchus tumor and obstruction.
+     
+     FINDINGS:  Comparison is made to a prior radiograph from [**3482-12-20**].
+     
+     There is an endotracheal tube in satisfactory position 2 cm above the carina.
+     There is a feeding tube in position that passes beneath the diaphragm.  The
+     distal tip of this feeding tube is not visualized.  There is a large layering
+     right-sided pleural effusion which extends over the right apex.  There is
+     extensive atelectasis/consolidation involving the right lung.  There is no
+     pneumothorax.  There is an unchanged appearance of a pulmonary nodule within
+     the peripheral left lower lung zone.
+     
+     IMPRESSION:  The distal tip of the OG tube passes beneath the diaphragm.  The
+     distal tip of the OG tube is not visualized.  Large layering right-sided
+     pleural effusion and extensive atelectasis/consolidation involving the right
+     lung.
+     
+
+",,
+24224,4964,30090,0,3482-12-21 05:46:00 EST,3482-12-21 06:15:00 EST,-1,"N",69,"Nursing/Other","MICU B NURSING NOTE 1900-2300","
+MICU B NURSING NOTE 1900-2300
+LOC: PT INTUBATED, HOWEVER SPEAKS LITTLE ENGLISH OF RUSSIAN DECENT. WHEN PT IS NOT SLEEPING  SHE DOES AROUSE EASLILY. PT ON SEDATION MEDICATIONS ATIVAN 1MG/HR AND FENTANYL 12.5MCG/HR. PEARLS, HOWEVER LT> RT, 3MM/2MM, INFORMED DR. [**First Name (STitle) **].
+CV: PT ON TELEMERTY, MONITOR SHOWS A.FIB WITH RARE PVC'S. HR RANGING FORM 56-72, MEAN 57-63. PT IN DOPAMINE AT 5MCG/KG/MIN AND LEVOPHED 0.284MCG/KG/MIN, NOT ABLE TO WEAN DOPAMINE D/T SYS B/P 93-107. DR. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) 4321**] OF PT'S CARDIAC STATUS.
+VENT: PT REMAINS ON VENT SIMV 12 TV 500 PEEP 5 PS 5 FIO2 50%. PT NOTED TO HAVE DECREASES BS IN BASES, SCANT AMOUNT BLD. TINGED  THICK SECRETIONS. O2 SATS 98%. NO RESP. DISTRESS NOTED.
+GI/GU: PT HAS OG NOTED BIL. FLIUD IN TUBING. BOWEL SOUNDS HYPO. NO STOOL. PT HAS FOLEY CATH, YELLOW URINE. PT NOTED TO HAVE NODULE ON LEFT LABIA, DR.[**First Name (STitle) **] INFORMED AND OBSERVED.
+ID: NO TEMP, ON LEVOQUIN AND CEFTIN.
+LABS: PT'S K LEVEL 2.8 RECEIVED POT. CHLOR. 40 [**Female First Name (un) **] PER OG, AND 2ND OF 20 MEQ POT. CHLOR. INFUSING. LYTES TO BE DRAWN PAST INFUSION.
+PLAN: POSS. SURGERY D/T RT. MAIN BRONCHUS MASS(STENTS), CONTINUE TO UPDATE FAMILY, MONITOR ABG'S/LYTES(LABS), AND CONTINUE ANTIBIOTICS, MONITOR ALL CULTURES SENT.     
+",,
+24224,4964,30090,0,3482-12-21 16:27:00 EST,3482-12-21 16:45:00 EST,2202,"N",69,"Nursing/Other",,"
+
+MICU B Nursing Progress Note (0700-1900)
+
+Pt. to OR at 1400 for rigid bronch, partial removal of tumor obstructing right mainstem bronchus. Photodynamic therapy applied to right mainstem bronchus also. 
+
+CNS: Pt. heavily sedated on fentanyl 12.5mcg/hr and ativan 1mg/hr. Barely responsive to noxious stim. Ativan decreased to .5mg/hr and pt. remains well sedated. (Also received 100mcg fentanyl, 60 of propofol and 7 of vecuronium in OR). 
+
+CVS: Able to wean off both dopamine and levophed by 1100. B/P has remained 100-120/syst with MAP's of >60. Continues in AFib with rate occasionally dropping as low as 45, H.O. aware, B/P not compromised, will continue to follow. Atropine at the bedside.
+
+RESP: Remains on IMV 50% 500 x 12 with 5/5. ABG's 7.42/32/81. Suctioned for small amounts of BRB. Lungs post procedure sound coarse throughout....absent BS on right prior to bronch. Reintubated in OR with #8 portex. 
+
+GI: Abdomen soft and distended with active bowel sounds throughout. OGT replaced, CXR for placement pending. No stool today. Nutritional needs need to be addressed. 
+
+F and E: Mg and K+ replaced with repeat labs pending. U.O. has been about 30-50cc/hr and pt. is now 2L positive. Now receiving IVF at 100cc/hr. Will continue to follow for any compromise in oxygenation related to volume overload. 
+
+SKIN: Intact. 
+
+ID: T max of 100.4 rectally. Being treated for post obstructive pneumonia with levoquin and ceftaz. 
+
+SOCIAL: Grand neice called x 2 and was updated by nursing.  
+
+
+",,
+24224,4964,30090,0,3482-12-21 18:07:00 EST,3482-12-21 18:11:00 EST,1851,"N",69,"Nursing/Other",,"
+
+RespCare: Pt remains intubated viA #7.5 ETT secured 20cm at lip.BS rel clear bilat, sl.decreased at R base. Cxray on [**12-20**] reveals "" complete opacification of RLL,and RML."" Sx'd reg.by nsg for bloody sputum.To OR today for stent. No vent changes made this shift.Please see carevue for further vent inqueries. 
+",,
+24224,4964,30090,0,3482-12-22 06:05:00 EST,3482-12-22 06:22:00 EST,-1,"N",69,"Nursing/Other","MICU B NURSING NOTE 1900-0730","
+MICU B NURSING NOTE 1900-0730
+LOC: PT WAKING UP MORE, OPENS EYES SPONTANOUSLY, LETHARGIC, DOES NOT FOLLOW COMMANDS, RESPONDS TO NAME. PEARLS BSK. LT>RT. PT DOES MOVE EXTREMITIES SPONT. REMAINS IN 2 SOFT WRIST RESTRAINTS D/T ATTEMPTING TO PULL AT TUBING. PT REMAINS ON ATIVAN 0.5MG/HR AND FENTANYL 12.5MCG/HR. 
+CV: PT ON TELEMERTY MONITOR SHOWS A.FIB. PT'S HR 40'S AND  SYS B/P 80'S DROPPED AROUND 2300 AND 0020. DR. [**Last Name (STitle) **] NOTIFIED, PT RECEIVED NOR. [**Doctor First Name **] BOLUS 250CC, BOLUS EFFECTIVE.
+VENT: PT NOTED TO HAVE THICK BLOOD TINGED SECRETIONS, PT SUCTIONED SEVERAL TIMES THROUGHT THE NIGHT. NO RESP. DITRESS NOTED PT ON VENT SIMV 12, FIO2 50%, TV 500, PEEP/PS 5. O2 SATS 100%. 
+GI/GU: PT HAS OG TUBE CLAMPED. PT NPO. ABD SOFT BS PRESENT. FOLEY CATH YELLOW URINE 30-70CC/HR. NO STOOL.
+PLAN: MONITOR RESP. STATUS D/T S/P RT. MAIN BROCHO.TUMOR REMOVAL [**3482-12-21**]. MONITOR LYTES/OTHER LABS. UPDATE FAMILY. SEE FLOWSHEET. 
+",,
+24224,4964,30090,0,3482-12-22 06:27:00 EST,3482-12-22 06:35:00 EST,1942,"N",69,"Nursing/Other",,"
+
+Respiratory Care
+Patient remained overnight on simv with no changes. Suctioned for lots of thick bloody sputum. RSBI this morning= 42. Placed on spontaneous breathing trial of 0 peep, 5 psv 50% at 00630.Tidal volumes 400, rr 12-18.
+",,
+24224,4964,30090,0,3482-12-22 17:23:00 EST,3482-12-22 18:08:00 EST,-1,"N",69,"Nursing/Other",,"
+
+MICU Day Note [**3482-12-22**]
+
+Opens eyes spontaneously. MAE upon command, and freely. Remains on Fentanyl at 12.5mcg, Ativan .5mg. Pt wakes to voice, follows commands, yet rests quietly. Niece in to visit. Pt does not speak English (Russian only). Words in Russian/English obtained from niece to aide in care and communication.Voices conncern as to knowing death is soon and that she is scared of suffering and or suffocating. Has said this in past. Note pt. was in the Ukraine 8 yrs ago when she was dx with thyroid ca/ came to US for surgery. Suspect that thyroid cancer reoccurence has occurred/lung as secondary. Niece supportive to pt, despite fact that they had not seen each other for 1-2yrs. Pt's brother is here, speaks little English. Social Service involved.
+
+CV- Rhythm at fib 55-70 with brief episodes of dropping to 38. MICU team aware. B/P stable. 
+
+RESP:  Attempts at CPAP halted due to increased resp. rate. [**1-15**] sx's for bloody secretions/MICU team in/Bronch done, removal of secretions, visualization. Plan per MICU-keep quiet vented,sedated over w/e, lung fields coarse. 
+
+GU-Diuerising adaquate per MICU
+
+GI-Npo/[**Hospital1 555**] sump clamped. to sx. briefly , only small amount bile drng.
+
+ID-Wbc dropping. Sepsis resolved. Off pressors.Levo/Ceftaz for pneumonia. BC neg. Sputum from 1/9=2+GNR, ID p.
+
+TSH p. assess for hypothyroid could be cause of low vent response to at. fib. If TSH is abnormal will consult pt's endocrinologist DR. [**Last Name (STitle) 4322**].
+
+Support given to family. Pt remains a full code. 
+ 
+",,
+24224,4964,30090,0,3482-12-22 22:11:00 EST,3482-12-22 22:16:00 EST,1640,"N",69,"Nursing/Other","Brief Nursing Coverage 7PM-11PM:","
+Brief Nursing Coverage 7PM-11PM:
+Neuro: Pt slightly restless initially, pulling at her ETT. Given .5mg IV ativan times two. remains on ativan .5mg/hr as wel as fentanyl drip at 12.5mg/hr.
+
+CV: Dropping her BP into the 80's this shift. Her UO also dropped to 20-30/hr. Given 500cc's NS bolus, results pnd. HR also low in the 40's-50's most of the time with frequent dips down into the 30's which set off the extreme brady alarm on the monitor. Team are aware of the low HR. No treatment at this point.
+
+Resp: No vent changes. Suctioned twice for thick blood tinged sputum. Lungs are coarse. Stable ABG on IMV 12, FIO2 50%, TV 500 with 5cm peep. 
+
+GI: She is NPO and has not had nutrition in two days. This needs to be addressed on rounds tomorrow. +BS, No stool.
+
+GU: Foley with small UO.
+",,
+24224,4964,30090,0,3482-12-23 05:14:00 EST,3482-12-23 05:38:00 EST,-1,"N",69,"Nursing/Other",,"
+
+NPN 11p-7a MICU B
+
+Neuro:  Awake and alert, opens eyes spontaneously.  11:30 Given 0.5mg IV ativan bolus X1 for agitation, and Ativan gtt increased to 1mg/hr.  Titrated back to o.5mg/hr due to HR and BP.  Remains on Fent @12.5mcg/hr.  Denies pain, nods head, pulls at ETT-  bilateral wrist restraints in use.  Primarily Russian speaking. 
+
+CV:  Pt continues in Afib with slow vent. response/ pauses.  HR mid 30-40 while asleep and pt does brady down to low 30's.  BP via Art line down to 80/50/ MAP 59 with bradycardia.  Team aware.  When awake HR 50's Afib, and BP's 100-120's/60's with MAB 60-70's..  Pt not on any meds to slow heart rate, TSH still pending.  [**12-22**] K & Mag repleated.  AM labs sent and pending.
+
+Resp:  VENT settings unchanged:  PSV 5/ 5 PEEP, FIO2 50%, TV 500's, RR 12.  Lungs cs. upper lobes/ cl lower lobes.  Cs sounds clear with coughing. SX Q3-4 for small amts of thick blood tinged secretions.
+
+GU:  UO remains 25-50cc/hr via foley.
+
+GI:  NPO.  OG tube positive palcement comfirmed via air bolus, bilious secretions.  Team to discuss nutrition plan in AM.  S/P nutrition eval.  @11:30PM pt with emesisx1- bilious secretions, no further episodes.  IVF D5NS @100cc/hr maintained.
+
+ID:  Afebrile.  Cont on ABX.
+
+Access:  R fem tripple leuman, sm ooze noted @ 11pm.  Dressing changed, no further ooze noted.  No hematoma.  Bilateral hep locks intact.  R radial a line with sluggish blood return and dampened wafeform.  Site WNL.
+
+Plan:  Nutrition plan, Safety measures to maintain airway,  sedation with fent/ ativan, Photosensitivity precautions, Rigid Bronch on Monday with further tx of R mainstem obstruction.
+
+
+
+",,
+24224,4964,30090,0,3482-12-23 16:55:00 EST,3482-12-23 17:02:00 EST,2202,"N",69,"Nursing/Other",,"
+
+MICU B Nursing Progress Note (0700-1900)
+
+CNS: Pt. does have periods of agitation, moving around in bed, attempting to self extubate, etc. Medicated this AM with ativan 1mg and fentanyl 25mcg bolus x 1 with good effect. Fentanyl subsequently increased to 50mcg/hr and ativan 1mg/hr as pt. is to remain intubated over the weekend. Decision later made to try pt. on PSV and she is currently too sedated. Therefore, ativan dc'ed and fentanyl decreased to 12.5mcg/hr. 
+
+RESP: FIO2 decreased to 40% (from 50%). Sats have remained good at 98%. Continues on IMV 40% 500 x 12 with 5/5. Will try PSV when pt. more alert. Lungs with coarse BS throughout. Suctioned for small amounts of thin, blood tinged secretions q3hr.
+",,
+24224,4964,30090,0,3482-12-23 17:17:00 EST,3482-12-23 17:25:00 EST,2202,"N",69,"Nursing/Other",,"
+
+NPN (cont'd) 
+CVS: Hemodynamically stable with heart rate 60-80, AFib and B/P 100-140/syst. Heart rate does tend to drop as low as 40 after receiving sedation. No hypotension noted, however. 
+
+GI: Abdomen soft and distended with active bowel sounds throughout. Colace given this AM, no stool as of yet. Tube feeding of promote with fiber started at 20cc/hr and has been well tolerated so far. Will check residuals q4hr and advance by 10cc/hr to a goal of 70. 
+
+ID: T max of 100.4 rectally. Continues to be treated with ceftaz and levoquin for post obstructive pneumonia. 
+
+F and E: IVF decreased to 50cc/hr and are to be dc'ed when tube feeds are at goal. 500cc positive as of 1800.
+
+SKIN: Intact. 
+
+LINES: Right femoral triple lumen and 2 peripheral antecubital lines intact. Evaluated by IV team for possible PICC placement on Monday. They are unable to place PICC at the bedside and state that pt. would need to go to interventional radiology for line placement.
+
+SOCIAL: Brother and [**Name2 (NI) 730**] both updated by nursing. Unclear as to how much information was understood, given language barrier. 
+",,
+24224,4964,30090,0,3482-12-23 17:26:00 EST,3482-12-23 17:27:00 EST,2202,"N",69,"Nursing/Other",,"
+
+Addendum: Correction, pt. is 900cc positive as of 1800.
+",,
+24224,4964,30090,0,3482-12-24 05:37:00 EST,3482-12-24 06:01:00 EST,-1,"N",69,"Nursing/Other",,"
+
+MICU B NPN 7pm-7am:
+
+Neuro:  Pt agitated- reaching for ETT, moving in bed, pulling at side rails on Fent 12.5mcg/hr and PSV.  Pt required boluses of Fent and Ativan to settle.  Unable to tolerate PSV due to low TV post sedation and cnanged to AC for Vent.  Pt able to [**Doctor Last Name **] t/o night on Fent 12.5 mcg/hr and Ativan up to 1mg/hr and titrated  down. Requiring occ. boluses of 25mcg of fent for periods of agitation with good effect.  Pt calm, arousable to verbal stim Fent 12.5mcg/hr and Ativan 0.5mg/hr.
+
+CV:  Afib with HR 50-80's (when awake).  SBP 130's down to 80's/ 50 with MAP 53 @1am.  Given total of 1000cc NSS with SBP's returning to 100's and MAP 65-80.  Sedation off during episode of hypotension.  Med team aware. Pt with 2+ edema upper/lower ext.  Pulses easily palpated.
+
+Resp: ABG on PSV 5/57.46/36/90 (from139)/[**1-7**]. Pt agitated. Vent settings changed @1930 to AC 500 X12 Peep 5 FIO2 .40%.  O2 Sats 96-100%.  Lungs cs. t/o all fields.  Sx Q3-4 for sm amts blood tinged secretions.  Breaths 2x's over vent when awake/ alert. AM ABG Pending.
+
+GI:  Promote with Fiber @50cc/hr.  TF last increased @5am.  Goal 70cc/hrPt with 10cc residule.  Placement OGT confirmed via auscultation with air bolus.  D5NS @50cc/hr.  No BM/ passing flatus.
+
+GU:  UO 40-50cc/hr.  UO decreased to <15cc/hr during episode of hypotension.  Returned to 40cc/hr post fluid bolus.
+
+ID:  Low grade Temps, Last BC [**12-21**].  Team aware.  Tylenol given@2100.
+
+Lines:  Await PICC on Monday.  R groin fem line with sm ooze/ no hematoma.  Dressing shanged.  Line with blood return, difficult to flush r/t positioning of pt.  R radial Art line wave form damp/ positional.  Arm board placed.  BP's at times with 20pt diff. to NIBP. L AC iv intact.  R acIV dc'd due to leaking @ insertion.
+
+Social:  No family called/ visited.
+
+Plan:  check AM labs, keep pt sedated/ comfortable while awaiting Rigid Bronch on Mon, follow BP's, Temps, Picc on Monday ?need for new Art line.  Social work/ case mgmt for dc planning- complex. 
+",,
+24224,4964,30090,0,3482-12-24 17:03:00 EST,3482-12-24 17:23:00 EST,2202,"N",69,"Nursing/Other",,"
+
+MICU B Nursing Progress Note (0700-1900)
+
+Concern regarding T of 102.8, hypotension, decreasing urine output and po2.
+
+CNS: Pt. initially awake, agitated, appearing uncomfortable this AM. Bolused with fentanyl 25mcg x 2 for routine care. Maintained on fentanyl 12.5mcg/hr and ativan .5mg/hr otherwise. Late this afternoon, pt more febrile and increasingly hypotensive. Sedation eventually dc'ed. However, pt. remains quiet, barely opening her eyes to tactile stim.
+
+CVS: B/P and heart rate labile with pt. being quite hypertensive (180's/syst) with agitation. As mentioned, pt now hypotensive to the mid 80's (MAP of 55). Urine output has also fallen off and pt. is currently receiving a 500cc NS fluid bolus. Heart rate of 100 with agitation, currently down in the 50's. 
+
+RESP: No change in vent settings today. ABG's of 7.43/40/66 on A/C 40% 500 x 12 with 5 of PEEP. (sats of 92% at the time with left side down). Sats improved with position change (back or right side down) to 99%. Repeat ABG pending. Suctioned for small amounts tan to blood tinged secretions. Lungs with coarse BS throughout. 
+
+ID: T spike to 102.8 rectally. Urine, sputum and peripheral blood cultures x 2 sent. Pt. received tylenol 650mg x 1. Pt. still has femoral line in.
+
+GI: At goal of 70cc/hr promote with fiber. No residuals, no stool as of yet. Pt. to be NPO after midnight for rigid bronch in AM. 
+
+SKIN; Inatct. 
+
+LINES: ?PICC in interventional Monday. However, may not be appropriate if pt. is requiring frequent IVF boluses. 
+
+PLAN: Longterm plan needs to be addressed with pt. (if able), family (brother, niece, grandneice), housestaff. Decisions will need to be made regarding further care, options if unable to extubate, etc. 
+
+
+",,
+24224,4964,30090,0,3482-12-24 18:01:00 EST,3482-12-24 18:02:00 EST,2202,"N",69,"Nursing/Other",,"
+
+NPN Addendum:
+
+No response to 500cc NS bolus. B/P remains in the mid 80's and urine output 2cc in past hour. H.O. aware. Repeat ABG good at 7.44 40 108.
+",,
+24224,4964,30090,0,3482-12-24 18:27:00 EST,3482-12-24 18:29:00 EST,2202,"N",69,"Nursing/Other",,"
+
+Nursing Progress Note Addendum: Due to continued hypotension and no urine output, pt. currently receiving another 500cc NS fluid bolus. 
+",,
+24224,4964,30090,,3482-12-25 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+",,
+24224,4964,30090,,3482-12-25 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3482-12-25**] 6:31 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 545**]
+     Reason: Right subclavian line repositioned.  Placement?             
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+         79 year old woman w/ RMS bronchus tumor obstruction                          
+         
+     REASON FOR THIS EXAMINATION:
+      Right subclavian line repositioned.  Placement?                                 
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Right subclavian line repositioning.  History of right main stem
+     bronchus tumor.
+     
+     COMPARISON:  Earlier, same day.
+     
+     FINDINGS:  ET tube, NG tube, and right main stem bronchus and tracheal stents
+     are in unchanged position.  Right-sided subclavian line has been withdrawn
+     several centimeters with tip probably still in the right atrium.  Right lung
+     consolidation and collapse with moderate size pleural effusion remains.  The
+     left lung is unchanged in appearance.
+     
+     IMPRESSION:  Right subclavian line in the right atrium and should be pulled
+     back several centimeters.  These findings were discussed with Dr. [**First Name4 (NamePattern1) 546**]
+     [**Last Name (NamePattern1) 547**] at the time of the exam.
+     
+
+",,
+24224,4964,30090,,3482-12-25 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3482-12-25**] 3:41 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 544**]
+     Reason: Central line in place?                                      
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        79 year old woman w/ RMS bronchus tumor obstruction                           
+       
+     REASON FOR THIS EXAMINATION:
+      Central line in place?                                                          
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: Right middle main stem bronchus tumor.
+     
+     FINDINGS: Single frontal view of chest with comparison [**12-15**]. The ETT tip is
+     4.4 cm above the carina. There has been interval placement of tracheal and
+     right main bronchus stent. There has been interval increased volume loss on
+     the right with a large pleural effusion. The right subclavian central line
+     catheter tip is low in the right atrium in the region of the junction of the
+     right atrium and the inferior vena cava. There is perihilar haziness and
+     vascular indistinctness consistent with congestive heart failure.
+     
+     IMPRESSION: 1) Worsening volume loss on the right. 2) Large right pleural
+     effusion. 3) Low position of right subclavian central line catheter. 4) Likely
+     congestive heart failure.
+
+",,
+24224,4964,30090,,3482-12-25 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3482-12-25**] 7:59 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 548**]
+     Reason: Please check Right Subclavian position again, pulled back 5 
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+          79 year old woman w/ RMS bronchus tumor obstruction                         
+           
+     REASON FOR THIS EXAMINATION:
+      Please check Right Subclavian position again, pulled back 5 cm.  Please try to 
+      position patient straight on.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     AP PORTABLE CHEST:
+     
+     INDICATION: 79 y/o female with right middle lobe bronchus tumor obstruction.
+     Check position of right subclavian line.
+     
+     Comparison is made to the prior exam of the same day at 18:34 hours.
+     
+     FINDINGS: There has been interval pull back of a right subclavian central
+     venous line with its tip now seen in the distal SVC. The ETT, NG tube as well
+     as right main stem bronchus and tracheal stents are unchanged in position. The
+     cardiomediastinal borders are unchanged. The well localized opacity at the
+     right apex, likely consistent with localized component of a right sided
+     pleural effusion, is unchanged. Lateral and basal components of prior right
+     effusion are decreased. Linear and interstitial densities within the right
+     middle and right lower lung zones are consistent with residual atelectasis.
+     Also noted are linear densities within the left upper lung field with
+     associated elevation of the left hilum, likely representing left upper lobe
+     atelectasis. The pulmonary vasculature is normal. There is no left sided
+     effusion. There is no pneumothorax.
+     
+     IMPRESSION: 1) Interval pull back of right sided subclavian central venous
+     line into good position. 2) Interval improvement of right sided atelectasis
+     and/or consolidation. Otherwise, unchanged findings.
+
+",,
+24224,4964,30090,0,3482-12-25 06:33:00 EST,3482-12-25 06:40:00 EST,1966,"N",69,"Nursing/Other","Nursing Progress Note","
+Nursing Progress Note
+Neuro: Pt began to wake up, become restless to agitated by 2100, Ativan and Fentanyl gtts resumed. Eyes open, attempting to reach towards ETT, soft restraints on bilat.
+Resp: Remains intubated, on 40%, A/C 12, 500/5 BS coarse bilat. To have rigid bronch later this morning.
+CV: Continues in Afib, rate 50's-90's SBP stable overnight, no further need for fluid boluses FB + approx 3400ml/24hrs.
+GI: TF's have been off since 2400 in prep for OR today + bowel sounds, no stool overnight.
+GU: Averaging 30ml/hr concentrated-appearing urine via FC
+ID: Tmax 100.2 PO Started on Vanco IV
+Social: Full code No contact with family members overnight. [**Name2 (NI) 3880**] family meeting to discuss POC, needs Social Service involvement as she was living alone prior to this hospitalization.
+",,
+24224,4964,30090,0,3482-12-25 16:26:00 EST,3482-12-25 17:17:00 EST,-1,"N",69,"Nursing/Other","NPN 07:00-19:00 MICU","
+NPN 07:00-19:00 MICU
+*Please refer to Careview for Additional Patient Information
+*Full Code
+
+Neuro: Lightly sedated on Fentanyl 20mcg/hr (up from 12.5mcg/hr, d/t moving of arms and restlessness) and Ativan, requiring boluses s/p trip to O.R. as well as during placement of R subclavian line. Opening eyes to voice, localizing pain, however is currently more sedated d/t boluses of Fentanyl received during line placement. 
+
+CV: Afib, no ectopy noted, SBP incr w/ turning. Tmax 100.4 this afternoon, given Tylenol. 1+ noted edema in upper and lower extremities. Repleted w/ Electrolytes. *R Sublcavian line placed this afternoon. 
+
+Resp: Vent changes made post Rigid Bronchoscopy, currently on CPAP+PS 10/Peep 5/FiO2 40%, TV410-480, Min Vol 7-8L, RR 15-17; ABG on these settings-> 7.47/39/89/29(Co2). Sxn this am. for moderate amounts of thick, bld tinged sputum; LS cont' to be coarse througout upper and lower lobes. **Brought to O.R. this morning for Rigid Bronchoscopy w/ Stent Placement. Stents were placed in the R middle stem, as well as the distal portion of the Trachea. **ET tube is currently set at 19 at Lip, [**Name8 (MD) 59**] MD this should not be moved d/t it pushing into stents. Avoid aggressive deep sxn'ing so as not to displace stents.  
+
+GI/GU: no bm today, +bs. TF restarted at 20cc/hr,*[**Name8 (MD) 59**] MD should be turned off at 12MN for ?Bronchoscopy/Placement of stents. U/O good, wnl.
+
+Skin: Intact
+
+Social: Family called this afternoon, will plan to be in tomorrow. Notify Social work on family's arrival.
+
+Plan: Awaiting cxr confirmation of R sublcalvian line. *Reassess pt's tolerance on CPAP+PS assess for tiring. ?Re-bronch tomorrow for evaluation of stents. Reassess potential extubation. Sedation: keep pt comfortable on minimal amounts of sedation to ensure for pt's ability to be potentially extubated. At 20:00pm increase TF 20cc if tolerating, *Turn off TF at MN for ?Bronch tomorrow.  *will send R femoral tip for cx.
+
+",,
+24224,4964,30090,,3482-12-26 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+",,
+24224,4964,30090,0,3482-12-26 03:38:00 EST,3482-12-26 03:55:00 EST,-1,"N",69,"Nursing/Other",,"
+
+D Neuro: alert most of times noted to move legs an arms to stimuli not command. Pt speaks Russian it is unclear if she understands request.pupils unequal but reactive this am earlier in shift L eye did not react. moves limbs on bed mostly but able to lift off bed.
+CV :  Afib Hr  down to 44-55 for a short time  B/P <9 500 ns bolus given and fentanyl off for a short [**Doctor First Name **] . FLD  improved urine out put and B/P. fenatyl resumed when B/P improved.R fem 3 lumen d/c'd by HO and tip sent for culture. RSC 3 lumen fuctioning well goood blood return and postCXR showed line position adequet. D%NS @ 50. Fentanyl @ 25 mcg. Ativan @ .5 mg.
+Lungs : rhonchorus to coarse suctioned for thick blood tinced tan sputum Rhonchi clear some what after suctioning.
+GI : ABD soft bowel sounds present. TF residual 10cc stoped TF @ midnight for bronch in am.
+Skin:  intact
+A stable bronch in am.
+P continue on cpap and PS. continue on Fentanyl and ativan until ready to exterbate.
+",,
+24224,4964,30090,0,3482-12-26 16:36:00 EST,3482-12-26 17:00:00 EST,-1,"N",69,"Nursing/Other","NPN 07:00-19:00 MICU","
+NPN 07:00-19:00 MICU
+*Full Code
+
+Neuro: Cont' on Fent and Ativan gtt, however pt w/ increase agtitation, attempting to grab for ET tube, mvg all extremities w/ SBP>200. Pt bolused multiple times throughout day, w/ only temporary effect. 
+CV: HR wnl, A-fib, no ectopy noted. SBP's>200 when awake and attempting to move. Pt was started on Nifedipine this afternoon. Pt's SBP down to 110 when asleep. 
+Resp: On CPAP+PS 10/peep 5/FiO2 40%, TV's=450-470 and Min Volumes7-8L. 
+RUL sounds are diminished (pt has cancerous tumor in that region). No bronch done today, [**Name8 (MD) 59**] MD's stents are in place. *ET tube should remain at 19 at Lip, in order for stents to completely heal. 
+GI/GU: No bm today, +bs. Restarted on TF's at 20cc/hr, will increase as tolerated, goal of 70cc/hr. 
+Skin: Intact
+Social: Niece called this morning, Family meeting w/ team this afternoon.
+Plan: Team meeting w/ family today to update them on pt's status and possiblity of Extubation tomorrow->However d/t extensiveness of Cancer, and possibility of pt potentially having to be reextubated, team felt it necessary to discuss pt's code status and plan of care.  Neuro: attempt to wean Fentanyl in preparation for extubation. CV: cont' to monitor SBP's. GI: May need colace ? turning off TF at MN for potential extubation. 
+",,
+24224,4964,30090,0,3482-12-27 03:44:00 EST,3482-12-27 04:46:00 EST,-1,"N",69,"Nursing/Other",,"
+
+Micu Progress Nursing Note:
+
+79 year-old Russian-speaking female with history of advanced metastatic papillary thyroid ca, thought to be caused by Chernobly exposure. She presented with a 6 week history before admission of increasing shortness of breath, with cough. Patient is s/p thyroidectomy in [**3472**] with radical neck disection, s/p xrt, multiple courses of radioactive iodine treatment. Pulmonary mets were diagnosed via CT in [**3480**]. She has a 1.9 x 1.9 cm endobronchial mass that occupies almost the entire right stem bronchus. There is a mass in the LUL and multiple nodules right lung. She was emergently intubated in the ER for resp distress, drop in sats to the 70s. Patient had rigid bronch in OR on [**12-25**] with stent placement in R middle stem and distal portion of trachea. Patient was extubated on [**12-26**] at 1800. Plan is to 
+see how patient does extubated and to reintubate if she does not do well. She is currently a full code.
+
+Neuro: Does not respond to questions. Non-verbal. Very restless all shift, pupils 2mm and sluggish. No response to noxious stimuli, eg: sternal rub or nail pressure. She was placed back on Fentanyl gtt for increased agitation, titrated to sedation, up to 30mics, with several boluses. She did receive 2 50 microgram boluses of Fentanyl before the drip was re-started, and .5 of Ativan ivp, with minimal effect. The Fentanyl gtt was dc'd mid-shift for a drop in pressure and increasing sedation, although it was restarted at 5 mics at 0415 for periods of agitation and increased BP. 
+
+CV: Remains in afib with occasional PVCs. Potassium was checked x 2 with blood gases and has come back 3.9 x 2. BP 130s to 170s over 60s to 90s. HR 90s down to 60s. Some pedal edema, non-pitting. Hands are somewhat puffy as well. Pedal pulses are palpable. IV changed to D51/2 NS. 
+
+Resp: Received on face mask at 70%. Irregular breathing pattern, rate teens to 20s. Expiratory wheezes throughout. Received neb treatments per RT. Patient placed on CPap mask ventilation after patient found grey, circumoral cyanosis, needing nasal-tracheal suctioning for moderate to large amount of thick tan secretions, some blood-tinged secretions. PS originally 12 increased to 14 after first blood gas. Please see carevue for blood gases. 
+
+GI/GU: Patient with positive bowel sounds, abdomen somewhat distended. NPO. Foley draining good amounts of dilute pale yellow urine until ~0300 when urine output slowed down to 15-20cc/hr. Dr. [**First Name (STitle) 266**] made aware. Will continue to follow and assess further after foley is flushed. No stool. 
+
+ID: T-max 101 rectally. MD aware. Will not culture unless temp reaches 101.5 or greater. Remains on multiple antibiotics. 
+
+Plan: Continue to follow resp. status. Continue ongoing discussions with family regarding code status, plan of care. 
+
+[**First Name8 (NamePattern2) 174**] [**Last Name (NamePattern1) 175**] Rn 
+",,
+24224,4964,30090,0,3482-12-27 05:55:00 EST,3482-12-27 06:04:00 EST,2161,"N",69,"Nursing/Other",,"
+
+Respiratory Care:
+
+Patient given Albuterol/Atrovent neb with mask. Tolerated well. Bs expiratory wheezes bilaterally. Wheezes resolved with rx.  Pt. requiring mask ventilation later in shift for resp distress. Sx'd via nurse. O2 sats decreasing to mid 80's. Pt. put on NRM with O2 sats increasing to 96%. Still with increased labored breathing pattern. Albuterol/Atrovent neb given without change. Bs with some expiratory wheezes.  Patient rested  on mask ventilation with good results. Tolerated well. Bs high pitch upper airway noises. Epi neb given x1 in line with mask ventilation. No immediate change but resolving over course of shift. Abg improving. Pt. taken off this am and put on 70% cool neb. Abg results 7.41, 50, 120, 33. RR comfortable. No further changes made. Continue with cool neb. Mask ventilation on standby.
+",,
+24224,4964,30090,0,3482-12-27 06:45:00 EST,3482-12-27 06:51:00 EST,-1,"N",69,"Nursing/Other",,"
+
+Micu Nursing Progress Note, Addendum:
+
+Patient placed on face mask at .70 secondary to discomfort with cpap mask expressed as restlessness and agitation. Fentanyl gtt restarted and titrated for light sedation. Urine output increased and bcoming more dilute, putting out >100cc/hr the last several hours. Please see carevue for abg on face mask. 
+[**First Name8 (NamePattern2) 174**] [**Last Name (NamePattern1) 175**] Rn
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+",,
+24224,,,,3483-05-04 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3483-5-4**] 8:06 AM
+     CHEST (PA & LAT)                                                Clip # [**Clip Number (Radiology) 549**]
+     Reason: COUGH
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     
+     HISTORY: Cough.
+     
+     CHEST PA AND LATERAL:  Comparison with reports from recent chest studies at
+     [**Hospital1 550**]-[**Location (un) 551**] in [**3481**] and early 2003.
+     
+     There is mild cardiomegaly.  There are no focal infiltrates.  There is a 3 cm
+     upper lobe mass just above the level of the hilum.  There is extensive right-
+     sided mediastinal adenopathy.  There is a stent in the SVC.  There is no
+     effusion or bone destruction.
+     
+     IMPRESSION:  Extensive adenopathy and mass in the left upper lobe.  Findings
+     are consistent with patient's known metastatic disease.
+     
+     
+
+",,
+24224,,,,3483-11-06 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3483-11-6**] 9:07 AM
+     CHEST (PA & LAT)                                                Clip # [**Clip Number (Radiology) 552**]
+     Reason: Assess for atelectasis
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      80 year old woman with hx of thyroid ca and RUL stent for obstruction
+     REASON FOR THIS EXAMINATION:
+      Assess for atelectasis
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     TWO VIEW CHEST:
+     
+     CLINICAL INDICATION:  Thyroid cancer.  Right upper lobe stent placement.
+     
+     Comparison is made to digitized chest x-ray of [**3483-5-4**].
+     
+     Tracheal and right main stem bronchial stents are present.  Allowing for
+     differences in technique, these are not significantly changed in the interval.
+     There is widening at the right mediastinal contour as well as abnormal
+     enlargement and rounded contour of the right hilum.  The right mediastinal
+     widening appears similar in the interval but the right hilar enlargement
+     appears new.  There is also a rounded configuration of the left hilar contour
+     which appears new in the interval.  There is partial atelectasis of the right
+     upper lobe centrally adjacent to the right mediastinal widening.  This is
+     similar compared to the previous exam.  The remaining portions of the lungs
+     demonstrate no significant atelectatic changes.  No pleural effusions are
+     identified.  Degenerative changes are seen in the spine.
+     
+     IMPRESSION:  Widening of right mediastinal and hilar contours consistent with
+     neoplastic involvement of the lymph nodes in these regions.  There is
+     associated partial atelectasis of the right upper lobe centrally adjacent to
+     the right mediastinal mass.  However, the majority of the right upper lobe is
+     well aerated with the minor fissure in a normal anatomic location.
+     
+     The right hilar enlargement is new in the interval and there is also increased
+     rounded contour of the left hilum, concerning for progressive lymphadenopathy.
+     Correlative CT could be obtained for more complete assessment if clinically
+     warranted.
+
+",,

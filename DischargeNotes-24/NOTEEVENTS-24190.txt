@@ -1,0 +1,586 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+24190,,,,3340-12-02 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3340-12-2**] 9:59 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 330**]
+     Reason: bleed?                                                      
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      75 year old man with bleeding                                                   
+     REASON FOR THIS EXAMINATION:
+      bleed?                                                                          
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: Bleeding.
+     
+     The prior study is not available for comparison.
+     
+     AP UPRIGHT CHEST:  There is cardiomegaly.  There is a dual lead left sided
+     cardiac pacemaker. The pulmonary vascularity is within normal limits.   There
+     is flattening of the hemidiaphragms.  The lungs are otherwise clear without
+     effusion, consolidation or pneumothorax.  The osseous structures are
+     unremarkable.
+     
+     IMPRESSION: Cardiomegaly without evidence for CHF or pneumonia.
+
+",,
+24190,23929,,,3340-12-03 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+ 
+ 
+ 
+Admission Date:  [**3340-12-3**]              Discharge Date:   [**3340-12-6**]
+ 
+Date of Birth:  [**3264-12-25**]             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Sulfa (Sulfonamides) / Shellfish
+ 
+Attending:[**First Name3 (LF) 2460**] 
+Chief Complaint:
+Bright red blood per rectum
+ 
+Major Surgical or Invasive Procedure:
+EGD
+Colonoscopy
+ 
+History of Present Illness:
+This is a pleasant 75 yr old male (chinese-speaking only) with 
+cad s/p CABG in [**3336**], PCTA [**3340-9-13**] with cyphers of LAD/D1, also 
+with CO of RCA and LCx, PAF on coumadin, DMII, DCM (EF 30% with 
+severe inferoposterior wall/inferior septum) and HTN who 
+presents with NSTEMI (Tn 0.57, CK 195, MB 15) in setting of 
+BRBPR (hct 24 with baseline 34).  Pt admitted to MICU, 
+transfused 4U PRBC's and 1U FFP with resolution of chest pain.  
+INR supratherapeutic at 4.8.  Aspirin and plavix continued due 
+to risk of in-stent thrombosis.  EGD revealed Barrett's 
+esophagus, non-bleeding erosions and 2 non-bleeding 
+benign-looking duodenal polyps.  Continued on PPI and scheduled 
+for colonoscopy [**12-5**].  No further bleeding and hct stable.
+ 
+Past Medical History:
+CAD s/p CABG [**2-15**] at NYU
+dual chamber cardioverter/defibrillator placement [**2-15**]
+DM2
+Chronic Renal Insufficiency
+Gout
+HTN
+ 
+Social History:
++tobacco history x 25years, quit in '[**36**] 
+No ETOH 
+Lives with son 
+
+ 
+Family History:
+non-contributory
+ 
+Physical Exam:
+98.9    105/67     67      14      98%RA
+Gen:  NAD, A&O X 3, well-mannered, good-spirits
+Heent: EOMI, L ptosis, PERRL, MMM
+Neck:  No JVD or LAD
+Heart:  RRR, no mrg.  PMI non-displaced
+Lungs:  Clear
+Abd:  Soft, nt/nd. No masses.  Non-tender.  No rebound guarding. 
+ NABS.
+Ext:  No c/c/e
+
+ 
+Pertinent Results:
+[**3340-12-2**] 09:15PM BLOOD WBC-5.1 RBC-2.59* Hgb-8.0* Hct-24.2* 
+MCV-94 MCH-30.8 MCHC-32.9 RDW-15.2 Plt Ct-363
+[**3340-12-2**] 09:15PM BLOOD PT-26.7* PTT-60.0* INR(PT)-4.5
+[**3340-12-2**] 09:15PM BLOOD Glucose-127* UreaN-104* Creat-2.6* Na-137 
+K-3.9 Cl-102 HCO3-22 AnGap-17
+[**3340-12-3**] 05:00AM BLOOD ALT-19 AST-31 AlkPhos-66 Amylase-54 
+TotBili-0.7
+[**3340-12-3**] 06:30PM BLOOD CK-MB-15* MB Indx-8.2* cTropnT-0.82*
+ 
+Brief Hospital Course:
+1.  GIB:  Pt was admitted with acute GI bleeding.  He got a 
+total of 5 units of PRBC's and 1 unit FFP for his 
+supratherapeutic INR.  His CP occured with hct of ~24 (baseline 
+36) and resolved with blood transfusion and his hematocrit 
+remained stable ~35.  EGD in the MICU revealed short segement of 
+Barrett's esophagus, non-erosive gastritis and non-bleeding 
+dudenal polyps.  H.pylori serology returned positive, and he 
+will be treated with triple therapy for this problem.  He was 
+maintained on IV protonix BID for gastric acid suppression.  Pt 
+then moved to the floor where he underwent bowel prep and had a 
+colonoscopy which revealed 2 sessile benign-appearing polyps 
+7-8mm in size that were not removed given the pt's 
+anticoagulated state.  Therefore, Mr.[**Known patient lastname **] cause of bleeding was 
+likely supratheraputic anticoagulation from an unknown site.  He 
+is no longer bleeding and his hematocrit is stable. H.Pylori 
+negative.  He will be discharged with protonix 40mg [**Known patient firstname **] BID X [**3-22**] 
+weeks.  
+
+2.  NSTEMI:  Pt had evidence of AMI with troponin leak in 
+setting of acute hemmorhage.  Pt is paced, so it is impossible 
+to definitively rule out acute STEMI, but his serial ekg's did 
+not meet sgarbosa's criteria.  However, his history is not 
+suggestive of acute coronary syndrome.  He was maintained on 
+medical management with aspirin, BB, statin.  He was maintained 
+on asprin and plavix (even in setting of acute GIB) to prevent 
+acute in-stent thrombosis.  Pt was discharged with his home 
+regimen including coreg, digoxin, and imdur.  
+
+3.  PAF:  Pt was VVI-paced at 75 BPM while in house.  His 
+coumadin was held.  Mr.[**Known patient lastname **] will not be anticoagulated so his 
+ascending colonic polyps can be safely removed in the near 
+future.
+
+4.  DM:  Pt was maintained on regular insulin sliding scale 
+during this hospitalization.  No evidence of DKA.  
+
+5.  Gout:  Pt with history of gout.  No evidency of acute gouty 
+flare.  Remained on [**Known patient firstname **] allopurinol for secondary prophylaxis.
+
+6.  Barrett's Esophagus:  Found on EGD.  Will need follow-up in 
+GI clinic for this problem.  
+ 
+Discharge Medications:
+1. Atorvastatin Calcium 40 mg Tablet Sig: One (1) Tablet [**Known patient firstname **] 
+DAILY (Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+2. Levothyroxine Sodium 75 mcg Tablet Sig: One (1) Tablet [**Known patient firstname **] 
+DAILY (Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+3. Metoprolol Tartrate 25 mg Tablet Sig: One (1) Tablet [**Known patient firstname **] BID 
+(2 times a day).
+Disp:*60 Tablet(s)* Refills:*2*
+4. Isosorbide Mononitrate 60 mg Tablet Sustained Release 24HR 
+Sig: One (1) Tablet Sustained Release 24HR [**Known patient firstname **] DAILY (Daily).
+Disp:*30 Tablet Sustained Release 24HR(s)* Refills:*2*
+5. Allopurinol 100 mg Tablet Sig: 0.5 Tablet [**Known patient firstname **] DAILY (Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+6. Aspirin 325 mg Tablet Sig: One (1) Tablet [**Known patient firstname **] DAILY (Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+7. Clopidogrel Bisulfate 75 mg Tablet Sig: One (1) Tablet [**Known patient firstname **] 
+DAILY (Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+8. Digoxin 125 mcg Tablet Sig: One (1) Tablet [**Known patient firstname **] once a day.
+Disp:*30 Tablet(s)* Refills:*2*
+9. Hyzaar 50-12.5 mg Tablet Sig: One (1) Tablet [**Known patient firstname **] once a day.
+Disp:*30 Tablet(s)* Refills:*2*
+10. Coumadin 2 mg Tablet Sig: One (1) Tablet [**Known patient firstname **] once a day: goal 
+INR 2.0-2.5.
+Disp:*30 Tablet(s)* Refills:*2*
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Lower GIB secondary to supratheraputic anticoagulation
+
+NSTEMI
+
+Diabetes
+
+ 
+Discharge Condition:
+Good
+ 
+Discharge Instructions:
+Weigh yourself every morning, [**Name8 (MD) **] MD if weight > 3 lbs.
+Adhere to 2 gm sodium diet
+Fluid Restriction: 2L/day.
+
+If [**Doctor First Name **] have these symptoms, call your doctor or go to the ER:
+-blood in stool
+-black stool
+-chest pain
+-shortness of breath
+-increased lethargy 
+
+ 
+Followup Instructions:
+1. Provider: [**First Name8 (NamePattern2) 4856**] [**Last Name (NamePattern1) **], MD [**MD Number 52**]: LM [**Hospital Ward Name 353**] BUILDING 
+RHEUMATOLOGY Phone:[**Telephone/Fax (1) 1619**] Date/Time:[**3341-1-11**] 8:30
+ 
+2. Provider: [**Name10 (NameIs) 749**] CLINIC Where: [**Hospital6 53**] CARDIAC 
+SERVICES Phone:[**Telephone/Fax (1) 463**] Date/Time:[**3341-1-11**] 9:30
+ 
+3. Provider: [**First Name11 (Name Pattern1) 50**] [**Last Name (NamePattern4) 4857**], M.D. [**MD Number 52**]: [**Hospital6 53**] 
+CARDIAC SERVICES Phone:[**Telephone/Fax (1) 3379**] Date/Time:[**3341-1-11**] 10:00
+ 
+4. Please call your PCP at [**Hospital6 974**] for general 
+check-up within 7-10 days of discharge. She must review and 
+follow your INR for goal 2.0-2.5.  
+
+ 
+                             [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 2474**] MD [**MD Number 2475**]
+ 
+Completed by: [**First Name8 (NamePattern2) 628**] [**Last Name (NamePattern1) 629**] MD [**MD Number 630**] [**3340-12-6**] @ 0925
+Signed electronically by: DR. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **]
+ on: WED [**3340-12-7**] 2:22 PM
+(End of Report)
+
+
+",,
+24190,23929,30048,0,3340-12-03 05:24:00 EST,3340-12-03 05:51:00 EST,5571,"N",69,"Nursing/Other",,"
+
+ADMISSION AND PROGRESS NOTE 0445-0700
+
+PATIENT ARRIVED FROM ER AT 0445 WITH DX OF GI BLEED AND TROP I BUMP OF 0.3.  PATEINT HAS SIGNIF CARDIAC HISTORY WITH PREV CABG AND PPM INSERTION. HE STOPPED IF WARFRIN ON WEDNESDAY OF THIS WEEK FOR A HIGH INR.  HE WAS OUT SHOPPING WITH HIS DAUGHTER YESTERDAY AND COMPLAINED OF CHEST PAIN.  BROUGHT TO ER AND WA FOUND TO BE HAVING BRBPR.  HCT ON ARRIVAL TO ER WAS 24.  AFTER 2 UNITS PRBC'S INCREASED TO 28.6. ALSO RECEIVED 2 UNITS FFP AND FACTOR 9. WAS HYPOTENSIVE ON ARRIVAL AND RESPONDED TO FLUID. [**Known patient lastname **] LAVAGE COFFEE GROUND 750 ML TILL CLEAR.PLAN IS TO MONITOR HCT, GOAL >30. FOR EGD IN AM OR TAGGED RBC'S IF BLEEDING AND POSSIBLE CATH.  CURRENTLY RECEIVING MOCOMYST FOR THIS.  IS NPO
+
+NEURO:  CALM AND COOPERATIVE,  SPEAKS CANTONESE AND UNABLE TO ASSESS ORIENTATION.CHEST PAIN FREE ON ARRIVAL, FOR EKG IN AM
+
+CV:  NORMOTENSIVE ON ARRIVAL. AND PACED RHYHM.  LAST TROP AT 0125 WAS 0.3.  FOR REPEAT Q12 HOURS X 2.  MAY NEED CATH LAB. BP MEDS ON HOLD SECONDARY TO HYPOTENSION. LABS PENDING, DRAWN ON ARRIVA TO FLOOR.  A 3RD UNIT OF PRBC'S WERE HUNG ON ARRIVAL TO FLOOR.  CHECK CRIT PSOT INFUSION.  [**Last Name (un) **] IN SLOW SINCE PATEINT HAS CARDIAC HISTORY.  TWO PERIPHERAL IV'S, PATENT.
+
+RESP:  LUNGS HAVE FINE CRACKLES TO RIGHT BASE, OTHERWISE CLEAR. ON RA. SP02 100%
+
+GU:  USING URINAL WITHOUT DIFFICULTY.
+
+GI: HAS RIGHT NGT, INPLACE. B SOUND PRESENT.  B SUGAR 353 ON ARRIVAL.  PATIENT NPO, 10 UNITS GIVEN, REGULAR GIVEN.  NO ABDOMINAL PAIN. 
+
+PLAN:  EGD/POSSIBLE RED CELL TAGGING IF ACTIVLY BLEEDING. 
+       POSSIBLE CATH, TO REMAIN NPO, MUCOMYST 
+       FOLLOW HCT AND TX IF <30. 
+       FOLLOW TROP I
+
+
+
+",,
+24190,23929,30048,0,3340-12-03 16:14:00 EST,3340-12-03 16:22:00 EST,2487,"N",69,"Nursing/Other",,"
+
+MICU NPN 0700-1930:
+
+  Events:  Pt scoped by GI this am, and there were no s/sx of active bleeding.  Hct stable at 30.5.  No further BRBPR.  Cardiac enzymes trending up, and pt appears to be ruling in for an MI.  Cardiology is following ([**Last Name (LF) **], [**First Name3 (LF) **], lopressir, imdur restarted).  Pt progressed to clear liquid diet.  Plan is to prep pt for colonoscopy tommorrow for lower endoscopy on Monday.
+
+  Neuro:  Pt a + o via translation of his son.  He has no c/o pain.  Pt is encouraged to indicate if he is experiencing any pain especially CP or SOB.  MAE strongly and pt has good mobility in the bed.
+
+  CV:  Afebrile.  Pt in v-paced, no ectopy.  BP stable.  Access remains 2 PIV (#18g, #20g).  Clot current in BB.  
+
+   Pulm:  No issues.  Pt on RA, Lungs CTA.  
+
+  GI:  Pt tollerating clear liquids without issue.  + flatus,  no stool.  No c/o abd pain or cramping.
+
+  GU:  Voids clear yellow in urinal.  QS.
+
+  Plan:  Hct and CPK check at 2100.  ? transfer to floor if pt remains stable.  
+",,
+24190,23929,30048,0,3340-12-04 05:41:00 EST,3340-12-04 05:59:00 EST,5600,"N",69,"Nursing/Other","Shift Note 1900-0700","
+Shift Note 1900-0700
+Events: Hct yesterday afternoon 30.5 and when re-checked at 1830 (27.9). Pt transfused with 2units PRBC's and given 250cc NS bolus d/t decreased BP. Lasix not given b/w units and patient monitored closely. BBS clear to auscultation and tolerated transfusion well with no noted complications. Hct sent prior to completion of 2nd unit, 35.2.
+
+CV: HR 70's, v-paced with no ectopy. BP stable 90-116/40-50's. PIVx2 intact. Pulses palpable. Hct 35.2, next hct drawn 1200 (transfuse for Hct >30). Cardiac enzymes also due at 1200 and to be collected until trending downward. EKG obtained this am. Pt priorly on warfarin, but stopped on wednesday d/t INR 4.9. To be restarted when patient stable for hx a-fib.
+
+Resp: Pt on RA with sats >97%. RR 13-25, easy/regular with no distress noted. 
+
+Neuro: Pt slept well through night, easily arousable. Speaks cantonese only, but has chart with word translation next to bed. Denies pain. 
+
+GI/GU: Abdomen soft, BS present. Pt on soft diet, but only took small amount of water with pills last night. Voiding in bedside urinal for 200cc every few hours. No BM this shift...no signs of active bleeding noted. Pt to have colonoscopy scheduled for monday. 
+
+Social: No family contacts overnoc. 
+
+Plan: Follow Hct, transfuse til >30. 
+      Cycle cardiac enzymes until trending downward
+      Observe signs of active bleeding
+",,
+24190,,,,3341-08-12 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3341-8-12**] 10:54 AM
+     CHEST (PA & LAT)                                                Clip # [**Clip Number (Radiology) 331**]
+     Reason: PRE-OP,ICD BATTERY CHANGE
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     PORTABLE CHEST ON [**3341-8-12**] AT 11:02
+     
+     INDICATION:  Preop for ICD battery change.
+     
+     The lungs are clear of infiltrate.  Some interstitial markings are seen at the
+     right costophrenic sulcus as has been noted before.  Pulmonary vascular
+     markings are unchanged.  The lateral view when compared to a prior film from
+     [**3340-9-15**], shows slight progression of a lower thoracic vertebral body
+     compression fracture.  Paravertebral soft tissue swelling to suggest that this
+     is acute.  Pacemaker hardware and wires remain identical in appearance.  Left
+     apical calcified pleural thickening also is unchanged.
+     
+     IMPRESSION:
+     
+     No change in the chest.
+     
+     There is loss of lower thoracic vertebral body height from compression
+     fracture compared to [**3340-9-15**].
+                                                                           
+
+",,
+24190,11238,30049,0,3343-05-20 06:38:00 EST,3343-05-20 07:03:00 EST,105,"N",69,"Nursing/Other",,"
+
+Nursing Admit Note
+    Received this 77 yr old male from the EW at 0530 with possible sepsis/rabdo after found by son laying on floor over nite unable to get up. Patient denies falling, slidding himself from bed to floor. Initial SBP in the EW in the 70's.. Initial lactate 3.5 ..Given one liter NS. Temp 100.8 given tylenol 650 mg. CK's found to be 3700 with trpn 1.06.  BUN/CRI 75/3.4 . BLD and urine cxs sent. Pre-cept cath placed via right IJ ..but code sepsis not declared. One dose levaquin given ..but ""red line "" noted above iv site once 
+ABX infused ( was given benadryl)
+
+PMHX 
+^ chol
+HTN
+DM type 2.
+CRI
+CHF
+EF 35%
+MOD MR
+S/P CABG
+Stent to LAD/D1 
+Afib on coumadin
+gout
+ICD placement
+
+Allergy
+shellfish/sulfa ( LAVAQUIN ) 
+
+Received patient at 0530. HR 70 paced ..SBP 100/50's..02 sat 100% on 2l NP. Patient seen and examined by Dr [**Last Name (STitle) 2150**]. At 0615, Sudden episode of rigors ..nailbeds blue..tachypneic. HR 110 paced ...Given 2mg iv MS04..followed by 50 mg Demerol and one liter NS wideopen. ABG drawn o n100% NRB 7.41/22/284/-[**6-29**]. Lactate up to 3.8. Of note left groin to inner thigh down to right calf area very warm to touch. Negative DVT to right calf in EW. 
+
+Profound Sepsis To be started on Sepsis Prtocal
+IV clindamycin to be given 
+Bld CXS and Repeat Labs to be drawn
+Admit Orders
+
+
+
+ 
+",,
+24190,11238,30049,0,3343-05-20 16:44:00 EST,3343-05-20 17:09:00 EST,5192,"N",69,"Nursing/Other","ficu nsg note: 7:00-19:00","
+ficu nsg note: 7:00-19:00
+this is a 77 y.o. cantonese speaking man adm [**3343-5-20**] from ew with possible sepsis/rabdo after found by son laying on floor overnight at home unable to get up. pt denies falling, stating he slid himself from bed to floor. initial sbp in er in 70s with lactate 3.5. was given 2lns in er, tempt 100.8, given tylenol 650mg, ck found to be 3700 with troponin 1.06, bun/cr 75/3.4. bld and urine cx were sent and presep cath was placed in r ij but code sepsis not declared. did receive one dose levaquin but ""red line"" noted above iv site-abx stopped and pt given benadryl. new levaquin allergy declared. pt also with pmh sig for htn, dm2, cri, chf, ef 35%, mod mr, s/p cabg, afib on coumadin, gout, icd placement. 
+
+this shift, received pt hypotensive in 80s-90s with very low u.o down to 6cc/hr. pt received another 3lns for a total of 5lns since adm with initial cvp of 4. was on neo transiently when sbp in 70s but weaned off by 1pm with map >60 and u.o. much improved >30cc/hr. had head and full spine ct without contrast to r/o abcess. awaiting final results. also had renal u/s which did reveal gallstones pt already had, awaiting final read.
+
+neuro: a&ox3 per dtr and son translating for pt. pt was a little foggy at the beginning of the shift as he had received morphine for r shoulder and left leg pain and demerol for rigors with good effect. pt still c/o pain in these areas but tolerable and refusing pain med for them. repositioned prn. 
+
+cv: hr ranging 80s-100s vpaced in afib with frequent pvcs. map currently >60 with sbp in 90s-100s. + pp via doppler. pt did appear cyanotic at lips, ext, face, feet most of morning despite stable abgs-see carevue for results. sp02 was hard to obtain most of shift. color improved t/o the day. cvp 4-18, presently 8.
+
+resp: lungs cta in upper airways, crackles at bases. sp02 now reading 100% by 4pm with cyanosis resolved. 100% nrb with 3.5 l nc was weand to 100% nrb and then now to 4lnc with s02 high 90s to 100%. sob resolved as pt did c/o sob this am. 
+
+gi/gu: abd soft, nt, +bs, maintained npo d/t resp status, given mouth swabs for comfort. no bm, foley patent draining much improved u.o. nowa >30cc/hr. renal u/s pending. renal team up to see pt, awaiting recs. 
+
+endo: started on insulin gtt at 1unit/hr. bld sugar slowing trending down to 80s-shut off, then dropped to 51. received [**12-18**] amp d50 and started on low maintenance ivf d5/12 at 30cc/hr. continue to monitor bld sugar q1hr and titrate gtt per protocol-see care vue for restart of gtt at 6pm.
+
+skin: l groin to inner thigh down to r calf area red and very warm to touch. negative dvt to r calf in ew. legs elevated on pillows for comfort. l aline with occas ooze under dsg, no active ooze presently.
+
+lines: r ij presep cath. 2 pivs patent, new l radial aline placed.
+
+social: son in to visit in am and dtr in to visit most of shift, both children translating for pt. 
+
+plan: continue to monitor bp, u.o. cvp, lactate, lytes, cbc, temp, f/u with micr data, iv abx, insulin gtt per protoco
+",,
+24190,11238,30049,0,3343-05-20 16:45:00 EST,3343-05-20 17:09:00 EST,5192,"N",69,"Nursing/Other","ficu nsg note: 7:00-19:00","
+ficu nsg note: 7:00-19:00
+(Continued)
+l with d5/12 at 30cc/hr, f/u with head and cspine ct results as well as renal u/s results. monitor level of comfort, monitor lle for increased redness, swelling, if lle cold or not dopplerable, notify surgery stat. f/u with repeat k draw-k 7.0 was grossly hemolyzed.
+",,
+24190,11238,30049,0,3343-05-21 02:22:00 EST,3343-05-21 02:30:00 EST,5273,"N",69,"Nursing/Other",,"
+
+Nursing Note: 1900-0700   pt full code
+
+Neuro: pt sleeping comfortably at present. alert when awake, oriented per family (able to translate). 650mg tylenol given for r shoulder pain. 
+
+CV: HR 75-90 V-paced/afib. ABP 85-115/50-60, MAP >60. troponin 0.6 -> 0.12, EKG done, pt not having chest pain. MD aware, no acute changes on EKG. afebrile tmax 97.7. Left leg continues to be swollen/red, elevated, + pulses via doppler.
+
+Resp: NC 4 L -> 2 L overnight, sats 96-98, lungs clear upper, crackles lower. tachypnec. 
+
+GI: abodmen soft, [**Known patient firstname **] bowel sounds, sips of water with meds. tolerating well. no BM.
+
+GU: foley output 30-60cc/hr clear amber.
+
+Endo: insulin gtt being titrated per BS. off at present for BS=81, will restart when >100.
+
+IV: right IJ TLC WNL, dressing changed overnight some oozing blood around site. right radial aline WNL. PIV x2.
+
+Skin: skin D/I, repostioned overnight, no active breakdown noted.
+
+Social: pts daughter and son in during evening, able to help translate for pt, updated with POC.
+
+Plan: continue to monitor pain and comfort level, cont to monitor resp status, vitals, urine output, labs. assessment ongoing.
+
+
+
+",,
+24190,11238,30049,0,3343-05-21 17:21:00 EST,3343-05-21 17:48:00 EST,5192,"N",69,"Nursing/Other","ficu nsg note: 7:00-19:00","
+ficu nsg note: 7:00-19:00
+this is a 77 y.o. [** **] speaking man adm [**3343-5-20**] from ew with possible sepsis/rhabdo after found by son laying on floor overnight at home unable to get up. pt denies falling, stating he slid himself from bed to floor. initial sbp in er in 70s with lactate 3.5, was given 2lns in er, temp 100.8, given tylenol, ck 3700 with elevated troponin, bun 75/cr 3.4. bld cx, urine cx sent, presep cath placed but code sepsis not declared. received one dose levaquin in er for ""red line"" noted treated with benadryl. also with sig. pmh for htn, dm2, cri, chf, ef 35%, mod mr, s/p cabg, afib on coumadin, gout, icd placement. 
+
+since in ficu, has received 5l ivf and transiently on neo. overnight stable bp but sbp down to 80s with map in 50s, cvp 4 requiring another liter ns with good effect with cvp up to 12 and map >60. sbp trending down in high 80s around 6pm-did receive 500cc ns with sbp in 100s, map >65.  new bleeding noted at r ij presep cath at beginning of shift with dry crusted areas surrounding the bleeding all contained under dsg. abd dsg placed over area with no new bleeding. stat inr drawn and was 11.9, repeat confirmed draw 14.4. pt received 10mg [**Known patient firstname **] vitamin k. repeat inr at 4pm 17.4. hct trending down from 38.8 to 36.2. clot sent. pt consented for possible need for blood products if hct drops further and if inr >20. next draw due at 8pm. 
+
+neuro: a&ox3 per dtr and son and [**Name2 (NI) **] interpreter. able to mae but r shoulder still very painful and not able to move much without hurting. did receive 650mg [**Known patient firstname **] tylenol for r shoulder pain with good effect. also having some l shoulder, neck and l leg pain but tolerable. pt with one new broken vertebrae seen on yesterday's spine ct. team consulted neurosurgery and awaiting their final recs.
+
+cv: hr ranging 70s-80s vpaced with no ectopy noted. +pp via doppler. 
+
+resp: lungs cta with crackles at bases in am. developed some wheezing later in am responding to albuterol and atrovent nebs. still with some tacypnea in high 20s but pt states breathing feels ok. sp02 ranging 97-100% on 2lnc. 
+
+gi/gu: abd soft, nt, +bs, no bm, tolerating cardiac diabetic diet. insulin gtt was restarted at 7am for bs 119 for tight control but stopped by 10am when team felt pt could switch to sliding scale. bicarb was down to 13 and was treated with a liter of 3 amps of bicarb in d5w. bld sugar was up to 336 with dinner as pt now eating well. pt given 8 units regular insulin with dinner-eating presently. voiding marginal to adequate amts yellow urine now with small amt sediment. u.o. picking up with fluid boluses. 
+
+skin: l groin to inner thigh down to r calf area red and very warm to touch. no increased area.
+
+plan: continue to monitor cbc, coags q4hrs with next draw due at 8pm. ffp if inr >20, may need prbc if hct drops sig., monitor cvp, u.o., nebs q6hrs, f/u with neurosurg recs re: new broken vertebrae and r shoulder that is very weak and painful with limited movement. qid fs with ssri. 
+
+",,
+24190,11238,30049,0,3343-05-22 02:01:00 EST,3343-05-22 02:30:00 EST,5273,"N",69,"Nursing/Other",,"
+
+Nursing Note: 1900-0700   pt full code
+
+Neuro: pt sleeping comfortably at present. when awake pt is alert, [**Last Name (un) 39**], cooperative, and appears oriented per non english speaking ([**Last Name (un) **]). pt follows commands. pt c/o pain in r shoulder and left leg. pt has compression fx of thoracic vertibrae, neurosurgery recommened no treatment at present, but to keep pt as flat as possible. 650mg tylenol given overnight for pain. pt has x-ray of r shoulder and chest done tonight in radiology.
+
+CV: HR 75-85 v-paced w/ underlying afib, no ectopy. ABP 85-110/45-55, MAP >60. CVP 10-15. afebrile. conts swelling and edema in left lower leg, surgery following. extremity warm to touch, and + pulses per doppler. continues coagulopathy w/ increased bleeding time/INR (see careview), lowered HCT. received 2 units FFP and 5mg IV Vit. K overnight. no signs of active bleeding noted aside from oozing from central line site.
+
+Resp: sats 97-100 on 2L NC, lungs coarse to clear upper, crackles lower bases, tachypneac. received nebs via RRT r/t some noted exp wheezing. occ. N/P cough. 
+
+GU: foley output adequate (approx 50cc/hr), clear amber.
+
+GI/Endo: abd soft, [**Known patient firstname **] bowel sounds, no BM. ate large portion of dinner last evening. on insulin sliding scale, received 2 units reg overnight.
+
+Labs: see above r/t coagulopathy, last acetominophen level yesterday was 42, reported to MD and will be repeated wtih AM labs along with LFTs.
+
+IV: right IJ TLC dressing bloody, old blood noted w some oozing. dressing reinforced. left radial aline site WNL. PIV's x2.
+
+Skin: full bath given overnight, skin appears intact aside from swelling in left leg. no breakdown noted.
+
+Social: pts son and daughter involved in care and assist with translating. no calls overnight. phone numbers on white board.
+
+Plan: - cont to monitor for S/S of active bleeding r/t coagulopathy, cont to monitor vitals, resp status, labs. assess for pain and discomfort. assessment ongoing.
+
+
+
+
+",,
+24190,11238,30049,0,3343-05-22 04:39:00 EST,3343-05-22 04:42:00 EST,9153,"N",69,"Nursing/Other","RESP CARE NOTE","
+RESP CARE NOTE
+PT ON 2L NASAL CANNULA OVERNIGHT WITH GOOD SATS.  ALB/ATR SVN GIVEN Q6.  BREATH SOUNDS DIMINISHED AT BASES BILAT BUT OTHERWISE CLEAR PRE RX.  POST RX INCREASED AERATION WITH FAINT EXP WHEEZES.  NO RESP DISTRESS NOTED.
+",,
+24190,11238,30049,0,3343-05-22 16:37:00 EST,3343-05-22 17:04:00 EST,8179,"N",69,"Nursing/Other",,"
+
+Mr. [**Known patient lastname **] is a 70 year old [**Known patient lastname **] speaking male with history of CAD s/p CABG [**36**], MI [**39**] with pacemaker. admitted to MICU from ED with diagnosis of sepsis, BP dropped 70's, temp spike 100.8, s/p fall ? sunday night and was found down last monday by patient's son. cellulitis LLE, increasing weakness and extreme pain as well. off of Phenylephrine  since [**5-20**] BP stable.
+
+Neuro: alert and oriented x 3 with interpreter at bedside ( patient's children serve as interpreter ) patient speaks and understands little English. Shoulder and LLE pain upon movement, denies it when resting. Given Oxycodone 2.5 mgs [**Known patient firstname **] x 1 for R shoulder pain. Xray done to R shoulder, elbow and wrist, no fracture per result. R shoulder revealed rotator cuff thinning and tearing. orthro following patient, unable to do shoulder tap due to increased INR. ? of hemathrosis. T11 compression fracture, maintained on supine position, reverse trendelenberg during meal's. patient tolerates position, logrolled when turned. no pain at is back per pateint's daughter during assessment. For ventriculoplasty per IR, not until patient's INR is wnl.
+
+CV: V-paced with underlying afib with rare ectopy, hemidynamically stable. pedal pulses dopplerable, +2 edema LLE and RUE. LLE still warmer to touch than R, + sensation. denies chest pain. RIJ dressing changed, no bleeding noted so far. A-line and PIV's wnl. Aspirin dc'd. pneumoboots on RLE only.
+
+Respi: occasional exp wheeze relieved with albuterol and atrovent [**Doctor First Name **] treatment q 6hrs, occasional non-productive cough, denies SOB, team noticed patient is not on labored breathing than yesterday. sats > 95% at 2 lpm via nc, lung sounds clear, crackles at bases with exp wheeze intermittently.
+
+GI: appetite fair at meals due to position limitation secondary to keep supine per ortho ( compression fracture T11) had soup and bread for lunch and oatmeal and eggs at breakfast. bowel sounds present, no BM this shift.
+
+GU: renal is following patient, CO2 increasing, patient started on NaBicarb drip @ 125cc/hr for 1L only per renal recs. +7.6 L for LOS and 700cc since MN, urine clear yellow, specimen sent for lytes study. BUN and crea trending down. K and Mg repleted, latest 3.9 and 3.8 respectively. Another 20 mEq of KCl given 1600. Next lytes @ 2000
+
+Heme: INR and coags trending down. see careview for details
+
+Endo: on RISS, no coverage given, no s/s of hypoglycemia
+
+ID: afebrile, no chills. Vanco dc'd. Vanco Level 25.1 [**12-18**] of blood culture sent, due for another one with pm lytes.
+
+Social: patient's children involved with care, help as interpreter. Both son and daughter spoke with team regarding plan of care and latest update on pateint's condition.
+",,
+24190,11238,30049,0,3343-05-22 17:36:00 EST,3343-05-22 17:46:00 EST,8179,"N",69,"Nursing/Other",,"
+
+plan: 
+
+ventriculoplasty with IR pending till coags wnl; maintain on supine position, logroll with turning; check lytes at 2000, replete as needed. monitor v/s, i/o; oxycodone q4-6hrs for pain; continue neb treatments; NaBicarb drip stopped 1845 with FS 259 as 1830; on aspiration precaution.
+",,
+24190,11238,30049,0,3343-05-23 01:58:00 EST,3343-05-23 02:00:00 EST,1154,"N",69,"Nursing/Other",,"
+
+Resp: Pt rec'd on 2 lpm n/c. Bs reveal bilateral exp wheeze. Nebs ordered and administered alb/atr with noted improvement. Will continue to follow. 
+",,
+24190,11238,30049,0,3343-05-23 03:13:00 EST,3343-05-23 03:31:00 EST,5273,"N",69,"Nursing/Other",,"
+
+Nursing Note: 1900-0700  pt full code
+
+Neuro: pt AAOx3, [** **] speaking only, oriented per family/translator. pt cooperative with care, communicates non verbally. c/o pain in r shoulder/LLE, received 5mg [**Known patient firstname **] oxycodone prn overnight, good effect, pt sleeping comfortably at present. pt in reverse t-[**Doctor Last Name **] and supine r/t compression fx of vertibrae, logrolled when turned.
+
+CV: HR 75-90 V-paced with underlying a-fib, no ectopy. ABP 110-130/50-60. CVP 7-11. last temp 99.9. swelling/redness continues in LLE, + distal pulses via doppler. generalized edema. compression sleeves on right leg only. coagulopathy improving, last INR = 1.5, no signs of bleeding noted.
+
+Resp: sats 96-100 on 2L NC. LS clear bilat at start of shift, overnight pt became SOB w/ insp/exp wheezes bilaterally during bed bath w pt flat, albuterol neb given by RRT, wheezing/SOB improved. occasional N/P cough. 
+
+GU: 20mg lasix given overnight, diuresed well. urine output adequate, clear yellow (see careview)
+
+GI/Endo: abd soft, [**Known patient firstname **] BS, no BM. on RISS, received insulin coverage overnight.
+
+IV: right IJ TLC WNL, tubing and caps changed overnight, dressing intact. left radial aline WNL, tubing changed overnight. PIV's x2.
+
+Skin: pt fully bathed overnight. no active skin breakdown noted. 
+
+Social: pts family in to visit earlier in evening.
+
+Plan: continue to monitor resp status, vitals, labs. continue to assess for pain and discomfort. cont to provide emotional support and updates on POC to pt/family. assessment ongoing.
+
+
+",,
+24190,11238,30049,0,3343-05-23 14:00:00 EST,3343-05-23 14:28:00 EST,8179,"N",69,"Nursing/Other",,"
+
+Mr. [**Known patient lastname **] is a 77 year old [**Known patient lastname **] speaking with history of CAD, Afib on coumadin, s/p CABG and pacemaker insertion; brought to ED by son after found down for undetermined time, noted to have mental status change; placed on sepsis protocol, hypotensive and spiked temp at ED; Neosynephrine dc'd [**5-21**], hemodynamically stable. cellulitis LLE, R shoulder pain, unable to range, negative for fracture. 
+
+Neuro: alert and oriented x 3 per family/interpreter; unable to range RUE due to pain, received oxycodone 5 mgs x 1 with relief. denies pain at rest, moderate pain upon movement, non-tender. grimaces to pain; logrolled during turning, maintain flat on bed; reverse trendelenberg with head elevated [**4-25**] degree during meals; TLSO brace measurement done, will be available tomorrow afternoon; IR following patient, vertebroplasty no indicated at the moment, no pain noted during assessment of spine; able to lift bilateral lower extremeties, + csm
+
+Respi: on albuterol and atrovent neb treatment q6hrs, lung sounds clear, no wheezing. occasional non-productive cough. sats >95% at 2 lpm, denies shortness of breath.
+
+CV: hemodynamically stable V-paced with underlying afib. pedal pulses dopplerable, +2 edema LLE and +1 @ RUE, coumadin and aspirin still on hold, digoxin continues
+
+GI/GU: tolerating cardiac diabetic diet, not aspirating with position. bowel sounds present, no bowel movement noted. diuresed with 20 mgs of Lasix, goal -500 today. putting out clear yellow urine ~ 90-220 cc/hr post lasix. received 20 mEq of KCl, repeat lytes @ 1600. 
+
+Endo: on RISS, coverage given for FS 204 at 1200
+
+ID: day 4 of clindamycin and ceftriaxone for LLE cellulitis, Tmax 99.6; RLE still warm to touch, swelling resolving, tender and red. 
+
+Social: patient's son in for visit, aware of plan of care and possible transfer to floor once with available bed.
+
+plan:
+
+TLSO brace placement in am; monitor lytes; oxycodone and tylenol for pain management of R shoulder; continue antibiotics; keep flat on bed, reverse Trendelenberg with meals, logroll when turned; albuterol and atrovent nebs; monitor i/o's keep - 500cc goal; transfer out once with available bed
+",,
+24190,11238,30049,0,3343-05-24 03:45:00 EST,3343-05-24 04:00:00 EST,1008,"N",69,"Nursing/Other","MICU/SICU NPN ICU day #5","
+MICU/SICU NPN ICU day #5
+Uneventful night
+
+S/O:
+
+Neuro: pt is alert, oriented per daughter, right arm painful to touch but pt denies pain and refuses pain medication
+
+Pulm: LS CTA, SpO2 98-100% on 2L NP
+
+CV: AVSS please see flowsheet for data
+
+GI/GU: fair appetite, tolerting [**Known patient firstname **]s well, Foley patent for clear yellow urine in adequate amts
+
+Access: PIV x2, right IJ PreSept cath
+
+A:
+
+high risk for infection r/t indwelling catheter, invasive line
+impaired mobility r/t pain, fractures
+
+
+P:
+
+transfer to medical bed when available, activity progression after TLSO arrives, begin screening for [**Hospital1 **]/rehab
+",,
+24190,11238,30049,0,3343-05-24 04:17:00 EST,3343-05-24 04:18:00 EST,1154,"N",69,"Nursing/Other",,"
+
+Resp: Pt on 2 lpm n/c and maintaining good sats @ 98%. BS reveal occasional wheeze. Nebs adminisered Q6 hrs alb/atr with no adverse reaction. Will continue to monitor and treat.
+",,
+24190,11238,30049,0,3343-05-24 14:46:00 EST,3343-05-24 14:59:00 EST,8179,"N",69,"Nursing/Other",,"
+
+events:
+
+* shoulder tap by othro - obtained from joint space pus drainage, sent   to labs for culture and cell differential study
+
+* TLSO brace fitted and worn without problem
+
+
+neuro: alert and oriented x 3 with interpreter, oxycodone 5mgs for shoulder pain. patient can be off flat position per house staff, now that brace is on. logrolls when turned, able to range all extremeties except RUE, very tender and swollen.  
+
+respi: satting >95% at 2 lpm, lung sounds clear, no wheezing noted. 
+
+cv: hemodynamically stable, AV paced with underlying afib, continues on digoxin, coumadin and aspirin still held. pedal pulses weakly palpable. 
+
+gi/gu: tolerating [**Known patient firstname **], bowel sounds present, non BM so far. diuresed with 20 mgs of Lasix IV, responded well; goal negative 1L today. patient has been 6L positive for LOS.
+
+ID: continues on clidamycin and ceftriaxone. Tmax 98.8 LLE still red and swollen, tender to touch. 
+
+endo: on RISS, coverage given for FS 174-204
+
+social: daughter in and stayed during mealtime. serves as interpreterfor patient; waiting for available bed.
+
+",,

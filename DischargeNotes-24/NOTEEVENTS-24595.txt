@@ -1,0 +1,339 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+24595,7804,,,3306-09-06 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+ 
+ 
+ 
+Admission Date:  [**3306-9-6**]              Discharge Date:   [**3306-9-8**]
+ 
+Date of Birth:  [**3231-4-3**]             Sex:   M
+ 
+Service: NMED
+ 
+Allergies: 
+No Drug Allergy Information on File
+ 
+Attending:[**First Name3 (LF) 217**] 
+Chief Complaint:
+Left sided weakness, slurred speech.
+ 
+Major Surgical or Invasive Procedure:
+Intubation and mechanical ventilation.
+ 
+History of Present Illness:
+Patient is a 75 year old right handed male with past medical 
+history of coronary artery disease s/p NQWMI [**12-21**], s/p LAD 
+angioplasty and stent [**3-21**], dementia, hyperlipidemia, aortic 
+stenosis, atrial fibrillation on coumadin who presented from his 
+eye doctor's office wtih acute onset left sided weakness and 
+dysarthria. Patient was in his usual state of health until 
+around 12:15 on day of admission. Was at this doctor's office 
+and complained of severe headache. Thereafter, wife noted 
+development of left sided weakness, facial droop, slurring of 
+speech. Sent to [**Hospital1 25**] for evaluation emergently.
+
+ED course: Arrived at [**Hospital1 25**] at 12:30. Finger stick blood glucose 
+120. Rest of vitals BP 112/70, HR 60. Blood pressure up to 230s 
+systolic. Seen emergently by stroke team. Initial NIH stroke 
+scale of 33. Head CT showed large right intracerebral 
+hemorrhage. Intubated for airway protection at 13:35 after 
+Fentanyl, Etomidate, Vecuronium and Succhinylcholine given. 
+Started on Labetalol and then Nipride drip for BP control; 
+discontinued as goal BP in 130-160s. Received 10 mg SC Vitamin K 
+and 2 units FFP while in ED. Pupils noted to be fixed and 
+dilated at 14:10. Loaded with Dilantin and 50 grams Mannitol. 
+Transferred to intensive care unit.
+
+ 
+Past Medical History:
+1. Atrial fibrillation, on coumadin
+2. Coronary artery disease status post NQWMI [**12-21**], s/p LAD 
+angioplasty and stent [**3-21**]. Known non-dominant 90% RCA lesion 
+not intervened upon.
+3. Dementia
+4. Mild-moderate aortic stenosis
+5. Hyperlipidemia
+6. Colon cancer
+7. Obstructive [**Doctor Last Name 209**] apnea
+8. Anxiety
+9. Diabetes mellitus, on oral medications
+
+ 
+Social History:
+Married. Lives with wife. One son, in area. Social alcohol. No 
+tobacco, drug use. 
+
+ 
+Family History:
+Non-contributory.
+ 
+Physical Exam:
+PHYSICAL EXAM (Examined off of Propofol):
+Tc: 96.7   BP: 120/48    HR: 61      RR: 14        O2Sat.:  
+100%, ventilated.
+Gen:  WD/WN male, comfortable appearing, intubated, not sedated.
+HEENT:   NC/AT. Anicteric. MMM. +Endotracheal tube.
+Neck:  Supple. No masses or LAD. No JVD. No thyromegaly. No 
+carotid bruits.
+Lungs: Coarse breath sounds anterolaterally.
+Cardiac:  Irregularly irregular. S1/S2. No M/R/G.
+Abd:  Soft, NT, ND, +NABS. No rebound or guarding. No HSM.
+Extrem: Warm and well-perfused. No C/C/E.
+
+Neuro:
+Mental status: No response to voice, sternal rub. Grimaces to 
+nasal tickle.
+
+Cranial Nerves: Pupils fixed at 7mm bilaterally. Very weak 
+flicker of inner canthus on left with corneal stimulation. No 
+oculocephalic reflex. Left facial droop. No gag provoked, but 
+biting ETT at times. Tongue midline. 
+
+Motor: Normal bulk. Increased tone x4 with LEs>UEs. No 
+withdrawal to noxious stimuli. Bilateral feet externally 
+rotated.
+
+Sensation: No withdrawal to noxious stimuli.
+
+Reflexes: Absent in LUE, left ankle. Striking left patellar 
+tendon results in sustained clonus of left leg. Toes upgoing 
+bilaterally. [**12-23**] RUE, absent right ankle.
+
+Coordination: Unable to assess.
+
+Gait: Unable to assess.
+
+ 
+Pertinent Results:
+[**3306-9-6**] 12:39PM   WBC-9.1 RBC-4.29* HGB-14.1 HCT-38.7* MCV-90 
+MCH-32.8* MCHC-36.4* RDW-14.7
+[**3306-9-6**] 12:39PM   PLT COUNT-147*
+[**3306-9-6**] 12:39PM   PT-20.0* PTT-32.4 INR(PT)-2.5
+[**3306-9-6**] 12:39PM   GLUCOSE-101 UREA N-25* CREAT-1.0 SODIUM-142 
+POTASSIUM-4.2 CHLORIDE-106 TOTAL CO2-27 ANION GAP-13
+[**3306-9-6**] 12:39PM   CK(CPK)-200*
+[**3306-9-6**] 12:39PM   cTropnT-<0.01
+[**3306-9-6**] 12:39PM   CK-MB-7
+[**3306-9-6**] 09:45PM   CK(CPK)-196*
+[**3306-9-6**] 09:45PM   CK-MB-3 cTropnT-<0.01
+[**3306-9-7**] 03:30AM BLOOD CK(CPK)-312*
+[**3306-9-7**] 03:30AM BLOOD CK-MB-5 cTropnT-<0.01
+[**3306-9-6**] 01:55PM URINE  BLOOD-SM NITRITE-NEG PROTEIN-100 
+GLUCOSE-NEG KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-6.5 
+LEUK-NEG
+
+[**3306-9-7**] 11:16AM BLOOD ASA-NEG Ethanol-NEG Acetmnp-NEG 
+Bnzodzp-NEG Barbitr-NEG Tricycl-NEG
+[**3306-9-7**] 10:17AM URINE bnzodzp-NEG barbitr-NEG opiates-NEG 
+cocaine-NEG amphetm-NEG mthdone-NEG
+
+CT head without contrast [**3306-9-6**]: FINDINGS: There is a large 
+region of high attenuation within the right frontal lobe and the 
+region of the right basal ganglia. This is consistent with 
+intraparenchymal hemorrhage, more likely hypertensive in 
+etiology. No significant subarachnoid or intraventricular 
+hemorrhage is appreciated. There is mass effect present with 
+shift of the normally midline structures towards the left. There 
+is also left sided subfalcine herniation. There is no 
+hydrocephalus. The visualized osseous structures and paranasal 
+sinuses are unremarkable. IMPRESSION: Large intraparenchymal 
+hemorrhage within the right frontal lobe. This most likely 
+relates to hypertensive hemorrhage, as opposed to a ruptured 
+right middle cerebral artery aneurysm.
+ 
+Brief Hospital Course:
+Patient was a 75 year old right handed male with past medical 
+history of atrial
+fibrillation on coumadin, coronary artery disease, 
+hyperlipidemia, dementia with sudden onset left sided weakness, 
+dysarthria. Head CT demonstrated a large right intracerebral 
+hemorrhage, centered around basal ganglia and putamen. We felt 
+this was likely secondary to hypertension. While still in the 
+emergency department, he had rapid decompensation necessitating 
+intubation for airway protection. Examination post intubation 
+but off intubations showed clinical evidence of elevated 
+intracranial pressure and brainstem compression. The overall 
+prognosis was guarded. He was admitted to the 
+Neurology/Neurosurgery ICU.
+
+He was loaded with Mannitol and Dilantin in the emergency room. 
+He was evaluated by the Neurosurgery service and they did not 
+feel a surgical intervention or ventriculary drain was 
+warranted.  After arrival in the ICU, patient was followed with 
+neuro checks every 1 hour. Sedation was held to allow for 
+frequent exams. Head of bed was kept at 30 degrees. Labetalol 
+continuous infusion was titrated for systolic blood pressure of 
+130-160. Mannitol and Dilantin were continued. After lengthy 
+discussion, the patient's wife opted to make him DNR on 
+afternoon of [**3306-9-6**].
+
+Overnight, fresh frozen plasma was given for goal INR of <1.4. 
+On serial exams by neurology and ICU attendings in the morning 
+on [**3306-9-7**], patient had no clinical signs of brainstem 
+activity. Namely, he was unresponsive. Pupils were fixed and 
+dilated. No corneal, gag, oculocephalic, and oculovestibular 
+reflexes were elicited. He was not overbreathing his ventilator. 
+At this point, patient was felt to have clinical signs 
+consistent with brain death. Plans were made to proceed with 
+apnea testing. However, after discussion with patient's wife, 
+this was postponed with test planned on [**3306-9-8**]. Full medical 
+care and managment continued overnight [**Date range (1) 5679**].
+
+At approximately 06:00 on [**3306-9-8**], the patient became 
+bradycardic. He lapsed first into a junctional rhythm and then 
+had very infrequent ventricular escape beats on telemetry. 
+Finally, he went asystolic. He was not resuscitated as per 
+previous conversations with his wife. He was pronounced dead at 
+06:59 am. The patient's wife was notified. The attending was 
+notified as well. 
+ 
+Medications on Admission:
+1. Coumadin
+2. Lipitor
+3. Toprol XL
+4. ASA
+5. Zoloft
+6. Glucophage
+7. Aricept
+8. Namenda
+9. Artificial Tears
+
+ 
+Discharge Medications:
+Not applicable.
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+Patient deceased.
+ 
+Discharge Diagnosis:
+Not applicable; patient deceased. 
+ 
+Discharge Condition:
+Not applicable.
+ 
+Discharge Instructions:
+Not applicable.
+ 
+Followup Instructions:
+Not applicable.
+ 
+                             [**Name6 (MD) **] [**Name8 (MD) **] MD, [**MD Number 225**]
+ 
+Completed by: [**First Name11 (Name Pattern1) 1171**] [**Last Name (NamePattern4) 1565**] MD [**Last Name (un) 1566**] [**3306-9-10**] @ 1413
+Signed electronically by: DR. [**First Name (STitle) **] [**Name (STitle) **]
+ on: MON [**3306-9-13**] 10:06 AM
+(End of Report)
+
+
+",,
+24595,7804,30543,0,3306-09-06 19:37:00 EST,3306-09-06 19:40:00 EST,2235,"N",69,"Nursing/Other",,"
+
+RESPIRATORY CARE: PT ADMITTED TO MICU-A
+FROM ER. INTUBATED AND PLACED ON VENTILATORY
+SUPPORT AFTER LARGE HEAD BLEED. MINIMAL TO
+NO COUGH OR GAG REFLEX BUT DOES MAKE SOME
+RESPIRATORY EFFORTS.
+
+",,
+24595,7804,30543,0,3306-09-07 02:48:00 EST,3306-09-07 02:51:00 EST,2183,"N",69,"Nursing/Other",,"
+
+Resp Care Note:
+
+Pt cont intub with OETT and on mech vent as per Carevue. Lung sounds ess clear suct sm loose clear sput. Pt without gag or cough. O2 sat/RR/Vt stable; no vent changes overnoc. Cont mech vent support.
+",,
+24595,7804,30543,0,3306-09-07 04:11:00 EST,3306-09-07 04:31:00 EST,2696,"N",69,"Nursing/Other",,"
+
+7p to 7a Micu Progress Note
+
+Neuro - Pt unresponsive. No gag or corneal reflexes. Initially posturing, now no movement noted. Rx with mannitol iv 20% 20 gms iv q 6hrs and 100 mg dilantin iv q 8hrs. Dilantin level 10.8 this am. 
+
+C-V - HR 55 - 85 afib. NBP 130-160/50-80. Goal SBP 130-160. cardiac enzymes being cycled. CPK 312 this am with MB pend.
+
+Resp - Remains intubated and vented on AC 700 x 14 x 5, fio2 decreased 40%. RR 14, pt not overbreathing the vent. 02 sat continuously 100%. LS coarse, diminished at bases. Sx for scant amt thin clear secretions. 
+
+GI - NPO. Abd soft. Smear of stool. Hypoactive BS. Protonix administered.
+
+Heme - Pt transfused 2 units FFP at onset of shift. Repeat INR at 2200 was 1.6. An additional 2 units FFP were administered without incident. Repet INR this am 1.3. PT 14.4 PTT 26.8. Hct 34.6.
+
+F/E - Pt diuresing 300-400ccs/hr via foley catheter as he has been receiving mannitol. Na 152 and serum osm 331 this am. IVF increased - 1/2 NS at 150ccs/hr. MD to further assess labs and plan of rx.
+
+ID - Pt febrile to 102.8. Tylenol given by previous shift and pt pan cultured. WBC 9.4. Temp now 97.4 rectally. Currently not receiving any antibiotic rx. 
+
+Social - Wife called - understandably very upset about husband's situation. States she will be in to see him this am.
+
+A+P - Continue to assess neuro function. Monitor f+e status closely. Emotional support to wife. Plan is to meet with social service today - ? discuss withdrawing treatment. Pt is DNR, no pressors, compressions or cardioversion. 
+
+
+",,
+24595,7804,30543,0,3306-09-07 05:16:00 EST,3306-09-07 05:18:00 EST,2696,"N",69,"Nursing/Other",,"
+
+Addendum - K 3.5. IVF changed to D5W with 20 meq kcl iv at 75ccs/hr. 
+",,
+24595,7804,30543,0,3306-09-07 16:38:00 EST,3306-09-07 17:03:00 EST,5283,"N",69,"Nursing/Other","MICU Nursing Progress Note 7A-1900","
+MICU Nursing Progress Note 7A-1900
+General: Pt is now completely unresponsive and having no response. Absent reflexes.  Pupils fixed and dilated at 5mm.  Protocol for brain death started today.  Wife is very distraught over pts condition and is very overwhelmed.  She left today not feeling well and we will hold off until tomorrow am for official apnea test.
+
+Pt hypothermic this am at 95.0 oral/axillary/rectal.  For brain death protocol/apnea test pt needs to have temp above 97.0.  Bear hugger applied and is at lowest setting to maintain temp above 97.0.  Monitoring temps Q1hr.
+
+Neuro:  Unresponsive.  Pupils fixed and dilated at 5mm.  Does not have any mvmt.  Dilantin continues.  Mannitol on hold today for serum osm of 348 and sodium of 160.  Parameters set in MAR.  Serum osms and sodium to be drawn 1 hour previous to dose, to see if need to hold. 
+
+Resp:  A-Line placed for easy ABG retrieval.  Official apnea test on hold until tomorrow am.  Gas to be obtained between 6-7am.  Vent settings AC 650x10/peep 5/100%Fio2.  Not initiating own breaths.
+
+CV:  BP slowly decreasing today.  Goal MAPS above 60, pts DNR status does not allow for pressors.  HR now 80-100, afib, no ectopy noted.
+
+GI: OG tube clamped, hypoactive BS, no stool this shift.
+
+GU:  Urine output at beginning of shift 200-400/hr.  Now has dropped off to 80/hr.
+
+Endo: RISS in place, no cvg needed.
+
+Social:  Wife in most of day, very distraught, not feeling well.  Social work ([**First Name5 (NamePattern1) **] [**Last Name (NamePattern1) 4780**]) working very closely with pt as her supports are limited.  PT and [**Doctor Last Name **] request she is paged when pt arrives and during any meetings with team.
+
+Plan:  Support and comfort to wife.
+       Apnea test in am, ABG between 6 am-7am.
+       Monitor overnight
+       DNR status continues with no pressors, no compressions, no cardioversion.
+       SErum osms and sodium 1 hour before mannitol doses.
+       
+  
+",,
+24595,7804,30543,0,3306-09-07 17:49:00 EST,3306-09-07 17:51:00 EST,5250,"N",69,"Nursing/Other",,"
+
+Respiratory Therapy
+Pt remains intubated and on full mechanical support.  See resp flowsheet for specific vent data/changes.  BS slightly coarse; suctioned for small amounts of thick, creamy sputum.  Plan is to perform apnea test in the AM.  Will follow.
+",,
+24595,,30543,0,3306-09-08 03:38:00 EST,3306-09-08 03:40:00 EST,2183,"N",69,"Nursing/Other",,"
+
+Resp Care Note:
+
+Pt cont intub with OETT and on mech vent as per Carevue. Lung sounds sl coarse suct sn loose white sput. No vent changes made overnoc. Cont mech vent support.
+",,
+24595,,30543,0,3306-09-08 04:47:00 EST,3306-09-08 05:00:00 EST,5571,"N",69,"Nursing/Other",,"
+
+Progress Note 7p-7a
+
+Patient had suffered a ICH on the [**12-6**] with herniation. Is currently DNR. Will have apnea test this am to determine official brain death. 
+
+Neuro:  Unresponsive, pupils fixed and dilated. No response to pain. No sedation.  For apnea test today. No mannitol given overnight since Na and osmolality high 
+
+CV: Since patient is currently DNR, hypotension that started late in day shift has been treated with D5 boluses, 500ml.  Received 2 at beginning of shift and maintained goal MAP 60 overnight but begain to drop again about 0400.  Currently the 4th bolus is infusing with little effect. HR:  AFib, rate slowing increasing overnight now 115-120, increasing to 135 at times. Receiving D5w with 20 KCL at 150/hr, cont. Temp stable at 97-99, goal >97.  Still has bear hugger insitu.
+
+Resp:  AC 10/650/5/40%.  Will be doing 0600 ABG and change vent setting for CO2 40-47 for apnea test as per protocol.  Lungs diminished, minimal suctioning
+
+GI:  No feeding, OGt in place.  BS present.  No BM.
+
+GU:  Becoming oliguric since 0400, 16-18 ml/hr, but for remainder of the night was 46-60. 
+
+Skin intact
+
+Social:  Wife is shocked and devestated about the quick detoriation of her husband.  She wants to have the social worker with her when the doctors give [**Name5 (PTitle) **] the results of the apnea test today. She will be in about noon.  THer son may be making the trip from NH as well.  She has requested an autopsy
+ 
+",,
+24595,,30543,0,3306-09-08 06:35:00 EST,3306-09-08 06:45:00 EST,5571,"N",69,"Nursing/Other",,"
+
+Progress Note 0430-0700
+
+Patient's BP was noted to be dropping below MAP 60 at 0430.  Orders obtained for fluid bolus with minimal effect, map ranging from 57-62.  Another bolus of D5w 500 ml was given over 30 mins at 0540 and patient maintained MAP around 60.  HR stable, Afib 115-120. Patient has DNR status and fluids to be used for hypotension. Dr [**Last Name (STitle) 2756**] on rounds at bedside at 0635 and just after this patient started to become increasingly hypotensive with bp rapidly dropping to 50-60 systolic.  Another fluid bolus was started with no effect. Calcium gluconate 1 gram iv started. Patient continued to become hypotensive and bradycardic and eventually expired at 0700. Death pronouced by DR [**Last Name (STitle) 2756**].  See Care Vue for objective data 
+",,

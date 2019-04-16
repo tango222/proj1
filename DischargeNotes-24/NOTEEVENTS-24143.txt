@@ -1,0 +1,380 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+24143,976,,,2653-07-31 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+
+
+Admission Date:  [**2653-7-31**]     Discharge Date:  [**2653-8-10**]
+
+Date of Birth:   [**2577-5-18**]     Sex:  M
+
+Service:  CCU
+
+ADDENDUM:  This is an addendum to a Discharge Summary dated
+up to [**2653-8-4**].
+
+HOSPITAL COURSE:  Please add:
+1.  Nonsustained ventricular tachycardia:  On [**8-7**], the
+patient had a 25 beat course of nonsustained ventricular
+tachycardia which was asymptomatic and not associated with
+hemodynamic instability, however, non-sustained ventricular
+tachycardia seven days post myocardial infarction is
+suspicious for a re-entrant circuit present in the conduction
+system, which is a poor marker for long-term cardiovascular
+function and indicates possible risk for sudden death.
+Therefore, after the patient's INR was corrected to 1.6 with
+Vitamin K which was given subcutaneously, the patient was
+taken to the Electrophysiology Service laboratory on [**2653-8-9**], to be evaluated for defibrillation and AICD placement.
+
+The patient was taken to the Electrophysiology Service
+Laboratory and found to be inducible for ventricular
+tachycardia which indicated that he had a re-entrant circuit
+and he had an AICD placed successfully without
+complications.  The patient was restarted on Coumadin after
+the procedure for prophylaxis from cerebrovascular accident
+as a result of his atrial fibrillation.  His INR, however,
+was subtherapeutic prior to discharge and he was therefore
+given subcutaneously Lovenox to cover him for atrial
+fibrillation prophylaxis.  This was to be given until his INR
+became therapeutic which would be in the range of 2.0 to 3.0.
+
+2.  Endocrine:  The patient's fingerstick blood glucoses
+remained in the range of 120 to 140 throughout the rest of
+his hospitalization and he was not started on an oral
+hypoglycemic [**Doctor Last Name 978**] at this time, however, due to his
+regularly elevated blood glucoses, he should be considered
+for an oral hypoglycemic [**Doctor Last Name 978**] to be started on an outpatient
+basis with proper surveillance of his sugars.  It will not be
+started at this time due to the possibility of medication
+induced hypoglycemia with a newly started [**Doctor Last Name 978**].
+
+3.  Pressure Ulcers:  The patient developed decubitus ulcers
+on his upper back noticed on [**2653-8-5**].  The ulcers were
+from the patient's lack of activity despite the fact that he
+was being ambulated and rehabed by Physical Therapy every
+day.  The patient had difficulty even sitting up in bed and
+the constant pressure of laying on his back with his large
+body habitus put him at high risk for developing decubitus
+ulcers.  The ulcers were Grade 2 involving skin breakdown but
+not involving the underlying dermis.  They were not infected
+at any point and never exhibited purulent exudate.  The
+ulcers were dressed with silver sulfadiazine twice a day with
+dressing changes twice a day and improved after the 28th with
+increased activity and the dressings.
+
+DISPOSITION:   The patient will be discharged to an inpatient
+Physical Rehabilitation Center for his functionality status
+post myocardial infarction.
+
+The patient reported being able to completely function with
+all his activities of daily living prior to his myocardial
+infarction and is currently unable to lift himself up in bed
+or walk on his own.
+
+DISCHARGE MEDICATIONS:
+1.  Metoprolol 75 mg p.o. twice a day.
+2.  Furosemide 80 mg p.o. q. day.
+3.  Lisinopril 20 mg p.o. q. day.
+4.  Digoxin 0.25 mg p.o. q. day.
+5.  Neutra-Phos two packets p.o. twice a day.
+6.  Docusate 100 mg p.o. twice a day p.r.n. constipation.
+7.  Pantoprazole 40 mg p.o. q. day.
+8.  Plavix 75 mg p.o. q. day times 25 days.
+9.  Aspirin 325 mg p.o. q. day.
+10  Celexa 20 mg p.o. q. day.
+
+CONDITION AT DISCHARGE:   Fair.
+
+DISPOSITION:   The patient is discharged to the Inpatient
+Rehabilitation Facility.
+
+DISCHARGE DIAGNOSES:
+1.  Acute myocardial infarction.
+
+
+                          [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 4734**], M.D.  [**MD Number 4735**]
+
+Dictated By:[**Last Name (NamePattern1) 4736**]
+
+MEDQUIST36
+
+D:  [**2653-8-9**]  15:21
+T:  [**2653-8-9**]  15:35
+JOB#:  [**Job Number 4737**]
+Signed electronically by: DR. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) **]
+ on: SAT [**2653-10-8**] 11:28 AM
+(End of Report)
+
+
+",,
+24143,976,29991,0,2653-07-31 16:00:00 EST,2653-07-31 16:55:00 EST,-1,"N",69,"Nursing/Other","7a-7p","
+7a-7p
+Pt admitted from cath lab @ 1445 p angio/stent of occluded LAD.
+
+neuro: AxOx3, MAE
+ 
+resp: sats on  95% 3L O2. LS diminshed throughout
+
+CV: Afib (chronic) c frequent PVC's, rate in the 80's. Pt on Coumadin @ home. Nitro @ 20mcg/h (3cc) and Integrilin @ 2 mcg (20cc/h). At 1700 pt dry heaving, skin clammy and pt diaphoretic. Pt denies CP.  MD aware (Dr [**Last Name (STitle) 4224**]), EKG done, ntg increased to 30mcg. 
+
+Access: 3 peripheral IV's
+
+Groin site: Continuously oozing.  Monitor and apply pressure as needed.
+ 
+GI/GU: Pt c colostomy since '[**49**]. Condom cath putting out clear, yellow urine.
+
+Activity: remain on bedrest overnoc, keep foley in place until BR dc'd
+                        
+Plan: titrate nitro for CP, antiemetics, D/C Integrilin @ 0730 on [**8-1**], Echo and EKG tomm, monitor groin for bleeding, labs @ 2000 and in AM. Monitr/treat blood sugars. 
+
+
+",,
+24143,976,29991,,2653-08-01 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2653-8-1**] 11:34 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 15921**]
+     Reason: Assess for infiltrate, CHF                                  
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      76 year old man with large anterolateral AMI. Decreased sats after fluid bolus. 
+     REASON FOR THIS EXAMINATION:
+      Assess for infiltrate, CHF                                                      
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Large acute MI.
+     
+     AP BEDSIDE CHEST RADIOGRAPH:  The cardiac silhouette is enlarged with
+     relatively globular contours.  There is vascular congestion.  There is a right
+     pleural effusion which is probably layering in semierect position.  I doubt
+     the presence of consolidations.  No comparison radiographs.
+     
+     IMPRESSION:  Cardiomegaly and CHF.
+
+",,
+24143,976,29991,,2653-08-01 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2653-8-1**] 5:18 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 15922**]
+     Reason: r/o pneumothorax, evaluate line placement s/p RIJ           
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       76 year old man with large anterolateral AMI. Decreased sats after fluid 
+      bolus. 
+     REASON FOR THIS EXAMINATION:
+      r/o pneumothorax, evaluate line placement s/p RIJ                               
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATIONS:    MI. Line placement.
+     
+     The heart is enlarged. Slight prominent aorta.  Probable bilateral pleural
+     effusions layering in semisupine position. There is associated bibasilar
+     atelectasis, particularly on the left where an associated small consolidation
+     cannot be entirely excluded. Tip of right IJ line is in proximal SVC with no
+     PTX seen on this recumbent exam. Other than placement of IJ line there is no
+     short interval change from exam six hours earlier.
+     
+     IMPRESSION:   Line placement with out PTX. CHF without change.
+
+",,
+24143,976,29991,0,2653-08-01 04:44:00 EST,2653-08-01 06:26:00 EST,-1,"N",69,"Nursing/Other","PMICU Nursing Progress Note 7p-7a","
+PMICU Nursing Progress Note 7p-7a
+                          Review of Systems
+
+Neuro: AxOx3, pleasant and cooperative. Awake most of the night due to issues w/ Foley cath. Finally able to [**Doctor Last Name **] @ 0400 am. Pt c/o chest pn 1 time o/n: tx w/ 2 mg of MSO4 and Nitro gtt titrated up to 40 mcg kg (6 cc/hr). PT comfortable on these settings ubtil 0500 am, when pt started to c/o nausea and b/c diaphoretic. SBP dropped to 78, nitro gtt stopped and 250 cc fld bolus given. Am labs sent, hct included. Please follow up w/ team.
+
+CV- HR btw 80-100, Afib, frequent PVC's. Pt b/c increasingly hypotensive this am , recieved 1x 250 cc NS bolus. Cont to follow. Nitro gtt currently off. Pt had one time episode of chest pn. Tx w/ 2 mg of MSO4 and titration of Nitro gtt w/ good effect.  Integrelin dc'd o/n due to bleeding from around foley cath per HO request.  Pt's groin site from cath lab sheath clean and dry, good peripheral pulses, no hematoma noted.  
+
+Resp- Cont on 3 L , sats in mid 90's.  LS coarse, slightly diminshed in bases.  
+
+GI- Abd obese, +BS, no BM. Pt had one sm cup of ice cream which he vomited directly after. C/O nausea on two occasions.
+
+GU- Foley inserted yesterday, pt has had cont. problems o/n. BRB and clots has been draining since insertion. Foley changed twice and irrigated twice; each time diminshed return. Team aware following HCT, neuro and [**Doctor First Name **] have been consulted. Pt soaking bed w/ oozing from around site.
+
+Plan- Cont supportive care. Monior CV, Resp, and GU. Follow up on all bas w/ team. Full code. Wife updated last night by phone.
+",,
+24143,976,29991,0,2653-08-01 19:14:00 EST,2653-08-01 19:30:00 EST,-1,"N",1,"Nursing/Other","END OF SHIFT/CLINICAL NURSE UPDATE","
+END OF SHIFT/CLINICAL NURSE [**First Name (Titles) **]
+[**Last Name (Titles) **]: PT TRANSFERED FROM MICU TO CCU FOR MONITORING (SEE MD NOTES AND AND H&P)
+
+NEURO: PT SEDATED ON ATIVAN (2MG) BUT EASY TO AROUSE. PRIOR TO ATIVAN GIVEN, PT ALERT AND ORIENTED. 
+
+PULM: PT PLACED ON BIPAP SOON AFTER ADMISSION. TOLERATED BIPAP WELL. CURRENTLY OFF. PT NOW ON 4LNC PO MID TO HIGH 90'S. RR 22-28. BS COARSE BILATERAL.
+
+CV: PT A-FIB, RATE 100-120 DEPENDING ON AGITATION. CURRENTLY SBP >100. PT PLACED ON LEVO FOR SBP <90 (SEE VS SCREEN). WILL ATTEMPT TO WEAN OFF LEVO TO MAP >=60 [**Name8 (MD) **] MD ORDER.
+
+GI/GU: URINE OUTPUT RESPONSIVE TO LASIX DOSE GIVEN (SEE I&O'S). PT ALSO WITH CONT. BLADDER IRRIGATION. ABD. SOFT AND DISTENDED. COLOSTOMY PUTTING OUT SCANT DRAINAGE WITH GAS.
+
+LINES: RIGHT A-ALINE AND RIGHT IJ PLACED. CXR CONFIRMED PLACEMENT.
+
+FAMILY/PATIENT TEACHING: POC REVIEWED AND REINFORCED. FAMILY VERBALIZES UNDERSTANDING. WILL CONTINUE TO UPDATE FAMILY PRN.
+
+PAIN: PT HAS NO C/O PAIN. DENIES CP/SOB.
+
+NO ACUTE DISTRESS OR COMPLICATIONS NOTED. PLEASE SEE CLINICAL INFORMATION SCREENS. PLEASE ALSO SEE MD NOTES/ORDERS FOR 07-1900.
+",,
+24143,976,29991,0,2653-08-02 04:04:00 EST,2653-08-02 04:30:00 EST,226,"N",1,"Nursing/Other",,"
+
+CCU Nursing Progress Note 7p-7a:
+
+Neuro: Pt easily arousable last evening.  Pt awake overnight using call bell appropriately and asking for sips of water. Moving all extremities spontaneously. Pt very deconditioned. 
+
+CV: Afib HR 107-119 with occasional PVC's. K+ 8pm 3.8 pt rec'd 40meq KCl IV, am level pending.  HCT 38.9. CK's 5856, 3569 3rd with am labs.
+Pt denies CP. NTG gtt off at 8:45pm and Levophed gtt weaned to off at 9:30pm.  Pt with stable BP's overnight off presssors. BP 92-122/53-65. Pt had two runs of VTach one 5 and one 7 beat runs, pt maintained BP, res. aware. Conts on hep gtt at 1000u/hr (on coumadin at home).  PTT pending, adjust hep per ss.  Echo revealed EF 25%.  Palpable pulses bilaterally. R groin ecchymotic no hematoma, C/D/I.   
+
+PULM: NC weaned to 4.0L with sats 94-97%. RR 20's. LS with bibasilar crackles. Pt denies SOB. +DOE. Breathing appears even and mildly labored at times ie with turning. Pt tolerating 15-30 degree HOB. No cough noted. LE edematous. No further diuresis overnight. 
+
+GI: Abd obese softly distended with +BS. Colostomy intact with +Flatus.  Pt taking sips of water and juice with pills. Pt denies n/v. ?advancing diet at breakfast. 
+
+GU: Conts bladder irrigation overnight. Pt conts to have oozing of BRB around meatus. Pt denies pain.  Cath draining clear yellow urine -4022 LOS. 
+
+ID: t max 100.3 orally. 
+
+ENDO: Hb AIC pending. FS 176 no coverage per insulin ss.
+
+SKIN: intact
+
+PROPH: Hep gtt.
+
+LINES: 2 PIV. R radial a-line and RIJ TLC. 
+
+DISPO: Full Code
+
+SOCIAL: Pt's wife phoned overnight and updated on pt's condition. 
+
+A: Stable BP off pressors.
+   tolerating slow wean of oxygen
+   urine clear and yellow w/o clots.
+
+P: Cont hep gtt for chronic afib, follow PTT's and monitor for signs of bleeding. If map drops below 60 start dobutamine gtt. Follow up on am labs. ? Advancing diet. S QID. Cont Continuous bladder irrigation.
+Provide support.
+",,
+24143,976,29991,0,2653-08-02 04:42:00 EST,2653-08-02 04:43:00 EST,226,"N",1,"Nursing/Other",,"
+
+Addendum to Nursing Progress Note:
+PTT 48.7 Hep gtt increased to 1100u/hr per hep ss. Check PTT at 12pm. 
+CPNCP.
+",,
+24143,976,29991,0,2653-08-02 16:20:00 EST,2653-08-02 16:35:00 EST,-1,"N",1,"Nursing/Other","CLINICAL NURSE UPDATE/END OF SHIFT NOTE","
+CLINICAL NURSE UPDATE/END OF SHIFT NOTE
+MOI: 76 YR OLD MALE S/P CATH LAB WITH PTCA AND STENT TO LAD (SEE ADMISSION HX AND MD H&P).
+
+NEURO: PT ALERT AND ORIENTED. FOLLOWS COMPLEX COMMANDS.
+
+PULM: PT PO >90% ON 2LNC. BS COARSE BILATERAL. SLIGHTLY DECREASED AT THE BASES.
+
+GI/GU: U/O >30CC/HR, CLEAR YELLOW URINE. RESPONSIVE TO EARLIER LASIX DOSE GIVEN (SEE I&OS). OK APPETITE. COLOSTOMY WITH GAS PRODUCTION BUT NO STOOL NOTED. ABD. SOFT AND DISTENDED (OBESE).
+
+LINES: PT WITH NO RUNNING PRIMARY IVF. HEPARIN RUNNING PER HEPARIN PROTOCOL. CURRENLTLY AT 1200U/HR. WILL CHECK PTT AND ADJUST GTTS AS NEEDED. CENTRAL ACCESS AND A-LINE INTACT.
+
+FAMILY/PATIENT TEACHING: FAMILY/PT UPDATED ON POC AND CURRENT CONDITION. VERBALIZES UNDERSTANDING. NEEDS REINFORCEMENT. 
+
+PAIN/ID: PT HAS NO C/O PAIN AT THIS TIME. DENIES CP/SOB. AFEBRILE.
+
+NO ACUTE DISTRESS OR COMPLICATIONS NOTED. PLEASE SEE CLINICAL INFORMATION SCREENS. PLEASE ALSO SEE MD NOTES/ORDERS FOR ICU 07-1900.
+",,
+24143,976,29991,0,2653-08-02 17:42:00 EST,2653-08-02 17:45:00 EST,-1,"N",1,"Nursing/Other","CLINICAL UPDATE/CV","
+CLINICAL UPDATE/CV
+CV: PT CONTINUES IN A-FIB, RATE 110-125. LOPRESSOR DOSE INCREASED FOR PM (SEE MED SHEET). PT ALSO WITH PVC'S AND 3-4 BEAT RUNS OF V-TACH. K SENT. RESULTS PENDING.
+",,
+24143,976,29991,,2653-08-03 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2653-8-3**] 6:38 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 15923**]
+     Reason: r/o infiltrate                                              
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      76 year old man s/p MI with fever                                               
+     REASON FOR THIS EXAMINATION:
+      r/o infiltrate                                                                  
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY: Myocardial infarction.  Fever.
+     
+     AP BEDSIDE CHEST: Suboptimal examination in large patient.  Cardiac silhouette
+     is enlarged with vascular congestion and interstitial edema.  Probable
+     bilateral pleural effusions, layering in semi-erect position.  There is
+     bibasilar atelectasis and I cannot exclude a consolidation, particularly in
+     the left lower lobe.  The tip of the right IJ line is poorly visualized,
+     probably lying in the mid-SVC.  No change from [**2653-8-1**].  No PTX on this
+     apparent semi-erect radiograph.
+     
+     IMPRESSION: CHF.  Possible left lower lobe pneumonia.  No significant interval
+     change. 
+
+",,
+24143,976,29991,0,2653-08-03 05:10:00 EST,2653-08-03 05:14:00 EST,313,"N",1,"Nursing/Other","CCU NSG PROGRESS NOTE.","
+CCU NSG PROGRESS NOTE.
+O:CV=REMAINS IN AF-LOPRESSOR 5MG IVB & PO DOSE INCREASED TO 50MG-RATE DECREASED FROM 120'S TO 100'S. BP STABLE-TOLERATING CAPTOPRIL. HEPARIN REMAINS @ 1200U/HR. 
+  GU=FOLEY. WO IRRIGANT-SL ROSE IN COLOR. ADEQ UO. I&O NEG, BUT NOT @ GOAL OF 1L NEG.
+
+A:STABLE @ PRESENT. SL DECREASE IN AF RATE W IV/PO LOPRESSOR.
+
+P:CONTIN PRESENT MED MANAGEMENT. ?CALL-OUT. SUPPORT AS INDICATED.
+
+
+",,
+24143,976,,,2653-08-05 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2653-8-5**] 10:26 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 15924**]
+     Reason: Is patient's CHF improving?                                 
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       76 year old man s/p MI with fever and prior worsening bilateral pulmonary 
+      infiltrates.                                              
+     REASON FOR THIS EXAMINATION:
+      Is patient's CHF improving?                                                     
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  S/P MI with fever and prior worsening bilateral pulmonary
+     infiltrates, is patient's CHF improving?
+     
+     Single frontal chest radiograph is compared to prior CXR dated [**2653-8-3**].
+     
+     The cardiac sihouette is enlarged but stable.  The mediastinal and hilar
+     contours are stable.  There is again vascular prominence and perivascular
+     haziness, indicative of interstitial edema.  There are probable small
+     bilateral pleural effusions. The left retrocardiac opacity is again seen, of
+     no significant interval change.
+     
+     IMPRESSION:  Cardiomegaly with CHF and small pleural effusions.  Left
+     retrocardiac atelectasis vs. pneumonia.  No significant interval change.
+     
+
+",,
+24143,976,,,2653-08-10 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2653-8-10**] 10:03 AM
+     CHEST (PA & LAT)                                                Clip # [**Clip Number (Radiology) 15925**]
+     Reason: s/p ICD.  Evaluate lead placement.                          
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      76 y/o man s/p ICD                                                              
+     REASON FOR THIS EXAMINATION:
+      s/p ICD.  Evaluate lead placement.                                              
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Status post ICD placement.
+     
+     Comparison study dated [**2653-8-5**].
+     
+     CHEST, PA AND LATERAL:  The heart is markedly enlarged. There is a small left
+     sided pleural effusion with associated atelectasis.  There is some vascular
+     redistribution but no overt failure.  There has been interval placement of an
+     ICD device. The leads appear to be in appropriate location on the AP view,
+     however, the lateral view is suboptimal due to lack of penetration and
+     placement of the patient's arms.  A repeat lateral is suggested with increased
+     penetration and elevating the patient's arms.
+     
+     IMPRESSION:
+     
+     1. Cardiomegaly without overt failure.
+     2. Small left sided effusion with associated atelectasis.
+     3. Status post ICD placement. Leads apparently in appropriate location on the
+     AP view however, the lateral view is suboptimal and repeat is recommended
+     utilizing greater penetration and elevation of the patient's arms.
+
+",,

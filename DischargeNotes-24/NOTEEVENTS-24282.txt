@@ -1,0 +1,383 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+24282,,,,2733-03-24 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2733-3-24**] 12:22 PM
+     MR [**Name13 (STitle) 477**] SCAN WITH CONTRAST; MR THORACIC SPINE                Clip # [**Clip Number (Radiology) 1263**]
+     MR L SPINE SCAN
+     Reason: neck pain r/o metastases
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      60 year old woman with 
+     REASON FOR THIS EXAMINATION:
+      neck pain r/o metastases
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     
+     INDICATIONS:    Metastases and pain.  R/O cord compression.
+     
+     TECHNIQUE:   The cervical, thoracic, and lumbar spine were included.  Sagittal
+     multisequence imaging of these regions is provided, as well as axial scans
+     through cervical and thoracic areas.
+     
+     Comparison is made to previous MR examinations of [**2732-8-27**] and [**2732-12-27**].
+     
+     FINDINGS:   There is abnormal signal within most of the vertebral bodies. Some
+     vertebrae demonstrates abnormally decreased T1 and T2 signal. The marrow is
+     mottled.
+     
+     Cervical spine images demonstrate abnormal signal throughout the vertebrae.
+     There is increased T2 signal in the C2 vertebral body and dens.  There is no
+     clear evidence of vertebral collapse.  There are no soft tissue masses
+     associated with the cervical vertebrae.  There are degenerative changes of the
+     cervical intervertebral spaces.  At C6-7 there is spinal stenosis due to
+     spondylosis.  These findings were present on the previous study of [**2732-8-27**].
+     
+     The cervical spinal cord is normal in caliber and signal intensity.
+     
+     Thoracic spinal canal is not narrowed.  The thoracic spinal cord has a normal
+     appearance.  All the visualized thoracic vertebrae demonstrate signal
+     abnormality.  This is consistent with diffuse bony metastases, as defined on
+     previous studies.  There are no associated soft tissue masses appreciated.
+     
+     The lumbar and sacral vertebrae are abnormal.  The lumbosacral spinal canal,
+     however, is not narrowed.  The conus is normal in appearance.  The cauda
+     equina also has a normal appearance.
+     
+     IMPRESSION:   There are diffuse bony metastases.  There is no evidence of
+     metastatic spinal cord compression at this time.  Please note that there are
+     soft tissue abnormalities identified in the thorax.  Clinical correlation is
+     recommended.
+     
+     
+                                                                 (Over)
+
+     DATE: [**2733-3-24**] 12:22 PM
+     MR [**Name13 (STitle) 477**] SCAN WITH CONTRAST; MR THORACIC SPINE                Clip # [**Clip Number (Radiology) 1263**]
+     MR L SPINE SCAN
+     Reason: neck pain r/o metastases
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+
+",,
+24282,,,,2733-03-24 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2733-3-24**] 3:24 PM
+     CT HEAD W/ CONTRAST; CT 100CC NON IONIC CONTRAST                Clip # [**Clip Number (Radiology) 1264**]
+     Reason: HX LUNG AND PANCREATIC CANCER, R/O METS
+      Contrast: OPTIRAY Amt: 100
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      60 year old woman with h/o lung and pamncreatic cancer
+     REASON FOR THIS EXAMINATION:
+      r/o metastases
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  History of lung and pancreatic CA evaluate for metastases.
+     
+     TECHNIQUE:  Non-contrast head CT and post-contrast head CT.
+     
+     FINDINGS:  There is no intra or extra-axial hemorrhage.  There is no shift of
+     normally mid-line structures.  The ventricles cisterns and sulci are normal.
+     There is no evidence of mass effect.  No enhancing lesions are identified.
+     The [**Doctor Last Name 66**] white matter differentiation is normal.  The osseous structures, soft
+     tissues and visualized paranasal sinuses are normal.
+     
+     IMPRESSION:  No CT evidence of brain metastases.
+
+",,
+24282,,,,2733-03-24 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2733-3-24**] 12:22 PM
+     MR [**Name13 (STitle) 477**] SCAN WITH CONTRAST; MR THORACIC SPINE                Clip # [**Clip Number (Radiology) 1263**]
+     MR L SPINE SCAN
+     Reason: neck pain r/o metastases
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      60 year old woman with 
+     REASON FOR THIS EXAMINATION:
+      neck pain r/o metastases
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     
+     INDICATIONS:    Metastases and pain.  R/O cord compression.
+     
+     TECHNIQUE:   The cervical, thoracic, and lumbar spine were included.  Sagittal
+     multisequence imaging of these regions is provided, as well as axial scans
+     through cervical and thoracic areas.
+     
+     Comparison is made to previous MR examinations of [**2732-8-27**] and [**2732-12-27**].
+     
+     FINDINGS:   There is abnormal signal within most of the vertebral bodies. Some
+     vertebrae demonstrates abnormally decreased T1 and T2 signal. The marrow is
+     mottled.
+     
+     Cervical spine images demonstrate abnormal signal throughout the vertebrae.
+     There is increased T2 signal in the C2 vertebral body and dens.  There is no
+     clear evidence of vertebral collapse.  There are no soft tissue masses
+     associated with the cervical vertebrae.  There are degenerative changes of the
+     cervical intervertebral spaces.  At C6-7 there is spinal stenosis due to
+     spondylosis.  These findings were present on the previous study of [**2732-8-27**].
+     
+     The cervical spinal cord is normal in caliber and signal intensity.
+     
+     Thoracic spinal canal is not narrowed.  The thoracic spinal cord has a normal
+     appearance.  All the visualized thoracic vertebrae demonstrate signal
+     abnormality.  This is consistent with diffuse bony metastases, as defined on
+     previous studies.  There are no associated soft tissue masses appreciated.
+     
+     The lumbar and sacral vertebrae are abnormal.  The lumbosacral spinal canal,
+     however, is not narrowed.  The conus is normal in appearance.  The cauda
+     equina also has a normal appearance.
+     
+     IMPRESSION:   There are diffuse bony metastases.  There is no evidence of
+     metastatic spinal cord compression at this time.  Please note that there are
+     soft tissue abnormalities identified in the thorax.  Clinical correlation is
+     recommended.
+     
+     
+                                                                 (Over)
+
+     DATE: [**2733-3-24**] 12:22 PM
+     MR [**Name13 (STitle) 477**] SCAN WITH CONTRAST; MR THORACIC SPINE                Clip # [**Clip Number (Radiology) 1263**]
+     MR L SPINE SCAN
+     Reason: neck pain r/o metastases
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+
+",,
+24282,4298,,,2733-03-29 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+
+Admission Date:  [**2733-3-29**]     Discharge Date:  [**2733-3-30**]
+
+Date of Birth:   [**2672-11-3**]     Sex:  F
+
+Service:  MICU
+
+HISTORY OF PRESENT ILLNESS:  The patient is a 60 year-old
+female with a history of metastatic pancreatic cancer who
+presented to the Emergency Department on the day of admission
+with dyspnea and shortness of breath.  She was noted to have
+slightly more labored breathing that evening prior to
+admission following 2 units blood transfusions earlier that
+afternoon.  The patient denied chest pain, fevers or chills,
+headache, abdominal pain, nausea and vomiting per family.  On
+the morning of admission the patient was found to be dyspneic
+with increased work of breathing, which progressively
+worsened over the next several hours.  The patient was
+brought to the oncology Clinic.  Initially the patient was
+oriented, but became progressively more confused and
+lethargic.  In the Oncology Clinic the patient's blood
+pressure was 100/60, pulse 84, respiratory rate 32, O2 sat
+90%, which decreased to 80% despite being on 15 liters of O2
+by nonrebreather mask.  The patient became more increasingly
+more somnolent and lethargic and was transferred to the
+Emergency Room via EMS.
+
+In the Emergency Department the patient was observed to have
+an ineffective agonal breathing.  Blood pressure 160/63.
+Heart rate 120.  O2 sat 76% on 100% nonrebreather mask.  The
+patient was started on BiPAP with improvement of her O2 sats
+98 to 100%.  The patient was empirically treated with 20
+intravenous Lasix, Ceftriaxone 1 gram intravenous, Flagyl 500
+mg intravenous and Ampicillin 1 gram intravenous.  The
+patient became transiently hypotensive to 70s/40s, which
+responded well to 500 cc normal saline bolus.  The patient's
+arterial blood gas was 7.29, 38, 54 and BiPAP of 10/5, FIO2
+of 1.  The patient's bicarb was 14 and she was given one amp
+of bicarb.
+PAST MEDICAL HISTORY:  1.  Pancreatic cancer diagnosed in
+[**2725**] status post partial Whipple procedure in [**2726**] for
+palliative treatment, status post x-ray therapy and resection
+of lung nodule, question whether it was metastatic
+adenocarcinoma versus new primary.  History of bone
+metastasis in [**10/2731**] status post chemotherapy completed
+2/2001.  Also status post palliative x-ray therapy to pelvis,
+shoulders and thighs.  Diffuse metastases of bone including
+spine.  Status post endoscopic retrograde
+cholangiopancreatography and sphincterotomy for biliary
+obstruction.  History of ascites and omental mets.
+Questionable history of breast cancer.  Questionable history
+of primary lung cancer.  Also history of diabetes, recent
+history of urinary tract infection.  Klebsiella pneumonia
+treated with Cipro.
+
+ALLERGIES:  No known drug allergies.
+
+MEDICATIONS PRIOR TO ADMISSION:  Megace, Methadone,
+Neurontin, Naprosyn, Insulin, Prozac, Prilosec, _______,
+Fentanyl patch, Ativan, Dilaudid, Cipro.
+
+SOCIAL HISTORY:  The patient lives at home with husband.  She
+continues to smoke one and a half packs a day.
+
+PHYSICAL EXAMINATION:  Temperature 97.9.  Pulse 101.  Blood
+pressure 100/60.  Respirations 20, sating 98% on BiPAP 10/5,
+FIO2 of 1.  In general, the patient is stuporous, not
+responsive to voice, minimally arousable to sternal rub.
+HEENT sclera icteric.  Pupils equally round and reactive to
+light and accommodation.  Neck supple with no
+lymphadenopathy.  Chest with bilateral expiratory wheezes and
+coarse inspiratory rhonchi.  Cardiovascular normal S1 and S2.
+Tachycardic.  No rubs or gallops.  Abdomen slightly
+distended.  No masses, nontender.  No rebound or guarding.
+Skin warm extremities well perfuse.  Positive jaundice on
+torsos.  Extremities no clubbing, cyanosis or edema.
+Neurological Babinski down going bilaterally.
+
+LABORATORY DATA:  White blood cell count was elevated at
+24.9, hematocrit 35.7.  Differential was 86% neutrophils, 11%
+lymphocytes, 2 monos.  INR was elevated at 1.7.  The patient
+had normal liver function tests, elevated LDH at 356,
+alkaline phosphatase 2188, total bili 7.8.  She also had
+troponin and CK leak and elevated lactate at 5.8.  Bedside
+echocardiogram was negative for pericardial effusion.  Chest
+x-ray showed reticular nodular pattern interstitial with
+superimposed multifocal ___________ consolidations consistent
+with infection or adult respiratory distress syndrome.  Chest
+CT revealed no evidence for PE positive for diffuse reticular
+nodular pattern consistent with lymphangitic spread of
+carcinoma.  Also left greater then right air space
+consolidation consistent with pneumonia or other alveolar
+process.  Head CT on [**2733-3-24**] was negative for metastases.
+MRI of the spine on [**2733-3-24**] showed diffuse bony metastases.
+MRI of the abdomen on [**2733-2-21**] showed no evidence of recurrent
+tumor within postop region, positive for ascites and positive
+for bone metastases.  CT of the abdomen and pelvis [**2733-2-20**]
+showed numeral pulmonary nodules at the lung bases
+bilaterally, positive for pneumophila, positive for ascites
+with nodular component concerning for omental metastases.
+Electrocardiogram showed sinus tachycardia with new right
+bundle branch block.
+
+HOSPITAL COURSE:  It was the patient's wishes to not be
+intubated, so she was continued on BiPAP ventilatory support.
+She was also continued on broad spectrum antibiotics for
+presumed sepsis/ARDS including Vancomycin, Flagyl and
+Levaquin.  The patient was rehydrated with intravenous
+fluids.  Throughout the night the patient's respiratory
+status became increasingly tenuous.  After further discussion
+with the family the patient was made DNR/DNI and comfort
+measures only.  The patient expired at 4:40 a.m. on [**2733-3-30**] from respiratory arrest secondary to sepsis/ARDS in
+the setting of a patient with metastatic pancreatic cancer.
+
+The family is requesting postmortem evaluation.  The family
+was present at the time of death.  Attending was notified.
+Oncologist Dr. [**First Name4 (NamePattern1) 511**] [**Last Name (NamePattern1) **] was also notified.
+
+
+
+
+
+
+                          [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 1474**], M.D.  [**MD Number 1475**]
+
+Dictated By:[**Doctor Last Name 5063**]
+
+MEDQUIST36
+
+D:  [**2733-3-30**]  10:10
+T:  [**2733-3-30**]  11:06
+JOB#:  [**Job Number 5064**]
+Signed electronically by: DR. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 1474**]
+ on: FRI [**2733-4-7**] 7:46 AM
+(End of Report)
+
+
+",,
+24282,4298,,,2733-03-29 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2733-3-29**] 12:12 PM
+     CHEST CTA WITH CONTRAST; CT 100CC NON IONIC CONTRAST            Clip # [**Clip Number (Radiology) 1265**]
+     Reason: STAT, r/o PE, hx pancreatic cancer, acute SOB
+      Contrast: OPTIRAY Amt: 100CC
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      60 year old woman with pancreatic cancer, acutely SOB, r/o PE
+     REASON FOR THIS EXAMINATION:
+      STAT, r/o PE, hx pancreatic cancer, acute SOB
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  History of pancreatic and lung cancer with metastatic disease,
+     acute shortness of breath, rule out PE.
+     
+     Comparison is made to prior study of CT chest on [**2732-11-15**].
+     
+     TECHNIQUE:  CT of the chest with IV contrast.  3D reconstruction images were
+     then performed.  100 cc of Optiray was administered intravenously for fast
+     bolus CTA.
+     
+     CTA OF THE CHEST (PE PROTOCOL):  Soft-tissue windows again reveal a mass
+     lesion in the right prevascular space, measuring approximately 2.3 x 2.3 cm in
+     size.  There are also bilateral hilar lymph nodes.  There are no pleural
+     effusions.  There are no filling defects in the pulmonary arteries suggestive
+     of pulmonary embolism.  The heart, pericardium and great vessels appear
+     unremarkable.
+     
+     Lung windows reveal diffuse reticular interstitial thickening involving all of
+     the lung lobes with superimposed alveolar ground glass opacifications.
+     Innumerable nodules are also present in both lungs, predominantly in the lung
+     periphery.  There are multifocal areas of more conglomerate air-space
+     consolidations, most predominantly in the left lower lobe.
+     
+     Bone windows reveal multiple areas of sclerotic changes in the ribs and spine,
+     consistent with metastatic disease.
+     
+     IMPRESSION:
+     
+     1) No evidence of PE.
+     
+     2) Diffuse reticular interstitial disease with ground glass air-space
+     opacification and innumerable peripheral nodules, suggestive of lymphangitic
+     carcinomatosis.  There are multiple more conglomerate air-space
+     consolidations, most predominantly in the left lower lobe.  This could
+     represent superimposed pneumonia or ARDS.
+     
+     3) Right prevascular mediastinal nodal mass reported before is again
+     visualized.
+     
+     4) Multiple osseous metastatic foci.
+     
+     The above findings were discussed with Emergency Room house staff upon
+     completion of the study.
+                                                                 (Over)
+
+     DATE: [**2733-3-29**] 12:12 PM
+     CHEST CTA WITH CONTRAST; CT 100CC NON IONIC CONTRAST            Clip # [**Clip Number (Radiology) 1265**]
+     Reason: STAT, r/o PE, hx pancreatic cancer, acute SOB
+      Contrast: OPTIRAY Amt: 100CC
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+
+",,
+24282,4298,30163,0,2733-03-29 18:48:00 EST,2733-03-29 19:23:00 EST,-1,"N",1,"Nursing/Other","1845 CCU Admission note","
+1845 CCU Admission note
+
+60 years old female admitted to EDW with dyspnea/sob, hypotension and hypoxemia. PMH pancreatic ca since [**2725**], lung mets since [**2728**], recent biliary stent for obstructive jaundice. Pt received ativan 2mg x2 in the EDW for restlesness which is more pronounced when her sat dec to 70-80%.Flagyl and ceftriaxone were administered. Chest CT done to R/O PE. According to Fx, pt began having labored breathing on evening before admission after being transfused w/ 2u of PRBC.
+On arrival to the unit, pt was very agitated and satting in the mid 90's.Unable to follow simple commands, ativan 1mg IV given with good effect. Pt was placed on bipap, [**11-4**] and FiO2 100%. Crackles and exp wheezing noted upon ausculation. Currently O2 sat fluctuates in the low 90's. 
+CV:  Pt was bolused w/ 1700ml of NS in the EDW for hypotension. Currently BP 150's-130's/70'-90's and hr 110's in the 130's when she is agitated. No ectopy noted.
+
+GI: Pos bowel sound, no BM noted. 
+
+GU: FC intact, voiding clear yellow urine.
+
+Code status: Pt is DNR
+
+Soc: Family is in the room.
+
+Labs sent and BC's drawn.
+",,
+24282,,30163,0,2733-03-30 05:13:00 EST,2733-03-30 05:26:00 EST,351,"N",1,"Nursing/Other",,"
+
+ccu nursing progress note 7p-4:30am
+
+60 yo female with pmh pancreatic ca with mets to bone and lung, admitted to ew for c/o sob. pt with low o2 sats, placed on mask ventilation per pt wished not to be intubated. cpap ps 10/5 peep, fio2 100%. pt initially with sats 89-94%. pt desating immediately when mask removed. pt lethargic but arousable. very agitated and appearing uncomfortable when aroused and stimulated. given mso4 and ativan prn for agitation and discomfort. ls coarse throughout with insp/exp wheezes. rr shallow and labored. temp 101.2 on arrival to unit. per report blood cultures sent. pt started on abx and given tylenol as ordered. 
+
+approx 2am noted o2 sat to be 83% on mask ventilation. prior to pt had been dni but full code. intern and resident called to speak with family. declining status and poor prognosis explained to family. family continue to state pt's wishes not to be intubated, therefore decision made to not to resuscitate pt. family came to sit by pt's bedside. pt's hemodynamic status began to quickly decline. mso4 gtt started for comfort. pt expired approx 4:30 am. family at bedside. intern called to pronounce pt. per family, pt does not have any valuables present.
+",,

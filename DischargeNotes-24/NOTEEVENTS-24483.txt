@@ -1,0 +1,397 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+24483,28478,,,3382-11-09 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+ 
+ 
+ 
+Admission Date:  [**3382-11-9**]              Discharge Date:   [**3382-11-18**]
+ 
+Date of Birth:  [**3318-11-16**]             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Patient recorded as having No Known Allergies to Drugs
+ 
+Attending:[**First Name3 (LF) 147**] 
+Chief Complaint:
+Weakness, fatigue
+ 
+Major Surgical or Invasive Procedure:
+None.
+ 
+History of Present Illness:
+63 year-old male with follicular lymphoma who was recently 
+discharged one week ago after being treated for L3 thecal sac 
+compression who now presents with generalized weakness for one 
+day prior to admission.  He had been well at rehab until he 
+began to feel a generalized fatigue and weakness.  Initially, 
+this resolved on its own, but then returned the following day.  
+At the time, he denied any fever, chills, lightheadedness, chest 
+pain, cough, shortness of breath, nausea or vomiting.  He was 
+then transfered to the [**Hospital1 25**].  However, during transport, he 
+became hypontensive to the 80's systolic, tachycardic to the 
+140's, and hypoxemic to the 70's.  He was diverted to [**Hospital1 921**] and was found to have pneumonia on chest x-ray.  He was 
+given one dose of ceftriaxone and received 2L of normal saline 
+with improvement in vital signs.  He was transfered to [**Hospital1 25**].  
+In the Emergency Department, he was normotensive, afebrile, and 
+his oxygen saturations were in the mid-90's on 4L nasal cannula. 
+ He also had an elevated lactate.  He was given vancomycin and 
+azithromycin.  He was transfered to the Intensive care unit for 
+further care given that he appeared septic since he was 
+initially hypotensive with an elevated lactate.  
+
+ 
+Past Medical History:
+Past oncology history: He was diagnosed with low-grade 
+follicular lymphoma in [**3374**] when he presented with a large right 
+neck mass. He was treated with 6 cycles of CHOP chemotherapy 
+followed by 4 cycles of Rituxan. He had a good initial resonse 
+to chemotherapy; however, his disease recurred in [**3378**].  He 
+underwent 2 more cycles of CHOP followed by CEPP. He was 
+subsequently treated with Bexxar radiolabeled antibody and 
+attained a complete remission for about 3 years.  In February 
+2005, he noted the gradual increase of his right neck mass, 
+which showed follicular lymphoma on biopsy.  He underwent [**4-17**] 
+cycles of R-CEPP responded well.  This chemotherapy was 
+itnerupted secondart to a hip fracture.  He was notd to have 
+cervical spine involvement of imaging and was place in a soft 
+cervical collar.  He underwent 2 cycles of EPOCH salvage 
+chemotherapy in 8/05 and [**9-16**].  He recently was admitted thecal 
+sac compression at the L3 level for which he received 10 doses 
+of radiation therapy.
+.
+Past Medical History:
+1. Follicular lymphoma as above
+2. Status post cholecystectomy
+3. Neuropathy secondary to chemotherapy
+4. Status post left hip fracture [**7-/3382**]
+ 
+Social History:
+The patient is married and lives at home with his wife in 
+[**Name2 (NI) 5476**]. He has three children, none of whom live at home. His 
+wife has Alzheimer's dementia and receives a lot of care from 
+her children. The patient's daughter died at age 20 from 
+lymphoma (He thinks ALL).  He previously worked for NSTAR 
+switching lines.  He denies any tobacco or drug use.  He reports 
+occasional alchohol with about 1 beer per week. 
+
+ 
+Family History:
+His daughter died at age 20 of lymphoma (he believes ALL). He 
+has an Aunt with melanoma. 
+ 
+Physical Exam:
+Vitals: Temperature:98.4 Pulse:100 Blood Pressure:125/70 
+Respiratory Rate:20 Oxygen Saturation:96% on 15L Non-rebreather.
+General:pleasant elderly gentleman wearing soft c-spine collar 
+in no acute distress.
+HEENT: Pupils equal and reactive, extraoccular movements intact, 
+anicteric sclera, oropharynx clear, moist mucous membranes.
+Cardiac: Regular rate and rhythm without murmurs, rubs, or 
+gallops.
+Pulmonary: Coarse breath sounds throughout with rhonchi at the 
+bases, with left greater than right.
+Abdomen: Normoactive bowel sounds, soft, nontender, 
+nondistended, no hepatosplenomegaly.
+extremities: Warm and well perfused without cyanosis, trace 
+edema at ankles.
+Neuro: Alert and oriented x3, cranial nerves [**2-23**] grossly 
+intact, 5/5 strength bilaterally in deltoids, triceps, biceps, 
+grip, hip flexor, hip extensors, quadriceps, hamstrings, 
+dorsiflexion, plantarflexion.  Sensation symmetric to light 
+touch bilaterally. 
+ 
+Pertinent Results:
+12.4>28.6<147
+N:97.5 L:0.9 Bands:0 Monos:1.1 Eos:0.2 Basos:0.1
+.
+133|96|24/230
+4.3|21|1.1\
+Ca:8.2 Mg:1.7 P:2.9
+.
+PT:12.6 PTT:32.9 INR:1.1
+. 
+Lactate:2.4
+.
+Iron:63 CaTIBC:114 Ferritin:>2000 TRF:88
+B12:755 Folate:3.9
+.
+Sputum (induced) 4+ yeast with pseudohypae
+Blood Culture ([**11-9**]) no growth
+Urine Culture ([**11-9**]) no growth
+.
+Urinalysis:small blood, trace protein, trace ketones, 0-2 RBC, 
+0-2 WBC, few bacteria, [**3-16**] epithelial cells.
+.
+CXR: Multifocal new patchy opacities. While this might all 
+represent 
+atelectasis, differential diagnosis includes aspiration and 
+infiltrate.  
+.
+CTA: No PE. Bibasilar dependent consolidation.  RUL dependent 
+consolidation.
+ 
+Brief Hospital Course:
+63 year-old male with recurrent follicular cell lymphoma with 
+recent chemotherapy and radiation to L3 who was admitted for 
+pneumonia and sepsis.
+.
+1. Pneumonia: On chest x-ray, he had evidence of pneumonia.  
+Given that he has recently been hospitalized, he was initially 
+covered for both pseudomonas and MRSA with ceftazidime and 
+vancomycin.  On hospital day 3, his oxygen requirement increased 
+and he spiked a temperature; therefore, his antibiotic coverage 
+was broadened to include Flagyl, Caspofungin, and Bactrim.  He 
+improved on that regimen and his oxygen requirement decreased.  
+An induced sputum showed budding yeast and was negative for PCP. 
+ [**Name10 (NameIs) **] that time, the Flagyl and the treatment dose Bactrim was 
+stopped.  His oxygen requirement decreased throughout his 
+hospital course.  On discharge, he had completed 11 days of 
+vancomycin and ceftazidime and 9 days of caspofungin.  He was 
+discharged to complete 14 days of antibiotics with levofloxacin.
+.
+2. Sepsis: The source of his sepsis was likely the pneumonia.  
+He was adequately volume resuscitated in the emergency 
+department.  He was initially monitored in the intensive care 
+unit.  His lactate trended down with fluids and he remained 
+normotensive.
+.
+3. Lymphoma: He recently underwent a cycle of EPOCH chemotherapy 
+2 weeks prior to admission.  He has just completed a 10-day 
+course of radiation therapy for his L3 thecal sac compression.  
+He was admitted on a prednisone taper from his recent admission. 
+ When he was tapered from 40 to 20 mg of prednisone, he had 
+increased pain and lower extremity weakness.  Until a cervical, 
+thoracic, and lumbar spine MRI was negative for compression, he 
+was maintained on high dose dexamethasone.  He was then maintain 
+on 40 mg prednisone daily.  He also has C-3 disease for which he 
+should continue to wear his soft c-spine collar.   During this 
+admission, he had an increase in size of his right neck mass.  
+He will need his third cycle of EPOCH chemotherapy once he has 
+recovered from his pneumonia.  He was maintain on his 
+allopurinol and prophylactic Bactrim.  
+.
+4. Anion gap acidosis: He initially had an anion gap acidosis 
+that was likely secondary to lactate.  His anion gap acidosis 
+resolved with fluid resuscitation.
+.
+5. Acute renal failure: On admission, his BUN and creatinine 
+were elevated.  This was attributed to a pre-renal etiology in 
+the setting of decreased perfusion from sepsis.  His creatinine 
+returned to baseline with fluid resuscitation.   
+.
+6. Anemia: On admission, his hematocrit was near baseline of 
+27-30.  His iron studies were consistent with anemia of chronic 
+disease and his B12 and folate were normal.  His hematocrit 
+dropped to 18 on hospital day 1, which was likely secondary to 
+dilution from fluid resuscitation.  He received 1 U packed red 
+cell transfusion with an appropriate increase in his hematocrit. 
+ He hematocrit remained stable above 25 throughout the remainder 
+of the admission.   
+.
+7. Hyperglycemia: He has no history of diabetes.  His elevated 
+glucose was likely secondary to steroids.  He was covered with 
+an insulin sliding scale.
+.
+8. FEN: He was maintained on a regular diet.  Initially, he 
+received IV fluid resuscitation for low blood pressure as above. 
+ His electrolytes were repleted.
+.
+9. Prophylaxis: Subcutaneous heparin, PPI, bowel regimen.
+.
+10. Access: Left Port-a-cath and peripheral IV.  
+.
+11. Code: DNR/DNI
+.
+12. Dispo: He was discharged to rehab once his respiratory 
+status had improved.  He will follow-up with his oncologist to 
+discuss when to start cycle 3 of EPOCH.
+ 
+Medications on Admission:
+Medications on Admission:
+Prednisone taper
+SC Heparin
+Pantoprazole 40 mg Tablet PO Q24H
+Gabapentin 800 mg PO Q8H
+Oxycodone 5 mg 1-2 Tablets PO Q2-4HR prn
+Docusate Sodium 100 mg BID
+Senna 8.6 mg 1 Tablet PO BID 
+Oxycodone 40 mg Tablet Sustained Release 12HR 
+Trimethoprim-Sulfamethoxazole 160-800 mg 1 Tablet PO 3X/WEEK 
+(MO,WE,FR)
+Allopurinol 300 mg DAILY
+
+ 
+Discharge Medications:
+1. Pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One 
+(1) Tablet, Delayed Release (E.C.) PO Q24H (every 24 hours).  
+2. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2 
+times a day).  
+3. Senna 8.6 mg Capsule Sig: One (1) Tablet PO BID (2 times a 
+day).  
+4. Heparin (Porcine) 5,000 unit/mL Solution Sig: One (1)  
+Injection TID (3 times a day).  
+5. Gabapentin 400 mg Capsule Sig: Two (2) Capsule PO Q8H (every 
+8 hours).  
+6. Allopurinol 100 mg Tablet Sig: Two (2) Tablet PO DAILY 
+(Daily).  
+7. Nystatin 100,000 unit/mL Suspension Sig: Five (5) ML PO QID 
+(4 times a day) as needed for thrush.  
+8. Trimethoprim-Sulfamethoxazole 160-800 mg Tablet Sig: One (1) 
+Tablet PO 3X/WEEK (MO,WE,FR).  
+9. Oxycodone 20 mg Tablet Sustained Release 12HR Sig: Three (3) 
+Tablet Sustained Release 12HR PO Q12H (every 12 hours).  
+10. Oxycodone 5 mg Tablet Sig: Two (2) Tablet PO Q4-6H (every 4 
+to 6 hours) as needed.  
+11. Prednisone 20 mg Tablet Sig: Two (2) Tablet PO DAILY 
+(Daily).  
+12. Insulin Regular Human 300 unit/3 mL Insulin Pen Sig: sliding 
+scale  Subcutaneous four times a day: Check QID fingersticks and 
+use sliding scale as follows:
+150-199:2Units
+200-249:4Units
+250-299:6Units
+300-349:8Units
+350-300:10Units.  
+13. Levofloxacin 500 mg Tablet Sig: One (1) Tablet PO once a day 
+for 3 days.  
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+ArberJonice
+ 
+Discharge Diagnosis:
+Pneumonia
+Lymphoma
+Acute renal failure
+Anion gap metabolic acidosis
+
+ 
+Discharge Condition:
+Stable.  His oxygen requirement has decreased.
+
+ 
+Discharge Instructions:
+Please take all medications as prescribed.  [**Doctor First Name 27**] will finish a 14 
+day course of antibiotics with levofloxacin for your pneumonia.
+
+ 
+Followup Instructions:
+[**Doctor First Name 27**] have the following appointment with Dr. [**First Name (STitle) **]:
+Provider: [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 160**], MD [**MD Number 161**]:[**Telephone/Fax (1) 162**] 
+Date/Time:[**3382-11-21**] 2:30
+
+ 
+                             [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 160**] MD [**MD Number 163**]
+ 
+Completed by: [**First Name4 (NamePattern1) 1970**] [**Last Name (NamePattern1) 5477**] MD [**MD Number 5478**] [**3382-11-18**] @ 1333
+Signed electronically by: DR. [**First Name11 (Name Pattern1) **] [**Initials (NamePattern4) **] [**Last Name (NamePattern4) **]
+ on: MON [**3382-12-9**] 4:34 PM
+(End of Report)
+
+
+",,
+24483,28478,30393,0,3382-11-10 04:39:00 EST,3382-11-10 05:04:00 EST,7540,"N",69,"Nursing/Other",,"
+
+PT DNR/DNI
+
+ACCESS: PORT-A-CATH, PIV X 1
+
+PT WITH PMHX OF LYMPHOMA. RECENTLY ADMITTED TO [**Hospital1 3**] [**Date range (1) 4645**] DIAGNOSED AT THIS TIME WITH INVOLVEMENT IN THE LUMBAR SPINE AS [**Doctor Last Name **] AS CERVICAL SPINE.(PT WEARS SOFT C-COLLAR FOR SUPPORT AND LUMBAR BINDER WHEN OOB) FINISHED CHEMO 2 WKS PTA AND XRT 2 DAYS PTA. PT WAS DC TO COURTYARD REHAB FACILITY WHERE AM [**11-9**] C/O GENERALIZED WEAKNESS STARTING SUDDENLY. EMS CALLED. PT HYPOTENSIVE 80'S, TACHYCARDIC 140'S, SATS INTERMITTENTLY TO 70'S AND FEBRILE. CXR REVEALS PATCHY BILAT INFILTRATES CONSISTENT WITH PNA.GIVEN FLUID BOLUSES AND O2 UPON ADMIT TO ICU BP 100'S, SATS ON 5L NC 100%, HR 90'S AND AFEBRILE.
+
+NEURO: PT A&OX3, MAE LEGS SLIGHTLY WEAKER([**2-13**] TO LYMPHOMA IN LUMBAR SPINE)PERLL. DENIES PAIN. 
+
+CV: 500CC FLUID BOLUS GIVEN FOR BP 89/48 PT ASYMPTOMATIC + RESULTS. SBP 89/48-111/48. LOWER WHEN PT ASLEEP. FIRST DEGREE AVB HR 76-102
+
+PULM: ABLE TO TITRATE TO 4LNC SATS 96-100%. DENIES SOB LUNGS COARSE THROUGHT. NO COUGH, NO DYSPNEA.
+
+GI/GU: UOP 30-80CC/HR OF CLEAR YELLOW URINE. SLIGHT EDEMA TO LOWER EXT.+BS PT WITH REG STOOL REGEMINE BUT STATES NO BM 3-4 DAYS. PT [**First Name9 (NamePattern2) 760**] [**Doctor First Name 458**] DIET NO SWALLOWING DIFFICULTY. BLOOD SUGARS QID. INCREASED [**2-13**] STEROID USE. COVER WITH RISS. 
+
+SKIN: PT WITH LARGE REDDENED ARE TO COCCYX. NO BREAK IN SKIN PINK BLANCHING BASE. TURN FREQ.
+
+ID: AFEBRILE .ON VANCO/LEVO/MEROPENEM BLOOD CX PEND
+
+HEME: HCT DOWN28-18.6 WILL RECHECK. WBC NORMAL. LACTATE DOWN 4.2-2.4 AWATING CHEMISTY.
+
+PLAN:TRANSFER IN AM 
+     CONT ANTIBIOTICS MONITOR FOR TEMP
+     MONITOR SATS CONT TO TITRATE 02
+     
+     
+PLAN: 
+",,
+24483,28478,30393,0,3382-11-10 14:01:00 EST,3382-11-10 14:21:00 EST,228,"N",69,"Nursing/Other","pmicu nursing progress note","
+pmicu nursing progress note
+cardiac: pt is a dnr/dni.  BP 100-125/47-56 with a pulse of 82-101 sr/st, no ectopy noted. receiveed 3gms of mag for a mg of 1.7.  
+
+resp:  on 4L nasal prongs with a resp rate of 12-20 and o2 sats of 92-99%.  lung sounds are coarse.  non-productive cough.  unable to obtain a sputum specimen for micro.  
+
+id:  afebrile.  temps of 95.4 ax and 96.4 ax.  wbc was 7.6.  rec'd one dose of meropenum.  presently on vanco, bactrim, levofloxacin and ceftaz.  urine and blood cultures from [**11-9**] are pending. urine legionella is pending.
+
+gi:  abdomin soft, with + bowel sounds.  tolerating solids and liquids.  
+
+heme:  admission hct was 18.1,, redrawn hct was 24.1.  pt 12.6, ptt 32.9 and inr 1.1. blood clot outldates on [**11-12**]. 
+
+gu:  foley in place.  urine output approx 30-60cc/hr.  3a bun was 20 and creat was 0.6.  
+
+endo:  pt has fingersticks q6hrs, as pt is on tapering prednisone.  fingerstick at 12p was 154 and pt rec'd 2u reg insulin. 
+
+neuro:  pt wears a soft collar for cervical involvement.  pt also has some peripheral neuropathy from prednisone.
+
+access:  iv on right lower arm #20 and portacath in left subclavian. 
+",,
+24483,28478,30394,0,3382-11-12 06:24:00 EST,3382-11-12 06:33:00 EST,7447,"N",69,"Nursing/Other","Admission/Shift assessment.","
+Admission/Shift assessment.
+Pt. admitted at 2230 on [**11-11**] for PCP, [**Name10 (NameIs) 4646**], hypoxia on 11 [**Hospital Ward Name 661**]. Pt. arrived in ICU on NRB mask at 100%, sats 94-100%. Pt. not short of breath at time of admission. No hypoxic episiodes since admission. Assessment as noted below-
+Neuro-AAOX3, very pleasant, understands plan of care and hospitalization. No C/O pain throughout shift. Slept several hours off and on during the night.
+Resp-Admitted on [**Last Name (LF) 3420**], [**First Name3 (LF) 4647**] changed to neb. open facemask at 80%. Slowly weaned per RT, currently at 50%. Pt. sats have remained >93%. No SOB, no accessory muscle usage. AM ABG adequate.  PT IS DNR/DNI.
+CV-HR 90-100's. Rare PVC's. HR SR/ST. Port-a-cath left subclavian, patent, PIV rt. arm. AM labs pending. One episode of SBP in 80's while pt. was in deep [**Doctor Last Name **], recovered when awake. Afebrile. 
+GI-NPO (bronch today?). Large formed BM last PM. Abd soft, distended.
+GU-adequate UOP. Amber colored urine to foley cath/gravity.
+Integ-Pt. has bruising on upper ext. and abd. Large stage 1 decub. to coccyx. Open to air with barrier cream, pt turn q2 and prn. Soft Collar to cervical spin.
+For more information, see flow sheet/admission hx.
+",,
+24483,28478,30394,0,3382-11-12 17:21:00 EST,3382-11-12 17:25:00 EST,5240,"N",69,"Nursing/Other",,"
+
+Resp Care
+
+Pt admitted from the floors with increased SOB and high FiO2 requirements. Currently weaned to 6L NC tol well with spo2 in the mid to upper 90s. Sputum induction obtained and sent to lab for 2nd PCP smear [**Name8 (MD) 59**] [**Name9 (PRE) 4648**] PCP smear negative. Will cont to monitor resp status and wean FiO2 as tolerated.
+",,
+24483,28478,30394,0,3382-11-12 18:25:00 EST,3382-11-12 18:59:00 EST,7635,"N",69,"Nursing/Other","MICU NURSING PROGRESS NOTE (0700-1900)","
+MICU NURSING PROGRESS NOTE (0700-1900)
+S:  PT DENIES PAIN AND SOB.
+
+O:  NEURO--A+O X3.  MOVES BLE ON BED AND CAN LIFT AND HOLD BUE.  
+
+SKIN--STAGE II DECUBITUS ON COCCYX.  DUODERM GEL APPLIED AND COVERED WITH DUODERM.  TURN Q2HR WHILE IN BED.  BOTH HEELS ARE ERYTHEMATOUS, PROTECTIVE LOTION APPLIED.  2+ EDEMA ON ALL EXTREMITIES.
+
+ACTIVITY--MAXIMUM 2 PERSON ASSIST FOR OOB TO CHAIR.  L HIP SURGERY IN [**3382-7-12**], CONTRIBUTING TO LIMITED MOBILITY.
+
+RESP--WEANED DOWN TO 4L NC, MAINTAINING O2 SATS > 94%.  PRODUCTIVE COUGH FOR YELLOW SPUTUM.
+
+CARDIAC--REMAINS IN NSR/ST.  MAP > 65.
+
+GU--FOLEY INTACT AND PATENT, DRAINING CLEAR YELLOW URINE.
+
+GI--BS X4.  ABD IS SOFT AND DISTENDED.  BM X2 FOR SMALL, FORMED, BROWN STOOL.  TOLERATING HOUSE DIET, WITH LIMITED APPETITE.  
+
+ID--PT IS AFEBRILE.  RECEIVING MULTIPLE ANTIBX.
+
+ENDO--BS 100-191, COVERED WITH SSRI.
+
+COPING--SON CALLED THIS AM.  UPDATED REGARDING PT'S CURRENT STATUS.  PER PT, NEIGHBOR IN TO VISIT IN AFTERNOON. SON AND WIFE IN TO VISIT.
+
+A:  PT IS TOLERATING MEDS AND ACTIVITY.  IS READY FOR TRANSFER TO FLOOR.
+
+P:  CONTINUE TO MONITOR.  PREPARE FOR TRANSFER OUT OF ICU.  CONTINUE TO PROVIDE SUPPORT FOR PT AND FAMILY.
+
+",,
+24483,28478,30394,0,3382-11-12 19:06:00 EST,3382-11-12 19:08:00 EST,188,"N",69,"Nursing/Other","ADDENDUM TO NOTE 0700-1900","
+ADDENDUM TO NOTE 0700-1900
+THE ABOVE NOTE WRITTEN BY [**Last Name (NamePattern4) 4649**] IS ACCURATE. 
+
+
+",,

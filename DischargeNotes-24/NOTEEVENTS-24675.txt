@@ -1,0 +1,1558 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+24675,12423,,,2918-12-17 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+
+
+Admission Date:  [**2918-12-17**]     Discharge Date:  [**2918-12-24**]
+
+Date of Birth:   [**2863-4-13**]     Sex:  M
+
+Service:  CCU
+
+HISTORY OF PRESENT ILLNESS:  This is a 55-year-old man
+admitted to the Coronary Care Unit after four left anterior
+descending artery stents were placed for an acute
+anterolateral ST-elevation myocardial infarction.
+
+The patient has a history of hypertension and a family
+history of coronary artery disease.  No known history of
+personal coronary artery disease, hypercholesterolemia, or
+diabetes mellitus.
+
+He was washing his bus today when he noted the onset of
+severe left-sided chest pain (like ""knives""), diaphoresis,
+and nausea.  He was taken by Emergency Medical Service to
+[**Hospital3 1333**] Hospital in [**Location (un) 1350**] where an acute
+anterolateral myocardial infarction was noted on the
+electrocardiogram.  He received aspirin, nitroglycerin,
+heparin, and was transferred to [**Hospital1 73**] for percutaneous coronary intervention.
+
+In the Catheterization Laboratory, the patient had an
+Angio-Jet of a complete mid left anterior descending artery
+lesion and four stents placed.  He was briefly hypotensive
+during the procedure and was given dopamine until an
+intra-aortic balloon pump was placed.  He was transferred to
+the Coronary Care Unit stable off of dopamine.
+
+PAST MEDICAL HISTORY:
+1.  Hypertension.
+2.  Multiple sclerosis (Symptoms include dysarthria and left
+leg weakness worse with exertion.  The patient has just
+completed a 6-month regimen of chemotherapy and steroids;
+alternating months).
+3.  Possible nephrotic syndrome (lower extremity edema,
+protein in urine).
+
+MEDICATIONS ON ADMISSION:  Medications at home included
+lisinopril b.i.d., tizanidine, Lasix 20 mg p.o. b.i.d.,
+albuterol, and famotidine.
+
+ALLERGIES:  No known drug allergies.
+
+SOCIAL HISTORY:  He lives in [**Location 1350**] with his wife and four
+children.  He drives a [**Hospital1 **] bus.  He has no history of
+smoking or alcohol use.
+
+FAMILY HISTORY:  Family history positive for coronary artery
+disease; his sister was deceased at the age of 58, status
+post coronary artery bypass graft times three.  His mother
+had coronary artery disease.
+
+PHYSICAL EXAMINATION ON PRESENTATION:  Examination upon
+admission revealed vital signs were stable and unremarkable.
+He had no carotid bruits.  His lungs were clear to
+auscultation bilaterally.  His heart was regular in rate and
+rhythm with soft heart sounds.  His abdomen was benign.  His
+right groin catheter site was soft and without hematomas or
+bruits.  He had dorsalis pedis pulses present bilaterally.
+His neurologic examination revealed alert and mentating well
+with dysarthria.
+
+PERTINENT LABORATORY DATA ON PRESENTATION:   Laboratories on
+admission revealed white blood cell count was 14.6,
+hematocrit was 37, platelets were 263.  INR was 1.3, PTT was
+98.2.  Sodium was 139, potassium was 4,  chloride was 103,
+bicarbonate was 22, blood urea nitrogen was 25, creatinine
+was 0.8, and blood glucose was 133.  Calcium was 9.6.  His
+first creatine kinase was 300.  His blood gas was
+7.41/38/302.
+
+RADIOLOGY/IMAGING:  Electrocardiogram prior to
+catheterization demonstrated a sinus rhythm at the rate of
+88, normal axis and normal intervals.  ST elevations in I,
+aVL, V2 through V5.  ST depressions in III and aVF.
+
+Catheterization results with pressures which revealed right
+atrial pressure mean of 9 mmHg, pulmonary artery was 42/21,
+right ventricular was 50/5.  Arteries revealed left anterior
+descending artery with diffuse 30% proximal lesion, 100% mid
+lesion, 90% origin first diagonal lesion.  The left
+circumflex with diffuse 30% ostial/proximal 40% mid, 70% left
+posterior descending artery.  The right coronary artery with
+mild luminal irregularities.
+
+HOSPITAL COURSE BY SYSTEM:
+
+1.  CARDIOVASCULAR SYSTEM:  (a)  Coronaries:  As above, the
+patient had 2-vessel coronary artery disease and had four
+stents placed in his left anterior descending artery.  He was
+enrolled in the Cool-MI trial.
+
+The patient was treated with aspirin, Plavix, Lipitor,
+captopril, and metoprolol status post myocardial infarction.
+His peak creatine kinase was 7436 with a MB fraction of 830.
+The creatine kinases after this trended downward.  After his
+intervention, the patient did not have any evidence of
+ischemia by symptoms or by electrocardiogram.
+
+(b)  Pump:  The patient was maintained on an intra-aortic
+balloon pump for one day following his percutaneous coronary
+intervention.  The balloon pump was weaned without event.
+
+He had an echocardiogram on day three status post myocardial
+infarction which revealed an left ventricular ejection
+fraction of 25% to 30%, with severe regional left ventricular
+systolic dysfunction; comprising septal, anterior, and apical
+akinesis.  The patient was placed on heparin for this
+akinesis; which was converted to warfarin prior to discharge.
+
+(c)  Rhythm:  The patient had multiple runs of nonsustained
+ventricular tachycardia after his myocardial infarction.  The
+longest run consisted of 15 beats to 20 beats and occurred
+within 48 hours of his infarction.  He had several shorter
+runs of 5 beats to 10 beats occurring more than two days
+status post myocardial infarction.
+
+The Electrophysiology Service was consulted regarding
+implantable cardioverter-defibrillator placement.  They
+elected to see the patient in one month when his course of
+Plavix was completed and he was at less of a risk of
+bleeding.  He was to have a T wave alternans study at this
+time and follow up with Dr. [**Last Name (STitle) 598**] of the
+Electrophysiology Service.
+
+2.  PULMONARY SYSTEM:  The patient oxygenated well throughout
+his admission and did not have pulmonary problems.
+
+3.  RENAL SYSTEM:  The patient's creatinine remained stable
+at a level under 1 throughout his admission.
+
+4.  HEMATOLOGY:  The patient had a drop in his hematocrit
+from 37 to 31.4 after his catheterization.  His hematocrit
+remained stable around 30 to 31 after that initial drop, and
+he did not receive any blood transfusions.
+
+5.  ENDOCRINE SYSTEM:  The patient was noted to have multiple
+fasting blood sugars of greater than 126 during this
+admission.  He had a hemoglobin A1c that was in the upper
+limits of normal range.  He was to follow up with his primary
+care physician for further diagnosis and management of
+possible type 2 diabetes mellitus.
+
+DISCHARGE DIAGNOSES:
+1.  Acute ST-elevation myocardial infarction.
+2.  Status post left anterior descending artery stents.
+
+CONDITION AT DISCHARGE:  Condition on discharge was fair.
+
+MEDICATIONS ON DISCHARGE:
+1.  Coumadin 5 mg p.o. q.h.s.
+2.  Lisinopril 10 mg p.o. q.d.
+3.  Metoprolol-XL 150 mg p.o. q.d.
+4.  Aspirin 325 mg p.o. q.d.
+5.  Lipitor 10 mg p.o. q.d.
+6.  Plavix 75 mg p.o. q.d. (times one month).
+7.  Protonix 40 mg p.o. q.d.
+8.  Lasix 40 mg p.o. b.i.d.
+
+DISCHARGE STATUS:  Discharge status was to home.
+
+DISCHARGE FOLLOWUP:
+1.  The patient was to follow up with the Cardiology Clinic
+at [**Hospital1 4**] in one to two weeks.
+2.  The patient was to follow up with Electrophysiology in
+three to four weeks.
+3.  The patient was to follow up with primary care physician
+in one to two weeks.
+
+
+
+
+                          [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 1008**], M.D.  [**MD Number 1009**]
+
+Dictated By:[**Last Name (NamePattern1) 5629**]
+
+MEDQUIST36
+
+D:  [**2918-12-29**]  09:00
+T:  [**2918-12-30**]  11:42
+JOB#:  [**Job Number 5845**]
+Signed electronically by: DR. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **]
+ on: TUE [**2919-1-24**] 11:41 AM
+(End of Report)
+
+
+",,
+24675,12423,30639,,2918-12-18 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2918-12-18**] 2:05 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 4952**]
+     Reason: verify IABP positioning                                     
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      55 year old man s/p large anterolateral MI, LAD stents                          
+     REASON FOR THIS EXAMINATION:
+      verify IABP positioning                                                         
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Placement of IABP.
+     
+     CHEST AP:  Comparison is not available.  There is placement of intraaortic
+     balloon pump, which about 5.8 cm below the aortic arch.  Also noted is a
+     right-sided femoral line.  The heart is within normal limits.  The pulmonary
+     vasculature is slightly prominent.  There is no focal consolidation.  No
+     evidence of pleural effusion or pneumothorax.
+     
+     IMPRESSION:
+     
+     1) The tip of the intraaortic balloon pump is 5.8 cm below the aortic arch.
+     
+     2) There is evidence of mild pulmonary edema.
+
+",,
+24675,12423,30639,0,2918-12-18 05:55:00 EST,2918-12-18 06:03:00 EST,478,"N",1,"Nursing/Other","CCU NPN","
+CCU NPN
+55YO MALE ADM WITH AMI. CATH REVEALED A TOTAL OCCLUSION OF THE MLAD THAT WAS STENTED X 4.  IABP PUMP WAS PLACED AND HE IS IN THE COOL MI STUDY (CONTROL).  AFEBRILE.  HR ELEVATED HIGH 70'S TO LOW 90'S INITIALLY HAVING RUNS OF VT NOW WITH OCC BEATS OF VT.  IABP ON 1:1 WITH GOOD AUGMENTATION AND SYSTOLIC UNLOADING. PADS ELEVATED IN THE LOW 20'S WITH THE CVP IN THE MID TEENS. INTEGRILLIN AT 2MCG/KG/MIN.  R GROIN HAS REMAINED D/I WITH DISTAL PULSES PALPABLE.  CPK'S ARE RISING, LAST BEING IN THE LOW 7000'S.  TOLERATED LOPRESSOR 12.5MG. DENIES CP/SOB.  LUNGS ARE BASICALLY CLEAR WITH GOOD SATS ON 2L NP.  ABLE TO VOID VIA CONDOM CATH WITHOUT DIFFICULTY. ATE A LIGHT DINNER WITH MILD NAUSEA THAT RESOLVED ON OWN. C/O R GROIN PAIN AND REC'D PERCOCET X 2 WITH MILD RELIEF OF PAIN.  ALSO REC'D AMBIEN 5MG X 2 WITH MILD EFFECT. DOZED ON/OFF THROUGHOUT NIGHT.  FAMILY AND CLERGY IN TO VISIT. 
+A: R'ING IN FOR MI
+  ^ AMTS OF VT RESOLVING ON OWN
+   IABP
+P: CONT TO FOLLOW FILLING PRESSURES > ? LASIX
+   CONTS IWTH ^ HR/MAP ? INCREASE IN LOPRESSOR
+   PREPARE FOR REMOVAL OF IABP 
+",,
+24675,12423,30639,0,2918-12-18 17:27:00 EST,2918-12-18 17:40:00 EST,507,"N",1,"Nursing/Other",,"
+
+CCU NURSING PROGRESS NOTE 7A-7P
+
+NEURO: Pt is alert and oriented x3. Cooperative with care. Able to assist with turning, etc.
+
+RESP: LS clear on 2L NC with sats maintained ~98%. 
+
+CARDIAC: Pt remains on IABP 1:1 with good systolic ([**7-26**]) and diastolic ([**2-26**]) unloading. PADs mid to upper 20's. CVP 11-14. Pt started on captopril as well as increasing doses of lopressor. HR consistently in 80's NSR with infreq runs of NSVT, MAPS >80. Plan to keep IABP for another 24 hrs given slow recovery of CPKS (5177->3682) and size of MI. Mg 1.7-> repleted with 2gm IV. Pt also started on heparin gtt at 1100u/hr. PTT pending this evening.
++palpable pedal pulses. right groin clean and dry without any s/s hematoma or further oozing from line sites.
+
+GI: Tolerating heart healthy diet. No s/s n/v. Abd soft NT. +BS. No stool this shift. HCT stable.
+
+GU: condom cath draining clear yellow urine. Pt is +1800cc at this time. May benefit from diuresis.
+
+ID: afebrile.
+
+FAMILY/COPING: Pt voicing concerns over ""size/extent"" of his MI. Dr. [**Last Name (STitle) **] had long conversation with pt and family and all able to verbalize understanding of situation. Will cont to support pt/family as needed. Pt will need further teaching at time of d/c.
+
+",,
+24675,12423,30639,0,2918-12-19 03:31:00 EST,2918-12-19 03:42:00 EST,478,"N",1,"Nursing/Other","CCU NPN","
+CCU NPN
+S: ""I FEEL ANSY...""
+O: SEE VS/OBJECTIVE DATA PER CARE VUE.  LOW GRADE TEMP. 
+CV: 70-80'S SR WITH RARE/OCC PVC, NO FURTHER RUNS OF VT NOTED.  IABP CONTS AT 1:1 WITH GOOD AUGMENTATION AND SYSTOLIC UNLOADING.  MAPS INITIALLY IN THE LOW 60'S RAISING TO THE 70-80'S AS  NIGHT CONTS.  LOPRESSOR DECREASED TO BID, INCREASED CAPTOPRIL TO 25MG, REC'D AT 12A AND TOLERATED WELL.  R GROIN D/I WITH DISTAL PULSES PALPABLE. CPK'S CONT TO DECREASE.  HEP AT 1300U/HR WITH THERAPEUTIC PTT. 
+RESP: LUNGS CLEAR TO, O2 AT 2LNP WITH GOOD SATS.  PAD'S IN THE MID 20'S WITH NO FURTHER DIURESIS.   
+GI/GU: NO FURTHER PROBLEMS WITH NAUSEA/REFLUX.  NO BM.  VOIDING VIA CONDOM CATH.  
+MS: ALERT AND ORIENTED, VERY COOPERATIVE WITH CARE. C/O BACK DISCOMFORT REC'D PERCOCET WITH GOOD RELIEF.  REC'D AMBIEN FOR [**Doctor Last Name 7**] WITH LITTLE EFFECT.  
+A: S/P MI
+   IABP TOL WELL
+   ELEVATED PAD'S
+P: PREPARE FOR D/C OF IABP
+   ? FURTHER GENTLE DIURESIS
+   
+",,
+24675,12423,30639,0,2918-12-19 06:45:00 EST,2918-12-19 06:47:00 EST,478,"N",1,"Nursing/Other","NRSG NOTE ADDENDUM","
+NRSG NOTE ADDENDUM
+""I'M HAVING SOME PAIN....LIKE THE KIND I CAME IN FOR BUT MUCH LESS...I JUST DON'T KNOW IF I'M GOING TO BE OK""...
+PT WITH ABOVE COMPLAINT BUT CP WAS FLEETING (PAIN LASTED LESS THAN 2 MINS), EKG AFTER PAIN WAS OBTAINED WITH SOME QRS CHANGES NOTED IN V5-V6. PT REC'D CAPTOPRIL AND LOPRESSOR EARLY AND ALSO REC'D TOTAL OF 1MG ATIVAN. TEAM AWARE OF PAIN.
+",,
+24675,12423,30639,0,2918-12-19 14:48:00 EST,2918-12-19 15:09:00 EST,142,"N",1,"Nursing/Other","CCU Nursing Progress Note","
+CCU Nursing Progress Note
+55yom s/p AMI LAD stents x4 [**12-17**].
+S-""I still have the back pain from lying in bed""
+O-Neuro alert and oriented x3, very pleasant and cooperative. Uncomfortable d/t lying in bed on his back or side. Relieved transisently with percocett for 3-4hrs. Started serax 15mg q4hrs with fair effect. Asking for oxygen because he was nervous about having catheter removed. Wife called due to to come in this afternoon.
+CV- Tolerating captopril and lopressor doses. ACT 175 heparin d/c'd at 1300. IABP weaned and removed at 1400. Heparin on hold until 1800.
+received fentanyl 25mcg IVB for pain during removal. Right groin no hematoma/bleeding. Pedal pulses easily palpable.
+Resp- Ls clear O2 weaned off O2 sats 95%
+ID afbrile
+GU- condom cath voiding well received lasix 40mg IVB diuresed 1000cc,
+GI-Appetite good no further nausea. NO BM
+Social- married with 4 grown children (3 at home).
+A/P-stable s/p AMI LAD stent
+Restart heparin at 1800 at 1300u/hr
+Bedrest until Tues am but can sit up after 10pm
+",,
+24675,12423,30639,0,2918-12-19 21:46:00 EST,2918-12-19 21:57:00 EST,492,"N",1,"Nursing/Other","CCU NURSING PROGRESS NOTE 3P-11P","
+CCU NURSING PROGRESS NOTE 3P-11P
+S.  DENIES PAIN OR BACK DISCOMFORT
+
+O.  SEE CAREVUE FLOWSHEET FOR COMPLETE VS, OBJECTIVE DATA
+
+CV:  H5 84-91 SR, RARE PVC'S, BP INITIALLY 106/64  AT 1600 RECEIVED
+INCREASED DOSE CAPTOPRIL 37.5 PO W/BP DOWN TO 79/49-93/50'S, ASSYMPTOMATIC;  LOPRESSOR, EVENING LASIX HELD, CAPTOPRIL DOSE DECREASED TO 25MG FOR NEXT DOSE; HEPARIN RESTARTED AT 1300U/HR AT 1800, R GROIN SITE S/P IABP CLEAN AND DRY, NO HEMATOMA OR ECCHYMOSIS NOTED, PULSES 3+/2+ BILAT, FEET BILAT WARM; COUMADIN 10MG STARTD X1 THIS EVE
+
+RESP:  SATS 94-96% ON ROOM AIR, LUNGS CLEAR EXCEPT FOR EXERTIONAL EXP WHEEZE
+
+GI: TOLERATING CARDIAC DIET IN SMALL AMOUNTS, NO STOOL
+
+GU: CONDOM CATHETER IN PLACE, URINE CLEAR, YELLOW, 1800 CC NEGATIVE TODAY AFTER RECEIVING IV LASIX IN AM, PO LASIX DOSE HELD SECONDARY TO LOW BP THIS EVENING
+
+SOCIAL:  FAMILY IN TO VISIT THIS EVE; VERY SUPPORTIVE
+
+A:  TOLERATING IABP WEAN, DID NOT TOLERATE INCREASED CAPTOPRIL DOSE ESP IN COMBINATION W/IV LASIX/DIURESIS
+
+P:  FOLLOW BP'S, ADD BACK MEDS AS TOLERATED
+    REPEAT PTT AT 12 AM ON HEPARIN; FOLLOW PT'S ON COUMADIN
+    FOLLOW GROIN SITES/PULSES
+    INCREASE ACTIVITY AS TOL TOMORROW, EMOTIONAL SUPPORT FOR PT/FAMILY
+    BEGIN CARDIAC REHAB/TEACHING
+",,
+24675,12423,30639,0,2918-12-20 05:03:00 EST,2918-12-20 05:20:00 EST,330,"N",1,"Nursing/Other","CCU NPN 2300-0700","
+CCU NPN 2300-0700
+S: "" I feel much better now ""
+O:  pt. states back pain is much improved.  did not require any further pain med. since [**12-19**] 2200 dose.  
+TM 100-98.8po.  
+HR 70's SR.  rare PVC.  BP down to 88/50 2400-0100.  no treatment.  lopressor/captopril held.  BP gradually trending up into 90's-100/50 MAP 64 toward Am.  
+- voiding with comdom cath q4-6 hours.
+- negative 1.8 L at 12am.  
+
+PTT 55.8 on 1300u/rh.  heparin increased to 1500u/hr at 0200.  
+
+slept well through night,  wakes easily.  Ox3. 
+
+A/P:  restart CV meds per HO.  dangle as tol. today.  recheck PTT.  
+",,
+24675,,,,2919-05-23 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     REST MIBI                                                       Clip # [**Clip Number (Radiology) 4953**]
+     Reason: COOL MI 
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Patient is post MI of [**2918-12-9**].
+      
+     INTERPRETATION:  SPECT images were obtained following the administration of 
+     Tc-99m sestamibi. The resting images show severe defects in tracer uptake within
+     the apical aspect of the anterior wall, the apical aspect of the lateral wall,
+     and the apex.  There is a moderate amount of decreased tracer uptake within the
+     septum.
+      
+     IMPRESSION:  Multiple areas of severe and moderate decreased tracer uptake as 
+     above.
+     /nkg
+                                                                           
+
+             [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) 4954**], M.D.
+             [**Initials (NamePattern4) 111**] [**Last Name (NamePattern4) 112**] [**Last Name (NamePattern1) 113**], M.D.     Approved: TUE [**2919-5-23**] 5:22 PM
+
+
+             Date Mailed: [**2919-5-24**]
+
+
+
+               RADLINE [**Telephone/Fax (1) 115**]; A radiology consult service.
+            To hear preliminary results, prior to transcription, call the
+                           Radiology Listen Line [**Telephone/Fax (1) 116**].
+
+",,
+24675,,,,2919-06-13 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2919-6-13**] 11:56 AM
+     CHEST (PA & LAT)                                                Clip # [**Clip Number (Radiology) 4955**]
+     Reason: lead placement, PTX                                         
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      56 year old man with new ICD                                                    
+     REASON FOR THIS EXAMINATION:
+      lead placement, PTX                                                             
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  56 year old with new ICD.
+     
+     COMPARISON:  [**2918-12-18**].
+     
+     PA AND LATERAL CHEST:  The left sided AICD device is in place with one lead
+     into the right ventricle and the other into the right atrium.  The leads are
+     in satisfactory position.  There is mild left ventricular prominence. The
+     lungs are clear.  The pulmonary vasculature is normal.  There is mild blunting
+     of the left costophrenic angle and the right costophrenic angle is not imaged.
+     There are mild degenerative changes seen.  There is no pneumothorax seen.
+     
+     IMPRESSION: 1.  No pneumothorax.
+                 2.  Mild cardiomegaly.
+
+",,
+24675,7125,30640,0,2920-07-22 04:47:00 EST,2920-07-22 04:53:00 EST,1017,"N",1,"Nursing/Other","Resp Care","
+Resp Care
+57 yom received as direct adm. from osh with 2 h/o CP. Intubated for CHF, also r/i via enzymes x2 for MI @ OSH, tranferred to [**Hospital1 3**] for further treatment. PNA more prominent on Left./ sepsis vs. cardiogenic shock. Labile BP requring multiple pressors/fluid. Oxygenation improving however would not reccommend reducing PEEP d/t fluid status.
+Otherwise pt. has a compensated resp. acidosis with hyperoxia.
+Continue current support
+
+",,
+24675,7125,30640,0,2920-07-22 05:18:00 EST,2920-07-22 06:21:00 EST,1161,"N",1,"Nursing/Other","CCU Nursing Progress Note 7p-7a","
+CCU Nursing Progress Note 7p-7a
+S: Intubated
+
+O: Please see careview for complete VS/ additional objective data
+
+Pt arrived at 00 from OSH. Pt has an extensive cardiac hx including CAD s/p Ant/Lat STEMI [**12-10**] requiring stent x4 to LAD and IABP support. Pt participated in COOL MI protocol. Hx of severe cardiomyopathy w/ EF 20%. S/p CVA while of Coumadin, MS [**First Name (Titles) **] [**Last Name (Titles) 4892**] placed [**6-10**] by Dr [**Last Name (STitle) 4893**]. Per OSH. Pt was admitted for CP. Pt R/I MI x2 per enzymes. Initially CK/ MB and Trop peakeds at 248/14.1/9.76. Pt was started on Heparin at that time. Cks/ Mb/ Trop trending down until 1600 [**7-21**] when results were 375/30.8/19.54. Pt was transferred to ICU at OSH on Nitro gtt. Pt tachypneic and LS coarse. Angiogram performed to rule out PE. Opacities observed. Pt was diuresed overnoc and at 11am [**7-21**] ^ RR/ O2 requirements ^ and HYPOtn 74/52. Nitro off and Dopa started at 3 mcg. Pt given 500cc IVFB- flash pulmonary edema pt intubated. CO/CI 3.8/2.0 at OSH pt transferred to [**Hospital1 3**] for further mgmt and catheterization.
+ Pt arrived on Dopamine 5 mcg/kg/min, Heparin at 1300u/hr and Nitro at 10mcg. Pt hypotensive and Dopa gtt initially titrated ^ 20 mcg w/o much effect.  Pt febrile and cardiac numbers 10/5.03/448 revealing sepsis. Pt tachycardic ^120s. Weaned Dopamine and titrated NEO gtt ^ 3.00 mcg/kg/min. Levophed started and titrated upto 0.400 mcg. Attempted to wean Neo gtt w/o much effect. Per request of HO Neo gtt retitrated and Levo was weaned to off as well as Nitro gtt for ^ filling pressures. Following abx x3 ( Flagyl, Vanco and Ceftriaxone) Most recent cardiac numbers this am were 3.9/1.96/1149 indicating cardiogenic shock. Per HO pt started on Dopamine gtt at 5 mcg/kg/min and weaned Neo gtt to 1.0 mcg/kg/min. ABP currently 91/60 (71). ABP 81-111/51-68. Goal map > 65. NIBP correlates w/ in 5-10 points. HR 73-80. NSR/ST w/ occassional to frequent PVCs. HR< 80 AV pacing noted. AICD  placed on prior admission. PAP 67-87/29-40. CVP 11-24. Dopplerable pulses. Electrolytes stable. CK/ MB/ Trop at [**Hospital1 3**] 260/9/2.53. PTT >150. Heparin was turned off x1 hr and infusion rate was decreased to 900U/hr (1300) per protocol.
+
+Resp: Received pt on AC 100%/ 600*12/5P. PAO2 87%. ^ Peep to 8. ABG 7.47/44/371. Decreased FIO2 for ^ PAO2. Most recent ABG  7.41/46/125. No vent changes made. Pt currently on AC 50%/ 12*600/ 8 peep. RR 14-17. O2 sats 95-99%. MV 77-54. Pt coarse w/ crackles [**2-9**] ^ and expiratory wheezed more pronounced this am. Suctioned for pink frothy- rust colored sputum in sm- mod amts.
+
+GI: Abd soft slightly distended. Hypoactive BS. NGT to suction. Grn bilious content present. Guiac negative. 
+GU: F/C to gravity. Hematuria noted upon arrival. 120mg IV Lasix x2 at OSH w/ minimal effect. ? CHF administered additional 120mg Lasix w/o effect. Output 75cc. After cardiac numbers obtained indicating sepsis pt was administered 500cc IVFB. Pt currently 1L positive and BUN/CR 72/1.8.
+
+ID: Febrile. Tmax 101.6 PR. Given Tylenol 650mg x2 PR. Started on triple ABX Vanco, Flagyl and Ceftriaxone. Pan Cx. Sput
+",,
+24675,7125,30640,0,2920-07-22 05:19:00 EST,2920-07-22 06:21:00 EST,1161,"N",1,"Nursing/Other","CCU Nursing Progress Note 7p-7a","
+CCU Nursing Progress Note 7p-7a
+(Continued)
+um cx G+ cocci/ rods. 
+
+Skin: Intact.
+
+Access: Arrived w/ PA swan, 2 PIVs. Aline placed by team. 
+
+Social: Wife and children very supportive. Updated by HO. Family visiting in shifts.
+
+A/p: 57 yo male w/ extensive cardiac hx. R/I MI at OSH. Transferred to [**Hospital1 3**] for cath following 2nd MI. Upon arrival pt presented w/  early septic picture. Following titration/ weaning of pressors and triple abx pt cardiac numbers representing cardiogenic shock  ? Right sided involvement. Pt presently tolerating wean of Neo gtt to 1.0 mcg/kg/min and remains on 5 mcg/kg/min. Cont to wean pressors as tolerated. Cont abx for pna. Follow cx for additional growth. Currently cx still pending. Wean vent as tolerated. Ptt supratherapeutic and turned off and restarted at lower rate. Repeat PTT at 1130 am. Cont to support pt and family as indicated. 
+",,
+24675,7125,30640,0,2920-07-22 06:35:00 EST,2920-07-22 06:38:00 EST,1161,"N",1,"Nursing/Other","Addendum","
+Addendum
+MS: Pt unresponsive after receiving 100mcg Fentanyl and 4 mg Ativan in transit. Initially unsedated but during line placemnt pt MAE. Placed on Propofol gtt and titrated to 20mcg/kg/min. +gag. + cough. PEARL. 3mm in size. Brisk in response. Soft restraints applied to maintain safety of ETT/ invasive lines.
+
+Endo: FS qid. BS 172. Given 2 units per RISS. Cont to follow. No hx DM. If BS remains elevated. ? insulin gtt. 
+",,
+24675,7125,30640,0,2920-07-22 15:49:00 EST,2920-07-22 16:02:00 EST,187,"N",1,"Nursing/Other",,"
+
+SP MI, PNEUMONIA ,CHF REQUIRING INTUBATION AND PRESSERS  AT OSH  C HX 20% EF,MI ,STENT X4 TO LAD ,AICD  03 ,STABLIZING AND MAY HAVE CATH THIS WEEL. SR 90S C PVC . .ABLE TO WEAN NEO ,ON DOPAMINE 6 MIC C CI 3.3,SVR 800,W 32.PTT 115,HEPARIN ADJUSTED PER PROTOCOL
+
+CMV 550/40/12/8  ABG 7.45/44/87/32 FIO2 INCREASED TO 50% .BS COARSE .SX MIN TAN,CL ORALLY.
+
+NG BILIOUS TO BL TINGED ,NG CLAMPED .POS BS 
+
+HUO > 100C CL YELLOW 
+
+BS 100 TO 106 
+
+AFEBRILE ON TRIPLE ANTIBX 
+
+SEDATED ON 20MIC PROPOFOL
+
+PT FAMILY  SUPPORTIVE 
+
+STABLIZING . WEAN DOPAMINE IF TOL TO MAP > 70
+ADJUST HEPARIN PER PROTOCOL.PT OFF ANTIARRYTMIC,REPORT INCREASING ECT.
+
+
+STA
+",,
+24675,7125,30640,0,2920-07-22 17:13:00 EST,2920-07-22 17:15:00 EST,1428,"N",1,"Nursing/Other","Resp Care","
+Resp Care
+Pt remains intubated on A/c-parameters noted.  Breath sounds are coarse bilat.  Suction for a small amt of thick brownish yellow secretions.  Attempted a wean from 50-40% FiO2, but pt experienced a significant drop in PaO2.  At this time plan is to wean slowly.
+",,
+24675,7125,30640,0,2920-07-23 02:24:00 EST,2920-07-23 03:03:00 EST,889,"N",1,"Nursing/Other","CCU Nursing Progress Note 1900-0700:","
+CCU Nursing Progress Note 1900-0700:
+S-Intubated and sedated
+
+O-MS:Sedated on Propofol at 30mcgs/kg/min. Propofol increased from 20mcgs to 30mcgs for comfort with effect. Prior to opening eyes and following commands consitently to verbal commands, now opening eyes to command but following commands inconsistently. Occasionally moving RUE off bed and BLEs on bed. No witnessed movement of LUE.
+
+CV:HR 70-100s, NSR with frequent PVCs and couplets and occasional PACs, no runs of VT/SVT overnight. K 3.1 and repleted with total of 120 meqs of K, Mg stable. BPs labile with irregular rhythmn and increased ectopy on Dopa. Dopa intially at 5.0ugs/kg/min and weaned to 3.0ugs/kg/min with fairly stable BPs, 90-110s, MAPs 70-80s but with wean CO/CI numbers down and SVR up, PaSat down to 62%(69). Dopa then increased back to 5.0ugs/kg/min with noted increased ectopy, filling pressures and no change in CO/CI, weaned back to 3.0ugs/kg/min with and later rechecked with same CO/CI but SVR decreased.SEE CAREVUE FOR TRENDS. Dopa currently remains at 3.0ugs/kg/min with BPs 90-95, MAPs 65-70s. AM CO/CI numbers pending. PADs 25-34 PCWP x one 28, occasionally unable to wedge, and CVP 11-13. Heparin at 600u/hr with therapeutic PTT of 63, goal 50-80. CK trending down from previous. 
+
+RESP:AC/500(550)/12(10)/40(50)/5(10). Many vent changes overnight to correct metabolic akalosis, SEE CAREVUE FOR TRENDS IN ABGS. Remains akalotic despite dropping TVs and RRs most likely to increased UOs or increased RR. Breath sounds coarse with bibasilar crackles. Suctioning for small to moderate amounts of creamy thick yellow secretions infrequently, occasionally needing lavage. Possible extubation pending AM weaning trial. 
+
+GU/GI:Foley patent, draining amber-blood tinged urine with small clots and sediment, (+)hematuria. HUOs 100-130cc/hr. ?? accuracy of I/O as pt appears fluid overloaded. Creat trending down as of yesterday AM, AM pending. Abd softly distended with (+) BSs, no BMs, NGT in place with heme(+) aspirate, started on BID Protonix.
+
+ID: Continue Vanco, Ceft, and Flagyl. Vanco level 7.0, MN dose given. 
+Sputum with (+) GPC and rods. Blood and urine pending. WBC trending down since admission. 
+
+ENDO:BSs stable. Insulin gtt ordered on previous shift,since BSs stable to DC in AM. 
+
+HEME:HCT repeat 27.8(30). Holding off on transfusion till repeat HCT in AM. If < 28 to transfuse. PT/INR trending down. PLTs stable. 
+
+A/P:s/p NSTEMI and CHF doing fair on low dose Dopa and wean of oxygenation wean from vent with unexplained HCT drops. Possible source GIB or CRI. 
+
+Follow HCT and transfuse and neccesary
+Possible wean and extubation today 
+Follow lytes and replete as needed
+Continue to monitor
+",,
+24675,7125,30640,0,2920-07-23 02:44:00 EST,2920-07-23 02:52:00 EST,1017,"N",1,"Nursing/Other","Resp Care","
+Resp Care
+Pt. remains intubated/sedated on ventilator with a few adjustments. Peep level weaned, also VT lowered b/c pt. alkalotic however this was ineffective and pt. increased respirations providing ess. the same minute ventilation as before. 
+ABG:metabolic alkalosis with hyperoxia.
+BS: crackles bibasilar and coarse upper lobes
+Plan: wean as tolerated. RSBI/SBT and possible extubation
+",,
+24675,7125,30640,0,2920-07-23 15:54:00 EST,2920-07-23 15:57:00 EST,848,"N",1,"Nursing/Other","Respiratory Care:","
+Respiratory Care:
+Pt extubated after a pressure support wean this am.  Tolerated well & placed on 70% cool mist via shovel mask.  Pt required maximum coaching & encouragement to produce an effective cough; pt subsequently NT suctioned for sm amt of thk white secretions & Neb tx given for wheezing.  Pt ordered for q6 hour atrovent nebs.  Plan to continue tx as ordered & encourage effective couging techniques.
+",,
+24675,7125,30640,0,2920-07-23 17:19:00 EST,2920-07-23 17:46:00 EST,1123,"N",1,"Nursing/Other","CCU NPN 7A-7P","
+CCU NPN 7A-7P
+S-""My breathing is ok.""
+
+O-Pulm: Weaned from AC to CPAP 5/5/40% w/ good ABG, extubated to face tent. O2 weaned to 5L NC. RR mid 20s to low 30s, sats 96%. LS w/ rhonchi, coarse @ bases, exp wheeze. Cough improving throughout afternoon, bringing up white/tan sputum. Started on atrovent nebs Q6hrs.
+
+CV: Tele SR-ST 90s-120s, occ PVC. Dopamine weaned off, BP 93-130/63-88. After dopamine off HR up to 110s and Fick #s 3.4/1.17/2071, CVP 12/15, PAP 75-83/36-43. Started on nipride and titrated up to 1.4mcg, to recheck #s. Hct stable @ 28. Cont on heparin @ 600u/hr. 
+
+Neuro: Propofol weaned off for extubation. MS [**First Name (Titles) 4894**] [**Last Name (Titles) 480**] afternoon, now alert and oriented x [**3-12**]. Difficult to understand @ times d/t slurred speech. Has residual L sided weakness d/t past CVA. C/O pain in L leg, propped up on pillows and given tylenol.
+
+GI/GU: +BS, abd soft, non-tender. NGtube d/c, tol PO meds and liquids, [**Last Name (un) 1404**]. Foley patent, draining cl yellow urine. Given 40mg IV lasix x 2 w/ some effect, currently -400cc neg. Creat down to 1.0. Cont on mucomyst. 
+
+ID: Afebrile, cont on ceftriaxone/vanco/flagyl.
+
+Social: Family members present throughout day, updated by RN and HO. 
+
+A/P-57y.o. s/p MI, PNA c/b sepsis, CHF, now extubated w/ worsening cardiogenic shock. Recheck Fick #s, titrate nipride up vs change to dobutamine. Diurese for goal -1L. Advance diet as tol. OOB in AM. 
+",,
+24675,7125,30640,0,2920-07-24 01:59:00 EST,2920-07-24 02:52:00 EST,889,"N",1,"Nursing/Other","CCU Nursing Progress Note 1900-0700:","
+CCU Nursing Progress Note 1900-0700:
+S-""I am okay..breathing is better!""
+
+O-RESP:Upon recieval tachypenic, RR in the 30s and shallow respirations, pt denies SOB but appears in resp distress, O2Sats 92-93% on 5Ls, ABG repeated PaO2 down into the 70s from 100s on 5LNP. Breath sounds extremely coarse with crackles throughout including I/E wheezes, cough very congested and weak, unable to expectorate secretions.  Atrovent given times two and pulmonary toileted without much result. MSO4 2mg IVP given with some improvement in Sats and ABG. Deciscion made to place on FMV. FMV(PS/10 PEEP/40%) placed with excellent result thus far. Tolerating well overnight. Breath sounds improved, clear in upper fields with less to no wheezes, remains with crackles and coarsness at bases. Cough strong and less congestive but NP. O2Sats 97-99% on FMV. Spont TVs 500-700, MVs [**8-18**]. AM ABG pending this morning. Anticipate taken FMV off around 5AM or 6AM, will need repeat ABG off if not already done. 
+
+CV:HR 80-100s, NSR/ST with occasionaly PVCs, K 3.8 and repleted with 40meqs IV. SBPS 90-120s with MAP 70-80s. Nipride increased to 2mcgs/kg/min, where remains, with improved CI above 2.0 and SVR down to around 1000. MVO2 up to 65 from 54. AM CO/CI pending. Depsite increase in Nipride PASs, PADs, and CVP remaining elevated, 70-74s/30-36 and CVP 14-16. Deciscion made to further diurese. Receiving 120mg of Lasix with 5mg of Zaroxlyn prior with fair response but still with elevated filling pressures. Started on Lasix gtt shortly after MN and with improved hemodynamics, 65-68/28-30 and CVP 8-10. Lasix gtt currently at 5mg/hr. While hemodynamics are improving they are reflective of pt on FMV and do become elevated when FMV off although pt appearing comfortable and in NAD. 
+
+MS:A/O/X/3. Intially very garbled speech and uncomprehensible while in distress, towards morning off CPAP more verbal and coherent, speech with baseline slow affect but much more comprehensible. Very pleasant and cooperative with care. Sometimes becoming anxious with FMV and c/o LLE pain, recieving MSO4 and given breaks in between with good effect. In addition wife staying overnight to comfort pt per request of pt. 
+
+GU/GI:Foley patent and draining light to clear colored urine, HUO with diureses 150-260cc/hr. Not meeting goal at MN for 1L(-) but insted 500ccs(-) and CCU team aware. Creat stable as of yesterday and BUN elevated but trending down from previous. AM results pending. Abd soft with (+) BSs, did poorly taking pills at HS but better towards the morning with ice chips. Keeping NPO til futher notice and possible cath this AM. 
+
+ENDO:FSs stable overnight, not requiring SLSC coverage. Continue to monitor. 
+
+ID:Low grade temps, this morning afebrile continues triple abx.  Culture data pending. 
+
+SKIN:Intact. Heel slightly red, waffles boots applies. In addition knees appearing erythemous and warm to touch, continue to monitor. 
+
+HEME: HCT stable as of yesterday afternoon. AM HCT pending. 
+
+A/P:Extubate yesterday afternoon and doing poor, started 
+",,
+24675,7125,30640,0,2920-07-24 02:00:00 EST,2920-07-24 02:52:00 EST,889,"N",1,"Nursing/Other","CCU Nursing Progress Note 1900-0700:","
+CCU Nursing Progress Note 1900-0700:
+(Continued)
+on FMV last nigt with improvement. CHF manangement with some improval on Nipride and Lasix gtt, possible cath today but very unlikely due to tenious status. 
+
+Monitor respiratory status closely, place on CPAP as needed. 
+NPO for possible cardiac cath today.Consider adding Captopril to transistion off Nipride if renal function unchanged this AM.
+Consider adding on BB(Carvedilol) as well.
+Continue to titrate Lasix gtt for aggressive diuresis, if becomes less respondent consider adding Natrecor as BP tolerates
+Monitor lytes and replete as needed
+Continue to emotionally support pt
+
+
+
+ 
+",,
+24675,7125,30640,0,2920-07-24 03:27:00 EST,2920-07-24 03:34:00 EST,1017,"N",1,"Nursing/Other","Resp Care","
+Resp Care
+Pt. placed on non-invasive ventilation overnight d/t CHF/ increased WOB. Audible cardiac wheeze, rales bilateral. Abg's before BIPAP acceptable however pt. appeared uncomfortable, + acc. muscle use.
+Tolerated BIPAP well with improving BS's and decreased RR low 20's.
+COntinues to have a metabolic alkaloisis with hyperoxia, normocarbic. BIPAP d/c'd @ 0430. Machine @ bedside if needed.
+Plan: cont. to diurese and eventually go for cath.
+",,
+24675,7125,30640,0,2920-07-24 15:33:00 EST,2920-07-24 15:37:00 EST,848,"N",1,"Nursing/Other","Respiratory Care:","
+Respiratory Care:
+Pt placed on BiPap for increased WOB only once throughout shift for approx 1 hour; settings [**9-12**] 40% FIO2.  RR decreased & pt was nt/sxn'd for sm amts of secretions & neb was given x 2.  Pt is not complaining of any SOB; small amts of wheezing heard with improvement after nebulizers.  Currently on N/C only at end of this shift.  BIPAP to remain in room & on stand-by in case it is needed through noc.n  Plan: to continue with Nebs q6hours, suction if needed & BiPap if needed.
+",,
+24675,7125,30640,0,2920-07-24 16:54:00 EST,2920-07-24 17:22:00 EST,1123,"N",1,"Nursing/Other","CCU NPN 7A-7P","
+CCU NPN 7A-7P
+S-""Can I get out of bed?""
+
+O-Neuro: A&Ox3, MAE. This morning anxious, asking for something to calm him down, given 1mg IV ativan w/ good effect. OOB to chair w/[**3-12**] assist, only tol chair for 1/2 hr. Has residual L sided weakness d/t past CVA, uses cane @ home. PT consult ordered.
+
+CV: Tele SR-ST 97-117, occ PVC. BP 85-128/58-85. Nipride weaned off and started on dobutamine for decreased u/o. Titrated up to 3mcg, Fick #s 4.5/2.26/1564. CVP up to 24 from 15, PAP up from 70s/mid 30s to 85-90/40. Started on natrecor w/o a bolus @ 0.01mcg, after an hour and a half bolused w/ 1mcg/kg and increased to 0.02mcg/kg/min. MVO2 to be rechecked. Cont on heparin @ 600u/hr w/ therapeutic PTT. Transfused 1uPRBC for Hct 26, repeat 30. Palp distal pulses. 2+ pitting edema LE.
+
+Pulm: LS coarse throughout w/ exp wheeze. Had 1 episode of respiratory distress this morning w/ RR up to mid 30s, HR up to 120s, and PAP elevated. Placed on BIPAP 8/5/40% and pt much more comfort. Off after 1 1/2 hrs, weaned to 5L NC. RR now 20s, up to 30s w/ activity. Reports feeling much less dyspneic this this morning. NTS x 1 for thick white sputum, Q6hr nebs by RT. CPT and CDB. 
+
+GI/GU: +BS, abd soft, non-tender. C/O having to have BM but unable to despite being on bedpan on and off all day. To start bowel meds tonight. Had episode of nausea this morning, treated w/ 2mg IV zofran w/ good effect. Taking very sm amt POs and meds this afternoon. Foley patent, draining cl yellow urine. Creat 1.1. Cont on lasix gtt @ 10mg/hr, I&O still even for the day. 
+
+ID: Afebrile, Abx changed to PO levo and PO flagyl. 
+
+Social: Pt's family members in all day to visit, updated by RN and HO. Enc pt's wife to [**Doctor Last Name **] @ home tonight. 
+
+A/P-Cont to diurese as tol, titrate natrecor, dobutamine, and lasix as tol. Follow PAP and cardiac outputs. OOB to chair, PT consult, advance diet as tol, bowel regimen. Emotional support for pt and family.
+",,
+24675,7125,30640,0,2920-07-25 02:54:00 EST,2920-07-25 03:17:00 EST,889,"N",1,"Nursing/Other","CCU Nursing Progress Note 1900-0700:","
+CCU Nursing Progress Note 1900-0700:
+S-""I haven't slept in two days.""
+
+O-Very restless overnight, c/o of not being able to [**Doctor Last Name **], and states ""figidity,"" also states usual baseline at home and takes Percocet at home to [**Doctor Last Name **]. Given Ambiem and Ativan throughout night in divided doses. Pt falling around early morning and sleeping soundly since. 
+
+CV:HR 90-100s, NSR/ST, occasionaly PVCs, K repleted. Not reflective in AM labs. SBPs 95-110s. Natrecor and Dobutamine increased to increase and maintain CO with fair effect. Natrecor currently at max of .03mcg/kg/min and Dobuta at 10mcgs/kg/min. PADs 32-36 and CVP 11-13 with some improvement from prior. CIs at/slightly > 2.0 on current regimen but SVR moderately elevated, 1200-1300s. Heparin continues at 600u/hr and Lasix at 10mg/hr, both with no changes made overnight. 
+
+RESP: Breaths sounds coarse with crackles throughout, L > R. On CPAP shortly, around HS for 1/2hr but wanting to come off and doing well on 6LNP with stable O2Sat 96-98% during shift. Continues with congested cough, given Robitussin with effect and CPT times two with little effect, unable to expectorate any secretions this shift. 
+
+GU/GI: HUO on above tailored therapy, 180-220cc/hr. Urine clear and yellow in color, one episode of small amount of hematuria but none futhered witnessed. (-) almost 1L. Abd soft with (+) BSs, passing flatus, attempting to use bedpan for BM w/out result. Continue standing senna and colace. 
+
+ID:Low grade temps, on Levo and Flagyl. Vanco DC'd [**7-24**]. Continue to follow. 
+
+HEME: HCT stable on MVO2 gas in the 30s, AM pending. 
+
+SOC:Wife calling and updated by nurse.
+
+A/P: Adequate response to Natrecor and Dobutamine therapy continues to have elevated filling pressures. 
+
+Continue to monitor
+Possible re-float of swan today
+Follow lytes and replete lytes as needed
+",,
+24675,7125,30640,0,2920-07-25 18:35:00 EST,2920-07-25 19:01:00 EST,1123,"N",1,"Nursing/Other","CCU NPN 7A-7P","
+CCU NPN 7A-7P
+S-""Can I get out of bed?""
+
+O-Neuro: Alert & oriented x 3, MAE. OOB to chair twice w/ walker and 2 assist. Started on zanaflex for muscle spasms in L leg. Waffle boots on.
+
+CV: Tele SR-ST 90s-100s, occ PVC, had 1-8 beat run NSVT. BP 97-123/63-81. CVP 11-15, PAP 69-80/33-38. Latest numbers 4.6/2.31/1322 on dobutamine @ 7mcg, natrecor @ 0.03mcg. Captopril started and titrated to 12.5mg, tol well, to receive 25mg tonight. Heparin @ 600u/hr. Hct stable. Palp distal pulses, 1+ pitting edema LE.
+
+Pulm: LS crackles @ bases, coarse upper airways. Atrovent nebs PRN. Congested cough, not bringing up sputum. CPT done x 2, enc CDB. Sats 95% on 4L NC.
+
+GI/GU: +BS, abd soft, non-tender. Very sm guiac neg stool. Eating very sm amt POs. Nausea x 2 after taking flagyl, zofran x 1 w/ good effect. Foley patent, draining cl yellow urine. Cont on lasix gtt @ 10mg/hr, HUO 90-180cc/hr. -1.6L today. BUN/Creat 47/1.0. K repleted.
+
+ID: Afebrile, cont on PO levo/flagyl. 
+
+Social: Pt's family in this afternoon to visit, updated by RN and HO. 
+
+A/P-Cont to diurese as tol, goal I&O -1L to -1500cc today. Titrate Ace as tol, cont natrecor/dobutamine. Watch PAP, check CO/CI/SVR. Cont PO Abx. Activity as tol, cont PT, enc PO intake, bowel meds. Emotional support for pt and family.
+",,
+24675,7125,30640,0,2920-07-26 05:48:00 EST,2920-07-26 06:19:00 EST,1161,"N",1,"Nursing/Other","CCU Nursing Progress Note 7p-7a","
+CCU Nursing Progress Note 7p-7a
+S: "" I feel so dry:
+
+O: Please see careview for complete VS/ additional objective data
+
+MS: AAOx3. Pleasant and cooperative. Speech is slow at times but pt is able to express needs. MAE. PEARL. Pt denies any pain. Received pt OOB to chair. Assist x4 back to bed. Pt slept earlier part of shift. Pt awake a few times overnoc requesting additional [**Doctor Last Name **] aids after receiving pm Ambien 5mg. Pt given 1 mg IV/PO Ativan x 2. Encouraged pt to [**Doctor Last Name **] w/o meds otherwise [**Doctor Last Name **] cycle would remain altered.
+
+CV: VSS. Pt tolerating wean of Dobutamine and titration of Ace. Pt currently on 25 mg Captopril. No BB given significant CHF. HR 76-92. Rare- occ PVC. ABP 93-113/60-70. MAPs>70. PAP 60-70/30. CVP 9-12. Cardiac numbers on 3.0 mcg Dobutamine 5.5/2.76/1135. Cardiac numbers after Dobutamine wean 4.4/2.21/1255. Ptt subtherapeutic at 42.5 last pm per sliding scale. Increased rate by 150u to 750units/hr. Am labs still pending.
+
+Resp: LS coarse/ crackles [**2-9**] ^. Pt possesses good cough but it remains congested/ junky and minimal amts being produced. Pt remains on 5L NC. O2 sats 96-100%. Pt tolerating lying flat w/o difficulty. Pt denies SOB. Robitusin for cough mgmt. Pt on Atrovent nebs for wheeze.
+
+GI/GU: Abd soft. + BS. No stool. Cont bowel regimen. Minimal intake. Pt remains on Natrecor 0.03mcg and 10mg Lasix. UO 80-220cc cyu. Pt -1700cc past 24hrs and remains -2.2L LOS. No changes in gtt per HO.
+
+ID: Afebrile. Tmax 99.3. Pt remains on po Levo/ Flagyl for pna. 
+
+Skin: Intact.
+
+Endo: Sliding scale. No coverage indicated. 
+
+Social: Family very supportive. Recognized pt fatique and have agreed to visit in shifts and limit amt of time. Wife called last pm and updated on plan to wean Dobutamine.
+
+A/P: S/P MI x2, transferrd from OSH. Initially ? septic. Tx w/ triple abx. Cardiogenic shock supported w/ pressors. Titrating/weaning various  pressors to support low cardiac numbers and UO. Tolerated Dobutamine wean overnoc. Pt remains on Natrecor/ Lasix gtt for diuresis. Cont to titrate Captopril as tolerated. Cont to follow Ptt and adjust Heparin per sliding scale. Cont to ambulate as tolerated. Support pt and family as indicated. 
+
+
+
+
+",,
+24675,7125,30640,0,2920-07-26 16:07:00 EST,2920-07-26 16:25:00 EST,187,"N",1,"Nursing/Other",,"
+
+PT OOB FOR BREAKFAST , STABLE TILL RECEIVED 25 MG CAPTOPRIL ,BECAME HYPOTENSIVE TO 60 SYSTOLIC C HR 60S. LASIX,NATRECOR DC,ASSUMED PT OVERDIARESED .DOPAMINE STARTED C BP TO 100S SYSTOLIC. 1 UNIT PC FOR HCT 27.CAPTOPRIL 4PM HELD. CI 1.91,MIXED  SAT 47 .DOBUTAMINE ADDED .PAD IN 30S . PTT 47 ,HEPARIN INCREASED TO 900U PER PROTOCOL.
+
+LUNGS COARSE C CRACKLES,COUGHING,RAISING. CPT DONE ABG 3LNP 7,45/32/87/27
+
+E/D WELL ,POS BS,NO STOOL.
+
+HUO ADEQUATE SINCE DIRETICS DC, POS 175 24 HOUR BALANCE ,NEG 1836 OVERALL BALANCE .
+
+ 
+PT ALERT,ORIENTED BUT LETHARGIC .
+
+NOT TOLERATING INCREASED DOSE CAPTOPIL ,POOR CI OFF DOBUTAMINE 
+
+WEAN DOPAMINE TO OFF  THEN  RECHECK HEMODYNAMICS .
+RESTART CAPTOPRIL LOWER DOSE  WHEN BP ALLOWS .
+",,
+24675,7125,30640,0,2920-07-27 05:17:00 EST,2920-07-27 05:35:00 EST,284,"N",1,"Nursing/Other","nursing progress note 7p-7a","
+nursing progress note 7p-7a
+S:  "" I'M COUGHING UP A LOT OF PHELGM""
+
+O:  PT. ALERT AND ORIENTED X3.  SLEPT IN SHORT NAPS OVERNIGHT, GIVEN AMBIEN 10 MG IN DIVIDED DOSES WITH FAIR EFFECT.  
+
+CV:  SEE FLOWSHEET FOR HEMODYNAMICS.  CO/CI IMPROVING ON DOBUTAMINE.  CAPTOPRIL HELD LAST NOC FOR LOW BP. PAD INCREASING TO HIGH 30'S, ? NEED FOR LASIX THIS AM.  HR 80-90'S SR WITH FREQUENT PVC'S, K PENDING.
+HEPARIN DOSE 1050 UNITS/HR. 
+
+RESP:  O2 SAT ON 2L 96%.  CRACKLES AT BASES, EXP WHEEZE NOTED THIS AM.  NEBS Q6 HR DONE.  COUGHING AND RAISING THICK YELLOW SPUTUM.  
+
+GI:  ABD SOFT, + BOWEL SOUNDS.  NO BM.  APPETITE FAIR.
+
+GU:  FOLEY DRAINING CLEAR YELLOW URINE.  I/O (-) 200 CC FOR 24 HRS.  
+
+STABLE NOC
+
+P:  CONT TO FOLLOW CO/CI,  WEAN DOBUT AS TOL.  
+",,
+24675,7125,30640,0,2920-07-27 16:18:00 EST,2920-07-27 16:28:00 EST,187,"N",1,"Nursing/Other",,"
+
+PT TACHYCARDIC TO 110,C BP 140S SYSTOLIC THIS AM ,DOBUTAMINE DECREASED TO 5 MIC C IMPROVEMENT . CI 2.76 , C SVR 829 . TOL AM DOSE OF CAPTOPRIL,BUT DROPPED BP C 4PM DOSE ,DOBUTAMINE INCREASED TO 10 MIC .LASIX DRIP RESTARTED . PAD 30S .MVG 64
+
+ABGS 7,50/39/105/31 .ROBTISSIN FOR COUGH . 
+
+EATING FAIR .NO STOOL, ON SENNA .
+
+HUO 5 TO 100
+
+OOB TOL WELL.VISITING C FAMILY THIS AFTERNOON
+
+NOT TOLERATING  CAPTOPRIL 
+CI IMPROVED 
+PADS CONTINUE TO BE ELEVATED ,NEED TO MOBILIZE MORE FLUID 
+
+",,
+24675,7125,30640,0,2920-07-27 17:10:00 EST,2920-07-27 17:11:00 EST,102,"N",1,"Nursing/Other",,"
+
+RESP CARE
+RECEIVED ATROVENT NEBS Q6H. NC AT 2LPM WITH SATS 97%. BS WITH SC RHONCHI,OCCAS EXPIR WHEEZE. CONGESTED,USUALLY NONPROD COUGH OF FAIR STRENGTH. HR 70S'.
+",,
+24675,7125,30640,0,2920-07-28 05:11:00 EST,2920-07-28 05:22:00 EST,284,"N",1,"Nursing/Other","NURSING PROGRESS NOTE 7P-7A","
+NURSING PROGRESS NOTE 7P-7A
+S:  ""THE SLEEPING PILL LASTS FOR ABOUT 2 HRS""
+
+O:  PT. A&O X3, PLEASANT AND COOPERATIVE.  MOVES ALL EXTREMITIES WELL. SLEPT IN SHORT NAPS, GIVEN AMBIEN 10 MG IN DIVIDED DOSES.  
+
+CV:  CONT ON DOBUT @ 10 MCG/KG/MIN, NATRECOR INCREASED TO 0.03 MCG/KG/MIN.  SLIGHT IMPROVEMENT IN CO/CI WITH ADDITION OF NATRECOR.  LASIX GTT AT 10 MG/HR.  HR 80-90 SR WITH OCC PVC, PAC.   2400 HCT 29.5.  DENIES CP.  
+
+RESP:  O2 AT 2L NC.  RECEIVING ATROVENT NEBS Q6 HRS.  COUGHING AND RAISING THICK YELLOW SPUTUM.  OCC EXP WHEEZE NOTED IN UPPER AIRWAYS, COARSE BREATH SOUNDS AT BASES.  O2 SATS 95-97%.  
+
+GU:  RESPONDING WELL TO LASIX GTT,  SEE FLOWSHEET FOR I/O TOTALS.  NO BLOOD SEEN IN URINE.  AMBER COLOR.  
+
+GI:  ABD SOFT, DISTENDED. + BOWEL SOUNDS.  SMALL HARD STOOL THIS AM.  ? ADDING COLACE TO MED REGIME.  APPETITE FAIR.  
+
+SKIN:  INTACT, NO BROKEN AREAS NOTED. 
+
+A:  STABLE NOC,  IMPROVING CO/CI ON NATRECOR, DOBUTAMINE.
+
+P:  CONTINUE TO FOLLOW RESPONSE TO LASIX, MONITOR CO/CI, ADDING STOOL SOFTENER.
+",,
+24675,7125,30640,0,2920-07-28 15:42:00 EST,2920-07-28 15:54:00 EST,187,"N",1,"Nursing/Other",,"
+
+PT NOT [**Last Name (un) **] CATHED TOMORROW AS NOT ENOUGH FLUID REMOVED .
+DOBUTAMINE WEANED TP 7.5 MIC AS PT HAVING MORE ECTOPY .CI 2.2/SVR 1067 ,PAD 39 T0 25 .NATRECOR .02MIC/LASIX 10MG/ HEPARIN UNCHANGED .K REPLETED .BP BORDERLINE 4PM, CAPTOPRIL HELD PER RESIDENT .
+
+SAT 99 2L ,COARSE C WHEEZES ,C/R ABG 7.50/31/129/25 .ROBITUSSIN X 1 ,COUGH LESS. 
+
+EATING FAIR.NEG STOOL .REQUIRING INSULIN COVERAGE .
+
+HUO 35 TO 180 
+
+OOB TO CHAIR,TOL WELL .ALERT,COOP,NO CO .
+
+ADJUST DRIPS TO OPTIMIZE HEMODYNAMICS AND URINE OUTPUT
+
+
+",,
+24675,7125,30640,0,2920-07-29 04:56:00 EST,2920-07-29 05:45:00 EST,1258,"N",1,"Nursing/Other","CCU NURSING PROGRESS NOTES","
+CCU NURSING PROGRESS NOTES
+S:""I'M FEELING BETTER TODAY""
+O:PT A&O, SOME NEURO DEFICIT PRESENT FROM PREVIOUS STROKE. SLT SLURRED SPEECH, SLT LEFT DROOP WHEN PT SMILES. LEFT HAND GRASPS WEAKER THAN RIGHT. PT ALSO HAS WEAKNESS IN LEFT LEG. RECIEVED AMBIEN FOR [**Doctor Last Name 7**]. SLEEPING IN 2HR INTERVALS. 
+CV:MHR 70-90S SR, 1ST AVB, WITH FREQ PVCS, OCCASS PACS. HEMODYNAMICS IMPROVED FROM PAD30,PCWP 30, CI 1.91 W/ SVR 1389 TO PAD 26/W24,CI 2.61 W/ SVR 800, AFTER CAPOTEN DOSE. SBP DID DROP TO 89 BRIEFLY BUT MAP=74.IV GTTS NOT CHANGED NATRECOR AT 0.02MCG/KG/MIN, DOBUT AT 7.5MCG/KG/MIN. LAST EVENING PT HAD MOTTLING OF BOTH KNEES W/ DELAYED CAP REFILL IN EXTREM. THIS AM NO MOTTLING PRESENT. SKIN WARM AND DRY. +S4. BILAT DP PULSES PALP. +3 EDEMA IN LE, WITH GEN'L BODY EDEMA. 
+RESP:LUNGS W/ BIB CRACKLES,UP 1/2L,1/3R. RONCHI CLEARED AFTER NEB. DB&C. PT DENIES SOB, BUT DOE VISABLE. PT WAS ABLE TO [**Doctor Last Name 7**] W/ HOB AT 15 DEGREES. ABG THIS AM 7.54/35/77/31.SAT 96%.
+GI:ACTIVE BS, ABD SOFT AND SLT DISTENDED
+GU:DIURESING WELL ON LASIX GTT. 
+ENDO:AM GLU 113, NO COV AS PER SS. HEME: PTT W/IN THERAPUTIC RANGE ON HEPARIN. ID:AFEBRILE ON PO LEVO/FLAGYL.
+A/P:PT W/ EXTENSIVE CARDIAC HISTORY, ADM TO BID W/ +NSTEMI, SEPSIS, PNEUMONIA. HEMODYNAMICALLY STABLE THE LAST 6HR W/ DIURESIS AND INOTROPES. ABG W/ METABOLIC ALKALOSIS, ?IF INCREASE SVR EARLY LAST EVENING IS DUE TO CONTRACTILE ALKALOSIS. CHECK CXR TO F/U CHF AND VERIFY TIP OF SWAN CATH IN LIGHT OF HIGH PAD/PCWP. CONTINUE ANTIBIOTICS, ENC USE OF I/S, C&DB. CONTINUE TO INCREASE MOBILIZATION, PT W/ APPROPRIATE. REPLACING POTASSIUM AND MAG THIS AM
+  
+",,
+24675,7125,30640,0,2920-07-29 17:04:00 EST,2920-07-29 17:42:00 EST,1123,"N",1,"Nursing/Other","CCU NPN 7A-7P","
+CCU NPN 7A-7P
+Neuro: Alert and oriented x 3, MAE. OOB to chair w/ 2 assist x 6 hrs, tol well. Physical therapy in to work w/ pt. 
+
+CV: Tele SR 76-99, occ PVC. HR up to 120s this morning but trended down on its own. BP 106-130/69-83. CVP 13-19, PAP 59-74/29-35. Dobutamine decreased to 5mcg/kg/min, cont on natrecor @0.02mcg, tol 6.25mg captopril. Most recent #s 5.6/2.81/971 w/ MVO2 64. Palp distal pulses, 1+ edema lower extremeties. Cont on heparin @ 1050u/hr.
+
+Pulm: LS w/ crackles 1/3 up, occ coarse upper airways. Productive cough, @ times bringing up sm amt thick yellow sputum. Sats 97-99% on 2L NC, 96% on RA. Requesting to keep O2 on for comfort. Receiving albuterol nebs.
+
+GI/GU: +BS, abd soft, non-tender. Tol cardiac diet, eating sm amt. Sm formed BM x 2 today. Foley patent, draining cl yellow urine. Creat stable 1.1. Cont on lasix @ 10mg/hr. -930cc today, -4.4L LOS. K and Mg repleted.
+
+ID: Afebrile, WBC 8.7. On last day of flagyl/levofloxacin. 
+
+Endo: HgbA1C pending. QID FS, SSRI. 
+
+Social: Pt's family in to visit, updated by RN. 
+
+A/P-Cont diuresis as tol, lasix gtt. Wean dobutamine and titrate Ace as tol. Goal -1L today. Replete lytes prn. OOB to chair as tol, PT following. Emotional support for pt and family.
+",,
+24675,7125,30640,0,2920-07-30 04:37:00 EST,2920-07-30 05:31:00 EST,1161,"N",1,"Nursing/Other","CCU Nursing Progress Note 7p-7a","
+CCU Nursing Progress Note 7p-7a
+S: "" I feel really good""
+
+O: Please see careview for complete VS/ additional objective data
+
+MS: AAOx3. Very pleasant and cooperative. Speech return remains slow. Yet pt expresses needs without difficulty. Left sided residual remains from old CVA/ MS exacerbation. Pt denies pain but requesting [**Doctor Last Name **] aid. Pt restless but dozing on/off in sm intervals despite Ambien 5 mg x 2 doses. Cont meds for mgmt of hypothyroid/ MS. 
+
+CV: VSS. HR 74-91. Occ PVC noted. Single episode of 9 beat run of Vtach observed at 0245. Run broke spontaneously w/o further intervention. ABP 95-120/60-76 via left radial arterial line. MAPS>70. Pt cont to tolerate Captopril 6.25mg dose w/o difficulty. Dobutamine gtt decreased to 3.0 mcg(5.0 mcg) after Vtach and ^ HR. Pt cont to tolerated post MI regimen. Distal pulses palpable. Pt remains CP free. PA 55-65/ 22-33. CBP [**12-22**]. Cardiac numbers following Capoten 4.1/2.06/1190. Am Cardiac numbers follow decrease in Dobutamine dose were 4.8/2.41/1267. MVenous 53-58 overnoc. HCT stable at 29.8. Heparin gtt remains at 1050/hr. Ptt this am therapeutic at 61.1. No changes made per sliding scale. Electrolytes repleted on prior shift. This am K+ 3.9/ Mg 1.9.
+
+Resp: LS coarse in upper lung fields but clearer following coughing. Crackles auscultated [**2-10**] ^. CXR reveals stable cardomegaly, bilateral pleural effusions and opacities consistent w/ atelectasis. Cont to encourage CDB exercises, OOB to chair and incentive spirometry. Cont metabolic alkalosis secondary to cont diuresis w/ ABG this am of 7.50/39/90. PH slightly improved from yesterday 7.52. Pt denies SOB. Sats 95-96% on RA. Left off for sm periods of time. Requesting use of supplemental O2 overnoc for added reassurance. Irritating cough treated w/ Robitussin syrup. Marginal effect. Pt cont to expectorate yellow secretions. Albuterol nebs per RPT. No audible wheeze.
+
+ID: Afebrile. Tmax 98.6. WBC 9.8 this am. Day [**11-17**] of abx regimen of Levofloxacin and Flagyl.
+
+GI/GU: Abd soft. + BS. Sm hard formed stool x3. Trace guiac positive. 1500cc fluid restriction. Pt cont on Natrecor at 0.02 mcg/kg/min and 10 mg Lasix gtt w/ excellent diuresis. UO 100-280cc cyu. Developed Hematuria at 00. Pt -1700cc for past 24hrs and remains -5.2L LOS. BUN/CR cont to show gradual improvement. BUN/CR 42/1.0. Pt slightly hyponatremic. 
+
+Access: RIJ PA Swan. Left radial arterial line.
+
+Skin: Intact. No breakdown noted. Barrier cream applied to buttocks for multiple BP use.
+
+Endo: BS 98-91 overnoc. No coverage indicated per sliding scale. FS QID. Cont to monitor and cover per Humalog sliding scale. HGA1C still pending.
+
+A/P: 57 yo male w/ extensive cardiac hx, STEMI x 2 at OSH. Presented septic/ cardiogenic shock following abx. + PNA. Cont improvement. Stable cardomegaly. Remains on Dobutamine gtt/ Natrecor/ and Lasix for maximum diuresis. Anemic yet HCT stable. Electrolytes stable despite cont diuresis. Cont to follow and replete as needed. Dobutamine weaned for VT/ ^ HR. Cardiac numbers stable. PTT therapeutic. 
+",,
+24675,7125,30640,0,2920-07-30 04:38:00 EST,2920-07-30 05:31:00 EST,1161,"N",1,"Nursing/Other","CCU Nursing Progress Note 7p-7a","
+CCU Nursing Progress Note 7p-7a
+(Continued)
+Cont to follow PTT in setting of newly developed hematuria and g+ stools ( hx GIB/ CVA). Cont [**Hospital 1839**] medical mgmt. Cont to support pt and family as indicated.  
+",,
+24675,7125,30640,0,2920-07-30 16:49:00 EST,2920-07-30 17:29:00 EST,1123,"N",1,"Nursing/Other","CCU NPN 7A-7P","
+CCU NPN 7A-7P
+S-""I feel great.""
+
+O-Neuro: A&Ox3, MAE. OOB to chair for most of the day w/ walker and assist, tol well. PT in to work w/ pt. 
+
+CV: Tele SR-ST 78-110, occ PVC. BP 91-121/51-78, CVP 12-18, PAP 46-72/21-34. Attempted to wean dobutamine from 3->2mcg twice and both times CI<2.0 and pt c/o feeling more ""tired."" Increased back to 3mcg. Dropped dobutamine again to 2.5mcg, MVO2 pending. Captopril titrated up to 12.5mg, cont on natrecor @ 0.02mcg. Heparin @1050u/hr w/ therapeutic PTT. R radial Aline d/c. 
+
+Pulm: LS w/ crackles 1/3up, occ coarse BS that clear w/ cough. Productive cough, bringing up yellow sputum. Per HO no PNA on CXR. Atrovent nebs prn. Sats 98-100% on 2L NC, 96% on RA. 
+
+GI/GU: +BS, abd soft, non-tender. Tol cardiac diet. Sm formed BM x 1, trace OB positive. Foley patent, draining cl yellow urine. Creat stable 1.0. Lasix gtt decreased to 5mg/hr. Currently -1L for today. Weight down 2.6kg from yesterday. K and Mg repleted, repeat pending.
+
+ID: Afebrile, WBC 9.8 from 8.7. Abx d/c.
+
+Endo: Cont on SSRI, QID FS. HgbA1C mildly elevated @ 6.5
+
+Social: Pt's family in to visit this afternoon. Updated by RN.
+
+A/P: Cont lasix gtt, diurese for goal I&O 1-1.5L neg. QD weights. OOB to chair, PT, increase activity as tol. Wean dobutamine and increase AceInhibitor. ?change PA line to TLC tomorrow. Replete lytes prn. Emotional support for pt and family.
+",,
+24675,7125,30640,0,2920-07-31 05:27:00 EST,2920-07-31 05:46:00 EST,901,"N",1,"Nursing/Other","CCU Nursing Progress Note 7pm-7am","
+CCU Nursing Progress Note 7pm-7am
+S:  I had an awesome night [**Doctor Last Name **]!
+
+O:  Pt rec'd 10mg po Ambien at 2310 and slept until 0545.  Pt normally gets up at @5:30am at home.  
+
+ID - Afebrile 
+
+CV - HR 73 while asleep up to 94.  NSR/ 1'HB with rare to occasional pvc's and apc's.  Am lytes are pnd.  BP as low as 88/40 while sound asleep after 12.5mg Captopril up to 111/67.  BP is well controlled.  IV meds cont Natrecor 0.02 mcgs/kg.  PAD's 28-32 with CVP 18-15. C.O with pt sound asleep on 3mg dobutamine C.O/C.I./SVR is 6.0/3.0/773.  Able to slightly decrease Dobutamine now at 2.5mcgs/kg/min with repeat #'s 4.71/2.3/1140.  Heparin 1050u/hr, then at 12am, dose found to be 105cc/hr. HO aware. Heparin dc'd with PTT at 3am 150.  6am PTT is pnd. 
+
+Resp - resp are unlabored with coarse bs throughout.  rec'd albuterol nebx2 and ls post 6am rx are ru coarse and crackles l base.  Pt cont strong productive cough.  O2 maintained 2ln/p with sats 96-99%
+
+Gi - Passed mod sized formed stool on bedpan.
+
+GU - Foley intact to yellow/orangey urine.  Lasix gtt maintained 5mg/hr.  Pt is 5.8l (-) LOS and is 800cc (-) this am.
+
+Neuro - Alert and oriented x3.  Moving all extremities normally (l side is weaker d/t stroke), elevating both feet and l arm on pillows.
+
+Social - Family vss throughout evening.  Asking appropriate questions about care.  Pt and family would like pt to be followed by [**Hospital1 3**] cardiologists once he is discharged.  Dr. [**Last Name (STitle) **] aware and will facilitate. 
+
+A:  Pt continues to diurese, slowly able to titrate dobutamine down.
+
+P:  Cont closely follow PA#'s and cont/wean Lasix, Natrecor, Dobutamine as necessary, Monitor PTT and restart Heparin when able, cont support pt and family through hospitalization, increase activity with PT assist.  When OOB for day, elevate fob to decrease edema
+
+
+",,
+24675,7125,30640,0,2920-07-31 14:26:00 EST,2920-07-31 14:33:00 EST,187,"N",1,"Nursing/Other",,"
+
+DOBUTAMINE DC,POST CI 2.0/SVR 1288,URINE OUTPUT DROPPED DESPITE LASIX ,NATRECOR . BP DROPPED TRANSIENTLY P 12.5 CAPTOPRIL .AM PTT 57,HCT STABLE, HEPARIN RESTARTED 900U . SR TO ST C OCC ECTOPY .PAD 24 TO 36 .
+
+SAT 98 2LNP,BS STILL COARSE BUT IMPROVED .PRODUCTIVE COUGH
+
+
+FAIR APPETITE ,TAKING BOOST.NO STOOL 
+
+NEG 1000CC ,UO 140 TO 10CC .
+
+PT OOB ,EXERCISING C THERAPIST  ,TOL WELL BUT TIRED .
+
+FOLLOW URINE OUTPUT IF NOT IMPROVING MAY NEED DOBUTAMINE RESTARTED 
+
+
+
+",,
+24675,7125,30640,0,2920-08-01 02:04:00 EST,2920-08-01 02:25:00 EST,889,"N",1,"Nursing/Other","CCU Nursing Progress Note 1900-0700:","
+CCU Nursing Progress Note 1900-0700:
+S-""I slept well when I take two pills(Ambien) instead of one.""
+
+O-MS:Uneventful night, sleeping well with 10mg of Ambien. Denies pain. Very pleasant and cooperative with care. 
+CV:HR 60-80s, NSR/AV paced with occasional PACs and PVCs. K and Mg pending. AV paced when HR below 70, usually while asleep. BPs 60-110s, lower BPs post 12.5mg of Captopril and slowly recovering on own. CCU team asked to please discontinue or decrease dosage of Captopril. COs done 2-3hrs into Captopril dose with improved results from prior. PAD 19-32, CVP 8-15.SEE CAREVUE FOR CO/CIs. On prior shift, Dobutamine weaned to off with worsening number toward end of day, restarted at 6:15PM and CIs > 2.0. CCU team wanting to attempt to wean again, possible trial towards AM. Natrecor weaned from 0.02mcgs to 0.01mcgs/kg/min since pt grossly(-) and COs numbers thus far unchanged. Lasix drip continues at 5mg/hr. Heparin at 1050u/hr with AM PTT pending. 
+RESP:Breath sounds clear with rhales bilaterally at bases and part way up. O2Sats on 2LNP, 97-100s, denies SOB. Productive and congested cough. Expectorated light tan yellow secretions in small amounts. 
+GU/GI:Foley patent with rare bouts of trace hematuria, otherwise clear and yellow in appearance with some sediment. Currently near 7Ls(-). Creat normal while BUN continues to trend down during this stay. Passing small hard stool, G(-). Recieving standing Colace and Senna. Appetite fair, taking good POs. 
+ID:Afebrile. Completing Abx course on [**7-30**]. No other issues.
+ENDO: Followinng FS QID and covering with SLSC as needed
+A/P:s/p CHF exacerbation who continues to fail Dobutamine wean and unable to tolerate increased ACE. Continues to improve on current regimen despite unsucceful Dobutamine wean.
+Possible removal of PA catheter
+OOB to chair today
+Continue to wean Natrecor, Lasix and Dobutamine as tolerated
+
+",,
+24675,7125,30640,0,2920-08-01 13:47:00 EST,2920-08-01 13:49:00 EST,328,"N",1,"Nursing/Other",,"
+
+Resp Care: Pt being followed for nebs x1 changed to PRN. No recent ABG's. Please see carevue for further inquiries.
+",,
+24675,7125,30640,0,2920-08-01 18:18:00 EST,2920-08-01 18:28:00 EST,620,"N",1,"Nursing/Other","ccu nursing progress note","
+ccu nursing progress note
+s: i feel so tired
+o: pls see carevue flowsheet for complete vs/data/events
+id: afeb. no abx
+cv: hr 110 this am, down to 70-80s after am meds. bp 110-130/60-70. rec'd am captopril 12.5 and bp dropped to 64/ . pt pale, felt lightheaded and fatigued, v. drowsy but arousable. bp returned to baseline over the next 90mins. dobutamine which prior to hypotension had been dropped from 2 to 1 mcg/kg was back up to 2mcg. ci remained 2.1-2.5. later in afternoon pt rec'd captopril and bp remained in the 90s.
+lasix and natrecor unchanged. uop [**Doctor Last Name **] 80-100cc/hr but was much lower during hypotension. goal was 1l neg but currently is only 300cc neg for day.
+gi: tol diet. sm bm. cont laxatives.
+gu: cr stable.
+skin: bilat pedal edema [**3-12**]+. otherwise skin intact.
+ms: good spirits this am after sleeping well. little depressed later w episode of hypotension, feeling frustrated w lack of progress. family visiting in afternoon.
+a: bp down this am w captopril. cont on dobutamine
+p: cont to follow hemodynamics. follow i/o. ?further diurese this eve. support to pt and family.
+",,
+24675,7125,30640,0,2920-08-02 04:47:00 EST,2920-08-02 05:36:00 EST,1161,"N",1,"Nursing/Other","CCU Nursing Progress Note 7p-7a","
+CCU Nursing Progress Note 7p-7a
+S: ""I had a bad day today""
+
+O: Please see careview for complete VS/additional objective data.
+
+MS: AAOx3. Very pleasant and cooperative. Pt hard on self stating that he had a bad day secondary to hypotension and weakness following episode. Pt denies any pain and spirits seem to improve since family at bedside. Pt requesting 10 mg Ambien po which proved to be quite effective. Pt slept well w/ minimal interruption.
+
+CV: HR 68-91. Av Pacing noted for HR <75. Otherwise NSR w/ Rare - frequent occurring PVCs. NIBP 72-123/41-69. MAPs >68. Diuresis tapering down. Goal negative 1L. Per HO increased Natrecor gtt to 0.02 mcg/kg/min and Lasix gtt ^ 7.5mg/min. UOP improved. Hypotensive following 12.5 mg dose of Captopril at 2200. NIBP 72/41. Pt asymptomatic denying any N/V. Decreased Natrecor and Lasix to 0.01mcg and 5 mg/hr. HypoTN lasted for approximately 90 minutes without further intervention. Once effects of Captopril dose peaked Natrecor gtt was increased to 0.02 mcg/kg/min and Lasix gtt was increased to 7.5mg/hr. PAPs not improved following diuresis. PAPs 50-70/30s. Cardiac numbers prior to Captopril dose 5.6/9.8/843. Following Captopril dose and diuresis cardiac numbers improved to 6.6/3.32/812. Mvenous 61-63%. CVP 16-17. +2 distal pulses. Heparin gtt remains at 1050u/hr. AM labs still pending. 
+
+Resp: LS coarse in upper lung fields but clr w/ cough. Producing yellow secretions. Bibasilar crackles. Pt denies SOB. RR 15-22. O2 sats 95% off all supplemental O2. Remains on 2L NC per pt request for comfort. Introduced incentive spirometry and exercises completed last pm. Vt ^ 1500. 
+
+GI/GU: Cardiac/ Low NA diet. 1500 ml fluid restriction. ABd soft. +BS. Sm formed stool x1. Too small to guiac. Cont on Senna. Appetite improving per report. 
+Received pt w/ declining UO. Only -300cc for day. Goal of 1L. Increased Lasix/ Natrecor gtts inorder to maximize UO. UOP picked up until given Captopril dose which decreased NBP. Lasix gtt/ Natrecor gtts weaned/titrated [** 68**] as BP tolerated. Pt currently at Natrecor 0.02mcg and  Lasix decreased to 5.0mg/hr at 0530 since pt was -1500 for 24hrs and remains -8.4L LOS. 
+
+ID: Afebrile.
+
+Skin: Buttocks reddened. Barrier cream applied. Pt moving S/S while sleeping. No other breakdown noted. Waffle boot placed on left leg.
+[**3-12**]+ pedal edema.
+
+Social: Supportive family. Visiting until 2100. No other calls or visitors [**Name (NI) 68**].
+
+A/P: Cont hypoTN following  Captopril dose. Weaned diuretics and then titrated back as BP tolerated. UOP improved w/ increased doses of Natrecor/ Lasix gtts. Cont failure to wean off Dobutamine. PAP not improving despite diuresis. ? accuracy of line. ? DC line. Cont to monitor I/Os and diurese as indicated. Cont to support pt and family as indicated. Cont ambulation as tolerated.
+
+
+",,
+24675,7125,30640,0,2920-08-02 05:54:00 EST,2920-08-02 05:56:00 EST,1161,"N",1,"Nursing/Other","Addendum 7p-7a","
+Addendum 7p-7a
+TPA 1mg administered to injectate port of PA Line after line failed to flush w/ saline and Heparin. Minimal access with compatability of IV meds. Following TPA able to flush and aspirate bld. Cont to follow HCT given hx of GIB.
+",,
+24675,7125,30640,0,2920-08-02 13:00:00 EST,2920-08-02 13:08:00 EST,5267,"N",1,"Nursing/Other",,"
+
+Respiratory Care
+Slight diffuse wheezes noted on rt Coarse rhonchi on left. Strong prod. cough. Expectorated thin yellow secretions. Reinforced IS teaching with pt.Able to draw in over 1500 mls X 5.
+",,
+24675,7125,30640,0,2920-08-02 15:40:00 EST,2920-08-02 15:49:00 EST,187,"N",1,"Nursing/Other",,"
+
+PT HAD MORE STABLE DAY,LESS HYPOTENSION  .CAPTOPRIL NOT GIVEN WHEN OOB. AM DOSE P BREAFAST WHEN BACK IN BED .TOL OOB FOR LUNCH. THEN DID NOT GET UP FOR SUPPER P 4PM DOSE . DRIPS UNCHANGED ,MAINTAINED GOOD URINE OUTPUTS . IN FUTURE PLAN MAY BE GIVEN LONG ACTING ACE ONLY AT BEDTIME.  BETTER SPIRITS TODAY  .EATING WELL .MIN COVERAGE C SSRI.
+",,
+24675,7125,30640,0,2920-08-03 03:57:00 EST,2920-08-03 04:35:00 EST,1161,"N",1,"Nursing/Other","CCU Nursing Progress Note 7p-7a","
+CCU Nursing Progress Note 7p-7a
+S: "" Sometimes this just happens (leg pain/spasm)""
+
+O: Please see careview for complete VS/ additional objective data.
+
+MS: AAOx3. Very pleasant and cooperative. Spirits much improved in comparison to last pm. Pt OOB independently w/ proper chair placement for support on prior shift per report"" Pt cont to exercise pt. Pt given Ambien 10mg w/ gd effect until 0100 when pt developed severe LLE pain/ muscle spasm r/t MS. [**First Name (Titles) 4895**] [**Last Name (Titles) **] 650 mg, 1 mg Ativan and 1 mg MSO4 x2 w/ minimal effect. Repositioning and heat packs application had little effect as well.
+
+CV: HR 72-87. AV Paced for HR <75. Otherwise NSR w/ occassional PVCs. NBP 90-100s/50-60. MAPs 65+. PAP 50-70/22-36. CVP 12-17. PM dose of Captopril increased to 25mg. Tolerated during day. At 00 pt became hypotensive w/ NIBP 68/31. HO aware. Increased Dobutamine gtt from 2.0mcg to 2.5 mcg to support decreased NBP until Captopril peaked. Returned Dobutamine to 2.0 mcg/kg/min where it remained for the remainder of the shift. Natrecor gtt/ Lasix gtt unchanged and remains at 0.02mcg/kg/min and 5.0 mg/hr. CO/CI/SVR unchanged and most recently are 6.2/3.12/ 865 w/ M Venous 61-65%. Hct 29.1 (gradual decline. Hx of anemia). Pt remains on Heparin gtt at 1050u/hr. Ptt therapeutic at 67.5. Goal 50-80. Electrolytes stable. Mg 1.7. Repleted w/ 2gm MGSO4. 
+
+Resp: LS coarse/ clr w/ coughing in upper lung fields. Bibasilar crackles. Pt declined need for inhalers at bedside. RR 16-20. O2 sats 94-100%. 94% off supplemental O2. Pt requesting NC while asleep for added comfort. DOE x1 w/ repositioning during PM care. Otherwise pt denies SOB. Cont I/S exercises. Vt observed > 1500. 
+
+GI/GU: Cont improved appetite per report. Pt enjoys Cherry popsicles for dry mouth. Abd soft slightly distended. + BS. Sm BM x1. Guiac negative. Cont Senna. F/C to gravity. Lasix/ Natrecor gtt unchanged. UO remains adequate but tapering down. Pt remains -9L LOS. BUN/CR 51/1.2.
+
+ID: Afebrile. Off all abx. WBC 10.7.
+
+Skin: Intact. Slight reddening of buttocks after bedpan use. Barrier cream applied. Left heel pink. Waffle boot applied.
+
+Endo: BS 131-113. No coverage indicated per sliding scale.
+
+A/P: 57 yo male w/ extensive cardiac hx including MI x2 at OSH, CHF exacerbation requiring intubation and transfer to [**Hospital1 3**]. Pt initially ? sepsis but became cardiogenic. Hospital course c/b pna and failed wean of Dobutamine and inability to tolerate Ace-I titration. Cardiac numbers improving. Pt -9L on Natrecor/ Lasix gtts. Cont to wean Dobutamine/ Natrecor/ Lasix as tolerated. Titrate Captopril dose as indicated. DC PA line over next day/two once dry weight is achieved. Cont ambulation as tolerated. Support pt and family as indicated.
+",,
+24675,7125,30640,0,2920-08-03 15:15:00 EST,2920-08-03 15:37:00 EST,492,"N",1,"Nursing/Other","CCU NURSING -HEART FAILURE/ S/P MI","
+CCU NURSING -HEART FAILURE/ S/P MI
+S.  ""IFEEL FINE - MY BREATHING IS GOOD.""
+
+O.  SEE CAREVUE FLOWSHEET FRO COMPLETE VS, OBJECTIVE DATA
+
+ID: AFEB WBC 10
+
+CV:  HR 70'S SR W/OCCASSIONAL PVC'S, [**Street Address **] 115 BRIEFLY, OCCASIONAL PACED BEAT ALSO NOTED; BP DOWN TO 69-75/ AFTER CAPTOPRIL 12.5 THIS AM, PT ASSYMPTOMATIC BUT REMAINED LOW FRO ABOUT 1 HOUR BEFORE SLOWLY INCREASING, BP BACK DOWN [**Last Name (un) 318**] IN AFTERNOON UNRELATED TO MEDICATION, AGAIN W/O SYMPTOMS; 1600 CAPTOPRIL DOSE HELD; PAD'S 25-34 X W/HYPOTENSION 18-20, CVP 11-18; SATS AT 1400 98/53 - CO/CI 4.7.2.36 SVR 783 ON DOBUTAMINE @ 2MCGS, NATRECOR @0.02 MCGS, LASIX @ 5MG/HR, HEPARIN @ 1050U/HR W/PTT THERAPEUTIC
+
+RESP:  O2 @ 2L NC, SATS 96-98%, LUNGS COARSE W/EXP WHEEZES, ATROVENT/ALBUTEROL NEBS QID, CONGESTED COUGH, OCCASSIONALLY PRODUCTIVE PER PT, USING INCENTIVE SPIROMETER
+
+GI: TOLERATING CARDIAC DIET IN SM AMTS, LIKES BOOST DRINKS, NO STOOL THIS SHIFT
+
+HEME:  HCT 29 IN AM, REPEAT ON ABG 26 - REPEAT HCT THIS EVENING [**Name8 (MD) **] MD [**Last Name (Titles) **], OTHERWISE W/O TREAT
+
+GU:  FOLEY DRAINING CLEAR AMBER URINE - OCCASIONALLY  ^RED SEC BLOOD;
+300 CC NEGATIVE TODAY - URINE OUTPUT IMPROVED WHEN BP HIGHER, U/O SIGNIFICANTLY DECREASED W/HYPOTENSION, ^ W/BP >100/
+
+ENDOCRINE; fs < 150 - NO COVERAGE NEEDED
+
+SOCIAL:  FAMILY IN TO VISIT, V SUPPORTIVE
+
+A:  HYPOTENSION W/CAPTOPRIL, DECREASED CARDIAC OUTPUT, URINE OUTPUT W/LOWER BP'S, REMAINS FLUID OVERLOADED - GOAL 2 L NEGATIVE
+
+P:  MONITOR HEMODYNAMICS, REPEAT HCT THIS EVENING, CONT DOBUT/NATRECOR/LASIX UNTIL REACH FLUID GOALS, FOLLOW RENAL FUNCTION,
+ENCOURAGE C+DB/INCENTIVE SPIROMETRY, CONT SUPPORTIVE CARE.                 
+",,
+24675,7125,30640,0,2920-08-04 02:48:00 EST,2920-08-04 03:20:00 EST,1258,"N",1,"Nursing/Other","CCU NURSING PROGRESS NOTE","
+CCU NURSING PROGRESS NOTE
+S: I'M FEELING GOOD TONOC
+O:PT ALERT AND ORIENTED, C/O BILATERAL ANKLE PAIN AND SPASM, LEFT >RIGHT. LEFT ANKLE PINK, EDEMATOUS AND  WARM TO TOUCH. DR. [**Last Name (STitle) 4896**] IN TO EVAL, TYLENOL W/ CODEINE ORDERED. 
+CV:MHR SR, FIRST DEGREE AV BLOCK TO ST 100S, W/ OCCASS PVCS. PA PRESSURES REMAIN ELEVATED 78/37, CVP 18, UNABLE TO WEDGE. MV O2 SAT 53, FICK CO4.8,CI 2.41. CAPTOPRIL GIVEN IN DEVIDED DOSES W/O EFFECT ON BP, MAP 70, SBP > 90. PT REMAINS ON NATRECOR AT .02MCG/KG/MIN, LASIX AT 5MG/HR, DOBUT AT 2MCG/KG/MIN. HEPARIN FOR ANTICOAGULATION. DP PALP.
+RESP:LUNGS CONGESTED, W/PRODUCTIVE COUGH OF BLD TINGED SECRETIONS. SATS 97% ON O2NC. GI:+BS, BM 1+, TOOK LIQ W/ MEDS. GU:CONT TO DIURESE
+ID:AFEBRILE. ENDO:EVENING GLU 
+A/P:PT ORIGINALLY ADMITTED FOR  SOB, COPD EXACERBATION,R/I FOR NON QMI. HISTORY OFCARDIOMYOPATHY AND RECENT WGT GAIN, UP 20LBS. CONTINUE TO TUNE UP HEMODYNAMICS ON DOBUT, LASIX, AND NATRECOR AND HEPARIN. CONTINUE TO DIURESE . INCOURAGE PT TO USE I/S. CONSIDER SENDING ANOTHER SPUTUM SPEC. PT RECEIVED TYLENOL W/CODEINE FOR ANKLE PAIN W/ GOOD EFFECT. PT ALSO GIVEN AMBIEN FOR [**Doctor Last Name 7**]. AM LABS PENDING. 
+",,
+24675,7125,30640,0,2920-08-04 18:08:00 EST,2920-08-04 18:22:00 EST,399,"N",1,"Nursing/Other","7a-7p","
+7a-7p
+neuro: A&Ox3, follows commands, moving all extremities, pt weak
+
+cv: hr nsr-st with occasional pcd bts & pvc's, sbp 78-129, sbp < 90 after captopril dose today, ho aware & captopril dose decreased, continues on dobutamine & natrecor gtts, swan dc'd & tip sent for culture
+
+resp: on 2 liters np, bs+ all lobes & course with crackles to bases, coughing productively, bld tinged clear sputum, rr 18-24, sat 92-97, no resp distress noted
+
+gi: cardiac diet tol fair, poor appetite, no stool, nausea or vomiting
+
+gu: foley patent, clear bld tinged yellow urine, good uo, iv lasix gtt dc'd
+
+other: TLC inserted to L IJ, cxr with good placement, R IJ swan & cordis dc'd, repeat labs sent this am, ptt 41 & heparin gtt increased to 1200u/hr, ptt due @ 2100, tylenol with codiene x 2 today for L lower leg & foot pain, family in & updated on pt's condition
+
+plan: continue to monitor fluid status, continue with natrecor & dobutamine gtt, tx to floor when off gtts     
+",,
+24675,7125,30640,0,2920-08-05 05:29:00 EST,2920-08-05 05:50:00 EST,284,"N",1,"Nursing/Other","NURSING PROGRESS NOTE 7P-7A","
+NURSING PROGRESS NOTE 7P-7A
+S:  ""I HAD A ROUGH DAY YESTERDAY:
+
+O:  NEURO:  PT. STATES HE IS FEELING DOWN A BIT, HE WAS UPSET HE COULD NOT GET OUT OF BED YESTERDAY DUE TO LINE CHANGE AND HYPOTENSION FROM RECEIVING CAPTOPRIL.  C/O LEFT ANKLE PAIN, RECEIVED TYLENOL #3 WITH FAIR RELIEF FROM PAIN.  GIVEN AMBIEN FOR [**Doctor Last Name 7**] WITH GOOD EFFECT.  PT. STATES HE SLEPT WELL AFTER RECEIVING SLEEPING PILL.  
+
+CV:  HR 70-80'S SR WITH OCC PVC.  RECEIVED CAPTOPRIL 6.25 MG LAST NOC, BP REMAINS STABLE, NO HYPOTENSION NOTED.  CONT ON DOBUT, NATRECOR AND HEPARIN.  
+
+RESP:  CONGESTED COUGH, COUGHING AND RAISING WHITE SPUTUM.  USING MDI WITH GOOD EFFECT.  COARSE BREATH SOUNDS. ON 2L NC.  O2 SATS 96%.  DOES HAVE OCC PERIODS OF APNEA  ~ 5 SECS.  
+
+GI:  APPETITE POOR,  + BOWEL SOUNDS.  NO BM OVERNIGHT.
+
+GU:  FOLEY DRAINING DARK YELLOW URINE IN FAIR AMTS.
+
+SKIN: INTACT
+
+FAMILY IN TO VISIT LAST NOC.   
+",,
+24675,7125,30640,0,2920-08-05 16:00:00 EST,2920-08-05 16:32:00 EST,5525,"N",1,"Nursing/Other","Nursing Shift Note","
+Nursing Shift Note
+S: ""My foot is hurting""
+
+O: Neuro- Pt A+Ox3, speech slightly slurred r/t old CVA however clear and understandable.  L hemiparesis remains unchanged and pt displays difficulty bearing weight today r/t LLE pain
+
+   Resp- Lungs crackles bibasilar, 0 SOB noted, Sa02 on 2lNC 96-99%.  Pt continues w/ intermiitent productive, await uncontaminated spec for culture, cup at bedside
+
+   Car- Pt remains in SR w/ 1 degree AVB, occasional PVC's/couplets noted on monitoring.  BP stable 100's/50's and pt tolerated ACE this AM w/o hypotension.  HCT this down 25, likely r/t blood loss w/ L IJ insertion, trnasfuse 1U PRBC w/o incident, post-blood check at 1700.  Natrecor d/c this AM=>pt remains approx euvolemic to this writing, team consulted and wish to continue Dobutamine to encourage diuresis w/ Lasix, continues to infuse at 2 mcg/kg/min. Heparin infusing at 1200 U/hr for low ouptut prophylaxis, Ptt last 67 today.
+
+   GI- BS+ x 4, good appetite, 0 BM this shift, +flatus
+
+   GU- Foley patent and draining CYU, 40 IV Lasix given w/ transfusion w/ 400 cc response of pale yellow urine.  
+
+   Skin- WDI, L IJ dressing DI and old R IJ site covered w/ tegaderm and sterile 4x4.  BLE [**2-9**]+ pitting edema noted, no s/s pressure ulcers
+
+   Musk: H/O CVA, PT/OT in to treat today, colchicine given for presumed gout in LLE and tylenol #3 given for breakthrough pain.
+
+A:  Pt is a 57 y.o. male w/ H/O ICM r/t Ant/Lat MI s/p AICD placement who now is approaches goal weight and optimization of medical regime
+
+P: Continue to monitor hemodynamics, follow I+O's closely for response start of PO Lasix regime, Encourage OOB activity, initiate PO coumadin tonight, post-blood HCT tonight, await further plans to D/C dobutamine and initiate zestril this PM, will monitor.
+
+
+
+",,
+24675,7125,30640,0,2920-08-06 05:42:00 EST,2920-08-06 06:09:00 EST,1161,"N",1,"Nursing/Other","CCU Nursing Progress Note 7p-7a","
+CCU Nursing Progress Note 7p-7a
+S: "" My leg just started acting up""
+
+
+O: Please see careview for complete VS/ additional objective data.
+
+MS: AAOx3. Pleasant and cooperative. Extremely fatigued once family left. Requesting to postpone PM care. Pt given Ambien 10 mg but pt only slept in sm naps d/t Gout flare up and need for bedpan. Pt c/o left lower leg pain at 0300. Given Tylenol #3 x2 w/ good effect. 
+
+CV: VSS. HR 68-80s. Tele-> 1st degreee heart block w/ PVCs. Once HR is less than 70 AV Pacing noted. SBP 80s while asleep. SBP otherwise 90-105 [** 68**]. Pt tolerating 6.25 mg dose of Captopril. Pt remains on 2.0 mcg of Dobutamine [** 68**]. No change per HO. Heparin remains at 1200 u/hr. AM Ptt 69.9. Goal 50-80. Coumadin resumed on prior shift. Hct this am 26.2 (29.1 posttransfusion). HO aware. Repeat HCT still pending. Clot expired. Updated sample sent to BB. Electrolytes stable.
+
+Resp: LS coarse/ clr w/ coughing in upper lung fields. Bibasilar crackles in bases. Pt denies SOB but some DOE witnessed w/ transfer back to bed. RR 14-20. O2 sats 95-97% on 2L NC. Cont to have congestion. Unable to produce sputum for sample.
+
+GI/GU: Abd soft. Slightly distended. 1500cc fluid restriction. Pt tolerating po meds w/o difficulty. Bedpan x2 w/o results after Senna dose. + Flatus. F/C to gravity. Decreased UO. Pt approx 300cc at 2130. Given additional 40mg IV Lasix w/ marginal results approx 200cc. Goal even/ slightly negative. BUN/Cr ^.  59/1.4 (48/1.0). HO aware. 
+
+ID: Afebrile. No abx. WBC 8.2. Awaiting sputum cx.
+
+Social: Family very supportive. Wife and 2 sons visiting last pm. 
+
+A/P: Extensive PMX most recently incurred MI x2. Remains on Dobutamine gtt. UO decreasing. Administered addtl Lasix IV dose. Am BUN/CR 59/1.4 (48/1.0). Marginal response. AM Hct 26.2 (29.1) Repeat HCt pending. Active clot sent to BB. ? transfuse w/out Lasix dose. Cont to wean Dobutamine as tolerated. ? call out to floor. Cont ambulation and advancement of diet as tolerated. Support pt as needed.
+",,
+24675,7125,30640,0,2920-08-06 16:06:00 EST,2920-08-06 16:51:00 EST,5525,"N",1,"Nursing/Other","Nursing Shift Note","
+Nursing Shift Note
+S: ""I'm very uncomfortable""
+
+O: Neuro- A+Ox3, pleasant and cooperative w/ care
+
+   Resp- Lungs crackles at left base, otherwise CTA bilat.  Cough intermiitent, nonproductive=> continue to await sputum culture.  SpO2 on 2LNC 96-97%, 0 SOB noted
+   
+   Car- HR regular, NSR w/ 1 degree AVB, intermittent AV pacing for rate below 70.  BP stable remains low, stable last 86/48 w/ MAP 63, period of hypotension this AM to 70's/40's-pt remained asymptomatic throughout.  Dobutamine weaned off w/o incident today, initiate coreg 3.125 bid, increase dose on lisinopril.  Heparin continues to infuse at 1200 units/hr=>last PTT 69.6.  Pt transfuse 2U PRBC today for Hct 25 this AM, 40 iV lasix b/t units
+
+   GI- BS+ x 4, Abd distended and pt reports fullness in stomach.  Pt unable to pass stool despite dulcolax supp x 2, SSE, digital rectal exam reveal hard, large stool in rectum=> require manual disimpaction by HO-pt reports relief, initiate bid colace
+
+   GU- Foley patent and draining amber, opaque urine, hematuria noted at times in tube.  Pt approx 1L +as of this writing, HO aware 80 PO lasix given, follow results
+
+   Skin- WDI, 0 open lesions
+   
+   Musk- Pain r/t gout in LLE reportedly decreased, WB status subjectively improved from previous date
+
+A: Pt is 57 yo male amditted for CHF s/p large Ant/Lat MI w/ H/O CVA.  Pt improved hemodynamically and currently tolerating med regime.  GI consulted and await visit to evaluate for potential endoscopy for suspicious HCT drop although pt remains guiac negative.  UOP has declined since IV gtt's d/c'd, question need for increase in standing lasix.
+
+P: Continue to monitor VS and cardiac monitoring, FOLLOW I+O's closely, repeat HCT 2 post transfusion, GI consult, follow BM's and may need additional enema, monitor for pain
+",,
+24675,7125,30640,0,2920-08-07 16:17:00 EST,2920-08-07 16:35:00 EST,187,"N",1,"Nursing/Other",,"
+
+AFTER RECEIVING COREG AT 8 AM AND IV LASIX  10 AM  , BP TO 72 36 AND URINE OUTPUT TO 10CC FOR 3HRS.PLAN WAS TO TRANS TO FLOOR AND CONTINUE LISINOPRIL AND COREG .PT EVAL BY HEART FAILURE SERVICE,PLAN NOW TO START MILRINONE , DIURESE FURTHER ,HOLD ACE AND WORKUP FOR CARDIAC TRANSPLANT .SR C PVCS TO PACED .HCT STABLE 32, HEPARIN AT 1200 UNITS .BOTH LEGS EDEMATOUS.
+
+SAT 96 2LNP. XRAY IMPROVED . 
+
+GOOD APPETITE ,STOOL X 2 NEG GUIAC
+
+HUO FAIR
+
+OOB X 2 ,GOOD SPIRITS .ENCOURAGED P DISCUSSION C DR [**Last Name (STitle) 4897**].
+
+MONITOR RESPONSE TO MILRINONE,MAY NEED LASIX DRIP.HOLD COREG IF BP BELOW 90 
+",,
+24675,7125,30640,0,2920-08-08 04:52:00 EST,2920-08-08 05:17:00 EST,1161,"N",1,"Nursing/Other","CCU Nursing Progress Note 7p-7a","
+CCU Nursing Progress Note 7p-7a
+S: "" I feel the best that I have""
+
+O: Please see careview for complete VS/ additional objective data.
+
+MS: AAOx3. Pleasant and cooperative. Prophylactively given Tylenol #3 x 2 tablets for left lower leg pain  r/t MS exacerbation and Ambien 10mg for [**Doctor Last Name **]. Pt denying pain [**Doctor Last Name 68**] and slept well w/ minimal interruption. Pt MAE. Following commands. Cont OT/PT as directed.
+
+CV: NBP 75-88 following start of Milrinone gtt. 2000 Coreg dose of 3.125mg held. BP gradually improved and at 2230 NBP 114. Given Coreg dose and BP approx 1 hr later while sound asleep decreased to 65/33. Pt aroused and BP improved slightly. NBP ^ 70s-90s [**Doctor Last Name 68**]. HO and Dr. [**Last Name (STitle) 1239**] aware of blood pressure. Probable dc of Coreg dose until further notice. Will reevaluate on rounds. Pt remains on Milrinone gtt at .375 mcg. Heparin gtt unchanged and remains at 1200 u/hr. Ptt cont to be therapeutic at 60.1. Goal 50-80. Hct stable at 31.3. Electrolytes continue to trend upward. K+ is ^ 5.0. Pt remains hyponatremic at 129. HO aware.
+
+Resp: LS coarse in upper lung fields/ faint bibasilar crackles in lower lung fields. Pt denies SOB/ DOE. RR 12-20. No periods of apnea noted. O2 sats 96-98% on RA. 
+
+GI/GU: Abd soft. Slightly distended. Tolerating po meds and advancing diet. Pt remains on 1500cc fluid restrictiion. + BS. Bedpan x2. Guiac negative. F/C to gravity. HUO marginal 35-80cc q 1-2 hrs but improved since Milrinone was started. Bun/Cr continues to rise and currently 91/1.9 ( 80/1.6). Pt remains approx 50cc positive for past 24hrs and -8.6L LOS. 
+
+ID: Afebrile. Tmax 96 po. WBC 7.0. No abx.
+
+Skin: Intact. Slightly reddened buttocks secondary to bedpan use. Barrier cream applied with improvement.
+
+Misc: Work up for heart transplant started per Dr. [**Last Name (STitle) 1239**]. 24 hr urine collection started at 2200. Bld work sent to lab and PPD performed by HO. 
+
+A/P: Extensive cardiac hx s/p MI x2 at OSH Dobutamine dependent, not tolerating ACE-I. Started on Mirinone gtt to cont diuresis. Pt BP marginal but improved until Coreg dose was given. 50+ point drop following Coreg dose. UO marginal. Pt slightly positive but remains greatly positive LOS. CXR clr. ? Too dry. BUN/CR cont ^. Team will reevaluate condition on rounds. HCT stable . Heart transplant work up started. Cont to support pt and family as indicated.
+",,
+24675,7125,30640,0,2920-08-08 15:07:00 EST,2920-08-08 15:27:00 EST,187,"N",1,"Nursing/Other",,"
+
+SWAN PLACED, CI 2.8/SVR 898/MVSAT 65% .PA 79/30,PAW 25. NESERITIDE TO BE STARTED . SR TO PACED C PVCS .DOFETILIDE DC,DIG AND COLCICHINE  DECREASED DUE TO RISING CREATININE . BP 70 FOR 1HR POST 700CC DIURESIS ,STABLIZED S RX.HEPARIN RESTARTED P LINE PLACEMENT.
+
+SAT 94 TO 96 ON 2L NP . 
+
+APPETITE GOOD ,LG NEG STOOL
+
+UO 50 TO 300 CC, 24 HR URINE INTACT 
+
+ALET,ORIENTED ,COOPERATIVE.DICUSSING POSSIBILITY TRANSPLANT C DRS [**Last Name (STitle) **] FAMILY.USN OF ABD,CAROTID DONE 
+
+MONITOR EFFECT NESRITIE,MILRINONE
+WATCH FOR INCREASED ECTOPY 
+",,
+24675,7125,30640,0,2920-08-09 03:52:00 EST,2920-08-09 04:18:00 EST,1161,"N",1,"Nursing/Other","CCU Nursing Progress Note 7p-7a","
+CCU Nursing Progress Note 7p-7a
+S: "" My neck doesn't hurt anymore, I can move it left to right while I am asleep"".
+
+O: Please see careview for complete VS/ additional objective data.
+
+MS: AAOx3. Pleasant and cooperative. Pt fatigued from day events. Pt c/o residual neck pain secondary to PA line placement. Given Tylenol #3 x2 w/ good effect. Pt continues to receive 10mg Ambien for [**Doctor Last Name **] w/ moderate effect [**Doctor Last Name 68**].
+
+CV: At 2000, once SBP> 95 pt was administered renally dosed Natrecor bolus and started on renal dose infusion of 0.01 mcg/kg/min. Pt tolerated bolus/infusion w/o difficulty. Milrinone gtt unchanged and rate continues at 0.375 mcg/kg/min. Since start of Natrecor gtt both HR, BP and PAP trending upward. HR 76-96 w/ rare to occ occurring PVCs. NIBP 88-128/58-76. MAPs > 74. PAP 83-95/34-41. PCWP 35-40. CVP 15-20. NSR w/ prolonged PR interval. 
+CO/CI/SVR at 2300 8.0/4.2/650 MVenous of 72. (pt coughing during sample). At 0400 Cardiac numbers were 5.5/2.76/1062 w/ MVenous of 64. Heparin gtt remains at 1200 u/hr. Ptt 50-72.4. Goal 50-80. HCt stable at 36.1. Electrolytes cont to trend ^. K+ 5.2/ Mg 2.7.
+
+Resp: LS coarse/ clr with coughing at times. Bibasilar crackles in lower lobes. RR 14-21. Pt stating there is some difficulty tolerating lying flat for periods of time. O2 sats while asleep to 92%. Increased FIO2 to 4L NC (2L). O2 sats 92-97%. CXR reveals mild-mod CHF/ LLL superimposed pna. Pt has congested sounding cough at times but declines use of Robitussin. Pt occassionally produces sm amts of clr phlegm.
+
+GI/GU: Abd soft. Slightly distended. +BS. Bedpan x2. Sm amt stool at 0300. Brown guiac negative. Minimal intake. Remains on 1500cc fluid restriction. F/C to gravity. UO greatly improved since start of Natrecor gtt. HUO 120-250cc cyu/ hr. Pt -1900cc for past 24hrs and negative 10.475 L LOS. Bun/ Cr showing improvement 81/1.2 (91/1.9 yesterday). 24 urine collection completed at 2200 and sent to the lab.
+
+ID: Afebrile. Tmax 97.1. No abx regimen at this time. WBC 9.6.
+
+Social: Family into visit. Very supportive.
+
+Skin: Intact. 
+
+Endo: FS 111-124. No coverage indicated per sliding scale.
+
+A/P: Very pleasant gentleman w/ cardiac hx s/p MI x2 at OSH. Transferred to [**Hospital1 **] for cath but swan revealed septic/cardiogenic shock. Pt cont to undergo heart transplant evaluation. Ace cont to be held for HYPOtn. Pt on Milrinone and started on Natrecor. UO/ kidney function greatly improved yet PAP and PCWP cont to trend ^. ? start of Nipride. Cont present coarse of medical mgmt. Cont to ambulate pt and encourage ^ food intake as tolerated. Cont to support pt and family as indicated.
+",,
+24675,7125,30640,0,2920-08-09 15:25:00 EST,2920-08-09 15:36:00 EST,187,"N",1,"Nursing/Other",,"
+
+ST C PVCS,DEFLETOLIDE RESTARTED.BP 130 SYS OFF ZANAFLEX ,CAPTOPRIL TRIED BUT DC IN FAVOR OF NIPRIDE,LASXI .NATRECOR DC,MILRINONE .18. PA PRESSURES 79/38 DOWN FROM 90/50 . CI 2,1/SVR 1526.HEPARIN 1200U.
+
+SAT 96 ,4LNP ,COARSE 
+
+GOOD APPETITE ,NO STOOL
+
+HUO 100 TO 300CC ,NEG 2200CC 
+
+GOOD SPIRITS.OOB TOL WELL.TYLENOL C CODEINE FOR PAIN SWAN SITE . DICUSSING TRANSPLANT  PLAN C DR [**Last Name (STitle) 4897**].
+
+PT C SEVERE FAILURE SP LARGE ANT LAT MI ,HX GI BLEED,STROKE,MS .HAS DIURESED 11 LITERS SINCE ADMIT BUT PA NUMBERS STILL ELEVATED AND STILL IN FAILURE . 
+
+TITRATE NIPRIDE/LASIX TO LOWER PA PRESSURES MAINTAINING GOOD OUTPUT ,BP 
+",,
+24675,7125,30640,0,2920-08-10 04:42:00 EST,2920-08-10 04:58:00 EST,284,"N",1,"Nursing/Other","NURSING PROGRESS NOTE 7P-7A","
+NURSING PROGRESS NOTE 7P-7A
+S:  I FEEL PRETTY GOOD TONIGHT""
+
+O:  NEURO:  PT. A&O X3, MOVING ALL EXTREMITIES WELL.  TURNING SELF IN BED.  SPEECH CLEAR.  DENIES PAIN.
+
+CV:  CONT ON HEPARIN @ 1200.  PTT PENDING.  NIPRIDE INCREASED TO 3 MCG/KG/MIN.  IMPROVING CO/CI.  SEE FLOWSHEET FOR HEMODYNAMIC DATA.  MILRINONE 0.185 MCG/KG/MIN.  LASIX @ 7.5 MG/HR.  DENIES CP.  
+
+RESP:  LUNGS CLEAR, NON-PRODUCTIVE COUGH.  O2 SAT ON 2L 93-95%.   DENIES SOB.  CONT MDI
+
+GU:  CONT ON LASIX GTT.  URINE OUTPUT ~ 200 CC/HR.  FOLEY DRAINING CLEAR YELLOW URINE.
+
+GI;  APPETITE FAIR.  + BOWEL SOUNDS.   PASSING SMALL AMTS OF FLATUS.  NO BM OVERNIGHT.  
+
+SKIN:  INTACT.  NO BREAKDOWN NOTED.
+
+SOCIAL:  SON INTO VISIT LAST EVE.  
+
+A:  STABLE NOC.  CO/CI IMPROVING ON NIPRIDE, MILRINONE.
+
+P:  CONT TO FOLLOW PA #'S, I/O,  MAINTAIN (-) I/O.  
+",,
+24675,7125,30640,0,2920-08-10 05:38:00 EST,2920-08-10 05:40:00 EST,1504,"N",1,"Nursing/Other",,"
+
+Resp Care Note:
+
+Pt requested and was given a neb wth Alb and ATV about 2400 on [**8-10**]. Bs are diminished  but bronchospasm is usually not present. Also given Flovent MDI at 5 A.M.
+",,
+24675,7125,30640,0,2920-08-10 17:25:00 EST,2920-08-10 17:37:00 EST,492,"N",1,"Nursing/Other","CCU NURSING PROGRESS NOTE 0700-1900","
+CCU NURSING PROGRESS NOTE 0700-1900
+S.  DENIES CHEST PAIN/SOB
+
+O.  SEE CAREVUE FLOWSHEET FOR COMPLETE VS, OBJECTIVE DATA
+
+ID:  AFEB
+
+CV:  HR 80'S-113 SR-ST W/FREQUENT VENT ECTOPY, RARE PACED BEATS AFTER 
+PVC'S; REPLACING LYTES AS NEEDED; BP 107-127/60-80, MILRINONE D/C'D AT 1000 - CO/CI/SVR PRE:  7.4/3.72/789; 4 HOURS POST-MILRINONE: 5.6/2.81/1071; PAD'S REMAIN HIGH 30-40 RANGE; NIPRIDE CONTINUES AT 3 MCGS; HEPARIN AT 1200U/HR W/PTT 70'S; OOB TO CHAIR X3 TODAY AT MEALTIMES
+
+RESP:  SATS 94-96% ON 2L NC, COUGH PRODUCTIVE OF THICK BLOODY SPUTUM ON ACCASION - GIVEN SPECIMEN CUP FOR NEXT SAMPLE
+
+GI:  TOLERATING CARDIAC DIET - SM FORMED NEGATIVE STOOL ON BEDPAN X1
+
+GU:  ON LASIX 7.5,G IV/HR - FOLEY DRAINING CLEAR YELLOW URINE IN MOD AMOUNTS, 1500CC NEGATIVE TODAY AND 14500 CC NEGATIVE LOS, BUN/CR DOWN TO 54/0.9 ON CURRENT REGIMEN
+
+SOCIAL:  WIFE, CHILDREN IN TO VISIT TODAY, APPEAR VERY SUPPORTIVE
+
+A:  DECREASED CO/CI AND INCREASED SVR AFTER MILRINONE - HOWEVER CO/CI AND URINE OUTPUT REMAINS ADEQUATE 
+
+P:  MONITOR HEMODYNAMICS, CO/CI OFF MILRINONE, CONT CURRENT REGIMEN, SEND SPUTUM FOR C+S IF SAMPLE ATTAINED, FOLLOW LYTES AND REPLACE AS NEEDED, ENCOURAGE INCREASED ACTIVITY AS TOLERATED - CONTINUE SUPPORTIVE CARE.
+
+",,
+24675,7125,30640,0,2920-08-11 05:15:00 EST,2920-08-11 05:43:00 EST,284,"N",1,"Nursing/Other","NURSING PROGRESS NOTE 7P-7A","
+NURSING PROGRESS NOTE 7P-7A
+S:  ""I DON'T FEEL VERY WELL""
+
+O:  NEURO:  PT. ALERT AND ORIENTED X3.  SLEPT FAIRLY WELL AFTER RECEIVING AMBIEN FOR [**Doctor Last Name 7**].  GIVEN TYLENOL#3 2 TABS FOR MUSCLE SPASM PAIN IN LOWER LEGS.  STARTED ON BACLOFEN.  DOSE HELD FOR NAUSEA THIS AM.  C/O NAUSEA, VOMITED SMALL AMT OF YELLOW BILE.  GIVEN ZOFRAN 2MG X2 WITH GOOD EFFECT.  
+
+CV:  SEE FLOWSHEET FOR HEMODYNAMIC DATA.  CO/CI REMAINS UNCHANGED.  CONT ON NIPRIDE DOSE INCREASED TO 4 MCG/KG/MIN LAST NOC.  NOW DECREASED TO 3 MCG/KG/MIN FOR MAP 57.  EKG OBTAINED WITH NAUSEA.  DR. [**Last Name (STitle) 4898**] NOTIFIED OF PT. CONDITION.  PT. DENIES C/O CHEST PAIN.  HEPARIN REMAINS AT 1200 UNITS/HR.  LASIX AT 7.5 MG/HR.  
+
+RESP:  O2 AT 2L.  O2 SATS 94%.  COARSE BREATH SOUNDS.  COUGHING AND RAISING THICK TAN SPUTUM.  DENIES SOB.  
+
+GI:  2 EPISODES OF NAUSEA THIS AM RELIEVED WITH ZOFRAN IV.  VOMITED SMALL AMT OF YELLOW BILE.  APPETITE POOR.  NO BM OVERNIGHT, GIVEN COLACE AND SENNA TABS.  ? LACTULOSE TODAY IF NO BM.
+
+GU:  URINE OUTPUT DECREASING.  HO AWARE.  - 2L FOR 24 HRS.  15L (-) FOR LOS.  URINE CLEAR YELLOW.  
+
+IV ACCESS:  MULTILUMEN L IJ, PA SWAN RIJ. 
+
+A:  URINE OUTPUT DECREASING, ? DUE TO LOW BP.  C/CI STABLE.
+
+P:  CONT TO MONITOR I/O, HEMODYNAMICS WHILE ON NIPRIDE, UPDATE FAMILY ON PT. CONDITION AND PROGRESS.
+",,
+24675,7125,30640,0,2920-08-11 17:29:00 EST,2920-08-11 17:38:00 EST,187,"N",1,"Nursing/Other",,"
+
+PT HYPOTENSIVE TO 71 SYS,VOMITING .NIPRIDE DC. PA PRESSURES ELEVATED  TO 80S ,MV SAT 52.MILRINONE RESTARTED TO .37 C NIPRIDE TO 2MIC ,CI 2,3/SVR 950 . MILRINONE TO .5 . ZOFRAN X1.ABLE TO EAT SOUP FOR DINNER C,TOOK SOME PILLS . HEPARIN  DECREASED TO 1050 FOR PTT 90.
+
+SAT 95 2L ,BS COARSE 
+
+DULCOLAX FOR STOOL X 2 .DIG/BACLOFEN DC DUE  TO NAUSEA
+
+HUO NIL, INCREASING P MILRINONE STARTED ,LASIX DRIP 7.5 
+
+CO PAIN IN BACK,CODIENE C TYLENOL FOR PAIN . 
+
+DOES NOT TOL BEING OFF MILRINONE .
+TITRATE MEDS TO OPTIMIZE PA NUMBERS ,URINE OUTPUT .
+
+",,
+24675,7125,30640,0,2920-08-12 04:58:00 EST,2920-08-12 05:17:00 EST,313,"N",1,"Nursing/Other","ccu nsg progress note.","
+ccu nsg progress note.
+o:""i feel really good!"" breath sounds=deminished-wo co sob/dyspnea -tolerates lying flat for short periods time-02 4l w sats mid 90's. maps 60-70's w pads 22-30. co/ci/svr @ 2100-4.1/2.06/1756-awake/ talking -- @ 0500-7.4/3.72/616-sound asleep. gtts-heparin @ 1050u/hr-
+-milrinone @ 0.5mcg/kg/min--nipride 2mcg/kg/min. wo stool. decreased uo--20-25ml/hr--bump creat 1.5 (1.0)--lasix gtt decreased from 10-5mg/hr. hct 28.0 (32.9). afebrile.
+
+a:stable throughout night. ?dry-bump creat.
+
+p:contin present management. ?d/c lasix gtt. ?tx. support as indicated.
+",,
+24675,7125,30640,0,2920-08-12 16:14:00 EST,2920-08-12 16:25:00 EST,187,"N",1,"Nursing/Other",,"
+
+ATTEMPTING TO WEAN MILRINPNE AND NIPRIDE ,START CAPTOPRIL 
+CI 2.6/MV SAT 56, PA PRESSURES RISING  OFF NIPRIDE,ON MILRINONE .37 ,P TAKING 12.5 CAPTOPRIL 
+PT STATES HE FEELS WELL .LASIX REMAINS 5MG/HR ,CREAT RISING,HUO 30 TO 50CC.HEPARIN 1050 U ,PTT 76 .ONE UNIT PC FOR HCT 28 .
+SAT 92 TO 94 ON 2L 
+GOOD APPETITE .
+OOB TOL WEEL .
+PT TOL NIPRIDE WEAN BUT ONLY [**Last Name (LF) 4899**] ,[**First Name3 (LF) **] NEED TO BE RESTARTED 
+
+
+",,
+24675,7125,30640,0,2920-08-13 04:43:00 EST,2920-08-13 05:12:00 EST,284,"N",1,"Nursing/Other","NURSING PROGRESS NOTE 7P-7A","
+NURSING PROGRESS NOTE 7P-7A
+S:  ""I FEEL PRETTY GOOD""
+
+O:  NEURO:  PT. A&O X3.   MOVING ALL EXTREMITIES.  SLEPT WELL IN LONG NAPS AFTER RECEIVING AMBIEN.  C/O BACK DISCOMFORT, GIVEN TYLENOL#3 2 TABS WITH RELIEF FORM PAIN.  
+
+CV:  MILRINONE INCREASED TO 0.5 MCG/KG/MIN.  LASIX REMAINS AT 5 MG/HR.  HEPARIN @ 1050 U/HR.  MAP> 60 WITH CAPTOPRIL.  HR 90'S SR WITH PVC.  HAD ONE 4 BEAT RUN VT LAST EVE, PT ASYMPTOMATIC. PA 68-73/33-38  CVP 13-18  
+
+RESP:  O2 SAT 93% ON 4L, 91% THIS AM O2 INCREASED TO 5L NC.  LUNGS COARSE.  LOOSE NON PRODUCTIVE COUGH.  CONT TO RECEIVE MDI.  
+
+GU:  URINE OUTPUT IMPROVING WITH INCREASE IN MILRINONE.  CLEAR YELLOW.  I/O (-) 281 FOR 24HRS.  (-) 13L FOR LOS.   
+
+GI:  ABD SOFT, + BOWEL SOUNDS.  NO BM OVERNIGHT.  CONT ON COLACE AND SENNA.   APPETITE IMPROVING.  
+
+SKIN: INTACT.
+
+SOCIAL:  FAMILY IN TO VISIT ON EVES.  NO CALLS FROM FAMILY LAST NOC.  
+
+A:  STABLE NOC, U/O IMPROVING WITH INCREASED DOSE OF MILRINONE.  
+
+P:  CONT TO FOLLOW U/O, HEMODYNAMIC #'S, UPDATE FAMILY AND PT. ON PLAN OF CARE. 
+",,
+24675,7125,30640,0,2920-08-13 17:56:00 EST,2920-08-13 18:08:00 EST,620,"N",1,"Nursing/Other","ccu nursing progress note","
+ccu nursing progress note
+pls see carevue flowsheet for complete vs/data/events
+s: i feel pretty good
+o: id: afeb. no abx. sputum sent for c+s but looked benign.
+cv: sr 90-110 st w pvcs, occ 3bt run. bp 100-120/50-60 via nbp. milrinone started at .5mcg, ramped up captopril tol dose of 37.5 and milrinone beginning to wean down. on .375 ci 2.66 w svr 900.
+heparin at 1050u/hr. ptt 70. hct 29, repeat sent this eve.
+resp: cont to req 5l nc to maintain sats >92%, avg 93-95%. rr low 20s. no c/o sob. crackles ^[**2-9**] bilat. had pa/lat in radiology this afternoon.
+gi: tol diet good intake. no bm. laxatives cont.
+gu: lasix gtt ^'d to 10mg/hr from 5 earlier today. uop 100-150cc/hr. 6-700cc neg from mn. wt remains stable.
+ms: ox3.good spirits. mae. weak on l. oob to ch w [**2-9**] assists. 
+no c/o pain today, no pain meds taken.
+social: wife and children visited for most of afternoon.
+a: cont chf. tol ^'d captopril, weaning milrinone
+p: follow bp, volume status, co. 50mg captopril at mn, wean milrinone to off [**Month/Day (2) 68**] and follow co. wean fio2 as tol. support to pt and family.
+",,
+24675,7125,30640,0,2920-08-14 04:04:00 EST,2920-08-14 04:23:00 EST,284,"N",1,"Nursing/Other","nursing progress note 7p-7a","
+nursing progress note 7p-7a
+s:  ""I FEEL WONDERFUL""
+
+O:  NEURO:  PT. STATES HE IS FEELING MUCH BETTER.  GIVEN AMBIEN 10 MG FOR [**Doctor Last Name 7**] WITH GOOD EFFECT.  SLEPT ALL NOC.
+
+CV:  LASIX GTT D/C'D LAST EVE.  MILRINONE GTT D/C'D AT 0400.  CO/CI REMAINS STABLE 5.5-5.1/2.5-2.7 WITH SLIGHT INCREASE IN SVR TO 980 WHILE WEANING MILRINONE.  RECEIVED 50 MG CAPTOPRIL AT 2300.  TOL WELL WITH MAP>70.  PA #'S 68-65/30'S, CVP 5-8.  PLAN FOR CATH LAB TODAY,
+
+RESP:  O2 @5L NC.  SATS 97%.  PA SAT 58-64%.  CRACKLES NOTED THROUGHOUT LUNGS FIELD.  DENIES C/O SOB.  STATES BREATHING IS COMFORTABLE.  COUGHING AND RAISING THICK WHITE SPUTUM.  CONT ON MDI.  
+
+GU: URINE OUTPUT ADEQUATE > 100 CC/HR.  I/O (-) 578 FOR 24 HRS.  (-) ~16L FOR LOS.  URINE CLEAR YELLOW.  
+
+GI:  APPETITE FAIR.  + BOWEL SOUNDS.  KEPT NPO AFTER MIDNOC. FOR POSS CATH LAB.  LAST BM [**8-12**].  
+
+IV ACCESS:  LEFT IJ MULTILUMEN D/C'D.  SITE C&D.  RIJ PA SWAN INTACT.
+
+A:  OFF MILRINONE, LASIX GTTS, CO/CI STABLE, URINE OUTPUT GOOD.
+
+P:  NPO FOR CATH, ?LVAD PLACEMENT, FOLLOW HEMODYNAMICS OFF GTTS.  MONITOR RESPONSE TO CAPTOPRIL.  UPDATE FAMILY/ PT. ON PLAN OF CARE.  CONT WITH PRE CATH EDUCATION.  
+  
+",,
+24675,7125,30640,0,2920-08-14 19:18:00 EST,2920-08-14 19:38:00 EST,615,"N",1,"Nursing/Other","CCU NPN: ALt in CV","
+CCU NPN: ALt in CV
+S: ""That room was cold!""
+
+O: PLease see carvue flowsheet for complete details.
+
+CV: HR 80-90 NSR, occ PVCs, occ Paced. BP 90-130/50-60. PAP 68-85/28-30 CVP 6-14. This am K+4.3 mg 2.0 (2g Mg given); repeat K+4.3 Mg 2.5  Hct 30.4  Heparin off for cath at 1000; restarted at 1600 at 1050units/hr. BLE pulses palpable, Right groin site c/d/i. Sheaths d/c at 1300. Cath showed RCA with no significant dz, LAD 80% in-stent stenosis, LCx 80% post OM2 and diffuse 80% dz before LPDA. PCWP 28   RA 13 PVR 217. Plan for cath intervention Friday, not a surgical candidate.  Dofetilide dose changed to 250mcg BID. Captopril dose increased to 75mg TID with post numbers: CO:4.9 CI 2.46 SVR 947 MVO2 57%. Swan d/c at 1800. Lasix drip restarted at 5mg/hr at 1830. Goal -1L today. 
+
+RESP: RR 20s, O2 sat 94-97% with increased O2 requirement post-cath. Currently on 6L NC. LS with crackles half-way up on left side, crackles at r base and clear in upper lobe. 
+
+GI/ENDO: NPO for cath. Ate well for supper tonoc. Abdomen soft and distended. NO BM. Dulcolax 5mg PO given, awaiting results.  FS not requiring SSC. 
+
+GU: 50-100cc urine via foley catheter. BUN/Cr 59/0.9. Mucomyst given x2 pre-cath, to have 2doses post-cath. Rcvd 50cc dye during cath. Goal I+O: -1L today. Lasix drip restarted. Currently -500cc. 
+
+PAIN: c/o back pain post-cath, tx with Tylenol #3 x2. 
+
+A: Severe ischemic Cardiomyopathy. Fluid overloaded. Cath today showed normal pulmonary values, LAD and LCx dz, and Elevated filling pressures. Transplant w/u continues.
+
+P: Plan for cath intervention Friday. Increase Captopril if BP tolerates. PTT due at 2200. Able to sit-up at 2100, post-sheath pull. Cont with Mucomyst x2 more doses. 
+",,
+24675,7125,30640,0,2920-08-15 05:50:00 EST,2920-08-15 06:13:00 EST,1161,"N",1,"Nursing/Other","CCU Nursing Progress Note 7p-7a","
+CCU Nursing Progress Note 7p-7a
+S: "" They said I would probably die on the table if I had surgery, I was a disappointed with that""
+
+O: Please see careview for complete VS/ additional objective data.
+
+MS: AAOx3. Very pleasant and cooperative. Pt c/o back pain which resolved after Tylenol x3 dose. No further complaint. Pt continues to receive Ambien 10 mg with good effect.
+
+CV: VSS. HR 71-81 w/ rare-occassional PVCs. NBP 79-107/45-69. (lower BP while asleep). MAPs > 67. Pt tolerating 75mg Captopril without difficulty. PTT at 2200 >150. Held Heparin x 6o minutes and decreased infusion rate by 400 to 650. Sent repeat PTT this am at 0630. Labs still pending. 
+
+Resp: LS clr/ crackles in bases. MDIs at bedside. RR 14-18. O2 sats 95-98%. FIO2 increased to 3L per pt request. Pt c/o SOB w/ excertion and while taking meds. 
+
+GI/GU: Abd soft. Slightly distended. Cont on bowel regimen of Colace/Senna/ Dulcolax w/o much effect. Discussed Lactulose w/ HO. Will evaluate in am. F/C to gravity. HUO 120-200cc q1. Increased Lasix gtt to 7U/ Hr (5U). Goal -1L. Pt -985cc since Midnight. Pt remains -16L LOS. Pt is d/t receive final Mucomyst dose this am.
+
+Id: Afebrile. 
+
+Skin: Intact. BLE [**2-9**].
+
+A/P: Extremely pleasant 57 yo male with significant CM, CHF currently being worked up for heart transplant. Diagnostic cath yesterday revealed LV aneurysm, LAD and LCX disease, ^ filling pressures and nml pulmonary function. Csurg consulted but pt not candidate for surgery. Swan dc'd yesterday. Ptt supratherapeutic last pm. Held Heparin and reduced rate. Repeat pending. Cont to follow. Cont diuresis as indicated. Plan for intervention on Friday to stent diseased vessels. Cont to support pt and family as tolerated.
+",,
+24675,7125,30640,0,2920-08-15 15:25:00 EST,2920-08-15 16:08:00 EST,5525,"N",1,"Nursing/Other","Nursing Shift Note","
+Nursing Shift Note
+S: ""I feel much better today.  My groin is sore""
+
+O: Neuro- Pt A+Ox3, pleasant and cooperative w/ care.  Pt ambulatory      w/ RW or 1 person assist, 0 changes noted in old CVA L hemiparesis
+
+   Resp- Lungs bibasilar crackles, clear in upper lobes, SpO2 on 3LNC, pt denies SOB, DOE, pt noted to be slightly tachypneic w/ exertion.
+
+   Car- Pt remains in 1 deg AVB, occ PVC's isolated and no increase in frequency.  BP stable on Lasix gtt at 7 mg/hr.  Heparin held this AM at 1000 for PTT>150=> held in anticipation of R IJ Cordis removal.  PIV started in L forearm, PTT checked at that time [**3-11**] likely contamination of previous sample.  At this time, blood noted at site of Cordis placement, this writer in to assess and noted line no longer in place.  Pressure applied immediately and HO in to assess.  Pressure held x 5 minutes w/ good result=> repeat PTT noted to be 31.  Heparin restarted at 1300 at 650 units/hr.  Mg repleted 2gm for Mg 1.9 and K repleted w/ 40 for K 4.1 d/t likely losses from lasix gtt.
+
+   GI- BS+x4, abdomen soft, NT, ND, good appetite.  Pt has 0 BM this shift, + flatus.  Lactulose given x 1 w/ 0 effect, 2nd dose given w/ effect pending, follow closely.
+
+   GU-  Foley patent and draining CYU, approx 100cc/hr UOP,  Approx 1L negative to this writing, weight down to 76.2 kg today
+
+   Skin- WDI, R IJ site CDI w/ pressure dressing applied. R groin CDI -hem/ooze, -bruit, +distal pulses. [**2-9**]+ BLE edema.
+
+   Musk- denies pain in LLE, tylenol w/ codeine x 1 w/ good effect for muscle spasms r/t MS.  Ambulatory w/ P.T. today.
+
+A: Pt is a 58 y.o. male admitted w/ h/o DCM, +MI, w/ H/O CVA and MS now in CCU for long admission for HF w/ difficult course of duiresis c/b frequent hypotension and requiring tailored inotropy therapy.  Pt subjectively feeling better however cath yesterday reveals LCX/LAD disease and deemed not a surgical candidate.  Now scheduled for planned PCI on [**8-16**].
+
+P: Continue to follow VS closely, Strict I+O's, follow fluid status, follow rhythm for changes, monitor for BM today-follow closely d/t h/o impaction, follow labs esp BUN/Cr, NPO after MN for cath in AM, stop lasix gtt after MN, transfer to floor after cath.
+
+    
+",,
+24675,7125,30640,0,2920-08-16 05:48:00 EST,2920-08-16 05:53:00 EST,889,"N",1,"Nursing/Other","CCU Nursing Progress Note 1900-0700","
+CCU Nursing Progress Note 1900-0700
+S-""Can I have my pills at 9:30PM!""
+
+O-Uneventful night.Sleeping well during night. Expressed some nervousness about heart transplant work-up. Comforted and supported by RN. VSS. BP into the 70s post Captopril dose but recovering. Heparin increased to 950u/hr without bolus. AM PTT pending. Lasix gtt discontinued at MN per Dr[**Doctor Last Name 4900**] orders. HUO trending down post but remain(-) for LOS. Attempts to go on bedpan times three but unsuccesful, passing flatus, abd soft, given standing senna and colace. NPO since MN.
+
+A/P: s/p CHF exacerbation doing well on current cardiac regimen
+OCT Cath Lab second case 
+
+",,
+24675,7125,30640,0,2920-08-16 17:36:00 EST,2920-08-16 18:01:00 EST,5525,"N",1,"Nursing/Other","Nursing Shift Note","
+Nursing Shift Note
+S: "" I don't feel like talking""
+
+O: Neuro- Pt A+Ox3, flat affect however, cooperative w/ care-denies feeling ""depressed"".  MD informed of above findings, and w/ long hospital stay pt beginning to have feelings of hopelessness, this writer suggest starting antidepressant
+
+   Resp- Lungs crackles at bases R>L, SpO2 on 2LNC 96-98%, denies SOB.
+
+   Car-cath today w/ stent x 3 to LCX, PTCA w/ brachy to LAD-L femoral approach CDI, hourly checks at this point (sheath out at 1500, hemostasis at 1545).  Restart Lasix at 1800-40 IV x 1 and restart gtt at 7 mg/hr, await further orders for restarting heparin. IV access PIV x 2 #20 patent and flush easily, integrilin infusing at 13cc/hr, 1/2 ns at 100cc/hr x 1L.
+
+   GI- BS+ x 4, Abd soft, NT, ND.  Pt having frequent urge to defecate after cath w/ 0 result, dulcolax supp given w/ effect pending, poor appetite today.
+   GU- Foley patent and draining CYU, I+O'S approx 200+ to this point, HO aware
+   Skin- L fem site CDI, 0 hem/ooze, R fem old site + small hematoma noted, unchanged, = pedal pulses bilat.
+   Musk-  Not ambulatory today, for cath
+
+A: Pt is 57 y.o. male w/ multiple medical problems-well known to this floor.  Pt is becoming increasingly frustrated w/ long hospital stay and appears to be depressed.  In addition pt continues to exhibit difficulty w/ constipation, despite adequate bowel regimen.  Pt essentially euvolemic today, unclear how much however, goal is daily net negative.
+
+P:  Continue q1h groin/vs checks per orders, strict I+O's, monitor response to lasix gtt, monitor response to supp-ensure improved bowel regime, labs this PM-follow platelet count, start zestril in AM, likely to floor, will monitor.
+
+",,
+24675,7125,30640,0,2920-08-17 01:11:00 EST,2920-08-17 01:49:00 EST,889,"N",1,"Nursing/Other","CCU Nursing Progress Notes 1900-0700:","
+CCU Nursing Progress Notes 1900-0700:
+S-""My back is bothering me!""
+
+O-MS:Uneventful night. Sleeping well after 10mg of Ambien and two tabs of Tylenol number three. Intially complaining of back discomfort post procedure cath, back rub and repositioned with good effect. Patient expressing disatisfaction about having to stay in the hospital times one more week and really wanting to go home, states ""I'm a father and would like to resume my fatherly role"" and ""misses pets."" Discussed possible antidepressant with team and will re-address in rounds.
+
+CV:VSS: HR 70-90s, 1st degree AVB with rare to occasional PVCs, BP via NIBP 80-100s. MN dose of Captopril held and then discontinued. Possible to start of Lisinopril in AM. Integrillin at 2mcgs/kg/min and to discontinue at 0430 this morning, did experience nose bleed with positive hemostasis, ocean spray at bedside. Heparing drip continues to be held. Started on Coumadin last eve. AM PT/INR pending. Bilateral groins CDI, no hematoma or ooze at sites. Pulses palpable. 
+
+RESP:Breath sounds with crackles at bases. O2 Sats 96-97% on 3LNP. 
+Denies SOB or difficulty breathing. 
+
+GU/GI: Foley patent.HUOs trending down despite Lasix drip being re-started and bolused at 7mg/hr, re-bolused with 40mg of Lasix at 0130 with no increase in drip and thus far net(-) 300ccs. Post cath fluids recieved and to KVO. Remains liters (-) for LOS. Creat stable.
+Passing moderate size liquid to loose BM. Evening bowel regimen held. 
+Abd soft with (+) BSs. Appetite poor. 
+
+ID:Afebrile. No issues
+
+A/P: CHF s/p stent to LAD with good result doing well on current regimen
+
+Possible call out to floor.  
+",,
+24675,7125,30640,0,2920-08-17 16:26:00 EST,2920-08-17 16:31:00 EST,187,"N",1,"Nursing/Other",,"
+
+CAPTOPRIL CHANGED TO 15 LISINOPRIL ,BP 80S FOR 2 HRS,PT C NO CO DIZZINESSMURINE OUTPUT TAPERED OFF .SR TO ST OCC PVC .K,MG REPLETED TO HAVE RECHECK 8PM ALONG C HCT 
+
+SAT 98 3L,CRACKES IN BASES
+
+ 
+APPETITE FAIR ,NO STOOL 
+
+UO VARIES, 300 TO 30 HR,LASIX DRIP 
+
+OOB X1 ,REQUIRED 2 PEOPLE 
+
+DOING WELL,MAY BE STARTED ON CORREG TOMORROW 
+
+",,
+24675,7125,30640,0,2920-08-18 03:08:00 EST,2920-08-18 03:51:00 EST,1258,"N",1,"Nursing/Other","CCU NURSING NOTE","
+CCU NURSING NOTE
+S""I'M FEELING MUCH BETTER""
+O:PT IN GOOD SPIRITS LAST EVENING, WATCHING RED SOX [**Doctor Last Name **] W/ FAMILY. 
+CV:MHR 1ST DEGREE AVB W/ OCCASS PVCS AND RUNS OF VT, OCCASS AVP BEATS.  K+ AND MG++ WNL. SBP REMAINS MID 80S TO LOW 90S,MAP 58-60. THIS WAS DISCUSSED W/ DR. [**Last Name (STitle) **]. U/O REMAINS LOW ON LASIX GTT AT 7MG/HR. LASIX WAS INCREASED TO 10MG/HR W/O EFFECT. REPEAT HCT <28, TRANSFUSED W/ 1UX OF PRBCS. RESP: LS W/ CRACKLES AT RIGHT BASE OTHERWISE CLEAR AND DIMINISHED. SATS MAINTAINED 97 OR >. 2+PEDAL AND ANKLE EDEMA. GI:SOFT, +BS, NO BM. GU:CONCENTRATED AMBER URINE. LEFT ANKLE DISCOMFORT MED W/ TYLENOL W/ CODEINE W/ GOOD EFFECT. AMBIEN GIVEN FOR [**Doctor Last Name 7**] ALSO W/ GOOD EFFECT.
+A/P:DECOMPENSATED HEART FAILURE ON ACE INHIB AND LASIX GTT. S/P RESTENOSIS OF MID LAD TX W/ CUTTING BALLOON PTCA AND BRACHY THERAPY. STENT X1 TO LCX AND LPDA X2. PT RECEIVED LISINOPRIL 15MG YESTERDAY, SBP IN 80S, POOR RESPONSE TO LASIX WITH THIS BP, DR. [**Last Name (STitle) **] AWARE. HCT NOW <28, TRANSFUSED W/ 1UNIT OF PRBC.  RECHECK HCT IN AM. DECREASE LISINOPRIL DOSE FOR 7/ 11. CONTINUE DIURESING AS TOLERATED. MONITOR BUN AND CREAT BECAUSE OF RECENT DYE LOAD AND HYPOTENSION. PROVIDE COMFORT MEASURES AND EMOTIONAL SUPPORT 
+
+",,
+24675,7125,30640,0,2920-08-18 17:53:00 EST,2920-08-18 17:58:00 EST,187,"N",1,"Nursing/Other",,"
+
+LASIX DRIP DC.LASIX PO BID TO BE STARTED. LISINOPRIL DOSE SPLIT 5MG AM 10MG PM . HEPARIN RESTARTED 1000U TILL COUMADIN THERAPEUTIC . BP 90S MOST OF DAY,OOB TOL WELL.MARGINAL URINES . LARGE BM P DULCLAX.APPETITE FAIR.SAT 96 RM AIR . 
+",,
+24675,7125,30640,0,2920-08-19 04:22:00 EST,2920-08-19 04:36:00 EST,1258,"N",1,"Nursing/Other","CCU NURSING PROGRESS NOTE","
+CCU NURSING PROGRESS NOTE
+S""I'M FEELING MUCH BETTER""
+O:PT IN GOOD SPIRITS, FAMILY WAS IN VISITING LAST EVENING. PT DENIES SOB, ALTHOUGH DOES  HAVE DOE. LUNGS W/ CRACKLES AT BASES AND DIM UPPER LUNG FIELDS. OCCASSIONAL CONGESTED NON PROD COUGH. CPT DONE, PT W/ NON PROD CONGESTED COUGH. 2+PEDAL AND LLE EDEMA. SATS 97% ON NC. MHR SR W/ 1ST DEGREE AVB, RARE PVC. OCCASSIONAL AVP BEATS. SBP 80- 90S. GI:+BS, NO BM. GU:NO DIURESIS W/ PO LASIX. ENDO:NO COV AS PER SS. 
+A/P:DECOMPENSATED CHF, NOW  ACE AND PO LASIX. IV HEPARIN UNTIL INR THERAPUTIC ON COUMADIN. RECENT PCI TO RESTENOSED MID LAD, TREATED W/ CUTTING BALLOON PTCA & BRACHY THERAPY. STENT X1 LCX AND LPD X2. CONTINUE INCREASE ACTIVITY AS TOL. ENCOURAGE PT TO BECOME MORE INVOLVED W/ SELF CARE. CONTINUE TO MONITOR LYTES, COAGS, BUN AND CREAT. 
+",,
+24675,7125,30640,0,2920-08-19 17:27:00 EST,2920-08-19 17:39:00 EST,738,"N",1,"Nursing/Other",,"
+
+CCU NPN: please see flowsheet for objective data
+
+Cardiac: HR 66-83 1st degree AVB,or AV paced BP 82-103/48-80  lisinopril now 5mg BID able to receive am dose. BP improved with ambulating.on heparin at 1000u/hr with therapeutic PTT
+
+Resp: crackles at bases,off O2 while out of bed,now on 2l NP with sats 98-99
+
+GU: BUN/Creat 60/1.3 lasix now 80mg BID UO 30-80cc/hr. +380cc. wt up to 76.5. receiving blood and to receive 40mg lasix
+
+GI: good appetite,passing flatus,no stool
+
+ID: afebrile
+
+Heme: HCT 28.9 being transfused one unit packed cells
+
+A/P: tolerated am dose of lisinopril,now to receive lasix,if BP tolerates lasix then to receive evening dose of lisinopril early in hopes of being able to start coreg this evening
+",,
+24675,7125,30640,0,2920-08-20 02:50:00 EST,2920-08-20 03:51:00 EST,1161,"N",1,"Nursing/Other","CCU Nursing Progress Note 7p-7a","
+CCU Nursing Progress Note 7p-7a
+S: "" I am almost ready to get out of here""
+
+O: Please see careview for complete VS/ additional objective data.
+
+MS: AAOx3. Cooperative w/ care and extremely pleasant. Pt c/o faint back discomfort which resolved following Tylenol#3 tablets x2, backrub and repositioning. Pt administered Ambien 10 mg w/ good effect. Pt slept well.
+
+CV: HR 68-72. 1st degree AVB/ AV Paced w HR<70. Rare PVC noted. NBP 85-103/47-65. MAPs >63. (Lower SBP when asleep). Pt tolerating Lisinopril pm dose w/o difficulty. Plan was to give Lisinopril at 2200 and then administer Coreg at 00 if BP was stable. Pt remained approx 700cc positive for day and HO ordered pt for 40 mg IV Lasix which had marginal effect. Per HO Coreg attempt was held and Lasix gtt was started at approx 0200. Pt remains on Heparin at 1000u/hr and Coumadin dose. Am labs stil pending.
+
+Resp: RR 11-17. O2 sats 96-99% on 2L NC. Pt denies SOB but DOE noted during periods of repositioing etc. LS clr in upper lung fields and bibasilar crackles noted in bases. MDIs at bedside.
+
+GI/GU:  Abd soft. +BS. Pt cont on bowel regimen of Colace/ Senna and Dulcolax. +Flatus. No BM.
+F/C to gravity. UO 45- 80cc/ hr. As of 2200, pt approximately 700cc positive. Goal even/ slightly negative. Pt was given additional 40mg IV Lasix as ordered in addition to dose received Lasix gtt started at approx 0200 in order to increase output to goal. Started gtt at 7mg/hr where it remains. Pt remains -17L LOS. 
+
+ID: Afebrile. Tmax 96.8 po. 
+
+Skin: Intact. Slight reddening to buttocks noted. Barrier cream applied w/ good effect.
+
+Access: 2 PIVs. 
+
+A/P: Extremely pleasant 58 yo male w/ hx of CAD and idiopathic CM c/b severe decompensated HF. Hospital course included aggressive diuresis to resolve HF and ^ filling pressures. S/P PTCA LAD, LCX and LPDA. Tolerating Lisinopril dose and scheduled to start Coreg as BP tolerates. [** **] held Coreg until 0500. Opted for additional diuresis [** 68**] then administered Coreg. Cont to follow. Titrate ACE/ BB as tolerated. Cont to support pt and family as indicated. Call out to floor once oral med regimen is tolerated w/o difficulty. Ambulate as tolerated.
+",,
+24675,7125,30640,0,2920-08-20 05:54:00 EST,2920-08-20 05:57:00 EST,1161,"N",1,"Nursing/Other","ADDENDUM CCU 7p-7a","
+ADDENDUM CCU 7p-7a
+Pt did not receive Coreg dose at 0500 per HO. SBP 80s w/ MAP of 65. Plan for today is to administer standing ACE-I dose then attempt administration of Coreg as BP tolerates.
+",,

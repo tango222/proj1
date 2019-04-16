@@ -1,0 +1,250 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+24322,18997,,,3378-01-24 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+
+Admission Date:  [**3378-1-26**]     Discharge Date:  [**3378-1-27**]
+
+Date of Birth:   [**3297-10-29**]     Sex:  M
+
+Service:  Neurosurgery
+
+CHIEF COMPLAINT: Left intracranial bleed with interventricular
+blood.
+
+HISTORY OF PRESENT ILLNESS: The patient is an 80-year-old
+gentleman transferred from [**Hospital1 5158**] with a history
+of confusion on the morning of admission put his underwear on
+over his clothes, and did not remember any details of what had
+occurred in the morning.  He has got a history of a right
+temporal stroke.  He has been on Coumadin for an AVR for 20
+years and confusion started the morning of admission.  No
+complaints of vomiting, headache, and transferred to [**Hospital1 930**] from [**Hospital3 **] for further
+management.
+
+On physical exam, his temperature was 99.1.  Heart rate is
+63.  Blood pressure 153/70.  Respiratory rate is 20.  Sats
+are 97% on 2 liters.
+
+PAST MEDICAL HISTORY:
+1. Prostate cancer.
+2. Stroke in [**3374**].
+3. AVR.
+4. Mechanical valve replacement.
+
+MEDICATIONS:
+1. Ciprofloxacin 500 mg.
+2. Coumadin.
+
+ALLERGIES:
+He has no known drug allergies.
+
+PHYSICAL EXAMINATION:
+He was awake, alert, and oriented at [**Hospital6 2182**], did
+not know the year.  Follow commands and inconsistent, his
+speech was fluent.  HEENT:  His Pupils are equal and reactive
+to light.  His face was symmetric.  Tongue was midline.  He
+has full strength in bilateral upper and lower extremities.
+Sensation was intact to light touch.  Gait was not checked.
+His reflexes were within normal limits.  Cardiovascular:  Has
+S1, S2 with mechanical click.  Pulmonary:  Bilaterally clear.
+Abdomen was soft, nontender, nondistended, positive bowel
+sounds.
+
+Head CT scan showed large interventricular blood with
+interparenchymal component in the occipital region.
+
+HOSPITAL COURSE:
+The patient was admitted to the Neuro Intensive Care Unit for
+close monitoring.  The patient was seen by the Cardiology
+Service, who recommended stopping his anticoagulation
+secondary to the bleed and he was on Coumadin for his AVR.
+Recommended keeping him off the Coumadin for 1-2 months, but
+starting aspirin in 10 days after bleed.
+
+On the morning of [**3378-1-26**], patient was awake, alert with
+no drift.  Full strength in all extremities, but continued to
+be disoriented.  Patient was transferred to the regular
+floor.  Aspirin can be restarted on [**3378-2-5**].  The patient
+was seen by physical therapy and occupational therapy and
+found to require rehabilitation.
+
+DISCHARGE MEDICATIONS:
+1. Zantac 150 mg po bid.
+2. Hydralazine 10 mg IV q six hours prn to keep his systolic
+blood pressure less than 140.
+3. Tylenol 650 po q four hours prn.
+
+The patient was in stable condition at the time of discharge
+and will follow up with Dr. [**Last Name (STitle) 3937**] in 10-14 days.  Vital
+signs were stable and he was afebrile at the time of
+discharge.
+
+
+
+
+
+
+                          [**Name6 (MD) 3938**] [**Name8 (MD) **], MD  [**MD Number 3939**]
+
+Dictated By:[**Last Name (NamePattern1) 130**]
+
+MEDQUIST36
+
+D:  [**3378-1-27**]  11:47
+T:  [**3378-1-27**]  12:00
+JOB#:  [**Job Number 5159**]
+Signed electronically by: DR. [**First Name (STitle) 3938**] [**Name (STitle) **]
+ on: MON [**3378-2-9**] 7:50 AM
+(End of Report)
+
+
+",,
+24322,18997,30206,,3378-01-25 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3378-1-25**] 8:43 AM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 1537**]
+     Reason: Follow up hemorrahge.
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      80 year old man with intraventricular bleed in lateral ventricles found on CT
+      at [**Hospital6 1538**] [**1-25**].  Patient is inattentive, confused but alert.  
+      ?intraparenchymal bleed.  Also has old right temporal infarct.
+     REASON FOR THIS EXAMINATION:
+      Follow up hemorrahge.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HEAD CT [**3378-1-25**].
+     
+     HISTORY:  Follow-up intraventricular hemorrhage.
+     
+     There are no prior studies available for comparison.
+     
+     TECHNIQUE:  Axial noncontrast imaging was performed from the skull base
+     through the vertex.
+     
+     CT HEAD WITHOUT CONTRAST:  There is a large amount of high attenuation
+     material within the left lateral ventricle representing hemorrhage.  The
+     occipital [**Doctor Last Name 79**] of the lateral ventricle appears expanded.  A small amount of
+     high density material is also seen dependently within the occipital [**Doctor Last Name 79**] of
+     the right lateral ventricle.  The ventricles are somewhat prominent in
+     comparison to the sulci.  Multiple areas of periventricular low attenuation
+     are seen likely representing chronic microvascular ischemia.  There is no
+     shift of normally midline structures.  Osseous structures are unremarkable.
+     
+     IMPRESSION:  Bilateral intraventricular hemorrhage, left greater than right.
+     Comparison to previous outside study is recommended to evaluate for
+     progression.
+     
+
+",,
+24322,18997,30206,0,3378-01-25 05:33:00 EST,3378-01-25 05:42:00 EST,3439,"N",54,"Nursing/Other",,"
+
+DATA/ACTION: ADM. FROM ER. PT CAN STATE HIS NAME AND TOWN WHERE HE LIVES BUT DOES NOT KNOW WHERE HE IS OR TIME OF YEAR. RESTLESS @ X'S
+REQUIRING SITTER. PUPILS 2 SLUGGSH RX. FOLLOWING COMMANDS. SB/P <140
+(SNP FOR SB/P>140 PER ORDERS.) 
+PLAN TO REPEAT CT THIS AM.  
+",,
+24322,18997,30206,0,3378-01-25 18:14:00 EST,3378-01-25 18:31:00 EST,3229,"N",54,"Nursing/Other",,"
+
+neuro:  Pt confused with periods of lethargy also periods of restlessness where pt was pulling at tubing.  Requiring sitter. Oriented to self only.  Confused to place and time.  Pt responds to verbal stimuli, pupils 3mm-brisk.  Follows commands but not consistantly. MAE. Pt aware of wife in room.  Haldol given X2 1.5mg for aggitation, with good effect.  
+CARDIO-VASCULAR: Pt V.S. stable this am. At 1300 pt SBP ^ 140. Nipride started at this time at 0.2mcg/kg/min, Attempted to decrease to 0.1mcg.  Pt SBP hypertensive. Titrated to present rate to maintain parameters.  ? hydralazine to augment SBP of < 140.
+RESP: Pt lungs sounds LLL crackles. otherwise  clear. Sats 97-99% on room air.
+GU: Foley patent draining adequate amounts of clear yellow urine.
+GI: Pt NPO. Abdomen soft, non-tender  BS +.
+SKIN: clear and intact.
+ENDOCRINE: noon blood sugar 105. Will recheck 
+",,
+24322,18997,30206,0,3378-01-26 04:47:00 EST,3378-01-26 04:56:00 EST,3439,"N",54,"Nursing/Other",,"
+
+data/action: pt very restless and agitated. trying to get oob,picking off ekg leads. with agitation sb/p140-150's-requiring snp.4mcg/kg/min.
+hydralazine 10-20mg iv started. haldol 2.5-4mg iv with calming effect. 
+pt w/ wrist restraints and sitter to protect pt from harm. 
+neuro-mae to command, oriented to self not place or time. 
+",,
+24322,18997,30206,0,3378-01-26 11:35:00 EST,3378-01-26 12:13:00 EST,3556,"N",54,"Nursing/Other",,"
+
+an 88 year old man with past medical history of prostate ca,pacemaker insertion,stroke in [**3374**],and s/p avr [**96**] years ago.was on coumadin at home.nka
+
+hospital course: Pt developed confusion at home and  presented  to [**Hospital3 **] on [**1-24**] and was treated with 4 units of ffp for inr of 2.2 and 1mg of vitamin k.ct scan revealed a positive head bleed, a left intraventricular bleed with small right parietal bleed.Transferred to [**Hospital1 **] for neurosurgical evaluation.In er at [**Hospital1 **] pt was confused and had sitter.Treated with dilantin 1 gm iv sent to neuro sicu.remained in nsicu for bp control was on nipride which was dcd at 7am on [**1-26**].hydralazide 10 to 20 mg iv q6 hrs to keep systolic bp less than 140.has been restless and agitated requiring haldol which has been dcd,becomes somulent .remains with sitter 1:1 secondary to confusion.will transfer to floor today.
+
+neuro:remains awake,alert  but does fall asleep..follows commands and moves all extremities with equal strenght.speech is clear,no facial droop.oriented to person,not time or place.haldol was dcd due to lethargy at times.
+
+cv:remains in appears nsr and paced rhythm.bp is stable nipride was dcd this am.hydralazine 20 mg was given to keep systolic less than 140.
+
+gi:abd soft with positive bowel sounds present.tolerating full liquids at this time,will advance diet as tolerated.no stool today.on zantac iv.
+
+gu:foley to cd draining moderate amounts of clear urine.foley will be dcd.
+
+resp:breath sounds clear,spo2 99% on ra.
+
+access:aline dcd,has one left arm peripheral iv.old area of reddness along left arm from old iv.
+
+social :wife called will not be in today.updated on husbands condition and aware that pt will be transferred to floor.
+
+",,
+24322,18997,30206,0,3378-01-26 14:02:00 EST,3378-01-26 14:04:00 EST,3556,"N",54,"Nursing/Other",,"
+
+labs reviewed by dr [**Last Name (STitle) **],[**First Name3 (LF) 737**] dcd and peripheral iv rate dcd.pt is dtv at 2200.ready for transfer to floor.
+",,
+24322,18997,,,3378-01-27 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3378-1-27**] 4:54 PM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 1539**]
+     Reason: ERvaluate for hydrocephalous.Fluctuating level of consciousn
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      80 year old man with intraventricular bleed in lateral ventricles found on CT
+      at [**Hospital6 1538**] [**1-25**].  Patient is inattentive, confused but alert.  
+      ?intraparenchymal bleed.  Also has old right temporal infarct.
+      Foe reevaluation of the hgh and vent. size.
+      Ev for hydocephalous.
+     REASON FOR THIS EXAMINATION:
+      ERvaluate for hydrocephalous.Fluctuating level of consciousness
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Inattentive and confused.  Intraventricular bleed in lateral
+     ventricles found on CT scan at [**Hospital6 1540**].
+     
+     COMPARISONS: [**3378-1-24**]
+     
+     TECHNIQUE:  Noncontrast head CT.
+     
+     FINDINGS:  Again noted is high attenuation material in the occipital horns of
+     both lateral ventricles representing hemorrhage.  This appearance is unchanged
+     in the interval since prior exam.  The ventricles remain somewhat prominent
+     relative to cerebral sulci, and are unchanged in the interval. No parenchymal
+     hemorrhage is seen.
+     
+     IMPRESSION:  Bilateral intraventricular hemorrhage, left greater than right
+     with prominence of ventricles relative to the cerebral sulci- ? early
+     commmunicating hydrocephalus. No significant change since prior study.  See
+     previous report for detailed description.
+     
+     
+
+",,
+24322,18997,,,3378-01-27 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3378-1-27**] 5:58 PM
+     CHEST (PA & LAT)                                                Clip # [**Clip Number (Radiology) 1541**]
+     Reason: Evaluate fo aspiration.
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      80 year old man with evaluation for aspiration.
+     REASON FOR THIS EXAMINATION:
+      Evaluate fo aspiration.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATIONS:  Aspiration.  Evaluate for pneumonia.
+     
+     CHEST PA AND LATERAL:  Status post AVR.  A dual chamber left sided pacemaker
+     is present with atrial and ventricular leads in situ, in good location.  There
+     is calcification and mitral anulus.  No evidence for CHF.  Apart from linear
+     atelectasis at the left base, the lungs are clear.
+     
+     IMPRESSION:  No evidence for CHF or pneumonia.  Minimal left basilar
+     atelectasis.
+
+",,

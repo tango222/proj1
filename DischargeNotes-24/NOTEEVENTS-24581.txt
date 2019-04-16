@@ -1,0 +1,725 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+24581,11634,,,3399-07-19 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+
+Admission Date: [**3399-7-19**]        Discharge Date: [**3399-7-22**]
+
+Date of Birth:  [**3317-12-16**]        Sex:  M
+
+Service:  NME
+
+
+CHIEF COMPLAINT:  Headache and intraventricular hemorrhage.
+
+HISTORY OF PRESENT ILLNESS:  This is an 81-year-old right-
+handed man, with a history of dementia, Paroxysmal atrial
+fibrillation, bradycardia status post pacer, and
+hypercholesterolemia, who was found by his wife this morning
+on the floor.  He had complained of headache last night for
+which he got Tylenol and then went to bed.  At 9:00 am, he
+was waking up, but told his wife that he wanted to [**Doctor Last Name 209**]
+more, and when she checked on him at 10:00 am, she found him
+on the floor supine and awake.  He could talk and move
+everything, but initially did not recall how he got to the
+floor.  Later on, he told doctors that [**Name5 (PTitle) **] had fallen.  His
+wife called EMS, and he was brought to [**Hospital **] Hospital, where
+a noncontrast head CT showed blood in the third, fourth and
+left lateral ventricle.
+
+REVIEW OF SYSTEMS:  The patient denies any fever, chills,
+nausea, vomiting, neck pain, weakness, numbness, tingling,
+dizziness, visual changes, hearing changes, chest pain,
+shortness of breath, abdominal pain, dysuria, hematuria or
+diarrhea, bright red blood per rectum, or bowel/bladder
+problems.
+
+PAST MEDICAL HISTORY:  COPD. Paroxysmal atrial fibrillation.
+Bradycardia, status post pacemaker placement with punctured
+lung and confusion as complication. Hypercholesterolemia.
+Dementia. ?Parkinsonism.
+
+FAMILY HISTORY:  No strokes or bleeds.
+
+SOCIAL HISTORY:  He is a retired architect who lives with his
+wife in [**Name2 (NI) 1849**].  He quit smoking in [**3380**], and drinks [**2-8**]
+alcoholic beverages a day.  There is no drug use.
+
+MEDICATION AT HOME:
+1. Zoloft 75 mg po qd.
+2. Lipitor 10 mg po qd.
+3. Amiodarone 100 mg po qd.
+4. Sinemet 25/100 mg bid.
+5. Aricept 5 mg po qd.
+6. Prilosec 20 mg po qd.
+7. Colace 100 mg po bid.
+8. Klonopin 0.5 mg po qd.
+
+
+ALLERGIES:  None.
+
+EXAM ON ADMISSION:  The patient was afebrile, with blood
+pressure 128/78, pulse 80, respiratory rate 10, 96 percent on
+room air.  Generally, this was a pleasant man in no acute
+distress.  Neck was supple without carotid bruits.  Heart had
+a regular rate and rhythm with no murmurs.  Lungs were clear
+to auscultation bilaterally.  Abdomen soft, nontender,
+nondistended.  Extremities showed no clubbing, cyanosis or
+edema.  Neurologic examination - the patient was awake and
+alert, cooperative with exam.  He was oriented to person,
+place and date.  He was able to do the month's of the year
+backward in 4-5 minutes.  His recall was 0/3 at 1 minute.
+His language was fluent with good comprehension and
+repetition.  Naming was intact.  There was no dysarthria or
+paraphasic errors.  There was no apraxia or neglect.  On
+cranial nerve exam, pupils were equally round and reactive to
+light, 4-3 mm bilaterally.  Visual fields were full to
+confrontation.  Funduscopic exam showed clear optic discs
+with some diminishing path of the blood vessels into the
+fundus, suggestive of early papilledema.  Extraocular eye
+movements intact bilaterally without nystagmus.  Facial
+sensation was intact and symmetric.  There was a right facial
+droop.  Hearing was intact to finger rub bilaterally.
+Palatal elevation symmetric.  Sternocleidomastoid and
+trapezius normal bilaterally.  Tongue was midline without
+fasciculations.  On motor exam, he had normal bulk and tone
+bilaterally.  He had full power of 5/5 throughout with no
+pronator drift.  There was slight cogwheel rigidity in the
+upper extremity with distraction.  On sensory exam, he was
+intact to light touch, pinprick, cold temperature, vibration
+and proprioception.  On the reflex exam, he was [**3-13**]
+throughout except at the plantar reflex he was [**2-10**]
+bilaterally.  On coordination, normal finger-nose test. Gait,
+again, 
+was not assessed.
+
+LABS UPON ADMISSION:  White count 7.6, hematocrit 44.8,
+platelet 191, INR 1.2, PTT 26.9, PT 13.5, sodium 144,
+potassium 4.1, chloride 105, bicarb 30, BUN 13, creatinine
+0.7, glucose 102.  Urinalysis was negative for any infection.
+CHEST X-RAY:  Showed no infiltrate.
+NONCONTRAST HEAD CT:  Showed worsening blood in the temporal
+region in the left lateral ventricle, third and fourth
+ventricle with hydrocephalus of the ventricle except at the
+fourth ventricle.
+
+HOSPITAL COURSE:  The patient was admitted initially to the
+intensive care unit for frequent neurology checks.  He had a
+CTA which showed no evidence of aneurysm.  His blood pressure
+was initially controlled with Lopressor, but later on he did
+not require any to keep blood pressure less than 140.  A
+repeat noncontrast head CT was performed 1 day later which
+was found to be stable.  He was ruled out for myocardial
+infarction.  It was felt that the patient likely had a
+traumatic head bleed that neurologically looked quite stable.
+He is to have a follow-up noncontrast head CT in 1 month, and
+follow-up within the Neurology Clinic.  The patient's Sinemet
+was held throughout the hospital course, and he did not have
+any worsened symptoms of parkinsonism, so it was felt that he
+did not have any parkinson's.  It was recommended that
+Sinemet be discontinued.
+
+DISCHARGE DIAGNOSES:  Traumatic intraventricular hemorrhage.
+
+Paroxysmal atrial fibrillation.
+
+Dementia.
+
+DISCHARGE MEDICATIONS:  Same as admission medication, except
+for:
+Sinemet which discontinued.
+
+DISCHARGE CONDITION:  Stable.
+
+DISCHARGE STATUS:  To home.
+
+FOLLOW UP:  The patient is to follow-up with a noncontrast
+head CT in 1 month.
+
+Follow-up with primary care doctor in 1 week.
+
+Follow-up with the [**Hospital3 **] Neurology Clinic in [**3399-9-8**].
+
+
+
+                     DR.[**Last Name (STitle) **],[**First Name3 (LF) **] 13-303
+
+Dictated By:[**Last Name (NamePattern1) 5640**]
+MEDQUIST36
+D:  [**3399-7-22**] 14:42:56
+T:  [**3399-7-22**] 15:59:44
+Job#:  [**Job Number 5641**]
+Signed electronically by: DR. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **]
+ on: MON [**3399-9-9**] 1:39 PM
+(End of Report)
+
+
+",,
+24581,11634,,,3399-07-19 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3399-7-19**] 4:08 PM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 3837**]
+     Reason: 81 y/o with ?ICH                                            
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      81 year old man with                                                            
+     REASON FOR THIS EXAMINATION:
+      81 y/o with ?ICH                                                                
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+     WET READ: DKKD FRI [**3399-7-19**] 4:27 PM
+      positive for intra-ventricular hemorrhage in the occipital horns and the
+      fourth ventricle
+     ______________________________________________________________________________
+                                     FINAL REPORT *ABNORMAL!
+     HISTORY:  81 year old with possible intracranial hemorrhage.
+     
+     TECHNIQUE:  Noncontrast head CT.
+     
+     COMPARISON:  None.
+     
+     FINDINGS:  There is intraventricular blood in both occipital horns, which is
+     greater on the left than the right.  There is also intraventricular blood in
+     the 4th ventricle.  There is no hydrocephalus. There is no mass effect or
+     shift of the normally midline structures.  There are periventricular
+     hypodensities consistent with small vessel ischemic changes. In the left
+     temporal [**Doctor Last Name 79**] there is a region of hypodensity which could represent a
+     prominent sulcus.  There is no evidence of subarachnoid hemorrhage.
+     
+     There is no skull fracture.  There is irregularity along the right side of the
+     arch of the C1 vertebral body which is incompletely evaluated on this study.
+     Please see the CT of the cervical spine performed on the same day for complete
+     evaluation.
+     
+     IMPRESSION:
+     There is intraventricular hemorrhage within the lateral and 4th ventricle.
+     
+     
+
+",,
+24581,11634,,,3399-07-19 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3399-7-19**] 8:08 PM
+     CT HEAD W/ & W/O CONTRAST; LAB RECONSTRUCTIONS                  Clip # [**Clip Number (Radiology) 3840**]
+     CT 150CC NONIONIC CONTRAST
+     Reason: r/o anuerysm                                                
+     Admitting Diagnosis: SUBARACHNOID HEMORRHAGE
+      Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      81 year old man with                                                            
+     REASON FOR THIS EXAMINATION:
+      r/o anuerysm                                                                    
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+     WET READ: AZm FRI [**3399-7-19**] 10:33 PM
+      hemorrhage in the occipital horns and 4th ventricle. Fullness of the basilar
+      artery at the bifurcation. Waiting for the recons.
+     ______________________________________________________________________________
+                                     FINAL REPORT *ABNORMAL!
+     INDICATIONS:  Intraventricular hemorrhage.
+     
+     NONCONTRAST HEAD CT:  Comparison is made to previous films from  [**3399-7-19**].
+     
+     FINDINGS:  Again is noted the blood within the fourth ventricle and occipital
+     horns of the lateral ventricles.  Ventricles are moderately dilated unchanged
+     from previous examination.
+     
+     IMPRESSION:  No change in status since prior study.
+     
+     CTA WITH MULTIPLANAR REFORMATTED IMAGES AND 3D RECONSTRUCTIONS:
+     
+     FINDINGS:  There is no evidence of aneurysm or flow abnormality. There is no
+     definite evidence of high flow arterial venous malformation.
+     
+     IMPRESSION:   Negative CTA.
+
+",,
+24581,11634,,,3399-07-19 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3399-7-19**] 8:08 PM
+     CT HEAD W/ & W/O CONTRAST; LAB RECONSTRUCTIONS                  Clip # [**Clip Number (Radiology) 3840**]
+     CT 150CC NONIONIC CONTRAST
+     Reason: r/o anuerysm                                                
+     Admitting Diagnosis: SUBARACHNOID HEMORRHAGE
+      Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      81 year old man with                                                            
+     REASON FOR THIS EXAMINATION:
+      r/o anuerysm                                                                    
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+     WET READ: AZm FRI [**3399-7-19**] 10:33 PM
+      hemorrhage in the occipital horns and 4th ventricle. Fullness of the basilar
+      artery at the bifurcation. Waiting for the recons.
+     ______________________________________________________________________________
+                                     FINAL REPORT *ABNORMAL!
+     INDICATIONS:  Intraventricular hemorrhage.
+     
+     NONCONTRAST HEAD CT:  Comparison is made to previous films from  [**3399-7-19**].
+     
+     FINDINGS:  Again is noted the blood within the fourth ventricle and occipital
+     horns of the lateral ventricles.  Ventricles are moderately dilated unchanged
+     from previous examination.
+     
+     IMPRESSION:  No change in status since prior study.
+     
+     CTA WITH MULTIPLANAR REFORMATTED IMAGES AND 3D RECONSTRUCTIONS:
+     
+     FINDINGS:  There is no evidence of aneurysm or flow abnormality. There is no
+     definite evidence of high flow arterial venous malformation.
+     
+     IMPRESSION:   Negative CTA.
+
+",,
+24581,11634,,,3399-07-19 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3399-7-19**] 8:08 PM
+     CT HEAD W/ & W/O CONTRAST; LAB RECONSTRUCTIONS                  Clip # [**Clip Number (Radiology) 3840**]
+     CT 150CC NONIONIC CONTRAST
+     Reason: r/o anuerysm                                                
+     Admitting Diagnosis: SUBARACHNOID HEMORRHAGE
+      Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      81 year old man with                                                            
+     REASON FOR THIS EXAMINATION:
+      r/o anuerysm                                                                    
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+     WET READ: AZm FRI [**3399-7-19**] 10:33 PM
+      hemorrhage in the occipital horns and 4th ventricle. Fullness of the basilar
+      artery at the bifurcation. Waiting for the recons.
+     ______________________________________________________________________________
+                                     FINAL REPORT *ABNORMAL!
+     INDICATIONS:  Intraventricular hemorrhage.
+     
+     NONCONTRAST HEAD CT:  Comparison is made to previous films from  [**3399-7-19**].
+     
+     FINDINGS:  Again is noted the blood within the fourth ventricle and occipital
+     horns of the lateral ventricles.  Ventricles are moderately dilated unchanged
+     from previous examination.
+     
+     IMPRESSION:  No change in status since prior study.
+     
+     CTA WITH MULTIPLANAR REFORMATTED IMAGES AND 3D RECONSTRUCTIONS:
+     
+     FINDINGS:  There is no evidence of aneurysm or flow abnormality. There is no
+     definite evidence of high flow arterial venous malformation.
+     
+     IMPRESSION:   Negative CTA.
+
+",,
+24581,11634,,,3399-07-19 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3399-7-19**] 7:14 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 3839**]
+     Reason: is there infiltrate                                         
+     Admitting Diagnosis: SUBARACHNOID HEMORRHAGE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      81 year old man with LOC and now rhonchi on exam                                
+     REASON FOR THIS EXAMINATION:
+      is there infiltrate                                                             
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  81 year old with loss of consciousness, now with shortness of
+     breath.
+     
+     PORTABLE UPRIGHT FRONTAL RADIOGRAPH.  No prior studies for comparison.
+     
+     Cardiac and mediastinal contours are unremarkable.  A left-sided single-lead
+     pacemaker is seen with its lead in the right ventricle.  There is a minimal
+     amount of subsegmental atelectasis at the right lung base.  There are no focal
+     consolidations or effusions.  Pulmonary vasculature is normal.  No
+     pneumothorax is seen. There is a mild scoliosis of the mid-thoracic spine,
+     convex to the right.
+     
+     IMPRESSION:  No radiographic evidence of acute cardiopulmonary process. 
+
+",,
+24581,11634,,,3399-07-19 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3399-7-19**] 4:18 PM
+     CT C-SPINE W/O CONTRAST; CT RECONSTRUCTION                      Clip # [**Clip Number (Radiology) 3838**]
+     Reason: 81 y/o s/p fall with ICH and neck pain r/o fractiure        
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      81 year old man with                                                            
+     REASON FOR THIS EXAMINATION:
+      81 y/o s/p fall with ICH and neck pain r/o fractiure                            
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+     WET READ: DKKD FRI [**3399-7-19**] 4:39 PM
+      no fx, severe degenerative changes
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  81 year old man with neck pain.  Evaluate for fracture.
+     
+     TECHNIQUE:  Noncontrast axial images were obtained from the cervical spine.
+     Coronally and sagittally reformatted images were obtained.
+     
+     COMPARISON:  None.
+     
+     FINDINGS:  There are no fractures.  There are extensive degenerative changes
+     throughout the cervical spine with disc space narrowing associated with
+     anterior and posterior osteophyte formation.  The cervical canal is not
+     significantly narrowed.
+     
+     There is a congenital defect along the right side of the posterior arch of C1.
+     The prevertebral soft tissue is within normal limits.  Within the visualized
+     portion of the lung apices there are fibronodular and emphysematous changes.
+     
+     IMPRESSION:
+     No fracture.
+     
+     Severe degenerative changes.
+     
+     
+
+",,
+24581,11634,,,3399-07-19 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3399-7-19**] 4:18 PM
+     CT C-SPINE W/O CONTRAST; CT RECONSTRUCTION                      Clip # [**Clip Number (Radiology) 3838**]
+     Reason: 81 y/o s/p fall with ICH and neck pain r/o fractiure        
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      81 year old man with                                                            
+     REASON FOR THIS EXAMINATION:
+      81 y/o s/p fall with ICH and neck pain r/o fractiure                            
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+     WET READ: DKKD FRI [**3399-7-19**] 4:39 PM
+      no fx, severe degenerative changes
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  81 year old man with neck pain.  Evaluate for fracture.
+     
+     TECHNIQUE:  Noncontrast axial images were obtained from the cervical spine.
+     Coronally and sagittally reformatted images were obtained.
+     
+     COMPARISON:  None.
+     
+     FINDINGS:  There are no fractures.  There are extensive degenerative changes
+     throughout the cervical spine with disc space narrowing associated with
+     anterior and posterior osteophyte formation.  The cervical canal is not
+     significantly narrowed.
+     
+     There is a congenital defect along the right side of the posterior arch of C1.
+     The prevertebral soft tissue is within normal limits.  Within the visualized
+     portion of the lung apices there are fibronodular and emphysematous changes.
+     
+     IMPRESSION:
+     No fracture.
+     
+     Severe degenerative changes.
+     
+     
+
+",,
+24581,11634,30525,,3399-07-20 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3399-7-20**] 2:14 PM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 3841**]
+     Reason:   Please assess for worsening hemorrhage, mass effect.      
+     Admitting Diagnosis: SUBARACHNOID HEMORRHAGE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       81 year old man with ventricular bleed.                                        
+     REASON FOR THIS EXAMINATION:
+        Please assess for worsening hemorrhage, mass effect.                          
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CLINICAL HISTORY:   Intraventricular hemorrhage.
+     
+     TECHNIQUE:   CT of the brain without IV contrast.
+     
+     COMPARISON:  [**3399-7-19**].
+     
+     FINDINGS:  There has been no appreciable interval change in the amount of
+     intraventricular blood within the occipital horns and left temporal [**Doctor Last Name 79**] and
+     fourth ventricle.  There is stable mild prominence of the ventricles but no
+     frank hydrocephalus.  The basal cisterns are not effaced and there is no
+     midline shift.  There is a stable low attenuation within the periventricular
+     and subcortical white matter, compatible with chronic microvascular ischemic
+     changes.  The grey/white matter differentiation is preserved.
+     
+     BONE WINDOWS:  Paranasal sinuses are normally aerated.
+     
+     IMPRESSION:   Stable appearance of intraventricular hemorrhage without
+     evidence of hydrocephalus, midline shift or herniation.
+     
+
+",,
+24581,11634,30525,0,3399-07-20 03:13:00 EST,3399-07-20 03:25:00 EST,4194,"N",54,"Nursing/Other","admit note","
+admit note
+pt admitted to NSICU from ED at approx 2030. 81 yo male with HPI h/a on [**7-18**] prior to going to [**Doctor Last Name **] for the night, awoke in the morning and told his wife that he would like to [**Doctor Last Name **] in, later when she cheked in on him he was on the floor with no memory of what had happened.  He was brought to an OSH, head CT showed interventricular bleed in occipital horns and 4th ventricle. 
+
+on admit to unit heart rate 60-70s, afebrile, SBP 140-160. goal SBP 120-140 per neuromed and neurosurg.  initially controlled with lopressor 10 mg IV q 4 , then hydralazine 10 mg q 4, at 0300 nipride gtt started for persistent SBP > 140.
+
+resp: o2sat 94-100% with 2 liters via n/c, lsc, non- productive cough
+
+neuro: alert and oriented X 2 pt answers"" hospital"" and his name- at times X 3 and sometimes X 1, MAE, follows commands consistently, pupils [**4-11**] brisk perla, no drift, facial features symetrical, slight c/o h/a approx q 6 hours, equal and symetrical strength
+
+GU/GI: no BM, BS positive, voids via urinal.
+
+plan: repeat head CT in am, no plan for vent drain at this time, keep SBP 120-140 with nipride gtt. 
+",,
+24581,23810,,,3400-03-27 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3400-3-27**] 9:43 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 3842**]
+     Reason: check tubeplacemetn                                         
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      82 year old man with intubated                                                  
+     REASON FOR THIS EXAMINATION:
+      check tubeplacemetn                                                             
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Intubated.  Please check tube placement.
+     
+     COMPARISON:  [**3399-7-19**].
+     
+     SUPINE AP CHEST:  An endotracheal tube has been placed, with the tip
+     approximately 6 cm from the carina.  A nasogastric tube is in place, with the
+     tip beneath the left hemidiaphragm and terminating beyond the radiograph.  The
+     pacemaker is unchanged in position.  The heart size is normal.  The aorta is
+     tortuous.  There is no consolidation or vascular congestion within the lungs
+     and the overall appearance of the lungs is not significantly changed compared
+     to the prior study.  No pneumothorax is detected.
+     
+     IMPRESSION:  Satisfactory endotracheal and nasogastric tube placement.  No
+     pneumonia or CHF.
+     
+
+",,
+24581,23810,,,3400-03-27 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3400-3-27**] 1:40 PM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 3843**]
+     Reason: Please evaluate for change.  Last image was at [**Location (un) **] campu
+     Admitting Diagnosis: HEAD BLEED
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      82 year old man with intracerebral bleed.                                       
+     REASON FOR THIS EXAMINATION:
+      Please evaluate for change.  Last image was at [**Hospital **] campus at 7AM this AM.   
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Followup evaluation of intracranial hemorrhage.
+     
+     COMPARISON:  Prior non-contrast head CT from [**3400-3-27**].
+     
+     TECHNIQUE:   Contiguous axial CT images of the head were obtained without IV
+     contrast.
+     
+     CT HEAD WITHOUT IV CONTRAST:  Again seen is an area of intraparenchymal
+     hemorrhage with surrounding edema within the lateral aspect of the right
+     temporal lobe.  Additionally, there is some asymmetric thickening of the right
+     tentorium, representing supratentorial subdural hemorrhage, and foci of
+     increased density seen within the occipital horns of the lateral ventricles
+     bilaterally, representing intraventricular hemorrhage. A small subdural
+     hemorrhage is also seen along the inner table of the right parietal bone.  All
+     of these findings are unchanged in comparison to the most recent study.  The
+     ventricular appearance is unchanged.  The shift of normally midline structures
+     is stable. The soft tissue and osseous structures are unchanged.
+     
+     IMPRESSION:  Again seen is right temporal intraparenchymal, subdural, and
+     bilateral intraventricular hemorrhage, which is not changed in comparison to
+     the prior study.
+
+",,
+24581,23810,30526,0,3400-03-27 16:52:00 EST,3400-03-27 17:14:00 EST,6465,"N",53,"Nursing/Other","7a-7p Nursing note:","
+7a-7p Nursing note:
+Nursing Assessment: 
+
+Patient from [**Hospital 607**] hospital to ED with H/A and head bleed. Patient admitted to unit from E.D. at 1430 post CT scan. SBP 165-175. HR 80s (Paced d/t hx bradycardia. ?type of pacer, ?cardiology consult). Intubated on CPAP. Extubated upon arrival to unit. Sats greater than 95 with nasal cannula. Patient orientated x 2 and neuro's wnl (see flowsheet for specifics). hx parkinson's/alzheimer's. Patient's BP's to be kept less than 140. Routine meds plus Labetolol for SBP greater than 140.  Neuro checks and vitals q 1 hour. NPO except for meds. NGT d/c'd. Foley draining clear light yellow urine. Patients wife and [**Name2 (NI) 730**] have been in to see patient. Wife lives with patient in nursing home and niece visits once a month (?social service consult).  
+Please refer to flowsheet for specifics.  
+",,
+24581,23810,30526,,3400-03-28 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3400-3-28**] 6:23 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 3845**]
+     Reason: Please eval for infiltrate.                                 
+     Admitting Diagnosis: HEAD BLEED
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       82 year old man with intracerebral hemorrhage, now a bit aggitated. s/p 
+      extubation.                                             
+     REASON FOR THIS EXAMINATION:
+      Please eval for infiltrate.                                                     
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CLINICAL INDICATION:  Status post intracerebral hemorrhage, now with increased
+     agitation, status post extubation.  Evaluate for infiltrate.
+     
+     SINGLE UPRIGHT VIEW OF CHEST:  Comparison is made to an exam of one day
+     earlier.  There has been interval removal of endotracheal and nasogastric
+     tubes.  The pacer leads are stable in position.  The heart size and
+     mediastinal/hilar contours are stable.  The pulmonary vasculature is
+     unremarkable.  The lungs are clear, without evidence of focal consolidations
+     or pneumothoraces.  There is slight blunting of the left costophrenic angle,
+     which may represent a small pleural effusion or basilar atelectasis.  The soft
+     tissues and osseous structures are stable.
+     
+     IMPRESSION:  No evidence of an acute cardiopulmonary process.
+     
+     
+
+",,
+24581,23810,30526,,3400-03-28 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3400-3-28**] 9:12 AM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 3844**]
+     Reason: reevaluate head bleed                                       
+     Admitting Diagnosis: HEAD BLEED
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      82 year old man with SAH, SDH                                                   
+     REASON FOR THIS EXAMINATION:
+      reevaluate head bleed                                                           
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  History of intracranial hemorrhage, evaluate for any interval
+     change.
+     
+     COMPARISON:  Prior non-contrast head CT from [**3400-3-27**].
+     
+     TECHNIQUE:  Contiguous axial CT images of the head were obtained without IV
+     contrast.
+     
+     CT head without IV contrast:  Again seen is an area of increased density
+     within the right lateral temporal lobe, representing intraparenchymal
+     hemorrhage, which is not changed in comparison to the prior study.  There is
+     some interval increase in the surrounding edema in this area.  Again, seen is
+     a subdural hematoma, seen as asymmetric thickening in the right tentorium, and
+     adjacent to the right parietal bone, which is not changed.  Additionally,
+     there is an area of increased density with a fluid level seen within the
+     occipital horns of the ventricles bilaterally, and this appears to have
+     increased in the left occipital [**Doctor Last Name 79**], which is concerning for interval
+     hemorrhage.  The caliber of the ventricles and the appearance of the midline
+     structures is unchanged.  The [**Doctor Last Name 66**]-white differentiation is preserved.  No new
+     areas of infarct.  Soft tissues and osseous structures are unchanged.
+     
+     IMPRESSION: Again seen is a right temporal intraparenchymal hemorrhage, with
+     associated subdural hematoma.  These are not changed.  There is
+     intraventricular hemorrhage, and this appears to have increased in the left
+     occipital [**Doctor Last Name 79**], suggesting interval bleeding since the prior exam.
+     
+
+",,
+24581,23810,30526,0,3400-03-28 02:54:00 EST,3400-03-28 03:08:00 EST,3214,"N",53,"Nursing/Other","NURSING UPDATE","
+NURSING UPDATE
+CV:  AFEBRILE. HR CONTINUESJ IN A-PACED RHYTHM WITH OCCASIONAL TO RARE PVC'S.  CYCLIC CARDIAC ENZYMES COMPLETED, AWAITING RESULTS OF #3 AT THIS TIME.  BP MAINTAINED WITHIN SET PARAMETER OF SBP<140.
+
+NEURO:  NO CHANGE IN STATUS. ALERT BUT ONLY ORIENTED TO PERSON, THOUGH VERY PLEASANT AND SETTLES EASILY.  ATTEMPTED TO GET OUT OF BED X1, VISIBILITY INCREASED, NOT RESTRAINED AT THIS TIME.  NORMAL STRENGTH ALL EXTREMITIES, PUPILS EQUAL IN SIZE AND REACTIVITY, FOLLOWING COMMANDS, NO DRIFT OR FACIAL DROOP OBSERVED.  TYLENOL FOR HEADACHE X1 WITH GOOD EFFECT.
+
+PLAN: ROUTINE CT SCAN ORDERED FOR TODAY.
+",,
+24581,,,,3400-04-15 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3400-4-15**] 1:19 PM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 3846**]
+     Reason: eval for recurrent bleed                                    
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      82 year old man with h/o ich, from NH wiht headache                             
+     REASON FOR THIS EXAMINATION:
+      eval for recurrent bleed                                                        
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+     WET READ: ACKe TUE [**3400-4-15**] 1:40 PM
+      no new bleed.  resolving right temporal i.c.h.
+     ______________________________________________________________________________
+                                     FINAL REPORT *ABNORMAL!
+     TECHNIQUE:  Noncontrast head CT.
+     
+     COMPARISON:  Noncontrast head CT of [**3400-3-28**].
+     
+     FINDINGS:  Again seen is the large right temporal lobe lesion, of an amorphous
+     focus of high density with surrounding low density, representing an
+     intracranial hemorrhage.  This has decreased since the last examination. 
+     There is now only the most minimal amount of shift of midline structures to
+     the left.  Also, improved is the subtemporal subdural fluid collection, which
+     is superior to the tentorium.  The right cerebral convexity subdural fluid
+     collection is essentially resolved.  Intraventricular blood is no longer
+     apparent.  The cerebral ischemic white matter changes in the periventricular
+     regions are unchanged.  No new areas of intraaxial or extraaxial fluid
+     collections are seen.  Surrounding soft tissue and osseous structures are
+     unremarkable.
+     
+     IMPRESSION:  No new hemorrhage.  These findings were related to ED dashboard
+     at 2:00 p.m. on [**3400-4-15**].
+                                                                           
+
+",,
+24581,22764,30527,0,3401-04-11 04:31:00 EST,3401-04-11 04:35:00 EST,662,"N",1,"Nursing/Other","CONDITION UPDATE","
+CONDITION UPDATE
+VSS. BP W/IN ORDERED PARAMETERS W/O MEDS.  AFEBRILE.  PT ALERT, ORIENTED TO PERSON.  AT TIMES ORIENTED TO PLACE. ABLE TO REORIENT.  PT HIGH RISK FOR SAFETY.  GOT OOB X1 TO ""USE BATHROOM"" DESPITE ALL 4SR UP.  BEDALARM ON - VISIBILITY INCREASED, PT FREQUENTLY REORIENTED W/ EFFECT.  PUPILS EQUAL AND REACTIVE BILAT.  PT DENIES SOB OR PAIN.  MOVES ALL EXTREMITIES WITH NORMAL STRENGTH.  LUNGS CTA BILAT.  ABD SOFT.  FOLEY PLACED - URINE QS.  
+CONT CLOSE NEURO ASSESSMENT.  PT SAFETY.  MONITOR FOR S/S OF BLEED.  CONT CURRENT ICU CARE AND ASSESSMENTS.
+",,
+24581,22764,30527,0,3401-04-11 12:05:00 EST,3401-04-11 12:05:00 EST,6773,"N",1,"Nursing/Other",,"
+
+see transfer note for todays nursing note.
+",,
+24581,22764,30527,0,3401-04-12 04:20:00 EST,3401-04-12 04:35:00 EST,580,"N",1,"Nursing/Other","condition updated","
+condition updated
+s/p ICH with mental status change
+for details refer to carevue flowsheet
+Pt OOB ambulated with slight forward lean but very steady gait and curious about surroundings. 
+started to become restless while sitting in chair so asked patient to draw ""kitchen plans"" and for ~ 1hour pt focused  slept well all night 
+",,
+24581,22764,30527,0,3401-04-12 16:57:00 EST,3401-04-12 16:58:00 EST,6773,"N",1,"Nursing/Other",,"
+
+SICU NN: See carevue for specifics. Patient very pleasant. No change in neuro exam from prior shift, see flow. Room air. Paced rhythm. BP wnl. Tolerating diet. Foley dc'd as ordered, due to void. Skin intact. Ambulates with one assist. Transfer to floor when bed available. 
+",,
+24581,,30527,0,3401-04-13 02:57:00 EST,3401-04-13 03:04:00 EST,6236,"N",1,"Nursing/Other","SICU-B NPN 7p-7a","
+SICU-B NPN 7p-7a
+S: ""[**Known patient firstname 185**] [**Known patient lastname 4759**]"" ""[**Location (un) 366**], hospital""
+O: please see carevue for complete assessment data
+No Events
+NEURO: no c/o pain, neuro exam unchanged. Assisted back to bed, gait slow, slightly weak but steady. Responding appropriately in conversation, easily re-oriented to time/place. Not attempting to get OOB.  Slept undisturbed t/o night.
+
+CV: HD stable, NSR/A-paced w/ occasional ectopy. Cont amio PO, statin. 
+
+RESP: LSCTA bilaterally, no cough. SpO2 96-97% on RA. 
+
+GI: abd soft/nontender/nondistended. +BS/-BM. denies n/v/c. Tol all PO meds w/ water. 
+
+GU: voided x 1, conc amber urine, no c/o dysuria, requesting urinal appropriately. 
+
+ENDO: BG wnl, no SSRI coverage needed. 
+
+ID: afebrile, no abx. 
+
+SKIN: intact, distal pulses easily palp. PIV x 1 RLA. 
+
+SOC: no calls/visits
+
+A: Stable s/p ICH, awaiting bed on [**Hospital Ward Name **] 5
+P: follow up am labs, assist w/ ADLs, ^ diet and activity as tolerated. Support to pt. and family as appropriate. 
+",,
+24581,,30527,0,3401-04-13 16:02:00 EST,3401-04-13 16:04:00 EST,7311,"N",1,"Nursing/Other","N/SICU nursing progress note","
+N/SICU nursing progress note
+Please refer to careview flowsheet for specific detail. 
+
+D/c plan: Being discharged to Clarkhouse at [**Doctor Last Name 4760**]in [**Location (un) **] Ma. Wife updated by case manager. Transfer by ACLS ambulance at 16:15. 
+
+",,

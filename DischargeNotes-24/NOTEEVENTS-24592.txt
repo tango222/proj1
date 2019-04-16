@@ -1,0 +1,649 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+24592,21203,,,2721-11-25 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+
+Admission Date:  [**2721-11-26**]       Discharge Date:  [**2721-12-1**]
+
+Date of Birth:   [**2648-11-21**]       Sex:  F
+
+Service:  CCU
+
+HISTORY OF THE PRESENT ILLNESS:  The patient is a 73-year-old
+female with a history of diabetes mellitus type 2,
+hypothyroidism, and hypertension, who presented to an outside
+hospital on [**2721-11-1**] with nausea, vomiting, and
+malaise.  The patient was found to be in diabetic
+ketoacidosis with a blood sugar of 920, pH of 6.93, and a
+potassium 2.7.  She subsequently went into asystolic arrest,
+and she was resuscitated with atropine, epinephrine, and
+defibrillation.  There was a question of infection causing
+below knee amputation, with the initial white blood cell
+count increased with a left shift.  Subsequent sputum, on
+[**2721-11-3**], grew MSSA.  Blood cultures, times two, grew out
+coagulase negative staphylococcus, which were sterile once
+the line was removed.  A-line tip grew Enterobacter,
+klebsiella, and several other organisms.  She was treated
+with Vancomycin, Levaquin, and Flagyl.  The below knee
+amputation resolved with the usual treatment.
+
+HOSPITAL COURSE:  Hospital course was complicated by
+difficulty in extubation.  The patient was extubated
+approximately five times, two of which were self extubations.
+Each time she had, what was reported in the notes from the
+outside hospital, to be pulmonary edema.
+
+She apparently had no difficulty with each of the
+re-intubations, making laryngeal edema less likely.  The last
+extubation lasted approximately four days.  There was
+mentioned in the notes from the outside hospital of anterior
+EKG changes, as well as a subtle septal/apical wall-motion
+abnormality on TTE.  Given this question of pulmonary edema,
+which could be secondary to recurrent ischemia or diastolic
+dysfunction, the patient was transferred to the [**Hospital1 374**] for possible cardiac
+catheterization.
+
+Other notable events included a cold ischemic foot treated
+with Heparin with improvement, but a markedly decreased
+platelet count.
+
+The patient also required eight units of packed red blood
+cells over the hospital stay, secondary to anemia in the
+setting of Guaiac-positive stool.
+
+Currently, upon arrival, the patient was comfortable and
+intubated.  She was alert and responded to commands.  She
+denies any history of cardiac disease or angina.
+
+ALLERGIES:  The patient is allergic to PENICILLIN, HEPARIN
+with documented HIT antibody positive state.
+
+PAST MEDICAL HISTORY:
+1.  Diabetes mellitus type 2.
+2.  Hypothyroidism.
+3.  Hypertension.
+
+MEDICATIONS AT HOME:
+1.  Synthroid 300 mcg p.o.q.d.
+2.  Insulin.
+
+MEDICATIONS ON TRANSFER:
+1.  Levaquin 500 mg IV q.d.
+2.  Flagyl 500 mg IV q.d.
+3.  Sliding scale regular Insulin.
+4.  Protonix 40 mg p.o.q.d.
+5.  Synthroid 300 mcg p.o.q.d.
+6.  Iron sulfate 325 mg p.o.b.i.d.
+7.  Vitamin C.
+8.  Lopressor 52 mg p.o.t.i.d.
+9.  Neutra-Phos one p.o.q.d.
+10. Insulin 70/30, 10 units q.a.m.; 6 units q.p.m.
+11. Accupril 0 mg p.o.q.d.
+
+SOCIAL HISTORY:  The patient works as a nanny.  She denies
+any tobacco and any alcohol use.
+
+FAMILY HISTORY:  Noncontributory.
+
+PHYSICAL EXAMINATION:  VITAL SIGNS:  Blood pressure 144/70;
+heart rate 75; breathing at 10, saturating at 98%.  The
+ventilator was set at SIMV with a tidal volume of 700, rate
+of 10, pressure support of 7, PEEP of 5, FIO2 OF 40%.
+GENERAL:  The patient is a pleasant, elderly female, who is
+intubated, alert, and mouthing words.  HEENT:  Pupils equal,
+round, and reactive to light.  Extraocular muscles are
+intact.  Mucous membranes were dry.  NECK:  No JVD.  Right IJ
+in place.  No carotid bruits.  CHEST:  Examination revealed
+coarse breath sounds bilaterally, no rales or wheezes.
+CARDIAC:  Regular rate and rhythm, S1, S2 normal.  No
+murmurs, rubs, or gallops.  ABDOMEN:  Exam was soft,
+nontender, nondistended, positive bowel sounds, no
+hepatosplenomegaly.  EXTREMITY:  Examination showed 2+
+femoral without any bruits, 1+ edema in her lower extremities
+bilaterally, 2+ edema in her right hand.  Pulses were
+Dopplerable.  NEUROLOGICAL:  She was alert and oriented times
+three, grossly nonfocal.  Line site appears clean without any
+erythema, nontender.
+
+LABORATORY DATA:  The patient had a white blood cell count of
+22.4; hematocrit 30.2; platelet count of 336; sodium 133;
+potassium 3.6; chloride 97; CO2 29; BUN 29; creatinine 1.1;
+glucose 213.  She had a CK of 8, troponin of less than .3.
+She had an EKG, which was in normal sinus rhythm, normal
+axis, normal interval, no T-wave inversions, good R wave
+progression.
+
+Chest x-ray from [**2721-11-26**] revealed patchy and linear
+bibasilar opacities, most likely secondary to atelectasis.
+No pulmonary edema.
+
+HOSPITAL COURSE:  The patient was admitted to the CCU
+for evaluation of possible cardiac ischemic contributing to
+pulmonary edema.  The patient was hemodynamically stable upon
+her arrival.  She was rapidly converted to pressor-support
+ventilation and required minimal assistance with her
+respirations.
+
+On the morning after admission, the patient continued to be
+stable on the ventilator with minimal assistance.  The
+decision was made to extubate her in the presence of both the
+ENT Service, as well as Anesthesia Service.  The patient
+underwent direct laryngoscopy by the ENT Service and no
+evidence of supraglottic edema was noted.  The patient was
+determined to be ready to be extubated from both a
+respiratory and ENT standpoint.  She was extubated without
+any difficulty, maintaining oxygen saturation of 98% to 99%
+on three liters of oxygen by nasal cannula.
+
+Throughout the remainder of her hospital stay, the patient
+remained stable from a respiratory standpoint.  She
+maintained good oxygenation.  She was noted to be breathing
+comfortably on minimal oxygen supplementation.
+
+The next question, which we attempted to address was the
+following:  Whether there was a significant contribution of
+ischemia.  We reviewed the films from the outside hospital
+and did not note any significant pulmonary edema on any of
+the films.  We found no evidence of ischemic EKG changes on
+her electrocardiogram, nor did we see any significant
+pulmonary edema on her chest films done here.  The patient
+was continued on aspirin, Lopressor, Accupril, and Zocor.
+She remained asymptomatic without any chest discomfort or
+shortness of breath.  Ultimately, the team decided to send
+the patient for a Persantine, may be stress test, rather than
+the more invasive cardiac catheterization.  As of this
+dictation, the results of the P-Sestimibi are pending, but
+will be added as an addendum.
+
+Another issue, which arose during the patient's
+hospitalization was a persistent nausea.  Apparently, this
+has been a longstanding problem for over a month.  We think
+that the most likely etiology is diabetic gastroparesis.  We
+have started the patient on QAC and QHS Reglan, as well as
+Zofran for symptomatic relief of the nausea.  The patient
+will have outpatient GI followup for both the nausea, as well
+as the history of anemia and Guaiac-positive stools at the
+outside hospital.
+
+The patient was seen by the Physical Therapy Department.  It
+was decided that the [**Hospital 874**] rehabilitation would be
+beneficial to the patient given her longstanding hospital
+stay with subsequent deconditioning.  The patient will thus
+be discharged to an inpatient rehabilitation facility for
+physical reconditioning.
+
+CONDITION ON DISCHARGE:  Stable.
+
+DISCHARGE MEDICATIONS:
+1.  Zofran 8 mg p.o.b.i.d.
+2.  Atenolol 75 mg p.o.q.d
+3.  Accupril 10 mg p.o.b.i.d.
+4.  Levaquin 500 mg p.o.q.d. until [**2721-12-6**].
+5.  Reglan 10 mg p.o.q.i.d.
+6.  NPH Insulin 10 units q.a.m. and 7 units q.m.
+7.  Colace 100 mg p.o.b.i.d.
+8.  Lipitor 10 mg p.o.q.h.s.
+9.  Aspirin 325 mg p.o.q.d.
+10. Synthroid 300 mcg p.o.q.d.
+
+DISCHARGE DIAGNOSES:
+1.  Diabetes mellitus.
+2.  Hypertension.
+3.  Anemia.
+
+FOLLOW-UP APPOINTMENT:
+1.  [**Last Name (un) 279**] Diabetes Center [**1-9**], 9 a.m.
+2.  GI Clinic [**12-20**], 2:40 p.m.
+
+DISCHARGE DIAGNOSES:
+1.  Diabetes mellitus.
+2.  Hypertension.
+3.  Anemia.
+
+
+
+
+                            [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **], M.D.  [**MD Number 1783**]
+
+Dictated By:[**Dictator Info **]
+MEDQUIST36
+
+D:  [**2721-11-30**]  13:40
+T:  [**2721-11-30**]  13:41
+JOB#:  [**Job Number 5661**]
+Signed electronically by: DR. [**First Name11 (Name Pattern1) **] [**Initials (NamePattern4) **] [**Last Name (NamePattern4) **]
+ on: [**Doctor First Name 122**] [**2722-1-26**] 7:25 PM
+(End of Report)
+
+
+",,
+24592,21203,,,2721-11-25 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2721-11-25**] 9:06 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 3970**]
+     Reason: r/o CHF
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      73 year old woman with DM and HTN transferred to OSH for several failed
+      extubation attempts attributed to flash pulmonary edema. 
+     REASON FOR THIS EXAMINATION:
+      r/o CHF
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CLINICAL INDICATION: Failed extubation.  Respiratory failure and history of
+     flash pulmonary edema.
+     
+     An endotracheal tube is in satisfactory position.  A nasogastric tube is
+     coiled within the stomach and a central venous catheter terminates within the
+     superior vena cava.  There is a small curvilinear interface at the right apex,
+     just below the third posterior rib.  Although possibly due to skin fold,
+     pneumothorax cannot be excluded.
+     
+     The heart size is within normal limits.  The lungs reveal patchy and linear
+     bibasilar opacities.
+     
+     Surgical clips overlie the right apex.
+     
+     IMPRESSION:
+     1. Lines and tubes position, as indicated above.
+     
+     2. Curvilinear interface at right apex, possibly due to skin fold, but no
+     pneumothorax cannot be excluded.  Left lateral decubitus chest radiograph may
+     be helpful to exclude right apical pneumothorax.  Finding communicated to ICU.
+     
+     3. Patchy and linear bibasilar opacities, probably due to atelectasis, but
+     early infection is not excluded in the appropriate clinical setting.
+     
+
+",,
+24592,21203,30540,0,2721-11-25 18:15:00 EST,2721-11-25 18:40:00 EST,3240,"N",54,"Nursing/Other",,"
+
+CSRU Acceptance Note
+
+[**Known patient firstname 546**] [**Known patient lastname 4776**] is a 72 year old woman who was transferred from [**Hospital3 **] w/ dx of acute MI.  See ICU admission sheet for hospital course.
+
+Allergy:  PCN
+
+Neuro:  Alert.  Follows commands.  MAE w/ equal strength.  Able to communicate mouthing words.
+
+CV:  Hemodynamically stable.  Cont's on NTG at 20 mcg/min.  CCU team to write orders.  Skin warm, dry.  Dopplerable DP/PT bilat.  Bilat pedal edema left more than right.  TLCL in place.
+
+Resp:  BS coarse throughout.  Difficult to pass suction catheter so lavaged w/ return of small thick old blood tinged plugs. Vented on SIMV 10x700, 40%, 7 IPS, 5 PEEP.  
+
+GI/GU:  OGT to LCS with bilious o/p.  Will discuss w/ team regarding resuming tube feeds.  u/o adequate.
+
+ID:  Afebrile.
+
+Skin:  Intact.  Slightly pink at perirectal area.
+
+Comfort:  Denies pain.  Pt remains restrained d/t hx of pulling out tubes in previous hospital despite being alert and cooperative.
+
+Social:  Daughter arrived w/ patient.  Updated on plan.
+
+A/P:  Stable.  Await CCU team evaluation, plan, and orders.  Monitor VS, glucose.  ? restart tube feedings.  
+",,
+24592,21203,30540,0,2721-11-25 22:17:00 EST,2721-11-25 22:20:00 EST,3799,"N",54,"Nursing/Other",,"
+
+ALERT AND COOPERATIVE. MAE. VENT CHANGED TO CPAP WITH 8 IPS WITH NORMAL ABG. WILL STAY ON CPAP FOR THE NIGHT AND EVAL FOR EXTUBATIION IIN THE A.M. PAN CULTURED. WBC 19, FLAGYL AND LEVOFLOXACIN TO CONTINUE. 
+",,
+24592,21203,30540,,2721-11-26 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2721-11-26**] 6:31 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 3973**]
+     Reason: 73 yo female, re-intubated times 5 over last month at outsid
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      73 year old woman with DM and HTN transferred to OSH for several failed
+      extubation attempts attributed to flash pulmonary edema. 
+     REASON FOR THIS EXAMINATION:
+      73 yo female, re-intubated times 5 over last month at outside hosp. for
+      respiratory failure (?CHF flash pulm edema), extubated again here this evening.
+      With some rales at bilat. bases. please evaluate for increased chf.  
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     PORTABLE CHEST [**2721-11-26**]
+     
+     INDICATION: Respiratory failure.
+     
+     COMPARISON: Previous study of earlier the same day.
+     
+     There has been interval extubation. A central venous catheter remains in
+     satisfactory position, and a nasogastric tube has been removed in the
+     interval.
+     
+     Cardiac and mediastinal contours are stable in the interval. There has been
+     worsening opacity at the left base in the retrocardiac area and there has been
+     slight increase in patchy right basilar opacity as well. Additional linear
+     opacities are observed near the diaphragms, and there is a small left pleural
+     effusion.
+     
+     IMPRESSION: Interval extubation with worsening opacities at the lung bases,
+     probably due to atelectasis, although aspiration is an additional
+     consideration.
+     
+     Probable small left pleural effusion.
+
+",,
+24592,21203,30540,,2721-11-26 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2721-11-26**] 12:20 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 3972**]
+     Reason: evaluate for R pneumothorax noted on prior study
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      73 year old woman with DM and HTN transferred to OSH for several failed
+      extubation attempts attributed to flash pulmonary edema. 
+     REASON FOR THIS EXAMINATION:
+      evaluate for R pneumothorax noted on prior study
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CLINICAL INDICATION: Pneumothorax.
+     
+     COMPARISON: Previous study of one day earlier.
+     
+     An endotracheal tube, central venous catheter, and nasogastric tube remain in
+     place.  The nasogastric tube coils within the proximal stomach.
+     
+     No pneumothorax is identified.
+     
+     The heart size and mediastinal contours are normal.  There are improving areas
+     of increased opacity at the bases.  No pleural effusions are evident.
+     
+     IMPRESSION:
+     1. No evidence for pneumothorax.
+     
+     2. Resolving patchy and linear basilar opacities, most likely due to
+     atelectasis.
+
+",,
+24592,21203,30540,,2721-11-26 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2721-11-26**] 11:02 AM
+     UPPER EXTREM VEINS US RIGHT                                     Clip # [**Clip Number (Radiology) 3971**]
+     Reason: ASYMETRIC ARM SWELLING, R/O THROMBUS IN RUE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      73 year old woman with DM and HTN trasnferred from OSH with flash pulmonary
+      edema. Has RIJ and asymmetric edema R arm. We would like to r/o clot
+     REASON FOR THIS EXAMINATION:
+      r/o thrombus in RUE
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: Flash pulmonary edema with right arm edema with right internal
+     jugular catheter in place.
+     
+     FINDINGS: A portable right upper extremity sonogram was performed. The study
+     was somewhat limited secondary to a catheter dressing in the right neck.  The
+     right subclavian, axillary, brachial, and cephalic veins demonstrate normal
+     flow, compressibility, and augmentation.  The right internal jugular vein was
+     unable to be assessed as above.
+     
+     IMPRESSION: No evidence of DVT in this limited study.
+
+",,
+24592,21203,30540,0,2721-11-26 04:52:00 EST,2721-11-26 04:54:00 EST,3123,"N",54,"Nursing/Other",,"
+
+Resp Care
+pt transferred from osh for cardiac workup. failure to wean. several extubations c/b pulm edema and recently laryngeal edema. presently on ps 8/peep 5/40%. spont volumes range 400-600. rr teens. sxned for thick yellow/sl.bld tinged sputum. abg wnl. possible wean to extubate on days. 
+",,
+24592,21203,30540,0,2721-11-26 05:04:00 EST,2721-11-26 05:07:00 EST,-1,"N",54,"Nursing/Other","Shift Note","
+Shift Note
+Pt is neurolagically intact, MAE to command and nods appropriatley to questions. Hemodynamics as per flowsheet. Lungs course sounding, Sx for thin yellow. Pt coughs and gags on oett with minor manipulation. Nausea tx with ogt to suction. Ogt draining small amounts of bilious material. u/o qs. see flowsheet for details.
+",,
+24592,21203,30540,0,2721-11-26 17:58:00 EST,2721-11-26 18:13:00 EST,3401,"N",54,"Nursing/Other","End of shift note","
+End of shift note
+O: Pt w recent hx of several failed extubations. Per CCU team pt to have ent eval prior to extub to assess airway.
+Pt sedated w propofol 15mg total for airway assessment by ent fellow and exam unremarkable from her standpoint after exam w fiberoptic exam at bedside(*see progress note). Pt subseq extubated after fully awake and resp mechanics supported extubation. Strong barking  cough noted after extubation w initially lg amts of thick yellow to bl tinge sputum. Oxygenation excellent & no signs of resp distress on 50% ofm. Bilat brth snds slt coarse but diminish at bases.
+Cv status: sr no ectopics. BP stable. 
+Resp status: as above stable on ofm  at 50%.
+Gi status: Lg amts of formed lt brwn stool guiac neg stool.
+Gu status: marginal uop via foley ho aware no rx for now per ho.
+Neuro status: Awake alert oriented no co pain or discomfort.
+
+A/P: Hemodynamically stable post extubation.Pulm toilet . Labs at 1900
+",,
+24592,21203,30540,0,2721-11-26 22:16:00 EST,2721-11-26 22:17:00 EST,3241,"N",54,"Nursing/Other",,"
+
+continues to cough, usually nonproductive.  dr. [**First Name (STitle) **] notified, cough med ordered and given.  resp rate 20-24, spo2 95-97% on ra.
+",,
+24592,21203,30540,,2721-11-27 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2721-11-27**] 8:15 AM
+     PORTABLE ABDOMEN                                                Clip # [**Clip Number (Radiology) 3975**]
+     Reason: female with extended intubation and icu stay, with intermitt
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      73 year old woman with DM, resp. failure, long ICU stay, N+V.
+     REASON FOR THIS EXAMINATION:
+      female with extended intubation and icu stay, with intermittent nausea and
+      vomiting despite NPO, large amount NG drainage yesterday. please evaluate for
+      evidence of bowel obstruction.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CLINICAL INDICATION: Nausea and vomiting. Clinical suspicion for bowel
+     obstruction.
+     
+     A single view of the abdomen demonstrates oral contrast opacifying
+     nondistended loops of colon. Air is identified in the rectosigmoid region as
+     well as contrast in this region. No abnormally dilated loops of bowel are
+     identified.
+     
+     No abnormally dilated loops of bowel are identified.
+     
+     Scoliosis is noted.
+     
+     In the imaged portion of the left base, there is some retrocardiac
+     opacification which appears improved compared to recent radiograph of one day
+     earlier.
+     
+     IMPRESSION: No radiographic evidence of intestinal obstruction.
+
+",,
+24592,21203,30540,,2721-11-27 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2721-11-27**] 8:15 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 3974**]
+     Reason: 73 yo female with long hx resp. failure, extubated yesterday
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      73 year old woman with DM and HTN transferred to OSH for several failed
+      extubation attempts attributed to flash pulmonary edema. 
+     REASON FOR THIS EXAMINATION:
+      73 yo female with long hx resp. failure, extubated yesterday, with pleural
+      effusions. please evaluate for interval increase in chf.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     
+     Compared to [**2721-11-26**].
+     
+     CLINICAL INDICATION: Extubation. History of respiratory failure.
+     
+     Comparison is made to previous radiograph of one day earlier.
+     
+     A right internal jugular central venous catheter remains in satisfactory
+     position. Cardiac and mediastinal contours are normal in appearance for
+     technique. There are bilateral areas of increased opacity in the retrocardiac
+     region, worse on the right and minimally improved on the left. There is also a
+     small left pleural effusion. A focus of discoid atelectasis is observed at the
+     right base.
+     
+     Overall, the lung volumes appear relatively increased suggesting underlying
+     emphysema.
+     
+     IMPRESSION: Bibasilar retrocardiac opacities, worse on the right and slightly
+     improved on the left, likely due to atelectasis. Aspiration or pneumonia are
+     also possible in the appropriate clinical setting.
+     2. Small left pleural effusion.
+
+",,
+24592,21203,30540,,2721-11-27 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2721-11-27**] 3:16 PM
+     EMERG. LOWER EXT VEINS BILAT                                    Clip # [**Clip Number (Radiology) 3976**]
+     Reason: 70 yo F with recurrent intubations for respiratory distress.
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      73 year old woman with above
+     REASON FOR THIS EXAMINATION:
+      70 yo F with recurrent intubations for respiratory distress. Concerned about
+      chronic recurrent PEs. Please eval for DVTs in both lower extr.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  70 year old female with respiratory distress, ?recurrent PE.
+     
+     BILATERAL LOWER EXTREMITY ULTRASOUND:  [**Doctor Last Name **]-scale, color, and Doppler
+     sonograms of the left and right common femoral, superficial femoral, and
+     popliteal veins were performed.  There is normal flow, compressibility, and
+     augmentation.
+     
+     IMPRESSION:  No evidence of deep venous thrombosis.
+
+",,
+24592,21203,30540,0,2721-11-27 06:49:00 EST,2721-11-27 07:03:00 EST,3241,"N",54,"Nursing/Other",,"
+
+EKG SR WITH RATE < 100 MOST OF NIGHT.  AT 0455, HAD APPROX 3 MIN EPISODE OF TACHYCARDIA TO 162, CONVERTED TO ST AT 105 WITHOUT INTERVENTION, BUT HR REMAINED AT > 100.  REPORTED TO DR. [**First Name (STitle) 868**], NO ORDERS.  SBP STABLE, 140S.  AFEBRILE, BUT WBC STILL 19.  UO AMBER, CLOUDY THIS AM, 25-35CC/HR.  BREATH SOUNDS CLEAR TO OCC COARSE UPPER, CRACKLES AT BASES, OCC HAS FAINT INSP WHEZZE AFTER BOUTS OF COUGHING.  ROBITUSSIN ORDERD FOR COUGH AND GIVEN X 2 WITH SOME RELIEF.  MAINTAINING SPO2 95-97% ON RA WHEN AWAKE, BUT , BUT DROPS TO 91 WHEN ASLEEP, SO 3L NC KEPT ON.  TAKING SIPS OF WATER, BUT C/O NAUSEA AT O600, REGLAN ORDERED AND GIVEN WITH RELIEF.  ALERT AND ORIENTED, DENIES PAIN AFTER EARLIER TYLENOL FOR L SIDE RIB DISCOMFORT.
+",,
+24592,21203,30540,0,2721-11-27 19:08:00 EST,2721-11-27 19:29:00 EST,3401,"N",54,"Nursing/Other","End of shift note","
+End of shift note
+O:Cv status:[**Last Name (un) 14**] to sr w no ectopics . Bp stable . Oob to chair x several hrs tol well .
+ Resp status: Bbs coarse to cl w bronchial cough and raising thick tan sputum in scant amts.Brth snds crackles lt base.Robitussin for cough w some effect.
+Gi status: Compazine x 1 for nausea w gd effect. Gu status: huo scant amts of  cloudy urine Ho aware of low urine output cont to push  po's  per ho.
+Endocrine: glucoses ^^->nph started today w reg ss insulin to attempt better glucose control.
+Heme/Id: Hct stable. Wbc persistently elevated despite afebrile status.
+
+A/P:Resp status stable at this point. Low uop ?hypovolemic.Cont w close observation of low uop & resp status.
+",,
+24592,21203,30540,,2721-11-28 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2721-11-28**] 3:09 PM
+     CHEST (PA & LAT)                                                Clip # [**Clip Number (Radiology) 3977**]
+     Reason: evaluate bibasilar retrocardiac densities noted on portable;
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      73 year old woman with DM who was trasferred from an OSH for 5 failed
+      extubations attributed to pulmonary edema
+     REASON FOR THIS EXAMINATION:
+      evaluate bibasilar retrocardiac densities noted on portable; r/o interstitial
+      edema
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  73 y/o woman with diabetes, transferred from outside hospital for
+     failed extubation; pulmonary edema.  Evaluate bibasilar retrocardiac densities
+     noted on portable.  Rule out interstitial edema.
+     
+     CHEST, 2 VIEWS:  Comparison is made to a prior study of [**2721-11-27**].  The heart
+     is normal in size.  The mediastinal and hilar contours are unremarkable.  The
+     pulmonary vasculature is normal.  There is persistent opacification of the
+     right lower lobe in the retrocardiac region.  This area is obscured by the
+     wheelchair on the lateral film.  The opacities in the left lower lobe are
+     somewhat decreased.  Small bilateral pleural effusions are present.  The
+     diaphragms are flattened due to emphysema.
+     
+     IMPRESSION:  1)  Persistent parenchymal opacity in the right lower lobe and
+     improving opacity in the left lower lobe.  While these might be due to
+     atelectasis, pneumonia cannot be excluded.
+     
+     2)  Small bilateral pleural effusion.
+     
+     3)  Emphysema.  No evidence of CHF.
+     
+
+",,
+24592,21203,30540,0,2721-11-28 06:02:00 EST,2721-11-28 06:12:00 EST,3241,"N",54,"Nursing/Other",,"
+
+STABLE NIGHT.  EKG NSR, NO ECTO0PY, NO TACHYCARDIA.  SBP GREATER THAN 100 ALL NIGHT, BUT DROPPED TO LOW HUNDREDS FOR SEVERAL HOURS AFTER SERAX AND LOPRESSOR.  AFEBRILE.  UO 20-35CC/HR, CCU HO AWARE.  BREATH SOUNDS CLEAR UPPER, DECREASED AT R BASE, CRACKLES AT L BASE.  MAINTAINING SPO2 97-99% ON 3L NC.  RESP RATE 16-26, COMFORTABLE.  TOLERATING PO FLUIDS, OCC COUGHS, BUT SEEMS TO BE PROTECTING AIRWAY.  ALERT AND ORIENTED, USUALLY DOZES AND WAKE FREQ, BUT DID MANAGE TO [**Doctor Last Name 7**] FOR SEVERAL UNINTERRUPTED HOURS AFTER SERAX.
+",,
+24592,21203,30540,0,2721-11-28 07:01:00 EST,2721-11-28 07:02:00 EST,3241,"N",54,"Nursing/Other",,"
+
+C/O NAUSEA, AND VOMITED 50CC, BILIOUS.  CCU RESIDENT NOTIFIED, COMPAZINE ORDERED AND GIVEN.
+",,
+24592,21203,30540,0,2721-11-28 10:45:00 EST,2721-11-28 10:50:00 EST,-1,"N",54,"Nursing/Other","Transfer Note","
+Transfer Note
+Pt is neorologically intact, hemodynamics are stable. Lungs with rales in the lower bases bilaterally. SAO2 97-100% on 3L via nasal cannula. Pt c/o of n+v this am, ativan iv given with effect. Pt able to tolerate small amounts of jello. Pt oob to chair this am with one person assist, pt is weak but was able to take two steps with assist to the chair. Rt leg noted to have small quarter size skin tear. DSD applied. see flowsheet for details.
+",,
+24592,21203,,,2721-11-30 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     PERSANTINE MIBI                                                 Clip # [**Clip Number (Radiology) 3978**]
+     Reason: SOB, PULMONARY EDEMA. 
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     SUMMARY OF EXERCISE DATA FROM THE REPORT OF THE EXERCISE LAB:
+     Persantine was infused intravenously for approximately 4 minutes at a  dose of 
+     approximately 0.142 mg/kg/min.  There were no symptoms or ST segment changes.
+      
+     HISTORY:  Shortness of breath, pulmonary edema.
+      
+     INTERPRETATION:  One to three minutes after the cessation of infusion, 
+     MIBI was administered IV.
+      
+     Image Protocol: Gated SPECT.
+      
+     Resting perfusion images were obtained with thallium.
+     Tracer was injected 15 minutes prior to obtaining the resting images.
+      
+     Stress and resting perfusion images show no myocardial perfusion defects.
+      
+     Ejection fraction calculated from gated wall motion images obtained after 
+     Persantine administration shows a left ventricular ejection fraction of greater
+     than 70%.  There is normal wall motion.
+      
+     IMPRESSION:  Normal study. /nkg
+                                                                           
+
+             [**First Name8 (NamePattern2) 1175**] [**Last Name (NamePattern1) 2798**], M.D.
+             [**Last Name (NamePattern5) 647**], M.D.          Approved: [**Doctor First Name 98**] [**2721-12-1**] 8:27 AM
+
+
+             Date Mailed: [**2721-12-2**]                     West [**Medical Record Number 3979**]
+
+
+
+               RADLINE [**Telephone/Fax (1) 115**]; A radiology consult service.
+            To hear preliminary results, prior to transcription, call the
+                           Radiology Listen Line [**Telephone/Fax (1) 116**].
+
+",,
+24592,,,,2722-01-03 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     GASTRIC EMPTYING STUDY                                          Clip # [**Clip Number (Radiology) 3980**]
+     Reason: LONG STANDING DIABETES, NAUSEA AND REFLUX SYMPTOMS. 
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     yHISTORY:  Diabetes, nausea and reflux symptoms.
+      
+     INTERPRETATION: 
+      
+     Following the oral ingestion of a meal of radiolabeled egg- whites, the patient
+     was placed supine beneath the gamma camera. Multiple anterior and posterior 
+     images of the tracer activity in the stomach and bowel were recorded for 60
+     minutes. 
+      
+     Visual analysis of tracer activity in the stomach shows a normal gastric
+     emptying pattern.  An accurate numeric measurement of gastric emptying is
+     difficult to obtain since the gastric antrum is obscured by overlying small
+     bowel activity.  
+      
+     IMPRESSION:  Normal gastric emptying study. /nkg
+                                                                           
+
+             [**First Name11 (Name Pattern1) 854**] [**Last Name (NamePattern4) 855**], M.D.
+             [**First Name8 (NamePattern2) 944**] [**Last Name (NamePattern1) 945**], M.D.         Approved: WED [**2722-1-4**] 9:40 AM
+
+
+             Date Mailed: [**2722-1-5**]                     West [**Medical Record Number 3979**]
+
+
+
+               RADLINE [**Telephone/Fax (1) 115**]; A radiology consult service.
+            To hear preliminary results, prior to transcription, call the
+                           Radiology Listen Line [**Telephone/Fax (1) 116**].
+
+",,

@@ -1,0 +1,40 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+24769,15770,,,2559-08-03 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+
+
+Admission Date:  [**2559-8-3**]     Discharge Date:  [**2559-8-8**]
+
+Date of Birth:   [**2481-10-31**]     Sex:  F
+
+Service:
+
+NOTE:  Dictation ended after 0.5 minutes.
+
+
+
+
+
+
+                          [**Name6 (MD) **] [**Name8 (MD) 429**], M.D.  [**MD Number 430**]
+
+Dictated By:[**Name8 (MD) 3805**]
+
+MEDQUIST36
+
+D:  [**2559-8-9**]  17:22
+T:  [**2559-8-17**]  13:48
+JOB#:  [**Job Number 6007**]
+Signed electronically by: DR. [**First Name (STitle) **] [**Name (STitle) 429**]
+ on: MON [**2559-8-20**] 3:09 PM
+(End of Report)
+
+
+",,
+24769,15770,30756,0,2559-08-03 22:34:00 EST,2559-08-03 22:42:00 EST,-1,"N",69,"Nursing/Other","nsg progress note 7p-7a","
+nsg progress note 7p-7a
+Pt admitted to the unit via stretcher from EW. A +O x3 in no distress. Pt was on 100% non rebreather sats 100% resp rate 24. Lungs sounds dim with crackles in the bases. Abd soft, + BOS, no edema, palpable pedal pulses. Denies CP and states SOB has improved ""greatly"". Foley to gravity cont to drain good amounts of urine since IV lasix given in EW. Tolerating ice chips with no N+V. Plan to place back on bipap overnoc. BP 140-150's/40's, HR 70's NSR, afebrile. Pt is a good historian, is a widower with one son who lives in [**State 1123**]. No calls as of yet but apparently will be coming to the hospital tomorrow. Pt is a full code.
+",,
+24769,15770,30756,0,2559-08-04 05:06:00 EST,2559-08-04 05:18:00 EST,-1,"N",69,"Nursing/Other","Nsg progress note 7p-7a addendum","
+Nsg progress note 7p-7a addendum
+Pt had a good noc. After being admitted to the unit she progressively weaned from 100% nonrebreather to 4l n/c with no change in O2 sat nor respiratory effort. Bipap was avoided and pt slept comfortably from 0100-0630 with no complaints.  Lung sounds somewhat improved clear in upper lobes, right base with fine cx's and left base diminished. Apparently there is some consolidation on cxr on [**8-3**]. Tmax 99.5 bp stable and controlled, HR nsr with no ectopy. No c/o CP. Pt has a foley catheter that she wishes to come out this am d/t hx of infection and current discomfort with any movement. Urine output was QS t/o the noc but is now tapering down. Anticipating pt going to the floor today with cont diuresis. PT conslt ordered by MD which will need f/u.  Son expected to visit today from [**State 1123**]. No calls overnoc. AM labs pending possible K+ replacement may be needed d/t diuresis.
+",,

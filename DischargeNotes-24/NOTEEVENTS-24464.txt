@@ -1,0 +1,208 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+24464,,,,2931-10-21 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2823-1-23**] 11:36 PM
+     CT EMERGENCY HEAD W/O CONTRAST                                  Clip # [**Clip Number (Radiology) 2746**]
+     Reason: r/o bleed
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      84 year old woman, fell down 20 stairs.  Had pain films under [**Telephone/Fax (1) 2747**].  
+     REASON FOR THIS EXAMINATION:
+      r/o bleed
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY: 84 yr old female fell down 20 stairs.
+     
+     TECHNIQUE: Axial images of the brain were obtained without IV contrast.
+     
+     No prior studies are available for comparison.
+     
+     CT HEAD WITHOUT IV CONTRAST: There is a subdural hematoma on the right
+     extending from the temporal lobe up to the fronto-parietal region.
+     Additionally, there are areas of parenchymal hemorrhage in the right frontal
+     lobe and in the large area in the right occipital lobe. These are associated
+     with surrounding edema. There is associated mass effect with effacement of the
+     right lateral ventricle and approximately 8mm of midline shift to the left.
+     
+     There is no skull fracture. The paranasal sinuses are clear.There is extensive
+     soft tissue swelling about the left occipuT.
+     
+     IMPRESSION: Right sided subdural hematoma and right frontal and right
+     occipital parenchymal hematomas with associated mass effect as described.
+
+",,
+24464,,,,2931-10-21 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+",,
+24464,,,,2931-10-21 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2823-1-23**] 10:53 PM
+     TRAUMA SERIES (LAT C-SPINE, AP CXR, AP PELVIS PORT)             Clip # [**Clip Number (Radiology) 2745**]
+     Reason: look for trauma
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      84 yo F, fell down stairs.  
+     REASON FOR THIS EXAMINATION:
+      look for trauma
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY: 84 yr old female fell down stairs with diffuse pain.
+     
+     LATERAL CERVICAL SPINE: No fracture or dislocation through C7. C7-T1 is not
+     visualized. Prevertebral soft tissue structures are normal.
+     
+     PORTABLE AP CHEST: There is overlying trauma board. The cardiomediastinal
+     silhouette is normal. No consolidation, effusion or pneumothorax. No osseous
+     abnormality.
+     
+     AP PELVIS: There is overlying trauma board. No fracture or dislocation. There
+     is mild scoliosis of the lumbar spine. The AC joints, SI joints, and pubic
+     symphysis are normal.
+     
+     IMPRESSION: No evidence of cervical, thoracic or pelvic traumatic injury.
+     Recommend swimmers view of the cervical spine to fully assess C7-T1.
+
+",,
+24464,,,,2931-10-21 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2823-1-23**] 11:37 PM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 2748**]
+     CT 150CC NONIONIC CONTRAST
+     Reason: look for intra-abdominal injury.  
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      84 year old woman, fell down 20 stairs.  Had pain films under [**Telephone/Fax (1) 2747**].  
+     REASON FOR THIS EXAMINATION:
+      look for intra-abdominal injury.  
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY: 84 yr old female S/P fall down stairs with abdominal pain.
+     
+     TECHNIQUE: Contiguous helical images were obtained from the lung bases through
+     the pubic symphysis after the administration of 150cc of IV Optiray. Optiray
+     was used per the fast bolus of the trauma protocol.
+     
+     CT ABDOMEN WITH IV CONTRAST: There is bibasilar atelectasis. Numerous well
+     defined densities in the liver likely represent cysts or biliary hamartomas.
+     There is no evidence of liver injury. The gallbladder, spleen, pancreas, and
+     adrenals are normal. The kidneys enhance symmetrically and are without
+     hydronephrosis or stones. Note is made of extra renal pelvic bilaterally and
+     mild pelviectasis. The stomach and bowel are normal. There is no intra-
+     abdominal free fluid or free air. There are vascular calcifications
+     throughout. The major abdominal vasculature is patent.
+     
+     CT PELVIS WITH IV CONTRAST: The bladder is quite full but normal. The
+     visualized bowel loops are normal. There is a calcified uterine fibroid. There
+     is no pelvic free fluid.
+     
+     Bone windows demonstrate degenerative changes but no fracture.
+     
+     IMPRESSION: No evidence of intra-abdominal or pelvic traumatic injury.
+
+",,
+24464,,,,2931-10-21 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2823-1-23**] 11:37 PM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 2748**]
+     CT 150CC NONIONIC CONTRAST
+     Reason: look for intra-abdominal injury.  
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      84 year old woman, fell down 20 stairs.  Had pain films under [**Telephone/Fax (1) 2747**].  
+     REASON FOR THIS EXAMINATION:
+      look for intra-abdominal injury.  
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY: 84 yr old female S/P fall down stairs with abdominal pain.
+     
+     TECHNIQUE: Contiguous helical images were obtained from the lung bases through
+     the pubic symphysis after the administration of 150cc of IV Optiray. Optiray
+     was used per the fast bolus of the trauma protocol.
+     
+     CT ABDOMEN WITH IV CONTRAST: There is bibasilar atelectasis. Numerous well
+     defined densities in the liver likely represent cysts or biliary hamartomas.
+     There is no evidence of liver injury. The gallbladder, spleen, pancreas, and
+     adrenals are normal. The kidneys enhance symmetrically and are without
+     hydronephrosis or stones. Note is made of extra renal pelvic bilaterally and
+     mild pelviectasis. The stomach and bowel are normal. There is no intra-
+     abdominal free fluid or free air. There are vascular calcifications
+     throughout. The major abdominal vasculature is patent.
+     
+     CT PELVIS WITH IV CONTRAST: The bladder is quite full but normal. The
+     visualized bowel loops are normal. There is a calcified uterine fibroid. There
+     is no pelvic free fluid.
+     
+     Bone windows demonstrate degenerative changes but no fracture.
+     
+     IMPRESSION: No evidence of intra-abdominal or pelvic traumatic injury.
+
+",,
+24464,,,,2931-10-22 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2823-1-24**] 12:52 AM
+     CT EMERGENCY HEAD W/O CONTRAST                                  Clip # [**Clip Number (Radiology) 2749**]
+     Reason: eval for interval change
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      84 year old woman, fell down 20 stairs.  Had plain films under [**Telephone/Fax (1) 2747**].  
+      now ms deterioration.
+     REASON FOR THIS EXAMINATION:
+      eval for interval change
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY: Intracranial hemorrhage, acute deterioration.
+     
+     TECHNIQUE: Axial images of the brain were obtained without IV contrast.
+     
+     Comparison: 1.5hrs prior
+     
+     CT OF THE HEAD WITHOUT IV CONTRAST: There has been marked progression of the
+     subdural and parenchymal hemorrhage, now with extensive subarachnoid spread of
+     blood. There is blood within the 4th ventricle as well. There is a dramatic
+     increase in mass effect with effacement of the suprasellar and quadrageminal
+     plate cisterns, right lateral ventricle, and subfalcine and transtentorial
+     herniation.
+
+",,
+24464,,,,2931-10-22 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+",,
+24464,,30366,,2931-10-23 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     BRAIN SCAN                                                      Clip # [**Clip Number (Radiology) 2750**]
+     Reason: SEVERE INTRACRANIAL HEMORRHAGE, NO REFLEXES, DETERMINE BRAIN DEATH. 
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Eighty-four year old female with severe intracranial hemorrhage, post
+     craniotomy and evacuation of hematoma, now without reflexes.
+      
+     INTERPRETATION:  Anterior and posterior dynamic images of brain blood flow were
+     obtained and  show no evidence of blood flow to the brain.
+      
+     Delayed images in four view show no evidence of tracer activity in the brain.
+      
+     IMPRESSION:  The study is consistent with brain death.  Discussed with Dr. [**Last Name (STitle) 2751**].
+     /nkg
+                                                                           
+
+             [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 2752**], M.D.
+             [**Initials (NamePattern4) 111**] [**Last Name (NamePattern4) 112**] [**Last Name (NamePattern1) 113**], M.D.     Approved: WED [**2823-1-26**] 9:45 AM
+
+
+             Date Mailed: [**2823-1-27**]
+
+
+
+               RADLINE [**Telephone/Fax (1) 115**]; A radiology consult service.
+            To hear preliminary results, prior to transcription, call the
+                           Radiology Listen Line [**Telephone/Fax (1) 116**].
+
+",,

@@ -1,0 +1,249 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+24633,,,,2688-10-06 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2688-10-6**] 8:43 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 4592**]
+     Reason: eval CHF                                                    
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      80 year old woman with sob/nausea                                               
+     REASON FOR THIS EXAMINATION:
+      eval CHF                                                                        
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Shortness of breath.
+     
+     FINDINGS:  There are no old films available for comparison.  The cardiac
+     silhouette is mildly enlarged.  There is increased density at both bases
+     suggesting infiltrate which may be secondary to fluid overload although an
+     infectious etiology can't be totally excluded.  There are Kerley B lines and
+     bilateral pleural effusions.  The vasculature is hazy.
+     
+     IMPRESSION:  CHF.  Underlying infectious etiology can't be totally excluded.
+
+",,
+24633,,,,2688-10-06 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2688-10-6**] 10:50 AM
+     UNILAT LOWER EXT VEINS RIGHT                                    Clip # [**Clip Number (Radiology) 4593**]
+     Reason: SOB, CAD, EVAL RT LEG FOR DVT
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      80 year old woman with SOB/N/V has 3 vessel CAD                                 
+     REASON FOR THIS EXAMINATION:
+      please evaluate for clot with possible PE                                       
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Portable right lower extremity venous ultrasound.
+     
+     FINDINGS:  Grayscale and Doppler sonograms of the right common femoral,
+     greater saphenous, superficial femoral and popliteal veins were obtained.
+     There is normal flow, compressibility and augmentation.  Normal flow is seen
+     in the peroneals, posterior tibials and normal augmentation is seen in the
+     left common femoral vein.
+     
+     IMPRESSION:  No evidence of right lower extremity DVT.
+     
+
+",,
+24633,17040,,,2688-10-22 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+
+Admission Date:  [**2688-10-22**]     Discharge Date:  [**2688-10-31**]
+
+Date of Birth:   [**2608-6-26**]     Sex:  F
+
+Service:
+
+
+ADDENDUM:  This is an addendum to the discharge summary,
+starting on [**10-27**].
+
+On [**10-27**], the plan to delay transfer to
+rehabilitation was made when the patient developed a burst of
+supraventricular tachycardia.  This resolved without any
+intervention.  The decision was made to start the patient on
+Lopressor 12.5 mg twice a day and replete magnesium.  The
+patient was to remain with a pacer box, given some
+bradycardia when previously dosed with Lopressor.
+
+On postoperative day number six, the patient had complained
+about some palpitations the prior evening.  She had a little
+bit of atrial flutter.  She was given some Diltiazem which
+resolved it.
+
+PHYSICAL EXAMINATION:  The patient had a heart rate of 72 and
+in sinus rhythm and maintained a good blood pressure,
+saturating 93% on one liter.  Heart was otherwise regular in
+rhythm.  The lungs were clear bilaterally.  The wounds were
+clean, dry and intact.  The patient was stable.  The
+Lopressor was increased with plans to watch and reset the
+pacer if necessary and the Diltiazem drip was discontinued.
+
+On postoperative day number seven, the patient had no
+complaints and was in sinus rhythm at 75.  Blood pressure was
+150/73 with a T maximum of 98.6.  The patient's lungs were
+clear bilaterally.  The incisions were clean, dry and intact.
+Belly was soft.
+
+The patient had a run of rapid atrial fibrillation earlier in
+the day.  Lopressor was increased and continued at 50 mg
+twice a day with a good blood pressure. The patient continued
+some Oxycontin SR with good pain control and the patient's
+heart rhythm was watched again for another 24 hours.
+
+The patient continued to work with physical therapy.  The
+patient converted to sinus rhythm at 8:30 in the morning and
+remained in sinus rhythm in the 60's and 70's.  Lopressor was
+increased to 75 twice a day.  Some Procainamide was started.
+The patient also received some Benadryl for an itch and a
+rash that was noted all over her body and continued to get
+some pain medications.
+
+At 6 o'clock the next morning, some intravenous Lopressor was
+given again and some Diltiazem was given also for atrial
+fibrillation in the 130's.  On postoperative day number
+eight, the patient had no complaints, was back in sinus
+rhythm in the 70's, maintaining good blood pressure of
+146/80.  Lungs were clear bilaterally.  Pacing wires remained
+in. Wounds were clean, dry and intact.  The right lower
+extremity wound was also clean, dry and intact.  The patient
+continued to be stable and continued on heparin.  Coumadin
+was started.  Pacing wires were removed.  Lopressor was
+continued as was the Procainamide which was 500 mg twice a
+day.
+
+On postoperative day number nine, the patient had no
+complaints.  She had a T max of 98.1, rate in the 60's and
+sinus rhythm; blood pressure of 153/60.  Saturating 96% on
+room air. Lungs were clear bilaterally.  All incisions were
+clean, dry and intact.  The abdomen was soft.  The heparin
+was discontinued the night prior.  Pacing wires were
+discontinued.  The patient maintained sinus rhythm overnight.
+
+The Lopressor was decreased from 75 mg twice a day back to 50
+mg twice a day.  The patient slept all night, had a little
+bit of Percocet for pain and remained in sinus rhythm.  The
+patient was re-evaluated by physical therapy and on [**10-31**], postoperative day number nine, the patient was
+discharged to rehabilitation in [**Location (un) 954**].
+
+The patient was taking some long-acting Oxycontin to go to
+rehabilitation for pain.  Electrocardiogram was repeated.
+Electrocardiogram was within normal limits.  Procaine level
+was not back yet.  The patient was given a Procaine dose in
+the morning prior to transfer to rehabilitation.  Mediastinal
+chest tube site sutures were removed and, on the 4th, the
+patient was discharged to the rehabilitation facility in [**Location (un) 5754**].
+
+DISCHARGE DIAGNOSES:  As previously listed:
+1.) Status post coronary artery bypass grafting, times four.
+2.) Status post atrial fibrillation.
+3.) Status post myocardial infarction.
+4.) Congestive heart failure.
+5.) Hypertension.
+6.) Nephrolithiasis.
+7.) Tuberculosis.
+8.) Pott's disease.
+9.) Anemia.
+
+DISCHARGE MEDICATIONS:  As noted prior, with the addition of:
+Lopressor 50 mg p.o. twice a day.
+
+The patient was given instructions to follow-up with Dr.
+[**Last Name (STitle) **] four weeks post discharge and also to follow-up
+with primary care physician in one to two weeks, following
+discharge to the rehabilitation facility.
+
+NOTE:  This is an addendum.  Please refer to the discharge
+summary dictated on [**10-27**], for admission from
+[**10-22**] through [**10-27**].  This is the addendum
+from [**10-27**] to [**10-31**].  Today is [**2689-1-8**].
+
+
+                          [**Doctor Last Name 79**] [**Last Name (Prefixes) **], M.D.  [**MD Number 80**]
+
+Dictated By:[**Last Name (NamePattern1) 81**]
+
+MEDQUIST36
+
+D:  [**2689-1-8**]  02:53
+T:  [**2689-1-8**]  16:24
+JOB#:  [**Job Number 5755**]
+Signed electronically by: DR. [**First Name (STitle) 79**] [**Last Name (Prefixes) **]
+ on: FRI [**2689-1-11**] 3:58 PM
+(End of Report)
+
+
+",,
+24633,17040,30591,0,2688-10-22 18:24:00 EST,2688-10-22 18:40:00 EST,3114,"N",54,"Nursing/Other",,"
+
+PROB: CABG X4
+
+CV: BP LABILE TREATED WITH FLUIDS, HESPAN AND NEO TITRATED. CT DRAINING S/S DRAINAGE. DRESSING CHANGED X1, LEAKING AT SITE. MED FOR PAIN WITH DILUADID WITH GOOD EFFECT, PT ALLERGIC TO MSO4. APACED. K AND CA REPLACED.
+
+RESP: PT WEANING, ABGS GOOD. LUNGS COARSE THROUGHOUT. O2 SATS ADEQUATE.
+
+GU: LIGHT YELLOW URINE.
+
+GI: NGT DRAINING CLEAR BLOOD TINGED DRAINAGE. BOWEL SOUNDS ABSENT.
+
+NEURO: ALERT. MAE. PERL. FOLLOWS COMMANDS.
+
+ENDO: ELEVATED BS 168, TREATED WITH 5U REG IV INSULIN X1, REPEAT 120.
+
+ASSESSMENT: SLOW TO WEAN D/T LOW BODY TEMP DESPITE BEING ON BAIRHUGGER.
+
+PLAN: RECHECK ABGS, K, CA, HCT, GLU
+TITRATE PRESSORS.
+
+
+
+",,
+24633,17040,30591,0,2688-10-23 07:07:00 EST,2688-10-23 07:11:00 EST,-1,"N",54,"Nursing/Other",,"
+
+Alert and oriented.Chronic pain tx with oxycontin(uses a home).Percosett for incisional pain.Nsr 80's.Stable bp able to wean
+off neo last pm.This am having pressure drops into 80's, hct drop
+from 32 to 26, chest tube sites very oozy, dressings changed x2.Team
+aware.CO/CI stable.CT's themselves with mod drainage.K high without
+further treatment overnight.Team aware, creat wnl.Other lytes treated
+per scale.Skin intact.Tolerating Po's without incident.Uop qs.
+Family informed of status.Resting comfortably at this time.
+",,
+24633,17040,,,2688-10-29 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2688-10-29**] 2:39 PM
+     CHEST (PRE-OP PA & LAT)                                         Clip # [**Clip Number (Radiology) 4594**]
+     Reason: CORONARY ARTERY DISEASE\CORONARY ARTERY BYPASS GRAFT/SDA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      80 year old woman with cabg                                                     
+     REASON FOR THIS EXAMINATION:
+      r/o effusion                                                                    
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  S/P CABG, ? effusion.
+     
+     TECHNIQUE:  PA and lateral views of the chest are compared with 1 month prior.
+     
+     FINDINGS:  There has been interval CABG, with sternotomy wires present.  There
+     has been significant interval improvement in the interstitial changes
+     previously seen, particularly on the right side. However, there has been
+     interval development of a retrocardiac opacification, as well as bilateral
+     pleural effusions (left greater than right).  There are persistent atelectatic
+     changes at the right lung base.  Calcification of the aorta is noted.  The
+     cardiac silhouette is stable.  No focal pulmonary opacities, pleural
+     effusions, or pneumothorax.  Osseous structures are unremarkable.  Incidental
+     note is made of a hiatal hernia.
+     
+     IMPRESSION:  1)  Interval improvement of bilateral interstitial changes, right
+     greater than left.
+     
+     2)  Interval development of bilateral pleural effusions, moderate in size on
+     the left and tiny on the right.
+     
+     3)  Retrocardiac collapse/consolidation is silghtly worse than on the prior
+     study.
+
+",,

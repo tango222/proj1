@@ -1,0 +1,942 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+24638,8495,,,3271-04-27 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+ 
+ 
+ 
+Admission Date:  [**3271-4-27**]              Discharge Date:   [**3271-5-1**]
+ 
+Date of Birth:  [**3195-9-23**]             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Sulfa (Sulfonamides) / Amoxicillin
+ 
+Attending:[**First Name3 (LF) 380**] 
+Chief Complaint:
+urosepsis
+ 
+Major Surgical or Invasive Procedure:
+none
+ 
+History of Present Illness:
+This is a 75yo F from [**Doctor First Name 1943**] Bay with h/o AAA s/p repair c/b 
+spinal shock with resulting parplegia presents with lethargy and 
+nausea x 2 days. She was in her usual state of health until 
+[**3271-4-20**] when she saw her MD [**MD Number 5761**] pain center who increased 
+baclofen to 30 BID. She subsequnetly became lethargic and NH 
+decreased baclofen to 15 on [**4-24**]. Her lethargy did not improve. 
+On [**4-26**] UA positive for gram negative organism. SHe was started 
+on levofloxacin. Her lethargy persisted and on [**4-27**], she was 
+minimally responsive and hence was transferred to [**Hospital1 25**]. In ED, 
+patient was stuporous and dropped her blood pressure to 80s. 
+
+Her initial vitals are T99.2 P68 BP 97/47 R 20 98%RA. She 
+recieved one dose of vancomycin at 1100. Sepsis protocol was 
+initiated and got 6L NS so far. She is at baseline A+O x3. 
+According to family, she fell out of bed. The patient is at 
+baseline wheelchair bound and continued to have significant 
+bilateral lower extremity spasticity
+
+ 
+Past Medical History:
+AAA s/p repair c/b spinal shock with resulting parplegia 
+gout
+depression/adjustment d/o
+recurrent UTI
+paraplegia (spinal infarct)
+history of Afib on coumadin and amiodarone
+stage 3 decubitus ulcer at coccyx
+CVA-embolic to MCA
+
+ 
+Social History:
+does not smoke/no alcohol
+ 
+Family History:
+noncontributory
+ 
+Physical Exam:
+Gen-somnolent, mumbling, disoriented
+HEENT-anicteric, neck supple, oral mucosa dry
+CV-rrr, no r/m/g
+resp-CTAB
+[**Last Name (un) 1909**]-soft, NT/ND, ?right CVA tenderness
+ext-lower extremity contracted, no edema
+
+ 
+Pertinent Results:
+CT head
+1) Large chronic infarct involving the right posterior cerebral 
+artery territory. Chronic lacunar infarct in the left caudate 
+nucleus. 
+2) Small lacunar infarct involving the right thalamus of unknown 
+age.  Questionable area of low density seen in the left 
+thalamus. An acute infarction cannot be entirely excluded, if 
+clinically indicated, MRI is more sensitive to determine an 
+acute infarction
+
+echo:
+EF 45%
+Conclusions:  
+The left atrium is mildly elongated. Left ventricular wall 
+thicknesses and  cavity size are normal. There is mild global 
+left ventricular hypokinesis  without regionality. Right 
+ventricular chamber size and free wall motion are  normal. The 
+aortic valve leaflets (3) are mildly thickened but aortic 
+stenosis  is not present. Trace aortic regurgitation may be 
+present. The mitral valve  appears structurally normal with 
+trivial mitral regurgitation. There is  moderate pulmonary 
+artery systolic hypertension. There is no pericardial effusion.  
+
+
+[**3271-4-27**] 10:30AM   PT-21.6* PTT-35.1* INR(PT)-3.1
+[**3271-4-27**] 10:30AM   PLT COUNT-346
+[**3271-4-27**] 10:30AM   HYPOCHROM-NORMAL ANISOCYT-NORMAL 
+POIKILOCY-NORMAL MACROCYT-NORMAL MICROCYT-NORMAL 
+POLYCHROM-NORMAL
+[**3271-4-27**] 10:30AM   NEUTS-79* BANDS-9* LYMPHS-9* MONOS-2 EOS-1 
+BASOS-0 ATYPS-0 METAS-0 MYELOS-0
+[**3271-4-27**] 10:30AM   WBC-31.4* RBC-3.82* HGB-10.5* HCT-32.1* 
+MCV-84 MCH-27.4 MCHC-32.6 RDW-16.2*
+[**3271-4-27**] 10:30AM   ASA-NEG ETHANOL-NEG ACETMNPHN-11.7 
+bnzodzpn-NEG barbitrt-NEG tricyclic-NEG
+[**3271-4-27**] 10:30AM   ALBUMIN-2.9* CALCIUM-8.5 PHOSPHATE-4.2 
+MAGNESIUM-1.9
+[**3271-4-27**] 10:30AM   CK-MB-5
+[**3271-4-27**] 10:30AM   cTropnT-0.18*
+[**3271-4-27**] 10:30AM   LIPASE-10
+[**3271-4-27**] 10:30AM   ALT(SGPT)-9 AST(SGOT)-18 LD(LDH)-174 
+CK(CPK)-712* ALK PHOS-71 AMYLASE-34 TOT BILI-0.3
+[**3271-4-27**] 10:30AM   GLUCOSE-151* UREA N-60* CREAT-3.6* SODIUM-140 
+POTASSIUM-5.3* CHLORIDE-104 TOTAL CO2-22 ANION GAP-19
+[**3271-4-27**] 10:45AM URINE  3PHOSPHAT-MANY
+[**3271-4-27**] 10:45AM URINE  RBC-0 WBC-0 BACTERIA-MANY YEAST-NONE 
+EPI-0
+[**3271-4-27**] 10:45AM URINE  BLOOD-NEG NITRITE-POS PROTEIN-30 
+GLUCOSE-NEG KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-9.0* 
+LEUK-MOD
+[**3271-4-27**] 10:45AM URINE  COLOR-Yellow APPEAR-Cloudy SP [**Last Name (un) 223**]-1.019
+[**3271-4-27**] 10:45AM URINE  bnzodzpn-NEG barbitrt-NEG opiates-NEG 
+cocaine-NEG amphetmn-NEG mthdone-NEG
+[**3271-4-27**] 10:45AM URINE  HOURS-RANDOM
+[**3271-4-27**] 10:49AM   LACTATE-5.0*
+[**3271-4-27**] 01:41PM   FIBRINOGE-548*
+[**3271-4-27**] 01:41PM   PT-23.0* PTT-47.0* INR(PT)-3.5
+[**3271-4-27**] 01:41PM   PLT SMR-NORMAL PLT COUNT-285
+[**3271-4-27**] 01:41PM   HYPOCHROM-1+ ANISOCYT-1+ POIKILOCY-OCCASIONAL 
+MACROCYT-NORMAL MICROCYT-1+ POLYCHROM-NORMAL
+[**3271-4-27**] 01:41PM   NEUTS-76* BANDS-12* LYMPHS-10* MONOS-1* EOS-1 
+BASOS-0 ATYPS-0 METAS-0 MYELOS-0
+[**3271-4-27**] 01:41PM   WBC-22.5* RBC-3.14* HGB-8.6* HCT-26.6* MCV-85 
+MCH-27.4 MCHC-32.3 RDW-16.1*
+[**3271-4-27**] 01:41PM   CRP-GREATER TH
+[**3271-4-27**] 01:41PM   CORTISOL-17.0
+[**3271-4-27**] 01:41PM   TSH-0.66
+[**3271-4-27**] 01:41PM   ALBUMIN-2.2* CALCIUM-7.1* PHOSPHATE-3.5 
+MAGNESIUM-1.5*
+[**3271-4-27**] 01:41PM   CK-MB-7
+[**3271-4-27**] 01:41PM   cTropnT-0.10*
+[**3271-4-27**] 01:41PM   LIPASE-9
+[**3271-4-27**] 01:41PM   ALT(SGPT)-6 AST(SGOT)-15 LD(LDH)-150 
+CK(CPK)-703* ALK PHOS-55 AMYLASE-24 TOT BILI-0.2
+[**3271-4-27**] 01:41PM   GLUCOSE-112* UREA N-56* CREAT-3.0* SODIUM-143 
+POTASSIUM-4.3 CHLORIDE-112* TOTAL CO2-21* ANION GAP-14
+[**3271-4-27**] 01:55PM   LACTATE-2.5*
+[**3271-4-27**] 02:27PM   LACTATE-2.3*
+[**3271-4-27**] 04:44PM URINE  RBC-159* WBC-383* BACTERIA-MOD 
+YEAST-NONE EPI-0
+[**3271-4-27**] 04:44PM URINE  BLOOD-LGE NITRITE-NEG PROTEIN-100 
+GLUCOSE-NEG KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-8.0 
+LEUK-MOD
+[**3271-4-27**] 04:44PM URINE  COLOR-LtAmb APPEAR-Cloudy SP [**Last Name (un) 223**]-1.015
+[**3271-4-27**] 04:44PM URINE  OSMOLAL-338
+[**3271-4-27**] 04:44PM URINE  HOURS-RANDOM CREAT-34 SODIUM-73 
+CHLORIDE-67
+[**3271-4-27**] 04:45PM   CALCIUM-7.3* PHOSPHATE-3.4 MAGNESIUM-1.7
+[**3271-4-27**] 04:45PM   CK-MB-12* MB INDX-1.5 cTropnT-0.08*
+[**3271-4-27**] 04:45PM   LD(LDH)-180 CK(CPK)-825*
+[**3271-4-27**] 04:45PM   GLUCOSE-103 SODIUM-143 POTASSIUM-4.1 
+CHLORIDE-112* TOTAL CO2-21* ANION GAP-14
+[**3271-4-27**] 05:02PM   HGB-9.1* calcHCT-27 O2 SAT-68
+[**3271-4-27**] 05:02PM   LACTATE-1.7
+[**3271-4-27**] 05:02PM   TYPE-MIX
+[**3271-4-27**] 07:02PM URINE  OSMOLAL-398
+[**3271-4-27**] 07:02PM URINE  HOURS-RANDOM CREAT-44 SODIUM-81
+ 
+Brief Hospital Course:
+75yo F with likely Ecoli sepsis and UTI enrolled [**Doctor Last Name **] MUST 
+protocol. 
+
+Patient was initially septic with fever, lactate 5.5 and 9% band 
+and hypotensive requiring levophed. Sepsis protocol was 
+initiated. Her blood pressure became stable with aggressive 
+fluid resuscitation and she was off levophed on the same day. 
+Blood culture grew [**1-16**] gram Ecoli(resistant to quinolones)and 
+[**12-16**] GPC(likely contaminant); urine culture + proteus(resistant 
+to quinolones and bactrim). Her white blood cell was decreasing, 
+lactate decreasing, blood pressure stable off levophed. 
+Surveillance blood culture was negative so far. She was 
+initially continued on zosyn. 
+
+She also had acute renal failure with creatinine peaked at 3.6. 
+That resolved quickly with aggressive fluid resuscitation and 
+was eventually down to 1.1. CT abdomen showed nonobstructive 
+stone in proximal right ureter and no hydronephrosis  
+
+Due to the fluid resusciation, she went into rapid atrial 
+fibrillation and developed flash pulmonary edema. Lasix, 
+metoprolol to control her heart rate helped her. Echocardiogram 
+was done and it showed EF of 45%. Cardiac enzymes were 
+unremarkable. She was restarted on amiodarone 200 QD. Her 
+coumadin for AF was held due to high INR. 
+
+Her mental status improved and she communicated with her family 
+that this is not the quality of life that she wanted. Her 
+quality of life had been on the downslop ever since her AAA 
+repair followed by paraplegia. After extensive family meeting 
+and also with the patient, it was clear that she is very unhappy 
+with her current quality of life and she would only want comfort 
+measure. she was only on medication to keep her comfortable and 
+all other medication has been discontinued. 
+
+SHe will be discharged back to her nursing home and continue 
+comfort measure
+ 
+Discharge Medications:
+1. Acetaminophen 325 mg Tablet Sig: 1-2 Tablets PO Q4-6H (every 
+4 to 6 hours) as needed.  
+2. Papain-Urea 830,000-10 unit-% Spray, Non-Aerosol Sig: One (1) 
+Appl Topical  DAILY (Daily).  
+3. Baclofen 10 mg Tablet Sig: 0.5 Tablet PO TID (3 times a day). 
+ 
+4. Morphine Sulfate 10 mg/5 mL Solution Sig: 5-10 mg PO Q2-4 as 
+needed for pain.  
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Discharge Diagnosis:
+urinary tract infection and sepsis
+
+ 
+Discharge Condition:
+stable
+ 
+Discharge Instructions:
+PLease let your doctor/nurses know if there are anything they 
+can do to keep [**Doctor First Name **] comfortable and pain free
+ 
+Followup Instructions:
+none
+
+ 
+                             [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 387**] MD [**Last Name (un) 388**]
+ 
+Completed by: [**Name6 (MD) 2247**] [**Name8 (MD) 2248**] MD [**MD Number 2249**] [**3271-5-1**] @ 1015
+Signed electronically by: DR. [**First Name8 (NamePattern2) **] [**Name (STitle) **]
+ on: [**Doctor First Name 122**] [**3271-5-14**] 9:41 AM
+(End of Report)
+
+
+",,
+24638,8495,,,3271-04-27 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3271-4-27**] 2:34 PM
+     CHEST (PORTABLE AP); -77 BY DIFFERENT PHYSICIAN                 [**Name Initial (PRE) 232**] # [**Clip Number (Radiology) 4736**]
+     Reason: sepsis line placement                                       
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       75 year old woman with cough, lethargy.                                        
+       
+     REASON FOR THIS EXAMINATION:
+      sepsis line placement                                                           
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Recent line placement.
+     
+     COMPARISON:  3 hours prior.
+     
+     SINGLE SEMI-UPRIGHT PORTABLE AP VIEW OF THE CHEST:  A right IJ line is in
+     place, with its tip in the proximal superior vena cava.  No pneumothorax is
+     identified.  Otherwise, the study is not significantly changed since the one
+     of 3 hours prior.
+
+",,
+24638,8495,,,3271-04-27 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3271-4-27**] 10:47 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 4734**]
+     Reason: evaluate for pneumonia                                      
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      75 year old woman with cough, lethargy.                                         
+     REASON FOR THIS EXAMINATION:
+      evaluate for pneumonia                                                          
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Cough and lethargy.
+     
+     TECHNIQUE:  Single portal AP view of the chest was obtained without
+     comparisons.
+     
+     FINDINGS:  The patient is quite rotated towards the right.  The heart and
+     mediastinum are difficult to assess due to the rotation.  There is no evidence
+     of pneumonia, pleural effusion, or pneumothorax, allowing for technique. 
+     Multiple right-sided axillary staples are seen.
+     
+     IMPRESSION:  Rotated study.  No evidence of acute cardiopulmonary disease.
+                                                                           
+
+",,
+24638,8495,,,3271-04-27 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3271-4-27**] 2:34 PM
+     CHEST (PORTABLE AP); -77 BY DIFFERENT PHYSICIAN                 [**Name Initial (PRE) 232**] # [**Clip Number (Radiology) 4736**]
+     Reason: sepsis line placement                                       
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       75 year old woman with cough, lethargy.                                        
+       
+     REASON FOR THIS EXAMINATION:
+      sepsis line placement                                                           
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Recent line placement.
+     
+     COMPARISON:  3 hours prior.
+     
+     SINGLE SEMI-UPRIGHT PORTABLE AP VIEW OF THE CHEST:  A right IJ line is in
+     place, with its tip in the proximal superior vena cava.  No pneumothorax is
+     identified.  Otherwise, the study is not significantly changed since the one
+     of 3 hours prior.
+
+",,
+24638,8495,,,3271-04-27 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3271-4-27**] 11:10 AM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 4735**]
+     Reason: eval for bleed.                                             
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      75 year old woman with change in mental status and questionable Rt sided facial 
+      weakness.
+     REASON FOR THIS EXAMINATION:
+      eval for bleed.                                                                 
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+     WET READ: JK MON [**3271-4-27**] 11:45 AM
+      
+      No intracrnial hemorrhage
+      Huge right posterior cerebral artery infarct, chronic.
+      Chronic left caudate nucleus infarct.
+      
+      CANNOT r/o acute infarct.
+      Sclerosis of left sphenoid air cell walls- likely chronic inflammatory
+      disease.
+     WET READ AUDIT #1 JK MON [**3271-4-27**] 11:44 AM
+      No intracrnial hemorrhage
+      Huge right posterior cerebral artery infarct, chronic.
+      Chronic left caudate nucleus infarct.
+      
+      CANNOT r/o acute infarct.
+     ______________________________________________________________________________
+                                     FINAL REPORT  (REVISED) *ABNORMAL!
+     INDICATION:  75-year-old woman with changes in mental status and questionable
+     right-sided facial weakness; evaluate for hemorrhage.
+     
+     TECHNIQUE:  5-mm axial sections were obtained from the skull base to the
+     vertex. No contrast was given.
+     
+     FINDINGS:  No previous examination available for comparison.
+     
+     White and [**Doctor Last Name 66**] matter differentiation is preserved.  No intracranial masses,
+     nor hemorrhages are identified.  Large area of low density is seen in the
+     right posterior cerebral artery territory, consistent with a chronic
+     infarction. There is mild ex- vacuo dilatation of the occipital [**Doctor Last Name 79**] of the
+     right lateral ventricle.  There is no mass effect, and no midline shift is
+     seen.  An area of low density is also seen involving the left caudate nucleus
+     consistent with a chronic lacunar infarction.  Small area of low density is
+     also seen in the region of the right thalamus, which may also represent a
+     chronic lacunar infarct.  Questionable area of low density is also seen
+     involving the left thalamus.  Ventricles are normal in size. Cerebellum is
+     also within normal limits.
+     
+     There is mild mucosal thickening involving the right sphenoid air cells.  No
+     bony abnormalities are identified.
+     
+     INTERPRETATION:
+     1)  Large chronic infarct involving the right posterior cerebral artery
+                                                                 (Over)
+
+     DATE: [**3271-4-27**] 11:10 AM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 4735**]
+     Reason: eval for bleed.                                             
+     ______________________________________________________________________________
+                                     FINAL REPORT  (REVISED) *ABNORMAL!
+     (Cont)
+     territory.  Chronic lacunar infarct in the left caudate nucleus.
+     2)  Chronic lacunar infarct involving the right thalamic region.
+     
+     3)  Questionable area of low density seen in the left thalamus.  An acute
+     infarction cannot be entirely excluded. MRI is more sensitive in detecting an
+     acute infarction.
+     
+
+",,
+24638,8495,30596,0,3271-04-27 17:31:00 EST,3271-04-27 17:54:00 EST,107,"N",69,"Nursing/Other","urosepsis","
+urosepsis
+d: pt is 75 yo female with alergies to amoxicillin and sulfa. has pmh of gout, depression,s/p aortic aneurysm with post op complication of lower extremity paraplegia secondary to core ischemia back in [**3270-7-13**]. pt is wheelchair bound with lower extremity spasticity. continues with significant contractures and has had increased oain levels. pt on coumadin for dvt prophylaxis. and has hx of recurrent uti's. pt dx'd with uti on [**4-26**] and started om levoquin.this am at nursing home dauhgter found her mother more lethargic,talking ragg time and had 911  called.taken to [**Hospital1 **] ed with lactate level of 5 and sbp90. temp=99.6 rectally and wbc=31.4. given a total of 6 l ns.presept cath palced aas well a aline and pt started on must protocol. levophed gtt started for bp support and pt transfered to [**Doctor Last Name **] 4 icu for further management.
+
+neuro: pt confused to time and place yet when pt's children were at the bedside pt recognized them and called them by name. pt'susual ms is a&o x3.pt with severe contractures to her lower extremities that limits her mobility.
+
+resp: o2 at 3 l/m nc with coarse bs on asucultation. no c/o cough or sob and her o2 sats > 97%. will keep pt npo at present time because of her altered ms and risk for aspirations.
+
+cv: pt arrived with a sbp of 120. levophed gtt was shut off but then needed to be restarted when her sbp dropped to 79. pt given 500cc ns bolus and levophed gtt now infusing at 1.8 mcg. continue to follow her hemodynamics and bolus with ivp as well as titrate pressors as needed. cvp 7-8 and hr ahs been in the 70's without ectopy.
+
+
+gi: abd soft and distended with pos [**Last Name (un) 657**] sounds on auscultation,. incontinent of lg amt of soft brown stool that was guiac neg. stool sent of to micro to r/o cdiff and will need 2 additional specs. will keep npo for present time.
+
+gu: has foley cath in place with purulent /cloudy urine. pt now being treated for presumed urosepsis. repeat urine spec also sent off.
+
+id: pt afebril at present time but still with elevated wbc. pt has been cultured and will need to follow final results of culture data. pt now on vanco and zosyn. presept cath recalibrated upon arrival to micu and svo2 has been 61-63%. pt on must protocol
+
+integumentary: pt has stage 2 decub to l hip that is heaking and presently open to air. the size of the wound is approx 4X4. aslo noted is a stage 3 ulcer to r buttock that is clean appearing and 3x3 with wet to dry drsg [**Name5 (PTitle) 558**]. 1x2 stage 2 ulcer to l outer aspect of her foot at the base of her 5 ht toe that is clean appearing and open to air. pt will need to be placed on kinair bed when available and ill consult skin care specialist in the am.
+
+
+social: pt has 7 children who are very supportive. family spoke with dr. [**Last Name (STitle) 3487**] and pt is dnr but would be intubated if needed. wil lcontinue with [**Hospital 4863**] medical management
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+",,
+24638,8495,30596,,3271-04-28 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3271-4-28**] 12:00 PM
+     CT ABDOMEN W/O CONTRAST; CT PELVIS W/O CONTRAST                 Clip # [**Clip Number (Radiology) 4738**]
+     CT RECONSTRUCTION
+     Reason: FLANK PAIN, HYPOTENSION
+     Admitting Diagnosis: SEPSIS
+     Field of view: 40
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      75 year old woman with flank pain, hypotension, urosepsis                       
+     REASON FOR THIS EXAMINATION:
+      renal stone protocol, non-contrast study                                        
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  75-year-old paraplegic woman with flank pain, hypotension, and
+     urosepsis.
+     
+     TECHNIQUE:  Axial CT imaging of the abdomen and pelvis without intravenous
+     contrast.  No IV contrast was administered secondary to the patient's history
+     of acute renal failure.
+     
+     CT OF THE ABDOMEN WITHOUT CONTRAST:  Small bilateral pleural effusions are
+     present.  The liver, pancreas, and adrenal glands are within normal limits.
+     There are gallstones layering within the gallbladder.  Nonspecific stranding
+     surrounds both kidneys.  There is a calcification within the region of the
+     right renal hilum measuring 4 mm which could represent a nonobstructing stone
+     within the proximal right ureter versus a vascular calcification.  There is no
+     evidence of hydronephrosis.
+     
+     There is a small amount of perisplenic fluid.  Focal hypoattenuation is seen
+     along the upper margin of the spleen that could represent a splenic cleft or
+     alternatively a focal area of splenic infarction on this study limited by lack
+     of IV contrast.
+     
+     There is evidence of abdominal aortic aneurysm repair with an aortic stent
+     graft .  There is suprarenal dilatation of the abdominal aorta measuring 4.5 x
+     4.6 cm at the level of the celiac axis and sma with additional infrarenal
+     dilatation measuring 4.3 x 3.8 cm.  No periaortic hematoma is identified.
+     
+     There is an abnormal configuration of small bowel with a small bowel loop
+     passing into the left perirenal space posterior to the left kidney.  No
+     dilatation or wall thickening is present in large or small bowel to suggest
+     obstruction.
+     
+     CT OF THE PELVIS WITH CONTRAST:  The urinary bladder is collapsed with a Foley
+     catheter in place.  The rectum and uterus are within normal limits.  No pelvic
+     masses are seen.  A tiny amount of free fluid is seen within the pelvis.  Bone
+     windows show no suspicious lytic or sclerotic lesions with degenerative change
+     within the lumbar spine.
+     
+     IMPRESSION:
+     1.  Small amount of perisplenic fluid with focal area of hypodensity along the
+     superior margin of the spleen which could represent an area of splenic
+     infarction or alternatively a splenic cleft (a normal variant).  Full
+                                                                 (Over)
+
+     DATE: [**3271-4-28**] 12:00 PM
+     CT ABDOMEN W/O CONTRAST; CT PELVIS W/O CONTRAST                 Clip # [**Clip Number (Radiology) 4738**]
+     CT RECONSTRUCTION
+     Reason: FLANK PAIN, HYPOTENSION
+     Admitting Diagnosis: SEPSIS
+     Field of view: 40
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     evaluation is limited by lack of IV contrast.
+     
+     2.  Suprarenal and infrareanl aneurysmal dilatation of the aorta in this
+     patient status post aortic stent graft repair. No periaortic hematoma seen;
+     however, full assessment of the abdominal aorta and its visceral branches is
+     limited by lack of intravenous contrast.  A contrast enhanced CT or an MRA
+     could be considered for further evaluation of the abdominal arterial system if
+     clinically warranted.
+     
+     3.  Abnormal position of small bowel  passing into the left perirenal with
+     nonspecific stranding in the left perirenal space.  These postoperative
+     changes  presumably reflect anatomic distortion following the patient's AAA
+     repair.
+     
+     4.  Cholelithiasis.
+     
+     
+
+",,
+24638,8495,30596,,3271-04-28 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3271-4-28**] 8:42 AM
+     PORTABLE ABDOMEN                                                Clip # [**Clip Number (Radiology) 4737**]
+     Reason: assess for stone                                            
+     Admitting Diagnosis: SEPSIS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      75 year old woman with urosepsis, CVA tenderness, phosphate in urine, 
+      ??struvite stone
+     REASON FOR THIS EXAMINATION:
+      assess for stone                                                                
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  75-year-old woman with urosepsis, CVA tenderness, and phosphate in
+     urine.
+     
+     SUPINE ABDOMEN:  No radiopaque calculi are observed.  There is a normal bowel
+     gas pattern without evidence of dilatation or obstruction.  No intraperitoneal
+     free air is seen, however, the diaphragms are not fully included on the exam. 
+     Left abdominal surgical clips are noted.  Osseous structures are unremarkable.
+     
+     IMPRESSION:  No radiopaque calculi observed.
+                                                                           
+
+",,
+24638,8495,30596,,3271-04-28 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3271-4-28**] 12:00 PM
+     CT ABDOMEN W/O CONTRAST; CT PELVIS W/O CONTRAST                 Clip # [**Clip Number (Radiology) 4738**]
+     CT RECONSTRUCTION
+     Reason: FLANK PAIN, HYPOTENSION
+     Admitting Diagnosis: SEPSIS
+     Field of view: 40
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      75 year old woman with flank pain, hypotension, urosepsis                       
+     REASON FOR THIS EXAMINATION:
+      renal stone protocol, non-contrast study                                        
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  75-year-old paraplegic woman with flank pain, hypotension, and
+     urosepsis.
+     
+     TECHNIQUE:  Axial CT imaging of the abdomen and pelvis without intravenous
+     contrast.  No IV contrast was administered secondary to the patient's history
+     of acute renal failure.
+     
+     CT OF THE ABDOMEN WITHOUT CONTRAST:  Small bilateral pleural effusions are
+     present.  The liver, pancreas, and adrenal glands are within normal limits.
+     There are gallstones layering within the gallbladder.  Nonspecific stranding
+     surrounds both kidneys.  There is a calcification within the region of the
+     right renal hilum measuring 4 mm which could represent a nonobstructing stone
+     within the proximal right ureter versus a vascular calcification.  There is no
+     evidence of hydronephrosis.
+     
+     There is a small amount of perisplenic fluid.  Focal hypoattenuation is seen
+     along the upper margin of the spleen that could represent a splenic cleft or
+     alternatively a focal area of splenic infarction on this study limited by lack
+     of IV contrast.
+     
+     There is evidence of abdominal aortic aneurysm repair with an aortic stent
+     graft .  There is suprarenal dilatation of the abdominal aorta measuring 4.5 x
+     4.6 cm at the level of the celiac axis and sma with additional infrarenal
+     dilatation measuring 4.3 x 3.8 cm.  No periaortic hematoma is identified.
+     
+     There is an abnormal configuration of small bowel with a small bowel loop
+     passing into the left perirenal space posterior to the left kidney.  No
+     dilatation or wall thickening is present in large or small bowel to suggest
+     obstruction.
+     
+     CT OF THE PELVIS WITH CONTRAST:  The urinary bladder is collapsed with a Foley
+     catheter in place.  The rectum and uterus are within normal limits.  No pelvic
+     masses are seen.  A tiny amount of free fluid is seen within the pelvis.  Bone
+     windows show no suspicious lytic or sclerotic lesions with degenerative change
+     within the lumbar spine.
+     
+     IMPRESSION:
+     1.  Small amount of perisplenic fluid with focal area of hypodensity along the
+     superior margin of the spleen which could represent an area of splenic
+     infarction or alternatively a splenic cleft (a normal variant).  Full
+                                                                 (Over)
+
+     DATE: [**3271-4-28**] 12:00 PM
+     CT ABDOMEN W/O CONTRAST; CT PELVIS W/O CONTRAST                 Clip # [**Clip Number (Radiology) 4738**]
+     CT RECONSTRUCTION
+     Reason: FLANK PAIN, HYPOTENSION
+     Admitting Diagnosis: SEPSIS
+     Field of view: 40
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     evaluation is limited by lack of IV contrast.
+     
+     2.  Suprarenal and infrareanl aneurysmal dilatation of the aorta in this
+     patient status post aortic stent graft repair. No periaortic hematoma seen;
+     however, full assessment of the abdominal aorta and its visceral branches is
+     limited by lack of intravenous contrast.  A contrast enhanced CT or an MRA
+     could be considered for further evaluation of the abdominal arterial system if
+     clinically warranted.
+     
+     3.  Abnormal position of small bowel  passing into the left perirenal with
+     nonspecific stranding in the left perirenal space.  These postoperative
+     changes  presumably reflect anatomic distortion following the patient's AAA
+     repair.
+     
+     4.  Cholelithiasis.
+     
+     
+
+",,
+24638,8495,30596,,3271-04-28 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3271-4-28**] 12:00 PM
+     CT ABDOMEN W/O CONTRAST; CT PELVIS W/O CONTRAST                 Clip # [**Clip Number (Radiology) 4738**]
+     CT RECONSTRUCTION
+     Reason: FLANK PAIN, HYPOTENSION
+     Admitting Diagnosis: SEPSIS
+     Field of view: 40
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      75 year old woman with flank pain, hypotension, urosepsis                       
+     REASON FOR THIS EXAMINATION:
+      renal stone protocol, non-contrast study                                        
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  75-year-old paraplegic woman with flank pain, hypotension, and
+     urosepsis.
+     
+     TECHNIQUE:  Axial CT imaging of the abdomen and pelvis without intravenous
+     contrast.  No IV contrast was administered secondary to the patient's history
+     of acute renal failure.
+     
+     CT OF THE ABDOMEN WITHOUT CONTRAST:  Small bilateral pleural effusions are
+     present.  The liver, pancreas, and adrenal glands are within normal limits.
+     There are gallstones layering within the gallbladder.  Nonspecific stranding
+     surrounds both kidneys.  There is a calcification within the region of the
+     right renal hilum measuring 4 mm which could represent a nonobstructing stone
+     within the proximal right ureter versus a vascular calcification.  There is no
+     evidence of hydronephrosis.
+     
+     There is a small amount of perisplenic fluid.  Focal hypoattenuation is seen
+     along the upper margin of the spleen that could represent a splenic cleft or
+     alternatively a focal area of splenic infarction on this study limited by lack
+     of IV contrast.
+     
+     There is evidence of abdominal aortic aneurysm repair with an aortic stent
+     graft .  There is suprarenal dilatation of the abdominal aorta measuring 4.5 x
+     4.6 cm at the level of the celiac axis and sma with additional infrarenal
+     dilatation measuring 4.3 x 3.8 cm.  No periaortic hematoma is identified.
+     
+     There is an abnormal configuration of small bowel with a small bowel loop
+     passing into the left perirenal space posterior to the left kidney.  No
+     dilatation or wall thickening is present in large or small bowel to suggest
+     obstruction.
+     
+     CT OF THE PELVIS WITH CONTRAST:  The urinary bladder is collapsed with a Foley
+     catheter in place.  The rectum and uterus are within normal limits.  No pelvic
+     masses are seen.  A tiny amount of free fluid is seen within the pelvis.  Bone
+     windows show no suspicious lytic or sclerotic lesions with degenerative change
+     within the lumbar spine.
+     
+     IMPRESSION:
+     1.  Small amount of perisplenic fluid with focal area of hypodensity along the
+     superior margin of the spleen which could represent an area of splenic
+     infarction or alternatively a splenic cleft (a normal variant).  Full
+                                                                 (Over)
+
+     DATE: [**3271-4-28**] 12:00 PM
+     CT ABDOMEN W/O CONTRAST; CT PELVIS W/O CONTRAST                 Clip # [**Clip Number (Radiology) 4738**]
+     CT RECONSTRUCTION
+     Reason: FLANK PAIN, HYPOTENSION
+     Admitting Diagnosis: SEPSIS
+     Field of view: 40
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     evaluation is limited by lack of IV contrast.
+     
+     2.  Suprarenal and infrareanl aneurysmal dilatation of the aorta in this
+     patient status post aortic stent graft repair. No periaortic hematoma seen;
+     however, full assessment of the abdominal aorta and its visceral branches is
+     limited by lack of intravenous contrast.  A contrast enhanced CT or an MRA
+     could be considered for further evaluation of the abdominal arterial system if
+     clinically warranted.
+     
+     3.  Abnormal position of small bowel  passing into the left perirenal with
+     nonspecific stranding in the left perirenal space.  These postoperative
+     changes  presumably reflect anatomic distortion following the patient's AAA
+     repair.
+     
+     4.  Cholelithiasis.
+     
+     
+
+",,
+24638,8495,30596,0,3271-04-28 04:56:00 EST,3271-04-28 05:38:00 EST,1014,"N",69,"Nursing/Other",,"
+
+npn 7p-7a (see also careview flownotes for objective data)
+
+dx: sepsis--UTI vs decub
+    (gm neg rods in 2 of 4 bld cx bottles [**4-27**])
+
+neuro:
+pt completely confused this night; unable to communicate meaningfully with nurses/caregivers, though able to say ""My Back!---My Back!"" regarding pain...
+
+c-v:
+received pt hypotensive, receiving fluid boluses, and on levophed; the first 4-5 hours pt continued to received 3 more NS boluses of 500 cc's, with max of levophed to 0.29 mcgs/k/min;  
+   pt NS this night, very rare PVC seen via cardiac monitor;
+on SVO2 monitoring this night with lactate checks; at 12a SVO2 result correlated with SVO2 monitor reading; lactate 1.9 at 12a; hct with good post transfusion (1 unit PRBC's) bump to 24 (from previous 26.6 which was down from 32);
+   by 4a able to wean from levophed, with pt maintaining adequate b/p;
+
+I.D.:
+pt with rigors at 19:30, received demorol 25 mg IV in divided doses; rigors resolved with initial 12.5 mg IV; 
+   T max at approx 22:00 of 99+; down to 97.8 later in the night;
+   Micro called to report gm neg rods in 2 of 4 blood cx bottles for [**4-27**]; currently on vanco/levoquin/zosyn IV for coverage for UTI and decub---both as possible source of sepsis;
+   bedding and hospital gown changed at approx 23:30 d/t sweats following resolution of rigors; 
+
+heme:
+this a.m.'s coags PT 24.7, INR 4.0, PTT 38.9--results reported to covering MD; received verbal order to hold SQ heparin for now; specimen drawn from Rt a.c. capped saline lock;
+   received 1 unti PRBC's last eve as ordered; pt's rigors occurred before blood transfusion; 
+   also, 4 a.m. hct 31, down from 34 at 12a; likely d/t dilutional effect of NS IVF resusitation; 
+
+a.m. labs:
+FS at 12a approx. 150, 4 a.m. serum glucose 166---pt on hctzn, appears will need insulin sliding scale coverage--reported to MD;
+
+g-i:
+no stool this night;  PPI to be changed over to IV form d/t NPO status of pt;
+
+g-u:
+urine very cloudy yellowish; volume adequate most of the night--likely d/t IVF resusitation; known UTI;
+
+skin:
+pt switched over to Klin-Air bed at approx 12a d/t decubs on sacrum and hips; pt also repositioned during the night; 
+
+PLAN:
+1) obtain RISS coverage
+2) obtain prn order for tylenol
+3) protonix to IV
+4) obtain orders for electrolyte replacements
+5) SQ heparin on hold for now--?vit K
+6) IV Abx as ordered
+7) provide optimal comfort for pt
+   K+ and Magnesium both low, received v.o. for replacements, MD stated she would enter orders;                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         
+",,
+24638,8495,30596,0,3271-04-28 04:57:00 EST,3271-04-28 05:38:00 EST,1014,"N",69,"Nursing/Other",,"
+
+(Continued)
+             
+
+resp:
+pt remained on 3 l nc O2 all night, maintaining adequate O2 sats of 97-100%; lungs coarse upper bilat, decreased bilat bases;
+",,
+24638,8495,30596,0,3271-04-28 15:18:00 EST,3271-04-28 15:52:00 EST,107,"N",69,"Nursing/Other","altered hemodynamics","
+altered hemodynamics
+d: neuro: pt much more awake then when she arrived yesterday to the msicu. she is oriented to person and knows that she's in a hospital but states that she's at the [**Doctor First Name **] bay or at [**Known patient firstname **]. inconsistently follows simple commands. at times appropriately answering simple questions but then will make statements that have nothing to do with the present situation. fmaily states thta her ms is still not at baseline. pain consult team by to evaluate pt b/cause of her c/o increased lower extremity spasticity and c/o back pain. baclofen now increased ot 10 mg po tid. pt can receive 2 mg ivp mso4 q 2 hrs and ativan 0.5 mg ivp q 4 hrs. she has received 2 doses of mso4 nad 1 dose of ativan with good effect. pt turned from side to side throughout the day.
+
+resp: occasional  dry and nonproductive cough. o2 at 3l/m nc with o2 sats> 97%. lungs coarse bil on auscultation . no other active issues.
+
+cv: pt has remained off pressors since 0500 this am and has not required any further boluses of ivf. cvp 8-12, must protocol d/c'd. her hr has been in the 60-70 and sbp 105-130. l radial aline d/c'd and following bp by noninvasive bp cuff. k+ and mg repleted this am and will continue to follow electrolytes as ordered and replete as needed.plan is for cardiac echo to be done at  the bedside to r/o vegetation. continue to follow hemodynamics.
+
+gi: pt's  diet has been advanced to reg diet after she tolerated clear liqs. since pt is receiving  hydrocortisone pt has now been startedon ssi and will check blood sugars q 4 hrs and tx as needed with reg insulin as per sliding scale. abd soft and distended with hypoactive bowel sounds on auscultaion. sc heparin now d/c'd since her inr this am was=4.0. plan is not to medicate pt with vit k unless she develops signs of bleeding. hct stable at 30.
+
+gu: creatinine clearing and this am=1.7. continues to  receive maintenance ivf of ns at 100cc's/hr. uo> 40cc's/hr. her i&o fpr this shift is pos 1 liter and for los pos by 4.4 liters.follow fluid balance and cvp closely. pt had abc ct scan today and this test confirmed that pt does have sm kidney stone that is nonobstructive.
+
+
+id: pt has been afebrile and without evidence of rigors. wbc has dropped to 20.1 today. because of her improving creatinine level the vancomycin has been changed to 1 gm q 24 hrs and she will need vanco trough level tomorrow before her next dose. microbiology reported pos  blood cultures : 2 out of 4 bottles with gm neg rods and pos cocci in pairs and clusters in aerobic bottle. continues to receive zosyn as ordered as well as vanco. levoquin has been d'c/d. continue to follow fever curve and await final results of all culture data. 
+
+integumentary: decubs to buttocks are unchanged. pt remains on kinair bed. have consulted enterestomal/skin specialist for further suggestions for tx . until then will continue with present management.
+
+social: pt is a dnr but would use pressors if needed and short term intubation. pt's daughter [**Name (NI) **] in to visit today and was
+",,
+24638,8495,30596,0,3271-04-28 15:19:00 EST,3271-04-28 15:52:00 EST,107,"N",69,"Nursing/Other","altered hemodynamics","
+altered hemodynamics
+(Continued)
+ updated. will keep fmaily well informed and continue with present medical management.
+",,
+24638,8495,30596,,3271-04-29 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3271-4-29**] 10:05 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 4739**]
+     Reason: eval for infiltrate, failure                                
+     Admitting Diagnosis: SEPSIS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        75 year old woman with tachycardia,wheezing, hypoxia                          
+                      
+     REASON FOR THIS EXAMINATION:
+      eval for infiltrate, failure                                                    
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Hypoxia.
+     
+     COMPARISON:  [**3271-4-27**].
+     
+     Tip of the right IJ line is in the distal SVC.  Compared to the prior study
+     and allowing for the semi-upright technique, there has been an increase in
+     pulmonary vasculature consistent with moderate CHF.  This is new since the
+     film of [**3271-4-27**] performed at 11:16 a.m.
+     
+     IMPRESSION:  Moderate CHF.
+                                                                           
+
+",,
+24638,8495,30596,0,3271-04-29 04:59:00 EST,3271-04-29 05:13:00 EST,1014,"N",69,"Nursing/Other",,"
+
+npn 7p-7a (see also carevue flownotes for objective data)
+
+dx: sepsis---UTI, decub
+    bacteremia
+
+neuro:
+pt remains confused for the most part, though able to state some self needs, such as requesting a drink of water, and complaining of pain (back);
+   legs severely contracted d/t spinal infarct after AAA repair last year;
+
+c-v:
+vss; CVP and B/P wnl's w/out need of vasopressor this night; remains on IVF; 
+   hrt rhythm NSR, no ectopy observed;
+
+resp:
+remains on n.c. O2 this night; with good O2 sats;
+lungs with less coarseness in upper lobes, lower remains with decreased breath sounds/airation;
+   rare dry non-productive cough;
+
+g-i:
+abd soft; no stool this night;
+started on PO food yesterday, tolerating well; recieved 1 can boost supplement at 23:00;
+
+g-u:
+urine output adequate via patent foley; urine clearer this night, though continues to put out occasional sediment;
+   remains on Abx;
+
+heme:
+WBC decreasing; hct also down abit to 26--?dilutional, ?decreased RBC production?--pt asymptomatic of hemorrhage;
+
+electrolytes:
+4 a.m. serum K+ 3.7, given 20 mEq in D5 50ml via CVL;
+
+skin:
+received full bed bath this night;
+Rt I-J neck CVL dressing changed at approx 23:00;
+site wnl's;
+   remains on Kinair bed d/t severly limited mobility, hip and cocyx decubs (old); 
+
+PLAN:
+1) continue abx
+2) ?decreased IVF rate
+3) anticipate transfer out to regular floor
+4) ?re-start amiodarone d/t hx a-fib
+5) ?hold off on coumadin yet d/t INR 3+
+6) update family PRN re pt's progress
+7) DNR, though may use vasopressors, and intubate for short time
+8) Baclofen for leg spasms
+9) Morphine Sulfate PRN for back pain
+10) Kinair bed for fragile skin and decubs
+11) anticipate transfer out to regular floor
+12) vanco trough before today's IV Vanco dose (approx 17:00)
+",,
+24638,8495,30596,0,3271-04-29 10:10:00 EST,3271-04-29 10:30:00 EST,511,"N",69,"Nursing/Other",,"
+
+RESP: CRACKLES THROUGHOUT. WHEEZY. O2 INCREASED. PT. IN PULM EDEMA. 
+CV: HR-SVT VS AF., RATE IN 150'S-170'S. PT. VERY DIAPH AND CLAMMY. PT. GIVEN 40MG LASIX IVP AND 20MEQ KCL IVPB. PT. WAS TOLD TO BEAR DOWN AND HR DID DROP DOWN TO 120'S. EKG DONE. ? OF ISCHEMIC CHANGES. TEAM CAME AND SHE WAS GIVEN 5MG LOPRESSOR IVP, 0.3MG SL NTG, 2 MORPHINE IVP. PT. HAS DIURESED AND PT. FEELS MUCH BETTER. PRESENTLY IN NSR IN 80'S. NO LONGER DIAPHORETIC. FACE MASK WORN FOR AWHILE, BUT PT. FEELS LIKE SHE'S SUFFOCATING. CARDIAC ECHO DONE. REPEAT EKG DONE.
+NEURO: CALLING OUT FOR HER DAUGHTER. SLIGHTLY CONFUSED. 
+GI: NEED TO CRUSH PILLS AND GIVE IN APPLESAUCE OR CUSTARD. [**Last Name **] PROBLEM WITH SWALLOWING. 
+RENAL; DIURESING NOW. URINE WITH SLUDGE THIS AM. IV'S TO KVO.
+ENDOC: SSI Q6HRS. K+ REPLETED. WILL NEED REPEAT K+ LATER.
+ID: ELEVATED WBC'S. NEEDS VANCO TROUGH WITH NEXT DOSE. CONT. ON ANTIBIOTICS.
+SKIN INTEGRITY: PT. HAS SEVERAL OPEN AREAS-NO TREATMENT DONE YET. HAS A WET-DRY ON COCCYX. 
+SOCIAL: SUPPORTIVE FAMILY. 
+
+",,
+24638,8495,30596,0,3271-04-29 15:55:00 EST,3271-04-29 16:03:00 EST,1445,"N",69,"Nursing/Other",,"
+
+1100-1900 NPN
+See carevue for subjective/objective data.
+Neuro:  A+Ox2.  Speech clear.  Does become confused to surroundings, events-->attempted to reorient however pt became agitated.  Does calm when left to rest.  Moving arms ad lib.  Legs severely contracted, some spastic movements noted.  Does have intermittent sensation in feet; none in buttocks or legs.  
+
+CV/Pulm:  MP=NSR, no ectopy noted.  VSS.  NP at 6l cont.  Dyspnea noted with turning, positioning.  BS coarse bil; no further episodes of pulm edema thus far this shift.  Pt did respond to Lasix given on 0700-1100 shift.  
+
+GI/GU:  Abd soft, non-tender, bowel sounds hypoactive.  Appetite poor--pt encouraged to eat however became agitated when encouraged to eat, stating ""I'm not hungry"".  Boost and milkshake given.  No flatus, no BM thus far this shift.  U/O qs q1h via foley-->clear yellow with sediment.  
+
+ID/Integ/Endo:  Afebrile.  Remains on Vanco and Pipercillin.  Wound care nurse in to see pt, recommendations left in progress note.  All dsgs changed by wound care RN; see carevue for details.  (Dsgs changes are daily).  Sliding scale insulin coverage for fingersticks per MAR.  
+
+Psychosocial/Plan:  Children in to visit.  Emotional support given to pt and fam.  Plan is cont'd pulm support, reorient prn, encourage nutrition, monitor VS, I+O, breath sounds, skin care/dsg changes [**Name8 (MD) 59**] MD orders.  Cont with current nursing/medical regime.
+",,
+24638,8495,30596,0,3271-04-30 03:33:00 EST,3271-04-30 03:46:00 EST,303,"N",69,"Nursing/Other",,"
+
+[**3271-4-30**] ""B""
+ Nsg Progress Note:
+
+CVS:  T=100.3 given Tylenol, Tdown to 98.1. HR=120'sAFIB at 9:15PM, given Lopressor 5mg IV x3, 1AM hr still afib upto 130's, given 12.5mg po lopressor. 3:45AM HR back to NSR 70-80's. But SBP=73-80. Given Fluid bolus 500cc IV. Pt had received 20mg IV Lasix at 1:15AM. SBP back into 90's. IV NS at KVO. CVP=13-16 in eve, then up to 19 at 1am and given Lasix 20mg IV, CVP=[**10-24**] this am.
+
+Resp:  O2 4-6l NC Sats=94-98% mostly, desats when anxious to low 90's. Did have episode of sats=88% after being turned.  Lung sounds coarse, strong cough, some upper airway congestion.
+
+GU:  U/O=50-380cc/h. 
+
+GI:  Pt is NPO except meds and sips presently. +BS. No stools.
+
+Neuro:  Confused as to place and time. Knows relatives. Moves arms well. Legs contracted and pt is paraplegic. Pt is usually not confused according to family.  She states she ""wants to die"".
+
+Social:  Family wish to have [**Name6 (MD) 4864**] with MD's at 10AM today regarding making pt CMO.  She is DNR/DNI presently.  They all feel this is her wish.  Many children visiting from out of state as well as those that live close by.
+
+Skin:  Pt has decubiti on lt ischium,sacrum, and left foot.  Wound care regime described in progress note and on med sheets, all dsgs intact during night, changed 1x/day.
+
+labs:  WBC down to 9.5, HCT stable at 26.5, K=3.1 at 8PM repleted with 40meq IV x2 doses.
+",,
+24638,8495,30596,0,3271-04-30 17:57:00 EST,3271-04-30 18:05:00 EST,1427,"N",69,"Nursing/Other",,"
+
+Family meeting this AM. Family stated that their mothers wish was to not live in this condition. Wanted CMO. Primary MD came to pt and pt stated that she did not want any further treatment. He made sure she understood that the end product would be her death and she stated she understood this. 
+IV Fluids d/c'd. Abx d/c'd. D/C all labs. Monitor has been dimmed at bedside at families request. Pt has an order for PO morphine which she had been declining throughout day despite being in pain. When it came time to change dressings, pt did agree to be pre medicated with Morphine 10mg PO. Dressings changed (see MAR).
+Pt febrile at 101.3 PO. Declinde Tylenol at this time.
+Foley intact, draining large amts yellow urine with sediment. Abd soft, +BS, no BM. 
+Plan: D/C to nsg home in AM after rep from NH comes in to assess.
+",,
+24638,,30596,0,3271-05-01 03:58:00 EST,3271-05-01 04:06:00 EST,977,"N",69,"Nursing/Other","MICU NPN","
+MICU NPN
+PT. WAS MADE CMO YESTERDAY BY FAMILY IS TO GO BACK TO [**Doctor First Name **] BAY ASSISED LIVING WITH HOSPICE TODAY PER REQUEST OF FAMILY.  PT. CONDITION HAS WORSENED DURING THE NIGHT, REFUSES TO WEAR ANY O2 SAT DROPPING ALL NIGHT THEY ARE NOW IN THE 70'S, PT. MAY PASS HERE BEFORE GOING BACK TO ASSISED LIVING. HAVING BUSTS OF SVT AS HIGH AS 200'S THEN COMES DOWN TO LOW 100'S, BP STABLE BEING TAKEN Q4HR, FAMILY REQUEST CUFF TO STAY OFF OF ARM.  PRESEP CATH IS IN PLACE CAN BE REMOVED. DECUB. DSG ARE IN PLACE PT'S LEGS ARE CONTRACTED. MORPHINE SULFATE ELIXER ORDER WAS CHANGED TO Q1HR, RECEIVED 3 DOSES OVERNGIHT, ALSO ATIVAN WAS REORDERED FOR AGITATION PT. WAS YELLING OUT AND WAS CONFUSED LAST NIGHT.  PLAN: CONTINUE WITH COMFORT CARE, SUPPORT FAMILY WITH DISCHARGING PT. TO HOSPICE SERVICES.
+",,
+24638,,30596,0,3271-05-01 11:27:00 EST,3271-05-01 11:30:00 EST,107,"N",69,"Nursing/Other",,"
+
+pt cmo only. fmaily members at the bedside. pt restless and c/o discomfort all over. medicated with a total of 15 mg po mso4 and then c/o increased spasm to lower extremities. medicated with 5 mg po valium with good effect. pt refusing to tkae baclofen or to wer her o2. family in agreement thta pt would not want this. pt transfered back to [**Doctor First Name **] bay facility accompanied by [**First Name5 (NamePattern1) **] [**Last Name (NamePattern1) 4865**] and her daughter [**Name (NI) 719**]. transfer was done at 1230.
+",,

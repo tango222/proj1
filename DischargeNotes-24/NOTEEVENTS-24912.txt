@@ -1,0 +1,809 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+24912,20003,,,2564-08-03 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+ 
+ 
+ 
+Admission Date:  [**2564-8-3**]              Discharge Date:   [**2564-8-8**]
+ 
+Date of Birth:  [**2507-12-23**]             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Iodine; Iodine Containing
+ 
+Attending:[**First Name3 (LF) 556**] 
+Chief Complaint:
+Hypotension
+ 
+Major Surgical or Invasive Procedure:
+None
+ 
+History of Present Illness:
+56 year old with alcoholic cirrhosis and end-stage liver disease 
+who has been ""in and out"" of the [**Location 6322**] over 
+the past few months for repeated episodes of LE cellulitis 
+including ? nec fascitis on one occasion.  He had been in a 
+rehab hospital today (was sent there from the VA) and was 
+feeling well per his report, wanting to be D/C'd when they got 
+labs that were concerning (hct, cr) and sent him to [**Hospital 5860**] Hospital.  There he was found to have a Hct of 27, SBP 
+in the 60's, Melena.  He was started on levophed and NS ""wide 
+open"" through one 20 Ga IV.  He was transferred here.  On 
+arrival in the ED here, he was afebrile, HR 91, BP 72/36 RR 20 
+Sat 96% on 2L.  He was given 2 18 Ga PIV, a Rt. femoral TLC, 
+Vitamin K, a litre of NS, FFP (3 U), 1 U PRBC and IV protonix.  
+GI and renal were consulted.  His Cr. was 3.6, his K was 5.8, 
+but he was not noted to have any ECG changes on 12-lead; he was 
+given kayexelate.
+.
+MICU admission requested.
+
+ 
+Past Medical History:
+Alcoholic cirrhosis with end-stage liver disease - not on 
+transplant list anywhere per pt. (was to be evaluated for this).
+CRI (? baseline Cr.)
+Mult. recent episodes cellulitis
+DM2
+ 
+Social History:
+etoh, last drink per pt. over 10 yy ago; no IVDU, was in Army, 
+also worked as a delivery man
+ 
+Family History:
+DM - mother, denies hx. CHD in family
+ 
+Physical Exam:
+VS: BP 60's over 40's HR 115, AF, R 25, 96% NC
+HEENT EOMI, sclerae are icteric
+COR: Tachy, regular, [**1-16**] hsm
+PULM: CTA ant
+ABD: Distended and tense ascites
+EXT: 4+ LE edema
+NEURO: Alert, oriented to place, time, event
+
+ 
+Brief Hospital Course:
+Patient was admitted to the MICU.  His condition continued to 
+deteriorate despite all measures and he was made DNR/DNI in 
+consensus with his family on [**2564-8-7**].  He continued to decline 
+and in the morning of [**2564-8-8**], after verbal discussion with 
+his three children, patient was made COMFORT MEASURES ONLY.  He 
+was treated with morphine for respiratory distress and pressors 
+were withdrawn.  Patient passed away shortly thereafter and was 
+pronounced deceased on [**8-8**] at 00:20 by [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **] MD 
+and [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 1140**] MD.  
+.
+.
+.
+IMP:56 y/o with ETOH cirrosis and end-stage liver disease who 
+presented to OSH from rehab with hypotension, melena
+.
+#Hypotension:  Likely cause is GIB/hypovolemia.
+Place A line, cont. to bolus for Map less than 65.  Add 
+vasopressin if not responding to levophed and IVF.  Monitor UOP. 
+ Serial Hct. Transfuse for hct less than 25.  FFP to correct 
+coagulopathy. Discuss with GI.
+.
+#Melena - as above, call GI.  May need NGL.  Serial Hct.  PPI IV 
+BID.  Octreotide gtt.
+.
+#Cirrhosis/liver disease: obstructive picture.  Patient had 
+pericentesis x 2 in order to relieve his abdominal ascites.  The 
+first removed 4.5 liters of clear yellow ascites fluid and the 
+second removed about 2 liters.
+Consult liver.  Continue lactulose.  Follow INR.  Check albumin. 
+ Hold diuretics while hypotense.
+.
+#Renal failure: ? baseline Cr.  Possible HRS vs. pre-renal from 
+volume depletion [**1-12**] GIB.  Consult liver and renal, continue 
+volume repletion, maintain SBP as above.  Consider albumin post 
+tap, Consider adding midodrine.  Patient was started on CVVH.
+.
+#Hyperkalemia: Resolved.
+.
+# FEN: IVF as above, lytes prn, NPO given GIB.
+.
+# PPX: PPI bid, coagulopathic.
+.
+# Access: 2 PIV, TLC lt. groin.
+.
+# Code: COMFORT MEASURES ONLY
+.
+# Communication: Daughter - [**Last Name (LF) 4941**], [**First Name3 (LF) **], and daughter [**Name (NI) **]
+.
+# Disposition: MICU
+ 
+Medications on Admission:
+Aldactone
+Calcium
+Lasix
+Insulin
+Lactulose
+Nepro
+Ocycodone
+ 
+Discharge Medications:
+deceased
+ 
+Discharge Disposition:
+Expired
+ 
+Discharge Diagnosis:
+deceased
+ 
+Discharge Condition:
+deceased
+ 
+Discharge Instructions:
+deceased
+ 
+Followup Instructions:
+deceased
+ 
+                             [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 571**] MD [**MD Number 572**]
+ 
+Completed by: [**First Name11 (Name Pattern1) 3151**] [**Last Name (NamePattern4) 3152**] MD [**MD Number 3153**] [**2564-8-8**] @ 0023
+Signed electronically by: DR. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **]
+ on: WED [**2564-8-8**] 1:00 PM
+(End of Report)
+
+
+",,
+24912,20003,,,2564-08-03 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2564-8-3**] 4:43 PM
+     CENTRAL LINE PLCT                                               Clip # [**Clip Number (Radiology) 7470**]
+     Reason: please place line for HD, non-tunnelled line given elevated 
+     Admitting Diagnosis: HYPOTENSION
+     ********************************* CPT Codes ********************************
+     * 36556 NON-TUNNELED                   75998 FLUOR GUID PLCT/REPLCT/REMOVE *
+     * C1752 CATH,HEM/PERTI DIALYSIS SHORT                                      *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      56 year old man with ESLD, renal failure, in need of HD                         
+     REASON FOR THIS EXAMINATION:
+      please place line for HD, non-tunnelled line given elevated INR                 
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CENTRAL LINE PLACEMENT
+     
+     INDICATION:  56-year-old man with end-stage renal disease, needs hemodialysis
+     catheter.
+     
+     Details of the procedure and possible complications were explained to the
+     patient and informed consent was obtained.
+     
+     RADIOLOGIST:  Dr. [**Last Name (STitle) 4**] was performing the procedure.
+     
+     TECHNIQUE:  Using sterile technique, local anesthesia and ultrasound guidance,
+     an access was obtained at the right internal jugular vein.  A micropuncture
+     set was used for access.  A micropuncture sheath was then placed over the
+     wire.  A guide wire was placed through the sheath and introduced into the IVC
+     under fluoroscopic guidance.  The tract was dilated with a 12 French dilator.
+     
+     A temporary triple lumen dialysis catheter was then placed over the wire with
+     its tip positioned in the right atrium under fluoroscopic guidance.  Position
+     of the catheter was confirmed by chest x-ray in one view.  The guide wire was
+     then removed.  The catheter was secured to the skin.  A sterile dressing was
+     applied.
+     
+     The patient tolerated the procedure well.  There were no immediate
+     complications.
+     
+     IMPRESSION:  Uncomplicated ultrasound and fluoroscopically guided triple lumen
+     dialysis catheter placement via the right internal jugular venous approach
+     with the tip positioned in the right atrium.
+                                                                           
+
+",,
+24912,20003,,,2564-08-03 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2564-8-3**] 4:43 PM
+     CENTRAL LINE PLCT                                               Clip # [**Clip Number (Radiology) 7470**]
+     Reason: please place line for HD, non-tunnelled line given elevated 
+     Admitting Diagnosis: HYPOTENSION
+     ********************************* CPT Codes ********************************
+     * 36556 NON-TUNNELED                   75998 FLUOR GUID PLCT/REPLCT/REMOVE *
+     * C1752 CATH,HEM/PERTI DIALYSIS SHORT                                      *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      56 year old man with ESLD, renal failure, in need of HD                         
+     REASON FOR THIS EXAMINATION:
+      please place line for HD, non-tunnelled line given elevated INR                 
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CENTRAL LINE PLACEMENT
+     
+     INDICATION:  56-year-old man with end-stage renal disease, needs hemodialysis
+     catheter.
+     
+     Details of the procedure and possible complications were explained to the
+     patient and informed consent was obtained.
+     
+     RADIOLOGIST:  Dr. [**Last Name (STitle) 4**] was performing the procedure.
+     
+     TECHNIQUE:  Using sterile technique, local anesthesia and ultrasound guidance,
+     an access was obtained at the right internal jugular vein.  A micropuncture
+     set was used for access.  A micropuncture sheath was then placed over the
+     wire.  A guide wire was placed through the sheath and introduced into the IVC
+     under fluoroscopic guidance.  The tract was dilated with a 12 French dilator.
+     
+     A temporary triple lumen dialysis catheter was then placed over the wire with
+     its tip positioned in the right atrium under fluoroscopic guidance.  Position
+     of the catheter was confirmed by chest x-ray in one view.  The guide wire was
+     then removed.  The catheter was secured to the skin.  A sterile dressing was
+     applied.
+     
+     The patient tolerated the procedure well.  There were no immediate
+     complications.
+     
+     IMPRESSION:  Uncomplicated ultrasound and fluoroscopically guided triple lumen
+     dialysis catheter placement via the right internal jugular venous approach
+     with the tip positioned in the right atrium.
+                                                                           
+
+",,
+24912,20003,,,2564-08-03 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+",,
+24912,20003,,,2564-08-03 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2564-8-3**] 7:52 AM
+     ABDOMEN U.S. (PORTABLE)                                         Clip # [**Clip Number (Radiology) 7469**]
+     Reason: r/o portal venous thrombosis, assess ascitesPlease mark for 
+     Admitting Diagnosis: HYPOTENSION
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      56 year old man with cirrhosis and ascites now with resp distress               
+     REASON FOR THIS EXAMINATION:
+      r/o portal venous thrombosis, assess ascitesPlease mark for paracentesis 
+      (concern for loculations)
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  56-year-old male with cirrhosis and ascites, now with respiratory
+     distress.  Evaluate for portal venous thrombosis, and ascites.
+     
+     ABDOMINAL ULTRASOUND:  No prior studies are available for comparison.  The
+     gallbladder is contracted and shrunken and is filled with echogenic stones and
+     sludge.  There is a large amount of ascites surrounding the liver.  The liver
+     is markedly shrunken and has a nodular surface contour consistent with known
+     cirrhosis, but there is no evidence of any focal lesion or discrete textural
+     abnormality. The common duct is not dilated.  There is no evidence of intra-
+     or extra- hepatic biliary ductal dilatation.  The portal vein is patent with
+     appropriate hepatopetal flow, but the portal vein is markedly enlarged which
+     is indicative of a significant degree of portal hypertension.  The right
+     kidney measures 13.0 cm, the left kidney measures 12.5 cm.  There is no
+     evidence of stone, mass or hydronephrosis in either kidney.  There is evidence
+     of splenomegaly, however, a measurement was not obtained on this study.
+     
+     IMPRESSION:
+     1.  Cirrhotic liver with large amount of ascites.
+     2.  Contracted gallbladder filled with stones and sludge.
+     3.  Patent portal vein with appropriate antegrade flow, however, the portal
+     vein is enlarged which is indicative of significant portal hypertension.
+     4.  Splenomegaly.
+     
+
+",,
+24912,20003,,,2564-08-03 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2564-8-3**] 10:33 PM
+     CT ABDOMEN W/O CONTRAST; CT PELVIS W/O CONTRAST                 Clip # [**Clip Number (Radiology) 7471**]
+     Reason: eval for posterior extension of ulcer, perforation          
+     Admitting Diagnosis: HYPOTENSION
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      56 year old man with ESLD, ESRD, deep duodenal bulb ulcer seen on EGD.  s/p 
+      paracentesis earlier today
+     REASON FOR THIS EXAMINATION:
+      eval for posterior extension of ulcer, perforation                              
+     CONTRAINDICATIONS for IV CONTRAST:
+      renal failure
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  End-stage liver and renal disease with deep duodenal bulb ulcer
+     seen on EGD.  Status post paracentesis earlier today.  Evaluate for ulcer
+     perforation.
+     
+     COMPARISON:  Abdominal ultrasound of the same day.
+     
+     TECHNIQUE:  Contiguous axial images through the abdomen and pelvis were
+     obtained following the administration of oral contrast only.  Coronal and
+     sagittal reformatted images were generated.
+     
+     CT OF THE ABDOMEN WITH CONTRAST:  There is a small left pleural effusion with
+     associated atelectasis.  The tip of a catheter is seen at the cavoatrial
+     junction.  Assessment of the abdominal organs is limited without IV contrast.
+     The liver is shrunken and nodular in contour, consistent with cirrhosis. There
+     is high-density material in the region of the gallbladder, consistent with
+     stones.  The spleen demonstrates a couple of hyperdense foci, of indeterminate
+     etiology.  The spleen is enlarged in the craniocaudad dimension (coronal
+     reformatted images) measuring 17.8 cm.  The pancreas and adrenal glands are
+     unremarkable, as are the kidneys on this non-contrast enhanced study.  The
+     stomach and duodenum contain oral contrast. Small bowel loops are mildly
+     dilated, with a prominent bowel wall.  There appears to be fecal material in
+     some mildly distended small bowel loops in the mid abdomen, measuring up to 3
+     cm in diameter.  However, there is air and stool within the colon.  There is
+     no free air in the abdomen.  There is a moderate to large amount of ascites
+     fluid, greatest surrounding the liver.  The aorta is not dilated and contains
+     calcifications.  The splenic vein is difficult to visualize though it appears
+     large.  There also appear to be varices in the anterior abdominal wall and
+     within the anterior abdomen near the umbilicus. Soft tissue density near the
+     gastroesophageal junction raises the possibility of varices at this locale as
+     well.
+     
+     CT OF THE PELVIS WITH CONTRAST:  There is air in the bladder related to
+     instrumentation with a Foley catheter.  The rectum appears normal.  There are
+     sigmoid diverticula present.  Moderate free fluid in the pelvis.  Moderate
+     subcutaneous edema.
+     
+     BONE WINDOWS:  There are no suspicious osteolytic or sclerotic lesions.  There
+     are healed left posterior rib fractures at the left basilar chest.
+     
+                                                                 (Over)
+
+     DATE: [**2564-8-3**] 10:33 PM
+     CT ABDOMEN W/O CONTRAST; CT PELVIS W/O CONTRAST                 Clip # [**Clip Number (Radiology) 7471**]
+     Reason: eval for posterior extension of ulcer, perforation          
+     Admitting Diagnosis: HYPOTENSION
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     Multiplanar reformatted images were essential in delineating the anatomy and
+     pathology in this case.
+     
+     IMPRESSION:
+     1.  No free air within the retroperitoneum or within the abdomen to suggest
+     perforated duodenal ulcer.
+     
+     2.  Findings of cirrhosis, including a nodular shrunken liver, splenomegaly,
+     ascites, abdominal and possible gastroesophageal varices.
+     
+     3.  Mildly distended small bowel loops, with prominent small bowel wall.  Some
+     small bowel loops contain fecal material, likely related to ileus.  The colon
+     contains air and stool, suggesting that there is not a mechanical obstruction.
+     
+
+",,
+24912,20003,,,2564-08-03 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2564-8-3**] 10:33 PM
+     CT ABDOMEN W/O CONTRAST; CT PELVIS W/O CONTRAST                 Clip # [**Clip Number (Radiology) 7471**]
+     Reason: eval for posterior extension of ulcer, perforation          
+     Admitting Diagnosis: HYPOTENSION
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      56 year old man with ESLD, ESRD, deep duodenal bulb ulcer seen on EGD.  s/p 
+      paracentesis earlier today
+     REASON FOR THIS EXAMINATION:
+      eval for posterior extension of ulcer, perforation                              
+     CONTRAINDICATIONS for IV CONTRAST:
+      renal failure
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  End-stage liver and renal disease with deep duodenal bulb ulcer
+     seen on EGD.  Status post paracentesis earlier today.  Evaluate for ulcer
+     perforation.
+     
+     COMPARISON:  Abdominal ultrasound of the same day.
+     
+     TECHNIQUE:  Contiguous axial images through the abdomen and pelvis were
+     obtained following the administration of oral contrast only.  Coronal and
+     sagittal reformatted images were generated.
+     
+     CT OF THE ABDOMEN WITH CONTRAST:  There is a small left pleural effusion with
+     associated atelectasis.  The tip of a catheter is seen at the cavoatrial
+     junction.  Assessment of the abdominal organs is limited without IV contrast.
+     The liver is shrunken and nodular in contour, consistent with cirrhosis. There
+     is high-density material in the region of the gallbladder, consistent with
+     stones.  The spleen demonstrates a couple of hyperdense foci, of indeterminate
+     etiology.  The spleen is enlarged in the craniocaudad dimension (coronal
+     reformatted images) measuring 17.8 cm.  The pancreas and adrenal glands are
+     unremarkable, as are the kidneys on this non-contrast enhanced study.  The
+     stomach and duodenum contain oral contrast. Small bowel loops are mildly
+     dilated, with a prominent bowel wall.  There appears to be fecal material in
+     some mildly distended small bowel loops in the mid abdomen, measuring up to 3
+     cm in diameter.  However, there is air and stool within the colon.  There is
+     no free air in the abdomen.  There is a moderate to large amount of ascites
+     fluid, greatest surrounding the liver.  The aorta is not dilated and contains
+     calcifications.  The splenic vein is difficult to visualize though it appears
+     large.  There also appear to be varices in the anterior abdominal wall and
+     within the anterior abdomen near the umbilicus. Soft tissue density near the
+     gastroesophageal junction raises the possibility of varices at this locale as
+     well.
+     
+     CT OF THE PELVIS WITH CONTRAST:  There is air in the bladder related to
+     instrumentation with a Foley catheter.  The rectum appears normal.  There are
+     sigmoid diverticula present.  Moderate free fluid in the pelvis.  Moderate
+     subcutaneous edema.
+     
+     BONE WINDOWS:  There are no suspicious osteolytic or sclerotic lesions.  There
+     are healed left posterior rib fractures at the left basilar chest.
+     
+                                                                 (Over)
+
+     DATE: [**2564-8-3**] 10:33 PM
+     CT ABDOMEN W/O CONTRAST; CT PELVIS W/O CONTRAST                 Clip # [**Clip Number (Radiology) 7471**]
+     Reason: eval for posterior extension of ulcer, perforation          
+     Admitting Diagnosis: HYPOTENSION
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     Multiplanar reformatted images were essential in delineating the anatomy and
+     pathology in this case.
+     
+     IMPRESSION:
+     1.  No free air within the retroperitoneum or within the abdomen to suggest
+     perforated duodenal ulcer.
+     
+     2.  Findings of cirrhosis, including a nodular shrunken liver, splenomegaly,
+     ascites, abdominal and possible gastroesophageal varices.
+     
+     3.  Mildly distended small bowel loops, with prominent small bowel wall.  Some
+     small bowel loops contain fecal material, likely related to ileus.  The colon
+     contains air and stool, suggesting that there is not a mechanical obstruction.
+     
+
+",,
+24912,20003,,,2564-08-03 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2564-8-3**] 12:48 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 7468**]
+     Reason: pneumonia?  chf?                                            
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      56 year old man with hypotension                                                
+     REASON FOR THIS EXAMINATION:
+      pneumonia?  chf?                                                                
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Hypotension.  Evaluate for CHF or pneumonia.
+     
+     COMPARISON:  None.
+     
+     SUPINE AP CHEST:
+     
+     The chest was imaged from a lordotic view.  The heart size is normal.  The
+     mediastinal contours are probably normal given the technique. The right
+     hemidiaphragm is elevated.  No consolidation or evidence of congestive
+     failure.  No pleural effusion or pneumothorax. There are rounded calcified
+     structures in the right upper quadrant, likely representing gallstones.
+     
+     IMPRESSION:  No evidence of pneumonia or congestive failure. Probable
+     gallstones.
+
+",,
+24912,20003,30934,0,2564-08-03 05:15:00 EST,2564-08-03 05:47:00 EST,7431,"N",53,"Nursing/Other","Focus Condition Update","
+Focus Condition Update
+See Flowsheet for Specific info
+
+56 y/o male admitted from ED for tx of hypotension.  Pt came from [**Hospital **] [**Hospital **] rehab, he was transfered to [**Initials (NamePattern4) **] [**Last Name (NamePattern4) **] [**Hospital **] hosp, and later to [**Hospital3 **] for falling crit and hypotension.  Pt given 2 units of FFP and 2 units of PRBC at [**Hospital3 **].  Pt maxed out on Levo in ED with SBP in the 70's.  Pt received 3 liters of fluid in ED.
+
+Neuro: Pt pleasant A&O x3, PERRL, following commands, and MAE's.  States he has mild abdominal pain, refuses pain med.
+CV: VSS since arrival to SICU.  Pt in ST, with no ectopy noted.  SBP 100-120 on 0.5mcg of Levophed, HR 100-110.  Octreotide gtt started.  3 units of FFP to be given for low crit.
+Resp: Lungs coarse bilaterally, dim in the bases, strong productive cough present.  Sating 95-100% on 4L O2.
+GI: Abdomen firmly distended, mildly tender, BS hypoactive.  Pt passing black tarry stool, guiac pos.
+GU: Foley to gravity, UO low, dark amber colored urine.
+Plan: Transfuse pt to increase crit.
+      Monitor BP, titrate levo for MAP>60
+      Monitor and replete lytes as needed.
+",,
+24912,20003,30934,0,2564-08-03 18:34:00 EST,2564-08-03 18:49:00 EST,4295,"N",53,"Nursing/Other","CONDITION UPDATE","
+CONDITION UPDATE
+    PATIENT ORIENTED X 3 WHEN ASKED BUT OCCASIONALLY APPEARS CONFUSED- SPEAKING OF UNRELATED ISSUES AND TALKING WHEN NO ONE IN ROOM.  DENIES ANY PAIN.  GIVEN LACTULOSE AS ORDERED.
+    HEART RATE 100-110 SINUS TACH.  CUFF BLOOD PRESSURE FAIRLY STABLE ON 0.3 MCGS LEVO, OCCASIONALLY 80-90'S SYSTOLIC BUT RESOLVES WHEN BLOOD PRODUCTS INFUSING OR OCCAS RESOLVES WITHOUT INTERVENTION.  THROUGHOUT THE DAY, PATIENT GIVEN 2 UNITS PRBCS & SEVERAL UNITS FFP FOR INR >1.5 & HCT DROPPING TO 23.  PLT COUNT STABLE.  CREAT 3.8, AND POTASSIUM RISING.  RENAL FOLLOWING, DIALYSIS CATH PLACE IN IR AND PATIENT TO START CVVH.  MAKING MINIMAL URINE.
+    LUNG SOUNDS CLEAR UPPER AIRWAYS WITH CRACKLES @ BASES BILATERALLY. RESP RATE IN 30'S BUT PATIENT DENIES SOB.  SP02 96-97% WITH 4 LITERS NASAL CANNULA.
+    ABDOMEN EXTREMELY FIRM & DISTENDED THIS AM, PARACENTESIS BY MICU TEAM (DR. [**Doctor Last Name 5257**] FELLOW) PRESENT.  4.6 LITERS REMOVED AND PATIENT TOLERATED WELL.  PATIENT NPO, BUT ABLE TO TAKE MEDS.  PATIENT HAD SMALL MELANOTIC STOOL ALONG WITH DROPPING HCT.  ENDOSCOPY DONE BY DR. [**Last Name (STitle) 1273**].  PATIENT GIVEN FENT/VERSED & VITALS REMAINED STABLE DURING PROCEDURE.  SEE FLOWSHEET FOR DETAILS.  
+PLAN:
+   PATIENT TO START CVVH TONIGHT.  CONTINUE TO FOLLOW FREQUENT LABS.  ? PLACE A-LINE OVERNIGHT, REPLACE FEMORAL CENTRAL LINE TOMORROW.        
+",,
+24912,20003,30934,,2564-08-04 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2564-8-4**] 1:30 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 7472**]
+     Reason: Acute CP process                                            
+     Admitting Diagnosis: HYPOTENSION
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       56 year old man with Hep C, hypotension, now with tachycardia to the 170s      
+                                                
+     REASON FOR THIS EXAMINATION:
+      Acute CP process                                                                
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     STUDY:  AP chest, [**2564-8-4**].
+     
+     HISTORY:  64-year-old woman with hepatitis C, hypertension, tachycardia.
+     
+     FINDINGS:  Compared to prior study from [**2564-8-3**].
+     
+     There has been interval placement of a dialysis catheter with the distal tip
+     in the proximal right atrium.  There is no signs or pneumothoraces.  There is
+     markedly low lung volumes, which limits evaluation.  There is mild pulmonary
+     congestion.  No definite consolidation is identified.  There is cardiomegaly.
+                                                                           
+
+",,
+24912,20003,30934,,2564-08-04 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2564-8-4**] 5:26 PM
+     CHEST PORT. LINE PLACEMENT; -76 BY SAME PHYSICIAN               [**Name Initial (PRE) 232**] # [**Clip Number (Radiology) 7473**]
+     Reason: ?CL and NGT in appropriate location?                        
+     Admitting Diagnosis: HYPOTENSION
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        56 year old man with Hep C, hypotension, L central line placement and NGT 
+      placement     
+     REASON FOR THIS EXAMINATION:
+      ?CL and NGT in appropriate location?                                            
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     STUDY:  AP chest, [**2564-8-4**].
+     
+     HISTORY:  56-year-old man with hepatitis C, hypertension, status post left-
+     sided central venous catheter, and nasogastric tube placement.
+     
+     FINDINGS:  The nasogastric tip and side port are below the gastroesophageal
+     junction.  However, there is a single loop within the feeding tube and the
+     distal tip is pointing towards the fundus of the stomach.  There is a left-
+     sided central venous catheter with the distal tip at the cavoatrial junction.
+     There is a right-sided central venous catheter with the left distal tip at the
+     proximal right atrium.  There is left ventricular configuration. There is
+     markedly low lung volumes due to poor inspiratory effort.  However, no focal
+     consolidation is seen.
+     
+     
+     
+
+",,
+24912,20003,30934,,2564-08-04 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2564-8-4**] 5:26 PM
+     CHEST PORT. LINE PLACEMENT; -76 BY SAME PHYSICIAN               [**Name Initial (PRE) 232**] # [**Clip Number (Radiology) 7473**]
+     Reason: ?CL and NGT in appropriate location?                        
+     Admitting Diagnosis: HYPOTENSION
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        56 year old man with Hep C, hypotension, L central line placement and NGT 
+      placement     
+     REASON FOR THIS EXAMINATION:
+      ?CL and NGT in appropriate location?                                            
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     STUDY:  AP chest, [**2564-8-4**].
+     
+     HISTORY:  56-year-old man with hepatitis C, hypertension, status post left-
+     sided central venous catheter, and nasogastric tube placement.
+     
+     FINDINGS:  The nasogastric tip and side port are below the gastroesophageal
+     junction.  However, there is a single loop within the feeding tube and the
+     distal tip is pointing towards the fundus of the stomach.  There is a left-
+     sided central venous catheter with the distal tip at the cavoatrial junction.
+     There is a right-sided central venous catheter with the left distal tip at the
+     proximal right atrium.  There is left ventricular configuration. There is
+     markedly low lung volumes due to poor inspiratory effort.  However, no focal
+     consolidation is seen.
+     
+     
+     
+
+",,
+24912,20003,30934,0,2564-08-04 04:11:00 EST,2564-08-04 04:36:00 EST,3214,"N",53,"Nursing/Other","NURSING UPDATE","
+NURSING UPDATE
+CV/HEME: NSR NO ECTOPY. LEVO GTTS TITRATED MAINTAINING MAP>60, NBP'S ONLY. OCTREOTIDE GTTS INFUSING. HCT 25, 1U PRBC'S TRANSFUSED -> HCT UP TO 29. PLTS STABLE>100. INR UP TO 2.4 THIS AM, SOME SCLERAL HEMATOMA PRESENT THIS AM, RT>LT, ALSO SMALL NOSEBLEED. DR [**Last Name (STitle) **] NOTIFIED BY PAGER. PEDAL PULSES DOPPLERABLE.
+
+HEPATO/RENAL: INCREASED JAUNDICE, TBILI 33.7. CRRT STARTED IN CVVHDF MODE REMOVING NET OF 50CC/H. BUN & CREAT IMPROVED SINCE CRRT START. KCL GTTS NOT STARTED DUE TO K+ 5.9-5.6. FOLEY CATH DRAINING 0-40CC/H CLOUDY BROWN URINE. 
+
+NEURO: INCREASED LETHARGY, MORE DIFFICULT TO WAKE AT TIMES, EPISODES OF CONFUSION TALKING TO SELF, YET ANSWERED ALL QUESTIONS APPROPRIATEY AND CORRECTLY THIS AM, ORIENTED X3 TRANSIENTLY. PUPILS EQUAL IN SIZE AND REACTIVITY, FOLLOWS COMMANDS CONSISTENTLY.
+
+GI: ABDOMEN VERY DISTENDED WITH ASCITES, BOWEL SOUNDS PRESENT, INCONTINENT OF LARGE MAROON GU POS STOOL, FIB APPLIED FOR QUANTIFICATION. NPO MAINTAINED, AND PO MEDS HELD THIS AM DUE TO INCREASED LETHARGY, ASPIRATION PRECAUTIONS. EGD SHOWED  DIFFUSE CANDIDIASIS OF THE ESOPHAGUS, MULTIPLE SMALL ULCERS IN STOMACH AND LG CRATERED ULCER IN DUODENUM WITH SMALL BLOOD OOZE. ABDOMINAL CT DONE WITH GASTROVIEW CONTRAST - AWAITING RESULTS AT THIS TIME.
+
+SKIN: JAUNDICED WITH GROSS EDEMA OF BLE'S AND ASCITES. SURGICAL INCISIONS ON LEFT FOOT, CALF AND THIGH DRAINING MOD YELLOW SEROUS FLUID. ALL OTHER SKIN INTACT.
+
+RESP: BREATH SOUNDS CLEAR, FIO2 WEANED 6L-4L N/PRONGS. SATS 97-100%. COUGHING UP SMALL AMOUNTS BLOOD TINGED/RUSTY SECRETIONS.
+
+PLAN: MONITOR LABS FREQUENTLY WHIL ON CRRT. ASSESS NEED FOR ONGOING BLOOD PRODUCT TRANSFUSION. REPLETE LYTES AS NEEDED.  PLAN TO RESCOPE IF BLEEDING RECURRS. DETERMINE CANDIDACY FOR TRANSPLANT?
+
+PT MONITORED CLOSELY & CONTINUOUSLY.
+DR [**Last Name (STitle) **] AND [**Doctor Last Name **] IN ATTENDANCE.
+SEE CAREVUE FLOWSHEETS FOR DETAILED DATA.
+",,
+24912,20003,30934,0,2564-08-04 14:25:00 EST,2564-08-04 14:50:00 EST,4295,"N",53,"Nursing/Other","CONDITION UPDATE","
+CONDITION UPDATE
+ASSESSMENT:
+    PATIENT LETHARGIC BUT ORIENTED X 3 WHEN AWAKE.  DENIES ANY PAIN.  SLEEPING ON/OFF MOST OF THE DAY.  HEART RATE MOSTLY 90'S NORMAL SINUS, NO ECTOPY.  CUFF BLOOD PRESSURE STABLE WITH MAP > 60, TOLERATING CVVH AND ABLE TO WEAN LEVO SLIGHTLY (CURRENTLY @ 0.35 MCGS).  PATIENT HAD EPISODE OF SVT WITH HR 170'S AND RUNS V-TACH.  DR. [**First Name (STitle) **] (MICU RESIDENT) PRESENT, EKG DONE, ELECTROLYTES SENT.  RESOLVED AFTER 10MG LOPRESSOR.  4 UNITS FFP GIVEN FOR INR 2.8, AWAITING NEW CENTRAL LINE PLACEMENT.  HCT STABLE, NO PRBCS TODAY. 
+    CVVH RUNNING, ABLE TO REMOVE APPROX 50CC/HR.  CREATININE GRADUALLY COMING DOWN, CURRENTLY 2.8.  POTASSIUM NOW NORMAL, 4.9.  HOURLY URINE APPROX 20CC.  
+    LUNG SOUNDS CLEAR, BREATHING UNLABORED @ REST.  SP02 98% WITH NASAL CANNULA.  ABDOMEN FIRM & DISTENDED, + ASCITES.  PATIENT TOO LETHARGIC TO TAKE PO LACTULOSE, MICU INTERN TO PLACE NGT.  OTHERWISE NPO.  NO STOOL THIS SHIFT.  BLOOD GLUCOSE WITHIN NORMAL RANGE.  
+    LEFT LOWER EXTREMITY WITH 4 SMALL OPEN AREAS (ALL ~1""), DRAINING MODERATE AMOUNTS SEROUS FLUID.  CLEANSED WITH NORMAL SALINE & PACKED WITH GAUZE.  SKIN CARE NURSE CONTACTED FOR RECOMMENDATIONS. 
+    DR. [**Last Name (STitle) 1273**] SPOKE WITH PATIENT'S FAMILY REGARDING PATIENT'S SERIOUS CONDITION.  FAMILY AWARE THAT PATIENT IS CURRENTLY NOT A CANDIDATE FOR LIVER TRANSPLANT.   
+PLAN:
+    CONTINUE TO FOLLOW LABS EVERY 6 HOURS.  PROVIDE SUPPORT TO PATIENT AND FAMILY.  WEAN LEVOPHED AS PATIENT TOLERATES.    
+",,
+24912,20003,30934,0,2564-08-05 03:55:00 EST,2564-08-05 04:06:00 EST,3214,"N",53,"Nursing/Other","NURSING UPDATE","
+NURSING UPDATE
+CV/HEME: NSR, NO ECTOPY, NO TACHY. LEVO GTTS TITRATED TO MAINTAIN MAP>60, UNABLE TO WEAN. OCTREOTIDE GTTS CONT. PEDAL PULSES DOPPLERABLE. CVL PLACEMENT CONFIRMED ON CXR, REPORTED BY DR [**Last Name (STitle) **]. OLD CVL IN RT FEM REMOVED WITH MINIMAL BLEEDING AT SITE.  THIS AM, HCT 25.8, PLTS 73, INR 3.1.
+
+GI: NGT PLACEMENT CONFIRMED ON CXR, REPORTED BY DR [**Last Name (STitle) **].  ABDOMEN DISTENDED AND FIRM W/ASCITES, BOWEL SOUNDS PRESENT, FIB ON BUT NO BM TO THIS TIME, LACTULOSE GIVEN AS ORDERED. GLUCOSE STABLE.
+
+NEURO:  COFUSED REGARDING PLACE MOST OF NOC. FOLLOWING COMMANDS. INCREASED RESTLESSNESS BETWEEN 3-4AM, REMOVING O2 PRNGS SEVERAL TIMES AND THEN ATTEMPTING PULLS AT NGT AND CVL. BIL SOFT LIMB RESTRAINTS APPLIED FOR SAFETY AND PT PROTECTION. DENIES PAIN.
+
+HEP/RENAL: CRRT CONTINUED REMOVING APPROX 50CC/H. BUN CREAT AND K+ DIMINISHING. KCL GTTS STARTED AND CA GLUC GTTS CONTINUED.
+
+SKIN: INCISIONS ON LEFT LEG CONTINUE TO DRAIN LARGE AMOUNTS OF SEROUS FLUID, OTHER SURFACES INTACT. 
+",,
+24912,20003,30934,0,2564-08-05 13:27:00 EST,2564-08-05 13:52:00 EST,4295,"N",53,"Nursing/Other","CONDITION UPDATE","
+CONDITION UPDATE
+ASSESSEMNT:  
+   PATIENT CONTINUES TO BE LETHARGIC, BUT ORIENTED X 3 WHEN AWAKE.  LACTULOSE DOSE INCREASED TO EVERY 2 HOURS, NO STOOLING YET.  PATIENT DENIES ANY PAIN.
+   PATIENT SPONTANEOUSLY IN RAPID AFIB WITH RATE 170'S THIS AM.  GIVEN 20 MG IV LOPRESSOR AS ORDERED BY DR. [**First Name (STitle) **], NO EFFECT.  PATIENT GIVEN 12.5 MG IV DILTIAZEM AND RATE DECREASED TO ~ 100.  CURRENTLY PATIENT IN AFIB WITH HR RANGING 100-110, STARTED ON PO DILTIAZEM.  BLOOD PRESSURE WAS STABLE WITH RAPID RATE.  PATIENT REMAINS ON 0.35 LEVO GTT, UBLE TO WEAN FURTHER WHILE REMOVING FLUID WITH CVVH.  ATTEMPTING TO TAKE OFF 50-75CC/HR.  CREATININE NOW ~ 2.  SODIUM 124 THIS AM AND RENAL AWARE.  REPEAT SODIUM 134, DIALYSATE & REPLACEMENT FLUIDS UNCHANGED.  PATIENT GIVEN 2 UNITS FFP THIS AFTERNOON FOR AM INR 3.1, AWAITING REPEAT COAGS. 
+    LUNG SOUNDS CLEAR, BREATHING UNLABORED.  SP02 ~97% WITH 4 LITERS NASAL CANNULA.  ABDOMEN FIRM & DISTENDED, + ASCITES.  PATIENT CONTINUES ON OCTREOTIDE GTT.  NGT FOR MEDS, NO NUTRITION YET.  BLOOD GLUCOSE NORMAL.  
+    DR [**Last Name (STitle) 1273**] HAS SPOKEN WITH FAMILY DAILY REGARDING PATIENT'S CONDITION.  HAD A MEETING TODAY REGARDING PATIENT'S MENTAL STATUS AND POSSIBLE NEED FOR INTUBATION IF MENTAL STATUS CONTINUES TO DECLINE.  FAMILY HAD STATED THEY WOULD NOT WANT PATIENT INTUBATED IF IT WAS FOR AN INDEFINATE AMOUNT OF TIME.  
+PLAN:
+   CONTINUE TO PROVIDE SUPPORT TO FAMILY, ? SOCIAL WORK REFERRAL.  FOLLOW LABS EVERY 6 HOURS.  CONTINUE WITH CVVH AS TOLERATES.   
+",,
+24912,20003,30934,,2564-08-06 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2564-8-6**] 7:21 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 7474**]
+     Reason: upright CXR, evaluate for free air                          
+     Admitting Diagnosis: HYPOTENSION
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+         56 year old man with Hep C, hypotension, paracentesis today with 30,000 RBCs 
+     REASON FOR THIS EXAMINATION:
+      upright CXR, evaluate for free air                                              
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     AP CHEST, 7:32 a.m. on [**8-6**].
+     
+     HISTORY:  Hepatitis, hypotension.
+     
+     IMPRESSION:  AP chest compared to [**8-4**]:
+     
+     Severe elevation of the diaphragm due to intestinal distention and ascites
+     produces severe compromise of lung volume, which has worsened since [**8-4**], a
+     more severe bibasilar atelectasis, particularly on the left.  Heart size is
+     exaggerated by the elevated diaphragm, probably normal.  Pulmonary vascular
+     engorgement is probably a function of redistribution of perfusion away from
+     the lung bases.  There is no pneumothorax.  Nasogastric tube ends in a
+     severely distended stomach.  Left and right internal jugular lines end in the
+     region of the superior cavoatrial junction.  No pneumothorax.
+
+",,
+24912,20003,30934,,2564-08-06 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2564-8-6**] 7:22 PM
+     PORTABLE ABDOMEN                                                Clip # [**Clip Number (Radiology) 7475**]
+     Reason: please evaluate for free air, SBO                           
+     Admitting Diagnosis: HYPOTENSION
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      56 year old man with hepC cirrhosis and ascites with paracentesis with 
+      30,000RBCs
+     REASON FOR THIS EXAMINATION:
+      please evaluate for free air, SBO                                               
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Hep C cirrhosis and ascites, please evaluate for free air SBO.
+     
+     FINDINGS:  The supine radiograph of the abdomen was reviewed.  Multiple
+     distended small bowel loops are present in addition with air within the colon.
+     The findings most consistent with ileus.  No prior radiograph is available to
+     evaluate for air-fluid levels or free air.
+     
+     IMPRESSION:  Distended bowel loops, most consistent with ileus, continued
+     observation advised.
+
+",,
+24912,20003,30934,0,2564-08-06 04:23:00 EST,2564-08-06 04:46:00 EST,3214,"N",53,"Nursing/Other","NURSING UPDATE","
+NURSING UPDATE
+CV/HEME:  HR CONTROLLED AFIB IN LOW 100'S W/OCCASIONAL PVC'S. NBP'S MONITORED, LEVOPHED GTTS WEANED SLIGHTLY, MAINTAINING MAP>60. OCTREOTIDE GTTS DC'D. HCT 23.8, 1U PRBC TRANSFUSED, FOLLOW-UP HCT 24.2.  INR UP TO 3.3, 4U FFP GIVEN, F/UP INR 2.1.  PLTS DROPPING 44, 27, CURRENTLY PENDING. HIT PANEL SENT.
+
+HEPATO/RENAL: VERY JAUNDICED, T.BILI 30.7.  TOLERATING CRRT REMOVING FLUID, 24H FLUID BALANCE -1055CC. KCL AND CA GLUC GTTS INFUSING PER SLIDING SCALES. BUN DOWN TO 60, CREAT INCREASED TO 1.8.
+
+GI:  ABDOMEN DISTENDED AND FIRM W/ASCITES, BOWEL SOUNDS ACTIVE. STOOLING MAROON/BROWN LIQUID VIA FIB. LACTULOSE HELD X2 FOR C/O OF NAUSEA AND ABDOMINAL CRAMPING.
+
+RESP:  BREATH SOUNDS DIMINISHED->COARSE @ BILATERAL BASES. FREQUENT COUGH EXPECTORATING THICK WHITE YELLOW SECRETIONS. SATS 94-98% ON O2 4L NASAL PRONGS.
+
+NEURO/SAFETY: ALERT AND ORIENTED X3 WHEN AWAKE, NOT DIFFICULT TO ROUSE. IN [**Doctor Last Name 7**] PT FIDGETING WITH NGT AND REMOVING CV DRESSINGS, PT COMPLIANT WITH APPLICATION OF BIL WRIST RESTRAINTS.
+
+SKIN:  INCISIONS ON LEFT LEG AND OLD CVL SITE IN RT GROIN DRAINING LG AMOUNT YELLOW SEROUS FLUID, ALL DRESSINGS CHANGED THIS AM.
+
+CONTINUING CARE: ADMINISTRATOR FORM VA [**Last Name (NamePattern4) 5258**] CALLED - REQUESTED THAT AT SUCH A TIME THAT PT MAY STABILIZE, PLEASE CALL VA FOR RETURN TRANSFER OF PT BACK TO THEM.
+
+PLAN: Q6H LABS AND PRN, REPLETING LYTES AND BLOOD PRODUCTS AS NEEDED. AWAITING EVAL OF LT LEG INCISIONS BY SKIN SPECIALIST.  GI WILL RESCOPE IF ACTIVE GI BLEED RECURRS. NOT A CANDIDATE FOR TRANSPLANT AT THIS TIME.
+
+PT CONTINOUSLY MONITORED. DR [**Last Name (STitle) **] IN CLOSE ATTENDANCE.
+SEE CAREVUE FLOWSHEETS FOR DETAILED DATA.
+",,
+24912,20003,30934,0,2564-08-06 16:58:00 EST,2564-08-06 17:13:00 EST,3790,"N",53,"Nursing/Other","CONDITION UPDATE:","
+CONDITION UPDATE:
+D/A:  T MAX 97.2, PT HAS BEEN HYPOTHERMIC, BEAR HUGGER ON MOST OF SHIFT UNTIL PT REFUSING IT ANY LONGER WITH TEMP UP TO 97.2.
+
+NEURO:  MOST OF SHIFT PLEASANT, A+OX3, MAE, FOLLOWING COMMANDS, LETHARGIC.  IN EARLY EVENING, PT BECOMING MORE CONFUSED, AGITATED, SPITTING.  PERL.  LACTULOSE Q 2 HOURS.  DENIES PAIN.  
+
+CV:  HR 106-118 AFIB WITH PVC'S.  GOAL MAP > 60 MET WITH LEVOPHED GTT, TITRATED UP AND DOWN SLIGHTLY.  ALINE PLACED.  4 UNITS FFP GIVEN TO CORRECT ANTICOAGULATION FOR THORACENTESIS, PT BECAME SOB, CRACKLES THROUGHOUT, O2 SATS DROPPED TO 92% WITH CVP 25, BLADDER PRESSURE 23 EARLIER IN SHIFT.  NON-REBREATHER MASK WITH 10 L/M O2 APPLIED, CVVHDF RESTARTED (IT HAD CLOTTED) AND GOAL - 75CC/HR NET FLUID REMOVAL CONTINUES.  POST TAP FOR 1250 CC'S FLUID, CVP DOWN TO 11, PT'S BREATHING IMPROVED, 5 L/M NC O2.  LE'S VERY EDEMATOUS, + DOPPLERABLE PULSES.  NO HEPARIN AS HIT PANEL IS PENDING.  PLATELETS 37, HCT 23.8, INR POST FFP 1.7.  DR. [**Last Name (STitle) 5259**] AWARE OF ALL LAB VALUES AND HEPATOLOGY RECCOMENDATIONS.  CURRENT FLUID BALANCE MN-1700 -1500 CC'S. NO S+S OF ACTIVE BLEEDING.
+
+RESP:  AS NOTED ABOVE.  CRACKLES REMAIN HOWEVER IMPROVED.  O2 SAT 97% ON 5 L/M VIA NC.  
+
+GI:  NGT FOR MEDS.  + BS.  ABDOMEN FIRM, TIGHT, DISTENDED, AND REMAINS SO EVEN AFTER FIRST TAP WITH 1250CC FLUID REMOVED.  TAP SITE NO DRAINAGE.  NUTRITION CONSULTED.  POST PYLORIC TUBE PLACEMENT ORDERED, THEN MAY START TUBE FEEDS.  LIQUID STOOL, SMALL AMOUNT. TEAM AWARE, LACTULOSE NOT INCREASED.
+
+GU:  FOLEY-BSD WITH 0-10 CC'S/HR OUT.
+
+SX:  PT'S DAUGHTER, SON, SISTER, AND FATHER VISITED.
+
+R:  HYPOTHERMIC, VASOPRESSOR DEPENDENT MAN IN LIVER FAILURE REQUIRING THERAPEUTIC TAP.
+
+P:  CONTINUE TO MONITOR VITALS CLOSELY.  TITRATE LEVOPHED ACCORDINGLY TO HAVE GOAL MAP > 60.  MONITOR LABS Q 6 HOURS.  MONITOR FOR S+S OF BLEEDING.  LACTULOSE AS ORDERED.  TO HAVE POST=PYLORIC FEEDING TUBE PLACED.  PT AND FAMILY SUPPORT.  CVVHDF AS ORDERED.
+",,
+24912,20003,30934,,2564-08-07 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2564-8-7**] 10:03 AM
+     US ABD LIMIT, SINGLE ORGAN                                      Clip # [**Clip Number (Radiology) 7476**]
+     Reason: Please evaluate for ascites vs dilated bowel.               
+     Admitting Diagnosis: HYPOTENSION
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      56 year old man with cirrhosis and ascites now with resp distress. Please 
+      evaluate for ascites vs dilated bowel.       
+     REASON FOR THIS EXAMINATION:
+      Please evaluate for ascites vs dilated bowel.                                   
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     56-year-old male with cirrhosis, ascites, ileus, and respiratory distress
+     referred for evaluation of ascites versus dilated bowel.
+     
+     FINDINGS:  Focused ultrasound scanning of the four abdominal quadrants
+     demonstrates a mild amount of ascites.  Due to the presence of distended bowel
+     loops in the lower quadrants the ascites is not deemed amenable to bedside
+     drainage.
+     
+     IMPRESSION:  Mild amount of ascites, not amenable to bedside drainage due to
+     the presence of multiple distended loops of bowel in the lower abdominal
+     quadrants.
+                                                                           
+
+",,
+24912,20003,30934,0,2564-08-07 03:28:00 EST,2564-08-07 04:00:00 EST,3621,"N",53,"Nursing/Other","STATUS","
+STATUS
+D: HYPOTHERMIC BUT REFUSING BAIR HUGGER..ORIENTED X2..FOLLOWS SOME SIMPLE COMMANDS
+A: PULLED OUT NG & ATTEMPTED TO PULL OUT LINES..VOMITED MOD AMT BILIOUS..NG REPLACED ? IN TO FAR DRAINING LGE AMT YELLOW(1700CC)  PULLED BACK WITH DECREASE IN DRAINAGE..CVVH FILTER CLOTTED OFF X1 REPLACED..CONTINUES WITH LACTULOSE Q2H WITH MIN STOOL..MRSA/VRE SCREENS SENT..MIN HUO'S..SAT'S/ABG'S ADQUATE ON 5L NP
+R: ESSENTIALLY UNCHANGED
+P: CONTINUE WITH LACTULOSE Q2H UNTIL STOOLING..LABS Q6H..MONITOR PULMONARY/MENTAL STATUS CLOSELY
+",,
+24912,20003,30934,0,2564-08-07 17:26:00 EST,2564-08-07 17:41:00 EST,4295,"N",53,"Nursing/Other","CONDITION UPDATE","
+CONDITION UPDATE
+ASSESSMENT:
+    PATIENT ORIENTED X [**12-12**] WHEN ASKED.  AGITATED @ TIMES AND APPEARS TO BE HALLUCINATING (REACHING OUT ABOVE BED).  PATIENT ATTEMPTING TO PULL @ LINES AND TUBES, REORIENTED WHEN NECESSARY.  PATIENT NOT ABSORBING PO LACTULOSE, GIVEN PR AS ORDERED.  PATIENT DENIES PAIN, BUT OCCASIONALLY MOANING WITH ABDOMINAL CRAMPS.
+    HEART RATE 120'S AFIB THIS AM, PROBABLY NOT ABSORBING PO DILTIAZEM.  ? INCREASED HR RELATED TO LEVOPHED PER TEAM.  LEVO BEING SWITCHED TO NEO GTT TO KEEP MAP > 60.  UNABLE TO WEAN LEVO GTT AND PATIENT CURRENTLY ON LEVO AND NEO WITH MAP ~ 60.  HEART RATE NOW ~ 130 AFIB, DILT GTT STARTED AND AWAITING EFFECT.  HCT STABLE.  AFTERNOON INR 3.8, DR. [**Last Name (STitle) **] AWARE.
+    CVVH RUNNING MOST OF THE DAY, TAKING OFF MINIMAL FLUID DUE TO LARGE NGT OUTPUT (FLUID BALANCE APPROX - 1 LITER BY MID-DAY).  CVVH STOPPED 5PM WHEN SYSTEM CLOTTED.  RENAL TEAM SUGGESTED TEMPORARILY STOPPING CVVH TO SEE IF PATIENT TOLERATED AND MADE URINE.  ALL ELECTROLYTES CURRENTLY NORMAL, CREAT < 2. 
+    LUNG SOUNDS CLEAR UPPER AIRWAYS WITH CRACKLES @ BASES BILATERALLY. RESP RATE MID 30'S AND PATIENT APPEARS SOB BUT DENIES DIFFICULTY BREATHING.  PAO2 THIS AFTERNOON 82. 
+   ABDOMEN GROSSLY FIRM & DISTENDED.  ABDOMINAL ULTRASOUND DONE, MINIMAL FLUID TO BE TAPPED PER RADIOLOGY.  ABDOMINAL DISTENTION DUE TO ILEUS.  NGT TO CONTINUOUS SUCTION, WITH LARGE AMOUNTS YELLOW DRAINAGE. PR LACTULOSE STARTED, CURRENTLY NO EFFECT ON MENTAL STATUS.  
+    PATIENT'S FAMILY APPROPRIATELY UPSET DUE TO DECLINE IN MENTAL STATUS.  DISCUSSED WITH MICU RESIDENT DR. [**Last Name (STitle) **] AND ATTENDING DR. [**Last Name (STitle) **] [**Name (STitle) **] POOR PROGNOSIS.  PATIENT MADE DNR/DNI, NO ADDITIONAL VASOPRESSORS TO BE STARTED.
+PLAN:
+   PROVIDE SUPPORT TO PATIENT & FAMILY.  CONTINUE WITH PR LACTULOSE.  ? COMFORT MEASURES IF NO IMPROVEMENT.
+   
+ 
+      
+     
+",,
+24912,,30934,0,2564-08-08 00:04:00 EST,2564-08-08 00:17:00 EST,3647,"N",53,"Nursing/Other","focus hemodynmics","
+focus hemodynmics
+data: on neo gtt at 5mcg/kg/min. levophed gtt titrated  despite bp 70syst. bp cuff 70-80's. cardizem gtt at 10mg. awake at the start of the shift but not able to answer questions.  [**First Name9 (NamePattern2) 5260**] [**Doctor Last Name **] and dr [**First Name (STitle) **] called and update given on condition. md's at the pt's bedside. pt is dnr and dnI. o2 at 4 liter via np and 40% face mask. hr in afib. bp continues to drop 50-60's despite increasing levophed gtt rate. daughter [**Name (NI) 5261**] called and gave update of pt's condition. asked if she wanted to come and see father. spoke with son [**Known patient firstname **] and update also given. son did agree to come to dad's bedside. son with pt. bp continues to [**2563**]0's hr down to the 50-60's. dr [**First Name (STitle) **] and dr [**Last Name (STitle) **] called and asked to come see son. son wish to make dad [**Name (NI) **]. daughters [**Name (NI) 5261**] and micelle called and in agreement to make cmo. mso4 ordeered but before any meds could be administered. pt's hr dropped and resp rate decreased. pt became apneic and pulseless. pupils fixed and dilated. no heart rate. pt pronouced by dr [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **] and dr [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **] at 00:20 on [**2564-8-8**]. no autopsy per son [**Known patient firstname **]. 
+",,

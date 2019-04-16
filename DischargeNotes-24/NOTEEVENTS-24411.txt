@@ -1,0 +1,681 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+24411,34029,,,2875-09-24 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+
+
+Admission Date:  [**2875-9-24**]     Discharge Date:  [**2875-9-24**]
+
+Date of Birth:                  Sex:  F
+
+Service:  MICU
+
+HISTORY OF PRESENT ILLNESS:  The patient has a history of
+coronary artery disease who presented complaining of nausea,
+vomiting, and abdominal pain.
+
+Prior to admission, the patient noted right lower quadrant
+pain.  She then developed nausea and had several episodes of
+vomiting which began on the afternoon of admission.  She then
+went to the bathroom and noted bright red urine.  Her family
+then brought her to the Emergency Department.
+
+She arrived at the Emergency Department at approximately 3
+a.m.  At this point, she complained of bilateral lower
+abdominal pain which radiated into her back.  She vomited
+bilious fluid in the Emergency Department times one.  At the
+time, she denied any chest pain.  She denied any shortness of
+breath, fevers, or chills.
+
+She was sent for an abdominal computed tomography which
+showed a 5-cm X 4-cm abscess within the portal system of the
+liver as well as trabeculation and wall thickening in the
+bladder consistent with cystitis.
+
+While in the process of being evaluated, the patient
+developed progressive shortness of breath and an oxygen
+desaturation down to the 80%.  She was emergently intubated
+for hypoxemic respiratory failure and acute respiratory distress.
+Subsequent to intubation, the patient developed hemoptysis with
+profuse blood coming from the endotracheal tube, requiring
+extensive suctioning.  She was sent for an emergent chest
+computed tomography which revealed marked pulmonary parenchymal
+consolidation consistent with a pulmonary hemorrhage.
+
+Multiple attempts to obtain blood for laboratory analysis
+were attempted; however, all samples drawn were severely
+hemolyzed and unable to be processed by the laboratory.
+Laboratories were again attempted but continued to be
+markedly hemolyzed.  An arterial blood gas was obtained which
+showed her hematocrit to be 15 with a pH initially of 7.19
+which had dropped to 6.87.  Further laboratories were unable
+to be obtained at this time given her hemolysis.
+
+Given her clinical symptoms and laboratory findings, there
+was concern that the patient was in massive disseminated
+intravascular coagulation.  An emergent Hematology
+consultation was obtained.  In addition, an emergent Surgery
+Service consultation was obtained to evaluate for hepatic
+abscess for possible surgical intervention.
+
+Transfer to the Medical Intensive Care Unit was arranged for
+further treatment.
+
+PAST MEDICAL HISTORY:
+1.  Hypertension.
+2.  Diabetes.
+3.  Coronary artery disease (with exertional angina).
+4.  Hypothyroidism; status post partial thyroidectomy in [**2866**]
+for a thyroid nodule.
+5.  Cardiac catheterization in [**2872**] with 80% stenosis of the
+first diagonal.
+
+MEDICATIONS ON ADMISSION:  Home medications included Norvasc,
+atenolol, Imdur, aspirin, Levoxyl, and Celebrex.
+
+ALLERGIES:  NIACIN.
+
+SOCIAL HISTORY:  The patient was a retired pharmacist who
+immigrated to the United States in [**2865-10-16**] with her
+son and granddaughter.  No tobacco or alcohol use.
+
+FAMILY HISTORY:  No family history of coronary artery
+disease.
+
+PHYSICAL EXAMINATION ON PRESENTATION:  Physical examination
+on admission with vital signs which revealed the patient was
+afebrile, her blood pressure was 123/67, her heart rate was
+86, her respiratory rate was 15 times per minute per
+ventilator with a tidal volume of 650 mL, positive
+end-expiratory pressure of 5, and oxygen saturation of 92% on
+an FIO2 of 100%.  In general, the patient was an obese female
+who was intubated and sedated.  She was unresponsive.  Head,
+eyes, ears, nose, and throat examination revealed pupils were
+sluggish.  There was an endotracheal tube in place with
+extensive blood exsanguinating from the endotracheal tube.
+Pulmonary examination revealed coarse breath sounds
+bilaterally.  Cardiovascular examination revealed no murmurs,
+rubs, or gallops.  The abdomen was soft and distended.  There
+were positive bowel sounds.  Extremity examination revealed
+the extremities were cool.  There were intermittent faint
+radial pulses.  The dorsalis pedis pulses were not
+dopplerable.
+
+PERTINENT LABORATORY VALUES ON PRESENTATION:  Laboratories on
+admission revealed the patient's white blood cell count was
+56.6, her hematocrit was 15, and her platelets were 277.
+Differential revealed 65% neutrophils, 15% basophils, 16%
+lymphocytes, 1% monocytes, 2% metamyelocytes, 1% myelocyte,
+and 2% nucleated red blood cells.  The patient's lactate was
+8.3.  Urinalysis with large blood, 0 to 2 red blood cells,
+positive nitrites, and moderate leukocytes.
+
+PERTINENT RADIOLOGY/IMAGING:  Electrocardiogram revealed a
+sinus rhythm at 87 beats per minute.  There were ST
+depressions in leads I, II, and V2 through V6; consistent
+with a strained pattern.  There were T waves in lead III.
+There were T wave inversions in leads II and aVF.
+
+A chest x-ray revealed bilateral patchy infiltrates and lower
+lobe consolidations.
+
+A computed tomography of the abdomen and pelvis revealed
+bilateral lower lobe consolidation, 5-cm X 4-cm air-filled
+abscess in the liver, and mild pneumobilia.
+
+A computed tomography of the chest without contrast revealed
+bilateral lower lobe consolidation.
+
+CONCISE SUMMARY OF HOSPITAL COURSE BY ISSUE/SYSTEM:
+
+1.  LIVER ABSCESS ISSUES:  The patient was admitted with
+right upper quadrant pain with a subsequent abdominal
+computed tomography showing a liver abscess with air in the
+abscess and biliary tree.  Blood cultures, urine cultures,
+and sputum cultures were sent.  The patient subsequently
+developed a clinical picture concerning for sepsis with
+disseminated intravascular coagulation.  She was aggressively
+treated with Levaquin, Flagyl, and vancomycin.  She was
+aggressively hydrated.
+
+The Surgery Service was emergently consulted to see if she
+might benefit from drainage of the abscess.  The surgical consult
+team felt the patient was not a surgical consult secondary to
+hemodynamic instability and severe coagulopathy. It was thought
+that she might benefit from percutaneous drainage of her liver
+abscess should she stabilize clinically to the point where
+she would tolerate and Interventional Radiology procedure.
+
+The patient continued to decompensate despite aggressive
+treatment of her sepsis including aggressive fluid
+resuscitation and pressors.
+
+2.  DISSEMINATED INTRAVASCULAR COAGULATION ISSUES:  The
+patient was admitted with complaints of hematuria.  She soon
+developed a septic picture with concern for disseminated
+intravascular coagulation.  Her blood was massively hemolyzed
+to the point where laboratory analysis was unable to be
+obtained.
+
+The patient also developed massive hemoptysis, and a computed
+tomography of the chest was concerning for massive pulmonary
+hemorrhage.  The patient was aggressively transfused with
+packed red blood cells, fresh frozen plasma, and
+cryoprecipitate to counter her disseminated intravascular
+coagulation.  Specimens continued to be sent in an attempt to
+obtain coagulations or fibrinogen.  An emergent Hematology
+Service consultation was obtained.  They concurred with
+aggressive transfusions.
+
+Despite aggressive care, the patient's hematocrit further
+dropped from 15 to 10.5; presumably due to her massive
+hemoptysis, hematuria, and hemolysis.  In addition, her
+abdomen became progressively distended raising concern for
+hemorrhage into the abdomen.
+
+3.  PULMONARY ISSUES:  The patient developed acute
+respiratory distress in the Emergency Department with
+hypoxia, necessitating intubation.  She subsequently
+developed massive hemoptysis.  A computed tomography of the
+chest showed pulmonary consolidations consistent with a
+pulmonary hemorrhage.
+
+Due to her hypoxemic respiratory failure and severe pulmonary
+hemorrhage presumed secondary to disseminated intravascular
+coagulation, the patient was maintained on mechanical
+ventilation. Despite adjustments of the ventilatory settings, and
+positive end-expiratory pressure, and increase of the FIO2 to
+100%, the patient continued to have transient hypoxia.  She
+continued to have massive hemoptysis despite aggressive
+suctioning.
+
+4.  URINARY TRACT INFECTION ISSUES:  The patient presented
+with hematuria.  A computerized axial tomography of the
+pelvis showed trabeculae and bladder wall thickening;
+consistent with cystitis.  Her urinalysis did show
+leukocytes.  There was concern for possible urosepsis which
+could have been contributing to her other problems.  She was
+maintained on Levaquin, Flagyl, and vancomycin for broad
+spectrum antibiotic coverage.
+
+5.  PULSELESS ELECTRICAL ACTIVITY ISSUES:  Following
+admission to the Medical Intensive Care Unit, the patient was
+aggressively treated with aggressive transfusions and fluid
+resuscitation.  She continued to decompensate clinically.
+She then went into a rhythm of pulseless electrical activity.
+
+A code was called, and the patient was treated per pulseless
+electrical activity protocol.  She briefly had return of a
+wide irregular rhythm and pulse, but was unable to
+sustain a blood pressure.  She subsequently went into
+pulseless electrical activity again.  She then went into
+aystole.  The patient was aggressively coded for
+greater than 45 minutes with no clinical response.
+
+Given the medical futility of further cardiopulmonary
+resuscitation, the code was ended at this point.  The
+patient's family members were aware and in agreement with
+cessation of cardiopulmonary resuscitation at this point.
+The patient's family agreed to a postmortem examination.
+
+
+
+
+
+                          [**First Name11 (Name Pattern1) **] [**Initials (NamePattern4) **] [**Last Name (NamePattern4) **], M.D.  [**MD Number 5338**]
+
+Dictated By:[**Last Name (NamePattern1) 5339**]
+
+MEDQUIST36
+
+D:  [**2876-1-24**]  19:23
+T:  [**2876-1-24**]  08:30
+JOB#:  [**Job Number 5340**]
+Signed electronically by: DR. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **]
+ on: [**First Name8 (NamePattern2) 122**] [**2876-2-13**] 4:54 PM
+(End of Report)
+
+
+",,
+24411,34029,,,2875-09-24 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2875-9-24**] 3:44 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 2496**]
+     Reason: sob
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      82 year old woman with 
+     REASON FOR THIS EXAMINATION:
+      sob
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Shortness of breath.
+     
+     FINDINGS:  Comparison is made to a prior study from [**2871-8-3**].
+     
+     There are surgical clips within the left neck.  Heart size and mediastinal
+     contours are within normal limits.  There is no evidence of pneumothorax.
+     There is diffuse air-space opacification (right greater than left).  The soft
+     tissues and osseous structures are unremarkable.
+     
+     IMPRESSION:
+     1.  Diffuse bilateral pulmonary parenchymaleft opacification (right greater
+     than left).  This finding is consistent with pulmonary edema, hemorrhage, or
+      pneumonia.
+     
+
+",,
+24411,34029,,,2875-09-24 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2875-9-24**] 4:15 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 2497**]
+     Reason: tube placement
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      82 year old woman with mi, intubated
+     REASON FOR THIS EXAMINATION:
+      tube placement
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Shortness of breath.
+     
+     FINDINGS: Comparison is made to a prior study from [**2871-8-3**].
+     
+     There is an endotracheal tube in position with its distal tip 3 cm above the
+     carina.  There is a T-tube that pass beneath the diaphragm.  The distal tip of
+     this NG tube is not visualized.  There is a right IJ central venous line with
+     its distal tip at the SVC/right atrial junction.  There are surgical staples
+     within the left neck associated with prior thyroid surgery.  The mediastinal
+     contours are within normal limits.  There is  airspace pulmonary parenchymal
+     opacity within both lungs, right greater than left.  No evidence of
+     pneumothorax or pleural effusion. The soft tissues and osseous structures are
+     unremarkable. There is linear air present within the liver.
+     
+     IMPRESSION:  Lines and tubes in satisfactory position with diffuse bilateral
+     pulmonary parenchymal opacification  consistent with pulmonary
+     edema, hemorrage, aspiration, or pneumonia.
+
+",,
+24411,34029,,,2875-09-24 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2875-9-24**] 6:15 AM
+     CT CHEST W/O CONTRAST                                           Clip # [**Clip Number (Radiology) 2499**]
+     Reason: 82f S/P l ij AND ETT; BLEEDING FROM ETT                     
+     Field of view: 36
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      82 year old woman with                                                          
+     REASON FOR THIS EXAMINATION:
+      82f S/P l ij AND ETT; BLEEDING FROM ETT                                         
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  82 year old female with bleeding from an endotracheal tube.
+     Evaluate for mediastinal or airway trauma.
+     
+     TECHNIQUE:  CT imaging of the chest performed without IV contrast.  Comparison
+     is made to a prior CT of the abdomen and pelvis performed the same day.
+     
+     CT OF THE CHEST WITHOUT CONTRAST: There are endotracheal tubes and nasogastric
+     tubes in place.  There is no evidence of mediastinal hematoma.  The thoracic
+     aorta is of normal caliber throughout.  There are multiple prominent
+     mediastinal lymph nodes which are borderline in size.  No evidence of
+     pneumothorax or pleural effusion.  There is marked pulmonary parenchymal
+     consolidation within the dependent portion of both lungs.  There is no
+     evidence of pericardial effusion or pneumothorax.
+     
+     Within the visualized portion of the upper abdomen, there is a large abscess
+     within segment 6 of the liver.  There is air present likely within the portal
+     venous system of the right lobe of the liver.  The gallbladder is not clearly
+     identified.  The spleen and pancreas are unremarkable.  There is a simple cyst
+     within the left kidney.  Both kidneys enhance and excrete contrast promptly
+     and symmetrically.  There is a contour abnormality of the right kidney likely
+     reflecting old inflammatory change.  No evidence of free air or free fluid
+     within the visualized portions of the upper abdomen.
+     
+     There is interstitial septal thickening consistent with pulmonary edema.
+     
+     IMPRESSION:
+     
+     1.  Marked pulmonary parenchymal consolidation within both lungs consistent
+     with aspiration pneumonia or hemorrhage.  There is evidence of septal
+     thickening which suggest the presence of failure.
+     
+     2.  Large abscess within the right lobe of the liver as described above. There
+     is also  portal venous gas within the right lobe of the liver.
+     
+
+",,
+24411,34029,,,2875-09-24 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2875-9-24**] 4:41 AM
+     CT ABD W&W/O C; CT PELVIS W&W/O C                               Clip # [**Clip Number (Radiology) 2498**]
+     CT RECONSTRUCTION; CT 150CC NONIONIC CONTRAST
+     Reason: 82F with abd pain, hematuria; r/o perf, free fluid and eval 
+     Field of view: 38 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      82 year old woman with                                                          
+     REASON FOR THIS EXAMINATION:
+      82F with abd pain, hematuria; r/o perf, free fluid and eval aorta               
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT  (REVISED)
+     
+     INDICATION:  82 y/o female with abdominal pain and hematuria. Evaluate for
+     perforation, free fluid, and evaluate abdominal aorta.
+     
+     TECHNIQUE:  CT imaging of abdomen and pelvis performed before and after the IV
+     administration of 100 cc Optiray. Nonionic contrast used secondary to
+     patient's debility. No comparison studies on PACS.
+     
+     CT ABDOMEN WITH AND W/O CONTRAST:  There is extensive consolidation within
+     both lung bases with primary parenchymal opacity and air bronchograms in both
+     loewr lobes.  There is a 5.0 x 4.0 cm abscess in segment 6 of the liver. The
+     liver is otherwise normal in contour and attenuation.  The portal and hepatic
+     veins are patent.  There is probable portal venous gas which is transiently
+     present.  No gallbladder is identified.  No evidence of intra or extrahepatic
+     biliary ductal dilatation.  There is atrophic pancreas with no pancreatic mass
+     identified. The spleen and adrenal glands are unremarkable. There is an NG
+     tube with distal tip within the distal stomach.  The abdominal aorta is of
+     normal caliber throughout. The proximal SMA is patent.  There is a small
+     caliber celiac axis which is patent. There is a separate common hepatic artery
+     originating from the aorta which is patent. There is no free air or free fluid
+     within the abdomen or pelvis. There is no abnormal dilatation or wall
+     thickening within small bowel. There is questionable thickening of the colon
+     at the splenic flexure.  The kidneys enhance and excrete contrast promptly and
+     symmetrically with no evidence of hydronephrosis or renal mass. There is a
+     contour abnormality of the right kidney likely related to old inflmmatory
+     change. There is a simple cyst within the mid pole of the left kidney.
+     
+     CT PELVIS WITH CONTRAST:  There is an irregular surface with evidence of
+     trabeculation within the wall of the urinary bladder. No evidence of bladder
+     leak.  The patient's atrophic postmenopausal uterus is unremarkable. There is
+     no evidence of adnexal mass.  The rectum is within normal limits.  The
+     appendix is nondilated and filled with air.  There is no evidence of
+     inflammatory change within the right lower quadrant of the abdomen.
+     
+     BONE WINDOWS show no evidence of suspicious lytic or sclerotic lesions.
+     
+     CT RECONSTRUCTIONS were reformatted in the coronal plane and essential in
+     evaluating the urinary bladder as well as large and small bowel and
+     demonstrates no evidence of obstruction.
+     
+                                                                 (Over)
+
+     DATE: [**2875-9-24**] 4:41 AM
+     CT ABD W&W/O C; CT PELVIS W&W/O C                               Clip # [**Clip Number (Radiology) 2498**]
+     CT RECONSTRUCTION; CT 150CC NONIONIC CONTRAST
+     Reason: 82F with abd pain, hematuria; r/o perf, free fluid and eval 
+     Field of view: 38 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT  (REVISED)
+     (Cont)
+     IMPRESSION:
+     
+     1) 5.0 x 4.0 cm abscess within segment 6 of liver.
+     2) Portal venous air which was transiently present within a non dependent,
+     peripheral portion of the liver.  This likely reflects low flow mesenteric
+     ischemia as the SMA and [**Female First Name (un) **] are patent.  There is also questionably thickened
+     wall within a segment of colon at the splenic flexure.  
+     3) Marked pulmonary parenchymal consolidation within both lower lobes.
+     4) No evidence of free air, free fluid, ileus or obstruction.
+     5) Trabeculation and wall thickening in the urinary bladder consistent with
+     cystitis .
+
+",,
+24411,34029,,,2875-09-24 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2875-9-24**] 4:41 AM
+     CT ABD W&W/O C; CT PELVIS W&W/O C                               Clip # [**Clip Number (Radiology) 2498**]
+     CT RECONSTRUCTION; CT 150CC NONIONIC CONTRAST
+     Reason: 82F with abd pain, hematuria; r/o perf, free fluid and eval 
+     Field of view: 38 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      82 year old woman with                                                          
+     REASON FOR THIS EXAMINATION:
+      82F with abd pain, hematuria; r/o perf, free fluid and eval aorta               
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT  (REVISED)
+     
+     INDICATION:  82 y/o female with abdominal pain and hematuria. Evaluate for
+     perforation, free fluid, and evaluate abdominal aorta.
+     
+     TECHNIQUE:  CT imaging of abdomen and pelvis performed before and after the IV
+     administration of 100 cc Optiray. Nonionic contrast used secondary to
+     patient's debility. No comparison studies on PACS.
+     
+     CT ABDOMEN WITH AND W/O CONTRAST:  There is extensive consolidation within
+     both lung bases with primary parenchymal opacity and air bronchograms in both
+     loewr lobes.  There is a 5.0 x 4.0 cm abscess in segment 6 of the liver. The
+     liver is otherwise normal in contour and attenuation.  The portal and hepatic
+     veins are patent.  There is probable portal venous gas which is transiently
+     present.  No gallbladder is identified.  No evidence of intra or extrahepatic
+     biliary ductal dilatation.  There is atrophic pancreas with no pancreatic mass
+     identified. The spleen and adrenal glands are unremarkable. There is an NG
+     tube with distal tip within the distal stomach.  The abdominal aorta is of
+     normal caliber throughout. The proximal SMA is patent.  There is a small
+     caliber celiac axis which is patent. There is a separate common hepatic artery
+     originating from the aorta which is patent. There is no free air or free fluid
+     within the abdomen or pelvis. There is no abnormal dilatation or wall
+     thickening within small bowel. There is questionable thickening of the colon
+     at the splenic flexure.  The kidneys enhance and excrete contrast promptly and
+     symmetrically with no evidence of hydronephrosis or renal mass. There is a
+     contour abnormality of the right kidney likely related to old inflmmatory
+     change. There is a simple cyst within the mid pole of the left kidney.
+     
+     CT PELVIS WITH CONTRAST:  There is an irregular surface with evidence of
+     trabeculation within the wall of the urinary bladder. No evidence of bladder
+     leak.  The patient's atrophic postmenopausal uterus is unremarkable. There is
+     no evidence of adnexal mass.  The rectum is within normal limits.  The
+     appendix is nondilated and filled with air.  There is no evidence of
+     inflammatory change within the right lower quadrant of the abdomen.
+     
+     BONE WINDOWS show no evidence of suspicious lytic or sclerotic lesions.
+     
+     CT RECONSTRUCTIONS were reformatted in the coronal plane and essential in
+     evaluating the urinary bladder as well as large and small bowel and
+     demonstrates no evidence of obstruction.
+     
+                                                                 (Over)
+
+     DATE: [**2875-9-24**] 4:41 AM
+     CT ABD W&W/O C; CT PELVIS W&W/O C                               Clip # [**Clip Number (Radiology) 2498**]
+     CT RECONSTRUCTION; CT 150CC NONIONIC CONTRAST
+     Reason: 82F with abd pain, hematuria; r/o perf, free fluid and eval 
+     Field of view: 38 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT  (REVISED)
+     (Cont)
+     IMPRESSION:
+     
+     1) 5.0 x 4.0 cm abscess within segment 6 of liver.
+     2) Portal venous air which was transiently present within a non dependent,
+     peripheral portion of the liver.  This likely reflects low flow mesenteric
+     ischemia as the SMA and [**Female First Name (un) **] are patent.  There is also questionably thickened
+     wall within a segment of colon at the splenic flexure.  
+     3) Marked pulmonary parenchymal consolidation within both lower lobes.
+     4) No evidence of free air, free fluid, ileus or obstruction.
+     5) Trabeculation and wall thickening in the urinary bladder consistent with
+     cystitis .
+
+",,
+24411,34029,,,2875-09-24 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2875-9-24**] 4:41 AM
+     CT ABD W&W/O C; CT PELVIS W&W/O C                               Clip # [**Clip Number (Radiology) 2498**]
+     CT RECONSTRUCTION; CT 150CC NONIONIC CONTRAST
+     Reason: 82F with abd pain, hematuria; r/o perf, free fluid and eval 
+     Field of view: 38 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      82 year old woman with                                                          
+     REASON FOR THIS EXAMINATION:
+      82F with abd pain, hematuria; r/o perf, free fluid and eval aorta               
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT  (REVISED)
+     
+     INDICATION:  82 y/o female with abdominal pain and hematuria. Evaluate for
+     perforation, free fluid, and evaluate abdominal aorta.
+     
+     TECHNIQUE:  CT imaging of abdomen and pelvis performed before and after the IV
+     administration of 100 cc Optiray. Nonionic contrast used secondary to
+     patient's debility. No comparison studies on PACS.
+     
+     CT ABDOMEN WITH AND W/O CONTRAST:  There is extensive consolidation within
+     both lung bases with primary parenchymal opacity and air bronchograms in both
+     loewr lobes.  There is a 5.0 x 4.0 cm abscess in segment 6 of the liver. The
+     liver is otherwise normal in contour and attenuation.  The portal and hepatic
+     veins are patent.  There is probable portal venous gas which is transiently
+     present.  No gallbladder is identified.  No evidence of intra or extrahepatic
+     biliary ductal dilatation.  There is atrophic pancreas with no pancreatic mass
+     identified. The spleen and adrenal glands are unremarkable. There is an NG
+     tube with distal tip within the distal stomach.  The abdominal aorta is of
+     normal caliber throughout. The proximal SMA is patent.  There is a small
+     caliber celiac axis which is patent. There is a separate common hepatic artery
+     originating from the aorta which is patent. There is no free air or free fluid
+     within the abdomen or pelvis. There is no abnormal dilatation or wall
+     thickening within small bowel. There is questionable thickening of the colon
+     at the splenic flexure.  The kidneys enhance and excrete contrast promptly and
+     symmetrically with no evidence of hydronephrosis or renal mass. There is a
+     contour abnormality of the right kidney likely related to old inflmmatory
+     change. There is a simple cyst within the mid pole of the left kidney.
+     
+     CT PELVIS WITH CONTRAST:  There is an irregular surface with evidence of
+     trabeculation within the wall of the urinary bladder. No evidence of bladder
+     leak.  The patient's atrophic postmenopausal uterus is unremarkable. There is
+     no evidence of adnexal mass.  The rectum is within normal limits.  The
+     appendix is nondilated and filled with air.  There is no evidence of
+     inflammatory change within the right lower quadrant of the abdomen.
+     
+     BONE WINDOWS show no evidence of suspicious lytic or sclerotic lesions.
+     
+     CT RECONSTRUCTIONS were reformatted in the coronal plane and essential in
+     evaluating the urinary bladder as well as large and small bowel and
+     demonstrates no evidence of obstruction.
+     
+                                                                 (Over)
+
+     DATE: [**2875-9-24**] 4:41 AM
+     CT ABD W&W/O C; CT PELVIS W&W/O C                               Clip # [**Clip Number (Radiology) 2498**]
+     CT RECONSTRUCTION; CT 150CC NONIONIC CONTRAST
+     Reason: 82F with abd pain, hematuria; r/o perf, free fluid and eval 
+     Field of view: 38 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT  (REVISED)
+     (Cont)
+     IMPRESSION:
+     
+     1) 5.0 x 4.0 cm abscess within segment 6 of liver.
+     2) Portal venous air which was transiently present within a non dependent,
+     peripheral portion of the liver.  This likely reflects low flow mesenteric
+     ischemia as the SMA and [**Female First Name (un) **] are patent.  There is also questionably thickened
+     wall within a segment of colon at the splenic flexure.  
+     3) Marked pulmonary parenchymal consolidation within both lower lobes.
+     4) No evidence of free air, free fluid, ileus or obstruction.
+     5) Trabeculation and wall thickening in the urinary bladder consistent with
+     cystitis .
+
+",,
+24411,34029,,,2875-09-24 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2875-9-24**] 4:41 AM
+     CT ABD W&W/O C; CT PELVIS W&W/O C                               Clip # [**Clip Number (Radiology) 2498**]
+     CT RECONSTRUCTION; CT 150CC NONIONIC CONTRAST
+     Reason: 82F with abd pain, hematuria; r/o perf, free fluid and eval 
+     Field of view: 38 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      82 year old woman with                                                          
+     REASON FOR THIS EXAMINATION:
+      82F with abd pain, hematuria; r/o perf, free fluid and eval aorta               
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT  (REVISED)
+     
+     INDICATION:  82 y/o female with abdominal pain and hematuria. Evaluate for
+     perforation, free fluid, and evaluate abdominal aorta.
+     
+     TECHNIQUE:  CT imaging of abdomen and pelvis performed before and after the IV
+     administration of 100 cc Optiray. Nonionic contrast used secondary to
+     patient's debility. No comparison studies on PACS.
+     
+     CT ABDOMEN WITH AND W/O CONTRAST:  There is extensive consolidation within
+     both lung bases with primary parenchymal opacity and air bronchograms in both
+     loewr lobes.  There is a 5.0 x 4.0 cm abscess in segment 6 of the liver. The
+     liver is otherwise normal in contour and attenuation.  The portal and hepatic
+     veins are patent.  There is probable portal venous gas which is transiently
+     present.  No gallbladder is identified.  No evidence of intra or extrahepatic
+     biliary ductal dilatation.  There is atrophic pancreas with no pancreatic mass
+     identified. The spleen and adrenal glands are unremarkable. There is an NG
+     tube with distal tip within the distal stomach.  The abdominal aorta is of
+     normal caliber throughout. The proximal SMA is patent.  There is a small
+     caliber celiac axis which is patent. There is a separate common hepatic artery
+     originating from the aorta which is patent. There is no free air or free fluid
+     within the abdomen or pelvis. There is no abnormal dilatation or wall
+     thickening within small bowel. There is questionable thickening of the colon
+     at the splenic flexure.  The kidneys enhance and excrete contrast promptly and
+     symmetrically with no evidence of hydronephrosis or renal mass. There is a
+     contour abnormality of the right kidney likely related to old inflmmatory
+     change. There is a simple cyst within the mid pole of the left kidney.
+     
+     CT PELVIS WITH CONTRAST:  There is an irregular surface with evidence of
+     trabeculation within the wall of the urinary bladder. No evidence of bladder
+     leak.  The patient's atrophic postmenopausal uterus is unremarkable. There is
+     no evidence of adnexal mass.  The rectum is within normal limits.  The
+     appendix is nondilated and filled with air.  There is no evidence of
+     inflammatory change within the right lower quadrant of the abdomen.
+     
+     BONE WINDOWS show no evidence of suspicious lytic or sclerotic lesions.
+     
+     CT RECONSTRUCTIONS were reformatted in the coronal plane and essential in
+     evaluating the urinary bladder as well as large and small bowel and
+     demonstrates no evidence of obstruction.
+     
+                                                                 (Over)
+
+     DATE: [**2875-9-24**] 4:41 AM
+     CT ABD W&W/O C; CT PELVIS W&W/O C                               Clip # [**Clip Number (Radiology) 2498**]
+     CT RECONSTRUCTION; CT 150CC NONIONIC CONTRAST
+     Reason: 82F with abd pain, hematuria; r/o perf, free fluid and eval 
+     Field of view: 38 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT  (REVISED)
+     (Cont)
+     IMPRESSION:
+     
+     1) 5.0 x 4.0 cm abscess within segment 6 of liver.
+     2) Portal venous air which was transiently present within a non dependent,
+     peripheral portion of the liver.  This likely reflects low flow mesenteric
+     ischemia as the SMA and [**Female First Name (un) **] are patent.  There is also questionably thickened
+     wall within a segment of colon at the splenic flexure.  
+     3) Marked pulmonary parenchymal consolidation within both lower lobes.
+     4) No evidence of free air, free fluid, ileus or obstruction.
+     5) Trabeculation and wall thickening in the urinary bladder consistent with
+     cystitis .
+
+",,
+24411,34029,,,2875-09-24 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+",,
+24411,,30305,0,2875-09-24 06:49:00 EST,2875-09-24 07:02:00 EST,2651,"N",69,"Nursing/Other","Nursing Admission note 1900-0700.","
+Nursing Admission note 1900-0700.
+Pt admitted to MICU A from ED. Pt had begun experiencing abd and flank pain last noc. upon arrival, pt had large amt frank blood out foley. began desaturating and required intubation. shortly after, pt had large amt of BR frothy blood out ETT. HG dropped from 15 to 10, difficult to obtain other labs d/t hemolyzed blood. ?DIC. ABd ct showed large Liver abcess. before transfer to MICU, VBG- 6.87/53/59/11/-26. temp 94.1, bear hugger utilized. Upon arrival to MICU, pt unresponsive to any stimuli. BP stable at 140-150/80's, but continued to bleed profusely from ETT, enough to clog vent tubes. Also continued with very blood urine. Abd distended. Transfused with 2units RBC in ED and additional 2units in MICU. family present, spoke with nursing and team re: pt's status and ?outcome. presently at bedside with pt. Continuing full code measures d/t families request.  
+",,
+24411,,30305,0,2875-09-24 09:38:00 EST,2875-09-24 10:19:00 EST,2387,"N",69,"Nursing/Other",,"
+
+NPN 7am-10:14am
+
+See carevue and CPR record for all objective data.
+ 
+Pt received critically ill.  frothy blood pouring out of ETT requiring constant sxning from RT.  O2 sats difficult to read.  BP and HR stable during this initial period.  Pt transfused a total of 3 units FFP.  1 unit PRBCs started but stopped after ~25cc given.  Team in lab evaluating smears.  Most labwork sent analyze came back grossly hemolyzed and unable to process. ? DIC. Pt given vanco, calcium and bicarb. Team @ bedside c multiple unsuccessful attempts @ an aline.  Pt on fentanyl gtt @ 25mc/kg/min and versed gtt @ 2mg/hr.  Pt's pupils pinpoint and non reactive.  no movement noted at all from pt throughout morning. Frank blood @ foley site.  Team spoke c family members prior to pt becoming asysstolic and pt's family wished for everything to be done.  Pt became asystolic @ 9:25am.  Team @ bedside.  CPR initiated and agressive life sustaining treatment given..  See cpr flowsheet for all objective data.  ABG during cardiac arrest 6.91/71/27.  Dr. [**Last Name (STitle) 3623**] @ bedside throughout cardiac arrest. Family updated on progression of pt status throughout event.  CPR stopped @ 10:14 am.  Pt expired.  Pt's belongings given to family members.  Earrings on pt, per family request left on ears.
+",,

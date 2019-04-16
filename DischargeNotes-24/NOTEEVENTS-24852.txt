@@ -1,0 +1,1065 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+24852,26766,,,2704-05-17 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+ 
+ 
+ 
+Admission Date:  [**2704-5-17**]              Discharge Date:   [**2704-5-20**]
+ 
+Date of Birth:  [**2616-2-18**]             Sex:   M
+ 
+Service: SURGERY
+ 
+Allergies: 
+Patient recorded as having No Known Allergies to Drugs
+ 
+Attending:[**First Name3 (LF) 271**] 
+Chief Complaint:
+Abdominal pain
+ 
+Major Surgical or Invasive Procedure:
+Percutaneous cholecystostomy
+Exploratory laparotomy, cholecystectomy, hemodialysis catheter 
+placement
+ 
+History of Present Illness:
+Mr. [**Known patient lastname 6171**] was an 88 year old man who presented to [**Hospital1 25**] [**Location (un) 439**] 
+with 2 days of right sided abdominal pain.  He was transferred 
+to [**Hospital1 25**] [**Location (un) 695**] for testing and evaluation of this pain, which 
+he decribed as sharp and constant in the right upper and lower 
+quadrants.  He denied stool changes, nausea, and vomiting.
+ 
+Past Medical History:
+- s/p MI in [**2673**] Tx medically  
+- DM - glucotrol and diet control 120-200s at home  
+- HTN  
+- CAD  
+- dyslipidemia  
+- s/p R CEA in [**2697**] (by Dr. [**Last Name (STitle) 739**])-patient says he was  
+asymptomatic, but notes indicate prior TIA  
+- CRI 2.9; [**2702-1-26**] ARF/CRI with Cr to 5.4 -> 2.2 with IVFs; Dr. 
+[**Last Name (STitle) 6172**] - nephrologist following, unclear etiology.  
+- hyperPTH - most likely [**1-29**] to CRI/ARF,  
+- anemia, ? GI bleed with full ASA. Pt also started on Epo while 
+as inpatient during his admission in July.  
+- MM, per patient, followed by Dr. [**Last Name (STitle) 6173**], his heme/onc Md [**First Name8 (NamePattern2) **] [**Location (un) 6174**].  
+
+ 
+Social History:
+Former smoker-quit 1977, 4 cigarettes per day x 40 years. 1 
+scotch per day. NO IVDU or recreational drugs.
+ 
+Family History:
+No hx of MI, CAD, CVA, DM, HTN  
+
+ 
+Physical Exam:
+T 100.6/98.9 P 75, BP 138/61, RR 26, Sat 97 on 4L NC
+Decreased breath sounds at the bases bilaterally
+Heart rate regular
+Abdomen mildly distended and tympanitic.  Right upper and lower 
+quadrant tenderness to mild palpation with guarding.  
+Rectal exam with normal tone, brown, trace heme-positive stool.
+ 
+Pertinent Results:
+[**5-17**] RUQ U/S: Findings most consistent with acute cholecystitis, 
+as discussed with General Surgery houseofficer, and posted to 
+the ED dashboard, at the time of dictation
+
+[**5-17**] CT Abdomen/Pelvis: 1. Inflammatory process involving the 
+right upper abdomen as described, which appears more likely 
+centered on a distended gallbladder with sludge and stones, 
+rather than on the ascending colonic diverticula, though there 
+is a spastic-appearing colonic segment in the vicinity.
+2. Evidence of chronic pancreatitis with calcifications and 
+atrophy.
+3. No evidence of inflammatory process in the right lower 
+abdomen.
+4. Extensive vascular calcification with no aneurysms seen.
+5. Small-moderate right pleural effusion with basilar 
+atelectasis.
+
+[**5-19**] Cholecystostomy: Successful ultrasound-guided percutaneous 
+cholecystostomy tube placement. 200 cc of bilious fluid was 
+aspirated, a portion which was sent for microbiology.
+
+[**5-20**] RUQ U/S: Large biloma in gallbladder fossa with 
+decompressed gallbladder with thickened, ruptured wall. Findings 
+including possible percutaneous drainage of the biloma were 
+discussed with Dr. [**Last Name (STitle) **] by Dr. [**Last Name (STitle) **] at completion of 
+examination
+
+[**5-20**]: CT Abdomen/Pelvis: 1.Compared to prior CT from [**2704-5-17**], 
+there is increased eccentric fluid collection adjacent to the 
+anterolateral aspect of the gallbladder fundus with marked 
+pericholeycstic stranding, concerning for rupture. In addition, 
+since the prior exam, the patient has developed increased 
+peripancreatic stranding, which may be related to the 
+gallbladder, however, an acute pancreatitis cannot be entirely 
+excluded. No pancreatic ductal dilatation or stone within the 
+duct is identified. Recommend correlation with pancreatic 
+enzymes.
+2. Bilateral ground-glass opacity and pleural effusion with an 
+area of consolidation within the right lung base. 
+
+ 
+Brief Hospital Course:
+Mr. [**Known patient lastname 6171**] was admitted to [**Hospital1 25**] under the care of Dr. [**Last Name (STitle) **] 
+and cared for in the Trauma SICU.  He and his wife initially 
+declined surgery and cholecystostomy tube; he ultimately did 
+receive cholecystostomy tube once his status declined.   This 
+was performed on HD3.  He became anuric with an elevated lactate 
+after placement of this drain, receiving 8 L of IV fluids, and 
+forming only 500 cc of urine despite lasix.  His blood pressure 
+dropped, and he required increasing amounts of Levophed.  He was 
+then intubated for increased work of breathing.  On HD4, Mr. 
+[**Known patient lastname 6171**] was brought ot the operating room by Dr. [**Last Name (STitle) **] for an 
+exploratory laparotomy, cholecystectomy, and hemodialysis line 
+placement.  Details of this procedure may be found in his 
+operative note.  Postoperatively, he became hypotensive and 
+developed pulseless electrical activity.  After 60 minutes of 
+resuscitation, he recovered a perfusing rhythm.  The patient's 
+family was notified, and the decision was made to change his 
+code status to DNR.  At 1802, his code status was changed to 
+CMO, and he soon expired after pharmacologic supports were 
+withdrawn.
+ 
+Medications on Admission:
+Lasix, lipitor, toprol, plavix, gl;ipizide, isosorbide
+ 
+Discharge Medications:
+None
+ 
+Discharge Disposition:
+Expired
+ 
+Discharge Diagnosis:
+Acute cholecystitis
+ 
+Discharge Condition:
+Deceased
+ 
+Discharge Instructions:
+None
+ 
+Followup Instructions:
+None
+ 
+                             [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern1) 274**] MD [**MD Number 275**]
+ 
+Completed by: [**First Name4 (NamePattern1) 358**] [**Last Name (NamePattern1) 6175**] MD [**MD Number 6176**] [**2704-7-7**] @ 1650
+Signed electronically by: DR. [**First Name (STitle) **] [**Doctor Last Name **]
+ on: [**Doctor First Name 122**] [**2704-7-7**] 9:28 PM
+(End of Report)
+
+
+",,
+24852,26766,,,2704-05-17 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2704-5-17**] 8:50 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 6702**]
+     Reason: eval for pulmonary edema                                    
+     Admitting Diagnosis: CHOLECYSTITIS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      88 year old man with acute cholecystitis                                        
+     REASON FOR THIS EXAMINATION:
+      eval for pulmonary edema                                                        
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Rule out pulmonary edema.  Current acute cholecystitis.
+     
+     COMPARISON:  Last available chest radiograph from [**2702-12-5**] had shown
+     small bibasilar pleural effusions.
+     
+     TECHNIQUE AND FINDINGS:  A portable frontal chest radiograph was obtained in
+     semi-upright position.
+     
+     Low lung volumes, with subsequent widening of the cardiomediastinal
+     silhouette.  Aortic calcifications and bibasilar pleural effusion are again
+     noted.  Subsegmental atelectasis is suspected in the retrocardiac region,
+     however without silhouetting adjacent to the hemidiaphragm.  No major
+     pulmonary edema is seen in these conditions.  Residual contrast material is
+     seen in the greater tuberosity of the stomach.
+     
+     CONCLUSION:  Technically limited study given low lung volumes.  No obvious,
+     major pulmonary edema detected in these conditions.
+
+",,
+24852,26766,,,2704-05-17 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2704-5-17**] 10:01 AM
+     CT ABDOMEN W/O CONTRAST; CT PELVIS W/O CONTRAST                 Clip # [**Clip Number (Radiology) 6699**]
+     Reason: appy?  diverticulitis?                                      
+     Field of view: 36
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      88 year old man with rsided abd pain x 3 days, firm abd.  po prepped at [**Location (un) **] 
+     REASON FOR THIS EXAMINATION:
+      appy?  diverticulitis?                                                          
+     CONTRAINDICATIONS for IV CONTRAST:
+      cri
+     ______________________________________________________________________________
+     WET READ: DRT TUE [**2704-5-17**] 11:05 AM
+      Inflamm process R upper abd, srrdg GB and likely reprstg cholecystitis w/mod
+      distended GB w/small stones/sludge. No signif perichol fluid; mural edema diff
+      to eval (I- scan).
+      
+      Numerous 'tics, and there is adjct ""spastic"" segmt R colon (w/'tics), so R-
+      sided diverticulitis is another, less likely consideration.
+      
+      (d/w Genl [**Hospital Unit Name **] consult.)
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CT ABDOMEN AND PELVIS WITHOUT CONTRAST DATED [**2704-5-17**]:
+     
+     HISTORY:  88-year-old man with right-sided abdominal pain x 3 days and firm
+     abdomen; ? diverticulitis.
+     
+     TECHNIQUE:  Routine [**Hospital1 550**] unenhanced CT of the abdomen and pelvis with
+     multidetector helical 5-mm axial sections from the lung bases through the
+     pubic symphysis following oral contrast administration and coronal and
+     sagittal reformations.  Note that, apparently, the oral contrast preparation
+     was initiated at the [**Location (un) 6700**] Campus, and that the contrast column only
+     reaches the mid-small bowel.
+     
+     FINDINGS:  There are numerous diverticula throughout the large bowel,
+     including the hepatic flexure and ascending colon.  In this region, there is
+     an apparent ""spastic"" segment of ascending colon, containing numerous
+     diverticula, with immediately adjacent fat-stranding (2:27-44).  However,
+     there is no single ""culprit"" diverticulum and the inflammatory fat-stranding
+     extends cephalad to surround the distended gallbladder, on both sides.  The
+     gallbladder measures up to 11.9 cm, longitudinally, and contains layering
+     sludge and numerous small calculi.  There is no appreciable gallbladder mural
+     thickening and only an apparent thin sliver of pericholecystic fluid, though
+     evaluation of these findings is limited on this non-enhanced examination.
+     There is no definite intra- or extra-hepatic biliary ductal dilatation, and
+     the pancreas is notable for numerous parenchymal calcifications and some fatty
+     atrophy, without ductal dilatation or discrete mass.  There is a small amount
+     of ascites, anterior to the liver, which is otherwise unremarkable in
+     appearance. The spleen is normal in caliber and contour.  There is no evidence
+     of inflammatory process elsewhere in the abdomen, particularly in the right
+     lower abdomen, though the appendix is not definitely identified.
+     
+                                                                 (Over)
+
+     DATE: [**2704-5-17**] 10:01 AM
+     CT ABDOMEN W/O CONTRAST; CT PELVIS W/O CONTRAST                 Clip # [**Clip Number (Radiology) 6699**]
+     Reason: appy?  diverticulitis?                                      
+     Field of view: 36
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     The remainder of the examination is notable for extensive, confluent
+     atherosclerotic calcification and tortuosity of the abdominal aorta and its
+     branches, with no frank aneurysm.  Incidentally noted are extensive
+     degenerative changes involving the lumbosacral spine, as well as prostatic
+     calcifications.  There is a small-moderate right pleural effusion with
+     associated relaxation atelectasis, and a solitary punctate diaphragmatic
+     pleural calcification.  There is apparent left ventricular enlargement and
+     extensive coronary arterial calcification.
+     
+     IMPRESSION:
+     1.  Inflammatory process involving the right upper abdomen as described, which
+     appears more likely centered on a distended gallbladder with sludge and
+     stones, rather than on the ascending colonic diverticula, though there is a
+     spastic-appearing colonic segment in the vicinity.
+     2.  Evidence of chronic pancreatitis with calcifications and atrophy.
+     3.  No evidence of inflammatory process in the right lower abdomen.
+     4.  Extensive vascular calcification with no aneurysms seen.
+     5.  Small-moderate right pleural effusion with basilar atelectasis.
+     
+     COMMENT:  These findings were discussed with the General Surgery consult
+     resident, and posted to the ED dashboard.
+
+",,
+24852,26766,,,2704-05-17 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2704-5-17**] 10:01 AM
+     CT ABDOMEN W/O CONTRAST; CT PELVIS W/O CONTRAST                 Clip # [**Clip Number (Radiology) 6699**]
+     Reason: appy?  diverticulitis?                                      
+     Field of view: 36
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      88 year old man with rsided abd pain x 3 days, firm abd.  po prepped at [**Location (un) **] 
+     REASON FOR THIS EXAMINATION:
+      appy?  diverticulitis?                                                          
+     CONTRAINDICATIONS for IV CONTRAST:
+      cri
+     ______________________________________________________________________________
+     WET READ: DRT TUE [**2704-5-17**] 11:05 AM
+      Inflamm process R upper abd, srrdg GB and likely reprstg cholecystitis w/mod
+      distended GB w/small stones/sludge. No signif perichol fluid; mural edema diff
+      to eval (I- scan).
+      
+      Numerous 'tics, and there is adjct ""spastic"" segmt R colon (w/'tics), so R-
+      sided diverticulitis is another, less likely consideration.
+      
+      (d/w Genl [**Hospital Unit Name **] consult.)
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CT ABDOMEN AND PELVIS WITHOUT CONTRAST DATED [**2704-5-17**]:
+     
+     HISTORY:  88-year-old man with right-sided abdominal pain x 3 days and firm
+     abdomen; ? diverticulitis.
+     
+     TECHNIQUE:  Routine [**Hospital1 550**] unenhanced CT of the abdomen and pelvis with
+     multidetector helical 5-mm axial sections from the lung bases through the
+     pubic symphysis following oral contrast administration and coronal and
+     sagittal reformations.  Note that, apparently, the oral contrast preparation
+     was initiated at the [**Location (un) 6700**] Campus, and that the contrast column only
+     reaches the mid-small bowel.
+     
+     FINDINGS:  There are numerous diverticula throughout the large bowel,
+     including the hepatic flexure and ascending colon.  In this region, there is
+     an apparent ""spastic"" segment of ascending colon, containing numerous
+     diverticula, with immediately adjacent fat-stranding (2:27-44).  However,
+     there is no single ""culprit"" diverticulum and the inflammatory fat-stranding
+     extends cephalad to surround the distended gallbladder, on both sides.  The
+     gallbladder measures up to 11.9 cm, longitudinally, and contains layering
+     sludge and numerous small calculi.  There is no appreciable gallbladder mural
+     thickening and only an apparent thin sliver of pericholecystic fluid, though
+     evaluation of these findings is limited on this non-enhanced examination.
+     There is no definite intra- or extra-hepatic biliary ductal dilatation, and
+     the pancreas is notable for numerous parenchymal calcifications and some fatty
+     atrophy, without ductal dilatation or discrete mass.  There is a small amount
+     of ascites, anterior to the liver, which is otherwise unremarkable in
+     appearance. The spleen is normal in caliber and contour.  There is no evidence
+     of inflammatory process elsewhere in the abdomen, particularly in the right
+     lower abdomen, though the appendix is not definitely identified.
+     
+                                                                 (Over)
+
+     DATE: [**2704-5-17**] 10:01 AM
+     CT ABDOMEN W/O CONTRAST; CT PELVIS W/O CONTRAST                 Clip # [**Clip Number (Radiology) 6699**]
+     Reason: appy?  diverticulitis?                                      
+     Field of view: 36
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     The remainder of the examination is notable for extensive, confluent
+     atherosclerotic calcification and tortuosity of the abdominal aorta and its
+     branches, with no frank aneurysm.  Incidentally noted are extensive
+     degenerative changes involving the lumbosacral spine, as well as prostatic
+     calcifications.  There is a small-moderate right pleural effusion with
+     associated relaxation atelectasis, and a solitary punctate diaphragmatic
+     pleural calcification.  There is apparent left ventricular enlargement and
+     extensive coronary arterial calcification.
+     
+     IMPRESSION:
+     1.  Inflammatory process involving the right upper abdomen as described, which
+     appears more likely centered on a distended gallbladder with sludge and
+     stones, rather than on the ascending colonic diverticula, though there is a
+     spastic-appearing colonic segment in the vicinity.
+     2.  Evidence of chronic pancreatitis with calcifications and atrophy.
+     3.  No evidence of inflammatory process in the right lower abdomen.
+     4.  Extensive vascular calcification with no aneurysms seen.
+     5.  Small-moderate right pleural effusion with basilar atelectasis.
+     
+     COMMENT:  These findings were discussed with the General Surgery consult
+     resident, and posted to the ED dashboard.
+
+",,
+24852,26766,,,2704-05-17 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2704-5-17**] 11:13 AM
+     LIVER OR GALLBLADDER US (SINGLE ORGAN)                          Clip # [**Clip Number (Radiology) 6701**]
+     Reason: eval for cholecystitis                                      
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      88 year old man with RUQ abd pain enlarged GB                                   
+     REASON FOR THIS EXAMINATION:
+      eval for cholecystitis                                                          
+     ______________________________________________________________________________
+     WET READ: DRT TUE [**2704-5-17**] 12:15 PM
+      distended GB w/layering stones/sludge. min'l GB wall thickening (3.3mm) and no
+      definite pericholecyst fluid. (+) sono [**Doctor Last Name 104**]. most likely acute c'cystitis.
+      
+      (d/w Genl [**Hospital Unit Name **] consult HO)
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     ULTRASOUND OF THE RIGHT UPPER ABDOMEN DATED [**2704-5-17**]
+     
+     HISTORY:  88-year-old man with right upper quadrant abdominal pain and
+     enlarged gallbladder by CT.
+     
+     FINDINGS:  Realtime sonography of the right upper abdomen with Doppler
+     interrogation was performed in emergency radiology.  The study is compared
+     with the CT examination obtained some 75 minutes earlier.  As on that study,
+     the gallbladder is distended and contains abundant layering sludge with
+     shadowing gallstones.  There is apparent slight circumferential mural
+     thickening, measuring up to 3.3 mm at the fundus, with no definite
+     pericholecystic fluid.  There is reportedly a positive sonographic [**Doctor Last Name 104**]
+     sign (despite the patient's having received Morphine).  There is no
+     intrahepatic biliary ductal dilatation, and the common bile duct measures 3.9
+     mm in the porta hepatis.  No focal hepatic lesion or definite ascites is
+     identified. The main portal vein is normal in caliber and demonstrates normal
+     hepatopetal flow and phasic respiratory variation.
+     
+     IMPRESSION:  Findings most consistent with acute cholecystitis, as discussed
+     with General Surgery houseofficer, and posted to the ED dashboard, at the time
+     of dictation.
+
+",,
+24852,26766,30857,,2704-05-18 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2704-5-18**] 6:37 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 6703**]
+     Reason: interval eval                                               
+     Admitting Diagnosis: CHOLECYSTITIS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       88 year old man with acute cholecystitis                                       
+       
+     REASON FOR THIS EXAMINATION:
+      interval eval                                                                   
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Acute cholecystitis.  Respiratory distress.
+     
+     CHEST, ONE VIEW:  Comparison with [**2704-5-17**].  Low lung volumes.  Given
+     differences in technique, right pleural effusion probably unchanged. Bibasilar
+     atelectasis.  Cardiac, mediastinal, and hilar contours are unchanged.  Widened
+     mediastinum and prominent hila, similar in appearance to the previous exam.
+     
+     IMPRESSION:  No significant change.
+
+",,
+24852,26766,30857,0,2704-05-18 03:49:00 EST,2704-05-18 04:12:00 EST,8801,"N",74,"Nursing/Other","NPN 1900-0700","
+NPN 1900-0700
+PLEASE REFER TO CARVUE FOR SPECIFIC DATA
+
+88 y/o male (FULL CODE) with  extensive cardiac hx, CRI, NIDDM, etc admitted from [**Hospital1 **] [**Location (un) 37**] with x2 days of RLQ pain, low grade temps, abd distension, and hypoxia-O2 sats 88% RA/labored breathing. Diagnosed with cholycystitis following US and CT, ? early sepsis, tx TSICU. No plans for surgical intervention at this time per pt's wishes and due to pt being high risk. Drain to be placed sometime this week.
+
+NEURO: A/Ox3, follows all commands appropriately and MAE's well. PERRLA 3mm and briskly react. Pt reporting pain as a 5 at begining of shift and now down to a 1 following IV morphine and rest. 
+
+CV: HR 70's SR with occasional ectopy, ABP 100's-130's (NIBP with 20 pt cuff difference noted at times) systolic-currently receiving Isosoribide Dinitrite and Metoprolol, ? need to decrease Metoprolol at this time as BP drops significantly  with current dosage especially when receiving with IV Morphine. Pedal pulses weak but palpable, no JVD, +csm. Arterial line placed by HO [**Doctor Last Name 610**] this am,site WNL, fling noted at times. Hct stable.
+
+RESP: Remains on non-rebreather on 15 L, O2 sats 94-96%, Humidified face mask attempted earlier in evening and sats dropped down to 90-93%. ABG revealing PaO2 56-? accuracy as spec.may have been partially venous. repeat ABG (post A-line insertion) showing adequate oxygenation. wet CXR. LS gradually improving-R side now clear and dim at base, LUL clear and crackles present at base, breathing less labored except during turns pt becoming dyspneic upon exertion (baseline at home as well). No cough present.
+
+GI: Abd firmly distended, BS hypo, pt reports no flatus. Remains NPO except sips with meds. 
+
+GU: Foley patent-flushed with 40cc of sterile water with immediate 40cc return. Poor U/O throughout night, pt given 40mg Lasix and failed to produce any urine during that hour. HO aware and spoke with Dr. [**Last Name (STitle) 191**] regarding issue. (4) 250cc LR boluses given over 4 hrs with no real improvment. U/O 5-20cc/hr, clear amber colored urine. BUN/Creat still elevated, however are pt's baseline per HO. Albumin remains low. No lyte repletion ordered.
+
+ENDO: Blood sugars labile, insulin gtt started with frequent titration required. Sugars have been 64-352 throughout night. NIDDM controlled with Glipizde at home (not currently ordered at this time).
+
+ID: Afebrile, WBC elevated but trending down slightly to 20 this am. Receiving Flagyl and Levo.
+
+SOCIAL: Pt's niece and wife into visit this evening and spoke with [**Name6 (MD) **] and RN regarding pOC and pt's status. Unclear as to if wife truly understands POC-any issues or concerns regarding pt should most likely be addressed with pt's son-[**Male First Name (un) 1530**] who is HCP.
+
+SKIN: Skin intact, buttocks slightly reddened but no skin breakdown visible-barrier cream applied. (2) PIVs intact.
+
+POC: ? drain placement
+     Monitor u/o-? continue diuresis
+     [**Last Name (un) **] consult-moniotor blood glucose closely
+     adjust BP meds
+     update/support family
+     
+",,
+24852,26766,30857,0,2704-05-18 14:26:00 EST,2704-05-18 14:45:00 EST,8748,"N",74,"Nursing/Other","Nursing Progress Note","
+Nursing Progress Note
+No Sig Events
+
+Neuro: Pt A+Ox3. Following all commands. Speech and conversation appropriate. MAE, normal strength. PERRLA, 3mm, brisk. Pt c/o mild abd pain in RUQ, but denies pain meds at this time. Pt OOB to chair x1 assist x4hrs this shift. 
+
+CV: NSR, rare PVC's, HR 70-80's. SBP 100-130's. Metoprolol dose decreased to 2.5 mg IV q6hrs. +PP. 
+
+Resp: Pt sv on 70% FIO2 FT, tolerating slow wean of O2 requirement. Sats >93%. RR 20-25. LSCTAB, dim in bilat bases. +DOE, per pt this is baseline at home. AM CXR improved from yesterday. Pt encouraged to cough and deep breathe. 
+
+GI: Abd firmly distended, tender to palpation in RUQ. BS absent. -flatus. Pt cont to be NPO. No n/v. 
+
+GU: Foley draining 15-30ml amber urine/hr. 1L LR bolus given over 4 hrs for low UOP with marginal effect. 
+
+Endo: Insulin gtt stopped this am. Pt now on SS, no coverage required. 
+
+ID: Afebrile. Pt cont on flagyl and levo. 
+
+Skin: No apparent issues. 
+
+Social: Spoke with son and wife on the phone several times today regarding pt's status and POC. Wife required continual reminding, ?memory loss.
+
+Plan: Cont pain control. Monitor abd distention/pain. Closely monitor UOP, ?additional bolus. Cont to wean O2 as tol. Await drain placement in IR [**5-20**]. 
+",,
+24852,26766,30857,,2704-05-19 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2704-5-19**] 1:56 PM
+     GB DRAINAGE,INTRO PERC TRANHEP BIL US; GUIDANCE PERC TRANS BIL DRAINAGE USClip # [**Telephone/Fax (1) 6705**]
+     Reason: CHOLECYSTITIS, DRAINAGE PERCUTANEOUSLY
+     Admitting Diagnosis: CHOLECYSTITIS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      88 year old man with ccy (declined surgery)                                     
+     REASON FOR THIS EXAMINATION:
+      drainage percutaneously                                                         
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     EXAMINATION:  Ultrasound-guided percutaneous cholecystostomy placement dated
+     [**2704-5-19**].
+     
+     COMPARISON:  Abdominal ultrasound, [**2704-5-17**].
+     
+     INDICATION:  88-year-old male with acute cholecystitis who declined surgery.
+     
+     PROCEDURE:  The procedure was explained to the patient along with risks and
+     benefits, and written informed consent was obtained.  Specifically, the risk
+     of hemorrhage was discussed with the patient, given his history taking aspirin
+     and Plavix which were stopped three days ago.  In addition, the patient was
+     transfused with six packs of platelets one-and-half hours before the
+     procedure.  A pre-procedural timeout was performed to confirm the patient's
+     identity, site of procedure, and type of procedure using two patient
+     identifiers.  Ultrasonography was used to mark an appropriate spot to
+     percutaneously access the gallbladder transhepatically.  The patient's skin
+     was marked and prepped and draped in the usual sterile fashion.  Approximately
+     15 cc of buffered lidocaine was used to provide local anesthesia.  Then, under
+     ultrasound guidance, an 8 French pigtail catheter was advanced
+     transhepatically into the gallbladder.  Position was confirmed, and the
+     catheter was advanced.  The pigtail was formed.  Approximately 200 cc of
+     bilious fluid was aspirated.  The catheter was connected to a drainage bag.
+     During the procedure, the IV team provided conscious sedation.  The patient
+     tolerated the procedure well and there were no immediate post-procedure
+     complications.
+     
+     Dr. [**First Name (STitle) 651**], attending radiologist, was present throughout the entire procedure
+     and supervised the procedure.
+     
+     IMPRESSION:  Successful ultrasound-guided percutaneous cholecystostomy tube
+     placement.  200 cc of bilious fluid was aspirated, a portion which was sent
+     for microbiology.
+
+",,
+24852,26766,30857,,2704-05-19 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2704-5-19**] 3:31 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 6704**]
+     Reason: any reason for inc o2 requirement                           
+     Admitting Diagnosis: CHOLECYSTITIS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        88 year old man with acute cholecystitis with decreasing bp, inc. o2 req.     
+                                     
+     REASON FOR THIS EXAMINATION:
+      any reason for inc o2 requirement                                               
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     REASON FOR EXAMINATION:  Increased oxygen requirement.
+     
+     Portable AP chest radiograph compared to [**2704-5-18**].
+     
+     The lung volumes are significantly low.  The cardiomediastinal silhouette is
+     unchanged.  There is improvement in the right perihilar and lower lobe _____
+     as well as slight decrease in left perihilar haziness, might be due to
+     resolution of pulmonary edema.  Right pleural effusion did not change
+     significantly.
+                                                                           
+
+",,
+24852,26766,30857,,2704-05-19 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2704-5-19**] 1:56 PM
+     GB DRAINAGE,INTRO PERC TRANHEP BIL US; GUIDANCE PERC TRANS BIL DRAINAGE USClip # [**Telephone/Fax (1) 6705**]
+     Reason: CHOLECYSTITIS, DRAINAGE PERCUTANEOUSLY
+     Admitting Diagnosis: CHOLECYSTITIS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      88 year old man with ccy (declined surgery)                                     
+     REASON FOR THIS EXAMINATION:
+      drainage percutaneously                                                         
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     EXAMINATION:  Ultrasound-guided percutaneous cholecystostomy placement dated
+     [**2704-5-19**].
+     
+     COMPARISON:  Abdominal ultrasound, [**2704-5-17**].
+     
+     INDICATION:  88-year-old male with acute cholecystitis who declined surgery.
+     
+     PROCEDURE:  The procedure was explained to the patient along with risks and
+     benefits, and written informed consent was obtained.  Specifically, the risk
+     of hemorrhage was discussed with the patient, given his history taking aspirin
+     and Plavix which were stopped three days ago.  In addition, the patient was
+     transfused with six packs of platelets one-and-half hours before the
+     procedure.  A pre-procedural timeout was performed to confirm the patient's
+     identity, site of procedure, and type of procedure using two patient
+     identifiers.  Ultrasonography was used to mark an appropriate spot to
+     percutaneously access the gallbladder transhepatically.  The patient's skin
+     was marked and prepped and draped in the usual sterile fashion.  Approximately
+     15 cc of buffered lidocaine was used to provide local anesthesia.  Then, under
+     ultrasound guidance, an 8 French pigtail catheter was advanced
+     transhepatically into the gallbladder.  Position was confirmed, and the
+     catheter was advanced.  The pigtail was formed.  Approximately 200 cc of
+     bilious fluid was aspirated.  The catheter was connected to a drainage bag.
+     During the procedure, the IV team provided conscious sedation.  The patient
+     tolerated the procedure well and there were no immediate post-procedure
+     complications.
+     
+     Dr. [**First Name (STitle) 651**], attending radiologist, was present throughout the entire procedure
+     and supervised the procedure.
+     
+     IMPRESSION:  Successful ultrasound-guided percutaneous cholecystostomy tube
+     placement.  200 cc of bilious fluid was aspirated, a portion which was sent
+     for microbiology.
+
+",,
+24852,26766,30857,0,2704-05-19 04:14:00 EST,2704-05-19 04:30:00 EST,8772,"N",74,"Nursing/Other",,"
+
+T/SICU NURSING PROGRESS NOTE
+
+PLEASE SEE CAREVUE FOR EXACT DATA
+
+EVENTS: At 0300 pt noted for sats 85% on 70% face tent, tachycardic with HR 100-110's and hypotensive BP 70-80's by arteral line and NIBP, slightly diaphoretic. Lung sounds diminished at right side. Pt placed on 100%high flow. Dr [**Last Name (STitle) **] paged. CXR ordered, pleural effusion worsening on right side. 20MG lasix given with little effect. BP back to 100-120's and HR 90's. Sats then mid 90's. Blood glucose checked 58, Chem 7 confirmed 47. 1/4 amp D50 given. Glucose then 65, continuing to monitor.
+
+REVIEW OF SYSTEMS:
+
+NEURO-Pt A&Ox3, no neuro deficits. Pt calm and cooperative. At beginning of shift pt c/o 7/10pain to RUQ, Morphine 2mg given x2 with moderate effect. Morphine PCA started for better pain control at 1mg/6min/10mg lockout with good effect.
+
+CV-NSR 80's-100's  with occ. PVC's. SBP 100-120's by arterial line and NIBP. Maps 60's-70's. PIVx2 and right radial arterial line. 
+
+RESP-Lung sounds now clear on left slightly diminished on right side. Weak non-productive cough. Remains on 98% high flow. CXR with worsening effusion.
+
+GI-Pt NPO except meds. Abdomen tender to touch, soft and sightly distended. Hypoactive bowel sounds. 
+
+GU-INdwelling foley catheter with adequate UOP. Mag repleted.
+
+ID-Tmax 101, now afebrile. WBC's down to 16.8, continues on Flagyl and Levo. 
+
+ENDO-Episode as noted above. Pt has not required any insulin coverage throughout night.
+
+PLAN-Drain placement in IR on [**5-20**] (once Plavix clears)
+    -Monitor respiratory status, wean o2 as tolerated.
+    -Monitor for pain control
+    -Montior fluid balance
+
+
+",,
+24852,26766,30857,0,2704-05-19 17:04:00 EST,2704-05-19 17:16:00 EST,7797,"N",74,"Nursing/Other","T/SICU Nursing 07-19","
+T/SICU Nursing [**7-14**]
+Events: Percutaneous gall bladder drain placement @ bedside
+
+Neuro: Alert & oriented. No focal deficits. Pleasant and cooperative.
+
+Pain: Complains of [**2707-6-4**] right upper/lower quadrant rebound tenderness - uses morphine PCA prn with effective relief of pain - 0/10 at rest.
+
+Resp: Lungs coarse, equal bilaterally, very diminished at bases, crackles on auscultation at times. RR twenties, states non-labored, however oxygen demand remains 95% high flow mask. Initiated albuterol/atrovent nebulizers with effective relief of intermittent expiratory wheezes. SPO2 remains mid to low 90's, occasional desats to high 80's.
+
+CV: Sinus rhythm with progressive 1st degree AV block noted - EKG done, noted LBBB - given to Dr [**Last Name (STitle) 638**]. Became hypotensive through shift despite multiple fluid boluses - required start of levophed infusion during percuteneous drain insertion, unable to ween since; goal is MAP>60, SBP>100, remains on low dose 0.05mcg/kg/min.
+
+GI: Abdomen very distended, + rebound tenderness on RLQ. Perc drain inserted & pt stated nearly immediate improvement in distended feeling & stated it was easier to breathe. Bowel sounds hypoactive, no BM this shift, remains strictly NPO. Perc drain insertion site just noted to be bleeding, [**Doctor Last Name 638**] aware.
+
+GU: Foley to gravity with poor urine output. Gave 40mg lasix IV (pt takes lasix at home) without result. [**Doctor Last Name 638**] aware.
+
+Endo: RISS - hypoglycemic today, gave [**12-29**] amp D50 and maintenance IVF changed to D5LR.
+
+Skin: Intact. RUQ perc drain bleeding, transparent dressing in place.
+
+Social: Wife called three times today for updates, plans to visit with son tomorrow.
+
+Plan: Maintain safety. Pain management. Pulmonary toileting. Ween FiO2 if able. NPO. Ween pressors as able. Diuresis vs volume? Notify team of acute changes.
+",,
+24852,26766,30857,,2704-05-20 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2704-5-20**] 12:12 AM
+     CT ABDOMEN W/O CONTRAST; CT PELVIS W/O CONTRAST                 Clip # [**Clip Number (Radiology) 6706**]
+     Reason: PERCUTANEOUS CHOLECYSTOSTOMY TUBE PLACEMENT
+     Admitting Diagnosis: CHOLECYSTITIS
+     Field of view: 36
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      88 year old man with percutaneous cholecystostomy tube placement this 
+      afternoon. INR 1.3. Was on antiplatelet agents. Now with pressor and fluid 
+      dependence. 
+     REASON FOR THIS EXAMINATION:
+      hematoma or intraperitoneal bleeding?                                           
+     CONTRAINDICATIONS for IV CONTRAST:
+      CRI
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CLINICAL HISTORY:  An 88-year-old male with percutaneous cholecystostomy tube
+     placement, now with  presssor fluid dependence.  Evaluate for hematoma or
+     intraperitoneal bleeding. 
+     
+     COMPARISON:  [**2704-5-17**].
+     
+     TECHNIQUE:  Noncontrast MDCT acquired axial images of the abdomen and pelvis
+     from the lung bases to the pubic symphysis.
+     
+     CT OF THE ABDOMEN WITHOUT INTRAVENOUS CONTRAST:  The lung bases demonstrate
+     bilateral ground-glass opacity, and a more focal area of consolidation in the
+     posterior right lung base.  Atelectasis is seen within the left lung base.
+     Limited views of the heart demonstrate calcification within the coronaries and
+     aortic root.  Bilateral pleural effusions are present, right greater left.
+     
+     Compared to prior CT from three days prior, there is increased perihepatic
+     fluid with eccentric fluid collection anterolateral to the gallbladder fundus
+     and marked pericholecystic stranding, as well as generalized stranding within
+     the abdomen,  concerning for a rupture of the gallbladder. Again identified is
+     numerous stones and sludge within the gallbladder. A percutaneous
+     cholecystotomy tube appears in good position. Multiple punctate calcifications
+     are seen in a somwwhat atrophic pancreas, consistent with chronic
+     pancreatitis. In addition, there is increased peripancreatic stranding, for
+     which acute pancreatitis cannot be excluded. No pancreatic ductal dilatation
+     or stone is identified. Correlation with pancreatic enzymes is recommended.
+     The spleen, kidneys, adrenal g1ands, and intraabdominal loops of small bowel
+     are unremarkable. Extensive colonic and sigmoid diverticulosis is again
+     demonstrated
+     
+     CT OF THE PELVIS WITHOUT INTRAVENOUS CONTRAST:  The rectum, prostate, and
+     seminal vesicles are unremarkable.  A Foley catheter is seen within the
+     bladder.  Bilateral fat-containing inguinal hernias are identified.  No pelvic
+     free fluid or free air is identified.
+     
+     BONE WINDOWS:  Extensive degenerative changes are seen throughout the
+     thoracolumbar spine with multilevel disc space narrowing and endplate
+     sclerosis.  
+                                                                 (Over)
+
+     DATE: [**2704-5-20**] 12:12 AM
+     CT ABDOMEN W/O CONTRAST; CT PELVIS W/O CONTRAST                 Clip # [**Clip Number (Radiology) 6706**]
+     Reason: PERCUTANEOUS CHOLECYSTOSTOMY TUBE PLACEMENT
+     Admitting Diagnosis: CHOLECYSTITIS
+     Field of view: 36
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     
+     IMPRESSION:
+     
+     1.Compared to prior CT from [**2704-5-17**], there is increased eccentric fluid
+     collection adjacent to the anterolateral aspect of the gallbladder fundus with
+     marked pericholeycstic stranding, concerning for rupture. In addition, since
+     the prior exam, the patient has developed increased peripancreatic stranding,
+     which may be related to the gallbladder, however, an acute pancreatitis cannot
+     be entirely excluded. No pancreatic ductal dilatation or stone within the duct
+     is identified. Recommend correlation with pancreatic enzymes.
+     
+     2.  Bilateral ground-glass opacity and pleural effusion with an area of
+     consolidation within the right lung base. 
+     
+     
+
+",,
+24852,26766,30857,,2704-05-20 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2704-5-20**] 3:26 PM
+     CHEST (PORTABLE AP); -76 BY SAME PHYSICIAN                      [**Name Initial (PRE) 232**] # [**Clip Number (Radiology) 6710**]
+     Reason: pt in cardiac arrest, STAT                                  
+     Admitting Diagnosis: CHOLECYSTITIS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+            88 year old man with cholecystitis now s/p open chole                     
+       
+     REASON FOR THIS EXAMINATION:
+      pt in cardiac arrest, STAT                                                      
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  88-year-old man with cholecystitis, status post open cholecystectomy
+     with cardiac arrest.
+     
+     COMPARISON:  [**2704-5-20**] at 1:57 p.m.
+     
+     CHEST AP:  Since the exam of two hours earlier, there has been placement of
+     bilateral chest tubes.  The right pleural effusion has decreased in size.  No
+     pneumothorax is identified.  The remaining lines and tubes are in unchanged
+     position.  Diffusely increased interstitial opacities and Kerley B lines are
+     consistent with pulmonary edema.  There is right lower lobe atelectasis. 
+     Cardiac, mediastinal, and hilar contours are stable.
+     
+     IMPRESSION:
+     1.  Development of moderate pulmonary edema.
+     2.  Status post placement of bilateral chest tubes with decrease in right
+     pleural effusion and no evidence of pneumothorax.
+                                                                           
+
+",,
+24852,26766,30857,,2704-05-20 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2704-5-20**] 3:26 PM
+     CHEST (PORTABLE AP); -76 BY SAME PHYSICIAN                      [**Name Initial (PRE) 232**] # [**Clip Number (Radiology) 6710**]
+     Reason: pt in cardiac arrest, STAT                                  
+     Admitting Diagnosis: CHOLECYSTITIS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+            88 year old man with cholecystitis now s/p open chole                     
+       
+     REASON FOR THIS EXAMINATION:
+      pt in cardiac arrest, STAT                                                      
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  88-year-old man with cholecystitis, status post open cholecystectomy
+     with cardiac arrest.
+     
+     COMPARISON:  [**2704-5-20**] at 1:57 p.m.
+     
+     CHEST AP:  Since the exam of two hours earlier, there has been placement of
+     bilateral chest tubes.  The right pleural effusion has decreased in size.  No
+     pneumothorax is identified.  The remaining lines and tubes are in unchanged
+     position.  Diffusely increased interstitial opacities and Kerley B lines are
+     consistent with pulmonary edema.  There is right lower lobe atelectasis. 
+     Cardiac, mediastinal, and hilar contours are stable.
+     
+     IMPRESSION:
+     1.  Development of moderate pulmonary edema.
+     2.  Status post placement of bilateral chest tubes with decrease in right
+     pleural effusion and no evidence of pneumothorax.
+                                                                           
+
+",,
+24852,26766,30857,,2704-05-20 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2704-5-20**] 1:32 PM
+     CHEST PORT. LINE PLACEMENT; -77 BY DIFFERENT PHYSICIAN          [**Name Initial (PRE) 232**] # [**Clip Number (Radiology) 6709**]
+     Reason: s/p swan-ganz/postop                                        
+     Admitting Diagnosis: CHOLECYSTITIS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+           88 year old man with cholecystitis now s/p open chole                      
+     REASON FOR THIS EXAMINATION:
+      s/p swan-ganz/postop                                                            
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     REASON FOR EXAMINATION:  Evaluation of Swan-Ganz position.
+     
+     Portable AP chest radiograph compared to [**2704-5-20**] obtained at 01:56.
+     
+     The ET tube tip terminates 3.7 cm above the carina.  The NG tube terminates in
+     the stomach.  The right subclavian line tip terminates in mid SVC.
+     
+     The left Swan-Ganz was inserted through left internal jugular line with its
+     tip terminating in right main pulmonary artery.  No substantial pneumothorax,
+     apical hematoma or increased left pleural effusions are identified, although
+     the left apex is partially obscured by overlying external device.
+     
+     Bibasal atelectasis and low right pleural effusions are again demonstrated,
+     grossly unchanged.
+                                                                           
+
+",,
+24852,26766,30857,,2704-05-20 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2704-5-20**] 1:32 PM
+     CHEST PORT. LINE PLACEMENT; -77 BY DIFFERENT PHYSICIAN          [**Name Initial (PRE) 232**] # [**Clip Number (Radiology) 6709**]
+     Reason: s/p swan-ganz/postop                                        
+     Admitting Diagnosis: CHOLECYSTITIS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+           88 year old man with cholecystitis now s/p open chole                      
+     REASON FOR THIS EXAMINATION:
+      s/p swan-ganz/postop                                                            
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     REASON FOR EXAMINATION:  Evaluation of Swan-Ganz position.
+     
+     Portable AP chest radiograph compared to [**2704-5-20**] obtained at 01:56.
+     
+     The ET tube tip terminates 3.7 cm above the carina.  The NG tube terminates in
+     the stomach.  The right subclavian line tip terminates in mid SVC.
+     
+     The left Swan-Ganz was inserted through left internal jugular line with its
+     tip terminating in right main pulmonary artery.  No substantial pneumothorax,
+     apical hematoma or increased left pleural effusions are identified, although
+     the left apex is partially obscured by overlying external device.
+     
+     Bibasal atelectasis and low right pleural effusions are again demonstrated,
+     grossly unchanged.
+                                                                           
+
+",,
+24852,26766,30857,,2704-05-20 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2704-5-20**] 5:56 AM
+     LIVER OR GALLBLADDER US (SINGLE ORGAN)                          Clip # [**Clip Number (Radiology) 6708**]
+     Reason: ASSESS FOR DRAINAGE, 88 YR OLD MALE WITH CCY
+     Admitting Diagnosis: CHOLECYSTITIS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       88 year old man with ccy (declined surgery)                                    
+       
+     REASON FOR THIS EXAMINATION:
+      redrainage                                                                      
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     EXAMINATION:  Limited right upper quadrant ultrasound [**2704-5-20**].
+     
+     COMPARISON:  Percutaneous cholecystostomy placement [**2704-5-19**] and CT
+     abdomen and pelvis [**2704-5-20**].
+     
+     INDICATION:  88-year-old male with cholecystostomy tube new onset sepsis,
+     reevaluation.
+     
+     FINDINGS:  Limited ultrasound view of the right upper quadrant demonstrates a
+     large fluid collection in the gallbladder fossa which measures 9 cm x 8 cm
+     suggestive of biloma.  Imaging reveals a decompressed gallbladder with
+     thickened wall.  The percutaneous cholecystostomy tube was in appropriate
+     position.
+     
+     IMPRESSION:  Large biloma in gallbladder fossa  with decompressed gallbladder
+     with thickened, ruptured wall.  Findings including possible percutaneous
+     drainage of the biloma were discussed with Dr. [**Last Name (STitle) 124**] by Dr. [**Last Name (STitle) 1448**] at
+     completion of examination.
+
+",,
+24852,26766,30857,,2704-05-20 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2704-5-20**] 1:44 AM
+     CHEST PORT. LINE PLACEMENT                                      Clip # [**Clip Number (Radiology) 6707**]
+     Reason: line placement? pneumothorax?                               
+     Admitting Diagnosis: CHOLECYSTITIS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+          88 year old man with cholecystitis now s/p cholecystostomy tube placement  
+      [**5-19**] with copious drainage, now with hypotension requiring pressors. CHF with  
+      EF 30%.   right subclavian central line just placed.
+     REASON FOR THIS EXAMINATION:
+      line placement? pneumothorax?                                                   
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Hypotension requiring pressors, poor ejection fraction, right
+     subclavian line placement.
+     
+     CHEST, ONE VIEW:  Comparison with multiple previous examinations, the most
+     recent of which is [**2704-5-19**].  An endotracheal tube has been placed with
+     its tip approximately 3.8 cm above the carina.  A new right subclavian line is
+     seen with its tip at the distal SVC.  No pneumothorax is present. The right
+     lung is better aerated than the last examination, but the right pleural
+     effusion is probably similar in size.  Right pulmonary vessels are slightly
+     more engorged on the left, reflecting development of asymmetric pulmonary
+     edema.  The left lung appears relatively clear, without sizeable pleural
+     effusion.
+
+",,
+24852,26766,30857,,2704-05-20 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2704-5-20**] 12:12 AM
+     CT ABDOMEN W/O CONTRAST; CT PELVIS W/O CONTRAST                 Clip # [**Clip Number (Radiology) 6706**]
+     Reason: PERCUTANEOUS CHOLECYSTOSTOMY TUBE PLACEMENT
+     Admitting Diagnosis: CHOLECYSTITIS
+     Field of view: 36
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      88 year old man with percutaneous cholecystostomy tube placement this 
+      afternoon. INR 1.3. Was on antiplatelet agents. Now with pressor and fluid 
+      dependence. 
+     REASON FOR THIS EXAMINATION:
+      hematoma or intraperitoneal bleeding?                                           
+     CONTRAINDICATIONS for IV CONTRAST:
+      CRI
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CLINICAL HISTORY:  An 88-year-old male with percutaneous cholecystostomy tube
+     placement, now with  presssor fluid dependence.  Evaluate for hematoma or
+     intraperitoneal bleeding. 
+     
+     COMPARISON:  [**2704-5-17**].
+     
+     TECHNIQUE:  Noncontrast MDCT acquired axial images of the abdomen and pelvis
+     from the lung bases to the pubic symphysis.
+     
+     CT OF THE ABDOMEN WITHOUT INTRAVENOUS CONTRAST:  The lung bases demonstrate
+     bilateral ground-glass opacity, and a more focal area of consolidation in the
+     posterior right lung base.  Atelectasis is seen within the left lung base.
+     Limited views of the heart demonstrate calcification within the coronaries and
+     aortic root.  Bilateral pleural effusions are present, right greater left.
+     
+     Compared to prior CT from three days prior, there is increased perihepatic
+     fluid with eccentric fluid collection anterolateral to the gallbladder fundus
+     and marked pericholecystic stranding, as well as generalized stranding within
+     the abdomen,  concerning for a rupture of the gallbladder. Again identified is
+     numerous stones and sludge within the gallbladder. A percutaneous
+     cholecystotomy tube appears in good position. Multiple punctate calcifications
+     are seen in a somwwhat atrophic pancreas, consistent with chronic
+     pancreatitis. In addition, there is increased peripancreatic stranding, for
+     which acute pancreatitis cannot be excluded. No pancreatic ductal dilatation
+     or stone is identified. Correlation with pancreatic enzymes is recommended.
+     The spleen, kidneys, adrenal g1ands, and intraabdominal loops of small bowel
+     are unremarkable. Extensive colonic and sigmoid diverticulosis is again
+     demonstrated
+     
+     CT OF THE PELVIS WITHOUT INTRAVENOUS CONTRAST:  The rectum, prostate, and
+     seminal vesicles are unremarkable.  A Foley catheter is seen within the
+     bladder.  Bilateral fat-containing inguinal hernias are identified.  No pelvic
+     free fluid or free air is identified.
+     
+     BONE WINDOWS:  Extensive degenerative changes are seen throughout the
+     thoracolumbar spine with multilevel disc space narrowing and endplate
+     sclerosis.  
+                                                                 (Over)
+
+     DATE: [**2704-5-20**] 12:12 AM
+     CT ABDOMEN W/O CONTRAST; CT PELVIS W/O CONTRAST                 Clip # [**Clip Number (Radiology) 6706**]
+     Reason: PERCUTANEOUS CHOLECYSTOSTOMY TUBE PLACEMENT
+     Admitting Diagnosis: CHOLECYSTITIS
+     Field of view: 36
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     
+     IMPRESSION:
+     
+     1.Compared to prior CT from [**2704-5-17**], there is increased eccentric fluid
+     collection adjacent to the anterolateral aspect of the gallbladder fundus with
+     marked pericholeycstic stranding, concerning for rupture. In addition, since
+     the prior exam, the patient has developed increased peripancreatic stranding,
+     which may be related to the gallbladder, however, an acute pancreatitis cannot
+     be entirely excluded. No pancreatic ductal dilatation or stone within the duct
+     is identified. Recommend correlation with pancreatic enzymes.
+     
+     2.  Bilateral ground-glass opacity and pleural effusion with an area of
+     consolidation within the right lung base. 
+     
+     
+
+",,
+24852,,30857,0,2704-05-20 04:08:00 EST,2704-05-20 04:15:00 EST,9153,"N",74,"Nursing/Other","RESP CARE NOTE","
+RESP CARE NOTE
+CALLED TO BEDSIDE TO INTUBATE FOR RESP FAILURE DURING LINE PLACEMENT ATTEMPT.  POST INTUBATION LUNG RECRUITMENT DONE SECOND TO LOW SATS ON 100% FIO2 AND 10 OF PEEP WITH POOR RESULTS.  BREATH SOUNDS DIMINISHED AT BASES.  SUCTIONING SCANT SECRETIONS.  ABG SHOWING METABOLIC ACIDOSIS, RR INCREASED GIVING US A PH >7.2 NOW.  NO SEDATION GIVEN UNTIL 0445 FOR INCREASED WOB.
+",,
+24852,,30857,0,2704-05-20 04:53:00 EST,2704-05-20 05:16:00 EST,1426,"N",74,"Nursing/Other",,"
+
+ASSESSMENT AS NOTED
+
+EVENTS:
+-?SEPSIS
+-SEVERE METABOLIC ACIDOSIS, LACTATE UP TO >5
+-REQUIRED MULTIPLE FLUID BOLUSES =5000CC
+-LEVOPHED NEEDS INCREASED, PERIPHERAL VASOCONSTRICTED-UNABLE TO READ SO2
+-CT ABD SHOWED ?FLUID AROUND LIVER, ?IF DRAIN WORKS WELL? +BIL PLEURAL EFFUSIONS
+-ABG MORE HYPOXIC-INTUBATED 1AM
+-C/LINE WAS PLACED, CXR CONFURMED LINE AND TUBE PLACENT AS GOOD
+-PAN CULTURED, NO FEVER, CLAMMY, DIAPHORETIC
+-NGT PLACED
+-WBC UP TO 21000, GOT VANCO ONE DOSE
+-HCT STABLE
+-ANURIC
+-SURGERY, IR, RENAL CONSULT ONGOING
+-DEVELOPED PROGRESSED ECTOPY: MULTIFOCAL PVC+RUNS 5AM, EKG DONE TWICE
+
+PLAN:FAMILY WAS TALKED TO TWICE OVER THE PHONE BY THE RN AND H/O DR [**Last Name (STitle) **] THE PLAN WAS DEVELOPED WITH SURGERY AND IR TEAMS TO TRY TO PUT ONE MORE CHOLE DRAIN IN AND IF DOES NOT WORK-TO OPERATE. ?WILL NEED HD TO CORRECT LYTES AND LACTIC ACID, ASSESS NEED FOR MORE IVF LOAD-IF INTRAVASCULARY DRY, ? PA LINE PLACEMENT, ?BICARB INFUSION,?ADJUST OR START NEW ANTIBIOTICS-FOLLOW CULTURED,?CODE STATUS WITH FAMILY
+
+",,
+24852,,30857,0,2704-05-20 16:52:00 EST,2704-05-20 17:01:00 EST,6691,"N",74,"Nursing/Other","Respiratory Care Note","
+Respiratory Care Note
+Pt received on AC as noted. BS clear bilaterally with good aeration. Pt taken to OR. IMV increased to 26 secondary to ABG. ABG's reveal a metabolic acidosis. Pt placed on CVVHD - pt's HR increased to 135 with a BP of 60-70 systolic. Pulseless VT noted on monitor. CPR started and pt shocked multiple times. At 6pm, pt's HR is 87 and BP 98/58. Meeting with family - pt is now CMO. 
+",,
+24852,,30857,0,2704-05-20 17:53:00 EST,2704-05-20 18:19:00 EST,189,"N",74,"Nursing/Other","T/SiCU NSG NOTE","
+T/SiCU NSG NOTE
+0700>>1830
+
+Pt went to OR @ 0800 and returned @ 1145 s/p cholesystectomy. Pt was sedated with vital signs steady(see careview) and lab work in line with pre-op values; temp was 37.5 C. He continued on levophed support @ 0.18mcg/kg/min.  PA and Quinton catheters were placed in OR. Pt was settled and family memebers visited for about 45 minutes after speaking with attending surgeon and surgical and ICU residents.
+Plan was to initiate CVVHD therapy for fluid removal and dialysis; this was initiated @ 1430. At about 1437 pt was noted to become tachycardic to 130 range; blood pressure drifted less than 100/systolic to 66/systolic. Fluid and increased levophed dose were administered. Pt proceded to EMD with flat BP and filling pressures: CPR was initiated. Resuccitation measures were continued for about one hour with multiple pharmacologic agents provided and defibrillation 8 times over the hour were administered. Pt was stabilized with levophed at 1mcg/kg/min and amioderone @ 1mg/kg/min. CVVHD was terminated earlier as arrest situation proceeded.
+Family was called back to hospital; they spoke with Drs [**Last Name (STitle) **] and [**Name5 (PTitle) 2282**] about patient's condition and grave situation. The decision to cahnge patient's code status to DNR was made. The family spent the following 2 hours at the patient's bedside and were witness to patients ongoing deterioration and the aggressive measures that were being provided to sustain him.( additional fluid and packed red cells x2 units; medications for ongoing acidemia, and warming measures for falling core temperature.) The family made the decision to stop aggresive therapy and let patient be comfortable. At 1802, all pharmacologic supports were suspended; fio2 was reduced to room air; versed and fentanyl infusions were increased. At 1812(per room clock); patient had no heart or blood pressure signs. ICU resident examed patient and confirmed time of death. Patient's family spent some time saying good-by. Resucitation form has been filled out and is awaiting Dr[**Location (un) 5143**] (attending in charge of code) signature.
+ 
+",,

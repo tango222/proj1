@@ -1,0 +1,2232 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+24032,,,,3427-04-08 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3427-4-8**] 8:24 AM
+     FOOT AP,LAT & OBL RIGHT                                         Clip # [**Clip Number (Radiology) 15018**]
+     Reason: evaluate debridement of first ray                           
+     Admitting Diagnosis: R ISCHEMIC FOOT
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      44 year old man s/p debridement of infection at OSH                             
+     REASON FOR THIS EXAMINATION:
+      evaluate debridement of first ray                                               
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Evaluate debridement results.
+     
+     FINDINGS:
+     
+     There has been surgical removal of the majority of the first digit with only
+     the proximal metatarsal head preserved.  Soft tissue defect is evident. There
+     is a slight haziness at the distal margin of the remnant metatarsal bone, but
+     no frank destructive features.  Please note that the fine detail is obscured
+     by the overlying bandages and securing materials.  No other abnormalities are
+     seen in the bones.  Calcified vessels are noted.
+     
+     IMPRESSION:
+     
+     Suggestion of slight indistinct margin at the resection site of the first
+     metatarsal - osteomyelitis is possible.  Study limited by densities projecting
+     on to the area of interest from overlying materials.
+     
+
+",,
+24032,,,,3427-04-08 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3427-4-8**] 8:24 AM
+     CHEST (PRE-OP PA & LAT)                                         Clip # [**Clip Number (Radiology) 15019**]
+     Reason: R ISCHEMIC FOOT
+     Admitting Diagnosis: R ISCHEMIC FOOT
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      44 year old man s/p debridement of infection at OSH                             
+     REASON FOR THIS EXAMINATION:
+      pre op                                                                          
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Preoperative film for right foot debridement.
+     
+     FINDINGS:
+     
+     There is no focal consolidation or effusion.  The right hemidiaphragm is
+     slightly elevated and shows features suggesting some scarring at the right CP
+     angle.  Pulmonary vasculature is within normal limits and the heart size is at
+     the upper limits of normal.  Mediastinal contours and hilar structures are
+     normal.
+     
+     IMPRESSION:
+     
+     No acute cardiopulmonary disease.
+                                                                           
+
+",,
+24032,,,,3427-04-09 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3427-4-9**] 2:06 PM
+     UNI-LAT FEMORAL                                                 Clip # [**Clip Number (Radiology) 15020**]
+     Reason: ? pvd                                                       
+     Admitting Diagnosis: R ISCHEMIC FOOT
+      Contrast: OPTIRAY Amt: 170
+     ********************************* CPT Codes ********************************
+     * 36200 INTRO AORTA FEM/AXIL           75625 ABDOMINAL A-GRAM              *
+     * 75710 EXT UNILAT A-GRAM              C1769 GUID WIRES INCL INF           *
+     * C1894 INT.SHTH NOT/GUID,EP,NONLASER                                      *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      44 year old man with rt. ist ray amp                                            
+     REASON FOR THIS EXAMINATION:
+      ? pvd                                                                           
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY: 44-year-old man with history of prior right first ray amputation and
+     peripheral vascular disease. Evaluation of possibilities of revascularization.
+     
+     RADIOLOGISTS: The procedure was performed by Dr. [**First Name8 (NamePattern2) 2274**] [**Name (STitle) 2275**] and Dr. [**First Name (STitle) 2253**]
+     [**Name (STitle) 188**] d'Othee, with Dr. [**Last Name (STitle) 188**] [**Name (STitle) 189**], attending radiologist present and
+     supervising for the entire procedure.
+     
+     PROCEDURE/FINDINGS: After obtaining written informed consent, the patient was
+     placed supine on the angiographic table. The right groin was prepped and
+     draped in standard sterile fashion. A pre-procedure timeout was performed.
+     Using fluoroscopic guidance, the right common femoral artery was accessed with
+     a 19-gauge needle, and an 0.035 [**Last Name (un) 108**] wire was advanced through the needle
+     into the abdominal aorta.
+     
+     A 4-French multihole straight catheter was then advanced over the wire and
+     exchanged for the needle into the abdominal aorta. The wire was removed,
+     contrast was injected to confirm appropriate positioning of the catheter. An
+     initial aortogram was performed which demonstrated normal aorta and bilateral
+     iliac arteries.
+     
+     The catheter was then withdrawn into the lower abdominal aorta, and a pelvic
+     arteriogram performed which demonstrated patent internal and external iliac
+     arteries on the right.
+     
+     The catheter was then withdrawn into the right common femoral artery, and
+     sequential arteriogram of the right lower extremity was performed. This
+     demonstrated an approximately 5-10 cm long, significant stenosis of the right
+     superficial femoral artery in the proximal thigh. Extensive wall calcification
+     consistent with mediacalcinosis is seen along most of the right superficial
+     femoral artery, along with an additional short focal stenosis in the distal
+     right superficial femoral artery. The popliteal artery is patent.
+     A significant short focal stenosis is seen at the level of right tibioperoneal
+     trunk. Both the right anterior and posterior tibial arteries are patent
+     proximally, however, appear diminutive in the distal leg. The main calf runoff
+     is through the right peroneal artery which is patent up to the ankle.
+     Arteriograms of the foot do not demonstrate the dorsalis pedis artery. A
+                                                                 (Over)
+
+     DATE: [**3427-4-9**] 2:06 PM
+     UNI-LAT FEMORAL                                                 Clip # [**Clip Number (Radiology) 15020**]
+     Reason: ? pvd                                                       
+     Admitting Diagnosis: R ISCHEMIC FOOT
+      Contrast: OPTIRAY Amt: 170
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     lateral tarsal artery is seen. The plantar arch is filled by the medial
+     plantar artery.
+     
+     Following the procedure, the patient was transferred to the recovery area
+     where the catheter was removed, and manual pressure applied to the right groin
+     until adequate hemostasis was achieved.
+     
+     COMPLICATIONS: None.
+     
+     IMPRESSION:
+     1)  Patent arterial inflow from the abdominal aorta to the right common
+     femoral artery.
+     2)  Presence of a 5-10 cm long, significant stenosis in the proximal right
+     superficial femoral artery and of a short focal stenosis in the distal segment
+     of this artery.
+     2)  Short focal stenosis in the right tibioperoneal trunk.
+     3)  Diminutive right anterior and posterior tibial arteries, with peroneal
+     runoff to the ankle.
+     4)  No dorsalis pedis artery opacified. A medial plantar and lateral tarsal
+     are identified.
+
+",,
+24032,,,,3427-04-09 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3427-4-9**] 2:06 PM
+     UNI-LAT FEMORAL                                                 Clip # [**Clip Number (Radiology) 15020**]
+     Reason: ? pvd                                                       
+     Admitting Diagnosis: R ISCHEMIC FOOT
+      Contrast: OPTIRAY Amt: 170
+     ********************************* CPT Codes ********************************
+     * 36200 INTRO AORTA FEM/AXIL           75625 ABDOMINAL A-GRAM              *
+     * 75710 EXT UNILAT A-GRAM              C1769 GUID WIRES INCL INF           *
+     * C1894 INT.SHTH NOT/GUID,EP,NONLASER                                      *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      44 year old man with rt. ist ray amp                                            
+     REASON FOR THIS EXAMINATION:
+      ? pvd                                                                           
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY: 44-year-old man with history of prior right first ray amputation and
+     peripheral vascular disease. Evaluation of possibilities of revascularization.
+     
+     RADIOLOGISTS: The procedure was performed by Dr. [**First Name8 (NamePattern2) 2274**] [**Name (STitle) 2275**] and Dr. [**First Name (STitle) 2253**]
+     [**Name (STitle) 188**] d'Othee, with Dr. [**Last Name (STitle) 188**] [**Name (STitle) 189**], attending radiologist present and
+     supervising for the entire procedure.
+     
+     PROCEDURE/FINDINGS: After obtaining written informed consent, the patient was
+     placed supine on the angiographic table. The right groin was prepped and
+     draped in standard sterile fashion. A pre-procedure timeout was performed.
+     Using fluoroscopic guidance, the right common femoral artery was accessed with
+     a 19-gauge needle, and an 0.035 [**Last Name (un) 108**] wire was advanced through the needle
+     into the abdominal aorta.
+     
+     A 4-French multihole straight catheter was then advanced over the wire and
+     exchanged for the needle into the abdominal aorta. The wire was removed,
+     contrast was injected to confirm appropriate positioning of the catheter. An
+     initial aortogram was performed which demonstrated normal aorta and bilateral
+     iliac arteries.
+     
+     The catheter was then withdrawn into the lower abdominal aorta, and a pelvic
+     arteriogram performed which demonstrated patent internal and external iliac
+     arteries on the right.
+     
+     The catheter was then withdrawn into the right common femoral artery, and
+     sequential arteriogram of the right lower extremity was performed. This
+     demonstrated an approximately 5-10 cm long, significant stenosis of the right
+     superficial femoral artery in the proximal thigh. Extensive wall calcification
+     consistent with mediacalcinosis is seen along most of the right superficial
+     femoral artery, along with an additional short focal stenosis in the distal
+     right superficial femoral artery. The popliteal artery is patent.
+     A significant short focal stenosis is seen at the level of right tibioperoneal
+     trunk. Both the right anterior and posterior tibial arteries are patent
+     proximally, however, appear diminutive in the distal leg. The main calf runoff
+     is through the right peroneal artery which is patent up to the ankle.
+     Arteriograms of the foot do not demonstrate the dorsalis pedis artery. A
+                                                                 (Over)
+
+     DATE: [**3427-4-9**] 2:06 PM
+     UNI-LAT FEMORAL                                                 Clip # [**Clip Number (Radiology) 15020**]
+     Reason: ? pvd                                                       
+     Admitting Diagnosis: R ISCHEMIC FOOT
+      Contrast: OPTIRAY Amt: 170
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     lateral tarsal artery is seen. The plantar arch is filled by the medial
+     plantar artery.
+     
+     Following the procedure, the patient was transferred to the recovery area
+     where the catheter was removed, and manual pressure applied to the right groin
+     until adequate hemostasis was achieved.
+     
+     COMPLICATIONS: None.
+     
+     IMPRESSION:
+     1)  Patent arterial inflow from the abdominal aorta to the right common
+     femoral artery.
+     2)  Presence of a 5-10 cm long, significant stenosis in the proximal right
+     superficial femoral artery and of a short focal stenosis in the distal segment
+     of this artery.
+     2)  Short focal stenosis in the right tibioperoneal trunk.
+     3)  Diminutive right anterior and posterior tibial arteries, with peroneal
+     runoff to the ankle.
+     4)  No dorsalis pedis artery opacified. A medial plantar and lateral tarsal
+     are identified.
+
+",,
+24032,,,,3427-04-09 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3427-4-9**] 2:06 PM
+     UNI-LAT FEMORAL                                                 Clip # [**Clip Number (Radiology) 15020**]
+     Reason: ? pvd                                                       
+     Admitting Diagnosis: R ISCHEMIC FOOT
+      Contrast: OPTIRAY Amt: 170
+     ********************************* CPT Codes ********************************
+     * 36200 INTRO AORTA FEM/AXIL           75625 ABDOMINAL A-GRAM              *
+     * 75710 EXT UNILAT A-GRAM              C1769 GUID WIRES INCL INF           *
+     * C1894 INT.SHTH NOT/GUID,EP,NONLASER                                      *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      44 year old man with rt. ist ray amp                                            
+     REASON FOR THIS EXAMINATION:
+      ? pvd                                                                           
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY: 44-year-old man with history of prior right first ray amputation and
+     peripheral vascular disease. Evaluation of possibilities of revascularization.
+     
+     RADIOLOGISTS: The procedure was performed by Dr. [**First Name8 (NamePattern2) 2274**] [**Name (STitle) 2275**] and Dr. [**First Name (STitle) 2253**]
+     [**Name (STitle) 188**] d'Othee, with Dr. [**Last Name (STitle) 188**] [**Name (STitle) 189**], attending radiologist present and
+     supervising for the entire procedure.
+     
+     PROCEDURE/FINDINGS: After obtaining written informed consent, the patient was
+     placed supine on the angiographic table. The right groin was prepped and
+     draped in standard sterile fashion. A pre-procedure timeout was performed.
+     Using fluoroscopic guidance, the right common femoral artery was accessed with
+     a 19-gauge needle, and an 0.035 [**Last Name (un) 108**] wire was advanced through the needle
+     into the abdominal aorta.
+     
+     A 4-French multihole straight catheter was then advanced over the wire and
+     exchanged for the needle into the abdominal aorta. The wire was removed,
+     contrast was injected to confirm appropriate positioning of the catheter. An
+     initial aortogram was performed which demonstrated normal aorta and bilateral
+     iliac arteries.
+     
+     The catheter was then withdrawn into the lower abdominal aorta, and a pelvic
+     arteriogram performed which demonstrated patent internal and external iliac
+     arteries on the right.
+     
+     The catheter was then withdrawn into the right common femoral artery, and
+     sequential arteriogram of the right lower extremity was performed. This
+     demonstrated an approximately 5-10 cm long, significant stenosis of the right
+     superficial femoral artery in the proximal thigh. Extensive wall calcification
+     consistent with mediacalcinosis is seen along most of the right superficial
+     femoral artery, along with an additional short focal stenosis in the distal
+     right superficial femoral artery. The popliteal artery is patent.
+     A significant short focal stenosis is seen at the level of right tibioperoneal
+     trunk. Both the right anterior and posterior tibial arteries are patent
+     proximally, however, appear diminutive in the distal leg. The main calf runoff
+     is through the right peroneal artery which is patent up to the ankle.
+     Arteriograms of the foot do not demonstrate the dorsalis pedis artery. A
+                                                                 (Over)
+
+     DATE: [**3427-4-9**] 2:06 PM
+     UNI-LAT FEMORAL                                                 Clip # [**Clip Number (Radiology) 15020**]
+     Reason: ? pvd                                                       
+     Admitting Diagnosis: R ISCHEMIC FOOT
+      Contrast: OPTIRAY Amt: 170
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     lateral tarsal artery is seen. The plantar arch is filled by the medial
+     plantar artery.
+     
+     Following the procedure, the patient was transferred to the recovery area
+     where the catheter was removed, and manual pressure applied to the right groin
+     until adequate hemostasis was achieved.
+     
+     COMPLICATIONS: None.
+     
+     IMPRESSION:
+     1)  Patent arterial inflow from the abdominal aorta to the right common
+     femoral artery.
+     2)  Presence of a 5-10 cm long, significant stenosis in the proximal right
+     superficial femoral artery and of a short focal stenosis in the distal segment
+     of this artery.
+     2)  Short focal stenosis in the right tibioperoneal trunk.
+     3)  Diminutive right anterior and posterior tibial arteries, with peroneal
+     runoff to the ankle.
+     4)  No dorsalis pedis artery opacified. A medial plantar and lateral tarsal
+     are identified.
+
+",,
+24032,,,,3427-04-09 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3427-4-9**] 2:06 PM
+     UNI-LAT FEMORAL                                                 Clip # [**Clip Number (Radiology) 15020**]
+     Reason: ? pvd                                                       
+     Admitting Diagnosis: R ISCHEMIC FOOT
+      Contrast: OPTIRAY Amt: 170
+     ********************************* CPT Codes ********************************
+     * 36200 INTRO AORTA FEM/AXIL           75625 ABDOMINAL A-GRAM              *
+     * 75710 EXT UNILAT A-GRAM              C1769 GUID WIRES INCL INF           *
+     * C1894 INT.SHTH NOT/GUID,EP,NONLASER                                      *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      44 year old man with rt. ist ray amp                                            
+     REASON FOR THIS EXAMINATION:
+      ? pvd                                                                           
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY: 44-year-old man with history of prior right first ray amputation and
+     peripheral vascular disease. Evaluation of possibilities of revascularization.
+     
+     RADIOLOGISTS: The procedure was performed by Dr. [**First Name8 (NamePattern2) 2274**] [**Name (STitle) 2275**] and Dr. [**First Name (STitle) 2253**]
+     [**Name (STitle) 188**] d'Othee, with Dr. [**Last Name (STitle) 188**] [**Name (STitle) 189**], attending radiologist present and
+     supervising for the entire procedure.
+     
+     PROCEDURE/FINDINGS: After obtaining written informed consent, the patient was
+     placed supine on the angiographic table. The right groin was prepped and
+     draped in standard sterile fashion. A pre-procedure timeout was performed.
+     Using fluoroscopic guidance, the right common femoral artery was accessed with
+     a 19-gauge needle, and an 0.035 [**Last Name (un) 108**] wire was advanced through the needle
+     into the abdominal aorta.
+     
+     A 4-French multihole straight catheter was then advanced over the wire and
+     exchanged for the needle into the abdominal aorta. The wire was removed,
+     contrast was injected to confirm appropriate positioning of the catheter. An
+     initial aortogram was performed which demonstrated normal aorta and bilateral
+     iliac arteries.
+     
+     The catheter was then withdrawn into the lower abdominal aorta, and a pelvic
+     arteriogram performed which demonstrated patent internal and external iliac
+     arteries on the right.
+     
+     The catheter was then withdrawn into the right common femoral artery, and
+     sequential arteriogram of the right lower extremity was performed. This
+     demonstrated an approximately 5-10 cm long, significant stenosis of the right
+     superficial femoral artery in the proximal thigh. Extensive wall calcification
+     consistent with mediacalcinosis is seen along most of the right superficial
+     femoral artery, along with an additional short focal stenosis in the distal
+     right superficial femoral artery. The popliteal artery is patent.
+     A significant short focal stenosis is seen at the level of right tibioperoneal
+     trunk. Both the right anterior and posterior tibial arteries are patent
+     proximally, however, appear diminutive in the distal leg. The main calf runoff
+     is through the right peroneal artery which is patent up to the ankle.
+     Arteriograms of the foot do not demonstrate the dorsalis pedis artery. A
+                                                                 (Over)
+
+     DATE: [**3427-4-9**] 2:06 PM
+     UNI-LAT FEMORAL                                                 Clip # [**Clip Number (Radiology) 15020**]
+     Reason: ? pvd                                                       
+     Admitting Diagnosis: R ISCHEMIC FOOT
+      Contrast: OPTIRAY Amt: 170
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     lateral tarsal artery is seen. The plantar arch is filled by the medial
+     plantar artery.
+     
+     Following the procedure, the patient was transferred to the recovery area
+     where the catheter was removed, and manual pressure applied to the right groin
+     until adequate hemostasis was achieved.
+     
+     COMPLICATIONS: None.
+     
+     IMPRESSION:
+     1)  Patent arterial inflow from the abdominal aorta to the right common
+     femoral artery.
+     2)  Presence of a 5-10 cm long, significant stenosis in the proximal right
+     superficial femoral artery and of a short focal stenosis in the distal segment
+     of this artery.
+     2)  Short focal stenosis in the right tibioperoneal trunk.
+     3)  Diminutive right anterior and posterior tibial arteries, with peroneal
+     runoff to the ankle.
+     4)  No dorsalis pedis artery opacified. A medial plantar and lateral tarsal
+     are identified.
+
+",,
+24032,,,,3427-04-09 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3427-4-9**] 2:06 PM
+     UNI-LAT FEMORAL                                                 Clip # [**Clip Number (Radiology) 15020**]
+     Reason: ? pvd                                                       
+     Admitting Diagnosis: R ISCHEMIC FOOT
+      Contrast: OPTIRAY Amt: 170
+     ********************************* CPT Codes ********************************
+     * 36200 INTRO AORTA FEM/AXIL           75625 ABDOMINAL A-GRAM              *
+     * 75710 EXT UNILAT A-GRAM              C1769 GUID WIRES INCL INF           *
+     * C1894 INT.SHTH NOT/GUID,EP,NONLASER                                      *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      44 year old man with rt. ist ray amp                                            
+     REASON FOR THIS EXAMINATION:
+      ? pvd                                                                           
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY: 44-year-old man with history of prior right first ray amputation and
+     peripheral vascular disease. Evaluation of possibilities of revascularization.
+     
+     RADIOLOGISTS: The procedure was performed by Dr. [**First Name8 (NamePattern2) 2274**] [**Name (STitle) 2275**] and Dr. [**First Name (STitle) 2253**]
+     [**Name (STitle) 188**] d'Othee, with Dr. [**Last Name (STitle) 188**] [**Name (STitle) 189**], attending radiologist present and
+     supervising for the entire procedure.
+     
+     PROCEDURE/FINDINGS: After obtaining written informed consent, the patient was
+     placed supine on the angiographic table. The right groin was prepped and
+     draped in standard sterile fashion. A pre-procedure timeout was performed.
+     Using fluoroscopic guidance, the right common femoral artery was accessed with
+     a 19-gauge needle, and an 0.035 [**Last Name (un) 108**] wire was advanced through the needle
+     into the abdominal aorta.
+     
+     A 4-French multihole straight catheter was then advanced over the wire and
+     exchanged for the needle into the abdominal aorta. The wire was removed,
+     contrast was injected to confirm appropriate positioning of the catheter. An
+     initial aortogram was performed which demonstrated normal aorta and bilateral
+     iliac arteries.
+     
+     The catheter was then withdrawn into the lower abdominal aorta, and a pelvic
+     arteriogram performed which demonstrated patent internal and external iliac
+     arteries on the right.
+     
+     The catheter was then withdrawn into the right common femoral artery, and
+     sequential arteriogram of the right lower extremity was performed. This
+     demonstrated an approximately 5-10 cm long, significant stenosis of the right
+     superficial femoral artery in the proximal thigh. Extensive wall calcification
+     consistent with mediacalcinosis is seen along most of the right superficial
+     femoral artery, along with an additional short focal stenosis in the distal
+     right superficial femoral artery. The popliteal artery is patent.
+     A significant short focal stenosis is seen at the level of right tibioperoneal
+     trunk. Both the right anterior and posterior tibial arteries are patent
+     proximally, however, appear diminutive in the distal leg. The main calf runoff
+     is through the right peroneal artery which is patent up to the ankle.
+     Arteriograms of the foot do not demonstrate the dorsalis pedis artery. A
+                                                                 (Over)
+
+     DATE: [**3427-4-9**] 2:06 PM
+     UNI-LAT FEMORAL                                                 Clip # [**Clip Number (Radiology) 15020**]
+     Reason: ? pvd                                                       
+     Admitting Diagnosis: R ISCHEMIC FOOT
+      Contrast: OPTIRAY Amt: 170
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     lateral tarsal artery is seen. The plantar arch is filled by the medial
+     plantar artery.
+     
+     Following the procedure, the patient was transferred to the recovery area
+     where the catheter was removed, and manual pressure applied to the right groin
+     until adequate hemostasis was achieved.
+     
+     COMPLICATIONS: None.
+     
+     IMPRESSION:
+     1)  Patent arterial inflow from the abdominal aorta to the right common
+     femoral artery.
+     2)  Presence of a 5-10 cm long, significant stenosis in the proximal right
+     superficial femoral artery and of a short focal stenosis in the distal segment
+     of this artery.
+     2)  Short focal stenosis in the right tibioperoneal trunk.
+     3)  Diminutive right anterior and posterior tibial arteries, with peroneal
+     runoff to the ankle.
+     4)  No dorsalis pedis artery opacified. A medial plantar and lateral tarsal
+     are identified.
+
+",,
+24032,,,,3427-04-10 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3427-4-10**] 8:32 AM
+     [**Last Name (un) **] DUP EXTEXT BIL (MAP/DVT); ART EXT (REST ONLY)               Clip # [**Clip Number (Radiology) 15021**]
+     Reason: Evaluate veins in B/l LE veins for possible bypass          
+     Admitting Diagnosis: R ISCHEMIC FOOT
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      44 year old man with PVD possible need for bypass                               
+     REASON FOR THIS EXAMINATION:
+      Evaluate veins in B/l LE veins for possible bypass                              
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     STUDY #1:  Venous duplex, lower extremity.
+     
+     REASON:  The patient in need of bypass graft.
+     
+     STUDY #2:  Arterial Doppler, lower extremity.
+     
+     REASON:  Right foot ulcer.
+     
+     FINDINGS:  Duplex evaluation was performed of both greater saphenous veins.
+     They are patent.  On the right, the vein diameter ranges from 0.29-0.64 from
+     the ankle to the groin.  On the left, the diameter ranges from 0.33-0.55 cm.
+     
+     IMPRESSION:  Patent bilateral greater saphenous veins with suitable diameters.
+     Of note, the greater saphenous vein on the left is very superficial at the
+     level of the knee down through the calf.  This is also noted to a lesser
+     degree on the right.
+     
+     ARTERIAL DOPPLER, LOWER EXTREMITY:  On the right, Doppler tracings are
+     monophasic at all levels from the femoral to the dorsalis pedis artery.  The
+     ankle-brachial index cannot be calculated due to noncompressible vessels.
+     Pulse volume recordings are dampened at the low thigh level and are flat line
+     at the metatarsals.
+     
+     On the left, Doppler tracings are triphasic at the femoral and popliteal
+     levels only.  They are monophasic below.  There is no ankle-brachial index.
+     Pulse volume recordings show some drop off at the calf level and approximately
+     11 mm at the metatarsals.
+     
+     IMPRESSION:  Significant right iliac and likely multisegmental disease on the
+     right.  On the left, there is moderate tibial artery occlusive disease.
+
+",,
+24032,,,,3427-04-10 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+",,
+24032,,,,3427-04-10 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3427-4-10**] 8:32 AM
+     [**Last Name (un) **] DUP EXTEXT BIL (MAP/DVT); ART EXT (REST ONLY)               Clip # [**Clip Number (Radiology) 15021**]
+     Reason: Evaluate veins in B/l LE veins for possible bypass          
+     Admitting Diagnosis: R ISCHEMIC FOOT
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      44 year old man with PVD possible need for bypass                               
+     REASON FOR THIS EXAMINATION:
+      Evaluate veins in B/l LE veins for possible bypass                              
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     STUDY #1:  Venous duplex, lower extremity.
+     
+     REASON:  The patient in need of bypass graft.
+     
+     STUDY #2:  Arterial Doppler, lower extremity.
+     
+     REASON:  Right foot ulcer.
+     
+     FINDINGS:  Duplex evaluation was performed of both greater saphenous veins.
+     They are patent.  On the right, the vein diameter ranges from 0.29-0.64 from
+     the ankle to the groin.  On the left, the diameter ranges from 0.33-0.55 cm.
+     
+     IMPRESSION:  Patent bilateral greater saphenous veins with suitable diameters.
+     Of note, the greater saphenous vein on the left is very superficial at the
+     level of the knee down through the calf.  This is also noted to a lesser
+     degree on the right.
+     
+     ARTERIAL DOPPLER, LOWER EXTREMITY:  On the right, Doppler tracings are
+     monophasic at all levels from the femoral to the dorsalis pedis artery.  The
+     ankle-brachial index cannot be calculated due to noncompressible vessels.
+     Pulse volume recordings are dampened at the low thigh level and are flat line
+     at the metatarsals.
+     
+     On the left, Doppler tracings are triphasic at the femoral and popliteal
+     levels only.  They are monophasic below.  There is no ankle-brachial index.
+     Pulse volume recordings show some drop off at the calf level and approximately
+     11 mm at the metatarsals.
+     
+     IMPRESSION:  Significant right iliac and likely multisegmental disease on the
+     right.  On the left, there is moderate tibial artery occlusive disease.
+
+",,
+24032,,,,3427-04-11 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3427-4-11**] 9:30 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 15022**]
+     Reason: check line placement                                        
+     Admitting Diagnosis: R ISCHEMIC FOOT
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      44 year old man with s/p central line placment                                  
+     REASON FOR THIS EXAMINATION:
+      check line placement                                                            
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Central line placement.
+     
+     TECHNIQUE:  Single portable AP view of the chest was obtained, compared with
+     examination performed 3 days ago.
+     
+     FINDINGS:  There has been interval placement of a left-sided IJ central venous
+     catheter, with the tip at the upper SVC and junction with the left
+     brachiocephalic vein.  No evidence of pneumothorax.  No focal pulmonary
+     opacities or pleural effusions, although the lateral aspect of the left chest
+     has been coned out of view.  Mild cardiomegaly, without failure.
+     
+     IMPRESSION:  Left-sided central venous catheter placement, tip at the upper
+     SVC.  No evidence of pneumothorax.
+
+",,
+24032,,,,3427-04-16 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3427-4-16**] 2:44 PM
+     ART EXT SGL LEVEL                                               Clip # [**Clip Number (Radiology) 15023**]
+     Reason: eval graft function, metatarsal PVRs                        
+     Admitting Diagnosis: R ISCHEMIC FOOT
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       44 year old man with PVD, ESRD, IDDM with infected non-healing R foot ulcer 
+      s/p debridement and BPG
+     REASON FOR THIS EXAMINATION:
+      eval graft function, metatarsal PVRs                                            
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  44-year-old male with right foot ulcer.  Please perform pulse
+     volume recordings at the metatarsal level.
+     
+     COMPARISON:  Lower extremity noninvasive arterial studies from [**3427-4-10**].
+     
+     TECHNIQUE AND FINDINGS:  Focal pulse volume recordings were obtained,
+     revealing amplitudes of 26 mm at the right ankle and 6 mm at the right
+     metatarsum with amplitudes of 14 mm at the left ankle and 9 mm at the left
+     metatarsum.  Compared with the previous study dated in [**3427-4-10**], there is
+     no significant change within the left lower extremity recordings.  On the
+     right; however, the amplitude at the ankle has improved from a previous
+     measurement of 8 mm and at the metatarsum from a previous measurement of 3 mm.
+     There is dampening of the right metatarsal level waveform, but it is no longer
+     flat lined.
+     
+     IMPRESSION:  Focused distal lower extremity pulse volume recordings, with
+     amplitudes as stated above.  Compared with the previous study dated in [**3427-4-10**], there is moderate improvement on the right while the distal left
+     extremity remains unchanged.
+                                                                           
+
+",,
+24032,20860,,,3427-05-06 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+ 
+ 
+ 
+Admission Date:  [**3427-5-6**]              Discharge Date:   [**3427-5-24**]
+ 
+Date of Birth:  [**3382-9-14**]             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Penicillins
+ 
+Attending:[**First Name3 (LF) 682**] 
+Chief Complaint:
+confusion
+fever
+ 
+Major Surgical or Invasive Procedure:
+Lumbar puncture
+Staple removal, fem-[**Doctor Last Name 2463**] bypass and BKA sites
+Colonoscopy
+
+ 
+History of Present Illness:
+Briefly, 44yo man with h/o DM1, ESRD on HD, HTN, PVD s/p BKA 
+[**4-20**], ?CVA 2y PTA after p/w first seizure, multiple seizures 
+since, who p/w malaise, confusion, tremors concerning for sz, to 
+OSH ED. Patient had R fem-[**Doctor Last Name 2463**] bypass [**4-10**] and then BKA on [**4-19**] 
+at [**Hospital1 25**]. He was d/c'd to [**Hospital **] Rehab for 1 week, where starting 
+several days PTA he began c/o increased urinary frequency and 
+urgency x several days, but unclear if he produced urine.  Then 
+2d PTA had an episode of CP, SOB, diaphoresis, occasional 
+jerking movements of his extremities and fasciculations of his 
+abdominal muscles in context of elevated BP post-HD, which 
+resolved spontaneously. On the day PTA, pt again had jerking 
+movements, became increasingly confused, prompting his wife to 
+bring him to the [**Hospital6 4436**] ED. In the OSH, he was 
+noted to be ""writhing,"" which decreased with ativan x 5 mg. Also 
+received one dose of levofloxacin for presumed UTI, and blood cx 
+was sent. Had a negative head CT at OSH. Because of hypertension 
+to SBP 220s, he was started on his home agents, then changed to 
+nitroprusside. He was also started on insulin gtt for elevated 
+fsbg in 300s. Patient was intubated to protect airway, then 
+transferred to [**Hospital1 25**] MICU at family's request.
+ 
+Past Medical History:
+1. DM type 1
+2. HTN
+3. H/o sz x 2y
+4. H/o CVA 2 yr ago
+5. ESRD on HD (M/W/F) for 2 years
+6. H/o GBS
+7. Asthma
+8. gullian bare syndrome
+ 
+Social History:
+Married, two 6-yo twins, lives in [**Location 4437**] NH, on disability. 
+Tob 5 cigars/d, quit 1 mo ago. Remote h/o EtOH and other 
+substance abuse. 
+ 
+Family History:
+[**Last Name (un) **] w/ sz d/o
+ 
+Physical Exam:
+VS: 103.4, 150/50, 84, 19, 100% on AC 550/16/5/100%
+GEN: Intubated, NAD. No response to voice.
+HEENT: Small 2 mm pupils equally reactive to light. Intubated, 
+mmm.
+NECK: Supple, no nuchal rigidity
+CV: Tachycardic, hyperdynamic, systolic flow murmur, nl S1 S2
+PULM: Coarse bs bilaterally, R>L
+ABD: +bs, soft, NT/ND
+EXTR: R BKA and groin incision healed with staples, thin, + R 
+third digit erythema and excoriation, L foot excoriation, no 
+frank pus
+NEURO: Unresponsive to voice or sternal rub
+.
+
+ 
+Pertinent Results:
+Pertient results:
+[**3427-5-16**] 05:22AM BLOOD WBC-4.8 RBC-2.69* Hgb-8.3* Hct-26.9* 
+MCV-100* MCH-30.8 MCHC-30.9* RDW-19.4* Plt Ct-257
+[**3427-5-6**] 07:50PM BLOOD WBC-8.6 RBC-2.89* Hgb-8.7* Hct-26.1* 
+MCV-90 MCH-30.1 MCHC-33.3 RDW-17.8* Plt Ct-286
+[**3427-5-6**] 07:50PM BLOOD Neuts-85.3* Lymphs-10.1* Monos-4.4 Eos-0 
+Baso-0.1
+[**3427-5-6**] 07:50PM BLOOD Anisocy-1+ Macrocy-1+ Microcy-1+
+[**3427-5-14**] 05:19AM BLOOD PT-11.9 PTT-25.6 INR(PT)-0.9
+[**3427-5-6**] 07:50PM BLOOD PT-13.5* PTT-28.0 INR(PT)-1.2
+[**3427-5-12**] 05:33AM BLOOD Lupus-NEG
+[**3427-5-16**] 05:22AM BLOOD Glucose-364* UreaN-59* Creat-5.7*# Na-134 
+K-5.4* Cl-97 HCO3-25 AnGap-17
+[**3427-5-6**] 07:50PM BLOOD Glucose-355* UreaN-63* Creat-8.0*# Na-134 
+K-5.8* Cl-90* HCO3-26 AnGap-24*
+[**3427-5-6**] 07:50PM BLOOD ALT-7 AST-12 LD(LDH)-290* AlkPhos-123* 
+Amylase-62 TotBili-0.3
+[**3427-5-6**] 07:50PM BLOOD Lipase-13
+[**3427-5-16**] 05:22AM BLOOD Calcium-8.4 Phos-5.6* Mg-2.0
+[**3427-5-9**] 03:25PM BLOOD Albumin-3.2*
+[**3427-5-8**] 03:08AM BLOOD Calcium-8.1* Phos-5.4* Mg-1.8 Iron-32*
+[**3427-5-6**] 07:50PM BLOOD Albumin-2.9* Calcium-7.9* Phos-3.1 Mg-2.1
+[**3427-5-8**] 03:08AM BLOOD calTIBC-137 VitB12-1297* Folate-6.5 
+Ferritn-1947* TRF-105*
+[**3427-5-6**] 07:50PM BLOOD Osmolal-319*
+[**3427-5-6**] 07:50PM BLOOD Cortsol-36.4*
+[**3427-5-12**] 05:33AM BLOOD ANCA-NEGATIVE B
+[**3427-5-8**] 03:08AM BLOOD Phenyto-8.5*
+[**3427-5-9**] 03:25PM BLOOD Phenyto-4.7* Phenyfr-2.6* %Phenyf-55*
+[**3427-5-6**] 07:50PM BLOOD ASA-NEG Ethanol-NEG Acetmnp-NEG 
+Bnzodzp-NEG Barbitr-NEG Tricycl-NEG
+[**3427-5-12**] 12:43PM BLOOD CARDIOLIPIN ANTIBODY-PND
+[**3427-5-12**] 05:33AM BLOOD CARDIOLIPIN ANTIBODY-PND
+[**3427-5-7**] 02:47PM BLOOD THIOCYANATE-Test      
+[**3427-5-7**] 05:11PM URINE Color-Red Appear-Cloudy Sp [**Last Name (un) **]-1.015
+[**3427-5-7**] 05:11PM URINE Blood-LG Nitrite-POS Protein->300 
+Glucose-500 Ketone-40 Bilirub-NEG Urobiln-2* pH-8.5* Leuks-LG
+[**3427-5-7**] 05:11PM URINE RBC->1000 WBC-NOTDONE Bacteri-NOTDONE 
+Yeast-NOTDONE Epi-NOTDONE
+[**3427-5-7**] 12:05AM CEREBROSPINAL FLUID (CSF) WBC-1 RBC-0 Polys-11 
+Lymphs-43 Monos-46
+[**3427-5-7**] 12:05AM CEREBROSPINAL FLUID (CSF) TotProt-42 
+Glucose-227
+[**3427-5-7**] 12:05AM CEREBROSPINAL FLUID (CSF) HERPES SIMPLEX VIRUS 
+PCR-negative
+
+Micro:
+[**3427-5-12**] BLOOD CULTURE INPATIENT Pending 
+[**3427-5-7**] URINE INPATIENT no growth
+[**3427-5-7**] CSF;SPINAL FLUID INPATIENT no growth
+[**3427-5-6**] SPUTUM INPATIENT OP flora
+[**3427-5-6**] BLOOD CULTURE INPATIENT no growth
+[**3427-5-6**] BLOOD CULTURE INPATIENT no growth
+No growth to date
+
+Reports:
+CHEST (PORTABLE AP)  [**3427-5-21**] 3:32 AM
+IMPRESSION:
+1. Cardiomegaly and mild congestive heart failure versus volume 
+overload. Stable right pleural effusion.
+2. Right-sided PICC with tip in mid SVC.
+
+CHEST (PA & LAT)  [**3427-5-21**] 1:37 PM
+IMPRESSION: Interstitial pulmonary edema, which may be due to 
+volume overload in this patient with history of end-stage renal 
+disease. 
+
+FEMORAL VASCULAR US RIGHT  [**3427-5-20**] 11:06 AM
+IMPRESSION: Simple fluid collection within the right groin.
+
+CT RECONSTRUCTION  [**3427-5-19**] 9:17 PM
+CT ABDOMEN W/O CONTRAST; CT PELVIS W/O CONTRAST
+IMPRESSION: 4.4 x 4.5 cm low-density rounded lesion within the 
+right inguinal region. This could represent a pseudoaneurysm or 
+a mass, however, as contrast was not administered, its 
+enhancement characteristics cannot be determined. Superinfection 
+of the lesion cannot be excluded. An ultrasound of this mass is 
+recommended. 
+
+ECG Study date [**3427-5-18**]  5:29:48 PM
+Sinus tachycardia. Left axis deviation. Left anterior fascicular 
+block. Left ventricular hypertrophy with associated ST-T wave 
+changes. Compared to the previous tracing of [**3427-5-13**] left axis 
+deviation is now present. 
+TRACING #1  
+Read by: [**Last Name (LF) **],[**First Name3 (LF) **] H. 
+Intervals Axes 
+Rate PR QRS QT/QTc P QRS T 
+101 140 82 300/358 22 -31 112 
+
+Neurophysiology Report EEG Study Date of [**3427-5-18**] 
+IMPRESSION: This is a moderately abnormal EEG due to the 
+presence of 
+bifrontal and widespread slowing superimposed upon a slow 
+background. 
+This pattern is most consistent with a mild to moderate 
+encephalopathy 
+of toxic, metabolic, or anoxic etiology. The technologist did 
+not note 
+any episodes of unusual movements, and no evidence for ongoing 
+seizures 
+was seen. 
+  
+[**3427-5-14**] Radiology ART DUP EXT UP UNI LMTD RIGHT   IMPRESSION: 
+1. Mild fusiform enlargement of the proximal portion of the 
+right subclavian artery, corresponding to a diameter of 150 per 
+cent as compared to the contralateral side. This corresponds to 
+a borderline value for the definition of an aneurysm. No mural 
+thrombus is seen. 
+2. Incidental note of the presence of a PICC line in the right 
+subclavian vein.
+
+[**3427-5-13**] Cardiology ECG Sinus rhythm 
+Probable left ventricular hypertrophy with ST-T wave 
+abnormalities 
+Since previous tracing of [**3427-5-7**], baseline artifact seen 
+
+[**3427-5-13**] Neurophysiology EEG IMPRESSION: This is a normal 
+routine EEG obtained in wakefulness and brief stage II [**Doctor Last Name 209**]. No 
+lateralizing or epileptiform abnormalities were seen. 
+  
+[**3427-5-11**] Radiology MR HEAD INTERPRETATION: Limited examination 
+due to motion artifact. No intracranial masses visualized. No 
+acute stroke is seen. Few foci of increased T2 signal in the 
+periventricular white matter which may be related to chronic 
+hypertension versus chronic microvascular ischemic changes. 
+Opacification of both mastoid air cells.
+INTERPRETATION: MR angiography of the circle of [**Location (un) 337**] within 
+normal limits.
+
+[**3427-5-11**] Radiology CHEST (PA & LAT)   IMPRESSION: Normalization 
+of chest findings. Good position of right-sided PICC line.
+
+[**3427-5-8**] Neurophysiology EEG IMPRESSION: Possibly normal EEG 
+with an excessively drowsy record overall possibly suggestive of 
+[**Doctor Last Name 209**] deprivation or an early encephalopathy. 
+
+[**3427-5-7**] Cardiology ECG Sinus rhythm Left ventricular 
+hypertrophy with ST-T abnormalities Clinical correlation is 
+suggested Since previous tracing of [**3427-4-24**], QRS voltage and 
+ST-T wave changes more prominent 
+
+[**3427-5-7**] Cardiology ECHO 1. The left atrium is moderately 
+dilated. The left atrium is elongated. 2. There is mild 
+symmetric left ventricular hypertrophy. The left ventricular  
+cavity size is normal. Overall left ventricular systolic 
+function is normal(LVEF>55%).  3. Right ventricular chamber size 
+is normal. Right ventricular systolic  function is normal.  
+4.The aortic valve leaflets (3) appear structurally normal with 
+good leaflet  excursion and no aortic regurgitation. No masses 
+or vegetations are seen on  the aortic valve.  5.The mitral 
+valve leaflets are moderately thickened. No mass or vegetation 
+is  seen on the mitral valve. Mild (1+) mitral regurgitation is 
+seen.  6.The estimated pulmonary artery systolic pressure is 
+normal.  7. There is no pericardial effusion.  
+
+[**3427-5-7**] Radiology CHEST (PORTABLE AP)   IMPRESSION:
+1) Increasing opacity in left retrocardiac region, which may be 
+due to aspiration, atelectasis or evolving infectious pneumonia.
+2) Possible mild fluid overload
+
+[**3427-5-6**] Radiology CHEST (PORTABLE AP)   IMPRESSION:
+Low position of endotracheal tube, terminating in the proximal 
+right main stem bronchus. This finding has been communicated 
+with the clinical service caring for the patient. Subtle 
+increased opacity in left retrocardiac region, which may be due 
+to atelectasis, aspiration or early pneumonia. Followup 
+radiograph suggested.
+ 
+Brief Hospital Course:
+44 yo M w/ DM1, HTN, ESRD on HD, p/w delta ms x2d and marked 
+fever x 1d.
+.
+MICU course:
+After arriving at [**Hospital1 25**], patient had CXR that was clear, though 
+RN did suction vomitus out of ETT. Also had head CT that was 
+negative for bleed or mass, EKG with peaked T waves but no 
+ischemic changes, serum tox negative. Was started on 
+CTX/Acyclovir IV in case of meningitis, then had an LP performed 
+with no evid of infection, cultures negative, was put on 
+acyclovir until HSV PCR came back negative. Had a TTE to look 
+for vegetations that was negative, does have LVH. Was also 
+switched from nitroprusside gtt to labetolol gtt for blood 
+pressure control, thiocyante level was sent out of concern for 
+cyanide toxicity given his ESRD. Repeat CXR showed increasing 
+opacity in the left retrocardiac region, concerning for 
+pneumonia. Blood, urine, CSF cultures were without growth. 
+Sputum culture c/w OP flora. Did have WBC count 19 with left 
+shift, which came down to 11. Prior to transfer to floor, was 
+followed by Renal who feel that symptoms on admit were likely 
+from hypertensive urgency, and Neuro who feel that symptoms were 
+c/w sz d/o (partial complex status epilepticus), recommended 
+dilantin loading, EEG that was consistent with encephalopathy 
+but without sz activity. 
+.
+Floor course:
+1. Delta ms: 
+-was likely multifactorial, including some element from HTN, 
+dilantin side effect as free dilantin levels were markedly 
+elevated with %bound dilantin around 55%, possible postictal 
+state. HTN was intermittently brought under control but with 
+continued encephalopathy. Nitroprusside use was concerning for 
+cyanide toxicity, thiocyanate level sent was wnl. Nipride used 
+in ICU as outside hospital. Dilantin dosing was being done 
+initially based on bound levels, but then once free phenytoin 
+came back it became apparent that he was seeing much higher free 
+levels than predicted. Dilantin was discontinued in favor of 
+Trileptal. Though no sz activity was caught on EEG, it was 
+thought that the story of his presenting symptoms were likely 
+possibly from a postictal state. Patient's symptoms slowly 
+improved, most notably after discontinuing the Dilantin, though 
+it is hard to say for sure what the biggest factor was in his 
+delirium. He returned to baseline before discharge. He did have 
+a second episode of encephalopathy during the later part of the 
+hospitalization when the patient again became febrile.  It 
+should be noted that on initial presentation the patient was 
+also febrile so the second episode of fever/delerium may have 
+[**Doctor First Name **] caused by the same factor as the first.  This would suggest 
+that the first episode of delerium was not due to a seizure.
+.
+2. Fever: Had fever on admit, no clear source found, resolved 
+shortly thereafter.
+Had urinary sx on admit as well, with elevated WBC count and 
+bandemia concerning for UTI; patient was anuric except for 
+straight cath specimen that was overwhelmed with blood from the 
+straight cath itself most likely. His symptoms resolved after 
+antibiotics were given in MICU. His CXR was initially clear, but 
+had some evidence of PNA on repeat and RN suctioned same 
+material out of ETT that was vomited. Follow up chest x-ray was 
+markedly improved . TTE was negative for vegetation. He had 
+recurrent fever on [**5-18**] and was pan-cultured with no obvious 
+source found. An ID consult was obtained and it was thought that 
+he most likely had a bacteremia that was not caught on culture. 
+They recommended a 2 week course of Vancomycin and Levoquin for 
+presumed occult bacteremia.
+ 
+3. HTN: extremely difficult to control; was on nitroprusside 
+initially then labetalol drip while in MICU. Subsequently 
+started on clonidine and ramped up, ramped up lisinopril, then 
+minoxidil that was ramped up, finally controlling his BP 
+somewhat. Will need further outpatient management. Patient's 
+lack of insight into diet is also limiting in this regard. It 
+seems likely the patient's hypertension is in large part volume 
+dependent as his interdialyctic weight would often increase by 
+as much as 6kg. Per conversation with the patient's outpatient 
+nephrologist, this has been an ongoing issue.
+.
+4. ESRD: continued HD MWF, renal team followed closely and 
+challenged dry weight; continued procrit as BP allowed (held 
+when BP too high). 
+.
+5. Anemia: stool found to be guaiac positive and because of 
+unexplained hematocrit drop he underwent an endoscopy and 
+colonoscopy which revealed gastritis and a polyp (latter was 
+biopsied- results pending at the time of this summary). Although 
+this was not likely to cause the drop in HCT, the patient was 
+transfused and his HCT  remains stable to date. 
+
+6. DM1: was initially kept on lower dose of glargine in setting 
+of poor PO intake, but then glargine was titrated back up in the 
+setting of hyperglycemia and dietary indiscretion. [**Last Name (un) 279**] was 
+consulted to help manage this patient. His blood sugars were 
+better controlled on discharge, though he will need [**Last Name (un) 279**] f/u 
+as an outpatient to manage his brittle diabetes.
+.
+7. H/o sz: EEG#1 had enceph, no sx; EEG#2 was normal; was on 
+dilantin initially, switched to trileptal because levels were 
+running high; will f/u with Neuro as outpatient. It should be 
+noted that it is unclear whether any of the patient's episodes 
+of delerium could be attributed to seziure activity.
+.
+8. Full code per wife. Contact = HCP= [**Doctor First Name **] wife [**Telephone/Fax (1) 4438**] H, 
+[**Telephone/Fax (1) 4439**] [**Initials (NamePattern4) **] [**Last Name (NamePattern4) **] [**Last Name (NamePattern1) 4440**] = sister.
+
+ 
+Medications on Admission:
+Procardia XL 60 mg po bid (new med), SQH, Reglan 5 QID, Catapres 
+TTS #3 qweek (started mid-week last week), Benazepril 20 qd (new 
+med), Epogen 15000 u MWF, Norvasc 10 [**Last Name (LF) 784**], [**First Name3 (LF) **] 81 qd, Lantus 18u 
+qd, Colace 100 bid, SSI
+ 
+Discharge Medications:
+1. Amlodipine Besylate 5 mg Tablet Sig: Two (2) Tablet PO DAILY 
+(Daily).
+Disp:*60 Tablet(s)* Refills:*2*
+2. Oxycodone-Acetaminophen 5-325 mg Tablet Sig: One (1) Tablet 
+PO Q6H (every 6 hours) as needed: for pain from gangrenous 
+fingertips.
+Disp:*40 Tablet(s)* Refills:*0*
+3. Clonidine 0.2 mg Tablet Sig: 1.5 Tablets PO BID (2 times a 
+day).
+Disp:*90 Tablet(s)* Refills:*2*
+4. Insulin Glargine 100 unit/mL Solution Sig: Twelve (12) units 
+Subcutaneous once a day: at noon.  
+5. Insulin Lispro (Human) 100 unit/mL Solution Sig: One (1) 
+injection Subcutaneous four times a day: per sliding scale.  
+6. Metoprolol Tartrate 25 mg Tablet Sig: One (1) Tablet PO twice 
+a day.
+Disp:*90 Tablet(s)* Refills:*2*
+7. Lisinopril 20 mg Tablet Sig: Two (2) Tablet PO BID (2 times a 
+day).
+Disp:*120 Tablet(s)* Refills:*2*
+8. Pantoprazole Sodium 40 mg Tablet, Delayed Release (E.C.) Sig: 
+One (1) Tablet, Delayed Release (E.C.) PO Q24H (every 24 hours).
+Disp:*30 Tablet, Delayed Release (E.C.)(s)* Refills:*2*
+9. Oxcarbazepine 300 mg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+10. Senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a 
+day) as needed.
+Disp:*30 Tablet(s)* Refills:*0*
+11. Calcium Acetate 667 mg Tablet Sig: Two (2) Tablet PO TID 
+W/MEALS (3 TIMES A DAY WITH MEALS).
+Disp:*90 Tablet(s)* Refills:*2*
+12. Levofloxacin 250 mg Tablet Sig: One (1) Tablet PO Q48H 
+(every 48 hours) for 10 days: please take before  bed.
+Disp:*5 Tablet(s)* Refills:*0*
+13. Vancomycin in Dextrose 1 g/200 mL Piggyback Sig: One (1) 
+gram Intravenous  qhd for 10 days: please check vanc level at 
+dialysis, and dose for level < 20. gram 
+14. Epogen 10,000 unit/mL Solution Sig: 1.5 u Injection qmwf: at 
+dialysis.  
+15. Minoxidil 10 mg Tablet Sig: One (1) Tablet PO twice a day.
+Disp:*60 Tablet(s)* Refills:*2*
+16. Colace 100 mg Capsule Sig: One (1) Capsule PO twice a day: 
+use while taking oxycodone
+.
+Disp:*60 Capsule(s)* Refills:*2*
+
+ 
+Discharge Disposition:
+Home with Service
+ 
+Discharge Diagnosis:
+1. Hypertensive urgency
+2. Encephalopathy, likely multifactorial including from 
+hypertension, dilantin overdose, seizure activity
+3. Dry gangrene of 2nd, 3rd digits on right hand, likely from 
+microvascular disease though concerning for embolic disease from 
+proximal vessels
+4. Diabetes mellitus, type II
+5. Right lower leg amputation, from prior admission
+6. Anemia, normocytic
+7. End-stage renal disease, HD-dependent
+
+ 
+Discharge Condition:
+Hemodynamically stable with improved blood pressure control, 
+improved blood sugar control. Patient discharged to home.
+ 
+Discharge Instructions:
+Please take all medications as prescribed and follow up with 
+your primary care doctor in the week after your discharge from 
+the hospital. Also, please cooperate with the healthcare team at 
+the rehabilitation facility.
+
+If [**Doctor First Name **] develop confusion, lightheadedness, dizziness, systolic 
+blood pressures consistently over 200mmHg, headache or visual 
+changes, blood sugars consistently over 300 mg/dL, please call 
+your doctor and/or go to the nearest Emergency Room for 
+evaluation.
+ 
+Followup Instructions:
+[**Doctor First Name 27**] have the following appointments set up:
+RENAL TRANSPLANT DOCTOR
+Provider: [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) 3463**], MD [**MD Number 52**]: LM [**Hospital Ward Name 353**] BUILDING 
+TRANSPLANT CENTER Phone:[**Telephone/Fax (1) 351**] Date/Time:[**3427-6-18**] 1:00
+
+NEUROLOGIST
+Provider: [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) **], MD. [**MD Number 52**]: [**Hospital Ward Name **] BUILDING 8th floor
+Phone:[**Telephone/Fax (1) 3234**] Date/Time:[**3427-7-11**] 1pm
+
+VASCULAR SURGERY
+Provider: [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern1) 1283**], MD [**MD Number 52**]: [**Last Name (NamePattern1) **]
+Phone:([**Telephone/Fax (1) 3841**] Date/Time: [**3427-6-20**] 11.30am
+
+INFECTIOUS DISEASES
+Provider: [**Name10 (NameIs) 4441**] [**Doctor Last Name 688**] ,MD    [**MD Number 52**]: [**Last Name (NamePattern1) **] 
+(Basement)
+DATE/TIME: [**3427-6-25**] 10.00am
+Phone:([**Telephone/Fax (1) 1034**]
+
+[**Last Name (un) **] DIABETES CENTER
+PLEASE CALL FOR NEXT AVAILABLE APPOINTMENT (1ST AVAILABLE 
+PHYSICIAN)
+Phone:[**Telephone/Fax (1) 2825**]
+
+PRIMARY CARE PROVIDER (PCP)
+PLEASE CALL FOR NEXT AVAILABLE APPOINTMENT 
+Provider: [**Name10 (NameIs) 4442**] [**Name8 (MD) **], MD
+[**MD Number 161**]:[**Telephone/Fax (1) 4443**]
+
+Completed by [**First Name8 (NamePattern2) 99**] [**Name8 (MD) 100**] MD
+
+ 
+                             [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 696**] MD [**MD Number 697**]
+ 
+Completed by: [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 696**] MD [**MD Number 697**] [**3427-6-17**] @ 2300
+Signed electronically by: DR. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) **]
+ on: MON [**3427-7-30**] 7:25 PM
+(End of Report)
+
+
+",,
+24032,20860,,,3427-05-06 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3427-5-6**] 8:26 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 15024**]
+     Reason: eval for infiltrate, effusion                               
+     Admitting Diagnosis: MENTAL STATUS CHANGES
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      44 year old man w/ DM, ESRD, fevers to 104.                                     
+     REASON FOR THIS EXAMINATION:
+      eval for infiltrate, effusion                                                   
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     Portable chest of [**3427-5-6**].
+     
+     COMPARISON:  [**3427-4-11**].
+     
+     INDICATION:  Fever.
+     
+     FINDINGS:  An endotracheal tube is malpositioned, terminating in the right
+     main stem bronchus.  A nasogastric tube is curved superiorly within the
+     fundus.  Cardiac and mediastinal contours are within normal limits for
+     technique.  There is subtle increased opacity within the left retrocardiac
+     region.  The remainder of the lungs are grossly clear, but a small portion of
+     the left lung base laterally has been excluded from the radiograph.
+     
+     IMPRESSION:
+     
+     Low position of endotracheal tube, terminating in the proximal right main stem
+     bronchus. This finding has been communicated with the clinical service caring
+     for the patient.
+     
+     Subtle increased opacity in left retrocardiac region, which may be due to
+     atelectasis, aspiration or early pneumonia.  Followup radiograph suggested.
+     
+     
+     
+
+",,
+24032,20860,29847,,3427-05-07 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3427-5-7**] 3:58 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 15025**]
+     Reason: eval for aspiration, new infiltr                            
+     Admitting Diagnosis: MENTAL STATUS CHANGES
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       44 year old man w/ DM, ESRD, fevers to 104, question of aspiration.            
+                               
+     REASON FOR THIS EXAMINATION:
+      eval for aspiration, new infiltr                                                
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Fever.  Question aspiration.
+     
+     Comparison is made to previous study of [**3427-5-6**].
+     
+     An endotracheal tube and nasogastric tube remain in place.  The nasogastric
+     tube is now coiled with the distal tip directed back towards the GE junction
+     region.  An endotracheal tube terminates approximately 2 cm above the carina
+     with the neck in a flexed position.  Cardiac and mediastinal contours are
+     stable.  There has been interval development of perihilar haziness and slight
+     prominence of the pulmonary vascularity, which may be due to reduced lung
+     volumes or mild fluid overload.  Assessment of the lungs demonstrates
+     increasing opacity in the left retrocardiac region.
+     
+     IMPRESSION:
+     1)  Increasing opacity in left retrocardiac region, which may be due to
+     aspiration, atelectasis or evolving infectious pneumonia.
+     2)  Possible mild fluid overload.
+                                                                           
+
+",,
+24032,20860,29847,0,3427-05-07 04:03:00 EST,3427-05-07 04:59:00 EST,6765,"N",69,"Nursing/Other",,"
+
+NPN 1900-0700 MICU-A
+
+EVENTS:  Pt. admitted to ICU rm.794 at 1930, arrived by EMT from OSH for continued care of sz's, fevers, and change in MS.  Pt. remains intubated, not sedated and on nipride and insulin gtts.  Admit EKG shows peaked t-waves, pt. changed from nipride gtt to labetolol gtt for BP control (SBP 220 off nipride).  Temp upon admission 103.4, pt. placed on cooling blanket. No seizure activity noted.  Pt. vomited and aspirated while turning.  OGT to LIWS with immediate return of approx. 250cc brown drainage.  LP completed 2400, opening pressure from LP 38mmHG, pt. tolerated procedure without difficulty.  Pt. pan Cx upon admission, unable to obtain urine specimen due to pt. anuric.
+
+ROS: See careview for complete assessment data.
+Neuro- Pt. unresponsive on admit, after LP pt. opens eyes to stimuli, no tracking, bilat. UE flex toward head and rigid, bilat LE straight and rigid, no purposeful movements noted.  PERRLA. No seizure activity noted.
+
+Resp- Pt. remains intubated with #8.0 OETT, taped 23cm at the lip.  Pt. bites ETT intermittently, does not tol bite block.  Lung sounds are coarse throughout.  Current vent settings CMV 12/550/+5 40%FiO2, most recent ABG 7.46/41/224.
+
+CVS- NSR 70's, no ectopy.  Pt. cont. on Labetolol gtt at 1.0 mg/hr with BP 140-150/40-50. Weakly palp. pulses to LLE, +1 edema noted to RUE.
+
+GI- Abd round, soft, distended with rare BS.  Pt. remains NPO, OGT to LIWS, cont. to have return of dark brown drainage (?coffee ground).  x1 BM, large, formed, brown, guiac negative.  Pt. vomited x2 with turning.  Pt. given Kayexalate for K=5.8.
+
+GU- Foley catheter to gravity drain, pt. anuric at this time.  No dialysis scheduled at this time.  Pt. normal schedule is M,W,F.  BUN/CR-63/8.0 upon admit.
+
+Skin- Skin tone normal for pt. race, hot and dry.  Right hand #2 and #4 fingers with blisters and purulent drainage.  Right groin down inside of thigh with fempop incision, OTA, staples intact, edges approx., no drainage, slightly pink at upper portion of incision.  Right stump incision OTA with staples intact, edges approx. no drainage noted.  Left great toe with necrotic area.  Left UE with fistula +thrill/+bruit noted. LP site CDI with bandade in place.  Right stump with knee immobilizer in place.
+
+Endo- pt. cont. on insulin gtt FBS initially 399, low of 42 0230 this am.  Currently gtt 1.5u/hr.
+
+ID- pt. temp down to 99.1 this am, off cooling blanket.  Acyclovir initated for questionable HSV, Ceftriaxone initiated for possible aspiration PNA.
+
+Access- Right FA PIV #20, dual lumen placed at OSH, Left EJ PIV #18 g. placed by EMS prior to transport. Left UE fistula.
+
+Social- Wife and immediate family very involved and supportive.  Pt. has 6 yr. old twins at home.  Wife stayed [**Name2 (NI) 68**] in waiting room, mother and sister stayed until about 3AM.
+
+Labs- WBC 19.6 up from 8.6 upon adm., Hct fell slightly to 25.3 (previously 26.1).  Chem 10 still pending.  Coags WNL.
+
+PLAN: Possible neurology consult for pt. change of MS. [**First Name (Titles) 4070**] [**Last Name (Titles) 1826**] pen
+",,
+24032,20860,29847,0,3427-05-07 04:04:00 EST,3427-05-07 04:59:00 EST,6765,"N",69,"Nursing/Other",,"
+
+(Continued)
+ding.
+
+ 
+",,
+24032,20860,29847,0,3427-05-07 04:56:00 EST,3427-05-07 05:02:00 EST,2452,"N",69,"Nursing/Other","Resp Care","
+Resp Care
+Pt. received @ change of shift, intubated with #8 ett @ 28lipline. No post-intubation CXR. CXR done revealed ett on carina, pulled back to 23 lipline with bilat. Pt. occ. chewing on tube, however not sedated d/t neuro status making it difficult to place an oral airway. LP done to r/o meningitis.
+BS's and matching inhaled/exhaled VT's.
+Bs: scattered rhonchi, pt. appeared to have aspirated, sxn'd lrg. amts of thick brown gastric contents x3.
+abgs: hyperoxygenated metabolic alkalosis.
+Plan:  Cont. current support.
+",,
+24032,20860,29847,0,3427-05-07 05:18:00 EST,3427-05-07 05:23:00 EST,6765,"N",69,"Nursing/Other",,"
+
+Addendum to 1900-0700 NPN
+
+Pt. aroused with 0600 FBS check.  Pt. with purposeful movements, sitting up in bed, attempting to pull out OETT, eyes open and tracking.  Pt. not following commands at this time.  Dr. [**Doctor Last Name 4071**] notified.  MD [**First Name (Titles) **] [**Last Name (Titles) 2166**] assessing pt. new orders received.  Wife in waiting room, notifed.  Wife and sister to bedside, able to calm pt. slightly.  Propofol gtt initiated for pt. sedation.  MD also updated on pt. AM labs= K+ remains elevated 5.6, Phos elevated at 5.0.  Plan for dialysis today.
+",,
+24032,20860,29847,0,3427-05-07 13:19:00 EST,3427-05-07 14:05:00 EST,6280,"N",69,"Nursing/Other",,"
+
+CCU NPN: 0700-1500
+
+S: Unable to verbalize - intubated and sedated
+
+O: See CareVue flowsheet for complete assessment details
+
+CV: HR 60s, SR no ectopy noted.  BP stable - slightly elevated during hemodialysis.  Previous hypertension as discussed in rounds perceived to be as result of medication additions and adjustments.  Adm. PO Zestril w/ results pending.  Labetolol infusion discontinued at 0800 for SBP goal 140-170.  PM K+ ordered for 1830 (post-dialysis).  Hct 25.3 - no transfusion ordered at this time.  
+
+RESP: Remains intubated on AC/0.40/550/10/5 - attempted CPAP+PS trial in AM while pt. on mild sedation and pt. did not tolerate.  Further attempts to decrease sedation on hold until completion of hemodialysis.  In-frequent suctioning of brown secretions from ETT.  No further ABGs at this time per MICU team.  
+
+GI/GU/ENDO: Abd. soft, slightly distended w/ active BS x4 quadrants.  OGT placement confirmed by auscultation.  OGT connected to LIWS - notable brown aspirate.  Remains NPO.  No stool this shift.  Anuric - minimal amount of blood-tinged urine in tubing - UA/UCx unable to be obtained d/t lack of volume.  Hourly FS w/ insulin gtt titrated 0-3u/hr for goal 100-130.  
+
+HEME: Received hemodialysis - currently in progress.  Goal -3 kg.  Elevated renal function this AM: BUN/Creat 67/8.4.  
+
+SKIN: Skin intact w/ incisional wounds x2.  R BKA incision staples D/I, well-approximated borders.  R femoral incision D/I, slight swelling noted in pelvic area, pink in upper margins of incision.  Plan to notify vascular team to remove staples per MICU team.  Scabs scattered throughout upper extremities.   
+
+ID: Elevated WBC this AM: 19.6 - received doses (1 each) of Acyclovir and Ceftriaxone overnight - antx since been discontinued as lumbar puncture results negative.  Blood and sputum cultures pending from [**5-6**].  Tmax 98.0 PO - Tcurrent 97.4 AX (pt. developed combative behavior w/ attempts to obtain oral temp).  
+
+NEURO: Pt. arousable to voice and stimuli - spontaneous eye opening at times.  Inconsistently follows minimal commands - demonstrated weak left hand grasp - otherwise no apparent attempts to follow commands.  Appeared to appropriately answer ""no"" to question asked by wife.  Minimal attempts at tracking.  Pupils equal w/ brisk reactivity to light.  Neurology consult initiated.  Periods of severe agitation at times during which pt. demonstrated combative behaviors and attempted to grab ETT requiring Propofol 5-20mcg/kg/min.  Plan to further wean Propofol once hemodialysis complete.  No seizure activity appreciated.    
+
+SOCIAL: Family at bedside.  Very supportive.  Asking appropriate questions re: plan of care.  Wife and sister able to discuss plan of care w/ MICU team.
+
+A/P: Admitted from OSH [**5-6**] w/ hypertension, poss. seizures/mental status changes, hyperglycemia and fevers.  Intubated prior to admission for airway protection.  Pancultured [**5-6**] w/ results pending. Labetolol infusion for hypertension - goal SBP 140-170 plan to transition to  
+",,
+24032,20860,29847,0,3427-05-07 13:20:00 EST,3427-05-07 14:05:00 EST,6280,"N",69,"Nursing/Other",,"
+
+(Continued)
+PO med regimen.  Neurology consult in progress - plan to wean Propofol as tolerated after dialysis.  Continue CPAP+PS trial w/ decreased sedation - poss. extubation this PM?  Follow tolerance to hemodialysis and lytes obtained post-HD. Poss. central venous access - awaiting further plans from MICU team.  Emotional support and teaching to pt. and family.          
+
+
+",,
+24032,20860,29847,1,3427-05-07 13:20:00 EST,3427-05-07 17:40:00 EST,6280,"Y",69,"Nursing/Other",,"
+
+MICU NPN Addendum 1830:
+
+CV: Pt. continues to be hypertensive post-HD w/ SBP 170s-180s - Clonidine and Norvasc added to PO regimen w/ mild effect.  Discussed BP w/ Dr. [**Last Name (STitle) **], and plan made to continue to monitor SBP w/ goal < 200.  Hct stable post-HD: 27.0.  
+
+RESP: Currently tolerating CPAP+PS 15/5 w/ adequate tidal volumes and RR 8-16 off sedation.  Awaiting ABG per Dr. [**Last Name (STitle) **] - poss. extubation this evening if continues to tolerate.  
+
+NEURO: Neurology initial consult completed w/ pt. off sedation.  Follows commands consistently and demonstrated ability to track and follow w/ eyes.  Able to make needs known w/ non-verbal cues.  Family at bedside.  Plan to initiate Dilantin load w/ maintenance dose.  EEG in future?
+
+ENDO: FS tenuous w/ hypoglycemia in PM which resolved w/ 1 amp D50.  Insulin gtt titrated per protocol.  
+
+ACCESS: Discussed lack of peripheral IV access w/ MICU team. PICC line access requested and IV team made aware of such.  IV team to place peripheral IV this PM.
+
+A/P: Continue to monitor BP and tolerance to current med. regimen.  Follow PM labs - to be obtained w/ ABG this PM per MICU team.  Poss. extubation this PM if continues to tolerate CPAP and appropriate ABG.  Continue to monitor neuro status.  Hourly FS.  Awaiting PIV access per IV team.  
+",,
+24032,20860,29847,0,3427-05-07 19:30:00 EST,3427-05-07 19:32:00 EST,2452,"N",69,"Nursing/Other","Resp Care","
+Resp Care
+Pt. extubated from [**8-29**] following acceptable abgs, rsbi. Placed on 50% cool aerosol, tolerating well with SPo2 of 97%. No resp. distress or stridor noted.
+",,
+24032,20860,29847,0,3427-05-08 03:35:00 EST,3427-05-08 03:59:00 EST,6765,"N",69,"Nursing/Other",,"
+
+NPN 1900-0700 MICU
+
+EVENTS: Pt. extubated 2030 to 50% humidified face mask, tolerating without difficulty.  Resperations are equal and unlabored, SpO2 100% [** 68**].
+
+ROS: See careview for complete assessment data.
+Neuro- Pt. awake makes confused statements, oriented x1-2. No seizure activity noted overnight, dilantin load complete at 0030, level drawn at 0300.  Pt. at times makes loud, profane statements to family and staff.
+
+Resp- Pt. placed on 3L NC this am, tolerating without difficulty.  Lung sounds are clear and dim. bilat. bases.  Pt. has strong, productive cough.  Pt. encouraged to C&DB.  Pt. denies c/o sob or diff. breathing.
+
+CVS- NSR 70's, no ectopy, BP stable 150-170's on PO antihtn only.  Pt. afebrile.  Palp. pulses, Generalized NP edema.
+
+GI/GU- Abd round, soft and slightly distended with +BS, no BM [** 68**]. Pt. denies c/o N/V, pt remains NPO except meds at this time.  Foley to gravity, pt. remains anuric.  HD on day shift with 3.2KG removed.
+
+Skin- Right groin and Right BKA staples intact, incision edges approx. Right 2nd and 4th fingers with blisters, purple in color, scant amt. purulent drainage.  Left great toe with small necrotic area.  Multiple scabs to bilat. UE and Left LE.
+
+Access- Left EJ PIV saline locked #18G.  IV team started x2 PIV Right arm (#22G and #20G).  Left UE fistula with positive thrill and bruit noted.
+
+Labs- AM labs with K+ WNL this am, Phos cont. to climb (5.4), H/H increased to 8.9 and 28.3. FBS remains labile on insulin gtt 62-232.
+
+Social- Large family, very supportive.  Wife stayed in WR [** 68**].
+
+PLAN:  To IR this AM for PICC line placement for cont. ABX therapy.  EEG to be done per neuro (med. teams needs to order).  Possible call out today.
+",,
+24032,20860,,,3427-05-10 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3427-5-10**] 7:33 AM
+     PICC LINE PLACMENT SCH                                          Clip # [**Clip Number (Radiology) 15026**]
+     Reason: please place PICC, has failed bedside attempt               
+     Admitting Diagnosis: MENTAL STATUS CHANGES
+     ********************************* CPT Codes ********************************
+     * 36569 PICC W/O [**State/Zipcode 185**] FLUOR GUID PLCT/REPLCT/REMOVE *
+     * C1751 CATH [**Last Name (LF) 186**],[**First Name3 (LF) **]/CENT/MID(NOT D                                     *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      44 year old man with ESRD on HD, a/w AMS, HTN urgency, receiving IV acyclovir 
+      and prn IV hydral for HTN
+     REASON FOR THIS EXAMINATION:
+      please place PICC, has failed bedside attempt                                   
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: Hypertension, needs intravenous line for acyclovir and
+     medications.
+     
+     PROCEDURE/FINDINGS:
+     
+     The procedure was performed by Dr. [**First Name8 (NamePattern2) 2274**] [**Name (STitle) 2275**] and Dr. [**First Name8 (NamePattern2) 653**] [**Name (STitle) 519**] with Dr.
+     [**Last Name (STitle) 519**], the Attending Radiologist, supervising the entire procedure. The
+     patient was placed supine on the angiographic table, the right upper arm was
+     prepped and draped in the standard sterile fashion.  Using ultrasonographic
+     guidance, the right basilic vein was accessed with a 21-gauge micropuncture
+     needle after local administration of 1% lidocaine.  A 0.018 guide wire was
+     advanced through the needle into the superior vena cava under fluoroscopic
+     guidance.  The needle was exchanged for a 4.5-French micropuncture sheath with
+     inner dilator. The inner dilator was removed.  It was determined that a length
+     of 35 cm would be adequate.  The inner dilator was removed, PICC line advanced
+     over the wire into the superior vena cava. The guidewire and peel-away sheath
+     were removed. Final fluoroscopic x-ray demonstrates, tip of the PICC line to
+     be in the superior vena cava.  The line was flushed, capped, and hep-locked,
+     and secured to the skin using StatLock and Op-Site.
+     
+     COMPLICATIONS:  None.
+     
+     IMPRESSION:
+     
+     35 cm single lumen right basilic PICC line with tip in superior vena cava,
+     ready for use.
+     
+     
+     
+     
+     
+
+",,
+24032,20860,,,3427-05-10 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3427-5-10**] 7:33 AM
+     PICC LINE PLACMENT SCH                                          Clip # [**Clip Number (Radiology) 15026**]
+     Reason: please place PICC, has failed bedside attempt               
+     Admitting Diagnosis: MENTAL STATUS CHANGES
+     ********************************* CPT Codes ********************************
+     * 36569 PICC W/O [**State/Zipcode 185**] FLUOR GUID PLCT/REPLCT/REMOVE *
+     * C1751 CATH [**Last Name (LF) 186**],[**First Name3 (LF) **]/CENT/MID(NOT D                                     *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      44 year old man with ESRD on HD, a/w AMS, HTN urgency, receiving IV acyclovir 
+      and prn IV hydral for HTN
+     REASON FOR THIS EXAMINATION:
+      please place PICC, has failed bedside attempt                                   
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: Hypertension, needs intravenous line for acyclovir and
+     medications.
+     
+     PROCEDURE/FINDINGS:
+     
+     The procedure was performed by Dr. [**First Name8 (NamePattern2) 2274**] [**Name (STitle) 2275**] and Dr. [**First Name8 (NamePattern2) 653**] [**Name (STitle) 519**] with Dr.
+     [**Last Name (STitle) 519**], the Attending Radiologist, supervising the entire procedure. The
+     patient was placed supine on the angiographic table, the right upper arm was
+     prepped and draped in the standard sterile fashion.  Using ultrasonographic
+     guidance, the right basilic vein was accessed with a 21-gauge micropuncture
+     needle after local administration of 1% lidocaine.  A 0.018 guide wire was
+     advanced through the needle into the superior vena cava under fluoroscopic
+     guidance.  The needle was exchanged for a 4.5-French micropuncture sheath with
+     inner dilator. The inner dilator was removed.  It was determined that a length
+     of 35 cm would be adequate.  The inner dilator was removed, PICC line advanced
+     over the wire into the superior vena cava. The guidewire and peel-away sheath
+     were removed. Final fluoroscopic x-ray demonstrates, tip of the PICC line to
+     be in the superior vena cava.  The line was flushed, capped, and hep-locked,
+     and secured to the skin using StatLock and Op-Site.
+     
+     COMPLICATIONS:  None.
+     
+     IMPRESSION:
+     
+     35 cm single lumen right basilic PICC line with tip in superior vena cava,
+     ready for use.
+     
+     
+     
+     
+     
+
+",,
+24032,20860,,,3427-05-10 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3427-5-10**] 7:33 AM
+     PICC LINE PLACMENT SCH                                          Clip # [**Clip Number (Radiology) 15026**]
+     Reason: please place PICC, has failed bedside attempt               
+     Admitting Diagnosis: MENTAL STATUS CHANGES
+     ********************************* CPT Codes ********************************
+     * 36569 PICC W/O [**State/Zipcode 185**] FLUOR GUID PLCT/REPLCT/REMOVE *
+     * C1751 CATH [**Last Name (LF) 186**],[**First Name3 (LF) **]/CENT/MID(NOT D                                     *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      44 year old man with ESRD on HD, a/w AMS, HTN urgency, receiving IV acyclovir 
+      and prn IV hydral for HTN
+     REASON FOR THIS EXAMINATION:
+      please place PICC, has failed bedside attempt                                   
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: Hypertension, needs intravenous line for acyclovir and
+     medications.
+     
+     PROCEDURE/FINDINGS:
+     
+     The procedure was performed by Dr. [**First Name8 (NamePattern2) 2274**] [**Name (STitle) 2275**] and Dr. [**First Name8 (NamePattern2) 653**] [**Name (STitle) 519**] with Dr.
+     [**Last Name (STitle) 519**], the Attending Radiologist, supervising the entire procedure. The
+     patient was placed supine on the angiographic table, the right upper arm was
+     prepped and draped in the standard sterile fashion.  Using ultrasonographic
+     guidance, the right basilic vein was accessed with a 21-gauge micropuncture
+     needle after local administration of 1% lidocaine.  A 0.018 guide wire was
+     advanced through the needle into the superior vena cava under fluoroscopic
+     guidance.  The needle was exchanged for a 4.5-French micropuncture sheath with
+     inner dilator. The inner dilator was removed.  It was determined that a length
+     of 35 cm would be adequate.  The inner dilator was removed, PICC line advanced
+     over the wire into the superior vena cava. The guidewire and peel-away sheath
+     were removed. Final fluoroscopic x-ray demonstrates, tip of the PICC line to
+     be in the superior vena cava.  The line was flushed, capped, and hep-locked,
+     and secured to the skin using StatLock and Op-Site.
+     
+     COMPLICATIONS:  None.
+     
+     IMPRESSION:
+     
+     35 cm single lumen right basilic PICC line with tip in superior vena cava,
+     ready for use.
+     
+     
+     
+     
+     
+
+",,
+24032,20860,,,3427-05-11 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3427-5-11**] 12:37 AM
+     MR HEAD W/O CONTRAST; MRA BRAIN W/O CONTRAST                    Clip # [**Clip Number (Radiology) 15027**]
+     Reason: please eval for stroke                                      
+     Admitting Diagnosis: MENTAL STATUS CHANGES
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      44 year old man a/w HTN urgency, AMS, now with continued AMS despite improved 
+      BP control, concern for stroke not seen on CT scan
+     REASON FOR THIS EXAMINATION:
+      please eval for stroke                                                          
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     44-year-old man with hypertension urgency and acute mental status changes, now
+     with continuous mental status changes despite improved blood pressure control.
+     
+     TECHNIQUE:  Multiplanar T1 and T2-weighted images were obtained throughout the
+     brain.  MR angiography of the circle of [**Location (un) **] was also performed using 3D
+     time-of-flight images, 3D reconstructions were subsequently performed.
+     
+     FINDINGS:  No previous examination available for comparison.
+     
+     Study is somewhat limited due to motion artifact.  White and [**Doctor Last Name **] matter
+     differentiation is preserved.  No intracranial masses, no hemorrhages are
+     seen.  Midline structures are normal in position.  Ventricles and subarachnoid
+     spaces are within normal limits.  Few foci of increased T2 signal are seen
+     throughout the periventricular white matter which may be related to vascular
+     etiology such as hypertension or small chronic microvascular ischemic changes.
+     Basal cisterns are patent.  Expected flow voids are visualized.
+     
+     Increased T2 signal intensity is seen within the mastoid air cells bilaterally
+     consistent with fluid within the mastoid air cells.  Minimal mucosal
+     thickening is seen involving the left sphenoid air cell.  Probable small fluid
+     level is seen within the right sphenoid air cell.
+     
+     INTERPRETATION:  Limited examination due to motion artifact.  No intracranial
+     masses visualized.  No acute stroke is seen.  Few foci of increased T2 signal
+     in the periventricular white matter which may be related to chronic
+     hypertension versus chronic microvascular ischemic changes.  Opacification of
+     both mastoid air cells.
+     
+     MR ANGIOGRAPHY OF THE CIRCLE OF [**Location (un) 129**]:  Anterior and posterior circulations
+     are patent.  No aneurysms up to the level of resolution of this examination
+     are identified.  No hemodynamically significant areas of stenosis are seen. 
+     Distal vertebral arteries as well as basilar arteries are also normal in
+     appearance.
+     
+     INTERPRETATION:  MR angiography of the circle of [**Location (un) **] within normal limits.
+                                                                           
+                                                                 (Over)
+
+     DATE: [**3427-5-11**] 12:37 AM
+     MR HEAD W/O CONTRAST; MRA BRAIN W/O CONTRAST                    Clip # [**Clip Number (Radiology) 15027**]
+     Reason: please eval for stroke                                      
+     Admitting Diagnosis: MENTAL STATUS CHANGES
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+
+",,
+24032,20860,,,3427-05-11 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3427-5-11**] 3:59 PM
+     CHEST (PA & LAT)                                                Clip # [**Clip Number (Radiology) 15028**]
+     Reason: please evaluate interval change                             
+     Admitting Diagnosis: MENTAL STATUS CHANGES
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      44 year old man with h/o recent aspiration pna, with continued adventitial 
+      sounds on exam
+     REASON FOR THIS EXAMINATION:
+      please evaluate interval change                                                 
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     TYPE OF EXAMINATION:  Chest PA and lateral.
+     
+     INDICATION:  History of recent aspiration pneumonia now continued adventitial
+     sounds.  Evaluate for interval change.
+     
+     FINDINGS:  AP and lateral chest obtained with patient in sitting upright
+     position demonstrates the presence of a right-sided PICC line terminating
+     overlying the SVC at the level 1 cm below the carina.  No evidence of
+     pneumothorax or any other placement related complication.  The heart size is
+     within normal limits without typical configurational abnormality.  Thoracic
+     aorta unremarkable.  Pulmonary vasculature is normal.  The right-sided lateral
+     pleural sinus is mildly blunted suggesting pleural scar formation with
+     adhesion.  The left lateral pleural sinus is free.  No evidence of pleural
+     fluid accumulation in the posterior pleural sinuses on either side, as seen on
+     the lateral view.
+     
+     Comparison is made with a previous portable chest examination of [**3427-5-7**].  During the interval, patient has been extubated and an NG tube has been
+     removed.  On previous examination, suspected retrocardiac parenchymal density
+     has resolved and the findings are now normal.  Most likely the previous
+     density consisted of a posterior segment atelectasis.
+     
+     IMPRESSION:  Normalization of chest findings.  Good position of right-sided
+     PICC line.
+                                                                           
+
+",,
+24032,20860,,,3427-05-11 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3427-5-11**] 12:37 AM
+     MR HEAD W/O CONTRAST; MRA BRAIN W/O CONTRAST                    Clip # [**Clip Number (Radiology) 15027**]
+     Reason: please eval for stroke                                      
+     Admitting Diagnosis: MENTAL STATUS CHANGES
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      44 year old man a/w HTN urgency, AMS, now with continued AMS despite improved 
+      BP control, concern for stroke not seen on CT scan
+     REASON FOR THIS EXAMINATION:
+      please eval for stroke                                                          
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     44-year-old man with hypertension urgency and acute mental status changes, now
+     with continuous mental status changes despite improved blood pressure control.
+     
+     TECHNIQUE:  Multiplanar T1 and T2-weighted images were obtained throughout the
+     brain.  MR angiography of the circle of [**Location (un) **] was also performed using 3D
+     time-of-flight images, 3D reconstructions were subsequently performed.
+     
+     FINDINGS:  No previous examination available for comparison.
+     
+     Study is somewhat limited due to motion artifact.  White and [**Doctor Last Name **] matter
+     differentiation is preserved.  No intracranial masses, no hemorrhages are
+     seen.  Midline structures are normal in position.  Ventricles and subarachnoid
+     spaces are within normal limits.  Few foci of increased T2 signal are seen
+     throughout the periventricular white matter which may be related to vascular
+     etiology such as hypertension or small chronic microvascular ischemic changes.
+     Basal cisterns are patent.  Expected flow voids are visualized.
+     
+     Increased T2 signal intensity is seen within the mastoid air cells bilaterally
+     consistent with fluid within the mastoid air cells.  Minimal mucosal
+     thickening is seen involving the left sphenoid air cell.  Probable small fluid
+     level is seen within the right sphenoid air cell.
+     
+     INTERPRETATION:  Limited examination due to motion artifact.  No intracranial
+     masses visualized.  No acute stroke is seen.  Few foci of increased T2 signal
+     in the periventricular white matter which may be related to chronic
+     hypertension versus chronic microvascular ischemic changes.  Opacification of
+     both mastoid air cells.
+     
+     MR ANGIOGRAPHY OF THE CIRCLE OF [**Location (un) 129**]:  Anterior and posterior circulations
+     are patent.  No aneurysms up to the level of resolution of this examination
+     are identified.  No hemodynamically significant areas of stenosis are seen. 
+     Distal vertebral arteries as well as basilar arteries are also normal in
+     appearance.
+     
+     INTERPRETATION:  MR angiography of the circle of [**Location (un) **] within normal limits.
+                                                                           
+                                                                 (Over)
+
+     DATE: [**3427-5-11**] 12:37 AM
+     MR HEAD W/O CONTRAST; MRA BRAIN W/O CONTRAST                    Clip # [**Clip Number (Radiology) 15027**]
+     Reason: please eval for stroke                                      
+     Admitting Diagnosis: MENTAL STATUS CHANGES
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+
+",,
+24032,20860,,,3427-05-14 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+",,
+24032,20860,,,3427-05-14 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3427-5-14**] 2:38 PM
+     ART DUP EXT UP UNI LMTD RIGHT                                   Clip # [**Clip Number (Radiology) 15029**]
+     Reason: please eval for subclavian aneurysm, per Vasc [**Hospital Unit Name **] recs     
+     Admitting Diagnosis: MENTAL STATUS CHANGES
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      44 year old man with PVD, ESRD, IDDM, now with gangrenous 3rd and 4th R 
+      fingertips, of concern for emboli.
+     REASON FOR THIS EXAMINATION:
+      please eval for subclavian aneurysm, per Vasc [**Hospital Unit Name **] recs                         
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: Search for subclavian aneurysm in a 44-year-old man with
+     gangrenous third and fourth right fingertips and concern for possible distal
+     emboli.
+     
+     TECHNIQUE AND FINDINGS: Duplex ultrasonography was performed at the level of
+     the subclavian arteries.
+     
+     The distal portion of the right intermediate artery could be visualized and
+     its caliber was measured at 11.6 mm. The diameter of the right subclavian
+     artery was measured at 10.8 mm proximally and 6.7 mm distally. By comparison,
+     the diameter of the left subclavian artery was measured at 7.2 mm proximally
+     and 6.3 mm distally. Thus, the caliber of the subclavian arteries is similar
+     in their distal portion and slightly enlarged proximally on the right side as
+     compared to the left. However, this fusiform enlargement corresponds to a
+     ratio of 1.5 when comparing the proximal right subclavian artery to its left
+     counterpart (10.8 / 7.2 = 1.5), which is at the borderline between a normal
+     and an aneurysmal artery. On color Doppler imaging, flow is filling the entire
+     lumen of this right subclavian artery, with no evidence of mural thrombus.
+     
+     Incidental note is made of a PICC line present in the right subclavian vein.  
+     
+     IMPRESSION:
+     
+     1. Mild fusiform enlargement of the proximal portion of the right subclavian
+     artery, corresponding to a diameter of 150% as compared to the contralateral
+     side. This corresponds to a borderline value for the definition of an
+     aneurysm. No mural thrombus is seen.
+     
+     2. Incidental note of the presence of a PICC line in the right subclavian
+     vein.
+
+",,
+24032,20860,,,3427-05-17 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3427-5-17**] 8:43 AM
+     MRA UPPER EXTREMITY RIGHT; MR CONTRAST GADOLIN                  Clip # [**Clip Number (Radiology) 15030**]
+     Reason: Note: could not find order for upper extremity MRA, which is
+     Admitting Diagnosis: MENTAL STATUS CHANGES
+      Contrast: MAGNEVIST Amt: 17
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      44 year old man with DM1, PVD s/p R BKA, now with dry gangrene of R 3rd and 4th 
+      fingertips, concern for PVD in RUE
+     REASON FOR THIS EXAMINATION:
+      Note: could not find order for upper extremity MRA, which is what I want, NOT 
+      lower extremity MRA. Please eval for stenoses in R arm arterial supply
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     MRI OF HAND.
+     
+     INDICATION:  The patient has type 1 diabetes and known peripheral vascular
+     disease with a right below knee amputation.  Now has gangrene of third and
+     fourth fingertips.  For evaluation of digital arterial anatomy.
+     
+     TECHNIQUE:
+     
+     Attempted time resolved imaging was performed with the patient in both the
+     prone position initially and then the supine abducted position.
+     
+     Examination was technically unsuccessful, due to the patient's movement and
+     significant misregistration.
+     
+     No diagnostic quality images were obtained.  Given the patient's peripheral
+     vascular access to the right side, hemodialysis fistula on the left side,
+     limited foot axis and given the fact that high resolution imaging of the
+     distal arteries as well as the remainder of the arterial supply to right hand
+     is required, conventional arteriography is recommended.  Please note that over
+     3 hours were spent in attempt to obtain a diagnostic quality MR angiogram, it
+     was unlikely that further efforts with this modality will be successful.
+     
+     CONCLUSION:
+     
+     Technically unsuccessful examination.
+     
+
+",,
+24032,20860,,,3427-05-17 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3427-5-17**] 8:43 AM
+     MRA UPPER EXTREMITY RIGHT; MR CONTRAST GADOLIN                  Clip # [**Clip Number (Radiology) 15030**]
+     Reason: Note: could not find order for upper extremity MRA, which is
+     Admitting Diagnosis: MENTAL STATUS CHANGES
+      Contrast: MAGNEVIST Amt: 17
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      44 year old man with DM1, PVD s/p R BKA, now with dry gangrene of R 3rd and 4th 
+      fingertips, concern for PVD in RUE
+     REASON FOR THIS EXAMINATION:
+      Note: could not find order for upper extremity MRA, which is what I want, NOT 
+      lower extremity MRA. Please eval for stenoses in R arm arterial supply
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     MRI OF HAND.
+     
+     INDICATION:  The patient has type 1 diabetes and known peripheral vascular
+     disease with a right below knee amputation.  Now has gangrene of third and
+     fourth fingertips.  For evaluation of digital arterial anatomy.
+     
+     TECHNIQUE:
+     
+     Attempted time resolved imaging was performed with the patient in both the
+     prone position initially and then the supine abducted position.
+     
+     Examination was technically unsuccessful, due to the patient's movement and
+     significant misregistration.
+     
+     No diagnostic quality images were obtained.  Given the patient's peripheral
+     vascular access to the right side, hemodialysis fistula on the left side,
+     limited foot axis and given the fact that high resolution imaging of the
+     distal arteries as well as the remainder of the arterial supply to right hand
+     is required, conventional arteriography is recommended.  Please note that over
+     3 hours were spent in attempt to obtain a diagnostic quality MR angiogram, it
+     was unlikely that further efforts with this modality will be successful.
+     
+     CONCLUSION:
+     
+     Technically unsuccessful examination.
+     
+
+",,
+24032,20860,,,3427-05-19 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3427-5-19**] 9:17 PM
+     CT ABDOMEN W/O CONTRAST; CT PELVIS W/O CONTRAST                 Clip # [**Clip Number (Radiology) 15032**]
+     CT RECONSTRUCTION
+     Reason: eval for mesenteric ischemia, infectious source             
+     Admitting Diagnosis: MENTAL STATUS CHANGES
+     Field of view: 40
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       44 year old man with FUO, rigors and mass in right groin, new abd tenderness, 
+      elev wbc.  Please eval for abcess, colitis or ischemia, fluid collection/ 
+      abcess in abdomen/ groin
+     REASON FOR THIS EXAMINATION:
+      eval for mesenteric ischemia, infectious source                                 
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  44-year-old man with fever of unknown origin and rigors with mass
+     in the right groin and abdominal pain.
+     
+     TECHNIQUE:  Helically acquired contiguous axial images were obtained from the
+     lung bases to the pubic symphysis without intravenous contrast.  Coronal and
+     sagittal reformatted images were obtained.
+     
+     CT OF THE ABDOMEN WITHOUT CONTRAST:  There is minimal atelectasis at the right
+     lung base.  The lung fields are otherwise clear.  The visualized heart and
+     pericardium are unremarkable.  The non-contrast enhanced liver, gallbladder,
+     pancreas, spleen, and adrenal glands are unremarkable.  Calcific densities are
+     seen within the bilateral kidneys, which may represent vascular calcifications
+     or small renal stones.  There is no evidence for hydronephrosis or
+     hydroureter.  The stomach, and intra-abdominal loops of small and large bowel
+     are unremarkable.  There is no evidence of bowel wall edema or bowel
+     obstruction.  There is no pathologically enlarged mesenteric or
+     retroperitoneal lymphadenopathy.  Calcifications are seen within the abdominal
+     aorta and its branches.  There is no free or focal fluid within the abdomen.
+     There is no free air.  Anasarca is noted within the subcutaneous tissues.
+     
+     CT OF THE PELVIS WITHOUT CONTRAST:  Within the right groin, anterior to the
+     femoral artery and vein, is a 4.4 x 4.5 cm low-density rounded lesion. As
+     contrast was not administered, the enhancement pattern of this mass cannot be
+     assessed on this examination.  The rectum, sigmoid colon, distal ureters, and
+     bladder are unremarkable.  The seminal vesicles and prostate contain
+     calcifications.  Several small scattered lymph nodes are seen within the
+     inguinal regions bilaterally, however, these do not meet CT criteria for
+     pathologic enlargement.  There is no pelvic lymphadenopathy.  Please note
+     there are bilateral calcifications present within the vas deferens.  There is
+     no free or focal fluid within the pelvis.
+     
+     BONE WINDOWS:  There are no suspicious lytic or blastic osseous lesions.
+     
+     CT REFORMATS.  Coronal and sagittal reformatted images confirm the axial
+     findings.  Value grade 1.
+     
+     IMPRESSION:  4.4 x 4.5 cm low-density rounded lesion within the right inguinal
+                                                                 (Over)
+
+     DATE: [**3427-5-19**] 9:17 PM
+     CT ABDOMEN W/O CONTRAST; CT PELVIS W/O CONTRAST                 Clip # [**Clip Number (Radiology) 15032**]
+     CT RECONSTRUCTION
+     Reason: eval for mesenteric ischemia, infectious source             
+     Admitting Diagnosis: MENTAL STATUS CHANGES
+     Field of view: 40
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     region.  This could represent a pseudoaneurysm or a mass, however, as contrast
+     was not administered, its enhancement characteristics cannot be determined.
+     Superinfection of the lesion cannot be excluded.  An ultrasound of this mass
+     is recommended.
+
+",,
+24032,20860,,,3427-05-19 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3427-5-19**] 11:20 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 15031**]
+     Reason: r/o infiltrate                                              
+     Admitting Diagnosis: MENTAL STATUS CHANGES
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        44 year old man w/ DM, ESRD, fevers to 104, question of aspiration.           
+                                 
+     REASON FOR THIS EXAMINATION:
+      r/o infiltrate                                                                  
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     History of diabetes, end-stage renal disease and fever with probable
+     aspiration.
+     
+     PICC line is in proximal SVC.  Heart size is within normal limits.  There is
+     mild blunting of the right costophrenic angle, unchanged since prior study of
+     [**3427-5-11**].  The lungs are clear.
+     
+     IMPRESSION:  No evidence for pneumonia.
+                                                                           
+
+",,
+24032,20860,,,3427-05-19 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3427-5-19**] 9:17 PM
+     CT ABDOMEN W/O CONTRAST; CT PELVIS W/O CONTRAST                 Clip # [**Clip Number (Radiology) 15032**]
+     CT RECONSTRUCTION
+     Reason: eval for mesenteric ischemia, infectious source             
+     Admitting Diagnosis: MENTAL STATUS CHANGES
+     Field of view: 40
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       44 year old man with FUO, rigors and mass in right groin, new abd tenderness, 
+      elev wbc.  Please eval for abcess, colitis or ischemia, fluid collection/ 
+      abcess in abdomen/ groin
+     REASON FOR THIS EXAMINATION:
+      eval for mesenteric ischemia, infectious source                                 
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  44-year-old man with fever of unknown origin and rigors with mass
+     in the right groin and abdominal pain.
+     
+     TECHNIQUE:  Helically acquired contiguous axial images were obtained from the
+     lung bases to the pubic symphysis without intravenous contrast.  Coronal and
+     sagittal reformatted images were obtained.
+     
+     CT OF THE ABDOMEN WITHOUT CONTRAST:  There is minimal atelectasis at the right
+     lung base.  The lung fields are otherwise clear.  The visualized heart and
+     pericardium are unremarkable.  The non-contrast enhanced liver, gallbladder,
+     pancreas, spleen, and adrenal glands are unremarkable.  Calcific densities are
+     seen within the bilateral kidneys, which may represent vascular calcifications
+     or small renal stones.  There is no evidence for hydronephrosis or
+     hydroureter.  The stomach, and intra-abdominal loops of small and large bowel
+     are unremarkable.  There is no evidence of bowel wall edema or bowel
+     obstruction.  There is no pathologically enlarged mesenteric or
+     retroperitoneal lymphadenopathy.  Calcifications are seen within the abdominal
+     aorta and its branches.  There is no free or focal fluid within the abdomen.
+     There is no free air.  Anasarca is noted within the subcutaneous tissues.
+     
+     CT OF THE PELVIS WITHOUT CONTRAST:  Within the right groin, anterior to the
+     femoral artery and vein, is a 4.4 x 4.5 cm low-density rounded lesion. As
+     contrast was not administered, the enhancement pattern of this mass cannot be
+     assessed on this examination.  The rectum, sigmoid colon, distal ureters, and
+     bladder are unremarkable.  The seminal vesicles and prostate contain
+     calcifications.  Several small scattered lymph nodes are seen within the
+     inguinal regions bilaterally, however, these do not meet CT criteria for
+     pathologic enlargement.  There is no pelvic lymphadenopathy.  Please note
+     there are bilateral calcifications present within the vas deferens.  There is
+     no free or focal fluid within the pelvis.
+     
+     BONE WINDOWS:  There are no suspicious lytic or blastic osseous lesions.
+     
+     CT REFORMATS.  Coronal and sagittal reformatted images confirm the axial
+     findings.  Value grade 1.
+     
+     IMPRESSION:  4.4 x 4.5 cm low-density rounded lesion within the right inguinal
+                                                                 (Over)
+
+     DATE: [**3427-5-19**] 9:17 PM
+     CT ABDOMEN W/O CONTRAST; CT PELVIS W/O CONTRAST                 Clip # [**Clip Number (Radiology) 15032**]
+     CT RECONSTRUCTION
+     Reason: eval for mesenteric ischemia, infectious source             
+     Admitting Diagnosis: MENTAL STATUS CHANGES
+     Field of view: 40
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     region.  This could represent a pseudoaneurysm or a mass, however, as contrast
+     was not administered, its enhancement characteristics cannot be determined.
+     Superinfection of the lesion cannot be excluded.  An ultrasound of this mass
+     is recommended.
+
+",,
+24032,20860,,,3427-05-19 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3427-5-19**] 9:17 PM
+     CT ABDOMEN W/O CONTRAST; CT PELVIS W/O CONTRAST                 Clip # [**Clip Number (Radiology) 15032**]
+     CT RECONSTRUCTION
+     Reason: eval for mesenteric ischemia, infectious source             
+     Admitting Diagnosis: MENTAL STATUS CHANGES
+     Field of view: 40
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       44 year old man with FUO, rigors and mass in right groin, new abd tenderness, 
+      elev wbc.  Please eval for abcess, colitis or ischemia, fluid collection/ 
+      abcess in abdomen/ groin
+     REASON FOR THIS EXAMINATION:
+      eval for mesenteric ischemia, infectious source                                 
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  44-year-old man with fever of unknown origin and rigors with mass
+     in the right groin and abdominal pain.
+     
+     TECHNIQUE:  Helically acquired contiguous axial images were obtained from the
+     lung bases to the pubic symphysis without intravenous contrast.  Coronal and
+     sagittal reformatted images were obtained.
+     
+     CT OF THE ABDOMEN WITHOUT CONTRAST:  There is minimal atelectasis at the right
+     lung base.  The lung fields are otherwise clear.  The visualized heart and
+     pericardium are unremarkable.  The non-contrast enhanced liver, gallbladder,
+     pancreas, spleen, and adrenal glands are unremarkable.  Calcific densities are
+     seen within the bilateral kidneys, which may represent vascular calcifications
+     or small renal stones.  There is no evidence for hydronephrosis or
+     hydroureter.  The stomach, and intra-abdominal loops of small and large bowel
+     are unremarkable.  There is no evidence of bowel wall edema or bowel
+     obstruction.  There is no pathologically enlarged mesenteric or
+     retroperitoneal lymphadenopathy.  Calcifications are seen within the abdominal
+     aorta and its branches.  There is no free or focal fluid within the abdomen.
+     There is no free air.  Anasarca is noted within the subcutaneous tissues.
+     
+     CT OF THE PELVIS WITHOUT CONTRAST:  Within the right groin, anterior to the
+     femoral artery and vein, is a 4.4 x 4.5 cm low-density rounded lesion. As
+     contrast was not administered, the enhancement pattern of this mass cannot be
+     assessed on this examination.  The rectum, sigmoid colon, distal ureters, and
+     bladder are unremarkable.  The seminal vesicles and prostate contain
+     calcifications.  Several small scattered lymph nodes are seen within the
+     inguinal regions bilaterally, however, these do not meet CT criteria for
+     pathologic enlargement.  There is no pelvic lymphadenopathy.  Please note
+     there are bilateral calcifications present within the vas deferens.  There is
+     no free or focal fluid within the pelvis.
+     
+     BONE WINDOWS:  There are no suspicious lytic or blastic osseous lesions.
+     
+     CT REFORMATS.  Coronal and sagittal reformatted images confirm the axial
+     findings.  Value grade 1.
+     
+     IMPRESSION:  4.4 x 4.5 cm low-density rounded lesion within the right inguinal
+                                                                 (Over)
+
+     DATE: [**3427-5-19**] 9:17 PM
+     CT ABDOMEN W/O CONTRAST; CT PELVIS W/O CONTRAST                 Clip # [**Clip Number (Radiology) 15032**]
+     CT RECONSTRUCTION
+     Reason: eval for mesenteric ischemia, infectious source             
+     Admitting Diagnosis: MENTAL STATUS CHANGES
+     Field of view: 40
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     region.  This could represent a pseudoaneurysm or a mass, however, as contrast
+     was not administered, its enhancement characteristics cannot be determined.
+     Superinfection of the lesion cannot be excluded.  An ultrasound of this mass
+     is recommended.
+
+",,
+24032,20860,29848,0,3427-05-19 16:25:00 EST,3427-05-19 17:03:00 EST,2147,"N",69,"Nursing/Other","NSG TRANSFER ACCEPTANCE NOTE","
+NSG TRANSFER ACCEPTANCE NOTE
+44 YR OLD MALE WITH ESRD ON HD X3D/W, IDDM, S/P R BKA [**3-29**] WITH +MSRA, HTN, ASTHMA, GUUILLAN [**Location (un) **], TRANSFERED FROM CC7 WITH HYPOTENSION AND FEVERS, AND HCT DROP. WAS JUST TRANSFERED FROM MICU-A TO THE FLOOR ON [**5-8**] S/P AN ADMIT FOR MS'S ?'ING NEW SZ'S AND FEVERS. SEE FHPA FROM [**5-7**].
+HPI: Was doing well on the floor and was supposed to go home yesterday [**5-18**] sp/ HD, but returned Temps to 103.4 and BP 190's/90, chills and new muscle twiching. Was cultured and started on IV anitbx's. But today [**5-19**] BP starting dropping to 150's/ then to 110's/60, with temps to 102, was cultured again via PICC. HCT dropped from 26 to 23.4, with + rectal exam but no stool. BS's have been labile went down to 70's yesterday today have been in the 300's. Sent to MICU-B for monitoring and further w/u of fevers. 
+
+ID: Temps 99.8 PO max since transfer, WBC 13.1, rec'd one dose of Vanco and is on Levofloxacin q24hr and Aztreonam q12hr. ?'ing as [**Last Name (un) 292**] source is being prep'd with Barocat times two bottles for [**Last Name (un) 292**] CT this evening ""ing time. 
+
+C/V: BP 140-150's/60 since transfer, HR 78-88SR with no ectopy noted. Is usually hypertensive, all anti-hypertensives are on hold. No c/o's CP. 
+
+GI: No [**Last Name (un) **] pain noted [**Last Name (un) **] non-distended, with +BS's. Repeat HCT 22.9 
+to rec one unit PC'[**Initials (NamePattern4) **] [**Last Name (NamePattern4) 292**] CT to be done this evening. Is NPO until after the CT scan. 
+
+Endo: FS's on the floor to 300's, rec'd 14 units Humalog and 8units Lantus before transfer. Checking FS's q6hr insulin as per S/S. 
+
+Neuro: Is A&Ox3, is cooperative with nsg but can be heard yelling @ his wife and mother in the rooom. Continues to have occ muscle twitching, was seen by Neuro yesteray, EEG was neg, thought to be metobolic Encephalopathy. No sz's noted. 
+                                                                                                  
+GU: Occ has u/o in small amts none since admit to MICU. Has HD on [**5-18**] next due on Mon the 27th. 
+
+Skin: Has dry skin, R BKA site healed well. Skin cream applied to dry areas. 
+
+IV: Has R A/C PICC, and L fistula for HD. 
+
+Social: Wife and [**Name2 (NI) 487**] with pt since transfer. Very involved. 
+
+A/P: Continue to monitor BP's and temps. Adminsister IV antibx's, check culture results. Prep and obtain [**Last Name (un) **] CT. Monitor HCT s/p transfusion. Check FS's q6hr and cover as per S/S. 
+",,
+24032,20860,29848,,3427-05-20 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3427-5-20**] 8:05 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 15033**]
+     Reason: eval for infiltrate, CHF                                    
+     Admitting Diagnosis: MENTAL STATUS CHANGES
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+         44 year old man w/ DM, ESRD, fevers to 104, question of aspiration, ?of 
+      pulmonary edema                                      
+     REASON FOR THIS EXAMINATION:
+      eval for infiltrate, CHF                                                        
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CHEST, SINGLE AP FILM.
+     
+     History of diabetes, end-stage renal disease, and fever.
+     
+     PICC line is in mid SVC.  There is cardiomegaly, but no evidence for CHF. 
+     There is blunting of the right costophrenic angle consistent with a small
+     right pleural effusion and vague ill-defined opacity at the right base
+     possibly due to atelectasis, but correlate clinically with followup.  If
+     indicated, to rule out evolving pneumonia.  No pneumothorax.
+                                                                           
+
+",,
+24032,20860,29848,,3427-05-20 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3427-5-20**] 11:06 AM
+     FEMORAL VASCULAR US RIGHT                                       Clip # [**Clip Number (Radiology) 15034**]
+     Reason: eval for fluid collection                                   
+     Admitting Diagnosis: MENTAL STATUS CHANGES
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      44 year old man with R groin swelling and tenderness s/p R fempop bypass a few 
+      weeks ago.
+     REASON FOR THIS EXAMINATION:
+      eval for fluid collection                                                       
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Right groin swelling and tenderness status post fem-[**Hospital Unit Name 2916**] bypass
+     few weeks ago.  Evaluate for fluid collection.
+     
+     COMPARISON:  CT abdomen and pelvis of [**3427-5-19**].
+     
+     RIGHT GROIN ULTRASOUND:  Within the superficial right groin, there is a simple
+     fluid collection measuring 5.0 x 3.9 x 4.8 cm.  The collection is anechoic,
+     consistent with simple fluid.  There is no flow within the collection.
+     
+     IMPRESSION:  Simple fluid collection within the right groin.
+                                                                           
+
+",,
+24032,20860,29848,0,3427-05-20 03:17:00 EST,3427-05-20 03:35:00 EST,6845,"N",69,"Nursing/Other",,"
+
+MICU NURSING NOTE 7p-7a:
+
+See carevue flowsheet for full assessment details and labs.
+
+Neuro:  Pt O X3.  Pupils equal/reactive bilat.  MAE, follows commands.  Pt c/o R stump pain [**4-3**] given percocet 5 mg po X 1 dose with relief. Pt OOB to commode with walker and 1 person assist.   Pt continues to have R arm muscle twitching MD aware - seizure activity.  
+
+CV: Tmax 100.7, PT remains Hypertensive 150-185/70-90 MD made aware no intervention at this time, BP meds remain on [**Name6 (MD) **] [**Name8 (MD) 59**] MD. [**First Name (Titles) **] [**Last Name (Titles) **] to monitor.  HR 70-90 NSR no ectopy.  Pt denies chest pain.  PT received 1 unit PRBCs without incident for HCT 22.9.  POst transfusion HCT 26.4.  NO signs of active bleeding noted.  Pt with L UA AV fistula +bruit/thrill.  R UA Picc infusing without difficulty.  
+
+PUlm:  Received pt on RA sats 91-96 %.  This am at 0400 Pt desaturated to 84% while sleeping. Pt denied SOB.  Pt placed on 2 LNC sats 94-98%.  LUngs CTA bilat.  - cough. 
+
+GI/GU:  Pt oliguric. HD MWF.  PT S/P abd CT last evening.  Final radiology report pending.  - BM.  Pt c/o nausea given anzemet 12.5 mg IVp with relief.  Abd soft/distended + BS.  
+
+Endocrine:  Continue to monitor BS QACHS and cover per SSI.    Last glucose 114 @ 2200.  Pt needs continual reinforcement and teaching about diabetic diet.  
+
+PLAN:  Assess for s/s bleeding, monitor HCT transfuse as needed, abd ct results pending, cont IV antibiotics, fingersticks SSI, Diabetic Teaching, HD MWF  WIll cont to monitor.  
+",,
+24032,20860,,,3427-05-21 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3427-5-21**] 3:32 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 15035**]
+     Reason: SOB                                                         
+     Admitting Diagnosis: MENTAL STATUS CHANGES
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+          44 year old man w/ DM, ESRD, fevers to 104, question of aspiration, ?of  
+      pulmonary edema                                      
+     REASON FOR THIS EXAMINATION:
+      SOB                                                                             
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Diabetes, end-stage renal disease, fever, and question of
+     aspiration versus pulmonary edema.
+     
+     COMPARISON:  [**3427-5-20**].
+     
+     TECHNIQUE:  Single AP portable upright chest.
+     
+     FINDINGS:  There is stable mild cardiomegaly.  Right-sided PICC in unchanged
+     position with tip in mid SVC.  Mild increase in hazy prominence of the
+     interstitial markings and stable right pleural effusion.  The osseous
+     structures appear unchanged.
+     
+     IMPRESSION:
+     1.  Cardiomegaly and mild congestive heart failure versus volume overload.
+     Stable right pleural effusion.
+     2.  Right-sided PICC with tip in mid SVC.
+     
+     
+     
+     
+
+",,
+24032,20860,,,3427-05-21 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3427-5-21**] 1:37 PM
+     CHEST (PA & LAT)                                                Clip # [**Clip Number (Radiology) 15036**]
+     Reason: r/o infiltrate                                              
+     Admitting Diagnosis: MENTAL STATUS CHANGES
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       44 year old man with h/o recent aspiration pna, with continued adventitial  
+      sounds on exam, now with bronchial breath sounds in left upper lobe
+     REASON FOR THIS EXAMINATION:
+      r/o infiltrate                                                                  
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     COMPARISON:  Previous study of earlier the same date.
+     
+     INDICATION:  Bronchial breath sounds.  Recent aspiration pneumonia.
+     
+     A right PICC line remains in satisfactory position, terminating in the
+     superior vena cava.  The cardiac silhouette is upper limits of normal in size.
+     There is slight upper zone vascular redistribution and there is persistent
+     perihilar haziness, bilateral interstitial opacities with basilar predominant
+     septal thickening, and a small right pleural effusion as well as fissural
+     thickening.
+     
+     IMPRESSION:  Interstitial pulmonary edema, which may be due to volume overload
+     in this patient with history of end-stage renal disease.
+
+",,

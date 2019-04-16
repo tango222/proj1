@@ -1,0 +1,3211 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+24612,,,,3218-12-17 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3218-12-17**] 10:48 PM
+     CHEST (PA & LAT)                                                Clip # [**Clip Number (Radiology) 4245**]
+     Reason: epigastic pain incresed with inspiration, r/o pericarditis, 
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      74 year old man with epigastric pain
+     REASON FOR THIS EXAMINATION:
+      epigastic pain incresed with inspiration, r/o pericarditis, r/o pul emb, r/o
+      pneumonia
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Epigastric pain.
+     
+     CHEST, PA AND LATERAL:  The heart size is normal, and there is no pulmonary
+     vascular congestion.  The thoracic aorta is ectatic.  There is discoid
+     atelectasis or scarring in the right upper lobe, lingula and left lower lobe.
+     There is no parenchymal consolidation to suggest pneumonia.  There is no
+     pleural effusion or pneumothorax.  The skeletal structures are unremarkable.
+     There is no prior exam for comparison.
+     
+     IMPRESSION:
+     1) Tortuous, ectatic thoracic aorta.
+     2) Multifocal discoid atelectasis.
+
+",,
+24612,17541,,,3218-12-18 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+
+Admission Date:  [**3218-12-18**]       Discharge Date:  [**3218-12-25**]
+
+Date of Birth:   [**3144-1-18**]       Sex:  M
+
+Service:  BLUMGART
+
+CHIEF COMPLAINT:  Abdominal pain.
+
+HISTORY OF PRESENT ILLNESS:  This is a 74 year-old gentleman
+who was in his usual state of good health until five days
+prior to admission when he developed diffuse mild abdominal
+discomfort primarily located in the epigastrium while
+cleaning his bathtub.  The pain had been waxing and [**Doctor Last Name 501**] in
+intensity since that time.  He has suffered no nausea,
+vomiting or diarrhea.  In fact he reports chronic
+constipation. The pain does not change with food, but he does
+note marked anorexia.  The patient denies any new foods or
+new medications.  He denies the use of herbal remedies.  He
+has had no prior episodes of this kind of pain.  He describes
+the pain as a dull aching sensation that is constant in
+nature and waxing and [**Doctor Last Name 501**] in intensity.  He denies a
+history of fevers or chills.
+
+PAST MEDICAL HISTORY:  1.  Diabetes.  2.  Hypertension.  3.
+Low back pain.  4.  Status post appendectomy.
+
+MEDICATIONS ON ADMISSION:  1.  Atenolol 100 mg po q.d.  2.
+Zestril 40 mg po q.d.  3.  Norvasc 10 mg po q.d.  4.
+Furosemide 40 mg po q.d.  5.  Doxepin 50 mg po q.h.s. prn.
+6.  Glyburide 5 mg po q.d.
+
+ALLERGIES:  No known drug allergies.
+
+SOCIAL HISTORY:  Seldom d[**MD Number 5714**] alcohol.  No tobacco use.  No
+intravenous drug use.  The patient moved from Barbados twenty
+years ago and his last trip to the island was two years ago.
+He lives with his wife.
+
+ADMISSION PHYSICAL EXAMINATION:  Vital signs afebrile.  Blood
+pressure 146/80.  Pulse 76.  Respiratory rate 12.  HEENT
+pupils are equal, round and reactive to light.  Mild scleral
+icterus is noted.  Sublingual jaundice is also noted.
+Otherwise the oropharynx is clear.  Neck supple.  No
+lymphadenopathy.  Lungs clear to auscultation bilaterally.
+Cardiovascular regular rate and rhythm.  Normal S1 and S2.
+No S3 or S4.  2/6 systolic ejection murmur best heard at the
+left lower sternal border.  Abdomen soft, obese, mild diffuse
+tenderness worse in the epigastrium.  No palpable liver or
+spleen.  No rebound or guarding.  Positive [**Doctor Last Name **] sign.
+Extremities no clubbing, cyanosis or edema.  2+ palpable
+dorsalis pedis pulse and posterior tibial pulse bilaterally.
+Neurological, alert and oriented times three.
+
+ADMISSION LABORATORIES:  White blood cell count 10.7,
+hematocrit 39.7.  Platelets 261.  ALT 185, AST 200, LDH 316,
+T bili 6.0, direct bili 4.7, indirect bili 1.3, amylase 96,
+lipase 193.  CT of the abdomen, gallbladder with multiple
+stones.  Gallbladder with heterogeneous appearance at the
+fundus.  Normal liver parenchyma, but no clear delineation
+between the gallbladder and liver.  No ductal dilatation.  8
+mm nodule of the adrenal likely incidentaloma.  Multiple
+colonic diverticula.  Right upper quadrant ultrasound no
+intra or extra hepatic ductal dilatation.  Focal fatty
+infiltration is note, however.  Electrocardiogram normal
+sinus rhythm at a rate of 92, axis 54, 138, 120, 422.  Right
+bundle branch block with occasionally abnormally conducted
+beats.
+
+HOSPITAL COURSE:  The patient was admitted to the Medicine
+Service for a general surgery consultation.  The appearance
+of the patient's gallbladder on imaging studies was
+concerning for a tumor process.  The patient did go to
+endoscopic retrograde cholangiopancreatography on [**3218-12-19**].  The major findings were hemobilia from the sphincter
+of Oddi.  No filling of the gallbladder or cystic duct were
+noted on biliary images, otherwise a normal biliary tree and
+normal pancreatic duct were visualized.  The patient had a
+stent placed at the time.  The patient's total bilirubin
+appeared to peak at 10.3, which was the morning following the
+endoscopic retrograde cholangiopancreatography after which
+point it began to trend down.  The patient underwent hepatic
+angiogram d[**MD Number 850**] which time he had embolization of a right
+hepatic artery pseudoaneurysm.
+
+The patient was started on antibiotics in preparation for
+surgical exploration.  However, in the face of a hematocrit
+that had dropped to 24 from a baseline of 38 the patient
+developed rapid NSVT at a rate of 160, which broke with 20 mg
+of Lopressor.  The patient was then maintained on a maximal
+dose of Lopresor for rate control and surgery was deferred.
+On [**3218-12-24**] after consultation between the gastrointestinal
+and surgical attendings who were Dr. [**Last Name (STitle) 1765**] and Dr. [**Last Name (STitle) **]
+respectively, it was felt that given the patient's stable
+hematocrit, stable clinical status and afebrile state that
+the possibility of cholecystitis irritating a pseudoaneurysm
+that developed from chronic inflammation was a likely
+possibility in this scenario.  If this was indeed what was
+taking place, the further reason that surgery could be
+deferred until the alleged inflammation of his gallbladder
+could be fully treated with a course of antibiotics and that
+surgery could be done in a more controlled setting when the
+risk of bleeding was less.  Prior to this assessment there
+was consideration of involving the hepatobiliary surgeons for
+possible segmentectomy of an infiltrating mass.  On [**3218-12-25**],
+the patient was felt to be stable for discharge home.
+
+MEDICATIONS ON DISCHARGE:  Amlodipine 10 mg po q.d.,
+Ciprofloxacin 50 mg po b.i.d. times ten days, Colace 100 mg
+po b.i.d., Doxepin 50 mg po q.h.s. prn, Lasix 40 mg po q.d.,
+Lisinopril 40 mg po q.d., Atenolol 100 mg q.d., Metronidazole
+500 mg po t.i.d. times ten days, Pantoprazole 40 mg q.d.,
+Glyburide 5 mg po q.d.
+
+DISCHARGE DIAGNOSES:
+1.  Hemobilia.
+2.  Right hepatic arterial pseudoaneurysm status post
+embolization.
+3.  Acute cholecystitis versus gallbladder adenocarcinoma.
+
+DISCHARGE FOLLOW UP:  The patient will follow up with Dr.
+[**Last Name (STitle) **] the patient's primary care physician in one to two
+weeks and the patient will follow up with Dr. [**Last Name (STitle) **] of
+general surgery in two weeks for reevaluation in preparation
+for elective surgery.
+
+CONDITION ON DISCHARGE:  Stable.
+
+DISCHARGE STATUS:  To home.
+
+
+
+
+
+
+                            [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 5715**] [**Name8 (MD) 316**], M.D.  [**MD Number 5716**]
+
+Dictated By:[**Name8 (MD) 2290**]
+MEDQUIST36
+
+D:  [**3218-12-25**]  00:10
+T:  [**3218-12-25**]  07:23
+JOB#:  [**Job Number 5717**]
+Signed electronically by: DR. [**Last Name (STitle) **] [**Last Name (NamePattern4) 5715**] [**Location (un) 316**]
+ on: SUN [**3219-1-27**] 5:19 PM
+(End of Report)
+
+
+",,
+24612,17541,,,3218-12-18 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3218-12-18**] 11:13 AM
+     CHEST (PA & LAT)                                                Clip # [**Clip Number (Radiology) 4248**]
+     Reason: medical clearance prior to surgery
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      74 year old man with epigastric pain and DM
+     REASON FOR THIS EXAMINATION:
+      medical clearance prior to surgery
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CHEST:
+     
+     INDICATION: Epigastric pain. Diabetes mellitus. Preoperative evaluation.
+     
+     FINDINGS: PA & left lateral views. Comparison study dated [**3218-12-17**]. There is
+     again evidence of multiple minor linear atelectases involving the right apex
+     and the left mid and lower zones. The heart shows slight left ventricular
+     enlargement. The aorta is dilated, unfolded and tortuous.
+     
+     IMPRESSION: Multiple linear atelectases. Unfolded tortuous aorta. No
+     significant change.
+
+",,
+24612,17541,,,3218-12-18 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3218-12-18**] 3:48 AM
+     PANCREAS US                                                     Clip # [**Clip Number (Radiology) 4247**]
+     Reason: ASSESS CT FINDINGS OF POSSIBLE CHOLECYSTITIS, PT WITH UPPER ABDOMINAL PAIN
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      74 year old man with above
+     REASON FOR THIS EXAMINATION:
+      assess CT findings of possible cholecystitis
+     ______________________________________________________________________________
+                                     FINAL REPORT  (REVISED)
+     HISTORY:  Abdominal pain.  Gallstones seen by CT.  Evaluate for cholecystitis.
+     
+     FINDINGS:  Ultrasound examination demonstrates large calcified stones in the
+     neck of the gallbladder.  There is heterogeneous echogenicity in the expected
+     region of the fundus.  No fluid is identified with certainty and there is no
+     defineable gallbladder wall in the fundal region.  There is no sonographic
+     [**Doctor Last Name 104**] sign during the examination.
+     
+     IMPRESSION:
+     1) Gallstones in gallbladder neck.
+     2) Heterogeneous, ill-defined gallbladder fundus.  Gallbladder malignancy
+     should be considered.
+
+",,
+24612,17541,,,3218-12-18 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3218-12-18**] 12:59 AM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 4246**]
+     CT 150CC NONIONIC CONTRAST
+     Reason: 4 days of severe intermittent abdominal pain, radiating to b
+     Field of view: 42 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      74 year old man with abdominal pain, r/o abd aortic aneurysm, r/o pancreatic
+      mass
+     REASON FOR THIS EXAMINATION:
+      4 days of severe intermittent abdominal pain, radiating to back
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Upper abdominal pain radiating to the back.
+     
+     TECHNIQUE:  CT imaging of the abdomen and pelvis with oral contrast and 150 mL
+     Optiray.  There is no prior study for comparison.
+     
+     CT ABDOMEN WITH CONTRAST:  The distal thoracic aorta is tortuous but of normal
+     caliber.  There is multifocal subsegmental atelectasis in the lingula and
+     lower lobes.
+     
+     The gallbladder contains multiple stones.  The gallbladder fundus has a
+     heterogeneous appearance, without a distinct border with the liver.  While
+     this may represent chronic cholecystitis, gallbladder carcinoma may have this
+     appearance.  Elsewhere the liver is normal.  There is no biliary ductal
+     dilatation.  There is no ascites. The spleen is normal in size.
+     
+     The pancreas is atrophic.  No masses are identified.  There is an 8 mm
+     nonspecific nodule within the right adrenal gland.  A sub-cm cyst is noted in
+     the lower pole of the right kidney.
+     
+     The aorta is of normal caliber.  There is no retroperitoneal lymph node
+     enlargement.  The stomach and small bowel are unremarkable.  There are
+     multiple colonic diverticula, without adjacent inflammation.
+     
+     CT PELVIS WITH CONTRAST:  The appendix is normal.  There are numerous sigmoid
+     diverticula, without adjacent inflammation.  There is a 2.4 cm aneurysm of the
+     left internal iliac artery.  The left common and right internal iliac arteries
+     are also ectatic.  The distal ureters are of normal caliber. The urinary
+     bladder is unremarkable. The prostate is enlarged. There is no free fluid.
+     
+     Bone windows demonstrate mild degenerative changes.
+     
+     IMPRESSION:
+     1) Gallstones within a heterogeneous gallbladder.  Though cholecystitis is a
+     consideration, gallbladder malignancy with local extension into the liver
+     should be considered.
+     2) Small, nonspecific nodule in right adrenal gland.
+     3) Colonic diverticulosis.
+     4) Small aneurysm of left internal iliac artery.
+                                                                 (Over)
+
+     DATE: [**3218-12-18**] 12:59 AM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 4246**]
+     CT 150CC NONIONIC CONTRAST
+     Reason: 4 days of severe intermittent abdominal pain, radiating to b
+     Field of view: 42 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+
+",,
+24612,17541,,,3218-12-18 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3218-12-18**] 12:59 AM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 4246**]
+     CT 150CC NONIONIC CONTRAST
+     Reason: 4 days of severe intermittent abdominal pain, radiating to b
+     Field of view: 42 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      74 year old man with abdominal pain, r/o abd aortic aneurysm, r/o pancreatic
+      mass
+     REASON FOR THIS EXAMINATION:
+      4 days of severe intermittent abdominal pain, radiating to back
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Upper abdominal pain radiating to the back.
+     
+     TECHNIQUE:  CT imaging of the abdomen and pelvis with oral contrast and 150 mL
+     Optiray.  There is no prior study for comparison.
+     
+     CT ABDOMEN WITH CONTRAST:  The distal thoracic aorta is tortuous but of normal
+     caliber.  There is multifocal subsegmental atelectasis in the lingula and
+     lower lobes.
+     
+     The gallbladder contains multiple stones.  The gallbladder fundus has a
+     heterogeneous appearance, without a distinct border with the liver.  While
+     this may represent chronic cholecystitis, gallbladder carcinoma may have this
+     appearance.  Elsewhere the liver is normal.  There is no biliary ductal
+     dilatation.  There is no ascites. The spleen is normal in size.
+     
+     The pancreas is atrophic.  No masses are identified.  There is an 8 mm
+     nonspecific nodule within the right adrenal gland.  A sub-cm cyst is noted in
+     the lower pole of the right kidney.
+     
+     The aorta is of normal caliber.  There is no retroperitoneal lymph node
+     enlargement.  The stomach and small bowel are unremarkable.  There are
+     multiple colonic diverticula, without adjacent inflammation.
+     
+     CT PELVIS WITH CONTRAST:  The appendix is normal.  There are numerous sigmoid
+     diverticula, without adjacent inflammation.  There is a 2.4 cm aneurysm of the
+     left internal iliac artery.  The left common and right internal iliac arteries
+     are also ectatic.  The distal ureters are of normal caliber. The urinary
+     bladder is unremarkable. The prostate is enlarged. There is no free fluid.
+     
+     Bone windows demonstrate mild degenerative changes.
+     
+     IMPRESSION:
+     1) Gallstones within a heterogeneous gallbladder.  Though cholecystitis is a
+     consideration, gallbladder malignancy with local extension into the liver
+     should be considered.
+     2) Small, nonspecific nodule in right adrenal gland.
+     3) Colonic diverticulosis.
+     4) Small aneurysm of left internal iliac artery.
+                                                                 (Over)
+
+     DATE: [**3218-12-18**] 12:59 AM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 4246**]
+     CT 150CC NONIONIC CONTRAST
+     Reason: 4 days of severe intermittent abdominal pain, radiating to b
+     Field of view: 42 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+
+",,
+24612,17541,,,3218-12-18 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3218-12-18**] 12:59 AM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 4246**]
+     CT 150CC NONIONIC CONTRAST
+     Reason: 4 days of severe intermittent abdominal pain, radiating to b
+     Field of view: 42 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      74 year old man with abdominal pain, r/o abd aortic aneurysm, r/o pancreatic
+      mass
+     REASON FOR THIS EXAMINATION:
+      4 days of severe intermittent abdominal pain, radiating to back
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Upper abdominal pain radiating to the back.
+     
+     TECHNIQUE:  CT imaging of the abdomen and pelvis with oral contrast and 150 mL
+     Optiray.  There is no prior study for comparison.
+     
+     CT ABDOMEN WITH CONTRAST:  The distal thoracic aorta is tortuous but of normal
+     caliber.  There is multifocal subsegmental atelectasis in the lingula and
+     lower lobes.
+     
+     The gallbladder contains multiple stones.  The gallbladder fundus has a
+     heterogeneous appearance, without a distinct border with the liver.  While
+     this may represent chronic cholecystitis, gallbladder carcinoma may have this
+     appearance.  Elsewhere the liver is normal.  There is no biliary ductal
+     dilatation.  There is no ascites. The spleen is normal in size.
+     
+     The pancreas is atrophic.  No masses are identified.  There is an 8 mm
+     nonspecific nodule within the right adrenal gland.  A sub-cm cyst is noted in
+     the lower pole of the right kidney.
+     
+     The aorta is of normal caliber.  There is no retroperitoneal lymph node
+     enlargement.  The stomach and small bowel are unremarkable.  There are
+     multiple colonic diverticula, without adjacent inflammation.
+     
+     CT PELVIS WITH CONTRAST:  The appendix is normal.  There are numerous sigmoid
+     diverticula, without adjacent inflammation.  There is a 2.4 cm aneurysm of the
+     left internal iliac artery.  The left common and right internal iliac arteries
+     are also ectatic.  The distal ureters are of normal caliber. The urinary
+     bladder is unremarkable. The prostate is enlarged. There is no free fluid.
+     
+     Bone windows demonstrate mild degenerative changes.
+     
+     IMPRESSION:
+     1) Gallstones within a heterogeneous gallbladder.  Though cholecystitis is a
+     consideration, gallbladder malignancy with local extension into the liver
+     should be considered.
+     2) Small, nonspecific nodule in right adrenal gland.
+     3) Colonic diverticulosis.
+     4) Small aneurysm of left internal iliac artery.
+                                                                 (Over)
+
+     DATE: [**3218-12-18**] 12:59 AM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 4246**]
+     CT 150CC NONIONIC CONTRAST
+     Reason: 4 days of severe intermittent abdominal pain, radiating to b
+     Field of view: 42 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+
+",,
+24612,17541,,,3218-12-19 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3218-12-19**] 4:14 PM
+     ERCP S&I (74330)                                                Clip # [**Clip Number (Radiology) 4249**]
+     Reason: 74 yo with painless jaundice.  ?GB malignancy?
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      74 year old man with painless jaundice.
+     REASON FOR THIS EXAMINATION:
+      74 yo with painless jaundice.  ?GB malignancy?
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     ERCP
+     
+     HISTORY:  Epigastric pain and jaundice with CT evidence of gallstones.
+     
+     Six fluoroscopic spot films are provided.  Contrast filling of the pancreatic
+     duct which is visualized to the region of the mid-body of the pancreas.The
+     distal portion of the duct shows slight fusiform dilatation but the duct
+     upstream from this is normal in caliber and no focal strictures, filling
+     defects or communication with cystic structures is identified.  There is
+     contrast filling of the common bile duct, common hepatic duct, right and left
+     hepatic ducts and several intrahepatic biliary divisions.  There is filling of
+     the cystic duct but the gallbladder is not demonstrated.  No focal strictures
+     or calculi are identified in the visualized biliary ducts on the available
+     spot film.  S/P biliary sphincterotomy and placement of plastic biliary stent
+     in common bile duct.
+
+",,
+24612,17541,,,3218-12-20 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3218-12-20**] 1:51 PM
+     HEPATIC                                                         Clip # [**Clip Number (Radiology) 4250**]
+     Reason: 74 yo gentleman w/h/o epigastric pain, elevated transaminase
+      Contrast: OPTIRAY Amt: 75
+     ********************************* CPT Codes ********************************
+     * 37204 EMBO NON NEURO                 36247 INITAL 3RD ORDER ABD/PEL/LOWER*
+     * -51 MULTI-PROCEDURE SAME DAY         36245 EA 1ST ORDER ABD/PEL/LOWER EXT*
+     * -59 DISTINCT PROCEDURAL SERVICE      75894 TRANCATHETER EMBOLIZATION     *
+     * 75898 F/U STATUS INFUSION/EMBO       75726 VISERAL SEL/SUPERSEL A-GRAM   *
+     * 75726 VISERAL SEL/SUPERSEL A-GRAM    -59 DISTINCT PROCEDURAL SERVICE     *
+     * 75774 EA ADD'L VESSEL AFTER BASIC A-                                     *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      74 year old man with 
+     REASON FOR THIS EXAMINATION:
+      74 yo gentleman w/h/o epigastric pain, elevated transaminases, Bili=10, and CT
+      demonstrating a mass lesion c/w GB carcinoma.  ERCP revealed frank hemobilia;
+      there is a concern to r/o AVM-lesion prior to resection. 
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY AND INDICATION:  74 year old male with epigastric pain, elevated
+     bilirubin and frank hemobilia, needs hepatic arteriogram.
+     
+     RADIOLOGISTS:  Attending radiologist Dr. [**First Name4 (NamePattern1) 431**] [**Last Name (NamePattern1) 432**], interventional
+     radiology fellow Dr. [**First Name (STitle) 4251**] [**Name (STitle) **].
+     
+     TECHNIQUE:  Informed consent was obtained prior to the procedure.  Dr. [**Last Name (STitle) 432**]
+     was present for the entirety of the procedure.
+     
+     After local anesthesia with 1% lidocaine the right groin was accessed using a
+     19 gauge needle.  A .038 guidewire was placed under fluoroscopic observation
+     into the abdominal aorta.  Over the wire a 5 French sheath was placed, through
+     which a 5 French Cobra catheter was placed under fluoroscopic observation. The
+     tip of the catheter was placed in the right common hepatic artery, and
+     angiogram obtained.  A .035 glidewire was used to select the right proper
+     hepatic artery, and angiograms in multiple obliquities obtained.  A microwire
+     and tracker catheter was used to subselect a branch of the right hepatic
+     artery which demonstrated a pseudoaneurysm.  Attempts were made to engage the
+     neck of the aneurysm, and after being achieved, contrast injection
+     demonstrated opacification of the biliary system indicating that this lesion
+     was the source of the patient's hemobilia.  With the tracker catheter at the
+     orifice of the aneurysm thrombin was injected under fluoroscopic observation
+     until flow in the aneurysm had stopped.  The catheter was withdrawn into the
+     proper hepatic artery and angiogram was then obtained.  The catheter was used
+     under fluoroscopic observation to select the superior mesenteric artery, and a
+     superior mesenteric artery angiogram was obtained.
+     
+     MEDICATIONS:  Patient received 1% lidocaine for local anesthesia.  Under
+     continuous monitoring the patient received small divided doses of Versed
+     totaling 1 mg, and fentanyl totaling 100 micrograms.
+     
+     COMPLICATIONS:  No complications were evident.
+                                                                 (Over)
+
+     DATE: [**3218-12-20**] 1:51 PM
+     HEPATIC                                                         Clip # [**Clip Number (Radiology) 4250**]
+     Reason: 74 yo gentleman w/h/o epigastric pain, elevated transaminase
+      Contrast: OPTIRAY Amt: 75
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     
+     FINDINGS:  Angiogram of the common hepatic artery demonstrated an
+     approximately 3-4 cm aneurysm seen arising proximally from a branch of the
+     right hepatic artery.  There is also a large gallstone seen, and prominent
+     tortuous vessels seen in distribution of the cystic artery which may be
+     neovascularity.  After thrombin injection there was no longer filling of the
+     pseudoaneurysm.  The pseudoaneurysm was treated with 3000 units of thrombin.
+     
+     IMPRESSION:
+     1.  Successful embolization of hepatic artery pseudoaneurysm with thrombin as
+     described above.
+     2.  Tortuous neovascularity in the distribution of the cystic artery may be
+     tumor blush.
+     
+
+",,
+24612,17541,,,3218-12-20 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3218-12-20**] 1:51 PM
+     HEPATIC                                                         Clip # [**Clip Number (Radiology) 4250**]
+     Reason: 74 yo gentleman w/h/o epigastric pain, elevated transaminase
+      Contrast: OPTIRAY Amt: 75
+     ********************************* CPT Codes ********************************
+     * 37204 EMBO NON NEURO                 36247 INITAL 3RD ORDER ABD/PEL/LOWER*
+     * -51 MULTI-PROCEDURE SAME DAY         36245 EA 1ST ORDER ABD/PEL/LOWER EXT*
+     * -59 DISTINCT PROCEDURAL SERVICE      75894 TRANCATHETER EMBOLIZATION     *
+     * 75898 F/U STATUS INFUSION/EMBO       75726 VISERAL SEL/SUPERSEL A-GRAM   *
+     * 75726 VISERAL SEL/SUPERSEL A-GRAM    -59 DISTINCT PROCEDURAL SERVICE     *
+     * 75774 EA ADD'L VESSEL AFTER BASIC A-                                     *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      74 year old man with 
+     REASON FOR THIS EXAMINATION:
+      74 yo gentleman w/h/o epigastric pain, elevated transaminases, Bili=10, and CT
+      demonstrating a mass lesion c/w GB carcinoma.  ERCP revealed frank hemobilia;
+      there is a concern to r/o AVM-lesion prior to resection. 
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY AND INDICATION:  74 year old male with epigastric pain, elevated
+     bilirubin and frank hemobilia, needs hepatic arteriogram.
+     
+     RADIOLOGISTS:  Attending radiologist Dr. [**First Name4 (NamePattern1) 431**] [**Last Name (NamePattern1) 432**], interventional
+     radiology fellow Dr. [**First Name (STitle) 4251**] [**Name (STitle) **].
+     
+     TECHNIQUE:  Informed consent was obtained prior to the procedure.  Dr. [**Last Name (STitle) 432**]
+     was present for the entirety of the procedure.
+     
+     After local anesthesia with 1% lidocaine the right groin was accessed using a
+     19 gauge needle.  A .038 guidewire was placed under fluoroscopic observation
+     into the abdominal aorta.  Over the wire a 5 French sheath was placed, through
+     which a 5 French Cobra catheter was placed under fluoroscopic observation. The
+     tip of the catheter was placed in the right common hepatic artery, and
+     angiogram obtained.  A .035 glidewire was used to select the right proper
+     hepatic artery, and angiograms in multiple obliquities obtained.  A microwire
+     and tracker catheter was used to subselect a branch of the right hepatic
+     artery which demonstrated a pseudoaneurysm.  Attempts were made to engage the
+     neck of the aneurysm, and after being achieved, contrast injection
+     demonstrated opacification of the biliary system indicating that this lesion
+     was the source of the patient's hemobilia.  With the tracker catheter at the
+     orifice of the aneurysm thrombin was injected under fluoroscopic observation
+     until flow in the aneurysm had stopped.  The catheter was withdrawn into the
+     proper hepatic artery and angiogram was then obtained.  The catheter was used
+     under fluoroscopic observation to select the superior mesenteric artery, and a
+     superior mesenteric artery angiogram was obtained.
+     
+     MEDICATIONS:  Patient received 1% lidocaine for local anesthesia.  Under
+     continuous monitoring the patient received small divided doses of Versed
+     totaling 1 mg, and fentanyl totaling 100 micrograms.
+     
+     COMPLICATIONS:  No complications were evident.
+                                                                 (Over)
+
+     DATE: [**3218-12-20**] 1:51 PM
+     HEPATIC                                                         Clip # [**Clip Number (Radiology) 4250**]
+     Reason: 74 yo gentleman w/h/o epigastric pain, elevated transaminase
+      Contrast: OPTIRAY Amt: 75
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     
+     FINDINGS:  Angiogram of the common hepatic artery demonstrated an
+     approximately 3-4 cm aneurysm seen arising proximally from a branch of the
+     right hepatic artery.  There is also a large gallstone seen, and prominent
+     tortuous vessels seen in distribution of the cystic artery which may be
+     neovascularity.  After thrombin injection there was no longer filling of the
+     pseudoaneurysm.  The pseudoaneurysm was treated with 3000 units of thrombin.
+     
+     IMPRESSION:
+     1.  Successful embolization of hepatic artery pseudoaneurysm with thrombin as
+     described above.
+     2.  Tortuous neovascularity in the distribution of the cystic artery may be
+     tumor blush.
+     
+
+",,
+24612,17541,,,3218-12-20 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3218-12-20**] 1:51 PM
+     HEPATIC                                                         Clip # [**Clip Number (Radiology) 4250**]
+     Reason: 74 yo gentleman w/h/o epigastric pain, elevated transaminase
+      Contrast: OPTIRAY Amt: 75
+     ********************************* CPT Codes ********************************
+     * 37204 EMBO NON NEURO                 36247 INITAL 3RD ORDER ABD/PEL/LOWER*
+     * -51 MULTI-PROCEDURE SAME DAY         36245 EA 1ST ORDER ABD/PEL/LOWER EXT*
+     * -59 DISTINCT PROCEDURAL SERVICE      75894 TRANCATHETER EMBOLIZATION     *
+     * 75898 F/U STATUS INFUSION/EMBO       75726 VISERAL SEL/SUPERSEL A-GRAM   *
+     * 75726 VISERAL SEL/SUPERSEL A-GRAM    -59 DISTINCT PROCEDURAL SERVICE     *
+     * 75774 EA ADD'L VESSEL AFTER BASIC A-                                     *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      74 year old man with 
+     REASON FOR THIS EXAMINATION:
+      74 yo gentleman w/h/o epigastric pain, elevated transaminases, Bili=10, and CT
+      demonstrating a mass lesion c/w GB carcinoma.  ERCP revealed frank hemobilia;
+      there is a concern to r/o AVM-lesion prior to resection. 
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY AND INDICATION:  74 year old male with epigastric pain, elevated
+     bilirubin and frank hemobilia, needs hepatic arteriogram.
+     
+     RADIOLOGISTS:  Attending radiologist Dr. [**First Name4 (NamePattern1) 431**] [**Last Name (NamePattern1) 432**], interventional
+     radiology fellow Dr. [**First Name (STitle) 4251**] [**Name (STitle) **].
+     
+     TECHNIQUE:  Informed consent was obtained prior to the procedure.  Dr. [**Last Name (STitle) 432**]
+     was present for the entirety of the procedure.
+     
+     After local anesthesia with 1% lidocaine the right groin was accessed using a
+     19 gauge needle.  A .038 guidewire was placed under fluoroscopic observation
+     into the abdominal aorta.  Over the wire a 5 French sheath was placed, through
+     which a 5 French Cobra catheter was placed under fluoroscopic observation. The
+     tip of the catheter was placed in the right common hepatic artery, and
+     angiogram obtained.  A .035 glidewire was used to select the right proper
+     hepatic artery, and angiograms in multiple obliquities obtained.  A microwire
+     and tracker catheter was used to subselect a branch of the right hepatic
+     artery which demonstrated a pseudoaneurysm.  Attempts were made to engage the
+     neck of the aneurysm, and after being achieved, contrast injection
+     demonstrated opacification of the biliary system indicating that this lesion
+     was the source of the patient's hemobilia.  With the tracker catheter at the
+     orifice of the aneurysm thrombin was injected under fluoroscopic observation
+     until flow in the aneurysm had stopped.  The catheter was withdrawn into the
+     proper hepatic artery and angiogram was then obtained.  The catheter was used
+     under fluoroscopic observation to select the superior mesenteric artery, and a
+     superior mesenteric artery angiogram was obtained.
+     
+     MEDICATIONS:  Patient received 1% lidocaine for local anesthesia.  Under
+     continuous monitoring the patient received small divided doses of Versed
+     totaling 1 mg, and fentanyl totaling 100 micrograms.
+     
+     COMPLICATIONS:  No complications were evident.
+                                                                 (Over)
+
+     DATE: [**3218-12-20**] 1:51 PM
+     HEPATIC                                                         Clip # [**Clip Number (Radiology) 4250**]
+     Reason: 74 yo gentleman w/h/o epigastric pain, elevated transaminase
+      Contrast: OPTIRAY Amt: 75
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     
+     FINDINGS:  Angiogram of the common hepatic artery demonstrated an
+     approximately 3-4 cm aneurysm seen arising proximally from a branch of the
+     right hepatic artery.  There is also a large gallstone seen, and prominent
+     tortuous vessels seen in distribution of the cystic artery which may be
+     neovascularity.  After thrombin injection there was no longer filling of the
+     pseudoaneurysm.  The pseudoaneurysm was treated with 3000 units of thrombin.
+     
+     IMPRESSION:
+     1.  Successful embolization of hepatic artery pseudoaneurysm with thrombin as
+     described above.
+     2.  Tortuous neovascularity in the distribution of the cystic artery may be
+     tumor blush.
+     
+
+",,
+24612,17541,,,3218-12-20 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3218-12-20**] 1:51 PM
+     HEPATIC                                                         Clip # [**Clip Number (Radiology) 4250**]
+     Reason: 74 yo gentleman w/h/o epigastric pain, elevated transaminase
+      Contrast: OPTIRAY Amt: 75
+     ********************************* CPT Codes ********************************
+     * 37204 EMBO NON NEURO                 36247 INITAL 3RD ORDER ABD/PEL/LOWER*
+     * -51 MULTI-PROCEDURE SAME DAY         36245 EA 1ST ORDER ABD/PEL/LOWER EXT*
+     * -59 DISTINCT PROCEDURAL SERVICE      75894 TRANCATHETER EMBOLIZATION     *
+     * 75898 F/U STATUS INFUSION/EMBO       75726 VISERAL SEL/SUPERSEL A-GRAM   *
+     * 75726 VISERAL SEL/SUPERSEL A-GRAM    -59 DISTINCT PROCEDURAL SERVICE     *
+     * 75774 EA ADD'L VESSEL AFTER BASIC A-                                     *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      74 year old man with 
+     REASON FOR THIS EXAMINATION:
+      74 yo gentleman w/h/o epigastric pain, elevated transaminases, Bili=10, and CT
+      demonstrating a mass lesion c/w GB carcinoma.  ERCP revealed frank hemobilia;
+      there is a concern to r/o AVM-lesion prior to resection. 
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY AND INDICATION:  74 year old male with epigastric pain, elevated
+     bilirubin and frank hemobilia, needs hepatic arteriogram.
+     
+     RADIOLOGISTS:  Attending radiologist Dr. [**First Name4 (NamePattern1) 431**] [**Last Name (NamePattern1) 432**], interventional
+     radiology fellow Dr. [**First Name (STitle) 4251**] [**Name (STitle) **].
+     
+     TECHNIQUE:  Informed consent was obtained prior to the procedure.  Dr. [**Last Name (STitle) 432**]
+     was present for the entirety of the procedure.
+     
+     After local anesthesia with 1% lidocaine the right groin was accessed using a
+     19 gauge needle.  A .038 guidewire was placed under fluoroscopic observation
+     into the abdominal aorta.  Over the wire a 5 French sheath was placed, through
+     which a 5 French Cobra catheter was placed under fluoroscopic observation. The
+     tip of the catheter was placed in the right common hepatic artery, and
+     angiogram obtained.  A .035 glidewire was used to select the right proper
+     hepatic artery, and angiograms in multiple obliquities obtained.  A microwire
+     and tracker catheter was used to subselect a branch of the right hepatic
+     artery which demonstrated a pseudoaneurysm.  Attempts were made to engage the
+     neck of the aneurysm, and after being achieved, contrast injection
+     demonstrated opacification of the biliary system indicating that this lesion
+     was the source of the patient's hemobilia.  With the tracker catheter at the
+     orifice of the aneurysm thrombin was injected under fluoroscopic observation
+     until flow in the aneurysm had stopped.  The catheter was withdrawn into the
+     proper hepatic artery and angiogram was then obtained.  The catheter was used
+     under fluoroscopic observation to select the superior mesenteric artery, and a
+     superior mesenteric artery angiogram was obtained.
+     
+     MEDICATIONS:  Patient received 1% lidocaine for local anesthesia.  Under
+     continuous monitoring the patient received small divided doses of Versed
+     totaling 1 mg, and fentanyl totaling 100 micrograms.
+     
+     COMPLICATIONS:  No complications were evident.
+                                                                 (Over)
+
+     DATE: [**3218-12-20**] 1:51 PM
+     HEPATIC                                                         Clip # [**Clip Number (Radiology) 4250**]
+     Reason: 74 yo gentleman w/h/o epigastric pain, elevated transaminase
+      Contrast: OPTIRAY Amt: 75
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     
+     FINDINGS:  Angiogram of the common hepatic artery demonstrated an
+     approximately 3-4 cm aneurysm seen arising proximally from a branch of the
+     right hepatic artery.  There is also a large gallstone seen, and prominent
+     tortuous vessels seen in distribution of the cystic artery which may be
+     neovascularity.  After thrombin injection there was no longer filling of the
+     pseudoaneurysm.  The pseudoaneurysm was treated with 3000 units of thrombin.
+     
+     IMPRESSION:
+     1.  Successful embolization of hepatic artery pseudoaneurysm with thrombin as
+     described above.
+     2.  Tortuous neovascularity in the distribution of the cystic artery may be
+     tumor blush.
+     
+
+",,
+24612,17541,,,3218-12-20 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3218-12-20**] 1:51 PM
+     HEPATIC                                                         Clip # [**Clip Number (Radiology) 4250**]
+     Reason: 74 yo gentleman w/h/o epigastric pain, elevated transaminase
+      Contrast: OPTIRAY Amt: 75
+     ********************************* CPT Codes ********************************
+     * 37204 EMBO NON NEURO                 36247 INITAL 3RD ORDER ABD/PEL/LOWER*
+     * -51 MULTI-PROCEDURE SAME DAY         36245 EA 1ST ORDER ABD/PEL/LOWER EXT*
+     * -59 DISTINCT PROCEDURAL SERVICE      75894 TRANCATHETER EMBOLIZATION     *
+     * 75898 F/U STATUS INFUSION/EMBO       75726 VISERAL SEL/SUPERSEL A-GRAM   *
+     * 75726 VISERAL SEL/SUPERSEL A-GRAM    -59 DISTINCT PROCEDURAL SERVICE     *
+     * 75774 EA ADD'L VESSEL AFTER BASIC A-                                     *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      74 year old man with 
+     REASON FOR THIS EXAMINATION:
+      74 yo gentleman w/h/o epigastric pain, elevated transaminases, Bili=10, and CT
+      demonstrating a mass lesion c/w GB carcinoma.  ERCP revealed frank hemobilia;
+      there is a concern to r/o AVM-lesion prior to resection. 
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY AND INDICATION:  74 year old male with epigastric pain, elevated
+     bilirubin and frank hemobilia, needs hepatic arteriogram.
+     
+     RADIOLOGISTS:  Attending radiologist Dr. [**First Name4 (NamePattern1) 431**] [**Last Name (NamePattern1) 432**], interventional
+     radiology fellow Dr. [**First Name (STitle) 4251**] [**Name (STitle) **].
+     
+     TECHNIQUE:  Informed consent was obtained prior to the procedure.  Dr. [**Last Name (STitle) 432**]
+     was present for the entirety of the procedure.
+     
+     After local anesthesia with 1% lidocaine the right groin was accessed using a
+     19 gauge needle.  A .038 guidewire was placed under fluoroscopic observation
+     into the abdominal aorta.  Over the wire a 5 French sheath was placed, through
+     which a 5 French Cobra catheter was placed under fluoroscopic observation. The
+     tip of the catheter was placed in the right common hepatic artery, and
+     angiogram obtained.  A .035 glidewire was used to select the right proper
+     hepatic artery, and angiograms in multiple obliquities obtained.  A microwire
+     and tracker catheter was used to subselect a branch of the right hepatic
+     artery which demonstrated a pseudoaneurysm.  Attempts were made to engage the
+     neck of the aneurysm, and after being achieved, contrast injection
+     demonstrated opacification of the biliary system indicating that this lesion
+     was the source of the patient's hemobilia.  With the tracker catheter at the
+     orifice of the aneurysm thrombin was injected under fluoroscopic observation
+     until flow in the aneurysm had stopped.  The catheter was withdrawn into the
+     proper hepatic artery and angiogram was then obtained.  The catheter was used
+     under fluoroscopic observation to select the superior mesenteric artery, and a
+     superior mesenteric artery angiogram was obtained.
+     
+     MEDICATIONS:  Patient received 1% lidocaine for local anesthesia.  Under
+     continuous monitoring the patient received small divided doses of Versed
+     totaling 1 mg, and fentanyl totaling 100 micrograms.
+     
+     COMPLICATIONS:  No complications were evident.
+                                                                 (Over)
+
+     DATE: [**3218-12-20**] 1:51 PM
+     HEPATIC                                                         Clip # [**Clip Number (Radiology) 4250**]
+     Reason: 74 yo gentleman w/h/o epigastric pain, elevated transaminase
+      Contrast: OPTIRAY Amt: 75
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     
+     FINDINGS:  Angiogram of the common hepatic artery demonstrated an
+     approximately 3-4 cm aneurysm seen arising proximally from a branch of the
+     right hepatic artery.  There is also a large gallstone seen, and prominent
+     tortuous vessels seen in distribution of the cystic artery which may be
+     neovascularity.  After thrombin injection there was no longer filling of the
+     pseudoaneurysm.  The pseudoaneurysm was treated with 3000 units of thrombin.
+     
+     IMPRESSION:
+     1.  Successful embolization of hepatic artery pseudoaneurysm with thrombin as
+     described above.
+     2.  Tortuous neovascularity in the distribution of the cystic artery may be
+     tumor blush.
+     
+
+",,
+24612,17541,,,3218-12-20 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3218-12-20**] 1:51 PM
+     HEPATIC                                                         Clip # [**Clip Number (Radiology) 4250**]
+     Reason: 74 yo gentleman w/h/o epigastric pain, elevated transaminase
+      Contrast: OPTIRAY Amt: 75
+     ********************************* CPT Codes ********************************
+     * 37204 EMBO NON NEURO                 36247 INITAL 3RD ORDER ABD/PEL/LOWER*
+     * -51 MULTI-PROCEDURE SAME DAY         36245 EA 1ST ORDER ABD/PEL/LOWER EXT*
+     * -59 DISTINCT PROCEDURAL SERVICE      75894 TRANCATHETER EMBOLIZATION     *
+     * 75898 F/U STATUS INFUSION/EMBO       75726 VISERAL SEL/SUPERSEL A-GRAM   *
+     * 75726 VISERAL SEL/SUPERSEL A-GRAM    -59 DISTINCT PROCEDURAL SERVICE     *
+     * 75774 EA ADD'L VESSEL AFTER BASIC A-                                     *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      74 year old man with 
+     REASON FOR THIS EXAMINATION:
+      74 yo gentleman w/h/o epigastric pain, elevated transaminases, Bili=10, and CT
+      demonstrating a mass lesion c/w GB carcinoma.  ERCP revealed frank hemobilia;
+      there is a concern to r/o AVM-lesion prior to resection. 
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY AND INDICATION:  74 year old male with epigastric pain, elevated
+     bilirubin and frank hemobilia, needs hepatic arteriogram.
+     
+     RADIOLOGISTS:  Attending radiologist Dr. [**First Name4 (NamePattern1) 431**] [**Last Name (NamePattern1) 432**], interventional
+     radiology fellow Dr. [**First Name (STitle) 4251**] [**Name (STitle) **].
+     
+     TECHNIQUE:  Informed consent was obtained prior to the procedure.  Dr. [**Last Name (STitle) 432**]
+     was present for the entirety of the procedure.
+     
+     After local anesthesia with 1% lidocaine the right groin was accessed using a
+     19 gauge needle.  A .038 guidewire was placed under fluoroscopic observation
+     into the abdominal aorta.  Over the wire a 5 French sheath was placed, through
+     which a 5 French Cobra catheter was placed under fluoroscopic observation. The
+     tip of the catheter was placed in the right common hepatic artery, and
+     angiogram obtained.  A .035 glidewire was used to select the right proper
+     hepatic artery, and angiograms in multiple obliquities obtained.  A microwire
+     and tracker catheter was used to subselect a branch of the right hepatic
+     artery which demonstrated a pseudoaneurysm.  Attempts were made to engage the
+     neck of the aneurysm, and after being achieved, contrast injection
+     demonstrated opacification of the biliary system indicating that this lesion
+     was the source of the patient's hemobilia.  With the tracker catheter at the
+     orifice of the aneurysm thrombin was injected under fluoroscopic observation
+     until flow in the aneurysm had stopped.  The catheter was withdrawn into the
+     proper hepatic artery and angiogram was then obtained.  The catheter was used
+     under fluoroscopic observation to select the superior mesenteric artery, and a
+     superior mesenteric artery angiogram was obtained.
+     
+     MEDICATIONS:  Patient received 1% lidocaine for local anesthesia.  Under
+     continuous monitoring the patient received small divided doses of Versed
+     totaling 1 mg, and fentanyl totaling 100 micrograms.
+     
+     COMPLICATIONS:  No complications were evident.
+                                                                 (Over)
+
+     DATE: [**3218-12-20**] 1:51 PM
+     HEPATIC                                                         Clip # [**Clip Number (Radiology) 4250**]
+     Reason: 74 yo gentleman w/h/o epigastric pain, elevated transaminase
+      Contrast: OPTIRAY Amt: 75
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     
+     FINDINGS:  Angiogram of the common hepatic artery demonstrated an
+     approximately 3-4 cm aneurysm seen arising proximally from a branch of the
+     right hepatic artery.  There is also a large gallstone seen, and prominent
+     tortuous vessels seen in distribution of the cystic artery which may be
+     neovascularity.  After thrombin injection there was no longer filling of the
+     pseudoaneurysm.  The pseudoaneurysm was treated with 3000 units of thrombin.
+     
+     IMPRESSION:
+     1.  Successful embolization of hepatic artery pseudoaneurysm with thrombin as
+     described above.
+     2.  Tortuous neovascularity in the distribution of the cystic artery may be
+     tumor blush.
+     
+
+",,
+24612,17541,,,3218-12-20 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3218-12-20**] 1:51 PM
+     HEPATIC                                                         Clip # [**Clip Number (Radiology) 4250**]
+     Reason: 74 yo gentleman w/h/o epigastric pain, elevated transaminase
+      Contrast: OPTIRAY Amt: 75
+     ********************************* CPT Codes ********************************
+     * 37204 EMBO NON NEURO                 36247 INITAL 3RD ORDER ABD/PEL/LOWER*
+     * -51 MULTI-PROCEDURE SAME DAY         36245 EA 1ST ORDER ABD/PEL/LOWER EXT*
+     * -59 DISTINCT PROCEDURAL SERVICE      75894 TRANCATHETER EMBOLIZATION     *
+     * 75898 F/U STATUS INFUSION/EMBO       75726 VISERAL SEL/SUPERSEL A-GRAM   *
+     * 75726 VISERAL SEL/SUPERSEL A-GRAM    -59 DISTINCT PROCEDURAL SERVICE     *
+     * 75774 EA ADD'L VESSEL AFTER BASIC A-                                     *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      74 year old man with 
+     REASON FOR THIS EXAMINATION:
+      74 yo gentleman w/h/o epigastric pain, elevated transaminases, Bili=10, and CT
+      demonstrating a mass lesion c/w GB carcinoma.  ERCP revealed frank hemobilia;
+      there is a concern to r/o AVM-lesion prior to resection. 
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY AND INDICATION:  74 year old male with epigastric pain, elevated
+     bilirubin and frank hemobilia, needs hepatic arteriogram.
+     
+     RADIOLOGISTS:  Attending radiologist Dr. [**First Name4 (NamePattern1) 431**] [**Last Name (NamePattern1) 432**], interventional
+     radiology fellow Dr. [**First Name (STitle) 4251**] [**Name (STitle) **].
+     
+     TECHNIQUE:  Informed consent was obtained prior to the procedure.  Dr. [**Last Name (STitle) 432**]
+     was present for the entirety of the procedure.
+     
+     After local anesthesia with 1% lidocaine the right groin was accessed using a
+     19 gauge needle.  A .038 guidewire was placed under fluoroscopic observation
+     into the abdominal aorta.  Over the wire a 5 French sheath was placed, through
+     which a 5 French Cobra catheter was placed under fluoroscopic observation. The
+     tip of the catheter was placed in the right common hepatic artery, and
+     angiogram obtained.  A .035 glidewire was used to select the right proper
+     hepatic artery, and angiograms in multiple obliquities obtained.  A microwire
+     and tracker catheter was used to subselect a branch of the right hepatic
+     artery which demonstrated a pseudoaneurysm.  Attempts were made to engage the
+     neck of the aneurysm, and after being achieved, contrast injection
+     demonstrated opacification of the biliary system indicating that this lesion
+     was the source of the patient's hemobilia.  With the tracker catheter at the
+     orifice of the aneurysm thrombin was injected under fluoroscopic observation
+     until flow in the aneurysm had stopped.  The catheter was withdrawn into the
+     proper hepatic artery and angiogram was then obtained.  The catheter was used
+     under fluoroscopic observation to select the superior mesenteric artery, and a
+     superior mesenteric artery angiogram was obtained.
+     
+     MEDICATIONS:  Patient received 1% lidocaine for local anesthesia.  Under
+     continuous monitoring the patient received small divided doses of Versed
+     totaling 1 mg, and fentanyl totaling 100 micrograms.
+     
+     COMPLICATIONS:  No complications were evident.
+                                                                 (Over)
+
+     DATE: [**3218-12-20**] 1:51 PM
+     HEPATIC                                                         Clip # [**Clip Number (Radiology) 4250**]
+     Reason: 74 yo gentleman w/h/o epigastric pain, elevated transaminase
+      Contrast: OPTIRAY Amt: 75
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     
+     FINDINGS:  Angiogram of the common hepatic artery demonstrated an
+     approximately 3-4 cm aneurysm seen arising proximally from a branch of the
+     right hepatic artery.  There is also a large gallstone seen, and prominent
+     tortuous vessels seen in distribution of the cystic artery which may be
+     neovascularity.  After thrombin injection there was no longer filling of the
+     pseudoaneurysm.  The pseudoaneurysm was treated with 3000 units of thrombin.
+     
+     IMPRESSION:
+     1.  Successful embolization of hepatic artery pseudoaneurysm with thrombin as
+     described above.
+     2.  Tortuous neovascularity in the distribution of the cystic artery may be
+     tumor blush.
+     
+
+",,
+24612,17541,,,3218-12-20 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3218-12-20**] 1:51 PM
+     HEPATIC                                                         Clip # [**Clip Number (Radiology) 4250**]
+     Reason: 74 yo gentleman w/h/o epigastric pain, elevated transaminase
+      Contrast: OPTIRAY Amt: 75
+     ********************************* CPT Codes ********************************
+     * 37204 EMBO NON NEURO                 36247 INITAL 3RD ORDER ABD/PEL/LOWER*
+     * -51 MULTI-PROCEDURE SAME DAY         36245 EA 1ST ORDER ABD/PEL/LOWER EXT*
+     * -59 DISTINCT PROCEDURAL SERVICE      75894 TRANCATHETER EMBOLIZATION     *
+     * 75898 F/U STATUS INFUSION/EMBO       75726 VISERAL SEL/SUPERSEL A-GRAM   *
+     * 75726 VISERAL SEL/SUPERSEL A-GRAM    -59 DISTINCT PROCEDURAL SERVICE     *
+     * 75774 EA ADD'L VESSEL AFTER BASIC A-                                     *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      74 year old man with 
+     REASON FOR THIS EXAMINATION:
+      74 yo gentleman w/h/o epigastric pain, elevated transaminases, Bili=10, and CT
+      demonstrating a mass lesion c/w GB carcinoma.  ERCP revealed frank hemobilia;
+      there is a concern to r/o AVM-lesion prior to resection. 
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY AND INDICATION:  74 year old male with epigastric pain, elevated
+     bilirubin and frank hemobilia, needs hepatic arteriogram.
+     
+     RADIOLOGISTS:  Attending radiologist Dr. [**First Name4 (NamePattern1) 431**] [**Last Name (NamePattern1) 432**], interventional
+     radiology fellow Dr. [**First Name (STitle) 4251**] [**Name (STitle) **].
+     
+     TECHNIQUE:  Informed consent was obtained prior to the procedure.  Dr. [**Last Name (STitle) 432**]
+     was present for the entirety of the procedure.
+     
+     After local anesthesia with 1% lidocaine the right groin was accessed using a
+     19 gauge needle.  A .038 guidewire was placed under fluoroscopic observation
+     into the abdominal aorta.  Over the wire a 5 French sheath was placed, through
+     which a 5 French Cobra catheter was placed under fluoroscopic observation. The
+     tip of the catheter was placed in the right common hepatic artery, and
+     angiogram obtained.  A .035 glidewire was used to select the right proper
+     hepatic artery, and angiograms in multiple obliquities obtained.  A microwire
+     and tracker catheter was used to subselect a branch of the right hepatic
+     artery which demonstrated a pseudoaneurysm.  Attempts were made to engage the
+     neck of the aneurysm, and after being achieved, contrast injection
+     demonstrated opacification of the biliary system indicating that this lesion
+     was the source of the patient's hemobilia.  With the tracker catheter at the
+     orifice of the aneurysm thrombin was injected under fluoroscopic observation
+     until flow in the aneurysm had stopped.  The catheter was withdrawn into the
+     proper hepatic artery and angiogram was then obtained.  The catheter was used
+     under fluoroscopic observation to select the superior mesenteric artery, and a
+     superior mesenteric artery angiogram was obtained.
+     
+     MEDICATIONS:  Patient received 1% lidocaine for local anesthesia.  Under
+     continuous monitoring the patient received small divided doses of Versed
+     totaling 1 mg, and fentanyl totaling 100 micrograms.
+     
+     COMPLICATIONS:  No complications were evident.
+                                                                 (Over)
+
+     DATE: [**3218-12-20**] 1:51 PM
+     HEPATIC                                                         Clip # [**Clip Number (Radiology) 4250**]
+     Reason: 74 yo gentleman w/h/o epigastric pain, elevated transaminase
+      Contrast: OPTIRAY Amt: 75
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     
+     FINDINGS:  Angiogram of the common hepatic artery demonstrated an
+     approximately 3-4 cm aneurysm seen arising proximally from a branch of the
+     right hepatic artery.  There is also a large gallstone seen, and prominent
+     tortuous vessels seen in distribution of the cystic artery which may be
+     neovascularity.  After thrombin injection there was no longer filling of the
+     pseudoaneurysm.  The pseudoaneurysm was treated with 3000 units of thrombin.
+     
+     IMPRESSION:
+     1.  Successful embolization of hepatic artery pseudoaneurysm with thrombin as
+     described above.
+     2.  Tortuous neovascularity in the distribution of the cystic artery may be
+     tumor blush.
+     
+
+",,
+24612,17541,,,3218-12-20 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3218-12-20**] 1:51 PM
+     HEPATIC                                                         Clip # [**Clip Number (Radiology) 4250**]
+     Reason: 74 yo gentleman w/h/o epigastric pain, elevated transaminase
+      Contrast: OPTIRAY Amt: 75
+     ********************************* CPT Codes ********************************
+     * 37204 EMBO NON NEURO                 36247 INITAL 3RD ORDER ABD/PEL/LOWER*
+     * -51 MULTI-PROCEDURE SAME DAY         36245 EA 1ST ORDER ABD/PEL/LOWER EXT*
+     * -59 DISTINCT PROCEDURAL SERVICE      75894 TRANCATHETER EMBOLIZATION     *
+     * 75898 F/U STATUS INFUSION/EMBO       75726 VISERAL SEL/SUPERSEL A-GRAM   *
+     * 75726 VISERAL SEL/SUPERSEL A-GRAM    -59 DISTINCT PROCEDURAL SERVICE     *
+     * 75774 EA ADD'L VESSEL AFTER BASIC A-                                     *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      74 year old man with 
+     REASON FOR THIS EXAMINATION:
+      74 yo gentleman w/h/o epigastric pain, elevated transaminases, Bili=10, and CT
+      demonstrating a mass lesion c/w GB carcinoma.  ERCP revealed frank hemobilia;
+      there is a concern to r/o AVM-lesion prior to resection. 
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY AND INDICATION:  74 year old male with epigastric pain, elevated
+     bilirubin and frank hemobilia, needs hepatic arteriogram.
+     
+     RADIOLOGISTS:  Attending radiologist Dr. [**First Name4 (NamePattern1) 431**] [**Last Name (NamePattern1) 432**], interventional
+     radiology fellow Dr. [**First Name (STitle) 4251**] [**Name (STitle) **].
+     
+     TECHNIQUE:  Informed consent was obtained prior to the procedure.  Dr. [**Last Name (STitle) 432**]
+     was present for the entirety of the procedure.
+     
+     After local anesthesia with 1% lidocaine the right groin was accessed using a
+     19 gauge needle.  A .038 guidewire was placed under fluoroscopic observation
+     into the abdominal aorta.  Over the wire a 5 French sheath was placed, through
+     which a 5 French Cobra catheter was placed under fluoroscopic observation. The
+     tip of the catheter was placed in the right common hepatic artery, and
+     angiogram obtained.  A .035 glidewire was used to select the right proper
+     hepatic artery, and angiograms in multiple obliquities obtained.  A microwire
+     and tracker catheter was used to subselect a branch of the right hepatic
+     artery which demonstrated a pseudoaneurysm.  Attempts were made to engage the
+     neck of the aneurysm, and after being achieved, contrast injection
+     demonstrated opacification of the biliary system indicating that this lesion
+     was the source of the patient's hemobilia.  With the tracker catheter at the
+     orifice of the aneurysm thrombin was injected under fluoroscopic observation
+     until flow in the aneurysm had stopped.  The catheter was withdrawn into the
+     proper hepatic artery and angiogram was then obtained.  The catheter was used
+     under fluoroscopic observation to select the superior mesenteric artery, and a
+     superior mesenteric artery angiogram was obtained.
+     
+     MEDICATIONS:  Patient received 1% lidocaine for local anesthesia.  Under
+     continuous monitoring the patient received small divided doses of Versed
+     totaling 1 mg, and fentanyl totaling 100 micrograms.
+     
+     COMPLICATIONS:  No complications were evident.
+                                                                 (Over)
+
+     DATE: [**3218-12-20**] 1:51 PM
+     HEPATIC                                                         Clip # [**Clip Number (Radiology) 4250**]
+     Reason: 74 yo gentleman w/h/o epigastric pain, elevated transaminase
+      Contrast: OPTIRAY Amt: 75
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     
+     FINDINGS:  Angiogram of the common hepatic artery demonstrated an
+     approximately 3-4 cm aneurysm seen arising proximally from a branch of the
+     right hepatic artery.  There is also a large gallstone seen, and prominent
+     tortuous vessels seen in distribution of the cystic artery which may be
+     neovascularity.  After thrombin injection there was no longer filling of the
+     pseudoaneurysm.  The pseudoaneurysm was treated with 3000 units of thrombin.
+     
+     IMPRESSION:
+     1.  Successful embolization of hepatic artery pseudoaneurysm with thrombin as
+     described above.
+     2.  Tortuous neovascularity in the distribution of the cystic artery may be
+     tumor blush.
+     
+
+",,
+24612,17541,,,3218-12-20 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3218-12-20**] 1:51 PM
+     HEPATIC                                                         Clip # [**Clip Number (Radiology) 4250**]
+     Reason: 74 yo gentleman w/h/o epigastric pain, elevated transaminase
+      Contrast: OPTIRAY Amt: 75
+     ********************************* CPT Codes ********************************
+     * 37204 EMBO NON NEURO                 36247 INITAL 3RD ORDER ABD/PEL/LOWER*
+     * -51 MULTI-PROCEDURE SAME DAY         36245 EA 1ST ORDER ABD/PEL/LOWER EXT*
+     * -59 DISTINCT PROCEDURAL SERVICE      75894 TRANCATHETER EMBOLIZATION     *
+     * 75898 F/U STATUS INFUSION/EMBO       75726 VISERAL SEL/SUPERSEL A-GRAM   *
+     * 75726 VISERAL SEL/SUPERSEL A-GRAM    -59 DISTINCT PROCEDURAL SERVICE     *
+     * 75774 EA ADD'L VESSEL AFTER BASIC A-                                     *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      74 year old man with 
+     REASON FOR THIS EXAMINATION:
+      74 yo gentleman w/h/o epigastric pain, elevated transaminases, Bili=10, and CT
+      demonstrating a mass lesion c/w GB carcinoma.  ERCP revealed frank hemobilia;
+      there is a concern to r/o AVM-lesion prior to resection. 
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY AND INDICATION:  74 year old male with epigastric pain, elevated
+     bilirubin and frank hemobilia, needs hepatic arteriogram.
+     
+     RADIOLOGISTS:  Attending radiologist Dr. [**First Name4 (NamePattern1) 431**] [**Last Name (NamePattern1) 432**], interventional
+     radiology fellow Dr. [**First Name (STitle) 4251**] [**Name (STitle) **].
+     
+     TECHNIQUE:  Informed consent was obtained prior to the procedure.  Dr. [**Last Name (STitle) 432**]
+     was present for the entirety of the procedure.
+     
+     After local anesthesia with 1% lidocaine the right groin was accessed using a
+     19 gauge needle.  A .038 guidewire was placed under fluoroscopic observation
+     into the abdominal aorta.  Over the wire a 5 French sheath was placed, through
+     which a 5 French Cobra catheter was placed under fluoroscopic observation. The
+     tip of the catheter was placed in the right common hepatic artery, and
+     angiogram obtained.  A .035 glidewire was used to select the right proper
+     hepatic artery, and angiograms in multiple obliquities obtained.  A microwire
+     and tracker catheter was used to subselect a branch of the right hepatic
+     artery which demonstrated a pseudoaneurysm.  Attempts were made to engage the
+     neck of the aneurysm, and after being achieved, contrast injection
+     demonstrated opacification of the biliary system indicating that this lesion
+     was the source of the patient's hemobilia.  With the tracker catheter at the
+     orifice of the aneurysm thrombin was injected under fluoroscopic observation
+     until flow in the aneurysm had stopped.  The catheter was withdrawn into the
+     proper hepatic artery and angiogram was then obtained.  The catheter was used
+     under fluoroscopic observation to select the superior mesenteric artery, and a
+     superior mesenteric artery angiogram was obtained.
+     
+     MEDICATIONS:  Patient received 1% lidocaine for local anesthesia.  Under
+     continuous monitoring the patient received small divided doses of Versed
+     totaling 1 mg, and fentanyl totaling 100 micrograms.
+     
+     COMPLICATIONS:  No complications were evident.
+                                                                 (Over)
+
+     DATE: [**3218-12-20**] 1:51 PM
+     HEPATIC                                                         Clip # [**Clip Number (Radiology) 4250**]
+     Reason: 74 yo gentleman w/h/o epigastric pain, elevated transaminase
+      Contrast: OPTIRAY Amt: 75
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     
+     FINDINGS:  Angiogram of the common hepatic artery demonstrated an
+     approximately 3-4 cm aneurysm seen arising proximally from a branch of the
+     right hepatic artery.  There is also a large gallstone seen, and prominent
+     tortuous vessels seen in distribution of the cystic artery which may be
+     neovascularity.  After thrombin injection there was no longer filling of the
+     pseudoaneurysm.  The pseudoaneurysm was treated with 3000 units of thrombin.
+     
+     IMPRESSION:
+     1.  Successful embolization of hepatic artery pseudoaneurysm with thrombin as
+     described above.
+     2.  Tortuous neovascularity in the distribution of the cystic artery may be
+     tumor blush.
+     
+
+",,
+24612,17541,,,3218-12-21 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+",,
+24612,17541,30560,0,3218-12-21 17:23:00 EST,3218-12-21 17:34:00 EST,100,"N",69,"Nursing/Other","MICU event note","
+MICU event note
+
+
+Transfer from GI unit to MICU with rapid AF, treated with IV lopressor total 20mg.
+
+Arrived from GI unit with HR 105 ST freq APC's, BP 130's systolic
+
+Brief review of systems:
+
+CV: HR 70-90 SR/ST, freq APC's, occassional runs AF 150 resolve spontaneously, given 100mg po lopressor at 1600. Denies cp/palp/diaphoresis. 1+ peripheral edema.
+
+Resp: Lungs CTA, No SOB/DOE, O2 3lN/C O2 sat 100%
+
+GI: ABD obese +BS, ERCP scheduled for today was cancelled due to tachyarrhythmia.
+
+GU: void spontaneously
+
+Skin: intact.
+
+Access: RAC #18
+
+Social: wife and son visiting
+
+PLAN: return to west campus C-med service
+",,
+24612,17541,30560,0,3218-12-21 20:56:00 EST,3218-12-21 20:58:00 EST,252,"N",69,"Nursing/Other",,"
+
+NPN (ADDENDUM):  PT NOTED TO BE IN A-FLUTTER W/ [**1-13**] BLOCK.  RATES LESS THAN 100/MIN.  DR. [**First Name (STitle) **] SAW PT.  HE IS IN ABSOLUTELY NO DISTRESS, NO CP, BP STABLE, SOB, MENTAL STATUS CHANGES, UO GOOD.  LOPRESSOR 25 MG'S PO GIVEN AT 8PM.  
+",,
+24612,,,,3219-01-10 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3219-1-10**] 12:17 PM
+     CT ABD W&W/O C; CT PELVIS W/CONTRAST                            Clip # [**Clip Number (Radiology) 4252**]
+     CT 150CC NONIONIC CONTRAST
+     Reason: 63 yo male diabetic with gallbladder mass vs severe inflamma
+     Field of view: 42 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      74 year old man with abdominal pain, r/o abd aortic aneurysm, r/o pancreatic
+      mass
+     REASON FOR THIS EXAMINATION:
+      63 yo male diabetic with gallbladder mass vs severe inflammation, and
+      hemobilia, sp recent embolization of right hepatic artery pseudoaneurysm, now
+      with elevation of bili from 2 to 3, please reassess gallbladder, stent in
+      place.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     ENHANCED CT OF THE ABDOMEN AND PELVIS.
+     
+     INDICATION:  Gallbladder mass.
+     
+     150 ml of non-ionic contrast was administered given patient's history of
+     diabetes.
+     
+     TECHNIQUE:  Non-enhanced and enhanced images through the abdomen with delayed
+     images through the abdomen and pelvis.
+     
+     NON-ENHANCED AND ENHANCED CT OF THE ABDOMEN.
+     
+     Compared to [**3218-12-18**].
+     
+     In the interval, the patient has had a common bile duct stent placed which is
+     in satisfactory position.  No biliary tree dilatation.
+     
+     Two gallstones are again noted in a markedly abnormal gallbladder with
+     thickening of the wall and irregular contours with some low attenuation in the
+     adjacent liver.
+     
+     As described previously, this appearance does raise the possibility of
+     gallbladder carcinoma.
+     
+     The only change in the appearance of the gallbladder is that previously some
+     high-attenuation material consistent with hemobilia and blood clot was present
+     in the gallbladder.  On today's exam, this blood clot seems to have retracted
+     somewhat and more low attenuation fluid consistent with bile is seen.
+     
+     As before, a small low-attenuation region at the lower pole of the right
+     kidney consistent with small renal cyst is present.
+     
+     The liver is otherwise unremarkable with no new abnormalities noted.  The
+     pancreas, spleen, adrenal glands and visualized portions of the bowel and
+     mesentery and major intra- and retroperitoneal structures are normal.
+     
+     ENHANCED CT SCAN OF THE PELVIS.
+                                                                 (Over)
+
+     DATE: [**3219-1-10**] 12:17 PM
+     CT ABD W&W/O C; CT PELVIS W/CONTRAST                            Clip # [**Clip Number (Radiology) 4252**]
+     CT 150CC NONIONIC CONTRAST
+     Reason: 63 yo male diabetic with gallbladder mass vs severe inflamma
+     Field of view: 42 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     
+     No masses, free fluid or lymphadenopathy.
+     
+     There is aneurysmal dilation of the proximal left common iliac artery and a
+     2.4-cm aneurysm of the left internal iliac artery.  These are unchanged from
+     before.
+     
+     The prostate gland is enlarged measuring 6.7 x 5.6 cm.
+     
+     No masses, free fluid or lymphadenopathy.  Bilateral fat-containing inguinal
+     hernias.  A small amount of fluid is seen on the last cut of the pelvis which
+     may reflect a small right hydrocele.
+     
+     IMPRESSION:
+     
+     1) No biliary tree dilatation to account for the patient's rising bilirubin.
+     
+     2) Slight retraction of some of the blood clot in the gallbladder.
+     
+     3) Otherwise, no appreciable change.
+     
+     4) Iliac artery aneurysm and probable small right hydrocele.
+     
+     5) Enlarged prostate most likely due to prostatic hypertrophy.
+     
+     
+
+",,
+24612,,,,3219-01-10 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3219-1-10**] 12:17 PM
+     CT ABD W&W/O C; CT PELVIS W/CONTRAST                            Clip # [**Clip Number (Radiology) 4252**]
+     CT 150CC NONIONIC CONTRAST
+     Reason: 63 yo male diabetic with gallbladder mass vs severe inflamma
+     Field of view: 42 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      74 year old man with abdominal pain, r/o abd aortic aneurysm, r/o pancreatic
+      mass
+     REASON FOR THIS EXAMINATION:
+      63 yo male diabetic with gallbladder mass vs severe inflammation, and
+      hemobilia, sp recent embolization of right hepatic artery pseudoaneurysm, now
+      with elevation of bili from 2 to 3, please reassess gallbladder, stent in
+      place.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     ENHANCED CT OF THE ABDOMEN AND PELVIS.
+     
+     INDICATION:  Gallbladder mass.
+     
+     150 ml of non-ionic contrast was administered given patient's history of
+     diabetes.
+     
+     TECHNIQUE:  Non-enhanced and enhanced images through the abdomen with delayed
+     images through the abdomen and pelvis.
+     
+     NON-ENHANCED AND ENHANCED CT OF THE ABDOMEN.
+     
+     Compared to [**3218-12-18**].
+     
+     In the interval, the patient has had a common bile duct stent placed which is
+     in satisfactory position.  No biliary tree dilatation.
+     
+     Two gallstones are again noted in a markedly abnormal gallbladder with
+     thickening of the wall and irregular contours with some low attenuation in the
+     adjacent liver.
+     
+     As described previously, this appearance does raise the possibility of
+     gallbladder carcinoma.
+     
+     The only change in the appearance of the gallbladder is that previously some
+     high-attenuation material consistent with hemobilia and blood clot was present
+     in the gallbladder.  On today's exam, this blood clot seems to have retracted
+     somewhat and more low attenuation fluid consistent with bile is seen.
+     
+     As before, a small low-attenuation region at the lower pole of the right
+     kidney consistent with small renal cyst is present.
+     
+     The liver is otherwise unremarkable with no new abnormalities noted.  The
+     pancreas, spleen, adrenal glands and visualized portions of the bowel and
+     mesentery and major intra- and retroperitoneal structures are normal.
+     
+     ENHANCED CT SCAN OF THE PELVIS.
+                                                                 (Over)
+
+     DATE: [**3219-1-10**] 12:17 PM
+     CT ABD W&W/O C; CT PELVIS W/CONTRAST                            Clip # [**Clip Number (Radiology) 4252**]
+     CT 150CC NONIONIC CONTRAST
+     Reason: 63 yo male diabetic with gallbladder mass vs severe inflamma
+     Field of view: 42 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     
+     No masses, free fluid or lymphadenopathy.
+     
+     There is aneurysmal dilation of the proximal left common iliac artery and a
+     2.4-cm aneurysm of the left internal iliac artery.  These are unchanged from
+     before.
+     
+     The prostate gland is enlarged measuring 6.7 x 5.6 cm.
+     
+     No masses, free fluid or lymphadenopathy.  Bilateral fat-containing inguinal
+     hernias.  A small amount of fluid is seen on the last cut of the pelvis which
+     may reflect a small right hydrocele.
+     
+     IMPRESSION:
+     
+     1) No biliary tree dilatation to account for the patient's rising bilirubin.
+     
+     2) Slight retraction of some of the blood clot in the gallbladder.
+     
+     3) Otherwise, no appreciable change.
+     
+     4) Iliac artery aneurysm and probable small right hydrocele.
+     
+     5) Enlarged prostate most likely due to prostatic hypertrophy.
+     
+     
+
+",,
+24612,,,,3219-01-10 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3219-1-10**] 12:17 PM
+     CT ABD W&W/O C; CT PELVIS W/CONTRAST                            Clip # [**Clip Number (Radiology) 4252**]
+     CT 150CC NONIONIC CONTRAST
+     Reason: 63 yo male diabetic with gallbladder mass vs severe inflamma
+     Field of view: 42 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      74 year old man with abdominal pain, r/o abd aortic aneurysm, r/o pancreatic
+      mass
+     REASON FOR THIS EXAMINATION:
+      63 yo male diabetic with gallbladder mass vs severe inflammation, and
+      hemobilia, sp recent embolization of right hepatic artery pseudoaneurysm, now
+      with elevation of bili from 2 to 3, please reassess gallbladder, stent in
+      place.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     ENHANCED CT OF THE ABDOMEN AND PELVIS.
+     
+     INDICATION:  Gallbladder mass.
+     
+     150 ml of non-ionic contrast was administered given patient's history of
+     diabetes.
+     
+     TECHNIQUE:  Non-enhanced and enhanced images through the abdomen with delayed
+     images through the abdomen and pelvis.
+     
+     NON-ENHANCED AND ENHANCED CT OF THE ABDOMEN.
+     
+     Compared to [**3218-12-18**].
+     
+     In the interval, the patient has had a common bile duct stent placed which is
+     in satisfactory position.  No biliary tree dilatation.
+     
+     Two gallstones are again noted in a markedly abnormal gallbladder with
+     thickening of the wall and irregular contours with some low attenuation in the
+     adjacent liver.
+     
+     As described previously, this appearance does raise the possibility of
+     gallbladder carcinoma.
+     
+     The only change in the appearance of the gallbladder is that previously some
+     high-attenuation material consistent with hemobilia and blood clot was present
+     in the gallbladder.  On today's exam, this blood clot seems to have retracted
+     somewhat and more low attenuation fluid consistent with bile is seen.
+     
+     As before, a small low-attenuation region at the lower pole of the right
+     kidney consistent with small renal cyst is present.
+     
+     The liver is otherwise unremarkable with no new abnormalities noted.  The
+     pancreas, spleen, adrenal glands and visualized portions of the bowel and
+     mesentery and major intra- and retroperitoneal structures are normal.
+     
+     ENHANCED CT SCAN OF THE PELVIS.
+                                                                 (Over)
+
+     DATE: [**3219-1-10**] 12:17 PM
+     CT ABD W&W/O C; CT PELVIS W/CONTRAST                            Clip # [**Clip Number (Radiology) 4252**]
+     CT 150CC NONIONIC CONTRAST
+     Reason: 63 yo male diabetic with gallbladder mass vs severe inflamma
+     Field of view: 42 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     
+     No masses, free fluid or lymphadenopathy.
+     
+     There is aneurysmal dilation of the proximal left common iliac artery and a
+     2.4-cm aneurysm of the left internal iliac artery.  These are unchanged from
+     before.
+     
+     The prostate gland is enlarged measuring 6.7 x 5.6 cm.
+     
+     No masses, free fluid or lymphadenopathy.  Bilateral fat-containing inguinal
+     hernias.  A small amount of fluid is seen on the last cut of the pelvis which
+     may reflect a small right hydrocele.
+     
+     IMPRESSION:
+     
+     1) No biliary tree dilatation to account for the patient's rising bilirubin.
+     
+     2) Slight retraction of some of the blood clot in the gallbladder.
+     
+     3) Otherwise, no appreciable change.
+     
+     4) Iliac artery aneurysm and probable small right hydrocele.
+     
+     5) Enlarged prostate most likely due to prostatic hypertrophy.
+     
+     
+
+",,
+24612,8380,,,3219-01-18 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3219-1-18**] 11:25 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 4253**]
+     Reason: please evaluate for CHF, pt w/ low sats and h/o CAD/HTN/low 
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      75 year old man with s/p laparoscopy now w/ above history
+     REASON FOR THIS EXAMINATION:
+      please evaluate for CHF, pt w/ low sats and h/o CAD/HTN/low EF
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Low oxygen saturations.
+     
+     Comparison is made with study from one hour earlier.
+     
+     PORTABLE AP CHEST RADIOGRAPH:  This is a technically suboptimal chest
+     radiograph due to markedly reduced lung volumes and motion artifact. There is
+     no definite evidence of failure, pneumonia or pneumothorax.  Recommend a
+     repeat radiograph with improved technique for better assessment of the
+     pulmonary vasculature and lung bases.
+
+",,
+24612,8380,,,3219-01-18 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3219-1-18**] 6:34 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 4254**]
+     Reason: s/p CVP placement
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      75 year old man with s/p laparoscopy now w/ above history.  r/o PTX and check
+      line placement.
+     REASON FOR THIS EXAMINATION:
+      s/p CVP placement
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     AP PORTABLE CHEST:
+     
+     INDICATION:  Rule out pneumothorax and check line placement.
+     
+     COMPARISON:  Film dated earlier the same day.
+     
+     FINDINGS:
+     
+     A right-sided central venous catheter has been placed into the distal SVC.
+     There is no pneumothorax.  The right hemidiaphragm is slightly elevated.  Left
+     lower lobe infiltrate is identified.  Linear atelectasis or scarring is
+     visualized in the left mid lung.  There is no pleural effusion.  The aorta is
+     unfolded.  The cardiomediastinal silhouette is unchanged in appearance.
+     
+     IMPRESSION:
+     
+     Interval placement of right central venous catheter with no pneumothorax.
+     Left lower lobe atelectasis or consolidation.
+
+",,
+24612,8380,30561,0,3219-01-19 03:43:00 EST,3219-01-19 03:49:00 EST,3772,"N",54,"Nursing/Other","HEMODYNAMICS","
+HEMODYNAMICS
+D: PT ARRIVED FROM THE PACU ALERT AND ORIENTED. BP STABLE AT 115/60. HR AFLUTTER WITH A RATE OF 70-100. PT CONTINUES ON AMIODORONE DRIP AT 1MG AND HEPARIN AT 800UNITS. PT DENIES ANY PAIN. ON 100%NON REBREATHER WITH 02 SAAT OF 100%. BS ARE CLEAR. URINE OUTPUT IS ADEQUATE. 
+A: O2 WEANED TO 4L OF NC. REPEAT LABS DRAWN. ALINE PLACED BY DR. [**Last Name (STitle) 4489**].
+R: HCT 26.7 AFTER ONE UNIT OF PRBC IN THE PACU. PTT IS 33. O2 AT REMANS IN THE HIGH 90'S ON 4L OF NC. SBP DROPPING DOWN TO 80'S ALND CORRELATING WITH CUFF. PT SLEEPING AT THE TIME AND UP TO HIGH 90'S WHEN PT WOKE UP. URINE OUTPUT REMAINS ADEQUATE. 
+A: HEPARIN  INCREASED TO 1000 UNITS/HR, DR. [**Last Name (STitle) 4822**] AWARE OF BP IN THE 80'S.  PT TRANSFUSED WITH 2ND UNIT OF PRBC.
+R: SBP UP TO 110 AFTER 2ND UNIT  OF PRBC. PT  DENIES ANY PAIN. 
+",,
+24612,8380,30561,0,3219-01-19 12:26:00 EST,3219-01-19 13:01:00 EST,3774,"N",54,"Nursing/Other","transfer note","
+transfer note
+75 YO PT WITH HX OF HTN, DM ON ORAL AGENTS,S/P ERCP WITH STENT PLACEMENT ON [**12-18**] FOR ABD PAIN, EMBOLIZATION OF HEPATIC PSEUDOANEURYSM VIA ERCP ON [**12-19**]- RETURNED [**12-21**] FOE ANOTHER ERCP, HR 150-160 IN GI LAB. RX AND WENT HOME, RETURNED FOR BX OF GALL BLADDER WHICH WAS DONE LAPAROSCOPICALLY ON [**1-16**]. PT WAS DOING WELL UNTIL [**1-18**] WENT INTO RAPID AFLUTTER WITH BP DROP TO 70/40. TRANSFERED TO PACU AND CARDIOVERTED , CONVERTED TO NSR FOR SHORT TIME, THEN BACK TO A-FLUTTER. STARTED ON AMIODARONE GTT. PT ADM TO NSICU 2000 [**1-18**]- IN A-FLUT WITH CONTROLLED RATE. ON AMIODARONE GTT AT 1MG, DECREASED TO .5 MG. HCT LOW- 1 PC IN PACU, REPEAT HCT 26- SECOND PC GIVEN AND HCT P TO 28. R/O FOR MI. ON HEPARIN GTT AT 1200U FOR LAST PTT 38.9- PTT PENDING FROM 1300. FLUID GIVEN AT 125CC/HR OVERNIGHT FOR BORDERLINE BP. BY AM LUNGS WITH BIBASILAR CRACKES, SBP 100-120 RANGE. IV FLUID TO KVO, LASIX 20 MG IV X1 WITH GOOD DIURESIS. BP STABLE. AMIODARONE GTT D/C'D AFTER FIRST PO DOSE GIVEN. ALERT AND ORIENTED, DENIES PAIN. 1 JP DRAINING SM AMTS MURKY S-S FLUID. TO BE TRANSFERED TO TELEMETRY BED ON FLOOR. 1200 HCT STABLE AT 29. CONTINUE TO MONITOR CLOSELY. CHECK PTT AND ADJUST HEP GTT .
+",,
+24612,8380,,,3219-01-21 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3219-1-21**] 5:54 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 4255**]
+     Reason: check ngt placement
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      75 year old man with s/p laparoscopy now w/ above history.  now with
+      hematemasis not clearing well with NGT lavage.  need to see where NGT is.  [**Doctor Last Name 4256**]
+      90334 
+     REASON FOR THIS EXAMINATION:
+      check ngt placement
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Hematemesis and NG tube placement.  Evaluate for location.
+     
+     NG tube is coiled in the fundus of stomach with distal end in region of
+     both/antrum junction.
+     
+
+",,
+24612,,,,3219-02-25 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3219-2-25**] 10:34 PM
+     CHEST (SINGLE VIEW)                                             Clip # [**Clip Number (Radiology) 4257**]
+     Reason: 75 YO MALE W/ GALLBLADDER ADENOCA ADMITTED WITH HEMETEMESIS, S/P FEM LINE 30 MIN, 
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      75 year old man with gall bladder adenoca, sp 2 cycles of chemotherapy
+     REASON FOR THIS EXAMINATION:
+      75 yo male with gallbladder adenoca admitted with hemetemesis
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     PORTABLE AP SUPINE CHEST RADIOGRAPH [**3219-2-25**].
+     
+     CLINICAL INDICATION:  Hematemesis, gallbladder carcinoma.
+     
+     COMPARISON:  [**3219-1-18**].
+     
+     The heart size, mediastinal and hilar contours are stable.  There are
+     calcifications of the thoracic aorta.  There are no focal opacities or pleural
+     effusions.  The image is somewhat underpenetrated, limiting evaluation.  Soft
+     tissue and osseous structures are unremarkable.
+     
+     IMPRESSION:  No evidence of pneumonia.
+     
+
+",,
+24612,1499,,,3219-02-27 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3219-2-27**] 2:36 PM
+     MESENTERIC                                                      Clip # [**Clip Number (Radiology) 4258**]
+     Reason: 75 yo m with adenoca of gallbladder, admitted with UGI bleed
+      Contrast: OPTIRAY Amt: 185CC
+     ********************************* CPT Codes ********************************
+     * 37204 EMBO NON NEURO                 36247 INITAL 3RD ORDER ABD/PEL/LOWER*
+     * -51 MULTI-PROCEDURE SAME DAY         36245 EA 1ST ORDER ABD/PEL/LOWER EXT*
+     * -59 DISTINCT PROCEDURAL SERVICE      36248 ADD'L 2ND/3RD ORDER ABD/PEL/LO*
+     * 75894 TRANCATHETER EMBOLIZATION      75898 F/U STATUS INFUSION/EMBO      *
+     * 75726 VISERAL SEL/SUPERSEL A-GRAM    75726 VISERAL SEL/SUPERSEL A-GRAM   *
+     * -59 DISTINCT PROCEDURAL SERVICE      75774 EA ADD'L VESSEL AFTER BASIC A-*
+     * 75774 EA ADD'L VESSEL AFTER BASIC A- 99141 IV CONSCIOUTIOUS SEDATION PRO *
+     * NON-IONIC 150 CC                     NON-IONIC 30 CC                     *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      75 year old man with adenoca of gallbladder
+     REASON FOR THIS EXAMINATION:
+      75 yo m with adenoca of gallbladder, admitted with UGI bleed, now with active
+      hemobilia on EGD. Please perform angio of biliary circulation and embolization
+      as needed.
+       
+      questions please page [**First Name8 (NamePattern2) 2805**] [**Last Name (NamePattern1) 2806**] [**Pager number 4259**] thanks
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: 75-year-old male with metastatic gallbladder carcinoma. The
+     patient presented with a history of hemobilia in previous months, and an
+     arteriogram documented a right hepatic artery pseudoaneurysm at that time,
+     which was injected with thrombin with good result. The patient now presents
+     with hematemesis. An upper GI endoscopy performed today documents active
+     bleeding from the ampulla of Vater.
+     
+     RADIOLOGISTS: Drs. [**First Name (STitle) 455**] [**Name (STitle) 456**] [**Name5 (PTitle) **]'Othee and [**First Name4 (NamePattern1) 1175**] [**Last Name (NamePattern1) 894**]. Dr. [**Last Name (STitle) 456**]
+     [**Name (STitle) 457**], Staff Radiologist, was present throughout the procedure.
+     
+     CONTRAST/MEDICATIONS: 185 ml of Optiray 320 full-strength. A total of 2 mg
+     Versed and 100 microg Fentanyl were given intravenously in divided doses under
+     continued hemodynamic monitoring for conscious sedation.
+     
+     PROCEDURE/TECHNIQUE/FINDINGS:
+     The procedure was described to the patient and informed consent was obtained.
+     Access into the left common femoral artery was gained using a 19 gauge single
+     wall needle. An 0.035 [**Last Name (un) 767**] wire was placed without difficulty into the
+     aorta, and the needle was exchanged for a 5 Fr sheath. The celiac axis was
+     then selectively catheterized using a 5 Fr Cobra C2 Glidecath, and an
+     arteriogram was performed. This showed filling of both the common hepatic and
+     splenic arteries, without evidence for active extravasation or vascular
+     malformation. A selective proper hepatic arteriogram was then performed and
+     shows an eccentric irregular opacity projecting from a branch of the proximal
+     right hepatic artery, similar in size and location to the previously described
+     pneudoaneurysm. With the catheter in the proper hepatic artery, multiple
+     obliquities were obtained, comfirming presence of a recurrent pseudoaneurysm.
+     Other results of abnormal irregular tiny vascular pattern noted throughout
+                                                                 (Over)
+
+     DATE: [**3219-2-27**] 2:36 PM
+     MESENTERIC                                                      Clip # [**Clip Number (Radiology) 4258**]
+     Reason: 75 yo m with adenoca of gallbladder, admitted with UGI bleed
+      Contrast: OPTIRAY Amt: 185CC
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     both right and left hepatic lobes suggesting underlying disease. Gallbladder
+     calculi are also present.
+     
+     Selective superior mesenteric arteriogram was then performed. This
+     demonstrated no anatomic variant, vascular abnormalities or contrast
+     extravasation but the vascular appears matted and splayed, suggesting
+     extrinsic mass effect. Delayed images through the superior mesenteric
+     arteriogram show filling of the superior mesenteric vein and portal vein, with
+     some retrograde filling of the splenic vein documenting patency.
+     
+     The gastroduodenal artery was then selective catheterized, again using the C2
+     glidecath. This arteriogram demonstrated no extravasation or AV malformation.
+     The inferior pancreaticoduodenal arcades are visualized and are somewhat
+     small. Reflux into the proper, right and left hepatic arteries was also
+     present.
+     
+     Using an 0.035 angled glidewire, it was possible to advance the C2 glidecath
+     farther into the gastroduodenal artery to better visualize the vasculature and
+     to prevent reflux into the proper hepatic artery. The gastroepiploic artery is
+     well visualized and shows no abnormalities. Again no extravasation or
+     malformation is identified involving the gastroduodenal artery or its
+     tributaries.
+     
+     At this time, the C2 glidecath was advanced well into the right hepatic
+     artery, using both 0.035 angled glidewire as well an 0.035 stiff glidewire.
+     The catheter was manipulated beyond the right hepatic artery pseudoaneurysm,
+     as documented by a small amount of contrast injection. The catheter was
+     withdrawn to a point just distal from the pseudoaneurym, and one 6 mm x 5 cm
+     platinum coil was deployed using the reversed end of an 0.035 angled
+     glidewire. The coil formed shortly after dislodgement. After 2 minutes, a
+     small hand injection documented sluggish flow beyond coil placement. The
+     catheter was then gently manipulated back to the level of the pseudoaneurysm,
+     and three more 6 mm x 5 cm coils were placed in this region. This was followed
+     by infusion of Gelfoam pledgets (mixed with contrast material) just proximal
+     to the pseudoaneurysm. Two more 6 mm x 5 cm coils were deployed proximally,
+     again followed by Gelfoam pledgets.
+     
+     A proper hepatic arteriogram was performed approximately 10 min after coil and
+     Gelfoam embolization, and demonstrated a significantly reduced flow through
+     the right hepatic artery, with normal perfusion of the left hepatic artery.
+     There was no residual filling of the pseudoaneurysm. Contrast reflux into the
+     gastroduodenal and gastroepiploic arteries.
+     
+     COMPLICATIONS: None.
+     
+     IMPRESSION: Successful coil and Gelfoam embolization, both proximally and
+                                                                 (Over)
+
+     DATE: [**3219-2-27**] 2:36 PM
+     MESENTERIC                                                      Clip # [**Clip Number (Radiology) 4258**]
+     Reason: 75 yo m with adenoca of gallbladder, admitted with UGI bleed
+      Contrast: OPTIRAY Amt: 185CC
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     distally to a previously known right hepatic artery pseudoaneurysm.
+
+",,
+24612,1499,,,3219-02-27 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3219-2-27**] 2:36 PM
+     MESENTERIC                                                      Clip # [**Clip Number (Radiology) 4258**]
+     Reason: 75 yo m with adenoca of gallbladder, admitted with UGI bleed
+      Contrast: OPTIRAY Amt: 185CC
+     ********************************* CPT Codes ********************************
+     * 37204 EMBO NON NEURO                 36247 INITAL 3RD ORDER ABD/PEL/LOWER*
+     * -51 MULTI-PROCEDURE SAME DAY         36245 EA 1ST ORDER ABD/PEL/LOWER EXT*
+     * -59 DISTINCT PROCEDURAL SERVICE      36248 ADD'L 2ND/3RD ORDER ABD/PEL/LO*
+     * 75894 TRANCATHETER EMBOLIZATION      75898 F/U STATUS INFUSION/EMBO      *
+     * 75726 VISERAL SEL/SUPERSEL A-GRAM    75726 VISERAL SEL/SUPERSEL A-GRAM   *
+     * -59 DISTINCT PROCEDURAL SERVICE      75774 EA ADD'L VESSEL AFTER BASIC A-*
+     * 75774 EA ADD'L VESSEL AFTER BASIC A- 99141 IV CONSCIOUTIOUS SEDATION PRO *
+     * NON-IONIC 150 CC                     NON-IONIC 30 CC                     *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      75 year old man with adenoca of gallbladder
+     REASON FOR THIS EXAMINATION:
+      75 yo m with adenoca of gallbladder, admitted with UGI bleed, now with active
+      hemobilia on EGD. Please perform angio of biliary circulation and embolization
+      as needed.
+       
+      questions please page [**First Name8 (NamePattern2) 2805**] [**Last Name (NamePattern1) 2806**] [**Pager number 4259**] thanks
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: 75-year-old male with metastatic gallbladder carcinoma. The
+     patient presented with a history of hemobilia in previous months, and an
+     arteriogram documented a right hepatic artery pseudoaneurysm at that time,
+     which was injected with thrombin with good result. The patient now presents
+     with hematemesis. An upper GI endoscopy performed today documents active
+     bleeding from the ampulla of Vater.
+     
+     RADIOLOGISTS: Drs. [**First Name (STitle) 455**] [**Name (STitle) 456**] [**Name5 (PTitle) **]'Othee and [**First Name4 (NamePattern1) 1175**] [**Last Name (NamePattern1) 894**]. Dr. [**Last Name (STitle) 456**]
+     [**Name (STitle) 457**], Staff Radiologist, was present throughout the procedure.
+     
+     CONTRAST/MEDICATIONS: 185 ml of Optiray 320 full-strength. A total of 2 mg
+     Versed and 100 microg Fentanyl were given intravenously in divided doses under
+     continued hemodynamic monitoring for conscious sedation.
+     
+     PROCEDURE/TECHNIQUE/FINDINGS:
+     The procedure was described to the patient and informed consent was obtained.
+     Access into the left common femoral artery was gained using a 19 gauge single
+     wall needle. An 0.035 [**Last Name (un) 767**] wire was placed without difficulty into the
+     aorta, and the needle was exchanged for a 5 Fr sheath. The celiac axis was
+     then selectively catheterized using a 5 Fr Cobra C2 Glidecath, and an
+     arteriogram was performed. This showed filling of both the common hepatic and
+     splenic arteries, without evidence for active extravasation or vascular
+     malformation. A selective proper hepatic arteriogram was then performed and
+     shows an eccentric irregular opacity projecting from a branch of the proximal
+     right hepatic artery, similar in size and location to the previously described
+     pneudoaneurysm. With the catheter in the proper hepatic artery, multiple
+     obliquities were obtained, comfirming presence of a recurrent pseudoaneurysm.
+     Other results of abnormal irregular tiny vascular pattern noted throughout
+                                                                 (Over)
+
+     DATE: [**3219-2-27**] 2:36 PM
+     MESENTERIC                                                      Clip # [**Clip Number (Radiology) 4258**]
+     Reason: 75 yo m with adenoca of gallbladder, admitted with UGI bleed
+      Contrast: OPTIRAY Amt: 185CC
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     both right and left hepatic lobes suggesting underlying disease. Gallbladder
+     calculi are also present.
+     
+     Selective superior mesenteric arteriogram was then performed. This
+     demonstrated no anatomic variant, vascular abnormalities or contrast
+     extravasation but the vascular appears matted and splayed, suggesting
+     extrinsic mass effect. Delayed images through the superior mesenteric
+     arteriogram show filling of the superior mesenteric vein and portal vein, with
+     some retrograde filling of the splenic vein documenting patency.
+     
+     The gastroduodenal artery was then selective catheterized, again using the C2
+     glidecath. This arteriogram demonstrated no extravasation or AV malformation.
+     The inferior pancreaticoduodenal arcades are visualized and are somewhat
+     small. Reflux into the proper, right and left hepatic arteries was also
+     present.
+     
+     Using an 0.035 angled glidewire, it was possible to advance the C2 glidecath
+     farther into the gastroduodenal artery to better visualize the vasculature and
+     to prevent reflux into the proper hepatic artery. The gastroepiploic artery is
+     well visualized and shows no abnormalities. Again no extravasation or
+     malformation is identified involving the gastroduodenal artery or its
+     tributaries.
+     
+     At this time, the C2 glidecath was advanced well into the right hepatic
+     artery, using both 0.035 angled glidewire as well an 0.035 stiff glidewire.
+     The catheter was manipulated beyond the right hepatic artery pseudoaneurysm,
+     as documented by a small amount of contrast injection. The catheter was
+     withdrawn to a point just distal from the pseudoaneurym, and one 6 mm x 5 cm
+     platinum coil was deployed using the reversed end of an 0.035 angled
+     glidewire. The coil formed shortly after dislodgement. After 2 minutes, a
+     small hand injection documented sluggish flow beyond coil placement. The
+     catheter was then gently manipulated back to the level of the pseudoaneurysm,
+     and three more 6 mm x 5 cm coils were placed in this region. This was followed
+     by infusion of Gelfoam pledgets (mixed with contrast material) just proximal
+     to the pseudoaneurysm. Two more 6 mm x 5 cm coils were deployed proximally,
+     again followed by Gelfoam pledgets.
+     
+     A proper hepatic arteriogram was performed approximately 10 min after coil and
+     Gelfoam embolization, and demonstrated a significantly reduced flow through
+     the right hepatic artery, with normal perfusion of the left hepatic artery.
+     There was no residual filling of the pseudoaneurysm. Contrast reflux into the
+     gastroduodenal and gastroepiploic arteries.
+     
+     COMPLICATIONS: None.
+     
+     IMPRESSION: Successful coil and Gelfoam embolization, both proximally and
+                                                                 (Over)
+
+     DATE: [**3219-2-27**] 2:36 PM
+     MESENTERIC                                                      Clip # [**Clip Number (Radiology) 4258**]
+     Reason: 75 yo m with adenoca of gallbladder, admitted with UGI bleed
+      Contrast: OPTIRAY Amt: 185CC
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     distally to a previously known right hepatic artery pseudoaneurysm.
+
+",,
+24612,1499,,,3219-02-27 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3219-2-27**] 2:36 PM
+     MESENTERIC                                                      Clip # [**Clip Number (Radiology) 4258**]
+     Reason: 75 yo m with adenoca of gallbladder, admitted with UGI bleed
+      Contrast: OPTIRAY Amt: 185CC
+     ********************************* CPT Codes ********************************
+     * 37204 EMBO NON NEURO                 36247 INITAL 3RD ORDER ABD/PEL/LOWER*
+     * -51 MULTI-PROCEDURE SAME DAY         36245 EA 1ST ORDER ABD/PEL/LOWER EXT*
+     * -59 DISTINCT PROCEDURAL SERVICE      36248 ADD'L 2ND/3RD ORDER ABD/PEL/LO*
+     * 75894 TRANCATHETER EMBOLIZATION      75898 F/U STATUS INFUSION/EMBO      *
+     * 75726 VISERAL SEL/SUPERSEL A-GRAM    75726 VISERAL SEL/SUPERSEL A-GRAM   *
+     * -59 DISTINCT PROCEDURAL SERVICE      75774 EA ADD'L VESSEL AFTER BASIC A-*
+     * 75774 EA ADD'L VESSEL AFTER BASIC A- 99141 IV CONSCIOUTIOUS SEDATION PRO *
+     * NON-IONIC 150 CC                     NON-IONIC 30 CC                     *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      75 year old man with adenoca of gallbladder
+     REASON FOR THIS EXAMINATION:
+      75 yo m with adenoca of gallbladder, admitted with UGI bleed, now with active
+      hemobilia on EGD. Please perform angio of biliary circulation and embolization
+      as needed.
+       
+      questions please page [**First Name8 (NamePattern2) 2805**] [**Last Name (NamePattern1) 2806**] [**Pager number 4259**] thanks
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: 75-year-old male with metastatic gallbladder carcinoma. The
+     patient presented with a history of hemobilia in previous months, and an
+     arteriogram documented a right hepatic artery pseudoaneurysm at that time,
+     which was injected with thrombin with good result. The patient now presents
+     with hematemesis. An upper GI endoscopy performed today documents active
+     bleeding from the ampulla of Vater.
+     
+     RADIOLOGISTS: Drs. [**First Name (STitle) 455**] [**Name (STitle) 456**] [**Name5 (PTitle) **]'Othee and [**First Name4 (NamePattern1) 1175**] [**Last Name (NamePattern1) 894**]. Dr. [**Last Name (STitle) 456**]
+     [**Name (STitle) 457**], Staff Radiologist, was present throughout the procedure.
+     
+     CONTRAST/MEDICATIONS: 185 ml of Optiray 320 full-strength. A total of 2 mg
+     Versed and 100 microg Fentanyl were given intravenously in divided doses under
+     continued hemodynamic monitoring for conscious sedation.
+     
+     PROCEDURE/TECHNIQUE/FINDINGS:
+     The procedure was described to the patient and informed consent was obtained.
+     Access into the left common femoral artery was gained using a 19 gauge single
+     wall needle. An 0.035 [**Last Name (un) 767**] wire was placed without difficulty into the
+     aorta, and the needle was exchanged for a 5 Fr sheath. The celiac axis was
+     then selectively catheterized using a 5 Fr Cobra C2 Glidecath, and an
+     arteriogram was performed. This showed filling of both the common hepatic and
+     splenic arteries, without evidence for active extravasation or vascular
+     malformation. A selective proper hepatic arteriogram was then performed and
+     shows an eccentric irregular opacity projecting from a branch of the proximal
+     right hepatic artery, similar in size and location to the previously described
+     pneudoaneurysm. With the catheter in the proper hepatic artery, multiple
+     obliquities were obtained, comfirming presence of a recurrent pseudoaneurysm.
+     Other results of abnormal irregular tiny vascular pattern noted throughout
+                                                                 (Over)
+
+     DATE: [**3219-2-27**] 2:36 PM
+     MESENTERIC                                                      Clip # [**Clip Number (Radiology) 4258**]
+     Reason: 75 yo m with adenoca of gallbladder, admitted with UGI bleed
+      Contrast: OPTIRAY Amt: 185CC
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     both right and left hepatic lobes suggesting underlying disease. Gallbladder
+     calculi are also present.
+     
+     Selective superior mesenteric arteriogram was then performed. This
+     demonstrated no anatomic variant, vascular abnormalities or contrast
+     extravasation but the vascular appears matted and splayed, suggesting
+     extrinsic mass effect. Delayed images through the superior mesenteric
+     arteriogram show filling of the superior mesenteric vein and portal vein, with
+     some retrograde filling of the splenic vein documenting patency.
+     
+     The gastroduodenal artery was then selective catheterized, again using the C2
+     glidecath. This arteriogram demonstrated no extravasation or AV malformation.
+     The inferior pancreaticoduodenal arcades are visualized and are somewhat
+     small. Reflux into the proper, right and left hepatic arteries was also
+     present.
+     
+     Using an 0.035 angled glidewire, it was possible to advance the C2 glidecath
+     farther into the gastroduodenal artery to better visualize the vasculature and
+     to prevent reflux into the proper hepatic artery. The gastroepiploic artery is
+     well visualized and shows no abnormalities. Again no extravasation or
+     malformation is identified involving the gastroduodenal artery or its
+     tributaries.
+     
+     At this time, the C2 glidecath was advanced well into the right hepatic
+     artery, using both 0.035 angled glidewire as well an 0.035 stiff glidewire.
+     The catheter was manipulated beyond the right hepatic artery pseudoaneurysm,
+     as documented by a small amount of contrast injection. The catheter was
+     withdrawn to a point just distal from the pseudoaneurym, and one 6 mm x 5 cm
+     platinum coil was deployed using the reversed end of an 0.035 angled
+     glidewire. The coil formed shortly after dislodgement. After 2 minutes, a
+     small hand injection documented sluggish flow beyond coil placement. The
+     catheter was then gently manipulated back to the level of the pseudoaneurysm,
+     and three more 6 mm x 5 cm coils were placed in this region. This was followed
+     by infusion of Gelfoam pledgets (mixed with contrast material) just proximal
+     to the pseudoaneurysm. Two more 6 mm x 5 cm coils were deployed proximally,
+     again followed by Gelfoam pledgets.
+     
+     A proper hepatic arteriogram was performed approximately 10 min after coil and
+     Gelfoam embolization, and demonstrated a significantly reduced flow through
+     the right hepatic artery, with normal perfusion of the left hepatic artery.
+     There was no residual filling of the pseudoaneurysm. Contrast reflux into the
+     gastroduodenal and gastroepiploic arteries.
+     
+     COMPLICATIONS: None.
+     
+     IMPRESSION: Successful coil and Gelfoam embolization, both proximally and
+                                                                 (Over)
+
+     DATE: [**3219-2-27**] 2:36 PM
+     MESENTERIC                                                      Clip # [**Clip Number (Radiology) 4258**]
+     Reason: 75 yo m with adenoca of gallbladder, admitted with UGI bleed
+      Contrast: OPTIRAY Amt: 185CC
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     distally to a previously known right hepatic artery pseudoaneurysm.
+
+",,
+24612,1499,,,3219-02-27 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3219-2-27**] 2:36 PM
+     MESENTERIC                                                      Clip # [**Clip Number (Radiology) 4258**]
+     Reason: 75 yo m with adenoca of gallbladder, admitted with UGI bleed
+      Contrast: OPTIRAY Amt: 185CC
+     ********************************* CPT Codes ********************************
+     * 37204 EMBO NON NEURO                 36247 INITAL 3RD ORDER ABD/PEL/LOWER*
+     * -51 MULTI-PROCEDURE SAME DAY         36245 EA 1ST ORDER ABD/PEL/LOWER EXT*
+     * -59 DISTINCT PROCEDURAL SERVICE      36248 ADD'L 2ND/3RD ORDER ABD/PEL/LO*
+     * 75894 TRANCATHETER EMBOLIZATION      75898 F/U STATUS INFUSION/EMBO      *
+     * 75726 VISERAL SEL/SUPERSEL A-GRAM    75726 VISERAL SEL/SUPERSEL A-GRAM   *
+     * -59 DISTINCT PROCEDURAL SERVICE      75774 EA ADD'L VESSEL AFTER BASIC A-*
+     * 75774 EA ADD'L VESSEL AFTER BASIC A- 99141 IV CONSCIOUTIOUS SEDATION PRO *
+     * NON-IONIC 150 CC                     NON-IONIC 30 CC                     *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      75 year old man with adenoca of gallbladder
+     REASON FOR THIS EXAMINATION:
+      75 yo m with adenoca of gallbladder, admitted with UGI bleed, now with active
+      hemobilia on EGD. Please perform angio of biliary circulation and embolization
+      as needed.
+       
+      questions please page [**First Name8 (NamePattern2) 2805**] [**Last Name (NamePattern1) 2806**] [**Pager number 4259**] thanks
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: 75-year-old male with metastatic gallbladder carcinoma. The
+     patient presented with a history of hemobilia in previous months, and an
+     arteriogram documented a right hepatic artery pseudoaneurysm at that time,
+     which was injected with thrombin with good result. The patient now presents
+     with hematemesis. An upper GI endoscopy performed today documents active
+     bleeding from the ampulla of Vater.
+     
+     RADIOLOGISTS: Drs. [**First Name (STitle) 455**] [**Name (STitle) 456**] [**Name5 (PTitle) **]'Othee and [**First Name4 (NamePattern1) 1175**] [**Last Name (NamePattern1) 894**]. Dr. [**Last Name (STitle) 456**]
+     [**Name (STitle) 457**], Staff Radiologist, was present throughout the procedure.
+     
+     CONTRAST/MEDICATIONS: 185 ml of Optiray 320 full-strength. A total of 2 mg
+     Versed and 100 microg Fentanyl were given intravenously in divided doses under
+     continued hemodynamic monitoring for conscious sedation.
+     
+     PROCEDURE/TECHNIQUE/FINDINGS:
+     The procedure was described to the patient and informed consent was obtained.
+     Access into the left common femoral artery was gained using a 19 gauge single
+     wall needle. An 0.035 [**Last Name (un) 767**] wire was placed without difficulty into the
+     aorta, and the needle was exchanged for a 5 Fr sheath. The celiac axis was
+     then selectively catheterized using a 5 Fr Cobra C2 Glidecath, and an
+     arteriogram was performed. This showed filling of both the common hepatic and
+     splenic arteries, without evidence for active extravasation or vascular
+     malformation. A selective proper hepatic arteriogram was then performed and
+     shows an eccentric irregular opacity projecting from a branch of the proximal
+     right hepatic artery, similar in size and location to the previously described
+     pneudoaneurysm. With the catheter in the proper hepatic artery, multiple
+     obliquities were obtained, comfirming presence of a recurrent pseudoaneurysm.
+     Other results of abnormal irregular tiny vascular pattern noted throughout
+                                                                 (Over)
+
+     DATE: [**3219-2-27**] 2:36 PM
+     MESENTERIC                                                      Clip # [**Clip Number (Radiology) 4258**]
+     Reason: 75 yo m with adenoca of gallbladder, admitted with UGI bleed
+      Contrast: OPTIRAY Amt: 185CC
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     both right and left hepatic lobes suggesting underlying disease. Gallbladder
+     calculi are also present.
+     
+     Selective superior mesenteric arteriogram was then performed. This
+     demonstrated no anatomic variant, vascular abnormalities or contrast
+     extravasation but the vascular appears matted and splayed, suggesting
+     extrinsic mass effect. Delayed images through the superior mesenteric
+     arteriogram show filling of the superior mesenteric vein and portal vein, with
+     some retrograde filling of the splenic vein documenting patency.
+     
+     The gastroduodenal artery was then selective catheterized, again using the C2
+     glidecath. This arteriogram demonstrated no extravasation or AV malformation.
+     The inferior pancreaticoduodenal arcades are visualized and are somewhat
+     small. Reflux into the proper, right and left hepatic arteries was also
+     present.
+     
+     Using an 0.035 angled glidewire, it was possible to advance the C2 glidecath
+     farther into the gastroduodenal artery to better visualize the vasculature and
+     to prevent reflux into the proper hepatic artery. The gastroepiploic artery is
+     well visualized and shows no abnormalities. Again no extravasation or
+     malformation is identified involving the gastroduodenal artery or its
+     tributaries.
+     
+     At this time, the C2 glidecath was advanced well into the right hepatic
+     artery, using both 0.035 angled glidewire as well an 0.035 stiff glidewire.
+     The catheter was manipulated beyond the right hepatic artery pseudoaneurysm,
+     as documented by a small amount of contrast injection. The catheter was
+     withdrawn to a point just distal from the pseudoaneurym, and one 6 mm x 5 cm
+     platinum coil was deployed using the reversed end of an 0.035 angled
+     glidewire. The coil formed shortly after dislodgement. After 2 minutes, a
+     small hand injection documented sluggish flow beyond coil placement. The
+     catheter was then gently manipulated back to the level of the pseudoaneurysm,
+     and three more 6 mm x 5 cm coils were placed in this region. This was followed
+     by infusion of Gelfoam pledgets (mixed with contrast material) just proximal
+     to the pseudoaneurysm. Two more 6 mm x 5 cm coils were deployed proximally,
+     again followed by Gelfoam pledgets.
+     
+     A proper hepatic arteriogram was performed approximately 10 min after coil and
+     Gelfoam embolization, and demonstrated a significantly reduced flow through
+     the right hepatic artery, with normal perfusion of the left hepatic artery.
+     There was no residual filling of the pseudoaneurysm. Contrast reflux into the
+     gastroduodenal and gastroepiploic arteries.
+     
+     COMPLICATIONS: None.
+     
+     IMPRESSION: Successful coil and Gelfoam embolization, both proximally and
+                                                                 (Over)
+
+     DATE: [**3219-2-27**] 2:36 PM
+     MESENTERIC                                                      Clip # [**Clip Number (Radiology) 4258**]
+     Reason: 75 yo m with adenoca of gallbladder, admitted with UGI bleed
+      Contrast: OPTIRAY Amt: 185CC
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     distally to a previously known right hepatic artery pseudoaneurysm.
+
+",,
+24612,1499,,,3219-02-27 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3219-2-27**] 2:36 PM
+     MESENTERIC                                                      Clip # [**Clip Number (Radiology) 4258**]
+     Reason: 75 yo m with adenoca of gallbladder, admitted with UGI bleed
+      Contrast: OPTIRAY Amt: 185CC
+     ********************************* CPT Codes ********************************
+     * 37204 EMBO NON NEURO                 36247 INITAL 3RD ORDER ABD/PEL/LOWER*
+     * -51 MULTI-PROCEDURE SAME DAY         36245 EA 1ST ORDER ABD/PEL/LOWER EXT*
+     * -59 DISTINCT PROCEDURAL SERVICE      36248 ADD'L 2ND/3RD ORDER ABD/PEL/LO*
+     * 75894 TRANCATHETER EMBOLIZATION      75898 F/U STATUS INFUSION/EMBO      *
+     * 75726 VISERAL SEL/SUPERSEL A-GRAM    75726 VISERAL SEL/SUPERSEL A-GRAM   *
+     * -59 DISTINCT PROCEDURAL SERVICE      75774 EA ADD'L VESSEL AFTER BASIC A-*
+     * 75774 EA ADD'L VESSEL AFTER BASIC A- 99141 IV CONSCIOUTIOUS SEDATION PRO *
+     * NON-IONIC 150 CC                     NON-IONIC 30 CC                     *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      75 year old man with adenoca of gallbladder
+     REASON FOR THIS EXAMINATION:
+      75 yo m with adenoca of gallbladder, admitted with UGI bleed, now with active
+      hemobilia on EGD. Please perform angio of biliary circulation and embolization
+      as needed.
+       
+      questions please page [**First Name8 (NamePattern2) 2805**] [**Last Name (NamePattern1) 2806**] [**Pager number 4259**] thanks
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: 75-year-old male with metastatic gallbladder carcinoma. The
+     patient presented with a history of hemobilia in previous months, and an
+     arteriogram documented a right hepatic artery pseudoaneurysm at that time,
+     which was injected with thrombin with good result. The patient now presents
+     with hematemesis. An upper GI endoscopy performed today documents active
+     bleeding from the ampulla of Vater.
+     
+     RADIOLOGISTS: Drs. [**First Name (STitle) 455**] [**Name (STitle) 456**] [**Name5 (PTitle) **]'Othee and [**First Name4 (NamePattern1) 1175**] [**Last Name (NamePattern1) 894**]. Dr. [**Last Name (STitle) 456**]
+     [**Name (STitle) 457**], Staff Radiologist, was present throughout the procedure.
+     
+     CONTRAST/MEDICATIONS: 185 ml of Optiray 320 full-strength. A total of 2 mg
+     Versed and 100 microg Fentanyl were given intravenously in divided doses under
+     continued hemodynamic monitoring for conscious sedation.
+     
+     PROCEDURE/TECHNIQUE/FINDINGS:
+     The procedure was described to the patient and informed consent was obtained.
+     Access into the left common femoral artery was gained using a 19 gauge single
+     wall needle. An 0.035 [**Last Name (un) 767**] wire was placed without difficulty into the
+     aorta, and the needle was exchanged for a 5 Fr sheath. The celiac axis was
+     then selectively catheterized using a 5 Fr Cobra C2 Glidecath, and an
+     arteriogram was performed. This showed filling of both the common hepatic and
+     splenic arteries, without evidence for active extravasation or vascular
+     malformation. A selective proper hepatic arteriogram was then performed and
+     shows an eccentric irregular opacity projecting from a branch of the proximal
+     right hepatic artery, similar in size and location to the previously described
+     pneudoaneurysm. With the catheter in the proper hepatic artery, multiple
+     obliquities were obtained, comfirming presence of a recurrent pseudoaneurysm.
+     Other results of abnormal irregular tiny vascular pattern noted throughout
+                                                                 (Over)
+
+     DATE: [**3219-2-27**] 2:36 PM
+     MESENTERIC                                                      Clip # [**Clip Number (Radiology) 4258**]
+     Reason: 75 yo m with adenoca of gallbladder, admitted with UGI bleed
+      Contrast: OPTIRAY Amt: 185CC
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     both right and left hepatic lobes suggesting underlying disease. Gallbladder
+     calculi are also present.
+     
+     Selective superior mesenteric arteriogram was then performed. This
+     demonstrated no anatomic variant, vascular abnormalities or contrast
+     extravasation but the vascular appears matted and splayed, suggesting
+     extrinsic mass effect. Delayed images through the superior mesenteric
+     arteriogram show filling of the superior mesenteric vein and portal vein, with
+     some retrograde filling of the splenic vein documenting patency.
+     
+     The gastroduodenal artery was then selective catheterized, again using the C2
+     glidecath. This arteriogram demonstrated no extravasation or AV malformation.
+     The inferior pancreaticoduodenal arcades are visualized and are somewhat
+     small. Reflux into the proper, right and left hepatic arteries was also
+     present.
+     
+     Using an 0.035 angled glidewire, it was possible to advance the C2 glidecath
+     farther into the gastroduodenal artery to better visualize the vasculature and
+     to prevent reflux into the proper hepatic artery. The gastroepiploic artery is
+     well visualized and shows no abnormalities. Again no extravasation or
+     malformation is identified involving the gastroduodenal artery or its
+     tributaries.
+     
+     At this time, the C2 glidecath was advanced well into the right hepatic
+     artery, using both 0.035 angled glidewire as well an 0.035 stiff glidewire.
+     The catheter was manipulated beyond the right hepatic artery pseudoaneurysm,
+     as documented by a small amount of contrast injection. The catheter was
+     withdrawn to a point just distal from the pseudoaneurym, and one 6 mm x 5 cm
+     platinum coil was deployed using the reversed end of an 0.035 angled
+     glidewire. The coil formed shortly after dislodgement. After 2 minutes, a
+     small hand injection documented sluggish flow beyond coil placement. The
+     catheter was then gently manipulated back to the level of the pseudoaneurysm,
+     and three more 6 mm x 5 cm coils were placed in this region. This was followed
+     by infusion of Gelfoam pledgets (mixed with contrast material) just proximal
+     to the pseudoaneurysm. Two more 6 mm x 5 cm coils were deployed proximally,
+     again followed by Gelfoam pledgets.
+     
+     A proper hepatic arteriogram was performed approximately 10 min after coil and
+     Gelfoam embolization, and demonstrated a significantly reduced flow through
+     the right hepatic artery, with normal perfusion of the left hepatic artery.
+     There was no residual filling of the pseudoaneurysm. Contrast reflux into the
+     gastroduodenal and gastroepiploic arteries.
+     
+     COMPLICATIONS: None.
+     
+     IMPRESSION: Successful coil and Gelfoam embolization, both proximally and
+                                                                 (Over)
+
+     DATE: [**3219-2-27**] 2:36 PM
+     MESENTERIC                                                      Clip # [**Clip Number (Radiology) 4258**]
+     Reason: 75 yo m with adenoca of gallbladder, admitted with UGI bleed
+      Contrast: OPTIRAY Amt: 185CC
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     distally to a previously known right hepatic artery pseudoaneurysm.
+
+",,
+24612,1499,,,3219-02-27 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3219-2-27**] 2:36 PM
+     MESENTERIC                                                      Clip # [**Clip Number (Radiology) 4258**]
+     Reason: 75 yo m with adenoca of gallbladder, admitted with UGI bleed
+      Contrast: OPTIRAY Amt: 185CC
+     ********************************* CPT Codes ********************************
+     * 37204 EMBO NON NEURO                 36247 INITAL 3RD ORDER ABD/PEL/LOWER*
+     * -51 MULTI-PROCEDURE SAME DAY         36245 EA 1ST ORDER ABD/PEL/LOWER EXT*
+     * -59 DISTINCT PROCEDURAL SERVICE      36248 ADD'L 2ND/3RD ORDER ABD/PEL/LO*
+     * 75894 TRANCATHETER EMBOLIZATION      75898 F/U STATUS INFUSION/EMBO      *
+     * 75726 VISERAL SEL/SUPERSEL A-GRAM    75726 VISERAL SEL/SUPERSEL A-GRAM   *
+     * -59 DISTINCT PROCEDURAL SERVICE      75774 EA ADD'L VESSEL AFTER BASIC A-*
+     * 75774 EA ADD'L VESSEL AFTER BASIC A- 99141 IV CONSCIOUTIOUS SEDATION PRO *
+     * NON-IONIC 150 CC                     NON-IONIC 30 CC                     *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      75 year old man with adenoca of gallbladder
+     REASON FOR THIS EXAMINATION:
+      75 yo m with adenoca of gallbladder, admitted with UGI bleed, now with active
+      hemobilia on EGD. Please perform angio of biliary circulation and embolization
+      as needed.
+       
+      questions please page [**First Name8 (NamePattern2) 2805**] [**Last Name (NamePattern1) 2806**] [**Pager number 4259**] thanks
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: 75-year-old male with metastatic gallbladder carcinoma. The
+     patient presented with a history of hemobilia in previous months, and an
+     arteriogram documented a right hepatic artery pseudoaneurysm at that time,
+     which was injected with thrombin with good result. The patient now presents
+     with hematemesis. An upper GI endoscopy performed today documents active
+     bleeding from the ampulla of Vater.
+     
+     RADIOLOGISTS: Drs. [**First Name (STitle) 455**] [**Name (STitle) 456**] [**Name5 (PTitle) **]'Othee and [**First Name4 (NamePattern1) 1175**] [**Last Name (NamePattern1) 894**]. Dr. [**Last Name (STitle) 456**]
+     [**Name (STitle) 457**], Staff Radiologist, was present throughout the procedure.
+     
+     CONTRAST/MEDICATIONS: 185 ml of Optiray 320 full-strength. A total of 2 mg
+     Versed and 100 microg Fentanyl were given intravenously in divided doses under
+     continued hemodynamic monitoring for conscious sedation.
+     
+     PROCEDURE/TECHNIQUE/FINDINGS:
+     The procedure was described to the patient and informed consent was obtained.
+     Access into the left common femoral artery was gained using a 19 gauge single
+     wall needle. An 0.035 [**Last Name (un) 767**] wire was placed without difficulty into the
+     aorta, and the needle was exchanged for a 5 Fr sheath. The celiac axis was
+     then selectively catheterized using a 5 Fr Cobra C2 Glidecath, and an
+     arteriogram was performed. This showed filling of both the common hepatic and
+     splenic arteries, without evidence for active extravasation or vascular
+     malformation. A selective proper hepatic arteriogram was then performed and
+     shows an eccentric irregular opacity projecting from a branch of the proximal
+     right hepatic artery, similar in size and location to the previously described
+     pneudoaneurysm. With the catheter in the proper hepatic artery, multiple
+     obliquities were obtained, comfirming presence of a recurrent pseudoaneurysm.
+     Other results of abnormal irregular tiny vascular pattern noted throughout
+                                                                 (Over)
+
+     DATE: [**3219-2-27**] 2:36 PM
+     MESENTERIC                                                      Clip # [**Clip Number (Radiology) 4258**]
+     Reason: 75 yo m with adenoca of gallbladder, admitted with UGI bleed
+      Contrast: OPTIRAY Amt: 185CC
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     both right and left hepatic lobes suggesting underlying disease. Gallbladder
+     calculi are also present.
+     
+     Selective superior mesenteric arteriogram was then performed. This
+     demonstrated no anatomic variant, vascular abnormalities or contrast
+     extravasation but the vascular appears matted and splayed, suggesting
+     extrinsic mass effect. Delayed images through the superior mesenteric
+     arteriogram show filling of the superior mesenteric vein and portal vein, with
+     some retrograde filling of the splenic vein documenting patency.
+     
+     The gastroduodenal artery was then selective catheterized, again using the C2
+     glidecath. This arteriogram demonstrated no extravasation or AV malformation.
+     The inferior pancreaticoduodenal arcades are visualized and are somewhat
+     small. Reflux into the proper, right and left hepatic arteries was also
+     present.
+     
+     Using an 0.035 angled glidewire, it was possible to advance the C2 glidecath
+     farther into the gastroduodenal artery to better visualize the vasculature and
+     to prevent reflux into the proper hepatic artery. The gastroepiploic artery is
+     well visualized and shows no abnormalities. Again no extravasation or
+     malformation is identified involving the gastroduodenal artery or its
+     tributaries.
+     
+     At this time, the C2 glidecath was advanced well into the right hepatic
+     artery, using both 0.035 angled glidewire as well an 0.035 stiff glidewire.
+     The catheter was manipulated beyond the right hepatic artery pseudoaneurysm,
+     as documented by a small amount of contrast injection. The catheter was
+     withdrawn to a point just distal from the pseudoaneurym, and one 6 mm x 5 cm
+     platinum coil was deployed using the reversed end of an 0.035 angled
+     glidewire. The coil formed shortly after dislodgement. After 2 minutes, a
+     small hand injection documented sluggish flow beyond coil placement. The
+     catheter was then gently manipulated back to the level of the pseudoaneurysm,
+     and three more 6 mm x 5 cm coils were placed in this region. This was followed
+     by infusion of Gelfoam pledgets (mixed with contrast material) just proximal
+     to the pseudoaneurysm. Two more 6 mm x 5 cm coils were deployed proximally,
+     again followed by Gelfoam pledgets.
+     
+     A proper hepatic arteriogram was performed approximately 10 min after coil and
+     Gelfoam embolization, and demonstrated a significantly reduced flow through
+     the right hepatic artery, with normal perfusion of the left hepatic artery.
+     There was no residual filling of the pseudoaneurysm. Contrast reflux into the
+     gastroduodenal and gastroepiploic arteries.
+     
+     COMPLICATIONS: None.
+     
+     IMPRESSION: Successful coil and Gelfoam embolization, both proximally and
+                                                                 (Over)
+
+     DATE: [**3219-2-27**] 2:36 PM
+     MESENTERIC                                                      Clip # [**Clip Number (Radiology) 4258**]
+     Reason: 75 yo m with adenoca of gallbladder, admitted with UGI bleed
+      Contrast: OPTIRAY Amt: 185CC
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     distally to a previously known right hepatic artery pseudoaneurysm.
+
+",,
+24612,1499,,,3219-02-27 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3219-2-27**] 2:36 PM
+     MESENTERIC                                                      Clip # [**Clip Number (Radiology) 4258**]
+     Reason: 75 yo m with adenoca of gallbladder, admitted with UGI bleed
+      Contrast: OPTIRAY Amt: 185CC
+     ********************************* CPT Codes ********************************
+     * 37204 EMBO NON NEURO                 36247 INITAL 3RD ORDER ABD/PEL/LOWER*
+     * -51 MULTI-PROCEDURE SAME DAY         36245 EA 1ST ORDER ABD/PEL/LOWER EXT*
+     * -59 DISTINCT PROCEDURAL SERVICE      36248 ADD'L 2ND/3RD ORDER ABD/PEL/LO*
+     * 75894 TRANCATHETER EMBOLIZATION      75898 F/U STATUS INFUSION/EMBO      *
+     * 75726 VISERAL SEL/SUPERSEL A-GRAM    75726 VISERAL SEL/SUPERSEL A-GRAM   *
+     * -59 DISTINCT PROCEDURAL SERVICE      75774 EA ADD'L VESSEL AFTER BASIC A-*
+     * 75774 EA ADD'L VESSEL AFTER BASIC A- 99141 IV CONSCIOUTIOUS SEDATION PRO *
+     * NON-IONIC 150 CC                     NON-IONIC 30 CC                     *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      75 year old man with adenoca of gallbladder
+     REASON FOR THIS EXAMINATION:
+      75 yo m with adenoca of gallbladder, admitted with UGI bleed, now with active
+      hemobilia on EGD. Please perform angio of biliary circulation and embolization
+      as needed.
+       
+      questions please page [**First Name8 (NamePattern2) 2805**] [**Last Name (NamePattern1) 2806**] [**Pager number 4259**] thanks
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: 75-year-old male with metastatic gallbladder carcinoma. The
+     patient presented with a history of hemobilia in previous months, and an
+     arteriogram documented a right hepatic artery pseudoaneurysm at that time,
+     which was injected with thrombin with good result. The patient now presents
+     with hematemesis. An upper GI endoscopy performed today documents active
+     bleeding from the ampulla of Vater.
+     
+     RADIOLOGISTS: Drs. [**First Name (STitle) 455**] [**Name (STitle) 456**] [**Name5 (PTitle) **]'Othee and [**First Name4 (NamePattern1) 1175**] [**Last Name (NamePattern1) 894**]. Dr. [**Last Name (STitle) 456**]
+     [**Name (STitle) 457**], Staff Radiologist, was present throughout the procedure.
+     
+     CONTRAST/MEDICATIONS: 185 ml of Optiray 320 full-strength. A total of 2 mg
+     Versed and 100 microg Fentanyl were given intravenously in divided doses under
+     continued hemodynamic monitoring for conscious sedation.
+     
+     PROCEDURE/TECHNIQUE/FINDINGS:
+     The procedure was described to the patient and informed consent was obtained.
+     Access into the left common femoral artery was gained using a 19 gauge single
+     wall needle. An 0.035 [**Last Name (un) 767**] wire was placed without difficulty into the
+     aorta, and the needle was exchanged for a 5 Fr sheath. The celiac axis was
+     then selectively catheterized using a 5 Fr Cobra C2 Glidecath, and an
+     arteriogram was performed. This showed filling of both the common hepatic and
+     splenic arteries, without evidence for active extravasation or vascular
+     malformation. A selective proper hepatic arteriogram was then performed and
+     shows an eccentric irregular opacity projecting from a branch of the proximal
+     right hepatic artery, similar in size and location to the previously described
+     pneudoaneurysm. With the catheter in the proper hepatic artery, multiple
+     obliquities were obtained, comfirming presence of a recurrent pseudoaneurysm.
+     Other results of abnormal irregular tiny vascular pattern noted throughout
+                                                                 (Over)
+
+     DATE: [**3219-2-27**] 2:36 PM
+     MESENTERIC                                                      Clip # [**Clip Number (Radiology) 4258**]
+     Reason: 75 yo m with adenoca of gallbladder, admitted with UGI bleed
+      Contrast: OPTIRAY Amt: 185CC
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     both right and left hepatic lobes suggesting underlying disease. Gallbladder
+     calculi are also present.
+     
+     Selective superior mesenteric arteriogram was then performed. This
+     demonstrated no anatomic variant, vascular abnormalities or contrast
+     extravasation but the vascular appears matted and splayed, suggesting
+     extrinsic mass effect. Delayed images through the superior mesenteric
+     arteriogram show filling of the superior mesenteric vein and portal vein, with
+     some retrograde filling of the splenic vein documenting patency.
+     
+     The gastroduodenal artery was then selective catheterized, again using the C2
+     glidecath. This arteriogram demonstrated no extravasation or AV malformation.
+     The inferior pancreaticoduodenal arcades are visualized and are somewhat
+     small. Reflux into the proper, right and left hepatic arteries was also
+     present.
+     
+     Using an 0.035 angled glidewire, it was possible to advance the C2 glidecath
+     farther into the gastroduodenal artery to better visualize the vasculature and
+     to prevent reflux into the proper hepatic artery. The gastroepiploic artery is
+     well visualized and shows no abnormalities. Again no extravasation or
+     malformation is identified involving the gastroduodenal artery or its
+     tributaries.
+     
+     At this time, the C2 glidecath was advanced well into the right hepatic
+     artery, using both 0.035 angled glidewire as well an 0.035 stiff glidewire.
+     The catheter was manipulated beyond the right hepatic artery pseudoaneurysm,
+     as documented by a small amount of contrast injection. The catheter was
+     withdrawn to a point just distal from the pseudoaneurym, and one 6 mm x 5 cm
+     platinum coil was deployed using the reversed end of an 0.035 angled
+     glidewire. The coil formed shortly after dislodgement. After 2 minutes, a
+     small hand injection documented sluggish flow beyond coil placement. The
+     catheter was then gently manipulated back to the level of the pseudoaneurysm,
+     and three more 6 mm x 5 cm coils were placed in this region. This was followed
+     by infusion of Gelfoam pledgets (mixed with contrast material) just proximal
+     to the pseudoaneurysm. Two more 6 mm x 5 cm coils were deployed proximally,
+     again followed by Gelfoam pledgets.
+     
+     A proper hepatic arteriogram was performed approximately 10 min after coil and
+     Gelfoam embolization, and demonstrated a significantly reduced flow through
+     the right hepatic artery, with normal perfusion of the left hepatic artery.
+     There was no residual filling of the pseudoaneurysm. Contrast reflux into the
+     gastroduodenal and gastroepiploic arteries.
+     
+     COMPLICATIONS: None.
+     
+     IMPRESSION: Successful coil and Gelfoam embolization, both proximally and
+                                                                 (Over)
+
+     DATE: [**3219-2-27**] 2:36 PM
+     MESENTERIC                                                      Clip # [**Clip Number (Radiology) 4258**]
+     Reason: 75 yo m with adenoca of gallbladder, admitted with UGI bleed
+      Contrast: OPTIRAY Amt: 185CC
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     distally to a previously known right hepatic artery pseudoaneurysm.
+
+",,
+24612,1499,,,3219-02-27 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3219-2-27**] 2:36 PM
+     MESENTERIC                                                      Clip # [**Clip Number (Radiology) 4258**]
+     Reason: 75 yo m with adenoca of gallbladder, admitted with UGI bleed
+      Contrast: OPTIRAY Amt: 185CC
+     ********************************* CPT Codes ********************************
+     * 37204 EMBO NON NEURO                 36247 INITAL 3RD ORDER ABD/PEL/LOWER*
+     * -51 MULTI-PROCEDURE SAME DAY         36245 EA 1ST ORDER ABD/PEL/LOWER EXT*
+     * -59 DISTINCT PROCEDURAL SERVICE      36248 ADD'L 2ND/3RD ORDER ABD/PEL/LO*
+     * 75894 TRANCATHETER EMBOLIZATION      75898 F/U STATUS INFUSION/EMBO      *
+     * 75726 VISERAL SEL/SUPERSEL A-GRAM    75726 VISERAL SEL/SUPERSEL A-GRAM   *
+     * -59 DISTINCT PROCEDURAL SERVICE      75774 EA ADD'L VESSEL AFTER BASIC A-*
+     * 75774 EA ADD'L VESSEL AFTER BASIC A- 99141 IV CONSCIOUTIOUS SEDATION PRO *
+     * NON-IONIC 150 CC                     NON-IONIC 30 CC                     *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      75 year old man with adenoca of gallbladder
+     REASON FOR THIS EXAMINATION:
+      75 yo m with adenoca of gallbladder, admitted with UGI bleed, now with active
+      hemobilia on EGD. Please perform angio of biliary circulation and embolization
+      as needed.
+       
+      questions please page [**First Name8 (NamePattern2) 2805**] [**Last Name (NamePattern1) 2806**] [**Pager number 4259**] thanks
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: 75-year-old male with metastatic gallbladder carcinoma. The
+     patient presented with a history of hemobilia in previous months, and an
+     arteriogram documented a right hepatic artery pseudoaneurysm at that time,
+     which was injected with thrombin with good result. The patient now presents
+     with hematemesis. An upper GI endoscopy performed today documents active
+     bleeding from the ampulla of Vater.
+     
+     RADIOLOGISTS: Drs. [**First Name (STitle) 455**] [**Name (STitle) 456**] [**Name5 (PTitle) **]'Othee and [**First Name4 (NamePattern1) 1175**] [**Last Name (NamePattern1) 894**]. Dr. [**Last Name (STitle) 456**]
+     [**Name (STitle) 457**], Staff Radiologist, was present throughout the procedure.
+     
+     CONTRAST/MEDICATIONS: 185 ml of Optiray 320 full-strength. A total of 2 mg
+     Versed and 100 microg Fentanyl were given intravenously in divided doses under
+     continued hemodynamic monitoring for conscious sedation.
+     
+     PROCEDURE/TECHNIQUE/FINDINGS:
+     The procedure was described to the patient and informed consent was obtained.
+     Access into the left common femoral artery was gained using a 19 gauge single
+     wall needle. An 0.035 [**Last Name (un) 767**] wire was placed without difficulty into the
+     aorta, and the needle was exchanged for a 5 Fr sheath. The celiac axis was
+     then selectively catheterized using a 5 Fr Cobra C2 Glidecath, and an
+     arteriogram was performed. This showed filling of both the common hepatic and
+     splenic arteries, without evidence for active extravasation or vascular
+     malformation. A selective proper hepatic arteriogram was then performed and
+     shows an eccentric irregular opacity projecting from a branch of the proximal
+     right hepatic artery, similar in size and location to the previously described
+     pneudoaneurysm. With the catheter in the proper hepatic artery, multiple
+     obliquities were obtained, comfirming presence of a recurrent pseudoaneurysm.
+     Other results of abnormal irregular tiny vascular pattern noted throughout
+                                                                 (Over)
+
+     DATE: [**3219-2-27**] 2:36 PM
+     MESENTERIC                                                      Clip # [**Clip Number (Radiology) 4258**]
+     Reason: 75 yo m with adenoca of gallbladder, admitted with UGI bleed
+      Contrast: OPTIRAY Amt: 185CC
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     both right and left hepatic lobes suggesting underlying disease. Gallbladder
+     calculi are also present.
+     
+     Selective superior mesenteric arteriogram was then performed. This
+     demonstrated no anatomic variant, vascular abnormalities or contrast
+     extravasation but the vascular appears matted and splayed, suggesting
+     extrinsic mass effect. Delayed images through the superior mesenteric
+     arteriogram show filling of the superior mesenteric vein and portal vein, with
+     some retrograde filling of the splenic vein documenting patency.
+     
+     The gastroduodenal artery was then selective catheterized, again using the C2
+     glidecath. This arteriogram demonstrated no extravasation or AV malformation.
+     The inferior pancreaticoduodenal arcades are visualized and are somewhat
+     small. Reflux into the proper, right and left hepatic arteries was also
+     present.
+     
+     Using an 0.035 angled glidewire, it was possible to advance the C2 glidecath
+     farther into the gastroduodenal artery to better visualize the vasculature and
+     to prevent reflux into the proper hepatic artery. The gastroepiploic artery is
+     well visualized and shows no abnormalities. Again no extravasation or
+     malformation is identified involving the gastroduodenal artery or its
+     tributaries.
+     
+     At this time, the C2 glidecath was advanced well into the right hepatic
+     artery, using both 0.035 angled glidewire as well an 0.035 stiff glidewire.
+     The catheter was manipulated beyond the right hepatic artery pseudoaneurysm,
+     as documented by a small amount of contrast injection. The catheter was
+     withdrawn to a point just distal from the pseudoaneurym, and one 6 mm x 5 cm
+     platinum coil was deployed using the reversed end of an 0.035 angled
+     glidewire. The coil formed shortly after dislodgement. After 2 minutes, a
+     small hand injection documented sluggish flow beyond coil placement. The
+     catheter was then gently manipulated back to the level of the pseudoaneurysm,
+     and three more 6 mm x 5 cm coils were placed in this region. This was followed
+     by infusion of Gelfoam pledgets (mixed with contrast material) just proximal
+     to the pseudoaneurysm. Two more 6 mm x 5 cm coils were deployed proximally,
+     again followed by Gelfoam pledgets.
+     
+     A proper hepatic arteriogram was performed approximately 10 min after coil and
+     Gelfoam embolization, and demonstrated a significantly reduced flow through
+     the right hepatic artery, with normal perfusion of the left hepatic artery.
+     There was no residual filling of the pseudoaneurysm. Contrast reflux into the
+     gastroduodenal and gastroepiploic arteries.
+     
+     COMPLICATIONS: None.
+     
+     IMPRESSION: Successful coil and Gelfoam embolization, both proximally and
+                                                                 (Over)
+
+     DATE: [**3219-2-27**] 2:36 PM
+     MESENTERIC                                                      Clip # [**Clip Number (Radiology) 4258**]
+     Reason: 75 yo m with adenoca of gallbladder, admitted with UGI bleed
+      Contrast: OPTIRAY Amt: 185CC
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     distally to a previously known right hepatic artery pseudoaneurysm.
+
+",,
+24612,1499,,,3219-02-27 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3219-2-27**] 2:36 PM
+     MESENTERIC                                                      Clip # [**Clip Number (Radiology) 4258**]
+     Reason: 75 yo m with adenoca of gallbladder, admitted with UGI bleed
+      Contrast: OPTIRAY Amt: 185CC
+     ********************************* CPT Codes ********************************
+     * 37204 EMBO NON NEURO                 36247 INITAL 3RD ORDER ABD/PEL/LOWER*
+     * -51 MULTI-PROCEDURE SAME DAY         36245 EA 1ST ORDER ABD/PEL/LOWER EXT*
+     * -59 DISTINCT PROCEDURAL SERVICE      36248 ADD'L 2ND/3RD ORDER ABD/PEL/LO*
+     * 75894 TRANCATHETER EMBOLIZATION      75898 F/U STATUS INFUSION/EMBO      *
+     * 75726 VISERAL SEL/SUPERSEL A-GRAM    75726 VISERAL SEL/SUPERSEL A-GRAM   *
+     * -59 DISTINCT PROCEDURAL SERVICE      75774 EA ADD'L VESSEL AFTER BASIC A-*
+     * 75774 EA ADD'L VESSEL AFTER BASIC A- 99141 IV CONSCIOUTIOUS SEDATION PRO *
+     * NON-IONIC 150 CC                     NON-IONIC 30 CC                     *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      75 year old man with adenoca of gallbladder
+     REASON FOR THIS EXAMINATION:
+      75 yo m with adenoca of gallbladder, admitted with UGI bleed, now with active
+      hemobilia on EGD. Please perform angio of biliary circulation and embolization
+      as needed.
+       
+      questions please page [**First Name8 (NamePattern2) 2805**] [**Last Name (NamePattern1) 2806**] [**Pager number 4259**] thanks
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: 75-year-old male with metastatic gallbladder carcinoma. The
+     patient presented with a history of hemobilia in previous months, and an
+     arteriogram documented a right hepatic artery pseudoaneurysm at that time,
+     which was injected with thrombin with good result. The patient now presents
+     with hematemesis. An upper GI endoscopy performed today documents active
+     bleeding from the ampulla of Vater.
+     
+     RADIOLOGISTS: Drs. [**First Name (STitle) 455**] [**Name (STitle) 456**] [**Name5 (PTitle) **]'Othee and [**First Name4 (NamePattern1) 1175**] [**Last Name (NamePattern1) 894**]. Dr. [**Last Name (STitle) 456**]
+     [**Name (STitle) 457**], Staff Radiologist, was present throughout the procedure.
+     
+     CONTRAST/MEDICATIONS: 185 ml of Optiray 320 full-strength. A total of 2 mg
+     Versed and 100 microg Fentanyl were given intravenously in divided doses under
+     continued hemodynamic monitoring for conscious sedation.
+     
+     PROCEDURE/TECHNIQUE/FINDINGS:
+     The procedure was described to the patient and informed consent was obtained.
+     Access into the left common femoral artery was gained using a 19 gauge single
+     wall needle. An 0.035 [**Last Name (un) 767**] wire was placed without difficulty into the
+     aorta, and the needle was exchanged for a 5 Fr sheath. The celiac axis was
+     then selectively catheterized using a 5 Fr Cobra C2 Glidecath, and an
+     arteriogram was performed. This showed filling of both the common hepatic and
+     splenic arteries, without evidence for active extravasation or vascular
+     malformation. A selective proper hepatic arteriogram was then performed and
+     shows an eccentric irregular opacity projecting from a branch of the proximal
+     right hepatic artery, similar in size and location to the previously described
+     pneudoaneurysm. With the catheter in the proper hepatic artery, multiple
+     obliquities were obtained, comfirming presence of a recurrent pseudoaneurysm.
+     Other results of abnormal irregular tiny vascular pattern noted throughout
+                                                                 (Over)
+
+     DATE: [**3219-2-27**] 2:36 PM
+     MESENTERIC                                                      Clip # [**Clip Number (Radiology) 4258**]
+     Reason: 75 yo m with adenoca of gallbladder, admitted with UGI bleed
+      Contrast: OPTIRAY Amt: 185CC
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     both right and left hepatic lobes suggesting underlying disease. Gallbladder
+     calculi are also present.
+     
+     Selective superior mesenteric arteriogram was then performed. This
+     demonstrated no anatomic variant, vascular abnormalities or contrast
+     extravasation but the vascular appears matted and splayed, suggesting
+     extrinsic mass effect. Delayed images through the superior mesenteric
+     arteriogram show filling of the superior mesenteric vein and portal vein, with
+     some retrograde filling of the splenic vein documenting patency.
+     
+     The gastroduodenal artery was then selective catheterized, again using the C2
+     glidecath. This arteriogram demonstrated no extravasation or AV malformation.
+     The inferior pancreaticoduodenal arcades are visualized and are somewhat
+     small. Reflux into the proper, right and left hepatic arteries was also
+     present.
+     
+     Using an 0.035 angled glidewire, it was possible to advance the C2 glidecath
+     farther into the gastroduodenal artery to better visualize the vasculature and
+     to prevent reflux into the proper hepatic artery. The gastroepiploic artery is
+     well visualized and shows no abnormalities. Again no extravasation or
+     malformation is identified involving the gastroduodenal artery or its
+     tributaries.
+     
+     At this time, the C2 glidecath was advanced well into the right hepatic
+     artery, using both 0.035 angled glidewire as well an 0.035 stiff glidewire.
+     The catheter was manipulated beyond the right hepatic artery pseudoaneurysm,
+     as documented by a small amount of contrast injection. The catheter was
+     withdrawn to a point just distal from the pseudoaneurym, and one 6 mm x 5 cm
+     platinum coil was deployed using the reversed end of an 0.035 angled
+     glidewire. The coil formed shortly after dislodgement. After 2 minutes, a
+     small hand injection documented sluggish flow beyond coil placement. The
+     catheter was then gently manipulated back to the level of the pseudoaneurysm,
+     and three more 6 mm x 5 cm coils were placed in this region. This was followed
+     by infusion of Gelfoam pledgets (mixed with contrast material) just proximal
+     to the pseudoaneurysm. Two more 6 mm x 5 cm coils were deployed proximally,
+     again followed by Gelfoam pledgets.
+     
+     A proper hepatic arteriogram was performed approximately 10 min after coil and
+     Gelfoam embolization, and demonstrated a significantly reduced flow through
+     the right hepatic artery, with normal perfusion of the left hepatic artery.
+     There was no residual filling of the pseudoaneurysm. Contrast reflux into the
+     gastroduodenal and gastroepiploic arteries.
+     
+     COMPLICATIONS: None.
+     
+     IMPRESSION: Successful coil and Gelfoam embolization, both proximally and
+                                                                 (Over)
+
+     DATE: [**3219-2-27**] 2:36 PM
+     MESENTERIC                                                      Clip # [**Clip Number (Radiology) 4258**]
+     Reason: 75 yo m with adenoca of gallbladder, admitted with UGI bleed
+      Contrast: OPTIRAY Amt: 185CC
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     distally to a previously known right hepatic artery pseudoaneurysm.
+
+",,
+24612,1499,,,3219-02-27 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3219-2-27**] 2:36 PM
+     MESENTERIC                                                      Clip # [**Clip Number (Radiology) 4258**]
+     Reason: 75 yo m with adenoca of gallbladder, admitted with UGI bleed
+      Contrast: OPTIRAY Amt: 185CC
+     ********************************* CPT Codes ********************************
+     * 37204 EMBO NON NEURO                 36247 INITAL 3RD ORDER ABD/PEL/LOWER*
+     * -51 MULTI-PROCEDURE SAME DAY         36245 EA 1ST ORDER ABD/PEL/LOWER EXT*
+     * -59 DISTINCT PROCEDURAL SERVICE      36248 ADD'L 2ND/3RD ORDER ABD/PEL/LO*
+     * 75894 TRANCATHETER EMBOLIZATION      75898 F/U STATUS INFUSION/EMBO      *
+     * 75726 VISERAL SEL/SUPERSEL A-GRAM    75726 VISERAL SEL/SUPERSEL A-GRAM   *
+     * -59 DISTINCT PROCEDURAL SERVICE      75774 EA ADD'L VESSEL AFTER BASIC A-*
+     * 75774 EA ADD'L VESSEL AFTER BASIC A- 99141 IV CONSCIOUTIOUS SEDATION PRO *
+     * NON-IONIC 150 CC                     NON-IONIC 30 CC                     *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      75 year old man with adenoca of gallbladder
+     REASON FOR THIS EXAMINATION:
+      75 yo m with adenoca of gallbladder, admitted with UGI bleed, now with active
+      hemobilia on EGD. Please perform angio of biliary circulation and embolization
+      as needed.
+       
+      questions please page [**First Name8 (NamePattern2) 2805**] [**Last Name (NamePattern1) 2806**] [**Pager number 4259**] thanks
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: 75-year-old male with metastatic gallbladder carcinoma. The
+     patient presented with a history of hemobilia in previous months, and an
+     arteriogram documented a right hepatic artery pseudoaneurysm at that time,
+     which was injected with thrombin with good result. The patient now presents
+     with hematemesis. An upper GI endoscopy performed today documents active
+     bleeding from the ampulla of Vater.
+     
+     RADIOLOGISTS: Drs. [**First Name (STitle) 455**] [**Name (STitle) 456**] [**Name5 (PTitle) **]'Othee and [**First Name4 (NamePattern1) 1175**] [**Last Name (NamePattern1) 894**]. Dr. [**Last Name (STitle) 456**]
+     [**Name (STitle) 457**], Staff Radiologist, was present throughout the procedure.
+     
+     CONTRAST/MEDICATIONS: 185 ml of Optiray 320 full-strength. A total of 2 mg
+     Versed and 100 microg Fentanyl were given intravenously in divided doses under
+     continued hemodynamic monitoring for conscious sedation.
+     
+     PROCEDURE/TECHNIQUE/FINDINGS:
+     The procedure was described to the patient and informed consent was obtained.
+     Access into the left common femoral artery was gained using a 19 gauge single
+     wall needle. An 0.035 [**Last Name (un) 767**] wire was placed without difficulty into the
+     aorta, and the needle was exchanged for a 5 Fr sheath. The celiac axis was
+     then selectively catheterized using a 5 Fr Cobra C2 Glidecath, and an
+     arteriogram was performed. This showed filling of both the common hepatic and
+     splenic arteries, without evidence for active extravasation or vascular
+     malformation. A selective proper hepatic arteriogram was then performed and
+     shows an eccentric irregular opacity projecting from a branch of the proximal
+     right hepatic artery, similar in size and location to the previously described
+     pneudoaneurysm. With the catheter in the proper hepatic artery, multiple
+     obliquities were obtained, comfirming presence of a recurrent pseudoaneurysm.
+     Other results of abnormal irregular tiny vascular pattern noted throughout
+                                                                 (Over)
+
+     DATE: [**3219-2-27**] 2:36 PM
+     MESENTERIC                                                      Clip # [**Clip Number (Radiology) 4258**]
+     Reason: 75 yo m with adenoca of gallbladder, admitted with UGI bleed
+      Contrast: OPTIRAY Amt: 185CC
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     both right and left hepatic lobes suggesting underlying disease. Gallbladder
+     calculi are also present.
+     
+     Selective superior mesenteric arteriogram was then performed. This
+     demonstrated no anatomic variant, vascular abnormalities or contrast
+     extravasation but the vascular appears matted and splayed, suggesting
+     extrinsic mass effect. Delayed images through the superior mesenteric
+     arteriogram show filling of the superior mesenteric vein and portal vein, with
+     some retrograde filling of the splenic vein documenting patency.
+     
+     The gastroduodenal artery was then selective catheterized, again using the C2
+     glidecath. This arteriogram demonstrated no extravasation or AV malformation.
+     The inferior pancreaticoduodenal arcades are visualized and are somewhat
+     small. Reflux into the proper, right and left hepatic arteries was also
+     present.
+     
+     Using an 0.035 angled glidewire, it was possible to advance the C2 glidecath
+     farther into the gastroduodenal artery to better visualize the vasculature and
+     to prevent reflux into the proper hepatic artery. The gastroepiploic artery is
+     well visualized and shows no abnormalities. Again no extravasation or
+     malformation is identified involving the gastroduodenal artery or its
+     tributaries.
+     
+     At this time, the C2 glidecath was advanced well into the right hepatic
+     artery, using both 0.035 angled glidewire as well an 0.035 stiff glidewire.
+     The catheter was manipulated beyond the right hepatic artery pseudoaneurysm,
+     as documented by a small amount of contrast injection. The catheter was
+     withdrawn to a point just distal from the pseudoaneurym, and one 6 mm x 5 cm
+     platinum coil was deployed using the reversed end of an 0.035 angled
+     glidewire. The coil formed shortly after dislodgement. After 2 minutes, a
+     small hand injection documented sluggish flow beyond coil placement. The
+     catheter was then gently manipulated back to the level of the pseudoaneurysm,
+     and three more 6 mm x 5 cm coils were placed in this region. This was followed
+     by infusion of Gelfoam pledgets (mixed with contrast material) just proximal
+     to the pseudoaneurysm. Two more 6 mm x 5 cm coils were deployed proximally,
+     again followed by Gelfoam pledgets.
+     
+     A proper hepatic arteriogram was performed approximately 10 min after coil and
+     Gelfoam embolization, and demonstrated a significantly reduced flow through
+     the right hepatic artery, with normal perfusion of the left hepatic artery.
+     There was no residual filling of the pseudoaneurysm. Contrast reflux into the
+     gastroduodenal and gastroepiploic arteries.
+     
+     COMPLICATIONS: None.
+     
+     IMPRESSION: Successful coil and Gelfoam embolization, both proximally and
+                                                                 (Over)
+
+     DATE: [**3219-2-27**] 2:36 PM
+     MESENTERIC                                                      Clip # [**Clip Number (Radiology) 4258**]
+     Reason: 75 yo m with adenoca of gallbladder, admitted with UGI bleed
+      Contrast: OPTIRAY Amt: 185CC
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     distally to a previously known right hepatic artery pseudoaneurysm.
+
+",,
+24612,1499,,,3219-02-27 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3219-2-27**] 2:36 PM
+     MESENTERIC                                                      Clip # [**Clip Number (Radiology) 4258**]
+     Reason: 75 yo m with adenoca of gallbladder, admitted with UGI bleed
+      Contrast: OPTIRAY Amt: 185CC
+     ********************************* CPT Codes ********************************
+     * 37204 EMBO NON NEURO                 36247 INITAL 3RD ORDER ABD/PEL/LOWER*
+     * -51 MULTI-PROCEDURE SAME DAY         36245 EA 1ST ORDER ABD/PEL/LOWER EXT*
+     * -59 DISTINCT PROCEDURAL SERVICE      36248 ADD'L 2ND/3RD ORDER ABD/PEL/LO*
+     * 75894 TRANCATHETER EMBOLIZATION      75898 F/U STATUS INFUSION/EMBO      *
+     * 75726 VISERAL SEL/SUPERSEL A-GRAM    75726 VISERAL SEL/SUPERSEL A-GRAM   *
+     * -59 DISTINCT PROCEDURAL SERVICE      75774 EA ADD'L VESSEL AFTER BASIC A-*
+     * 75774 EA ADD'L VESSEL AFTER BASIC A- 99141 IV CONSCIOUTIOUS SEDATION PRO *
+     * NON-IONIC 150 CC                     NON-IONIC 30 CC                     *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      75 year old man with adenoca of gallbladder
+     REASON FOR THIS EXAMINATION:
+      75 yo m with adenoca of gallbladder, admitted with UGI bleed, now with active
+      hemobilia on EGD. Please perform angio of biliary circulation and embolization
+      as needed.
+       
+      questions please page [**First Name8 (NamePattern2) 2805**] [**Last Name (NamePattern1) 2806**] [**Pager number 4259**] thanks
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: 75-year-old male with metastatic gallbladder carcinoma. The
+     patient presented with a history of hemobilia in previous months, and an
+     arteriogram documented a right hepatic artery pseudoaneurysm at that time,
+     which was injected with thrombin with good result. The patient now presents
+     with hematemesis. An upper GI endoscopy performed today documents active
+     bleeding from the ampulla of Vater.
+     
+     RADIOLOGISTS: Drs. [**First Name (STitle) 455**] [**Name (STitle) 456**] [**Name5 (PTitle) **]'Othee and [**First Name4 (NamePattern1) 1175**] [**Last Name (NamePattern1) 894**]. Dr. [**Last Name (STitle) 456**]
+     [**Name (STitle) 457**], Staff Radiologist, was present throughout the procedure.
+     
+     CONTRAST/MEDICATIONS: 185 ml of Optiray 320 full-strength. A total of 2 mg
+     Versed and 100 microg Fentanyl were given intravenously in divided doses under
+     continued hemodynamic monitoring for conscious sedation.
+     
+     PROCEDURE/TECHNIQUE/FINDINGS:
+     The procedure was described to the patient and informed consent was obtained.
+     Access into the left common femoral artery was gained using a 19 gauge single
+     wall needle. An 0.035 [**Last Name (un) 767**] wire was placed without difficulty into the
+     aorta, and the needle was exchanged for a 5 Fr sheath. The celiac axis was
+     then selectively catheterized using a 5 Fr Cobra C2 Glidecath, and an
+     arteriogram was performed. This showed filling of both the common hepatic and
+     splenic arteries, without evidence for active extravasation or vascular
+     malformation. A selective proper hepatic arteriogram was then performed and
+     shows an eccentric irregular opacity projecting from a branch of the proximal
+     right hepatic artery, similar in size and location to the previously described
+     pneudoaneurysm. With the catheter in the proper hepatic artery, multiple
+     obliquities were obtained, comfirming presence of a recurrent pseudoaneurysm.
+     Other results of abnormal irregular tiny vascular pattern noted throughout
+                                                                 (Over)
+
+     DATE: [**3219-2-27**] 2:36 PM
+     MESENTERIC                                                      Clip # [**Clip Number (Radiology) 4258**]
+     Reason: 75 yo m with adenoca of gallbladder, admitted with UGI bleed
+      Contrast: OPTIRAY Amt: 185CC
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     both right and left hepatic lobes suggesting underlying disease. Gallbladder
+     calculi are also present.
+     
+     Selective superior mesenteric arteriogram was then performed. This
+     demonstrated no anatomic variant, vascular abnormalities or contrast
+     extravasation but the vascular appears matted and splayed, suggesting
+     extrinsic mass effect. Delayed images through the superior mesenteric
+     arteriogram show filling of the superior mesenteric vein and portal vein, with
+     some retrograde filling of the splenic vein documenting patency.
+     
+     The gastroduodenal artery was then selective catheterized, again using the C2
+     glidecath. This arteriogram demonstrated no extravasation or AV malformation.
+     The inferior pancreaticoduodenal arcades are visualized and are somewhat
+     small. Reflux into the proper, right and left hepatic arteries was also
+     present.
+     
+     Using an 0.035 angled glidewire, it was possible to advance the C2 glidecath
+     farther into the gastroduodenal artery to better visualize the vasculature and
+     to prevent reflux into the proper hepatic artery. The gastroepiploic artery is
+     well visualized and shows no abnormalities. Again no extravasation or
+     malformation is identified involving the gastroduodenal artery or its
+     tributaries.
+     
+     At this time, the C2 glidecath was advanced well into the right hepatic
+     artery, using both 0.035 angled glidewire as well an 0.035 stiff glidewire.
+     The catheter was manipulated beyond the right hepatic artery pseudoaneurysm,
+     as documented by a small amount of contrast injection. The catheter was
+     withdrawn to a point just distal from the pseudoaneurym, and one 6 mm x 5 cm
+     platinum coil was deployed using the reversed end of an 0.035 angled
+     glidewire. The coil formed shortly after dislodgement. After 2 minutes, a
+     small hand injection documented sluggish flow beyond coil placement. The
+     catheter was then gently manipulated back to the level of the pseudoaneurysm,
+     and three more 6 mm x 5 cm coils were placed in this region. This was followed
+     by infusion of Gelfoam pledgets (mixed with contrast material) just proximal
+     to the pseudoaneurysm. Two more 6 mm x 5 cm coils were deployed proximally,
+     again followed by Gelfoam pledgets.
+     
+     A proper hepatic arteriogram was performed approximately 10 min after coil and
+     Gelfoam embolization, and demonstrated a significantly reduced flow through
+     the right hepatic artery, with normal perfusion of the left hepatic artery.
+     There was no residual filling of the pseudoaneurysm. Contrast reflux into the
+     gastroduodenal and gastroepiploic arteries.
+     
+     COMPLICATIONS: None.
+     
+     IMPRESSION: Successful coil and Gelfoam embolization, both proximally and
+                                                                 (Over)
+
+     DATE: [**3219-2-27**] 2:36 PM
+     MESENTERIC                                                      Clip # [**Clip Number (Radiology) 4258**]
+     Reason: 75 yo m with adenoca of gallbladder, admitted with UGI bleed
+      Contrast: OPTIRAY Amt: 185CC
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     distally to a previously known right hepatic artery pseudoaneurysm.
+
+",,
+24612,1499,,,3219-02-27 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3219-2-27**] 2:36 PM
+     MESENTERIC                                                      Clip # [**Clip Number (Radiology) 4258**]
+     Reason: 75 yo m with adenoca of gallbladder, admitted with UGI bleed
+      Contrast: OPTIRAY Amt: 185CC
+     ********************************* CPT Codes ********************************
+     * 37204 EMBO NON NEURO                 36247 INITAL 3RD ORDER ABD/PEL/LOWER*
+     * -51 MULTI-PROCEDURE SAME DAY         36245 EA 1ST ORDER ABD/PEL/LOWER EXT*
+     * -59 DISTINCT PROCEDURAL SERVICE      36248 ADD'L 2ND/3RD ORDER ABD/PEL/LO*
+     * 75894 TRANCATHETER EMBOLIZATION      75898 F/U STATUS INFUSION/EMBO      *
+     * 75726 VISERAL SEL/SUPERSEL A-GRAM    75726 VISERAL SEL/SUPERSEL A-GRAM   *
+     * -59 DISTINCT PROCEDURAL SERVICE      75774 EA ADD'L VESSEL AFTER BASIC A-*
+     * 75774 EA ADD'L VESSEL AFTER BASIC A- 99141 IV CONSCIOUTIOUS SEDATION PRO *
+     * NON-IONIC 150 CC                     NON-IONIC 30 CC                     *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      75 year old man with adenoca of gallbladder
+     REASON FOR THIS EXAMINATION:
+      75 yo m with adenoca of gallbladder, admitted with UGI bleed, now with active
+      hemobilia on EGD. Please perform angio of biliary circulation and embolization
+      as needed.
+       
+      questions please page [**First Name8 (NamePattern2) 2805**] [**Last Name (NamePattern1) 2806**] [**Pager number 4259**] thanks
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: 75-year-old male with metastatic gallbladder carcinoma. The
+     patient presented with a history of hemobilia in previous months, and an
+     arteriogram documented a right hepatic artery pseudoaneurysm at that time,
+     which was injected with thrombin with good result. The patient now presents
+     with hematemesis. An upper GI endoscopy performed today documents active
+     bleeding from the ampulla of Vater.
+     
+     RADIOLOGISTS: Drs. [**First Name (STitle) 455**] [**Name (STitle) 456**] [**Name5 (PTitle) **]'Othee and [**First Name4 (NamePattern1) 1175**] [**Last Name (NamePattern1) 894**]. Dr. [**Last Name (STitle) 456**]
+     [**Name (STitle) 457**], Staff Radiologist, was present throughout the procedure.
+     
+     CONTRAST/MEDICATIONS: 185 ml of Optiray 320 full-strength. A total of 2 mg
+     Versed and 100 microg Fentanyl were given intravenously in divided doses under
+     continued hemodynamic monitoring for conscious sedation.
+     
+     PROCEDURE/TECHNIQUE/FINDINGS:
+     The procedure was described to the patient and informed consent was obtained.
+     Access into the left common femoral artery was gained using a 19 gauge single
+     wall needle. An 0.035 [**Last Name (un) 767**] wire was placed without difficulty into the
+     aorta, and the needle was exchanged for a 5 Fr sheath. The celiac axis was
+     then selectively catheterized using a 5 Fr Cobra C2 Glidecath, and an
+     arteriogram was performed. This showed filling of both the common hepatic and
+     splenic arteries, without evidence for active extravasation or vascular
+     malformation. A selective proper hepatic arteriogram was then performed and
+     shows an eccentric irregular opacity projecting from a branch of the proximal
+     right hepatic artery, similar in size and location to the previously described
+     pneudoaneurysm. With the catheter in the proper hepatic artery, multiple
+     obliquities were obtained, comfirming presence of a recurrent pseudoaneurysm.
+     Other results of abnormal irregular tiny vascular pattern noted throughout
+                                                                 (Over)
+
+     DATE: [**3219-2-27**] 2:36 PM
+     MESENTERIC                                                      Clip # [**Clip Number (Radiology) 4258**]
+     Reason: 75 yo m with adenoca of gallbladder, admitted with UGI bleed
+      Contrast: OPTIRAY Amt: 185CC
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     both right and left hepatic lobes suggesting underlying disease. Gallbladder
+     calculi are also present.
+     
+     Selective superior mesenteric arteriogram was then performed. This
+     demonstrated no anatomic variant, vascular abnormalities or contrast
+     extravasation but the vascular appears matted and splayed, suggesting
+     extrinsic mass effect. Delayed images through the superior mesenteric
+     arteriogram show filling of the superior mesenteric vein and portal vein, with
+     some retrograde filling of the splenic vein documenting patency.
+     
+     The gastroduodenal artery was then selective catheterized, again using the C2
+     glidecath. This arteriogram demonstrated no extravasation or AV malformation.
+     The inferior pancreaticoduodenal arcades are visualized and are somewhat
+     small. Reflux into the proper, right and left hepatic arteries was also
+     present.
+     
+     Using an 0.035 angled glidewire, it was possible to advance the C2 glidecath
+     farther into the gastroduodenal artery to better visualize the vasculature and
+     to prevent reflux into the proper hepatic artery. The gastroepiploic artery is
+     well visualized and shows no abnormalities. Again no extravasation or
+     malformation is identified involving the gastroduodenal artery or its
+     tributaries.
+     
+     At this time, the C2 glidecath was advanced well into the right hepatic
+     artery, using both 0.035 angled glidewire as well an 0.035 stiff glidewire.
+     The catheter was manipulated beyond the right hepatic artery pseudoaneurysm,
+     as documented by a small amount of contrast injection. The catheter was
+     withdrawn to a point just distal from the pseudoaneurym, and one 6 mm x 5 cm
+     platinum coil was deployed using the reversed end of an 0.035 angled
+     glidewire. The coil formed shortly after dislodgement. After 2 minutes, a
+     small hand injection documented sluggish flow beyond coil placement. The
+     catheter was then gently manipulated back to the level of the pseudoaneurysm,
+     and three more 6 mm x 5 cm coils were placed in this region. This was followed
+     by infusion of Gelfoam pledgets (mixed with contrast material) just proximal
+     to the pseudoaneurysm. Two more 6 mm x 5 cm coils were deployed proximally,
+     again followed by Gelfoam pledgets.
+     
+     A proper hepatic arteriogram was performed approximately 10 min after coil and
+     Gelfoam embolization, and demonstrated a significantly reduced flow through
+     the right hepatic artery, with normal perfusion of the left hepatic artery.
+     There was no residual filling of the pseudoaneurysm. Contrast reflux into the
+     gastroduodenal and gastroepiploic arteries.
+     
+     COMPLICATIONS: None.
+     
+     IMPRESSION: Successful coil and Gelfoam embolization, both proximally and
+                                                                 (Over)
+
+     DATE: [**3219-2-27**] 2:36 PM
+     MESENTERIC                                                      Clip # [**Clip Number (Radiology) 4258**]
+     Reason: 75 yo m with adenoca of gallbladder, admitted with UGI bleed
+      Contrast: OPTIRAY Amt: 185CC
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     distally to a previously known right hepatic artery pseudoaneurysm.
+
+",,
+24612,1499,30562,0,3219-02-28 00:33:00 EST,3219-02-28 01:09:00 EST,1771,"N",69,"Nursing/Other","pmicu npn 7p-7a","
+pmicu npn 7p-7a
+
+
+   pt is an unfortuate 75yob man who was recently dx w/invasive adenocarcinoma of the gallbladder. he was in his usoh on [**2-25**] when he developed some nausea and hematemesis. he was initially admitted to medicine and received 2u prbc's and was seen by gi. he underwent an initial egd which did not reveal any active bleeding. however, on [**2-27**], the pt developed more hematemesis and had brbpr x1; a second egd did show brisk hemobilia and he was subsequently taken to angio. he received another 2u prbc's yesterday before and during angio. in angio, his right hepatic pseudoaneurysm was thrombosed and three coils were placed. this was the second time this year that this pseudoaneurysm bled and required intervention. the pt was admitted to the micu for observation post procedure overnoc. 
+
+pmh: invasive adenocarcinoma of the gb w/pt now receiving pallative chemotherapy (5fu/lekovorin-> pt has received 2 cycles); common bile duct stent placed during ercp; typeII dm; s/p appy; svt/afib now on amiodarone
+
+nkda
+
+review of systems
+
+respiratory-> lung sounds cta but diminished @bases. he is maintaining sats >95% on 3l cannula. denies c/o sob.
+
+cardiac-> episode of afib in angio yesterday was self-limiting. pt has been in nsr w/rates 60-70's and no ectopy. he is currently receiving amiodarone and lopressor iv d/t gi bleeding. sbp range 130-160's.
+
+neuro-> a&ox3; pt is very pleasant and cooperative.
+
+gu-> a foley was placed in angio w/an initial output of 900cc. uo remains adequate.
+
+gi-> abd is soft, nontender w/+bs. he denies any n/v/d. repeat serial hcts have been stable s/p return from angio. no plans to transfuse for hct >25 at the present time. an ogt is in place but there has been no output. he is receiving a protonix qtt overnoc.
+
+endo-> pt is receiving sliding scale insulin qid for fs 200's.
+
+id-> blood cxs drawn [**2-26**] grew out gnr so the pt has been placed on iv abxs overnoc. he has been afebrile tonoc.
+
+dispo-> anticipate tx back to medicine in the morning if the pt remains stable.
+
+
+",,

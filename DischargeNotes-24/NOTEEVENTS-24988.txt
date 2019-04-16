@@ -1,0 +1,801 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+24988,6076,,,2526-03-30 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+ 
+ 
+ 
+Admission Date:  [**2526-3-30**]              Discharge Date:   [**2526-4-4**]
+ 
+Date of Birth:  [**2438-12-5**]             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Enalapril / Verapamil
+ 
+Attending:[**First Name3 (LF) 544**] 
+Chief Complaint:
+chest pain
+ 
+Major Surgical or Invasive Procedure:
+none
+ 
+History of Present Illness:
+THis is a 87 yo F who was transferred on OSH on balloon pump for 
+cardiogenic shock. 
+ 
+Pertinent Results:
+[**2526-3-30**] 06:09PM   GLUCOSE-172*
+[**2526-3-30**] 06:09PM   O2 SAT-72
+[**2526-3-30**] 05:29PM   GLUCOSE-221* UREA N-37* CREAT-1.5* SODIUM-144 
+POTASSIUM-5.8* CHLORIDE-109* TOTAL CO2-27 ANION GAP-14
+[**2526-3-30**] 05:29PM   CALCIUM-7.7* PHOSPHATE-4.9* MAGNESIUM-2.6
+[**2526-3-30**] 05:29PM   HCT-29.7*
+[**2526-3-30**] 12:35PM   GLUCOSE-130*
+[**2526-3-30**] 12:35PM   HGB-10.3* calcHCT-31 O2 SAT-71
+[**2526-3-30**] 11:58AM URINE  HOURS-RANDOM CREAT-74 TOT PROT-60 
+PROT/CREA-0.8*
+[**2526-3-30**] 11:58AM URINE  U-PEP-MULTIPLE P IFE-NO MONOCLO
+[**2526-3-30**] 11:57AM   GLUCOSE-142* UREA N-37* CREAT-1.3* 
+SODIUM-148* POTASSIUM-3.5 CHLORIDE-109* TOTAL CO2-29 ANION 
+GAP-14
+[**2526-3-30**] 11:57AM   ALT(SGPT)-28 AST(SGOT)-63* LD(LDH)-280* 
+CK(CPK)-436* ALK PHOS-62 AMYLASE-111* TOT BILI-0.2
+[**2526-3-30**] 11:57AM   LIPASE-28
+[**2526-3-30**] 11:57AM   CK-MB-41* MB INDX-9.4* cTropnT-1.53*
+[**2526-3-30**] 11:57AM   TOT PROT-5.1* ALBUMIN-3.3* GLOBULIN-1.8* 
+CALCIUM-7.7* PHOSPHATE-5.1* MAGNESIUM-1.7 IRON-28* CHOLEST-181
+[**2526-3-30**] 11:57AM   calTIBC-211* TRF-162*
+[**2526-3-30**] 11:57AM   TRIGLYCER-88 HDL CHOL-71 CHOL/HDL-2.5 
+LDL(CALC)-92
+[**2526-3-30**] 11:57AM   TSH-0.94
+[**2526-3-30**] 11:57AM   CORTISOL-26.0*
+[**2526-3-30**] 11:57AM   WBC-13.5* RBC-3.40* HGB-10.3* HCT-30.4* 
+MCV-89 MCH-30.2 MCHC-33.8 RDW-15.2
+[**2526-3-30**] 11:57AM   WBC-13.5* RBC-3.40* HGB-10.3* HCT-30.4* 
+MCV-89 MCH-30.2 MCHC-33.8 RDW-15.2
+[**2526-3-30**] 11:57AM   PLT COUNT-191
+[**2526-3-30**] 11:57AM   PT-13.2 PTT-32.9 INR(PT)-1.1
+[**2526-3-30**] 06:37AM   TYPE-ART TEMP-36.1 RATES-14/ TIDAL VOL-500 
+O2-100 PO2-239* PCO2-40 PH-7.40 TOTAL CO2-26 BASE XS-0 AADO2-436 
+REQ O2-75 INTUBATED-INTUBATED
+[**2526-3-30**] 06:37AM   O2 SAT-98
+[**2526-3-30**] 04:17AM   GLUCOSE-214* UREA N-33* CREAT-1.2* SODIUM-144 
+POTASSIUM-3.7 CHLORIDE-106 TOTAL CO2-28 ANION GAP-14
+[**2526-3-30**] 04:17AM   CK(CPK)-284*
+[**2526-3-30**] 04:17AM   CK-MB-32* MB INDX-11.3* cTropnT-1.83*
+[**2526-3-30**] 04:17AM   CALCIUM-7.9* PHOSPHATE-6.4* MAGNESIUM-1.7
+[**2526-3-30**] 04:17AM   WBC-13.6*# RBC-3.67* HGB-10.9* HCT-33.4* 
+MCV-91 MCH-29.6 MCHC-32.6 RDW-15.2
+[**2526-3-30**] 04:17AM   PLT COUNT-198
+[**2526-3-30**] 04:17AM   PLT COUNT-198
+[**2526-3-30**] 04:17AM   PT-13.3 PTT-39.8* INR(PT)-1.1
+ 
+Brief Hospital Course:
+This is a 87 female with history of peripheral vascular disease, 
+hypertension, atrial fibrillation who presented with cardiogenic 
+shock. She was found to have 3VD at cardiac catheterizsation 
+performed at [**Hospital1 **]. Her initial EF was 20% which recovered 
+slightly on a repeat echocardiogram with EF of 35-40% with 
+apical akinesis. She was continued on aspirin, metoprolol, 
+plavix and lipitor. Cardiac surgery was consulted for possible 
+revascularization but patient and family declined. SHe was 
+gradually weaned off ballon pump, milrinone and levophed. She 
+was started on hydralazine and nitroglycerin drip for pulmonary 
+hypertension. Pulmoanry embolism was considered but since 
+patient was already on heparin drip for atrial fibrillation, CTA 
+was deferred since patient was not stable enough for the scan. 
+She was also on amiodarone for paroxysmal atrial fibrillation. 
+She was extubated and was stable until [**2526-4-4**]. She was acutely 
+hypotensive with ischemic looking EKG. She most probably had 
+acute MI from her 3VD. Her family was with her and decided that 
+she would be made CMO. All pressors were withdrawn and she 
+passed away peacefully. 
+
+ 
+Discharge Disposition:
+Expired
+ 
+Discharge Diagnosis:
+cardiogenic shock from acute MI
+ 
+Discharge Condition:
+expired
+
+ 
+                             [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **] MD [**MD Number 551**]
+ 
+Completed by: [**Name6 (MD) 2247**] [**Name8 (MD) 2248**] MD [**MD Number 2249**] [**2526-4-9**] @ 0936
+Signed electronically by: DR. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **]
+ on: WED [**2526-5-8**] 12:51 AM
+(End of Report)
+
+
+",,
+24988,6076,,,2526-03-30 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2526-3-30**] 4:58 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 8152**]
+     Reason: please assess IABP placement                                
+     Admitting Diagnosis: CONGESTIVE HEART FAILURE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      87 year old woman with IABP                                                     
+     REASON FOR THIS EXAMINATION:
+      please assess IABP placement                                                    
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  IABP placement.
+     
+     PORTABLE CHEST, ONE VIEW:  Comparison [**2523-5-27**].  The radiopaque portion of the
+     IABP is just below the level of the aortic knob.  There is an ET tube 6 cm
+     above the carina.  There is a Swan-Ganz type catheter placed via the IVC, with
+     the tip in the region of the main pulmonary artery.  No pneumothorax is seen.
+     
+     The heart is mildly enlarged.  There are multi focal patchy alveolar opacities
+     bilaterally.  Differential includes multifocal infection or slightly
+     asymmetric edema.  Clinical correlation is recommended.
+                                                                           
+
+",,
+24988,6076,31028,0,2526-03-30 05:07:00 EST,2526-03-30 05:10:00 EST,2254,"N",1,"Nursing/Other",,"
+
+Resp Care,
+Pt. admitted to CCU from OSH intubated with 7.5 ET taped at 20 lip. Placed on A/C 500 RR 14 100% 5peep. See carevue, peep off due to episode hypotension.
+",,
+24988,6076,31028,0,2526-03-30 07:09:00 EST,2526-03-30 07:28:00 EST,1628,"N",1,"Nursing/Other",,"
+
+NPN
+CCU
+0500-0700
+CARDIOGENIC SHOCK 
+THIS IS AN 87 YR OLD FEMALE BROUGHT TO OSH BY EMS WITH C/O'S OF ACUTE SOB .  EKG SHOWING ST ELEV INF/LAT .SHE WAS TACHYCARDIC, HYPERTENSIVE AND HYPOXIC. SHE WAS TREATED WITH LASIX, NTG AND LOPRESSOR AND WAS BROUGHT TO THE CATH LAB. SHE WAS NOTED TO HAVE 60%LM..70% RCA  80% LAD WITH 2+ MR. [**First Name (Titles) 1460**] [**Last Name (Titles) **] SWAN AND 34CC IAB WERE INSERTED DUE TO HEMODYNAMIC INSTABILITY. SHE DECOMPENSATED AFTER THE CATH AND WAS INTUBATED. SHE ARRIVED TO THE CCU AT 0500. THE PARAMEDICS  HAD WEANED HER DOPA BY HER ARRIVAL TO [**Hospital1 3**].
+
+CV HR 60-100'S  AFIB ..IAB REMAINS ON 1:1 MODE WITH GOOD AUGMENTATION BUT ONLY FAIR UNLOADING.PLEASE SEE CAREVIEW FOR IAB NUMBERS AND TRENDS. TITRATING PRESSORS AS MAPS ALLOWED. PRESENTLY ON .375 OF MILRINONE AND 5 MCGSOF DOPA WITH HEPARIN AT 400 U/HR. POOR CARDIAC OUTPUT DESPITE PRESSOR AND IAB SUPPORT. MILRINONE BOLUS AND INFUSION BEGUN.
+
+RESP ON AC MODE AT A RATE OF 14..100%..TV OF 500 ..LUNGS WITH CXS [**1-14**] BILAT ..EXP WHEEZES.  ETT TAPED AT 21 AT LIP ..SUCTIONED TIMES ONE FOR SMALL AMOUNT OF WHITE SXNS 
+
+GI GNT VIA LEFT NARE ..OUTPUT WITH SMALL AMOUNT OF COFFEE GROUNDS ..BOWEL SOUNDS PRESENT ..NO STOOL ..
+
+GU 1500 CC  POSITIVE ..BUT WITHOUT URINE OUTPUT ..CREAT 1.2..1200 CC POS SINCE ADMIT TO CCU 
+
+HEME HCT 33..
+
+A HEMODYNAMIC INSTABILITY REQUIRING FULL VENT / PRESSOR  AND IAB SUPPORT 
+
+RECHECK MIXED VENOUS ABG ON CURRENT MILRINONE DOSE ..FOLLOW PA NUMBERS 
+
+
+",,
+24988,6076,31028,0,2526-03-30 18:29:00 EST,2526-03-30 18:59:00 EST,2143,"N",1,"Nursing/Other","ccu nuring progress note","
+ccu nuring progress note
+pls see carevue flowsheet for complete vs/data/events
+
+s: orally intubated.
+o: id: low grade temp. bld cultures sent x1. started levofloxacin for suspicion of rll infiltrate.
+cv: intially weaned dopa to 3mcg w stable bp. milrinone cont at .375. in mid afternoon after turning pt she began coughing, agitated, trying to sit up. rec'd v sm bolus 2cc propofol. soon after this bp dropped w maps hi 40s. req dopa^, 1st briefly and attempted to quickly wean back to previous dose but bp trended down again and pt now remains on dopa at 6mcg. 
+ci remains stable at 3.5. 
+pap 40/15-22. mv sat 70-72.
+maps 50-90. fair unloading.
+hr 80-100sr w freq apcs. occ pvcs. k,mg and ca repleted.
+cks ^423. 3rd pend.
+r and l fem sites d/i. pulses all by doppler. feet cool and v pale.
+integrillin dc'd this am. cont on heparin. ptt 39 and ^'d 500units/hr from 400. hct 30.
+
+resp: changed to psv 8/5. tv 350-400, rr 13-18. 50% and 5 peep. sat >95%. awaiting intern to obtain stick for abg.
+sxn'd x 1 for sm amt bldy sputum.
+
+gi: aspirate from ngt frankly bloody. given meds and clamped this am. hct remains stable. tf on hold d/t concern of gib. no stool. abd soft.
+
+gu: uop 10-30cc/hr. cr 1.2. 
+
+skin: intact. has bleeding from l nare(ngt site) which has slowed now off integrillin.
+
+social: dtr and [**Name2 (NI) 432**] visited. pt is widowed. dtr [**Name (NI) 564**] is the health care proxy. spoke w rn and dr [**Last Name (STitle) **]. 
+
+a: cont to req dopa, on milrinone/iabp.
+tol psv.
+p: follow hemodynamics. check ptt this eve. plan wean and dc iabp in am, then vent in afternoon. med for comfort. support to pt and family.
+",,
+24988,6076,31028,0,2526-03-30 19:15:00 EST,2526-03-30 19:18:00 EST,2235,"N",1,"Nursing/Other",,"
+
+RESPIRATORY CARE: PT REMAINS ON VENTILATORY SUPPORT.
+RSBI WAS 40 THIS AM. CHANGED TO PS 8/.50/5 AND WAS
+ABLE TO STAY ON THOSE SETTINGS ALL DAY BREATHING
+COMFORTABLY. PROBABLE EXTUBATION IN AM.
+",,
+24988,6076,31028,,2526-03-31 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2526-3-31**] 7:46 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 8153**]
+     Reason: please eval for interval change                             
+     Admitting Diagnosis: CONGESTIVE HEART FAILURE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       87 year old woman with COPD, IABP, ? PNA                                       
+                    
+     REASON FOR THIS EXAMINATION:
+      please eval for interval change                                                 
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  COPD.  IABP.  Assess for change.
+     
+     PORTABLE SUPINE AP CHEST, ONE VIEW:
+     
+     COMPARISON:  [**2526-3-30**].
+     
+     There is an ET tube 6 cm above the carina.  There is an NG tube with tip in
+     the stomach.  The side port is in the region of the GE junction.
+     
+     There is an IABP with inferior aspect of radiopaque portion, 6.5 cm inferior
+     to the superior aspect of the aortic knob.  There is a Swan-Ganz catheter
+     placed via the IVC with tip in the region of the main pulmonary artery.  There
+     is no pneumothorax.
+     
+     The heart is enlarged.  There are bilateral predominantly perihilar opacities.
+     Appearances of the lung have improved since 1 day prior, suggesting that the
+     findings represent edema rather than multifocal infection.  There is linear
+     atelectasis at the left base.  There are no pleural effusions.
+     
+
+",,
+24988,6076,31028,,2526-03-31 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2526-3-31**] 4:35 PM
+     CHEST (PORTABLE AP); -76 BY SAME PHYSICIAN                      [**Name Initial (PRE) 232**] # [**Clip Number (Radiology) 8154**]
+     Reason: Please confirm line placement, eval for pneumo              
+     Admitting Diagnosis: CONGESTIVE HEART FAILURE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        87 year old woman with COPD, IABP, ? PNA, S/P  COORDIS PLACEMENT              
+                                              
+     REASON FOR THIS EXAMINATION:
+      Please confirm line placement, eval for pneumo                                  
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Central line placement.
+     
+     PORTABLE AP CHEST, ONE VIEW:  Since the study of 8-1/2 hours earlier, there
+     has been interval removal of the IVC catheter and interval placement of a
+     right IJ sheath and Swan-Ganz catheter with the tip in the main/right
+     pulmonary artery.  There is no pneumothorax.  There is an NG tube with
+     sideport at the level of the diaphragm and tip in the stomach.  There is an
+     IABP with inferior aspect of the radiopaque portion 5.5 cm above the superior
+     aspect of the aortic knob.  There is an ET tube just below the thoracic inlet,
+     7 cm above the carina.
+     
+     There is slight interval increase in density at the left base, likely
+     representing atelectasis.  The remainder of the lungs are unchanged.
+                                                                           
+
+",,
+24988,6076,31028,,2526-03-31 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2526-3-31**] 4:35 PM
+     CHEST (PORTABLE AP); -76 BY SAME PHYSICIAN                      [**Name Initial (PRE) 232**] # [**Clip Number (Radiology) 8154**]
+     Reason: Please confirm line placement, eval for pneumo              
+     Admitting Diagnosis: CONGESTIVE HEART FAILURE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        87 year old woman with COPD, IABP, ? PNA, S/P  COORDIS PLACEMENT              
+                                              
+     REASON FOR THIS EXAMINATION:
+      Please confirm line placement, eval for pneumo                                  
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Central line placement.
+     
+     PORTABLE AP CHEST, ONE VIEW:  Since the study of 8-1/2 hours earlier, there
+     has been interval removal of the IVC catheter and interval placement of a
+     right IJ sheath and Swan-Ganz catheter with the tip in the main/right
+     pulmonary artery.  There is no pneumothorax.  There is an NG tube with
+     sideport at the level of the diaphragm and tip in the stomach.  There is an
+     IABP with inferior aspect of the radiopaque portion 5.5 cm above the superior
+     aspect of the aortic knob.  There is an ET tube just below the thoracic inlet,
+     7 cm above the carina.
+     
+     There is slight interval increase in density at the left base, likely
+     representing atelectasis.  The remainder of the lungs are unchanged.
+                                                                           
+
+",,
+24988,6076,31028,0,2526-03-31 04:46:00 EST,2526-03-31 04:48:00 EST,2254,"N",1,"Nursing/Other",,"
+
+Resp Care,
+Pt. remains intubated currently on A/C. Changes to A/C mode overnoc due to decreased RR on IPS after sedation. See carevue. RSBI 163 this am. Maintain current vent settings.
+",,
+24988,6076,31028,0,2526-03-31 05:07:00 EST,2526-03-31 05:32:00 EST,1628,"N",1,"Nursing/Other",,"
+
+NPN
+CCU
+7 PM - 7 AM
+HEMODYNAMIC INSTABILITY IN THIS  ELDERLY FEMALE WITH 3VD RQUIRING IAB/VENT AND PRESSOR SUPPORT 
+ORALLY INTUBATED AND SEDATED ON FENT/VERSED 
+CV MULTIPLE EPISODES OF HYPOTENSION REQUIRING TITRATION OF PRESSOR SUPPORT ..ONE SELF LIMITING EPISODE OF RAPID AFIB IN THE 150'S ..RESPONDING TO CAROTID MASSAGE BY DR [**Last Name (STitle) 5354**]
+CONTINUES ON IAB SUPPORT ..1:1 MODE ..ASSISTED SYSTOLE 90-110'S..AUGMENTED DIASTOLE 80-90'S..BAEDP 40-60'S..MAPS IN THE 70'S..SUCCESSFUL IV AMIODARONE LOAD OF 150 MG OVER ONE HOUR D/T NUMEROUS EPISODES OF RAPID AFIB AND SUBSEQUENT HYPOTENSION..BUT ONE HOUR AFTER AMIODARONE INFUSION OF ONE MG/MIN..PT BECAME ACUTELY HYPOTEN. AND WAS BRIEFLY NO NEOSYNEPHRINE ..DOPA GTT IS OFF ..BETTER PRESSURE MAINTAINED WITH LOW DOSE LEVOPHED ..AND AMIODARONE INFUSION STOPPED..CONTINUES ON MILRINONE AT .375 .CG/KG/MIN..HEPARIN AT 500 U/HR ..PADS 20-25
+RESP IV SEDATION CHANGED TO VERSED ( 2MG ) AND FENTANYL ( 25 MCGS ) ..THUS PT WITH DECREASED RESP EFFORT/MV ..THUS MODE CHANGED TO AC ..50%..TV 500 WITH A RATE 14 ..INFREQUENT OVERBREATHING ..SUCTIONED TIMES 2 FOR SMALL AMOUNT OF OLD BLDY SXNS ..LUNGS WITH BRONCHIAL BREATH SOUNDS ..EXP WHEEZES ...
+GI NGT VIA LEFT NARE DRAING SMALL AMOUNTS OF COFFEE GROUND MATERIAL ..TUBE FEEDS ON HOLD IN ANTICIPATION OF EXTUBATION ..NO STOOL
+GU MINIMAL TO ABSENT URINE OUTPUT Q1 HOUR ..CREAT UP TO 1.7..2200 CC POSITIVE AT MIDNIGHT 
+HEME HCT 28.5..ACTIVE CLOT IN BB .
+BILAT GROIN DSG INTACT WITHOUT HEMATOMA 
+FEET COOL L>R ..PULSES DOPPLERABLE 
+NEURO..GRIMACING TO TURNING/SUCTIONING ..FAINT EFFORT TO BRING HANDS TOWARD MOUTH ..OPENING EYES TO NAME CALLED 
+DR [**Last Name (STitle) 5354**] CALLED PATIENT'S DAUGHTER ( [**Name (NI) **] ) WITH OVERALL UPDATE AND PLAN OF CARE ..PROXY TOLD TEAM THAT HER MOTHER WOULD NOT WANT HEROIC MEANS TO SUSTAIN HER LIFE ..THUS PROXY MADE [**Name2 (NI) **] PATIENT A DNR/DNI..DR 
+[**Last Name (STitle) **] AWARE AND AGREED WITH CHANGE IN CODE STATUS.
+ATTEMPT WILL BE MADE TO EXTUBATE OR REMOVE IAB TODAY 
+",,
+24988,6076,31028,0,2526-03-31 18:49:00 EST,2526-03-31 19:06:00 EST,2143,"N",1,"Nursing/Other","ccu nursing progress note","
+ccu nursing progress note
+pls see carevue flowsheet for complete vs/data/events
+s: orally intubated, sedated
+o: cv: remains in sr w freq apcs. amiodarone gtt resumed at 2pm at 1mg/hr. to dec to .5mg/hr at 8pm. bp tol well. overall hemodynamics more stable, part after pt rec'd 1u prbcs for hct down to 26.4.
+new pa site in r ij. cvp 11, pa 45-50/25-28, w 16. remains on milrinone now sl decreased to .25mcg/kg and levophed adjusted for bp .08-.20. iabp weaned and pulled at 535pm. hemostasis by 1815. also r fem venous sheath dc'd. sites are d/i. pulses are now by doppler and feet much warmer r>l. for most of day was unable to obtain all but the r pt pulse.
+heparin was held as off 2pm for iabp pull and pa placement. to resume at mn per fellow without a bolus.
+repeat hct pend after 1u prbcs.
+ck 400. 
+resp: remains on a/c now 400 x14, 50% and 5peep. sxn'd for scant secretions. plan to wean vent in am. cont levofloxacin for rll infiltrate.
+gi: cont w drk red o/p from ngt. clamped after am meds. no stool. abd soft.
+gu: uop 10-15cc/hr. cr ^1.8. attempting to optimize filling pressures w transfusion and hope w bp support uop and cr improve.
+ms: sedated on fentanyl and versed infusions, very low dose. occ req boluses w interventions during the day. appeared to interact w family and frustrated w inability to speak.
+social: family meeting w dr [**Last Name (STitle) **], resident, rn. discussed pt's multiple issues plan full support at present though dtr restates her mother would not want cpr/shock and pt remains dnr.
+a: iabp dc'd. hct drop ? gi source. poor uop. 
+p: follow rhythm, hemodynamics, volume status, uop. adjust milrinone / levophed as indicated. plan to wean vent in am. provide support to pt and family.
+",,
+24988,6076,31028,,2526-04-01 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2526-4-1**] 12:28 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 8155**]
+     Reason: acute respiratory distress-please eval for ASpn/CHF         
+     Admitting Diagnosis: CONGESTIVE HEART FAILURE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+         87 year old woman with COPD, IABP, ? PNA, S/P  COORDIS PLACEMENT             
+                                                
+     REASON FOR THIS EXAMINATION:
+      acute respiratory distress-please eval for ASpn/CHF                             
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     COMPARISON:  [**2526-3-31**].
+     
+     INDICATION:  Respiratory distress.
+     
+     There has been interval extubation and apparent removal of an intra-aortic
+     balloon pump.  A Swan-Ganz catheter remains in place, advanced in the interval
+     into the distal portion of the right interlobar pulmonary artery.  Cardiac and
+     mediastinal contours are stable.  Bibasilar opacities are again demonstrated
+     with slight worsening in the right lower lobe.  There are also probable small
+     persistent bilateral pleural effusions.
+     
+     IMPRESSION:  Patchy bibasilar opacities with interval increase in right lower
+     lobe.  These findings may relate to atelectasis, but aspiration or developing
+     pneumonia cannot be excluded, particularly in the right lower lobe.
+                                                                           
+
+",,
+24988,6076,31028,0,2526-04-01 04:21:00 EST,2526-04-01 04:25:00 EST,2254,"N",1,"Nursing/Other",,"
+
+Resp Caer,
+Pt. remains intubated on A/C overnoc. Sedation decreased, pt. woke up and placed on IPS5. VT only 100's RR 20's so IPS increased to 10. RSBI 147 this am. Pt. appears anxious, plan to extubtate this am.  
+",,
+24988,6076,31028,0,2526-04-01 06:36:00 EST,2526-04-01 06:58:00 EST,1628,"N",1,"Nursing/Other",,"
+
+NPN
+CCU
+7 PM - 7 AM
+CHEST PAIN /3VD
+CV MILRINONE STOPPED AT 8 PM...AMIODARONE DECREASED TO .5 MG ..SEDATION ( FENTANYL AT 25 MCG..VERSED 1 MG/HR ) STOPPED AT 0300..AWAKE AT 0400..PLACED ON [**10-16**] PRESSURE SUPPORT AT THIS TIME  ..RR 24-26..TV 360-480..EXTUBATED AT 0515 ..PLACED ON 50% COOL NEB ..POST EXTUBATION ABG PNDG  ...DISPLAYING POOR SHORT TERM MEMORY POST EXTUBATION...PULLING OFF 02..ATTEMPTING TO SELF D/C SWAN ...DESPITE FREQUENT REMINDERS NOT TO DO SO..WRISTS RESTRAINED ..5 MG OF IV HALDOL GIVEN ..
+CV HR 80-90'S ..SINUS..SBP 130-150'S/50'S..PAD 22-26..CVP 9-11
+GI NGT D/C'D WITH EXTUBATION..PASSING FLATUS ..NO STOOL
+GU SOME BRISK..BRIEF URINE OUTPUT WITH HIGHER BLOOD PRESSURES 
+BILATERAL GROIN DSG INTACT WITHOUT DRAINAGE ..FEET WARM 
+POST EXTUBATION CONFUSION 
+P SEDATE/RESTRAIN FOR SAFETY AS NEEDED 
+",,
+24988,6076,31028,0,2526-04-01 14:34:00 EST,2526-04-01 14:58:00 EST,2143,"N",1,"Nursing/Other","ccu nursing progress note","
+ccu nursing progress note
+pls see carevue flowsheet for complete vs/data/events
+
+s: help me to breathe!
+o:  restless w multiple c/o discomfort this am. mostly focused on discomfort in arms, hands, neck(ij site). freq repositioned w this. around 12:30, approx 5min after pt rec'd iv hydralazine she became acutely sob and appeared in mod-severe distress. hr and bp ^. rr to 40. sats >95% on same o2(50% cn). abg 7.39/40/95. iv ntg had prev been started for htn so this was ^'d, 1mg mso4 given then haldol 2mg iv for agitation. stat cxr noted no new changes. rec'd neb. w all this acute sob improved and hr and bp returned to prev baseline.
+
+id: afeb. cont on levo for rll infiltrate.
+cv: sr w apcs. hr 70-80s at rest up to 140 w acute distress. bp 105-140/60-70, up to 150-170/60-70 w acute distress.
+heparin at 500u/hr. amiodarone at .5mg/min...will change to po when able. ntg gtt adjusted for bp.
+pa 50-60/22-30. cvp 2-15. w 18 this am.
+resp: rr 20s at rest. cont to c/o diff breathing after episode resolved though appears in no distress. sats >95% on cn face tent at 50%.
+gi: able to manage swabs and ice chips. will advance and assess ability to swallow as ms/resp stabilizes.
+requested bedpan and passed gas. no stool.
+gu: uop 40-100cc/hr. cr stable now at 2.2.
+ms: confused, restless. cont w many c/o discomfort. family v attentive, encouraged to not jump to address every complaint..ie., moving arm , hob, etc and encourage her to rest and relax.
+social: dtr, and numerous family members visiting today. 
+a: acute episode of resp distress. confusion.
+p: follow hemodynamics, volume status. assess for resp compromise. med for comfort. safety precautions. support to pt and family.
+",,
+24988,6076,31028,0,2526-04-01 21:56:00 EST,2526-04-01 22:24:00 EST,1641,"N",1,"Nursing/Other","CCU NPN 3-11PM","
+CCU NPN 3-11PM
+CV: HR 80-120NSR/ST, When HR up to 120 ECG done, showed ischemic changes: inverted t-waves V1-4, pt with increased restlessness and agitation, given 5mg IV lopressor, HR down to 70's, t-wave changes resolved, pt calmer. Started 12.5mg Lopressor po bid, changed hydralazine to po. Cont on IV NTG at 1mcg/kg/min. mCont on IV Amiodarone, BP running 130's/50's. Swan and cortis dc'd, has 3 peripheral lines(one new this eve after pt pulled one), Pt self dc'd a-line. Soft wrist restraints on since pt famliy gone home. R&L groin without bleeding or hematoma, DP's and PT's dopplerable. Hep restarted after 1 hr after cordis pulled, increased dose to 600units/hr, no bolus, recheck PTT at 0100. 
+
+Resp: sating 98% on 4L NC, LS clear, with crackles at bases bilaterally. RR 22-32.
+
+GI: tolerated sips of water, swallowing without difficulty, sitting fully upright, able to take pills. Tried to use bedpan for BM, stated it was too difficult to go like that. No BM. 
+
+GU: urine lytes sent. BUN/Cr 60/2.1, UO 30-40/hr.
+
+ID: afebrile, cont on po levo for rll infiltrate. Pt not coughing, no sputum, spec ordered but unable to get.
+
+Skin: intact.
+
+MS: knows she is in a hospital, recognizes family, perseverates in thoughts. Follows simple commands.
+
+Soc: daughter and granddaughter in, updated by RN/MD, went home for the night, would like to be called for any change for the worse and would come right in.
+
+A/P: 87 yr old s/p inf/lat MI, cath without intervention, cardiogenic shock on IABP, now off IABP, pressors. Wean IV NTG, converting meds to po, monitor responce, reorient freq, maintain pt safety. DNR/DNI. Support pt/family.
+",,
+24988,6076,31028,0,2526-04-02 05:26:00 EST,2526-04-02 06:07:00 EST,6280,"N",1,"Nursing/Other",,"
+
+CCU NPN: 2300-0700
+
+S: ""I'm okay ...""
+
+O: See CareVue flowsheet for complete assessment details
+
+CV: HR 80s-90s, SR w/ occ. PACs.  Occasionally irregular rhythm - A-fib - EKG obtained and house staff aware.  Amiodarone continues at 0.5mg/min.  SBP remains slightly elevated w/ SBP 130s-140s.  Nitroglycerin titrated to SBP/MAP < 80 - discussed w/ Dr. [**Last Name (STitle) 1314**].  One episode of respiratory distress at 2415 during which pt. c/o SOB w/o evidence of desaturation despite bibasilar crackles extending 1/2 up.  SBP elevated to 170s.  Dr. [**Last Name (STitle) 1314**] notified and pt. adm. 20mg Lasix IVP x2, 1mg Morphine sulfate IVP and Nitro titrated.  Episode lasted approx. 15 minutes.  Hct stable (transfused [**3-31**]) - AM: 30.2 (29.7).  WBC remains elevated at 12.0 although improved from [**3-31**] (13.9).  Remains anticoagulated w/ Heparin at 800u/hr - next PTT 0930.  K+ 3.7 this AM - repletion ordered when pt. agrees to take PO meds.  
+
+RESP: Lungs diminished w/ fine crackles appreciated bibasilarly.  O2 sats > 95% on 4L NC.  Episode of resp. distress (see above CV) resolved w/ Morphine, Nitroglycerin and Lasix.  Intermittent, weak cough - unable to expectorate sputum for specimen.  Antx continue for RLL infiltrate (poss. PNA).  Ipratropium changed to MDIs PRN.  
+
+GI/GU/ENDO: Abd. soft, non-tender, non-distended w/ active BS x4 quadrants.  Attempted BM x1 w/o results - flatus only. Able to take PO meds at 2400 w/o difficulty although currently refusing to take oral meds - house staff aware.  UOP improved w/ Lasix - 110-340cc/hr after Lasix dose.  -80cc for [**4-1**] and -788cc for [**4-2**] thus far.  BUN/Creat improved from [**4-1**] - AM: 59/1.8 (60/2.1).  Fasting serum BG in AM: 184 - Dr. [**Last Name (STitle) 1314**] notified - initiate FSQID/sliding scale insulin?
+
+NEURO: Pt. alert - dozing intermittently during night.  Initially oriented to self and ""hospital"" - became confused as night progressed - disoriented and refused to take oral meds.  Wrist restraints for safety.  First dose of Zyprexa adm. at 2400 [**4-2**].  Follows commands inconsistently.  Denies pain, discomfort - emotional support given.  
+
+A: Pt. w/ acute SOB w/ inferior and lateral ST elevations - S/P cath [**3-30**] w/ PA-line/IABP placement/intubation - no revascularization attempted at time (3VD).  ECHO showed akinesis of inferior/lateral/apical wall.  Continues to have episodes of SOB associated w/ hypertension and agitation - rate-related ischemia?  Remains on Nitroglycerin, Heparin and Amiodarone w/ Lasix-Morphine-Haldol PRN.  Episodes of agitation/confusion.  Antx for RLL infiltrate.  Elevated serum glucose levels.  Emotional support and comfort given.
+
+P: BP/ rate control - Nitroglycerin, Amiodarone - goal MAP <80.  Heparin - next PTT 0930.  Check Hg1AC or FSQID w/ elevated blood glucose?  Orientation and comfort to pt. - Haldol PRN, daily Zyprexa.  Antx as ordered.  Poss. CT-[**Doctor First Name **] consult for CABG?  Awaiting further plans from team.      
+",,
+24988,6076,31028,0,2526-04-02 19:12:00 EST,2526-04-02 19:24:00 EST,2143,"N",1,"Nursing/Other","ccu nursing progress note","
+ccu nursing progress note
+s: i shouldn't have run for the laundry!
+o: pls see carevue flowsheet for complete vs/data/events
+v lethargic this am. calling out dtr's name, confused. sleeping on and off. around 2pm finally opened eyes and conversed w family w intact pre-event memories. cooperative w care. very sweet, visiting w family.
+cv: in and out of afib this am. mostly sr by afternoon and all sr late in afternoon. hr 70-80s. w apcs. amiodarone cont at .5mg/min.
+cont on iv ntg titrated to bp. tol hydralazine at 50mg qid as well as lopressor. bp 110-140/50-60.
+heparin adjusted to 900units/hr according to scale. ptt pend this eve.
+hct stable.
+resp:  no episodes of sob today. 2l nc w sat 98%. rr 20-30, nonlabored. sl basilar cxs r>l.
+gi: started diet. was unable to swallow whole pills so they were crushed and placed in custard. occ coughs w water/juice. now limiting to soft solids which she did well w feeding assistance.
+no stool. abd benign.
+gu: uop 40-60cc/hr. cr 1.8. no lasix this shift goal even to 500-.
+skin: intact. assisted w position changes in bed.
+a: afib. ms improved. rhythm and bp stable. no resp compromise.
+p: cont to follow resp exam, rhythm, hemodynamics. follow ms, safety precautions. check ptt results. support to pt and family.
+
+",,
+24988,6076,31028,,2526-04-03 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2526-4-3**] 3:00 PM
+     CHEST (PORTABLE AP); -76 BY SAME PHYSICIAN                      [**Name Initial (PRE) 232**] # [**Clip Number (Radiology) 8158**]
+     Reason: assess NG placement                                         
+     Admitting Diagnosis: CONGESTIVE HEART FAILURE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+            87 year old woman with COPD, IABP, ? PNA, S/P  NG tube placement          
+       
+     REASON FOR THIS EXAMINATION:
+      assess NG placement                                                             
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  87-year-old woman with COPD, IABP, NG tube placement.
+     
+     TECHNIQUE:  Portable AP chest radiograph.
+     
+     The comparison is made with the prior chest radiograph taken approximately 1
+     hour earlier on the same day, [**2526-4-3**].
+     
+     FINDINGS:  Nasogastric tube is coursing down below the left hemidiaphragm, and
+     the tip is outside of her study.  Cardiac and mediastinal contours are
+     unchanged compared to the prior study.  Again note is made of left lower lobe
+     consolidation associated with effusion, slightly increased in size compared to
+     the prior study.  The patient's head is overlying the left apex, which limits
+     evaluation of this area. IABP mentioned in the history is not seen.
+     
+     IMPRESSION:  Slightly increased left lower lobe consolidation with effusion.
+      NG tube is coursing down below the left hemidiaphragm, the tip is outside
+     of the film.
+
+",,
+24988,6076,31028,,2526-04-03 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2526-4-3**] 3:00 PM
+     CHEST (PORTABLE AP); -76 BY SAME PHYSICIAN                      [**Name Initial (PRE) 232**] # [**Clip Number (Radiology) 8158**]
+     Reason: assess NG placement                                         
+     Admitting Diagnosis: CONGESTIVE HEART FAILURE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+            87 year old woman with COPD, IABP, ? PNA, S/P  NG tube placement          
+       
+     REASON FOR THIS EXAMINATION:
+      assess NG placement                                                             
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  87-year-old woman with COPD, IABP, NG tube placement.
+     
+     TECHNIQUE:  Portable AP chest radiograph.
+     
+     The comparison is made with the prior chest radiograph taken approximately 1
+     hour earlier on the same day, [**2526-4-3**].
+     
+     FINDINGS:  Nasogastric tube is coursing down below the left hemidiaphragm, and
+     the tip is outside of her study.  Cardiac and mediastinal contours are
+     unchanged compared to the prior study.  Again note is made of left lower lobe
+     consolidation associated with effusion, slightly increased in size compared to
+     the prior study.  The patient's head is overlying the left apex, which limits
+     evaluation of this area. IABP mentioned in the history is not seen.
+     
+     IMPRESSION:  Slightly increased left lower lobe consolidation with effusion.
+      NG tube is coursing down below the left hemidiaphragm, the tip is outside
+     of the film.
+
+",,
+24988,6076,31028,,2526-04-03 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2526-4-3**] 1:21 PM
+     CHEST (PORTABLE AP); -76 BY SAME PHYSICIAN                      [**Name Initial (PRE) 232**] # [**Clip Number (Radiology) 8157**]
+     Reason: please eval tubes and lines                                 
+     Admitting Diagnosis: CONGESTIVE HEART FAILURE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+           87 year old woman with COPD, IABP, ? PNA, S/P  NG tube placement           
+     REASON FOR THIS EXAMINATION:
+      please eval tubes and lines                                                     
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  87-year-old woman with COPD, pneumonia.
+     
+     TECHNIQUE:  Portable AP chest radiograph.
+     
+     The comparison is made to the prior chest radiograph dated [**2526-4-3**],
+     taken approximately 7 hours earlier on the same day.
+     
+     FINDINGS:  Again note is made of prominent right paratracheal contour,
+     unchanged compared to the prior studies, which probably representing vascular
+     structure.  Cardiac and mediastinal contours are within normal limits.  Note
+     is made of slight decrease of left lower lobe consolidation with effusion,
+     probably representing resolving pneumonia.  Tubes and lines mentioned in the
+     requisition are not identified.
+     
+     IMPRESSION:  Tubes and lines as mentioned in the requisition are not
+     identified.  Decrease of left lower lobe consolidation with effusion, probably
+     representing improving pneumonia.
+                                                                           
+
+",,
+24988,6076,31028,,2526-04-03 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2526-4-3**] 7:13 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 8156**]
+     Reason: please eval for interval change                             
+     Admitting Diagnosis: CONGESTIVE HEART FAILURE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+          87 year old woman with COPD, IABP, ? PNA, S/P  COORDIS PLACEMENT            
+                                                  
+     REASON FOR THIS EXAMINATION:
+      please eval for interval change                                                 
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  COPD with IADP question pneumonia status post Cordis placement.
+     
+     COMPARISON:  [**2526-4-1**].
+     
+     AP PORTABLE SUPINE CHEST:  There are no support lines or tubes identified,
+     although the history states that there are multiple.  Several linear
+     interfaces project over the right hemithorax, which probably represents skin
+     folds.  There is again noted left retrocardiac opacity with decreased opacity
+     in the right lower lobe.  Atelectasis or aspiration versus superimposed
+     pneumonia.
+                                                                           
+
+",,
+24988,6076,31028,,2526-04-03 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2526-4-3**] 1:21 PM
+     CHEST (PORTABLE AP); -76 BY SAME PHYSICIAN                      [**Name Initial (PRE) 232**] # [**Clip Number (Radiology) 8157**]
+     Reason: please eval tubes and lines                                 
+     Admitting Diagnosis: CONGESTIVE HEART FAILURE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+           87 year old woman with COPD, IABP, ? PNA, S/P  NG tube placement           
+     REASON FOR THIS EXAMINATION:
+      please eval tubes and lines                                                     
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  87-year-old woman with COPD, pneumonia.
+     
+     TECHNIQUE:  Portable AP chest radiograph.
+     
+     The comparison is made to the prior chest radiograph dated [**2526-4-3**],
+     taken approximately 7 hours earlier on the same day.
+     
+     FINDINGS:  Again note is made of prominent right paratracheal contour,
+     unchanged compared to the prior studies, which probably representing vascular
+     structure.  Cardiac and mediastinal contours are within normal limits.  Note
+     is made of slight decrease of left lower lobe consolidation with effusion,
+     probably representing resolving pneumonia.  Tubes and lines mentioned in the
+     requisition are not identified.
+     
+     IMPRESSION:  Tubes and lines as mentioned in the requisition are not
+     identified.  Decrease of left lower lobe consolidation with effusion, probably
+     representing improving pneumonia.
+                                                                           
+
+",,
+24988,6076,31028,0,2526-04-03 04:59:00 EST,2526-04-03 05:41:00 EST,6280,"N",1,"Nursing/Other",,"
+
+CCU NPN: 7p-7a
+
+S: ""Leave me alone - [**Doctor First Name **] people are nuts!""
+
+O: See CareVue flowsheet for complete assessment details
+
+NEURO: Initially pt. alert and oriented to self and place.  However, as evening progressed, pt. developed confusion and agitation- combative behavior - yelling, hitting and scratching nursing staff.  Orientation provided and soft wrist restraints applied for safety.  Adm. 1mg Haldol IVP w/ no effects - continued to demonstrate combative behavior which led to HR 130s, A-fib w/ hypertension and SOB.  Adm. additional 4mg Haldol (for total of 5mg) w/ adequate effects.  Pt. slept quietly thereafter - responsive to verbal and non-verbal stimuli.  Refused to take oral meds despite encouragement.
+     
+CV: HR 70s-80s, SR w/ occ. PACs.  Pt. w/ one episode of HR 130s, A-fib w/ BP 160/70 assoc. w/ agitation and combative behavior.  Adm. 5mg Lopressor IVP, Nitroglycerin infusion titrated, and pt. adm. Haldol w/ adequate response.  Dr. [**Last Name (STitle) 1596**] aware.  Amiodarone continues at 0.5mg/min.  Otherwise BP stable - SBP 120s-130s, MAP 60s-80s.  Denies chest pain.  Bilateral groin sites stable - D/I.  Anticoagulated on Heparin w/ adjustments made per sliding scale.  AM Hct: 26.7 (30.2 [**4-2**]).  AM lytes pending.
+
+RESP: Lung fields w/ scattered coarse breath sounds and fine crackles bibasilarly.  Tolerating 2-4L NC w/ O2 sats: > 95%. Pt. w/ c/o SOB during episode of acute agitation which resolved w/ comfort and 20mg Lasix IVP.  Resolving PNA - WBC stable - AM: 12.0 (12.0 [**4-2**]).  AM CXR ordered.
+
+GI/GU/ENDO: Abd. soft, non-tender, non-distended.  BS active x4 quadrants.  No PO intake during night as pt. refused.  Attempted BM x1 w/ no results.  UOP 30-140cc/hr - received 20mg Lasix w/ moderate results after episode of agitation/SOB.  Output: -650cc [**4-2**] and -170cc [**4-3**] thus far.  Refused FS at hs - plan to check this AM.  Sliding scale coverage as indicated.  
+
+A: Presented w/ acute SOB w/ lat/inf ST elevations - S/P cath [**3-30**] w/ PA-line placement/IABP/intubation - 3VD w/o revascularization.  (C-[**Doctor First Name **] consulted and pt. refused surgery).  ECHO revealed akinesis of inf/lat/apical walls.  Continues to have episodes of SOB/agitation assoc. w/ rapid A-fib, hypertension - rate-related ischemia?  Responsive to current regimen - requiring Haldol and Lasix PRN.  Safety precautions.  Emotional support and comfort given.
+
+P: Continue to monitor respiratory and mental status.  Maintain safety precautions.  Transition IV meds to oral meds [**4-3**]?  Next PTT 1030 [**4-3**].  FSQID w/ sliding scale coverage.  Frequent re-orientation and emotional support/comfort.  Follow Hct - repeat in AM?  Awaiting further plans from team.       
+
+   
+",,
+24988,6076,31028,0,2526-04-03 17:00:00 EST,2526-04-03 17:35:00 EST,1563,"N",1,"Nursing/Other","CCU NPN","
+CCU NPN
+S: ""I'm just tired""
+O: please see carevue for all objective data.
+neuro: very lethargic, sleeping most of am, arousable to stimuli. More awake throughout day,conversant, usually oriented x2, cooperative, but frequently falling back to [**Doctor Last Name **]. MAE. 
+cv: hr 70-97 sr w/ frequent apc's.bp 115-133/48-65, ntg weaned to off, started on imdur. Started on po amiodarone and iv will be d/c at 1800. Heparin continues at 850u/hr w/ theraputic ptt. k 3.3 this am, repleted w/ 60 meq kcl.
+resp: sats 98-100% on 4lnp.
+gi: d/t lethargy ngt placed to give po meds. taking sm amt po's, ie custard, mashed potatoes. No stool
+gu: foley draining cyu, 20-50cc/hr, given lasix 20 mg at 1700.Currently ~ 150cc +
+id: afebrile.
+end: bs 159-249, covered per RISS
+heme: hct this am 26.7, transfused w/ 1 u prbc, to be completed ~ 1800.
+skin: intact
+A: lethargic, but cooperative and oriented x2 (not time). hemodynamically stable, sr, tolerating change from iv-> po meds. hct drop requiring transfusion. ngt inserted to give po meds. bs elevated requiring RISS coverge.
+P: monitor rhythm, bs, response to change in cv meds,response to diuresis. give haldol at bedtime and monitor MS. F/U hct, lytes ~ 2000.
+",,
+24988,6076,31028,,2526-04-04 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2526-4-4**] 4:49 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 8161**]
+     Reason: rule out infection, pulm edema                              
+     Admitting Diagnosis: CONGESTIVE HEART FAILURE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      87 year old woman with cardiogenic shock with increasing hypoxia, and 
+      hypotension.            
+     REASON FOR THIS EXAMINATION:
+      rule out infection, pulm edema                                                  
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Cardiogenic shock, increasing hypoxia and hypotension.
+     
+     COMPARISON:  [**2526-4-3**].
+     
+     SINGLE VIEW CHEST, AP:  There is a persistent left-sided pleural effusion with
+     reactive atelectasis.  The lungs are otherwise clear.  The NG tube terminates
+     below the diaphragm in the stomach.  The cardiac, mediastinal and hilar
+     contours are stable.
+     
+     IMPRESSION:  Slight improvement in left lower lobe consolidation with
+     effusion.
+     
+
+",,
+24988,6076,31028,,2526-04-04 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2526-4-4**] 11:31 AM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 8159**]
+     Reason: Please assess for intracranial hemorrhage                   
+     Admitting Diagnosis: CONGESTIVE HEART FAILURE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      87 year old woman with change in mental status post MI                          
+     REASON FOR THIS EXAMINATION:
+      Please assess for intracranial hemorrhage                                       
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT  (REVISED)
+     INDICATION:  Recent mental status changes.
+     
+     COMPARISON:  None.
+     
+     TECHNIQUE:  Noncontrast CT of the head.
+     
+     FINDINGS:  The right temporal lobe tip shows some loss of the grey-white
+     differentiation, although there is some artifact in that region.  No
+     hydrocephalus, shift of normally midline structures, intra- axial or extra-
+     axial hemorrhage is seen. Well- demarcated hypodensities in the right
+     subinsular white matter probably represent old lacunar infarcts. Also seen are
+     lacunar infarcts on the left, and white matter changes in the corona radiata
+     of both cerebral hemispheres, right greater than left. Soft tissue structures
+     are remarkable for scleral buckles on both anterior eyes, and a soft tissue
+     density in the right anterior maxilla, likely a polyp versus mucous retention
+     cyst.  Other imaged sinuses are clear. Osseous structures are unremarkable.
+     
+     IMPRESSION:  No acute intracranial hemorrhage.   Possible right temporal lobe
+     loss of grey-white differentiation, which may indicate an early infarction. If
+     clinically indicated, an MRI may be obtained for better evaluation of this
+     region.
+     
+
+",,
+24988,6076,31028,,2526-04-04 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2526-4-4**] 2:02 PM
+     UNILAT UP EXT VEINS US RIGHT                                    Clip # [**Clip Number (Radiology) 8160**]
+     Reason: PT WITH RUE SWELLING, R/O DVT, INFECTION
+     Admitting Diagnosis: CONGESTIVE HEART FAILURE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      87 year old woman with swollen right arm, fevers                                
+     REASON FOR THIS EXAMINATION:
+      Please assess for DVT, infection                                                
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Right upper extremity swelling.
+     
+     No studies available for comparison.
+     
+     Grayscale, color, and pulse Doppler examination of the right IJ, right
+     subclavian, right axillary, and right brachial veins was performed.  Grayscale
+     images of the right cephalic and right basilic veins was performed.  There is
+     normal flow, compressibility, and waveforms of the right jugular, right
+     axillary, and right brachial veins.  No evidence of thrombus in the right
+     subclavian, right cephalic, and right basilic veins.
+     
+     IMPRESSION:  No evidence of right upper extremity DVT.
+                                                                           
+
+",,
+24988,,31028,0,2526-04-04 06:38:00 EST,2526-04-04 06:48:00 EST,1865,"N",1,"Nursing/Other",,"
+
+NEURO: SOMULENT BUT AROUSABLE TO STIMULI. STATES SHE IS VERY TIRED & WEAK. HALDOL HELD AT HS.
+
+RESP: O2->4L NP. O2 SAT 98-100%. RR 21-28. BS CLEAR BUT DIMINISHED AT BASES. DENIES SOB.
+
+CARDIAC: HR 73-89 SR, NO ECTOPY. BP 87-143/47-66. SBP BRIEFLY IN 80'S AFTER MIDNOC DOSE ISORDIL & HYDRALAZINE. HEPARIN GTT INFUSING AT 850U/HR. PTT 46.7. HEPARIN GTT INCREASED TO 950U/HR PER PROTOCOL. POST-TRANSFUSION HCT 29.4. K 4.2, MG 2.3. DENIES CP.
+
+GI: NGT IN PLACE FOR MEDS. ABD. SOFT. BS+. NO STOOL.
+
+GU: FOLEY->CD PATENT & DRAINING CLEAR YELLOW-AMBER URINE. U/O 15-100CC/HR. BUN/CREAT 67/1.9.
+
+ID: AFEBRILE. CONT. ON PO LEVOFLOX X2 MORE DOSES.
+
+ENDO: BS 209 X2->COVERED PER SLIDING SCALE.
+
+AM LABS PENDING.
+",,
+24988,,31028,0,2526-04-04 18:12:00 EST,2526-04-04 18:19:00 EST,1563,"N",1,"Nursing/Other","CCU NPN","
+CCU NPN
+Pt becoming increasingly more somnulent throughout the day w/ ^ RR, decreasing sats, hypotension. CT scan done -> ? infarct. EKG-> global st ^. Decision made by family to make pt CMO. Morphine gtt started for comfort. Family at the bedside.
+",,
+24988,,31028,0,2526-04-04 19:03:00 EST,2526-04-04 19:06:00 EST,1563,"N",1,"Nursing/Other",,"
+
+addendum
+Pt expired at 1900. Gold colored band on left fourth finger, unable to remove. Otherwise all belongings taken home by family.
+",,

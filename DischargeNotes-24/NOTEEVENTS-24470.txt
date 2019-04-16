@@ -1,0 +1,928 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+24470,19342,,,2724-11-16 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+ 
+ 
+ 
+Admission Date:  [**2724-11-16**]              Discharge Date:   [**2724-11-23**]
+ 
+Date of Birth:  [**2644-12-19**]             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Amiodarone / Quinidine / Procainamide / Quinine / Codeine
+ 
+Attending:[**First Name3 (LF) 1482**] 
+Chief Complaint:
+hypotension, hyperkalemia
+ 
+Major Surgical or Invasive Procedure:
+Hemodialysis catheter placement
+ 
+History of Present Illness:
+Mr. [**Known patient lastname 5437**] is a 78-year-old male with a history of ventricular 
+fibrillation arrest in [**2702**], status post ICD placement, dilated 
+cardiomyopathy,
+atrial fibrillation, hypertension, and CVA who presented to the 
+[**Hospital1 25**] ED complaining of 8 lb weight gain with increased edema of 
+LE over one week despite compliance with medications.  Decreased 
+po intake over past week.  No SOB, chest pain, syncope, fatigue. 
+Found to be hypotensive and hyperkalemic in the ED.  ROS 
+positive for epistaxis (was taking Afrin for this), occasional 
+nausea and nonbloody/nonbilious vomitting. 
+ 
+Past Medical History:
+1.  Ventricular fibrillation arrest in [**2702**] - has had ICD
+placement.
+2.  Dilated cardiomyopathy.  Echocardiogram in [**2720-1-21**]
+showed an ejection fraction of 20% with inferoapical
+hypokinesis plus right ventricular hypokinesis.
+3.  Atrial fibrillation, status post DC cardioversion in
+[**2708**], on coumadin.
+4.  Hypertension.
+5.  Hypothyroidism.
+6.  Cerebral vascular accident in [**2711**].
+7.  Rheumatoid arthritis.
+8.  Positive lupus anticoagulant.
+
+ 
+Social History:
+Mr. [**Known patient lastname 5437**] lives with his wife.  He denies any tobacco or drug 
+use.  He does note occasional alcohol use.
+
+ 
+Physical Exam:
+T 97.0.  Blood pressure 84/54.  Heart rate 81.  Respiratory rate 
+10.  Oxygen
+saturation 100% on RA.  In general, in no acute
+distress, alert and oriented times three, overweight man.  Head, 
+eyes, ears, nose and throat:  Normocephalic, atraumatic.  Pupils 
+are equal,
+round, and reactive to light and accommodation.  Oropharynx
+is pink without lesions, mucous membranes dry. Nares with dry 
+blood.  Neck is supple.  Unable to determine JVD secondary to 
+excess soft tissue at neck.  No lymphadenopathy.  Chest clear to 
+auscultation
+bilaterally.  Cardiovascular:  RRR, S1, S2
+are faint.  A 2/6 systolic ejection murmur at the apex.
+Abdomen soft, nontender, nondistended.  Extremities:  1+
+pitting edema bilaterally.  No clubbing or cyanosis.
+Dorsalis pedis pulses are 1+ bilaterally.  Neurologically,
+alert and oriented times three.  Cranial nerves II through
+III are intact.  Strength is [**3-26**] in upper and lower
+extremities bilaterally.  Sensation to light touch is intact.
+Deep tendon reflexes are decreased bilaterally but equal.
+
+ 
+Pertinent Results:
+[**2724-11-16**] 01:30PM   PT-25.5* PTT-56.8* INR(PT)-4.1
+[**2724-11-16**] 01:30PM   NEUTS-94.2* BANDS-0 LYMPHS-2.3* MONOS-3.0 
+EOS-0.4 BASOS-0
+[**2724-11-16**] 01:30PM   WBC-10.0 RBC-2.45*# HGB-8.1*# HCT-24.3*# 
+MCV-99* MCH-33.0* MCHC-33.3 RDW-15.5
+[**2724-11-16**] 01:30PM   DIGOXIN-0.3*
+[**2724-11-16**] 01:30PM   TSH-3.3
+[**2724-11-16**] 01:30PM   calTIBC-267 FERRITIN-786* TRF-205
+[**2724-11-16**] 01:30PM   ALBUMIN-4.0 CALCIUM-8.5 PHOSPHATE-10.8*# 
+MAGNESIUM-2.3 IRON-104
+[**2724-11-16**] 01:30PM   CK-MB-22* MB INDX-3.7 cTropnT-0.36*
+[**2724-11-16**] 01:30PM   LIPASE-96*
+[**2724-11-16**] 01:30PM   ALT(SGPT)-38 AST(SGOT)-46* CK(CPK)-595* ALK 
+PHOS-192* AMYLASE-137* TOT BILI-0.6
+[**2724-11-16**] 01:30PM   GLUCOSE-123* UREA N-272* CREAT-5.4*# 
+SODIUM-126* POTASSIUM-7.5* CHLORIDE-92* TOTAL CO2-16* ANION 
+GAP-26*
+[**2724-11-16**] 02:02PM   LACTATE-1.8 K+-7.5*
+[**2724-11-16**] 02:02PM   TYPE-[**Last Name (un) 93**] PO2-60* PCO2-42 PH-7.21* TOTAL 
+CO2-18* BASE XS--10 COMMENTS-GREEN TOP
+[**2724-11-16**] 03:54PM   K+-6.6*
+[**2724-11-16**] 05:00PM URINE  RBC-1 WBC-2 BACTERIA-FEW YEAST-NONE 
+EPI-4
+[**2724-11-16**] 05:00PM URINE  BLOOD-NEG NITRITE-NEG PROTEIN-TR 
+GLUCOSE-NEG KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-5.0 
+LEUK-NEG
+[**2724-11-16**] 05:00PM URINE  COLOR-Straw APPEAR-Clear SP [**Last Name (un) 223**]-1.011
+[**2724-11-16**] 05:00PM URINE  U-PEP-MULTIPLE P IFE-NO MONOCLO 
+OSMOLAL-371
+[**2724-11-16**] 05:00PM URINE  HOURS-RANDOM UREA N-577 CREAT-89 
+SODIUM-27 TOT PROT-15 PROT/CREA-0.2
+[**2724-11-16**] 10:40PM   PT-33.0* PTT-150* INR(PT)-6.9
+[**2724-11-16**] 10:40PM   PLT COUNT-79*
+[**2724-11-16**] 10:40PM   WBC-7.4 RBC-2.52* HGB-8.2* HCT-24.1* MCV-96 
+MCH-32.7* MCHC-34.2 RDW-15.2
+[**2724-11-16**] 10:40PM   PEP-NO SPECIFI
+[**2724-11-16**] 10:40PM   calTIBC-264 HAPTOGLOB-143 FERRITIN-761* 
+TRF-203
+[**2724-11-16**] 10:40PM   TOT PROT-6.6 CALCIUM-8.1* PHOSPHATE-5.2*# 
+MAGNESIUM-1.8 URIC ACID-3.4 IRON-90
+[**2724-11-16**] 10:40PM   CK-MB-20* MB INDX-3.9 cTropnT-0.34*
+[**2724-11-16**] 10:40PM   LD(LDH)-326* CK(CPK)-517* TOT BILI-0.7
+[**2724-11-16**] 10:40PM   GLUCOSE-140* UREA N-135* CREAT-2.8*# 
+SODIUM-137 POTASSIUM-4.0 CHLORIDE-98 TOTAL CO2-26 ANION GAP-17
+ 
+Brief Hospital Course:
+In ED, noted to have renal failure, K+ 7.5 with EKG changes, 
+given HCO3, 1L IVF, insulin, kayexelate, and transferred to 
+MICU.  
+.  
+In MICU, interrogation of ICD showed no VT or VF but multiple 
+episodes of NSVT. Pt tolerated two treatments of HD for 
+uremia/hyperkalemia. He was started on 
+hydrocortisone/fludrocortisone for adrenal insufficiency. Pt was 
+evaluated for retroperitoneal hematoma/femoral hematoma w/ 
+femoral US/Abd CT which and showed femoral hematoma. He received 
+3 units of PRBCs for decreased HCT and femoral hematoma. [**11-18**] 
+during HD treatment, pt developed VT w/ recurrent ICD shocks, 
+rhythm converted to VF, received lidocaine and amiodarone 
+boluses, ICD was reprogrammed. Pt then transferred to CCU 
+service for further observation.  While in the CCU pt had 
+further episodes of VT and so antiarrhythmic regimen was 
+changed.  
+Patient became hypotensive in am of [**2724-11-22**] felt to be septic 
+secondary to line sepsis from femoral cath. Patient started on 
+Neo for pressure support. Patient mental status continued to 
+deteriorate throughout day and into night. After lengthy 
+discussion with family,family wished to make patient CMO. 
+Patient ICD was turned off on [**2724-11-22**] so it would still pace but 
+would not intervene if patient had arrythmia. Patient kept on 
+morphine drip for comfort and all other meds d/c'd. The patient 
+became more hypotensive and expired on [**2724-11-23**]. 
+ 
+Medications on Admission:
+Home meds: lasix 120 bid, prilosec, diovan 80, coumadin, 
+allopurinol 100, synthroid 25, prednisone 5, aldactone, dig 
+.125, astelin 
+ 
+Discharge Medications:
+NA
+ 
+Discharge Disposition:
+Expired
+ 
+Discharge Diagnosis:
+NA
+ 
+Discharge Condition:
+NA
+ 
+Discharge Instructions:
+NA
+ 
+Followup Instructions:
+NA
+ 
+                             [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 136**] MD [**MD Number 137**]
+ 
+Completed by: [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **] MD [**MD Number 3105**] [**2724-11-27**] @ 1208
+Signed electronically by: DR. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) **]
+ on: WED [**2724-12-3**] 1:18 PM
+(End of Report)
+
+
+",,
+24470,19342,,,2724-11-16 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2724-11-16**] 4:42 PM
+     RENAL U.S. PORT                                                 Clip # [**Clip Number (Radiology) 2897**]
+     Reason: r/o obstruction, evaluate kidneys                           
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      79 year old man with acute renal failure, uremic encephalopathy.                
+     REASON FOR THIS EXAMINATION:
+      r/o obstruction, evaluate kidneys                                               
+     ______________________________________________________________________________
+     WET READ: SGA SUN [**2724-11-16**] 5:52 PM
+      no hydronephrosis
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Acute renal failure, uremic encephalopathy.  Rule/out
+     obstruction.
+     
+     COMPARISON:  None.
+     
+     RENAL ULTRASOUND:  The right kidney measures 13.3 cm.  The left kidney
+     measures 14.0 cm.  There is no evidence of obstruction or hydronephrosis. This
+     study is somewhat limited in evaluation of renal masses.  Note is made of
+     multiple bilateral renal cysts.  The largest within the lower pole of the
+     right kidney measures 2.8 cm.  The largest within the left kidney in the upper
+     pole, measures 5.9 cm.
+     
+     IMPRESSION:  Limited study shows no evidence of hydronephrosis bilaterally.
+
+",,
+24470,19342,,,2724-11-16 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2724-11-16**] 1:58 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 2896**]
+     Reason: eval for chf                                                
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      79 year old man with hypotehrmia, cough                                         
+     REASON FOR THIS EXAMINATION:
+      eval for chf                                                                    
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Hypothermia, cough, question CHF.
+     
+     Chest, single AP portable view.
+     
+     Allowing for lordotic positioning, there is marked cardiomegaly, slightly
+     worse than on [**2723-11-23**].  The aorta is calcified and unfolded.  A left-sided
+     dual-lead pacemaker is present, with lead tips over right atrium and right
+     ventricle.  There is subsegmental atelectasis at both bases similar to that
+     seen on [**11-25**].  Upper zone redistribution, without overt CHF.  No gross
+     effusion.  Doubt consolidation.  An additional set of electric wires overlies
+     the left costophrenic angle -- question related to abandoned pacemaker.  On
+     today's examination, there is more hazy opacity over the left lower zone, it
+     is not clear whether this relates to artifact, fat pad, or pleural thickening.
+     Doubt layering effusion, but attention to this area on followup films is
+     requested.  The entire superior mediastinum is prominent, likely related to
+     vascular structures in this individual.  The hila are probably also prominent,
+     but not well delineated due to the cardiomegaly.
+     
+     IMPRESSION:
+     
+     Marked cardiomegaly.  Bibasilar atelectasis.  No CHF or consolidation.
+     
+     
+
+",,
+24470,19342,30378,,2724-11-17 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2724-11-17**] 1:14 PM
+     CT ABDOMEN W/O CONTRAST; CT PELVIS W/O CONTRAST                 Clip # [**Clip Number (Radiology) 2900**]
+     Reason: please eval for retroperitoneal bleed                       
+     Admitting Diagnosis: ACUTE RENAL FAILURE;ANEMIA;HYPOGLYCEMIA
+     Field of view: 42
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      79 year old man with back pain, lupus anticoagulant, [**Doctor First Name **] on CRI with placement 
+      of femoral line and hematoma at line site
+     REASON FOR THIS EXAMINATION:
+      please eval for retroperitoneal bleed                                           
+     CONTRAINDICATIONS for IV CONTRAST:
+      [**Doctor First Name **]
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CT SCAN OF THE ABDOMEN AND PELVIS WITHOUT ORAL OR IV CONTRAST, [**2724-11-17**]:
+     
+     INDICATION:  Evaluate for retroperitoneal bleed.
+     
+     TECHNIQUE:  CT scan of the abdomen and pelvis was obtained without oral or IV
+     contrast, and compared with the ultrasound of the kidneys performed one day
+     earlier.  No prior CT is available.
+     
+     CT ABDOMEN W/IV CONTRAST:  Small bilateral pleural effusions are identified,
+     with mild bibasilar dependent atelectasis.  The heart is enlarged, with pacer
+     leads in place.  Note is made of subcutaneous wires within the left flank,
+     probably representing temporary pacing leads.
+     
+     The unenhanced liver appears grossly unremarkable, except for 2 to 3 punctate
+     calcifications along the under-surface of the left lobe, possibly representing
+     calcified granulomas.  The gallbladder has been removed.  The pancreas,
+     adrenals and spleen are unremarkable. 
+     
+     Hypodense lesions are seen within both kidneys, which cannot be further
+     characterized by CT, though ultrasound performed one day earlier demonstrates
+     multiple renal cysts, however, ultrasound examination is reported to be
+     limited for the evaluation of renal masses.
+     
+     There is trace ascites.  The stomach and small bowel appear unremarkable.
+     
+     CT PELVIS WITHOUT IV CONTRAST:  There is extensive diverticulosis of the
+     sigmoid colon, without evidence of acute diverticulitis.
+     
+     There is trace free fluid within the pelvis.  A Foley catheter is identified.
+     There may be minimal thickening of the bladder wall, however, the bladder is
+     not fully distended.  The prostate contains calcifications posteriorly.  The
+     seminal vesicles appear unremarkable.
+     
+     No evidence of retroperitoneal hematoma.
+     
+     There is mild diffuse soft tissue stranding within the right groin, suggestive
+     of recent intervention.  No hematoma is identified within the right groin.  A
+     central line is identified within the left common femoral vein.
+                                                                 (Over)
+
+     DATE: [**2724-11-17**] 1:14 PM
+     CT ABDOMEN W/O CONTRAST; CT PELVIS W/O CONTRAST                 Clip # [**Clip Number (Radiology) 2900**]
+     Reason: please eval for retroperitoneal bleed                       
+     Admitting Diagnosis: ACUTE RENAL FAILURE;ANEMIA;HYPOGLYCEMIA
+     Field of view: 42
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     
+     BONE WINDOWS:  No suspicious bony lesions.  Degenerative changes are seen
+     within the spine.
+     
+     IMPRESSION:
+     1)  No evidence of intra or retroperitoneal hemorrhage.
+
+",,
+24470,19342,30378,,2724-11-17 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2724-11-17**] 8:44 AM
+     FEMORAL VASCULAR US RIGHT                                       Clip # [**Clip Number (Radiology) 2899**]
+     Reason: eval for pseudoaneurysm                                     
+     Admitting Diagnosis: ACUTE RENAL FAILURE;ANEMIA;HYPOGLYCEMIA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      79 year old man with uremia, ARF, hyperkalemia s/p HD now with expanding 
+      femoral hematoma
+     REASON FOR THIS EXAMINATION:
+      eval for pseudoaneurysm                                                         
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Status post hemodialysis, now with expanding femoral hematoma.
+     Evaluate for pseudoaneurysm.
+     
+     COMPARISON:  None.
+     
+     FINDINGS:  [**Doctor Last Name **] scale and color Doppler sonography was performed of the right
+     common femoral vein and artery, superficial femoral vein and artery, and deep
+     femoral vein and artery.  Normal waveform, compressibility, and flow was
+     identified.  No intraluminal thrombus is seen.  No pseudoaneurysm or AV
+     fistula is identified.
+     
+     IMPRESSION:  No AV fistula or pseudoaneurysm is identified in the right groin.
+
+",,
+24470,19342,30378,,2724-11-17 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2724-11-17**] 6:13 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 2898**]
+     Reason: evaluate for effusions.                                     
+     Admitting Diagnosis: ACUTE RENAL FAILURE;ANEMIA;HYPOGLYCEMIA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       79 year old man with hypotehrmia, cough                                        
+     REASON FOR THIS EXAMINATION:
+      evaluate for effusions.                                                         
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Hypothermia and cough, evaluate for effusions.
+     
+     FINDINGS:
+     
+     The AP single chest view obtained with the patient's semi-erect position, and
+     is analyzed from direct comparison with a similar study obtained on [**11-16**].  There is no significant interval change.  Mild cardiomegaly remains
+     possible upper zonal redistribution pattern in the lungs, but no acute
+     parenchymal infiltrates.  The lateral pleural sinuses are free and the diffuse
+     density overlying the left lower thorax is probably related to increased soft
+     tissue below the pacemaker.  Small amount of pleural effusions can of course
+     not be excluded in the single view and if this is necessary, lateral view
+     would solve such question.
+     
+     IMPRESSION:
+     
+     Stable cardiomegaly.  No increase of congestive pattern or any new
+     infiltrates.
+                                                                           
+
+",,
+24470,19342,30378,,2724-11-17 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2724-11-17**] 1:14 PM
+     CT ABDOMEN W/O CONTRAST; CT PELVIS W/O CONTRAST                 Clip # [**Clip Number (Radiology) 2900**]
+     Reason: please eval for retroperitoneal bleed                       
+     Admitting Diagnosis: ACUTE RENAL FAILURE;ANEMIA;HYPOGLYCEMIA
+     Field of view: 42
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      79 year old man with back pain, lupus anticoagulant, [**Doctor First Name **] on CRI with placement 
+      of femoral line and hematoma at line site
+     REASON FOR THIS EXAMINATION:
+      please eval for retroperitoneal bleed                                           
+     CONTRAINDICATIONS for IV CONTRAST:
+      [**Doctor First Name **]
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CT SCAN OF THE ABDOMEN AND PELVIS WITHOUT ORAL OR IV CONTRAST, [**2724-11-17**]:
+     
+     INDICATION:  Evaluate for retroperitoneal bleed.
+     
+     TECHNIQUE:  CT scan of the abdomen and pelvis was obtained without oral or IV
+     contrast, and compared with the ultrasound of the kidneys performed one day
+     earlier.  No prior CT is available.
+     
+     CT ABDOMEN W/IV CONTRAST:  Small bilateral pleural effusions are identified,
+     with mild bibasilar dependent atelectasis.  The heart is enlarged, with pacer
+     leads in place.  Note is made of subcutaneous wires within the left flank,
+     probably representing temporary pacing leads.
+     
+     The unenhanced liver appears grossly unremarkable, except for 2 to 3 punctate
+     calcifications along the under-surface of the left lobe, possibly representing
+     calcified granulomas.  The gallbladder has been removed.  The pancreas,
+     adrenals and spleen are unremarkable. 
+     
+     Hypodense lesions are seen within both kidneys, which cannot be further
+     characterized by CT, though ultrasound performed one day earlier demonstrates
+     multiple renal cysts, however, ultrasound examination is reported to be
+     limited for the evaluation of renal masses.
+     
+     There is trace ascites.  The stomach and small bowel appear unremarkable.
+     
+     CT PELVIS WITHOUT IV CONTRAST:  There is extensive diverticulosis of the
+     sigmoid colon, without evidence of acute diverticulitis.
+     
+     There is trace free fluid within the pelvis.  A Foley catheter is identified.
+     There may be minimal thickening of the bladder wall, however, the bladder is
+     not fully distended.  The prostate contains calcifications posteriorly.  The
+     seminal vesicles appear unremarkable.
+     
+     No evidence of retroperitoneal hematoma.
+     
+     There is mild diffuse soft tissue stranding within the right groin, suggestive
+     of recent intervention.  No hematoma is identified within the right groin.  A
+     central line is identified within the left common femoral vein.
+                                                                 (Over)
+
+     DATE: [**2724-11-17**] 1:14 PM
+     CT ABDOMEN W/O CONTRAST; CT PELVIS W/O CONTRAST                 Clip # [**Clip Number (Radiology) 2900**]
+     Reason: please eval for retroperitoneal bleed                       
+     Admitting Diagnosis: ACUTE RENAL FAILURE;ANEMIA;HYPOGLYCEMIA
+     Field of view: 42
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     
+     BONE WINDOWS:  No suspicious bony lesions.  Degenerative changes are seen
+     within the spine.
+     
+     IMPRESSION:
+     1)  No evidence of intra or retroperitoneal hemorrhage.
+
+",,
+24470,19342,30378,0,2724-11-17 06:13:00 EST,2724-11-17 06:25:00 EST,5861,"N",69,"Nursing/Other",,"
+
+Pt received from EW at approx 2000. Had been feeling under the weather for last two weeks pta. Increased shortness of breath, 8lb wt increase, nonproductive cough, falls. In ER Hypotensive 70's-80's/50's (baseline is 90's systolic). Core temp 95.0. BUN 272 Cr 5.4 K+ 7.5 (given bicarb and kayexelate in ER). 
+
+Neuro: A+Ox3 pleasant/cooperative, MAE, follows commands PERRL, c/o [**3-1**] pain in knee which is not new pain. Pt has trouble quantifying data. Has tremors at times which has improved since admission per pt and wife. 
+
+Resp: Lung sounds rhonchorous at times, Had violent coughing fit this eve where he 'dry heaved' up a large quanity of sputum. He has been doing this for last couple of weeks. O2 sats in high 90's on 1.5L O2 via n/c. 
+
+Cardiac: Frequent ectopy on cardiac monitor throughout night, Ca and Mg repletion given with no change in heart rhythm. Hypotensive throughtout night with 500cc NS boluses x4 with brief relief. Pt is hypotensive with afib at baseline. Usually has systolic b/p in 90's. No complaints of sob, or cp. Cardiac markers elevated however. EF is 30%. 
+
+Heme: Pt is quite coagulopathic with consistently elevated markers all night. PTT 150, INR 2.9 post 3 units platelets and two doses of Desmopressin Acetate. HCT 23.6 after 2uprbc during evening. Ordered for another unit ffp and 2 more units prbc, platelets running. 
+
+GI: Abd soft/distended with postive bowel sounds, liquid stool x2 trace guiac positive. 
+",,
+24470,19342,30378,0,2724-11-17 06:27:00 EST,2724-11-17 06:35:00 EST,5861,"N",69,"Nursing/Other",,"
+
+Nursing note contd:
+
+GU: Pt emergently dialyzed during evening for grossly elevated lytes and BUN/Cr. Improved post treatment (see carevue for data). U/O decreased as low as 6ml/hr. After NS boluses u/o approx 60ml/hr. yellow/clear. Foley patent. 
+
+Derm/access: 18g iv x2 1 in each arm both patent. HD cath site with blood through dressing. Pt has large hematoma in R groin area from failed attempt at HD cath placement prior. Pressure dressing applied. Pt ordered for u/s to assess blood flow. Pt also has small skin breaks to lower legs (rash?)no pain or itching. Venodynes on. Color is pale. Pt also has urea flakes covering areas of skin. 
+
+Social: wife at bedside all night. Concerned/pleasant. 
+
+Plan: Follow heme status closely, Monitor respiratory status and u/o closely, HD again today, replete blood products as needed. Monitor for s/sx of internal bleeding. 
+",,
+24470,19342,30378,0,2724-11-17 16:30:00 EST,2724-11-17 16:44:00 EST,1741,"N",69,"Nursing/Other","MICU A NSG 7A-7PM","
+MICU A NSG 7A-7PM
+RESP--PT CONTS ON 1.5L NC WITH O2 SATS 90-100%. LUNGS WITH DIMINISHED BS IN LEFT LUNG FIELDS.  
+
+CV--CONTS IN AFIB WITH VENT PACED BEAT AND OCCAS TO FREQ PVC'S. CARDS TEAM HERE TO INTEROGATE ICD/PACER, HAD NOT FIRED FOR VT/VF. SET IN DDD MODE WITH RATE 75. BP HYPOTENSIVE THIS AM, IMPROVED AFTER 2U PC'S.  BEDSIDE ECHO DONE, RESULTS PENDING. NO CHANGE IN RIGHT GROIN HEMATOMA FROM MARKED AREA, U/S AND RESULTS PENDING. ABD/PELVIS CT DONE TO R/O RETROPERITONEAL BLEED, SCAN NEG FOR BLEED.  (+) 1 EDEMA IN LOWER LEGS NOTED, R>L. WAFFLE BOOTS APPLED FOR C/O HEEL PAIN WITH GOOD RELIEF. REMAINS WITH LOW TEMP, 95-96.5, EXTRA BLANKETS APPLIED. RECEIVED 2U PC THIS AM WITH REPEAT HCT 29 AND PLT COUNT 95. REPEAT INR PENDING. PT WITH MULTIPLE AREAS OF BRUISING ALL OVER BODY AND PETTICHIAE ON FACE.
+
+GI--PT NPO EXCEPT FOR MEDS. ABD DISTENDED BUT SOFT, WITH GOOD BS. DENIES ABD PAIN.  
+
+GU--HD TREATMENT THIS AM, TOL WELL, 2L REMOVED. U/O TRENDING TO THIS AFTERNOON AND RECEIVED 500CC NS BOLUS. K 3.4 AFTER HD, AWAITING REPEAT BEFORE TREATING. 
+
+SOCIAL--WIFE IN AT BEDSIDE THROUGHOUT SHIFT, UPDATED ON PT'S PLAN OF CARE. SW CONSULTED AND MET WITH WIFE FOR SUPPORT.
+
+   
+",,
+24470,19342,30378,,2724-11-18 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2724-11-18**] 4:02 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 2901**]
+     Reason: Please eval for acute cardiopulmonary process               
+     Admitting Diagnosis: ACUTE RENAL FAILURE;ANEMIA;HYPOGLYCEMIA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        79 year old man with VT s/p multiple shocks cough                             
+                 
+     REASON FOR THIS EXAMINATION:
+      Please eval for acute cardiopulmonary process                                   
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Ventricular tachycardia, status post multiple shocks.  Cough.
+     
+     COMPARISON:  [**2724-11-17**].
+     
+     
+     CHEST, AP PORTABLE SEMI-UPRIGHT VIEW:  The heart and mediastinal contours are
+     unchanged.  There is increased upper zone redistribution within the pulmonary
+     vasculature compared to the prior study.  New perihilar airspace opacities are
+     present.  These findings are consistent with congestive heart failure.  There
+     is no significant pleural effusion.  An ICD device is again seen in the left
+     chest wall, with one lead terminating in unchanged position in the right
+     atrium and the second lead terminating in unchanged position in the right
+     ventricle.  The visualized osseous structures appear unremarkable.
+     
+     IMPRESSION:
+     
+     Interval worsening of congestive heart failure.
+                                                                           DFDkq
+
+",,
+24470,19342,30378,0,2724-11-18 04:13:00 EST,2724-11-18 04:55:00 EST,1771,"N",69,"Nursing/Other","pmicu npn 7p-7a","
+pmicu npn 7p-7a
+
+
+   despite multiple blood transfusions yesterday, there was no change in the pt's hct. he is currently being transfused with his 4th unit of prbc's over the past 24hrs. the pt does have bibasilar rales with a positive tfb for his los. his o2 requirements have increased over the course of the noc. the micu team was made aware and the pt received 20mg iv lasix at 4am. 
+
+review of systems
+
+respiratory-> as noted above, the pt's lung exam is notable for bibasilar rales. his supplemental o2 was increased to 5l via cannula d/t desaturation on 1.5 liters. he is currently maintaining sats >92% and consistently denies sob.
+
+cardiac-> hr 70-80's, v-paced w/mfpvc's. underlying rhythm continues in afib. sbp ranging 90-100's. of note, cpk's are trending downward @ 319/mb of 11.
+
+neuro-> alert and oriented although rather lethargic, sleeping most of the shift except when stimulated. he is mae and is assisting w/his care as he is able, but he has poor activity tolerance.
+
+gi-> abd is soft, distended w/+bs. he remains npo except for meds. -bm overnoc. serial hcts remains ~28 despite 4u prbc's over the past 24hrs. right groin hematoma w/o change and there are no overt signs of bleeding. coagulapathy resolved.
+
+gu-> arf likely d/t hypoperfusion/cardiomyopathy. creat ^3.1(from 2.9 post dialysis yesterday). uop since mn has been at least 30cc/hr, but he completed yesterday ~400cc tfb positive despite uf of 2 liters. he is ~2 liters tfb positive for his los. 
+
+access-> #20 angios in either arm w/excellent blood returns. a quinton catheter is located in his left femerol site.
+
+social-> pt's wife left with one of her son's late last noc. no further contact overnoc.
+",,
+24470,19342,30378,0,2724-11-18 16:21:00 EST,2724-11-18 16:56:00 EST,2720,"N",69,"Nursing/Other",,"
+
+MICU Nursing Progress/Transfer Note MICU> CCU.
+79 y/o w/ extensive PMHx: CAD, pacemaker, AICD, CRI, lupus anticoagualtion syndrome= pancytopenia.
+Admitted [**11-16**] via ED after 2 weeks of prod cough,SOB,^ 8lbs, falls. Arrived ED 80/50, K=7.5, ^BUN/Cr- 272/5.4, hct 24, INR 4.1. Hx of pancytopenia w/lupus and antiarry rx, now stable w/ no antiarry use and AICD in place.
+Over past 36 hours: HD x2(UF rate 12/26 neg 1.7L,[**11-17**]-neg 2.0, [**11-18**] neg .9L aborted due to VT); tx 4u PRBC, plt, DDAVP, FFP. +2L for LOS, not tolerated well by pt at present. Attempting diuresis/ UF today.
+[**11-17**] cardiac echo=ef < 20%, LA/ RA dilitation, mod TR/MR.
+
+Neuro-
+Very pleasant,compliant and cooperative, A&O male. MAE, FC, lethargic today.
+CV-REnal/Electrolyte shifts
+Mult episode of VT and Vf w/ shock by AICD( approx 15-18x) occurring 1hour into HD/UF today @ 1055-1130. EP eval pt, re-interigate AICD, rate 75^90- VVI, shock rate >130. bolus w/ lido, gtt @ 1mg/min. Underlying rhythm = Afib. Pt alert throughout episode, sat 88-92% on 6L NC in setting of crackles [**11-23**]^ bilat. Stable x20-30min, then recurrance of VT/ Vf w/ AICD shock- re-interigate and rate ^100, w/ addition amiodarone.
+HD stopped w/ 1st episode, labs done K=2.9,(from 4.4 w/ 4am labs) 20 KCL given- 1250 =4.0, Mg 1.7- 2gr Mgso4 given 1250=3.3.
+BP throughout 92-103/50-55 via [**Last Name (LF) 1301**], [**First Name3 (LF) **] in place reading [**9-5**] points lower that NBP. Using NBP for reading.
+HR 100 paced -130-150 VT/Vf.strips in chart.
+Enzymes serialized on admission and declining. 319/11 today. R/O MI- probable demand ishcemia.
+This am given lasix 20mg @4am w/ min u/o; 40 mg @8am w/ 100u/o, 80mg @ 1600 w/ u/o 40cc. Usual dose 120mg po bid. 
+Heme-
+Admission hct 24, tx 4u prbc, post 28.2. INR 4.1-tx w/ FFP, DDAVP. Has lupus anticoag syndrome and probable pancytopenia from rx. 5pm labs to be done.
+REnal-
+Quiten cath attempted R groin [**11-16**] w/o success and hematoma present. ? enlarging [**11-17**]> ABD CT to r/o retroperitoneal bleed. Not found. Pressure DSD in place R groin. Quiten cath in L groin- patent, used this am- flush w/aborting of HD/UF.
+REsp- 
+RR 18-26 on 6L+ .40 facetent. Crackles [**11-23**] bilat, dusky lips. ABG 7.37-7.35/45/80-318 (on NRB) w/ sat 96%.
+Social-
+Wife, 9 children. All appropriately concerned re; pt status. Using visitor limits to ensure pt rest.
+A/P
+79 y/o male w/ extensive endstage cardiac disease w/ AICD, pacer, poor valve and atrial fx. 
+Episodes of VT/VF today during fluid/lyte shift of HD/UF, no contrlled w/ new AICD settings. cont Lido 1mg/min gtt, Amiod 1mg/min gtt
+Fluid overloaded despite diuresis attempt
+Cont to inform pt and familyof status and plan.
+",,
+24470,19342,30378,,2724-11-19 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2724-11-19**] 1:06 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 2902**]
+     Reason: interval change                                             
+     Admitting Diagnosis: ACUTE RENAL FAILURE;ANEMIA;HYPOGLYCEMIA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+         79 year old man with VT s/p multiple shocks cough                            
+                   
+     REASON FOR THIS EXAMINATION:
+      interval change                                                                 
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     Portable chest [**11-19**] compared to [**11-18**].
+     
+     CLINICAL INDICATION:  Cough.
+     
+     FINDINGS:
+     
+     An ICD remains in place.  There is stable marked cardiac enlargement and
+     persistent vascular engorgement and perihilar haziness.  There is also a
+     probable small right pleural effusion, although exclusion of the extreme right
+     costophrenic sulcus limits assessment of this region.  With this exception,
+     there is otherwise no significant change.
+     
+     IMPRESSION:
+     
+     1).  Persistent congestive heart failure.
+     
+     2).  Possible small right pleural effusion.  Repeat studies to include the
+     right costophrenic angle would be helpful to better assess this region.
+
+",,
+24470,19342,30378,,2724-11-19 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2724-11-19**] 2:03 PM
+     VENOUS DUP EXT UNI (MAP/DVT)                                    Clip # [**Clip Number (Radiology) 2903**]
+     Reason: venous mapping for fistula                                  
+     Admitting Diagnosis: ACUTE RENAL FAILURE;ANEMIA;HYPOGLYCEMIA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      79 year old man with CHF, VFib, ESRD.                                           
+     REASON FOR THIS EXAMINATION:
+      venous mapping for fistula                                                      
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     STUDY:  Upper extremity venous duplex.
+     
+     REASON:  Vein map for AV fistula.
+     
+     FINDINGS:
+     
+     Duplex evaluation was performed of the left upper extremity.  The subclavian
+     vein was patent with normal respiratory phasicity.  The brachial artery was
+     patent with a triphasic waveform.  The cephalic and basilic veins were both
+     patent.  Cephalic vein diameters ranged from 0.31-0.40 cm.  Basilic vein
+     diameters range from 0.39-0.60 cm.
+     
+     IMPRESSION:
+     
+     Normal brachial artery and subclavian vein waveforms with patent cephalic and
+     basilic veins in the left upper extremity with diameters as noted.
+                                                                           
+
+",,
+24470,19342,30378,0,2724-11-19 04:11:00 EST,2724-11-19 04:42:00 EST,1853,"N",1,"Nursing/Other","CCU ADMIT","
+CCU ADMIT
+pt. arrived from MICU at 2200, please see MICU transfer note for extensive history.  
+pt. A/O x3,  MAE.  reporting mild pain in right hip - region of right fem. hematoma.  area appears unchanged from lined/marked area.
+pulses doppler. previously documented as [**12-25**]+/  warm extrem. 
+heels pink, both with waffle boots and 
+
+CV:  100Vpaced. occas. PVC /couplets.  99-123/63-73.  
+amiodarone decreased to .5mg/min at 2200 per orders(to run for 18hr per order)  lido contin. at 1mg/min.  
+Resp:  LS crackles bases.  RR 20-28.  regular. sats 96-100% on 3lnc/.40face tent.  
+given 80mg lasix at 12am. u/o 40-50cc/hr.  MD aware.  (+)2L LOS. (-) 260cc for [**11-18**].  
+GI:  ABD soft, NT.  pos. BS.  
+
+2PIV's.  right rad. aline.  left fem. quintin cath. 
+spouse staying in room all night.  very supportive.  
+pt. sleeping very soundly. tires easily with DOE.  wakes approp. to name.  
+
+A/P:  contin. amio gtt for total 18hr at .5mg/min.  contin. lido gtt.  rebolus with lido and increase gtt for VT (per team).  follow lytes/LFT's.  follow sats, u/o.  ? HD vs UF vs CVVHD
+",,
+24470,19342,30378,0,2724-11-19 15:53:00 EST,2724-11-19 16:05:00 EST,2463,"N",1,"Nursing/Other",,"
+
+See carevue for objective data.
+
+Awake and alert consistently following commands. 
+Remains v-paced at 100 with occasional ectopy noted. No runs of VT.
+Lido gtt dc'd this AM and amiodarone load completed IV and now on po dosing. 
+Crackles/wheezes auscultated. Atrovent ordered. Pt not speaking in full sentences-[**1-24**] words only and then appears to be slight dyspneic
+at times. Abd breathing/obese abd. Maintaining sats on NC/face tent.
++cough. Team aware. CXR done this PM.
+US/vein mapping completed for AV fistula tomorrow. Renal MD's note indicates no need for HD today.
+While bathing pt, noted posterior aspect of penis to be swollen,red,
+with a large fluid filled ring. MD in to evaluate and pt's foreskin
+needed to be retracted which the MD performed. Neosporin ointment to affected area and foley catheter dc'd. DTV 2200-2400. Minimal discomfort per pt.
+
+Wife in all shift with his children. Limits set regarding number of visitors and pt's need to rest. 
+
+",,
+24470,19342,30378,,2724-11-20 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+",,
+24470,19342,30378,0,2724-11-20 05:20:00 EST,2724-11-20 05:33:00 EST,1853,"N",1,"Nursing/Other","CCU NPN 1900-0700","
+CCU NPN 1900-0700
+S: "" I can'[**Initials (NamePattern4) **] [**Last Name (NamePattern4) **] ""
+O:  afeb. 
+HR 100-102 Vpaced. rare to occas. PVC. BP 90-109/60's.  
+sats 95-97% on 3lnc/40% face tent.  crackles at bases.  denies SOB.  pos. DOE ie when turning, changing position. 
+
+s/p foley d/c'd yest. afternoon.  pt. was incontinent of large amt. of urine ~ 2000.  thought foley was still in.  since then voided 150cc x1 and 50cc x2.  taking sips of juice/water with meds.  
+no appitite. 
+
+eve labs K+ 4.3/MG 2.3
+
+0400- pt. awake and c/o left chest pain in area where he was shocked.  given tylenol and repositioned with good effect.  also c/o feeling weak.  
+
+plan: place dialysis catheter in chest today and take out left fem. quintin.  plan HD today.  
+",,
+24470,19342,30378,1,2724-11-20 05:20:00 EST,2724-11-20 05:41:00 EST,1853,"Y",1,"Nursing/Other","CCU NPN 1900-0700","
+CCU NPN 1900-0700
+correction:  
+plan for AV fistula today and not chest line.  
+
+neosporin applied to posterior aspect penis when foreskin retracted.  area pink with small area of edema/breakdown.  no c/o pain.  
+
+",,
+24470,19342,30378,0,2724-11-20 17:14:00 EST,2724-11-20 18:57:00 EST,1627,"N",1,"Nursing/Other","CCU progress notes 7a-7p","
+CCU progress notes 7a-7p
+HPI: pt arrived in ED [**11-16**] w/ new ARF w/ hyperkalemia. Pt had a fall 2 weeks prior w/ productive cough, SOB, weight gain of 8lbs. BP 80s K 7.5. BUN/CR 272/5.4. INR 4.1. HCT 24.  Admitted to MICU. Pt transfused w/ 4u PRBCs, FFS, DDAVP, PLTS. was recieving hemodialysis pt went into VT/VF and was shocked multiple times by AICD (approx 15-18times in 1hr), transferred to CCU. 
+PMHX: low EF 20%, IMI '[**11**] w/ brady HR, h/o VT arrest, s/p AICD '[**13**], s/p VT ablation '[**16**], multiple changes of ICD to AICD and site changed to pectoral region from abd., underlying rhythm AFIB.
+
+EVENTS: 
+
+Started on CRRT. restarted on IV amio - 150mg bolus given, then gtt @ .5mg/min- increased to 1mg/min after pt having runs of VT (14-17beats asymptomatic), also started on lopresor 12.5mg BID for runs of VT. Given 1 dose VIT K 2.5mg po for INR 2.9. 
+
+VT: 1740hrs: VT 140-150s, BP 80s-90s, asymptomatic. pt coughing + bearing down w/ no effect. Lido 100mg IVP given. AICD tried to pace override x 4 times then shocked x 1 - pt still in VT - AICD pacer tried to pace override 2 more times w/ success on 2nd attempt. Lido gtt @ 2mg/min. 
+
+
+NEURO: A+Ox3. MAE. gen weakness. family in visiting all day. pt nervous about having AICD shocking him - nervous re: dialysis. pt reassured, family to stay with pt overnite. 
+
+ID: afebrile. no abx.
+
+RESP: LS coarse, occ wheeze, recieving nebs by RT q6h. NC 2L + 40% face tent - weaned to only 35% Face Tent. abg: 7.32/56/172/30. no resp distress. RA sats 88%. Sats on 35% face tent 98%. 
+
+CARDIAC: VPACED 100s freq PVCs, pairs, runs of 5 this morning. Started on Amio gtt 0.5mg/min after 150mg bolus. After CRRT started, having runs of 14-17beats-asymptomatic - aicd did not fire. Increased Amio gtt to 1mg/min at 4pm. Started on Lopressor 12.5mg BID. EP aware. Vit K 2.5mg given for INR 2.9. 1740: VT 140-160s asymptomatic, BP 80-90s - (see above event note) AICD shocked x 1 w/ total of 6 paceroverride attempts w/ last attempt working w/ lido 100mg IVP on board. EKGs done. Lido gtt started @2mg/min - to be decreased to 1mg/min at 8pm.  
+
+GI: abd soft +BS. +flatus today, no BM. started on diet, but pt has no appetite. taking boost (takes at home). 
+
+ENDO: BS noted to be elevated ?d/t hydrocortisone 50mg q6h po. HO notified. started on RISS this evening. FS ordered QID. 
+
+SKIN: skin to tip of penis/foreskin reddned +excoriated - bacitracin applied. no other breakdown noted. waffle boots on. pneumoboots on. 
+
+GU: CRRT: voided x 2 100cc at noon + 230cc @ 1845hrs- Given 120mg Lasix @ noon. Started on CRRT at 12pm via R Femoral Quinton catheter. no anticoagulation. Blood flow @ 100ml/min, goal fluid removal rate was 0, increased to 30 goal. hourly PFR titrated to reach fluid removal goal off -30cc/hr per Renal. Dialysate @ 500cc/hr, Replacement fluid @ 1500cc/hr. 
+
+LABS: Q6H Lytes, ABG, Ionized CA. Q12H BUN/CR, mg, phos.  CaGluc gtt for ionCa <1.3 per scale. 
+
+PLAN: con't CRRT. Monitor for VT. con't amio + lido gtts. emotional support to pt. Lytes, IonCa + ABG Q6H. Pl
+",,
+24470,19342,30378,0,2724-11-20 17:15:00 EST,2724-11-20 18:57:00 EST,1627,"N",1,"Nursing/Other","CCU progress notes 7a-7p","
+CCU progress notes 7a-7p
+(Continued)
+an for tunnel line placement ?monday (not done today d/t elevated INR 2.9 + increased PVCs this am). 
+",,
+24470,19342,30378,0,2724-11-21 05:30:00 EST,2724-11-21 05:55:00 EST,2750,"N",1,"Nursing/Other","CCU Nursing Progress Note 7pm-7am","
+CCU Nursing Progress Note 7pm-7am
+79yom started on CRRT [**11-19**] for worsening renal failure. 
+
+Renal - CRRT maintained with fluid removal goal of 50cc/hr via l quinton catheter.  Hourly PFR titrated to reach fluid removal goal.  Dialysate cont 500cc/hr and replacement 1500cc/hr.  No Heparin. 
+BUN 93, Creat 2.4 (3.0 pre CRRT).  Ionized calcium at 10pm 1.27, Calcium Gluconate gtt started at 25cc/hr at 2230 and was stopped at 0500 for Ionized calcium of 1.38.   
+K+ 4.0, Mg 2.3.  Dialysate and replacement warmed with warming blanket.
+Has voided x1 this shift.  Pt has no sensation of when he has to void.
+
+ID - Afebrile with WBC 6.4
+
+CV - HR 100 Vpaced with rare pvc.  BP 91-113/56-70 down to a low of 82/56 while pt is sleeping after Ativan po.  HO aware.  BP increased as pt is aroused from [**Doctor Last Name **].  Lopressor 12.5mg po held at 4am d/t low BP.  Lidocaine continues at 1mg/min.  Amiodarone gtt dc'd and Meciletine 200mg po q8hrs started at 10pm [**11-20**].  
+
+Resp - cont on humidified face tent at 40% with O2 sats 94-99%.  Ls have audible exp wheeze and rales cont 1/2-2/3up bilaterally.  No sob, but pt is requesting HOB up as able.  ABG 7.36-53-97
+
+GI- no stool tonight, abd is lg distended and soft with +BS.  Tolerating sips po only.
+
+Endo - RISS per protocol.  See careview
+
+Skin- Tip of penis reddened as was previously noted.  Pneumoboots maintained.  Turned and positioned q2-3hrs.  Bilat elbows reddened and are elevated on pillows.
+
+Social - Many family members [**Name (NI) 857**] throughout evening.  Wife and daughter stayed with pt through night, but were encouraged not to disturb pt'[**Initials (NamePattern4) **] [**Last Name (NamePattern4) **].  Wife states that pt is anxious and takes Lorazapam 1mg at home.  Given at 12am and pt did [**Doctor Last Name **].  
+
+A/P:  Pt tolerating CRRT and able to maintain goal approx 50cc/hr.  Cont CRRT and increase goal output as ordered.  Monitor labs q6 and q12hrs as ordered.  Cont turn and position, as pt is at risk for breakdown,  offer urinal q4-6hrs.  Cont emotional support of pt and family. 
+",,
+24470,19342,30378,0,2724-11-21 07:24:00 EST,2724-11-21 07:27:00 EST,5268,"N",1,"Nursing/Other",,"
+
+RESPIRATORY CARE
+PT REMAINS ON .4 HUMIDIFIED O2 via FT. Atrovent neb Q6 hrs. tolerated well.BS diminished expiratory wheezes audible at bedside. Will continue to follow.
+",,
+24470,19342,30378,1,2724-11-21 17:38:00 EST,2724-11-21 19:23:00 EST,1641,"Y",1,"Nursing/Other","CCU NPN 7A-7P","
+CCU NPN 7A-7P
+Femeral dialysis line in L groin not R groin.
+",,
+24470,19342,30378,0,2724-11-21 17:38:00 EST,2724-11-21 18:02:00 EST,1641,"N",1,"Nursing/Other","CCU NPN 7A-7P","
+CCU NPN 7A-7P
+Renal: pt cont on CRRT, mode CVVHDF, with goal removal of 0-50cc/hr as tolerated keeping MAP>60. Pt removal rate has varied throughout the day d/t BB, was down to 0 for a time with BP at 80's/50, currently set at 70 wioth goal removal of 50cc. Filter pressures rising thoughout the day, system stopped at 1500 D/T clotted filter, resumed by 1600. Only a ~200cc neg for day. Following labs per proticol, see flowsheet.
+R fem catheter site without bleeding or hematoma. Pulses weakly palpable. Pt beginning to feel better, appetite improved. Voided x1, 150cc in urinal.
+
+CV: HR 100 V-paced with short runs VT [**12-26**] bts, resolved spon. Pt asymptomatic. Cont on Lido gtt at 1mg/min, Mexiletine 200mg po every 8 hrs. BP dropped to 79/50 this AM, had to decrease rate of UF to keeping pt even. Pt was also sleeping at the time, when awake BP running higher. Tolerated Lopressor 12.5 at 1100, will cont if tolerated. 
+
+Resp: LS clear with crackles at bases bilaterally, occ exp wheeze. Denies SOB, wearing 2L NC with sats 99%, ABG: 131/46/7.39, getting nebs by RT.
+
+Skin: Hematoma R groin unchanged, new blister noted on L mid-lateral back, pt enc to tilt to side. 
+
+GI: appetite improving, ate ~[**11-23**] of each meal. No BM.
+
+Neuro: sleepy this AM, A&Ox3, conversing with family. 
+
+Endo: BS 130-150, no coverage.
+
+ID: afebrile, watching closely for sign of infection d/t groin line.
+
+Soc: wife in all day as well as various other family members.
+
+A/P: some decrease in BP today limiting fluid removal with CRRT, system changed d/t clot, resumed and running well, following lytes and repleating as needed. Pt subjectively feeling better. Cont remove fluid as tolerated, no more than 50cc/hr for tonight per renal fellow. Cont support and inform pt and wife.
+
+
+
+",,
+24470,19342,30378,,2724-11-22 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2724-11-22**] 8:39 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 2904**]
+     Reason: eval for interval change in pulmonary edema                 
+     Admitting Diagnosis: ACUTE RENAL FAILURE;ANEMIA;HYPOGLYCEMIA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      79 year old man with VT s/p multiple shocks cough  with pulmonary edema on CVVH 
+                                             
+     REASON FOR THIS EXAMINATION:
+      eval for interval change in pulmonary edema                                     
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Pulmonary edema.
+     
+     FINDINGS:
+     
+     No significant change in the mild pulmonary vascular enlargement since
+     [**2724-11-19**].  The heart appears enlarged.  There are likely bilateral small
+     pleural effusions.
+                                                                           
+
+",,
+24470,19342,30378,,2724-11-22 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2724-11-22**] 7:20 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 2905**]
+     Reason: Line placement; please also eval for infiltrate             
+     Admitting Diagnosis: ACUTE RENAL FAILURE;ANEMIA;HYPOGLYCEMIA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       79 year old man with CHF/recurrent VT, now with fevers, increased RR, 
+      hypotension; s/p R IJ Line placement.
+     REASON FOR THIS EXAMINATION:
+      Line placement; please also eval for infiltrate                                 
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Recurrent ventricular tachycardia with fevers, increased respiratory
+     rate, new line placement.
+     
+     FINDINGS:
+     
+     There is a new right IJ line with tip in the right atrium.  There has been no
+     significant change in the dual-lead pacemaker.  The heart continues to be
+     moderately enlarged.  There continues to be pulmonary vascular congestion and
+     probable bilateral effusions.
+     
+     IMPRESSION:
+     
+     1.  Congestive heart failure.
+     2.  No pneumothorax.
+                                                                           
+
+",,
+24470,19342,30378,0,2724-11-22 06:17:00 EST,2724-11-22 06:38:00 EST,2750,"N",1,"Nursing/Other","CCU Nursing Progress Note","
+CCU Nursing Progress Note
+79yom started and is tolerating CRRT since [**11-20**] for worsening renal failure
+
+Renal - Bun 61/creat 2.2.  Pt voided x1 for 30cc.  Tolerating CRRT per order with hourly goal output 50.  During night after Lopressor, BP down to low 80's so output changed to maintain pt at even.  Net output approx 150cc since midnight.  Calcium gtt started at 25cc/hr for 1.27, then dc'd for 4am calcium of 1.43.
+
+CV - HR cont 100 vpaced with rare/occasional pvc.  K-4.1, Mg 2.5.  BP 90-100/50, but dipped to low 80's as above 2-3hrs post lopressor.  
+
+Resp - LS have [**Hospital1 **] base crackles to 1/3 up bilat. Exp wheeze noted with deep breaths.  O2 sats 99-100% on 2ln/p.  
+
+GI - Attempting to use bed pan, but no stool, +flatus.
+
+Heme- INR 2.1
+
+Skin - Ecchymotic hematoma r groin, Quintin cath maintained l groin.  Small blister 1-3cm noted l flank.  Attempting to turn and position pt q2hrs, but pt will move himself to supine position.  Multipodis boot maintained r foot with pheumoboots bilaterally.
+
+Social - Wife and son [**Name (NI) 857**] early in shift and pt's wife did not stay the night.  Given Ativan .5mg po for [**Doctor Last Name **]/anxiety.  Not as effective as 1mg, as pt was restless through night and only slept in short naps.
+
+A/P:  Tolerating CRRT although needed to decrease PFR d/t lower BP during night.  Continue as tolerated. Intermittent Calcium gtt.  Cont follow lytes and replete as necessary.  Turn and position q2-3hrs, Keep family and pt informed of progress/plan.  
+
+  
+",,
+24470,19342,30378,0,2724-11-22 18:25:00 EST,2724-11-22 18:51:00 EST,1641,"N",1,"Nursing/Other","CCU NPN 7A-7P","
+CCU NPN 7A-7P
+CV: HR 100 v-paced, this AM occ PVC, this eve had 14bt run VT, then override pacing kicked in and slowed pt back to 100 v-paced, pt asymptomatic, BP to 70's/. Pt has been on Neo at .5-1.2mcg/kg/min for BP to maintain MAP>60, since ~1hr after receiving po lopressor 12.5mg this AM. Sys BP running high 70's-90's/. Has received total of 1L NS in two 500cc boluses, unable to wean off Neo. Now placing central line. Lytes WNL this AM, repeat labs pnd. IV Lidocaine dc'd this AM for increased mental confusion and hallucinations this AM.
+
+Renal: CVVHDF terminated this AM after system clotted at 9AM. Renal made plan to do conventional HD tomorrow, then will have tunnel line placed on Monday if INR down. Plan may change now that pt hypotensive. 
+Pt had 25cc urine out this AM, has not voided since. Has had sensation of needing to void and has been unable, Foley placed, obtain no urine. 
+
+Neuro: pt remains confused, sl agitation, wife has been able to keep pt relatively calm and safe from self injury. Wife plans to stay overnight, does not want to leave him. She did go home and states she slept well last night. Offered to get sitter, wife refused. [**Name2 (NI) **] given Haldol gingerly for agitation. QTC .44
+
+Resp: remains on 2L NC, cont with crackles at bases bilaterally, RR mid to high 20's today, increased from yesterday. 
+
+GI: no appetite today, sips [**Male First Name (un) 4639**]. No BM, passing flatus.
+
+Skin: hematoma R groin stable, blisters on both sides of back midway down. Positioned S-S, likes to be on back most. Has to remain in bed d/t groin line and now hypotension.
+
+ID: afebrile this AM, WBC 7.7, sent 2 BC peripheral sticks, UA, Thsi afternoon T 100.2po, sent 3rd BC from dialysis line. Starting Vanco and Levo.
+
+Status: given pt condition today status discussed with family, pt has proxy form, is DNR/DNI. Pt consented for central line for pressors.
+
+A/P: pt with persistant hypotension requiring Neo, cultured, will start AB's. Dialysis on hold. ? HD tomorrow, will be unable to if remains on pressors. Groin line will need to come out. Cont to support pt and family.
+
+
+",,
+24470,,30378,0,2724-11-23 01:14:00 EST,2724-11-23 01:25:00 EST,1722,"N",1,"Nursing/Other",,"
+
+NSG NOTE
+
+CV: INITIAL ASSESSMENT PT DROPPED SBP 70/ NEO TITRATED TO 1.5MCG/KG/MIN. RECTAL TEMP INCREASED TO 101. TYLENOL PR GIVEN AND PT STARTED ON ABX VANCOMYCIN GIVEN. PT MORE AGITATED ATTEMPTING TO PULL AT LINES. HALDOL 2.5MG IV GIVEN WITH SMALL EFFECT. BP CON'T TO DROP REQUIERING MORE NEO. HOUSE STAFF NOTIFED OF HYPOTENSION REQUIERING INCREASING DOSES OF NEO. PT MORE SOMULENT. WIFE AND FAMILY IN AND TALKED WITH ATTENDING PHYSICIAN, [**Name10 (NameIs) **] STAFF AND NURSING ABOUT POC AND [**Male First Name (un) **] TERM PROGNOSIS. DECISION MADE BY FAMILY TO MAKE PT COMFORTABLE AND DISCONTINUE PRESSORS. IV MORPHINE SULFATE GIVEN AND PT STARTED ON MSO4 GTT. TITRATED TO COMFORT. FAMILY AND WIFE IN WITH PT. SUPPORT GIVEN TO ALL FAMILY MEMEBERS. SEE FLOW REGARDING VS AND STATS. PT PRONOUNCED @ 0050 BY MD.
+",,

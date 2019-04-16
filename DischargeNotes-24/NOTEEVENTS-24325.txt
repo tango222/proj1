@@ -1,0 +1,472 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+24325,,,,2968-12-27 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2968-12-27**] 9:54 PM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 1555**]
+     Reason: r/o intracranial bleed and mass lesion
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      66 year old man with fall and observed tremor and incontinence.  PT hit head
+      and had LOC.  [**Doctor Last Name 1556**] 95653
+     REASON FOR THIS EXAMINATION:
+      r/o intracranial bleed and mass lesion
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CT HEAD WITHOUT CONTRAST [**2968-12-27**].
+     
+     INDICATION:  Fall, loss of consciousness, tremor and incontinence.
+     
+     TECHNIQUE:  Unenhanced head CT.
+     
+     CT HEAD WITHOUT CONTRAST:  There is an elliptical shaped focus of increased
+     attenuation along the left parieto-occipital convexity.  This is consistent
+     with a hematoma in the subdural or epidural space.  This measures about 1 cm
+     in width. A small focus of decreased attenuation within this collection is of
+     uncertain clinical etiology, but may represent a small blood clot. There is
+     extensive encephalomalacic change of the left temporal an parietal lobes, with
+     atrophy of the white matter and basal ganglia, corresponding to a remote left
+     MCA infarction. Within the residual left temporal cortex, there are several
+     foci of curvilinear increased attenuation.  Although it is possible that this
+     represents residua of a hemorrhagic left MCA infarction with chronic
+     hemosiderin deposition, in the setting of trauma, an acute intraparenchymal
+     hemorrhage cannot be excluded.  Due to the severity of brain parenchymal loss
+     on this side, the small extraaxial hematoma produces no identifiable mass
+     effect.  The ventricles and extra-axial CSF spaces are prominent, suggesting
+     global atrophy.  Prominent CSF anterior to the right temporal lobe likely
+     represents a small arachnoid cyst.  Although the calvarium appears intact, an
+     air- fluid level in the left maxillary sinus and near opacification with an
+     air- fluid level in the right maxillary sinus suggests the possibility of a
+     facial fracture.  There is moderate mucosal thickening of the ethmoid air
+     cells and air-fluid levels within the sphenoid and frontal sinuses.
+     
+     IMPRESSION:
+     1.  Small left parietal subdural or epidural hematoma with minimum
+     associated mass effect.
+     2.  Old left MCA infarction with possible small intraparenchymal
+     hemorrhage/contusion.
+     3.  High attenuation air-fluid level in the right maxillary sinus may indicate
+     acute blood secondary to facial fracture, or alternately inspissated mucous.
+
+",,
+24325,,,,2968-12-27 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2968-12-27**] 9:36 PM
+     SHOULDER (AP, NEUTRAL & AXILLARY) TRAUMA RIGHT                  Clip # [**Clip Number (Radiology) 1553**]
+     Reason: r/o fx
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      66 year old man with s/p fall
+     REASON FOR THIS EXAMINATION:
+      r/o fx
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: Fall, right shoulder pain.
+     
+     RIGHT SHOULDER, TWO VIEWS: Frontal view of the right shoulder is limited by
+     superimposed trauma board.  There is djd of the a-c joint. Limited Y view
+     suggests no dislocation.  No fractures appreciated.
+
+",,
+24325,,,,2968-12-27 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2968-12-27**] 9:26 PM
+     PELVIS (AP ONLY)                                                Clip # [**Clip Number (Radiology) 1552**]
+     Reason: r/o fx
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      66 year old man with fall pain on R hip
+     REASON FOR THIS EXAMINATION:
+      r/o fx
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: Trauma.  Right hip pain.
+     
+     AP PORTABLE PELVIS: The bones are demineralized.  There is no fracture or
+     dislocation.
+
+",,
+24325,,,,2968-12-27 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2968-12-27**] 9:25 PM
+     CHEST (SINGLE VIEW)                                             Clip # [**Clip Number (Radiology) 1551**]
+     Reason: r/o intrathoracic process.  assess R shoulder for fx
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      66 year old man with fall and pain in shoulder
+     REASON FOR THIS EXAMINATION:
+      r/o intrathoracic process.  assess R shoulder for fx
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: Trauma, shoulder pain.
+     
+     PORTABLE SUPINE CHEST: The patient is rotated, which accentuates the right
+     heart border and superior vena cava.  There is slight cephalization of the
+     pulmonary vessels, likely secondary to AP supine technique.  There is
+     eventration of the diaphragms.  No fractures of the thoracic skeleton are
+     appreciated.
+     
+     IMPRESSION: Limited chest radiograph, without evidence of acute trauma.
+
+",,
+24325,,,,2968-12-27 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2968-12-27**] 10:25 PM
+     CT C-SPINE W/O CONTRAST; CT RECONSTRUCTION                      Clip # [**Clip Number (Radiology) 1558**]
+     Reason: S/P TRAUMA - ? FX
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: Fall, epidural hematoma.
+     
+     TECHNIQUE: Axial neck CT was performed with coronal and sagittal reformations.
+     CT C-SPINE: The neural rings of C1 through T2 are intact.  There is  exuberant
+     degenerative change, with rotoscoliosis and hypertrophic degeneration of the
+     uncovertebral and facet joints as well as anterior osteophyte formation.  At
+     C2-3, there is mild bilateral neural foraminal narrowing.  At C3-4, there is
+     severe left neural foraminal narrowing.  At C4-5, there is moderate to severe
+     left neural foraminal narrowing.  At C5-6, there is severe left neural
+     foraminal narrowing.  At C6-7, there is moderate bilatera
+     l neural foraminal narrowing. At C7-T1, there is mild left neural foraminal
+     narrowing and severe right neural foraminal narrowing.
+     
+     Disk osteophyte complexes cause mild central canal narrowing at C5-6 and C6-7
+     levels.
+     
+     REFORMATIONS: Coronal reformations demonstrate a mild cervical
+     dextroscoliosis, which is degenerative in etiology.  Sagittal reformations
+     confirm exuberant hypertrophic degenerative  change, with anterior osteophyte
+     formation most marked at the C5-6, C6-7 and C7-8 levels.  Intervertebral disk
+     spaces are narrowing or obliterated at all levels.  There is straightening and
+     slight reversal of the normal cervical lordosis.  However, the integrity of
+     the central canal is maintained.
+     
+     IMPRESSION: Severe multilevel degeneration as described.  No evidence of acute
+     traumatic fracture or listhesis.
+     
+     
+     
+
+",,
+24325,,,,2968-12-27 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2968-12-27**] 10:23 PM
+     CT SINUS/MAXLIOFACIAL W/O CONTRAST                              Clip # [**Clip Number (Radiology) 1557**]
+     Reason: S/P TRAUMA EVAL FOR FX
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      66 year old man with fall and observed tremor and incontinence.  PT hit head
+      and had LOC.  [**Doctor Last Name 1556**] 95653
+     REASON FOR THIS EXAMINATION:
+      r/o fx
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: Fall and facial laceration.
+     
+     TECHNIQUE: Thin collimation axial CT of the maxilla was performed and coronal
+     re-formations were created.
+     
+     CT MAXILLOFACIAL: There are small air-fluid levels in the frontal sinuses
+     bilaterally.  There is mild to moderate mucosal thickening in the ethmoid air
+     cells.  There are small air-fluid levels within the sphenoid sinuses
+     bilaterally.  There is near-complete opacification of the right maxillary
+     sinus, with an air-fluid level inferiorly. There is probably a small fracture
+     of the right lateral maxillary sinus wall.  The coronal images are motion
+     degraded, so correlation cannot be made.  There is also inadequate assessment
+     of the left orbital floor.
+     
+     Multiple air- fluid levels may be related to sinusitis.
+     
+     There is soft tissue swelling about the right zygoma and orbits.
+     
+     IMPRESSION: Small air-fluid levels throughout all paranasal sinuses, with
+     opacification of the right maxillary sinus. There is probably a small left
+     maxillary sinus fracture.  There may be sinusitis.
+
+",,
+24325,,,,2968-12-27 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2968-12-27**] 9:37 PM
+     C-SPINE, TRAUMA                                                 Clip # [**Clip Number (Radiology) 1554**]
+     Reason: r/o fx
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      66 year old man with fall and head trauma, loc
+     REASON FOR THIS EXAMINATION:
+      r/o fx
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: Fall and head trauma and loss of consciousness.
+     
+     TRAUMA C-SPINE: The lateral view is limited to the C1 through C6 vertebral
+     bodies.  There is exuberant degenerative change.  The lateral masses of C1 are
+     symmetric and the dens is intact.  The frontal view is limited by neck
+     rotation.
+     
+     IMPRESSION: Limited c-spine with significant degeneration.  CT c-spine is
+     recommended for more complete evaluation.
+
+",,
+24325,,,,2968-12-27 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2968-12-27**] 10:23 PM
+     CT SINUS/MAXLIOFACIAL W/O CONTRAST                              Clip # [**Clip Number (Radiology) 1557**]
+     Reason: S/P TRAUMA EVAL FOR FX
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      66 year old man with fall and observed tremor and incontinence.  PT hit head
+      and had LOC.  [**Doctor Last Name 1556**] 95653
+     REASON FOR THIS EXAMINATION:
+      r/o fx
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: Fall and facial laceration.
+     
+     TECHNIQUE: Thin collimation axial CT of the maxilla was performed and coronal
+     re-formations were created.
+     
+     CT MAXILLOFACIAL: There are small air-fluid levels in the frontal sinuses
+     bilaterally.  There is mild to moderate mucosal thickening in the ethmoid air
+     cells.  There are small air-fluid levels within the sphenoid sinuses
+     bilaterally.  There is near-complete opacification of the right maxillary
+     sinus, with an air-fluid level inferiorly. There is probably a small fracture
+     of the right lateral maxillary sinus wall.  The coronal images are motion
+     degraded, so correlation cannot be made.  There is also inadequate assessment
+     of the left orbital floor.
+     
+     Multiple air- fluid levels may be related to sinusitis.
+     
+     There is soft tissue swelling about the right zygoma and orbits.
+     
+     IMPRESSION: Small air-fluid levels throughout all paranasal sinuses, with
+     opacification of the right maxillary sinus. There is probably a small left
+     maxillary sinus fracture.  There may be sinusitis.
+
+",,
+24325,,,,2968-12-27 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2968-12-27**] 10:25 PM
+     CT C-SPINE W/O CONTRAST; CT RECONSTRUCTION                      Clip # [**Clip Number (Radiology) 1558**]
+     Reason: S/P TRAUMA - ? FX
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: Fall, epidural hematoma.
+     
+     TECHNIQUE: Axial neck CT was performed with coronal and sagittal reformations.
+     CT C-SPINE: The neural rings of C1 through T2 are intact.  There is  exuberant
+     degenerative change, with rotoscoliosis and hypertrophic degeneration of the
+     uncovertebral and facet joints as well as anterior osteophyte formation.  At
+     C2-3, there is mild bilateral neural foraminal narrowing.  At C3-4, there is
+     severe left neural foraminal narrowing.  At C4-5, there is moderate to severe
+     left neural foraminal narrowing.  At C5-6, there is severe left neural
+     foraminal narrowing.  At C6-7, there is moderate bilatera
+     l neural foraminal narrowing. At C7-T1, there is mild left neural foraminal
+     narrowing and severe right neural foraminal narrowing.
+     
+     Disk osteophyte complexes cause mild central canal narrowing at C5-6 and C6-7
+     levels.
+     
+     REFORMATIONS: Coronal reformations demonstrate a mild cervical
+     dextroscoliosis, which is degenerative in etiology.  Sagittal reformations
+     confirm exuberant hypertrophic degenerative  change, with anterior osteophyte
+     formation most marked at the C5-6, C6-7 and C7-8 levels.  Intervertebral disk
+     spaces are narrowing or obliterated at all levels.  There is straightening and
+     slight reversal of the normal cervical lordosis.  However, the integrity of
+     the central canal is maintained.
+     
+     IMPRESSION: Severe multilevel degeneration as described.  No evidence of acute
+     traumatic fracture or listhesis.
+     
+     
+     
+
+",,
+24325,18960,,,2968-12-28 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+
+
+Admission Date:  [**2968-12-28**]       Discharge Date:  [**2968-12-29**]
+
+Date of Birth:   [**2892-4-7**]       Sex:  M
+
+Service: Neurosurgery
+
+HISTORY OF PRESENT ILLNESS:  The patient is a 74-year-old
+gentleman who fell out of a wheelchair at home and likely had
+loss of consciousness.  He clearly hit his head on the floor
+as evidenced by right eye ecchymosis and right superficial
+laceration.  He does not have any memory of the fall and was
+found by his landlord who called EMS.
+
+PAST MEDICAL HISTORY:  Hypertension, CAD, CHF, CVA in the
+past.  He is wheelchair bound.
+
+ALLERGIES:  No known drug allergies.
+
+MEDICATIONS:  On admission, Zestril 7.5 mg po q day,
+Trazodone 150 mg po q h.s., Serax 20 mg po bid, Buspar 10 mg
+po tid, Aspirin 81 mg po q day, Propranolol 10 mg po q a.m.
+and q noon, Zoloft 200 mg q h.s., Pericolace one po q day,
+Senokot one po q h.s., Lipitor 10 mg po q day, Lasix 20 mg po
+q day, Neurontin 200 mg po bid and MVI one po q day.
+
+PHYSICAL EXAMINATION:  Patient's blood pressure was 180/107,
+heart rate 18, sats 93% on room air.  He is alert, oriented
+to person, follows simple commands, pupils equal, round and
+reactive to light.  Extraocular movements full.  He has right
+eye ecchymosis and right contusion and right laceration of
+the eyebrow.  Tongue is midline, palate rises symmetrically,
+right upper and lower extremity are paretic from old CVA.  He
+moves the left side spontaneously.  Head CT shows a 1 by 4 cm
+left occipital epidural hematoma with large hypodense area in
+the left frontal temporal region which is consistent with his
+old left MCA infarct.
+
+LABORATORY DATA:  On admission, white count 13.3, hematocrit
+39.6, sodium 138, potassium 4.6, chloride 103, CO2 21, BUN
+21, creatinine 1.4, glucose 134, calcium 8.9, phosphorus 2.5,
+magnesium 1.8.
+
+HOSPITAL COURSE:  He was admitted to the surgical Intensive
+Care Unit for close observation.  His neurologic status, he
+continued to be awake and alert with continued right
+hemiparesis, not oriented reliably to place, although did at
+one point say the hospital.  He is having difficulty
+expressing himself.  His pupils are equal, round and reactive
+to light.  He is moving his left side spontaneously.  Vital
+signs have been stable.  His repeat head CT on [**2968-12-29**] shows
+no increase in the epidural hematoma.  Neurologic status has
+remained stable and unchanged since admission.  The patient
+will be discharged back to rehab facility.
+
+DISCHARGE MEDICATIONS:  Zestril 7.5 mg po q day, Trazodone
+150 mg po q h.s., Serax 20 mg po bid, Buspar 10 mg po tid,
+Propranolol 10 mg po q a.m. and q noon, Zoloft 200 mg q h.s.,
+PeriColace one po q day, Senokot one po q h.s., Lipitor 10 mg
+po q day, Lasix 20 mg po q day, Neurontin 200 mg po bid and
+MVI one po q day.
+
+CONDITION ON DISCHARGE:  Stable.  He will be discharged to
+rehab to follow-up with his primary care doctor as needed and
+with Dr. [**Last Name (STitle) 3937**] in 3-4 weeks time with repeat head CT.
+
+
+
+
+                            [**Name6 (MD) 3938**] [**Name8 (MD) **], MD  [**MD Number 3939**]
+
+Dictated By:[**Last Name (NamePattern1) 130**]
+MEDQUIST36
+
+D:  [**2968-12-29**]  12:44
+T:  [**2968-12-29**]  12:47
+JOB#:  [**Job Number 5164**]
+Signed electronically by: DR. [**First Name (STitle) 3938**] [**Name (STitle) **]
+ on: MON [**2969-1-9**] 7:48 AM
+(End of Report)
+
+
+",,
+24325,18960,,,2968-12-28 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2968-12-28**] 8:28 AM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 1559**]
+     Reason: 74 M with epidural hematoma. Please repeat scan at 8AM on 12
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      66 year old man with fall  from wheelchair and incontinence.
+     REASON FOR THIS EXAMINATION:
+      74 M with epidural hematoma. Please repeat scan at 8AM on [**12-28**] to reassess
+      status of bleed.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  FOLLOW UP HEAD TRAUMA.
+     
+     TECHNIQUE:  Axial non-contrast CT scans of the brain were obtained.
+     
+     Comparison is made to the previous CT of [**2968-12-27**].
+     
+     FINDINGS:  The left parietal extra-axial hematoma has increased in size since
+     the previous study.  It is now 16 to 17 mm wide.  There is displacement of the
+     left parietal lobe away from the inner table and mild deformity of the
+     posterior aspect of the left lateral ventricle.  There is no shift of midline
+     structures.  The ventricles remain unchanged in size.
+     
+     There is a small amount of intraventricular blood evident and a tiny amount of
+     subarachnoid hemorrhage seen, particularly in the right sylvian fissure.  The
+     brain is otherwise unchanged in appearance.
+     
+     IMPRESSION:  Mild increase in the size of the left parietal extra-axial
+     collection, compared to the previous study of [**2968-12-27**].  The findings were
+     reported to Dr. [**Last Name (STitle) 1560**] at 9:20AM on [**2968-12-28**].
+
+",,
+24325,18960,30210,0,2968-12-28 06:21:00 EST,2968-12-28 06:40:00 EST,-1,"N",54,"Nursing/Other","ADM. NOTE.","
+ADM. NOTE.
+NEURO: ALERT ORIENTED TO PERSON. DOES NOT REMEMBER REASON WHY HE IS AT HOSPITAL. PERL. FOLLOWS COMANDS. OLD CVA WITH DEFICIT ON R SIDE-UNABLE TO MOVE R ARM AND R LEG, R FOOT CONTRACTED. CT SCAN SHOWED EPIDURAL HEMATOMA. ADDMITED TO N-SICU FOR HOURLY NEURO CHECK-UPS.
+
+CV: NSR C/ RARE PVC, NIPRIDE TITRATE TO MAINTAIN SBP < 140. NS AT 75 FOR MAINT. A-LINE AND R GROIN TRIPLE LUMEN. 
+
+RESP: LUNG SOUNDS CLEAR NC AT 3L C HUMUDIFIER, SATS 94 TO 98.
+
+GI/GU: FOLEY PATENT DRAINING YELLOW CLEAR URINE. LASIX DAILY. BOWEL SOUNDS PRESENT.
+
+SKIN: POTENTIAL FOR BREAKDOWN DUE TO R SIDED WEAKNESS.
+
+PLAN: CONTINUE MONITORING SBP--TITRATE NIPRIDE TO <140. CONTINUE TO MONITOR CHANGES IN MENTAL STATUS.
+",,
+24325,18960,30210,0,2968-12-28 18:27:00 EST,2968-12-28 18:31:00 EST,3450,"N",54,"Nursing/Other","STATUS UPDATE","
+STATUS UPDATE
+D: STABLE NEURO SIGNS THROUHGOUT DAY. NOTED TO HAVE L ARM TREMORS THAT WORSEN WITH ANXIETY. DISCUSSED WITH DR. [**First Name (STitle) 162**] AND HE FEELS THIS IS BASELINE. HEAD CT THIS A.M. SHOWED PROGRESSION OF BLEED SO PT TO REMAIN OVERNOC FOR CLOSE OBSERVATION OF NEURO STATUS. SBP MAINTAINED <140 ON NIPRIDE AND ALSO STARTED ON LOPRESSOR 5 MG Q6H. U/O ADEQUATE. TO REMAIN NPO OVER NOC. 
+",,
+24325,18960,30210,,2968-12-29 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2968-12-29**] 10:30 AM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 1561**]
+     Reason: assess size of epidural hematoma
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      66 year old man with fall  from wheelchair and incontinence.
+      assess size of epidural hematoma
+     REASON FOR THIS EXAMINATION:
+      assess size of epidural hematoma
+     ______________________________________________________________________________
+                                     FINAL REPORT  (REVISED)
+     HISTORY:  76 y/o man with extra axial hematoma. Evaluate for size.
+     
+     TECHNIQUE:  Noncontrast axial CT images of the brain were obtained.
+     
+     FINDINGS:  The left parietal extra axial hematoma is unchanged in size. There
+     is a small amount of mass effect impinging upo the posterior aspect of the
+     left lateral ventricle.  A small amount of high density hemorrhage layers in
+     the occipital [**Doctor Last Name 79**] of the left lateral ventricle.  A small amount of
+     subarachnoid blood is seen at the posterior aspect of the left sylvian fissure
+     adjacent to a large hypodense region of encephalomalacia.
+     
+     The ventricles are unchanged in size and there is no shift of normally midline
+     structures.  Bone algorithms show normal osseous structures.
+     
+     IMPRESSION:
+     1. Stable appearance of the brain. Left parietal extra axial hematoma is
+     unchanged in size.  Small amount of subarachnoid and intraventricular blood is
+     also unchanged.
+     
+     
+
+",,
+24325,,30210,0,2968-12-29 03:18:00 EST,2968-12-29 03:33:00 EST,-1,"N",54,"Nursing/Other","FOCUS: STATUS UPDATE","
+FOCUS: STATUS UPDATE
+NEURO STATUS STABLE OVER NOC. PERL. SLIGHTLY ANXIOUS OF HIS STAY IN HOSPITAL. LOPPRESOR DOSE INCREASED TO 7.5 MG AND LISINOPRIL STARTED FOR CONTROL OF HYPERTENSION C/ GOOD RESULT. NIPRIDE STOPPED. U/O ADEQUATE. NPO OVER NOC SIPS C/ MEDS. SLIDING SCALE FOR BS D/C. 
+",,
+24325,,30210,0,2968-12-29 18:55:00 EST,2968-12-29 18:56:00 EST,3409,"N",54,"Nursing/Other","nsg note","
+nsg note
+pt stable for transfer to [**Hospital 4476**] hospital tcu. to go via bcls ambulance. see page 2 transfer note.
+",,

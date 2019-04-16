@@ -1,0 +1,557 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+24957,23340,,,2739-04-01 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+ 
+ 
+ 
+Admission Date:  [**2739-4-1**]              Discharge Date:   [**2739-4-4**]
+ 
+Date of Birth:  [**2657-11-3**]             Sex:   M
+ 
+Service: SURGERY
+ 
+Allergies: 
+Penicillins
+ 
+Attending:[**First Name3 (LF) 631**] 
+Chief Complaint:
+BRBPR
+ 
+Major Surgical or Invasive Procedure:
+none
+
+ 
+History of Present Illness:
+pt is a 81y/o M recently discharged after an uneventful trans 
+anal excision (on [**3-24**]) of a rectal mass who represents with 
+complaints of rectal bleeding that has been ongoing since the 
+surgery.  Pt also takes coumadin at home for his AVR.  denies 
+sob, lightheadedness. 
+ 
+Past Medical History:
+AS
+MR
+[**First Name (Titles) 3121**]
+[**Last Name (Titles) **]-and brady, now with pacer
+HTN
+L diaphramatic hemiplesia
+L pleural effusion, now resolved
+parkinsons'
+IDDM
+s/p: ccy, appy, R TKR, AVR 
+ 
+Social History:
+pt lives with his wife at home
+
+ 
+Family History:
+nc
+ 
+Physical Exam:
+98.1 70 161/70 19 96% on ra
+NAD
+HEENT: NC/AT, PERRL
+cv: rrr, s1,s2
+Pulm: LCTA
+Abd, obese, soft, bs present
+ext: no edema
+ 
+Pertinent Results:
+[**2739-3-31**] 10:05PM   PT-14.6* PTT-34.9 INR(PT)-1.3*
+[**2739-3-31**] 10:05PM   PLT COUNT-222
+[**2739-3-31**] 10:05PM   WBC-8.9 RBC-3.41* HGB-10.3* HCT-29.6* MCV-87 
+MCH-30.1 MCHC-34.6 RDW-15.0
+ 
+Brief Hospital Course:
+Pt was admitted to the SICU for observation of his rectal 
+bleeding.  His rectum was packed and his hcts remained stable.  
+On HD2 his packing was removed and he was advanced to a liquid 
+diet.  He showed some more bleeding from his rectum and serial 
+hcts continued to be monitored, though they remained stable.  Pt 
+was advanced to a regular diet on HD3, but continued to have 
+periodic rectal bleeding.  He was demonstrated to be stable by 
+serial hcts, and was discharged to rehab on HD4 with plans to 
+begin to restart his coumadin and follow up at the end of the 
+week with a hct to re-evaluate his hemodynamic status. 
+ 
+Medications on Admission:
+insulin (humolog)
+celexa 
+toprol XL
+Lipitor
+lasix
+potasium
+lisinopril
+(coumadin-currently held)
+
+Note: pt states that he doesn't take the toprol, lisinopril, 
+lipitor
+ 
+Discharge Medications:
+1. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2 
+times a day).
+Disp:*60 Capsule(s)* Refills:*2*
+2. Citalopram 20 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+3. Metoprolol Succinate 25 mg Tablet Sustained Release 24HR Sig: 
+One (1) Tablet Sustained Release 24HR PO DAILY (Daily): hold for 
+SBP < 100, or hr< 60.
+Disp:*30 Tablet Sustained Release 24HR(s)* Refills:*2*
+4. Pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One 
+(1) Tablet, Delayed Release (E.C.) PO once a day.
+Disp:*30 Tablet, Delayed Release (E.C.)(s)* Refills:*2*
+5. Lasix 80 mg Tablet Sig: 1.5 Tablets PO once a day.
+Disp:*45 Tablet(s)* Refills:*2*
+6. Coumadin 2 mg Tablet Sig: One (1) Tablet PO at bedtime.
+Disp:*30 Tablet(s)* Refills:*2*
+7. Potassium 2.5 mEq Tablet Sig: Three (3) Tablet PO once a day: 
+take while taking lasix.
+Disp:*90 Tablet(s)* Refills:*2*
+8. Lipitor 10 mg Tablet Sig: One (1) Tablet PO once a day.
+Disp:*30 Tablet(s)* Refills:*2*
+9. Tylenol 325 mg Tablet Sig: 1-2 Tablets PO every 4-6 hours.
+Disp:*50 Tablet(s)* Refills:*2*
+10. Insulin Regular Human 300 unit/3 mL Insulin Pen Sig: One (1) 
+pen Subcutaneous QACHS: Give as per Sliding scale sheet attached 
+to discharge information.
+Disp:*1 pen* Refills:*3*
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+Epoch of [**Location (un) 2013**]
+ 
+Discharge Diagnosis:
+post op anemia
+post operative bleeding
+
+ 
+Discharge Condition:
+stable
+
+ 
+Discharge Instructions:
+Go to an Emergency Room or call the office if [**Doctor First Name **] experience new 
+and continuing nausea, vomiting, fevers (>101.5 F), abdominal 
+pain, chills, or shortness of breath.  Also go to the ER if [**Doctor First Name **] 
+notice an increase in the blood that [**Doctor First Name **] see coming from your 
+rectum.
+
+No heavy lifting or exertion for at least 6 weeks.
+
+No driving while taking pain medications.
+
+Narcotics can cause constipation.  Please take an over the 
+counter stool softener such as Colace or a gentle laxative such 
+as Milk of Magnesia if [**Doctor First Name **] experience constipation.
+
+[**Doctor First Name 27**] may resume your regular low fat diet as tolerated.
+
+It is important to rebuild your strength.  Please work hard in 
+your physical therapy.
+
+Please be sure to have your coagulation studies done at the end 
+of the week ([**2739-4-7**]).  This will evaluate how well the coumadin 
+is working.  Typically [**Doctor First Name **] take 4mg coumadin a night, but given 
+your recent bleeding we are starting [**Doctor First Name **] back on only 2mg a 
+night.  This may have to be adjusted by either your primary care 
+doctor or your cardiologist.
+ 
+Followup Instructions:
+Please follow up with Dr. [**Last Name (STitle) **] in his office in two 
+weeks.  His office number is: [**Telephone/Fax (1) 636**].
+
+Please also follow up with your cardiologist or primary care 
+doctor at the end of the week to check your coagulation studies. 
+
+
+ 
+                             [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 637**] MD [**MD Number 638**]
+ 
+Completed by: [**First Name8 (NamePattern2) 652**] [**Last Name (NamePattern1) 1859**] MD [**Last Name (un) 1860**] [**2739-4-4**] @ 1537
+Signed electronically by: DR. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) **]
+ on: WED [**2739-4-5**] 1:03 PM
+(End of Report)
+
+
+",,
+24957,23340,30985,0,2739-04-01 05:58:00 EST,2739-04-01 06:07:00 EST,4004,"N",53,"Nursing/Other","Condition Update B:","
+Condition Update B:
+Please refer to careview and remarks for details.
+
+Pt arrived from the ED with 2nd unit PRBC's infusing at 0500. PT VSS, afeb. A&Ox3, MAE, following commands, PERL 3mm/3mm. Pt c/o mild nausea (SICU team aware). ABD soft distended NT, BS pos. Pt c/o rectal pressure, unable to rate or describe pain, but declines pain med at this time. Denies SOB, dizziness, lightheadness. LS CTA. IS provided and instructions provided.
+
+PLAN: Serial hct every 4 hours. AM labs pending. Monitor hemodynamics. Provide emotional support. Call H.O. with changes.
+",,
+24957,23340,30985,0,2739-04-01 16:26:00 EST,2739-04-01 16:34:00 EST,3790,"N",53,"Nursing/Other","CONDITION UPDATE:","
+CONDITION UPDATE:
+D/A:  T [**Known patient firstname **] 98.6.
+
+NEURO:  A+OX3, MAE'S, JOKING WITH STAFF.  PERL.  PAIN AT TIMES IN BACK AND RECTAL PRESSURE.  MORPHINE WITH GOOD EFFECT X2 THUS FAR THIS SHIFT.  PT GOOD HISTORIAN, AKING APPROPRIATE QUESTIONS.
+
+CV:  HR 70, PACED, NO ECTOPY.  NBP ~ 166/60.  LASIX GIVEN PO X 1 WITH GOOD EFFECT.  FLUID BALANCE EW TO 1700 ~ EVEN.  LE'S MILD EDEMA.  P BOOTS FOR DVT PROPHYLAXIS.  NO SC HEPARIN OR COUMADIN STARTED.  SERIAL HCT CHECKS Q 4 HOURS WITH  31.9, 30.7. 30.0 WITH NEXT CHECK DUE @ 1800.  PT WITH MODERATE AMOUNT SERO-SANG DRAINAGE ON PAD UNDER RECTAL PACKING.  NO OTHER S+S OF ACTIVE BLEEDING.
+
+RESP:  LS CLEAR.  O2 SATS ~ 95% ON ROOM AIR, 99-100% WITH 2 L/M O2 VIA NC.  
+
+GI:  NPO.  PROTONIX.  IVF.  NO NAUSEA, + BS.  NOT TO REMOVE RECTAL PACKING PER DR. [**Last Name (STitle) 4194**], TO HAVE PT PASS IT NATURALLY WITH STOOLING OR TEAM WILL REMOVE IT IN AM IF IT IS STILL IN PLACE.  
+
+GU:  FOLEY-BSD WITH CLEAR YELLOW DRAINAGE.
+
+SX:  PT'S SON AND WIFE VISITED.
+
+R:  AFEBRILE, MILDLY HYPERTENSIVE ELDERLY MAN WITH STABLE Q 4 HOUR HCT'S S/P RECTAL PACKING FROM LARGE RECTAL BLEED FROM POLYP REMOVED [**2739-3-24**].
+
+P:  CONTINUE TO MONITOR VITAL SIGNS, RESP STATUS, GI STATUS, AND S+S OF ACTIVE BLEEDING.  CONTINUE TO MONITOR HCT AND LABS.  PT AND FAMILY SUPPORT.  PAIN CONTROL.
+",,
+24957,23340,30985,0,2739-04-02 05:19:00 EST,2739-04-02 05:44:00 EST,3647,"N",53,"Nursing/Other","focus hemodynmics","
+focus hemodynmics
+data: neuro: alert and oriented. moves all extremites  on the bed. needs assistance with turning in the bed due to rectal packing. 
+
+resp: breath sounds clear. o2 at 2liters np.  no difficiulty  with breathing. 
+
+cardiac: paced at 70  and no ectopy seen. lopressor 5mg iv q6hrs given. k falsely hemolysied at 5.4. iv d5ns wth 20meq kcl at 60cc/hr. sicu team aware. 
+
+gi abd soft and distended. rectal packing intact and chux changed x3 for bloody drainage. no stools.  npo. 
+
+gu:  foley patent and drainig yellow urine. 
+
+action: bedrest maintained. venodynes intact. iv d5ns with 20meq kcl at 60cc/hr. rectal packing intact. npo. mso4 2mg iv x2 given with good relief. update to wife. 
+
+response: monitor closely. ? tranfer to floor.
+",,
+24957,,,,2739-05-05 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2739-5-5**] 1:32 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 7888**]
+     Reason: r/o chf                                                     
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      81 year old man with sob                                                        
+     REASON FOR THIS EXAMINATION:
+      r/o chf                                                                         
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Shortness of breath.
+     
+     COMPARISON:  [**2736-5-2**].
+     
+     FINDINGS:  Patient is status post aortic valve replacement with median
+     sternotomy wires as well as placement of a left-sided pacer device with leads
+     in expected position.  There is mild elevation of the left hemidiaphragm and
+     atelectasis at the left base.  The lungs are otherwise clear.  No effusion or
+     pneumothorax is evident.
+
+",,
+24957,,,,2739-05-12 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2739-5-12**] 4:31 PM
+     ABDOMEN (SUPINE & ERECT)                                        Clip # [**Clip Number (Radiology) 7889**]
+     Reason: please eval; thanks                                         
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      81 year old man with ? constipation                                             
+     REASON FOR THIS EXAMINATION:
+      please eval; thanks                                                             
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Constipation.
+     
+     ABDOMEN, TWO VIEWS:  There are no comparisons.  Median sternotomy wires, pacer
+     electrodes, and an aortic valve are visualized.  There are no dilated loops of
+     large or small bowel, air-fluid levels, or evidence of free air.  No evidence
+     of bowel obstruction.
+                                                                           
+
+",,
+24957,,,,2739-10-29 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2739-10-29**] 8:51 PM
+     HIP UNILAT MIN 2 VIEWS RIGHT                                    Clip # [**Clip Number (Radiology) 7890**]
+     Reason: Eval for fx/dislocation                                     
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      81 year old man with hip pain, inability to bear weight after fall              
+     REASON FOR THIS EXAMINATION:
+      Eval for fx/dislocation                                                         
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  81-year-old man with hip pain and inability to bear weight.
+     
+     There is an acute avulsion fracture of the lateral right iliac bone, which is
+     displaced anteriorly with relation to the acetabulum.  There is no evidence
+     for hip fracture.  There is no evidence of hip dislocation.  The imaged pubic
+     rami, sacrum, and lumbar spine are unremarkable.
+     
+     IMPRESSION:  Avulsion fracture of the lateral right iliac bone with mild
+     anterior displacement of the fracture fragment.
+
+",,
+24957,,,,2739-10-29 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2739-10-29**] 10:48 PM
+     KNEE (AP, LAT & OBLIQUE) RIGHT                                  Clip # [**Clip Number (Radiology) 7892**]
+     Reason: Evaluate for patellar fx, other fx                          
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      81 year old man with inability to extend at knee after fall                     
+     REASON FOR THIS EXAMINATION:
+      Evaluate for patellar fx, other fx                                              
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Inability to extend knee after fall.
+     
+     RIGHT KNEE, THREE VIEWS.
+     
+     The patient is status post three-component knee prosthesis in overall anatomic
+     alignment.  No periprosthetic lucency to suggest loosening and no focal
+     osteolysis is identified.  There is some soft tissue density over [**Last Name (un) 7893**] fat
+     pad obscuring the interface with the patellar tendon as well as some soft
+     tissue density along the expected course of the suprapatellar recess.  I doubt
+     gross joint effusion.  Faint calcific flecks superimposed over [**Last Name (un) 7893**] fat pad
+     and the patellar tendon are noted.  However, no donor site is suggested to
+     confirm the presence of an avulsion.  Vascular calcification is present.
+     
+     IMPRESSION:  No fracture or hardware loosening.
+
+",,
+24957,,,,2739-10-29 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2739-10-29**] 8:51 PM
+     LUMBO-SACRAL SPINE (AP & LAT)                                   Clip # [**Clip Number (Radiology) 7891**]
+     Reason: Evaluate for fx                                             
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      81 year old man with back pain, unable to bear weight after fall                
+     REASON FOR THIS EXAMINATION:
+      Evaluate for fx                                                                 
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Back pain, on unable to bear weight, status post fall.
+     
+     LUMBOSACRAL SPINE, TWO VIEWS:  There is no evidence for a lumbar spine
+     fracture or malalignment.  There is diffuse disc space narrowing, most
+     prominently at L1-L2, L2-L3, L3-L4.  There is vacuum disc phenomenon at L4-L5
+     and L5-S1.  There is diffuse facet arthropathy and multiple bridging
+     osteophytes both laterally and anteriorly.  The imaged bowel gas pattern is
+     unremarkable.
+     
+     IMPRESSION:  Degenerative changes of the lumbar spine without evidence for
+     fracture or malalignment.
+                                                                           
+
+",,
+24957,,,,2739-10-29 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2739-10-29**] 10:48 PM
+     CHEST (PA & LAT)                                                Clip # [**Clip Number (Radiology) 7894**]
+     Reason: Evaluate for intrathoracic pathology                        
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      81 year old man with fall                                                       
+     REASON FOR THIS EXAMINATION:
+      Evaluate for intrathoracic pathology                                            
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Status post fall.
+     
+     PA and lateral chest x-ray dated [**2739-10-29**] compared to prior from [**2739-5-5**].  There
+     is a left-sided dual lead pacemaker with leads terminating in the right atrium
+     and right ventricle.  There is a prosthetic aortic valve.  Patient is status
+     post median sternotomy.  The heart size is normal.  There is no pulmonary
+     vascular congestion, infiltrate, pleural effusion, or pneumothorax.  The
+     surrounding osseous and soft tissue structures are unremarkable.
+     
+     IMPRESSION:  No evidence for acute cardiopulmonary abnormality.
+                                                                           
+
+",,
+24957,,,,2739-10-30 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2739-10-30**] 8:57 AM
+     CT PELVIS [**Hospital Unit Name **] W/O C                                           Clip # [**Clip Number (Radiology) 7895**]
+     Reason: r/o acentabular fracture                                    
+     Admitting Diagnosis: PELVIC FRACTURE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      81 year old man with leg pain with known pelvic fracture.                       
+     REASON FOR THIS EXAMINATION:
+      r/o acentabular fracture                                                        
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Known pelvic fracture.  Assess for acetabular fracture.
+     
+     Comparison is made to radiographs dated [**2739-10-29**].
+     
+     TECHNIQUE:  Noncontrast CT through the pelvis with coronally and sagittally
+     reformatted images.
+     
+     CT OF THE PELVIS:  Again seen is a fracture through the lateral aspect of the
+     iliac bone, extending to the anterior acetabulum.  Fracture lines extend into
+     the acetabular roof, although no fracture fragment is seen within the hip
+     joint space superiorly.  A tiny calcific [**Doctor Last Name 1741**] is seen within the inferior
+     dependent aspect of the hip joint.  The femoral head, neck, and imaged
+     portions of the proximal shaft appear unremarkable.  No left-sided pelvic
+     fractures are seen.
+     
+     A hip joint effusion and a soft tissue hematoma surrounding the fracture is
+     noted.  Additionally, there is a 1.8 cm abnormal appearing lymph node in the
+     right groin.  Distal to this, some soft tissues stranding and other smaller
+     lymph nodes with fatty hila are noted, possibly related to recent attempts at
+     femoral vein puncture or arterial puncture.
+     
+     There are bilateral fat-containing inguinal hernias.  Imaged portions of the
+     pelvic contents are grossly unremarkable within the limits of this unenhanced
+     exam.
+     
+     IMPRESSION:  
+     1.  Right iliac fracture extending into the anterior acetabulum and acetabular
+     roof.  While no definite underlying lesion is evident on these images, the
+     assessment is obscured by hematoma, and an underlying lesion cannot be
+     entirely excluded.  Followup with MRI in 3 months is recommended.
+     2.  Abnormal 18 mm lymph node in the right groin, for which correlation with
+     physical examination is recommended.  Does this patient have a history of
+     underlying malignancy?
+     
+     These findings, questions, and recommendations were discussed by telephone
+     with Dr. [**First Name8 (NamePattern2) 7896**] [**Last Name (NamePattern1) 5346**] by telephone at 12:15 p.m. on [**2739-11-2**].
+                                                                 (Over)
+
+     DATE: [**2739-10-30**] 8:57 AM
+     CT PELVIS [**Hospital Unit Name **] W/O C                                           Clip # [**Clip Number (Radiology) 7895**]
+     Reason: r/o acentabular fracture                                    
+     Admitting Diagnosis: PELVIC FRACTURE
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+
+             DR. [**First Name11 (Name Pattern1) 1731**] [**Initial (NamePattern1) **] [**Last Name (NamePattern4) 1732**]
+",,
+24957,,,,2739-10-30 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2739-10-30**] 10:47 AM
+     UNILAT LOWER EXT VEINS RIGHT                                    Clip # [**Clip Number (Radiology) 7897**]
+     Reason: PAIN RT LEG ASSESS FOR DVT
+     Admitting Diagnosis: PELVIC FRACTURE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      81 year old man with hx of pelvic fracture, has R calf tenderness               
+     REASON FOR THIS EXAMINATION:
+      please eval for evidence of DVT                                                 
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  81-year-old man with history of pelvic fracture with right calf
+     tenderness.  Evaluate for DVT.
+     
+     Both grayscale and color Doppler ultrasound examination was performed.  There
+     is normal compressibility, respiratory variation in response to augmentation
+     of the right common femoral, superficial femoral, and popliteal veins.  No
+     intraluminal filling defects are present.  Evaluation of the greater saphenous
+     vein is limited secondary to changes from the patient's prior surgery in this
+     region.
+     
+     IMPRESSION:  No deep venous thrombosis.
+                                                                           
+
+",,
+24957,,,,2739-11-30 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2739-11-30**] 10:02 AM
+     HIP UNILAT MIN 2 VIEWS RIGHT                                    Clip # [**Clip Number (Radiology) 7898**]
+     Reason: R hip Fx                                                    
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       81 year old man with hip pain, inability to bear weight after fall             
+       
+     REASON FOR THIS EXAMINATION:
+      R hip Fx                                                                        
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     RIGHT HIP, TWO VIEWS.
+     
+     INDICATION:  Right hip fracture.
+     
+     FINDINGS:  Comparison to [**2739-10-28**].  Previously identified vertically oriented
+     fracture of the right iliac [**Doctor First Name 84**] extending into the right acetabular roof is
+     again noted.  Alignment of the fracture is unchanged compared to the previous
+     exam.  No significant healing has occurred compared to the previous study.  No
+     significant degenerative changes are noted.  Trace vascular calcification is
+     seen.  Evaluation of the sacrum is partially obscured by overlying bowel gas. 
+     Soft tissues are otherwise unremarkable. There is mild degenerative change of
+     the right hip.
+     
+     IMPRESSION:
+     
+     Unchanged appearance of a vertically oriented right iliac [**Doctor First Name 84**] fracture
+     extending into the right acetabulum.
+                                                                           
+
+",,
+24957,,,,2740-01-18 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2740-1-18**] 9:25 AM
+     PELVIS (AP ONLY)                                                Clip # [**Clip Number (Radiology) 7899**]
+     Reason: 6 wk F/U   pelvis fx                                        
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        81 year old man with hip pain, inability to bear weight after fall            
+         
+     REASON FOR THIS EXAMINATION:
+      6 wk F/U   pelvis fx                                                            
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     RADIOGRAPH OF THE PELVIS 
+     
+     INDICATION:  81-year-old man with hip pain, inability to bear weight after
+     fall.  Pelvis fracture six weeks ago.
+     
+     COMPARISON:  [**2739-11-30**].
+     
+     FINDINGS:  Two images of the pelvis demonstrate interval callus formation of
+     the vertical oriented displaced right iliac [**Doctor First Name 84**] fracture.  No other
+     significant changes.  The sacrum is partially obscured by bowel gas.  Vascular
+     calcifications are again noted.  Degenerative changes of the lumbar spine
+     incompletely assessed on this pelvic radiograph.
+     
+     IMPRESSION:  Interval callus formation of the right iliac [**Doctor First Name 84**] fracture.
+
+",,
+24957,,40647,0,2741-02-03 15:58:00 EST,2741-02-03 16:11:00 EST,7572,"N",1,"Nursing/Other","Condition Update","
+Condition Update
+Assessment: 
+Please see carevue for details. 
+
+ Neuro: Pt A&Ox3, forgetful at times, MAE, PERLA, follows all commands. Denies pain
+
+ Resp: LS clear bilat, diminished at base. Denies SOB. Maintaining O2 sat > 95% on RA. R/O flu, droplet precations. 
+
+ CV: Remains Vpaced, HR 60-90's. SBP 90-115. Denies CP. +1 pedal edema noted. Troponin up to 0.10 from 0.05, MICU aware. K 5.4
+
+ GI: Abd soft, NT, pos bs. C/O nausea, zofran x1 with pos effect. No BM this shift. Tol clears
+
+ GU: Oliguric, u/o 10-25cc/hr via foley cath, u/a neg. 
+
+ Afebrile, tmax 99.8, abx as ordered. 
+
+Plan: Flu precautions until r/o, abx as ordered, monitor hemodynamics, monitor labs, provide pt and family with emotional support. 
+",,
+24957,,40647,0,2741-02-04 04:35:00 EST,2741-02-04 04:39:00 EST,6083,"N",1,"Nursing/Other","Nursing Progress Note","
+Nursing Progress Note
+Please see carvue for specifics:
+Pt very pleasant alert and oriented X3.  Very appropriate.  Pt heme stable overnoc.  SBP stable.  occ hypotensive when asleep.  HR- AV paced.  Pt requiring additional 500cc NS bolus over noc for low u/o.  Pt currently making 28-33cc/hr post bolus.  Otherwise with no other issues.  Trnf to floor today.  Plan: Cont with current plan of care
+",,
+24957,,40647,0,2741-02-04 14:31:00 EST,2741-02-04 14:31:00 EST,399,"N",1,"Nursing/Other","0700-1500","
+0700-1500
+see transfer note
+",,

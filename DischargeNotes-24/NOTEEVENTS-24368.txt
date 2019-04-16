@@ -1,0 +1,761 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+24368,,,,3159-07-04 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3159-7-4**] 3:02 PM
+     CHEST (PA & LAT)                                                Clip # [**Clip Number (Radiology) 1953**]
+     Reason: 57 year old man with fever neutropenia.
+     Admitting Diagnosis: LEUKEMIA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      57 year old man with fever and neutropenia and clinical exam worrisome for
+      pulmonary process.
+     REASON FOR THIS EXAMINATION:
+      57 year old man with fever neutropenia.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Fever, neutropenia.
+     
+     CHEST X-RAY:  Comparison is made to prior film dated [**3159-5-21**] and [**3158-6-29**].
+     
+     The tip of a PICC catheter is in the SVC.  The bony thorax is intact.  The
+     cardiac and mediastinal contours are within normal limits.  The lungs appear
+     clear, without evidence of pneumonia.  The posterior costophrenic angles are
+     not as sharply defined as on the [**3158-6-8**] film, of uncertain significance.
+     There is no evidence of significant pleural effusion.
+     
+     IMPRESSION: 1.  PICC catheter tip in SVC.
+     2.  No evidence of pneumonia.
+
+",,
+24368,,,,3159-07-07 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3159-7-7**] 9:58 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 1954**]
+     Reason: febrile neutropenia and cough
+     Admitting Diagnosis: LEUKEMIA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       57 year old man with h/o ALL, now with fevers, rigors                         
+     REASON FOR THIS EXAMINATION:
+      febrile neutropenia and cough
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CHEST:
+     
+     INDICATION:  History of ALL.  Now has fever and rigors.  Also has neutropenia
+     and cough.  Check cardiopulmonary status.
+     
+     FINDINGS:  Two AP upright images.  Comparison study dated [**7-4**].  The
+     appearances of the heart, lungs, pleura and mediastinum are within normal
+     limits.  No evidence of any pulmonary infiltrate or pleural effusion can be
+     identified.  There is no cardiac failure.  The left PICC line remains in good
+     position with its tip in the upper SVC.
+     
+     IMPRESSION:   No acute cardiopulmonary abnormality.
+     
+
+",,
+24368,12086,,,3159-07-22 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+ 
+ 
+ 
+Admission Date:  [**3159-7-22**]              Discharge Date:   [**3159-8-1**]
+ 
+Date of Birth:  [**3101-10-17**]             Sex:   M
+ 
+Service: OMED
+ 
+Allergies: 
+Patient recorded as having No Known Allergies to Drugs
+ 
+Attending:[**First Name3 (LF) 5248**] 
+Chief Complaint:
+fever and blood in stool
+ 
+Major Surgical or Invasive Procedure:
+bronchoscopy and EGD
+ 
+History of Present Illness:
+This is a 57 yo man with pmh significant for CML to ALL now s/p 
+allo BMT with recurrence, s/p three donor lymphocyte 
+transfusions most recent in [**6-/3159**] who presented to the 
+[**Hospital 5249**] clinic for routine platelet support, while in clinic 
+was found to be febrile and to pass grossly bloody diarrhea.  Pt 
+denies recent weight loss, abdominal pain, nausea, vomitting, 
+chest pain, hematemesis.  No chest pain/sob/headache/weakness.
+ 
+Past Medical History:
+1)Hyperlipidemia
+2)colon polyps
+3) Acute lymphoblastic leukemia and CML, as 
+mentioned above. S/P allogenic stem cell transplant from 
+sibling. 
+
+ 
+Social History:
+Married, with two children. Professor of Computer Science at 
+[**Hospital1 5250**]. Lifelong nonsmoker, modest 
+drinker. One alcoholic beverage every other day or so; however, 
+he has not been drinking since his transplant at all. He has two 
+sisters. One of his sisters was his transplant donor. 
+ 
+Family History:
+No apparent history of hematological disorders. 
+Mother died of ovarian cancer and father of renal failure. 
+
+ 
+Physical Exam:
+On final hospital day patient appeared weak.  His vital signs 
+were 95% on 2L, and vitals were otherwise stable.  PERRLA; OPC; 
+Cardiac exam rrr, normal s1s2, no m/r/g; left mid lung field 
+with localized rhonchi, otherwise normal; abdomen nontender, 
+without masses, extremities wwp, no c/c/e.
+ 
+Pertinent Results:
+[**3159-7-22**] 06:50PM   WBC-0.1* RBC-2.40* HGB-7.3* HCT-19.8* MCV-82 
+MCH-30.4 MCHC-36.9* RDW-15.4
+[**3159-7-22**] 06:50PM   PLT COUNT-14*#
+
+CT Chest
+IMPRESSION:
+
+1. Increased bilateral patchy consoliations with increased 
+pleural effusion, suggesting worsening infection, most likely 
+fungal.
+2. Small fluid adjacent to the gallbladder with gallstones which 
+may represent inflammation. Please correlate clinically and 
+perfoem further evaluation with ultrasound if needed.
+3.Small ascites anterior to liver
+ 
+Brief Hospital Course:
+Pt required significant amount of blood and platelet support 
+during hospitalization. He had melena throughout the hospital 
+course and hematemesis on three occasions totalling ~ 200 cc 
+blood. EDG found no active bleeding source but several areas of 
+localized gastritis. He was found to have multiple lung nodules 
+which appeared to be either fungal or septic emboli and was 
+treated with broad antifungal and antibiotic coverage.  
+Bronchoscopy showed many petechiae and gram stain was positive 
+for gram positive cocci, all cultures were negative.  He and his 
+family chose to make his status DNR/DNI and the decision was 
+made to return home to hospice care.  He died in the hospital, 
+of medical problems associated with his leukemia.
+ 
+Medications on Admission:
+Gleevec
+ 
+Discharge Medications:
+n/a
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Acute Lymphoid Leukemia
+ 
+Discharge Condition:
+n/a
+ 
+Discharge Instructions:
+n/a
+ 
+Followup Instructions:
+n/a
+ 
+                             [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 5251**] MD [**MD Number 5252**]
+ 
+Completed by: [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **] MD [**MD Number 3105**] [**3159-8-13**] @ 2102
+Signed electronically by: DR. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 885**]
+ on: WED [**3159-8-19**] 1:32 PM
+(End of Report)
+
+
+",,
+24368,12086,,,3159-07-22 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3159-7-22**] 1:01 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 1955**]
+     Reason: fever and neutropenia
+     ICD9 code from order: 205.1
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       57 year old man with h/o ALL, now with fevers and neutropenia
+     REASON FOR THIS EXAMINATION:
+      fever and neutropenia
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY: ALL with fever.
+     
+     COMPARISON: [**3159-7-7**]. Compared to the prior study there has been no
+     interval change. The lungs are clear of infiltrate. Heart and mediastinum are
+     not enlarged. There are low lung volumes.
+     
+     IMPRESSION: No focal infiltrate.
+
+",,
+24368,12086,,,3159-07-23 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3159-7-23**] 4:14 PM
+     CHEST (PA & LAT)                                                Clip # [**Clip Number (Radiology) 1956**]
+     Reason: pre bmt evaluation
+     Admitting Diagnosis: FEVER;NEUTROPENIA;LEUKEMIA
+     ICD9 code from order: 205/10
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      57 year old man with fever and neutropenia and clinical exam worrisome for
+      pulmonary process.
+     REASON FOR THIS EXAMINATION:
+      pre bmt evaluation
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Fever and neutropenia, clinical exam worrisome for pulmonary
+     process.
+     
+     COMPARISON:  Portable AP [**3159-7-22**] and PA and lateral [**3159-7-4**].
+     
+     PA AND LATERAL CHEST:   The cardiac, mediastinal and hilar contours are within
+     normal limits.  On the lateral film, there are at least three, rounded nodular
+     densities which were not present on the previous lateral study from [**3159-7-4**].
+     Two of these rounded nodules appear posteriorly overlying the vertebrae and
+     the third is within the superior mediastinum anteriorly.  These nodules are
+     not well visualized on the PA film.  There may be one within the left lower
+     lobe, anterior to the left heart border.  The lungs otherwise are clear. There
+     are no pleural effusions.  The pulmonary vasculature is within normal limits.
+     
+     IMPRESSION:
+     New, round opacities seen on the lateral film which were not present on the
+     previous study.  These are difficult to identify on the AP film.  As this
+     patient is pre-operative for bone marrow transplant, a CT is recommended to
+     further assess these opacities.
+
+",,
+24368,12086,,,3159-07-23 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3159-7-23**] 4:33 PM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 1957**]
+     CT 150CC NONIONIC CONTRAST; CT RECONSTRUCTION
+     Reason: decreasing hct, fever, mildly bloody diarrhea in neutropenic
+     Admitting Diagnosis: FEVER;NEUTROPENIA;LEUKEMIA
+     Field of view: 38 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      57 year old man with all, decr hct, blood in diarrhea, fever
+     REASON FOR THIS EXAMINATION:
+      decreasing hct, fever, mildly bloody diarrhea in neutropenic leukemai pt
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  CLL, bloody diarrhea, fever, neutropenia.
+     
+     COMPARISON:  [**3159-2-17**].
+     
+     TECHNIQUE:   Helically acquired contiguous axial images were obtained from the
+     lung bases to the pubic symphysis following the administration of 120 cc of IV
+     optiray.  Non-ionic contrast was administered secondary to patient's debility.
+      Coronal and sagittal reconstructions were performed.
+     
+     CT OF THE ABDOMEN WITH IV CONTRAST:  Within the left lower lobe, there has
+     been interval development of a new non-calcified pulmonary nodule measuring
+     2.0 x 1.8 cm, with spiculated borders, findings suggestive of an infectious
+     etiology.  Additionally, a second smaller non-calcified round pulmonary nodule
+     is identified within the right lower lobe, which was not seen on the prior
+     study, measuring 6 mm.  A tiny left pleural effusion is present.
+     
+     The liver is normal without evidence of focal hepatic masses.  Tiny layering
+     gallstones are seen within the gallbladder without evidence of pericholecystic
+     fluid, intra or extrahepatic biliary duct dilatation, or gallbladder wall
+     edema.  The pancreas, spleen, adrenal glands, both kidneys, proximal ureters,
+     stomach, and loops of small bowel are all within normal limits.  Trace amount
+     of free fluid is seen within the abdomen adjacent to the right paracolic
+     gutter.  There is no free air.  There is no evidence of bowel obstruction.  No
+     significant mesenteric or retroperitoneal lymphadenopathy.
+     
+     CT OF THE PELVIS WITH IV CONTRAST:  The sigmoid colon is not well distended
+     with contrast, however, the wall appears indistinct, thickened, and
+     hypoenhancing.  Similar changes appear within the distal segment of the
+     descending colon.  There is no pericolonic fat stranding, evidence of
+     perforation, obstruction, or abscess formation.  No diverticula are noted.
+     Contrast is seen in the rectum.  A small amount of free fluid is seen within
+     the pelvis.  Distal ureters, bladder, prostate are all within normal limits.
+     No significant pelvic or inguinal lymphadenopathy is present.
+     
+     BONE WINDOWS:  No suspicious lytic or sclerotic lesions are present.
+     
+     CT RECONSTRUCTIONS: Coronal and saagittal reconstructions were essential in
+     delineating the wall thickening and hypoenhancement of the descending colon
+     and sigmoid colon.
+                                                                 (Over)
+
+     DATE: [**3159-7-23**] 4:33 PM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 1957**]
+     CT 150CC NONIONIC CONTRAST; CT RECONSTRUCTION
+     Reason: decreasing hct, fever, mildly bloody diarrhea in neutropenic
+     Admitting Diagnosis: FEVER;NEUTROPENIA;LEUKEMIA
+     Field of view: 38 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     
+     IMPRESSION:
+     
+     1)  Ill-defined thickening of the wall of the descending and sigmoid colon
+     with hypoenhancement, findings likely suggestive of an inflammatory process
+     such as infection, inflammatory bowel disease, and less likely ischemia. There
+     is no evidence of bowel obstruction, perforation, or adjacent inflammatory fat
+     stranding.
+     2)  Interval development of new spiculated lesion within the lower lobe, which
+     may represent an infectious process.  Neoplastic process is less likely given
+     the time course of this lesion.  Interval development of new pulmonary nodule
+     within the right lower lobe.  Tiny left pleural effusion.
+     3)  Trace amount of free fluid within the abdomen, and small amount of free
+     fluid within the pelvis.
+     4)  Cholelithiasis without evidence of cholecystitis.
+     
+
+",,
+24368,12086,,,3159-07-23 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3159-7-23**] 4:33 PM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 1957**]
+     CT 150CC NONIONIC CONTRAST; CT RECONSTRUCTION
+     Reason: decreasing hct, fever, mildly bloody diarrhea in neutropenic
+     Admitting Diagnosis: FEVER;NEUTROPENIA;LEUKEMIA
+     Field of view: 38 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      57 year old man with all, decr hct, blood in diarrhea, fever
+     REASON FOR THIS EXAMINATION:
+      decreasing hct, fever, mildly bloody diarrhea in neutropenic leukemai pt
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  CLL, bloody diarrhea, fever, neutropenia.
+     
+     COMPARISON:  [**3159-2-17**].
+     
+     TECHNIQUE:   Helically acquired contiguous axial images were obtained from the
+     lung bases to the pubic symphysis following the administration of 120 cc of IV
+     optiray.  Non-ionic contrast was administered secondary to patient's debility.
+      Coronal and sagittal reconstructions were performed.
+     
+     CT OF THE ABDOMEN WITH IV CONTRAST:  Within the left lower lobe, there has
+     been interval development of a new non-calcified pulmonary nodule measuring
+     2.0 x 1.8 cm, with spiculated borders, findings suggestive of an infectious
+     etiology.  Additionally, a second smaller non-calcified round pulmonary nodule
+     is identified within the right lower lobe, which was not seen on the prior
+     study, measuring 6 mm.  A tiny left pleural effusion is present.
+     
+     The liver is normal without evidence of focal hepatic masses.  Tiny layering
+     gallstones are seen within the gallbladder without evidence of pericholecystic
+     fluid, intra or extrahepatic biliary duct dilatation, or gallbladder wall
+     edema.  The pancreas, spleen, adrenal glands, both kidneys, proximal ureters,
+     stomach, and loops of small bowel are all within normal limits.  Trace amount
+     of free fluid is seen within the abdomen adjacent to the right paracolic
+     gutter.  There is no free air.  There is no evidence of bowel obstruction.  No
+     significant mesenteric or retroperitoneal lymphadenopathy.
+     
+     CT OF THE PELVIS WITH IV CONTRAST:  The sigmoid colon is not well distended
+     with contrast, however, the wall appears indistinct, thickened, and
+     hypoenhancing.  Similar changes appear within the distal segment of the
+     descending colon.  There is no pericolonic fat stranding, evidence of
+     perforation, obstruction, or abscess formation.  No diverticula are noted.
+     Contrast is seen in the rectum.  A small amount of free fluid is seen within
+     the pelvis.  Distal ureters, bladder, prostate are all within normal limits.
+     No significant pelvic or inguinal lymphadenopathy is present.
+     
+     BONE WINDOWS:  No suspicious lytic or sclerotic lesions are present.
+     
+     CT RECONSTRUCTIONS: Coronal and saagittal reconstructions were essential in
+     delineating the wall thickening and hypoenhancement of the descending colon
+     and sigmoid colon.
+                                                                 (Over)
+
+     DATE: [**3159-7-23**] 4:33 PM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 1957**]
+     CT 150CC NONIONIC CONTRAST; CT RECONSTRUCTION
+     Reason: decreasing hct, fever, mildly bloody diarrhea in neutropenic
+     Admitting Diagnosis: FEVER;NEUTROPENIA;LEUKEMIA
+     Field of view: 38 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     
+     IMPRESSION:
+     
+     1)  Ill-defined thickening of the wall of the descending and sigmoid colon
+     with hypoenhancement, findings likely suggestive of an inflammatory process
+     such as infection, inflammatory bowel disease, and less likely ischemia. There
+     is no evidence of bowel obstruction, perforation, or adjacent inflammatory fat
+     stranding.
+     2)  Interval development of new spiculated lesion within the lower lobe, which
+     may represent an infectious process.  Neoplastic process is less likely given
+     the time course of this lesion.  Interval development of new pulmonary nodule
+     within the right lower lobe.  Tiny left pleural effusion.
+     3)  Trace amount of free fluid within the abdomen, and small amount of free
+     fluid within the pelvis.
+     4)  Cholelithiasis without evidence of cholecystitis.
+     
+
+",,
+24368,12086,,,3159-07-23 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3159-7-23**] 4:33 PM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 1957**]
+     CT 150CC NONIONIC CONTRAST; CT RECONSTRUCTION
+     Reason: decreasing hct, fever, mildly bloody diarrhea in neutropenic
+     Admitting Diagnosis: FEVER;NEUTROPENIA;LEUKEMIA
+     Field of view: 38 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      57 year old man with all, decr hct, blood in diarrhea, fever
+     REASON FOR THIS EXAMINATION:
+      decreasing hct, fever, mildly bloody diarrhea in neutropenic leukemai pt
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  CLL, bloody diarrhea, fever, neutropenia.
+     
+     COMPARISON:  [**3159-2-17**].
+     
+     TECHNIQUE:   Helically acquired contiguous axial images were obtained from the
+     lung bases to the pubic symphysis following the administration of 120 cc of IV
+     optiray.  Non-ionic contrast was administered secondary to patient's debility.
+      Coronal and sagittal reconstructions were performed.
+     
+     CT OF THE ABDOMEN WITH IV CONTRAST:  Within the left lower lobe, there has
+     been interval development of a new non-calcified pulmonary nodule measuring
+     2.0 x 1.8 cm, with spiculated borders, findings suggestive of an infectious
+     etiology.  Additionally, a second smaller non-calcified round pulmonary nodule
+     is identified within the right lower lobe, which was not seen on the prior
+     study, measuring 6 mm.  A tiny left pleural effusion is present.
+     
+     The liver is normal without evidence of focal hepatic masses.  Tiny layering
+     gallstones are seen within the gallbladder without evidence of pericholecystic
+     fluid, intra or extrahepatic biliary duct dilatation, or gallbladder wall
+     edema.  The pancreas, spleen, adrenal glands, both kidneys, proximal ureters,
+     stomach, and loops of small bowel are all within normal limits.  Trace amount
+     of free fluid is seen within the abdomen adjacent to the right paracolic
+     gutter.  There is no free air.  There is no evidence of bowel obstruction.  No
+     significant mesenteric or retroperitoneal lymphadenopathy.
+     
+     CT OF THE PELVIS WITH IV CONTRAST:  The sigmoid colon is not well distended
+     with contrast, however, the wall appears indistinct, thickened, and
+     hypoenhancing.  Similar changes appear within the distal segment of the
+     descending colon.  There is no pericolonic fat stranding, evidence of
+     perforation, obstruction, or abscess formation.  No diverticula are noted.
+     Contrast is seen in the rectum.  A small amount of free fluid is seen within
+     the pelvis.  Distal ureters, bladder, prostate are all within normal limits.
+     No significant pelvic or inguinal lymphadenopathy is present.
+     
+     BONE WINDOWS:  No suspicious lytic or sclerotic lesions are present.
+     
+     CT RECONSTRUCTIONS: Coronal and saagittal reconstructions were essential in
+     delineating the wall thickening and hypoenhancement of the descending colon
+     and sigmoid colon.
+                                                                 (Over)
+
+     DATE: [**3159-7-23**] 4:33 PM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 1957**]
+     CT 150CC NONIONIC CONTRAST; CT RECONSTRUCTION
+     Reason: decreasing hct, fever, mildly bloody diarrhea in neutropenic
+     Admitting Diagnosis: FEVER;NEUTROPENIA;LEUKEMIA
+     Field of view: 38 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     
+     IMPRESSION:
+     
+     1)  Ill-defined thickening of the wall of the descending and sigmoid colon
+     with hypoenhancement, findings likely suggestive of an inflammatory process
+     such as infection, inflammatory bowel disease, and less likely ischemia. There
+     is no evidence of bowel obstruction, perforation, or adjacent inflammatory fat
+     stranding.
+     2)  Interval development of new spiculated lesion within the lower lobe, which
+     may represent an infectious process.  Neoplastic process is less likely given
+     the time course of this lesion.  Interval development of new pulmonary nodule
+     within the right lower lobe.  Tiny left pleural effusion.
+     3)  Trace amount of free fluid within the abdomen, and small amount of free
+     fluid within the pelvis.
+     4)  Cholelithiasis without evidence of cholecystitis.
+     
+
+",,
+24368,12086,,,3159-07-23 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3159-7-23**] 4:33 PM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 1957**]
+     CT 150CC NONIONIC CONTRAST; CT RECONSTRUCTION
+     Reason: decreasing hct, fever, mildly bloody diarrhea in neutropenic
+     Admitting Diagnosis: FEVER;NEUTROPENIA;LEUKEMIA
+     Field of view: 38 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      57 year old man with all, decr hct, blood in diarrhea, fever
+     REASON FOR THIS EXAMINATION:
+      decreasing hct, fever, mildly bloody diarrhea in neutropenic leukemai pt
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  CLL, bloody diarrhea, fever, neutropenia.
+     
+     COMPARISON:  [**3159-2-17**].
+     
+     TECHNIQUE:   Helically acquired contiguous axial images were obtained from the
+     lung bases to the pubic symphysis following the administration of 120 cc of IV
+     optiray.  Non-ionic contrast was administered secondary to patient's debility.
+      Coronal and sagittal reconstructions were performed.
+     
+     CT OF THE ABDOMEN WITH IV CONTRAST:  Within the left lower lobe, there has
+     been interval development of a new non-calcified pulmonary nodule measuring
+     2.0 x 1.8 cm, with spiculated borders, findings suggestive of an infectious
+     etiology.  Additionally, a second smaller non-calcified round pulmonary nodule
+     is identified within the right lower lobe, which was not seen on the prior
+     study, measuring 6 mm.  A tiny left pleural effusion is present.
+     
+     The liver is normal without evidence of focal hepatic masses.  Tiny layering
+     gallstones are seen within the gallbladder without evidence of pericholecystic
+     fluid, intra or extrahepatic biliary duct dilatation, or gallbladder wall
+     edema.  The pancreas, spleen, adrenal glands, both kidneys, proximal ureters,
+     stomach, and loops of small bowel are all within normal limits.  Trace amount
+     of free fluid is seen within the abdomen adjacent to the right paracolic
+     gutter.  There is no free air.  There is no evidence of bowel obstruction.  No
+     significant mesenteric or retroperitoneal lymphadenopathy.
+     
+     CT OF THE PELVIS WITH IV CONTRAST:  The sigmoid colon is not well distended
+     with contrast, however, the wall appears indistinct, thickened, and
+     hypoenhancing.  Similar changes appear within the distal segment of the
+     descending colon.  There is no pericolonic fat stranding, evidence of
+     perforation, obstruction, or abscess formation.  No diverticula are noted.
+     Contrast is seen in the rectum.  A small amount of free fluid is seen within
+     the pelvis.  Distal ureters, bladder, prostate are all within normal limits.
+     No significant pelvic or inguinal lymphadenopathy is present.
+     
+     BONE WINDOWS:  No suspicious lytic or sclerotic lesions are present.
+     
+     CT RECONSTRUCTIONS: Coronal and saagittal reconstructions were essential in
+     delineating the wall thickening and hypoenhancement of the descending colon
+     and sigmoid colon.
+                                                                 (Over)
+
+     DATE: [**3159-7-23**] 4:33 PM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 1957**]
+     CT 150CC NONIONIC CONTRAST; CT RECONSTRUCTION
+     Reason: decreasing hct, fever, mildly bloody diarrhea in neutropenic
+     Admitting Diagnosis: FEVER;NEUTROPENIA;LEUKEMIA
+     Field of view: 38 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     
+     IMPRESSION:
+     
+     1)  Ill-defined thickening of the wall of the descending and sigmoid colon
+     with hypoenhancement, findings likely suggestive of an inflammatory process
+     such as infection, inflammatory bowel disease, and less likely ischemia. There
+     is no evidence of bowel obstruction, perforation, or adjacent inflammatory fat
+     stranding.
+     2)  Interval development of new spiculated lesion within the lower lobe, which
+     may represent an infectious process.  Neoplastic process is less likely given
+     the time course of this lesion.  Interval development of new pulmonary nodule
+     within the right lower lobe.  Tiny left pleural effusion.
+     3)  Trace amount of free fluid within the abdomen, and small amount of free
+     fluid within the pelvis.
+     4)  Cholelithiasis without evidence of cholecystitis.
+     
+
+",,
+24368,12086,,,3159-07-24 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3159-7-24**] 9:09 AM
+     CT CHEST W/O CONTRAST; CT RECONSTRUCTION                        Clip # [**Clip Number (Radiology) 1958**]
+     Reason: Leukemic pt with new pulm nodules seen on ct abd [**7-23**], may n
+     Admitting Diagnosis: FEVER;NEUTROPENIA;LEUKEMIA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      57 year old man with acute leukemia,febrile, lung nodules seen on abd ct
+     REASON FOR THIS EXAMINATION:
+      Leukemic pt with new pulm nodules seen on ct abd [**7-23**], may need bronch today
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  57 year old man with leukemia with pulmonary nodules.
+     
+     TECHNIQUE:  Contiguous axial images of the chest were obtained at end-
+     inspiration without the administration of IV contrast [**Doctor Last Name 92**].  Additional
+     selected images at end-expiration were also obtained.  Multiplanar reformatted
+     images were also reconstructed.  Comparison is made with the previous CT study
+     dated [**3159-2-8**].
+     
+     FINDINGS:  There are multiple ill-defined nodules with spiculated nodules,
+     measuring 1-2 cm in diameter, three in the left lower lobe and one in the left
+     upper lobe. The bronchus are seen going into these nodules.  These nodules
+     were not detected in the previous CT scan.
+     
+     There are tiny sub-centimeter nodules in right lower lobe and right upper lobe
+     and left upper lobe.  These nodules have not been changed since the previous
+     study.
+     
+     There is a small left pleural effusion.
+     
+     The patient has tiny ascites, which has been continued since the previous
+     study.
+     
+     There is no lymphadenopathy.
+     
+     There are no apparent abnormalities in bony structures.
+     
+     The reformatted images confirm the above findings.
+     
+     IMPRESSION:
+     
+     1) New multiple ill-defined nodular opacities were noted, three in the left
+     lower lobe and one in the left upper lobe.  These nodules are highly
+     suggestive of fungal infection, especially invasive aspergillosis.
+     
+     2) Multiple tiny nodules in bilateral lungs have not been changed since the
+     previous study.
+     
+     
+                                                                 (Over)
+
+     DATE: [**3159-7-24**] 9:09 AM
+     CT CHEST W/O CONTRAST; CT RECONSTRUCTION                        Clip # [**Clip Number (Radiology) 1958**]
+     Reason: Leukemic pt with new pulm nodules seen on ct abd [**7-23**], may n
+     Admitting Diagnosis: FEVER;NEUTROPENIA;LEUKEMIA
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+
+",,
+24368,12086,,,3159-07-24 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3159-7-24**] 9:09 AM
+     CT CHEST W/O CONTRAST; CT RECONSTRUCTION                        Clip # [**Clip Number (Radiology) 1958**]
+     Reason: Leukemic pt with new pulm nodules seen on ct abd [**7-23**], may n
+     Admitting Diagnosis: FEVER;NEUTROPENIA;LEUKEMIA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      57 year old man with acute leukemia,febrile, lung nodules seen on abd ct
+     REASON FOR THIS EXAMINATION:
+      Leukemic pt with new pulm nodules seen on ct abd [**7-23**], may need bronch today
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  57 year old man with leukemia with pulmonary nodules.
+     
+     TECHNIQUE:  Contiguous axial images of the chest were obtained at end-
+     inspiration without the administration of IV contrast [**Doctor Last Name 92**].  Additional
+     selected images at end-expiration were also obtained.  Multiplanar reformatted
+     images were also reconstructed.  Comparison is made with the previous CT study
+     dated [**3159-2-8**].
+     
+     FINDINGS:  There are multiple ill-defined nodules with spiculated nodules,
+     measuring 1-2 cm in diameter, three in the left lower lobe and one in the left
+     upper lobe. The bronchus are seen going into these nodules.  These nodules
+     were not detected in the previous CT scan.
+     
+     There are tiny sub-centimeter nodules in right lower lobe and right upper lobe
+     and left upper lobe.  These nodules have not been changed since the previous
+     study.
+     
+     There is a small left pleural effusion.
+     
+     The patient has tiny ascites, which has been continued since the previous
+     study.
+     
+     There is no lymphadenopathy.
+     
+     There are no apparent abnormalities in bony structures.
+     
+     The reformatted images confirm the above findings.
+     
+     IMPRESSION:
+     
+     1) New multiple ill-defined nodular opacities were noted, three in the left
+     lower lobe and one in the left upper lobe.  These nodules are highly
+     suggestive of fungal infection, especially invasive aspergillosis.
+     
+     2) Multiple tiny nodules in bilateral lungs have not been changed since the
+     previous study.
+     
+     
+                                                                 (Over)
+
+     DATE: [**3159-7-24**] 9:09 AM
+     CT CHEST W/O CONTRAST; CT RECONSTRUCTION                        Clip # [**Clip Number (Radiology) 1958**]
+     Reason: Leukemic pt with new pulm nodules seen on ct abd [**7-23**], may n
+     Admitting Diagnosis: FEVER;NEUTROPENIA;LEUKEMIA
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+
+",,
+24368,12086,30258,0,3159-07-28 11:39:00 EST,3159-07-28 11:47:00 EST,379,"N",69,"Nursing/Other","MSICU EGD NOTE","
+MSICU EGD NOTE
+please see careview flowsheet for details...
+
+
+PT arrived to ICU via stretcher from 7F for EGD. A&O x3. Using urinal and passed 1 blackish/greenish stool. Recived total of 2.5mg Versed and 50mics of Fentanyl. Tol procedure well. Recieved 300ccNS during EGD. Also given 1bag platelets. Will need plt ct at 1315. Plan for second beg of platelets per GI team. Currently moves all extremities, O2sat RA 98%. BP at pre-procedure baseline and pt is awake conversing with wife. Gag not back yet and pt NPO. Recovery score currently  10. Able to return to 7F. Wife in. GI team will follow-up with wife.
+",,
+24368,12086,,,3159-07-31 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3159-7-31**] 11:47 AM
+     CT CHEST W/O CONTRAST                                           Clip # [**Clip Number (Radiology) 1959**]
+     Reason: follow up of lung nodules s/p antifungal and antibacterial t
+     Admitting Diagnosis: FEVER;NEUTROPENIA;LEUKEMIA
+     Field of view: 38
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      57 year old man with acute leukemia,febrile, lung nodules
+     REASON FOR THIS EXAMINATION:
+      follow up of lung nodules s/p antifungal and antibacterial therapy in pt with
+      acute leukemia
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Acute leukemia and fever and lung nodules.
+     
+     TECHNIQUE:  Axial 5-mm CT images of the chest were obtained without
+     administration of IV contrast [**Doctor Last Name 92**].  Comparison is made with the previous CT
+     study dated [**3159-7-24**].
+     
+     FINDINGS:  Again noted are bilateral multiple ill-defined nodules and
+     consolidations, surrounded by the ground-glass opacities, which have increased
+     in size compared to the previous study.  The bilateral pleural effusions have
+     also increased.
+     
+     There is no mediastinal or hilar lymphadenopathy.  In the posterior part of
+     the trachea, small soft tissue density is noted, most likely representing
+     mucous secretion.
+     
+     In the visualized portion of the upper abdomen, a small gallstone is noted.
+     Note is made of a small effusion around the galblladder, which is not enlarged
+     or thickened.  There is a small amount of ascites anterior to the liver. Again
+     noted is a small nodular region anterior to the spleen, suggesting accessory
+     spleen.  There is a small possible Morgagni hernia.
+     
+     There is no sclerotic or lytic lesion in the bony structurers.
+     
+     IMPRESSION:
+     
+     1. Increased bilateral patchy consoliations with increased pleural effusion,
+     suggesting worsening infection, most likely fungal.
+     2. Small fluid adjacent to the gallbladder with gallstones which may represent
+     inflammation.  Please correlate clinically and perfoem further evaluation with
+     ultrasound if needed.
+     3.Small ascites anterior to liver.
+     
+
+",,

@@ -1,0 +1,468 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+24021,17571,,,2931-04-12 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+ 
+ 
+ 
+Admission Date:  [**2931-4-12**]              Discharge Date:   [**2931-4-24**]
+ 
+Date of Birth:  [**2877-5-22**]             Sex:   F
+ 
+Service: CARDIOTHORACIC
+ 
+Allergies: 
+Penicillins / Codeine
+ 
+Attending:[**First Name3 (LF) 2782**] 
+Chief Complaint:
+shortness of breath
+ 
+Major Surgical or Invasive Procedure:
+[**2931-4-19**] - CABG X 2 (LIMA->LAD, Vein to obtuse marginal), Mitral 
+valve replacement (25mm Mosaic Porcine Valve)
+[**2931-4-16**] - Cardiac Catheterization
+[**2931-4-13**] - Stress Test
+
+ 
+History of Present Illness:
+53 yo F with diastolic CHF, CAD, DM, Hep C, presents with 
+progressive dyspnea on exertion and chest pain.  The patient has 
+been having progressive dyspnea over the past 3-4 weeks.  The 
+symptoms are worsened by even mild activity such as sweeping the 
+floor.  She also has been having intermittent L chest pain with 
+out radiation or diaphoresis.  This pain worsens with activity 
+and improves with rest.  Furthermore the patient has been having 
+a productive cough with brown sputum.  Patient is a difficult 
+historian.
+.
+Denies fevers, chills, nausea, vomiting, diarrhea.  Reports no 
+change in her chronic abdominal pain or chronic orthopnea.  
+Patient speaks slowly with a flat affect.
+.
+In the ED patient was given 60mg IV lasix, levoflox 500mg IV.
+
+Agree with Nightfloat admission note. The patient is not able to 
+provide a fully consistent history. She mentions feeling more 
+ill over the past several weeks, which has included increased 
+SOB as well as intermittent chest pain. She believes the CP 
+radiates to both arms is described as sharp rather than 
+sqeezing. She has noted increased SOB when performing her daily 
+activities, she is highly sedentery recently, no stairs or walks 
+outside of the home. She is currently chest pain free. No 
+fevers, chills, no cough or wheezing.
+ 
+Past Medical History:
+1. CAD - pMIBI ([**2930-6-21**] negative EKG changes, no CP, no 
+perfusion  
+defects, EF 70%)  
+2. Diastolic CHF, 2+ MR  
+3. hypertension  
+4. diabetes mellitus type II  
+5. hepatitis c - untreated  
+6. cervical cancer - s/p TAH/BSO/peritoneal washing for adnexal 
+masses  
+7. abdominal aortic aneurysm repair in [**2914**] with  
+8. s/p chole 1993  
+9. PVD: aorto/fem bypass then with Thrombectomy and patch 
+angioplasty of common femoral arteries in [**2920**]  
+10. iv drug abuse - quit methadone program. actively using now.  
+
+11. asthma/chronic obstructive pulmonary disease / emphysema  
+12. total body pain  
+13. abdominal pain with adhesions  
+ 
+Social History:
+smokes [**12-25**] ppd x 35 yrs
+denies etoh
+history of heroin use, on methadone
+ 
+Family History:
+No diabetes; MI (dad-?age); heart disease (brother - quintuple 
+bypass); HTN (dad); cancer (breast-aunt; lung-brother);  
+depression (mom, dad).  
+
+ 
+Physical Exam:
+VS T 97.6 P 86 BP 116/63 R 16 O2 97 on 2L
+Gen - flat affect, tired, Ox3
+HEENT - EOMI, PERRL, OP clear
+Neck - supple, No LAD, no JVD
+Cor - RRR, sys murmur at apex
+Chest crackles at bases bilat
+Abd - diffusely tender, large healed scar down center
+Ext- w/wp no c/c/e, 1+ DP
+ 
+Pertinent Results:
+[**2931-4-12**] 11:27PM URINE  HOURS-RANDOM
+[**2931-4-12**] 11:27PM URINE  bnzodzpn-POS barbitrt-NEG opiates-NEG 
+cocaine-NEG amphetmn-NEG mthdone-POS
+[**2931-4-12**] 11:27PM URINE  COLOR-Straw APPEAR-Clear SP [**Last Name (un) 223**]-1.005
+[**2931-4-12**] 11:27PM URINE  BLOOD-NEG NITRITE-NEG PROTEIN-NEG 
+GLUCOSE-NEG KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-7.0 
+LEUK-NEG
+[**2931-4-12**] 08:55PM   GLUCOSE-79 UREA N-8 CREAT-0.6 SODIUM-141 
+POTASSIUM-3.6 CHLORIDE-101 TOTAL CO2-29 ANION GAP-15
+[**2931-4-12**] 08:55PM   ALT(SGPT)-15 AST(SGOT)-23 CK(CPK)-66 ALK 
+PHOS-227* AMYLASE-31 TOT BILI-0.5
+[**2931-4-12**] 08:55PM   LIPASE-14
+[**2931-4-12**] 08:55PM   cTropnT-<0.01
+[**2931-4-12**] 08:55PM   proBNP-4555*
+[**2931-4-12**] 08:55PM   ALBUMIN-3.9
+[**2931-4-12**] 08:55PM   WBC-10.3 RBC-4.76 HGB-12.8 HCT-38.8 MCV-82 
+MCH-26.9* MCHC-33.0 RDW-14.6
+[**2931-4-12**] 08:55PM   NEUTS-61.7 LYMPHS-29.6 MONOS-6.3 EOS-1.7 
+BASOS-0.6
+[**2931-4-12**] 08:55PM   MICROCYT-1+
+[**2931-4-12**] 08:55PM   PLT COUNT-223
+
+[**2931-4-12**] ECHO
+1. The left atrium is moderately dilated. The left atrium is 
+elongated.  
+2. Left ventricular wall thicknesses are normal. The left 
+ventricular cavity size is normal. The left ventricular cavity 
+is unusually small. Left ventricular cavity size could not be 
+determined. Overall left ventricular systolic function is normal 
+(LVEF>55%). [Intrinsic left ventricular systolic function is 
+likely more depressed given the severity of valvular 
+regurgitation.]  
+3. Right ventricular chamber size is normal. Right ventricular 
+systolic  
+function is normal. Abnormal septal position consistent with RV  
+
+pressure/volume overload.  
+4. The aortic valve leaflets are mildly thickened. Mild (1+) 
+aortic  
+regurgitation is seen.  
+5.The mitral valve leaflets are mildly thickened. There is 
+moderate mitral stenosis. Mild to moderate ([**12-25**]+) mitral 
+regurgitation is seen.  
+6. Moderate [2+] tricuspid regurgitation is seen.  
+7.There is moderate pulmonary artery systolic hypertension.  
+8.There is no pericardial effusion 
+
+[**2931-4-13**] Stress Test
+This 53 year old type 2 IDDM woman was referred to 
+the lab for evaluation of chest discomfort and shortness of 
+breath. Due 
+to PVD, the patient was infused with 0.142 mg/kg/min of 
+dipyridamole 
+over 4 minutes. No arm, neck, back or chest discomfort was 
+reported by 
+the patient throughout the study. There were no ST segment 
+changes 
+during the infusion or in recovery. The rhythm was sinus with 
+frequent 
+isolated vpbs. Appropriate hemodynamc response to the infusion. 
+The 
+dipyridamole was reversed with 125 mg of aminophylline IV. 
+IMPRESSION: No anginal type symptoms or ischemic EKG changes. 
+Nuclear 
+report sent separately. 
+
+[**2931-4-16**] Cardiac Catheterization
+1. Selective coronary angiography showed a co-dominanat system 
+with 
+calcified Left Main Coronary Artery. The LAD had a 50% 
+mid-vessel hazy 
+lesion. LCX had a severe 90% lesion at its origin and a 50% OM 
+lesion. 
+RCA was chronically totally occluded proximally but was a 
+smaller vessel 
+with an acute marginal branch and modest L->R collaterals. 
+2. Left ventriculography showed preserved ejection fraction 
+(58%) which 
+is depressed given the degree of mitral regurgitation (3+). 
+Inferior 
+wall was hypokinetic. 
+3. Hemodynamic assessment showed a 9 mmhg gradient across the 
+mitral 
+valve consistent with moderate mitral stenosis. There was no 
+gradient 
+across the aortic valve. Pulmonary pressures were moderately to 
+severely 
+elevated with Pap 85/38. PCWP was 35 mm Hg. 
+
+[**2931-4-21**] CXR
+Right internal jugular vascular sheath remains in standard 
+position. There is stable postoperative widening of the cardiac 
+and mediastinal contours. Vascular engorgement and perihilar 
+haziness is again demonstrated. Bibasilar atelectasis and 
+pleural effusions, small on the left and moderate on the right 
+are without change. Overall, there has not been a significant 
+change allowing for technical differences.
+
+ 
+Brief Hospital Course:
+Mrs. [**Known patient lastname 4405**] was admitted to the [**Hospital1 25**] on [**2931-4-12**] for evaluation 
+of chest discomfort and dyspnea. A stress test was performed 
+which was normal however the nuclear images revealed a 
+reversible defect in the left anterior descending artery 
+territory. Plavix was started and her lipitor was increased. 
+Lasix and an ace inhibitor were started for congestive heart 
+failure symptoms. She developed another episode of chest pain 
+which suggested the possibility of unstable angina. A cardiac 
+catheterization was performed which was significant for three 
+vessel coronary artery disease, mixed mitral valve stenosis and 
+regurgitation and left ventricular ejection fraction of 58%. An 
+echocardiogram was performed which showed a dilated left atrium, 
+a normal left ventricular ejection fraction, 1+ aortic 
+regurgitation, moderate mitral valve stenosis, moderate mitral 
+valve regurgitation and moderate pulmonary hypertension. Heparin 
+was started and her plavix was stopped. Given these findings, 
+the cardiac surgery service was consulted for surgical 
+evaluation. Mrs. [**Known patient lastname 4405**] was worked-up in the usual preoperative 
+manner. On [**2931-4-19**], Mrs. [**Known patient lastname 4405**] was taken to the operating room 
+where she underwent coronary artery bypass grafting to two 
+vessels and a mitral valve replacement with a 25mm mosaic 
+porcine valve. Postoperatively she was taken to the cardiac 
+surgical intensive care unit for monitoring. She had a short run 
+of ventricular tachycardia which was self limited. On 
+postoperative day one, Mrs. [**Known patient lastname 4405**] awoke neurologically intact 
+and was extubated. Methadone was resumed given her history of 
+heroin abuse. Beta blockade, statin therapy and aspirin were 
+started. On postoperative day two, she was transferred to the 
+cardiac surgical step down unit for further recovery. She was 
+gently diuresed towards her preoperative weight. The physical 
+therapy service was consulted for assistance with her 
+postoperative strength and mobility. Mrs. [**Known patient lastname 4405**] continued to 
+make steady progress and was discharged to her home with a 
+visiting nurse [**First Name (Titles) **] [**Last Name (Titles) 4406**] day five. She will follow-up 
+with Dr. [**Last Name (STitle) 394**], her cardiologist and her primary care physician 
+as an outpatient. 
+ 
+Medications on Admission:
+Xanax 1mg qid
+Trazodone 300mg qhs (?per patient)
+Methadone 70mg qday
+lipitor 10mg qday
+Lasix 80mg qday
+ASA 81mg qday
+Lisinopril 10mg qday
+Prilosec
+mvi
+ 
+Discharge Medications:
+1. Potassium Chloride 20 mEq Tab Sust.Rel. Particle/[**Doctor First Name 785**] Sig: 
+One (1) Tab Sust.Rel. Particle/[**Doctor First Name 785**] PO Q12H (every 12 hours) 
+for 7 days.
+Disp:*14 Tab Sust.Rel. Particle/[**Doctor First Name 785**](s)* Refills:*0*
+2. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2 
+times a day).
+Disp:*60 Capsule(s)* Refills:*2*
+3. Aspirin 81 mg Tablet, Delayed Release (E.C.) Sig: One (1) 
+Tablet, Delayed Release (E.C.) PO DAILY (Daily).
+Disp:*30 Tablet, Delayed Release (E.C.)(s)* Refills:*2*
+4. Atorvastatin 80 mg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+5. Pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One 
+(1) Tablet, Delayed Release (E.C.) PO Q24H (every 24 hours).
+Disp:*30 Tablet, Delayed Release (E.C.)(s)* Refills:*2*
+6. Trazodone 50 mg Tablet Sig: One (1) Tablet PO HS (at bedtime) 
+as needed for insomnia.
+Disp:*30 Tablet(s)* Refills:*0*
+7. Methadone 10 mg Tablet Sig: Seven (7) Tablet PO DAILY 
+(Daily): patient has prescription for methadone.
+Disp:*0 Tablet(s)* Refills:*0*
+8. Oxycodone-Acetaminophen 5-325 mg Tablet Sig: One (1) Tablet 
+PO Q4-6H (every 4 to 6 hours) as needed.
+Disp:*50 Tablet(s)* Refills:*0*
+9. Metoprolol Tartrate 25 mg Tablet Sig: Three (3) Tablet PO BID 
+(2 times a day).
+Disp:*180 Tablet(s)* Refills:*2*
+10. Furosemide 20 mg Tablet Sig: One (1) Tablet PO twice a day 
+for 7 days.
+Disp:*14 Tablet(s)* Refills:*0*
+11. Nicotine 7 mg/24 hr Patch 24HR Sig: One (1)  Transdermal 
+once a day.
+Disp:*30 patches* Refills:*2*
+
+ 
+Discharge Disposition:
+Home with Service
+ 
+Discharge Diagnosis:
+CAD
+MR
+[**First Name (Titles) **]
+[**Last Name (Titles) 4407**]
+HTN
+COPD
+PVD
+Chronic pain
+
+ 
+Discharge Condition:
+good
+
+ 
+Discharge Instructions:
+may shower, no bathing or swimming for 1 month
+no creams, lotions or powders to any incisions
+no lifting > 10# for 10 weeks
+ 
+Followup Instructions:
+with Dr. [**Last Name (STitle) **] in 2-3 weeks
+with Dr. [**First Name (STitle) **] in 2-3 weeks ([**Telephone/Fax (1) 4408**]
+with Dr. [**Last Name (STitle) 394**] in 4 weeks
+
+ 
+                             [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) **] MD [**MD Number 594**]
+ 
+Completed by: [**First Name11 (Name Pattern1) **] [**Initial (NamePattern1) **] [**Last Name (NamePattern4) 1241**] [**MD Number 1242**] [**2931-4-24**] @ 1448
+Signed electronically by: DR. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) **]
+ on: TUE [**2931-4-24**] 11:24 PM
+(End of Report)
+
+
+",,
+24021,17571,29833,0,2931-04-19 14:06:00 EST,2931-04-19 14:09:00 EST,7565,"N",54,"Nursing/Other","resp care","
+resp care
+pt s/p CABGx2 and MV replacement intubated with #7.5 ETT currently stable on SIMV and PS.  will follow and wean as tolerated
+",,
+24021,17571,29833,0,2931-04-19 19:14:00 EST,2931-04-19 19:37:00 EST,1706,"N",54,"Nursing/Other",,"
+
+a paced on arrival for junctional 40's w occas. pvc's,stable hemodynamics on propofol. reversed, propofol weaned & dilaudid started for presumed pain. awoke,restless with increased agitation(thrashing,attempting self extubation,kicking) despite ativan,short self limiting episode of vt(pads applied) & cumulative drop in ci & svo2. discussed w team,resedated with propofol,volume given for low filling pressures,ci < 2 & svo2 in the 50's with improvement.  add'l ativan given & precedex to be started when available for 2nd weaning attempt.aps & addiction r.n. consulted for pain/methadone management.insulin protocol maintained,see flow sheet. thin sero sang ct dng,occas. air leak noted from med. tubes. dressing non occlusive,replaced w/o improvement. bs decreased bilat.,mdi's administered by r.t.husband in,questions answered. ? comprehension of wife's illness & icu protocol,will need reinforcement.
+",,
+24021,17571,29833,0,2931-04-19 19:25:00 EST,2931-04-19 19:27:00 EST,2248,"N",54,"Nursing/Other",,"
+
+Respiratory Care: Pt remains on current vent settings, see carevue for details. Attempted wean, but pt is VERY agitated and would not tolerate extubation at this time. Will re-attempt later.
+",,
+24021,17571,29833,0,2931-04-19 21:18:00 EST,2931-04-19 21:20:00 EST,1706,"N",54,"Nursing/Other",,"
+
+precedex started,opens eyes to voice only as yet.svo2 barely 60% with ci slightly > 2,hct ~ 25% & dark urine. dr. [**Last Name (STitle) **] & to [**Last Name (LF) 4059**],[**First Name3 (LF) 34**] transfuse 1 prbc. 
+",,
+24021,17571,29833,0,2931-04-20 03:50:00 EST,2931-04-20 03:51:00 EST,2476,"N",54,"Nursing/Other","Respiratory Care:","
+Respiratory Care:
+Patient weaned to extubation.  Provided with spacer for continued use of mdi's, which the patient states she uses at home.
+",,
+24021,17571,29833,0,2931-04-20 04:12:00 EST,2931-04-20 04:27:00 EST,6762,"N",54,"Nursing/Other","Nursing Progress Note","
+Nursing Progress Note
+CVS: HR currently 69 sinus with rare pvcs, at times apaced for better co/ci. 2 a wires and 2 v wires, sense and capture. Attatched with back up rate of 60. Hypertensive, at this time on ntg at 2.0, received metoprolol iv, 2.5mg with svo2 6 point drop. Svo2 is now 67, co >4, CI > 2. CVP 4-9, PAD teens. Pulses confirmed with doppler. Chest tubes with sero sang output. Sternal dressing with sero sang staining unchanged. A line and cco calibrated with good waveforms. Episode of self limited vt x 2, ecg with no changes from prior. Mag repleted, amio orders not initiated per pa. Now rare multifocal pvcs noted, no further vt. ace intact to lle. Piv to rlp forearm 22g patent. 
+
+Resp: Extubated to face tent at 0.7, pa0s 83, sats 98-100. Cough pillow on chest,r equires prompting and assistance. Groggy, unabel to coordinate is well. Lungs coarse to dim throughout. Chest tubes patent with + fluct and no air leak. 
+
+Neuro: Groggy due to pca dilaudid, ativan and previously precedex. Aware of person, place and surgery. Reoriented to time. After extubation patients first comments were ""I have not gotten my methadone yet today."" MAE, generalized weakness. Gag and cough intact. Pupils pinpoint due to narcotics. 
+
+GI: Abd soft bs hypo. Will start clear liquid diet in am. 
+
+GU; Foley patent with >30cc hour of green urine. Color due to prior propofol infusion. 
+
+Endo: On and off insuling drip per csru protocol. 
+
+Lytes: repleted per orders. 
+
+Pain: PCA dilaudid 0.25/6/2.5, uses then falls asleep. needs continues teaching to use appropriately. 
+
+Social: call from brother, directed to husband for information. 
+
+Plan: Wean nitro as tolerated, pulmo toilet,pain and anxiety control.
+
+See carevue and mars for further details and values. 
+
+ 
+",,
+24021,17571,29833,0,2931-04-20 17:02:00 EST,2931-04-20 17:10:00 EST,2507,"N",54,"Nursing/Other",,"
+
+NEURO  ALERT ORIENTED X2 UNSURE OF YEAR OR MONTH ? BASELINE MEMORY DEFECIT  MOVES ALL EXTREMETIES  ABLE TO FOLLOW COMMANDS EASILY NO WEAKNESS OR DEFECIT NOTED
+
+C/V  NSR WITH ONE 5BEAT RUN VT AM MD [**First Name (Titles) **] [**Last Name (Titles) **] DC/D RARE PVC MAG AND K REPLETED FUNCTIONAL AWIRES VWIRES SENSE CAPTURE NOT TESTED B/P STABLE LOPRESSOR STARTED TOL WELL B/P ELEVATED DURING SHIFT MAP 100 PA AWARE PULSES PALP CI >2 
+
+RESP NC 4L SATS 99% LUNGS COARSE AT TIMES NONPRODUCTIVE COUGH CHEST TUBES MINIMAL DRAINAGE DC/D  IS WITH ENCOURAGMENT DIFFICULTY BREATHING APPROPRIATLY BLOWING INTO MACHINE  CONTINUE TO ASSIST AND ENCOURAGE 
+
+GU/GI  ABD SOFT HYPOACTIVE BOWEL SOUNDS TOL CLEAR LIQS WELL ADEQUATE URINE OUT WITH LASIX 
+
+PLAN  INCREASE ACTIVITY AND DIET  INCREASE LOPRESSOR FOR B/P CONTROL 
+",,
+24021,17571,29833,0,2931-04-21 01:01:00 EST,2931-04-21 01:06:00 EST,7685,"N",54,"Nursing/Other","7p-7a","
+7p-7a
+Neuro: Pt alert and oriented to self and place. Follows commands. MAE. Perrla. Dilaudid PCA for pain, forgets has pca at times, re-oriented as needed.
+
+CV: HR 70s SR rare PVCs, one 3 beat run of PVCs noted. Lytes repleted. SBP 120-140s. MD [**Doctor Last Name 1993**] aware. +palpable pulses. See carevue for details.
+
+Resp: LS coarse-> clear. Needs much encouragment w. IS, only getting to 250cc. Encouraged coughing and deep breathing. Sats >97% on 5Lnc.
+
+GI/GU: Abd soft, +BS. Foley draining adequate amts of clear yellow urine. See carevue.
+
+Endo: RISS.
+
+Plan: Monitor hemodynamics. Monitor resp. status. Follow labs and treat as appropriate. Transfer to [**Hospital Ward Name **] 2 in am.
+",,
+24021,19172,29834,0,2931-05-04 04:13:00 EST,2931-05-04 04:15:00 EST,7819,"N",53,"Nursing/Other","Resp Care","
+Resp Care
+Pt remains on MV in AC mode as noted on Careview.  Sx'ed for mod amt thick, white secretions.  Pt on TPA therapy.  To CT and back w/o difficulty.  Bag and mask at bedside.  Alarms on and functioning.  Continue to monitor closely and continue vent support.
+",,
+24021,19172,29834,0,2931-05-04 04:21:00 EST,2931-05-04 04:30:00 EST,6465,"N",53,"Nursing/Other","Nursing Note 7p-7a:","
+Nursing Note 7p-7a:
+Nursing Assessment:
+
+Pt is a 52 yo admitted from the ED following a sudden left MCA stroke at home. Found left sided aphasic, left gaze deviation, sensory loss on right and flacid. Left hand grasp present. At first attempting to blink eyes to command only. Hx Hep C, CABG [**38**] days ago with procene valve, on methadone for heroin use, CHF, COPD, diabetes-insulin. Left MCA clot on CT and altipase given in ED. To Ango prior to SICU with failed attempt at TPA 4mg. Sheath left in artery R groin d/t TPA and to be left in for 24 hrs as a-line transduced. To SICU intubated on CMV 100% 600 16 5 and not breathing over. Recieved bolus 400cc x 1 in Angio. No foley cath d/t tpa. OGT with green bilious. NSR 80-90 BP goal 140-180 remains 150s for rest of shift. ABG ok, o2 dropped and new abg to be drawn. HCT 28 and incont. urine. PTs husband and dtr in and updated. Will be back in a.m. Pts brother called and mother x 2 and referred to husband for detailed update per HIPPA. Please refer to carevue and admit note for details.
+",,
+24021,19172,29834,0,2931-05-04 16:12:00 EST,2931-05-04 16:18:00 EST,7793,"N",53,"Nursing/Other","Respiratory Therapist","
+Respiratory Therapist
+Breath sounds bilateral crackles, suctioned small thick tan, patient self-extubated at 1015 am, ABGs at 1103 am revealed slight metabolic alkalosis with normoxemia, then, went to Cat Scan, reintubated when she cameback from CT because she became tachypneic, ETT size 7.5 taped 21@lips settings were the same prior to self extubation then, ABGs at 1617, revealed acute metabolic alkalosis with hyperoxemia, will continue to receive ventilatory support.
+",,
+24021,19172,29834,0,2931-05-04 16:44:00 EST,2931-05-04 17:09:00 EST,8079,"N",53,"Nursing/Other",,"
+
+NSG progress notes:
+See flow sheet for specific:
+
+Neuro: on propofol & fentanyl gtt,responds to pain,moving lt up & low extrimity spont.& rt up arm to pain ,rt.lower limb no movement. pupils changed to unequal & 12 noon rt 4mm,lt 3mm both reacting,team aware,
+ had CT  head done @1300,squeeses with rt hand but nonpurposeful.
+
+CV: ST HR 100-120,no ectopy,BP WNL to keep SYS 140-160,IVF NS 60ml/hr ,rt.fem.sheath in,ABP by sheath ,no cvp. hct stable. 
+
+Resp: On vent with Fio@ 40% RR 16TV 550 peep 5CM ,A/C mode,ABG sl alkalotic, self extubated @10AM & reintubated after CT scan as pt,more tachypnic & lethargic,Lung sounds coarse to clear SXN thick white secretion.Had CXR post intubation. o2 at 100%. 
+
+GI: Ogt to LWS biliary fluid draining ,+ BS ,no BM today,abd soft.
+
+GU: foley cath inserted ,amber coloured urine ,less amt
+
+Endo: FS Q6H on sliding scale of insulin. insulin gtt ordered if needed. 
+
+ACT: bed fast,loggrol q2H,skin intact.
+
+ID : afebrile,not on Anbx.
+
+Plan: cont monitoring ,neuro check Q1H, Monotor FS , ? for central & Aline insertion,
+",,
+24021,,29834,0,2931-05-05 02:55:00 EST,2931-05-05 03:05:00 EST,7819,"N",53,"Nursing/Other","Resp Care","
+Resp Care
+Pt remains on MV in AC mode as noted on Careview.  No vent changes this shift.  BBS-CTA w/diminished bs in bases, significantly increased aeration post BD therapy.  Sx'ed for sm amts white/yellow secretions.  Bag and mask at bedside.  Alarms on and functioning.  Continue to monitor closely.
+",,
+24021,,29834,1,2931-05-05 02:55:00 EST,2931-05-05 03:09:00 EST,7819,"Y",53,"Nursing/Other","Resp Care","
+Resp Care
+RSBI 81, but pt became agitated w/increased wob during procedure.  No increase in HR or sig increase in BP.  Returned to previous settings.
+",,
+24021,,29834,0,2931-05-05 05:30:00 EST,2931-05-05 05:53:00 EST,3647,"N",53,"Nursing/Other","focus hemodynmics","
+focus hemodynmics
+data: neuro: on iv propofol and off for neuro exam. seen by neurosurg resident< [**Doctor First Name 4060**]>. moves left arm and leg. unable  to move right leg or arm/   right pupil larger than left pupil. pupils react briskly. left side reacts to painful stimuli. on iv fentanyl. does not follow commands. 
+
+resp: suctioned for thick yellow sputum. on cmv at 50-550-16-5 abg's 7.45-37-165-27. mouth carc done q2hrs. lg amt of oral secretitions at the back of the throat. no gag noted. 
+
+cardiac: remains in sinus tach. on ectopy seen. hct 28.3. wbc 19.2.magnesium 1.9. k 3.7 and repleted with 40meq kcl. iv ns at 60cc/hr. 
+
+gu: foley patent and draining amber colored urine. 
+
+gI abd soft with hypoactive bowel sounds. ngt to lcws and draining bilius drainage. no stool. 
+
+action: labs as ordered. suctioned prn. turned q2hrs. venodynes to legs. fentanyl gtt infusing and propofol gtt infusing.  chest sutured in place and incision intact. no reddness noted.  quad lumen inserted by dr [**Last Name (STitle) 4061**]. tol procedure well. consent via husband. attending present for the  line change. k repleted. 
+
+respnse: monitor closely. 
+
+
+",,
+24021,,29834,0,2931-05-05 14:35:00 EST,2931-05-05 14:36:00 EST,3492,"N",53,"Nursing/Other",,"
+
+Resp, care note - Pt. remaines intubated and vented, transffered to CT and back to SICUA without incident.
+",,
+24021,,29834,0,2931-05-05 17:19:00 EST,2931-05-05 17:22:00 EST,6085,"N",53,"Nursing/Other","Nursing Progress Note","
+Nursing Progress Note
+Please see carvue for specifics:
+Pt made CMO after long family meeting today.  See Social service note for specifics:  Pt extubated per HCP [**First Name4 (NamePattern1) **] [**Known patient lastname 4062**] and started on morphine gtt and titrated to comfort.  Family at bedside.  Emotional support given as needed
+
+",,
+24021,,29834,0,2931-05-05 18:11:00 EST,2931-05-05 18:15:00 EST,6085,"N",53,"Nursing/Other","Addendum","
+Addendum
+Pt asystolic approx 1910 family at bedside.  Emotional support as needed.  MD Schaulg also at bedside with family.  
+MISC:  Pharmacy contacted d/t ? tolerance to morphine gtt.  d/t pt long history of Drug Abuse pharmacy stated pt would require abnormally high morphine requirements.  Morphine gtt highest level 50mg/hr ICU resident Morrisson made aware.
+",,

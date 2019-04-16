@@ -1,0 +1,181 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+24045,336,,,3015-05-03 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+
+Admission Date: [**3015-5-3**]        Discharge Date: [**3015-5-4**]
+
+Date of Birth:  [**2926-8-30**]        Sex:  M
+
+Service:  CME
+
+
+HISTORY OF PRESENT ILLNESS:  This is an 88-year-old Caucasian
+male patient with history of carotid stenosis, hypertension,
+hypercholesterolemia who presented to the emergency
+department after a syncopal episode.  The patient was in the
+kitchen, sitting in a chair and suddenly lost consciousness.
+The patient helped him up and called EMS.  The patient does
+not remember the circumstances of the fall and cannot provide
+an adequate history.  He does deny chest pain,
+lightheadedness, shortness of breath, palpitations.  He also
+denies tongue biting and incontinence.  The patient does
+endorse a two week history of occasional lightheadedness with
+one episode of syncope two weeks prior to admission.  In the
+emergency department the patient was evaluated with an
+electrocardiogram which is initially read as sinus
+bradycardia with multiple premature ventricular contractions.
+However, on further evaluation the patient was noted to be in
+heart block and was admitted to the Coronary Care Unit for
+immediate pacemaker placement.
+
+PAST MEDICAL HISTORY:  Hypertension.
+
+Hypercholesterolemia.
+
+Carotid stenosis.
+
+""pulmonary fibrosis"" in one lung.
+
+Emphysema in one lung.
+
+Arthritis.
+
+Benign prostatic hypertrophy.
+
+ALLERGIES:  No known drug allergies.
+
+MEDICATIONS:
+1. Metoprolol 25 mg twice a day.
+2. Aspirin 81 mg q day.
+3. Terazosin 2 mg q day.
+4. Celecoxib 100 mg q day.
+5. Cyanocobalamin 100 mcg q day.
+6. Vitamin E 400 units four times a day.
+7. Senna one tablet twice a day.
+
+
+SOCIAL HISTORY:  The patient is married and lives with his
+wife.  He has a 40 pack year smoking history but quit.  The
+patient does not drink alcohol and has no history of
+intravenous drug abuse.
+
+PHYSICAL EXAMINATION:  Blood pressure 204/70, heart rate 45,
+respirations 17, 95% on room air.  In general the patient is
+alert, though confused and unable to provide an adequate
+history.  Head, eyes, ears, nose and throat:  Pupils equal,
+round and reactive to light and accommodation.  Extraocular
+movements intact.  Patient has dry mucous membranes.
+Oropharynx is clear.  Neck:  The patient is in a head collar
+at the time of evaluation.  Lungs:  The patient has bibasilar
+crackles but otherwise clear to auscultation bilaterally.
+Heart:  Irregular bradycardiac rhythm with a normal S1, S2.
+3/6 systolic ejection murmur heard best at the right upper
+sternal border.  Abdomen:  Normal active bowel sounds, soft,
+nontender, nondistended.  Extremities:  The patient has 2+
+dorsalis pedis and posterior tibial pulses bilaterally with
+no evidence of cyanosis, clubbing or edema.
+
+Electrocardiogram:  2 to 1 heart block.  Had an HR rate of 80
+and a ventricular rate of 40 beats per minute with a right
+bundle branch block and a left anterior fascicular block.
+
+LABORATORY FINDINGS:  White blood cells 11.3, hematocrit
+38.4, platelets 188, sodium 140, potassium 4.3, chloride 106,
+bicarbonate 26, BUN 28, creatinine 1.3, glucose 124, calcium
+9.3, phosphate 3.4, mag 2.3.  Urinalysis 5.0/negative
+nitrates/negative leukocyte esterase.
+
+HOSPITAL COURSE:  Rhythm.  The patient was admitted after a
+syncopal episode, found to be in 2 to 1 atrioventricular
+block with right bundle branch block and a left anterior
+vesicular block on admission electrocardiogram.  The patient
+was transferred immediately to the Coronary Care Unit where
+he was subsequently transferred for pacemaker placement on
+the morning of admission.  The patient's pacemaker placement
+was uncomplicated.  He was transferred back to the floor
+where he was monitored on Telemetry and noted to be
+atrioventricular paced.  The patient was evaluated with a PA
+and Lateral chest x-ray on the morning following his
+procedure which showed normal electrode replacement.  The
+patient's beta-blocker dose was titrated as tolerated by his
+blood pressure.  He received three doses of intravenous
+Vancomycin after his pacemaker was placed.
+
+Coronary artery disease:  The patient was admitted without a
+history of coronary artery disease but given his multiple
+cardiac risk factors in addition to his carotid artery
+disease, the patient was continued on aspirin and a beta-
+blocker, the dose of which was titrated up as tolerated by
+his blood pressure.  The patient's LDL was checked and noted
+to be 124 with an HDL of 41.  He was started on Atorvastatin.
+It is anticipated that the patient's liver function tests and
+muscle enzymes will be checked as an outpatient given this
+initiation of statin therapy.
+
+Congestive heart failure: The patient was admitted with
+evidence of mild failure and chest x-ray but no signs of
+overt failure on exam.  The patient was started on a beta-
+blocker after his pacemaker was placed.  It is anticipated
+that he will be evaluated with an echocardiogram as an
+outpatient.
+
+Psych:  The patient was noted to be somewhat confused and
+agitated.  During the night throughout his hospitalization
+was awake and alert throughout the day.  This was considered
+likely secondary to an underlying dementia with sundowning.
+The patient was given Seroquel that night p.r.n. to help with
+his agitation.
+
+CONDITION ON DISCHARGE:  Good.
+
+DISCHARGE STATUS:  The patient is discharged to
+rehabilitation facility.
+
+DISCHARGE DIAGNOSIS:  2 to 1 atrioventricular block, status
+post pacemaker placement.
+
+Hypertension.
+
+Coronary artery disease.
+
+Dementia.
+
+Obstructive/restrictive disease.
+
+Hypercholesterolemia.
+
+DISCHARGE MEDICATIONS:
+1. Aspirin 325 mg p.o. q day.
+2. Metoprolol 50 mg p.o. twice a day.
+3. Atorvastatin 40 mg p.o. q day.
+4. Cyanocobalamin 50 mcg p.o. q day.
+5. Vitamin E 400 units p.o. q day.
+6. Pantoprazole 40 mg p.o. q day.
+7. Colace 100 mg p.o. twice a day p.r.n.
+8. Senna 1 tablet p.o. twice a day p.r.n. constipation.
+9. Terazosin 2 mg p.o. q h.s.
+10.      Seroquel 25 mg p.o. q h.s. p.r.n.
+11.      Acetaminophen one to two tablets p.o. q 4 to 6 hours
+   p.r.n.
+
+
+FOLLOW UP:  The patient will be followed by the physicians at
+the Rehabilitation Facility.  His family is encouraged to
+caliber his primary care physician to schedule [**Name Initial (PRE) **] follow-up
+appointment.  He has a follow-up appointment scheduled with
+Cardiology on [**3015-5-10**] at 10:30 AM.
+
+
+
+                        [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) **], [**MD Number 3460**]
+
+Dictated By:[**Last Name (NamePattern1) 3461**]
+MEDQUIST36
+D:  [**3015-5-5**] 22:45:22
+T:  [**3015-5-5**] 23:43:49
+Job#:  [**Job Number 4464**]
+Signed electronically by: DR. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) **]
+ on: MON [**3015-5-15**] 3:28 PM
+(End of Report)
+
+
+",,

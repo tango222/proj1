@@ -1,0 +1,1844 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+24807,,,,3033-04-16 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3033-4-16**] 11:45 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 6261**]
+     Reason: r/o aspiration
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      40 year old woman with resp distress and hx  aspiration pneumonia
+     REASON FOR THIS EXAMINATION:
+      r/o aspiration
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     
+     INDICATION: Respiratory distress, history of aspiration pneumonia.
+     
+     SINGLE VIEW CHEST:
+     
+     This study is limited as the patient is severely rotated.  There is evidence
+     for prior cervical fixation.  The left shoulder is not visualized on this
+     single radiograph.
+     
+     The heart and mediastinal contours are difficult to assess due to technical
+     limitations.  However, there is increased opacity overlying the right lower
+     lung zone, with air bronchograms.  There also appears to be increased
+     retrocardiac opacity, with air bronchograms.  The lungs are otherwise clear.
+     No definite evidence for pleural effusions.
+     
+     IMPRESSION: Airspace consolidation in both lower lung zones. In the
+     appropriate clinical context, this may be consistent with aspiration
+     pneumonia.
+
+",,
+24807,29074,,,3033-04-17 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+
+
+Admission Date:  [**3033-4-17**]     Discharge Date:  [**3033-4-23**]
+
+Date of Birth:   [**2992-11-20**]     Sex:  F
+
+Service:
+
+ADDENDUM:  This addendum is covering dates [**4-20**], through
+[**4-23**].
+
+CONTINUATION OF HOSPITAL COURSE:
+
+1.  Pulmonary:  On [**4-20**], the patient acutely desaturated to
+81% on her baseline six liter oxygen by nasal cannula.
+Respiratory Therapy was called for chest Physical Therapy and
+suctioning.  Approximately 10 cc of brown thick secretions
+were suctioned with relief of the patient's respiratory
+status.  Her breathing became more comfortable and her oxygen
+saturation improved to 98% on five liters of oxygen by nasal
+cannula.  The patient  had a chest x-ray done at the time
+which was stable and an arterial blood gas which showed
+decrease pO2 with stable compensated elevation in bicarbonate
+and pCO2, thought to be secondary to the patient's baseline
+neuromuscular compromise.
+
+The patient had one more episode of decreased oxygenation on
+the night of [**4-20**].  This time, solid food was actually
+suctioned from the patient.  The patient was then improved
+similar to the prior episode.  The patient was advised that a
+G-tube or tracheostomy would benefit her and that we expected
+that she would continue to aspirate as she has in the past.
+However, the patient is adamant that she does not need and
+does not want any G-tube and refused to discuss the matter
+further.  As the patient is followed primarily at the
+[**Hospital 408**] Hospital we will leave further discussions of this
+matter to her primary care providers there.  Of note, the
+patient has had a swallowing evaluation at the [**Hospital 408**]
+Hospital so, therefore, this will not be pursued further at
+this time.
+
+2.  Infectious Disease:  The patient is being treated for
+pneumonia, most likely aspiration pneumonia, with Vancomycin
+to cover Methicillin resistant Staphylococcus aureus from her
+sputum as well as Levofloxacin and Flagyl for aspiration
+pneumonia.  These antibiotics will continue until [**3033-4-30**].
+
+3.  Wound Care:  The patient will have an outpatient
+evaluation by Plastic Surgery as follow-up to the wound care
+and nursing evaluation received while in-house.  The Plastic
+Surgery Clinic is at [**Telephone/Fax (1) 2506**].  Alternatively, the
+patient can follow-up through the [**Hospital 408**] Hospital which is
+probably preferable because she has routine care at the
+[**Hospital 408**] Hospital.  The Plastic Surgery Service recommended
+that the patient follow-up in one to two weeks after
+discharge, approximately mid-[**Female First Name (un) 1137**].
+
+4.  Pain Control:  The patient will continue on her pain
+medications as discussed in the previous discharge summary.
+
+5.  Endocrine:  The patient is continuing on her Prednisone
+taper with a goal of 5 mg p.o. per day of Prednisone which is
+her baseline for adrenal insufficiency.  The patient will be
+at this goal starting the [**5-25**].
+
+DISCHARGE MEDICATIONS:
+1.  Prednisone 5 mg p.o. q. day.
+2.  Scopolamine patch every 72 hours.
+3.  Prilosec 20 mg p.o. q. day.
+4.  Ditropan 5 mg p.o. twice a day.
+5.  Iron Sulfate 325 mg p.o. three times a day.
+6.  Multivitamin Elixir each day.
+7.  Lactulose 30 cc p.o. q. day.
+8.  Zoloft 50 mg p.o. q. day.
+9.  Nystatin swish and swallow, 5 cc four times a day.
+10. Tylenol 650 mg p.o./p.r. q. four to six hours p.r.n.
+11. Atrovent MDI q. four hours.
+12. Albuterol MDI q. four hours.
+13. Regular insulin sliding scale.
+14. Heparin 5000 units subcutaneously twice a day.
+15. Estraderm patch 0.05 mg q. three days.
+16. Reglan 10 mg p.o. four times a day.
+17. Neurontin 900 mg p.o. three times a day.
+18. Baclofen 30 mg p.o. q. six hours.
+19. Magnesium citrate one bottle p.o. q. day p.r.n.
+20. Morphine sulfate, immediate release, 5 to 10 mg p.o. q.
+four to six hours p.r.n.
+21. Klonopin 0.5 mg p.o. twice a day.
+22. Flagyl 500 mg intravenously three times a day to stop
+[**3033-4-30**].
+23. Levofloxacin 500 mg intravenous q. day to stop [**4-30**].
+24. Vancomycin one gram intravenously q. 12 hours, stop [**4-30**].
+25. Colace 100 mg p.o. twice a day.
+26. Dulcolax suppository p.r. q. day.
+27. MS Contin 15 mg p.o. twice a day.
+28. Albuterol/Atrovent nebulizers q. four hours p.r.n.
+
+DISCHARGE INSTRUCTIONS:
+1.  Wound care:  Sacral wound should be dressed with wet to
+moist dressing changes each day.
+2.  She will require follow-up with Plastic Surgery either
+here at [**Hospital1 4**], Clinic number
+[**Telephone/Fax (1) 2506**], the second week of [**Female First Name (un) 1137**], or through [**Hospital 408**]
+Hospital where she receives her regular care.
+3.  Duoderm should be placed on her heel ulcers.
+4.  Follow-up will be with her primary care provider, [**Last Name (NamePattern4) **].
+[**Last Name (STitle) **], at [**Hospital 408**] Hospital.
+
+DISCHARGE STATUS:  To [**Hospital3 6085**] where she permanently lives.
+
+CONDITION AT DISCHARGE:   Improved.
+
+
+                          [**Name6 (MD) 2120**] [**Last Name (NamePattern4) 2121**], M.D.  [**MD Number 2122**]
+
+Dictated By:[**Last Name (NamePattern1) 1072**]
+
+MEDQUIST36
+
+D:  [**3033-4-23**]  11:03
+T:  [**3033-4-23**]  11:50
+JOB#:  [**Job Number 6086**]
+Signed electronically by: DR. [**First Name (STitle) 2120**] [**Name (STitle) **]
+ on: [**Doctor First Name 122**] [**3033-4-25**] 2:43 PM
+(End of Report)
+
+
+",,
+24807,29074,,,3033-04-17 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+",,
+24807,29074,,,3033-04-17 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3033-4-17**] 5:15 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 6263**]
+     Reason: assess ngt placement
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      40 year old woman with pna, quadraplegia, intubated, and ngt placement
+     REASON FOR THIS EXAMINATION:
+      assess ngt placement
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATIONS:  History of pneumonia and intubation with NG tube placement.
+     
+     SINGLE, AP CHEST:  NG tube is stomach with distal end not included on films.
+     Endotracheal tube is 3 cm above carina.   No pneumothorax.  Bilateral air
+     space consolidation is again noted in both lower zones with probable
+     associated small pleural effusions.  Thoracic scoliosis is convex to the left.
+     S/P fusion of lower cervical spine.
+
+",,
+24807,29074,,,3033-04-17 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3033-4-17**] 6:06 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 6262**]
+     Reason: please assess for infiltrate/consolidation and r/o ptx 
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      40 year old woman with likely asp pna and s/p RSC line attempt
+     REASON FOR THIS EXAMINATION:
+      please assess for infiltrate/consolidation and r/o ptx 
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATIONS:  Right subclavian line placement.
+     
+     CHEST, AP:  Comparison is made to previous films from  [**3033-4-16**].
+     
+     There is interval placement of ET tube, with the tip about 4 cm above the
+     carina, in satisfactory position.  There is no evidence of pneumothorax. The
+     heart and the mediastinal contours are difficult to assess due to technical
+     limitations.  There is increased opacity overlying the right lower lung zone
+     and air bronchograms are present.  This appears slightly worse compared to the
+     prior exam.  The remainder of the lungs appear clear.  No definite evidence of
+     pleural effusion.
+     
+     IMPRESSION:   Slight worsening in the air space consolidation in the right
+     lower lobe, consistent with aspiration pneumonia.
+
+",,
+24807,29074,30797,0,3033-04-17 03:51:00 EST,3033-04-17 04:27:00 EST,-1,"N",69,"Nursing/Other","MICU NSG ADMIT NOTE:","
+MICU NSG ADMIT NOTE:
+Pt. is 40 y/o quadraplegic female from [**Hospital 5062**] Rehab where (per report) today was given her meds po with liquid and instead of HOB remaining elevated for 45min, aparently HOB was put down flat and pt. aspirated.  Taken to ER where RA Sat in 70s, 80s on 15L NRB. ABG=133/60/7.28 and intubated. Initially hypotensive in EW and received 800cc NS with good response. Received 8mg ativan prior to coming to ICU. PMHX: S/p MVA in [**3027**] with C3-C4 spinal lesion- quadraplegic, Aspiration pnx's, MRSA in sputum, heavy smoker, Anemia, GERD, Osteomyelitis. Allergies: PCN and Sulfa. 
+NEURO: Pt. has some gross movement of BUEs R>L. Bilateral wrist restraints on for safety. Pt. sedated and withdraws to pain with UEs.
+CV: Temp on arrival 94.5 po and continue to monitor. Hypotensive on arrival with fluid bolus attempted but both IVs infiltrated. #20G put in L wrist and IVF bolus given with good response in BP. Several attempts to place RSQ line but unsuccessful. R Groin line placed. Attempts at A-line continue. Skin slightly cool with weak but palpable pulses distally. 
+RESP: Vent IMV 700x10 PS 5 FiO2 70% with ABG174/35/7.43. ETT 7.5 and 22cm at lip.  Lungs with scattered rhonchi. Sputum thick tan with cx sent. On MRSA precautions.
+GI/GU: Abd soft and slightly distended with positive bowel tones. Foley draining yellow urine with sediment. UA and cx sent in EW.
+SKIN: 4x4cm and 4cm deep ulcer to L buttock-dsg changed and draining sero-sang. drainage in small amts. Packed with wet to dry sterile dsg. Appears to have yeast infx- MDs made aware. Both heels very red and wearing multi-podus boots- duoderms applied. ?cigarette burn to RLE- healed over. 
+OTHER: Three necklaces, earrings and ring had to be removed for line placement attempts and put in belongings bag. Pt. also with purse in room. Have not heard from any family or friends as of yet. Unknown social situation.
+
+",,
+24807,29074,30797,0,3033-04-17 05:32:00 EST,3033-04-17 05:39:00 EST,650,"N",69,"Nursing/Other","Respiratory Care Note:","
+Respiratory Care Note:
+
+Pt received intubated, transferred from ER West Campus. This is a 40 yo F adm from Rehab, due ? aspiration, dyspnea, hypoxia and hypotension. Phmx: quadraplegic from MVA, C3-4 spinal lesion, Hx of aspiration pneumonia, heavy smoker and MRSA. She was placed on MV as charted in Resp Note. Good ABG. Will follow.
+",,
+24807,29074,30797,0,3033-04-17 13:35:00 EST,3033-04-17 14:02:00 EST,-1,"N",69,"Nursing/Other",,"
+
+Micu Progress Nursing Note:
+
+Neuro: Remains responsive to voice and stimulation, occasionally opening eyes spontaneously. Patient is paraplegic, s/p old MVA. She can move her right hand and arm, and spontaneous lateral movement of 
+both legs noted. No movement noted in left hand or arm. Patient is restrained for safety with ETT. She has been calm all shift, even during bed bath. Neither Ativan gtt or Fentanyl gtt were started, secondary to hypotension this am, SBPs in 60s to 70s. Patient has been non-agitated all shift. Bair hugger dc'd after rectal temp of 98.4 this am.  
+
+CV: As above, SBP 60s to 70s. Given 1000cc fluid bolus this am, and patient had also received fluid boluses during the night. Please see flow chart for details. Started on Levophed at 2mics/min this am. Able to wean Levo slightly by 3 pm. Patient additionally receiving NS at 150cc/hr x 2 liters. BP 120s to 130s systolic, with maps in 90s. A-line somewhat dampened.
+
+Resp: AC/700 (decreased to 600)/ rate 12, peep 5. Breathing at rate of 12 to 13. Tidal volumes 500 to 600. Lung sounds coarse throughout. Suctioned for thick tan /brown secretions. Please see flow chart for details of most recent ABG. Lateral decub xray pending, to be done when NGT passed. Anderson tubes not currently in unit and have been called for. Orally suctioned for thin yellow/white secretions, small amount. 
+
+GI/GU: Abdomen is large, soft. Hypoactive bowel sounds. Foley was draining sedimentous yellow urine, approximately 20cc/hr but urine has increased to >100cc/hr and is clear and pale. Nutrition consult ordered and nutritionist has been notified. Dulcolax suppository given with results still pending. 
+
+Skin: Patient has stage 3 decub on left upper buttock. Normal saline wet to dry dressing changed at 11am. Dressing has large amount of serosanguinous drainage. Patient has yeasty red areas on groin. Needs Mycolog creme or powder. Patient is a smoker and has what appears to be cigarette burns on right upper thigh and right hand, dorsal surface. She has hx of osteomyelitis of (? both) heels. Old duoderm removed and new duoderm applied both heels. Heels have no open areas, slightly pink. Feet are dry, slightly scaly. Patient has bilateral multipodus boots. Total bed bath given this am.
+
+Lines: Groin line patent, as is peripheral line left hand. A-line somewhat dampened. 
+
+Plan: Monitor fluid status, labs, ? sepsis prophylaxis.
+
+social: Mother called this am and left message that both parents will be in this weekend. Patient currently resides at rehab/nursing home.
+
+[**First Name8 (NamePattern2) 174**] [**Last Name (NamePattern1) 175**], RN
+",,
+24807,29074,30797,0,3033-04-17 16:56:00 EST,3033-04-17 17:07:00 EST,-1,"N",69,"Nursing/Other",,"
+
+NURSING 3P-7P
+neuro: pt agitated this afternoon; started on Ativan drip @ .5mg/h, then increased to 1mg/h with good effect.  Pt is able to mouth words and is making appropriate requests.
+resp:  blood gas sent @ 1730. PO2 144,PCO2 38 ph 7.37, CO2 23, base -2. Suctioned for mod ams of thick yellow sputum.
+GI: Yellowish mucousy discharge from rectum.  NGT placed by RN; placement to be confirmed by CXR.
+Skin:  decubitus ulcer L buttocks, no drng, wet to dry dressing.
+
+
+",,
+24807,29074,30797,0,3033-04-18 00:06:00 EST,3033-04-18 00:11:00 EST,638,"N",69,"Nursing/Other",,"
+
+Respiratory Care:
+
+Patient remains intubated on mechanical support. Vent settings Vt 600, A/c 12, Fio2 40%, and Peep 5. PAP/Plateau 26/24. Bs clear and decreased R base. Sx'd/lavaged for sm amount of thick white sputum. Fio2 weaned to 40%. Abg 115, 41, 7.35, 24. Albuterol/Atrovent MDI's given q4hr. Pt. awake and appears comfortable. No further changes made. Continue with mechanical support and wean to Psv as tolerated. 
+",,
+24807,29074,30797,0,3033-04-18 05:17:00 EST,3033-04-18 05:37:00 EST,-1,"N",69,"Nursing/Other","MICU NPN:","
+MICU NPN:
+NEURO: A&Ox3. Mouthing words appropriately. Moves upper extremities R>L. Ativan gtt at 1mg/hr. Pt. c/o back pain and on MS elixir with some relief but asking for more pain meds. Pt. anxious at times.
+CV: Afeb. HR 47-70s SB/SR, with occ. PAC. HR noted to brady while pt. is sleeping- BP stable throughout with MAPs >60. HCT 31.5. Skin warm with palpable pulses. 
+RESP: Vent AC600x12 Peep+5 FiO2 40% RR 12-20 with ABG 94/42/7.35. Lungs coarse throughout with scattered rhonchi and decreased at bases. Sx'd for thick yellow secretions. O2 Sat >95%. 
+GI/GU: OGT verified by CXR last pm. Pt. c/o feeling nauseous but no emesis. OGT aspirated for scant bilious secretions. Abd. soft and distended with hypoactive bowel sounds. To receive nutrition consult. No BM. Foley draining clear yellow urine >25cc/hr. Urine output noted to be decreasing this am to 25-30cc/hr. 
+SKIN: Dsg changed to L buttock with site pink and draining small amts serous drainage.  Yeast infx with serous drainage in large amts. Heels red with duoderms covering and multipodus boots on.  Pt. repositioned side to side. Would benefit from 1st step mattress. Thrush in mouth with nystatin s&s as ordered. R groin TLC line and L groin A-line intact. 
+ 
+",,
+24807,29074,30797,0,3033-04-18 17:21:00 EST,3033-04-18 17:40:00 EST,-1,"N",69,"Nursing/Other",,"
+
+Narrative nurse note 7a-7p:
+
+Neuro:  Alert and orientx3. Quad with gross motor movement with BUE R>L. PEARL. Spasms to BLE with movement. Postive weak cough present with no gag reflex.
+
+Cardio: BP high and MD's aware 130-180/80-100.  No fluid bolus given. IV at 100cc/hr NS. Generalized edema noted. Denies CP. Temp up to 99.4. Complaint of lower back pain and 10mg MS given once with good response. HR 48-80's no ectopy.
+
+Pulm: Extubated at 1430 and now on 40% face tent and will draw post extub. blood gas. Lungs coarse throughout. Thick yellow sputum. MRSA in sputum. Sats >94%.
+
+GI: Abdomen semi-soft and distended with hypoactive BS. Patient able to drink fluids with po pills without difficulty. Aspiration precaution and HOB up 90 degree while drinking and 45min-one hour after. One small mocous yellow stool today.
+
+GU: Reevaluated foley catheter and placed an additional 20cc h2o in bulb secondary to bladder spasms and leaking around foley. Patient now draining adequate amounts of clear yellow urine >50cc/hr. 
+
+Notified wound nurse [**First Name (Titles) **] [**Last Name (Titles) 775**]'s of decubitus to Left buttock and Kinaire bed ordered and wound nurse will be by tomorrow to see patient and stated to continue to use the wet to wet dsg change. No family/friends in to visit patient nor no phone calls.
+",,
+24807,29074,30797,0,3033-04-19 03:43:00 EST,3033-04-19 03:56:00 EST,-1,"N",69,"Nursing/Other","MICU NPN:","
+MICU NPN:
+NEURO: A&Ox3. Weak productive cough, no gag reflex. Muscle spasms with movement. C/o back pain and medicated prn with some effect.  
+CV: Afeb. HR 47-70s SB/SR, with occ. PAC. BP high 140s-180s/90s-100s- team aware. IVF d/c'd and 10mg Lasix given with good u/o. Generalized 3+ edema. Pt refuses to have rings removed from fingers. Blister to R ring finger from swelling. Fingers warm to touch with good capillary refill.
+RESP: Currently on 6L NC with O2 Sat >90%. NT sx'd by RT with copious thick yellow secretions. Lungs coarse throughout with scattered rhonchi. 
+GI/GU: Abd soft and distended with hypoactive bowel sounds. Drinking and eating with aspiration precautions maintained and HOB >45 degrees for 1hr after eating or drinking. Small yellowish stool. Foley with clear yellow urine in good amts. ?leaking around foley with pad underneath wet x1. 
+SKIN: Dsg to L buttock changed W-D with serous drainage. Yeast to peri-area improving slightly. Skin care nurse to visit pt today. Need nutrition consult for diet order.  Pt. states she was on a chopped diet at home.
+SOCIAL: Pt's mother called and number on board in rm.
+",,
+24807,29074,30797,0,3033-04-19 03:48:00 EST,3033-04-19 03:56:00 EST,638,"N",69,"Nursing/Other",,"
+
+Respiratory Care:
+
+Albuterol/Atrovent MDI's given x 4 puffs each  with spacer.  Tolerated well with assistance. RR 20's. HR 76.  Bs rhonchi bilaterally. NTS for moderate amounts of thick white/yellow sputum. Tolerated well. Weak cough effort. O2 sats 95-96% on 50% cool neb with face tent. Much improved with sxing. No resp distress. 
+Will continue to follow with MDI's Qid/NTS prn. 
+",,
+24807,29074,30797,0,3033-04-19 13:55:00 EST,3033-04-19 14:23:00 EST,-1,"N",69,"Nursing/Other",,"
+
+Micu Progress Nursing Note:
+
+Neuro: Alert and oriented x 3. Some complaints of pain lower right abdomen this am, but no further complaints after receiving am MS Contin. Able to take all meds my mouth with pudding or ice cream.
+Afebrile.
+
+CV: SR, no ectopy, rate in 70s. BP somewhat elevated, 160s over low 100s, this am. BP decreased one teens to 130s over 70s to 80s this afternoon, most likely effect from po Valium. Some trace bipedal edema. 
+
+Resp: O2 NP at 6L with sats 97-99%. LS coarse throughout. Weak cough, purulent tan oral secretions. 
+
+GI/GU: Aspiration precautions maintained. Taking soft mechanical diet with no problems. Ate at least 50% of breakfast and lunch. Abdomen is soft, obese, with hypoactive bowel sounds. No BM today. Foley draining adequate amounts of clear amber urine. Oral thrush, treated with Nystatin s/s. 
+
+Skin: Multipodus boots on. Heels remain intact, slightly  pink from old decubiti, with intact Duoderms. New Duoderm placed on right heel; left duoderm intact. Yeasty red rash on groin area is improved. Left ischial wound seen by skin care nurses today, who re-dressed the wound. Consult for plastics to see patient was placed today, ? of osteomyelitis. complete bed bath given. 
+
+Lines: Multi-lumen femoral line intact and patent, dressing changed. 
+A-line to be dc'd before transfer to floor. Left hand peripheral line patent.
+
+Endocrine: QID FS secondary to steroid therapy. Noon sugar=145. No coverage necessary. 
+
+Social: Spoke with mother by phone today. Parents are coming to visit her this weekend.
+
+Plan: To be transferred to floor today. Prednisone to be tapered. 
+Monitor pulmonary status, maintain aspiration precautions. 
+
+[**First Name8 (NamePattern2) 174**] [**Last Name (NamePattern1) 175**], RN
+",,
+24807,29074,,,3033-04-20 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3033-4-20**] 1:14 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 6264**]
+     Reason: Please do cxr to evaluate pt desatting to low 80's
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      40 year old woman with resp distress and hx  aspiration pneumonia, quadroplegia
+     REASON FOR THIS EXAMINATION:
+      Please do cxr to evaluate pt desatting to low 80's
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY: 40 year old woman with respiratory distress and history of aspiration
+     pneumonia, now with low oxygen saturations.
+     
+     Portable AP semiupright exam on [**3033-4-20**] at 4 PM: Comparison is made to prior
+     study dated [**3033-4-17**]. The patient is now in pulmonary edema.
+     
+
+",,
+24807,29074,,,3033-04-23 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+",,
+24807,29074,,,3033-04-23 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3033-4-23**] 9:39 AM
+     PICC LINE PLACMENT SCH                                          Clip # [**Clip Number (Radiology) 6265**]
+     Reason: pt with need for long term antibiotics, needs PICC line plac
+     ********************************* CPT Codes ********************************
+     * 36489 CVL/PICC                       76942 UD GUID FOR NEEDLE PLACMENT   *
+     * 71010 CHEST AP ONLY                                                      *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      40 year old woman with 
+     REASON FOR THIS EXAMINATION:
+      pt with need for long term antibiotics, needs PICC line placed.  Thank [**Doctor First Name 14**].
+      [**First Name8 (NamePattern2) 1175**] [**Last Name (NamePattern1) 1220**] for x90324
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: Aspiration pneumonia with requirement for long-term IV
+     antibiotics. The IV team was unable to place PICC line at the bedside.
+     
+     OPERATORS: [**Last Name (LF) 3025**], [**First Name3 (LF) **] and [**Doctor Last Name 812**]. Dr. [**First Name4 (NamePattern1) 5892**] [**Last Name (NamePattern1) 812**], the attending radiologist,
+     was present and supervised the procedure.
+     
+     PROCEDURE: Written and signed informed consent was obtained from the patient.
+     The left upper arm was prepped and draped in sterile fashion after the patient
+     was laid supine on the fluoroscopy table. [**Doctor Last Name **] scale ultrasound was used to
+     identify a freely compressible left basilic vein, and the overlying tissues
+     were anesthetized with 1% Lidocaine. Ultrasound was needed since so suitable
+     superficial veins were visible. A single wall ministick needle was then guided
+     under ultrasound into this vessel, with return of dark, nonpulsatile blood. A
+     .018 wire was passed through the needle lumen and guided under fluoroscopic
+     visualization to the mid SVC. The needle was replaced over the wire with the
+     ministick sheath, and the distance to the SVC was measured along the wire. A 4
+     Fr Vaxcel single lumen PICC was cut to 39 cm and threaded under fluoroscopic
+     guidance centrally. The last few centimeters of the catheter were inserted
+     with concurrent pealing away of the sheath, the wire was removed, and a
+     confirmatory static image was obtained. The procedural site was cleaned off
+     and the external portion of the PICC fixated with a StatLock. The patient
+     tolerated the procedure satisfactorily. There were no complications.
+     
+     IMPRESSION: Technically successful placement of a 4 Fr single lumen Vaxcel
+     PICC via the left basilic vein to the level of the mid SVC. The PICC is ready
+     for use. The final chest-X-ray is rotated and there is possiblilty of left
+     lower lobe volume loss. A chest X-Ray in more upright position was therefore
+     recommended verbally to the referring resident Dr. [**First Name4 (NamePattern1) 6266**] [**Last Name (NamePattern1) 6267**].
+     
+     
+     
+     
+     
+                                                                 (Over)
+
+     DATE: [**3033-4-23**] 9:39 AM
+     PICC LINE PLACMENT SCH                                          Clip # [**Clip Number (Radiology) 6265**]
+     Reason: pt with need for long term antibiotics, needs PICC line plac
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+
+",,
+24807,29074,,,3033-04-23 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3033-4-23**] 9:39 AM
+     PICC LINE PLACMENT SCH                                          Clip # [**Clip Number (Radiology) 6265**]
+     Reason: pt with need for long term antibiotics, needs PICC line plac
+     ********************************* CPT Codes ********************************
+     * 36489 CVL/PICC                       76942 UD GUID FOR NEEDLE PLACMENT   *
+     * 71010 CHEST AP ONLY                                                      *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      40 year old woman with 
+     REASON FOR THIS EXAMINATION:
+      pt with need for long term antibiotics, needs PICC line placed.  Thank [**Doctor First Name 14**].
+      [**First Name8 (NamePattern2) 1175**] [**Last Name (NamePattern1) 1220**] for x90324
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: Aspiration pneumonia with requirement for long-term IV
+     antibiotics. The IV team was unable to place PICC line at the bedside.
+     
+     OPERATORS: [**Last Name (LF) 3025**], [**First Name3 (LF) **] and [**Doctor Last Name 812**]. Dr. [**First Name4 (NamePattern1) 5892**] [**Last Name (NamePattern1) 812**], the attending radiologist,
+     was present and supervised the procedure.
+     
+     PROCEDURE: Written and signed informed consent was obtained from the patient.
+     The left upper arm was prepped and draped in sterile fashion after the patient
+     was laid supine on the fluoroscopy table. [**Doctor Last Name **] scale ultrasound was used to
+     identify a freely compressible left basilic vein, and the overlying tissues
+     were anesthetized with 1% Lidocaine. Ultrasound was needed since so suitable
+     superficial veins were visible. A single wall ministick needle was then guided
+     under ultrasound into this vessel, with return of dark, nonpulsatile blood. A
+     .018 wire was passed through the needle lumen and guided under fluoroscopic
+     visualization to the mid SVC. The needle was replaced over the wire with the
+     ministick sheath, and the distance to the SVC was measured along the wire. A 4
+     Fr Vaxcel single lumen PICC was cut to 39 cm and threaded under fluoroscopic
+     guidance centrally. The last few centimeters of the catheter were inserted
+     with concurrent pealing away of the sheath, the wire was removed, and a
+     confirmatory static image was obtained. The procedural site was cleaned off
+     and the external portion of the PICC fixated with a StatLock. The patient
+     tolerated the procedure satisfactorily. There were no complications.
+     
+     IMPRESSION: Technically successful placement of a 4 Fr single lumen Vaxcel
+     PICC via the left basilic vein to the level of the mid SVC. The PICC is ready
+     for use. The final chest-X-ray is rotated and there is possiblilty of left
+     lower lobe volume loss. A chest X-Ray in more upright position was therefore
+     recommended verbally to the referring resident Dr. [**First Name4 (NamePattern1) 6266**] [**Last Name (NamePattern1) 6267**].
+     
+     
+     
+     
+     
+                                                                 (Over)
+
+     DATE: [**3033-4-23**] 9:39 AM
+     PICC LINE PLACMENT SCH                                          Clip # [**Clip Number (Radiology) 6265**]
+     Reason: pt with need for long term antibiotics, needs PICC line plac
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+
+",,
+24807,1223,,,3033-06-13 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3033-6-13**] 8:36 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 6268**]
+     Reason: eval for pulm edema, infiltrates, effusion
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      40 year old woman with resp distress and hx  aspiration pneumonia,
+      quadroplegia, sats 90 on non-rebreather
+     REASON FOR THIS EXAMINATION:
+      eval for pulm edema, infiltrates, effusion
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Respiratory distress and a history of aspiration pneumonia.
+     
+     PORTABLE AP CHEST:  Comparison is made to an exam of [**3033-4-20**].  The cardiac
+     silhouette and mediastinal/hilar contours are unremarkable.  There is a
+     persistent collapse/consolidation of the left lower lobe with obscuration of
+     the left hemidiaphragm and probable parapneumonic effusion. There is an
+     improved right basilar infiltrate. The pulmonary vasculature is within normal
+     limits. The soft tissues and osseous structures are stable.  There has been
+     interval placement of a left-sided central venous catheter with the tip
+     overlying the region of the SVC.
+     
+     IMPRESSION:  Bibasilar consolidation, left side greater than right, with a
+     probable left pleural effusion.  These findings are consistent with aspiration
+     pneumonia. Followup radiographs are suggested to document complete
+     resolution.
+     
+
+",,
+24807,1223,,,3033-06-13 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3033-6-13**] 10:46 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 6269**]
+     Reason: eval tube placement
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      40 year old woman with resp distress and hx  aspiration pneumonia,
+      quadroplegia, sats 90 on non-rebreather, s/p intubation, OG tube
+     REASON FOR THIS EXAMINATION:
+      eval tube placement
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Status post intubation.  Evaluate tube placement.
+     
+     PORTABLE AP CHEST:  Comparison is made to an exam of approximately three hours
+     earlier.  There has been interval placement of endotracheal and nasogastric
+     tubes, both of which appear to be in satisfactory position.  There are
+     persistent lower lobe consolidations, left greater than right.  There is also
+     increased prominence of the interstitial markings and upper zone
+     redistribution of the pulmonary vasculature.
+     
+     IMPRESSION: Satisfactory placement of nasogastric and endotracheal tubes.
+     Interval development of mild CHF superimposed upon previously  noted areas of
+     bibasilar consolidation.
+
+",,
+24807,1223,30798,0,3033-06-13 23:42:00 EST,3033-06-13 23:49:00 EST,2308,"N",69,"Nursing/Other","Respiratory Care:","
+Respiratory Care:
+Female quadraplegic, who per report was smoking late [**6-13**], when she experienced acute SOB.  In the E.D. she was intubated for severe respiratory distress and suspected aspiratio pneumonia.  7.5 OET placed 23 @ lip with + CO2 via ""easy-cap"", 4 lung zone course aeration and negative gastric insufflation.  ETS for copious, green secretions.  Taken to the MICU for continued care.  Initialized on settings per flowsheet.  Pt. on MRSA precautions.  CXR showed bilateral infiltrates (per report), and good OET placement.  ABG obtained, with results pending.  Pt. presently sedated and synchronous with current vent support.  Will continue aggressive pulmonary hygiene, monitor and adjust vent settings as needed.
+",,
+24807,1223,30798,,3033-06-14 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3033-6-14**] 8:41 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 6270**]
+     Reason: Please evaluate lung fields for interval change considering 
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       40 year old woman with resp distress and hx  aspiration pneumonia, 
+      quadroplegia, sats 90 on non-rebreather, s/p intubation, OG tube
+     REASON FOR THIS EXAMINATION:
+      Please evaluate lung fields for interval change considering blossoming 
+      pneumonia
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Respiratory distress in patient with suspected aspiration
+     pneumonia.
+     
+     PORTABLE CHEST:  A supine view is compared to [**3033-6-13**].  The ETT and NGT appear
+     in good position.  There is dense consolidation with air bronchograms in the
+     left lower lobe.  Compared to the prior study, there is decreased pulmonary
+     vascular congestion and improved aeration of the right lower lobe.
+     
+     IMPRESSION:  Left lower lobe pneumonia.
+
+",,
+24807,1223,30798,0,3033-06-14 03:23:00 EST,3033-06-14 03:37:00 EST,-1,"N",69,"Nursing/Other",,"
+
+Admission note 2330
+Pt is a 40 yr old female who is a quad from a MVA 5 yrs ago. 
+PMH: pnemonia, Positive MRSA in Sputum, uti's, adrenal insuff, anemia, gerd, depression, very heavy smoker ppd?, and anxiety.
+In [**3033-2-25**] pt was in [**Hospital **] Hospital with s/s of fever, hypotension, productive cough, and had to be intubated for a rll pnemonia, at that time pt was on antibiotics, levaquin, clinda, and vanco, and her bp was low she was dopa for a short time. She was treated with sterroids and was on the vent for 7 days. In the last 7 months, she has been intubated 4 times. History f a trach, since closed up.
+Allergy: PCN and Sulfa.
+ 
+Today she presented to the er with c/o increased sob, after being in her wheelchair at 1730 and smoking. When EMS arrived she was a/o x 3, flushed, rr 28-32 and labored.
+Pt was placed on 100% nrm sat's were 88% and pt was struggling for air. She was treated with 5 liters of fluid, antibiotics, sterroids and was intubated. 
+ETT 7.5 at 23 lip 600x50%x12 peep 10
+abg's before intubation 7.35/49/86 7.26/55/103
+after intubation        7.40/33/82 sat 97%
+Pt has multiple skin decub, please see carevue for explanation.
+Arrived with a #30f/30cc foley to cd, peri are redded and ?yeasty discharge.  Admitted to MICUA
+",,
+24807,1223,30798,0,3033-06-14 03:38:00 EST,3033-06-14 03:56:00 EST,-1,"N",69,"Nursing/Other",,"
+
+Nursing Note, 
+00-0700
+Review of systems.
+Neuro: Pt is on propofol gtt at 30 mcg/kg/min 15cc. Pearl 3mm brisk.
+Quad. 
+CV: remains in nsr-sb hr 50-70's no ectopy noted. sbp 129/78--140/88
+GU: pt arrived with a #30f/30cc foley to gravity, urinating around cath, cath appeared to need changing. When foley dc'd small blood clot noted at tip of cath. Re inserted a #30f/30cc, and ? pt needed larged cath, voiding around foley and unable to measure accurate urine. DR [**First Name4 (NamePattern1) 1272**] [**Last Name (NamePattern1) 4218**] aware and will inform the team in the AM. Peri are, redded and ? yeast discharge, nystantin powder ordered. When able please send ucul.
+GU: abd soft and distended, hypoactive bs, per record, pt stated in the er that she hasn't had a bm in 4 days, lactoluse tid noted. NGT in right nares,clamped cxr comfirmed placement. pt remains npo.
+RESP: pt is vented via ett 7.5 23 at lip. vent settings at this time are. TV 600x50%x12 peep 10.Bs Rhonch throughout.
+abg's on this were 7.40/33/82 and 97%
+Acess: left dble picc lumen--propofol gtt running, # 18 qc in right ac
+Ns@ 100cc per hr.
+ID: [**Name8 (MD) 59**] md [**First Name (Titles) **] [**Last Name (Titles) **] infiltrates, sxn serval times orally,nasaly and via ett, greeninsh thick sputum. + MRSA in sputum. Sputum culture and bcul via perif, and picc line sent from the micu.
+Tmax 95 orally and tmin 93. pt is on b warmer. Labs to be drawn in the am.
+
+",,
+24807,1223,30798,0,3033-06-14 15:45:00 EST,3033-06-14 15:47:00 EST,-1,"N",69,"Nursing/Other","resp. care note","
+resp. care note
+patient remains intubated and ventilated. sedation lifted and patient more awake/following commands. changed to ps with a decrease in fi02. tolerating well. conts. to have large amts. of sputum production. see rt flowsheet for settings.
+",,
+24807,1223,30798,0,3033-06-14 16:30:00 EST,3033-06-14 16:59:00 EST,-1,"N",69,"Nursing/Other",,"
+
+MICU NPN 7a-7p
+
+Pt able to wean to CPAP and PS today.  Tolerating well.  Consulted with Clinical nurse specialist re skin breakdown.  
+
+Review of systems:
+Neuro:  Proprofol d/ced @ 10am.  Pt remained sedated for ~45 minutes.  Pt was able to open eyes to voice.  Pt started on ativan gtt @.5mg/hr and MSO4 @1.0mg/hr.  Pt is awake and comfortable @ this dose.  She is mouthing sentances.  Asking for position change.  Pt acting appropriately.  
+
+Resp:  Received pt on AC 600x50x12.  FIO2 decreased to 40% @12pm.  Pt placed on CPAP and PS15, fio2 40, VT ~480 @2pm.  Pt tolerating well. O2 sats 98-100%  Pt required sxn q hour today.  Sputum thick and greenish in color.  
+
+CV:  sinus brady 38-50. Team aware.  No ectopy noted.  K noted to b 3.6 this am.  replaced with 40meq KCL.   BP stable 121-145/97-82.
+
+GI:  Pt placed on bowel regime today.  Pt had large stool x1.  Guiac negative.  TF (promote with fiber) started @4pm @10cc/hr.  Goal 55cc.
+abdomen soft.  Pt complains of sharp constant pain.  When investigated further, Pt reported she always has this pain.  
+
+GU:  30 french foley leaking this am.  Urology suggested deflating balloon 15cc.  Foley fell out.  Attempted to replace foley x2.  Urology able to reinsert 30 french foley catheter.  Pt does not appear to be leaking around catheter @ this point.  Continue to monitor uo.
+
+SKIN:  Consulted with clinical RN specialist today re pt skin breakdown.  Left and right heal to leave open to air.  Continue wearing multipodus boots.  Right thigh appears to be healing well.  Will continue to leave open to air.  Duoderm applied to left shoulder area.  Coccyx area wet to dry BID.  Pt placed on 1st step.  
+
+ID:  urine culture sent to lab.  pt remained afebrile during this shift.  PICC line placed by NH.  ?date.  Areas around suture sites appear to be broken down. 
+
+Social:  Mother and Father in to visit today.
+
+DISPO:  Remains in MICU.  Full Code.
+",,
+24807,1223,30798,0,3033-06-14 22:07:00 EST,3033-06-14 22:18:00 EST,2148,"N",69,"Nursing/Other","Micu Nursing Progress Note","
+Micu Nursing Progress Note
+Resp: Suctioned q2h for mod amount of thick tan secretions.  O2 sats 100% so the Peep was decreased to 5cm.  Plan to slowly wean the PSV, while maintaining TV, in an attempt to get her ready for extubation in the AM.
+
+Neuro: Pt alert and trying to talk volumes, She is somewhat hard to lip read but she still tries to talk in full sentences.  She remains on ativan at 0.5mg/hr and MSO4 at 1mg/hr.  She was bolused with 2mg at 2200 for [**Doctor Last Name **] with good immediate effect.  
+
+Cardiac: She remains bradycardic with a good B/P 130-140/80's.
+
+GI:  Tube feedings at 10 cc/hr with minimal residual.  Rate was increased to 30cc/hr at 10pm.  No further stool and all stool meds given at 10pm as ordered.
+
+GU: Foley continues to leak, there was yellow colored liquid that smelled like urine on the pad and on her decub dressing.  (The dye was not available until 9pm)
+
+Plan: slowly wean PSV in prep for possible extubation in am.
+",,
+24807,1223,30798,0,3033-06-15 04:41:00 EST,3033-06-15 04:45:00 EST,2308,"N",69,"Nursing/Other","Respiratory Care:","
+Respiratory Care:
+Weaned peep from 10 to5cmH20, with no decrease in SPO2 (remains 100%). B/S clearing, with decreasing secretions.  MDI's given post SXN forinduced bronchospasm with good effect.  Plan is to attempt to wean PS level, as tolerated.  Currently, Pt. slowly waking from sedation.  Will progress with wean as patient wakes, with possible extubation if tolerated.
+",,
+24807,1223,30798,0,3033-06-15 05:11:00 EST,3033-06-15 05:24:00 EST,1951,"N",69,"Nursing/Other",,"
+
+NPN nocs:
+     S/O: Pt cont vented PSV 15/5/.40.. sats 100% all noc.. RR 12-14, dipping to 8 transiently after sedation given.. mv remaining [**3-4**]. Tv's 400-500. sx for small amts yellow thick secretions q 4 hrs.. much improved from report yesterday. Initially on ativan/mso4 gtts.. very aggitated, restless, tearful early in shift.. diffiult to read lips.. but reported feeling hungry.. med with 2mg ativan x 1.. no effect, so repeated.. pt slept x 4 hrs after this.. rr decreased as noted.. easily awakened. RT notified, but MV adequate and RR increased without intervention.. early this am, pt again with episode of apnea.. ativan and mso4 gtts dc'd.. will use bolus doses prn. at present, rr 12, pt awakens to voice and is appropriate, follows commands.. reports feeling comfortable.  cont on vanco for mrsa in sputum. also on steroids. cont bradycardic, SB 40's-50's.. bp 140's/80's. Foley cont to leak.. barrier cream applied to skin.. no dye to be used as we know foley is leaking. afebrile. no bm o/n. tf's at 40cc's/hr.. per team will cont tf's until am rounds.. would not be extubated until afternoon.. ivf order expired on eves.. no further fluid per team. am labs sent early to recheck phos level. wnl.. may need K. cont with multiple skin issues.. skin care given as outlined by [**Name8 (MD) **] rn. R thigh abrasion appears to be r/t finger nails scratching. will need to trim these. on first step mattress. cont wet to dry to coccyx. 
+     A/P: pt much improved from resp standpoint. cont. infustion sedation gtts dc'd, so as to facilitate weaning today. f/u with team r/e holding tf's. cont skin care. cont abx/steroids. 
+",,
+24807,1223,30798,0,3033-06-15 15:57:00 EST,3033-06-15 16:10:00 EST,1630,"N",69,"Nursing/Other","altered resp status","
+altered resp status
+d: pt oriented x2 but at other times making inappropriate statements : such as ""[**Doctor First Name **] said you'd take me out to the barbecue and what is the capitol of whyoming?"".  folows simple commands consistently. pt extubated at 1000 and initially placed on 40% cool neb mask and now changed to 4l/m nc with o2 sats > 98%. lungs essentially clear and diminished at the bases with upper airway stridor. ngt in place and calmped at present. abd benign on exam. incontinent of lg amt of soft brown stool. held this afternoons dose of lactulose. once upper airway stridor improves will give pt ice chips and advance diet sa tolerated. hr 30-50's nsr and sbp146-155. k+ 3.6 this am and not  repleted. temp=94 and wbc 9.1 pt remains on mrsa precautions. continues tro have leaking from #30 fr 30 cc ballon foley cath. drsg to [**Name5 (PTitle) 5063**] changed- wet to dry as ordered. bil heels open to air. duoderm to l back in place. no phone contact  from family as of yet.  pt remains a full code and can be transfered to medical floor when bed available.
+",,
+24807,1223,30798,1,3033-06-16 05:24:00 EST,3033-06-16 06:20:00 EST,1618,"Y",69,"Nursing/Other","P-MICU NPN 7p-7a","
+P-MICU NPN 7p-7a
+Addendum:
+
+6:30am, pt's O2 Sats began to drop into the low 80's.  LS coarse, increased RR, poor cough.  NT sx'd for mod amts and placed on 100%NRB with Sats up to 99%.  Will attempt to titrate O2 a little later on.
+
+Hct came back at 13??.  Labs drawn via PICC with 10cc discard.  Redrawn at 7am.
+",,
+24807,1223,30798,0,3033-06-16 05:24:00 EST,3033-06-16 05:39:00 EST,1618,"N",69,"Nursing/Other","P-MICU NPN 7p-7a","
+P-MICU NPN 7p-7a
+Systems Review:
+
+Resp:  LS diminished, scattered coarseness bilat in upper airways, clearing with coughing.  O2 4l nc intact with excellent O2 Sats.  
+
+CV:  Bradycardic entire shift, HR of 30's-40's most all shift.  BP 130's-150's.
+
+Neuro:  Somewhat forgetful, asking same questions several times.  Needs continuous reassurance.  
+
+Skin:  Left buttock/hip decub changed several times throughout shift due to incontinece.  
+
+GU:  Foley cath leaking Large amts, no urine noted in tubing, so foley was changed last eve.  It has drained small amts, but cont's to leak.  ? need for urology consult.
+
+GI:  +BS, small amt of brown stool.  Receiving mult. bowel meds per regime.
+
+Pain:  C/O back pain and discomfort.  Requesting MS04 and receiving 2mg IV.  Approx 1/2hr after receiving MSO4, she began calling out stating she usually receives 4 mg and needs more.  Pt given 1mg ativan instead and appeared to be comfortable.
+",,
+24807,1223,30798,0,3033-06-16 15:44:00 EST,3033-06-16 15:53:00 EST,1630,"N",69,"Nursing/Other","altered resp status","
+altered resp status
+D: PT ALERT AND ABLE TO VERBALIZE HER NEEDS.  RESP STATUS UNCHANGED. REMAINS ON 4L/M NC WITH O2 SATS>95%.  COARSE BS BIL AND DIMINISHED AT THE BASES. C&R THICK YELLOW SPUTUM. THIS AFTERNOON EPISODE WITH TURNING PT THAT SHE DROPPED HER O2 SAT DOWN TO 88& AND APPEARED DUSKY. NASOTRACHEALLY SUCTIONED FOR COPIOUS AMTS OF THICK YELLOW SPUTUM.  GI: NGT D/C'D AND PT TOLERATING CLEAR LIQS AND CUSTARD. WILL MAINTAIN ASPIRATION PRECAUTIONS AND ADVANCE PT'S DIET AS TOLERATED. SM SOFT BROWN STOOL GUIAC NEG. RENAL: LG FR FOLEY CATH IN PLACE AND CONTINUES TO DRAIN AROUND CATH. PERI AREA REMAINS EXCORIATED AND MYCOSTATIN POWDER APPLIED.  NO CONTACT FORM PT'S FMILY. SHE REMAINS A FULLCODE AND STLL AWAITING BED ON MEDICAL FLOOR. WILL CONTINUE WITH REPS TOILETING AND SKIN CARE SECONDARY TO URINE INCONTINENCE.
+",,
+24807,,30798,0,3033-06-17 03:40:00 EST,3033-06-17 03:58:00 EST,-1,"N",69,"Nursing/Other","Nursing note:","
+Nursing note:
+Resp- Maintained overnight on 4l O2 via nc, sats in the high 90s, still congested, quad coughing done, coughing up loose yellowish secretions, rr 15 - 22, continue on inhalers and hydrocortisone.
+
+CV- Hr 40s sb, no ectopy, bp stable; 134/80 - 145/ 64, no c/o cp or sob.
+
+N- she is alert, somewhat confuse at times, c/o generalized discomfort, requested ms04, she was given 2mg iv x2, she states she usually takes 4mg at a time. aslso she was given ativan 2mg, slept in short naps.
+
+GI- +bs, abd soft, sm soft stool, continue on bowel regimen. Started on full liq diet, tol well, she is able to take her pill with apple sauce.
+
+Gu- She continues to have copious amt of drainage around her foley, practically she incontinent, md is aware, she was seen by urology yesterday; no note in chart. Continous on oxybutin.
+
+Skin- Buttocks area is getting red from constant moisture, wound dsg always wet, changed freq. Duoderm to upper back intact.
+
+Dispo- pt is called to the floor, await a precaution bed. Continue to monitor resp status, aggressive pulmonary toileting, assess comfort level, follow up on urology consult.
+",,
+24807,16385,,,3033-06-25 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3033-6-25**] 10:29 AM
+     CHEST (PA & LAT)                                                Clip # [**Clip Number (Radiology) 6271**]
+     Reason: pt with increased sob and decreased o2 sats,  , \
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      40 year old woman with sob and decreased o2 sats
+     REASON FOR THIS EXAMINATION:
+      pt with increased sob and decreased o2 sats
+       
+      \
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  40 y/o woman with shortness of breath and decreased oxygen
+     saturation.
+     
+     CHEST, PA AND LATERAL
+     
+     COMPARISONS: Portable chest [**3033-6-14**].
+     
+     FINDINGS:  In the interval there is persistent left lower lobe opacity. This
+     once again is suspicious for persistent pneumonia.  There are no visible tubes
+     or lines.  There is no other cardiomediastinal or lung abnormalities.
+     
+     IMPRESSION:  1) Persistent left lower lobe opacity, suspicious for continued
+     pneumonia.
+
+",,
+24807,16385,30799,0,3033-06-26 04:31:00 EST,3033-06-26 04:36:00 EST,-1,"N",69,"Nursing/Other",,"
+
+Pt admitted this evening shortly after 8pm.  No acute distress noted on admission or during shift.
+
+Neuro:  Pt is a&o x4, appropriate.  Demanding at times, but pleasant.  Pt has been a quadraplegic x 5 years, but has some movement in her R arm and claims to have sensation in all four limbs and trunk.
+
+Resp:  spo2 95% on RA.  Lungs crackles to coarse in places.  Frequently coughs up thick yellow sputum, good cough effort.
+
+CV:  SR-SB 50's this shift, BP stable.
+
+GI/GU: 30F foley in place, pt leaks around catheter at times.
+
+No further issues this pm, possible transfer to floor. 
+",,
+24807,16385,30799,0,3033-06-26 05:32:00 EST,3033-06-26 05:34:00 EST,-1,"N",69,"Nursing/Other",,"
+
+ADDENDUM:
+DSG CHANGE DONE TO HEELS BILAT.  STAGE II DECUB TO BOTH, WET TO DRY DSG DONE.  SCD'S IN PLACE.  PT REQUESTING A SOCIAL WORKER [**Last Name (LF) 1988**], [**First Name3 (LF) **] AIR MATTRESS AND OXYCONTIN AT CURRENT.  PT ALSO STATES SHE HAS SKIN BREAKDOWN TO COCCYX.  NO SKIN BREAKDOWN NOTED TO THIS AREA UPON PREVIOUS ASSESS, SOME REDNESS NOTED HOWEVER.  DUODERM TO BACK REMAINS INTACT.  WILL MONITOR FURTHER.
+",,
+24807,2,,,3033-07-08 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3033-7-8**] 2:07 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 6272**]
+     Reason: Young female with ams
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       40 year old woman with resp depressions and hx  aspiration pneumonia, 
+      quadroplegia, 
+     REASON FOR THIS EXAMINATION:
+      Young female with ams
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: History of quadraplegia, AMS and aspiration pneumonia. Now with
+     respiratory depression.
+     
+     COMPARISON: [**3033-6-25**].
+     
+     SUPINE AP CHEST: Patient is rotated. Supine technique limits evaluation of the
+     heart, mediastinum and pulmonary vascularity. Left basilar opacity is again
+     seen, consistent with pneumonia. There is a small left sided pleural effusion.
+     Improved visualization of the left hemidiaphragm could represent improvement
+     of pneumonia or shift of pleural effusion due to increased rotation. Metal
+     plate and screws from anterior fixation of C spine is better seen on the prior
+     study. Soft tissues are unremarkable.
+     
+     IMPRESSION: Persistent left lower lobe pneumonia and small left sided pleural
+     effusion. Follow-up evaluation by chest radiographs to resolution of these
+     findings is recommended. 
+
+",,
+24807,2,30800,,3033-07-09 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3033-7-9**] 12:01 AM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 6273**]
+     Reason: mental status change. patient with c3-c4 injury in past with
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      40 year old woman with paraplegia, uti
+     REASON FOR THIS EXAMINATION:
+      mental status change. patient with c3-c4 injury in past with paraplegia.
+      admitted with narcosis [**12-29**] narcotics and reversed however, now with mental
+      status changes. please evalute. thank [**Doctor First Name 14**]
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Paraplegia, change in mental status.
+     
+     TECHNIQUE:  Axial images of the brain were obtained without IV contrast.
+     
+     There are no prior studies for comparison.
+     
+     FINDINGS:  There is no shift of normal midline structures or mass effect.  The
+     ventricles, cisterns and sulci are normal.  The [**Doctor Last Name 66**]/white matter
+     differentiation is normal.  There are no pathologic extra-axial fluid
+     collections.  There are no skull fractures.  The paranasal sinuses are clear.
+     
+     IMPRESSION:
+     1.  No evidence of intracranial hemorrhage.
+     
+
+",,
+24807,2,30800,,3033-07-09 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3033-7-9**] 12:01 PM
+     PICC LINE PLACMENT SCH                                          Clip # [**Clip Number (Radiology) 6275**]
+     Reason: please place a PICC line. patient requiring IV antibx. C3-C4
+     ********************************* CPT Codes ********************************
+     * 36489 CVL/PICC                       76942 UD GUID FOR NEEDLE PLACMENT   *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      40 year old woman with as above
+     REASON FOR THIS EXAMINATION:
+      please place a PICC line. patient requiring IV antibx. C3-C4 quadraplegic with
+      history of multiple aspiration pna admitted for repiratory depression.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:Infection. Need for long-term IV antibiotics. IV team was not able
+     to advance a PICC line.
+     
+     RADIOLOGISTS: The procedure was performed by Dr. [**Last Name (STitle) 110**] and Dr. [**Last Name (STitle) 456**] [**Name (STitle) 457**].
+     Dr [**Last Name (STitle) 456**] [**Name (STitle) 457**], the staff radiologist, was present and supervised the
+     procedure. Dr. [**First Name (STitle) 812**] [**Name (STitle) 6276**] the case.
+     
+     PROCEDURE/FINDINGS: The right upper arm was prepped in a sterile fashion.
+     Since no suitable superficial veins were visible, ultrasound was used for
+     localization of a suitable vein. The cephalic vein was patent and
+     compressible. After local anesthesia with 2 ml 1% Lidocaine, the cephalic vein
+     was entered under ultrasonographic guidance with a 21 gauge needle. An 0.018
+     guide wire was advanced under fluoroscopy. 20 cc of Optiray was administered
+     intravenously to demonstrate the venous flow and anatomy within the right
+     upper extremity. The veins are somewhat narrowed. However, an 0.018 guide wire
+     was able to be advanced under fluoroscopy into the superior vena cava. Based
+     on the marks on the guide wire it was determined that a length of 48 cm would
+     be suitable. The PICC line was trimmed to length and advanced over a 4 FR
+     introducer sheath under fluoroscopic guidance into the superior vena cava. The
+     sheath was removed. The catheter was flushed. A final chest X-ray was
+     obtained. The film demonstrates the tip to be in the superior vena cava just
+     above the atrium. The line is ready for use. A stat lock was applied and the
+     line was hep-locked.
+     
+     IMPRESSION: Successful placement of a 48 cm long, 4 French, single lumen PICC,
+     with the tip in the superior vena cava. The PICC is ready for use.
+     
+     
+
+",,
+24807,2,30800,,3033-07-09 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3033-7-9**] 12:01 PM
+     PICC LINE PLACMENT SCH                                          Clip # [**Clip Number (Radiology) 6275**]
+     Reason: please place a PICC line. patient requiring IV antibx. C3-C4
+     ********************************* CPT Codes ********************************
+     * 36489 CVL/PICC                       76942 UD GUID FOR NEEDLE PLACMENT   *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      40 year old woman with as above
+     REASON FOR THIS EXAMINATION:
+      please place a PICC line. patient requiring IV antibx. C3-C4 quadraplegic with
+      history of multiple aspiration pna admitted for repiratory depression.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:Infection. Need for long-term IV antibiotics. IV team was not able
+     to advance a PICC line.
+     
+     RADIOLOGISTS: The procedure was performed by Dr. [**Last Name (STitle) 110**] and Dr. [**Last Name (STitle) 456**] [**Name (STitle) 457**].
+     Dr [**Last Name (STitle) 456**] [**Name (STitle) 457**], the staff radiologist, was present and supervised the
+     procedure. Dr. [**First Name (STitle) 812**] [**Name (STitle) 6276**] the case.
+     
+     PROCEDURE/FINDINGS: The right upper arm was prepped in a sterile fashion.
+     Since no suitable superficial veins were visible, ultrasound was used for
+     localization of a suitable vein. The cephalic vein was patent and
+     compressible. After local anesthesia with 2 ml 1% Lidocaine, the cephalic vein
+     was entered under ultrasonographic guidance with a 21 gauge needle. An 0.018
+     guide wire was advanced under fluoroscopy. 20 cc of Optiray was administered
+     intravenously to demonstrate the venous flow and anatomy within the right
+     upper extremity. The veins are somewhat narrowed. However, an 0.018 guide wire
+     was able to be advanced under fluoroscopy into the superior vena cava. Based
+     on the marks on the guide wire it was determined that a length of 48 cm would
+     be suitable. The PICC line was trimmed to length and advanced over a 4 FR
+     introducer sheath under fluoroscopic guidance into the superior vena cava. The
+     sheath was removed. The catheter was flushed. A final chest X-ray was
+     obtained. The film demonstrates the tip to be in the superior vena cava just
+     above the atrium. The line is ready for use. A stat lock was applied and the
+     line was hep-locked.
+     
+     IMPRESSION: Successful placement of a 48 cm long, 4 French, single lumen PICC,
+     with the tip in the superior vena cava. The PICC is ready for use.
+     
+     
+
+",,
+24807,2,30800,,3033-07-09 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3033-7-9**] 10:30 AM
+     ABDOMEN (SUPINE ONLY) PORT                                      Clip # [**Clip Number (Radiology) 6274**]
+     Reason: assess for fecal impaction. patient with quadraplegia s/p mv
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      40 year old woman with as above
+     REASON FOR THIS EXAMINATION:
+      assess for fecal impaction. patient with quadraplegia s/p mva with abd pain and
+      on chronic narcotics 
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     
+     ABDOMEN, TWO VIEWS:
+     
+     HISTORY:  Quadriplegia with abdominal pain and constipation.  Evaluate for
+     fecal impaction.
+     
+     No evidence for intestinal obstruction or fecal impaction.
+     
+
+",,
+24807,2,30800,0,3033-07-09 00:56:00 EST,3033-07-09 01:22:00 EST,-1,"N",69,"Nursing/Other","MICU/SICU NURSING PROGRESS NOTE.","
+MICU/SICU NURSING PROGRESS NOTE.
+     SEE CAREVIEW FOR OBJECTIVE DATA.
+     Neuro: Arouses with verbal stimuli, ms is variable and changes from a&o x 3 to a&o x 1 with moaning episodes, repetitive speach and repetative motions with rue.  Pupils are rt 4mm, lt 3mm and sluggish bilat.  Head ct completed and was negative.  Was given versed 1 mg during ct and pt became much more calm and was able to answer questions appropriatly. Reports able to feel in all 4 extrem., Partial movement of rt ue and lt ue.
+     Respiratory:  Lung sounds are coarse throughout, diminished in lt base.  RR 12-24 and non-labored except when having moaning episodes.  O2 saturation is 94-100% on 4l nc.  Cxr in ed showed persistent lll pneumonia and atelectasis in rt upper field.  Expectorating thick tan sputum in abundant amounts.
+     CV:  Sinus rythm, rate 70-98 with no ectopy noted.  Nbp 104- 134 systolic.  Good pulses all 4 extrem.  
+      GI/GU:  Abdomen si softly distended with + bs.  Pt is able to take regular meals, is full feed, but must be bolt upright.  Able to take meds with custard or jello.  No bm this shift but reports bm yesterday.  Foley catheter is 30fr placed at os facility, occn leaks around catheter.  Patetn and draing clear amber urine.  ? uti, leuks and  blood in ua.
+      Integument:  Multiple skin issues.  Stage 3 decubiti below lt glutael, rash on lt and rty gluteals extending down to just above knee joint, raised and pink area in rt lower abdomen, blister type area on rt upper thigh.  Lidocaine patches on mid thorax and lumbar spine.  
+       Plan:  Monitor respiratory status and tx pnuemonia with abx, Tx uti, Assess present pain control methods and find alteratives.  Obtain first step bed if to be pt here for any lenght of time.
+",,
+24807,2,30800,0,3033-07-09 15:26:00 EST,3033-07-09 15:43:00 EST,-1,"N",69,"Nursing/Other",,"
+
+SHIFT REPORT FOR MICU/SICU.
+REVIEW OF SYSTEMS.
+PT IS CALLED OUT. MRSA IN SPUTUM, PCN SULFA ALLERGIES.
+NEURO: PT AWAKE ALERT AND ORIENTED X 3. SLEPT IN NAPS DURING THE DAY.
+PUPILS ARE ASYMMETRICAL BOTH REACT TO LIGHT. RIGHT PUPIL IS 4 MM AND IS SLUGGISH TO LIGHT AND LEFT IS 3MM AND IS BRISK, TEAM IS AWARE. HEAD CT YESTERDAY WAS NEGATIVE. 
+RESP: PT IS ON 2LITERS FROM 4L SAT'S 96-98%. BS ARE COURSE THROUGHTOUT. PT HAD SCANT AMOUNT OF SECRETIONS IN AM, FOUND MORE AFTER SHE ATE HER MEALS. CLEAR WITH A YELLOWISH TINT AND THICK AT TIMES. PT HAS A PRODUCTIVE COUGH AND IS ABLE TO GET THE SECRETIONS UP. RESP RATE ARE 16-22 NON LABORED. CXR YESTERDAY IN THE ER WAS NOTED AS LLL PNEMONIA WITH SMALL PLEURAL EFFUSIONS ON LEFT.
+CV: REMAINS IN A NSR, NO ECTOPY NOTED. SBP 102-120'S HR IN THE 60-80'S.
+GI: ABD SOFT AND DISTENDED, HYPOACTIVE BS, KUB DONE TO ? BOWEL IMPACTION, NEGATIVE, PT REMAINS ON LACTULOSE 20CC TID, MAG CITRATE QOD,AND COLACE. PT IS A FULL FEED. AND NEEDS TO BE ELEVATED UP 90 DEGREES DURING MEALS AND LEFT IN THAT POSITION X 30 MINUTES.
+GU: PT HAS #30 FRENCH FOLEY TO CD. YELLOW TO LIGHT YELLOW COLORED URINE WITH SEDIMENT. HOURLY U/O 45-160CC.
+SKIN: MULTIPLE SKIN PROBLEMS, PLEASE SEE CAREVUE FOR SITES. ATTENDING IN TO SEE SKIN, AWARE OF ALL AREAS, COCCCYX AND RIGHT BACK AREA, CLEANSED AND RE DRESSED, SMALL AMOUNT OF DRAINAGE ON BOTH, SEROSANG.
+RIGHT HEEL, BLISTER THAT HAD BROKEN, CLEANSED AND ADAPTIC PLACED ON. MULTIPODIS BOOTS ORDERED. STAGE ONE BED.
+ACESS: #20 QC IN RIGHT HAND- NS AT 10CC PER HR. PT WENT TO FLURO AND HAD PICC LINE PLACED IN RIGHT AC AREA, WNL. CAPPED.
+PT WILL SEE PAIN CLINIC SPECIALISTS TO FIND THE RIGHT DOSAGE AND RIGHT MEDS TO PREVENT FREQUENT HOSPITALIZATIONS.
+",,
+24807,2,,,3033-07-10 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3033-7-10**] 1:25 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 6277**]
+     Reason: new infiltrate? pna?
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       40 year old woman with resp depressions and hx  aspiration pneumonia, 
+      quadroplegia, interval change?
+     REASON FOR THIS EXAMINATION:
+      new infiltrate? pna?
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: History of aspiration pneumonia.  History of quadriplegia,
+     interval change suspected.  Rule out pneumonia.  The study is compared with
+     the prior examination of [**3033-7-8**].
+     
+     FINDINGS: Overlying the mid lower chest is a metallic cross that the patient
+     is wearing.  A right PICC line is identified with its tip in the junction of
+     the SVC and bronchiocephalic veins.  Again seen on this examination is left
+     lower lobe consolidation, which may represent atelectasis or aspiration
+     pneumonia.  There is prominence of the pulmonary vasculature with bilateral
+     air space opacities consistent with mild congestive heart failure.  The soft
+     tissue and osseous structures remain stable.
+     
+     IMPRESSION: Mild congestive heart failure.  Continued left lower lobe
+     consolidation, representing atelectasis versus aspiration pneumonia.
+
+",,
+24807,19855,,,3033-08-15 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3033-8-15**] 4:08 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 6278**]
+     Reason: patient with sob, 85% sat on room air, and past hx of pnuemo
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       40 year old woman with resp depressions and hx  aspiration pneumonia, 
+      quadroplegia, interval change?
+     REASON FOR THIS EXAMINATION:
+      patient with sob, 85% sat on room air, and past hx of pnuemonia requiring
+      intubation
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: Hypoxemia. Quadriplegia. Respiratory depression.
+     
+     COMPARISON: [**3033-6-25**].
+     
+     FINDINGS: The left lower lobe opacity seen on the prior study is no longer
+     present. There is increased opacity within the right lower lobe. Linear
+     stranding is seen at the left lung base. A right-sided PICC line terminates in
+     the upper SVC. The heart size and mediastinal contours are unchanged.
+     
+     IMPRESSION: New right lower lobe opacity consistent with pneumonia.
+
+",,
+24807,19855,30801,0,3033-08-15 20:17:00 EST,3033-08-15 20:24:00 EST,511,"N",69,"Nursing/Other",,"
+
+RESP: CXR SHOWED RLL PNEUMONIA. HYPOXIC ON ADM. PLACED ON 100% NRB. ABG'S 7.32-67-68-36 PRIOR TO MASK. SUCTIONED NASALLY FOR THICK GREEN SECRETIONS. PT. HAS REFUSED TRACH ON PREVIOUS ADMISSONS. 
+PT. HAS CONTINUED TO SMOKE.
+GI: NPO
+RENAL: URINE CLOUDY. PLAN IS TO CHANGED CATHETER AFTER SHE ARRIVES.
+ID: ALL CULTURES SENT IN EW. GIVEN LEVO AND FLAGYL. VANCO BEING SENT WITH PT. PT. HAS MRSA. 
+SKIN INTEGRITY: DECUBS. WILL ASSESS. 
+CV: SLIGHTLY HYPOTENSIVE ON ADM TO EW. BP 80'S. FLUID GIVEN. PRESENTLY RECEIVING NS. BP HAS IMPROVED. NL BP IS 100. 
+ACCESS: PICC LINE IN PLACE. NEW TL PLACED IN GROIN. 
+",,
+24807,19855,30801,0,3033-08-15 21:57:00 EST,3033-08-15 22:09:00 EST,511,"N",69,"Nursing/Other",,"
+
+ADDENDUM
+RESP: SUCTIONED NASALLY FOR LARGE AMTS OF THICK YELLOW SECRETIONS. O2 SATS IMPROVE AFTER SUCTIONING. AT TIMES PT. COUGHS UP SECRETIONS. BS'S COARSE.
+GI: CLEAR-FULL LIQUIDS. PT. STATES SHE TAKES HER MEDS WITH CUSTARD OR APPLESAUCE, WHICH IS PROBABLY NOT AVAILABLE AT THE MOMENT. PT. WILL NEED A SWALLOW STUDY PRIOR TO DISCHARGE. ALSO GETS LACTULOSE AND A SUPP EVERY AM. LAST BM WAS YESTERDAY.
+RENAL: UNABLE TO CHANGE CATHETER-SIZE NOT AVAILABLE TIL AM. URINE VERY CLOUDY. 
+NEURO: AWAKE AND ALERT, BUT FALLS ASLEEP EASILY.
+ACCESS: PICC LINE WAS D/C'ED IN EW. SITE LOOKS OK. SMALL SCAB.
+CV: ARRIVED ON DOPAMINE, WHICH WAS D/C'ED AT 22:30PM. BP NOW 84- AND FLUID BOLUS BEING GIVEN AT PRESENT. MAY NEED LOW DOSE DOPAMINE FOR BP CONTROL. 
+SKIN INTEGRITY: WHILE TURNING NOTED TO HAVE 2 SITES ON BACK. DRSGS. NOT REMOVED. ALSO SMALL AREA ABOVE R HEEL. PT. APPEARS SUNTANNED ON FACE AND HER ARMS ARE PEELING. 
+SOCIAL: MOTHER AWARE OF PT'S ADMISSION.
+SOCIAL: MOTHER IS AWARE OF PT.'S TRANSFER. 
+",,
+24807,19855,30801,0,3033-08-16 05:19:00 EST,3033-08-16 05:24:00 EST,419,"N",69,"Nursing/Other",,"
+
+Respiratory Care
+Patient admitted with pneumonia, history of mult. aspiration pneumonias in past. Followed overnight with cpt/alb/atrovent nebs. Suctioned for COPIOUS amounts of thick yellow/green sputum. Breath sounds are rhonchorous throughout;does not ever clear with suctioning. O2 sats labile;she desats with any movement but when resting are in mid 90s on 50% cool aerosol. Will cont. to follow.
+",,
+24807,19855,30801,0,3033-08-16 05:33:00 EST,3033-08-16 05:44:00 EST,-1,"N",69,"Nursing/Other",,"
+
+Neuro.  Pt with c/o back pain at 0100 given Mso4 pt resp. well.  asleep.  Pt also given mso4 this am for abd pain wich is chronic.  PO meds held 0100 and on r/t poor swallowing.  MS contin held so iv mso4 given.  Pt Temp 96.9 rectally pt temp in room incr and covered with several blankets.  
+Card  Pt HR stable.  Pt on Dopa from EW weaned to off this am.  BP tol ok.  Pt receiving NS at 150/hr X 1.5 L.  Pt with L groin TLC will need to be removed to sit pt up to incr ventilation of lungs.  PICC consult for am. Labs this am wnl. 
+RR  PT VERY rhonchitic throughout night.  Pt NT sx several times Q4/hr for copious thick yellow/green sputum.  Pt unable to clear secretions.  Pt sats dropped to 75% with percussion at 0000.  On 50% humidity mask this am.  
+GI  Pt given PO at 0000 tol fair yet still questionable.  Pt stated needs to be at a 90 degr.  angle to take PO.  All other PO meds held r/t RR status.  
+GU Pt with 30Fr foley in place not draining well this am.  When pt turned liq flowing from vaginal area and pad saturated.  MD aware of dropped off UO yet soaked pad.  Pt may need Urology consult?fistula. 
+Skin  Pt with very redened buttocks area, R heel, and decubiti on L upper back area.  Pt may need to be seen by plastics r/t brown appearance and foul odor.  Duoderm placed on heel area and pt on 1st step mattress.  Barrier cream on buttocks.  
+   
+",,
+24807,19855,30801,0,3033-08-16 16:23:00 EST,3033-08-16 16:34:00 EST,-1,"N",69,"Nursing/Other","MSICU NURSING PROGRESS NOTE.","
+MSICU NURSING PROGRESS NOTE.
+     See careview for objective data.
+
+     Neuro:  Alert and oriented x 3, easily arousable, speach clear, able to make needs known.  Moves upper extrem.  Temperature max.  96.5 oral.  
+     Respiratory:  Lung sounds are coarse in upper fields with crackles in lower fields bilat.  RR 18-26, non labored.  O2 saturation 95-100 on 50% humidified o2.  Suctioned several times for copious amts of thick yellow sputum.  Weak cough.
+     CV:  Sinus rythm to sinus brady, 59-74.  Nbp 84/40-110/70.  Asymptomatic with hypotension, easily arousable.  Good pulses all extrem.  Fluid changed to d5 1/2 ns at 75 hr.  
+     GI/GU:  Abdomen obese and firm with hypoactive bowel sounds.  No bm this shift.  Tolerating custard with pills well in bolt upright position.  New 30 fr catheter with 30cc balloon inserted with mixed results, appears to still be leaking around catheter.
+     Pain:  No complaints of discomfort today.
+",,
+24807,19855,30801,0,3033-08-17 03:41:00 EST,3033-08-17 03:57:00 EST,-1,"N",69,"Nursing/Other",,"
+
+Neuro Pt afebrile throughout night.  Pt c/o pain constantly may need pain consult.  Pt with lidoderm patch during day for back discomfort, neurontin, MSO4 .5-1mg prn, oxycontin.  MD aware of pain issues.  Pt also c/o abd pain in LLQ.  Both areas are chronic problems.  Pt does hold up b/l UE sl.  movement of head.  abx levo, flaggyl, vanco.  Hx mrsa sputum. all cx pending.
+Card  Pt stable through night no fluid boluses needed.  D51/2ns at 75/hr.  Awaiting am labs. L fem tlc sl bleeding at site.  MD's aware pt needs to sit up for med administration and poss feeding.  PICC consult made yest.   
+RR Pt weaned to 35% hum. FM. No c/o sob.  Pt expectorating thick yel/grn sputum after percussion Q4/hr.  Pt also NT sx for thick secr.  Sputum cx pending.  Ausc. whz.  alb/atr nebs Q6. Pt rr status improved greatly since yesterday.
+GI Pt taking whole pills with custard. H2O from cup- no straw very small sips.  tol well no choking.  Nutrition consult in chart recommended swallow study before feeding.  Pt belly firm/dis Gelatenous BM heme neg.  Lactulose held at 2400 r/t 2 stools.  will want to watch bs on solumedrol tid.
+GU  Pt UO minimal 30/hr.  Foley 30fr.  Pt does not seem to be leaking around foley as was yest.  ? if need urology consult.  ?fluid status r/t inaccurate i/o.  urine color change yel to amber.
+SKIN  Pt with major skin issues see flow for details.  [**Doctor Last Name **] back area with foul odor decub brown at site.  may need debridment.  Also Left heel, Left gluteal area, and sacral area broken down.  Pt may need plastics consult.
+Social  Pt with continuous admissions to [**Hospital1 **] for decub/pna.  Question if pt current facility meeting pt's needs.
+",,
+24807,19855,,,3033-08-19 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+",,
+24807,19855,,,3033-08-20 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3033-8-20**] 8:57 AM
+     PICC LINE PLACMENT SCH                                          Clip # [**Clip Number (Radiology) 6279**]
+     Reason: please place double lumen picc for long term iv access; unab
+     ********************************* CPT Codes ********************************
+     * 36489 CVL/PICC                       76942 UD GUID FOR NEEDLE PLACMENT   *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      40 year old woman with quadriplegia and aspiration pneumonia
+     REASON FOR THIS EXAMINATION:
+      please place double lumen picc for long term iv access; unable to access by IV
+      RN at bedside
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: Patient requires long-term IV antibiotics.
+     
+     RADIOLOGISTS: The procedure was performed by Drs. [**Last Name (STitle) 783**] and [**Name5 (PTitle) 456**] [**Name5 (PTitle) **]'Othee,
+     with Dr. [**Last Name (STitle) 456**] [**Name (STitle) 457**] (attending radiologist) being present and supervising.
+     
+     TECHNIQUE AND FINDINGS: The left upper arm was prepped and draped in the usual
+     sterile fashion. As no suitable superficial veins were visible, ultrasound was
+     used for localization. The basilic vein was patent and compressible. After
+     local anesthesia with 2 ml of 1% Lidocaine, the basilic vein was entered under
+     ultrasonographic guidance with a 21 gauge needle. A 0.018 guidewire was
+     advanced under fluoroscopy into the superior vena cava. Based on markers it
+     was determined that a length of 49 cm would be suitable. The PICC line was
+     trimmed to length and advanced over a 4 French introducer sheath under
+     fluoroscopic guidance into the superior vena cava. The sheath was removed and
+     the catheter was flushed. A final chest x-ray was taken and demonstrated the
+     tip to be at the SVC/right atrial junction. The line is ready for use. A
+     statlock was applied and the line was hep-locked.
+     
+     IMPRESSION: Successful placement of a 49 cm long, 5 French double lumen PICC
+     line with tip in the SVC, ready for use.
+
+",,
+24807,19855,,,3033-08-20 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3033-8-20**] 8:57 AM
+     PICC LINE PLACMENT SCH                                          Clip # [**Clip Number (Radiology) 6279**]
+     Reason: please place double lumen picc for long term iv access; unab
+     ********************************* CPT Codes ********************************
+     * 36489 CVL/PICC                       76942 UD GUID FOR NEEDLE PLACMENT   *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      40 year old woman with quadriplegia and aspiration pneumonia
+     REASON FOR THIS EXAMINATION:
+      please place double lumen picc for long term iv access; unable to access by IV
+      RN at bedside
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: Patient requires long-term IV antibiotics.
+     
+     RADIOLOGISTS: The procedure was performed by Drs. [**Last Name (STitle) 783**] and [**Name5 (PTitle) 456**] [**Name5 (PTitle) **]'Othee,
+     with Dr. [**Last Name (STitle) 456**] [**Name (STitle) 457**] (attending radiologist) being present and supervising.
+     
+     TECHNIQUE AND FINDINGS: The left upper arm was prepped and draped in the usual
+     sterile fashion. As no suitable superficial veins were visible, ultrasound was
+     used for localization. The basilic vein was patent and compressible. After
+     local anesthesia with 2 ml of 1% Lidocaine, the basilic vein was entered under
+     ultrasonographic guidance with a 21 gauge needle. A 0.018 guidewire was
+     advanced under fluoroscopy into the superior vena cava. Based on markers it
+     was determined that a length of 49 cm would be suitable. The PICC line was
+     trimmed to length and advanced over a 4 French introducer sheath under
+     fluoroscopic guidance into the superior vena cava. The sheath was removed and
+     the catheter was flushed. A final chest x-ray was taken and demonstrated the
+     tip to be at the SVC/right atrial junction. The line is ready for use. A
+     statlock was applied and the line was hep-locked.
+     
+     IMPRESSION: Successful placement of a 49 cm long, 5 French double lumen PICC
+     line with tip in the SVC, ready for use.
+
+",,
+24807,17898,,,3033-08-24 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3033-8-24**] 6:07 PM
+     CHEST (SINGLE VIEW)                                             Clip # [**Clip Number (Radiology) 6280**]
+     Reason: pt sob with green sputum
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      40 year old woman with sob and decreased o2 sats
+     REASON FOR THIS EXAMINATION:
+      pt sob with green sputum
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY: Shortness of breath, green sputum.
+     
+     TECHNIQUE: Portable chest.
+     
+     Comparison with prior study from [**3033-8-15**].
+     
+     FINDINGS: There is a left central venous catheter with its tip in the SVC. The
+     heart is mildly enlarged. The mediastinum is normal. There are bibasilar areas
+     of consolidation with air bronchograms, the right one has increased in the
+     interval and the left one is new in the interval. There is blunting of
+     bilateral CP angles consistent with small pleural effusions. The bones are
+     demineralized.
+     
+     IMPRESSION: Bibasilar areas of consolidation which is worse on the right and
+     new on the left compared to prior study. Findings are suggestive of aspiration
+     or pneumonia.
+
+",,
+24807,17898,,,3033-08-25 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3033-8-25**] 10:34 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 6281**]
+     Reason: 40 yo female h/o aspiration pneumonia
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       40 year old woman with resp depressions and hx  aspiration pneumonia, 
+      quadroplegia, interval change?
+     REASON FOR THIS EXAMINATION:
+      40 yo female h/o aspiration pneumonia
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATIONS: Aspiration pneumonia.
+     
+     PORTABLE CHEST:  Comparison is made to previous films from  one day earlier.
+     
+     There is increased opacity in the right lower hemithorax with associated
+     displacement of both the major and minor fissures.  The right hemidiaphragm is
+     partially obscured and the right heart border is also partially obscured. The
+     left cardiac and mediastinal contours are stable in the interval. There
+     remains an area of dense opacity with air bronchograms at the left base. A
+     small left pleural effusion is noted.
+     
+     IMPRESSION:  Bibasilar consolidation as demonstrated previously, consistent
+     with aspiration pneumonia. However, the opacification on the right side is now
+     accompanied by volume loss, suggesting a component of collapse within the
+     right middle and right lower lobes. This may be due to mucus plugging.
+
+",,
+24807,17898,30802,0,3033-08-25 17:01:00 EST,3033-08-25 17:08:00 EST,511,"N",69,"Nursing/Other",,"
+
+RESP: BS'S HAVE IMPROVED. O2 SATS 99-100%. SUCTIONED Q 2-3HRS FOR THICK YELLOW SECRETIONS. UNABLE TO SUCTION THROUGH TRUMPET. CONTINUES ON 100% NRB. 
+GI: REFUSES TO TAKE HER MEDICATIONS TODAY. HO IS AWARE OF THIS. REFUSING ANY FOOD OR DRINK AS WELL. NEEDS REPEAT SWALLOW STUDY AND OR NGT PLACEMENT TOMORROW. 
+RENAL: URINE OUTPUTS DROPPING OFF SLIGHTLY THIS PM. IVF'S WERE INCREASED TO 150CC/HR. AFTER RECEIVING 2 FB'S THIS AM.
+CV: HYPOTENSIVE TO 70'S THIS AM. T 2 FB'S GIVEN AND FLUIDS INCREASED.
+HAVE BEEN IN THE 90'S THIS PM, WHICH IS HER NORMAL PRESSURE. 
+ID: AWAITING CX'S FROM LAST NIGHT. ANTIBIOTICS CONTINUED. AFEBRILE. WBC'S SLIGHTLY ELEVATED.
+NEURO: SLEEPY DURING THE DAY. + ORIENTATED. 
+PAIN CONTROL: GIVEN DILAUDID 1MG SC AT NOONTIME. 
+ENDOC: BS 161 AT 18PM. NO SSI WRITTEN.
+SKIN INTEGRITY: COCCYX DRSG [**Name5 (PTitle) **]. PACKING NS W-D. ALSO HAS AN AREA ON LEFT SHOULDER NEAR AXILLA-ALSO PACKED WITH NS W-D. CX ALSO OBTAINED FROM THAT AREA. OLD SCABS NOTED ON THIGH WHERE OLD LINE WAS. 
+
+
+",,
+24807,17898,30802,0,3033-08-26 05:32:00 EST,3033-08-26 05:44:00 EST,-1,"N",69,"Nursing/Other","End of Shift Report","
+End of Shift Report
+Neuro: A0X3, bilat LE paralysis from [**3027**] MVA.  Partial movement of RUE, very little movement in LUE.
+
+CV: Sinus Brady in low 50's, HR comes up when pt is awake or active. No ectopy noted.  She was Hypotensive yesterday and fluids were increased to 150cc/h and her pressures were in the low teens systolic last night.  Trace edema in all extremities.  Pulses weak but palpable.
+
+Resp: HX asthma, smoking. Lungs sounds are clear to diminished in bases. She has resp tx ordered.  They were trying to deep suction her yesterday and were getting thick secretions. We did it once last night with poor result.  She has been expectorating copious white/yellow secretions orally. She is unable to use the yankar herself.  She is to have a swallow study today.  Currently on 100% non-rebreather, sats are high 90's.
+
+GI; chronic constipation, She wants her suppository this am.
+
+Gu: diminished output, she is currently 2200 liters positive. Avg output 30cc/h. 
+
+Integ: Decube on L scapula and L glut with excoriation.  Wet to dry drsg [**Name5 (PTitle) **] [**Name5 (PTitle) 1920**] in the shift. I put duoderm alongside each wound to put the tape for the drsgs on because it looked like she was getting tape burns.
+
+Pain: Chronic in abd, back, l shoulder. Normally she takes oxycontin. She has MSo4 and Dilaudid ordered but she says the morphine doesn't work.  She is refusing all meds by mouth and food because she is afraid she will aspirate.
+
+She tends to refuse repositioning and oral care.  We put her on an air bed last night.
+
+IV access: L Picc place on last admission sometime before [**8-21**]. The red port is clotted.  The blue port flushes and draws.  Iv fluids D5NS at 125/h.
+",,
+24807,17898,30802,1,3033-08-26 15:22:00 EST,3033-08-26 15:53:00 EST,585,"Y",69,"Nursing/Other","micu/sicu nursing progress note","
+micu/sicu nursing progress note
+*** patient given her valubles envelope to hold on to for ride over in ambulance to the west campus.
+",,
+24807,17898,30802,0,3033-08-26 15:22:00 EST,3033-08-26 15:34:00 EST,585,"N",69,"Nursing/Other","micu/sicu nursing progress note","
+micu/sicu nursing progress note
+
+neuro-  pt conts to c/o back/rlq pain. according to patient, this is baseline pain for her and has been getting worse over the last few weeks. she receives oxycontin bid and prn dilaudid. pt still reportsd pain at 8 or 9 out of 10 but is frequently dozing despite this. 
+
+cv-  temp 94-95 po, ho aware. bp stable throughout day, hr 50-60, dipping to 38-45 frequently while sleeping, bp has been >100 throughout. 
+
+resp- pt expectoarting secretions this am, spits into mask because unable to hold and use yankaur. weaned from 100% nrb to 4L nasal cannula, sats 99%. suctioned x1 this am for [**Last Name (un) 816**] thick yellow secretions. gag impaired. PT to see pt at some point, has been consulted. conts to have MRSA in sputum. 
+
+gi/gu- pt tolerating regular diet w/o difficulty, taking pills, whole in custard, also w/o difficulty. pt had mod soft stool this afternoon.
+
+id- +blood cultures from yesterday, gpc in cocci/pairs. ?d/c picc line, per iv, pt has no other access for triple abx that she is on. team has been debating tcl vs. leaving picc in for now. 
+
+cont pulm toileting for chronic pneumonia, anticipate transfer back to nh ? next week.
+",,
+24807,17898,30802,0,3033-08-26 17:52:00 EST,3033-08-26 17:59:00 EST,2058,"N",69,"Nursing/Other",,"
+
+nursing update note.
+pt arrived from micu east via ambulance at 1725.pt is awake,alert but lethargic at times. oriented x3,pupils perl.remains sb without ectopy with stable bp.dr [**First Name (STitle) **] has been in to evaluate pt orders are being written.breath sounds clear but diminished bibasilar,spo2 97%to 99%,resp rate 13 to 20 on 4lnp.abd large and distended with positive bowel sounds incontinent of small amount of green stool on admission.foley cath to cd draining amber urine.left shoulder decubit dsg changed,base is yellow. decubit near rectum was changed,base was pink,wet to dry dsg .pic line in left arm wnl.
+",,
+24807,17898,30802,,3033-08-27 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3033-8-27**] 1:25 PM
+     ABDOMEN U.S. (COMPLETE STUDY)                                   Clip # [**Clip Number (Radiology) 6282**]
+     Reason: ABD PAIN R/O BILIARY TREE OBSTRUCTION
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      40 year old woman with RUQ abdominal pain                                       
+     REASON FOR THIS EXAMINATION:
+      Biliary tree obstruction,                                                       
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  40 year old woman with right upper quadrant pain.
+     
+     TECHNIQUE:  Multiple [**Doctor Last Name 66**] scale images were obtained from the abdomen and
+     pelvis.
+     
+     FINDINGS:  In the right lobe of the liver there is a small less than 1 cm
+     hemangioma seen.  There are no other lesions seen in the liver.  There is no
+     intra or extrahepatic biliary dilatation.  The common bile duct is within
+     normal limits.  The gallbladder is not seen consistent with the patient's
+     history of prior cholecystectomy.  The right kidney measures 12 cm and the
+     left kidney measures 12 cm.  The kidneys have no hydronephrosis,
+     calcifications or masses.  The spleen is normal in size and homogeneous in
+     echo texture.  There are small bilateral pleural effusions seen.  The
+     visualized portion of the pancreas is unremarkable.
+     
+     IMPRESSION:
+     1)  Small right liver lobe hemangioma.
+     2)  S/P cholecystectomy.
+     3)  Small bilateral pleural effusions.
+
+",,
+24807,17898,30802,0,3033-08-27 05:05:00 EST,3033-08-27 05:13:00 EST,-1,"N",69,"Nursing/Other",,"
+
+Neuro  Pt slept most of night.  Awoken for assessments.  Pt c/o pain whenever in room yet pt sleeping upon reentering with med.  Pt with h/o unresponsiveness d/t overmedication.  PT on oxycodone Q12. Pt also requests dilaudid after given mso4 this am.  WBC yest 9.2 to 13 this am.
+
+Card  Pt Bradycardic into 30's during night.  Pt stable with it.  No intervention this is pt baseline.  Atropine at BS.  K 3.5 this am.  HCT 33.  Pt with Lac PICC in place.  Blue Port difficult to flush.  
+
+RR Pt On 2lnc this am.  Pt with cough yet does not clear all secretions mostly spits saliva.  Pt NT sx this am along with percussed obtained thick copious lrg amount yellow sputum.  Pt claimed she feels better after sx.  Tol well.
+
+GI Pt active bs.  C/o abd pain along with back pain.  1 stool in night heme neg gelatenous green.  BS wnl.
+
+GU  Pt with 30fr foley 30cc balloon cloudy yel urine.  I/o adequate.  
+
+SKIN  Pt upper back area with brown center and foul odor.  NEEDS DEBRIDMENT!  See flow for rest.  Pt will need 1st step mattress if cont to be in hospital.  
+",,
+24807,17898,30802,0,3033-08-27 13:09:00 EST,3033-08-27 13:32:00 EST,1986,"N",69,"Nursing/Other",,"
+
+pmicu nursing progress 7a-3p
+review of systems
+CV-vs have been stable with bp in the 130's/. HR did dip to the low 40's SB with pt asleep but bp was stable.
+RESP-has been on 2 litres NC with good sats.lungs sound coarse throughout.pt has a weak cough, nonproductive.was seen by speech and swallowing RN, please see her note. was not sx yet today,to be seen by CPT this afternoon.NEEDS ASPIRATION PRECAUTIONS!
+GI-had very little to eat, is really thirsty.taking water well.has decreased bowel sounds.c/o RLQ pain and requesting ice packs for that area. no stool today.to start on colace as well as lactulose.went for abd US this afternoon-results pnd.did not have lunch due to US.on protonix.
+ID-is hypothermic with temp ~95-96 po. wbc increased to 13 today. on zosyn, vanco and flagyl iv.contact precautions for MRSA in sputum.
+NEURO-is alert and oriented x 3,cooperative.pt told me she could not move her limbs but i was told she could move her arms.she had multiple c/o pain, even while falling asleep. is on oxycontin q 12, also dilaudid .5- 1.0 q 6 hrs prn as well as morphine. asked for dilaudid on the dot of 12.now sleeping.no c/o bladder spasms-can have ditropan.
+F/E- ivf infusing at KVO.has had an adequate urinary output, cloudy light yellow urine.please see labs as listed in carevue.
+SKIN- skin care was done at 6am and i am awaiting the plastics team to eval, debride L scapula and sacrum decub.L shoulder reportedly has brown foul smelling drainage.pt repositioned a few times but needs to have HOB most of the time.has splints on legs.
+a-no change, ready for transfer to medical floor.
+P-aspiration precaution guidelines as per speech and swallowing RN posted above her bed.skin care as per plastics team.
+will continue with pain meds-need to stay on top of bowel meds with so many narcotics.
+",,
+24807,17898,30802,0,3033-08-27 20:27:00 EST,3033-08-27 20:32:00 EST,1871,"N",69,"Nursing/Other",,"
+
+SKIN:  continue wet to dry dsg bid (plastics changed dsg)  1st step air mattress ordered.  [**8-28**]  pt oob to chair via [**Doctor Last Name **] lift,   prom x4 extremities.  
+
+RESP:  cpt following pt.  no secretions to sx.  continues w/ 2 l n/p  O2 sats 96%  
+
+ID:  afebrile  continues on Flagyl, Vanco, and Zosyn 
+
+GI:  good appetite this evening.  feed slowly,  HOB elevated 90 degrees,  keep upright 45 minutes after.   taking in sips of liquid
+
+GU:  uo good 40 cc/hr   foley not leaking.  urine yellow, cloudy 
+
+NEURO:  A+Ox3, napping on/off,  pt c/o chronic back pain,  requesting her Oxycodone q 12hrs,  and prn Hydromorphone 1 mg q 6 hrs.  
+
+A/P:  awaiting transfer to floor (no beds available)  continue CPT, pulm toilet, oob - chair, cont. antibx,  aspiration precautions. 
+",,
+24807,17898,30802,,3033-08-28 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3033-8-28**] 9:49 PM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 6283**]
+     Reason: new mental status changes. please eval for acute intracrania
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      40 year old woman with paraplegia, aspiration pneumonia                         
+     REASON FOR THIS EXAMINATION:
+      new mental status changes. please eval for acute intracranial process           
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+     WET READ: GDi WED [**3033-8-28**] 10:35 PM
+      No acute process identified.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: Mental status changes and paraplegia. Question intracranial
+     process.
+     
+     Multiple axial images were obtained from base to vertex with intravenous
+     contrast administration. Comparison is made to the prior head CT from [**7-9**] of 2002.
+     
+     The examination is limited by repeated motion artifact. There are no space-
+     occupying mass lesions seen within the brain. No midline shift, mass, mass
+     effect or hemorrhage is noted. The ventricular system is normal and
+     symmetrical. There are no extra-axial fluid collections.
+     
+     IMPRESSION: Limited head CT due to motion artifact. No intraparenchymal
+     hemorrhage seen. A repeat examination preferably with patient sedated might be
+     of additional value.
+
+",,
+24807,17898,30802,0,3033-08-28 03:28:00 EST,3033-08-28 03:41:00 EST,-1,"N",69,"Nursing/Other",,"
+
+NURSING MICU NOTE 2300-7A
+
+NEURO: PT AOX3, FOLLOWS COMMANDS. PT NOT ABLE TO MOVE BIL LOWER EXTREMITIES OR LEFT ARM, BUT DOES STATE THAT SHE HAS SENSATION IN THOSE EXTREMITIES AND TRUNK AREA. PT IS ABLE TO MOVE RIGHT ARM WEAKLY. PT C/O CHRONIC PAIN IN ABD AND BACK. PT GIVEN PRN IV HYDROMORPHONE X1 IN ADDITION TO ROUTINE PAIN MEDS. PT SLEPT WEEL THROUGH OUT NIGHT. 
+
+RESP: PT ON 2L NC W/ O2 SATS 96-98%. LS COARSE. PT HAS WEAK PRODUCTIVE COUGH. DENIES ANY SOB. RR MID 20'S. PT HAS MRSA IN SPUTUM. 
+
+CV: PT HAS BEEN SINUS BRADY IN MID 40'S, WILL BRIEFLY GO AS LOW AS 35 WHEN ASLEEP. NO ECTOPY. SBP STABLE 120-130'S. PT AFEBRILE.
+
+GI/GU: ABD SOFT/DISTENDED. +BS, +BM. PT HAVING LOOSE STOOL, FECAL BAG INTACT. 2400 LACTULOSE HELD. PT C/O ABD PAIN, STATED RELIEF AFTER PRN MEDS GIVEN. PT TAKES PO WELL, FOLLOWING SPEECH AND SWALLOW'S INSTRUCTIONS THAT ARE POSTED AT BEDSIDE.  FOEY INTACT DRAINING YELLOW CLOUDY URINE. 
+
+SKIN: LEFT SHOULDER AND LEFT GLUET DRESSING D&I, BOTH CHANGED AT 2200 BY EVENINGS. DECUB ON LEFT SHOULDER TO BE DEBRIDED IN OR. PT T&P OFF LEFT SIDE. 
+
+DISPO: PT IS WAITING FOR A FLOOR BED. CONT WITH CURRENT ANTIBOTICS. ?OR DEBRIDMENT OF LEFT SHOULDER DECUB. PT REMAINS A FULL CODE. 
+",,
+24807,17898,30802,0,3033-08-28 16:38:00 EST,3033-08-28 17:03:00 EST,-1,"N",69,"Nursing/Other","NSG progress note 7a-7p","
+NSG progress note 7a-7p
+NEURO: Pt has had a change in mental status today which has been her main issue. Pt has been easily arousable when calling out her name. Pt knows her name but is confused as to where she is. She did state at one point she was @[**Hospital1 3**] but when asked again she didn't know. Pt also calls out strange words without any context and then repeats the answer to your last question over and over. Slept most of day when not stimulated. Pupils equal and reactive 6-7mm somewhat sluggish. All po meds held today d/t risk of aspiration and sedation but most importantly Oxcycodne, hydromorphone, clonazepam, and Baclofen (question if this is the cause of her change). Pt had last received a narcotic @ midnoc and baclofen @ 0600.  No improvement in MS throughout the day. A lumbar puncture was planned but consent was unobtainable. CT scan ordered, will go sometime tonight. Family called by team. Pt has a strong gag, and cough has somewhat improved.
+CV:Pt reportedly is sinus brady @ baseline. Her HR has been 30-45 maintain a good Bp >120. Her K+ was 3.6 w/am labs and was started on D5.45ns w/40KCL @75c/hr. Pt is now having some occassional PVC's.  Pt is asymptomatic with low HR. Good pedal pulses. IV access left PICC DL.
+RESP: Pt has coarse rhonchi t/o. Requires nasal sx but patient refuses often. Thick white/yellow secretions suctioned. Pt does cough and needs quad coughing and chest pt to expectorate resulting in thin white secretions. On 2l NC sats 97-98% RESP: [**9-11**]
+GI: Pt has lg soft abd w/+bos. Had diarrhea overnoc and some this am. Golden yellow in color. C-diff order obtained but no stool since. Lactulose and colace held. No c/o abd pain or any pain t/o. Pt refuse food and drink today and is an aspiration HIGH RISK.
+GU: #30 French foley to gravity w/ yellow sediment urine, adequate amounts.
+SKIN: see careview for documentation. Pt has two stage 3 pressure ulcers packed w/NS wet to dry BID Last done @ 12 noon. Shoulder ulcer needs OR debriding. Seen by plastics, awaiting OR date. Pt's buttocks are also pink and excoriated. 
+DISP: Pt was initially called out today but it needs to be readdressed w/team probably pending CT scan. Little family involvement. Pt is a full code. Resides in an extended care facility.
+ID: Pt is only on IV VANCO for MRSA in sputum. Flagyl and Zosyn d/c'd today. Pt also has yeast in sputum, afebrile (temps 95.7 apparently runs low, md [**First Name (Titles) 47**] [**Last Name (Titles) 5064**] level added, pt has adrenal insufficiency) WBC's today 12.8
+",,
+24807,17898,30802,0,3033-08-29 04:31:00 EST,3033-08-29 04:38:00 EST,-1,"N",69,"Nursing/Other",,"
+
+Neuro  Pt with mental status change during evening hours.  Pt would only state [**Hospital1 3**] to every question and was very lethargic.  Pt to CT scan nothing significant seen to change tx.  LP done site intact no issues.  No c/o HA.  At approx 0300 Pt with full regain of mental status.  Pt now baseline.  Afebrile awaiting am labs.
+CArd  Pt HR dipped to 29bpm during night.  MD aware 12 lead ekg done and observed via md.  Pt sbp 160's pt asymptomatic atropine at BS.  PICC Blue port still continues to flush hard unable to obtain blood back from port.  Pt on d5 [**11-30**] at 75/hr.  Pt LOS 2L+.  255 for 24hr.  
+RR Pt weaned off of O2 from 6lnc.  Pt percussed Q4hr and NTSX Q4hr.  Pt with thick yellow secr.  Unable to clear on own.  
+GI Pt taking custard and pills without difficulty after able to sit up after LP.  Sl stool in rectal bag.
+GU Pt's urine very cloudy with sediment.  Urine collected will notify MD and may send to lab.  
+Social.  Pt expressing she ""wants to go back home"" meaning nursing home.  NO calls, No visiters during the evening hours.  Pt may be called out today.
+SKIN  Pt to be seen via plastics reguarding decubiti sites.  MD in to view sites at time of LP.  
+",,
+24807,17898,30802,0,3033-08-29 13:14:00 EST,3033-08-29 13:37:00 EST,-1,"N",69,"Nursing/Other",,"
+
+Micu Progress Nursing Note:
+
+Neuro: Alert and oriented to person, place and season of year, although unsure of month. Can hold up right arm, but cannot move other extremities secondary to quadraplegia. Pupils 4mm and reactive, although right pupil is slightly sluggish. 
+
+CV: Asymptomatic SB 30s to 40s; no ectopy. Atropine at bedside. SR at 
+~ 1pm, 70s. BP 150s to 160s systolic over 70s to 80s, decreasing to one teens to 130s over 60s at ~1pm. Easily palpable dorsalis pedis pulses; posterior tibialis pulses weakly palpable secondary to plus one edema lower extremities.  Extremities warm to touch. 
+
+Resp: On room air this am with sats mid 90s. Patient does de-sat to low 80s with [**Last Name (un) 1104**]-pharangeal suctioning. Application of 4 liter, decreased to 2 liters brought her sats back up to high 90s. O2 at 2L maintained secondary to bradycardia. Suctioned for small amounts of white clear secretions. Lung sounds coarse throughout. Given vigourous chest PT by physical therapist. 
+
+GI/GU: Foley cath draining yellow urine with sediment. Cath is 30 FR, with 30cc balloon, to be changed.  Patient was having diarrhea on previous shifts and rectal bag was applied. Stool is now soft, not liquid, but new rectal bag applied to protect right gluteal fold decubitus. Patient is on aspiration precautions. Takes pills whole with custard and sips of water. 
+
+Endrocrine:  Patient does not like to take Solu-Cortef as she feels that this makes her face ""puffy"". She refused am Solu-cortef and also her Fludrocortisone. The team did speak to her about the necessity of taking these meds because of her adrenal insufficiency. They did DC her stress level cortisone and institute a Prednisone taper. She did agree to take her Fludrocortisone and did start her first dose of Prednisone today, 20mg. Patient's sodium level >150 today. IV changed to D5W with 40 meq KCL at 50cc/hr for one liter. Labs sent at 1pm, and are pending. 
+
+Skin: Patient has two decubiti, stage 3, which have been looked at by Plastics. She is supposed to go for debridement of right shoulder decubitus, date to be set. Dressings were changed for both decubiti. Right shoulder wound base is yellow. Right gluteal fold wound bed is red, draining small amounts of sero-sanguinous drainage. This wound appears clean. Peri area is red, slightly excoriated. Order for Miconozole powder written. Patient needs frequent turning.
+
+Plan: Patient is called out to floor today. Continue with antibiotics for MRSA in sputum. Push PO fluids; hold Baclofen, continue with good pulmonary toilet--suctioning and chest pt.
+
+[**First Name8 (NamePattern2) 174**] [**Last Name (NamePattern1) 175**] RN
+",,
+24807,,30802,0,3033-08-30 03:53:00 EST,3033-08-30 04:05:00 EST,-1,"N",69,"Nursing/Other",,"
+
+MICU NPN 1900-0730:
+  NEURO:  Pt restarted on lower dose oxycontin (20 mg BID)--she did have some breakthrough backpain around 0000, but this responded well to 650 PO tylenol.  Pt also c/o abdominal pain r/t fluid overload/swelling--cold compress applied with + effect.  Pt A + O and able to communicate needs.  She has spasms with turning--baclofen d/c'd secondary to ? MS changes, tizanidine continues to treat spasms.
+  CV:  Afebrile.  Pt consistantly bradycardic with rate in 30's and 40's.  No ectopy.  BP stable.  Atropine at bedside but pt stable, mentating well with low HR.  Pt has been hypernatremic, but level trending down with pt on D5W with 40 meq KCl  at 50 cc/hr.  K+ repleted yesterday, am level pending.  
+  Pulm:  Pt NTS's twice for large amts thin white sputum.  She has VERY weak cough and cannot clear large volumes on her own.  Lungs rhoncherous with diminished bases.  Pt continues on 2 L NP with RR 12-16, sp02 99-100%.  She continues on vanco for pneumonia--level at 1830 > 20, so dose at 2000 held [**Name8 (MD) 59**] MD.  
+  GI:  Pt taking pills without difficulty (whole pills with custard, alternating with sips of water).  Bowel regimen restarted and pt with small amt brown stool in rectal bag this am.  
+  GU:  Foley draining large amts clear yellow with sediment.  Foley to be replaced but awaiting involvement of GU to place specialty catheter (30F, 30 cc balloon).  
+  Skin:  WTD dsg changes to shoulder and gluteal fold decub.  Wounds with no drainage, skin around area excoriated and mascerated.  Area cleansed/dried/nystatin powder applied.  Rectal bag remains in place to help contain stool and keep breakdown clean.  
+  No inquiries from family.
+",,
+24807,,30802,0,3033-08-30 12:54:00 EST,3033-08-30 13:21:00 EST,2244,"N",69,"Nursing/Other","Nursing Note P-MICU","
+Nursing Note P-MICU
+S-""When am I leaving here?"" ""The pain is bad"".
+ O-Afebrile with WBC-8.7. Treating pneumonia with Vanco-last level was 40. On 2l NC with sat >98-with O2 off Sat > 95. Poor cough seems to swallow some sputum.
+  C/o abd. and back pain throughout the day. Constant pain sharp and tearing.  Gave oxycodone 30mg this am along with sc and iv dilaudid. Mso4 2mg X1 for break through pain. Restarted Baclofen at 20 mg this afternoon. OOB to chair with use of [**Doctor Last Name **] lift.
+  Decub cleansed with NS and Dsgs reapplied. No overall change.
+A-Pneumonia
+  Pain
+  Alt in Skin Intergrity.
+P-Continue NT Suctioning as needed.  Monitor Vanco levels and redose when appropritate.
+  Assess pain and evaluate effectiveness of meds. Continue OOB to chair.
+  Cont. Dsg changes. Monitor.
+  Ready for transfer to floor.
+
+
+",,
+24807,,30802,0,3033-08-30 16:40:00 EST,3033-08-30 16:43:00 EST,-1,"N",69,"Nursing/Other","Nsg progress note 1530-1800","
+Nsg progress note 1530-1800
+Assumed care of pt @ 1530. Pt a+o, anticipating transfer to the floor, however @ 1700 she was accepted back to [**Hospital1 **]. Page 2 complete. No new issues. VSS, afebrile. On room are sat 98%. Denies distress. Team aware. 
+",,
+24807,,,,3033-09-01 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3033-9-1**] 11:34 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 6284**]
+     Reason: r/o aspiration
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       40 year old woman with resp depressions and hx  aspiration pneumonia, 
+      quadroplegia, interval change?
+     REASON FOR THIS EXAMINATION:
+      r/o aspiration
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  H/O quadriplegia and aspiration PNA.  Respiratory depression.
+     
+     COMPARISONS:  [**3033-8-25**].
+     
+     PORTABLE AP CHEST:  Evaluation of the right lung apex is limited by
+     superimposed chin.  Left-sided PICC is unchanged. The cardiac, mediastinal and
+     hilar contours are unchanged. The pulmonary vascularity is normal.  Bibasilar
+     opacities are unchanged. Soft tissues and osseous structures are unchanged.
+     
+     IMPRESSION: Persistent bibasilar opacities.  No change from [**3033-8-25**].
+     
+
+",,
+24807,17810,,,3033-09-02 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3033-9-2**] 4:33 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 6285**]
+     Reason: s/p flexible bronchoscopy, s/p line placement. check line pl
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        40 year old woman with resp depressions and hx  aspiration pneumonia,  
+      quadroplegia, interval change?
+     REASON FOR THIS EXAMINATION:
+      s/p flexible bronchoscopy, s/p line placement. check line placement             
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CHEST SINGLE AP FILM:
+     
+     HISTORY:  Bronchoscopy and intubation and CV line placement.
+     
+     Endotracheal tube is 4 cm above carina.  Right jugular CV line is in mid SVC.
+     PICC line is in mid SVC.  No pneumothorax.  There is a marked thoracic
+     scoliosis convex to the left.  There are bibasilar opacities consistent with
+     aspiration/pneumonia.  Linear atelectases are present at the left base.
+     Status post cervical spine fusion.
+
+",,
+24807,17810,30804,0,3033-09-03 04:14:00 EST,3033-09-03 04:17:00 EST,419,"N",69,"Nursing/Other",,"
+
+Respiratory Care
+Patient was received from er intubated with 7.0 et taped at 20cm @ lips. Bilateral breath sounds are clear;et tube patent. Vent settings currently are simv 500 x 10 40% 5/5,no spontaneous breaths although sedation has been turned down. Plan is to extubate later today.
+",,
+24807,17810,30804,0,3033-09-03 04:32:00 EST,3033-09-03 04:46:00 EST,-1,"N",69,"Nursing/Other",,"
+
+NEURO  PT AFEBRILE THROUGHOUT NIGHT.  PT ON CIPRO AND VACOMYCIN.  PT PROPOFOL LIGHTENED THROUGHOUT NIGHT TO PREPARE FOR POSSIBLE EXTUBATION THIS AM.  WILL D/C AT 0700.  PT OPENS EYES/STICKS OUT TONGUE/NODS HEAD TO COMMAND.
+CARD  PT HR 30-50.  BP WNL.  HCT 31.1 NA 149 K 3.2 MG 1.6 .  PT STARTED ON KCL REPLACEMENT THIS AM RECEIVED 60KCL OVERNIGHT.  WILL NOTIFY MD [**First Name (Titles) **] [**Last Name (Titles) **].  PT WITH R IJ TLC IN PLACE.  ?SL AREA OF HEMATOMA AT SIDE OF SITE.  L AC PICC BLUE PORT DIFFICULT TO FLUSH AND CLAMP BROKEN.  D5NS AT 150/HR.  
+RR PT ON SIMV 40% TV 500 PS 5 RR 10.  ABG THIS AM 7.48/44/166/34.  LUNG AUSC CL AND DECRE.  PT WITH BRONCHOSCOPY BEFORE ARRIVAL LLL FORIEGN PARTICLES OBTAINED FROM BRONCHUS.  
+GI PT WITH OGT CLAMPED. ACTIVE BS NO STOOL
+GU PT WITH CLOUDY YELLOW URINE.  UA SENT BEFORE PT ARRIVAL TO UNIT.  CIPRO STARTED.  PT FOLEY D/C'D UNABLE TO PLACE NEW FOLEY. MAY NEED TO CONSULT UROLOGY THIS AM. PT WITH LARGE HOLE AT SITE CATHETER ACTUALLY MEETING RESISTANCE THEN CURLING BACK OUT.  2MD'S AT BS.
+SKIN.   SEE FLOW SHEET FOR SIZE.  RUBACK WITH FOUL ODOR GREEN DRAINAGE.  MD AWARE.  PT IN NEED OF 1ST STEP AIR MATTRESS R/T DECUBITI. UNABLE TO KEEP GLUTEAL AREA DRY D/T LACK OF FOLEY.  BARRIER CREAM AROUND RECTAL AREA.  
+SOCIAL  PT IN YET AGAIN FOR ASPIRATION.  MAY NEED OTHER PLACEMENT UPON D/C.
+",,
+24807,17810,30804,0,3033-09-03 15:10:00 EST,3033-09-03 15:29:00 EST,-1,"N",69,"Nursing/Other",,"
+
+Nursing Progress Notes
+
+Neuro: Pt. awake, alert, and oriented.  Speech slow but clear. No movement in lower extrem's, and only moderate gross motor movement to bilat. UE's due to hx of quadraplegia. C/O back and abdominal pain which she states is constant, and she states her normal pain meds do not help the pain.  MDs in to assess and aware of pain mgt. issues.  Oxycontin ordered in addition to the Oxycodone. 
+
+Pulm: Extubated this afternoon and now on 4L O2 NC. Sats 94-100%. Pt. has a very weak cough and minimal gag reflex.  Able to produce thick clear mucoid->yellow sputum.  Breath sounds coarse bilat., dimin. bases and slightly more dim. on RUL than LUL.  Denies SOB. 
+
+CV: SB 40s-SR 60s. SBP 100-130 with episode of hypotension 70/30s, responding to NS 500 cc IV fluid bolus. Afebrile/hypothermic throughout the day. Heart tones distant due to coarse breath sounds. PPP-pedals weak. 
+
+GI: Abdomen large, round, and firm.  Tender in RLQ to palpation.  Multiple small ecchymotic areas on abd., likely from SC Heparin injections.  No BM since admit.  Pt. rec'g bowel care meds. Pt. back in the unit after another aspiration. She is very aware of the need to sit straight up and staying upright after eating. She had no apparent problems swallowing whole pills when taken with custard or while drinking milk.  
+
+GU: 30 french FC placed by urology residents today.  Now draining light yellow urine, occas. with white particulates/sediment. Specimen sent to micro for culture as ordered.
+
+SKIN: Buttocks excoriated and redenned. Cleaned back and buttocks and applied barrier cream.  Left buttock with deep decub, no drainage. W->D drsg change completed.  Left upper back/shoulder area with 4x7 decub which is draining small amt. of SS drainage and has a bad odor.  Also dressed w->D. 
+
+DISPO: Pt. is a full code in the MICU. Possible transfer today or this evening to floor.   
+
+  
+",,
+24807,17810,30804,0,3033-09-04 04:45:00 EST,3033-09-04 04:58:00 EST,-1,"N",69,"Nursing/Other",,"
+
+review of systems:
+
+Neuro: Pt is A + O x 3. pt is able to move purpusful movements and answer all questions appropriatly.  C/O lots of pain in back and abd.  pt is reciving standing and PRN pain meds PO, but claims that are not working.  pt was not given IV pain meds due to pt low BP.
+
+CV:  Pt has had asymptomatic bradycardia throughout shift.  pt BP has also been low, MAP > 55. pt is asymptomatic with her BP.
+
+Resp:  pt remains on 4 liters NC and tolerating it well, sao2 > 95%.  BS are clear in the uppers and diminished in the lowers.  pt is able to use yankar to spit into.
+
+GI/GU: Pt has clear/yellow urine per foley. pt is C/O abd pain, and not being able to have a BM.  pt has recived lactulose and colace.  pt had a small soft brown stool.
+
+Skin:  pt has two pressure ulcers one on left shoulder and other on l buttocks.  bottom is reddend ( see care view for details) both dressed with wet to dry dressings.
+
+Plan:  get pt pain managment under control.  pt to recieve PT
+",,
+24807,17810,30804,0,3033-09-04 17:17:00 EST,3033-09-04 17:41:00 EST,-1,"N",69,"Nursing/Other",,"
+
+NURSING PROGRESS NOTES
+
+NEURO: PT. A+O X3. SPEECH SLOW BUT CLEAR AND APPROPRIATE. PT. IS VERY ANXIOUS AND UPSET ABOUT PAIN MANAGEMENT AND CONTINOUSLY HIGH LEVEL OF PAIN.  THIS ISSUE WAS ADDRESSED IN ROUNDS TODAY, AND OXYCONTIN & BACLOFEN DOSES WERE INCREASED.  PATIENT STATES THE INCREASE IS NOT HELPING. MD'S AWARE. ABLE TO LIFT AND HOLD HER RIGHT ARM BETTER THAN HER LEFT ARM. NO FINE MOTOR MOVEMENT OF UE'S  NO MOVEMENT IN BILAT LE'S.
+
+PULM: PT WEANED OFF O2 TODAY. CURRENTLY ON RA, WITH SATS 98-100%. BREATH SOUNDS SL. COARSE BILATERALLY; DIMIN. BILAT BASES.  VERY WEAK COUGH AND GAG REFLEXES.  COUGHED UP ONLY 2X TODAY, PRODUCING THICK CLEAR-WHITE SPUTUM.  
+
+CV: HYPOTENSION AT BEGINNING OF SHIFT WHICH WAS SELF-RESOLVING. CURRENTLY LOW 100'S SYSTOLIC. TEMP LOW THROUGHOUT THE DAY. S1 AND S2 HEART TONES AUSC. WITH RRR. 
+
+GI: ABD. VERY LARGE, ROUND, FIRM, AND EXTREMEMLY TENDER ALL OVER RIGHT SIDE TO EVEN THE LIGHTEST TOUCH.  PT. HAS ONLY HAD A COUPLE OF SMEARS; NO BM SINCE BEFORE THIS ADMISSION.  EATING AS MUCH AS OFFERRED.  DULCOLAX SUPP. ORDERED AND OFFERRED TO PT., BUT SHE REFUSED AND WOULD INSTEAD LIKE IT THIS EVENING BEFORE BEDTIME. 
+
+GU: FC PATENT. DRAINING LIGHT YELLOW -> YELLOW URINE THAT IS SL. MORE CLOUDY THIS AFTERNOON.   ADEQ. AMT. 
+
+IV: RIJ TLC WITH ONE PORT WITH D5NS TKO AT 10CC/HR. LEFT AC PICC LINE NOT FUNCTIONAL.  tPA GIVEN IN RED PORT ONLY, AS BLUE PORT WILL NOT WITHDRAW OR FLUSH.  UNABLE TO WITHDRAW THE 1CC tPA THAT WAS PLACED IN RED PORT.  DISCUSSED WITH ATTENDING MD. 
+
+SKIN: PLASTICS WAS IN TO SEE PATIENT THIS AFTERNOON.  ENTIRE BUTTOCK AREA IS EXCORIATED AND RASHY. LEFT UPPER SHOULDER AREA AND LEFT BUTTOCK IMPROVED AS PER PLASTICS TEAM.  ONLY RECOMMENDATION WAS TO INCREASE W->D DRESSING CHANGES TO LEFT BUTTOCK SITE. 
+
+FAMILY: PATIENT'S MOTHER, [**Doctor Last Name 415**] CALLED TODAY.  SHE EXPRESSED HER FEELINGS OF GUILT, AS SHE WAS THE ONE WHO GAVE [**Known patient firstname **] THE POPCORN THAT SHE ASPIRATED. SHE ALSO GAVE AN IN DEPTH ACCOUNT OF PATIENT'S SOCIAL/DRUG ABUSE HISTORY WHICH IS QUITE EXTENSIVE. LASTLY, SHE EXPRESSED CONCERN OVER [**Known patient firstname **] RETURNING TO THE SAME NURSING HOME. MD'S WILL TRY TO REACH DR. [**Last Name (STitle) 5065**], WHO TAKES CARE OF HER AT THE NURSING HOME TO DISCUSS HER CARE. 
+
+  
+",,
+24807,17810,30804,,3033-09-05 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3033-9-5**] 12:56 PM
+     T-SPINE; LUMBO-SACRAL SPINE (AP & LAT)                          Clip # [**Clip Number (Radiology) 6286**]
+     Reason: Pt with diffuse back pain and risk factors for osteomyelitis
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      40 year old woman with quadrapalegia
+     REASON FOR THIS EXAMINATION:
+      Pt with diffuse back pain and risk factors for osteomyelitis.  Please eval.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     TWO VIEWS OF THE THORACIC AND LUMBAR SPINE:
+     
+     INDICATION:  40 year old female with quadriplegia and back pain.  Evaluate for
+     osteomyelitis or other cause for back pain.
+     
+     FINDINGS:  There are no studies available for comparison.  There is evidence
+     of prior cervical spine surgery with anterior plating and screws within the
+     lower cervical spine.  There is evidence of old traumatic injury within the
+     pelvis with a healed fracture within the left iliac bone and diastasis of the
+     symphysis pubis which appears chronic in nature.  There is cervicothoracic
+     scoliosis with convexity to the left.  There is anterior wedging of a
+     vertebral body within the upper thoracic spine of indeterminate age.
+     Comparison films would be helpful in better evaluating this abnormality. There
+     is normal alignment of the thoracic spine on the lateral view.  There are no
+     areas of suspicious bone destruction. There is diffuse demineralization. There
+     is a hiatal hernia in the retrocardiac region.
+     
+     Within the lumbar spine, the vertebral bodies are normal in height and
+     alignment. The intervertebral disc spaces are preserved.  There are no
+     suspicious lytic or sclerotic lesions within the lumbar spine.
+     
+     IMPRESSION:
+     1)  No suspicious areas of permeative bone destruction.  If clinical suspicion
+     of osteomyelitis remains high, a bone scan can be performed for further
+     assessment of possible osteomyelitis.
+     2)  Anterior wedging of an upper thoracic vertebral body.  This finding is of
+     indeterminate age and comparison films would be helpful to assess the age of
+     this anterior compression.
+     3)  Old traumatic injury within the pelvis and old post surgical changes
+     within the cervical spine as described above.
+     
+
+",,
+24807,17810,30804,,3033-09-05 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3033-9-5**] 12:56 PM
+     T-SPINE; LUMBO-SACRAL SPINE (AP & LAT)                          Clip # [**Clip Number (Radiology) 6286**]
+     Reason: Pt with diffuse back pain and risk factors for osteomyelitis
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      40 year old woman with quadrapalegia
+     REASON FOR THIS EXAMINATION:
+      Pt with diffuse back pain and risk factors for osteomyelitis.  Please eval.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     TWO VIEWS OF THE THORACIC AND LUMBAR SPINE:
+     
+     INDICATION:  40 year old female with quadriplegia and back pain.  Evaluate for
+     osteomyelitis or other cause for back pain.
+     
+     FINDINGS:  There are no studies available for comparison.  There is evidence
+     of prior cervical spine surgery with anterior plating and screws within the
+     lower cervical spine.  There is evidence of old traumatic injury within the
+     pelvis with a healed fracture within the left iliac bone and diastasis of the
+     symphysis pubis which appears chronic in nature.  There is cervicothoracic
+     scoliosis with convexity to the left.  There is anterior wedging of a
+     vertebral body within the upper thoracic spine of indeterminate age.
+     Comparison films would be helpful in better evaluating this abnormality. There
+     is normal alignment of the thoracic spine on the lateral view.  There are no
+     areas of suspicious bone destruction. There is diffuse demineralization. There
+     is a hiatal hernia in the retrocardiac region.
+     
+     Within the lumbar spine, the vertebral bodies are normal in height and
+     alignment. The intervertebral disc spaces are preserved.  There are no
+     suspicious lytic or sclerotic lesions within the lumbar spine.
+     
+     IMPRESSION:
+     1)  No suspicious areas of permeative bone destruction.  If clinical suspicion
+     of osteomyelitis remains high, a bone scan can be performed for further
+     assessment of possible osteomyelitis.
+     2)  Anterior wedging of an upper thoracic vertebral body.  This finding is of
+     indeterminate age and comparison films would be helpful to assess the age of
+     this anterior compression.
+     3)  Old traumatic injury within the pelvis and old post surgical changes
+     within the cervical spine as described above.
+     
+
+",,
+24807,17810,30804,0,3033-09-05 03:29:00 EST,3033-09-05 03:39:00 EST,-1,"N",69,"Nursing/Other",,"
+
+7P-7A NPN
+NEURO:  PT A&O X4,APPROPRIATE.  VERY DEMANDING, MANIPULATIVE.  PT SPOKE BADLY OF DAY SHIFT STAFF STATING SHE DIDN'T FEEL SHE WAS ""TAKEN GOOD CARE OF"" AND THEN STATED ""THEY JUST DON'T LIKE ME"" PT ALSO APPEARS TO BE DRUG SEEKING AND STATED THAT SHE HAD NOT BEEN GETTING ENOUGH PAIN MEDICATION OR GETTING IT AS ORDERED, HOWEVER PT'S PAIN MED WAS INC TODAY AND GIVEN AS SCHEDULED. PT STATES SHE NEEDS MORE AND REQUESTED THAT THE [**Last Name (NamePattern4) **] ORDER IM INJECTIONS ""JUST UNTIL I GET BACK TO THE NURSING HOME"". AFTER SPEAKING WITH MD RE: PT COMPLAINTS EXPLAINED THAT PT IS ON ALL OF THE PAIN MEDICATION SHE CAN RECIEVE, ONE TIME DOSE OF TORADOL IM OFFERED, PT REQUESTED DILAUDID INSTEAD.  PT INITIALLY REFUSED TORADOL AND LATER ACCEPTED. PT STATES MEDICATION DID NOT HELP HER PAIN.  PT GETS UPSET AND POUTS WHEN HER REQUESTS ARE NOT MET.
+
+RESP: REMAINS ON RA, SP02 98%, LUNGS COARSE 
+
+CV: SB NO ECTOPY, BP STABLE
+
+GI/GU:  ASPIRATION PRECAUTIONS, PT GIVES EXTENSIVE INSTRUCTIONS REGARDING FEEDING.  TOL PO'S WELL.  30F FOLEY PATENT DRAINING PALE YELLOW CLOUDY URINE
+
+INTEG:  STG [**12-30**] DECUBS TO L UPPER BACK AND L GLUTEAL FOLD. W/D DSGS CHANGED.
+
+ACCESS:  R TLIJ. L AC PICC WILL NOT FLUSH OR DRAW TO SPITE TPA YESTERDAY.
+
+PLAN: PT C/O, AWAITING BED ON FLOOR, D/C TO NURSING HOME
+",,
+24807,17810,,,3033-09-09 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     BONE SCAN                                                       Clip # [**Clip Number (Radiology) 6287**]
+     Reason: DECUBITUS ULCERS, ? OSTEOMYELITIS. 
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  H/o sacral decubitus ulcers as well as left back ulcer with severe  
+     back pain.  ? osteomyelitis.
+      
+     PHYSICAL EXAM:  Dressings are overlying the left posterior chest as well as left
+     sacrum.
+      
+     INTERPRETATION:  Anterior and posterior flows as well as tissue phase images of
+     the abdomen and pelvis were obtained.  Additionally, delayed phase whole body
+     images are obtained.
+      
+     In the tissue phase, there is abnormally increased tracer uptake in the
+     posterior left hip/sacral area.  Uptake in these regions is intensified in the
+     delayed phase images.  In addition, there is an area of mildly increased uptake
+     along the posterolateral aspect of the approximately T8 left rib.
+      
+     The kidneys are well visualized, and there is tracer noted in the Foley
+     catheter. These are the normal route of tracer excretion.
+      
+     IMPRESSION:   1) Osteomyelitis involving the left pelvis, at the location of the
+     sacral ulcer. 2) Increased tracer uptake along the left approximately 8th rib,
+     corresponding to the location of a dressing overlying the chest wall.  While the
+     intensity is lower than what is normally seen, this ulcer likely represents a
+     focus of osteomyelitis.  3) There findings were discussed with Dr. [**First Name (STitle) 103**], at
+     the time of interpretation. /nkg
+                                                                           
+
+             [**First Name8 (NamePattern2) 3133**] [**Last Name (NamePattern1) 1174**], M.D.
+             [**Last Name (NamePattern5) 647**], M.D.          Approved: MON [**3033-9-9**] 3:31 PM
+
+
+             Date Mailed: [**3033-9-10**]
+
+
+
+               RADLINE [**Telephone/Fax (1) 115**]; A radiology consult service.
+            To hear preliminary results, prior to transcription, call the
+                           Radiology Listen Line [**Telephone/Fax (1) 116**].
+
+",,
+24807,17810,,,3033-09-10 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3033-9-10**] 4:34 PM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 6289**]
+     Reason: UNRESPONSIVE ASPIR PNEUM INCREASED SEDATION
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      40 year old woman with paraplegia, aspiration pneumonia now with increased
+      sedation and unresponsiveness.  Please assess for bleed or any acute pathology.
+       -[**Doctor Last Name 103**] #39525 
+     REASON FOR THIS EXAMINATION:
+      r/o bleed
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT  (REVISED)
+     HISTORY: Paraplegia, aspiration pneumonia, increased sedation.
+     
+     TECHNIQUE: Axial images of the brain were obtained without IV contrast.
+     
+     COMPARISONS: Prior study [**3033-7-9**].
+     
+     FINDINGS: Posterior fossa images are degraded by streak artifacts.  Within
+     these limitations, there is no shift of normal midline structures or mass
+     effect. The ventricles, cisterns, and sulci are normal. The grey- white matter
+     differentiation is normal.  There are no pathologic extra-axial fluid
+     collections.  The paranasal sinuses are clear. There are no skull fractures.
+     
+     IMPRESSION: No evidence of intracranial hemorrhage or mass effect.
+     
+     COMMENT:  The lateral scout radiograph discloses partial imaging of metallic
+     internal fixation devices in the midcervical spine, as in the setting of an
+     anterior cervical fusion.
+     
+
+",,
+24807,17810,,,3033-09-10 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3033-9-10**] 10:58 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 6288**]
+     Reason: r/o aspiration PNA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        40 year old woman with h/o quadraplegia and recurrent aspiration pneumonia
+      now with increased sedation and unresponsiveness.  
+      -[**Doctor Last Name 103**] #39525 
+     REASON FOR THIS EXAMINATION:
+      r/o aspiration PNA
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CLINICAL INDICATION: 40-year-old female with history of quadriplegia and
+     recurrent aspiration pneumonia, now with increased sedation and
+     unresponsiveness.
+     
+     Portable AP chest dated [**3033-9-10**] is compared to the prior image dated
+     [**3033-9-2**].
+     
+     FINDINGS: This study is limited secondary to patient positioning. In the
+     interval, the right IJ catheter and endotracheal tube have been removed. There
+     is a left PICC catheter in stable position. The cardiac and mediastinal
+     contours appear stable. There is a persistent right lower lobe
+     infiltrate/atelectasis which appears somewhat improved in the interval. In
+     addition, there is a left lower lobe collapse/consolidation. There are no
+     pleural effusions. The visualized osseous structures and soft tissues are
+     unremarkable.
+     
+     IMPRESSION: Persistent bibasilar opacities which could represent atelectasis
+     versus aspiration pneumonia in this patient.
+
+",,

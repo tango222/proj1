@@ -1,0 +1,318 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+24907,3879,,,2972-10-29 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+
+Admission Date:  [**2972-10-29**]       Discharge Date:  [**2972-11-2**]
+
+Date of Birth:   [**2893-2-5**]       Sex:  F
+
+Service:
+
+HISTORY OF THE PRESENT ILLNESS:  The patient is a 79-year-old
+woman transferred from [**Hospital 2811**] Hospital after her daughter
+found her to be confused.  Normally, she is very sharp
+according to the daughter.  She lives alone.  She did not
+remember family members or friends.
+
+PAST MEDICAL HISTORY:
+1.  Hypertension.
+2.  Cataracts.
+3.  Osteoporosis.
+
+ALLERGIES:  The patient has no known drug allergies.
+
+PHYSICAL EXAMINATION ON ADMISSION:  Vital signs:  Temperature
+97.6, blood pressure 158/77, heart rate 61, respiratory rate
+16, saturation 100%.  General:  The patient was wide awake,
+oriented to herself only.  HEENT:  The pupils were equal,
+round, and reactive to light, 3 down to 2 mm.  EOMs were
+full.  She was following commands.  Lungs:  Clear
+bilaterally.  Cardiac:  Regular rate and rhythm, S1, S2, no
+murmurs, rubs, or gallops.  Abdomen: Soft, nondistended,
+positive bowel sounds.  Extremities:  No edema.  Neurologic:
+She was wide awake and disoriented.  Negative drift.
+Symmetric smile.  Speech fluent.  Only following one-step
+commands inconsistently.  Grasp 4+ on the right, 5 on the
+left.  IP [**5-25**] bilaterally.
+
+LABORATORY/RADIOLOGIC DATA:  A head CT showed a left frontal
+intraparenchymal hemorrhage with surrounding edema.
+
+HOSPITAL COURSE:  The patient was admitted to the ICU for
+close neurologic evaluation.  She had an MRI with and without
+gadolinium but again just showed the large left frontal
+bleed.  The patient was transferred to the regular floor on
+hospital day number two where she has remained neurologically
+stable.  She is awake, alert, and oriented times one.  She
+was moving all extremities with good strength, no weakness.
+She will be evaluated by physical therapy and occupational
+therapy and most likely will need [**Hospital 1062**] rehabilitation.
+
+DISCHARGE MEDICATIONS:
+1.  Decadron 2 mg p.o. q. 12 to be weaned off over two days.
+2.  Senna one tablet p.o. b.i.d. p.r.n.
+3.  Folic acid 1 mg p.o. q.d.
+4.  Atenolol 50 mg p.o. q.d.
+5.  Levofloxacin 500 mg p.o. q. 24 hours.  The patient did
+have a UTI on admission.
+6.  Heparin 5,000 units subcutaneously q. 12 hours.
+7.  Tylenol 650 p.o. q. four p.r.n.
+8.  Colace 100 mg p.o. b.i.d.
+9.  Famotidine 20 mg p.o. b.i.d.
+10. Valsartan 80 mg p.o. b.i.d.
+
+CONDITION ON DISCHARGE:  Stable at the time of discharge.
+
+FOLLOW-UP:  The patient will follow-up with Dr. [**Last Name (STitle) 5**] with a
+repeat head CT in one month.  Will repeat MRI scan in one
+month.
+
+
+
+
+                            [**Name6 (MD) 7**] [**Last Name (NamePattern4) 8**], M.D.  [**MD Number 9**]
+
+Dictated By:[**Last Name (NamePattern1) 130**]
+MEDQUIST36
+
+D:  [**2972-11-2**]  10:05
+T:  [**2972-11-2**]  10:06
+JOB#:  [**Job Number 6307**]
+Signed electronically by: DR. [**First Name8 (NamePattern2) 7**] [**Name (STitle) **]
+ on: SAT [**2972-12-26**] 10:54 AM
+(End of Report)
+
+
+",,
+24907,3879,,,2972-10-29 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2972-10-29**] 3:56 PM
+     MR HEAD W & W/O CONTRAST; MR-ANGIO HEAD                         Clip # [**Clip Number (Radiology) 7434**]
+     Reason: evaluate for source of intra-parenchymal bleed, evaluate for
+     Admitting Diagnosis: INTRACRANIAL BLEED
+      Contrast: MAGNEVIST Amt: 10CC
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      79 year old woman with one day mental status changes, head CT from OSH with 
+      left frontal intra-parenchymal bleed with some edema
+     REASON FOR THIS EXAMINATION:
+      evaluate for source of intra-parenchymal bleed, evaluate for mass/tumor with 
+      and without gadolinium
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Intraparenchymal bleed seen on outside head CT. Question
+     intraparenchymal mass lesion.
+     
+     It should be noted that MRA of the circle of [**Location (un) 309**] was also performed.
+     
+     Multiplanar T1 and T2 weighted images of the brain were obtained. Diffusion
+     images and post gadolinium administration T1 axial and coronal images were
+     performed. 3D time of flight MRA of the circle of [**Location (un) 309**] was obtained. The MRA
+     exam was degraded by motion artifact.
+     
+     There are no acute territorial infarcts seen on perfusion images. A cavitary
+     mass lesion is seen involving the left frontal lobe measuring 4.3 x 2.5 cm and
+     demonstrates a fluid level. There is magnetic susceptibility seen within the
+     lesion due to the presence of byproducts of blood due to its hemorrhagic
+     nature. There is surrounding T2 hyperintensity suggestive of edema and the
+     mass effect over the superior aspect of the left lateral ventricle. There is
+     minimal enhancement surrounding the lesion following gadolinium
+     administration. No other enhancing lesions could be demonstrated within the
+     brain.  There are other scattered foci of T2 hyperintensity in the
+     periventricular white matter suggestive of chronic microvascular ischemic
+     changes. Correlation with outside CT exam would be helpful for further
+     evaluation. There is a small less than 1 cm round enhancing structure probably
+     along the inner table of the skull which is nonspecific and could represent a
+     large vascular [**Doctor Last Name **].
+     
+     MRA of the circle of [**Location (un) 309**] was significantly degraded by motion artifact.
+     There is mild stenosis of the right distal vertebral artery. The visualized
+     intracranial circulation is patent.
+     
+     IMPRESSION:
+     
+     Large cavitary mass lesion demonstrating a fluid level with byproducts of
+     blood involving the left frontal lobe and minimally enhancing following
+     gadolinium.  The presence of mass effect along the superior aspects of the
+     left lateral ventricle and surrounding T2 hyperintensity is suggestive of a
+     hemorrhagic mass lesion which would be either a primary neoplasm or metastatic
+     in nature.  An intraparenchymal hematoma related to coagulopathy or amyloid
+     angiopathy is a less likely consideration.  Follow up MRI of the brain with
+     gadolinium administration along with neurosurgical consultation would be
+                                                                 (Over)
+
+     DATE: [**2972-10-29**] 3:56 PM
+     MR HEAD W & W/O CONTRAST; MR-ANGIO HEAD                         Clip # [**Clip Number (Radiology) 7434**]
+     Reason: evaluate for source of intra-parenchymal bleed, evaluate for
+     Admitting Diagnosis: INTRACRANIAL BLEED
+      Contrast: MAGNEVIST Amt: 10CC
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     helpful.
+     
+     MRA of the circle of [**Location (un) 309**] was degraded by motion artifact. There is no
+     significant intracranial stenosis.
+
+",,
+24907,3879,,,2972-10-29 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2972-10-29**] 3:56 PM
+     MR HEAD W & W/O CONTRAST; MR-ANGIO HEAD                         Clip # [**Clip Number (Radiology) 7434**]
+     Reason: evaluate for source of intra-parenchymal bleed, evaluate for
+     Admitting Diagnosis: INTRACRANIAL BLEED
+      Contrast: MAGNEVIST Amt: 10CC
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      79 year old woman with one day mental status changes, head CT from OSH with 
+      left frontal intra-parenchymal bleed with some edema
+     REASON FOR THIS EXAMINATION:
+      evaluate for source of intra-parenchymal bleed, evaluate for mass/tumor with 
+      and without gadolinium
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Intraparenchymal bleed seen on outside head CT. Question
+     intraparenchymal mass lesion.
+     
+     It should be noted that MRA of the circle of [**Location (un) 309**] was also performed.
+     
+     Multiplanar T1 and T2 weighted images of the brain were obtained. Diffusion
+     images and post gadolinium administration T1 axial and coronal images were
+     performed. 3D time of flight MRA of the circle of [**Location (un) 309**] was obtained. The MRA
+     exam was degraded by motion artifact.
+     
+     There are no acute territorial infarcts seen on perfusion images. A cavitary
+     mass lesion is seen involving the left frontal lobe measuring 4.3 x 2.5 cm and
+     demonstrates a fluid level. There is magnetic susceptibility seen within the
+     lesion due to the presence of byproducts of blood due to its hemorrhagic
+     nature. There is surrounding T2 hyperintensity suggestive of edema and the
+     mass effect over the superior aspect of the left lateral ventricle. There is
+     minimal enhancement surrounding the lesion following gadolinium
+     administration. No other enhancing lesions could be demonstrated within the
+     brain.  There are other scattered foci of T2 hyperintensity in the
+     periventricular white matter suggestive of chronic microvascular ischemic
+     changes. Correlation with outside CT exam would be helpful for further
+     evaluation. There is a small less than 1 cm round enhancing structure probably
+     along the inner table of the skull which is nonspecific and could represent a
+     large vascular [**Doctor Last Name **].
+     
+     MRA of the circle of [**Location (un) 309**] was significantly degraded by motion artifact.
+     There is mild stenosis of the right distal vertebral artery. The visualized
+     intracranial circulation is patent.
+     
+     IMPRESSION:
+     
+     Large cavitary mass lesion demonstrating a fluid level with byproducts of
+     blood involving the left frontal lobe and minimally enhancing following
+     gadolinium.  The presence of mass effect along the superior aspects of the
+     left lateral ventricle and surrounding T2 hyperintensity is suggestive of a
+     hemorrhagic mass lesion which would be either a primary neoplasm or metastatic
+     in nature.  An intraparenchymal hematoma related to coagulopathy or amyloid
+     angiopathy is a less likely consideration.  Follow up MRI of the brain with
+     gadolinium administration along with neurosurgical consultation would be
+                                                                 (Over)
+
+     DATE: [**2972-10-29**] 3:56 PM
+     MR HEAD W & W/O CONTRAST; MR-ANGIO HEAD                         Clip # [**Clip Number (Radiology) 7434**]
+     Reason: evaluate for source of intra-parenchymal bleed, evaluate for
+     Admitting Diagnosis: INTRACRANIAL BLEED
+      Contrast: MAGNEVIST Amt: 10CC
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     helpful.
+     
+     MRA of the circle of [**Location (un) 309**] was degraded by motion artifact. There is no
+     significant intracranial stenosis.
+
+",,
+24907,3879,,,2972-10-29 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2972-10-29**] 10:23 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 7433**]
+     Reason: eval for infiltrate/infection                               
+     Admitting Diagnosis: INTRACRANIAL BLEED
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      79 year old woman with frontal IPH                                              
+     REASON FOR THIS EXAMINATION:
+      eval for infiltrate/infection                                                   
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Intracranial hemorrhage.
+     
+     AP PORTABLE CHEST RADIOGRAPH: No comparison.
+     
+     There is mild cardiac enlargement.  No pulmonary vascular congestion, pleural
+     effusions, or infiltrates.
+     
+     IMPRESSION:  No evidence of cardiac failure or infiltrates.
+
+",,
+24907,3879,30929,0,2972-10-29 05:26:00 EST,2972-10-29 05:44:00 EST,1545,"N",69,"Nursing/Other",,"
+
+Micu Nursing Admission Note: 
+
+79 yo woman brought to [**Hospital 1027**] hospital EW by dtr with increased confusion. CT scan revealed + L frontal IPH. Transferred to [**Hospital1 3**]. In EW rec'd labetalol and lopressor for htn to 180. Also found to have + UTI and started on levoquin. Rec'd 1mg Ativan iv. Additional iv access placed. Transferred to micu under nsicu service.
+To rec MRI later this am.
+
+On admission to Micu:
+
+Neuro: pupils R>L. L eye surgical. R reactive to light. equal strength in all extremites. Pleasantly confused and giving only one word answers, appears to have word finding difficulty. +Nausea ~30mins after nipride started. 
+
+CV: goal sbp <140. started on nipride. aline placed. now ~130-145 sbp.
+afebrile. HR 60-80 NSR no ectopy. 
+
+Resp: O2 sats 100% on RA. LS clear.
+
+GI/GU: NPO. u/o adequate. 
+
+
+ 
+",,
+24907,3879,30929,0,2972-10-29 17:50:00 EST,2972-10-29 18:04:00 EST,2651,"N",69,"Nursing/Other","Nursing Progress Note 0700-1900.","
+Nursing Progress Note 0700-1900.
+Pt to MRI of head to re-eval IPH. Pt remains pleasently confused and disoriented. pt also on Nipride at 1.5 mcg/kr/min to keep SPB <140. 
+
+ROS-
+
+CV- NSR 80-90's. BP 120-130's on 1.5 of Nipride, titrated up from 0.5mcg/kg/min this am. extemrities warm and pulses palpable.
+
+NEURO- pt dozes intermittently. Pt appears to be sl. more lethargic tonoc then this am. Usually does not follow commands. Unable to answer any orientation questions. No parasthesis or weakness. also appears to have word-finding difficulty. restrained d/t pt pulling at lines, fall risk- pt did get OOB on her own this am. At baseline pt A&O lives independently, per daughters report.   
+
+RESP- LS clear. Pt on RA with o2 sats in upper 90's.  
+
+GI/GU- large loose stool this am. foley draining approx 20-30cc/hr cloudy yellow urine (team aware). Pt on 1000cc fluid restriction/day d/t hyponatremia. NS w/20K infusing at 25cc/hr. NPO.
+
+SKIN- no breaks in skin integrity. 
+
+ID- pt on Levo for UTI. urine cloudy and odoriforous.
+
+ACCESS- right Aline, became very dampened after return from MRI, readjusted and sutureed in by MD. [**Last Name (Titles) **] X2 in Left arm. 
+
+SOCIAL- Son and daughter here for most of shift. updated on pt's condition/ plan. given reassurance and offered support.
+
+PLAN- f/u on head MRI. ?surgical intervention. planning on EEG to r/o sz activity. titrate nipride to keep SBP <140, monitor VS's. Maintain safe environment. get oob as pt tolerates. monitor NA q6hrs.
+
+
+",,
+24907,3879,30929,0,2972-10-30 04:06:00 EST,2972-10-30 04:22:00 EST,2776,"N",69,"Nursing/Other","MICU nursing progress note 7P-7A","
+MICU nursing progress note 7P-7A
+Neuro - Alert, disoriented,sleeping most of night. Answers yes/no to questions, sometimes won't answer at all.Refused sips H2O when trying to give her PO meds. Moves upper extremities on bed, only moves her feet if stimulated. Doesn't follow simple commands. Pupils reactive, R<L (left surgical eye). No attempt to get OOB. Wrist restraints d/t pulling at lines. Waiting for NeuroSurg consult re: MRI results. 
+
+Resp - Sats 98-100% RA. Lungs clear, dim at bases.
+
+CV - BP labile, 83->170s while sleeping. Mostly in 110s-130s. Nipride gtt off as BP in 90s while pt sleeping. BP still will occ drift down to as low as 83 while sleeping but increases to 150s with stimulation. NSR 71-91, no ectopy. Extremities W&D. 
+
+GI/GU - Abd soft, +BS. No stool. Refused sips, no PO meds given, HO aware. NPO. U/O 25-40cc/hr. 1L FR d/t Na 129. AM labs pending. NS c 20K @ 25cc/hr. Levoquin for UTI.
+
+Social - Daughter and [**Name2 (NI) **] called with many questions about MRI results and plan. Dr [**Last Name (STitle) 5254**] called them at home to discuss pt condition.
+
+Plan - Waiting for NeuroSurg consult re: MRI. Nipride gtt if BP>140. Wrist restraints for safety. Neuro checks. Support to family.
+",,
+24907,3879,30929,0,2972-10-30 05:31:00 EST,2972-10-30 05:32:00 EST,2776,"N",69,"Nursing/Other","addendum","
+addendum
+Nipride restarted for BP 160s/60s
+",,

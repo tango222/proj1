@@ -1,0 +1,1047 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+24790,12593,,,2686-11-03 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+
+Admission Date:  [**2686-11-3**]       Discharge Date:  [**2686-11-15**]
+
+Date of Birth:   [**2587-3-9**]       Sex:  M
+
+Service:
+
+HISTORY OF PRESENT ILLNESS:  The patient is a [**Age over 90 **] year-old man
+who was found on the floor the morning of admission by his
+family having fallen out of bed sometime during the night,
+unclear if there was loss of consciousness.  He states he
+felt dizzy and could not get up off the floor.  He was taken
+to an outside hospital where a head CT showed a right sided
+acute on chronic subdural hematoma 1 to 2 cm.
+
+PHYSICAL EXAMINATION:  Pleasant elderly gentleman in no acute
+distress.  His pupils are equal, round and reactive to light.
+ Extraocular movements intact.  Neck was supple.  He had no
+midline tenderness.  Chest was clear bilaterally.  Cardiac S1
+and S2.  Abdomen soft, nontender, nondistended.  Positive
+bowel sounds.  Extremities erythema and some edema
+bilaterally of the lower extremities left greater then right.
+Neurologically awake, alert and oriented.  Cranial nerves II
+through XII were intact.  Pupils are 2 mm and reactive.
+Extraocular movements intact.  Face, he had a left facial
+droop and a left drift.  His strength was 5 out of 5 in all
+muscle groups on the Right and 5-/5 on the Left.  Reflexes are 2+
+and symmetric. Sensation was
+intact to light touch. 
+
+HOSPITAL COURSE:  He was admitted to the Trauma CICU and was
+taken to the Operating Room on [**2686-11-4**] after having some
+neurological deterioration with a more pronounced left facial
+droop and left side weakness.  He tolerated the surgery well
+without
+complications.  He had a right bur hole drainage times two
+with placement of a JP drain.  Postoperatively, he was awake,
+alert and oriented to person, following commands with a left
+facial droop, able to raise the left arm upward.  His grasp
+was 5 out of 5.  His IPs on the right were 4+ on the left
+were 4.  He was somewhat agitated with elevated blood
+pressures immediately postoperative.  His vital signs
+remained stable.  On [**2686-11-5**] he had a repeat head CT,
+which showed good evacuation of the subdural hematoma and
+then around 2:00 p.m. on [**11-5**] the patient had an episode of
+respiratory distress with supraventricular tachycardia and
+question of seizure activity.  The patient was immediately
+intubated and sedated and had a femoral A line placed.  He
+was hemodynamically unstable with drop in blood pressure and
+a Dopamine drip was started.  The patient was also given
+Metoprolol intravenously for his supraventricular
+tachycardia, which dropped his heart rate.  Cardiology was
+consulted on [**2686-11-6**] for episodes of recurrent
+supraventricular tachycardia.  He was on a Diltiazem drip.
+The patient underwent cardiac ablation for his
+supraventricular tachycardia with good results and resolution
+of his supraventricular tachycardia.  The patient tolerated
+the procedure well.  He was extubated on [**2686-11-7**] following
+commands times four with diffuse weakness.  Pupils were 2
+down to 1.5 and his incision was clean, dry and intact.  He
+moved his feet to command and withdrew to lower stimulation,
+squeeze bilateral arm.  He was transferred to the regular
+floor on [**2686-11-11**] where he remained neurologically stable,
+awake, alert and oriented times one to two, moving all
+extremities with good strength following commands times four.
+Episodes of some confusion requiring placement of a Posey
+restraints _, which has now been discontinued.  He is out of bed
+to the chair, tolerating a regular diet.  Physical therapy
+and occupational therapy have seen him and felt he will
+require a rehab prior to discharge to home.
+
+MEDICATIONS ON DISCHARGE:
+1.  Tylenol 650 mg po q 4 hours prn.
+2.  Levofloxacin 500 mg po q 24 hours.
+3.  Famotidine 20 mg po b.i.d.
+4.  Heparin 5000 units subq q 12 hours.
+5.  Hydralazine 25 mg po q 8 hours hold for systolic blood
+pressure less then 100.
+6.  Artificial tears one to two drops q 6 hours prn.
+7.  Insulin sliding scale.
+
+DISCHARGE CONDITION:  The patient's condition is stable at
+the time of discharge.  He will follow up with Dr.
+[**Last Name (STitle) 261**] in one month with a repeat head CT.
+
+
+
+
+
+
+                            [**Name6 (MD) **] [**Name8 (MD) **], M.D.
+[**MD Number 3517**]
+
+Dictated By:[**Last Name (NamePattern1) 130**]
+MEDQUIST36
+
+D:  [**2686-11-15**]  08:55
+T:  [**2686-11-15**]  09:14
+JOB#:  [**Job Number 6047**]
+Signed electronically by: DR. [**First Name (STitle) **] [**Name (STitle) **]
+ on: TUE [**2686-11-16**] 11:49 AM
+(End of Report)
+
+
+",,
+24790,12593,30777,,2686-11-04 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2686-11-4**] 3:55 PM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 6089**]
+     Reason: post op drain placement                                     
+     Admitting Diagnosis: SUBDURAL HEMATOMA;TELEMETRY
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      [**Age over 90 **] year old man with                                                            
+     REASON FOR THIS EXAMINATION:
+      post op drain placement                                                         
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: Post op drain placement.
+     
+     TECHNIQUE: Noncontrast head CT.
+     
+     FINDINGS: No prior studies are available for comparison.  Extensive motion
+     artifact degrades evaluation somewhat. Post operative changes are present
+     within the skull, and there is a catheter in the right subdural space.  There
+     is residual fluid and blood in the right subdural space, with a small amount
+     of air contained also within the subdural space.  There is mild residual mass
+     effect.  There is no shift of normally midline structures or hydrocephalus.
+     There is preservation of [**Doctor Last Name 66**]-white matter differentiation.  Extensive
+     vascular calcifications are present.
+     
+     IMPRESSION: Post operative changes from subdural hematoma drainage, with
+     residual blood, fluid, and air in the right subdural space.
+
+",,
+24790,12593,30777,,2686-11-04 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2686-11-4**] 5:23 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 6088**]
+     Reason: Pre-op                                                      
+     Admitting Diagnosis: SUBDURAL HEMATOMA;TELEMETRY
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      [**Age over 90 **] year old man with subdural hematoma                                          
+     REASON FOR THIS EXAMINATION:
+      Pre-op                                                                          
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CHEST SINGLE AP FILM:
+     
+     HISTORY:  Pre-op subdural hematoma.
+     
+     No previous films for comparison.  Supine AP film.  Allowing for technique,
+     heart size is within normal limits.  There is tortuosity of the thoracic
+     aorta.  No definite CHF.  Apart from linear atelectasis at the right base the
+     lungs are grossly clear.
+     
+     IMPRESSION:  No significant abnormality allowing for limited supine AP film.
+     
+
+",,
+24790,12593,30777,0,2686-11-04 04:14:00 EST,2686-11-04 04:24:00 EST,3840,"N",53,"Nursing/Other",,"
+
+T/SICU Nursing Admission Note
+
+Pt is [**Age over 90 31**] year old who lives alone (grand niece lives upstairs). Pt fell out of bed, unable to call for help, ?LOC. Found at 6:30am-taken to OSH. Head CT=left subdural with 2-3mm shift. Transferred to [**Hospital1 3**] to be watched overnight and have surgery in morning.
+
+PMHx: CAD-AFIB; HTN.
+
+No known allergies.
+
+Meds at home: Digoxin, Lisinpril, Verapamil.
+
+Pt has mild weakness in left arm; PERLA 3mm; occ. confused to place, calling out, no [**Doctor Last Name **] tonight. Denies pain. Cough and gag normal. Dilantin as ordered.
+
+AFib with PVCs. BP stable 130-140/40-50. IVF @70cc/hr. Pneumoboots on.
+
+Room air sats 96% with clear lungs, no cough.
+
+NPO except meds. Abd. is soft and non-tender.
+
+Urine output pink-suspected traumatic Foley insertion. U/O adequate.
+
+Skin dry with areas of redness-no broken skin noted.
+
+No calls from family.
+
+Plan: Continue to monitor neuro signs until pt. goes to OR for evacuation of subdural.
+
+
+",,
+24790,12593,30777,0,2686-11-04 17:50:00 EST,2686-11-04 18:23:00 EST,4190,"N",53,"Nursing/Other",,"
+
+Review of systems:
+
+Neuro: Pt awake and alert to name and time not to place. Reports that he is on a ""farm"". Pt gets extremely agitated/combative, tries to remove lines and exit bed. Pt screaming at people who are not in the room. Multiple attempts to reorient pt. Haldol PRN 5 mg given with good effect, fentanyl also given with good effect. +gag, +cough, +corneals, PERRL 3-4mm/bsk.  Pt went to OR today for Burrholes, back ~1000 with JP draining serous fluid. Receives Dilantin.
+
+CV: AFIB to SR. Occasional PVCs. range 50s-130s! Took metoprolol, liniopril, verapimil. Pt on Nipride gtt for goal of systolic <160. ON/OFF gtt. With agitation pts BP increases to >200. DP/PT pulses present and easily palpable bilaterally. Art line placed in OR, DCd by pt with agitation bout, team aware.
+
+Pulm: 4liters NC, O2 sat 94-98%. Lung sounds are clear to coarse throughout. ocassional non productive cough. RR22-26.
+
+GI: Belly is soft/non tender, + BS, -stool.
+
+GU: Foley patent to gravity/adequate UOP
+
+ID: Afebrile, on antibiotics.
+
+Heme: see careview
+
+Skin: Intact. Drassing over JP insertion site/burrholes reinforced by [**Initials (NamePattern4) **] [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 3485**]. SS ooze/ moderate in amt. JP draining serous fluid ~ 150cc out.
+
+Social: no contact this shift
+
+Plan: Neuro Check QH, continue with plan of care, reorient pt, provide comfort / sedation for safety. Update family/pt and provide support.
+
+
+",,
+24790,12593,30777,,2686-11-05 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2686-11-5**] 11:10 AM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 6090**]
+     Reason: agitation / interval change / requested by N-[**Hospital Unit Name **]...any ques
+     Admitting Diagnosis: SUBDURAL HEMATOMA;TELEMETRY
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       [**Age over 90 **] year old man with                                                           
+       
+     REASON FOR THIS EXAMINATION:
+      agitation / interval change / requested by N-[**Hospital Unit Name **]...any questions on the reason 
+      for exam please call N-Sx resident on call ...thank [**Doctor First Name 14**] ...respectfully, [**First Name4 (NamePattern1) **] 
+      [**Last Name (NamePattern1) 6091**]
+     CONTRAINDICATIONS for IV CONTRAST:
+      possible ICH
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: Mental status changes after subdural hematoma drainage.
+     
+     TECHNIQUE: Noncontrast head CT.
+     
+     FINDINGS: Comparison is made to the study from [**2686-11-4**]. Portions of
+     the study are limited by motion artifact. Again identified is a catheter
+     within the right subdual space, which is unchanged in configuration. There is
+     no new hemorrhage. The subdural collection is unchanged in extent or
+     appearance. There is stable mild mass effect on the brain. At this time, there
+     is no shift of normally midline structures. The amount of subdural air has
+     reduced since the prior study. Osseous structures are unchanged.
+     
+     IMPRESSION: Stable postoperative findings. No acute hemorrhage. Findings were
+     discussed with Dr. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) 6091**]. 
+
+",,
+24790,12593,30777,,2686-11-05 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2686-11-5**] 5:17 PM
+     CTA CHEST W&W/O C &RECONS; CT 100CC NON IONIC CONTRAST          Clip # [**Clip Number (Radiology) 6096**]
+     Reason: SATS DROPPED.PT INTUBATED.  ASSESS FOR PE
+     Admitting Diagnosis: SUBDURAL HEMATOMA;TELEMETRY
+      Contrast: OPTIRAY Amt: 100
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        [**Age over 90 **] year old man with                                                          
+         
+     REASON FOR THIS EXAMINATION:
+      R/O PE                                                                          
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: [**Age over 90 **]-year-old man with poor oxygen saturation, evaluate for PE. He
+     is recently postop.
+     
+     TECHNIQUE: Axial images were performed through the pulmonary vascularity after
+     the administration of intravenous contrast. Multiplanar reformatted images
+     were obtained. Please note the extreme lung apices and bases are not included
+     on the images.
+     
+     CONTRAST: 100 cc of Optiray was administered due to fast bolus rate required
+     for this study.
+     
+     CTA OF THE CHEST: No pulmonary emboli are identified. There is a prominent
+     prevasular lymph node which measures 13 mm in short axis. There are scattered
+     small mediastinal lymph nodes. There are small hilar lymph nodes. There is no
+     axillary lymphadenopathy. There is fluid diffusely throughout the esophagus
+     and an air-fluid level within the upper esophagus. This can predispose to
+     aspiration. There is a heterogeneous nodule within the right lobe of the
+     thyroid gland. There are coarse coronary artery calcifications and
+     cardiomegaly. The thoracic aorta is markedly ectatic with irregularity of its
+     wall. There are tiny bilateral pleural effusions. There is compressive
+     atelectasis at the lung bases. There is respiratory motion limiting the
+     evaluation of the pulmonary parenchyma but no major consolidations are seen.
+     
+     BONE WINDOWS: No suspicious lytic or blastic lesions are seen.
+     
+     Multiplanar reformatted images support the above findings.
+     
+     IMPRESSION:
+     1. No PE.
+     2. Fluid within the esophagus. This increases the patient's risk for
+     aspiration.
+     3. Nodular density in the right lobe of the thyroid gland.
+     4. Compressive atelectasis at the lung bases.
+     
+     
+     
+                                                                 (Over)
+
+     DATE: [**2686-11-5**] 5:17 PM
+     CTA CHEST W&W/O C &RECONS; CT 100CC NON IONIC CONTRAST          Clip # [**Clip Number (Radiology) 6096**]
+     Reason: SATS DROPPED.PT INTUBATED.  ASSESS FOR PE
+     Admitting Diagnosis: SUBDURAL HEMATOMA;TELEMETRY
+      Contrast: OPTIRAY Amt: 100
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+
+",,
+24790,12593,30777,,2686-11-05 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2686-11-5**] 5:17 PM
+     CTA CHEST W&W/O C &RECONS; CT 100CC NON IONIC CONTRAST          Clip # [**Clip Number (Radiology) 6096**]
+     Reason: SATS DROPPED.PT INTUBATED.  ASSESS FOR PE
+     Admitting Diagnosis: SUBDURAL HEMATOMA;TELEMETRY
+      Contrast: OPTIRAY Amt: 100
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        [**Age over 90 **] year old man with                                                          
+         
+     REASON FOR THIS EXAMINATION:
+      R/O PE                                                                          
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: [**Age over 90 **]-year-old man with poor oxygen saturation, evaluate for PE. He
+     is recently postop.
+     
+     TECHNIQUE: Axial images were performed through the pulmonary vascularity after
+     the administration of intravenous contrast. Multiplanar reformatted images
+     were obtained. Please note the extreme lung apices and bases are not included
+     on the images.
+     
+     CONTRAST: 100 cc of Optiray was administered due to fast bolus rate required
+     for this study.
+     
+     CTA OF THE CHEST: No pulmonary emboli are identified. There is a prominent
+     prevasular lymph node which measures 13 mm in short axis. There are scattered
+     small mediastinal lymph nodes. There are small hilar lymph nodes. There is no
+     axillary lymphadenopathy. There is fluid diffusely throughout the esophagus
+     and an air-fluid level within the upper esophagus. This can predispose to
+     aspiration. There is a heterogeneous nodule within the right lobe of the
+     thyroid gland. There are coarse coronary artery calcifications and
+     cardiomegaly. The thoracic aorta is markedly ectatic with irregularity of its
+     wall. There are tiny bilateral pleural effusions. There is compressive
+     atelectasis at the lung bases. There is respiratory motion limiting the
+     evaluation of the pulmonary parenchyma but no major consolidations are seen.
+     
+     BONE WINDOWS: No suspicious lytic or blastic lesions are seen.
+     
+     Multiplanar reformatted images support the above findings.
+     
+     IMPRESSION:
+     1. No PE.
+     2. Fluid within the esophagus. This increases the patient's risk for
+     aspiration.
+     3. Nodular density in the right lobe of the thyroid gland.
+     4. Compressive atelectasis at the lung bases.
+     
+     
+     
+                                                                 (Over)
+
+     DATE: [**2686-11-5**] 5:17 PM
+     CTA CHEST W&W/O C &RECONS; CT 100CC NON IONIC CONTRAST          Clip # [**Clip Number (Radiology) 6096**]
+     Reason: SATS DROPPED.PT INTUBATED.  ASSESS FOR PE
+     Admitting Diagnosis: SUBDURAL HEMATOMA;TELEMETRY
+      Contrast: OPTIRAY Amt: 100
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+
+",,
+24790,12593,30777,,2686-11-05 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2686-11-5**] 9:31 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 6097**]
+     Reason: IJ placement                                                
+     Admitting Diagnosis: SUBDURAL HEMATOMA;TELEMETRY
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        [**Age over 90 **] year old man with subdural hematoma                                        
+         
+     REASON FOR THIS EXAMINATION:
+      IJ placement                                                                    
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  IJ placement.
+     
+     PORTABLE CHEST:  Comparison is made to film from 3 PM the same day.  The ET
+     tube remains in satisfactory position.  The new left IJ catheter tip is in
+     proximal SVC; there is no evidence of pneumothorax.  Midline structures are
+     stable.  There is still nonspecific increased density in the left retrocardiac
+     area with silhouetting of the left hemidiaphragm.  There is progression of
+     nonspecific increased density at the right lung base, which may reflect
+     increasing effusion and/or atelectasis/consolidation.  More cephalad portions
+     of each lung field appear relatively clear.
+     
+     IMPRESSION: 1.  New left IJ catheter tip in proximal SVC; no pneumothorax.
+     2.  Worsened aeration right lung base.
+     3.  Persistent nonspecific increased density left retrocardiac area.
+     
+
+",,
+24790,12593,30777,,2686-11-05 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2686-11-5**] 5:17 PM
+     CT HEAD W/O CONTRAST; -77 BY DIFFERENT PHYSICIAN                [**Name Initial (PRE) 232**] # [**Clip Number (Radiology) 6095**]
+     Reason: ASSESS FOR BLEED.MS CHANGES MORE SO SINCE PREVIOUS SCAN AT 10AN
+     Admitting Diagnosis: SUBDURAL HEMATOMA;TELEMETRY
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        [**Age over 90 **] year old man with                                                          
+         
+     REASON FOR THIS EXAMINATION:
+      R/O Bleed                                                                       
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: [**Age over 90 **]-year-old man with new mental status changes since the prior
+     scan. Evaluate for new intracranial hemorrhage.
+     
+     COMPARISON: Head CT from [**2686-11-5**] at 11:21.
+     
+     TECHNIQUE: Noncontrast head CT.
+     
+     FINDINGS: Again there is a catheter within the right subdural space, unchanged
+     in configuration. There is no new hemorrhage. There is a small amount of
+     subdural collection with mixed attenuation, not changed from the prior study.
+     There is no new hemorrhage. There is stable mass effect on the brain. There is
+     no shift of normally midline structures. The amount of subdural air is
+     unchanged.
+     
+     There is mucosal thickening of the ethmoid air cells. Presumably related to
+     the patient's intubation. There are burr holes in the left frontal and
+     parietal bone.
+     
+     IMPRESSION: No significant change from the prior exam. No acute hemorrhage.
+
+",,
+24790,12593,30777,,2686-11-05 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2686-11-5**] 5:17 PM
+     CT HEAD W/O CONTRAST; -77 BY DIFFERENT PHYSICIAN                [**Name Initial (PRE) 232**] # [**Clip Number (Radiology) 6095**]
+     Reason: ASSESS FOR BLEED.MS CHANGES MORE SO SINCE PREVIOUS SCAN AT 10AN
+     Admitting Diagnosis: SUBDURAL HEMATOMA;TELEMETRY
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        [**Age over 90 **] year old man with                                                          
+         
+     REASON FOR THIS EXAMINATION:
+      R/O Bleed                                                                       
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: [**Age over 90 **]-year-old man with new mental status changes since the prior
+     scan. Evaluate for new intracranial hemorrhage.
+     
+     COMPARISON: Head CT from [**2686-11-5**] at 11:21.
+     
+     TECHNIQUE: Noncontrast head CT.
+     
+     FINDINGS: Again there is a catheter within the right subdural space, unchanged
+     in configuration. There is no new hemorrhage. There is a small amount of
+     subdural collection with mixed attenuation, not changed from the prior study.
+     There is no new hemorrhage. There is stable mass effect on the brain. There is
+     no shift of normally midline structures. The amount of subdural air is
+     unchanged.
+     
+     There is mucosal thickening of the ethmoid air cells. Presumably related to
+     the patient's intubation. There are burr holes in the left frontal and
+     parietal bone.
+     
+     IMPRESSION: No significant change from the prior exam. No acute hemorrhage.
+
+",,
+24790,12593,30777,,2686-11-05 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2686-11-5**] 3:03 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 6094**]
+     Reason:  R/O pulmonary Edema  /  line placement R SC TLC  any questi
+     Admitting Diagnosis: SUBDURAL HEMATOMA;TELEMETRY
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       [**Age over 90 **] year old man with subdural hematoma                                         
+       
+     REASON FOR THIS EXAMINATION:
+       R/O pulmonary Edema  /  line placement R SC TLC  any questions please page the 
+      T/[**Hospital Unit Name **] fellow [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 6093**]
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: [**Age over 90 **] year old man with subdural hematoma.
+     
+     COMMENT: Portable AP radiograph of the chest is reviewed, and compared with
+     the previous study at 1:23 PM.
+     
+     The tip of the right subclavian IV catheter is identified going toward
+     cranially in the internal jugular vein. The information was communicated with
+     Dr. [**Last Name (STitle) 6091**].
+     
+     The tip of the endotracheal tube is identified 2 cm above the carina.
+     
+     There is continued moderate pulmonary edema with cardiomegaly and small
+     bilateral pleural effusion indicating congestive heart failure. There is
+     continued atelectasis in both lower lobes.
+     
+     Again note is made of marked tortuousity of the thoracic aorta with
+     calcification. No pneumothorax is identified.
+     
+
+",,
+24790,12593,30777,,2686-11-05 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2686-11-5**] 1:17 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 6092**]
+     Reason: SVT,s wheezing, desat, xray requested by T/[**Hospital Unit Name **] fellow...any
+     Admitting Diagnosis: SUBDURAL HEMATOMA;TELEMETRY
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       [**Age over 90 **] year old man with subdural hematoma                                         
+       
+     REASON FOR THIS EXAMINATION:
+      SVT,s wheezing, desat, xray requested by T/[**Hospital Unit Name **] fellow...any questions 
+      regarding this request please page [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 6093**]
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  [**Age over 90 **] y/o man with subdural hematoma and some wheezing.
+     
+     FINDINGS: Comparison is made to previous study [**2686-11-4**]. There has been
+     interval change with evidence now of pulmonary edema bilaterally. No pleural
+     effusions. No other diagnostic features.
+     
+     IMPRESSION:  Evidence of pulmonary edema possibly due to fluid overload or
+     cardiac failure.
+
+",,
+24790,12593,30777,0,2686-11-05 04:30:00 EST,2686-11-05 04:34:00 EST,4232,"N",53,"Nursing/Other",,"
+
+NPN:
+
+Neuro: agitated intially. Haldol w/ good effect. pt follows commands and is appropriate. He is oriented x2. 
+
+Resp: brief episode of wheezing w/ SVT, otherwise clear throughout lung fields. 2L NC. O2 sats 95%
+
+CV: remains on nipride to keep SBP < 160
+
+GU: foley to gravity. good uo
+
+GI: + BS, no BM, 
+
+skin: primary head dressing needs to be changed. JP intact, minimal drainage. No breakdown on sacral area.
+",,
+24790,12593,30777,0,2686-11-05 15:05:00 EST,2686-11-05 15:07:00 EST,3492,"N",53,"Nursing/Other",,"
+
+Resp.care note - Pt. intubated with # 8 OET 23 at the lip, placed on the vent, bilt BS present.
+",,
+24790,12593,30777,0,2686-11-05 15:47:00 EST,2686-11-05 16:15:00 EST,4190,"N",53,"Nursing/Other",,"
+
+Event Note:
+
+AT approximately 1240 pt developed rapid SVT in 160s and was currently sleeping, BP into the 200s. Pt awoken and given HAldol given no effect. 5 mg lopressor was given with a brief break in SR then immediately back into rapid SVT 130s-160s. Pt extremely agitated, sats dropping, placed on 100% non rebreather, STAT ABG pbtained. MOre Haldol and Lopressor given. Trauma SICU attending called to bed side and remained. Midaz given. Pt appeared to be having a seizure but was communicating. Pt more and more tachypneic. STAT EKG, CXR obtained. Pt very fidgety, picking at everything. HR dropped into the 50s into a Junctional BRady with PVCS. Hr dropped, unable to obtain via NBP. PAlpable BP obtained Syst 90. Dopamine started/ NIPride off, FLuid given, PT bagged and rapidly intubated. Right subclavian triple lumen obtained and CXR verified placement, and left femoral ALINE placed and zeroed. 
+
+Review of systems: 
+
+NEURO:  Prior to event pt was communicating with garbled speech, MAE X 4, good strength. PERRL, followed commands consistently. Was restrained both arms soft wrist for pt safety, picking at lines. After event pt sedated on 60 mcg/kg/min of propofol. Pt withdraws all 4 extremites to nailbed pain. Pupils are 2mm/bsk and equally reactive. +gag, +cough, +corneals.
+
+CV: Prior to event pt in a NSR with occasioinal PVCS. DUring event pt increased into a rapid SVT 160s. After even pt in a Junctional Brady to JR 50s-60s with occasional PVCS. Arterial line in left femoral artery with good waveform. Goal to keep systolic between 110-140s. BP has been very labile since event going up and down on the dopamine for pressure support. DP/PT pulses present bilaterally and weak to palpation. Skin is warm to touch. Pt received Metoprolol and takes Digoxin. MIVF at 60/hour.
+
+PUlmonary: prior ot event pt was on RA with sats 95-98%. During event pt became more tachypneic and sats decreased. Currently pt intubated on SIMV mode: 600 x 14, 50%, 5 of PS. O2 sats 99%, not overbreathing vent. Lung sounds are clear to coarse bilaterally. Good cough. Suctioning returns small thin secretions. ABGS show adequate oxygenation, see labs for details.
+
+GI: Belly is soft, nontender, + BS. NPO
+
+GU: Foley patent to gravity, adequate UOP. 
+
+Heme: Crit stable see labs for details.
+
+ID: Afebrile, started on Oxacillin.
+
+Social: Family in prior to event. Post event another family member visited and was updated by trauma attending.
+
+Plan: To go to CT this afternoon, To Angio, COntinue to titrate Dopa to maintain adequate syst BP, Monitor sedation, follow Neuro exam, Follow and replenish lytes.
+
+
+",,
+24790,12593,30777,,2686-11-06 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2686-11-6**] 10:39 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 6098**]
+     Reason: SVT, Respiratory Distress, linical coorelation with previous
+     Admitting Diagnosis: SUBDURAL HEMATOMA;TELEMETRY
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+         [**Age over 90 **] year old man with subdural hematoma                                       
+           
+     REASON FOR THIS EXAMINATION:
+      SVT, Respiratory Distress, linical coorelation with previous xray               
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Respiratory distress in patient with subdural hematoma.
+     
+     PORTABLE CHEST:  Comparison made to film from one day earlier. The ET tube and
+     left IJ central venous catheter remain in satisfactory position. The cardiac
+     and mediastinal contours are unchanged.
+     
+     Hazy areas of increased density persist at both lung bases, suggesting
+     bilateral pleural effusions. Note that these limit evaluation of the lung
+     parenchyma at the lung bases for a superimposed pneumonia. More cephalad
+     portions of each lung appear to be relatively clear, without overt CHF or
+     pneumonia.
+     
+     IMPRESSION:   Persistent bilateral pleural effusions.
+
+",,
+24790,12593,30777,,2686-11-06 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+",,
+24790,12593,30777,0,2686-11-06 13:46:00 EST,2686-11-06 14:15:00 EST,4280,"N",53,"Nursing/Other",,"
+
+NURSING NOTE 7A-7P  Review of Systems.
+NEURO:  Propofol infusing at 50mcg/kg/min and tol well.   Propofol stopped at 0830 AM for Neuro exam and resumed shortly after exam.  Patient moving lower extrem on bed while propofol off.  Squeezing left hand to command. PERLA. Head Dsg intact no drainage noted. 
+RESP:  Vent setting unchanged continues on SIMV FiO2 40%, rate 12, VT 600, PEEP 5 and PS 5. Lung sounds clear suctioned scant to no secretions. Sats stable at 100%.
+C/V:  SR rate in the 70's -85 with frequent ectopy. 0900  showed SVT rate greater then 150, EKG done, CXR obtained results pending. Diltiazem increased to 8mg/hr. Continue to titrate both Nipride and Levophed to maintain SBP 150-170.  Currently Levophed infusing at .07mcg/kg/min, Nipride off. IVF infusing 40-60/hour for total intake of 80/hr. Cardio consult for today, SVT and labile BP. 
+GI/GU:  No feeding tube placed, positive BS, no stools this shift. Foley patent draining clear yellow urine.
+ENDO:  FS blood sugar stable, 113 and 130.
+ID:  Tmax 99.4, continues on Oxcillin. 
+SOCIAL:  One niece of patients into visit, others have called updates given.  More relatives expected to come vissit tomorrow.     
+",,
+24790,12593,30777,,2686-11-07 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2686-11-7**] 10:30 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 6099**]
+     Reason: eval s/p feeding tube placement                             
+     Admitting Diagnosis: SUBDURAL HEMATOMA;TELEMETRY
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+          [**Age over 90 **] year old man with subdural hematoma                                      
+             
+     REASON FOR THIS EXAMINATION:
+      eval s/p feeding tube placement                                                 
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Feeding tube placement.
+     
+     PORTABLE CHEST:  Comparison is made to film from one day earlier. The ET tube
+     and central venous catheter are in satisfactory position. The tip of the new
+     feeding tube is not included on the film but is below the level of the left
+     hemidiaphragm.
+     
+     Cardiac and mediastinal contours are stable. Hazy increased density persists
+     at both lung bases without change from yesterday.
+     
+     IMPRESSION: New feeding tube tip below left hemidiaphragm.
+
+",,
+24790,12593,30777,0,2686-11-07 03:19:00 EST,2686-11-07 03:29:00 EST,3806,"N",53,"Nursing/Other","RESPIRATORY CARE:","
+RESPIRATORY CARE:
+PT. REMAINS ON UNCHANGED VENT SETTINGS>>ABG WELL OYGENATED WITH A NORMAL RANGE ACID-BASE.  WHEN SEDATION WAS DECREASED (FOR ATTEMPT TO CHGANGE PATIENT TO PS VENTILATION), PT. BECAME HYPERTENSIVE, AND HAD TOTAL PATIENT/VENTILATOR DYSYNCHRONY (DISPLAYING SIGNIFICANT, GRAPHICAL AUTO-PEEP, GASPING TYPE RESP. PATTERN, AND INCREASED ACCESORY MUSCLE USEAGE).  RSBI ATTEMPTED, WAS 188 (AT THIS TIME)>> RR-32, VT-170CC.  PATIENT MAY REQUIRE QUICK D/C OF SEDATION, AND RAPID EXTUBATION (RATHER THAN WEAN OF VENT SUPPORT).
+",,
+24790,12593,30777,0,2686-11-07 03:51:00 EST,2686-11-07 04:01:00 EST,3479,"N",53,"Nursing/Other","TSICU NURSING PROGRESS NOTE","
+TSICU NURSING PROGRESS NOTE
+
+REVIEW OF SYSTEMS:
+
+NEURO: DIFFICULT TO KEEP OFF SEDATION.. HTN AND
+       UNABLE TO VENTILATE.  BUT ABLE TO FOLLOW
+       SIMPLE COMMANDS. WIGGLED BILAT TOES.
+       SQUEEZES LEFT HAND.  DIFFICULT TO ASSESS
+       RIGHT HAND.   SEDATED ON PROPOFOL.
+       DILANTIN TID...LEVEL 11 TODAY.
+
+CV:    HR 60-90 JUNCTIONAL.  DILTIAZEM DRIP UP/DOWN
+       TO KEEP HR DOWN.   BP REMAINS LABILE DEPENDING
+       ON LEVEL OF ALERTNESS.  QUICKLY GOES TO
+       250/ WHEN LIGHT..DIFFICULT TO GET DOWN EVEN
+       WITH NIPRIDE UP QUICKLY.      LYTES REPLETED.
+       IV DIGOXIN/ PO VERAPAMIL/PO LISINIPRIL D/C'D
+       PER CARDIOLOGY RECOMMENDATIONS.  
+       ? PACEMAKER NEEDED PER CARDIOLOGY.
+
+RESP:  UNABLE TO TOLERATE BEING ""LIGHT"" AND VENTILATED.
+       PAP'S UP.  LARGE AUTOPEEP.  RSBI TODAY 188.
+       UNABLE TO GET IN SYNC WITH VENT....RESEDATED.
+       THICK TENACIOUS WHITE/YELLOW SECRETIONS.
+
+RENAL: LABS WNL.  LOW UO. MD AWARE.
+
+GI:    REMAINS NPO.  NO NGT.  IV FAMOTIDINE.
+       NO BM.
+
+HEME:  HCT 34.  PLT/COAGS WNL.   BOOTS ON.
+
+ENDO: BS 120-140...NO SLIDING SCALE ORDERED.
+
+ID:   LOW GRADE TEMP.  WBC UP TO 14.
+      IV OXACILLIN GIVEN.
+
+SKIN: GROIN PINK...POWDER APPLIED.
+      RIGHT ELBOW DSD INTACT WITH TEGRADERM.
+      BACK AND BUTTOCKS INTACT.
+
+SOCIAL: NEPHEW TALKED TO CARDIOLOGY.
+
+A: UNSTABLE.
+P: WAKE. BP/HR CONTROL.  RECOMMENDATIONS PER 
+   CARDIOLOGY.  QUICK EXTUBATION WHEN ABLE.
+   FOLLOW UO.  DISCUSS NUTRITION/? NGT.
+   ? SLIDING SCALE.   DISCUSS CODE STATUS
+   WITH FAMILY.
+",,
+24790,12593,30777,0,2686-11-07 14:44:00 EST,2686-11-07 15:28:00 EST,4280,"N",53,"Nursing/Other",,"
+
+NURSING NOTE 7A-7P Review of Systems:
+NEURO:  Propofol off for short periods of time during neuro exams. Eyes open slightly to voice, PERL. Moves all extremities to command. Placed back on Propofol at 20mcg/kg/min after NEURO exam. Dsg on head remains CDI.
+RESP: Vent settings changed to CPAP 5PEEP and 10 PS.  ABG after one hour= 7.37-40-116. Suctioned scant to small amts clear to yellow secretions. Lung sounds clear to diminished on the Rt side O2 Sat 99%.
+GI/GU: Abd soft nontender positive BS no stool this shift.  OG #7 FRENCH feeding tube placed by MD.  Placement confirmed by CXR. Feedings started full strength Impact with fiber at 10cc/hr tol well, increased to 30cc/hr after no residual found.  Foley patent draining clear yellow urine.
+C/V: SR rate 80's-90's with frequent PVC's. Multi lument intact Left IJ, Aline intact Left Fem.  Nipride titrated to keep SBP less than 180, currently on .25mcg/kg/min with BP 158/64. Continues on Diltizem at 5mg/hourEP consult done by Dr [**Last Name (STitle) 507**] recommendations agree with that of Dr. [**Last Name (STitle) 5041**], EP studies with ablation to potentially cure SVT without need of pacer.
+ENDO/ID: FS= 113 no insulin given, Oxacillin D'cd today.
+SOCIAL:  Family members into visit today.  Dr [**Last Name (STitle) 507**] [**Name (STitle) 5042**] pt condition at length with family members, recommendations explained and discussed with family. Final decision and plans to be addressed tommorrow for possible Tuesday intervention. Presently remains FULL CODE.     
+",,
+24790,12593,30777,0,2686-11-07 15:10:00 EST,2686-11-07 15:11:00 EST,3492,"N",53,"Nursing/Other",,"
+
+Resp. care note - Pt. remaines intubated and vented, weaned to psv, toll ok at this time.
+",,
+24790,12593,30777,,2686-11-08 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+",,
+24790,12593,30777,0,2686-11-08 04:20:00 EST,2686-11-08 04:50:00 EST,4324,"N",53,"Nursing/Other","s/p r sdh; t/sicu npn 7p-7a","
+s/p r sdh; t/sicu npn 7p-7a
+s: pt is intubated
+
+review of systems
+
+neuro: 
+
+pt difficult to keep off sedation. htn and unable to ventilate; off sedation periodically; able to follow simple commands. squeezes and releases in ue's. pt wiggles toes bilaterally. Pt on propofol, trending 50==>20 then back up from 20-->50 to keep bp stable. dph level done.
+
+cv:
+
+hr 60-110 sr->st with ?1st degree av block. diltiazem drip up/down; currently at 15 to keep hr<130. levo off/on titrate to keep sbp between 120-170. bp remains labile depending on level of alertness. pt quickly jumps to 180 while light..continue to titrate propofol to desired bp. ? pacemaker needed per cardiology.
+
+resp:
+
+unable to tolerate being ""light"" and vented. vent changed to simv 0.40% 600X12, 5 PEEP, 10PS. pt with large autopeep. pt sxn for thick yellow secretions X 2. ls coarse in upper lobes and dimimished at the bases. o2 sats 99-100%.
+
+gu: pt on tube feeding; impact with fiber to a goal rate of 70. +tube placement, no residual, tf at 60 currently. abd soft nt/nd bs hypoactive.  pt on famotidine IV.
+
+heme: plt/coags wnl's. compression boots on.
+
+endo: no ss. last bs 132
+
+id: pt t max 101.3. pt continues to trend down to 99.4. pt not on abx prophylaxis. no blood cultures ordered. if t>101.4 draw bcX2.
+
+skin: groin pink..powder applied. right elbow with tegaderm. back and buttocks intact. dsd intact on right side of head. pt repositioned every 2 hours.
+
+social:no visitors tonight.
+
+a: alteration neuro status r/t right sdh
+
+p: bp/hr control,vs,monitor I&O vent/orders, monitor fever curv assess neuro status q shift, monitor sedation/bp control.
+
+   
+ 
+
+
+",,
+24790,12593,30777,0,2686-11-08 05:38:00 EST,2686-11-08 05:40:00 EST,3928,"N",53,"Nursing/Other",,"
+
+PT  placed on IMV due to the icrease of apnea this PM , will attempt wean again in AM
+",,
+24790,12593,30777,0,2686-11-08 15:06:00 EST,2686-11-08 15:08:00 EST,3568,"N",53,"Nursing/Other",,"
+
+RESP. CARE NOTE
+PT REMAINS INTUBATED AND VENTED ON SETTINGS AS PER RESP. FLOWSHEET OF CAREVUE. NO VENT CHANGES MADE SO FAR THIS SHIFT. PT TRANSPORTED TO CATH LAB FOR ABLATION. CONSIDER WEANING FROM VENT AFTER PROCEDURE AND WHEN CVS MORE STABLE. 
+",,
+24790,12593,30777,0,2686-11-08 16:36:00 EST,2686-11-08 16:40:00 EST,3479,"N",53,"Nursing/Other","TSICU NURSING PROGRESS NOTE","
+TSICU NURSING PROGRESS NOTE
+
+REVIEW OF SYSTEMS:
+
+NEURO: WHEN LIGHT FOLLOWS COMMANDS...BUT QUICKLY BECOMES
+       ANXIOUS... FIGHTS VENT/^ AUTOPEEP/ BP 250/
+       RESEDATED WITH PROPOFOL.
+       DILANTIN TID IV.  LEVEL 11.1 YEST.
+
+CV:    HR UP TO 140'S WITH DILT DRIP OFF X1 HOURS THIS
+       AM.    WEANED TO OFF LATER IN DAY. WITH STABLE.
+       HR 60-90 JUNCTIONAL.  BP LABILE.  NIPRIDE OFF/ON
+       THRU DAY.  NO LEVO NEEDED TODAY.
+
+RESP:  NO VENT CHANGES.
+
+RENAL: LABS WNL. BORDERLINE UO.
+
+GI:    TUBE FEEDS AT GOAL..HELD FOR EPS STUDY.
+       NO BM.   IV FAMOTIDINE.
+
+HEME:  LABS STABLE.  SC HEPARIN TO BEGIN.
+       BOOTS ON.
+
+ENDO:  BS 160..SLIDING SCALE ORDERED.
+
+ID:    LOW GRADE TEMPS.  WBC STABLE.
+       IV LEVOFLOXACIN TO BEGIN FOR WORSENING CXR.
+
+SKIN:  ALL OVER RED SPLOTCHES...THIGHS/L CHEST/BACK.
+       MD'S INFORMED..BUT DID NOT SEE RASH.
+
+SOCIAL: FAMILY CALLED IN AM FOR UPDATE.
+
+A: UNSTABLE HR.
+P: EPS STUDY TODAY.  WEAN TO EXTUBATE.
+",,
+24790,12593,30777,0,2686-11-09 03:12:00 EST,2686-11-09 03:30:00 EST,3259,"N",53,"Nursing/Other","SICU NPN","
+SICU NPN
+Pt returned from cath lab approx 1830 s/p ablation. Pt stable overnight, sedated on propofol.
+
+ROS:
+Neuro: Pt sedated on propofol most of night, propofol off occasionally to do full neuro assessment, however restarted each time due to pt not tolerating vent and unstable BP (high). Pt wakes to voice, off of propofol will MAE and follow commands. Extremities weak but equal. Pupils 3-4mm and briskly reactive, pt with strong cough and gag.  Pt continues on dilantin, no siezure activity noted, levels to be drawn in AM.  Incisions CD+I with staples.
+
+Resp: Pt kept intubated overnight, remains on vent. Lungs coarse, dimished in bilateral bases. Pt suctioned for large ammts thick yellowish tan sputum. ETT rotated and retaped.  ABG adequate. Pt overbreathing vent when awake, then begins to auto-peep, unable to ventilate so propofol kept on.
+
+CV: Per report from cath lab, pt with AV ablation with success, no need for pacer [**Name6 (MD) 59**] cardiology MD.  HR 70-80's all night, no ectopy noted.  Pt had R groin approach in angio, site CD+I with bandaid. L groin with a-line, site also intact.  R IJ TLC site intact, pt with 1 periph IV. Extremities warm with palpable pulses. Pt continues on p-boots, SC heparin for DVT prophylaxis.  Nipride gtt on and off to maintain SBP <180. 
+
+GI: Abd soft, +flatus -BM tonight.  Good BS throughout. TF resumed via oral pedi feeding tube. Pt continues on pepcid.
+
+GU/renal: Pt with adequate u/o via foley catheter, urine sl cloudy but beginning to clear up. Lytes repleted PRN.IVF at KVO.
+
+Endo: SSI, see flowsheet for coverage details.
+
+ID:Low grade temps, no new culture data. Pt started on IV levoflox.
+
+Social: No family contact overnight
+
+A: Stable s/p ablation
+
+P: Consider wean/extubate today once cleared by team. Cont with current monitoring parameters.
+",,
+24790,12593,30777,0,2686-11-09 04:59:00 EST,2686-11-09 05:01:00 EST,3928,"N",53,"Nursing/Other",,"
+
+pt maintained on IMV throughout PM, no changes, sx'd for moderate amounts of secretions
+",,
+24790,12593,30777,0,2686-11-09 09:42:00 EST,2686-11-09 09:55:00 EST,4275,"N",53,"Nursing/Other",,"
+
+resp care:pt extubated per order w/o incident and placed on 50% cool aerosol.sats being maintained at 98-100% with no resp distress noted,will cont to monitor.
+",,
+24790,12593,30777,0,2686-11-09 16:48:00 EST,2686-11-09 16:53:00 EST,3479,"N",53,"Nursing/Other","TSICU NURSING PROGRESS NOTE","
+TSICU NURSING PROGRESS NOTE
+
+REVIEW OF SYSTEMS:
+
+NEURO: EXTUBATED..FOLLOWS COMMANDS.  WEAK VOICE...
+       DIFFICULT TO HEAR.  NODS YES/NO APPROP.
+       RECOGNIZED NEICE... SOME AGITATION BEGINNING
+       AROUND 5:30 PM...LIFTED OOB TO CHAIR..AND
+       CALMER NOW.   IV DILANTIN   LEVEL 12.
+
+CV:    HR CREEPING UP TODAY.  90-110 JUNCTIONAL 
+       BP STABLE...UP TO 230/ BRIEFLY WITH AGITATION
+       ...BUT SPONTANEOUSLY DOWN.
+
+RESP:  FACE TENT WITH GOOD SATS.  STRONG PROD
+       COUGH.  TURNS BRIGHT RED (ALSO DID ON VENT)
+       ...ABLE TO EXPECTORATE.
+
+RENAL: LABS WNL.  GOOD UO.
+
+GI:    TAKING WATER WITH  NO PROBLEMS.
+       IV FAMOTIDINE.  NO BM.
+
+HEME:  LABS STABLE.  BOOTS/SC HEPARIN.
+
+ENDO:  NO INSULIN PER SLIDING SCALE.
+
+ID:    LOW GRADE TEMPS.  IV LEVOFLOXACIN.
+
+SKIN:  HEAD INCISIONS INTACT.
+       RED BLOTCHY RASH CONTINUES...SEEN BY SICU MDS.
+       ? DERM CONSULT.
+
+SOCIAL: NEICE VISITED.
+
+A: STABLE S/P EXTUBATION.  SOME AGITATION.
+P: FOLLLOW RESP STATUS.  FOLLOW FOR AGITATION.
+",,
+24790,12593,30777,0,2686-11-09 22:50:00 EST,2686-11-09 23:06:00 EST,3892,"N",53,"Nursing/Other","7pm-11pm update","
+7pm-11pm update
+neuro: PT alert. pt with soft voice. orientated to name only. PERRL. able to MAE and follow commands. continues on dilatin. pt aggitated this evening -> picking at leads and trying to climb out of the chair -> treated with haldol
+
+CV: pt with bursts of ? svt vs ST (self limiting) -> HR 120's -> BP stable with rhythm. lytes treated. Dr [**Last Name (STitle) **] aware. pt initally in afib -> now NSR/ST. nipride gtt restarted for SBP in the 200's. nipride gtt currently at 0.4 mcg/kg/min. nipride gtt titrated to keep SBP < 170/180's. pp palpable
+
+resp: LS coarse with dim bases. continues on 50% face tent + 4 L nc -> o2 sats 95-100%. pt with productive cough. ABG WNL (see flowsheet)
+
+gi/gu: pt with + BS. tolerated sips of water. foley draining yellow urine with sediment
+
+endo: bs wnl
+
+id: T max 99.4 orally. continues on leovfloxacin
+
+plan: monitor neuro status, monitor rhythm, replace lytes prn, pulm toliet, continue antibiotics
+",,
+24790,12593,30777,0,2686-11-10 04:58:00 EST,2686-11-10 05:09:00 EST,3144,"N",53,"Nursing/Other","S/P EVAC SDH-T/SICU NPN 11P-7A","
+S/P EVAC SDH-T/SICU NPN 11P-7A
+S-""[**Known patient firstname **]""
+O-NEURO-PT A+O X [**1-28**],NAME + HOSPITAL X 1,PEERLA 3MM,PT MAE'S CONSISTENTLY FOLLOWS SIMPLE COMMANDS,STRONG COUGH + GAG,RESTLESS OFF + ON,HALDOL 3MG IV OVER NOC.
+CV-PT REMAINS ON SNP GTT .8-1.4 MCG/KG/MIN,GOAL SBP <180,SBP RANGE 130-200'S.SEE FLOWSHEET FOR ADDITIONAL DETAILS.
+RESP-PT LS COARSE TO DECREASED BASES,CURRENTLY ON 50% FT O2 SATS 95-100%.RR 28-32,NARD.PT EXPECTORATING THICK YELLOW/TAN SPUTUM.
+GI/GU-PT ABD SOFTLY DIST +HYPOACTIVE BS,NO PO'S OVER NOC,U/O ADEQ AMTS SEDIMENTY YELLOW URINE VIA FOLEY.
+SKIN-NO NEW ISSUES NOTED.
+SOC-NO FAMILY CONTACT OVER NOC.
+ENDO-BS 110
+ID-AFEBRILE,LEVOFLOX BEGAN [**11-9**].
+A-ALT MS S/P EVAC SDH.
+P-CONT NEURO CHECKS,VS,ANTIHYPERTENSIVES/ORDERS,MONITOR EFFECT,O2 PRN,I+O,MONITOR SKIN INTEGRTI QS + PRN.
+",,
+24790,12593,30777,0,2686-11-10 14:22:00 EST,2686-11-10 14:38:00 EST,1119,"N",1,"Nursing/Other",,"
+
+
+DNR/DNI       Universal Precautions      NKDA
+
+
+Neuro:  Pt awakens w/ verbal stim,  follows commands consistently. answers ? approp - not holding a conversation, but answers w/ short responses.  More alert when he was sitting in the chair.  Voice - whispers and sometimes difficult to understand.  Seen by OT and pt not able to simple task such as ""comb your hair"".  He was able to raise his arm to his head, but not complete the task.  OOB to chair w/ stand and pivot - he did weight bear w/ 2 assist, but didn't move his legs to  move toward the chair (BTB via slideboard as he was too weak/unsteady to stand).  Took custard w/ his pill ok, as well as sips of H20 w/ no coughing/choking.  Not able to feed himself. Family in - niece and nephew. They state that pt was independent and working at a local fruit and vegetable farm prior to the fall.  Given pt's age, they decided on DNR/DNI status.
+
+Cardiac:  Nipride gtt off since 2pm and hydralazine 25mg po TID had been started.  BP since has been 140s/60s.  HR=80-90s, up to 100s when in chair.  1st degree AVB w/ LBBB w/ freq PACs.  No SVT noted.  If pt had episodes of SVT, plan is for EP to see him again.  +periph pulses, no edema, extrems warm. 
+
+Resp:  50% FT on in am - changed to 6l n/p when up in chair and continued to sat high 90s.  Down to 5l at this time.  Lungs very diminished bilat.  Good cough effort - non-productive.
+
+GI/GU:  Abd soft, non-tender, +BS, no BM.  Took cup of custard and sips H20 w/ crushed pill.  May have house diet.  Foley cath w/ yellow urien w/ sediment.   u/o=50-80cc/hr.
+
+Pain:  pt denies any pain.
+
+Anitbx:  afebrile - levaquin.
+
+Skin:  rash remains on torso, back and thighs.  Head incision/staples intact.  
+
+Access:  L fem a-line d/c'd prior to OOB.  LIJ TLC intact.
+
+Social:  Niece and nephew in to see pt - updated on pt's status.
+
+Plan:  If pt stable off nipride, may tx to floor.  Continue to monitor neuro/cardiac/resp status.  
+
+",,
+24790,12593,30777,0,2686-11-11 04:30:00 EST,2686-11-11 04:37:00 EST,507,"N",1,"Nursing/Other",,"
+
+CCU NURSING PROGRESS NOTE 11P-7A
+
+S/O: NEURO: Pt alert and awake most of the night. Will claps his hands to get attention when he wants something. Able to state his name, the year and that he was in the hospital. PERL. MAEs.
+
+RESP: LS with bibasilar rales. Sats 97% on 6L NC.
+
+CARDIAC: BP 130-160's/70  HR 90-100s 1st degree AVB with occasional PACs. Has been off nipride gtt since last evening. Tolerating po hydralazine.
+
+GI: Abd soft NT. +BS. Requesting something to eat overnight-> tolerated [**Location (un) 395**] crackers. Passing gas-> small amt brown smearing noted on pad.
+
+GU: foley in place draining clear yellow urine. 
+
+ID: T mas 99.8 po. WBC up to 12.4 (11) this morning. Pt conts on po levoquin.
+
+A: Neuro status stable. Hemodynamically stable off of nipride gtt.
+P: cont to follow q 4hr neuro checks. Pt most likely will get called out to floor this am.
+",,
+24790,12593,30777,0,2686-11-11 17:00:00 EST,2686-11-11 17:21:00 EST,40,"N",1,"Nursing/Other","TSICU NPN","
+TSICU NPN
+NPN 0700-1900
+
+neuro: awake, alert oriented x3. speech slightly garbled but makes himself understood. MAE, upper extremeties stronger. PERL,Staples in scalp d/i 
+cv: hr 80-low 100's 1st deg av block, bp 130-160/50-70
+resp: sats 96-98% on 6lnp, 90% on RA, strong cough, non productive.
+diminished BS
+GI: good appitite, needs assistance eating, OB - bm.
+GU: foley draining cl yellow urine QS
+id: low grade temp this am, afebrile this afternoon
+end: bs 130 at 1700 covered per RISS
+activity: OOB to chair w/ 2 assists, tolerated well
+social: neice in to visit this afternoon, Pt is DNR/DNI
+A: improving neuro status s/p subdural hematoma
+P: monitor neuro status, ^ activity call out to VICU
+",,
+24790,12593,,,2686-11-15 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2686-11-15**] 12:24 PM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 6100**]
+     Reason: [**Age over 90 **] yr male s/p evacuation of right subdural hematoma please 
+     Admitting Diagnosis: SUBDURAL HEMATOMA;TELEMETRY
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+         [**Age over 90 **] year old man with                                                         
+           
+     REASON FOR THIS EXAMINATION:
+      [**Age over 90 **] yr male s/p evacuation of right subdural hematoma please assess              
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  [**Age over 90 **]-year-old male S/P evacuation of right subdural hematoma.
+     
+     COMPARISONS:  [**2686-11-5**] and [**2686-11-4**]
+     
+     TECHNIQUE:  Non-contrast head CT
+     
+     CT HEAD WITHOUT CONTRAST:  There has been interval removal of right subdural
+     catheter.  The pneumocephalus seen on the prior study within the right
+     subdural space is no longer present without signs of any new intracranial air.
+     There remains a right subdural fluid collection which has become more
+     hypoattenuated when compared to previous exam. This is consistent with
+     degradation of blood products.  The overall size of the subdural hematoma on
+     the right is unchanged. The mass effect upon the right parietal lobe is also
+     unchanged.  There is also a hypodense crescentic area over the left
+     frontal/parietal lobe which is unchanged from the previous exam, and most
+     likely represents a left-sided subdural hematoma.  There is no evidence of
+     hydrocephalus or shift of normally mid-line structures.  There are no new
+     hemorrhages or intracranial mass lesions.  The periventricular small vessel
+     ischemia, as well as an old lacunar infarct within the right thalamus is
+     unchanged.  Burr holes are seen within the left frontal and parietal bones.
+     The rest of the surrounding osseous and soft tissue structures are
+     unremarkable.
+     
+     IMPRESSION:  Interval removal of right subdural catheter and resorption
+     of pneumocephalus.  Stable appearance in right subdural hematoma, and stable
+     appearance in what most likely represents a left-sided subdural hematoma.
+     
+     
+     
+
+",,

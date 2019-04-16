@@ -1,0 +1,501 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+24214,,,,3258-08-22 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3258-8-22**] 8:11 PM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 426**]
+     CT RECONSTRUCTION; CT 150CC NONIONIC CONTRAST
+     Reason: r/o obstruction, masses,?bowel ischemia
+     Field of view: 30 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      67 year old woman with abd pain, 3 weeks s/p abdom [**Hospital Unit Name 427**], on chemo for CA
+     REASON FOR THIS EXAMINATION:
+      r/o obstruction, masses,?bowel ischemia
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CT OF THE ABDOMEN [**3258-8-22**].
+     
+     INDICATION:  History of metastatic ovarian cancer status post resection.
+     Abdominal pain.
+     
+     TECHNIQUE:  Multiple axial images of the abdomen and pelvis were obtained
+     after the administration of intravenous and oral contrast.  Coronally
+     reformatted images were created.
+     
+     CONTRAST:  150 cc of Optiray were administered intravenously due to the
+     patient's debility; there were no complications.
+     
+     CT OF THE ABDOMEN WITH INTRAVENOUS CONTRAST:  There are no pleural effusions.
+     A focal opacity at the posterior right lung base is adjacent to what appears
+     to be a metastatic lesion invading the liver capsule; this lesion probably
+     extends through the diaphragm.  Several similar low attenuation lesions with
+     peripheral enhancement are seen studding the surface of the liver.  There is
+     an NG tube within the contrast filled stomach.  Contrast fills a nondilated
+     proximal small bowel.  A prominent dilated loop of small bowel is seen in the
+     lower abdomen adjacent to the bladder, containing fecal-like material.  There
+     is abrupt narrowing of one end of this small bowel loop adjacent to a
+     peripherally enhancing metastatic deposit within the mesentery.  Several other
+     dilated small bowel loops are seen nearby.
+     
+     Innumerable large and small peripherally enhancing nodules are dispersed
+     throughout the mesentery and adjacent to bowel loops.  The periphery of the
+     spleen also contains multiple round peripherally enhancing lesions consistent
+     with metastases.  The pancreas and kidneys are normal in appearance.  Several
+     enhancing lesions within the para-aortic retroperitoneum may represent
+     metastatic nodes or masses.  The large bowel is dilated to a point just
+     proximal to the ostomy.  There is a small amount of ascites within the
+     abdomen.  No free air is seen within the abdomen.
+     
+     CT OF THE PELVIS WITH INTRAVENOUS CONTRAST:  There is a large heterogeneously
+     enhancing presacral mass which lies anterior to the Hartmann's pouch.
+     
+     Coronally reformatted images confirm the above findings.
+     
+     BONE WINDOWS:  No lytic or blastic lesions are seen.
+     
+                                                                 (Over)
+
+     DATE: [**3258-8-22**] 8:11 PM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 426**]
+     CT RECONSTRUCTION; CT 150CC NONIONIC CONTRAST
+     Reason: r/o obstruction, masses,?bowel ischemia
+     Field of view: 30 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     IMPRESSION:
+     1.  Diffuse mesenteric and retroperitoneal enhancing metastatic nodules.
+     Multiple nodules cover the surface of the liver and spleen.
+     2.  Dilated large bowel and dilated, fecalized distal small bowel; adjacent to
+     abruptly narrowed small bowel is an enhancing peritoneal implant, possibly
+     causing obstruction . The proximal small bowel is decompressed.
+     3.  Large conglomerate presacral enhancing mass compressing the Hartmann's
+     pouch.
+     
+     
+
+",,
+24214,,,,3258-08-22 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3258-8-22**] 8:11 PM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 426**]
+     CT RECONSTRUCTION; CT 150CC NONIONIC CONTRAST
+     Reason: r/o obstruction, masses,?bowel ischemia
+     Field of view: 30 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      67 year old woman with abd pain, 3 weeks s/p abdom [**Hospital Unit Name 427**], on chemo for CA
+     REASON FOR THIS EXAMINATION:
+      r/o obstruction, masses,?bowel ischemia
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CT OF THE ABDOMEN [**3258-8-22**].
+     
+     INDICATION:  History of metastatic ovarian cancer status post resection.
+     Abdominal pain.
+     
+     TECHNIQUE:  Multiple axial images of the abdomen and pelvis were obtained
+     after the administration of intravenous and oral contrast.  Coronally
+     reformatted images were created.
+     
+     CONTRAST:  150 cc of Optiray were administered intravenously due to the
+     patient's debility; there were no complications.
+     
+     CT OF THE ABDOMEN WITH INTRAVENOUS CONTRAST:  There are no pleural effusions.
+     A focal opacity at the posterior right lung base is adjacent to what appears
+     to be a metastatic lesion invading the liver capsule; this lesion probably
+     extends through the diaphragm.  Several similar low attenuation lesions with
+     peripheral enhancement are seen studding the surface of the liver.  There is
+     an NG tube within the contrast filled stomach.  Contrast fills a nondilated
+     proximal small bowel.  A prominent dilated loop of small bowel is seen in the
+     lower abdomen adjacent to the bladder, containing fecal-like material.  There
+     is abrupt narrowing of one end of this small bowel loop adjacent to a
+     peripherally enhancing metastatic deposit within the mesentery.  Several other
+     dilated small bowel loops are seen nearby.
+     
+     Innumerable large and small peripherally enhancing nodules are dispersed
+     throughout the mesentery and adjacent to bowel loops.  The periphery of the
+     spleen also contains multiple round peripherally enhancing lesions consistent
+     with metastases.  The pancreas and kidneys are normal in appearance.  Several
+     enhancing lesions within the para-aortic retroperitoneum may represent
+     metastatic nodes or masses.  The large bowel is dilated to a point just
+     proximal to the ostomy.  There is a small amount of ascites within the
+     abdomen.  No free air is seen within the abdomen.
+     
+     CT OF THE PELVIS WITH INTRAVENOUS CONTRAST:  There is a large heterogeneously
+     enhancing presacral mass which lies anterior to the Hartmann's pouch.
+     
+     Coronally reformatted images confirm the above findings.
+     
+     BONE WINDOWS:  No lytic or blastic lesions are seen.
+     
+                                                                 (Over)
+
+     DATE: [**3258-8-22**] 8:11 PM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 426**]
+     CT RECONSTRUCTION; CT 150CC NONIONIC CONTRAST
+     Reason: r/o obstruction, masses,?bowel ischemia
+     Field of view: 30 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     IMPRESSION:
+     1.  Diffuse mesenteric and retroperitoneal enhancing metastatic nodules.
+     Multiple nodules cover the surface of the liver and spleen.
+     2.  Dilated large bowel and dilated, fecalized distal small bowel; adjacent to
+     abruptly narrowed small bowel is an enhancing peritoneal implant, possibly
+     causing obstruction . The proximal small bowel is decompressed.
+     3.  Large conglomerate presacral enhancing mass compressing the Hartmann's
+     pouch.
+     
+     
+
+",,
+24214,,,,3258-08-22 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3258-8-22**] 8:11 PM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 426**]
+     CT RECONSTRUCTION; CT 150CC NONIONIC CONTRAST
+     Reason: r/o obstruction, masses,?bowel ischemia
+     Field of view: 30 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      67 year old woman with abd pain, 3 weeks s/p abdom [**Hospital Unit Name 427**], on chemo for CA
+     REASON FOR THIS EXAMINATION:
+      r/o obstruction, masses,?bowel ischemia
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CT OF THE ABDOMEN [**3258-8-22**].
+     
+     INDICATION:  History of metastatic ovarian cancer status post resection.
+     Abdominal pain.
+     
+     TECHNIQUE:  Multiple axial images of the abdomen and pelvis were obtained
+     after the administration of intravenous and oral contrast.  Coronally
+     reformatted images were created.
+     
+     CONTRAST:  150 cc of Optiray were administered intravenously due to the
+     patient's debility; there were no complications.
+     
+     CT OF THE ABDOMEN WITH INTRAVENOUS CONTRAST:  There are no pleural effusions.
+     A focal opacity at the posterior right lung base is adjacent to what appears
+     to be a metastatic lesion invading the liver capsule; this lesion probably
+     extends through the diaphragm.  Several similar low attenuation lesions with
+     peripheral enhancement are seen studding the surface of the liver.  There is
+     an NG tube within the contrast filled stomach.  Contrast fills a nondilated
+     proximal small bowel.  A prominent dilated loop of small bowel is seen in the
+     lower abdomen adjacent to the bladder, containing fecal-like material.  There
+     is abrupt narrowing of one end of this small bowel loop adjacent to a
+     peripherally enhancing metastatic deposit within the mesentery.  Several other
+     dilated small bowel loops are seen nearby.
+     
+     Innumerable large and small peripherally enhancing nodules are dispersed
+     throughout the mesentery and adjacent to bowel loops.  The periphery of the
+     spleen also contains multiple round peripherally enhancing lesions consistent
+     with metastases.  The pancreas and kidneys are normal in appearance.  Several
+     enhancing lesions within the para-aortic retroperitoneum may represent
+     metastatic nodes or masses.  The large bowel is dilated to a point just
+     proximal to the ostomy.  There is a small amount of ascites within the
+     abdomen.  No free air is seen within the abdomen.
+     
+     CT OF THE PELVIS WITH INTRAVENOUS CONTRAST:  There is a large heterogeneously
+     enhancing presacral mass which lies anterior to the Hartmann's pouch.
+     
+     Coronally reformatted images confirm the above findings.
+     
+     BONE WINDOWS:  No lytic or blastic lesions are seen.
+     
+                                                                 (Over)
+
+     DATE: [**3258-8-22**] 8:11 PM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 426**]
+     CT RECONSTRUCTION; CT 150CC NONIONIC CONTRAST
+     Reason: r/o obstruction, masses,?bowel ischemia
+     Field of view: 30 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     IMPRESSION:
+     1.  Diffuse mesenteric and retroperitoneal enhancing metastatic nodules.
+     Multiple nodules cover the surface of the liver and spleen.
+     2.  Dilated large bowel and dilated, fecalized distal small bowel; adjacent to
+     abruptly narrowed small bowel is an enhancing peritoneal implant, possibly
+     causing obstruction . The proximal small bowel is decompressed.
+     3.  Large conglomerate presacral enhancing mass compressing the Hartmann's
+     pouch.
+     
+     
+
+",,
+24214,,,,3258-08-28 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3258-8-28**] 9:18 AM
+     PICC LINE PLACMENT SCH                                          Clip # [**Clip Number (Radiology) 428**]
+     Reason: 67 yo with metastatic ovarian CA s/p debulking surgery 8/2/0
+     ********************************* CPT Codes ********************************
+     * 36493 REPOSITION CENTRAL VENOUS CATH -51 MULTI-PROCEDURE SAME DAY        *
+     * 76000 FLUORO 1 HR W/RADIOLOGIST                                          *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      67 year old woman with metastatic ovarian ca
+       
+      bowel obstruction
+     REASON FOR THIS EXAMINATION:
+      67 yo with metastatic ovarian CA s/p debulking surgery [**3258-7-5**] s/p chemo [**8-5**]
+      now with recurrent mets. pt had sigmoid resection, hartmann's pouch now without
+      any out put for 6 days. severe nausea vomiting decompressed with NGT 
+      please place PICC line
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Metastatic ovarian CA with metastatic disease to the peritoneum.
+     Unable to tolerate PO intake.  Needs double-lumen PICC line for TPN.  Please
+     exchange PICC line placed by IV Therapy.
+     
+     RADIOLOGISTS:  Drs. [**First Name8 (NamePattern2) 429**] [**Last Name (NamePattern1) 430**] and [**First Name4 (NamePattern1) 431**] [**Last Name (NamePattern1) 432**], Attending Radiologist
+     was present and supervised the procedure.
+     
+     PROCEDURE:  Informed signed consent was obtained from the patient through a
+     Portuguese interpreter.  The right upper extremity was prepped in standard
+     sterile fashion.  A .018 glide wire was passed through the existing PICC line
+     and advanced into the SVC.  Then the PICC line was exchanged over the wire for
+     a 4 French introducer sheath.  Following this, the glide wire was removed and
+     a .018 guide wire with markings was advanced under fluoroscopy into the SVC.
+     Based on the markers on the guide wire it was determined that a length of 46
+     cm would be suitable.  The PICC line was trimmed to this length and advanced
+     over a 5 French introducer sheath under fluorscopic guidance into the SVC. The
+     sheath was removed. The catheter was flushed.
+     
+     FINDINGS:  A final chest x-ray demonstrates a PICC line entering from the
+     right with the tip in the distal SVC.  Additionally, an NG is noted on the
+     radiograph.
+     
+     The line is ready for use.  There is good blood flow through both reports. A
+     Stat-lock was applied and the lines was hep-locked.
+     
+     IMPRESSION:  Successful exchange of a 46 cm total length 5 French double-lumen
+     PICC line with the tip in the SVC.  The line is ready for use.
+     
+
+",,
+24214,,,,3258-08-28 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3258-8-28**] 9:19 AM
+     PERC G/G-J TUBE PLMT                                            Clip # [**Clip Number (Radiology) 433**]
+     Reason: 67 yo with metastatic ovarian CA s/p debulking surgery 8/2/0
+      Contrast: CONRAY Amt: 15
+     ********************************* CPT Codes ********************************
+     * 43750 PERC PLCMT GASTROMY TUBE       -51 MULTI-PROCEDURE SAME DAY        *
+     * 74350 PERC PLCMT GASTROSOTMY TUBE                                        *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      67 year old woman with metastatic ovarian ca
+       
+      bowel obstruction
+     REASON FOR THIS EXAMINATION:
+      67 yo with metastatic ovarian CA s/p debulking surgery [**3258-7-5**] s/p chemo [**8-5**]
+      now with recurrent mets. pt had sigmoid resection, hartmann's pouch now without
+      any out put for 6 days. severe nausea vomiting decompressed with NGT 
+      please place PEG
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: Metastatic ovarian cancer with peritoneal implants resulting in
+     bowel obstruction, need G-tube placement for prolonged gastric aspiration.
+     
+     RADIOLOGISTS: Drs. [**First Name8 (NamePattern2) 429**] [**Last Name (NamePattern1) 430**] and [**First Name4 (NamePattern1) 431**] [**Last Name (NamePattern1) 432**], Attending Radiologist was
+     present and supervised the procedure.
+     
+     PROCEDURE: Informed and signed consent was obtained from the patient through a
+     Portugese interpreter. The left upper abdomen was prepped and draped in usual
+     fashion. After local anesthesia with 1% Lidcaine and observation of stomach
+     insufflation under fluorscopy, two T-fasteners were inserted into the anterior
+     abdominal wall through the stomach. In between the T-fasteners, a needle was
+     inserted and a .035 guidewire was advanced into the stomach under fluoroscopic
+     guidance. The needle was exchanged for a 10 Fr dilator followed by a 12 Fr
+     pigtail catheter which was placed under fluoroscopic guidance. The pigtail was
+     formed and contrast was injected through the tube to confirm placement in the
+     stomach. The tube was secured in place with a suture at the entry site and a
+     cutaneous FlexiTrack.
+     
+     MEDICATIONS: 0.5 mg of Versed and 50 mcg of Fentanyl were administered by a
+     Radiology nurse under continuous monitoring. Additionally, 1 mg of Glucagon
+     was also administered.
+     
+     COMPLICATIONS: None.
+     
+     IMPRESSION: 12 Fr nephrostomy tube placed in the stomach for gastric suction.
+     
+
+",,
+24214,,,,3258-08-28 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3258-8-28**] 9:19 AM
+     PERC G/G-J TUBE PLMT                                            Clip # [**Clip Number (Radiology) 433**]
+     Reason: 67 yo with metastatic ovarian CA s/p debulking surgery 8/2/0
+      Contrast: CONRAY Amt: 15
+     ********************************* CPT Codes ********************************
+     * 43750 PERC PLCMT GASTROMY TUBE       -51 MULTI-PROCEDURE SAME DAY        *
+     * 74350 PERC PLCMT GASTROSOTMY TUBE                                        *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      67 year old woman with metastatic ovarian ca
+       
+      bowel obstruction
+     REASON FOR THIS EXAMINATION:
+      67 yo with metastatic ovarian CA s/p debulking surgery [**3258-7-5**] s/p chemo [**8-5**]
+      now with recurrent mets. pt had sigmoid resection, hartmann's pouch now without
+      any out put for 6 days. severe nausea vomiting decompressed with NGT 
+      please place PEG
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: Metastatic ovarian cancer with peritoneal implants resulting in
+     bowel obstruction, need G-tube placement for prolonged gastric aspiration.
+     
+     RADIOLOGISTS: Drs. [**First Name8 (NamePattern2) 429**] [**Last Name (NamePattern1) 430**] and [**First Name4 (NamePattern1) 431**] [**Last Name (NamePattern1) 432**], Attending Radiologist was
+     present and supervised the procedure.
+     
+     PROCEDURE: Informed and signed consent was obtained from the patient through a
+     Portugese interpreter. The left upper abdomen was prepped and draped in usual
+     fashion. After local anesthesia with 1% Lidcaine and observation of stomach
+     insufflation under fluorscopy, two T-fasteners were inserted into the anterior
+     abdominal wall through the stomach. In between the T-fasteners, a needle was
+     inserted and a .035 guidewire was advanced into the stomach under fluoroscopic
+     guidance. The needle was exchanged for a 10 Fr dilator followed by a 12 Fr
+     pigtail catheter which was placed under fluoroscopic guidance. The pigtail was
+     formed and contrast was injected through the tube to confirm placement in the
+     stomach. The tube was secured in place with a suture at the entry site and a
+     cutaneous FlexiTrack.
+     
+     MEDICATIONS: 0.5 mg of Versed and 50 mcg of Fentanyl were administered by a
+     Radiology nurse under continuous monitoring. Additionally, 1 mg of Glucagon
+     was also administered.
+     
+     COMPLICATIONS: None.
+     
+     IMPRESSION: 12 Fr nephrostomy tube placed in the stomach for gastric suction.
+     
+
+",,
+24214,,,,3258-08-28 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3258-8-28**] 9:18 AM
+     PICC LINE PLACMENT SCH                                          Clip # [**Clip Number (Radiology) 428**]
+     Reason: 67 yo with metastatic ovarian CA s/p debulking surgery 8/2/0
+     ********************************* CPT Codes ********************************
+     * 36493 REPOSITION CENTRAL VENOUS CATH -51 MULTI-PROCEDURE SAME DAY        *
+     * 76000 FLUORO 1 HR W/RADIOLOGIST                                          *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      67 year old woman with metastatic ovarian ca
+       
+      bowel obstruction
+     REASON FOR THIS EXAMINATION:
+      67 yo with metastatic ovarian CA s/p debulking surgery [**3258-7-5**] s/p chemo [**8-5**]
+      now with recurrent mets. pt had sigmoid resection, hartmann's pouch now without
+      any out put for 6 days. severe nausea vomiting decompressed with NGT 
+      please place PICC line
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Metastatic ovarian CA with metastatic disease to the peritoneum.
+     Unable to tolerate PO intake.  Needs double-lumen PICC line for TPN.  Please
+     exchange PICC line placed by IV Therapy.
+     
+     RADIOLOGISTS:  Drs. [**First Name8 (NamePattern2) 429**] [**Last Name (NamePattern1) 430**] and [**First Name4 (NamePattern1) 431**] [**Last Name (NamePattern1) 432**], Attending Radiologist
+     was present and supervised the procedure.
+     
+     PROCEDURE:  Informed signed consent was obtained from the patient through a
+     Portuguese interpreter.  The right upper extremity was prepped in standard
+     sterile fashion.  A .018 glide wire was passed through the existing PICC line
+     and advanced into the SVC.  Then the PICC line was exchanged over the wire for
+     a 4 French introducer sheath.  Following this, the glide wire was removed and
+     a .018 guide wire with markings was advanced under fluoroscopy into the SVC.
+     Based on the markers on the guide wire it was determined that a length of 46
+     cm would be suitable.  The PICC line was trimmed to this length and advanced
+     over a 5 French introducer sheath under fluorscopic guidance into the SVC. The
+     sheath was removed. The catheter was flushed.
+     
+     FINDINGS:  A final chest x-ray demonstrates a PICC line entering from the
+     right with the tip in the distal SVC.  Additionally, an NG is noted on the
+     radiograph.
+     
+     The line is ready for use.  There is good blood flow through both reports. A
+     Stat-lock was applied and the lines was hep-locked.
+     
+     IMPRESSION:  Successful exchange of a 46 cm total length 5 French double-lumen
+     PICC line with the tip in the SVC.  The line is ready for use.
+     
+
+",,
+24214,,,,3258-09-04 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3258-9-4**] 3:08 PM
+     PICC LINE PLACMENT SCH                                          Clip # [**Clip Number (Radiology) 434**]
+     Reason: broken PICC catheter per IV team needs replacement for daily
+     ********************************* CPT Codes ********************************
+     * 36489 CVL/PICC                       76942 UD GUID FOR NEEDLE PLACMENT   *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      67 year old woman with metastatic ovarian ca and bowel obstruction NPO and fed
+      only by TPN.
+     REASON FOR THIS EXAMINATION:
+      broken PICC catheter per IV team needs replacement for daily TPN
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATIONS:  Fever, colon CA.
+     
+     FINDINGS:   The left upper extremity is prepped and draped in a sterile
+     fashion. Ultrasound guidance was used to access the left brachial vein after
+     which the seldinger technique was used to place a 5 French dual lumen PICC
+     within the SVC, confirmed by chest x-ray. There are no complications.
+
+",,
+24214,22242,,,3258-09-18 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+
+",,
+24214,,30080,0,3258-09-19 03:29:00 EST,3258-09-19 03:42:00 EST,-1,"N",69,"Nursing/Other",,"
+
+PT ADMITTED DIRECT TO UNIT BY AMBULANCEF ROM [**Hospital3 **].  HYPOTENSIN, ACIDOSIS, HYPERGLYCEMIA.  END STAGE OVARIAN CANCER TX WITH CHEMO.  RECENT ADMIT TO [**Hospital1 **] FOR SBO- TX MEDICALLY AND WITH PEG PLACEMETN; NOT [**Doctor First Name 125**] CANDIDATE.  DC'D TO REHAB.  PER FAMILY, PT HAD STARTED STOOLING POST CHEMO TX.  N/V PAST FEW DAYS. FOUND TO BE HYPOTENSIVE AT REHAB, SENT OT [**Hospital3 **] ED.  ABD CT SHOWED +SBO, NO FREE AIR. 
+
+CNS- PORTUGEUSE SPEAKING ONLY-FAMILY INTERPRETING. FOLLOWS FEW COMMANDS, MOSTLY MAKING SMALL MOANING NOISES, OCC SPEECH WITH FAMILY.PEERL.  MAE WEAKLY.  ABD UNABLE TO RATE LEVEL, PAIN DECREASING WITH SITTING HIGHER UP, MS [**First Name (Titles) **] [**Last Name (Titles) 3063**].
+
+RESP- LUNGS CLEAR/DECREASED.  SATS WELL ON 12 NRB MASK.  
+
+GI- ABD DIST/FIRM.  BT HYPO, DISTANT ""TINKLES"" HEARD.  NO BM.  PEG TO INT SXN.  BILOUS BROWN DRAINAGE.
+
+GU- MINIMAL UOP, DARK YELLOW WITH SED.  SPEC SENT TO LAB.
+
+ID- BLOOD AND URINE CX SENT, PT STARTED ON VANCO, FLAGYL, CEFTRIAXONE.
+
+FAMILY AT BEDSIDE. PT IS DNR/DNI/NO PRESSORS.
+",,
+24214,,30080,0,3258-09-19 15:47:00 EST,3258-09-19 16:02:00 EST,-1,"N",69,"Nursing/Other","MSICU NURSING PROGRESS NOTE.","
+MSICU NURSING PROGRESS NOTE.
+     See careview for objective data.
+     Pt is DNR/DNI
+     CNS:  Arouses to painful stimuli, moans and mutters incomprahensable, does not open eyes, moves weakly with much stimulus.
+Dilaudid gtt started at 11am, presently at 5mg/hrwith apparent good effect. Temperature max.  99.4 axillary.
+     Respiratory: Lung sounds are clear in upper fields, coarse in bases bilat.  Tachypneic, 30's to 40's.  O2 saturation 88-100% on nrb.  
+     CV:  Sinus tachycardia, rate in 130's-140's, with rare pvc.  Abp 60'sto 90's systolic.  No edema or jvd noted.  Lower extrem. are cool to touch.  
+     GI/GU:  Abdomen is firm with no bowel sounds.  Illeostomy patent and draining brown liquid stool.  Peg tube to low wall suction dng green bilious fluid.  No indications of nausea.  Foley catheter patent and draining scant amts of urine, team aware.  
+     Endocrine:  Fs in 140's to 160's.  D/ced this pm.
+     Social:  Family in with pt throughout day, aware of pts deteriorating condition.
+",,
+24214,,30080,0,3258-09-19 20:26:00 EST,3258-09-19 20:28:00 EST,43,"N",69,"Nursing/Other","S/MICU Nursing Progress Note","
+S/MICU Nursing Progress Note
+ Pt started to drop her HR at 8pm and went asystolic at 2040 and pronounced by Dr. [**Last Name (STitle) 171**]. Jewerly of two rings and braclet sent with Cousin [**First Name8 (NamePattern2) **] [**Name2 (NI) 4314**].  No other personal affects are with the patient.
+",,

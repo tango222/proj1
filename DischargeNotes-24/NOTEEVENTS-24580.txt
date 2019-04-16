@@ -1,0 +1,646 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+24580,7069,,,2636-08-09 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+ 
+ 
+ 
+Admission Date:  [**2636-8-9**]              Discharge Date:   [**2636-8-16**]
+ 
+Date of Birth:  [**2582-2-13**]             Sex:   M
+ 
+Service: MED
+ 
+Allergies: 
+Patient recorded as having No Known Allergies to Drugs
+ 
+Attending:[**First Name3 (LF) 5184**] 
+Chief Complaint:
+Biliary Sepsis
+ 
+Major Surgical or Invasive Procedure:
+ERCP and biliary stent placement X 2
+ 
+History of Present Illness:
+Pt is a 54 year old male with a hx of metastatic CRC dx'd [**5-12**] 
+s/p chemo/XRT/surgery [**10-12**], presenting s/p recent ERCT and 
+stent placement at [**Hospital1 **] [**2636-8-2**] for obstructive jaundice and 
+sepsis  [**1-11**] ascending cholangitis.  Pt initially underwent 
+neo-adjuvant chemo and radiation therapy, had colectomy with 
+Hartmann's pouch, then recieved adjuvant chemotherapy.  
+Presented to [**Hospital3 **] [**8-9**] with fever, chills, and 
+jaundice, started on unasyn emperically for re-obstruction.  
+BP's down to 80's/60's, transiently requiring dopamine gtt.  
+Transferred to [**Hospital1 25**] for emergent ERCP.  Upon [**Hospital1 25**] arrival, WBC 
+25.6, HCO3 16, Cr 2.5 Tb 17.8, alb 1.7, admitted to the FICU and 
+continued on Zosyn.  Pt growing [**3-13**] E.coli (pan-sensitive) at 
+[**Hospital3 **].  
+
+ 
+Past Medical History:
+1. Colon Cancer:  as per HPI
+
+2. Basal Cell Skin Cancer:  Benign.  Present since pt in his 
+20's.  Over 100 resections.
+ 
+Social History:
+Married, retired lawyer.  Quit tob 15 years ago, with 30 years 
+at 1 PPD prior.  Prior heavy alchol use, roughly 10 beers/day.
+ 
+Family History:
+Father with [**Name2 (NI) 401**] cancer, died at 64.  No CAD/CVA.
+ 
+Physical Exam:
+PE:  98.7   130/70    86     18       97 % RA       0 pain
+
+Gen:  NAD, cooperative, friendly gentleman
+Heent:  + scleral icterus, EOMI, PEERL, Dry lips, dentures in 
+place
+Neck:  5-7 cm JVP, no LAD
+Heart:  RRR, no mrg.  PMI non-displaced.
+Lungs:  Distant.  CTAB, no wheezes or rales.
+Abd:  Distended.  Non-tender.  +fluid wave.  Liver palpable to 3 
+fingerbreadths beneath RCM.  - [**Known patient lastname **] or RUQ tenderness.
+Ext:  2+ bilateral pedal edema to knees.
+Skin:  Prominent jaundice.  Numerous basal cell carcinomas over 
+trunk and legs.
+Neuro:  Non-focal.  No asterexis.
+ 
+Pertinent Results:
+[**2636-8-16**] 08:45AM BLOOD WBC-15.1* RBC-2.96* Hgb-9.5* Hct-28.6* 
+MCV-97 MCH-32.1* MCHC-33.2 RDW-16.4* Plt Ct-298
+[**2636-8-16**] 08:45AM BLOOD Neuts-79* Bands-3 Lymphs-2* Monos-6 Eos-4 
+Baso-1 Atyps-0 Metas-1* Myelos-4*
+[**2636-8-16**] 08:45AM BLOOD Hypochr-NORMAL Anisocy-1+ Poiklo-NORMAL 
+Macrocy-1+ Microcy-NORMAL Polychr-NORMAL
+[**2636-8-16**] 08:45AM BLOOD Plt Ct-298
+[**2636-8-16**] 08:45AM BLOOD Glucose-78 UreaN-35* Creat-1.6* Na-135 
+K-4.8 Cl-105 HCO3-19* AnGap-16
+[**2636-8-16**] 08:45AM BLOOD ALT-152* AST-173* LD(LDH)-387* 
+AlkPhos-425* TotBili-10.6*
+[**2636-8-16**] 08:45AM BLOOD Albumin-2.7* Calcium-8.0* Phos-3.9 Mg-2.0
+ 
+Brief Hospital Course:
+While on the floor (after FICU)
+
+1.  Biliary Sepsis:  CT belly showed mulitple liver mets, slight 
+obstruction of biliary stent and multiple mets at porta hepatis, 
+peritoneal carcinamatosis and duodenal compression.  ERCP done 
+morning of [**2636-8-10**], which showed re-obstruction [**1-11**] tumor 
+compression, in addition to previous stent displacement into the 
+right collection system.  2 stents were placed and large amount 
+of pus was drained during the procedure.  Pt afebrile while on 
+the floor.  His WBC count decreased from 23.1 to 15.1 on 
+discharge.  His biliruben continued to decrease to 10.6 on 
+discharge, and with the pneumobilia seen on CT [**8-15**], strongly 
+suggests the new stents are patent.  His surveilence blood cx's 
+from [**8-14**] were negative as were C.diff X 3.  The pt has remained 
+hemodynamically stable, with SBP's in the 120's-130's. Pt was 
+treated with IV levofloxacin, until [**7-14**], when he was switched to 
+IV Zosyn, for fear of possible ongoing infection (increasing Cr 
+1.7 and increased LDH to the 400's).  However, the pt was 
+switched to PO levofloxacin and flagyll proir to discharge.  Pt 
+to follow up in GI clinic here at [**Hospital1 25**] Tuesday, [**8-23**] at 
+1:pm with Dr.[**Last Name (STitle) 5637**] [**Telephone/Fax (1) 4692**].  
+
+2.  ARF:  Likely pre-renal [**1-11**] decreased effective arterial 
+volume in the face of sepsis.  Pt now tolerating PO very well, 
+and has been encouraged to drink plenty of fluids as an outpt 
+(no cardiac hx).  Cr 1.6 on discharge.
+
+3.  Colon Cancer:  Extensive disease including peritoneal 
+carcinamotosis.  Stable and could be the source of his high LDH. 
+ Repeat CT of the belly [**8-14**] revealed pneumobilia, ""stable"" 
+peritoneal carcinamotosis (unchanged from previous study), no 
+evidence of biliary or bowel obstruction.  Pt's cough may be 
+related to pulmonary metastatic disease, and his liver mets are 
+likely contributing to his elevated LFT's.  Pt to schedule f/u 
+with his primary oncologist Dr.[**Last Name (STitle) 5638**] at [**Hospital3 1722**].
+
+4.  FEN:  Pt tolerating good PO, no nausea or vomiting.  He 
+appears adequately hydrated and was advised to keep himself 
+hydrated by drinking plenty of fluids.  
+ 
+Discharge Medications:
+1. Levaquin 500 mg Tablet Sig: One (1) Tablet PO once a day for 
+2 weeks.
+Disp:*14 Tablet(s)* Refills:*0*
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Biliary Sepsis 
+
+ 
+Discharge Condition:
+Good
+ 
+Discharge Instructions:
+If [**Doctor First Name **] feel any abdominal pain, nausea and vomiting, inability 
+to tolerate food or liquid, fever > 100.4, shaking chills, or 
+bloody diarrhea, please call your doctor or come to the ER.
+ 
+Followup Instructions:
+1.  Dr.[**Last Name (STitle) 5637**] at [**Hospital1 25**] GI clinic, [**2636-8-23**] at 1pm at Shaprio 
+building, 7th floor, [**Telephone/Fax (1) 4692**].  Please call clinic tomorrow 
+to finalize.
+
+2.  Please call Dr[**Last Name (STitle) 5639**] office to schedule an appointment as 
+soon as possible.
+ 
+                             [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 2663**] MD [**MD Number 5190**]
+ 
+Completed by: [**First Name8 (NamePattern2) 628**] [**Last Name (NamePattern1) 629**] MD [**MD Number 630**] [**2636-8-16**] @ 1505
+Signed electronically by: DR. [**First Name8 (NamePattern2) **] [**Doctor Last Name **]
+ on: FRI [**2636-9-23**] 1:41 PM
+(End of Report)
+
+
+",,
+24580,7069,,,2636-08-09 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2636-8-9**] 10:37 PM
+     CT ABD W&W/O C; CT PELVIS W/CONTRAST                            Clip # [**Clip Number (Radiology) 3834**]
+     CT 150CC NONIONIC CONTRAST; CT RECONSTRUCTION
+     Reason: cause of obstructive jaundice                               
+     Admitting Diagnosis: RECTAL CANCER;ASCENDING CHOLANGITIS
+     Field of view: 40 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      54 year old man with metastatic colon CA admitted for obstructive jaundice      
+     REASON FOR THIS EXAMINATION:
+      cause of obstructive jaundice                                                   
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: Metastatic colon cancer with obstructive jaundice.
+     
+     TECHNIQUE: Axial CT imaging of the abdomen and pelvis performed before and
+     after the intravenous administration of 150 cc of Optiray. Nonionic contrast
+     was used due to patient debility. Imaging was performed without contrast and
+     with arterial, portal venous, and delayed phases of enhancement. Additional
+     reformatted imaging in the coronal plane was also performed.
+     
+     CT OF THE ABDOMEN WITHOUT AND WITH CONTRAST: Atelectasis is present within
+     both lung bases as well as tiny bilateral pleural effusions. Intra-abdominal
+     ascites is present. There is evidence of nodular enhancement within the
+     peritoneum indicating peritoneal carcinomatosis. No free air is seen within
+     the abdomen. There are multiple low-attenuation lesions identified within the
+     liver. A focal low-attenuation lesion with peripheral enhancement within the
+     left lobe of the liver is identified which measures 5.9 x 2.9 cm. There is
+     significant intrahepatic biliary ductal dilatation which may be slightly more
+     prominent within the left lobe of the liver. There are multiple low-
+     attenuation lesions within both lobes of the liver that have an appearance
+     consistent with metastatic disease. The largest lesion within segment IV on
+     series 3B, image 84, measures 3.2 x 2.5 cm. The portal vein and hepatic venous
+     system are patent. The hepatic portion of the IVC is compressed by a mass
+     within the caudate lobe on series 3B, image 79. There are multiple low
+     attenuation masses in the porta hepatis surrounding the second portion of the
+     duodenum, the extrahepatic biliary system, and the extrahepatic portal venous
+     system. A stent extends from the right central intrahepatic biliary system
+     into the common duct. This stent does not extend to the distal common duct
+     into the second portion of the duodenum. The spleen is within normal limits.
+     The pancreas enhances homogeneously with no pancreatic ductal dilatation. The
+     splenic vein, SMA, and SMV are patent. The adrenal glands and kidneys are
+     normal in appearance.
+     
+     CT OF THE PELVIS WITH CONTRAST: The patient is status post partial colectomy.
+     An ileostomy extends to the left lower quadrant of the abdomen. There is free
+     fluid within the pelvis. There is a soft tissue mass within the presacral
+     space/ cul de sac which measures 4.8 x 3.2 cm. There is bladder wall
+     thickening. This mass within the presacral space extends to the posterior
+     aspect of the urinary bladder. Bone windows show no suspicious lytic or
+     sclerotic lesions.
+     
+                                                                 (Over)
+
+     DATE: [**2636-8-9**] 10:37 PM
+     CT ABD W&W/O C; CT PELVIS W/CONTRAST                            Clip # [**Clip Number (Radiology) 3834**]
+     CT 150CC NONIONIC CONTRAST; CT RECONSTRUCTION
+     Reason: cause of obstructive jaundice                               
+     Admitting Diagnosis: RECTAL CANCER;ASCENDING CHOLANGITIS
+     Field of view: 40 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     REFORMATTED IMAGING: Images reformatted in the coronal plane were essential in
+     evaluating this patient's abdomen and pelvis and show intrahepatic biliary
+     ductal dilatation and multiple masses in the region of the porta hepatis.
+     
+     IMPRESSION:
+     1. Intrahepatic biliary ductal dilatation with a stent extending from the
+     right central intrahepatic system to the distal common duct. Multiple masses
+     in the region of the porta hepatis and second portion of the duodenum may
+     cause extrinsic compression of the distal common duct near the ampulla.
+     2. There is a low-attenuation focus with peripheral enhancement within the
+     left lobe of the liver measuring approximately 6 x 3 cm. This area of low
+     attenuation could represent abscess, metastatic disease, or a biloma.
+     3. Multiple low-attenuation lesions within the liver consistent with
+     metastatic disease. A lesion within the caudate lobe compresses the
+     intrahepatic IVC; however, the hepatic veins, portal venous system, and
+     hepatic arterial system appear patent.
+     4. Ascites and peritoneal nodular enhancement indicating peritoneal
+     carcinomatosis.
+     5. Mass within the cul de sac/presacral space with extensive stranding that
+     extends to the posterior bladder wall. The bladder wall is uniformly
+     thickened.
+     6. External compression of the second portion of the duodenum by numerous
+     adjacent masses. There is no evidence of gastric dilatation to suggest
+     obstruction.
+     
+
+",,
+24580,7069,,,2636-08-09 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2636-8-9**] 10:37 PM
+     CT ABD W&W/O C; CT PELVIS W/CONTRAST                            Clip # [**Clip Number (Radiology) 3834**]
+     CT 150CC NONIONIC CONTRAST; CT RECONSTRUCTION
+     Reason: cause of obstructive jaundice                               
+     Admitting Diagnosis: RECTAL CANCER;ASCENDING CHOLANGITIS
+     Field of view: 40 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      54 year old man with metastatic colon CA admitted for obstructive jaundice      
+     REASON FOR THIS EXAMINATION:
+      cause of obstructive jaundice                                                   
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: Metastatic colon cancer with obstructive jaundice.
+     
+     TECHNIQUE: Axial CT imaging of the abdomen and pelvis performed before and
+     after the intravenous administration of 150 cc of Optiray. Nonionic contrast
+     was used due to patient debility. Imaging was performed without contrast and
+     with arterial, portal venous, and delayed phases of enhancement. Additional
+     reformatted imaging in the coronal plane was also performed.
+     
+     CT OF THE ABDOMEN WITHOUT AND WITH CONTRAST: Atelectasis is present within
+     both lung bases as well as tiny bilateral pleural effusions. Intra-abdominal
+     ascites is present. There is evidence of nodular enhancement within the
+     peritoneum indicating peritoneal carcinomatosis. No free air is seen within
+     the abdomen. There are multiple low-attenuation lesions identified within the
+     liver. A focal low-attenuation lesion with peripheral enhancement within the
+     left lobe of the liver is identified which measures 5.9 x 2.9 cm. There is
+     significant intrahepatic biliary ductal dilatation which may be slightly more
+     prominent within the left lobe of the liver. There are multiple low-
+     attenuation lesions within both lobes of the liver that have an appearance
+     consistent with metastatic disease. The largest lesion within segment IV on
+     series 3B, image 84, measures 3.2 x 2.5 cm. The portal vein and hepatic venous
+     system are patent. The hepatic portion of the IVC is compressed by a mass
+     within the caudate lobe on series 3B, image 79. There are multiple low
+     attenuation masses in the porta hepatis surrounding the second portion of the
+     duodenum, the extrahepatic biliary system, and the extrahepatic portal venous
+     system. A stent extends from the right central intrahepatic biliary system
+     into the common duct. This stent does not extend to the distal common duct
+     into the second portion of the duodenum. The spleen is within normal limits.
+     The pancreas enhances homogeneously with no pancreatic ductal dilatation. The
+     splenic vein, SMA, and SMV are patent. The adrenal glands and kidneys are
+     normal in appearance.
+     
+     CT OF THE PELVIS WITH CONTRAST: The patient is status post partial colectomy.
+     An ileostomy extends to the left lower quadrant of the abdomen. There is free
+     fluid within the pelvis. There is a soft tissue mass within the presacral
+     space/ cul de sac which measures 4.8 x 3.2 cm. There is bladder wall
+     thickening. This mass within the presacral space extends to the posterior
+     aspect of the urinary bladder. Bone windows show no suspicious lytic or
+     sclerotic lesions.
+     
+                                                                 (Over)
+
+     DATE: [**2636-8-9**] 10:37 PM
+     CT ABD W&W/O C; CT PELVIS W/CONTRAST                            Clip # [**Clip Number (Radiology) 3834**]
+     CT 150CC NONIONIC CONTRAST; CT RECONSTRUCTION
+     Reason: cause of obstructive jaundice                               
+     Admitting Diagnosis: RECTAL CANCER;ASCENDING CHOLANGITIS
+     Field of view: 40 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     REFORMATTED IMAGING: Images reformatted in the coronal plane were essential in
+     evaluating this patient's abdomen and pelvis and show intrahepatic biliary
+     ductal dilatation and multiple masses in the region of the porta hepatis.
+     
+     IMPRESSION:
+     1. Intrahepatic biliary ductal dilatation with a stent extending from the
+     right central intrahepatic system to the distal common duct. Multiple masses
+     in the region of the porta hepatis and second portion of the duodenum may
+     cause extrinsic compression of the distal common duct near the ampulla.
+     2. There is a low-attenuation focus with peripheral enhancement within the
+     left lobe of the liver measuring approximately 6 x 3 cm. This area of low
+     attenuation could represent abscess, metastatic disease, or a biloma.
+     3. Multiple low-attenuation lesions within the liver consistent with
+     metastatic disease. A lesion within the caudate lobe compresses the
+     intrahepatic IVC; however, the hepatic veins, portal venous system, and
+     hepatic arterial system appear patent.
+     4. Ascites and peritoneal nodular enhancement indicating peritoneal
+     carcinomatosis.
+     5. Mass within the cul de sac/presacral space with extensive stranding that
+     extends to the posterior bladder wall. The bladder wall is uniformly
+     thickened.
+     6. External compression of the second portion of the duodenum by numerous
+     adjacent masses. There is no evidence of gastric dilatation to suggest
+     obstruction.
+     
+
+",,
+24580,7069,30523,0,2636-08-09 17:18:00 EST,2636-08-09 17:36:00 EST,761,"N",69,"Nursing/Other","Finard 4 ICU nursing progress note:","
+[**Hospital Ward Name **] 4 ICU nursing progress note:
+ [**Last Name (un) **] 54 y/o gentleman transfered from [**Hospital3 **] for ERCP. 
+Recently had ERCP for obstructive jaundice..sent home (was at B&W). Last weekend developed fevers and sob..last pm had change in ms and was sob..admitted to icu at [**Hospital1 **].
+Briefly..at [**Hospital1 **] had +BC..required dopa (low dose) for bp in 80's..got fluid..??chf..given lasix and bumex..creatinine 1.5-2.5. WBC 17-26..no temp..was cool and clamy. Recieved multiple antibiotics. Abdominal and renal ultrasounds done Transfered to [**Hospital1 3**] for repeat ERCP.
+ Systems Review: 
+ GI: Pt jaundiced..yellow sclera..abdomen soft. Ostomy bag intact..minimal amt of stool. Has been NPO..Last bili was 17 at OSH. Plan is to have ERCP in am. No c/o pain.
+ Respiratory: Crackles at bases..rr 20's. No c/o sob 2l nc sats 96%. 
+ GU: Foley cath in place..icteric urine..
+ Cardiac: dopa was dc'd prior to transfer. BP 98-99/50-60. Hr 90's.
+ ID: Afebrile. Awaiting antibiotic orders.
+ Neuro: Alert/orientated..MAE..appears to understand current plan.
+ Skin: [**Doctor First Name **] cell ca over limbs and shoulders and back. With liver failure..pt states he has more bleeding of skin lesions. Has several bandaids over legs. Large 4x4 on left upper shoulder.
+ Lines: #20 right hand  #22 x2 left hand/arm
+ Social: Lives with wife [**Name (NI) **]..has not called. 3children
+
+",,
+24580,7069,30523,0,2636-08-10 05:13:00 EST,2636-08-10 05:24:00 EST,252,"N",69,"Nursing/Other",,"
+
+NPN (NOC):  PT HAD A GOOD NIGHT.  HAS REMAINED HD STABLE OFF PRESSORS.  AFEBRILE, BUT CX'D.  PIPERACILLIN BEGUN.  HAD ABD CT.  HE HAS MULTIPLE LIVER METS WHICH ARE OBSTRUCTING VEINS AND DUCTS.  STENT LOOKS PATENT. HE IS TO HAVE ERCP TODAY.  HAS BEEN NPO EXCEPT ICE CHIPS SINCE MN.  HAD 500 CC D51/2 AS HYDRATION AROUND CT (GOT DYE).  UO IS EXCELLENT.  ALSO MUCOMYST BEGUN.  RR USUALLY TEENS TO 20'S, REG, NONLABORED AT REST, BUT HAS + TACHYPNEA & DOE.  ALSO + PROD COUGH, + BILAT. RALES.  TO HAVE ECHO TODAY.   
+
+",,
+24580,7069,30523,0,2636-08-10 16:27:00 EST,2636-08-10 16:36:00 EST,1520,"N",69,"Nursing/Other",,"
+
+M/SICU NPN FOR 7A-7P:      FULL CODE     NKDA
+
+                   SEE CAREVUE FLOWSHEET FOR MORE DETAILS
+
+NEURO: AAOX3, PERLA, SCERLA JAUNDICE. MAE.  ABLE TO FOLLOW COMMANDS.  RECOVERING SLOWLY FOR SEDATIVES GIVEN FOR ERCP TODAY. 
+
+RESP:  ON 2L NC WITH ADEQUATE SATS.  LUNG SOUNDS COARSE IN UPPER LOBES AND BILAT. RALES IN BASES. SOB WITH EXCERTION/DOE.
+
+CV:  SR-ST WITH NO ECTOPY.  BP STABLE.  GROSS AMOUNT OF +[**12-11**] GENERALIZED EDEMA.  AFEBRILE. PALP. PERIPHERIAL PULSES X 4. IV ACCESS IS 2 PIV'S TO LEFT HAND AND ARM PLACED AT OSH.
+
+GI:  + BS NOTED. ABD. WITH ASCITES SOFT AND DISTENDED.  COLOSTOMY IN PLACE WITH ADEQUATE DRAINAGE. ERCP DONE IN GI UNIT TODAY.  FOUND 2 BLOCKAGES IN BILIARY DUCTS.  STENTS X 2 PLACED. 
+
+GU:  FOLEY IN PLACE WITH ADEQUATE URINE OUTPUT.
+
+SOCIAL: WIFE IN TO VISIT AND UPDATE MY MD'S.
+
+SKIN:  JAUNDICE THROUGHOUT WITH NO BREAKDOWN NOTED.
+
+PLAN:  CONT. WITH CURRENT PLAN OF CARE.  MONITOR PER PROTOCOL. STILL NEEDS ECHO. 
+",,
+24580,7069,30523,0,2636-08-11 03:17:00 EST,2636-08-11 03:26:00 EST,1197,"N",69,"Nursing/Other","MICU NPN:","
+MICU NPN:
+NEURO: Pt. slightly drowsy but easily arousable at beginning of shift and now more alert. Sleeping on/off throughout night. A&Ox3. Denies any pain. Moving mostly independently in bed and assistance given as needed with turning etc. 
+CV: Tmax 99.0. HR 90s-100s SR/ST, no ectopy noted. BP stable. Skin jaundiced with scleral icterus. Generalized [**12-11**]+ edema. Two peripheral IVs intact and patent to L arm. On zozyn IV.
+RESP: Wearing 2L O2 via NC with O2 Sats >94%. LS coarse and had period of audible expiratory wheezing around midnight- intern into assess and given 20mg IV lasix with good u/o. No further wheezing noted. Pt. denies SOB. States he usually doesn't have wheezes and no history of asthma or COPD.
+GI/GU: Abd. distended with ascites. Bowel sounds present and colostomy bag draining golden-colored loose stool. On ""juices only"" diet per GI. S/p two stents placed yesterday to blockages in biliary ducts. Foley with icteric amber urine >30cc/hr.
+SKIN: Basal cell CA over limbs, shoulders and back. Several bandaids over legs. Duoderm over L shoulder. 
+Plan for ECHO today.
+",,
+24580,7069,30523,0,2636-08-11 16:03:00 EST,2636-08-11 16:17:00 EST,209,"N",69,"Nursing/Other","FINQRD 4 ICU NPN 0700-1900","
+FINQRD 4 ICU NPN 0700-1900
+
+Diet advanced to low residue.No c/o abd pain. Skin & sclera jaundiced. Urine icteric. Stool lt brown, loose via colostomy.
+T-max 99.3PO. WBC 16. Cont on piperacillin/tobactam. BC from OSH grew gm negative rods 
+BS clear to slightly coarse, diminished at hte bases. Did become tachypneaic when repositioning self in bed. Sats mid 90's on RA
+C-echo done. results pnd.
+Wife phoned & was updated on pt's condition.
+A&O X3.
+
+A/P: Stable S/P ERCP with stent placement.
+Follow WBC, temp, cont antibx
+Call out to floor/.
+Increase activity.
+
+
+",,
+24580,7069,30523,0,2636-08-12 04:10:00 EST,2636-08-12 04:23:00 EST,1197,"N",69,"Nursing/Other","MICU NPN:","
+MICU NPN:
+NEURO: A&Ox3. Pleasant and cooperative. Denies pain. MAE x4 and turning himself in bed independently. 
+CV: Tmax 100.6 po. Abx changed to levofloxacin. HR 90s-110s SR/ST, no ectopy noted. BP stable via NIBP. Skin warm and dry with weak but palpable pedal pulses. Generalized [**12-11**]+ edema.
+RESP: On RA with O2 Sat 92-94%. LS clear and diminished at bases. Intermittent non-productive cough. RR 20s-30s. +DOE. Denies SOB.
+GI/GU: Abd. distended with ascites. Positive bowel sounds. Colostomy draining liquid-loose brown stool, heme negative. On low residual diet and tolerating well. No nausea or vomitting. Foley with icteric amber urine >30cc/hr. 
+SKIN: Multiple skin lesions of basal cell CA on legs with dsgs intact. Duoderm to L shoulder intact. Two peripheral IVs intact to L arm. 
+Plan to transfer to floor when bed avail. Transfer note started.
+",,
+24580,7069,30523,0,2636-08-12 15:42:00 EST,2636-08-12 15:48:00 EST,43,"N",69,"Nursing/Other","S/MICU Nursing Progress Note","
+S/MICU Nursing Progress Note
+  Neuro: A&O x 3, pleasant cooperative gentleman, able to do ADL's, has not gotten OOB yet, MAE, 
+  GI: colostomy bag replaced skin under intact, slight prolaspe of colon, abd distended, + BS, stool loose brown to golden color, appetite fair to good taking po's without difficulty. stool output 500cc for the day. 
+  Cardiac: HR 80-90's NSR, no VEA, BP ranged form 98-120/70's 
+  GU: foley D/C at 1345 and has yet to void. urine icteric, sedimented at times.
+   ID: afebrile, on levoquin IV.  
+  Plan: will transfer to med floor today. cont with antibx for total of 14days (today day 6) ?discharge needs for home. 
+",,
+24580,7069,,,2636-08-15 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2636-8-15**] 11:32 AM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 3835**]
+     CT 100CC NON IONIC CONTRAST
+     Reason: pls compare to prior for change in biliary obstruction.     
+     Admitting Diagnosis: RECTAL CANCER;ASCENDING CHOLANGITIS
+     Field of view: 36 Contrast: OPTIRAY Amt: 100
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       54 year old man with metastatic colon CA admitted for obstructive jaundice and 
+      cholangitis, now s/p biliary stenting but with increasing wbc/hematologic 
+      markers of sepsis.
+     REASON FOR THIS EXAMINATION:
+      pls compare to prior for change in biliary obstruction.                         
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Metastatic colon cancer, now with the obstructive jaundice and
+     cholangitis, increased white cell count.  Evaluate for degree of biliary
+     obstruction.
+     
+     TECHNIQUE:  Coronal and axial images of the abdomen and pelvis were acquired
+     helically following the administration of oral and 100 cc of Optiray IV
+     contrast.
+     
+     COMPARISON:  Abdominal CT scan from [**2636-8-9**].
+     
+     CT OF THE ABDOMEN WITH IV CONTRAST:  There are dependent areas of atelectasis
+     but overall, lung aeration is improved compared to [**8-9**].  There are trace
+     bilateral pleural effusions.  No pericardial effusion. There is a 13 mm nodule
+     in the right lower lobe just above the hemidiaphragm.
+     
+     Again seen is extensive intrahepatic biliary ductal dilatation, the degree of
+     which is unchanged since the previous study.  There are two new biliary stents
+     present, one is in the left hepatic duct, the other is in the distal common
+     bile duct, bridging the area from the inferior aspect of the previously
+     inserted stent to the duodenum.  Air is present within the biliary tree and
+     gallbladder, likely indicative of stent functioning or recent instrumentation.
+     Note is made that the anastomosis of the previous stent with distal CBD stent,
+     the most superior aspect of the newly inserted stent appears slightly
+     narrowed. There is no change in the appearance of multiple low attenuation
+     lesions throughout the liver.  The degree of IVC compression is unchanged
+     allowing for the differences in technique.  The stent bridges the multiple low
+     attenuation lesions within the porta hepatis, and does not appear narrowed at
+     this level.
+     
+     Again seen are cardiophrenic lymph nodes. There is slight fullness in the left
+     adrenal gland which is only seen on one image. The degree of ascites and
+     nodular enhancement in the peritoneum is unchanged. There is no evidence of
+     bowel obstruction. Again seen is a left lower quadrant ostomy. There is no
+     evidence of renal obstruction. The spleen is unchanged in size.
+     
+     CT OF THE PELVIS WITH IV CONTRAST:  Again seen is a moderate amount of ascitic
+     fluid within the pelvis, the amount of which is not changed significantly. The
+                                                                 (Over)
+
+     DATE: [**2636-8-15**] 11:32 AM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 3835**]
+     CT 100CC NON IONIC CONTRAST
+     Reason: pls compare to prior for change in biliary obstruction.     
+     Admitting Diagnosis: RECTAL CANCER;ASCENDING CHOLANGITIS
+     Field of view: 36 Contrast: OPTIRAY Amt: 100
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     large presacral soft tissue attenuation material is unchanged.  The bladder is
+     unremarkable. No pathologically enlarged inguinal or pelvic lymph nodes are
+     seen.
+     
+     BONE WINDOWS:  No suspicious lytic or sclerotic osseous lesions are
+     identified.
+     
+     IMPRESSION:
+     1.  Interval insertion of two billiary stents, one in the left hepatic duct,
+     the other in the common bile duct bridging the inferior aspect of the
+     previously present stent to the duodenum.  There is new pneumobilia, which
+     could be secondary to a patent stent or recent instrumentation.  No change in
+     the degree of biliary dilatation. No new intraabdominal abscess.
+     2.  Unchanged appearance of multiple metastatic foci.
+     
+     
+
+",,
+24580,,,,2636-09-17 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2636-9-17**] 1:25 PM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 3836**]
+     CT 150CC NONIONIC CONTRAST
+     Reason: METASTATIC COLON CA, BILIARY OBSTRUCTION, S/P ERCP, PERSISTENTLY FEBRILE, EVALUATE FOR ABOMINAL SOURCE OF INFECTION
+     Admitting Diagnosis: FEVER
+     Field of view: 38 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      54 year old man with met colon CA, p/w recurrent biliary obstruction, s/p ERCP, 
+      improving LFTs but persistently febrile.
+     REASON FOR THIS EXAMINATION:
+      eval for intraabd source of infection ie abscess.                               
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CLINICAL HISTORY:  54-year-old male with metastatic colon cancer and biliary
+     obstruction; now with persistent fevers.
+     
+     TECHNIQUE:  Contiguous axial images were obtained from the lung bases through
+     the symphysis pubis following the administration of 100 cc of Optiray.
+     Nonionic contrast was used due to patient history of allergies.
+     
+     COMPARISON:  09/2004.
+     
+     CT ABDOMEN w/ IV CONTRAST:  Visualized lung bases demonstrate minor dependent
+     atelectatic changes and trace bilateral pleural effusions.  There are at least
+     four (4) right lower lobe pulmonary nodules, two (2) of which measure 1 cm in
+     size. There is a small left lower lobe pulmonary nodule as well.  The heart
+     appears grossly normal.  There is no pericardial effusion.  Two (2)
+     pericardial lymph nodes and a right internal mammary lymph node are again
+     noted.  As before, the liver demonstrates numerous low attenuation lesions, in
+     keeping with known metastatic disease.  Two (2) biliary stents are again
+     noted.  There is a stable degree of moderate biliary ductal dilatation, as
+     well as a few small foci of pneumobilia.  The portal vein and its branches
+     appear patent at this time.  The gallbladder is collapsed.  The spleen,
+     pancreas, kidneys, and right adrenal gland appear grossly normal.  As before,
+     there is a nodular prominence of the medial limb of the left adrenal gland.
+     The visualized loops of bowel appear grossly normal.  There is a moderate
+     amount of free ascites in the abdomen and pelvis, unchanged since the prior
+     study.  There is extensive lymphadenopathy in the perisplenic, peripancreatic,
+     portal, and mesenteric regions.  In addition, there is omental thickening,
+     consistent with tumor implants.  The aorta and its major intraabdominal
+     branches appear patent. There is narrowing of the intrahepatic portion of the
+     IVC, unchanged.  No free intraabdominal air is identified.
+     
+     CT PELVIS w/ IV CONTRAST:  A left lower quadrant ostomy is again noted.  The
+     bladder is collapsed and appears thickened.  There is stable soft tissue
+     prominence to the presacral space at the site of surgical resection,
+     consistent with disease involvement.
+     
+     BONE WINDOWS:  No suspicious lytic or blastic lesions are identified within
+     the visualized osseous structures.
+     
+                                                                 (Over)
+
+     DATE: [**2636-9-17**] 1:25 PM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 3836**]
+     CT 150CC NONIONIC CONTRAST
+     Reason: METASTATIC COLON CA, BILIARY OBSTRUCTION, S/P ERCP, PERSISTENTLY FEBRILE, EVALUATE FOR ABOMINAL SOURCE OF INFECTION
+     Admitting Diagnosis: FEVER
+     Field of view: 38 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     IMPRESSION
+     
+     1.  Unchanged appearance of extensive metastatic disease involving the
+         visualized portions of the lower lobes, liver, peritoneum, and
+         presacral space
+     2.  Stable intrahepatic ductal dilatation.
+     
+     3.  Moderate amount of free ascites.  No discrete fluid collections to suggest
+         the presence of abscess.
+     
+     4.  Stable narrowing of the intrahepatic portion of the IVC.
+     
+
+",,
+24580,5753,30524,0,2636-10-23 19:11:00 EST,2636-10-23 19:24:00 EST,5192,"N",69,"Nursing/Other","micu/sicu nsg note: 16:00-19:00","
+micu/sicu nsg note: 16:00-19:00
+events: this is a very pleasant 55 y.o. man admitted from [**Hospital3 **] with a recent gib with a hx of colorectal ca with mets to liver and ? lung. basal cell ca is on his back and his r leg. his last chemo and radiation were in march. he was admitted [**10-21**] to [**Hospital3 **] with a gib from his colostomy which was placed a yr ago. his hct on adm there was 23 and pt had received a total of 7 units prbc there. his last lg bleed was 24 hours ago. [**10-22**] he underwent a gastroscopy: negative. [**10-23**] he underwent a colonoscopy with no evidence of bleed but ? ischemic bowel. ? bleed near stoma. 9am his hct was 29, 11am he had 150-200cc blood out from his colonoscopy. he received 1 unit ffp and 10mg vit k [**10-22**] and 1 unit prbc today. 
+
+pt arrived to [**Hospital1 **] ficu in nad.
+
+neuro: a&ox3, mae with + strong hand grasps and foot pushes. able to turn side to side in bed independently. 
+
+cv: hr in the 80s sr with no ectopy noted. sbp low 100s. +pp, +csm. 
+
+resp: lungs diminished with crackles at bases. sp02 99% on rm air. denies sob. 
+
+gi/gu: abd distended, nontender, +bs, tolerating clear liquid diet. ostomy site draining pinkish light brown scant amt of stool in colostomy bag. pt reports + flatus.pt to be npo after midnight for repeat colonscopy in am. will need golytely prep tonight. ivf ordered for after midnight. voiding 110cc icteric sediment 
+looking urine via foley since 4pm. 
+
+skin: allevyn dsg over r calf, cd&i- site where his basal cell ca is and had been bleeding. pt also with bandaid on upper back behind neck with quarter sized lesion with pink base, no drainage noted. 
+
+lines: 2 piv #20 gauge heplocks patent. 
+
+social: pt's wife called for pt update. she will visit pt tomorrow am. 
+
+plan: monitor serial hcts- 5pm hct=32. bowel prep for repeat colonoscopy in am. npo after midnight with ivf.
+
+
+",,
+24580,5753,30524,0,2636-10-24 05:31:00 EST,2636-10-24 05:39:00 EST,977,"N",69,"Nursing/Other","Micu NPN","
+Micu NPN
+Neuro: Very pleasant man, alert and orientated x3.
+
+CV: BP and HR stable see flow sheet for numbers.
+
+Resp: Sats are fine on room air.
+
+GI: Golyely prep was started pt. took approx. 1.5l and started to c/o of very bad abd. cramping, stool from colostomy was very watery and pink tinged in color md is aware of this.  Abd. very hard and firm bs +. Colostomy stoma very swollen, drainage bage was appiled to stoma, due to pt. was concern about his bag coming off.
+
+GU: Urine is very icteric, foley in palce.
+
+Heme: Crit at 11pm was 31, am crit still pending this am.
+
+Plan: Colonoscopy this am, continue with iv maint. fluids.
+",,
+24580,5753,30524,0,2636-10-24 16:15:00 EST,2636-10-24 16:20:00 EST,5192,"N",69,"Nursing/Other","micu/sicu nsg transfer note addendum: 7;00-16:30","
+micu/sicu nsg transfer note addendum: 7;00-16:30
+PT HAS BEEN TAKING ICE CHIPS AWAITING ERCP. AM K WAS 3.3, MAGNESIUM WAS 1.5, REPLETED WITH 3 AMPS MAGNESIUM SULFATE  OVER 2 HOURS AND 40MEQ KCL IN 500CC NS OVER 4 HOURS-FINISHED AT 4PM. NOW RECEIVING NS AT 75CC/HR. PT SENT TO ERCP AND TO TRANSFER TO 11 [**Hospital Ward Name **] POST ERCP. REPORT GIVEN TO 11 [**Hospital Ward Name **]. BELONGINGS SENT TO 11 [**Hospital Ward Name **] VIA TRANSPORT. SEE TRANSFER NOTE AND CARE VUE FOR DETAILS OF SHIFT.
+",,

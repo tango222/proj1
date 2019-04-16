@@ -1,0 +1,450 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+24797,,,,2995-05-02 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2995-5-2**] 6:57 PM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 6126**]
+     Reason: any acute bleed?                                            
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      49 year old man found down                                                      
+     REASON FOR THIS EXAMINATION:
+      any acute bleed?                                                                
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+     WET READ: FKh SAT [**2995-5-2**] 10:57 PM
+      Illdefined hypodensities in the bilateral frontal lobes. Finding of unknown
+      acuity or clinical significance.
+      Could represent chronic ischemic changes.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     55 y/o man found unconscious. R/O acute intracranial hemorrhage.
+     
+     COMPARISONS: No comparisons are available.
+     
+     TECHNIQUE: Non-contrast head CT.
+     
+     FINDINGS: There is no intracranial hemorrhage, mass effect, shift of normally
+     midline structures, hydrocephalus, major vascular territorial infarcts. The
+     grey white matter differentiation is preserved. The sulci and the cisterns are
+     preserved. There is a cavum septum pellucidum et Vergae. There are
+     hypodensities in the periventricular white matter which are more prominent in
+     the frontal lobes (especially on the left). They are most likely secondary to
+     chronic microvascular ischemic changes. There are minimal polyps in the left
+     maxillary sinus. No evidence of fracture, lytic or blastic lesions.
+     
+     IMPRESSION: 1)There is no intracranial hemorrhage.
+     
+     2) White matter changes attributable to microvascular angiopathy.
+
+",,
+24797,,,,2995-05-02 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2995-5-2**] 8:29 PM
+     CHEST (SINGLE VIEW)                                             Clip # [**Clip Number (Radiology) 6127**]
+     Reason: any acute cardiopulm findings.                              
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      49 year old man found down with low grade fever                                 
+     REASON FOR THIS EXAMINATION:
+      any acute cardiopulm findings.                                                  
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: 55 y/o man found unconscious with low grade fever. R/O acute
+     cardiopulmonary abnormality.
+     
+     AP SINGLE VIEW OF THE CHEST: Radiograph is extremely limited due to patient's
+     position and motion. The heart appears to be within normal limits. The
+     mediastinum cannot be assessed due to rotation of the patient. There is no
+     evidence of pneumothorax. There is no evidence of pleural effusions. However,
+     the right costophrenic angle is not included in the radiograph. No obvious
+     consolidations were identified.
+     
+     IMPRESSION:
+     1) There is no radiographic evidence of acute cardiopulmonary abnormality.
+     However, the radiograph is extremely limited due to rotation, and patient
+     motion. Recommend whenever possible to repeat the PA & lateral chest
+     radiograph if clinically indicated.
+     2) There are no obvious rib fractures.
+
+",,
+24797,2023,,,2995-05-03 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+
+Admission Date:  [**2995-5-3**]     Discharge Date:  [**2995-5-6**]
+
+Date of Birth:   [**2939-5-6**]     Sex:  M
+
+Service:  MEDICINE
+
+HISTORY OF PRESENT ILLNESS:  This is a 55 year old male with
+a past medical history significant for end-stage renal
+disease on hemodialysis, Hepatitis C, and Hepatitis B,
+hypertension, poly-substance abuse found down, on admission
+here with a finger stick of 68.  The patient was unable to
+provide any history on presentation.  The patient was
+unintelligible and flailing limbs in the Emergency
+Department.  Temperature was 100.2 F., and more than 103.0 F.
+rectally in the Emergency Department with systolic blood
+pressure of 200 and with heart rate in the 120s.  The
+patient's labs were notable for a creatinine of 6.2; no urine
+output when Foley catheter was placed.  He had arterial blood
+gas of 7.51, 44, 74.
+
+A lumbar puncture was performed, showing 6 white blood cells
+with 93% neutrophils and 31 red blood cells; no organisms on
+Gram Stain.
+
+The patient received ceftriaxone 2 grams, Vancomycin 1 gram
+and a total of 6 mg of Ativan and 5 mg of Haldol, Tylenol and
+the patient was admitted to FICU secondary to unstable oxygen
+saturation.
+
+PAST MEDICAL HISTORY:   Obtained from [**Hospital6 1097**].
+1.  End-stage renal disease on hemodialysis.
+2.  Chronic anemia, secondary to renal disease.  Baseline
+hematocrit of 28 to 32.
+3.  Chronic thrombocytopenia, baseline platelets between 70
+to 80.
+4.  Hypertension.
+5.  Hepatitis B and C.
+6.  Myocardial infarction at age 21.
+7.  Peripheral vascular disease.
+8.  Abdominal aortic aneurysm 3.9 cm measured in [**2994-12-1**].
+9.  Status post appendectomy.
+10. Cholelithiasis.
+
+OUTPATIENT MEDICATIONS:
+1.  Nephrocaps one capsule p.o. q. day.
+2.  Pantoprazole 40 mg p.o. q. day.
+3.  Sevelamer 400 mg p.o. three times a day.
+4.  Amlodipine 10 mg p.o. q. day.
+5.  Docusate 100 mg p.o. twice a day.
+6.  Percocet p.r.n.
+
+PHYSICAL EXAMINATION:  On admission, temperature 98.4 F.;
+blood pressure 134/75; heart rate ranging between 91 to 126;
+respiratory rate 18; O2 saturation 92% on room air.  The
+patient was a confused, cachectic, combative male.  Pupils
+about 3 mm.  There is a question of being unreactive.  Unable
+to assess oral cavity.  Neck is difficult to examination with
+a question of stiffness.  Lungs clear to auscultation
+bilaterally.  Heart:  Regular rate, S1, S2, no murmur.  Belly
+is soft, nontender, nondistended; positive bowel sounds.  Has
+several old scars.  Rectal examination is guaiac positive.
+Extremities have left fistula with thrill and bruit and has a
+right surgical incision oozing serosanguinous fluid and
+indurated.  Neurologic examination was difficult as the
+patient was uncooperative, somnolent, but easily aroused,
+agitated, nonverbal, moving all four extremities.  Strength
+intact; three plus reflexes throughout.  No clonus.  Toes
+were downward.
+
+LABORATORY:  On admission, pertinent labs included white
+blood cell count 11.1, hematocrit 32.4, platelets 95, MCV of
+103.  Chem-10 was sodium of 139, potassium 4.7, chloride 92;
+bicarbonate 25, BUN 11, creatinine 6.2, glucose 100, anion
+gap of 22, INR of 1.1.  CK 107, troponin 0.03.
+
+Serum toxicology was negative.
+
+The patient had an EKG showing sinus tachycardia at 122;
+normal axis and intervals.  Has left ventricular hypertrophy
+by voltage, one to two mm ST depression in V4 through V6 and
+II.  No Qs.
+
+Chest x-ray was clear but has motion artifacts.
+
+MRI of the head on [**5-3**], showing chronic microvascular
+infarction; no acute infarction.  CT scan of the head on [**5-2**], was negative for hemorrhage.  His white matter change was
+consistent with microvascular angiopathy.
+
+The patient had an echocardiogram done on [**5-5**] showing
+there is a mild symmetric left ventricular hypertrophy and
+overall left ventricular systolic function is normal.  Left
+ventricular ejection fraction greater than 55%.  Mild aortic
+regurgitation and trivial mitral regurgitation.  No evidence
+of endocarditis seen.
+
+HOSPITAL COURSE:
+1.   ALTERED MENTAL STATUS:  Differential diagnosis including
+syncope, seizures, stroke, HSV encephalitis, alcohol
+withdrawal or illicit drug use.  The patient improved back to
+his baseline after staying in the Intensive Care Unit for two
+days and then was transferred to the floor.  Both CT scan and
+MRI of the head showing old infarction; no acute hemorrhage
+or infarction.  Given his history of poly-substance abuse,
+this could be from the drug use, although the serum
+toxicology was negative.  The lumbar puncture was negative
+for bacterial culture and viral culture and later returned
+also negative.  The patient was originally started on
+Acyclovir due to suspicion of possible HSV infection,
+encephalitis and was discharged after viral culture returned
+to be negative.
+
+2.  RULE OUT MYOCARDIAL INFARCTION:  The patient has [**Street Address 1421**]
+depression V4 through V6 and II, but has three sets of stable
+CK and troponin.  The echocardiogram showed normal left
+ventricular function with only one plus AR and trivial mitral
+regurgitation; otherwise unremarkable.
+
+3.  GUAIAC POSITIVE STOOL:  The patient had a hematocrit drop
+slightly below 25 from a baseline of 28.  Was transfused with
+one unit of packed red blood cells.  We recommend outpatient
+endoscopy and colonoscopy.  Given that the patient is a
+regular [**Hospital6 1097**] patient, it would be more
+beneficial for him to go to the [**Hospital6 1097**] system
+so the record will stay there.
+
+4.  END-STAGE RENAL DISEASE ON HEMODIALYSIS:  He has received
+hemodialysis on Monday and Wednesday during his hospital
+stay.
+
+5.  THROMBOCYTOPENIA OF UNKNOWN CAUSE:  This has been a
+chronic problem for the patient.  At discharge, platelet
+level is 78.
+
+6.  ANEMIA:  The patient has chronic anemia secondary to
+end-stage renal disease.  Iron studies are consistent with
+anemia of chronic disease.  Has normal folate and B12 levels.
+Will just continue monitoring and transfuse if less than 25.
+
+7.  HYPERTENSION:  The patient's blood pressure was on the
+higher end and only on Amlodipine 10 mg p.o. q. day.  Will
+recommend him to add another [**Doctor Last Name 978**].  His primary care
+physician, [**Last Name (NamePattern4) **]. [**Last Name (STitle) 6057**], was notified by his nurse in the
+Gambriel Dialysis Center.  The patient had a high blood
+pressure while in the hospital and recommend monitoring and
+adding another [**Doctor Last Name 978**] for better control of his blood
+pressure.
+
+DISCHARGE DIAGNOSES:
+1.  Syncope.
+2.  End-stage renal disease on hemodialysis.
+3.  Hypertension.
+4.  Peripheral vascular disease.
+5.  Abdominal aortic aneurysm.
+6.  Poly-substance abuse.
+7.  Hepatitis B and C.
+
+DISCHARGE STATUS:  To home.
+
+CONDITION AT DISCHARGE:   Vitals stable, ambulating, eating.
+
+DISCHARGE MEDICATIONS:
+1.  Protonix 40 mg p.o. q. day.
+2.  Sevelamer 400 mg p.o. three times a day.
+3.  B complex.
+4.  Vitamin C.
+5.  Folic acid 1 mg p.o. q. day.
+6.  Amlodipine 10 mg p.o. q. day.
+7.  Docusate 100 mg p.o. twice a day.
+
+DISCHARGE INSTRUCTIONS:
+1.  The patient should call his primary doctor, Dr. [**Last Name (STitle) 6057**],
+for follow-up within the week.
+2.  He should also follow-up with hemodialysis center as he
+is routinely scheduled and the next one is this Friday.
+
+
+
+
+                          [**Doctor Last Name **] [**Name6 (MD) **] [**Name8 (MD) **], M.D.  [**MD Number 1071**]
+
+Dictated By:[**Name8 (MD) 3698**]
+
+MEDQUIST36
+
+D:  [**2995-5-6**]  16:07
+T:  [**2995-5-7**]  19:12
+JOB#:  [**Job Number 6058**]
+Signed electronically by: DR. [**First Name11 (Name Pattern1) **] [**Initial (NamePattern1) **]. [**Last Name (NamePattern1) **]
+ on: [**Doctor First Name 122**] [**2995-5-7**] 10:29 PM
+(End of Report)
+
+
+",,
+24797,2023,,,2995-05-03 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2995-5-3**] 9:54 PM
+     MR HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 6131**]
+     Reason: need to r/o embolic/ischemic cva, need to clear cervical spi
+     Admitting Diagnosis: MENTAL STATUS CHANGES-DECREASED SATS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      49 year old man found unresponsive                                              
+     REASON FOR THIS EXAMINATION:
+      need to r/o embolic/ischemic cva, need to clear cervical spine                  
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATIONS: Patient found unresponsive. ? CVA. 
+     
+     MRI OF THE BRAIN WITHOUT CONTRAST:
+     
+     TECHNIQUE:  Multiplanar, T1, T2, FLAIR, gradient echo and diffusion weighted
+     images of the brain were obtained.
+     
+     COMPARISONS;  None.
+     
+     FINDINGS:  Diffusion weighted images show no evidence of focally restricted
+     diffusion.  FLAIR and T2W images demonstrate mild periventricular white matter
+     hyperintensity, consistent with chronic microvascular infarctions. Similarly
+     there is a linear, approximately 1 cm, region of hyperintensity on the T2W and
+     FLAIR images at the level of the pons. No regions of cortical involvement are
+     seen. No regions of abnormally increased susceptibility are noted.  There is a
+     cavum septum pellucidium et vergae.  There is no mass effect or shift of
+     normally midline structures. The surrounding osseous and soft tissue
+     structures are unremarkable. The major vascular flow patterns are within
+     normal limits.
+     
+     IMPRESSION:  White matter changes consistent with chronic microvascular
+     infarction. No evidence of acute infarction.
+
+",,
+24797,2023,,,2995-05-03 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2995-5-3**] 9:18 PM
+     C-SPINE FLEX AND EXT ONLY 2 VIEWS                               Clip # [**Clip Number (Radiology) 6130**]
+     Reason: Please evaluate for fracture or other injury                
+     Admitting Diagnosis: MENTAL STATUS CHANGES-DECREASED SATS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      55 year old man found down, unable to give history of event                     
+     REASON FOR THIS EXAMINATION:
+      Please evaluate for fracture or other injury                                    
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Patient found down and unable to provide history.
+     
+     CERVICAL SPINE, LATERAL EXTENSION/FLEXION VIEWS:
+     
+     Vertebral body C1 through the upper portion of T1 are visualized.  The
+     vertebral body heights and disc spaces are preserved.  There is no
+     prevertebral soft tissue swelling. No fracture or listhesis is identified. The
+     spine is stable in flexion/extension.
+
+",,
+24797,2023,,,2995-05-03 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2995-5-3**] 11:49 AM
+     ABDOMEN (SUPINE ONLY)                                           Clip # [**Clip Number (Radiology) 6129**]
+     Reason: MRI screening for metallic objects                          
+     Admitting Diagnosis: MENTAL STATUS CHANGES-DECREASED SATS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      55 year old man found down on street.                                           
+     REASON FOR THIS EXAMINATION:
+      MRI screening for metallic objects                                              
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  55 year old man found down on the street, MRI screening for metallic
+     object.
+     
+     AP SUPINE ABDOMEN including the hips and lower ribs:  No evidence of any
+     metallic objects. Bowel gas pattern is normal. Marked aortic dilatation of the
+     upper abdominal aorta with marked calcification of all vessels.
+     
+     IMPRESSION:   No metallic object seen.
+
+",,
+24797,2023,,,2995-05-03 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2995-5-3**] 11:15 AM
+     US EXTREMITY NONVASCULAR RIGHT PORT                             Clip # [**Clip Number (Radiology) 6128**]
+     Reason: Please r/o fluid collection                                 
+     Admitting Diagnosis: MENTAL STATUS CHANGES-DECREASED SATS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      49 year old man found down, febrile, altered MS, with relatively new incision 
+      on right upper arm.  Oozing serosanguinous fluid, indurated  
+     REASON FOR THIS EXAMINATION:
+      Please r/o fluid collection                                                     
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Febrile and altered mental status with incision of right upper
+     extremity leaking serosanguineous fluid.
+     
+     FINDINGS:  Limited ultrasound of the right upper extremity shows evidence of
+     edema/inflammatory change within the soft tissues of the superficial right
+     upper extremity. Immediately adjacent to the right brachial vein and artery,
+     there is a oval shaped heterogeneous hypoechoic structure measuring 1.4 x 0.9
+     x 1.8 cm. This structure did not demonstrate significant vascularity.
+     
+     IMPRESSION:  No drainable fluid collection identified within the upper
+     extremity. Diffuse edema/inflammatory change. 1.8cm oval heterogeneous
+     structure adjacent to the brachial vessels likely representing a lymph node or
+     resolving hematoma.
+
+",,
+24797,2023,30786,0,2995-05-03 04:41:00 EST,2995-05-03 05:28:00 EST,217,"N",69,"Nursing/Other",,"
+
+MICU NURSING ADMISSION NOTE:
+
+Pt is a 50-60YO African-American man found down in Mission [**Doctor Last Name **] area. BG 68 at scene. Brought to EW where he was found to be febrile, mumbling unintelligibly, uncooperative. Required Ativan and Haldol in order to get labs and tests. Labs notable for alkalemia, creat 6.2, Lactate 5.4. W/U has included: EKG, CXR, head CT, labs, LP. Apart from labs noted above, all were fairly unremarkable. 
+
+ALL: unknown
+PMH: unknown except ESRD/HD (fistula with + bruit on left forearm)
+
+ROS: 
+NEURO: Difficult exam. Pt sleeps in fetal position when left alone, but becomes agitated and combative with any interventions. Movements are purposeful (i.e. pulls covers over head). Unable to assess pupils, cough, or gag due to lack of cooperation. MAE, does not follow commands. Recieved Haldol and Ativan in EW in order to facilitate w/u, rx. None given here. Wrist restraints for safety. 
+RESP: ABG's slightly alkalotic with adequate oxygenation. Has removed O2 repeatedly. Unable obtain sats despite numerous attempts; oxygenation was adequate on RA ABG in EW. RR 18-20, non-labored, LS CTA. 
+C-V: Hypertensive on arrival to EW, but this has resolved. HR 90-130, ST, no ectopy. EKG showed 1mm ST depression V4-V6. CK's flat, trop slightly elevated. 
+ID: Temp to 103 in EW; 99 here. BC X 2 sent, LP done......results concerning for CNS infection (most likely listeria, herpes encephalitis). Started on appropriate abx coverage. 
+GU: Foley placed in EW, but no U/O (likely baseline). Unknown when he was last dialyzed.
+GI: Belly benign, no stool. OB+ rectal exam per notes. PPI started
+HEME: Hct 32.4; plt's 95; coags WNL. OB+ revctal exam, no other evidence of bleeding. 
+SKIN: Multiple old surgical scars and ? track marks. RUE surgical site with induration ~5 inches long. Sutures have been removed and most of incision is well-approximated. Has small open area which is draining small amount of sero-sanguinous fluid. Area cleaned and new DSD applied. 
+ACCESS: #2 R hand, #18 R EJ. 
+SOCIAL: unknown; no ID; had paper in pocket with a pager number on it that said ""Daddy"". Number has not been tried. 
+
+A: stable, but unclear what is going on with him. 
+
+P: needs AM labs, EKG when he can be more cooperative; pneumoboots when available; maintain droplet precautions; continue abx; continue w/u for etiology of MS changes. 
+ 
+",,
+24797,2023,30786,0,2995-05-03 15:53:00 EST,2995-05-03 16:17:00 EST,1008,"N",69,"Nursing/Other","MICU/SICU HD #1","
+MICU/SICU HD #1
+Events: Pt identified as [**Known patient firstname 185**] [**Known patient lastname **] DOB [**2939-5-6**], by family members. PMH MI at age 21, HCV, ESRD -->HD 3xwk, HTN, polysubstance abuse, PVD, AAA 3.9cm, s/p appy, galstones, renal transplant 1988, acute on chronic renal tx rejection 1997. Pt placed in C-collar until C-spine can be cleared. US of right upper arm obtained to r/o infectious process. KUB doen to r/o metal in abdomen to facilitate MRI of head and neck.
+
+ROS:
+
+Neuro: pt more awake/alert today, answering questions with one/two word answers, MAE appropriately, denies pain and SOB
+
+Resp: SpO2 97-100% on RA, LS CTA
+
+CV: AVSS, [**Last Name (un) 1799**] see flowsheet for data
+
+Skin: 10cm incision on right upper arm, wound closely approximated, healing, small 1cm area open with minimal drainage.
+
+GI/GU: abd soft, NT/ND, BS present, NPO, pt is anuric, HD 3x wk, Foley d/c'd d/t pt agitation
+
+Lines: #18 angio in right EJ, #22 right hand
+
+Social: two of pt's daughters in to identify/visit pt today, daughters indicated that pt receives all his care, including hemodialysis, at [**Hospital6 **], daughters als expressed desire that pt be transferred there
+
+A:
+
+altered mental status of unknown etiology
+high risk fo injury r/t altered MS
+risk for fluid voluem imbalance r/t renal failure
+
+P:
+
+continue to monitor hemodynamic/neuro status,  plan for HD tomorrow, HD regularly scheduled 3x week, Mon/Wed/Fri, continue abx as ordered, neuro consult, renal consult, ID consult, transfer to medical bed when available or contact PCP at [**Hospital1 418**] for possible transfer
+",,
+24797,2023,30786,1,2995-05-04 04:13:00 EST,2995-05-04 04:22:00 EST,585,"Y",69,"Nursing/Other","micu/sicu npn 1900-0700","
+micu/sicu npn 1900-0700
+pt scheduled dialysis today as is on m/w/f schedule. pt is anueric.
+",,
+24797,2023,30786,0,2995-05-04 04:13:00 EST,2995-05-04 04:20:00 EST,585,"N",69,"Nursing/Other","micu/sicu npn 1900-0700","
+micu/sicu npn 1900-0700
+*please see carevue flowsheet for all objective data
+
+patient transported to xray and mri for films and scan to clear his c spine. scans were negative and dr. [**Last Name (STitle) **] removed collar from patient overnight.
+
+patient much more awake this am alert, oriented x3. mae, more verbal this am. vss per carevue, stable throughout night. afebrile o/n, conts on levoquin, acyclovir, ampicillin, ceftriaxone for ?? infectious source. all culture data reportedly negative to date.. access remains major issue, conts to ahve one #22 g in r hand area. ij iv was found in pt's bed last evening. to go to IR today for picc placement under fluoro. able to get labs this am, results pending. ?c/o to floor if remains stable.
+",,

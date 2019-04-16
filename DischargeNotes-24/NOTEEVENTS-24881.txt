@@ -1,0 +1,620 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+24881,,,,2735-08-30 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2735-8-30**] 10:32 PM
+     ABDOMEN (SUPINE & ERECT)                                        Clip # [**Clip Number (Radiology) 7045**]
+     Reason: 88 y/o woman with h/o sigmoid volvulus, presenting with acut
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      88 year old woman with 
+     REASON FOR THIS EXAMINATION:
+      88 y/o woman with h/o sigmoid volvulus, presenting with acute onset abdominal
+      pain, distention and nausea.  ? volvulus vs. obstruction vs. other pathology.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: 88 year of old woman with history of sigmoid volvulus.  Presents
+     with acute onset of abdominal pain, distention and nausa.  Evaluate for
+     volvulus vs obstruction.
+     
+     COMPARISON: 
+     
+     ABDOMEN, SUPINE AND UPRIGHT VIEWS:  There is a markedly dilated loop of colon
+     occupying the majority of the abdomen which has an appearance consistent with
+     a dilated sigmoid secondary to sigmoid volvulus.  There is no evidence of
+     pneumatosis and no free air is seen.  Gas is seen througout the length of the
+     colon. No abnormally dilated loops of small bowel are seen.  There is an IVC
+     filter. There are marked degenerative changes of the lower lumbar spine.
+     
+     IMPRESSION:  Sigmoid volvulus.
+
+",,
+24881,22230,,,2735-08-31 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+
+Admission Date:  [**2735-8-30**]       Discharge Date:  [**2735-9-11**]
+
+Date of Birth:   [**2646-9-20**]       Sex:  F
+
+Service:  GENERAL SURGERY
+
+HISTORY OF PRESENT ILLNESS:  The patient is an 88 year old
+female with past medical history of coronary artery disease,
+hypertension, congestive heart failure and atrial
+fibrillation, sigmoid volvulus history about one year ago
+reduced with colonoscopy.  The patient did well until one day
+prior to admission when she developed increased abdominal
+girth with nausea, vomiting and no bowel movements for the
+past day.  The patient had a KUB that showed sigmoid
+volvulus.
+
+PAST MEDICAL HISTORY:
+1.  Hypertension.
+2.  Congestive heart failure.
+3.  Atrial fibrillation.
+4.  History of deep vein thrombosis.
+5.  Hypothyroidism.
+
+PAST SURGICAL HISTORY:  Right tibial fracture repair.
+
+ALLERGIES:  Penicillin and Valium.
+
+MEDICATIONS ON ADMISSION:
+1.  Zantac 150 mg.
+2.  Lasix 60 mg.
+3.  Levoxyl 125.
+4.  Prozac 10 mg.
+5.  Aspirin 81 mg once daily.
+
+PHYSICAL EXAMINATION:  On examination, the patient was
+afebrile, vital signs were stable.  The patient had
+normoactive bowel sounds, distended, tympanitic, minimally
+tender.
+
+LABORATORY DATA:  White count 19.0 with 90 neutrophils, 3
+bands, hematocrit 48.5, platelet count 232,000.  Potassium
+3.7.
+
+HOSPITAL COURSE:  The patient underwent sigmoidoscopy which
+accomplished decompression and resolution of volvulus.  A #28
+French chest tube was placed across the area of the volvulus.
+Tube was draining well fecal material.  Abdominal distention
+was decreased.  On hospital day three, it was noted that the
+rectal tube had become obstructed with fecal drainage coming
+around the tube.  Temperature had risen to 102.6 overnight.
+On examination, the abdomen had become distended again.
+Decision was made to undergo sigmoid colectomy with end
+colostomy and [**Doctor Last Name **] procedure.  The patient was admitted to
+the Surgical Intensive Care Unit postoperatively intubated
+for blood pressure control.  The patient was extubated
+postoperative day one.  The patient was felt to be ready for
+transfer to the floor after some blood pressure issues that
+were resolved in the Intensive Care Unit.  The patient
+finally was transferred to the floor on postoperative day six
+after some delay due to placement.  Postoperative day seven
+the patient was with no complaints, tolerating soft solids,
+on tube feeds, vital signs stable, abdomen soft, nontender,
+nondistended with positive bowel sounds, incision clean, dry
+and intact.  Postoperative day eight the patient continued to
+be afebrile with vital signs stable.  The patient is now
+tolerating thick liquids.  The patient was advanced to pureed
+foods, and Foley was discontinued.  Postoperative day nine,
+the patient continued to do well with no complaints,
+tolerating pureed solids well.  The patient had inadvertently
+pulled out feeding tube shortly before the morning rounds.
+As the patient was taking good p.o. intake, it was felt that
+the feeding tube was no longer necessary.  The patient
+continued to be afebrile and vital signs were stable.  The
+abdomen was soft, nontender, nondistended with normoactive
+bowel sounds.  The incision was clean, dry and intact.  The
+patient was awaiting rehabilitation placement.  The patient
+will be going to a rehabilitation facility and will follow-up
+with Dr. [**Last Name (STitle) **] the following week.
+
+CONDITION ON DISCHARGE:  Good.
+
+DISCHARGE STATUS:  To rehabilitation facility to be named at
+a later date.
+
+DISCHARGE DIAGNOSIS:
+1.  Status post sigmoid colectomy with end colostomy,
+[**Doctor Last Name 5723**] procedure.
+2.  Congestive heart failure.
+3.  Atrial fibrillation.
+4.  Hypothyroidism.
+
+FOLLOW-UP: The patient will be following up with Dr. [**Last Name (STitle) **].
+
+
+
+
+                            [**First Name11 (Name Pattern1) 59**] [**Last Name (NamePattern4) 2333**], M.D.  [**MD Number 2334**]
+
+Dictated By:[**Name8 (MD) 595**]
+MEDQUIST36
+
+D:  [**2735-9-10**]  20:15
+T:  [**2735-9-10**]  20:51
+JOB#:  [**Job Number 6239**]
+
+cc:[**2735-10-1**]
+
+",,
+24881,22230,,,2735-08-31 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2735-8-31**] 4:57 AM
+     CHEST (SINGLE VIEW)                                             Clip # [**Clip Number (Radiology) 7047**]
+     Reason: 88yo F sigmoid volvulus.  Assess for CHF.  Rales on exam.
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      88 year old woman with CHF.
+     REASON FOR THIS EXAMINATION:
+      88yo F sigmoid volvulus.  Assess for CHF.  Rales on exam.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: 88 year old woman with sigmoid volvulus.  Rales on exam. Evaluate
+     for CHF.
+     
+     COMPARISON: Next prior study [**2735-8-30**]
+     
+     CHEST, SINGLE UPRIGHT VIEW: Allowing for AP technique and patient positioning
+     the overall heart size is within normal limits. The aorta is unfolded and
+     calcified.  There is elevation of the left hemidiaphragm with a markedly
+     dilated colon inferior to the hemidiaphragm.  There is atelectasis of the left
+     lung base.  There is mild prominence of the pulmonary vascularity.  No frank
+     pulmonary edema is identified.
+     
+     IMPRESSION: Left lower lobe atelectasis in the setting of left hemidiaphragm
+     elevation with a dilated splenic flexure of the colon.  No frank pulmonary
+     edema.
+     
+
+",,
+24881,22230,,,2735-08-31 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2735-8-31**] 12:49 AM
+     COLON (GASTROGRAF)                                              Clip # [**Clip Number (Radiology) 7046**]
+     Reason: 88yo F KUB shows likely sigmoid volvulus.  H/o sigmoid volvu
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      88 year old woman with h/o sigmoid volvulus.
+     REASON FOR THIS EXAMINATION:
+      88yo F KUB shows likely sigmoid volvulus.  H/o sigmoid volvulus.  Please fix.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: 88 year old woman with history of sigmoid volvulus. Presents with
+     adominal pain and KUB demonstrating likely sigmoid volvulus.
+     
+     THERAPEUTIC GASTROGRAFIN ENEMA: Initial scout images of the abdomen reveal a
+     markedly dilated sigmoid colon measuring up to 14 cm in diameter.  No free air
+     or pneumatosis is seen. A rectal tube was placed and approximately 2 [**11-28**]
+     liters of dilute Gastrografin contrast were administered.  Contrast was
+     demonstrated within the sigmoid and also passed beyond this sigmoid into the
+     descending colon.  No extravasation of contrast was identified. The sigmoid
+     colon was not compressed by the procedure.
+     
+     IMPRESSION: Partial sigmoid volvulus with contrast passing into descending
+     colon.  Unsuccessful decompression of the sigmoid.
+     
+
+",,
+24881,22230,,,2735-08-31 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2735-8-31**] 1:52 PM
+     PORTABLE ABDOMEN                                                Clip # [**Clip Number (Radiology) 7049**]
+     Reason: eval for change in volvulus                                 
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      88 year old woman with sigmoid volvulus s/p reduction via endoscopy             
+     REASON FOR THIS EXAMINATION:
+      eval for change in volvulus                                                     
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     ABDOMEN, PORTABLE STUDY:
+     
+     INDICATION FOR STUDY:  Evaluate for change in volvulus following endoscopic
+     reduction.
+     
+     Contrast is noted in a dilated cecum and ascending colon extending to the
+     proximal transverse colon.  A paucity of bowel gas is noted in the descending
+     colon.  A small amount of contrast is also present in the nondistended
+     transverse colon.  Air is present in the splenic flexure and in the stomach.
+     The patient has a caval filter identified.  No free air is identified.
+     Extensive degenerative changes are present in the lumbar spine.  When compared
+     with the prior study from [**2735-8-31**] there has been slight decrease in the extent
+     of dilatation of the cecum and ascending colon.
+     
+     IMPRESSION:  Slight decrease in the extent of dilatation of cecal volvulus.
+
+",,
+24881,22230,,,2735-08-31 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2735-8-31**] 4:57 AM
+     ABDOMEN (SUPINE & ERECT)                                        Clip # [**Clip Number (Radiology) 7048**]
+     Reason: 88yo F sigmoid volvulus s/p barium enema.  Please reassess b
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      88 year old woman with h/o sigmoid volvulus.
+     REASON FOR THIS EXAMINATION:
+      88yo F sigmoid volvulus s/p barium enema.  Please reassess bowel.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     X-RAY OF ABDOMEN
+     
+     CLINICAL INDICATION:  88 year old woman status post Gastrografin enema for
+     sigmoid volvulus.  Please reassess.
+     
+     Supine and upright radiographs of the abdomen were obtained and compared to
+     the next prior study dated [**2735-8-30**].  The patient has received rectal contrast
+     and air-fluid levels are present in the sigmoid colon and descending colon.
+     The sigmoid remains markedly dilated. No free air is identified and no
+     extravasation of the contrast is seen.  There is no pneumatosis.  Note is
+     again made of an IVC filter.
+     
+     IMPRESSION: No significant interval change in the appearance of the dilated
+     sigmoid status post Gastrografin enema.
+
+",,
+24881,22230,30891,0,2735-08-31 17:45:00 EST,2735-08-31 17:52:00 EST,61,"N",1,"Nursing/Other","ccu nursing progress note","
+ccu nursing progress note
+s"" My belly feels a little better""
+O see flowsheet for objective data and see FHP. VSS, pt. remains in Afib with occassional pvc's. K+3.3, given 40meq KCL. po lopressor started. pt. has difficulty swallowing per son and needs pills in applesauce. sats good on 4lnc. lungs with bilateral crackles. u/o fair.
+GI: Pt. had sigmoid this am and tolerated well without meds. rectal tube left in place for decompression, draining brown loose stool with intermittent flatus. stool is also leaking around rectal tube. remains NPO x meds and ice chips. abdomen much less distended although not at baseline (per daughter). soft, tender with palpation at RUQ. BS hypoactive. hct stable
+ID: pt. draining amber urine with sediment-sent for cx and + for UTI. pt. spiked temp to 102.2 at 6pm, BC x 2 drawn, given tylenol and IV cipro started. family states that with UTI and antibx pt. becomes very confused and hallucinates. WBC 25
+neuro: pt. oriented to person, intermittently is oriented x 2 but has been mostly confused, picking at sat monitor/wires and needs reorientation. Pt. is very pleasant and cooperative. family states that pt. does poorly with sedatives and has gone asystolic with valium. pt. is [**Doctor Last Name **] deprived, has not slept in 48hrs per daughter
+pt. is very HOH bilaterally and has hearing aides
+A: sigmoid vulvulous, temp spike?UTI
+P: follow GI status, ID status, mental status, reorient prn, follow tolerance to antibx, NS x 1l, follow hct, keep npo per gi
+",,
+24881,22230,30891,,2735-09-01 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2735-9-1**] 3:52 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 7051**]
+     Reason: r/o PTX, [**Doctor Last Name 7052**] line placement                                
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       88 year old woman with CHF s/p sigmoid colectomy                               
+     REASON FOR THIS EXAMINATION:
+      r/o PTX, [**Doctor Last Name 7052**] line placement                                                    
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY: Sigmoid colectomy and line placement.  Evaluate for pneumothorax.
+     
+     Endotracheal tube is 3 cm above the carina.  Tip of Swann-Ganz catheter is in
+     right pulmonary artery at right hilar level.  NG tube is in stomach.  No
+     pneumothorax.  There is elevation of the left hemidiaphragm with subsegmental
+     atelectasis at the left base and linear atelectases in the left mid zone.
+     There is retained contrast in the colon.
+     
+     IMPRESSION: Elevated left hemidiaphragm with atelectases in left lung, as
+     described.  No pneumothorax.
+
+",,
+24881,22230,30891,,2735-09-01 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2735-9-1**] 8:23 AM
+     PORTABLE ABDOMEN                                                Clip # [**Clip Number (Radiology) 7050**]
+     Reason: Worsening abd tenderness and distention, please eval for rec
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       88 year old woman with sigmoid volvulus s/p reduction via endoscopy, now with 
+      worsening abd pain            
+     REASON FOR THIS EXAMINATION:
+      Worsening abd tenderness and distention, please eval for recurrent volvulus     
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     History of sigmoid volvulus with endoscopic reduction and worsening abdominal
+     pain and distention.
+     
+     There is retained contrast and gas in the colon with a few gas filled non-
+     dilated loops of small bowel and an IVC filter at the L4-5 level on the right.
+     No definite plain film evidence for recurrent sigmoid volvulus. Degree of
+     sigmoid distention is slightly less than on the prior study of [**2735-8-31**].
+     
+     
+
+",,
+24881,22230,30891,0,2735-09-01 05:26:00 EST,2735-09-01 05:36:00 EST,284,"N",1,"Nursing/Other","NURSING PROGRESS NOTE 7P-7A","
+NURSING PROGRESS NOTE 7P-7A
+NEURO:  PT. ALERT ORIENTED TO PERSON ONLY.  MOVING ALL EXTREMITIES.  SLEPT POORLY OVERNIGHT.  
+
+CV:  BP STABLE.  HR 88-90 A-FIB NO ECTOPY NOTED.  
+
+RESP:  CRACKLES NOTED ON RIGHT SIDE.  O2 SAT 97% ON 4L NC.  DENIES SOB.  RR 21-28.  
+
+GU:  URINE OUTPUT MINIMAL EARLIER IN SHIFT.  1500 CC NS BOLUS GIVEN IN DIVIDED DOSES.  URINE OUTPUT  MUCH IMPROVED WITH FLUID.  CONT. IV NS AT 125 CC/HR.  URINE CLOUDY YELLOW.  
+
+GI:  MUCHROOM CATH IN PLACE DRAINING SMALL AMT OF LIQUID BROWN STOOL.  INCONTINENT LARGE AMT OF LIQUID BROWN STOOL AROUND RECTAL TUBE.  ABD. SOFTER, DISTENDED.  PT. STATES ABDOMEN FEELS"" MUCH SMALLER AND I HAVE DON'T HAVE MUCH PAIN"".  
+
+REDENED COCCYX.  SMALL AREA OF BREAKDOWN.  DUODERM APPLIED TO COCCYX,  ALOE VESTA CREAM APPLIED TO SKIN ON COCCYX FOR PROTECTION.  
+STABLE NOC.  CONT. TO MONITOR I/O,  WATCH FOR ABD. DISTENTION. 
+",,
+24881,22230,30891,0,2735-09-01 09:15:00 EST,2735-09-01 09:19:00 EST,61,"N",1,"Nursing/Other","ccu nursing progress note","
+ccu nursing progress note
+s: It hurts in one spot
+O: see flowsheet for objective data. remains in Afib rate 80's with no VEA. K+2.6 this am, first 40meq of 80meq hung at 8am. repeat K+ pnd
+sats good on 4lnc with crackles on Right. u/o qs with IVF infusing. remains NPO. abdomen more distended this am but remains soft with +BS. surgical team in to eval. Pt. left for OR at 10:00 am. Son present who consented. All valuables (jewelry, dentures, glasses, hearing aides) sent home with son. pt. oriented to person only but appeared more alert and coherent this am.
+A: altered GI status 
+P: as per surgery
+",,
+24881,22230,30891,0,2735-09-01 16:41:00 EST,2735-09-01 17:04:00 EST,-1,"N",54,"Nursing/Other",,"
+
+NURSING NOTE 7A-7P
+Adm to NSICU at approx 1600 S/P colectomy/colostomy.  NEURO: Awake, alert remains drowsy from meds.  PERL: moves all extrem.  Sedated on Propofol drip at 25mcg/kg/min.  C/V: BP increased with movement 170-180/ 70-80. Aline patent Rt radial, Swan patent PA 38/22, CO=3.18, PAW=18. GU:  Foley patent draining clear yellow urine.  GI:  Colostomy intact scant amt of bloody drainage.  No bowel sounds present, NGT placed to low wall suction.  SKIN:  Abd DSD intact sm amt drainage noted.  ID:  [**Last Name (un) 2441**] and Cefazolin started, due q 8 hours.  ENDO:  finger stick 127 no coverage [**Last Name (un) **] SS.  SOCIAL:  Family in for short visit brought hearing aides and dentures.  Jewlery and lifeline taken home.  Emotional support given.  PLAN:  Waiting ABG, plan to d'c propofol and extubate this evening.  
+",,
+24881,22230,30891,0,2735-09-02 06:47:00 EST,2735-09-02 06:58:00 EST,3825,"N",54,"Nursing/Other","FOCUS: STATUS UPDATE","
+FOCUS: STATUS UPDATE
+DATA;
+PT SEDATED WITH PROPOFOL UNTIL EARLY EVENING THEN D/C'D IN PREPARATION FOR EXTUBATION. SLEEPY AT FIRST NOW MORE ALERT. SELF EXTUBATED AT 0400 WHILE ON CPAP [**4-5**] 40% AND RESTRAINED! POST EXTUBATION ABG VERY GOOD. LUNGS CLEAR SATS 96-98 ON 50% FM. CONTINUES TO BE RESTRAINED D/T PA CATH IN PLACE. LOW GRADE TEMP. CONTINUES IN BASELINE AFIB--TACHYCARDIC TO 120 OVERNIGHT-->LOPRESSOR GIVEN WITH EFFECT. SHE IS CALM AND COOPERATIVE. ABD DSG WITH SCANT SEROSANG DRAINAGE ON SURGICAL DRESSING. COLOSTOMY WITH SCANT SERO/SANG/BILIOUS DRAINAGE. STOMA PINK AND PARTLY COVERED WITH GRAYISH MATERIAL, EDGES DARK?OLD BLOOD. BS ABSENT. 
+
+PLAN:
+OSTOMY NURSE CONSULTATION.
+",,
+24881,22230,30891,0,2735-09-02 16:06:00 EST,2735-09-02 16:14:00 EST,3409,"N",54,"Nursing/Other","nsg note","
+nsg note
+SEE CAREVUE FOR SPECIFICS. 
+
+NEURO-PT AWAKE, ALERT, ORIENTED X [**12-30**]. SOMEWHAT CONFUSED IN CONVERSATION AT TIMES. MAE. FOLLOWS COMMANDS. PT ATTEMPTING AT TIMES TO PULL OUT LINES AND THEREFORE REMAINS RESTRAINED. 
+
+CV-AFEBRILE. CON'T IN AFIB, RATE 70'S. SBP STABLE. PAP 40'S/20'S. WEDGE 18-20. SKIN W+D. +PP. PBOOTS ON. DENIES CARDIAC COMPLAINTS. 
+
+RESP-O2 SAT 95-97% 50% FACE TENT. LS CLEAR, FAINT RALES AT TIMES IN BASES WHICH ARE ALSO DECREASED. WEAK COUGH. NARD NOTED. 
+
+GI-ABD SOFTLY DISTNEDED. +BS. NGT TO LWS WITH SM AMT BILIOUS DRG. INCISION WITH STAPLES, WNL. STOMA PALE PINK WITH SCANT AMT SEROUS DRG. ETRN IN TO EVAL AND CHANGE APPLIANCE. 
+
+GU-VOIDING VIA FOLEY ADEQ AMT CL YELLOW URINE. 
+
+COMFORT-DENIES PAIN. 
+
+ENDO-SSRI.
+
+PLAN-CON'T WITH CURRENT PLAN. MONITOR FOR CHANGES. OOB AS TOL. AIR MATTRESS. ASSESS PAIN. MONITOR STOMA. NPO. PULM HYGIENE. 
+",,
+24881,22230,30891,,2735-09-03 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2735-9-3**] 10:22 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 7053**]
+     Reason: atelectesis                                                 
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        88 year old woman with CHF s/p sigmoid colectomy                              
+       
+     REASON FOR THIS EXAMINATION:
+      atelectesis                                                                     
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Status post sigmoid colectomy.  Check for CHF and atelectasis.
+     
+     FINDINGS:  A single AP semi-upright image.  Comparison study dated [**2735-9-1**].
+     There is again evidence of fairly marked LV enlargement of the heart,
+     associated with unfolded of the aorta.  The pulmonary vessels show slight
+     upper zone redistribution and there is blurring of vascular detail at the
+     bases, suggestive of moderate LV decompensation.  Small bibasilar effusions
+     cannot be ruled out.  The tip of the SG catheter appears to have moved from
+     the interlobar pulmonary artery into the right upper lobar artery.  The ET
+     tube has been removed and the NG tube has been removed.
+     
+     IMPRESSION:
+     
+     The appearances suggest LV enlargement with some left heart failure, more
+     marked than on the prior study.  Follow up is recommended.
+
+",,
+24881,22230,30891,0,2735-09-03 14:34:00 EST,2735-09-03 14:51:00 EST,-1,"N",54,"Nursing/Other","Nursing note","
+Nursing note
+Alert/dozing intermittantly. Arousable to voice. Oriented x1-2 with periods of confusion.  Remains restrained for safety of lines and tubes. PERLA 2mm/2mm. MAE's to command. Afebrile.
+Conts in afib with no ectopy seen. SBP stable, max 150's.  CI conts on the low side, [**12-30**]. IV dig started for 2 doses. Hydralazine decreased. Peripheral pulses palpable.
+Cool mist neb conts via shovel mask at 50% O2. Sats 98-100%.  LS coarse, diminished at bases. Encouraged to cough/deep breathe. Weak nonproductive cough.
+Abd soft with quiet bowel sounds. Colostomy patent, draining sm amt brown foul smelling liquid. Stoma red with dusky patches.  Seen by ostomy nurse [**First Name (Titles) **] [**Last Name (Titles) 5178**] of stoma and appliance change.  Staples to abd incision dry and intact. OTA. No drainage noted. 
+Foley patent, draining clear yellow urine with small amt sediment noted. Lasix 20mg IV with good effect.
+Plan: Cont pulmonary toilet, monitor GI status, function of ostomy.
+",,
+24881,22230,30891,,2735-09-04 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2735-9-4**] 1:09 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 7054**]
+     Reason: to see the tip of rt. cvl. to r/o pthx.                     
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+         88 year old woman with CHF s/p sigmoid colectomy                             
+         
+     REASON FOR THIS EXAMINATION:
+      to see the tip of rt. cvl. to r/o pthx.                                         
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CHEST, PORTABLE AP, [**2735-9-4**]
+     
+     INDICATION:  CHF, status post sigmoidcolectomy.
+        Right central venous line inserted.  Check position of line and rule-out
+     pneumothorax.
+     
+     FINDINGS:  A single AP supine image.  Comparison study dated [**2735-9-3**].  The
+     right IJ pulmonary venous catheter has been removed and the new right IJ
+     central line inserted.  Its tip is in satisfactory position at the SVC/right
+     atrial junction.  There is no evidence of a pneumothorax.  The heart again
+     shows fairly marked left ventricular enlargement and there is evidence of
+     dilatation unfolding and calcification of the aortic arch.  The pulmonary
+     vessels are unremarkable.  There is no evidence of cardiac failure at this
+     time.  The lungs show some minor atelectasis in the left mid zone and there is
+     also atelectasis/infiltrate in the left lower lobe behind the heart.  Slight
+     blunting of the costophrenic angles could indicate small bilateral pleural
+     effusions.
+     
+     IMPRESSION:  Satisfactory placement of new right IJ central line.  No
+     pneumothorax.  Lv enlargement and possible LV decompensation noted.
+
+",,
+24881,22230,30891,0,2735-09-04 12:39:00 EST,2735-09-04 13:01:00 EST,3409,"N",54,"Nursing/Other","nsg note","
+nsg note
+SEE CAREVUE FOR SPECIFICS
+
+NEURO-PT AWAKE, ALERT, OREINTED X2. MAE. FOLLOWS COMMANDS. 
+
+CV-AFEBRILE. CON'T IN AFIB. SBP STABLE. PA LINE D/C'D AND CHANGED TO TLCL. SKIN W+D. +PP. PBOOTS ON. DENIES CARDIAC COMPLAINTS. INR 2.5. PT TO BE STARTED ON VIT K. 
+
+RESP-O2 SAT 100% 2LNC. LS CTA, DECREASED AT BASES. NARD NOTED. 
+
+GI-ABD SOFT, NT/ND. +BS. STOMA PALE, TEAM AWARE. OSTOMY WITH SM AMT LIQ BROWN STOOL. 
+
+GU-VOIDING VIA FOLEY ADEQ AMTS CL YELLOW URINE. LASIX GIVEN WITH + DIUREIS. 
+
+COMFORT-DENIES PAIN. 
+
+ENDO-SSRI.
+
+PLAN-CON'T WITH CURRENT PLAN. MONITOR FOR CHANGES. OOB. VIT K. 
+",,
+24881,22230,30891,0,2735-09-05 03:55:00 EST,2735-09-05 04:03:00 EST,-1,"N",54,"Nursing/Other",,"
+
+7P-7A; Full assessment in flow sheet.
+
+neuro: Alert and orient to self. Confuse. Very difficult to oriented. Pt state seeing (cart, person not in room, etc). Awake most of the night. More confuse with lack of [**Doctor Last Name **]. Speech less coherence - slurred. Follow commands in the beginning of night. MAE. Good cough and gag reflex.
+
+cv: NSR/SB without ectopy. VSS, afebrile. Warm, dry, slight general edema. 
+
+resp; Lung sound dimish at bases. RR 8-14. 2L NC - >96%. Encourage to cough - productive cough - thick/white sputum.
+
+gu/gi; soft distended BSX4. no pain on palpation. Suture sites intact - no drainage. Colostomy - pale - brown/liquid, no stool. Foley patent. lasxi 20 mg ivp X1 - diuresis well - yellow/clear urine.
+
+int; Skin intact
+
+Plan; Continue to monitor. AM lab done. 
+",,
+24881,22230,30891,0,2735-09-05 15:34:00 EST,2735-09-05 15:44:00 EST,-1,"N",54,"Nursing/Other",,"
+
+S-""Who are [**Doctor First Name **]?""
+
+O-More disoriented today per family.  ? hallucinating-looks and talks to a person that she sees in the room when no one is in the room.
+Does not re-orient when oriented by staff.  Remains in AF with brief
+intermittent periods of HR in the high 40's.  Team aware and lopressor dose changed.  BP stable.  L/S-clear with faint crackles prior to lasix.  Given 60 mg lasix po with excellent diuresis.  Ostomy draining liquid stool and bag changed.  Slight erythema noted around stoma.
+Taking po liquids well with no abd pain or nausae.  
+
+A-Stoma draining stool-diuresising with po lasix.
+
+P-Continue to assess stoma, monitor VS and labs, goal -500 cc's for today, continue clear liquids and re-orient pt frequently.
+",,
+24881,22230,30891,0,2735-09-06 05:27:00 EST,2735-09-06 05:33:00 EST,-1,"N",54,"Nursing/Other",,"
+
+7p-7a; Full note in transfer and flow sheet.
+
+Pt awake for the last 48 hrs - MD aware. Increase confusion and hallucination(people, building, etc). Increase slurr speech and not appropriate. Hard to reoriented. MAE. Agitated and uncomfortable - morphine ivp X2 given - minimal effect. Follow commands. Good gag, cough and swallow reflex. VSS, afebrile. Lung sound dimish at bases - 2l NC - 90-100%. Soft abd, +BSX4. Suture site - d/c/i. colostomy - pink, white film (C-diff sent [**9-6**]) - stooling, brown/loose, negative guiac. Foley patent - clear/yellow urine >30 cc/hr. Skin intact
+Glucose 79 - [**11-28**] amps of D50 given. MD aware of inc NA- 151 - no new order.
+
+Plan; Continue to monitor. Transfer to floor. 
+",,
+24881,22230,30891,0,2735-09-06 18:44:00 EST,2735-09-06 18:48:00 EST,3441,"N",54,"Nursing/Other","nsg progress note","
+nsg progress note
+pt is confused to time/place. talking to ""man in room"" na 151- ivf changed to d5w with 20 kcl at 60 hr. stoma cont slight dusky. stoma nurse following. foul smelling stool cont. to start thickned liqueds as tol. awaiting tele bed. 
+",,
+24881,22230,30891,,2735-09-07 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2735-9-7**] 1:55 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 7056**]
+     Reason: CONFIRM TUBE PLACEMENT                                      
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+           88 year old woman with CHF s/p sigmoid colectomy                           
+             
+     REASON FOR THIS EXAMINATION:
+      CONFIRM TUBE PLACEMENT                                                          
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY: Single AP view of chest centered at diaphragms.  Dobbhoff present,
+     tip overlying distal esophagus.  It does not appear to extend beyond the GE
+     junction into the fundus.   
+
+",,
+24881,22230,30891,,2735-09-07 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2735-9-7**] 6:56 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 7058**]
+     Reason: repositioned dobhoff                                        
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+              88 year old woman with CHF s/p sigmoid colectomy                        
+                   
+     REASON FOR THIS EXAMINATION:
+      repositioned dobhoff                                                            
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  CHF status post sigmoid colon, reposition Dobbhoff.
+     
+     CHEST, SINGLE AP VIEW, LORDOTIC SEMI-UPRIGHT POSITIONING.  An NG tube is
+     present, the tip overlies the body of the stomach.  There is cardiomegaly, an
+     IVC filter and residual contrast in the descending colon.  There are probable
+     small bibasilar pleural effusions, with underlying atelectasis.  A right IJ
+     central line is present, tip over distal SVC.
+     
+     IMPRESSION:  Dobbhoff tip overlying body of stomach.
+
+",,
+24881,22230,30891,,2735-09-07 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2735-9-7**] 12:51 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 7055**]
+     Reason: eval for placement of feeding tube please with low chest xra
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+          88 year old woman with CHF s/p sigmoid colectomy                            
+           
+     REASON FOR THIS EXAMINATION:
+      eval for placement of feeding tube please with low chest xray                   
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY: CHF status post sigmoid colectomy.  Assess feeding tube.
+     
+     CHEST, SINGLE AP VIEW: A tube is seen over the upper chest.  It is coiled over
+     the upper chest, possibly in the retropharynx/proximal esophagus.  No tube is
+     seen extending over the lower esophagus.
+
+",,
+24881,22230,30891,,2735-09-07 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2735-9-7**] 3:20 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 7057**]
+     Reason: dobhoff  placement                                          
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+            88 year old woman with CHF s/p sigmoid colectomy                          
+               
+     REASON FOR THIS EXAMINATION:
+      dobhoff  placement                                                              
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  CHF. Status post sigmoid colectomy.
+     
+     CHEST, SINGLE AP SUPINE PORTABLE VIEW
+     
+     The film is centered in the lower chest. Dobbhoff tube is present with tip
+     overlying the GE junction, possibly extending into the upper most fundus.
+     Residual contrast is seen in the descending colon. An IV filter is present.
+     Extreme lung apices not included on film.
+     
+     Heart size at upper limits of normal.  Increased retrocardiac density noted.
+     Allowing for low lung volumes, no definite CHF. Equivocal small pleural
+     effusions.
+     
+     IMPRESSION:
+     1. Possible left lower lobe collapse/consolidation.
+     2. Dobbhoff tube in region of GE junction, possibly in upper most fundus.
+
+",,
+24881,22230,30891,0,2735-09-07 03:30:00 EST,2735-09-07 03:38:00 EST,-1,"N",54,"Nursing/Other",,"
+
+7p-7a;
+
+Pt slept on and off most of the night. Arouse to voice - oriented to person. Confused. Unclear speech. Still very tired from lack of [**Doctor Last Name **]. MAE - stronger in upper than lower. Afib (2 episode - HR 35, 40 than  return to 60). VSS, afebrile. IVF change to D5 [**11-28**] with 20 KCL. Lung sound dimish at bases - encourage to deep breath and cough, chest PT and vibration done. Soft abd, +BS X4. Stooling - brown liquid. colostomy site - pink to slight dusky. Skin intact. AM lab done. 
+
+Plan: continue to monitor. Waiting for telemetry bed.
+",,

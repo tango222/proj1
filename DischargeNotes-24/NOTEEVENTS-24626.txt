@@ -1,0 +1,544 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+24626,18748,,,2680-03-30 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+
+",,
+24626,18748,,,2680-03-30 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2680-3-30**] 4:33 PM
+     CT ABDOMEN W/O CONTRAST; CT PELVIS W/O CONTRAST                 Clip # [**Clip Number (Radiology) 4561**]
+     CT RECONSTRUCTION
+     Reason: eval for perforation, mesenteric ischemia, abscess, toxic me
+     Field of view: 42
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      77 year old woman with trach, restrictive lung disease, now BP 70's, distended
+      abdomen, tender, dilated loops abdomen xr, recent cdiff diagnosis.
+     REASON FOR THIS EXAMINATION:
+      eval for perforation, mesenteric ischemia, abscess, toxic megacolon
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Known C. Diff colitis by stool studies.  Hypotensive with
+     distended abdomen and dilated loops of bowel on the x-ray.
+     
+     TECHNIQUE:  Noncontrast images are obtained through the abdomen and pelvis.
+     Contrast was not given due to patient's decline in renal function.
+     
+     No prior studies are available for comparison.
+     
+     CT ABDOMEN WITHOUT IV CONTRAST:  An area of consolidation with air
+     bronchograms is seen nondependently in the left lingula. There are trace
+     bilateral pleural effusions and small areas of consolidation dependently in
+     both bases.
+     
+     A moderate amount of ascites is seen surrounding the liver and spleen,
+     tracking into both pericolic gutters, left greater than right.  No focal
+     masses are seen within the liver.  The gallbladder is not clearly seen on this
+     noncontrast study.  The patient may have had a cholecystectomy.  The spleen is
+     small but otherwise normal- appearing. The pancreas is grossly normal.
+     
+     Multiple vascular calcifications are seen along the celiac axis, aorta, and at
+     the origins of the SMA, renal arteries and [**Female First Name (un) **].  Two calculi are seen within
+     the pelvis of the left kidney, one at the base of what appears to be an
+     extrarenal pelvis.  There is no overt hydronephrosis.  A circular hypodensity
+     that appears to be a simple cyst is seen within the right kidney.
+     
+     Oral contrast is only seen through to the proximal small bowel.  A bright
+     linear density 2 - 2.5 cm in length is seen slong the greater curvature of the
+     stomach.  It is not seen on the KUB from eariler today. There is some
+     asymmetric thickening just adjacent to this area. Part of the density extends
+     inferior to the thickening. No part of this density is seen within the bowel
+     lumen.  There are no adjacent air or contrast collections.
+     
+     Thickened mucosal folds are seen within the duodenum in the proximal jejunum.
+     The cecum is borderine distended, measuring 6-9 mm across (depending on axis
+     of measurement). However, given the amount of distension, the wall is slightly
+     prominent.  The transverse colon measures from 5-7 mm across, and given this
+     amount of distension, the wall is also slightly prominent.  The large
+     intestine tapers at the splenic flexure to a collapsed descending and sigmoid
+     colon.  No free air is seen within the abdomen. No air is seen within the
+     bowel wall.  No air is seen within the portal venous system.
+                                                                 (Over)
+
+     DATE: [**2680-3-30**] 4:33 PM
+     CT ABDOMEN W/O CONTRAST; CT PELVIS W/O CONTRAST                 Clip # [**Clip Number (Radiology) 4561**]
+     CT RECONSTRUCTION
+     Reason: eval for perforation, mesenteric ischemia, abscess, toxic me
+     Field of view: 42
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     
+     CT PELVIS WITHOUT IV CONTRAST:  The rectum and distal sigmoid colon are
+     obscured by artifact from patient's bilateral hip prostheses.  There are no
+     pelvic masses or enlarged inguinal lymph nodes.  The bladder is poorly
+     visualized.  Multiple nondilated fluid-filled loops of small bowel are also
+     seen within the pelvis.  Note is made of generalized anasarca throughout the
+     subcutaneous tissues.  Multiple injection granulomas are seen within both
+     buttocks.  Bone windows show no suspicious lytic or blastic lesions, but there
+     are extensive degenerative changes throughout the pelvis and axial spine.
+     
+     Coronal reconstructions confirm the above findings.
+     
+     IMPRESSION:
+     1. Consolidation suspicious for pneumonia, given air bronchograms in the
+     lingula.
+     
+     2. Metallic density in the region of the wall of the greature curvature of the
+     stomach.  This could represent a surgical staple but could also be a foreign
+     body.  Surrounding thickening suggests possible microperforation at this
+     region.  
+     
+     3. Mild distension of the cecum in transverse colon.  There is a minimal
+     amount of bowel wall thickening that is less than would be expected for a
+     patient with C. difficile colitis.  As no IV contrast was adminsitered for
+     this study, it is excessively difficult to evaluate for ischemic bowel.  While
+     this possibility is unlikely, it cannot be definitively excluded.
+     
+     4. Mucosal thickening seen within the duodenum and proximal jejunum. This
+     could be the result of an inflammatory condition, but also would be consistent
+     with patient's generalized anasarca and ascites.
+     
+     5. Measurements of the cecum and transverse colon do not meet the criteria for
+     toxin megacolin.  Additionally, there is no evidence of perforation or
+     pneumatosis coli.  There is no evidence of obstruction.
+     
+     These revised findings were discussed with both the Medicine and Surgical
+     house staff.
+     
+     
+
+",,
+24626,18748,,,2680-03-30 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2680-3-30**] 4:33 PM
+     CT ABDOMEN W/O CONTRAST; CT PELVIS W/O CONTRAST                 Clip # [**Clip Number (Radiology) 4561**]
+     CT RECONSTRUCTION
+     Reason: eval for perforation, mesenteric ischemia, abscess, toxic me
+     Field of view: 42
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      77 year old woman with trach, restrictive lung disease, now BP 70's, distended
+      abdomen, tender, dilated loops abdomen xr, recent cdiff diagnosis.
+     REASON FOR THIS EXAMINATION:
+      eval for perforation, mesenteric ischemia, abscess, toxic megacolon
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Known C. Diff colitis by stool studies.  Hypotensive with
+     distended abdomen and dilated loops of bowel on the x-ray.
+     
+     TECHNIQUE:  Noncontrast images are obtained through the abdomen and pelvis.
+     Contrast was not given due to patient's decline in renal function.
+     
+     No prior studies are available for comparison.
+     
+     CT ABDOMEN WITHOUT IV CONTRAST:  An area of consolidation with air
+     bronchograms is seen nondependently in the left lingula. There are trace
+     bilateral pleural effusions and small areas of consolidation dependently in
+     both bases.
+     
+     A moderate amount of ascites is seen surrounding the liver and spleen,
+     tracking into both pericolic gutters, left greater than right.  No focal
+     masses are seen within the liver.  The gallbladder is not clearly seen on this
+     noncontrast study.  The patient may have had a cholecystectomy.  The spleen is
+     small but otherwise normal- appearing. The pancreas is grossly normal.
+     
+     Multiple vascular calcifications are seen along the celiac axis, aorta, and at
+     the origins of the SMA, renal arteries and [**Female First Name (un) **].  Two calculi are seen within
+     the pelvis of the left kidney, one at the base of what appears to be an
+     extrarenal pelvis.  There is no overt hydronephrosis.  A circular hypodensity
+     that appears to be a simple cyst is seen within the right kidney.
+     
+     Oral contrast is only seen through to the proximal small bowel.  A bright
+     linear density 2 - 2.5 cm in length is seen slong the greater curvature of the
+     stomach.  It is not seen on the KUB from eariler today. There is some
+     asymmetric thickening just adjacent to this area. Part of the density extends
+     inferior to the thickening. No part of this density is seen within the bowel
+     lumen.  There are no adjacent air or contrast collections.
+     
+     Thickened mucosal folds are seen within the duodenum in the proximal jejunum.
+     The cecum is borderine distended, measuring 6-9 mm across (depending on axis
+     of measurement). However, given the amount of distension, the wall is slightly
+     prominent.  The transverse colon measures from 5-7 mm across, and given this
+     amount of distension, the wall is also slightly prominent.  The large
+     intestine tapers at the splenic flexure to a collapsed descending and sigmoid
+     colon.  No free air is seen within the abdomen. No air is seen within the
+     bowel wall.  No air is seen within the portal venous system.
+                                                                 (Over)
+
+     DATE: [**2680-3-30**] 4:33 PM
+     CT ABDOMEN W/O CONTRAST; CT PELVIS W/O CONTRAST                 Clip # [**Clip Number (Radiology) 4561**]
+     CT RECONSTRUCTION
+     Reason: eval for perforation, mesenteric ischemia, abscess, toxic me
+     Field of view: 42
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     
+     CT PELVIS WITHOUT IV CONTRAST:  The rectum and distal sigmoid colon are
+     obscured by artifact from patient's bilateral hip prostheses.  There are no
+     pelvic masses or enlarged inguinal lymph nodes.  The bladder is poorly
+     visualized.  Multiple nondilated fluid-filled loops of small bowel are also
+     seen within the pelvis.  Note is made of generalized anasarca throughout the
+     subcutaneous tissues.  Multiple injection granulomas are seen within both
+     buttocks.  Bone windows show no suspicious lytic or blastic lesions, but there
+     are extensive degenerative changes throughout the pelvis and axial spine.
+     
+     Coronal reconstructions confirm the above findings.
+     
+     IMPRESSION:
+     1. Consolidation suspicious for pneumonia, given air bronchograms in the
+     lingula.
+     
+     2. Metallic density in the region of the wall of the greature curvature of the
+     stomach.  This could represent a surgical staple but could also be a foreign
+     body.  Surrounding thickening suggests possible microperforation at this
+     region.  
+     
+     3. Mild distension of the cecum in transverse colon.  There is a minimal
+     amount of bowel wall thickening that is less than would be expected for a
+     patient with C. difficile colitis.  As no IV contrast was adminsitered for
+     this study, it is excessively difficult to evaluate for ischemic bowel.  While
+     this possibility is unlikely, it cannot be definitively excluded.
+     
+     4. Mucosal thickening seen within the duodenum and proximal jejunum. This
+     could be the result of an inflammatory condition, but also would be consistent
+     with patient's generalized anasarca and ascites.
+     
+     5. Measurements of the cecum and transverse colon do not meet the criteria for
+     toxin megacolin.  Additionally, there is no evidence of perforation or
+     pneumatosis coli.  There is no evidence of obstruction.
+     
+     These revised findings were discussed with both the Medicine and Surgical
+     house staff.
+     
+     
+
+",,
+24626,18748,,,2680-03-30 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2680-3-30**] 4:33 PM
+     CT ABDOMEN W/O CONTRAST; CT PELVIS W/O CONTRAST                 Clip # [**Clip Number (Radiology) 4561**]
+     CT RECONSTRUCTION
+     Reason: eval for perforation, mesenteric ischemia, abscess, toxic me
+     Field of view: 42
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      77 year old woman with trach, restrictive lung disease, now BP 70's, distended
+      abdomen, tender, dilated loops abdomen xr, recent cdiff diagnosis.
+     REASON FOR THIS EXAMINATION:
+      eval for perforation, mesenteric ischemia, abscess, toxic megacolon
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Known C. Diff colitis by stool studies.  Hypotensive with
+     distended abdomen and dilated loops of bowel on the x-ray.
+     
+     TECHNIQUE:  Noncontrast images are obtained through the abdomen and pelvis.
+     Contrast was not given due to patient's decline in renal function.
+     
+     No prior studies are available for comparison.
+     
+     CT ABDOMEN WITHOUT IV CONTRAST:  An area of consolidation with air
+     bronchograms is seen nondependently in the left lingula. There are trace
+     bilateral pleural effusions and small areas of consolidation dependently in
+     both bases.
+     
+     A moderate amount of ascites is seen surrounding the liver and spleen,
+     tracking into both pericolic gutters, left greater than right.  No focal
+     masses are seen within the liver.  The gallbladder is not clearly seen on this
+     noncontrast study.  The patient may have had a cholecystectomy.  The spleen is
+     small but otherwise normal- appearing. The pancreas is grossly normal.
+     
+     Multiple vascular calcifications are seen along the celiac axis, aorta, and at
+     the origins of the SMA, renal arteries and [**Female First Name (un) **].  Two calculi are seen within
+     the pelvis of the left kidney, one at the base of what appears to be an
+     extrarenal pelvis.  There is no overt hydronephrosis.  A circular hypodensity
+     that appears to be a simple cyst is seen within the right kidney.
+     
+     Oral contrast is only seen through to the proximal small bowel.  A bright
+     linear density 2 - 2.5 cm in length is seen slong the greater curvature of the
+     stomach.  It is not seen on the KUB from eariler today. There is some
+     asymmetric thickening just adjacent to this area. Part of the density extends
+     inferior to the thickening. No part of this density is seen within the bowel
+     lumen.  There are no adjacent air or contrast collections.
+     
+     Thickened mucosal folds are seen within the duodenum in the proximal jejunum.
+     The cecum is borderine distended, measuring 6-9 mm across (depending on axis
+     of measurement). However, given the amount of distension, the wall is slightly
+     prominent.  The transverse colon measures from 5-7 mm across, and given this
+     amount of distension, the wall is also slightly prominent.  The large
+     intestine tapers at the splenic flexure to a collapsed descending and sigmoid
+     colon.  No free air is seen within the abdomen. No air is seen within the
+     bowel wall.  No air is seen within the portal venous system.
+                                                                 (Over)
+
+     DATE: [**2680-3-30**] 4:33 PM
+     CT ABDOMEN W/O CONTRAST; CT PELVIS W/O CONTRAST                 Clip # [**Clip Number (Radiology) 4561**]
+     CT RECONSTRUCTION
+     Reason: eval for perforation, mesenteric ischemia, abscess, toxic me
+     Field of view: 42
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     
+     CT PELVIS WITHOUT IV CONTRAST:  The rectum and distal sigmoid colon are
+     obscured by artifact from patient's bilateral hip prostheses.  There are no
+     pelvic masses or enlarged inguinal lymph nodes.  The bladder is poorly
+     visualized.  Multiple nondilated fluid-filled loops of small bowel are also
+     seen within the pelvis.  Note is made of generalized anasarca throughout the
+     subcutaneous tissues.  Multiple injection granulomas are seen within both
+     buttocks.  Bone windows show no suspicious lytic or blastic lesions, but there
+     are extensive degenerative changes throughout the pelvis and axial spine.
+     
+     Coronal reconstructions confirm the above findings.
+     
+     IMPRESSION:
+     1. Consolidation suspicious for pneumonia, given air bronchograms in the
+     lingula.
+     
+     2. Metallic density in the region of the wall of the greature curvature of the
+     stomach.  This could represent a surgical staple but could also be a foreign
+     body.  Surrounding thickening suggests possible microperforation at this
+     region.  
+     
+     3. Mild distension of the cecum in transverse colon.  There is a minimal
+     amount of bowel wall thickening that is less than would be expected for a
+     patient with C. difficile colitis.  As no IV contrast was adminsitered for
+     this study, it is excessively difficult to evaluate for ischemic bowel.  While
+     this possibility is unlikely, it cannot be definitively excluded.
+     
+     4. Mucosal thickening seen within the duodenum and proximal jejunum. This
+     could be the result of an inflammatory condition, but also would be consistent
+     with patient's generalized anasarca and ascites.
+     
+     5. Measurements of the cecum and transverse colon do not meet the criteria for
+     toxin megacolin.  Additionally, there is no evidence of perforation or
+     pneumatosis coli.  There is no evidence of obstruction.
+     
+     These revised findings were discussed with both the Medicine and Surgical
+     house staff.
+     
+     
+
+",,
+24626,18748,,,2680-03-30 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2680-3-30**] 11:28 AM
+     PORTABLE ABDOMEN                                                Clip # [**Clip Number (Radiology) 4559**]
+     Reason: eval for SBO/LBO, possible megacolon
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      77 year old woman with h/o C.Dif x 1 day, now SOB and large dilated  bowel
+      elevating L hemidiaphragm on CXR.
+     REASON FOR THIS EXAMINATION:
+      eval for SBO/LBO, possible megacolon
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  History of C-dif x 1 day.  Now shortness of breath and large
+     dilated bowel seen on chest X-ray.  Evaluate for obstruction.
+     
+     ABDOMINAL FILM, SINGLE VIEW:  Again there is a markedly dilated stomach. There
+     is air within loops of small bowel as well as air within the transverse colon
+     extending to the splenic flexure.  The large bowel is featureless, suggesting
+     possible infection.  No definite air can be identified in the rectum.  No
+     free air is seen. No aberrant air is identified. Bilateral hip replacement.
+     Degenerative changes in the lumbar spine.
+     
+     IMPRESSION:  Markedly dilated stomach and with air in the small bowel and at
+     least proximal colon.  Distal obstruction cannot be excluded.  The most marked
+     dilation is of the stomach, necessitating decompression.
+     
+     These findings were relayed immediately to the ER physician caring for the
+     patient.
+
+",,
+24626,18748,,,2680-03-30 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2680-3-30**] 10:55 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 4558**]
+     Reason: eval for ptx, effusion, infiltrate
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      77 year old woman with hypoxia, h/o pulm fibrosis and mucous plugs, now SOB,
+      hypotension
+     REASON FOR THIS EXAMINATION:
+      eval for ptx, effusion, infiltrate
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:
+     Hypoxia history of mucus plugging, hypotension.
+     
+     There are no prior studies for comparison.
+     
+     AP CHEST:
+     The patient had a tracheostomy and a central venous line entering from the
+     left with its tip in the SVC. There is a distended stomach and elevation of
+     the left hemidiaphragm. There is a small left pleural effusion as well as
+     probable left lower lobe collapse. On the right there is also fluid in the
+     minor fissure. No definite right effusion. There is no pneumothorax. There is
+     a density behind the heart as well as the suggestion of an air-fluid level,
+     this may be related to hiatal hernia. However this is difficult to discern on
+     this radiograph. Osseous structures reveal osteopenia, degenerative changes in
+     the left shoulder as well as severe degenerative changes and scoliosis of the
+     thoracic spine.
+     
+     IMPRESSION:
+     1. Distended stomach. Elevlation of the left hemidiaphragm. Left lower lobe
+     collapse and small left effusion.
+     2. No definite evidence of failure. An underlying pneumonia in the left lower
+     lobe cannot be excluded.
+     3. Appropriate position of central venous line. No pneumothorax.
+     
+     These findings were relayed to the ED physician caring for the patient.
+
+",,
+24626,18748,,,2680-03-30 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2680-3-30**] 2:27 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 4560**]
+     Reason: r/o pneumo
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      77 year old woman with hypoxia, h/o pulm fibrosis and mucous plugs, now SOB,
+      hypotension.  On vent.  Now with increasing labored breathing.
+     REASON FOR THIS EXAMINATION:
+      r/o pneumo
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Hypoxia, now on ventilator hypotensive, rule out pneumothorax.
+     
+     Comparison film from earlier in the same day.
+     
+     AP CHEST:  There has been interval placement of a nasogastric tube with
+     subsequent decompression of the gastric distention.  Air filled loops of small
+     bowel and large bowel are still seen, none of which are dilated.  There is
+     persistent elevation of the left hemidiaphragm with a left small pleural
+     effusion.  There is persistent collapse of the left lower lobe.  There is a
+     hiatal hernia causing an opacity behind the heart.  The visualized portions of
+     lung reveal no definite infiltrate or evidence of failure.  The extreme apices
+     are partially obscured by the patient's chin however no definite pneumothorax
+     is present.
+     
+     IMPRESSION:  1)  S/P appropriate NG tube placement with subsequent
+     decompensation of the gastric distention.
+     2)  No pneumothorax or evidence of pneumonia or failure.  Persistent left
+     lower lobe collapse.
+
+",,
+24626,18748,30581,0,2680-03-30 23:48:00 EST,2680-03-30 23:50:00 EST,1994,"N",69,"Nursing/Other",,"
+
+resp care note - trached pt. transffered from ed to micu, placed on the vent ac tv 500 rr 22 5 peep 60% at this time.
+",,
+24626,18748,30581,,2680-03-31 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2680-3-31**] 2:15 AM
+     ABDOMEN (SUPINE ONLY) PORT                                      Clip # [**Clip Number (Radiology) 4562**]
+     Reason: evaluate for increasing distension of bowel;                
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      77 year old woman with c. diff colitis admitted with sepsis syndrome (SBP of 
+      40): aggressive volume resusitation: now with increasing distension of abdomen: 
+      evaluate for toxic megacolon. please [**First Name8 (NamePattern2) 1185**] [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **] [**Pager number 1188**] with results; thank 
+      [**Doctor First Name 14**]! 
+     REASON FOR THIS EXAMINATION:
+      evaluate for increasing distension of bowel;                                    
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:C Difficle coloitis and increasing abdominal distension.  Evaluate for
+     toxic megacolon.
+     
+     There has been resolution of a gaseous distension of the stomach since the
+     prior study of [**2680-3-30**].  There is, however, increased distension of the colon
+     with cecum measuring approximately 11 cm and transverse colon 8 cm.  Findings
+     are consistent with evolving' toxic' megacolon.  Correlate clinically and with
+     short-term follow-up, if indicated.  Status post bilateral total hip
+     replacements. 
+
+",,
+24626,18748,30581,0,2680-03-31 03:26:00 EST,2680-03-31 04:01:00 EST,2353,"N",69,"Nursing/Other","ADMISSION NOTE:","
+ADMISSION NOTE:
+PT IS A 77YR OLD FEMALE WITH H/O RESTRICTIVE LUNG, RA, S/P TRACHEOSTOMY AND WAS BROUGHT TO THE [**Hospital1 3**] ED FOR EVALUATION AND RX OF HEMODYNAMIC COLLAPSE THAT OCCURRED AT THE [**Last Name (un) **] HOUSE NH. ON [**3-30**] PT WAS FOUND TO BE ALERT/RESPONSIVE IN BED AND THEN BECAME CYANOTIC, HYPOTENSIVE AND UNRESPONSIVE WHEN SHE WAS MOVED TO THE CHAIR. IN [**2679-9-22**] PT TRACH/VENTED, SHE WAS EVENTUALLY PT WAS ABLE TO GET OFF THE VENT, HAD A FENESTRATED TRACH PLACED AND CONTINUED TO REQUIRE BIPAP AT NIGHT. AS OF YESTERDAY EVENING SHE HAD A STABLE NIGHT WITH O2SAT'S 95% ON 2L O2 AND NO EVIDENCE OF  CO2 NARCOSIS.
+IN THE ED PT WAS HYPOTENSIVE, SOB, WITH LOW O2SAT'S AND POOR ABG'S AND WAS THEN INTUBATED VIA TRACH SITE AND PLACED ON VENT. PT CONT TO BE HYPOTENSIVE AND WAS STARTED ON LEVO/NEO. PT WAS ALSO FLUID RESUCITATED WITH SEVERAL LITERS OF FLUID. PT HAD TLC PLACED IN LEFT GROIN AND ALINE PLACED IN RIGHT GROIN. PT HAD NGT PLACED AND WAS GIVEN BARAKET FOR ABD CT WHICH WAS APPARENTLY NEG. 
+PT ARRIVED IN MICU ALERT AND RESPONSIVE. PT IS ON VENT VIA TRACH, LUNG SOUNDS ARE VERY COARSE WITH INSP/EXP WHEEZES. PT PLACED ON MONITOR AND WAS VERY TACHYCARDIC WITH RATES UPTO THE 170'S. BP IN THE 60'S. HAVING DIFF WITH ALINE CORRELATING WITH NBP. NOT SURE WHICH WAS MORE ACCURATE. PT ON MAX AMTS OF LEVO AND NEO AND FLUIDS WO, PT WAS STARTED ON VASOPRESSIN. GRADUALLY LEVO WEANED OFF, AND NEO AND VASO WEANED DOWN. PRESENTLY TITRATING VASOPRESSIN AND NEO TO KEEP MAP GREATER THAN 60. 
+FOLEY CATH PATENT DRAINING VERY SMALL AMT'S OF YELLOW URINE, WHICH IS CLOUDY AT TIME.
+NGT PLACE TO LWS AND DRAINING MOD AMT'S OF BARAKET LOOKING MATERIAL.
+PT INC OF LIQ STOOL, MUSHROOM CATHETER PLACED AND PT DRAINED LRG AMT'S OF ORANGEY LIQ STOOL. SPEC SENT FOR CDIFF.
+SKIN: PT HAS QUARTER SIZE NECROTIC DECUBITUS ON RIGHT BUTTOCKS. DUODERM REMOVED AND REAPPLIED.  PT ALSO AS DIME SIZE ULCERATION ON INNER ASPECT OF LEFT THIGH NEAR PERIANAL SPACE. PT HAS A PERMANENT DISCOLORATION OF HER SKIN DUE TO A SILVER BASED MEDICATION SHE RECEIVED IN [**Country 807**] FOR THE TREATMENT OF HER LUNG DISEASE WHEN SHE WAS MUCH YOUNGER, WHICH MAKES HER APPEAR CYANOTIC BUT SHE IS NOT. PT BECOMES VERY DARK(BLACK) WHEN CYANTOTIC.
+PMH: PT HAS CRIPPLING RA, FOR WHICH SHE HAS HAD MULTIPLE SURGERIES AND JOINT REPLACEMENTS. PT IS ON COUMADIN FOR AFIB AND HAS DEVELOPED UPPER AND LOWER GI BLEEDS IN THE PAST. SHE HAS BEEN TREATED WITH MULTIPLE TRANSFUSIONS AND SURGERY IN PAST.
+CURRENTLY PT CONT TO BE RESPONSIVE AND EASILY AROUSED IF SLEEPING. PT HAS BEEN FLUID RESUCITATED SINCE SHE HAS BEEN HERE AND MAKING VERY LITTLE URINE. PT HAS 3RD SPACED ALL HER FLUID. ABDOMEN VERY DISTENDED AND TAUT. KUB DONE, DONOT KNOW RESULTS AT THIS TIME. 
+PT'S K ELEVETATED AND TREATED WITH INSULIN/D50 X 1. PH 6.9 AND TREATED WITH 4 AMPS BICARB AND A VENT CHG. PH IMPROVED FOR A WHILE AND REQUIRED 2MORE AMPS OF BICARB. MG LEVEL LOW AND REPLACED WITH 4GM IV.
+PT IS ON MULTIPLE ANTIBIOTICS. TONGUE IS VERY SWOLLEN AND HAS THRUSH, PT STARTED ON NYSTATIN S/S.
+PT ALSO HAS PERMACATH IN LEF
+",,
+24626,18748,30581,0,2680-03-31 03:27:00 EST,2680-03-31 04:01:00 EST,2353,"N",69,"Nursing/Other","ADMISSION NOTE:","
+ADMISSION NOTE:
+(Continued)
+T SUBCLAVIEN.
+SOCIAL: PT IS MARRIED WITH TWO SONS WHO ARE VERY ATTENTIVE. FAMILY STAYED FOR SEVERAL HOURS THEN WENT HOME. PT'S HUSBAND IS DR. [**Known patient lastname 1613**].
+PT IS FULL CODE. 
+",,
+24626,18748,30581,0,2680-03-31 15:42:00 EST,2680-03-31 16:44:00 EST,2147,"N",69,"Nursing/Other","NPN P-MICU 7AM-7PM","
+NPN P-MICU 7AM-7PM
+S/O: RESPIR: Remains extremely unstable, with acidosis, see care-vu for ABG's. Presently is on A/C 18/60%/500 with Peep-5, last ABG-7.12/20/93/-21/7. Rec'ing IVF of THAM, to counter the acidosis, adjusting the THAM rate as needed based on pH, @ present is on 100cc/hr, checking ABG's frequ. q1hr. L/S clear, suctioned times 2 for sm-mod amts thick light yellow secretions. 
+
+C/V: Remains dependent on pressors, titrating as needed to keep MAP's>60, BP90-120's/50, @ present is on Pitressin @ .04mcq/min (not to go above that dose.), and Neo. 20mcq/hr from 200mcq. HR 68-80's A-fib, with PVC's. K+ 5.3, @ 12PM, 4pm repeat labs PND. 
+
+F/E: I&O's 6400cc+, when BP110-120', u/o>30cc/hr, with BP's 90-100/50, u/o down to 5cc/hr, rec'd NS IVB 500cc times one. BUN/CRE elevated up to 41(38)/2.0(1.9). last K+6.2. Serum CO2 [**6-1**], per ABG's-14-31, adjusting THAM doses as needed. Na+ 141. Glu levels 302-118, with no treatment. 
+
+GI: NGT with occ bloody drainage noted, mod drainage noted. [**Last Name (un) 292**] extremely distended, with no BS's. Mod amts liquidy diarrhea noted, mushroom  cath. in place with drainage from around the tube. C-diff culture PND. LFT's also extremely elevated. 
+
+ID: Temps 95-92 AX, WBC up to 27.8, remains on multiple IV antibx's. To be placed on heating blanket when available. 
+
+HEME: HCT- down to 27.3 from 39.9. PT, INR remains elevated to 20.4/2.9, s/p 2 units FFP, and Vit K 10mg IV. 
+
+Neuro: Appeared  to be uncomfortable this AM was started on Fentanyl Gtt 50-100mcq/hr with good response. Pupils are fully dilated and very sluggish to respond. 
+
+
+Social: Family conference held, pt made DNR, but is still a full treat.
+
+A/P: Extremely unstable, continue to assess ABG's and adjust THAM rate as needed, titrate pressors to maintain MAP>60. Update family on pt's condition as needed. 
+
+",,
+24626,18748,30581,0,2680-04-01 04:43:00 EST,2680-04-01 05:16:00 EST,2353,"N",69,"Nursing/Other","NURSING PROGRESS NOTE:","
+NURSING PROGRESS NOTE:
+PT CONT TO BE TRACH/VENTED ON A/C SEE FLOWSHEET FOR VENT SETTINGS AND CHG'S. SEE FLOWSHEET FOR MULTIPLE ABG RESULTS. LUNG SOUNDS CLEAR, UNABLE TO MONITOR O2SAT'S, HAVE NOT SX PT FOR ANY SECRETIONS. 
+PT COMPLETELY UNRESPONSIVE TO ALL STIMULI. PUPILS FULLY DILATED AND NON REACTIVE. PT IS ALSO ON FENTANYL DRIP. 
+AT BEGINING OF SHIFT PT'S HEART RATE BECAME BRADYCARDIC IN 30-40 RANGE. PT TREATED WITH TOTAL OF 6AMPS OF ATROPIN WITH A MINIMAL AND TEMPORARY RESPONSE. BICARB VERY LOW AND TREATED WITH 2AMPS OF BICARB AS WELL AS IV THAM.  ALINE NOT TRANSDUCING AND UNABLE TO OBTAIN NBP/MANUAL BP. ATTEMPTED TO OBTAIN NEW ALINE UNSUCCESSFULLY. EVENTUALLY ABLE TO GET CUFF PRESSURE ON LEG. BP 60-70 AND PT RESTARTED ON NEO AND TITRATED UP TO 200MCQ. PT CONT TO BE VERY ACIDOTIC AND RECEIVED MULTIPLE AMPS OF BICARB THROUGHOUT THE NIGHT.  EVENTUALLY THAM D/C AND CHG'D TO DEXTROSE WITH 3AMPS OF BICARB AT 250/HR. PT CONT TO HAVE ELEV K LEVEL AND HAVE RECEIVED MULTIPLE DOSES OF IV INSULIN AND AMPS OF DEXTROSE. VERY LITTLE CHANGE IN K LEVEL. EVENTUALLY UNABLE TO OBTAIN CUFF PRESSURE ON PTS LEG AND DR. [**Last Name (STitle) 4841**] WAS ABLE TO PLACE FEMORAL ALINE.  PT'S BP WAS IN THE 70'S WITH NEO/PITRESSIN. AT THIS TIME  LEVO WAS RESTARTED AND TITRATED TO MAX OF 8MCQ. HR AND BP BOTH INC WITH LEVO.
+
+PT'S HUSBAND AND TWO SONS CAME IN AND SPOKE WITH DR. [**Last Name (STitle) 4841**]. HUSBAND STILL WANTS TO CONT WITH FULL TREATMENT WITH PRESSORS AND DRIPS. 
+PT HAS TOTAL BODY EDEMA AND CONTINUES TO WORSEN. 
+FOLEY CATHETER PATENT AND DRAINING SCANT AMTS OF YELLOW URINE. RECTAL
+TUBE NOT DRAINING ANY STOOL DURING THE NIGHT. 
+PT CONT ON MULTIPLE ANTIBIOTICS, PT'S TEMP HYPOTHERMIC AND CONT TO HAVE WARMING BLANKET ON. AM WBC INC. 
+AT THIS TIME ON MAX PRESSORS BLOOD PRESSURE CONT TO DRIFT DOWN DUE TO PT'S ACIDOSIS. PT'S RESPONSIVENESS TO TREATMENTSIS MINIMAL AT THIS TIME.
+",,
+24626,18748,30581,0,2680-04-01 05:09:00 EST,2680-04-01 05:10:00 EST,1813,"N",69,"Nursing/Other",,"
+
+RESP CARE
+Pt currently on a/c 500x18 80% 5peep with peak/plat 40/35. Pt given atrovent mdi as ordered. Will cont to follow as needed.
+",,
+24626,18748,30581,0,2680-04-01 16:04:00 EST,2680-04-01 16:14:00 EST,1741,"N",69,"Nursing/Other","micu nsg 7a-7p","
+micu nsg 7a-7p
+RESP--PT REMAINS ON AC 18 500 PEEP 5 80%.  SX'D X1 FOR NO SPUTUM.  LUNGS SOUNDS DIMINISHED.  HAS REMAINED ACIDOTIC WITH pH ~7.13-7.16.
+
+NEURO--SEDATED ON FENT 50MC/HR.  PT UNRESPONSIVE, PUPILS FIXED AND DILATED.  NO SPONT MOVEMENT OR RESPONSE TO PAINFUL STIMULI.
+
+CARD--FAMILY MEETING HELD THIS AM AND DECISION MADE NOT TO ADD ANY MORE INTERVENTIONS FOR PT.  SHE HAS REMAINED ON HER TRIPLE PRESSORS WITH MARGINAL BP'S.  ~4PM WENT INTO JUNCTION VS VENT ESCAPE RHYTHM IN 20-40'S WITH FREQ PVC'S, ALINE FLAT.  FAMILY AWARE AND IN AT BEDSIDE.  PT REMAINS GROSSLY EDEMETOUS WEEPING FROM ALL PREVIOUS STICK SITES, AND DECUB ON COCCYX.  MOTTLED FROM CHEST DOWN.  NO PERIPHERAL PULSES DOPPLERABLE. K REMAINS ELEVATED 6.8-7.2 DESPITE INSULIN AND D50 X2. 
+  
+GI--BRB COMING FROM NGT AND RECTAL TUBE.  ABD DISTENDED AND RIGID.  BS ABSENT.  NOTED TO HAVE PROLAPSED UTERUS THIS AM AND ALSO BLEEDING FROM HERE.  TONGUE SWOLLEN AND BLEEDING PROFUSELY FROM MOUTH.  
+
+GU--MAKING SCANT AMOUNTS OF AMBER CLOUDY URINE.  
+
+HEME--INR 9.2 THIS AM.  DECISION MADE NOT TO TRANS BLOOD PRODUCTS.
+  
+",,
+24626,18748,30581,1,2680-04-01 16:04:00 EST,2680-04-01 19:06:00 EST,1741,"Y",69,"Nursing/Other","micu nsg 7a-7p","
+micu nsg 7a-7p
+ADDEN--PT NOTED TO HAVE FLAT EKG AND ALINE TRACINGS AT ~7:35PM.  HOUSE STAFF NOTIFIED AND WILL PRONOUNCE PT.  FAMILY HAS CONSENTED TO AUTOPSY AND CONSENTS HAVE BEEN SIGNED.
+",,

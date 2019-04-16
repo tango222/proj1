@@ -1,0 +1,513 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+24031,1875,,,2675-11-15 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+
+Admission Date:  [**2675-11-15**]       Discharge Date:  [**2675-11-23**]
+
+Date of Birth:   [**2614-7-5**]       Sex:  M
+
+Service:  Medicine
+
+CHIEF COMPLAINT:
+Weakness.
+
+HISTORY OF PRESENT ILLNESS:  The patient is a 61 year old
+male with HIV/AIDS, alcohol abuse, chronic obstructive
+pulmonary disease, adrenal insufficiency and pancreatitis.
+The patient reports that, over the past few weeks, he has
+been feeling somewhat ill and, over the past several days,
+was unable to stand.  He noticed jaundice three days prior to
+admission and also developed chills and right upper quadrant
+pain, positive light colored stools, positive dark urine, no
+nausea or vomiting but has not eaten or drunk anything in the
+three days prior to admission, positive weight loss over
+several weeks, and denies any fever.
+
+PAST MEDICAL HISTORY:  1.  AIDS.  2.  Alcohol use.  3.
+Pancreatitis.  4.  Diverticulitis.  5.  Adrenal
+insufficiency.  6.  Status post colectomy.  7.  Hypertension.
+8.  Chronic obstructive pulmonary disease.  9.  Idiopathic
+thrombocytopenic purpura.  10.  Neuropathy.
+
+MEDICATIONS ON ADMISSION:  Norvir, Epivir, Zerit, Crixivan,
+Prednisone, Bactrim, thiamine.
+
+ALLERGIES:  The patient has no known drug allergies.
+
+SOCIAL HISTORY:  The patient has a history of alcohol abuse
+and history of tobacco use.
+
+PHYSICAL EXAMINATION:  On physical examination on admission,
+the patient had a temperature of 95.4, blood pressure 101/38,
+pulse 70, respiratory rate 28 and oxygen saturation 95% in
+room air.  General:  Chronically ill appearing.  Skin:
+Seborrheic dermatitis, marked jaundice.  Head, eyes, ears,
+nose and throat:  Oropharynx dry.  Neck:  No lymphadenopathy.
+Respiratory:  Clear anteriorly, no wheezes, rales or rhonchi.
+Cardiovascular:  Regular rate and rhythm, normal S1 and S2.
+Abdomen:  Soft, diffusely tender, worse in right upper
+quadrant, positive bowel sounds.  Extremities:  No edema.
+Rectal:  Occult blood positive.
+
+LABORATORY DATA:  Admission white blood cell count was 10.3,
+hematocrit 29.3, platelet count 281,000, sodium 126,
+potassium 5.2, chloride 89, bicarbonate 14, BUN 122,
+creatinine 6.2, ALT 21, AST 39, alkaline phosphatase 266,
+amylase 88, total bilateral 20.2, LDH 346, CK 47, calcium
+7.8, phosphorous 7.4, magnesium 2.8.  Arterial blood gases on
+admission:  pH 7.3, pCO2 24, pO2 82, bicarbonate 12.
+Ultrasound:  Dilated intrahepatic ducts, common bile duct
+cannot be assessed, gallbladder with sludge.  CT of the
+abdomen:  Dilated common bile duct at 20 mm, dilated
+intrahepatic ducts.
+
+HOSPITAL COURSE:  The patient is a 61 year old male with
+multiple medical problems, including AIDS, chronic
+obstructive pulmonary disease, pancreatitis, adrenal
+insufficiency, and colectomy for diverticulitis, who now
+presents with acute renal failure and biliary obstruction,
+probable cholecystitis with obstruction and cholangitis.
+
+1.  Liver/infectious disease:  The patient had an increased
+bilirubin and jaundice, consistent with an obstructive
+biliary process and cholangitis.  He was started on
+vancomycin and Zosyn for sepsis.  Blood cultures grew out
+Klebsiella.
+
+The patient underwent an endoscopic retrograde
+cholangiopancreatography on [**2675-11-16**] which showed
+distal common bile duct stricture due to mass lesion, distal
+common bile duct obstruction, suppurative cholangitis,
+choledochoduodenal fistula, nonfilling of the gallbladder,
+stent placement in the common bile duct, peri-ampullary
+diverticulum, pancreatic duct was not injected.
+
+The patient was continued on antibiotics and, when the
+sensitivities of the Klebsiella came back sensitive to
+ceftriaxone, the patient was switched to intravenous
+ceftriaxone and vancomycin was discontinued.  The patient
+continued to be afebrile on ceftriaxone for several days,
+which was then switched to oral Levaquin and Flagyl which was
+added.
+
+Post stenting, the patient's bilirubin trended down
+significantly over the next several days and his jaundice
+also improved.  He continued to be afebrile.  The patient
+will need stent removal in four to six weeks from [**2675-11-16**] for re-evaluation of the bile duct obstruction.
+
+2.  Renal:  The patient had acute tubular necrosis secondary
+to hypotension and sepsis, which gradually resolved over the
+several days of his stay in the Medical Intensive Care Unit.
+The patient was hydrated and his creatinine gradually
+improved into the range of 2, and his electrolytes were
+repleted accordingly as the acute tubular necrosis entered a
+diuresis phase, which the patient is still in at the time of
+discharge.
+
+3.  HIV:  The patient was discontinued on HAART medication as
+he felt that he was unable to tolerate the medications and
+just stopped taking all of his HAART medications as well as
+his prophylaxis.  After much discussion, it was decided that
+he should not be placed back on these medications, as he is
+unlikely to be compliant, but may benefit at some point in
+the future from restarting them.
+
+4.  Endocrine:  The patient has adrenal insufficiency and was
+started on stress dosed steroids, which will be tapered from
+Prednisone 40 mg daily on [**2675-11-22**] to 30 mg p.o.q.d.
+on [**2675-11-21**] with a decrease of 10 mg each day until a
+level of 7.5 mg daily is reached, at which dose the patient
+will remain on.
+
+DISCHARGE DIAGNOSES:
+1.  Common bile duct obstruction secondary to mass suspicious
+for biliary duct carcinoma.
+2.  Sepsis.
+3.  Acute tubular necrosis.
+4.  HIV/AIDS.
+5.  Adrenal insufficiency.
+
+CONDITION ON DISCHARGE:  The patient is somewhat
+deconditioned on discharge, as he has gone through several
+fairly significant illnesses, and will need a stay in a short
+term rehabilitation facility for improvement of his
+ambulation and his oral intake prior to returning home.
+
+DISCHARGE MEDICATIONS:
+MS Contin 15 mg p.o.b.i.d.
+Atenolol 25 mg p.o.q.d.
+Prednisone 30 mg p.o.q.d., then 20 mg p.o.q.d., then 10 mg
+p.o.q.d., each for one day, and then 7.5 mg p.o.q.d. standing
+dose.
+Levofloxacin 500 mg p.o.q.d.
+Flagyl 500 mg p.o.t.i.d.
+Ambien 5 mg p.o.q.h.s.p.r.n.
+Tylenol 650 mg p.o./p.r.q.6h.p.r.n.
+Protonix 40 mg p.o.q.d.
+Nicotine patch 7 mg q.d.
+MSIR 15 mg p.o.q.4-6h.p.r.n. breakthrough pain.
+
+
+
+
+                            [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 4433**], M.D.  [**MD Number 4434**]
+
+Dictated By:[**Name8 (MD) 887**]
+MEDQUIST36
+
+D:  [**2675-11-22**]  15:04
+T:  [**2675-11-22**]  15:08
+JOB#:  [**Job Number 4435**]
+Signed electronically by: DR. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) **]
+ on: TUE [**2675-11-30**] 10:55 AM
+(End of Report)
+
+
+",,
+24031,1875,,,2675-11-15 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2675-11-15**] 2:03 PM
+     ABDOMEN U.S. (COMPLETE STUDY)                                   Clip # [**Clip Number (Radiology) 15011**]
+     Reason: JAUNDICE, ruq PAIN, CHILLS, EVAL FOR CHOLECYSTITIS OR STONES
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      61 year old man with ABOVE, H/O HIV
+     REASON FOR THIS EXAMINATION:
+      JAUNDICE, ruq PAIN, CHILLS, EVAL FOR CHOLECYSTITIS OR STONES
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CLINICAL INDICATION: 61 year old man with HIV, jaundice and right upper
+     quadrant pain.
+     
+     COMPARISONS: None.
+     
+     ABDOMINAL ULTRASOUND: There is marked intrahepatic ductal dilatation in both
+     right and left lobes of the liver. Secondary to gas along the midline, the
+     common bile duct is not well evaluated. The gallbladder is distended and
+     contains layering sludge. No intraluminal stones are seen. There is no
+     evidence of abnormal wall thickening or pericholecystic fluid. The right
+     kidney measures 9.8 cm in length
+     
+     
+
+",,
+24031,1875,,,2675-11-15 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2675-11-15**] 12:21 PM
+     CHEST (PA & LAT)                                                Clip # [**Clip Number (Radiology) 15010**]
+     Reason: pt c/o weakness, cough, sl sob
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      61 year old man with HIV
+     REASON FOR THIS EXAMINATION:
+      pt c/o weakness, cough, sl sob
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  61 year old man with HIV.  Presents with weakness, and shortness
+     of breath.
+     
+     Frontal and lateral radiographs of the chest were obtained and compared to the
+     next prior study dated [**2674-12-15**].
+     
+     The heart size is stable as are the mediastinal and hilar contours.  The lung
+     volumes are low.  There are stable elevation of the left hemidiaphragm with a
+     distended stomach.  No focal consolidation is seen and there are pleural
+     effusions.  The soft tissue and osseous structures are also stable.
+     
+     IMPRESSION:  Stable radiographic appearance of the chest with no acute
+     cardiopulmonary disease identified.
+
+",,
+24031,1875,,,2675-11-15 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2675-11-15**] 4:23 PM
+     CT ABDOMEN W/O CONTRAST; CT PELVIS W/O CONTRAST                 Clip # [**Clip Number (Radiology) 15012**]
+     Reason: 83 yo male with gross ductal dilation of liver un u/s, [**Doctor Last Name 15013**]
+     Field of view: 36
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      61 year old man with above
+     REASON FOR THIS EXAMINATION:
+      83 yo male with gross ductal dilation of liver un u/s, further eval for
+      obstruction vs cholangitis
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+     WET READ: GDi MON [**2675-11-15**] 7:29 PM
+      Marked intra- and extrahepatic ductal dilatation.  No stone identified.
+      No dilation of pancreatic duct.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CT OF THE ABDOMEN [**2675-11-15**].
+     
+     CLINICAL INDICATION:  61 year old man with gross intrahepatic ductal
+     dilatation identified on liver ultrasound.  Abdominal pain.
+     
+     TECHNIQUE:  Helically acquired contiguous axial images were obtained from the
+     lung bases through the iliac crests without the administration of IV contrast.
+     No IV contrast was administered as the patient has an elevated creatinine.
+     
+     COMPARISONS:  Reference is made to the patient's recent abdominal ultrasound.
+     
+     CT OF THE ABDOMEN WITHOUT IV CONTRAST:  There is atelectasis versus scarring
+     at the lung bases.  As on the ultrasound, there is marked intrahepatic ductal
+     dilatation in both right and left lobes of the liver, perhaps slightly more
+     pronounced in the left lobe.  The extrahepatic common duct is also markedly
+     dilated, measuring up to 2.5 cm in diameter.  It does appear to taper in the
+     region of the pancreatic head.  No obstructing stone is identified in this
+     region.  The gallbladder is distended.  No intraluminal stones are seen.  The
+     gallbladder wall does not appear abnormally thickened.  There are
+     calcifications throughout the length of the pancreas.  The pancreatic duct
+     does not appear abnormally dilated.  There is separation of the calcifications
+     within the head of the pancreas suggesting there may be a mass in this region.
+     The adrenal glands and spleen are normal. The kidneys are symmetric in size
+     without evidence of hydronephrosis or renal stones. There are at least two
+     cysts associated with the right kidney.  The stomach is dilated with fluid and
+     gas. There is a trace amount of free fluid inferior to the liver.  There are
+     multiple surgical clips present along the anterior abdominal wall on the
+     right.  There are degenerative changes of the osseous structures but no
+     destructive bone lesions are seen.
+     
+     IMPRESSION: Marked intra- and extrahepatic biliary ductal dilatation to the
+     level of the pancreatic head. Possible mass in the head of the pancreas where
+     there is separation of the pancreatic calcifications. Consider MRCP or ERCP
+     for further evaluation.
+     
+                                                                 (Over)
+
+     DATE: [**2675-11-15**] 4:23 PM
+     CT ABDOMEN W/O CONTRAST; CT PELVIS W/O CONTRAST                 Clip # [**Clip Number (Radiology) 15012**]
+     Reason: 83 yo male with gross ductal dilation of liver un u/s, [**Doctor Last Name 15013**]
+     Field of view: 36
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+
+",,
+24031,1875,,,2675-11-15 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2675-11-15**] 4:23 PM
+     CT ABDOMEN W/O CONTRAST; CT PELVIS W/O CONTRAST                 Clip # [**Clip Number (Radiology) 15012**]
+     Reason: 83 yo male with gross ductal dilation of liver un u/s, [**Doctor Last Name 15013**]
+     Field of view: 36
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      61 year old man with above
+     REASON FOR THIS EXAMINATION:
+      83 yo male with gross ductal dilation of liver un u/s, further eval for
+      obstruction vs cholangitis
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+     WET READ: GDi MON [**2675-11-15**] 7:29 PM
+      Marked intra- and extrahepatic ductal dilatation.  No stone identified.
+      No dilation of pancreatic duct.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CT OF THE ABDOMEN [**2675-11-15**].
+     
+     CLINICAL INDICATION:  61 year old man with gross intrahepatic ductal
+     dilatation identified on liver ultrasound.  Abdominal pain.
+     
+     TECHNIQUE:  Helically acquired contiguous axial images were obtained from the
+     lung bases through the iliac crests without the administration of IV contrast.
+     No IV contrast was administered as the patient has an elevated creatinine.
+     
+     COMPARISONS:  Reference is made to the patient's recent abdominal ultrasound.
+     
+     CT OF THE ABDOMEN WITHOUT IV CONTRAST:  There is atelectasis versus scarring
+     at the lung bases.  As on the ultrasound, there is marked intrahepatic ductal
+     dilatation in both right and left lobes of the liver, perhaps slightly more
+     pronounced in the left lobe.  The extrahepatic common duct is also markedly
+     dilated, measuring up to 2.5 cm in diameter.  It does appear to taper in the
+     region of the pancreatic head.  No obstructing stone is identified in this
+     region.  The gallbladder is distended.  No intraluminal stones are seen.  The
+     gallbladder wall does not appear abnormally thickened.  There are
+     calcifications throughout the length of the pancreas.  The pancreatic duct
+     does not appear abnormally dilated.  There is separation of the calcifications
+     within the head of the pancreas suggesting there may be a mass in this region.
+     The adrenal glands and spleen are normal. The kidneys are symmetric in size
+     without evidence of hydronephrosis or renal stones. There are at least two
+     cysts associated with the right kidney.  The stomach is dilated with fluid and
+     gas. There is a trace amount of free fluid inferior to the liver.  There are
+     multiple surgical clips present along the anterior abdominal wall on the
+     right.  There are degenerative changes of the osseous structures but no
+     destructive bone lesions are seen.
+     
+     IMPRESSION: Marked intra- and extrahepatic biliary ductal dilatation to the
+     level of the pancreatic head. Possible mass in the head of the pancreas where
+     there is separation of the pancreatic calcifications. Consider MRCP or ERCP
+     for further evaluation.
+     
+                                                                 (Over)
+
+     DATE: [**2675-11-15**] 4:23 PM
+     CT ABDOMEN W/O CONTRAST; CT PELVIS W/O CONTRAST                 Clip # [**Clip Number (Radiology) 15012**]
+     Reason: 83 yo male with gross ductal dilation of liver un u/s, [**Doctor Last Name 15013**]
+     Field of view: 36
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+
+",,
+24031,1875,29846,,2675-11-16 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2675-11-16**] 10:48 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 15014**]
+     Reason: Pt with RIJ placed. Please check for placement, pneumothorax
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      61 year old man with see above
+     REASON FOR THIS EXAMINATION:
+      Pt with RIJ placed. Please check for placement, pneumothorax.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Status post right IJ placement.  Please evaluate for position and
+     for pneumothorax.
+     
+     FINDINGS:  Comparison is made to a prior study dated [**2675-11-15**].  The right IJ
+     catheter is poorly visualized but the tip is likely within the upper SVC.  No
+     evidence of pneumothorax. There is elevation of the left hemidiaphragm, which
+     is stable compared to the prior exam of [**2675-11-15**].  The heart size is normal.
+     The mediastinal and hilar contours are normal.  The pulmonary vascularity is
+     normal.  The lungs are clear.  The soft tissues and osseous structures are
+     unremarkable.  There are no pleural effusions.
+     
+     IMPRESSION:
+     
+     1. No evidence of pneumothorax.  Right IJ in adequate position in the upper
+     SVC.
+     
+
+",,
+24031,1875,29846,0,2675-11-16 05:22:00 EST,2675-11-16 05:24:00 EST,252,"N",69,"Nursing/Other",,"
+
+NPN (NOC):  PLEASE SEE FLOW SHEET FOR FHPA AND DETAILS OF ASSESSMENT.  NEW ISSUE:  LAB CALLED TO REPORT [**4-11**] BC BOTTLES + FOR GNR'S, DR. [**First Name (STitle) **] NOTIFIED, NO NEW ORDERS RECEIVED.   
+",,
+24031,1875,29846,0,2675-11-16 17:52:00 EST,2675-11-16 18:07:00 EST,-1,"N",69,"Nursing/Other","MICU 7am-7pm","
+MICU 7am-7pm
+Data Entry: Pt.had ERCP after TLC placed in R jugular. Returned to room for recovery. Pt. had plastic stent placed in CBD after finding tumor.In MICU Pt. became hypotensive.
+Action: Pt. given bolus of NS x3, L radial arterial line placed, Started on Levo 4mcg/g/min for about 50 minutes and placed in reverse trendelenberg.Narcan .4mg given x1
+Response: BP returned to [**Location 4068**],Levo remains off, HOB up 30' and tol well. Aterial Bp correlates with automatic/manual cuff.Pt sats thoughout event> 99% on 2l/nc.  
+",,
+24031,1875,29846,0,2675-11-17 06:37:00 EST,2675-11-17 06:40:00 EST,252,"N",69,"Nursing/Other",,"
+
+NPN (NOC):  PT HAS HAD A GOOD NIGHT.  SLEPT THRU MOST OF IT, BUT EASY TO AROUSE AND ORIENTED.  STATES ABD PAIN IS MUCH BETTER.  IS NPO EXCEPT ICE CHIPS WHICH HE HAS TOL WELL.  D5 W/ 3 AMPS BICARB CONT AT 150/HR.  UO ANYWHERE FROM 20 - 50 CC'S/HR.  PM K+ 3.3, GOT 20 MEQS KCL.  BS'S STARTING TO CLIMB, SSI BEGUN.  AFEBRILE, ANTIBIOTIICS UNCHANGED.  
+",,
+24031,1875,29846,0,2675-11-17 16:57:00 EST,2675-11-17 17:18:00 EST,379,"N",69,"Nursing/Other","MSICU NPN 0700-1900","
+MSICU NPN 0700-1900
+
+
+A&O. C/O abd ""aching"" at times. Most of body sore to touch. Comfortable if not moved. Cries out at times when moved but is ok when left alone. UO~ 45cc/hr. FSs remain high and IVF changed to .45NS w/1amp [**E-mail address 4069**]. Remains NPO as Lipase very elevated.  Currently recieving 1st of 2u PRBCs. Dozing on and off all day but easily aroused. Afebrile. Vanco dc'd. Plan to transfer to medical floor when bed available.
+",,
+24031,1875,29846,0,2675-11-18 03:41:00 EST,2675-11-18 03:52:00 EST,-1,"N",69,"Nursing/Other","MSICU NURSING PROGRESS NOTE.","
+MSICU NURSING PROGRESS NOTE.
+     SEE CAREVIEW FOR OBJECTIVE DATA.
+     Dozed intermittantly throughout shift.  Reports being antsy, enjoying late night tv.  Occn complains of generalized body aches, abdominal pain, especially with movement.  Tolerated 2nd unit packed cells well.  Temp. max 97.3.  Foley catheter patent and draining bright yellow to amber urine in good amts.  Occn passing flatus, no stool this shift.  Reported new raised reddened areas on lt wristand hand, Dr [**Last Name (STitle) **]. Beach aware, reports that it appears to be viral in nature, not uncommon in immunocompromised pt.
+",,
+24031,1875,29846,0,2675-11-18 15:44:00 EST,2675-11-18 15:45:00 EST,209,"N",69,"Nursing/Other","FIN 4 ICU NURSING NOTE","
+[**Wardname **] 4 ICU NURSING NOTE
+   VSS. Afeb. BC X2 drawn. States he is trying to force himself to eat.
+",,
+24031,1875,,,2675-11-23 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2675-11-23**] 9:14 AM
+     ERCP S&I (74330)                                                Clip # [**Clip Number (Radiology) 15015**]
+     Reason: R/O CBD stone
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      61 year old man with fever, dilated ducts by U/S and CT.
+      EXAM PERFORMED [**11-16**], REQ SUBMITTED [**11-23**]
+     REASON FOR THIS EXAMINATION:
+      R/O CBD stone
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  61 y/o man with fever and dilated intrahepatic and extrahepatic
+     ducts on ultrasound and CT.
+     
+     FINDINGS:  An ERCP was performed in GI suite by Dr. [**Last Name (STitle) 1772**]. Evaluation of the
+     biliary tree reveals a moderately long stricture of the common bile duct with
+     marked dilatation of the intra and extrahepatic bile duct upstream from this
+     stricture.  Note is made of calcifications medial to the duodenum consistent
+     with calcifications in the head of the pancreas.  No filling defects are
+     identified within the biliary tree. The patient underwent placement of stent
+     in the common bile duct.
+     
+     IMPRESSION:
+     1. Distal common bile duct stricture with marked intra and extrahepatic ductal
+     dilatation above the level of the stricture. Given the presence of
+     calcifications in the head of the pancreas, the differential diagnosis
+     includes an inflammatory stricture secondary to chronic pancreatis vs. a
+     neoplastic process. 
+
+",,
+24031,,,,2676-02-22 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2676-2-22**] 3:23 PM
+     ERCP S&I (74330)                                                Clip # [**Clip Number (Radiology) 15016**]
+     Reason: R/O Neoplastic biliary obstruction
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      61 year old man with HIV and known biliary stricture with plastic stent in
+      place. Now with fever and jaundice. 
+      Exam performed [**2676-2-22**], req submitted [**2676-2-23**]
+     REASON FOR THIS EXAMINATION:
+      R/O Neoplastic biliary obstruction
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     History of AIDS with biliary stricture and stent placement now presents with
+     fever and jaundice.
+     
+     The preliminary film demonstrates a double pigtail biliary stent in the right
+     upper quadrant. Following removal of the stent there is  contrast filling of
+     the common bile duct, common hepatic duct, right hepatic duct and several
+     divisions of the right hepatic duct. The left hepatic duct is not
+     demonstrated. Cystic duct and gallbladder are not demonstrated.
+     There is dilatation of the visualized portion of the common bile duct and more
+     proximal ducts on the available spot films. The distal end of the common bile
+     duct is probably narrowed but not clearly delineated on the film. There is
+     some contrast filling of the distal end of the pancreatic duct on the initial
+     film. Status post placement of metal-wall stent in common bile duct.
+     
+     IMPRESSION: Status post removal of indwelling plastic biliary stent. Presumed
+     stricture distal end of common bile duct with dilatation of the visualized
+     ducts proximal to this. The left hepatic duct is not demonstrated. Status post
+     placement of metal-wall stent in common bile duct.
+
+",,
+24031,,,,2676-02-23 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+",,
+24031,,,,2676-02-23 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2676-2-23**] 1:16 PM
+     CHEST (PA & LAT)                                                Clip # [**Clip Number (Radiology) 15017**]
+     Reason: Please evaluate for pulm infiltrates                        
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      61 year old man with AIDS (CD4 15), Tmax 104.2 (post ERCP), wish to rule out 
+      pulm process as cause of fever.  On PCP [**Name Initial (PRE) 5479**].
+     REASON FOR THIS EXAMINATION:
+      Please evaluate for pulm infiltrates                                            
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: 61 y/o male with AIDS. Patient with fever. Evaluate for pulmonary
+     infiltrate in patient on PCP [**Name Initial (PRE) 5479**].
+     
+     FINDINGS: Comparison is made to prior radiograph from [**2675-11-16**].
+     
+     The heart size and mediastinal contours are within normal limits. The
+     pulmonary vascularity is normal. The lungs are clear with no evidence of
+     parenchymal consolidation or pulmonary nodules. There are no pleural
+     effusions. There is no pneumothorax. There is evidence of degenerative change
+     within the lower thoracic spine.
+     
+     IMPRESSION: No radiographic evidence of an acute cardiopulmonary process.
+
+",,

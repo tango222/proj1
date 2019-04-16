@@ -1,0 +1,156 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+24427,8953,,,2860-10-05 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+ 
+ 
+ 
+Admission Date:  [**2860-10-5**]              Discharge Date:   [**2860-10-6**]
+ 
+Date of Birth:  [**2793-4-5**]             Sex:   M
+ 
+Service: SURGERY
+ 
+Allergies: 
+Patient recorded as having No Known Allergies to Drugs
+ 
+Attending:[**First Name3 (LF) 2977**] 
+Chief Complaint:
+mesenteric ischemia
+ 
+Major Surgical or Invasive Procedure:
+ex lap
+
+ 
+History of Present Illness:
+67M acute abdominal pain x 8 hours, transferred from OSH with 
+diagnosis of mesenteric ischemia.
+ 
+Past Medical History:
+h/o etoh abuse
+PVD
+ 
+Social History:
+etoh abuse
++IVDA
+h/o cigs
+ 
+Family History:
+estranged from family
+ 
+Physical Exam:
+intubated 
+tense distended abdomen
+ 
+Pertinent Results:
+refer to carevue
+ 
+Brief Hospital Course:
+Taken emergently to OR, discovered to have diffusely ischemic 
+small bowels.
+
+Transferred to SICU, where he quickly passed away without pain
+ 
+Medications on Admission:
+coumadin
+
+ 
+Discharge Medications:
+n/a
+ 
+Discharge Disposition:
+Expired
+ 
+Discharge Diagnosis:
+ischemic bowel
+
+ 
+Discharge Condition:
+deceased
+
+ 
+Discharge Instructions:
+n/a
+ 
+Followup Instructions:
+n/a
+
+ 
+                             [**First Name11 (Name Pattern1) 59**] [**Last Name (NamePattern4) 2333**] MD, [**MD Number 2978**]
+ 
+Completed by: [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **] MD [**MD Number 2079**] [**2860-10-6**] @ 1103
+Signed electronically by: DR. [**First Name11 (Name Pattern1) 59**] [**Initial (NamePattern1) **] [**Last Name (NamePattern4) 2215**]
+ on: TUE [**2860-10-12**] 1:57 PM
+(End of Report)
+
+
+",,
+24427,8953,,,2860-10-05 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2860-10-5**] 7:52 PM
+     PORTABLE ABDOMEN                                                Clip # [**Clip Number (Radiology) 2573**]
+     Reason: GI BLEED
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  GI bleed.
+     
+     ABDOMEN, ONE VIEW:  Supine view, without comparison.  Nasogastric tube is seen
+     coiling in the stomach.  Air is seen throughout the bowel, with dilatation of
+     the entire small bowel in a pattern that suggests ileus.  Intramural air is
+     suggested, consistent with the patient's known history of diffuse pneumatosis
+     intestinalis on outside CT scan.  There are degenerative changes of the spine.
+     Free air is not identified on this supine view.
+     
+     IMPRESSION:  Diffuse bowel dilatation along with patient's known pneumatosis
+     intestinalis is concerning for mesenteric ischemia.
+
+",,
+24427,8953,,,2860-10-05 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2860-10-5**] 7:52 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 2571**]
+     Reason: ?tube placment                                              
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      67 year old man with ischemic bowel intubated                                   
+     REASON FOR THIS EXAMINATION:
+      ?tube placment                                                                  
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  67-year-old man with ischemic bowel, status post intubation.
+     Evaluate.
+     
+     COMPARISON:  None.
+     
+     AP SUPINE PORTABLE CHEST X-RAY:  An endotracheal tube is positioned less than
+     1 mm above the carina.  A nasogastric tube is coiled within the stomach
+     fundus.  The right IJ central venous catheter terminates in the mid SVC. There
+     is no pneumothorax.  The cardiac silhouette is normal in size.  The
+     mediastinal and hilar contours are normal.  Pulmonary vasculature is normal.
+     Opacification at the left lung base is consistent with atelectasis.  The right
+     lung is clear.  The surrounding soft tissue and osseous structures are
+     unremarkable.
+     
+     IMPRESSION:
+     1.  Endotracheal tube less than 1 cm above the carina.
+     2.  No pneumothorax.
+     3.  Left lower lobe collapse and consolidation, most consistent with
+     atelectasis.
+     
+     This was called to Dr. [**Last Name (STitle) 2572**] at 10:20 pm on [**2860-10-5**].
+
+",,
+24427,,30321,0,2860-10-06 03:00:00 EST,2860-10-06 03:05:00 EST,7572,"N",1,"Nursing/Other","Admission note","
+Admission note
+See FHP for admission history
+
+ Pt arrived from OR, s/p ex lap. Found large amount of dead bowel, inoperable. Pt transferred to SICU intubated and sedated. MD [**Doctor Last Name **] in unit to assess pt. Pt DNR, MD [**Doctor Last Name **] spoke with brother, pt CMO. Pt remains sedated on prop gtt, morphine gtt for comfort. Pt appears to be comfortable. Brother called and updated by this RN. Organ bank contacted.
+
+Plan: CMO for pt, update brother as needed, provide emotional support to pt and family. 
+",,
+24427,,30321,0,2860-10-06 04:48:00 EST,2860-10-06 05:17:00 EST,1047,"N",1,"Nursing/Other","Respiratory Care:","
+Respiratory Care:
+Patient placed on ventilatory support, S/P exploratoy lap for large amount of ischemic bowel.  Made CMO.  ABG results on the current settings revealed a normal acid-base balance with good oxygenation.
+
+Patient expired.
+",,

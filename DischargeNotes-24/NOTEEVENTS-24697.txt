@@ -1,0 +1,2897 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+24697,14834,,,3408-10-25 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+ 
+ 
+ 
+Admission Date:  [**3408-10-25**]              Discharge Date:   [**3408-11-4**]
+ 
+Date of Birth:  [**3363-7-9**]             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Patient recorded as having No Known Allergies to Drugs
+ 
+Attending:[**First Name3 (LF) 556**] 
+Chief Complaint:
+Acute alcohol intoxication/liver failure/bleeding gastric 
+varices.
+ 
+Major Surgical or Invasive Procedure:
+Trans-jugular intrahepatic porto-systemic shunt (TIPS).
+Esophagogastroduodenoscopy (EGD).
+Bronchoscopy.
+
+ 
+History of Present Illness:
+45M with history of alcoholism presented to OSH with hematemesis 
+and now transferred to [**Hospital1 25**] for actively bleeding gastric 
+varices.
+.
+The patient was in his USOH until the night prior to admission, 
+when after drinking approximately a pint of hard liquor, his 
+wife found him ""about to pass out"" and she lowered him onto the 
+bed.  His eyes subsequently rolled back and she called 911, but 
+patient refused transport. EMTs were called once this happened 
+again.  The wife was later contacted by the police who were 
+contacted by someone who witnessed the patient pull to the side 
+of the road in his truck and discard his clothing, which were 
+soaked in blood.  The patien later admitted to vomiting a 
+""bucket-full"" of blood on his clothes in his truck. 
+.
+At OSH, pt vomited 1800cc of blood. BP 87/54, HR 139. His hct 
+was 28 and his INR 2.3 and he received 2U PRBC and 2U FFP. He 
+was started on octreotide and levofloxacin and underwent an EGD 
+which showed 4cm gastric fundic varices with active bleeding.  
+Stomach was full of old and new blood.  No noted esophageal 
+bleeding lesions.  Nothing was treated endoscopically and the 
+patient was transferred to [**Hospital1 25**] for octreotide and for TIPS 
+procedure.
+.
+In [**Hospital1 25**] ED, pt noted to be tachycardic in 120s-140s with BP 
+120/80 and hct 32.1.  He was given 10mg IV Valium x 3, banana 
+bag, calcium gluconate 2g, Octreotide 50mcg/hr and pantoprazole 
+40mg IV x 1. Denies N/V, abdominal pain, CP, SOB. Reports 
+tremulousness.  He had an NG lavage which showed dark red blood 
+which did not clear with 500cc. He was given 2U FFP in the ED.
+ 
+Past Medical History:
+1. Alcohol abuse, drinks 1 pint/day, last sobriety ~2 yrs ago, 
+no hx of withdrawl sz, previously admitted 2 yrs ago for detox
+2. Anxiety
+3. Depression
+4. Admitted [**5-15**] for ""dehydration"", wife thought he was ""yellow""
+
+ 
+Social History:
+Lives with his wife and two children (age 20 and 21).  Works in 
+road construction.  Drinks one pint of hard liquor per night, 
+last drink the evening of 11/13. Smokes 1/2-1 ppd for thirty 
+years.
+
+ 
+Family History:
+Father alcoholic and died at age 65 of complications of 
+alcoholism. Sister also alcoholic.  Mother alive with asthma. 
+ 
+Physical Exam:
+Vitals: T 98.9 BP 146/74 HR 141 RR 21 97%RA
+Gen: ill-appearing man in NAD, breath smells of alcohol
+HEENT: PERRL, EOMI, sclerae icteric, dry mucous membranes, 
+crusted blood on lips
+Neck: no JVD or LAD
+Lung: CTA bilaterally
+Chest: telangiectasias
+Cor: tachycardic, regular rhythm, nml S1S2
+Abd: NABS, soft NTND
+Ext: slight palmar erythema, no edema
+ 
+Pertinent Results:
+Admission Labs:
+[**3408-10-25**] 01:31AM BLOOD WBC-9.5 RBC-3.25* Hgb-11.0* Hct-32.1* 
+MCV-99* MCH-33.7* MCHC-34.1 RDW-14.5 Plt Ct-57*
+[**3408-10-25**] 01:31AM BLOOD Neuts-89.5* Lymphs-6.6* Monos-3.6 Eos-0.3 
+Baso-0.1
+[**3408-10-25**] 01:31AM BLOOD PT-19.1* PTT-33.9 INR(PT)-2.6
+[**3408-10-25**] 01:31AM BLOOD Plt Smr-VERY LOW Plt Ct-57*
+[**3408-10-25**] 10:10AM BLOOD Fibrino-144*
+[**3408-10-25**] 01:31AM BLOOD Glucose-138* UreaN-30* Creat-1.3* Na-144 
+K-5.5* Cl-102 HCO3-15* AnGap-33*
+[**3408-10-25**] 01:31AM BLOOD ALT-994* AST-2371* AlkPhos-80 
+TotBili-8.6*
+[**3408-10-25**] 01:31AM BLOOD Lipase-72*
+[**3408-10-25**] 01:31AM BLOOD Albumin-3.1* Calcium-7.1* Phos-3.9 Mg-1.6
+[**3408-10-26**] 02:35AM BLOOD Ammonia-195*
+[**3408-10-25**] 04:30AM BLOOD HBsAg-NEGATIVE HBsAb-NEGATIVE 
+HBcAb-NEGATIVE HAV Ab-POSITIVE
+[**3408-10-25**] 01:31AM BLOOD ASA-NEG Ethanol-136* Acetmnp-NEG 
+Bnzodzp-NEG Barbitr-NEG Tricycl-NEG
+[**3408-10-25**] 07:24AM BLOOD Type-ART pO2-78* pCO2-30* pH-7.51* 
+calHCO3-25 Base XS-1
+[**3408-10-25**] 06:52AM BLOOD Lactate-9.7*
+[**3408-10-25**] 10:15AM BLOOD Glucose-113* Lactate-5.7* Na-149* K-4.0 
+Cl-111
+[**3408-10-25**] 10:15AM BLOOD Hgb-10.5* calcHCT-32
+[**3408-10-25**] 04:44AM BLOOD freeCa-0.81*
+.
+CXR [**3408-10-25**]: 1. Confluent airspace opacities within the right 
+and left lower lung zones, suggestive of multifocal pneumonia or 
+aspiration.
+2. Right IJ catheter is seen, with a kink in the proximal most 
+portion. 
+.
+TIPS [**3408-10-25**]: 1) Portal hypertension with pressure gradient 
+between the portal vein and hepatic vein measured 14 mmHg prior 
+to formation of the portosystemic shunt. Large gastric varices 
+were demonstrated. 2) Transjugular intrahepatic portosystemic 
+shunt placement and alcohol embolization of two large gastric 
+varices with good angiographic results was performed. The 
+post-TIPS portosystemic pressure gradient was reduced to 9 mmHg. 
+3) Placement of a 9-French 11 cm triple-lumen central venous 
+catheter via the right internal jugular vein with the tip in the 
+SVC, ready for use.
+.
+ECG [**3408-10-25**]: Sinus tachycardia; Modest diffuse nonspecific ST-T 
+wave changes.
+.
+CXR [**3408-10-26**]: Increased opacification at the left lung base 
+likely represents worsening pneumonia or aspiration. Improved 
+aeration of the right lung base probably represents improving 
+atelectasis.
+.
+RUQ u/s [**3408-10-26**]: The left portal vein is not visualized. There 
+is hepatopetal flow within the main portal vein with velocities 
+of approximately 15 cm/sec. The TIPS is poorly visualized. There 
+appears to be wall-to-wall flow velocities of approximately 37, 
+60, and 76 cm/sec returned from the proximal, mid, and distal 
+TIPS respectively. The IVC is patent. There is no evidence of 
+intra or perihepatic hematoma.
+.
+CT head [**3408-10-27**]: There is no intracranial hemorrhage, abnormal 
+extra-axial fluid collection, mass effect or midline shift. The 
+ventricles and basal cisterns are unremarkable. The slightly 
+lower attenuation of the left temporal lobe is thought to be 
+artifactual given the slightly asymmetric positioning of the 
+patient's head. There is no definite focal effacement in this 
+area. Fluid in the ethmoid, sphenoid, and maxillary sinuses is 
+probably secondary to endotracheal intubation.
+.
+CXR [**3408-10-27**]: Heterogeneous opacification at the right lung 
+base, which cleared between [**10-25**] and 16, has recurred. 
+Although I cannot exclude pneumonia, the sequence of events more 
+likely reflects asymmetric edema accompanied by small bilateral 
+pleural effusions. Left lower lobe atelectasis persists. The 
+heart is normal size. There is no pneumothorax. Tip of 
+endotracheal tube at the thoracic inlet is more than 8 cm from 
+the carina, 4 cm above optimal placement. Tip of the right 
+jugular sheath projects over the SVC. No pneumothorax or 
+mediastinal widening.
+.
+ECG [**3408-10-27**]: Sinus rhythm. Non-diagnostic repolarization 
+abnormalities. Compared to the previous tracing of [**3408-10-25**] 
+heart rate is slower. Otherwise, no major change.  
+.
+CXR [**3408-10-28**]: Consolidation in the lungs, particularly the left 
+has increased substantially since [**9-25**], having improved 
+between 15 and 16. Some of this may be due to pulmonary edema 
+but worsening pneumonia, particularly in the left lung is 
+presumed. Tip of the endotracheal tube is above the upper margin 
+of the clavicles, more than 8 cm from the carina and 4 cm above 
+optimal placement. Nasogastric tube passes into the stomach and 
+out of view. Right internal jugular sheath projects over the 
+expected course of the right internal jugular vein, but is 
+sharply folded proximally. There is at least a small left 
+pleural effusion. The heart is top normal size and unchanged. 
+There is no pneumothorax.
+.
+
+  
+
+ 
+Brief Hospital Course:
+A 45yoM with history of alcoholism presented with large amount 
+of hematemesis and was transferred to [**Hospital1 25**] for actively 
+bleeding gastric varices seen on EGD.
+.
+1. GI bleed: The Pt. was admitted with a history and LFT pattern 
+consistent with alcoholic liver failure/cirrhosis.  The Pt. was 
+transfused with pRBCs for goal Hct>30.  The patient was started 
+on octreotide gtt, levofloxacin (per data showing benefit with 
+esophageal varices) for 10 days, and IV protonix.  The patient 
+was evaluated by the liver/gi service and underwent the TIPS 
+procedure.  Following the TIPS procedure, the Pt's hematocrit 
+remained stable, and transaminases and NH3 trended down toward 
+normal levels, although bilirubin levels increased.  The patient 
+had an NG tube placed, and was treated with lactulose and 
+rifaximin, and tube feeds were started on hospital day 4.  
+.
+2. Fever: The Pt. had persistent fevers upon admission.  
+Initially Pt. had no signs of infection, and neuro exam (pupils, 
+extremity tone) was unchanged.  A head CT was negative.  Due to 
+liver disease, Pt. was not treated with acetaminophen; instead a 
+cooling blanket was used.  Due to concern for an aspiration 
+pneumonia, the Pt. was started on levofloxacin and clindamycin 
+on admission.  Fluid from a bronchoalveolar lavage (BAL) grew 4+ 
+gram positive cocci in pairs and clusters.  Vancomycin was added 
+to the regimen for improved gram positive coverage.  
+.
+3. Respiratory failure: The patient was intubated upon admission 
+for airway protection, and maintained on assist control 
+ventilation with propofol sedation.  
+The Pt's pCO2 was allowed to run around 55, and CPAP + pressure 
+support trials were initiated, which the Pt. seemed to tolerate. 
+ By hospital day 4, the Pt. was off sedation, but still remained 
+asleep and essentially unresponsive.  Fentanyl gtt was titrated 
+to Pt. comfort while ETT tube was in place.
+.
+4. Hepatitis: Pt. was admitted with elevated LFTs, likely a 
+result of alcoholic cirrhosis, especially given transaminase 
+ratio AST:ALT > 2:1.  Presence of gastric varices points to 
+cirrhosis.  The patient underwent the TIPS procedure and was 
+treated with rifaximin as above.  Viral and autoimmune 
+serologies were negative for Hep B and Hep C but positive for 
+Hep A, and a ceruloplasmin level was found to be 16 (low).  
+Following the TIPS procedure, the Pt's LFTs normalized, however, 
+the bilirubin increased from 9.9 up to 25.4.  The etiology of 
+this was thought to be either TIPS-induced liver dysfunction vs. 
+post-op jaundice and sepsis. On hospital day 7 the pt began to 
+show signs of acute renal failure, and hepatorenal syndrome was 
+considered likely, with the normalizing LFTs actually 
+representing loss of synthetic liver function.
+.
+5. Alcoholism: Pt's last alcoholic drink was [**10-23**].  
+Tremulousness and tachycardia on admission were likely related 
+to alcohol withdrawal.  The patient was treated with valium 
+5-10mg Q1H:PRN dosed according to a CIWA Scale.
+.
+#. Psych: The Pt. has a history of depression, anxiety and 
+substance abuse.  Urine toxicology on admission was positive for 
+cocaine, though wife did not know about a history of drug abuse. 
+ Social Work and substance abuse were consulted and met with the 
+Pt. after he woke up.  He was also treated with a nicotine 
+patch.
+.
+#. Tachycardia: Likely related to both active GI bleed and 
+hypovolemia as well as alcohol withdrawal given concomitant 
+tremulousness.  Initial management addressed hemodynamic 
+stability and fluid resuscitation, and then the Pt. was treated 
+with nadolol, which has non-specific beta 1&2 blocking activity. 
+ 
+.
+6. ARF: Creatinine normalized initially. Pt. was initially 
+prerenal related to blood loss.  Cr normalized following 
+fluid/blood product resuscitation, and Is/Os were monitored 
+throughout hospitalization. On hospital day 7, the Cr began to 
+rise dramatically, and hepatorenal syndrome was considered 
+likely. The renal service was involved to monitor his 
+requirements for hemodialysis.
+.
+7. Metabolic acidosis:  Anion gap initially 27, likely related 
+to alcoholic ketoacidosis, closed following TIPS procedure and 
+resolution of transaminitis.  Electrolytes were monitored and 
+aggresively repleted.
+.
+8. FEN: The patient was initially given thiamine, folate, D5, 
+MVI, and electrolytes were monitored and repleted.  After 
+placement of an NG-tube, tube feeds were started with free water 
+boluses via NG tube for hypernatremia 250cc Q4H + 1L D5 today 
+(free water deficit was ~7L).  Erythromycin IV was used to 
+encourage forward gi motility.
+.
+9. Prophylaxis: The patient wore pneumoboots and was treated 
+with IV protonix during the time he was sedated/intubated.
+.
+As the hepatorenal syndrome worsened, the liver and renal 
+services felt that the patient's prognosis was extremely poor 
+and thus recommended against hemodialysis given that the patient 
+was unlikely to recover. After several family discussions, the 
+family decided to withdraw care. The patient expired on 
+[**3408-11-4**].
+
+ 
+Medications on Admission:
+(Pt is non-compliant)
+Buspirone
+Disulfuram
+
+ 
+Discharge Medications:
+none
+ 
+Discharge Disposition:
+Expired
+ 
+Discharge Diagnosis:
+bleeding gastric varices
+alcoholism
+hepatorenal syndrome
+
+ 
+Discharge Condition:
+expired
+ 
+Discharge Instructions:
+n/a
+ 
+Followup Instructions:
+n/a
+ 
+                             [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 571**] MD [**MD Number 572**]
+ 
+Completed by: [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 2991**] MD [**MD Number 2992**] [**3408-11-8**] @ 1325
+Signed electronically by: DR. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **]
+ on: TUE [**3408-11-15**] 12:13 AM
+(End of Report)
+
+
+",,
+24697,14834,,,3408-10-25 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3408-10-25**] 8:15 AM
+     TIPS                                                            Clip # [**Clip Number (Radiology) 5167**]
+     Reason: TIPS                                                        
+     Admitting Diagnosis: GASTROINTESTINAL BLEED
+      Contrast: OPTIRAY Amt: 500
+     ********************************* CPT Codes ********************************
+     * 37204 EMBO NON NEURO                 37182 INSERT HEPATIC HUNT TIPS      *
+     * -51 MULTI-PROCEDURE SAME DAY         36012 2ND ORDER OR> VENOUS SYSTEM   *
+     * -59 DISTINCT PROCEDURAL SERVICE      36011 1SR ORDER BRANCH VENOUS SYSTEM*
+     * -59 DISTINCT PROCEDURAL SERVICE      36556 NON-TUNNELED                  *
+     * -51 MULTI-PROCEDURE SAME DAY         75894 TRANCATHETER EMBOLIZATION     *
+     * CATH, TRANSLUM ANGIO NONLASER        CATH, TRANSLUM ANGIO NONLASER       *
+     * CATH, TRANSLUM ANGIO NONLASER        C1751 CATH [**Last Name (LF) 260**],[**First Name3 (LF) 261**]/CENT/MID(NOT D*
+     * C1769 GUID WIRES INCL INF            C1769 GUID WIRES INCL INF           *
+     * C1769 GUID WIRES INCL INF            C1769 GUID WIRES INCL INF           *
+     * C1769 GUID WIRES INCL INF            C1769 GUID WIRES INCL INF           *
+     * C1769 GUID WIRES INCL INF            C1773 SNARE-RETRIEVAL DEVICE INSERT *
+     * STENT NOCOAT NOCOVR W/O [**Doctor First Name **] SYSTEM   C1894 INT.SHTH NOT/GUID,EP,NONLASER *
+     * C1894 INT.SHTH NOT/GUID,EP,NONLASER  C1894 INT.SHTH NOT/GUID,EP,NONLASER *
+     * C2628 C=VAS-CATH OCCLUSION           C2628 C=VAS-CATH OCCLUSION          *
+     * NON-IONIC 200 CC SUPPLY                                                  *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      45 year old man with likely alcoholic cirrhosis and acutely bleeding gastric 
+      varices.
+     REASON FOR THIS EXAMINATION:
+      TIPS                                                                            
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  45-year-old man with alcoholic cirrhosis with acute gastric variceal
+     bleeding.
+     
+     RADIOLOGISTS:  Dr. [**Last Name (STitle) 675**], Dr. [**First Name (STitle) 2**] [**Name (STitle) 3**], Dr. [**First Name4 (NamePattern1) 4062**] [**Last Name (NamePattern1) 5168**], and the
+     attending Dr. [**First Name4 (NamePattern1) 431**] [**Last Name (NamePattern1) 432**] who was present throughout the procedure.
+     
+     FINDINGS/TECHNIQUE:  The patient was appropriately consented and placed supine
+     on the angiographic table.  Following induction of general anesthesia, the
+     patient's right neck was prepped and draped sterilely.  The right internal
+     jugular vein was accessed under fluoroscopic and ultrasound guidance with a
+     21-gauge needle.  The puncture needle was exchanged over a 0.018 wire for a
+     4-French catheter.  The 0.018 wire and inner stylet were removed and [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 100**]
+     wire was advanced into the IVC.  The puncture site was progressively dilated
+     and a 10-French long [**Doctor Last Name 5169**]-[**Last Name (un) 5032**] sheath was then placed over the wire with
+     its tip positioned just below the diaphragm into the inferior vena cava under
+     fluoroscopic guidance.  A modified 5-French C2 catheter was then advanced
+     through the sheath over a 0.035 [**Doctor Last Name 100**] wire and its tip engaged in the hepatic
+     vein.  The catheter was then advanced into the periphery of the vein with the
+     help of a 0.035 Glidewire.  A venogram was then performed demonstrating
+     appropriate positioning of the tip of the catheter within the hepatic vein. 
+     The catheter was then removed and an occlusion balloon catheter was placed. 
+     The balloon was inflated in the peripheral hepatic vein and a portogram was
+     performed in the AP and lateral projections using carbon dioxide as a contrast
+                                                                 (Over)
+
+     DATE: [**3408-10-25**] 8:15 AM
+     TIPS                                                            Clip # [**Clip Number (Radiology) 5167**]
+     Reason: TIPS                                                        
+     Admitting Diagnosis: GASTROINTESTINAL BLEED
+      Contrast: OPTIRAY Amt: 500
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     [**Doctor Last Name 92**].  This confirmed the position of the catheter to be in the right hepatic
+     vein and delineated the portal vein, which was widely patent.
+     
+     After the balloon occlusion catheter was removed, a 7-French metallic
+     [**Doctor Last Name 5169**]-[**Last Name (un) 5032**] sheath was advanced over [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 100**] wire through the vascular sheath
+     until the tip was positioned in the mid portion of the right hepatic vein.  A
+     14-gauge needle was then advanced through this protected sheath and a puncture
+     was made through the liver parenchyma.  Good blood return was obtained and the
+     injected contrast moved in the hepatofugal direction.  The 0.035 stiff
+     Glidewire was advanced and a multi-sidehole infusion catheter followed into
+     the presumed portal vein.  Contrast angiography was then performed
+     demonstrating that the tip of the catheter was in fact positioned within the
+     hepatic artery.  The catheter was then removed from the hepatic artery.  A
+     14-gauge needle was then advanced through the sheath, through the parenchyma
+     of the liver into the right portal vein branch.  A 5-French multi-sidehole
+     catheter was then placed over the wire into the superior mesenteric vein and a
+     selective venogram was then performed.  This revealed large varices arising
+     from the splenic and proximal portal vein with numerous small varices arising
+     from the distal main portal vein.  A stiff Amplatz 0.035 guide wire was then
+     advanced through the catheter into the splenic vein and the catheter was then
+     removed.  The liver parenchymal tract was then dilated with an 8-mm diameter
+     balloon.  Under direct fluoroscopic visualization, a 10-mm diameter 68 mm long
+     Wallstent was placed extending from the main portal vein into the hepatic
+     vein.  The stent was then dilated with a 10- and 12-mm balloon, and a
+     follow-up portogram was performed.  This demonstrated brisk flow through the
+     shunt, but continuous opacification of the previously demonstrated varices of
+     the portal and splenic veins.  A C2 glide catheter was then advanced over a
+     0.035 wire into the large gastric varix and an attempt to deploy a 12-cm long
+     coil was attempted.  However, the coil and the tip of the catheter were
+     displaced into the portal vein.  Subsequent extraction of the coil with a
+     snare was performed successfully with no residual coil present within the
+     vasculature.  Subsequently, two large gastric varices were engaged with a
+     Cobra catheter and 3 cc of absolute alcohol was injected into each varices
+     with resulting slowing of the blood flow within those varices.  The Cobra
+     catheter was then removed and replaced with a multi-sidehole infusion straight
+     catheter.  Portal vein pressure was then measured to be 34 mmHg.  Pressure
+     within the mid stent was 32 mmHg.  Blood pressure within the hepatic artery
+     was 25 mmHg.  Pressure within the right atrium and right ventricle was 22
+     mmHg.  Therefore, portosystemic gradient constituted approximately 9 mmHg. 
+     This was a significant reduction in the portosystemic gradient compared to the
+     portosystemic gradient of 14 prior to deploying of the Wallstent.  Additional
+     balloon dilatation of the shunt using 12-mm balloon over a 0.035-wire was
+     performed with subsequent portal pressure measured 32 mmHg and the pressure
+     within the IVC measured 23 mmHg.  The 10-French sheath was then removed over
+     the wire and a 9-French 11 cm triple-lumen central venous catheter was
+                                                                 (Over)
+
+     DATE: [**3408-10-25**] 8:15 AM
+     TIPS                                                            Clip # [**Clip Number (Radiology) 5167**]
+     Reason: TIPS                                                        
+     Admitting Diagnosis: GASTROINTESTINAL BLEED
+      Contrast: OPTIRAY Amt: 500
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     advanced with its tip positioned within the SVC.  This was confirmed by a
+     final AP chest x-ray.
+     
+     There were no immediate complications.
+     
+     CONTRAST MEDIA:  200 cc of nonionic contrast material was used.
+     
+     IMPRESSION:
+     
+     1)  Portal hypertension with pressure gradient between the portal vein and
+     hepatic vein measured 14 mmHg prior to formation of the portosystemic shunt. 
+     Large gastric varices were demonstrated.
+     
+     2)  Transjugular intrahepatic portosystemic shunt placement and alcohol
+     embolization of two large gastric varices with good angiographic results was
+     performed.  The post-TIPS portosystemic pressure gradient was reduced to 9
+     mmHg.
+     
+     3)  Placement of a 9-French 11 cm triple-lumen central venous catheter via the
+     right internal jugular vein with the tip in the SVC, ready for use.
+                                                                           
+
+",,
+24697,14834,,,3408-10-25 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3408-10-25**] 8:15 AM
+     TIPS                                                            Clip # [**Clip Number (Radiology) 5167**]
+     Reason: TIPS                                                        
+     Admitting Diagnosis: GASTROINTESTINAL BLEED
+      Contrast: OPTIRAY Amt: 500
+     ********************************* CPT Codes ********************************
+     * 37204 EMBO NON NEURO                 37182 INSERT HEPATIC HUNT TIPS      *
+     * -51 MULTI-PROCEDURE SAME DAY         36012 2ND ORDER OR> VENOUS SYSTEM   *
+     * -59 DISTINCT PROCEDURAL SERVICE      36011 1SR ORDER BRANCH VENOUS SYSTEM*
+     * -59 DISTINCT PROCEDURAL SERVICE      36556 NON-TUNNELED                  *
+     * -51 MULTI-PROCEDURE SAME DAY         75894 TRANCATHETER EMBOLIZATION     *
+     * CATH, TRANSLUM ANGIO NONLASER        CATH, TRANSLUM ANGIO NONLASER       *
+     * CATH, TRANSLUM ANGIO NONLASER        C1751 CATH [**Last Name (LF) 260**],[**First Name3 (LF) 261**]/CENT/MID(NOT D*
+     * C1769 GUID WIRES INCL INF            C1769 GUID WIRES INCL INF           *
+     * C1769 GUID WIRES INCL INF            C1769 GUID WIRES INCL INF           *
+     * C1769 GUID WIRES INCL INF            C1769 GUID WIRES INCL INF           *
+     * C1769 GUID WIRES INCL INF            C1773 SNARE-RETRIEVAL DEVICE INSERT *
+     * STENT NOCOAT NOCOVR W/O [**Doctor First Name **] SYSTEM   C1894 INT.SHTH NOT/GUID,EP,NONLASER *
+     * C1894 INT.SHTH NOT/GUID,EP,NONLASER  C1894 INT.SHTH NOT/GUID,EP,NONLASER *
+     * C2628 C=VAS-CATH OCCLUSION           C2628 C=VAS-CATH OCCLUSION          *
+     * NON-IONIC 200 CC SUPPLY                                                  *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      45 year old man with likely alcoholic cirrhosis and acutely bleeding gastric 
+      varices.
+     REASON FOR THIS EXAMINATION:
+      TIPS                                                                            
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  45-year-old man with alcoholic cirrhosis with acute gastric variceal
+     bleeding.
+     
+     RADIOLOGISTS:  Dr. [**Last Name (STitle) 675**], Dr. [**First Name (STitle) 2**] [**Name (STitle) 3**], Dr. [**First Name4 (NamePattern1) 4062**] [**Last Name (NamePattern1) 5168**], and the
+     attending Dr. [**First Name4 (NamePattern1) 431**] [**Last Name (NamePattern1) 432**] who was present throughout the procedure.
+     
+     FINDINGS/TECHNIQUE:  The patient was appropriately consented and placed supine
+     on the angiographic table.  Following induction of general anesthesia, the
+     patient's right neck was prepped and draped sterilely.  The right internal
+     jugular vein was accessed under fluoroscopic and ultrasound guidance with a
+     21-gauge needle.  The puncture needle was exchanged over a 0.018 wire for a
+     4-French catheter.  The 0.018 wire and inner stylet were removed and [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 100**]
+     wire was advanced into the IVC.  The puncture site was progressively dilated
+     and a 10-French long [**Doctor Last Name 5169**]-[**Last Name (un) 5032**] sheath was then placed over the wire with
+     its tip positioned just below the diaphragm into the inferior vena cava under
+     fluoroscopic guidance.  A modified 5-French C2 catheter was then advanced
+     through the sheath over a 0.035 [**Doctor Last Name 100**] wire and its tip engaged in the hepatic
+     vein.  The catheter was then advanced into the periphery of the vein with the
+     help of a 0.035 Glidewire.  A venogram was then performed demonstrating
+     appropriate positioning of the tip of the catheter within the hepatic vein. 
+     The catheter was then removed and an occlusion balloon catheter was placed. 
+     The balloon was inflated in the peripheral hepatic vein and a portogram was
+     performed in the AP and lateral projections using carbon dioxide as a contrast
+                                                                 (Over)
+
+     DATE: [**3408-10-25**] 8:15 AM
+     TIPS                                                            Clip # [**Clip Number (Radiology) 5167**]
+     Reason: TIPS                                                        
+     Admitting Diagnosis: GASTROINTESTINAL BLEED
+      Contrast: OPTIRAY Amt: 500
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     [**Doctor Last Name 92**].  This confirmed the position of the catheter to be in the right hepatic
+     vein and delineated the portal vein, which was widely patent.
+     
+     After the balloon occlusion catheter was removed, a 7-French metallic
+     [**Doctor Last Name 5169**]-[**Last Name (un) 5032**] sheath was advanced over [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 100**] wire through the vascular sheath
+     until the tip was positioned in the mid portion of the right hepatic vein.  A
+     14-gauge needle was then advanced through this protected sheath and a puncture
+     was made through the liver parenchyma.  Good blood return was obtained and the
+     injected contrast moved in the hepatofugal direction.  The 0.035 stiff
+     Glidewire was advanced and a multi-sidehole infusion catheter followed into
+     the presumed portal vein.  Contrast angiography was then performed
+     demonstrating that the tip of the catheter was in fact positioned within the
+     hepatic artery.  The catheter was then removed from the hepatic artery.  A
+     14-gauge needle was then advanced through the sheath, through the parenchyma
+     of the liver into the right portal vein branch.  A 5-French multi-sidehole
+     catheter was then placed over the wire into the superior mesenteric vein and a
+     selective venogram was then performed.  This revealed large varices arising
+     from the splenic and proximal portal vein with numerous small varices arising
+     from the distal main portal vein.  A stiff Amplatz 0.035 guide wire was then
+     advanced through the catheter into the splenic vein and the catheter was then
+     removed.  The liver parenchymal tract was then dilated with an 8-mm diameter
+     balloon.  Under direct fluoroscopic visualization, a 10-mm diameter 68 mm long
+     Wallstent was placed extending from the main portal vein into the hepatic
+     vein.  The stent was then dilated with a 10- and 12-mm balloon, and a
+     follow-up portogram was performed.  This demonstrated brisk flow through the
+     shunt, but continuous opacification of the previously demonstrated varices of
+     the portal and splenic veins.  A C2 glide catheter was then advanced over a
+     0.035 wire into the large gastric varix and an attempt to deploy a 12-cm long
+     coil was attempted.  However, the coil and the tip of the catheter were
+     displaced into the portal vein.  Subsequent extraction of the coil with a
+     snare was performed successfully with no residual coil present within the
+     vasculature.  Subsequently, two large gastric varices were engaged with a
+     Cobra catheter and 3 cc of absolute alcohol was injected into each varices
+     with resulting slowing of the blood flow within those varices.  The Cobra
+     catheter was then removed and replaced with a multi-sidehole infusion straight
+     catheter.  Portal vein pressure was then measured to be 34 mmHg.  Pressure
+     within the mid stent was 32 mmHg.  Blood pressure within the hepatic artery
+     was 25 mmHg.  Pressure within the right atrium and right ventricle was 22
+     mmHg.  Therefore, portosystemic gradient constituted approximately 9 mmHg. 
+     This was a significant reduction in the portosystemic gradient compared to the
+     portosystemic gradient of 14 prior to deploying of the Wallstent.  Additional
+     balloon dilatation of the shunt using 12-mm balloon over a 0.035-wire was
+     performed with subsequent portal pressure measured 32 mmHg and the pressure
+     within the IVC measured 23 mmHg.  The 10-French sheath was then removed over
+     the wire and a 9-French 11 cm triple-lumen central venous catheter was
+                                                                 (Over)
+
+     DATE: [**3408-10-25**] 8:15 AM
+     TIPS                                                            Clip # [**Clip Number (Radiology) 5167**]
+     Reason: TIPS                                                        
+     Admitting Diagnosis: GASTROINTESTINAL BLEED
+      Contrast: OPTIRAY Amt: 500
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     advanced with its tip positioned within the SVC.  This was confirmed by a
+     final AP chest x-ray.
+     
+     There were no immediate complications.
+     
+     CONTRAST MEDIA:  200 cc of nonionic contrast material was used.
+     
+     IMPRESSION:
+     
+     1)  Portal hypertension with pressure gradient between the portal vein and
+     hepatic vein measured 14 mmHg prior to formation of the portosystemic shunt. 
+     Large gastric varices were demonstrated.
+     
+     2)  Transjugular intrahepatic portosystemic shunt placement and alcohol
+     embolization of two large gastric varices with good angiographic results was
+     performed.  The post-TIPS portosystemic pressure gradient was reduced to 9
+     mmHg.
+     
+     3)  Placement of a 9-French 11 cm triple-lumen central venous catheter via the
+     right internal jugular vein with the tip in the SVC, ready for use.
+                                                                           
+
+",,
+24697,14834,,,3408-10-25 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3408-10-25**] 8:15 AM
+     TIPS                                                            Clip # [**Clip Number (Radiology) 5167**]
+     Reason: TIPS                                                        
+     Admitting Diagnosis: GASTROINTESTINAL BLEED
+      Contrast: OPTIRAY Amt: 500
+     ********************************* CPT Codes ********************************
+     * 37204 EMBO NON NEURO                 37182 INSERT HEPATIC HUNT TIPS      *
+     * -51 MULTI-PROCEDURE SAME DAY         36012 2ND ORDER OR> VENOUS SYSTEM   *
+     * -59 DISTINCT PROCEDURAL SERVICE      36011 1SR ORDER BRANCH VENOUS SYSTEM*
+     * -59 DISTINCT PROCEDURAL SERVICE      36556 NON-TUNNELED                  *
+     * -51 MULTI-PROCEDURE SAME DAY         75894 TRANCATHETER EMBOLIZATION     *
+     * CATH, TRANSLUM ANGIO NONLASER        CATH, TRANSLUM ANGIO NONLASER       *
+     * CATH, TRANSLUM ANGIO NONLASER        C1751 CATH [**Last Name (LF) 260**],[**First Name3 (LF) 261**]/CENT/MID(NOT D*
+     * C1769 GUID WIRES INCL INF            C1769 GUID WIRES INCL INF           *
+     * C1769 GUID WIRES INCL INF            C1769 GUID WIRES INCL INF           *
+     * C1769 GUID WIRES INCL INF            C1769 GUID WIRES INCL INF           *
+     * C1769 GUID WIRES INCL INF            C1773 SNARE-RETRIEVAL DEVICE INSERT *
+     * STENT NOCOAT NOCOVR W/O [**Doctor First Name **] SYSTEM   C1894 INT.SHTH NOT/GUID,EP,NONLASER *
+     * C1894 INT.SHTH NOT/GUID,EP,NONLASER  C1894 INT.SHTH NOT/GUID,EP,NONLASER *
+     * C2628 C=VAS-CATH OCCLUSION           C2628 C=VAS-CATH OCCLUSION          *
+     * NON-IONIC 200 CC SUPPLY                                                  *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      45 year old man with likely alcoholic cirrhosis and acutely bleeding gastric 
+      varices.
+     REASON FOR THIS EXAMINATION:
+      TIPS                                                                            
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  45-year-old man with alcoholic cirrhosis with acute gastric variceal
+     bleeding.
+     
+     RADIOLOGISTS:  Dr. [**Last Name (STitle) 675**], Dr. [**First Name (STitle) 2**] [**Name (STitle) 3**], Dr. [**First Name4 (NamePattern1) 4062**] [**Last Name (NamePattern1) 5168**], and the
+     attending Dr. [**First Name4 (NamePattern1) 431**] [**Last Name (NamePattern1) 432**] who was present throughout the procedure.
+     
+     FINDINGS/TECHNIQUE:  The patient was appropriately consented and placed supine
+     on the angiographic table.  Following induction of general anesthesia, the
+     patient's right neck was prepped and draped sterilely.  The right internal
+     jugular vein was accessed under fluoroscopic and ultrasound guidance with a
+     21-gauge needle.  The puncture needle was exchanged over a 0.018 wire for a
+     4-French catheter.  The 0.018 wire and inner stylet were removed and [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 100**]
+     wire was advanced into the IVC.  The puncture site was progressively dilated
+     and a 10-French long [**Doctor Last Name 5169**]-[**Last Name (un) 5032**] sheath was then placed over the wire with
+     its tip positioned just below the diaphragm into the inferior vena cava under
+     fluoroscopic guidance.  A modified 5-French C2 catheter was then advanced
+     through the sheath over a 0.035 [**Doctor Last Name 100**] wire and its tip engaged in the hepatic
+     vein.  The catheter was then advanced into the periphery of the vein with the
+     help of a 0.035 Glidewire.  A venogram was then performed demonstrating
+     appropriate positioning of the tip of the catheter within the hepatic vein. 
+     The catheter was then removed and an occlusion balloon catheter was placed. 
+     The balloon was inflated in the peripheral hepatic vein and a portogram was
+     performed in the AP and lateral projections using carbon dioxide as a contrast
+                                                                 (Over)
+
+     DATE: [**3408-10-25**] 8:15 AM
+     TIPS                                                            Clip # [**Clip Number (Radiology) 5167**]
+     Reason: TIPS                                                        
+     Admitting Diagnosis: GASTROINTESTINAL BLEED
+      Contrast: OPTIRAY Amt: 500
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     [**Doctor Last Name 92**].  This confirmed the position of the catheter to be in the right hepatic
+     vein and delineated the portal vein, which was widely patent.
+     
+     After the balloon occlusion catheter was removed, a 7-French metallic
+     [**Doctor Last Name 5169**]-[**Last Name (un) 5032**] sheath was advanced over [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 100**] wire through the vascular sheath
+     until the tip was positioned in the mid portion of the right hepatic vein.  A
+     14-gauge needle was then advanced through this protected sheath and a puncture
+     was made through the liver parenchyma.  Good blood return was obtained and the
+     injected contrast moved in the hepatofugal direction.  The 0.035 stiff
+     Glidewire was advanced and a multi-sidehole infusion catheter followed into
+     the presumed portal vein.  Contrast angiography was then performed
+     demonstrating that the tip of the catheter was in fact positioned within the
+     hepatic artery.  The catheter was then removed from the hepatic artery.  A
+     14-gauge needle was then advanced through the sheath, through the parenchyma
+     of the liver into the right portal vein branch.  A 5-French multi-sidehole
+     catheter was then placed over the wire into the superior mesenteric vein and a
+     selective venogram was then performed.  This revealed large varices arising
+     from the splenic and proximal portal vein with numerous small varices arising
+     from the distal main portal vein.  A stiff Amplatz 0.035 guide wire was then
+     advanced through the catheter into the splenic vein and the catheter was then
+     removed.  The liver parenchymal tract was then dilated with an 8-mm diameter
+     balloon.  Under direct fluoroscopic visualization, a 10-mm diameter 68 mm long
+     Wallstent was placed extending from the main portal vein into the hepatic
+     vein.  The stent was then dilated with a 10- and 12-mm balloon, and a
+     follow-up portogram was performed.  This demonstrated brisk flow through the
+     shunt, but continuous opacification of the previously demonstrated varices of
+     the portal and splenic veins.  A C2 glide catheter was then advanced over a
+     0.035 wire into the large gastric varix and an attempt to deploy a 12-cm long
+     coil was attempted.  However, the coil and the tip of the catheter were
+     displaced into the portal vein.  Subsequent extraction of the coil with a
+     snare was performed successfully with no residual coil present within the
+     vasculature.  Subsequently, two large gastric varices were engaged with a
+     Cobra catheter and 3 cc of absolute alcohol was injected into each varices
+     with resulting slowing of the blood flow within those varices.  The Cobra
+     catheter was then removed and replaced with a multi-sidehole infusion straight
+     catheter.  Portal vein pressure was then measured to be 34 mmHg.  Pressure
+     within the mid stent was 32 mmHg.  Blood pressure within the hepatic artery
+     was 25 mmHg.  Pressure within the right atrium and right ventricle was 22
+     mmHg.  Therefore, portosystemic gradient constituted approximately 9 mmHg. 
+     This was a significant reduction in the portosystemic gradient compared to the
+     portosystemic gradient of 14 prior to deploying of the Wallstent.  Additional
+     balloon dilatation of the shunt using 12-mm balloon over a 0.035-wire was
+     performed with subsequent portal pressure measured 32 mmHg and the pressure
+     within the IVC measured 23 mmHg.  The 10-French sheath was then removed over
+     the wire and a 9-French 11 cm triple-lumen central venous catheter was
+                                                                 (Over)
+
+     DATE: [**3408-10-25**] 8:15 AM
+     TIPS                                                            Clip # [**Clip Number (Radiology) 5167**]
+     Reason: TIPS                                                        
+     Admitting Diagnosis: GASTROINTESTINAL BLEED
+      Contrast: OPTIRAY Amt: 500
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     advanced with its tip positioned within the SVC.  This was confirmed by a
+     final AP chest x-ray.
+     
+     There were no immediate complications.
+     
+     CONTRAST MEDIA:  200 cc of nonionic contrast material was used.
+     
+     IMPRESSION:
+     
+     1)  Portal hypertension with pressure gradient between the portal vein and
+     hepatic vein measured 14 mmHg prior to formation of the portosystemic shunt. 
+     Large gastric varices were demonstrated.
+     
+     2)  Transjugular intrahepatic portosystemic shunt placement and alcohol
+     embolization of two large gastric varices with good angiographic results was
+     performed.  The post-TIPS portosystemic pressure gradient was reduced to 9
+     mmHg.
+     
+     3)  Placement of a 9-French 11 cm triple-lumen central venous catheter via the
+     right internal jugular vein with the tip in the SVC, ready for use.
+                                                                           
+
+",,
+24697,14834,,,3408-10-25 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3408-10-25**] 8:15 AM
+     TIPS                                                            Clip # [**Clip Number (Radiology) 5167**]
+     Reason: TIPS                                                        
+     Admitting Diagnosis: GASTROINTESTINAL BLEED
+      Contrast: OPTIRAY Amt: 500
+     ********************************* CPT Codes ********************************
+     * 37204 EMBO NON NEURO                 37182 INSERT HEPATIC HUNT TIPS      *
+     * -51 MULTI-PROCEDURE SAME DAY         36012 2ND ORDER OR> VENOUS SYSTEM   *
+     * -59 DISTINCT PROCEDURAL SERVICE      36011 1SR ORDER BRANCH VENOUS SYSTEM*
+     * -59 DISTINCT PROCEDURAL SERVICE      36556 NON-TUNNELED                  *
+     * -51 MULTI-PROCEDURE SAME DAY         75894 TRANCATHETER EMBOLIZATION     *
+     * CATH, TRANSLUM ANGIO NONLASER        CATH, TRANSLUM ANGIO NONLASER       *
+     * CATH, TRANSLUM ANGIO NONLASER        C1751 CATH [**Last Name (LF) 260**],[**First Name3 (LF) 261**]/CENT/MID(NOT D*
+     * C1769 GUID WIRES INCL INF            C1769 GUID WIRES INCL INF           *
+     * C1769 GUID WIRES INCL INF            C1769 GUID WIRES INCL INF           *
+     * C1769 GUID WIRES INCL INF            C1769 GUID WIRES INCL INF           *
+     * C1769 GUID WIRES INCL INF            C1773 SNARE-RETRIEVAL DEVICE INSERT *
+     * STENT NOCOAT NOCOVR W/O [**Doctor First Name **] SYSTEM   C1894 INT.SHTH NOT/GUID,EP,NONLASER *
+     * C1894 INT.SHTH NOT/GUID,EP,NONLASER  C1894 INT.SHTH NOT/GUID,EP,NONLASER *
+     * C2628 C=VAS-CATH OCCLUSION           C2628 C=VAS-CATH OCCLUSION          *
+     * NON-IONIC 200 CC SUPPLY                                                  *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      45 year old man with likely alcoholic cirrhosis and acutely bleeding gastric 
+      varices.
+     REASON FOR THIS EXAMINATION:
+      TIPS                                                                            
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  45-year-old man with alcoholic cirrhosis with acute gastric variceal
+     bleeding.
+     
+     RADIOLOGISTS:  Dr. [**Last Name (STitle) 675**], Dr. [**First Name (STitle) 2**] [**Name (STitle) 3**], Dr. [**First Name4 (NamePattern1) 4062**] [**Last Name (NamePattern1) 5168**], and the
+     attending Dr. [**First Name4 (NamePattern1) 431**] [**Last Name (NamePattern1) 432**] who was present throughout the procedure.
+     
+     FINDINGS/TECHNIQUE:  The patient was appropriately consented and placed supine
+     on the angiographic table.  Following induction of general anesthesia, the
+     patient's right neck was prepped and draped sterilely.  The right internal
+     jugular vein was accessed under fluoroscopic and ultrasound guidance with a
+     21-gauge needle.  The puncture needle was exchanged over a 0.018 wire for a
+     4-French catheter.  The 0.018 wire and inner stylet were removed and [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 100**]
+     wire was advanced into the IVC.  The puncture site was progressively dilated
+     and a 10-French long [**Doctor Last Name 5169**]-[**Last Name (un) 5032**] sheath was then placed over the wire with
+     its tip positioned just below the diaphragm into the inferior vena cava under
+     fluoroscopic guidance.  A modified 5-French C2 catheter was then advanced
+     through the sheath over a 0.035 [**Doctor Last Name 100**] wire and its tip engaged in the hepatic
+     vein.  The catheter was then advanced into the periphery of the vein with the
+     help of a 0.035 Glidewire.  A venogram was then performed demonstrating
+     appropriate positioning of the tip of the catheter within the hepatic vein. 
+     The catheter was then removed and an occlusion balloon catheter was placed. 
+     The balloon was inflated in the peripheral hepatic vein and a portogram was
+     performed in the AP and lateral projections using carbon dioxide as a contrast
+                                                                 (Over)
+
+     DATE: [**3408-10-25**] 8:15 AM
+     TIPS                                                            Clip # [**Clip Number (Radiology) 5167**]
+     Reason: TIPS                                                        
+     Admitting Diagnosis: GASTROINTESTINAL BLEED
+      Contrast: OPTIRAY Amt: 500
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     [**Doctor Last Name 92**].  This confirmed the position of the catheter to be in the right hepatic
+     vein and delineated the portal vein, which was widely patent.
+     
+     After the balloon occlusion catheter was removed, a 7-French metallic
+     [**Doctor Last Name 5169**]-[**Last Name (un) 5032**] sheath was advanced over [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 100**] wire through the vascular sheath
+     until the tip was positioned in the mid portion of the right hepatic vein.  A
+     14-gauge needle was then advanced through this protected sheath and a puncture
+     was made through the liver parenchyma.  Good blood return was obtained and the
+     injected contrast moved in the hepatofugal direction.  The 0.035 stiff
+     Glidewire was advanced and a multi-sidehole infusion catheter followed into
+     the presumed portal vein.  Contrast angiography was then performed
+     demonstrating that the tip of the catheter was in fact positioned within the
+     hepatic artery.  The catheter was then removed from the hepatic artery.  A
+     14-gauge needle was then advanced through the sheath, through the parenchyma
+     of the liver into the right portal vein branch.  A 5-French multi-sidehole
+     catheter was then placed over the wire into the superior mesenteric vein and a
+     selective venogram was then performed.  This revealed large varices arising
+     from the splenic and proximal portal vein with numerous small varices arising
+     from the distal main portal vein.  A stiff Amplatz 0.035 guide wire was then
+     advanced through the catheter into the splenic vein and the catheter was then
+     removed.  The liver parenchymal tract was then dilated with an 8-mm diameter
+     balloon.  Under direct fluoroscopic visualization, a 10-mm diameter 68 mm long
+     Wallstent was placed extending from the main portal vein into the hepatic
+     vein.  The stent was then dilated with a 10- and 12-mm balloon, and a
+     follow-up portogram was performed.  This demonstrated brisk flow through the
+     shunt, but continuous opacification of the previously demonstrated varices of
+     the portal and splenic veins.  A C2 glide catheter was then advanced over a
+     0.035 wire into the large gastric varix and an attempt to deploy a 12-cm long
+     coil was attempted.  However, the coil and the tip of the catheter were
+     displaced into the portal vein.  Subsequent extraction of the coil with a
+     snare was performed successfully with no residual coil present within the
+     vasculature.  Subsequently, two large gastric varices were engaged with a
+     Cobra catheter and 3 cc of absolute alcohol was injected into each varices
+     with resulting slowing of the blood flow within those varices.  The Cobra
+     catheter was then removed and replaced with a multi-sidehole infusion straight
+     catheter.  Portal vein pressure was then measured to be 34 mmHg.  Pressure
+     within the mid stent was 32 mmHg.  Blood pressure within the hepatic artery
+     was 25 mmHg.  Pressure within the right atrium and right ventricle was 22
+     mmHg.  Therefore, portosystemic gradient constituted approximately 9 mmHg. 
+     This was a significant reduction in the portosystemic gradient compared to the
+     portosystemic gradient of 14 prior to deploying of the Wallstent.  Additional
+     balloon dilatation of the shunt using 12-mm balloon over a 0.035-wire was
+     performed with subsequent portal pressure measured 32 mmHg and the pressure
+     within the IVC measured 23 mmHg.  The 10-French sheath was then removed over
+     the wire and a 9-French 11 cm triple-lumen central venous catheter was
+                                                                 (Over)
+
+     DATE: [**3408-10-25**] 8:15 AM
+     TIPS                                                            Clip # [**Clip Number (Radiology) 5167**]
+     Reason: TIPS                                                        
+     Admitting Diagnosis: GASTROINTESTINAL BLEED
+      Contrast: OPTIRAY Amt: 500
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     advanced with its tip positioned within the SVC.  This was confirmed by a
+     final AP chest x-ray.
+     
+     There were no immediate complications.
+     
+     CONTRAST MEDIA:  200 cc of nonionic contrast material was used.
+     
+     IMPRESSION:
+     
+     1)  Portal hypertension with pressure gradient between the portal vein and
+     hepatic vein measured 14 mmHg prior to formation of the portosystemic shunt. 
+     Large gastric varices were demonstrated.
+     
+     2)  Transjugular intrahepatic portosystemic shunt placement and alcohol
+     embolization of two large gastric varices with good angiographic results was
+     performed.  The post-TIPS portosystemic pressure gradient was reduced to 9
+     mmHg.
+     
+     3)  Placement of a 9-French 11 cm triple-lumen central venous catheter via the
+     right internal jugular vein with the tip in the SVC, ready for use.
+                                                                           
+
+",,
+24697,14834,,,3408-10-25 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3408-10-25**] 8:15 AM
+     TIPS                                                            Clip # [**Clip Number (Radiology) 5167**]
+     Reason: TIPS                                                        
+     Admitting Diagnosis: GASTROINTESTINAL BLEED
+      Contrast: OPTIRAY Amt: 500
+     ********************************* CPT Codes ********************************
+     * 37204 EMBO NON NEURO                 37182 INSERT HEPATIC HUNT TIPS      *
+     * -51 MULTI-PROCEDURE SAME DAY         36012 2ND ORDER OR> VENOUS SYSTEM   *
+     * -59 DISTINCT PROCEDURAL SERVICE      36011 1SR ORDER BRANCH VENOUS SYSTEM*
+     * -59 DISTINCT PROCEDURAL SERVICE      36556 NON-TUNNELED                  *
+     * -51 MULTI-PROCEDURE SAME DAY         75894 TRANCATHETER EMBOLIZATION     *
+     * CATH, TRANSLUM ANGIO NONLASER        CATH, TRANSLUM ANGIO NONLASER       *
+     * CATH, TRANSLUM ANGIO NONLASER        C1751 CATH [**Last Name (LF) 260**],[**First Name3 (LF) 261**]/CENT/MID(NOT D*
+     * C1769 GUID WIRES INCL INF            C1769 GUID WIRES INCL INF           *
+     * C1769 GUID WIRES INCL INF            C1769 GUID WIRES INCL INF           *
+     * C1769 GUID WIRES INCL INF            C1769 GUID WIRES INCL INF           *
+     * C1769 GUID WIRES INCL INF            C1773 SNARE-RETRIEVAL DEVICE INSERT *
+     * STENT NOCOAT NOCOVR W/O [**Doctor First Name **] SYSTEM   C1894 INT.SHTH NOT/GUID,EP,NONLASER *
+     * C1894 INT.SHTH NOT/GUID,EP,NONLASER  C1894 INT.SHTH NOT/GUID,EP,NONLASER *
+     * C2628 C=VAS-CATH OCCLUSION           C2628 C=VAS-CATH OCCLUSION          *
+     * NON-IONIC 200 CC SUPPLY                                                  *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      45 year old man with likely alcoholic cirrhosis and acutely bleeding gastric 
+      varices.
+     REASON FOR THIS EXAMINATION:
+      TIPS                                                                            
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  45-year-old man with alcoholic cirrhosis with acute gastric variceal
+     bleeding.
+     
+     RADIOLOGISTS:  Dr. [**Last Name (STitle) 675**], Dr. [**First Name (STitle) 2**] [**Name (STitle) 3**], Dr. [**First Name4 (NamePattern1) 4062**] [**Last Name (NamePattern1) 5168**], and the
+     attending Dr. [**First Name4 (NamePattern1) 431**] [**Last Name (NamePattern1) 432**] who was present throughout the procedure.
+     
+     FINDINGS/TECHNIQUE:  The patient was appropriately consented and placed supine
+     on the angiographic table.  Following induction of general anesthesia, the
+     patient's right neck was prepped and draped sterilely.  The right internal
+     jugular vein was accessed under fluoroscopic and ultrasound guidance with a
+     21-gauge needle.  The puncture needle was exchanged over a 0.018 wire for a
+     4-French catheter.  The 0.018 wire and inner stylet were removed and [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 100**]
+     wire was advanced into the IVC.  The puncture site was progressively dilated
+     and a 10-French long [**Doctor Last Name 5169**]-[**Last Name (un) 5032**] sheath was then placed over the wire with
+     its tip positioned just below the diaphragm into the inferior vena cava under
+     fluoroscopic guidance.  A modified 5-French C2 catheter was then advanced
+     through the sheath over a 0.035 [**Doctor Last Name 100**] wire and its tip engaged in the hepatic
+     vein.  The catheter was then advanced into the periphery of the vein with the
+     help of a 0.035 Glidewire.  A venogram was then performed demonstrating
+     appropriate positioning of the tip of the catheter within the hepatic vein. 
+     The catheter was then removed and an occlusion balloon catheter was placed. 
+     The balloon was inflated in the peripheral hepatic vein and a portogram was
+     performed in the AP and lateral projections using carbon dioxide as a contrast
+                                                                 (Over)
+
+     DATE: [**3408-10-25**] 8:15 AM
+     TIPS                                                            Clip # [**Clip Number (Radiology) 5167**]
+     Reason: TIPS                                                        
+     Admitting Diagnosis: GASTROINTESTINAL BLEED
+      Contrast: OPTIRAY Amt: 500
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     [**Doctor Last Name 92**].  This confirmed the position of the catheter to be in the right hepatic
+     vein and delineated the portal vein, which was widely patent.
+     
+     After the balloon occlusion catheter was removed, a 7-French metallic
+     [**Doctor Last Name 5169**]-[**Last Name (un) 5032**] sheath was advanced over [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 100**] wire through the vascular sheath
+     until the tip was positioned in the mid portion of the right hepatic vein.  A
+     14-gauge needle was then advanced through this protected sheath and a puncture
+     was made through the liver parenchyma.  Good blood return was obtained and the
+     injected contrast moved in the hepatofugal direction.  The 0.035 stiff
+     Glidewire was advanced and a multi-sidehole infusion catheter followed into
+     the presumed portal vein.  Contrast angiography was then performed
+     demonstrating that the tip of the catheter was in fact positioned within the
+     hepatic artery.  The catheter was then removed from the hepatic artery.  A
+     14-gauge needle was then advanced through the sheath, through the parenchyma
+     of the liver into the right portal vein branch.  A 5-French multi-sidehole
+     catheter was then placed over the wire into the superior mesenteric vein and a
+     selective venogram was then performed.  This revealed large varices arising
+     from the splenic and proximal portal vein with numerous small varices arising
+     from the distal main portal vein.  A stiff Amplatz 0.035 guide wire was then
+     advanced through the catheter into the splenic vein and the catheter was then
+     removed.  The liver parenchymal tract was then dilated with an 8-mm diameter
+     balloon.  Under direct fluoroscopic visualization, a 10-mm diameter 68 mm long
+     Wallstent was placed extending from the main portal vein into the hepatic
+     vein.  The stent was then dilated with a 10- and 12-mm balloon, and a
+     follow-up portogram was performed.  This demonstrated brisk flow through the
+     shunt, but continuous opacification of the previously demonstrated varices of
+     the portal and splenic veins.  A C2 glide catheter was then advanced over a
+     0.035 wire into the large gastric varix and an attempt to deploy a 12-cm long
+     coil was attempted.  However, the coil and the tip of the catheter were
+     displaced into the portal vein.  Subsequent extraction of the coil with a
+     snare was performed successfully with no residual coil present within the
+     vasculature.  Subsequently, two large gastric varices were engaged with a
+     Cobra catheter and 3 cc of absolute alcohol was injected into each varices
+     with resulting slowing of the blood flow within those varices.  The Cobra
+     catheter was then removed and replaced with a multi-sidehole infusion straight
+     catheter.  Portal vein pressure was then measured to be 34 mmHg.  Pressure
+     within the mid stent was 32 mmHg.  Blood pressure within the hepatic artery
+     was 25 mmHg.  Pressure within the right atrium and right ventricle was 22
+     mmHg.  Therefore, portosystemic gradient constituted approximately 9 mmHg. 
+     This was a significant reduction in the portosystemic gradient compared to the
+     portosystemic gradient of 14 prior to deploying of the Wallstent.  Additional
+     balloon dilatation of the shunt using 12-mm balloon over a 0.035-wire was
+     performed with subsequent portal pressure measured 32 mmHg and the pressure
+     within the IVC measured 23 mmHg.  The 10-French sheath was then removed over
+     the wire and a 9-French 11 cm triple-lumen central venous catheter was
+                                                                 (Over)
+
+     DATE: [**3408-10-25**] 8:15 AM
+     TIPS                                                            Clip # [**Clip Number (Radiology) 5167**]
+     Reason: TIPS                                                        
+     Admitting Diagnosis: GASTROINTESTINAL BLEED
+      Contrast: OPTIRAY Amt: 500
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     advanced with its tip positioned within the SVC.  This was confirmed by a
+     final AP chest x-ray.
+     
+     There were no immediate complications.
+     
+     CONTRAST MEDIA:  200 cc of nonionic contrast material was used.
+     
+     IMPRESSION:
+     
+     1)  Portal hypertension with pressure gradient between the portal vein and
+     hepatic vein measured 14 mmHg prior to formation of the portosystemic shunt. 
+     Large gastric varices were demonstrated.
+     
+     2)  Transjugular intrahepatic portosystemic shunt placement and alcohol
+     embolization of two large gastric varices with good angiographic results was
+     performed.  The post-TIPS portosystemic pressure gradient was reduced to 9
+     mmHg.
+     
+     3)  Placement of a 9-French 11 cm triple-lumen central venous catheter via the
+     right internal jugular vein with the tip in the SVC, ready for use.
+                                                                           
+
+",,
+24697,14834,,,3408-10-25 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3408-10-25**] 8:15 AM
+     TIPS                                                            Clip # [**Clip Number (Radiology) 5167**]
+     Reason: TIPS                                                        
+     Admitting Diagnosis: GASTROINTESTINAL BLEED
+      Contrast: OPTIRAY Amt: 500
+     ********************************* CPT Codes ********************************
+     * 37204 EMBO NON NEURO                 37182 INSERT HEPATIC HUNT TIPS      *
+     * -51 MULTI-PROCEDURE SAME DAY         36012 2ND ORDER OR> VENOUS SYSTEM   *
+     * -59 DISTINCT PROCEDURAL SERVICE      36011 1SR ORDER BRANCH VENOUS SYSTEM*
+     * -59 DISTINCT PROCEDURAL SERVICE      36556 NON-TUNNELED                  *
+     * -51 MULTI-PROCEDURE SAME DAY         75894 TRANCATHETER EMBOLIZATION     *
+     * CATH, TRANSLUM ANGIO NONLASER        CATH, TRANSLUM ANGIO NONLASER       *
+     * CATH, TRANSLUM ANGIO NONLASER        C1751 CATH [**Last Name (LF) 260**],[**First Name3 (LF) 261**]/CENT/MID(NOT D*
+     * C1769 GUID WIRES INCL INF            C1769 GUID WIRES INCL INF           *
+     * C1769 GUID WIRES INCL INF            C1769 GUID WIRES INCL INF           *
+     * C1769 GUID WIRES INCL INF            C1769 GUID WIRES INCL INF           *
+     * C1769 GUID WIRES INCL INF            C1773 SNARE-RETRIEVAL DEVICE INSERT *
+     * STENT NOCOAT NOCOVR W/O [**Doctor First Name **] SYSTEM   C1894 INT.SHTH NOT/GUID,EP,NONLASER *
+     * C1894 INT.SHTH NOT/GUID,EP,NONLASER  C1894 INT.SHTH NOT/GUID,EP,NONLASER *
+     * C2628 C=VAS-CATH OCCLUSION           C2628 C=VAS-CATH OCCLUSION          *
+     * NON-IONIC 200 CC SUPPLY                                                  *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      45 year old man with likely alcoholic cirrhosis and acutely bleeding gastric 
+      varices.
+     REASON FOR THIS EXAMINATION:
+      TIPS                                                                            
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  45-year-old man with alcoholic cirrhosis with acute gastric variceal
+     bleeding.
+     
+     RADIOLOGISTS:  Dr. [**Last Name (STitle) 675**], Dr. [**First Name (STitle) 2**] [**Name (STitle) 3**], Dr. [**First Name4 (NamePattern1) 4062**] [**Last Name (NamePattern1) 5168**], and the
+     attending Dr. [**First Name4 (NamePattern1) 431**] [**Last Name (NamePattern1) 432**] who was present throughout the procedure.
+     
+     FINDINGS/TECHNIQUE:  The patient was appropriately consented and placed supine
+     on the angiographic table.  Following induction of general anesthesia, the
+     patient's right neck was prepped and draped sterilely.  The right internal
+     jugular vein was accessed under fluoroscopic and ultrasound guidance with a
+     21-gauge needle.  The puncture needle was exchanged over a 0.018 wire for a
+     4-French catheter.  The 0.018 wire and inner stylet were removed and [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 100**]
+     wire was advanced into the IVC.  The puncture site was progressively dilated
+     and a 10-French long [**Doctor Last Name 5169**]-[**Last Name (un) 5032**] sheath was then placed over the wire with
+     its tip positioned just below the diaphragm into the inferior vena cava under
+     fluoroscopic guidance.  A modified 5-French C2 catheter was then advanced
+     through the sheath over a 0.035 [**Doctor Last Name 100**] wire and its tip engaged in the hepatic
+     vein.  The catheter was then advanced into the periphery of the vein with the
+     help of a 0.035 Glidewire.  A venogram was then performed demonstrating
+     appropriate positioning of the tip of the catheter within the hepatic vein. 
+     The catheter was then removed and an occlusion balloon catheter was placed. 
+     The balloon was inflated in the peripheral hepatic vein and a portogram was
+     performed in the AP and lateral projections using carbon dioxide as a contrast
+                                                                 (Over)
+
+     DATE: [**3408-10-25**] 8:15 AM
+     TIPS                                                            Clip # [**Clip Number (Radiology) 5167**]
+     Reason: TIPS                                                        
+     Admitting Diagnosis: GASTROINTESTINAL BLEED
+      Contrast: OPTIRAY Amt: 500
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     [**Doctor Last Name 92**].  This confirmed the position of the catheter to be in the right hepatic
+     vein and delineated the portal vein, which was widely patent.
+     
+     After the balloon occlusion catheter was removed, a 7-French metallic
+     [**Doctor Last Name 5169**]-[**Last Name (un) 5032**] sheath was advanced over [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 100**] wire through the vascular sheath
+     until the tip was positioned in the mid portion of the right hepatic vein.  A
+     14-gauge needle was then advanced through this protected sheath and a puncture
+     was made through the liver parenchyma.  Good blood return was obtained and the
+     injected contrast moved in the hepatofugal direction.  The 0.035 stiff
+     Glidewire was advanced and a multi-sidehole infusion catheter followed into
+     the presumed portal vein.  Contrast angiography was then performed
+     demonstrating that the tip of the catheter was in fact positioned within the
+     hepatic artery.  The catheter was then removed from the hepatic artery.  A
+     14-gauge needle was then advanced through the sheath, through the parenchyma
+     of the liver into the right portal vein branch.  A 5-French multi-sidehole
+     catheter was then placed over the wire into the superior mesenteric vein and a
+     selective venogram was then performed.  This revealed large varices arising
+     from the splenic and proximal portal vein with numerous small varices arising
+     from the distal main portal vein.  A stiff Amplatz 0.035 guide wire was then
+     advanced through the catheter into the splenic vein and the catheter was then
+     removed.  The liver parenchymal tract was then dilated with an 8-mm diameter
+     balloon.  Under direct fluoroscopic visualization, a 10-mm diameter 68 mm long
+     Wallstent was placed extending from the main portal vein into the hepatic
+     vein.  The stent was then dilated with a 10- and 12-mm balloon, and a
+     follow-up portogram was performed.  This demonstrated brisk flow through the
+     shunt, but continuous opacification of the previously demonstrated varices of
+     the portal and splenic veins.  A C2 glide catheter was then advanced over a
+     0.035 wire into the large gastric varix and an attempt to deploy a 12-cm long
+     coil was attempted.  However, the coil and the tip of the catheter were
+     displaced into the portal vein.  Subsequent extraction of the coil with a
+     snare was performed successfully with no residual coil present within the
+     vasculature.  Subsequently, two large gastric varices were engaged with a
+     Cobra catheter and 3 cc of absolute alcohol was injected into each varices
+     with resulting slowing of the blood flow within those varices.  The Cobra
+     catheter was then removed and replaced with a multi-sidehole infusion straight
+     catheter.  Portal vein pressure was then measured to be 34 mmHg.  Pressure
+     within the mid stent was 32 mmHg.  Blood pressure within the hepatic artery
+     was 25 mmHg.  Pressure within the right atrium and right ventricle was 22
+     mmHg.  Therefore, portosystemic gradient constituted approximately 9 mmHg. 
+     This was a significant reduction in the portosystemic gradient compared to the
+     portosystemic gradient of 14 prior to deploying of the Wallstent.  Additional
+     balloon dilatation of the shunt using 12-mm balloon over a 0.035-wire was
+     performed with subsequent portal pressure measured 32 mmHg and the pressure
+     within the IVC measured 23 mmHg.  The 10-French sheath was then removed over
+     the wire and a 9-French 11 cm triple-lumen central venous catheter was
+                                                                 (Over)
+
+     DATE: [**3408-10-25**] 8:15 AM
+     TIPS                                                            Clip # [**Clip Number (Radiology) 5167**]
+     Reason: TIPS                                                        
+     Admitting Diagnosis: GASTROINTESTINAL BLEED
+      Contrast: OPTIRAY Amt: 500
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     advanced with its tip positioned within the SVC.  This was confirmed by a
+     final AP chest x-ray.
+     
+     There were no immediate complications.
+     
+     CONTRAST MEDIA:  200 cc of nonionic contrast material was used.
+     
+     IMPRESSION:
+     
+     1)  Portal hypertension with pressure gradient between the portal vein and
+     hepatic vein measured 14 mmHg prior to formation of the portosystemic shunt. 
+     Large gastric varices were demonstrated.
+     
+     2)  Transjugular intrahepatic portosystemic shunt placement and alcohol
+     embolization of two large gastric varices with good angiographic results was
+     performed.  The post-TIPS portosystemic pressure gradient was reduced to 9
+     mmHg.
+     
+     3)  Placement of a 9-French 11 cm triple-lumen central venous catheter via the
+     right internal jugular vein with the tip in the SVC, ready for use.
+                                                                           
+
+",,
+24697,14834,,,3408-10-25 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3408-10-25**] 8:15 AM
+     TIPS                                                            Clip # [**Clip Number (Radiology) 5167**]
+     Reason: TIPS                                                        
+     Admitting Diagnosis: GASTROINTESTINAL BLEED
+      Contrast: OPTIRAY Amt: 500
+     ********************************* CPT Codes ********************************
+     * 37204 EMBO NON NEURO                 37182 INSERT HEPATIC HUNT TIPS      *
+     * -51 MULTI-PROCEDURE SAME DAY         36012 2ND ORDER OR> VENOUS SYSTEM   *
+     * -59 DISTINCT PROCEDURAL SERVICE      36011 1SR ORDER BRANCH VENOUS SYSTEM*
+     * -59 DISTINCT PROCEDURAL SERVICE      36556 NON-TUNNELED                  *
+     * -51 MULTI-PROCEDURE SAME DAY         75894 TRANCATHETER EMBOLIZATION     *
+     * CATH, TRANSLUM ANGIO NONLASER        CATH, TRANSLUM ANGIO NONLASER       *
+     * CATH, TRANSLUM ANGIO NONLASER        C1751 CATH [**Last Name (LF) 260**],[**First Name3 (LF) 261**]/CENT/MID(NOT D*
+     * C1769 GUID WIRES INCL INF            C1769 GUID WIRES INCL INF           *
+     * C1769 GUID WIRES INCL INF            C1769 GUID WIRES INCL INF           *
+     * C1769 GUID WIRES INCL INF            C1769 GUID WIRES INCL INF           *
+     * C1769 GUID WIRES INCL INF            C1773 SNARE-RETRIEVAL DEVICE INSERT *
+     * STENT NOCOAT NOCOVR W/O [**Doctor First Name **] SYSTEM   C1894 INT.SHTH NOT/GUID,EP,NONLASER *
+     * C1894 INT.SHTH NOT/GUID,EP,NONLASER  C1894 INT.SHTH NOT/GUID,EP,NONLASER *
+     * C2628 C=VAS-CATH OCCLUSION           C2628 C=VAS-CATH OCCLUSION          *
+     * NON-IONIC 200 CC SUPPLY                                                  *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      45 year old man with likely alcoholic cirrhosis and acutely bleeding gastric 
+      varices.
+     REASON FOR THIS EXAMINATION:
+      TIPS                                                                            
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  45-year-old man with alcoholic cirrhosis with acute gastric variceal
+     bleeding.
+     
+     RADIOLOGISTS:  Dr. [**Last Name (STitle) 675**], Dr. [**First Name (STitle) 2**] [**Name (STitle) 3**], Dr. [**First Name4 (NamePattern1) 4062**] [**Last Name (NamePattern1) 5168**], and the
+     attending Dr. [**First Name4 (NamePattern1) 431**] [**Last Name (NamePattern1) 432**] who was present throughout the procedure.
+     
+     FINDINGS/TECHNIQUE:  The patient was appropriately consented and placed supine
+     on the angiographic table.  Following induction of general anesthesia, the
+     patient's right neck was prepped and draped sterilely.  The right internal
+     jugular vein was accessed under fluoroscopic and ultrasound guidance with a
+     21-gauge needle.  The puncture needle was exchanged over a 0.018 wire for a
+     4-French catheter.  The 0.018 wire and inner stylet were removed and [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 100**]
+     wire was advanced into the IVC.  The puncture site was progressively dilated
+     and a 10-French long [**Doctor Last Name 5169**]-[**Last Name (un) 5032**] sheath was then placed over the wire with
+     its tip positioned just below the diaphragm into the inferior vena cava under
+     fluoroscopic guidance.  A modified 5-French C2 catheter was then advanced
+     through the sheath over a 0.035 [**Doctor Last Name 100**] wire and its tip engaged in the hepatic
+     vein.  The catheter was then advanced into the periphery of the vein with the
+     help of a 0.035 Glidewire.  A venogram was then performed demonstrating
+     appropriate positioning of the tip of the catheter within the hepatic vein. 
+     The catheter was then removed and an occlusion balloon catheter was placed. 
+     The balloon was inflated in the peripheral hepatic vein and a portogram was
+     performed in the AP and lateral projections using carbon dioxide as a contrast
+                                                                 (Over)
+
+     DATE: [**3408-10-25**] 8:15 AM
+     TIPS                                                            Clip # [**Clip Number (Radiology) 5167**]
+     Reason: TIPS                                                        
+     Admitting Diagnosis: GASTROINTESTINAL BLEED
+      Contrast: OPTIRAY Amt: 500
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     [**Doctor Last Name 92**].  This confirmed the position of the catheter to be in the right hepatic
+     vein and delineated the portal vein, which was widely patent.
+     
+     After the balloon occlusion catheter was removed, a 7-French metallic
+     [**Doctor Last Name 5169**]-[**Last Name (un) 5032**] sheath was advanced over [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 100**] wire through the vascular sheath
+     until the tip was positioned in the mid portion of the right hepatic vein.  A
+     14-gauge needle was then advanced through this protected sheath and a puncture
+     was made through the liver parenchyma.  Good blood return was obtained and the
+     injected contrast moved in the hepatofugal direction.  The 0.035 stiff
+     Glidewire was advanced and a multi-sidehole infusion catheter followed into
+     the presumed portal vein.  Contrast angiography was then performed
+     demonstrating that the tip of the catheter was in fact positioned within the
+     hepatic artery.  The catheter was then removed from the hepatic artery.  A
+     14-gauge needle was then advanced through the sheath, through the parenchyma
+     of the liver into the right portal vein branch.  A 5-French multi-sidehole
+     catheter was then placed over the wire into the superior mesenteric vein and a
+     selective venogram was then performed.  This revealed large varices arising
+     from the splenic and proximal portal vein with numerous small varices arising
+     from the distal main portal vein.  A stiff Amplatz 0.035 guide wire was then
+     advanced through the catheter into the splenic vein and the catheter was then
+     removed.  The liver parenchymal tract was then dilated with an 8-mm diameter
+     balloon.  Under direct fluoroscopic visualization, a 10-mm diameter 68 mm long
+     Wallstent was placed extending from the main portal vein into the hepatic
+     vein.  The stent was then dilated with a 10- and 12-mm balloon, and a
+     follow-up portogram was performed.  This demonstrated brisk flow through the
+     shunt, but continuous opacification of the previously demonstrated varices of
+     the portal and splenic veins.  A C2 glide catheter was then advanced over a
+     0.035 wire into the large gastric varix and an attempt to deploy a 12-cm long
+     coil was attempted.  However, the coil and the tip of the catheter were
+     displaced into the portal vein.  Subsequent extraction of the coil with a
+     snare was performed successfully with no residual coil present within the
+     vasculature.  Subsequently, two large gastric varices were engaged with a
+     Cobra catheter and 3 cc of absolute alcohol was injected into each varices
+     with resulting slowing of the blood flow within those varices.  The Cobra
+     catheter was then removed and replaced with a multi-sidehole infusion straight
+     catheter.  Portal vein pressure was then measured to be 34 mmHg.  Pressure
+     within the mid stent was 32 mmHg.  Blood pressure within the hepatic artery
+     was 25 mmHg.  Pressure within the right atrium and right ventricle was 22
+     mmHg.  Therefore, portosystemic gradient constituted approximately 9 mmHg. 
+     This was a significant reduction in the portosystemic gradient compared to the
+     portosystemic gradient of 14 prior to deploying of the Wallstent.  Additional
+     balloon dilatation of the shunt using 12-mm balloon over a 0.035-wire was
+     performed with subsequent portal pressure measured 32 mmHg and the pressure
+     within the IVC measured 23 mmHg.  The 10-French sheath was then removed over
+     the wire and a 9-French 11 cm triple-lumen central venous catheter was
+                                                                 (Over)
+
+     DATE: [**3408-10-25**] 8:15 AM
+     TIPS                                                            Clip # [**Clip Number (Radiology) 5167**]
+     Reason: TIPS                                                        
+     Admitting Diagnosis: GASTROINTESTINAL BLEED
+      Contrast: OPTIRAY Amt: 500
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     advanced with its tip positioned within the SVC.  This was confirmed by a
+     final AP chest x-ray.
+     
+     There were no immediate complications.
+     
+     CONTRAST MEDIA:  200 cc of nonionic contrast material was used.
+     
+     IMPRESSION:
+     
+     1)  Portal hypertension with pressure gradient between the portal vein and
+     hepatic vein measured 14 mmHg prior to formation of the portosystemic shunt. 
+     Large gastric varices were demonstrated.
+     
+     2)  Transjugular intrahepatic portosystemic shunt placement and alcohol
+     embolization of two large gastric varices with good angiographic results was
+     performed.  The post-TIPS portosystemic pressure gradient was reduced to 9
+     mmHg.
+     
+     3)  Placement of a 9-French 11 cm triple-lumen central venous catheter via the
+     right internal jugular vein with the tip in the SVC, ready for use.
+                                                                           
+
+",,
+24697,14834,,,3408-10-25 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3408-10-25**] 8:15 AM
+     TIPS                                                            Clip # [**Clip Number (Radiology) 5167**]
+     Reason: TIPS                                                        
+     Admitting Diagnosis: GASTROINTESTINAL BLEED
+      Contrast: OPTIRAY Amt: 500
+     ********************************* CPT Codes ********************************
+     * 37204 EMBO NON NEURO                 37182 INSERT HEPATIC HUNT TIPS      *
+     * -51 MULTI-PROCEDURE SAME DAY         36012 2ND ORDER OR> VENOUS SYSTEM   *
+     * -59 DISTINCT PROCEDURAL SERVICE      36011 1SR ORDER BRANCH VENOUS SYSTEM*
+     * -59 DISTINCT PROCEDURAL SERVICE      36556 NON-TUNNELED                  *
+     * -51 MULTI-PROCEDURE SAME DAY         75894 TRANCATHETER EMBOLIZATION     *
+     * CATH, TRANSLUM ANGIO NONLASER        CATH, TRANSLUM ANGIO NONLASER       *
+     * CATH, TRANSLUM ANGIO NONLASER        C1751 CATH [**Last Name (LF) 260**],[**First Name3 (LF) 261**]/CENT/MID(NOT D*
+     * C1769 GUID WIRES INCL INF            C1769 GUID WIRES INCL INF           *
+     * C1769 GUID WIRES INCL INF            C1769 GUID WIRES INCL INF           *
+     * C1769 GUID WIRES INCL INF            C1769 GUID WIRES INCL INF           *
+     * C1769 GUID WIRES INCL INF            C1773 SNARE-RETRIEVAL DEVICE INSERT *
+     * STENT NOCOAT NOCOVR W/O [**Doctor First Name **] SYSTEM   C1894 INT.SHTH NOT/GUID,EP,NONLASER *
+     * C1894 INT.SHTH NOT/GUID,EP,NONLASER  C1894 INT.SHTH NOT/GUID,EP,NONLASER *
+     * C2628 C=VAS-CATH OCCLUSION           C2628 C=VAS-CATH OCCLUSION          *
+     * NON-IONIC 200 CC SUPPLY                                                  *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      45 year old man with likely alcoholic cirrhosis and acutely bleeding gastric 
+      varices.
+     REASON FOR THIS EXAMINATION:
+      TIPS                                                                            
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  45-year-old man with alcoholic cirrhosis with acute gastric variceal
+     bleeding.
+     
+     RADIOLOGISTS:  Dr. [**Last Name (STitle) 675**], Dr. [**First Name (STitle) 2**] [**Name (STitle) 3**], Dr. [**First Name4 (NamePattern1) 4062**] [**Last Name (NamePattern1) 5168**], and the
+     attending Dr. [**First Name4 (NamePattern1) 431**] [**Last Name (NamePattern1) 432**] who was present throughout the procedure.
+     
+     FINDINGS/TECHNIQUE:  The patient was appropriately consented and placed supine
+     on the angiographic table.  Following induction of general anesthesia, the
+     patient's right neck was prepped and draped sterilely.  The right internal
+     jugular vein was accessed under fluoroscopic and ultrasound guidance with a
+     21-gauge needle.  The puncture needle was exchanged over a 0.018 wire for a
+     4-French catheter.  The 0.018 wire and inner stylet were removed and [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 100**]
+     wire was advanced into the IVC.  The puncture site was progressively dilated
+     and a 10-French long [**Doctor Last Name 5169**]-[**Last Name (un) 5032**] sheath was then placed over the wire with
+     its tip positioned just below the diaphragm into the inferior vena cava under
+     fluoroscopic guidance.  A modified 5-French C2 catheter was then advanced
+     through the sheath over a 0.035 [**Doctor Last Name 100**] wire and its tip engaged in the hepatic
+     vein.  The catheter was then advanced into the periphery of the vein with the
+     help of a 0.035 Glidewire.  A venogram was then performed demonstrating
+     appropriate positioning of the tip of the catheter within the hepatic vein. 
+     The catheter was then removed and an occlusion balloon catheter was placed. 
+     The balloon was inflated in the peripheral hepatic vein and a portogram was
+     performed in the AP and lateral projections using carbon dioxide as a contrast
+                                                                 (Over)
+
+     DATE: [**3408-10-25**] 8:15 AM
+     TIPS                                                            Clip # [**Clip Number (Radiology) 5167**]
+     Reason: TIPS                                                        
+     Admitting Diagnosis: GASTROINTESTINAL BLEED
+      Contrast: OPTIRAY Amt: 500
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     [**Doctor Last Name 92**].  This confirmed the position of the catheter to be in the right hepatic
+     vein and delineated the portal vein, which was widely patent.
+     
+     After the balloon occlusion catheter was removed, a 7-French metallic
+     [**Doctor Last Name 5169**]-[**Last Name (un) 5032**] sheath was advanced over [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 100**] wire through the vascular sheath
+     until the tip was positioned in the mid portion of the right hepatic vein.  A
+     14-gauge needle was then advanced through this protected sheath and a puncture
+     was made through the liver parenchyma.  Good blood return was obtained and the
+     injected contrast moved in the hepatofugal direction.  The 0.035 stiff
+     Glidewire was advanced and a multi-sidehole infusion catheter followed into
+     the presumed portal vein.  Contrast angiography was then performed
+     demonstrating that the tip of the catheter was in fact positioned within the
+     hepatic artery.  The catheter was then removed from the hepatic artery.  A
+     14-gauge needle was then advanced through the sheath, through the parenchyma
+     of the liver into the right portal vein branch.  A 5-French multi-sidehole
+     catheter was then placed over the wire into the superior mesenteric vein and a
+     selective venogram was then performed.  This revealed large varices arising
+     from the splenic and proximal portal vein with numerous small varices arising
+     from the distal main portal vein.  A stiff Amplatz 0.035 guide wire was then
+     advanced through the catheter into the splenic vein and the catheter was then
+     removed.  The liver parenchymal tract was then dilated with an 8-mm diameter
+     balloon.  Under direct fluoroscopic visualization, a 10-mm diameter 68 mm long
+     Wallstent was placed extending from the main portal vein into the hepatic
+     vein.  The stent was then dilated with a 10- and 12-mm balloon, and a
+     follow-up portogram was performed.  This demonstrated brisk flow through the
+     shunt, but continuous opacification of the previously demonstrated varices of
+     the portal and splenic veins.  A C2 glide catheter was then advanced over a
+     0.035 wire into the large gastric varix and an attempt to deploy a 12-cm long
+     coil was attempted.  However, the coil and the tip of the catheter were
+     displaced into the portal vein.  Subsequent extraction of the coil with a
+     snare was performed successfully with no residual coil present within the
+     vasculature.  Subsequently, two large gastric varices were engaged with a
+     Cobra catheter and 3 cc of absolute alcohol was injected into each varices
+     with resulting slowing of the blood flow within those varices.  The Cobra
+     catheter was then removed and replaced with a multi-sidehole infusion straight
+     catheter.  Portal vein pressure was then measured to be 34 mmHg.  Pressure
+     within the mid stent was 32 mmHg.  Blood pressure within the hepatic artery
+     was 25 mmHg.  Pressure within the right atrium and right ventricle was 22
+     mmHg.  Therefore, portosystemic gradient constituted approximately 9 mmHg. 
+     This was a significant reduction in the portosystemic gradient compared to the
+     portosystemic gradient of 14 prior to deploying of the Wallstent.  Additional
+     balloon dilatation of the shunt using 12-mm balloon over a 0.035-wire was
+     performed with subsequent portal pressure measured 32 mmHg and the pressure
+     within the IVC measured 23 mmHg.  The 10-French sheath was then removed over
+     the wire and a 9-French 11 cm triple-lumen central venous catheter was
+                                                                 (Over)
+
+     DATE: [**3408-10-25**] 8:15 AM
+     TIPS                                                            Clip # [**Clip Number (Radiology) 5167**]
+     Reason: TIPS                                                        
+     Admitting Diagnosis: GASTROINTESTINAL BLEED
+      Contrast: OPTIRAY Amt: 500
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     advanced with its tip positioned within the SVC.  This was confirmed by a
+     final AP chest x-ray.
+     
+     There were no immediate complications.
+     
+     CONTRAST MEDIA:  200 cc of nonionic contrast material was used.
+     
+     IMPRESSION:
+     
+     1)  Portal hypertension with pressure gradient between the portal vein and
+     hepatic vein measured 14 mmHg prior to formation of the portosystemic shunt. 
+     Large gastric varices were demonstrated.
+     
+     2)  Transjugular intrahepatic portosystemic shunt placement and alcohol
+     embolization of two large gastric varices with good angiographic results was
+     performed.  The post-TIPS portosystemic pressure gradient was reduced to 9
+     mmHg.
+     
+     3)  Placement of a 9-French 11 cm triple-lumen central venous catheter via the
+     right internal jugular vein with the tip in the SVC, ready for use.
+                                                                           
+
+",,
+24697,14834,,,3408-10-25 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3408-10-25**] 8:15 AM
+     TIPS                                                            Clip # [**Clip Number (Radiology) 5167**]
+     Reason: TIPS                                                        
+     Admitting Diagnosis: GASTROINTESTINAL BLEED
+      Contrast: OPTIRAY Amt: 500
+     ********************************* CPT Codes ********************************
+     * 37204 EMBO NON NEURO                 37182 INSERT HEPATIC HUNT TIPS      *
+     * -51 MULTI-PROCEDURE SAME DAY         36012 2ND ORDER OR> VENOUS SYSTEM   *
+     * -59 DISTINCT PROCEDURAL SERVICE      36011 1SR ORDER BRANCH VENOUS SYSTEM*
+     * -59 DISTINCT PROCEDURAL SERVICE      36556 NON-TUNNELED                  *
+     * -51 MULTI-PROCEDURE SAME DAY         75894 TRANCATHETER EMBOLIZATION     *
+     * CATH, TRANSLUM ANGIO NONLASER        CATH, TRANSLUM ANGIO NONLASER       *
+     * CATH, TRANSLUM ANGIO NONLASER        C1751 CATH [**Last Name (LF) 260**],[**First Name3 (LF) 261**]/CENT/MID(NOT D*
+     * C1769 GUID WIRES INCL INF            C1769 GUID WIRES INCL INF           *
+     * C1769 GUID WIRES INCL INF            C1769 GUID WIRES INCL INF           *
+     * C1769 GUID WIRES INCL INF            C1769 GUID WIRES INCL INF           *
+     * C1769 GUID WIRES INCL INF            C1773 SNARE-RETRIEVAL DEVICE INSERT *
+     * STENT NOCOAT NOCOVR W/O [**Doctor First Name **] SYSTEM   C1894 INT.SHTH NOT/GUID,EP,NONLASER *
+     * C1894 INT.SHTH NOT/GUID,EP,NONLASER  C1894 INT.SHTH NOT/GUID,EP,NONLASER *
+     * C2628 C=VAS-CATH OCCLUSION           C2628 C=VAS-CATH OCCLUSION          *
+     * NON-IONIC 200 CC SUPPLY                                                  *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      45 year old man with likely alcoholic cirrhosis and acutely bleeding gastric 
+      varices.
+     REASON FOR THIS EXAMINATION:
+      TIPS                                                                            
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  45-year-old man with alcoholic cirrhosis with acute gastric variceal
+     bleeding.
+     
+     RADIOLOGISTS:  Dr. [**Last Name (STitle) 675**], Dr. [**First Name (STitle) 2**] [**Name (STitle) 3**], Dr. [**First Name4 (NamePattern1) 4062**] [**Last Name (NamePattern1) 5168**], and the
+     attending Dr. [**First Name4 (NamePattern1) 431**] [**Last Name (NamePattern1) 432**] who was present throughout the procedure.
+     
+     FINDINGS/TECHNIQUE:  The patient was appropriately consented and placed supine
+     on the angiographic table.  Following induction of general anesthesia, the
+     patient's right neck was prepped and draped sterilely.  The right internal
+     jugular vein was accessed under fluoroscopic and ultrasound guidance with a
+     21-gauge needle.  The puncture needle was exchanged over a 0.018 wire for a
+     4-French catheter.  The 0.018 wire and inner stylet were removed and [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 100**]
+     wire was advanced into the IVC.  The puncture site was progressively dilated
+     and a 10-French long [**Doctor Last Name 5169**]-[**Last Name (un) 5032**] sheath was then placed over the wire with
+     its tip positioned just below the diaphragm into the inferior vena cava under
+     fluoroscopic guidance.  A modified 5-French C2 catheter was then advanced
+     through the sheath over a 0.035 [**Doctor Last Name 100**] wire and its tip engaged in the hepatic
+     vein.  The catheter was then advanced into the periphery of the vein with the
+     help of a 0.035 Glidewire.  A venogram was then performed demonstrating
+     appropriate positioning of the tip of the catheter within the hepatic vein. 
+     The catheter was then removed and an occlusion balloon catheter was placed. 
+     The balloon was inflated in the peripheral hepatic vein and a portogram was
+     performed in the AP and lateral projections using carbon dioxide as a contrast
+                                                                 (Over)
+
+     DATE: [**3408-10-25**] 8:15 AM
+     TIPS                                                            Clip # [**Clip Number (Radiology) 5167**]
+     Reason: TIPS                                                        
+     Admitting Diagnosis: GASTROINTESTINAL BLEED
+      Contrast: OPTIRAY Amt: 500
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     [**Doctor Last Name 92**].  This confirmed the position of the catheter to be in the right hepatic
+     vein and delineated the portal vein, which was widely patent.
+     
+     After the balloon occlusion catheter was removed, a 7-French metallic
+     [**Doctor Last Name 5169**]-[**Last Name (un) 5032**] sheath was advanced over [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 100**] wire through the vascular sheath
+     until the tip was positioned in the mid portion of the right hepatic vein.  A
+     14-gauge needle was then advanced through this protected sheath and a puncture
+     was made through the liver parenchyma.  Good blood return was obtained and the
+     injected contrast moved in the hepatofugal direction.  The 0.035 stiff
+     Glidewire was advanced and a multi-sidehole infusion catheter followed into
+     the presumed portal vein.  Contrast angiography was then performed
+     demonstrating that the tip of the catheter was in fact positioned within the
+     hepatic artery.  The catheter was then removed from the hepatic artery.  A
+     14-gauge needle was then advanced through the sheath, through the parenchyma
+     of the liver into the right portal vein branch.  A 5-French multi-sidehole
+     catheter was then placed over the wire into the superior mesenteric vein and a
+     selective venogram was then performed.  This revealed large varices arising
+     from the splenic and proximal portal vein with numerous small varices arising
+     from the distal main portal vein.  A stiff Amplatz 0.035 guide wire was then
+     advanced through the catheter into the splenic vein and the catheter was then
+     removed.  The liver parenchymal tract was then dilated with an 8-mm diameter
+     balloon.  Under direct fluoroscopic visualization, a 10-mm diameter 68 mm long
+     Wallstent was placed extending from the main portal vein into the hepatic
+     vein.  The stent was then dilated with a 10- and 12-mm balloon, and a
+     follow-up portogram was performed.  This demonstrated brisk flow through the
+     shunt, but continuous opacification of the previously demonstrated varices of
+     the portal and splenic veins.  A C2 glide catheter was then advanced over a
+     0.035 wire into the large gastric varix and an attempt to deploy a 12-cm long
+     coil was attempted.  However, the coil and the tip of the catheter were
+     displaced into the portal vein.  Subsequent extraction of the coil with a
+     snare was performed successfully with no residual coil present within the
+     vasculature.  Subsequently, two large gastric varices were engaged with a
+     Cobra catheter and 3 cc of absolute alcohol was injected into each varices
+     with resulting slowing of the blood flow within those varices.  The Cobra
+     catheter was then removed and replaced with a multi-sidehole infusion straight
+     catheter.  Portal vein pressure was then measured to be 34 mmHg.  Pressure
+     within the mid stent was 32 mmHg.  Blood pressure within the hepatic artery
+     was 25 mmHg.  Pressure within the right atrium and right ventricle was 22
+     mmHg.  Therefore, portosystemic gradient constituted approximately 9 mmHg. 
+     This was a significant reduction in the portosystemic gradient compared to the
+     portosystemic gradient of 14 prior to deploying of the Wallstent.  Additional
+     balloon dilatation of the shunt using 12-mm balloon over a 0.035-wire was
+     performed with subsequent portal pressure measured 32 mmHg and the pressure
+     within the IVC measured 23 mmHg.  The 10-French sheath was then removed over
+     the wire and a 9-French 11 cm triple-lumen central venous catheter was
+                                                                 (Over)
+
+     DATE: [**3408-10-25**] 8:15 AM
+     TIPS                                                            Clip # [**Clip Number (Radiology) 5167**]
+     Reason: TIPS                                                        
+     Admitting Diagnosis: GASTROINTESTINAL BLEED
+      Contrast: OPTIRAY Amt: 500
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     advanced with its tip positioned within the SVC.  This was confirmed by a
+     final AP chest x-ray.
+     
+     There were no immediate complications.
+     
+     CONTRAST MEDIA:  200 cc of nonionic contrast material was used.
+     
+     IMPRESSION:
+     
+     1)  Portal hypertension with pressure gradient between the portal vein and
+     hepatic vein measured 14 mmHg prior to formation of the portosystemic shunt. 
+     Large gastric varices were demonstrated.
+     
+     2)  Transjugular intrahepatic portosystemic shunt placement and alcohol
+     embolization of two large gastric varices with good angiographic results was
+     performed.  The post-TIPS portosystemic pressure gradient was reduced to 9
+     mmHg.
+     
+     3)  Placement of a 9-French 11 cm triple-lumen central venous catheter via the
+     right internal jugular vein with the tip in the SVC, ready for use.
+                                                                           
+
+",,
+24697,14834,,,3408-10-25 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3408-10-25**] 8:15 AM
+     TIPS                                                            Clip # [**Clip Number (Radiology) 5167**]
+     Reason: TIPS                                                        
+     Admitting Diagnosis: GASTROINTESTINAL BLEED
+      Contrast: OPTIRAY Amt: 500
+     ********************************* CPT Codes ********************************
+     * 37204 EMBO NON NEURO                 37182 INSERT HEPATIC HUNT TIPS      *
+     * -51 MULTI-PROCEDURE SAME DAY         36012 2ND ORDER OR> VENOUS SYSTEM   *
+     * -59 DISTINCT PROCEDURAL SERVICE      36011 1SR ORDER BRANCH VENOUS SYSTEM*
+     * -59 DISTINCT PROCEDURAL SERVICE      36556 NON-TUNNELED                  *
+     * -51 MULTI-PROCEDURE SAME DAY         75894 TRANCATHETER EMBOLIZATION     *
+     * CATH, TRANSLUM ANGIO NONLASER        CATH, TRANSLUM ANGIO NONLASER       *
+     * CATH, TRANSLUM ANGIO NONLASER        C1751 CATH [**Last Name (LF) 260**],[**First Name3 (LF) 261**]/CENT/MID(NOT D*
+     * C1769 GUID WIRES INCL INF            C1769 GUID WIRES INCL INF           *
+     * C1769 GUID WIRES INCL INF            C1769 GUID WIRES INCL INF           *
+     * C1769 GUID WIRES INCL INF            C1769 GUID WIRES INCL INF           *
+     * C1769 GUID WIRES INCL INF            C1773 SNARE-RETRIEVAL DEVICE INSERT *
+     * STENT NOCOAT NOCOVR W/O [**Doctor First Name **] SYSTEM   C1894 INT.SHTH NOT/GUID,EP,NONLASER *
+     * C1894 INT.SHTH NOT/GUID,EP,NONLASER  C1894 INT.SHTH NOT/GUID,EP,NONLASER *
+     * C2628 C=VAS-CATH OCCLUSION           C2628 C=VAS-CATH OCCLUSION          *
+     * NON-IONIC 200 CC SUPPLY                                                  *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      45 year old man with likely alcoholic cirrhosis and acutely bleeding gastric 
+      varices.
+     REASON FOR THIS EXAMINATION:
+      TIPS                                                                            
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  45-year-old man with alcoholic cirrhosis with acute gastric variceal
+     bleeding.
+     
+     RADIOLOGISTS:  Dr. [**Last Name (STitle) 675**], Dr. [**First Name (STitle) 2**] [**Name (STitle) 3**], Dr. [**First Name4 (NamePattern1) 4062**] [**Last Name (NamePattern1) 5168**], and the
+     attending Dr. [**First Name4 (NamePattern1) 431**] [**Last Name (NamePattern1) 432**] who was present throughout the procedure.
+     
+     FINDINGS/TECHNIQUE:  The patient was appropriately consented and placed supine
+     on the angiographic table.  Following induction of general anesthesia, the
+     patient's right neck was prepped and draped sterilely.  The right internal
+     jugular vein was accessed under fluoroscopic and ultrasound guidance with a
+     21-gauge needle.  The puncture needle was exchanged over a 0.018 wire for a
+     4-French catheter.  The 0.018 wire and inner stylet were removed and [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 100**]
+     wire was advanced into the IVC.  The puncture site was progressively dilated
+     and a 10-French long [**Doctor Last Name 5169**]-[**Last Name (un) 5032**] sheath was then placed over the wire with
+     its tip positioned just below the diaphragm into the inferior vena cava under
+     fluoroscopic guidance.  A modified 5-French C2 catheter was then advanced
+     through the sheath over a 0.035 [**Doctor Last Name 100**] wire and its tip engaged in the hepatic
+     vein.  The catheter was then advanced into the periphery of the vein with the
+     help of a 0.035 Glidewire.  A venogram was then performed demonstrating
+     appropriate positioning of the tip of the catheter within the hepatic vein. 
+     The catheter was then removed and an occlusion balloon catheter was placed. 
+     The balloon was inflated in the peripheral hepatic vein and a portogram was
+     performed in the AP and lateral projections using carbon dioxide as a contrast
+                                                                 (Over)
+
+     DATE: [**3408-10-25**] 8:15 AM
+     TIPS                                                            Clip # [**Clip Number (Radiology) 5167**]
+     Reason: TIPS                                                        
+     Admitting Diagnosis: GASTROINTESTINAL BLEED
+      Contrast: OPTIRAY Amt: 500
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     [**Doctor Last Name 92**].  This confirmed the position of the catheter to be in the right hepatic
+     vein and delineated the portal vein, which was widely patent.
+     
+     After the balloon occlusion catheter was removed, a 7-French metallic
+     [**Doctor Last Name 5169**]-[**Last Name (un) 5032**] sheath was advanced over [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 100**] wire through the vascular sheath
+     until the tip was positioned in the mid portion of the right hepatic vein.  A
+     14-gauge needle was then advanced through this protected sheath and a puncture
+     was made through the liver parenchyma.  Good blood return was obtained and the
+     injected contrast moved in the hepatofugal direction.  The 0.035 stiff
+     Glidewire was advanced and a multi-sidehole infusion catheter followed into
+     the presumed portal vein.  Contrast angiography was then performed
+     demonstrating that the tip of the catheter was in fact positioned within the
+     hepatic artery.  The catheter was then removed from the hepatic artery.  A
+     14-gauge needle was then advanced through the sheath, through the parenchyma
+     of the liver into the right portal vein branch.  A 5-French multi-sidehole
+     catheter was then placed over the wire into the superior mesenteric vein and a
+     selective venogram was then performed.  This revealed large varices arising
+     from the splenic and proximal portal vein with numerous small varices arising
+     from the distal main portal vein.  A stiff Amplatz 0.035 guide wire was then
+     advanced through the catheter into the splenic vein and the catheter was then
+     removed.  The liver parenchymal tract was then dilated with an 8-mm diameter
+     balloon.  Under direct fluoroscopic visualization, a 10-mm diameter 68 mm long
+     Wallstent was placed extending from the main portal vein into the hepatic
+     vein.  The stent was then dilated with a 10- and 12-mm balloon, and a
+     follow-up portogram was performed.  This demonstrated brisk flow through the
+     shunt, but continuous opacification of the previously demonstrated varices of
+     the portal and splenic veins.  A C2 glide catheter was then advanced over a
+     0.035 wire into the large gastric varix and an attempt to deploy a 12-cm long
+     coil was attempted.  However, the coil and the tip of the catheter were
+     displaced into the portal vein.  Subsequent extraction of the coil with a
+     snare was performed successfully with no residual coil present within the
+     vasculature.  Subsequently, two large gastric varices were engaged with a
+     Cobra catheter and 3 cc of absolute alcohol was injected into each varices
+     with resulting slowing of the blood flow within those varices.  The Cobra
+     catheter was then removed and replaced with a multi-sidehole infusion straight
+     catheter.  Portal vein pressure was then measured to be 34 mmHg.  Pressure
+     within the mid stent was 32 mmHg.  Blood pressure within the hepatic artery
+     was 25 mmHg.  Pressure within the right atrium and right ventricle was 22
+     mmHg.  Therefore, portosystemic gradient constituted approximately 9 mmHg. 
+     This was a significant reduction in the portosystemic gradient compared to the
+     portosystemic gradient of 14 prior to deploying of the Wallstent.  Additional
+     balloon dilatation of the shunt using 12-mm balloon over a 0.035-wire was
+     performed with subsequent portal pressure measured 32 mmHg and the pressure
+     within the IVC measured 23 mmHg.  The 10-French sheath was then removed over
+     the wire and a 9-French 11 cm triple-lumen central venous catheter was
+                                                                 (Over)
+
+     DATE: [**3408-10-25**] 8:15 AM
+     TIPS                                                            Clip # [**Clip Number (Radiology) 5167**]
+     Reason: TIPS                                                        
+     Admitting Diagnosis: GASTROINTESTINAL BLEED
+      Contrast: OPTIRAY Amt: 500
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     advanced with its tip positioned within the SVC.  This was confirmed by a
+     final AP chest x-ray.
+     
+     There were no immediate complications.
+     
+     CONTRAST MEDIA:  200 cc of nonionic contrast material was used.
+     
+     IMPRESSION:
+     
+     1)  Portal hypertension with pressure gradient between the portal vein and
+     hepatic vein measured 14 mmHg prior to formation of the portosystemic shunt. 
+     Large gastric varices were demonstrated.
+     
+     2)  Transjugular intrahepatic portosystemic shunt placement and alcohol
+     embolization of two large gastric varices with good angiographic results was
+     performed.  The post-TIPS portosystemic pressure gradient was reduced to 9
+     mmHg.
+     
+     3)  Placement of a 9-French 11 cm triple-lumen central venous catheter via the
+     right internal jugular vein with the tip in the SVC, ready for use.
+                                                                           
+
+",,
+24697,14834,,,3408-10-25 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3408-10-25**] 8:15 AM
+     TIPS                                                            Clip # [**Clip Number (Radiology) 5167**]
+     Reason: TIPS                                                        
+     Admitting Diagnosis: GASTROINTESTINAL BLEED
+      Contrast: OPTIRAY Amt: 500
+     ********************************* CPT Codes ********************************
+     * 37204 EMBO NON NEURO                 37182 INSERT HEPATIC HUNT TIPS      *
+     * -51 MULTI-PROCEDURE SAME DAY         36012 2ND ORDER OR> VENOUS SYSTEM   *
+     * -59 DISTINCT PROCEDURAL SERVICE      36011 1SR ORDER BRANCH VENOUS SYSTEM*
+     * -59 DISTINCT PROCEDURAL SERVICE      36556 NON-TUNNELED                  *
+     * -51 MULTI-PROCEDURE SAME DAY         75894 TRANCATHETER EMBOLIZATION     *
+     * CATH, TRANSLUM ANGIO NONLASER        CATH, TRANSLUM ANGIO NONLASER       *
+     * CATH, TRANSLUM ANGIO NONLASER        C1751 CATH [**Last Name (LF) 260**],[**First Name3 (LF) 261**]/CENT/MID(NOT D*
+     * C1769 GUID WIRES INCL INF            C1769 GUID WIRES INCL INF           *
+     * C1769 GUID WIRES INCL INF            C1769 GUID WIRES INCL INF           *
+     * C1769 GUID WIRES INCL INF            C1769 GUID WIRES INCL INF           *
+     * C1769 GUID WIRES INCL INF            C1773 SNARE-RETRIEVAL DEVICE INSERT *
+     * STENT NOCOAT NOCOVR W/O [**Doctor First Name **] SYSTEM   C1894 INT.SHTH NOT/GUID,EP,NONLASER *
+     * C1894 INT.SHTH NOT/GUID,EP,NONLASER  C1894 INT.SHTH NOT/GUID,EP,NONLASER *
+     * C2628 C=VAS-CATH OCCLUSION           C2628 C=VAS-CATH OCCLUSION          *
+     * NON-IONIC 200 CC SUPPLY                                                  *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      45 year old man with likely alcoholic cirrhosis and acutely bleeding gastric 
+      varices.
+     REASON FOR THIS EXAMINATION:
+      TIPS                                                                            
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  45-year-old man with alcoholic cirrhosis with acute gastric variceal
+     bleeding.
+     
+     RADIOLOGISTS:  Dr. [**Last Name (STitle) 675**], Dr. [**First Name (STitle) 2**] [**Name (STitle) 3**], Dr. [**First Name4 (NamePattern1) 4062**] [**Last Name (NamePattern1) 5168**], and the
+     attending Dr. [**First Name4 (NamePattern1) 431**] [**Last Name (NamePattern1) 432**] who was present throughout the procedure.
+     
+     FINDINGS/TECHNIQUE:  The patient was appropriately consented and placed supine
+     on the angiographic table.  Following induction of general anesthesia, the
+     patient's right neck was prepped and draped sterilely.  The right internal
+     jugular vein was accessed under fluoroscopic and ultrasound guidance with a
+     21-gauge needle.  The puncture needle was exchanged over a 0.018 wire for a
+     4-French catheter.  The 0.018 wire and inner stylet were removed and [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 100**]
+     wire was advanced into the IVC.  The puncture site was progressively dilated
+     and a 10-French long [**Doctor Last Name 5169**]-[**Last Name (un) 5032**] sheath was then placed over the wire with
+     its tip positioned just below the diaphragm into the inferior vena cava under
+     fluoroscopic guidance.  A modified 5-French C2 catheter was then advanced
+     through the sheath over a 0.035 [**Doctor Last Name 100**] wire and its tip engaged in the hepatic
+     vein.  The catheter was then advanced into the periphery of the vein with the
+     help of a 0.035 Glidewire.  A venogram was then performed demonstrating
+     appropriate positioning of the tip of the catheter within the hepatic vein. 
+     The catheter was then removed and an occlusion balloon catheter was placed. 
+     The balloon was inflated in the peripheral hepatic vein and a portogram was
+     performed in the AP and lateral projections using carbon dioxide as a contrast
+                                                                 (Over)
+
+     DATE: [**3408-10-25**] 8:15 AM
+     TIPS                                                            Clip # [**Clip Number (Radiology) 5167**]
+     Reason: TIPS                                                        
+     Admitting Diagnosis: GASTROINTESTINAL BLEED
+      Contrast: OPTIRAY Amt: 500
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     [**Doctor Last Name 92**].  This confirmed the position of the catheter to be in the right hepatic
+     vein and delineated the portal vein, which was widely patent.
+     
+     After the balloon occlusion catheter was removed, a 7-French metallic
+     [**Doctor Last Name 5169**]-[**Last Name (un) 5032**] sheath was advanced over [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 100**] wire through the vascular sheath
+     until the tip was positioned in the mid portion of the right hepatic vein.  A
+     14-gauge needle was then advanced through this protected sheath and a puncture
+     was made through the liver parenchyma.  Good blood return was obtained and the
+     injected contrast moved in the hepatofugal direction.  The 0.035 stiff
+     Glidewire was advanced and a multi-sidehole infusion catheter followed into
+     the presumed portal vein.  Contrast angiography was then performed
+     demonstrating that the tip of the catheter was in fact positioned within the
+     hepatic artery.  The catheter was then removed from the hepatic artery.  A
+     14-gauge needle was then advanced through the sheath, through the parenchyma
+     of the liver into the right portal vein branch.  A 5-French multi-sidehole
+     catheter was then placed over the wire into the superior mesenteric vein and a
+     selective venogram was then performed.  This revealed large varices arising
+     from the splenic and proximal portal vein with numerous small varices arising
+     from the distal main portal vein.  A stiff Amplatz 0.035 guide wire was then
+     advanced through the catheter into the splenic vein and the catheter was then
+     removed.  The liver parenchymal tract was then dilated with an 8-mm diameter
+     balloon.  Under direct fluoroscopic visualization, a 10-mm diameter 68 mm long
+     Wallstent was placed extending from the main portal vein into the hepatic
+     vein.  The stent was then dilated with a 10- and 12-mm balloon, and a
+     follow-up portogram was performed.  This demonstrated brisk flow through the
+     shunt, but continuous opacification of the previously demonstrated varices of
+     the portal and splenic veins.  A C2 glide catheter was then advanced over a
+     0.035 wire into the large gastric varix and an attempt to deploy a 12-cm long
+     coil was attempted.  However, the coil and the tip of the catheter were
+     displaced into the portal vein.  Subsequent extraction of the coil with a
+     snare was performed successfully with no residual coil present within the
+     vasculature.  Subsequently, two large gastric varices were engaged with a
+     Cobra catheter and 3 cc of absolute alcohol was injected into each varices
+     with resulting slowing of the blood flow within those varices.  The Cobra
+     catheter was then removed and replaced with a multi-sidehole infusion straight
+     catheter.  Portal vein pressure was then measured to be 34 mmHg.  Pressure
+     within the mid stent was 32 mmHg.  Blood pressure within the hepatic artery
+     was 25 mmHg.  Pressure within the right atrium and right ventricle was 22
+     mmHg.  Therefore, portosystemic gradient constituted approximately 9 mmHg. 
+     This was a significant reduction in the portosystemic gradient compared to the
+     portosystemic gradient of 14 prior to deploying of the Wallstent.  Additional
+     balloon dilatation of the shunt using 12-mm balloon over a 0.035-wire was
+     performed with subsequent portal pressure measured 32 mmHg and the pressure
+     within the IVC measured 23 mmHg.  The 10-French sheath was then removed over
+     the wire and a 9-French 11 cm triple-lumen central venous catheter was
+                                                                 (Over)
+
+     DATE: [**3408-10-25**] 8:15 AM
+     TIPS                                                            Clip # [**Clip Number (Radiology) 5167**]
+     Reason: TIPS                                                        
+     Admitting Diagnosis: GASTROINTESTINAL BLEED
+      Contrast: OPTIRAY Amt: 500
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     advanced with its tip positioned within the SVC.  This was confirmed by a
+     final AP chest x-ray.
+     
+     There were no immediate complications.
+     
+     CONTRAST MEDIA:  200 cc of nonionic contrast material was used.
+     
+     IMPRESSION:
+     
+     1)  Portal hypertension with pressure gradient between the portal vein and
+     hepatic vein measured 14 mmHg prior to formation of the portosystemic shunt. 
+     Large gastric varices were demonstrated.
+     
+     2)  Transjugular intrahepatic portosystemic shunt placement and alcohol
+     embolization of two large gastric varices with good angiographic results was
+     performed.  The post-TIPS portosystemic pressure gradient was reduced to 9
+     mmHg.
+     
+     3)  Placement of a 9-French 11 cm triple-lumen central venous catheter via the
+     right internal jugular vein with the tip in the SVC, ready for use.
+                                                                           
+
+",,
+24697,14834,,,3408-10-25 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3408-10-25**] 8:15 AM
+     TIPS                                                            Clip # [**Clip Number (Radiology) 5167**]
+     Reason: TIPS                                                        
+     Admitting Diagnosis: GASTROINTESTINAL BLEED
+      Contrast: OPTIRAY Amt: 500
+     ********************************* CPT Codes ********************************
+     * 37204 EMBO NON NEURO                 37182 INSERT HEPATIC HUNT TIPS      *
+     * -51 MULTI-PROCEDURE SAME DAY         36012 2ND ORDER OR> VENOUS SYSTEM   *
+     * -59 DISTINCT PROCEDURAL SERVICE      36011 1SR ORDER BRANCH VENOUS SYSTEM*
+     * -59 DISTINCT PROCEDURAL SERVICE      36556 NON-TUNNELED                  *
+     * -51 MULTI-PROCEDURE SAME DAY         75894 TRANCATHETER EMBOLIZATION     *
+     * CATH, TRANSLUM ANGIO NONLASER        CATH, TRANSLUM ANGIO NONLASER       *
+     * CATH, TRANSLUM ANGIO NONLASER        C1751 CATH [**Last Name (LF) 260**],[**First Name3 (LF) 261**]/CENT/MID(NOT D*
+     * C1769 GUID WIRES INCL INF            C1769 GUID WIRES INCL INF           *
+     * C1769 GUID WIRES INCL INF            C1769 GUID WIRES INCL INF           *
+     * C1769 GUID WIRES INCL INF            C1769 GUID WIRES INCL INF           *
+     * C1769 GUID WIRES INCL INF            C1773 SNARE-RETRIEVAL DEVICE INSERT *
+     * STENT NOCOAT NOCOVR W/O [**Doctor First Name **] SYSTEM   C1894 INT.SHTH NOT/GUID,EP,NONLASER *
+     * C1894 INT.SHTH NOT/GUID,EP,NONLASER  C1894 INT.SHTH NOT/GUID,EP,NONLASER *
+     * C2628 C=VAS-CATH OCCLUSION           C2628 C=VAS-CATH OCCLUSION          *
+     * NON-IONIC 200 CC SUPPLY                                                  *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      45 year old man with likely alcoholic cirrhosis and acutely bleeding gastric 
+      varices.
+     REASON FOR THIS EXAMINATION:
+      TIPS                                                                            
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  45-year-old man with alcoholic cirrhosis with acute gastric variceal
+     bleeding.
+     
+     RADIOLOGISTS:  Dr. [**Last Name (STitle) 675**], Dr. [**First Name (STitle) 2**] [**Name (STitle) 3**], Dr. [**First Name4 (NamePattern1) 4062**] [**Last Name (NamePattern1) 5168**], and the
+     attending Dr. [**First Name4 (NamePattern1) 431**] [**Last Name (NamePattern1) 432**] who was present throughout the procedure.
+     
+     FINDINGS/TECHNIQUE:  The patient was appropriately consented and placed supine
+     on the angiographic table.  Following induction of general anesthesia, the
+     patient's right neck was prepped and draped sterilely.  The right internal
+     jugular vein was accessed under fluoroscopic and ultrasound guidance with a
+     21-gauge needle.  The puncture needle was exchanged over a 0.018 wire for a
+     4-French catheter.  The 0.018 wire and inner stylet were removed and [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 100**]
+     wire was advanced into the IVC.  The puncture site was progressively dilated
+     and a 10-French long [**Doctor Last Name 5169**]-[**Last Name (un) 5032**] sheath was then placed over the wire with
+     its tip positioned just below the diaphragm into the inferior vena cava under
+     fluoroscopic guidance.  A modified 5-French C2 catheter was then advanced
+     through the sheath over a 0.035 [**Doctor Last Name 100**] wire and its tip engaged in the hepatic
+     vein.  The catheter was then advanced into the periphery of the vein with the
+     help of a 0.035 Glidewire.  A venogram was then performed demonstrating
+     appropriate positioning of the tip of the catheter within the hepatic vein. 
+     The catheter was then removed and an occlusion balloon catheter was placed. 
+     The balloon was inflated in the peripheral hepatic vein and a portogram was
+     performed in the AP and lateral projections using carbon dioxide as a contrast
+                                                                 (Over)
+
+     DATE: [**3408-10-25**] 8:15 AM
+     TIPS                                                            Clip # [**Clip Number (Radiology) 5167**]
+     Reason: TIPS                                                        
+     Admitting Diagnosis: GASTROINTESTINAL BLEED
+      Contrast: OPTIRAY Amt: 500
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     [**Doctor Last Name 92**].  This confirmed the position of the catheter to be in the right hepatic
+     vein and delineated the portal vein, which was widely patent.
+     
+     After the balloon occlusion catheter was removed, a 7-French metallic
+     [**Doctor Last Name 5169**]-[**Last Name (un) 5032**] sheath was advanced over [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 100**] wire through the vascular sheath
+     until the tip was positioned in the mid portion of the right hepatic vein.  A
+     14-gauge needle was then advanced through this protected sheath and a puncture
+     was made through the liver parenchyma.  Good blood return was obtained and the
+     injected contrast moved in the hepatofugal direction.  The 0.035 stiff
+     Glidewire was advanced and a multi-sidehole infusion catheter followed into
+     the presumed portal vein.  Contrast angiography was then performed
+     demonstrating that the tip of the catheter was in fact positioned within the
+     hepatic artery.  The catheter was then removed from the hepatic artery.  A
+     14-gauge needle was then advanced through the sheath, through the parenchyma
+     of the liver into the right portal vein branch.  A 5-French multi-sidehole
+     catheter was then placed over the wire into the superior mesenteric vein and a
+     selective venogram was then performed.  This revealed large varices arising
+     from the splenic and proximal portal vein with numerous small varices arising
+     from the distal main portal vein.  A stiff Amplatz 0.035 guide wire was then
+     advanced through the catheter into the splenic vein and the catheter was then
+     removed.  The liver parenchymal tract was then dilated with an 8-mm diameter
+     balloon.  Under direct fluoroscopic visualization, a 10-mm diameter 68 mm long
+     Wallstent was placed extending from the main portal vein into the hepatic
+     vein.  The stent was then dilated with a 10- and 12-mm balloon, and a
+     follow-up portogram was performed.  This demonstrated brisk flow through the
+     shunt, but continuous opacification of the previously demonstrated varices of
+     the portal and splenic veins.  A C2 glide catheter was then advanced over a
+     0.035 wire into the large gastric varix and an attempt to deploy a 12-cm long
+     coil was attempted.  However, the coil and the tip of the catheter were
+     displaced into the portal vein.  Subsequent extraction of the coil with a
+     snare was performed successfully with no residual coil present within the
+     vasculature.  Subsequently, two large gastric varices were engaged with a
+     Cobra catheter and 3 cc of absolute alcohol was injected into each varices
+     with resulting slowing of the blood flow within those varices.  The Cobra
+     catheter was then removed and replaced with a multi-sidehole infusion straight
+     catheter.  Portal vein pressure was then measured to be 34 mmHg.  Pressure
+     within the mid stent was 32 mmHg.  Blood pressure within the hepatic artery
+     was 25 mmHg.  Pressure within the right atrium and right ventricle was 22
+     mmHg.  Therefore, portosystemic gradient constituted approximately 9 mmHg. 
+     This was a significant reduction in the portosystemic gradient compared to the
+     portosystemic gradient of 14 prior to deploying of the Wallstent.  Additional
+     balloon dilatation of the shunt using 12-mm balloon over a 0.035-wire was
+     performed with subsequent portal pressure measured 32 mmHg and the pressure
+     within the IVC measured 23 mmHg.  The 10-French sheath was then removed over
+     the wire and a 9-French 11 cm triple-lumen central venous catheter was
+                                                                 (Over)
+
+     DATE: [**3408-10-25**] 8:15 AM
+     TIPS                                                            Clip # [**Clip Number (Radiology) 5167**]
+     Reason: TIPS                                                        
+     Admitting Diagnosis: GASTROINTESTINAL BLEED
+      Contrast: OPTIRAY Amt: 500
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     advanced with its tip positioned within the SVC.  This was confirmed by a
+     final AP chest x-ray.
+     
+     There were no immediate complications.
+     
+     CONTRAST MEDIA:  200 cc of nonionic contrast material was used.
+     
+     IMPRESSION:
+     
+     1)  Portal hypertension with pressure gradient between the portal vein and
+     hepatic vein measured 14 mmHg prior to formation of the portosystemic shunt. 
+     Large gastric varices were demonstrated.
+     
+     2)  Transjugular intrahepatic portosystemic shunt placement and alcohol
+     embolization of two large gastric varices with good angiographic results was
+     performed.  The post-TIPS portosystemic pressure gradient was reduced to 9
+     mmHg.
+     
+     3)  Placement of a 9-French 11 cm triple-lumen central venous catheter via the
+     right internal jugular vein with the tip in the SVC, ready for use.
+                                                                           
+
+",,
+24697,14834,,,3408-10-25 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3408-10-25**] 8:15 AM
+     TIPS                                                            Clip # [**Clip Number (Radiology) 5167**]
+     Reason: TIPS                                                        
+     Admitting Diagnosis: GASTROINTESTINAL BLEED
+      Contrast: OPTIRAY Amt: 500
+     ********************************* CPT Codes ********************************
+     * 37204 EMBO NON NEURO                 37182 INSERT HEPATIC HUNT TIPS      *
+     * -51 MULTI-PROCEDURE SAME DAY         36012 2ND ORDER OR> VENOUS SYSTEM   *
+     * -59 DISTINCT PROCEDURAL SERVICE      36011 1SR ORDER BRANCH VENOUS SYSTEM*
+     * -59 DISTINCT PROCEDURAL SERVICE      36556 NON-TUNNELED                  *
+     * -51 MULTI-PROCEDURE SAME DAY         75894 TRANCATHETER EMBOLIZATION     *
+     * CATH, TRANSLUM ANGIO NONLASER        CATH, TRANSLUM ANGIO NONLASER       *
+     * CATH, TRANSLUM ANGIO NONLASER        C1751 CATH [**Last Name (LF) 260**],[**First Name3 (LF) 261**]/CENT/MID(NOT D*
+     * C1769 GUID WIRES INCL INF            C1769 GUID WIRES INCL INF           *
+     * C1769 GUID WIRES INCL INF            C1769 GUID WIRES INCL INF           *
+     * C1769 GUID WIRES INCL INF            C1769 GUID WIRES INCL INF           *
+     * C1769 GUID WIRES INCL INF            C1773 SNARE-RETRIEVAL DEVICE INSERT *
+     * STENT NOCOAT NOCOVR W/O [**Doctor First Name **] SYSTEM   C1894 INT.SHTH NOT/GUID,EP,NONLASER *
+     * C1894 INT.SHTH NOT/GUID,EP,NONLASER  C1894 INT.SHTH NOT/GUID,EP,NONLASER *
+     * C2628 C=VAS-CATH OCCLUSION           C2628 C=VAS-CATH OCCLUSION          *
+     * NON-IONIC 200 CC SUPPLY                                                  *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      45 year old man with likely alcoholic cirrhosis and acutely bleeding gastric 
+      varices.
+     REASON FOR THIS EXAMINATION:
+      TIPS                                                                            
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  45-year-old man with alcoholic cirrhosis with acute gastric variceal
+     bleeding.
+     
+     RADIOLOGISTS:  Dr. [**Last Name (STitle) 675**], Dr. [**First Name (STitle) 2**] [**Name (STitle) 3**], Dr. [**First Name4 (NamePattern1) 4062**] [**Last Name (NamePattern1) 5168**], and the
+     attending Dr. [**First Name4 (NamePattern1) 431**] [**Last Name (NamePattern1) 432**] who was present throughout the procedure.
+     
+     FINDINGS/TECHNIQUE:  The patient was appropriately consented and placed supine
+     on the angiographic table.  Following induction of general anesthesia, the
+     patient's right neck was prepped and draped sterilely.  The right internal
+     jugular vein was accessed under fluoroscopic and ultrasound guidance with a
+     21-gauge needle.  The puncture needle was exchanged over a 0.018 wire for a
+     4-French catheter.  The 0.018 wire and inner stylet were removed and [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 100**]
+     wire was advanced into the IVC.  The puncture site was progressively dilated
+     and a 10-French long [**Doctor Last Name 5169**]-[**Last Name (un) 5032**] sheath was then placed over the wire with
+     its tip positioned just below the diaphragm into the inferior vena cava under
+     fluoroscopic guidance.  A modified 5-French C2 catheter was then advanced
+     through the sheath over a 0.035 [**Doctor Last Name 100**] wire and its tip engaged in the hepatic
+     vein.  The catheter was then advanced into the periphery of the vein with the
+     help of a 0.035 Glidewire.  A venogram was then performed demonstrating
+     appropriate positioning of the tip of the catheter within the hepatic vein. 
+     The catheter was then removed and an occlusion balloon catheter was placed. 
+     The balloon was inflated in the peripheral hepatic vein and a portogram was
+     performed in the AP and lateral projections using carbon dioxide as a contrast
+                                                                 (Over)
+
+     DATE: [**3408-10-25**] 8:15 AM
+     TIPS                                                            Clip # [**Clip Number (Radiology) 5167**]
+     Reason: TIPS                                                        
+     Admitting Diagnosis: GASTROINTESTINAL BLEED
+      Contrast: OPTIRAY Amt: 500
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     [**Doctor Last Name 92**].  This confirmed the position of the catheter to be in the right hepatic
+     vein and delineated the portal vein, which was widely patent.
+     
+     After the balloon occlusion catheter was removed, a 7-French metallic
+     [**Doctor Last Name 5169**]-[**Last Name (un) 5032**] sheath was advanced over [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 100**] wire through the vascular sheath
+     until the tip was positioned in the mid portion of the right hepatic vein.  A
+     14-gauge needle was then advanced through this protected sheath and a puncture
+     was made through the liver parenchyma.  Good blood return was obtained and the
+     injected contrast moved in the hepatofugal direction.  The 0.035 stiff
+     Glidewire was advanced and a multi-sidehole infusion catheter followed into
+     the presumed portal vein.  Contrast angiography was then performed
+     demonstrating that the tip of the catheter was in fact positioned within the
+     hepatic artery.  The catheter was then removed from the hepatic artery.  A
+     14-gauge needle was then advanced through the sheath, through the parenchyma
+     of the liver into the right portal vein branch.  A 5-French multi-sidehole
+     catheter was then placed over the wire into the superior mesenteric vein and a
+     selective venogram was then performed.  This revealed large varices arising
+     from the splenic and proximal portal vein with numerous small varices arising
+     from the distal main portal vein.  A stiff Amplatz 0.035 guide wire was then
+     advanced through the catheter into the splenic vein and the catheter was then
+     removed.  The liver parenchymal tract was then dilated with an 8-mm diameter
+     balloon.  Under direct fluoroscopic visualization, a 10-mm diameter 68 mm long
+     Wallstent was placed extending from the main portal vein into the hepatic
+     vein.  The stent was then dilated with a 10- and 12-mm balloon, and a
+     follow-up portogram was performed.  This demonstrated brisk flow through the
+     shunt, but continuous opacification of the previously demonstrated varices of
+     the portal and splenic veins.  A C2 glide catheter was then advanced over a
+     0.035 wire into the large gastric varix and an attempt to deploy a 12-cm long
+     coil was attempted.  However, the coil and the tip of the catheter were
+     displaced into the portal vein.  Subsequent extraction of the coil with a
+     snare was performed successfully with no residual coil present within the
+     vasculature.  Subsequently, two large gastric varices were engaged with a
+     Cobra catheter and 3 cc of absolute alcohol was injected into each varices
+     with resulting slowing of the blood flow within those varices.  The Cobra
+     catheter was then removed and replaced with a multi-sidehole infusion straight
+     catheter.  Portal vein pressure was then measured to be 34 mmHg.  Pressure
+     within the mid stent was 32 mmHg.  Blood pressure within the hepatic artery
+     was 25 mmHg.  Pressure within the right atrium and right ventricle was 22
+     mmHg.  Therefore, portosystemic gradient constituted approximately 9 mmHg. 
+     This was a significant reduction in the portosystemic gradient compared to the
+     portosystemic gradient of 14 prior to deploying of the Wallstent.  Additional
+     balloon dilatation of the shunt using 12-mm balloon over a 0.035-wire was
+     performed with subsequent portal pressure measured 32 mmHg and the pressure
+     within the IVC measured 23 mmHg.  The 10-French sheath was then removed over
+     the wire and a 9-French 11 cm triple-lumen central venous catheter was
+                                                                 (Over)
+
+     DATE: [**3408-10-25**] 8:15 AM
+     TIPS                                                            Clip # [**Clip Number (Radiology) 5167**]
+     Reason: TIPS                                                        
+     Admitting Diagnosis: GASTROINTESTINAL BLEED
+      Contrast: OPTIRAY Amt: 500
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     advanced with its tip positioned within the SVC.  This was confirmed by a
+     final AP chest x-ray.
+     
+     There were no immediate complications.
+     
+     CONTRAST MEDIA:  200 cc of nonionic contrast material was used.
+     
+     IMPRESSION:
+     
+     1)  Portal hypertension with pressure gradient between the portal vein and
+     hepatic vein measured 14 mmHg prior to formation of the portosystemic shunt. 
+     Large gastric varices were demonstrated.
+     
+     2)  Transjugular intrahepatic portosystemic shunt placement and alcohol
+     embolization of two large gastric varices with good angiographic results was
+     performed.  The post-TIPS portosystemic pressure gradient was reduced to 9
+     mmHg.
+     
+     3)  Placement of a 9-French 11 cm triple-lumen central venous catheter via the
+     right internal jugular vein with the tip in the SVC, ready for use.
+                                                                           
+
+",,
+24697,14834,,,3408-10-25 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3408-10-25**] 8:15 AM
+     TIPS                                                            Clip # [**Clip Number (Radiology) 5167**]
+     Reason: TIPS                                                        
+     Admitting Diagnosis: GASTROINTESTINAL BLEED
+      Contrast: OPTIRAY Amt: 500
+     ********************************* CPT Codes ********************************
+     * 37204 EMBO NON NEURO                 37182 INSERT HEPATIC HUNT TIPS      *
+     * -51 MULTI-PROCEDURE SAME DAY         36012 2ND ORDER OR> VENOUS SYSTEM   *
+     * -59 DISTINCT PROCEDURAL SERVICE      36011 1SR ORDER BRANCH VENOUS SYSTEM*
+     * -59 DISTINCT PROCEDURAL SERVICE      36556 NON-TUNNELED                  *
+     * -51 MULTI-PROCEDURE SAME DAY         75894 TRANCATHETER EMBOLIZATION     *
+     * CATH, TRANSLUM ANGIO NONLASER        CATH, TRANSLUM ANGIO NONLASER       *
+     * CATH, TRANSLUM ANGIO NONLASER        C1751 CATH [**Last Name (LF) 260**],[**First Name3 (LF) 261**]/CENT/MID(NOT D*
+     * C1769 GUID WIRES INCL INF            C1769 GUID WIRES INCL INF           *
+     * C1769 GUID WIRES INCL INF            C1769 GUID WIRES INCL INF           *
+     * C1769 GUID WIRES INCL INF            C1769 GUID WIRES INCL INF           *
+     * C1769 GUID WIRES INCL INF            C1773 SNARE-RETRIEVAL DEVICE INSERT *
+     * STENT NOCOAT NOCOVR W/O [**Doctor First Name **] SYSTEM   C1894 INT.SHTH NOT/GUID,EP,NONLASER *
+     * C1894 INT.SHTH NOT/GUID,EP,NONLASER  C1894 INT.SHTH NOT/GUID,EP,NONLASER *
+     * C2628 C=VAS-CATH OCCLUSION           C2628 C=VAS-CATH OCCLUSION          *
+     * NON-IONIC 200 CC SUPPLY                                                  *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      45 year old man with likely alcoholic cirrhosis and acutely bleeding gastric 
+      varices.
+     REASON FOR THIS EXAMINATION:
+      TIPS                                                                            
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  45-year-old man with alcoholic cirrhosis with acute gastric variceal
+     bleeding.
+     
+     RADIOLOGISTS:  Dr. [**Last Name (STitle) 675**], Dr. [**First Name (STitle) 2**] [**Name (STitle) 3**], Dr. [**First Name4 (NamePattern1) 4062**] [**Last Name (NamePattern1) 5168**], and the
+     attending Dr. [**First Name4 (NamePattern1) 431**] [**Last Name (NamePattern1) 432**] who was present throughout the procedure.
+     
+     FINDINGS/TECHNIQUE:  The patient was appropriately consented and placed supine
+     on the angiographic table.  Following induction of general anesthesia, the
+     patient's right neck was prepped and draped sterilely.  The right internal
+     jugular vein was accessed under fluoroscopic and ultrasound guidance with a
+     21-gauge needle.  The puncture needle was exchanged over a 0.018 wire for a
+     4-French catheter.  The 0.018 wire and inner stylet were removed and [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 100**]
+     wire was advanced into the IVC.  The puncture site was progressively dilated
+     and a 10-French long [**Doctor Last Name 5169**]-[**Last Name (un) 5032**] sheath was then placed over the wire with
+     its tip positioned just below the diaphragm into the inferior vena cava under
+     fluoroscopic guidance.  A modified 5-French C2 catheter was then advanced
+     through the sheath over a 0.035 [**Doctor Last Name 100**] wire and its tip engaged in the hepatic
+     vein.  The catheter was then advanced into the periphery of the vein with the
+     help of a 0.035 Glidewire.  A venogram was then performed demonstrating
+     appropriate positioning of the tip of the catheter within the hepatic vein. 
+     The catheter was then removed and an occlusion balloon catheter was placed. 
+     The balloon was inflated in the peripheral hepatic vein and a portogram was
+     performed in the AP and lateral projections using carbon dioxide as a contrast
+                                                                 (Over)
+
+     DATE: [**3408-10-25**] 8:15 AM
+     TIPS                                                            Clip # [**Clip Number (Radiology) 5167**]
+     Reason: TIPS                                                        
+     Admitting Diagnosis: GASTROINTESTINAL BLEED
+      Contrast: OPTIRAY Amt: 500
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     [**Doctor Last Name 92**].  This confirmed the position of the catheter to be in the right hepatic
+     vein and delineated the portal vein, which was widely patent.
+     
+     After the balloon occlusion catheter was removed, a 7-French metallic
+     [**Doctor Last Name 5169**]-[**Last Name (un) 5032**] sheath was advanced over [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 100**] wire through the vascular sheath
+     until the tip was positioned in the mid portion of the right hepatic vein.  A
+     14-gauge needle was then advanced through this protected sheath and a puncture
+     was made through the liver parenchyma.  Good blood return was obtained and the
+     injected contrast moved in the hepatofugal direction.  The 0.035 stiff
+     Glidewire was advanced and a multi-sidehole infusion catheter followed into
+     the presumed portal vein.  Contrast angiography was then performed
+     demonstrating that the tip of the catheter was in fact positioned within the
+     hepatic artery.  The catheter was then removed from the hepatic artery.  A
+     14-gauge needle was then advanced through the sheath, through the parenchyma
+     of the liver into the right portal vein branch.  A 5-French multi-sidehole
+     catheter was then placed over the wire into the superior mesenteric vein and a
+     selective venogram was then performed.  This revealed large varices arising
+     from the splenic and proximal portal vein with numerous small varices arising
+     from the distal main portal vein.  A stiff Amplatz 0.035 guide wire was then
+     advanced through the catheter into the splenic vein and the catheter was then
+     removed.  The liver parenchymal tract was then dilated with an 8-mm diameter
+     balloon.  Under direct fluoroscopic visualization, a 10-mm diameter 68 mm long
+     Wallstent was placed extending from the main portal vein into the hepatic
+     vein.  The stent was then dilated with a 10- and 12-mm balloon, and a
+     follow-up portogram was performed.  This demonstrated brisk flow through the
+     shunt, but continuous opacification of the previously demonstrated varices of
+     the portal and splenic veins.  A C2 glide catheter was then advanced over a
+     0.035 wire into the large gastric varix and an attempt to deploy a 12-cm long
+     coil was attempted.  However, the coil and the tip of the catheter were
+     displaced into the portal vein.  Subsequent extraction of the coil with a
+     snare was performed successfully with no residual coil present within the
+     vasculature.  Subsequently, two large gastric varices were engaged with a
+     Cobra catheter and 3 cc of absolute alcohol was injected into each varices
+     with resulting slowing of the blood flow within those varices.  The Cobra
+     catheter was then removed and replaced with a multi-sidehole infusion straight
+     catheter.  Portal vein pressure was then measured to be 34 mmHg.  Pressure
+     within the mid stent was 32 mmHg.  Blood pressure within the hepatic artery
+     was 25 mmHg.  Pressure within the right atrium and right ventricle was 22
+     mmHg.  Therefore, portosystemic gradient constituted approximately 9 mmHg. 
+     This was a significant reduction in the portosystemic gradient compared to the
+     portosystemic gradient of 14 prior to deploying of the Wallstent.  Additional
+     balloon dilatation of the shunt using 12-mm balloon over a 0.035-wire was
+     performed with subsequent portal pressure measured 32 mmHg and the pressure
+     within the IVC measured 23 mmHg.  The 10-French sheath was then removed over
+     the wire and a 9-French 11 cm triple-lumen central venous catheter was
+                                                                 (Over)
+
+     DATE: [**3408-10-25**] 8:15 AM
+     TIPS                                                            Clip # [**Clip Number (Radiology) 5167**]
+     Reason: TIPS                                                        
+     Admitting Diagnosis: GASTROINTESTINAL BLEED
+      Contrast: OPTIRAY Amt: 500
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     advanced with its tip positioned within the SVC.  This was confirmed by a
+     final AP chest x-ray.
+     
+     There were no immediate complications.
+     
+     CONTRAST MEDIA:  200 cc of nonionic contrast material was used.
+     
+     IMPRESSION:
+     
+     1)  Portal hypertension with pressure gradient between the portal vein and
+     hepatic vein measured 14 mmHg prior to formation of the portosystemic shunt. 
+     Large gastric varices were demonstrated.
+     
+     2)  Transjugular intrahepatic portosystemic shunt placement and alcohol
+     embolization of two large gastric varices with good angiographic results was
+     performed.  The post-TIPS portosystemic pressure gradient was reduced to 9
+     mmHg.
+     
+     3)  Placement of a 9-French 11 cm triple-lumen central venous catheter via the
+     right internal jugular vein with the tip in the SVC, ready for use.
+                                                                           
+
+",,
+24697,14834,30669,0,3408-10-25 17:17:00 EST,3408-10-25 17:21:00 EST,962,"N",1,"Nursing/Other","Respiratory Care","
+Respiratory Care
+Pt intubated with 8.0 ETT for prolonged procedure in angio. Thrashing about the bed, unresponsive to verbal command. Taken to angio and returned approximately 8 hrs later.
+ETT position comfirmed with CXR, end tidal CO2 device and bilateral breath sounds. 
+",,
+24697,14834,30669,0,3408-10-25 19:19:00 EST,3408-10-25 19:35:00 EST,723,"N",1,"Nursing/Other","npn","
+npn
+pt is 45 yo male with significant etoh abouse hx, also tested + for cocaine in tox screen. pt seen at osh ofr episode of hemoptosis at home and in his car. underwent egd + bleeding varcies. trans. to [**Hospital1 **] for further management. 
+
+events, pt intubated in sicu and [**Female First Name (un) 4925**] placed, pt then transferred to angio suite for tips procedure. pt received 4 units ffp and 2 units prbc's immediately before and after transfer to angio. pt receveid additional 4 units of ffp , 1 unit plats, 1 unit cryo in angio during procedure. tips procedure successful and pt returned to sicu around 1700. 
+
+neuro: at baseline in am pt confused agitated received multiple doses of valium per ciwa scale, currently pt is sedated on propofol at 50mcg and versed at 2mg. pt received 10 mg valium at 1800 for tremors per ciwa scale. propofol being held due to decrease in abp to 88 systolic , dr. [**Last Name (STitle) **] aware. 
+
+pain: pt sedated at this time. 
+
+cad hr st inot the 140 to 150's in am despite multiple doses of valium, currently 120 range,  abp 121 to 136 systolic on return from angio, after bolus of diprivan abp high 80[**Name8 (MD) **] md [**First Name (Titles) 47**] [**Last Name (Titles) **] on hold, 
+
+resp: vent settins acx700x12x fio2 100% peep 5, ls [**First Name9 (NamePattern2) 4926**] [**Last Name (un) **] out ? asp pna. suctioned for thick whiteish wit blood tinged secretions.  sats mid to high 90's see carevue  for abd results.
+
+gi: abd ascites, bs +  no ogt, may place later, rectal bag replaced. minimal amt. of liquid maroon stool.
+
+gu: foley patent for amber clear urine, > 100cc/hr. see carevue for details, 
+
+id: temp max 101, pt needs to be pan cultured, cont. on levofloxacin.
+
+social: mulitple family visitors, wife updated by md. seems appropriate,
+
+plan: pan culture, continue to monitor vs, labs, serial hcts, continue with ciwa scale and given valium prn for tremors
+",,
+24697,14834,30669,,3408-10-26 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3408-10-26**] 8:16 AM
+     LIVER OR GALLBLADDER US (SINGLE ORGAN); -59 DISTINCT PROCEDURAL SERVICEClip # [**Telephone/Fax (1) 5170**]
+     DUPLEX DOP ABD/PEL LIMITED
+     Reason: TIPS patency/velocity                                       
+     Admitting Diagnosis: GASTROINTESTINAL BLEED
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       45 year old man with EtOH abuse p/w gastric varices                            
+       
+     REASON FOR THIS EXAMINATION:
+      TIPS patency/velocity                                                           
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     ULTRASOUND GUIDED TIPS IMAGING:
+     
+     INDICATION:  The patient day one post TIPS.  For baseline study.
+     
+     TECHNIQUE:  [**Doctor Last Name **] scale, color flow, and pulse wave Doppler insonation of the
+     liver, its vessels, and of the TIPS shunt was performed.
+     
+     COMPARISON:  The examination is technically extremely difficult because of the
+     patient's liver echotexture and also because patient was ventilated.
+     
+     REPORT:
+     
+     The left portal vein is not visualized.  There is hepatopetal flow within the
+     main portal vein with velocities of approximately 15 cm/sec.  The TIPS is
+     poorly visualized.  There appears to be wall-to-wall flow velocities of
+     approximately 37, 60, and 76 cm/sec returned from the proximal, mid, and
+     distal TIPS respectively.  The IVC is patent.  There is no evidence of intra
+     or perihepatic hematoma.
+     
+     The visualized portions of the hepatic arteries appear normal.
+     
+     CONCLUSION:
+     
+     Extremely limited examination.  A further baseline examination may be of
+     benefit once the patient has been weaned from his ventilator.
+
+",,
+24697,14834,30669,0,3408-10-26 05:06:00 EST,3408-10-26 05:10:00 EST,7717,"N",1,"Nursing/Other","NPN","
+NPN
+N:  patient sedated on versed and fentanyl, receiveing intermittent valium for tremors.
+CV:  t-max 102.1 blood cultures sent  HR 100's ST bp labile earlier in shift  currently stable. + pulses X 4
+Resp:  Patient continues to be orally intubated on CMV, Patient with O2sats 100% all night, overbreathing the vent, minimal secreations although sounds course.
+GI: + bowel counds, negative bowel movements, + Bright red blood from oral cavity for the entire night
+GU: foley patent voiding adequate amounts of urine, icteric in color.  PLease see flow sheet for all otehr information. Thank [**Doctor First Name **]
+",,
+24697,14834,30669,0,3408-10-26 05:24:00 EST,3408-10-26 05:27:00 EST,1047,"N",1,"Nursing/Other","Respiratory Care:","
+Respiratory Care:
+Patient remains on A/C ventilatory support with no parameter changes made throughout the night.  No morning abg results at this time.
+
+No RSBI measured at this time due to lack of spontaneous respiration.
+",,
+24697,14834,30669,0,3408-10-26 06:11:00 EST,3408-10-26 06:13:00 EST,1047,"N",1,"Nursing/Other","Respiratory Care (Addendum):","
+Respiratory Care (Addendum):
+FIO2 decreased to 60%.  ABG results determined a partially compensated metabolic alkalemia with good oxygenation on the current settings.
+",,
+24697,14834,30669,1,3408-10-26 12:59:00 EST,3408-10-26 19:08:00 EST,600,"Y",1,"Nursing/Other","CONDITION UPDATE","
+CONDITION UPDATE
+ADDENDUM: PT FEBRILE TO 103.5 HO AWARE..COOLING BLANKET ON AWAITING ORDERS FOR CULTURES
+",,
+24697,14834,30669,0,3408-10-26 12:59:00 EST,3408-10-26 13:13:00 EST,936,"N",1,"Nursing/Other","CONDITION UPDATE","
+CONDITION UPDATE
+ASSESSMENT:
+    PATIENT SEDATED ON FENTANYL AND VERSED GTTS, UNABLE TO OPEN EYES OR MOVE ANY EXTREMITIES.  NO EVIDENT SIGNS/SYMPTOMS OF WITHDRAWAL, WEANED VERSED AND MAY RECEIVE VALIUM AS NEEDED.  
+    HEART RATE 110-120 AND BLOOD PRESSURE STABLE.  HCT REMAINS STABLE, NO BLOOD PRODUCTS TODAY. PATIENT CONTINUES TO OOZE MODERATE AMOUNTS BLOOD FROM MOUTH, NO OTHER SIGNS BLEEDING.  PATIENT CONTINUES TO HAVE TEMPS ~ 102 (LAST CULTURED [**10-25**] PM).  PATIENT MAKING ADEQUATE HOURLY URINE.  
+    LUNG SOUNDS COARSE BUT MINIMAL SECRETIONS WHEN SUCTIONED.  PATIENT WITH BILAT INFILT, PROBABLE ASP PNEUMONIA.  PATIENT REMAINS ON ASSIST CONTROL, TIDAL VOLUME DECREASED TO 550 AND RR INCREASED TO 12.  PATIENT WITH METABOLIC ALKALOSIS.  PA02 ACCEPTABLE, FI02 WEANED AND PEEP INCREASED TO 10. 
+    ABDOMEN SOFTLY DISTENDED.  ULTRASOUND DONE, ? RESULTS.  LFTS AND AMMONIA LEVEL CONTINUE TO BE ELEVATED AND PATIENT JAUNDICED.
+PLAN:
+    AWAIT RESULTS OF ULTRASOUND.  CIWA SCALE AND VALIUM AS NECESSARY.  SERIAL HCTS.   
+",,
+24697,14834,30669,0,3408-10-26 16:12:00 EST,3408-10-26 16:18:00 EST,1428,"N",1,"Nursing/Other","Resp Care","
+Resp Care
+Pt remains on mech vent-parameters noted.  Pt has metabolic alkalosis.
+Coarse breath sounds throughout lung fields.  Suction thick yellow secretions via ETT and old blood orally.  Will continue mech vent and wean as tol.
+",,
+24697,14834,30669,,3408-10-27 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3408-10-27**] 5:06 PM
+     CHEST (PORTABLE AP); -77 BY DIFFERENT PHYSICIAN                 [**Name Initial (PRE) 232**] # [**Clip Number (Radiology) 5171**]
+     Reason: please eval new NG tube placement                           
+     Admitting Diagnosis: GASTROINTESTINAL BLEED
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+         45 year old man with fever, s/p TIPS, aspiration PNA; intubated              
+       
+     REASON FOR THIS EXAMINATION:
+      please eval new NG tube placement                                               
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  45-year-old with fever post TIPS, assess NG tube position.
+     
+     PORTABLE SUPINE VIEW OF THE UPPER ABDOMEN AND LOWER CHEST
+     
+     Comparison is made to study performed earlier the same day.
+     
+     There is persistent left lower lobe consolidation.  The right lung base is
+     unchanged.  No NG tube is seen on this examination.  A TIPS catheter remains
+     in place.
+                                                                           
+
+",,
+24697,14834,30669,0,3408-10-27 03:15:00 EST,3408-10-27 03:18:00 EST,7717,"N",1,"Nursing/Other","NPN","
+NPN
+N; Patient continues to be unresponsive on Fentanyl and intermittent valium for tremors and hypertension.
+CV: T max 104.5, alchohol bath and cooling blanket applied-- patient temp slowly coming down.  HR and BP stable.  Patient continues to have large amounts of blood coming from his oral pharynx
+R: remians orally intuabted
+GI: no bm this shift, no OGT ot NGT
+GU:  foley patent voiding large icteric urine.
+PLease see flowsheets for all other information.  Thankyou
+",,
+24697,14834,30669,0,3408-10-27 04:23:00 EST,3408-10-27 04:28:00 EST,1047,"N",1,"Nursing/Other","Respiratory Care:","
+Respiratory Care:
+Patient remains on A/C ventilatory support with only a decrese in FIO2 to 40% from 50%, and no other parameter changes.  Morning abg results determined a partially compensated metabolic alkalemia with excellent oxygenation (on the 50% FIO2).  SX'd from oropharynx for blood.
+
+No RSBI measured due to the level of PEEP currently required.
+
+
+",,
+24697,14834,30669,0,3408-10-27 16:27:00 EST,3408-10-27 16:33:00 EST,1428,"N",1,"Nursing/Other","Resp Care","
+Resp Care
+Pt remains on mech vent-parameters noted.  Weaned to PS/CPAP-parameters noted.  Pt tol well.  Breath sounds are coarse through all lung fields.  Suction for thick tan secretions via ETT, bloody secretions orally.  ETT retaped at 27 at lip.  CT for head scan.  Will continue mech vent and wean as tol.
+
+",,
+24697,14834,30669,0,3408-10-27 18:29:00 EST,3408-10-27 18:41:00 EST,804,"N",1,"Nursing/Other","FOCUS: STATUS UPDATE","
+FOCUS: STATUS UPDATE
+DATA:
+SEE CAREVUE FOR DETAILS.
+
+SEDATED ON FENTANYL DRIP, DECREASED TO 50MCG. PUPILS EQUAL AND SLUGGISH. DOES NOT OPEN EYES OR FOLLOW COMMANDS, NOT WITHDRAWING TO NAIL BED PRESSURE. HEAD CT DONE, PRELIMINARY RESULTS NEGATIVE. 
+
+SLIGHTY TACHYCARDIC IN SINUS ARRYTHMIA, NO ECTOPY. 
+
+FEBRILE TO 101.9. COOLING BLANKET ON. LUNGS BILATERALLY COARSE, MINIMALLY SUCTIONED FOR THICK AND AT TIMES BLOOD TINGED SECRETIONS. CHANGED TO CPAP [**9-21**]. ABG'S STABLE. 
+
+FFPX4 GIVEN WITH IMPROVED INR. SERIAL HCT STABLE. 
+
+LASIX X1 GIVEN WITH GOOD DIURESING. 
+
+PLAN:
+NGT PLACEMENT. MONITOR COAGS AND HCT. FFP AS NEEDED. 
+
+
+",,
+24697,14834,30669,0,3408-10-28 04:44:00 EST,3408-10-28 05:39:00 EST,889,"N",1,"Nursing/Other","SICU NPN:","
+SICU NPN:
+S-Intubated and sedated
+
+SEE CAREVUE FOR ALL OBJECTIVE DATA AND TRENDS IN VITAL SIGNS
+
+O-Sedated on 50mcgs/hr of Fentanyl. Pupils equally sluggish and reactive to light. Not following or repsonding to commands. Does continually bite down on ETT when suctioned. Fentanyl shut off at 0100 for periods of apnea. HR 90-100s, NSR/ST with no ectopy. SBPs 120-160. Nadolol given with affect. CVPs 6-9. Breath sounds coarse. Suctioned frequently for bloody plugs. Switched to AC for continous apnea and CO2 retention with improvement. Abd soft with hypoactive bowels sounds. NGT placed and confirmed by XRAY. TFs started in addition to free H2O boluses. HUO adequate. No further diuresis overnight.  Low grade temps. Cooling blanket on and off. Transfued with 3uFFP for INR of 3.2
+
+A/P:ETOH Cirrhosis c/b bleeding and aspiration PNA. 
+
+Wean as tolerated from vent
+Attempt to hold sedation
+Follow HCT, PLTs, and coags throughout day 
+Continue to support family
+",,
+24697,14834,30669,0,3408-10-28 05:41:00 EST,3408-10-28 05:47:00 EST,1047,"N",1,"Nursing/Other","Respiratory Care:","
+Respiratory Care:
+Patient required a change to A/C ventilatory support from CPAP/PSV due to periods of apnea.  Morning abg results revealed a compensated respiratory acidemia with good oxygenation on the current settings.  
+
+No RSBI measured due to the level of PEEP currently required.
+",,
+24697,14834,30669,0,3408-10-28 16:44:00 EST,3408-10-28 16:45:00 EST,471,"N",1,"Nursing/Other",,"
+
+Resp. care note - Pt. remaines intubated and vented, weaned to PSV unable to tol placed back on AC.
+",,
+24697,14834,30669,0,3408-10-28 17:03:00 EST,3408-10-28 17:09:00 EST,752,"N",1,"Nursing/Other",,"
+
+FOCUS:  CONDITION UPDATE
+D: SEE CAREVUE FOR SPECIFIC VITAL SIGNS/LAB/ASSESSMENTS.
+PATIENT OFF FENTANYL SINCE 0200, HAS NOT WORKEN UP OR RESPONDED TO PAIN OR VOICE ALL SHIFT. DOES HAVE COUGH REFLEX.  TONGUE VERY SWOLLEN, UNABLE TO THOROUGHLY ASSESS GAG--ALTHOUGH SEEMS WEAK AT BEST.
+PUPILS MORE REACTIVE DURING THE DAY, EQUAL AND AROUND 3 MM.
+RESPIRATORY STATUS WORSENING DURING AFTERNOON, WITH DROPPING SATS AND VERY FREQUENT SUCTIONING FOR THICK TENACIOUS SPUTUM.  CURRENTLY ON 60% AND 12 OF PEEP WITH SATS AROUND 95.  MICU TEAM AWARE OF ALL OF ABOVE AND BRONCH (NO SEDATION GIVEN) DONE THIS PM.  NO BLEEDING SEEN, SUCTIONED OUT FOR THICK YELLOW SPUTUM, SENT FOR CULTURE.
+FREE WATER BOLUSES AND LACTULOSE DOSES INCREASED.
+TOLERATING TUBE FEEDS WITH INCREASING BOWEL SOUNDS DURING SHIFT, ALTHOUGH NO BOWEL MOVEMENTS YET.
+FEBRILE ALL DAY, COOLING BLANKET ON. TEAM AWRE.
+INR CONTINUES TO RISE TODAY--TEAM AWARE, NO TREATMENT AS LONG AS NO ACTIVE BLEEDING.  HCT HAS BEEN STABLE.
+FAMILY IN, VERY AWARE OF SITUATION, AS PATIENT'S FATHER DIED OF ALHOLOIC CHIROSSIS.
+P: CONTINUE TO MONITOR RESP STATUS/CHECK LABS AS ORDERED. PROVIDE FAMILY SUPPORT. CALL HO /TEAM WITH ANY CHANGES.
+",,
+24697,14834,30669,0,3408-10-29 04:45:00 EST,3408-10-29 04:48:00 EST,296,"N",1,"Nursing/Other",,"
+
+Resp Care: Pt continues intubated and on ventilatory support with a/c, no vent changes overnoc maintaining persistent resp alkalosis with good oxygenation; bs coarse, sxn thick tan/yell secretions, rsbi held d/t peep level, will wean support as tol.
+",,
+24697,14834,30669,0,3408-10-29 06:03:00 EST,3408-10-29 06:12:00 EST,193,"N",1,"Nursing/Other","NURSING UPDATE","
+NURSING UPDATE
+CV:
+   TEMP RANGE 101.8 TO 100.6, COOLING BLANKET ON CONTINOUSLY.  HR SLOWING TO 80'S NSR, NORMOTENSIVE. HCT STABLE, INR 3.9 IN PM, HO NOTIFIED, NO FFP ORDERED AS LONG AS HCT STABLE.  SANDOSTATIN GTTS CONT. ICA REPLETED.
+
+GI:
+   TUBE FEED TOLERATED WELL, INCREASED TO GOAL OF 40CC/H, GASTRIC RESIDUALS 0CC. LACTULOSE Q2H, BOWEL SOUNDS ACTIVE, PASSING LIQUID MAROON STOOL, GUAIAC POS.  FREE H20 FLUSH CONT Q4H.
+
+RESP:
+   SUPPORTED ON MECH VENTILATION A/C 60%, 550 X 12, PEEP 12. PRESENTING WITH METABOLIC ALKALOSIS 7.54 THIS AM.  SATS 98-100% THROUGHOUT SHIFT, BREATH SOUNDS COARSE, SUCTIONED MOD-> COPIOUS THICK YELLOW->TAN VIA ETT. MOUNT AND NASAL PASSAGEWAYS BLEEDING INTERMITTENTLY.
+
+NEURO:
+   PUPILS EQUAL IN SIZE AND REACTIVITY. NO SPONTANOUS MOVEMENT. UNRESPONSIVE TO PAINFUL STIMULI.
+",,
+24697,14834,30669,0,3408-10-29 15:52:00 EST,3408-10-29 15:52:00 EST,471,"N",1,"Nursing/Other",,"
+
+Resp. care note - Pt. remaines intubated and vented, weaned to PSV tol ok. at this time.
+",,
+24697,14834,30669,0,3408-10-29 17:42:00 EST,3408-10-29 17:52:00 EST,752,"N",1,"Nursing/Other",,"
+
+FOCUS:  CONDITION UPDATE
+D: SEE FLOW SHEET FOR SPECIFIC VITAL SIGNS/LAB VALUES/ASSESSMENT INFORMATION.
+PATIENT REMAINS NON RESPONSIVE WITH WORSENING COUGH REFLEX. PUPILS REMAINS EQUAL AND REACTIVE--TEAM AWARE.
+CONTINUES TO RECEIVE FREE WATER AND D5W WITH IMPROVING SODIUMS. TOLERATING TUBE FEEDS, RECEIVING LACTULOSE Q 2 HRS, HAS NOT REALLY STOOLED MUCH TODAY.
+AM INR 4.2--TEAM AWARE, PLAN IS NOT TO TREAT COAGS UNLESS STARTS TO BLEED.
+SANTOSTATIN OFF, VANCO STARTED.
+R: UNCHANGED. NO SIGNS OF WAKING--HO AWARE.
+WILL CALL WITH ANY CHANGES.
+",,
+24697,14834,30669,0,3408-10-30 05:07:00 EST,3408-10-30 05:12:00 EST,894,"N",1,"Nursing/Other",,"
+
+RESP CARE: pt remains intubated/on vent per carevue. FI02 decreased to.50. Pt having bouts of hiccups throughout the night. Lungs coarse/Sxd copious amts thick green sputum. no RSBI this am due to 10 PEEP
+",,
+24697,14834,30669,0,3408-10-30 06:12:00 EST,3408-10-30 06:27:00 EST,193,"N",1,"Nursing/Other","NURSING UPDATE","
+NURSING UPDATE
+CV:
+   NSR NO ECTOPY. SODIUM DOWN TO 147, FREE H2O BOLUS CONT Q4H, OTHER LYTES STABLE, NO REPLETIONS. INR 4.0 BUT HCT STABLE, NO PRODUCTS TRANSFUSED.
+
+ID:
+   TMAX 101, COOLING BLANKET CONTINUOUSLY, VANCO REGIMEN STARTED. WBC WITHIN NORMAL RANGE.
+
+GI:
+   ACTIVE BOWEL SOUNDS, STOOLING LARGE AMOUNT LIQUID MELENA. TOLERATING TUBE FEED @ GOAL AND FREE H20 BOLUS. NO GASTRIC RESIDUALS.
+
+NEURO:
+   NO NEURO IMPROVEMENTS, PUPILS REMAIN EQUAL IN SIZE AND REACTIVITY, BUT NO SPONTANEOUS MOVEMENT AND REMAINS UNRESPONSIVE TO PAINFUL STIMULI.
+
+RESP:
+   BREATH SOUNDS COARSE, SECRETIONS CHANGED FROM THICK YELLOW TO THICK GREEN, CONTINUES TO BLEED FROM GUMS/ORAL CAVITY, AND NASAL PASSAGEWAYS. 
+",,
+24697,14834,30669,0,3408-10-30 16:41:00 EST,3408-10-30 16:50:00 EST,6779,"N",1,"Nursing/Other","Nursing Note--A Shift","
+Nursing Note--A Shift
+Please see Carevue for complete assessment and specifics:
+
+NEURO: Unresponsive. Does not open eyes or withdraw to noxious stimuli. PERRLA 3 and brisk. Does not blink to threat, does not track.
+Weak corneals, (-) gag, +cough.
+
+RESP: LS coarse. Deep sxn for copious amts of thick yellow/green secretions. Copious amts of blood tinged secretions from nares and mouth. Tol vent settings.
+
+Cardiac: Tmax 99.8. Cooling blanket on through out shift. Diaphoretic at times. HR 70-90's NSR. SBP 100-130's.  +PP P-boots on.
+
+GI: Abd soft +BS. Tol TF at goal. Large amts of melena stool in rectal bag.  
+
+GU: Foley intact draining qs icteric urine.  
+
+INTEG: Jaundiced skin and sclera. Generalized edema throughout. Skin
+ cdi. 
+
+PSYCH/SOCIAL: Family at bedside for most of the afternoon. Very supportive to patient. MD [**First Name (Titles) **] [**Last Name (Titles) **] spoke with family re: plan of care.
+
+PLAN: Monitor neuro status, Monitor labs and hemodynamics, Attempt to wean vent tomorrow, provide extra comfort and support to patient and family.
+",,
+24697,14834,30669,,3408-10-31 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3408-10-31**] 7:54 AM
+     LIVER OR GALLBLADDER US (SINGLE ORGAN) PORT; DUPLEX DOPP ABD/PELClip # [**Telephone/Fax (1) 5172**]
+     Reason: please evaluate TIPS flow by doppler and compare with prior 
+     Admitting Diagnosis: GASTROINTESTINAL BLEED
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      45 year old man with EtOH abuse p/w gastric varices and alcoholic hepatits s/p 
+      TIPS                            
+     REASON FOR THIS EXAMINATION:
+      please evaluate TIPS flow by doppler and compare with prior study.              
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  History of EtOH abuse, with gastric varices and alcoholic
+     hepatitis, status post TIPS.  Evaluate TIPS.
+     
+     COMPARISON:  [**3408-10-26**].
+     
+     DOPPLER STUDY OF THE LIVER:  The liver demonstrates a diffusely coarsened and
+     nodular appearance, consistent with cirrhosis.  No focal lesion identified.
+     The gallbladder wall demonstrates edema, consistent with chronic liver
+     disease.  No gallstones, pericholecystic fluid, or gallbladder distention is
+     identified.  There is a trace amount of perihepatic ascites.
+     
+     Doppler sonography was performed of the liver.  Wall-to-wall flow was
+     demonstrated within the TIPS.  Peak systolic velocities within the proximal,
+     mid, and distal portions of the TIPS were 70, 130, and 165 cm per second.  The
+     main portal vein was patent, demonstrated centripetal flow, and had peak
+     systolic velocity of 26 cm per second.  There was reversed flow within the
+     left portal vein and the anterior branch of the right portal vein.  The IVC
+     and hepatic veins are patent.
+     
+     IMPRESSION:
+     1.  Normal functioning TIPS, which demonstrates wall-to-wall flow and normal
+     peak systolic velocities.
+     2.  Coarsened appearance to the liver, consistent with cirrhosis.
+     3.  Gallbladder wall edema, consistent with underlying chronic liver disease.
+     4.  Trace ascites.
+
+",,
+24697,14834,30669,0,3408-10-31 05:36:00 EST,3408-10-31 05:44:00 EST,193,"N",1,"Nursing/Other","NURSING UPDATE","
+NURSING UPDATE
+CV:
+   TMAX 100.7 WITH CONTINUOUS COOLING BLANKET,  NSR AND NORMOTENSIVE.  ICA++ REPLETED. HCT STABLE, COAGS STILL PENDING AT THIS TIME.
+
+GI:
+   TUBE FEED TOLERATED AT GOAL UNTIL 0100, NPO SINCE IN PREP FOR PORTABLE USS OF GALL-BLADDER AND [**Last Name (un) **] @ 0800.
+
+RESP:
+   MAINTAINED ON A/C.  BREATH SOUNDS COARSE THROUGHOUT.  SXN FREQUENTLY FOR THICK GREEN SECRETIONS.  METABOLIC ACIDOSIS PERSISTS 7.50/39/93/31/+6.
+
+NEURO:
+   NO CHANGE.  UNRESPONSIVE EVEN TO PAINFUL STIMULI. PUPILS 3MM EQUAL IN SIZE AND REACTIVITY. 
+",,
+24697,14834,30669,0,3408-10-31 05:38:00 EST,3408-10-31 05:42:00 EST,1047,"N",1,"Nursing/Other","Respiratory Care:","
+Respiratory Care:
+Patient remains on A/C ventilatory support, and was able to be weaned down to an FIO2 of 40%.  No other parameters were changed.  Morning abg results determined a metabolic alkalemia with a good oxygenation level.  
+
+No RSBI measured at this time due to the level of PEEP required.
+",,
+24697,14834,30669,0,3408-10-31 16:30:00 EST,3408-10-31 16:58:00 EST,804,"N",1,"Nursing/Other","FOCUS: STATUS UPDATE","
+FOCUS: STATUS UPDATE
+DATA:
+SEE CAREVUE FOR DETAILS. 
+
+UNRESPONSIVE TO VOICE, DOES NOT OPEN EYES OR FOLLOW COMMANDS. NOT WITHDRAWING TO NAIL BED PRESSURE. 
+
+LUNGS CLEAR BILATERALLY. SUCTIONED FOR BILIOUS DRAINAGE. MEDICAL TEAM AWARE. AC VENT 500X12 PEEP10, OVERBREATHING AT RR 18. EPISODE OF DESAT TO 80'S, AMBUED, SUCTIONED AND PLACED ON 100% FOR SHORT WHILE. ABG'S AND CXR OK. CURRENTLY BACK ON 50%FIO2 WITH SATS 98-100. 
+
+CONTINUES TO BE FEBRILE-LOW GRADE THIS AFTERNOON. WILL CONTINUE TO KEEP COOLING BLANKET OFF AND CALL MEDICAL TEAM WHEN/IF PT. TEMP>101. 
+
+ABD. ULTRASOUND DONE AT BEDSIDE. TUBE FEEDS RESTARTED THIS AFTERNOON AFTER NGT PLACEMENT RECONFIRMED BY X-RAY--UNABLE TO AUSCULATE PLACEMENT. NGT FREE WATER BOLUSES RESUMED. IVF STOPPED. 
+
+URINE OUTPUT MARGINAL THIS AFTERNOON, CONTINUES TO BE ICTERIC. 
+
+PLAN:
+MONITOR FEVERS. PLACE NGT TO SUCTION INTERMIT. Q4HR WHEN ASSESSING RESIDUAL TO HELP DECOMPRESS STOMACH. CONTINUE FREE WATER BOLUSES. 
+",,
+24697,14834,30669,0,3408-10-31 18:30:00 EST,3408-10-31 18:37:00 EST,175,"N",1,"Nursing/Other",,"
+
+Respiratory Care:
+Pt remains on CMV. He had what seemed to be a O2 crisis today but this may have been a problem with the O2 sat pick up bt the O2 sensor ??
+He is at present with a good O2. the OET was inserted aprox 1.5-2cms
+at the MD's request. The las ABG = 7.48  39  284 After the problem was resolved. Check CareVue for details.
+",,
+24697,14834,30669,0,3408-11-01 05:06:00 EST,3408-11-01 05:13:00 EST,388,"N",1,"Nursing/Other","nsg note","
+nsg note
+SEE FLOWSHEET FOR SPECIFICS. 
+
+NEURO-PT UNRESPONSIVE BUT DID FLUTTER EYELIDS WHEN TURNED. PERRL. FLEX/WITHFDRAWS ARMS TO NAIL BED PRESSURE. NO RESPONSE IN LEGS. NO SPONT MOVEMENT NOTED. 
+
+CV-HR 70-80'S, NSR, NO ECTOPY. SBP STABLE. SKIN WARM, DAMP AT TIMES. +PP. + EDEMA THROUGHOUT. HCT STABLE. PLTS REMAIN LOW. 
+
+RESP-NO VENT CHANGES OVER NOC. LS CLEAR TO COARSE. SXN PRN FOR SM AMT THICK BRIGHT GREEN SPUTUM. ALSO MOD AMT ORAL SECRETIONS. O2 SAT 95-98%. 
+
+GI-ABD SOFTLY DISTENDED. +BS. TOL TF AT GOAL WITH MIN RESIDUALS. HAS FIB IN PLACE WITH LIQ BROWN STOOL. REMAINS ON FREE H2O BOLUSES. JAUNDICED. 
+
+GU-VOIDING VIA FOLEY. U/O LOW. TEAM AWARE. WILL CON'T TO MONITOR. URINE ICTERIC. 
+
+ID-TMAX 99.8. REMAINS ON ABX. 
+
+A-STABLE. 
+
+P-CON'T WITH CURRENT PLAN. MONITOR FOR CHANGES. FOLLOW LABS. SUPPORT. MONITOR NEURO STATUS. FOLLOW TEMP. 
+
+
+",,
+24697,14834,30669,0,3408-11-01 15:29:00 EST,3408-11-01 15:43:00 EST,940,"N",1,"Nursing/Other","Condition Update","
+Condition Update
+D: See carevue flowsheet for specifics
+ Patient continues to run low grade temps with tmax 99.6. Pt was pan cultured again-blood cx (peripheral/line), urine, sputum, stool sent. HR in NSR with rate 70's. SBP running ~100(following cuff-aline not correlating). CVP 5-10. A couple of 500cc fluid bolluses were given d/t low urine output with no effect. Foley was flushed with 120cc and got 120cc returned. Renal has been consulted. Labs will be checked again at 1800. Urine lytes were sent and are pending at this time. 
+ CXR was done and still shows LL consolidation. Sputum is thick/green. No vent changes were made today remains on AC 500x12 fio2 40% pt breathing comfortably over vent with RR 16.
+ Pt's neuro status is unchanged he is unarousable very slight withdrawal to pain sometimes with nail bed pressure. With mouth care or suctioning pt does shake head but does not open eyes on command. Pupils are equal/reactive but left one has some redness-MICU team is aware and want to cont to monitor it at this time. 
+ Wife was updated regarding all current issues by MICU resident.
+PLAN:
+ Check labs this eve
+ Pulmonary toilet
+ ? awaiting renals consult to determine plan re: low uo
+ f/u with urine lytes
+ Notify H.O. with any changes
+",,
+24697,14834,30669,0,3408-11-01 17:06:00 EST,3408-11-01 17:07:00 EST,102,"N",1,"Nursing/Other",,"
+
+resp care
+remains intub/vented in ac mode. no vent changes today. sxned for bright green/bilious thick sputum. lg amt tan/brown thick oral secretions. pt assisting set rate ,comfortable on above settings. 
+",,
+24697,14834,30669,0,3408-11-02 05:22:00 EST,3408-11-02 05:26:00 EST,5267,"N",1,"Nursing/Other",,"
+
+Respiratory Therapy
+Pt remains orally intubated on A/C. no vent changes overnight. BS slight coarse. Sx for sml to moderate bright green secretions. Plan: wean as tol.
+",,
+24697,14834,30669,0,3408-11-02 06:20:00 EST,3408-11-02 06:29:00 EST,804,"N",1,"Nursing/Other","FOCUS: STATUS UPDATE","
+FOCUS: STATUS UPDATE
+DATA:
+MOVING HEAD TO STIMULI SUCH AS SUCTIONING. DOES NOT OPEN EYES, DOES NOT FOLLOW COMMANDS. WITNESSED R ARM GROSS MOVEMENT X1. PERL.
+
+LUNGS SLIGHTLY COARSE AT TIMES. CONTINUES ON AC VENT-NO CHANGES OVERNIGHT. SUCTIONED FOR GREEN/BILIOUS SPUTUM. 
+
+TOLERATING TUBE FEEDS AT GOAL RATE. NGT TO SUCTION Q4HR TO CHECK RESIDUALS AND DECOMPRESS STOMACH. CONT. W/NGT FREE WATER BOLUSES.
+
+LOW URINE OUTPUT DESPITE ALBUMIN Q4HRS AND IVF BOLUSX1. 
+
+LACTULOSE TO ACHIEVE 3-4BM'S PER DAY. 
+
+PLAN:
+FOLLOW UP RE: INCREASED BUN/CREAT. CONT ALBUMIN. 
+",,
+24697,14834,30669,0,3408-11-02 15:56:00 EST,3408-11-02 15:59:00 EST,962,"N",1,"Nursing/Other","Respiratory Care","
+Respiratory Care
+Pt remains on full ventilatory support. Increasing FI02 to 70% as noted on Carevue for a period of desaturation. Suctioning moderate amounts of light green colored secreations. Breath sounds scattered/coarse.
+",,
+24697,14834,30669,0,3408-11-02 17:10:00 EST,3408-11-02 17:24:00 EST,940,"N",1,"Nursing/Other","Condition Update","
+Condition Update
+D: See carevue flowsheet for specifics
+ Pt's tmax 99.9, HR remains in NSR with no ectopy 70's. BP has slowly risen throughout the day. Did not receive any IVF bolluses, in fact IVF were d/c'd and plan is currently to use albumin and blood products. Pt was transfused with 1u PRBC not for low hct but to increase intervascular volume. Renal would like to keep SBP>120, if not acheived with transfusion and albumin they recommend to start pressors. Pt's weight is up and is still >4L+ already for the day. Urine output is better but still marginal ~25-30cc/hr. Current BP 120/66. MICU team did not want to check any labs this afternoon/evening and next labs are ordered for AM. Renal team obtained consent from wife tonight in case it's necessary to start dialysis tomorrow. Pt still does not have any dialysis access and would require FFP to correct INR prior to line insertion. Wife is aware of possibility of having to start dialysis tomorrow.
+ Pt is still on AC for ventilation 550x12 breathing on average 18bpm. Pt's sats did drop down to 90% and did not come up with suctioning so FiO2 was increased from 50% to 70% and sats are currently 96%. Pt is requiring frequent suctioning for very thick green/becoming more brown secretions. CPT done a few times today.
+ Pt is tolerating TF today. Laculose was given a couple of times and FIB leaked after being incontinent of a large amt of loose stool. FIB was replaced and emptied for 200cc of loose golden stool. Cdiff spec was resent early this am. 
+ Neurologically pt appears a little lighter today. Moving head a lot more and seems to move it to voice stimulation and definitely to physical stimulation. Pt moves BUE on bed to nail bed stim -no movement noted in BLE. Pupils remain equal and reactive.
+ Family (wife, son, mother, 2 sisters, and nephew were in to visit) renal MD updated wife as to current plan. Social worker also stopped by to speak with wife and assist in filling out some forms.
+PLAN:
+ May need to start dialysis tomorrow
+ Per Renal keep SBP>120 with albumin and if not effective start pressor
+ Lactulose titrate for 3-4BM's/day
+ Frequent CPT and pulmonary toilet
+ Notify H.O. with any changes
+",,
+24697,14834,30669,0,3408-11-03 05:37:00 EST,3408-11-03 06:10:00 EST,804,"N",1,"Nursing/Other","FOCUS; STATUS UPDATE","
+FOCUS; STATUS UPDATE
+DATA;
+PT AROUSABLE TO STIMULI. OPENS EYES TO PAIN. MOVES ALL EXTREMITIES SLIGHTLY IN BED WITH RIGHT ARM STRONGER. VERY JERKY, SUDDEN MOVEMENTS WITH HIS HEAD AT TIMES. 
+
+LUNGS VERY COARSE BILAT WITH RHONCHI. CONTINUES AT 70% AC VENT. SUCTIONED FOR COPIOUS AMOUNTS OF BILIOUS THICK SECRETIONS--DARKER THAN YESTERDAY. 
+
+MAP 70'S-80'S PRIMARILY WITH DECREASES TO 60'S WHICH DR. [**First Name (STitle) 337**] IS AWARE OF. 
+
+CONTINUES TO TOLERATE TUBE FEEDS AT GOAL RATE. NGT TO INTERMIT SUCTION Q4HRS. TO DECOMPRESS STOMACH. FREE WATER PER NGT Q6HRS.
+
+URINE OUTPUT BORDERLINE TO LOW--DR. [**First Name (STitle) 337**] AWARE. CONTINUES ON ALBUMIN Q4HRS. LACTULOSE TO ACHIEVE [**2-12**] BM'S /DAY. GOLDEN STOOL VIA FIB. C-DIFF CX #2 SENT.
+
+PLAN:
+POSSIBLE CVVH TODAY. CONTINUE TO MONITOR BP AND NEED FOR PRESSOR SUPPORT.  
+",,
+24697,14834,30669,0,3408-11-03 17:18:00 EST,3408-11-03 17:22:00 EST,7438,"N",1,"Nursing/Other",,"
+
+Resp Care
+Pt remains intubated on SIMV. Pt taken off A/C and placed on PSV for most of the day, then placed on SIMV  @ 1600 to give Pt a rest. Suctioned Pt for large amt thick green secretions. Decreased PEEP from 10 to 8 and drop FIO2 from 70 to 60, then increased PEEP back to 10 due to worsening PO2. No other changes made.
+",,
+24697,14834,30669,0,3408-11-03 17:18:00 EST,3408-11-03 17:29:00 EST,208,"N",1,"Nursing/Other",,"
+
+NEURO: OPENS EYES MORE FREQUENTLY, GAZE MORE FOCUSED THIS PM, BUT DOES NOT FOLLOW COMMANDS, WITHDRAWS ALL EXTREM TO NAILBED PRESSURE, BUT LOWER EXTREMITIES ARE LESS BRISK TO STIMULI THAN UKPPER, PERL, POSTIVE CORNEAL, POSITIVE GAG AND COUGH, 
+
+RESPIR; PRESENTLY ON SIMV MODE WITH 10 PS, AT BEGINNING OF SHIFT WAS ON A/C BUT WAS OVERBREATHING AND ABGS REFLECTED RESP ALKALOSIS, PLACED ON C-PAP PER MICU TEAM OKAY WITH 8 PEEP AND 12 PS, FI02 DECREASED TO 60%, ABGS REMAINED STABLE BUT P02  DECREASED TO 76 WITH PC02 OF 34, AT THAT TIME, PS> TO 15 WITH PEEP UP TO 10; RPT ABG REFLECTED DECREASED IN PC02 TO 27 WITH BICARB DOWN TO 19, CHANGED TO SIMV MODE OF VENTILATION PER MICU H.O., PRESENTLY PC02 IMPROVED TO 30 WITH BICARB AT 20 ON PS 12 AND PEEP OF 10, RESPIR THERAPIST HAS DECREASED PS TO 10 AND RPT ABGS  WITHIN THE HR, SX FOR THICK GREEN BILIOUS MATERIAL-REPORTED TO MICU TEAM
+
+CARDIOVASCULAR; HR 70'S SR, TEMP MAX 99.4  SYS BP OCCAS DOWN TO 88-90'S, MICU TEAM WILL ACCEPT MAP 60 OR >, HAS BEEN OFF PRESSORS, CVP 14-20, GENERALIZED EDEMA, 
+
+RENAL; U/O 20-30CC/HR,AVERAGE, CVVHD DISCUSED WITH FAMILY BY RENAL TEAM, WILL BE DEFERRED FOR TODAY AND RE-EVALUATE, BUN AND CREAT REMAIN ELEV, 
+
+GI; TUBE FEEDS AT GOAL, RESIDUAL 10-40CC/HR, GOOD AUDIBLE AIR ENTRY ON AUSCULTATION, ABD SL FIRM AND DISTENDED,
+
+ENDOCRINE; BS 92-94
+
+SOCIAL; WIFE AND FAMILY MEMBERS IN TODAY, RENAL MD SPOKE WITH WIFE REGARDING POOR PROGNOSIS EVEN WITH CVVHD THERAPY, PT'S WIFE WANTS FULL RX HOWEVER
+
+PLAN; PULMONARY AND RENAL SUPPORT, ? CVVHD IN FUTURE, MAINTAIN STIMULATION AND NEURO CHECKS TO HOPEFULLY IMPOVE L0C, MAINTAIN MAP 60 OR >
+",,
+24697,,30669,0,3408-11-04 04:13:00 EST,3408-11-04 04:28:00 EST,940,"N",1,"Nursing/Other","Condition Update","
+Condition Update
+D: See carevue flowsheet for specifics
+ Patient tmax 99.9. HR 70's NSR with no ectopy. BP fluctuating btwn SBP in 80's when asleep up to 150's when suctioned but consistently in 90's. MAP maintained>60 with no intervention. CVP running ~14 and pt making ~35cc of urine an hour. Continues to receive albumin Q4hrs. All labs continue to indicate worsening hepatorenal syndrome. Ionized calcium persistently low and requiring frequent repletion.
+ No vent changes made overnight and abg indicates compensated resp alkalosis. Pt was suctioned overnight for copious amts of thick green sputum. 
+ Upon receiving pt NGT was clogged. Papane was instilled as much as possible but unable to unclogg tube. Dr. [**Last Name (STitle) 638**] notified but d/t pt's hypercoagulated state decided to leave current tube in place to avoid risk of bleed upon removal since replacement tube would not be placed without correcting coags and resident wants to wait until day shift to address issue. Therefore TF were off all night and no po meds were given. Pt still had +stool and required FIB to be changed. Skin around rectum macerated and some sloughing noted. 3M barrier wipes used to protect skin and FIB was replaced.
+ Neurologically presenting lighter then previous 24hrs -opens eyes to voice but does not follow any commands. Withdraws all extremeties to nailbed pressure. Pt noted to be having a lot of muscle twitches. 
+ Wife expressing frustration with the worsening of renal status and that MD's have been talking about starting CVVHD but have not taken any action at this time. Wife would like to proceede with dialysis as soon as possible. 
+PLAN:
+ Social worker may need to plan family meeting including MICU, Renal and Liver teams
+ ? start CVVHD
+ maintain MAP>60
+ ? correct coags and replace NGT and place dialysis cath
+ Minimize fluid
+ Pulmonary toilet
+ Notify H.O. with any changes
+",,
+24697,,30669,0,3408-11-04 04:49:00 EST,3408-11-04 04:51:00 EST,6507,"N",1,"Nursing/Other","Resp Care","
+Resp Care
+Pt remains on vent and intubated with #8 ett @ 29. suctioned mod amt of thick green secretions. Decreased fio2 based on gases. ABGs WNL. Will continue to monitor.
+",,
+24697,,30669,0,3408-11-04 16:59:00 EST,3408-11-04 17:00:00 EST,7438,"N",1,"Nursing/Other",,"
+
+Resp Care
+Pt remains intubated on CMV. Pt made DNR and family planning to withdraw care.
+",,
+24697,,30669,0,3408-11-04 17:11:00 EST,3408-11-04 17:33:00 EST,7740,"N",1,"Nursing/Other","Nursing Note","
+Nursing Note
+NEURO:PT LETHARGIC, OPENS EYES, NOT FOLLOWING COMMANDS, CONT WITH GROSS MUSCLE TWICHING. RETAINS CORNEAL REFLEX, PERRL, WITHDRAWS TO PAIN
+
+CVS:SBP OCCASIONALY 80'S, INCREASED WITH STIMULATION, ALBUMIN CONT, HR 70'S-80'S, NSR, T-MAX 99.4,MAINTAINING MAP>60 MOST OF DAY, INR ELEVATED, HCT & PLATELETS LOW, REPLETION DEFERRED, GEN EDEMA
+
+RESP: VENT SETTINGS UNCHANGED, REGULAR SUCTIONING OF GREEN BILIOUS AND BROWNISH DRAINAGE, ORALLY SUCTIONED PRN
+
+GI:NGT REMAINS CLOGGED, NG MEDS HELD-OK PER MICU TM, BOWEL SNDS HYPOACTIVE, RECTAL BAG WITH MIN GRN STOOL-INTACT, 
+
+PSYCHOSOCIAL:RENAL,MICU, HEP TM, NURSING,SOCIAL WORK MET WITH PTS FAMILY THIS PM-DISCUSSED PT PROGNOSIS, FUTILITY OF CVVHD FOR QOL, POTENTIAL TO EXTUBATE PT WHEN FAMILY PRESENT LATER THIS PM, PRESENTLY DNR STATUS
+
+PLAN: MAINTAIN PT COMFORT, FAMILY SUPPORT, RESP/CARIOVASCULAR SUPPORT, MONITOR VITALS, PLANNED EXTUBATION THIS PM PENDING MD ORDER AND FAMILY ARRIVAL 
+",,
+24697,,30669,0,3408-11-04 21:31:00 EST,3408-11-04 21:42:00 EST,5193,"N",1,"Nursing/Other",,"
+
+[**3408-11-4**] 1900
+    PT AT THIS TIME IS A DNR AND WHEN MOTHER ARRIVES PT TO CMO STATUS PER MEDICAL RESIDENT MSO4 STARTED AT 20 MG PER HOUR NEURO PT RESTLESS GAGGING ON VENT NOT FOLLOWING ANY COMANDS WITHDRAWES TO PAIN ONLY WIFE AT BEDSIDE WITH MANY FAMILY MEMBERS ALL IN AGGREEMENT TO WITHDRAW VENT AND ALLOW PT TO DIE
+    MSO4 AND ATIVAN GIVEN VENT TO ROOM AIR AND RATE TO 4 [**Name8 (MD) **] MD ORDER PT EXPIRED AR 2040 BRADY TO NO HEART RATE 
+",,
+24697,,30669,0,3408-11-04 21:35:00 EST,3408-11-04 21:36:00 EST,6507,"N",1,"Nursing/Other","Resp Care","
+Resp Care
+Pt on cmo. support withdrawn. Pt expired with family at bedside.
+",,
+24697,,30669,0,3408-11-04 21:43:00 EST,3408-11-04 21:45:00 EST,5193,"N",1,"Nursing/Other",,"
+
+[**3408-11-4**] ADDED NOTE ORGAN BANK CALLED NOT A CANIDATE ALSO NO AUTOPY
+",,

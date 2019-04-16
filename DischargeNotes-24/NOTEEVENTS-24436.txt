@@ -1,0 +1,288 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+24436,21847,,,2540-07-13 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+
+Admission Date:  [**2540-7-13**]       Discharge Date:  [**2540-7-19**]
+
+Date of Birth:   [**2460-10-26**]       Sex:  M
+
+Service:  CCU
+
+CHIEF COMPLAINT:  Hypercarbic respiratory arrest status post
+ET tube placement.
+
+HISTORY OF PRESENT ILLNESS:  This is a 79-year-old man,
+without previously documented coronary artery disease, who
+presented to [**Hospital 770**] Hospital on [**7-12**] after developing
+chest pain while getting an abdominal MRI.  On arrival to
+[**Hospital1 770**], he was complaining of chest pain but otherwise was
+a poor historian.  Heart rate was 62, blood pressure 151/95,
+oxygen saturation 94%.  He was reportedly pain free with
+sublingual Nitroglycerin in the Emergency Room.
+Electrocardiogram revealed new inferolateral biphasic
+T-waves, and the patient was started on Aspirin, Lovenox, and
+Nitroglycerin drip, and was admitted to the Intensive Care
+Unit.
+
+During the hospitalization, the patient ruled in with a peak
+CK of 308 on arrival.  The troponin was negative.  On the
+morning of [**7-13**], the patient had recurrent chest pain
+with deep T-wave inversions inferolaterally.  The patient was
+seen by Cardiology and started on Heparin and Aggrastat, with
+plans for transfer to [**Hospital6 84**]
+for left heart catheterization.
+
+On transport to [**Hospital6 84**], the
+patient reportedly was agitated and received 2 g Ativan plus
+or minus Morphine Sulfate, but it was not documented
+properly.  He was found in the holding area to be minimally
+responsive, although hemodynamically stable with spontaneous
+respirations.  He was given Narcan without effect.  Arterial
+blood gases revealed 7.20, pCO2 of 93, pO2 of 272, on
+non-rebreather, consistent with hypercarbic respiratory
+failure.  The patient was intubated and taken to the CCU for
+further management.
+
+PAST MEDICAL HISTORY:  Significant for history of syncope,
+benign prostatic hypertrophy, and gastroesophageal reflux
+disease.
+
+MEDICATIONS:  He was not on any medications at home.  On
+transfer he was on Aspirin 325 p.o. q.d., Lopressor 12.5 p.o.
+b.i.d., Lipitor 10 p.o. q.d., Lovenox 70, Nitroglycerin drip,
+Aggrastat drip, Pepcid 20 p.o. q.d., Zantac 150 mg p.o.
+b.i.d.
+
+ALLERGIES:  NO KNOWN DRUG ALLERGIES.
+
+SOCIAL HISTORY:  He lives at home with his wife.  He is a
+retired [**Hospital Ward Name **].  He has occasional alcohol use.  Tobacco
+history of one pack per week.
+
+PHYSICAL EXAMINATION:  General:  He was a thin, elderly man,
+intubated and sedated, status post ET tube placement.  Vitals
+signs:  Temperature 97.8��, blood pressure 137/71, pulse 76,
+assist control at 12, total volume of 600, FI02 100%, PEEP 5.
+HEENT:  He was anicteric with pinpoint pupils.  He had marked
+jugular venous distention.  Lungs:  Clear to auscultation
+anteriorly and laterally with good air movement bilaterally.
+Heart:  Regular, rate and rhythm.  Occasional pauses.  S1 and
+S2.  Questionable S3.  No murmurs or rubs.  Abdomen:  Soft
+and nontender.  Active bowel sounds.  Extremities:  No
+clubbing, cyanosis or edema.  Faint pulses of dorsalis pedis
+and posterior tibial.  Neurological:  He was sedated.  He
+moved all four extremities spontaneously.  He was not
+arousable status post ET tube placement.  He did not
+withdrawal to pain in the arms.
+
+LABORATORY DATA:  On admission white blood cell count was
+5.0, hematocrit 33.8, platelet count 240,000; CHEM7 notable
+for a creatinine of 1.5, which later dropped to 1.1; CK on
+admission was 308, with an MB fraction of 10, index 3.3, the
+CK later dropped to 295 and then 263, troponin less than 0.3;
+urinalysis was negative.
+
+Electrocardiogram on arrival to [**Hospital1 770**] revealed
+questionable atopic atrial beats at 65, left axis deviation,
+Q-waves in V1 and V2, left ventricular hypertrophy, and
+inferolateral biphasic T-waves.
+
+On arrival to [**Hospital6 84**], he was in
+sinus rhythm in the 70s with slight pauses, left anterior
+descending with poor R-wave progression, slight biphasic
+T-waves inferiorly and laterally.
+
+Chest x-ray at [**Hospital1 770**] per report was negative.
+
+HOSPITAL COURSE:  The patient was admitted, and left heart
+catheterization was postponed on the day of admission because
+the patient was sedated and unable to give consent.  It was
+later postponed because of an episode of hemoptysis late
+Thursday night into early Friday morning.
+
+Left heart catheterization was finally done on [**2540-7-18**].  This revealed mildly elevated left ventricular and
+diastolic pressure.  Left ventriculography revealed global
+hypokinesis, with an ejection fraction of 40%.  Codominant
+anatomy with left main coronary artery patent, left anterior
+
+descending with minimal irregularity, left circumflex with
+minimal luminal irregularity, and right coronary with
+proximal 40% lesion.
+
+Other issues during the hospitalization included agitation in
+the patient at times which was treated successfully with
+Haldol and a 1:1 sitter.  The patient was initially on
+Aggrastat, Heparin drip, and Nitroglycerin drip, and these
+were all stopped, and all of his cardiac medications were
+discontinued after the left heart catheterization revealed
+insignificant coronary artery disease.  After
+catheterization, the right groin site revealed no hematoma
+and no bruit.
+
+DISCHARGE STATUS:  The patient is stable.
+
+DISCHARGE PLAN:  The patient is to be discharged either to
+home or to a nursing rehabilitation center on no medications,
+just as he entered the hospital, with follow-up with his
+primary care physician.
+
+DISCHARGE DIAGNOSIS:  Chest pain of unknown etiology.  The
+patient did not have a myocardial infarction.  The patient
+did not have unstable angina.
+
+
+
+
+
+                            [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **], M.D.  [**MD Number 1783**]
+
+Dictated By:[**Name8 (MD) 5373**]
+MEDQUIST36
+
+D:  [**2540-7-19**]  11:12
+T:  [**2540-7-19**]  12:18
+JOB#:  [**Job Number 5374**]
+Signed electronically by: DR. [**First Name11 (Name Pattern1) **] [**Initials (NamePattern4) **] [**Last Name (NamePattern4) **]
+ on: MON [**2540-9-5**] 7:50 PM
+(End of Report)
+
+
+",,
+24436,21847,,,2540-07-13 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2540-7-13**] 7:56 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 2606**]
+     Reason: s/p ETT for hypercarbic resp failure. Please check ETT place
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      79 year old man with CAD
+     REASON FOR THIS EXAMINATION:
+      s/p ETT for hypercarbic resp failure. Please check ETT placement
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:   ET tube placement. Respiratory failure.
+     
+     CHEST, SINGLE VIEW
+     
+     There are no prior studies for comparison.
+     
+     The patient has been intubated and the ET tube lies 2.7 cm above the carina.
+     The lungs are grossly clear and no pleural effusions are seen. No pneumothorax
+     is present.
+     
+     IMPRESSION:
+     
+     1. ET tube placement 2.7 cm above the carina.
+
+",,
+24436,21847,30332,0,2540-07-13 22:28:00 EST,2540-07-13 22:51:00 EST,-1,"N",53,"Nursing/Other","CTIC/SICU ADMIT NOTE:","
+CTIC/SICU ADMIT NOTE:
+
+
+S/O:
+HPI: [**Name8 (MD) **] MD NOTES, PT @ MRI FOR ?PANCREATIC MASS, C/O CP, TREATED [**7-12**] @ [**Hospital 351**] HOSP AND TRANSFERRED TO [**Hospital1 3**] FOR CARDIAC CATH TODAY. EN ROUTE TO [**Hospital1 3**], PT REC'D ?2MG ATIVAN FOR AGITATION/COMBATIVENESS AND BECAME MINIMALLY RESPONSIVE W/ POOR ABG, THEREFORE INTUBATED --> REC'D IN CTIC/SICU @ 18:20 INTUBATED, STABLE.
+
+PMH: GERD, BPH, SYNCOPE, ?ALZHIEMERS/DEMENTIA, ? PANCREATIC MASS.
+
+MEDS: NONE @ HOME PER CHART.
+
+REVIEW OF SYSTEMS:
+NEURO: RESPONDS TO STIMULI, GRIMACING. PUPILS PINPOINT AND REACTIVE. PROPOFOL GTT STARTED AND D/C'D AFTER TREATMENTS DONE. IV FLUMAZENIL GIVEN, PT RESPONDED TO NAME, SQUEEZED HAND. 
+
+CV: INITIALLY IN A-FIB W/ FREQUENT PVC'S. K 3.2 ON ARRIVAL. K ADDED TO IVF'S AND 40meq POGT GIVEN. PVC'S RARE. NITRO GTT @ 200MCG/MIN, INCREASED TO 230 FOR INCREASED BP. LOPRESSOR 5MG x1 IV GIVEN WITH GOOD EFFECT. HR STABLE @ 55-65. HANDS/FEET COOL TO TOUCH, +PULSES. NO EDEMA. CPK 314. TROPONIN NEG.
+
+RESP: BBS CTA. INTUBATED A/C 600x12/50%/PEEP 5. ORALLY SECRETIONS SUCTIONED. RESPS EVEN/UNLABORED.
+
+GI: NPO. +BS. ABD SOFT, NON-DISTENDED. OGT INSERTED -->LWS W/ BILIOUS DRAINAGE INITIALLY. BLOODY DRAINAGE NOTED @ 22:30, MD CALLED AND LAVAGED. PROTONIX ORDERED.
+
+RENAL: FOLEY -->GRAVITY. ADEQUATE AMTS CLEAR YELLOW URINE. K REPLETED POGT, NOW 3.8. CA REPLETED. 
+
+HEME: HCT STABLE @ 31. PT/PTT 13.7/17.8. HEPARIN GTT STARTED @ 20:40. AGGRESTAT GTT @ 7CC/HR. PT/PTT DUE @ 02:30.
+
+ID: AFEBRILE. WBC 7.6
+
+SKIN: INTACT.
+
+LINES: R & L LOWER ARM PIV'S. R RAD A-LINE.
+
+SOCIAL: NO CALLS FROM FAMILY. APPARENTLY A NEPHEW W/ POWER OF ATTORNEY? NAME. ? WIFE?
+
+PROPHYLAXIS: HEP/AGGRESTAT GTT. PROTONIX. ASA. 
+
+A/P: INTUBATED, STABLE ON GTTS. MONITOR LYTES, CV STATUS AND ALL PARAMETERS. ASSESS FAMILY SITUATION. 
+",,
+24436,21847,30332,0,2540-07-14 03:47:00 EST,2540-07-14 03:53:00 EST,3806,"N",53,"Nursing/Other","Respiratory care 7P>7A:","
+Respiratory care 7P>7A:
+8.0 OET patent/secure.  B/S with few scattered, fine crackles, mostly at the bases.  ETS for small, red mixed secretions.  ABG's hyperoxygenated with essentially normal range acid-base (increased HCO3).  Weaned FIO2 this shift with some effect, but oxygenation remains >200torr.  Pt. appears sedate and synchronous with current level of support.  Per team, plan to wake and attempt to extubate this a.m.
+",,
+24436,21847,30332,0,2540-07-14 04:20:00 EST,2540-07-14 04:31:00 EST,3325,"N",53,"Nursing/Other","TRAUMA/CTIC NURSING PROGRESS NOTE","
+TRAUMA/CTIC NURSING PROGRESS NOTE
+NEURO:  AT START OF SHIFT, PT SLEEPY, AROUSABLE TO STIMULI, MAE'S TO NOXIOUS STIMULI, NOT F/C'S. AFTER RECEIVING 0.2MG FLUMANZENIL AT 12:30AM, PT AROUSABLE TO NAME, F/C'S, MAE'S, NODDING APPROPRIATELY.  AT 4A, AFTER BEING SUCTIONED, PT BECAME VERY AGITATED, SITTING UP IN BED AND ATTEMPTING TO PULL OUT ETT.  BACK ON PROPOFOL GTT.
+
+CV:  HR 60'S-70'S, NSR.  INCREASED PVC'S NOTED WHEN PT AWAKE.  MG REPLETED, ALL OTHER LYTES WNL.  NTG BEING WEANED TO KEEP SBP <130.  CURRENTLY AT 100MCG/MIN.  HANDS/FEET COOL TO TOUCH, (+)PALP PULSES.  2 PIV'S PATENT.  
+
+RESP:  BREATH SOUNDS CLEAR IN UPPER LOBES, DIMINISHED IN THE BASES.  ON A/C 600 X 12.  FI02 50%.  ABG:  220-42-7.41-31 +7.  SATS 97-99%.  SUCTIONED FOR SMALL AMTS OF THIN CLEAR SECRETIONS.  
+
+RENAL:  U/O DOWN TO 20CC/HR AT 3A, RECEIVED 250CC NS BOLUS, U/O UP TO 40-80CC/HR.  
+
+GI: ABD SOFT, (+)BOWEL SOUNDS.  OGT TO LWS, BILIOUS/BROWN DRAINAGE.
+
+HEME:  HCT 27.8 (FROM 31), CCU HOUSE OFFICER AWARE.  PTT 93, REMAINS ON HEPARIN GTT AT 800U/HR (PER PROTOCOL)
+
+ID:  T. MAX 100.3.  
+
+SKIN:  NO ISSUES
+
+SOCIAL:  PT MARRIED, NEPHEW IS POWER OF ATTORNEY.   DR. [**Last Name (STitle) **] SPOKE WITH PT'S WIFE LAST EVENING, NO CALLS OVERNOC
+
+A:  RESP FAILURE S/P INTUBATION
+
+P:  WEAN NTG TO KEEP SBP <130, WEAN AND EXTUBATE THIS AM.  ? CATH TODAY
+",,
+24436,21847,30332,0,2540-07-14 13:36:00 EST,2540-07-14 13:48:00 EST,-1,"N",53,"Nursing/Other","END OF SHIFT SUMMARY","
+END OF SHIFT SUMMARY
+NEURO: PT AWAKE/ALERT/ORIENTED X1. PT IS PLEASANTLY CONFUSED. FOLLOWING COMMANDS. MOVING ALL EXTREMITIES. 
+
+CV: T-MAX 101.2. BLOOD AND URINE CULTURE SENT. NO TYLENOL GIVEN, TEMP IS 98.4 CURRENTLY. PT WITH FREQUENT PVC'S. NITRO GTT AT 200MCG/MIN. 10MG LOPRESSOR BOLUS GIVEN THIS AM FOR HYPERTENSION.  AGGRISTAT GTT AT 7CC/HR, HEPARIN GTT AT 800 UNITS/HR AND TITRATED PER HEPARIN PROTOCOL. PO DOSE LOPRESSOR STARTED WITH AM AFTER EXTUBATION. 
+
+RESP: PT TOLERATED EXTUBATION. IS CURRENTLY ON 2L/NC, SATS > 95%. PT WITH LARGE AMOUNTS OF ORAL SECRETIONS. PT SOUNDS PHLEGMMY UPON ENTERING THE ROOM, AND IS ABLE TO CLEAR SECRETIONS. 
+
+GI: PT TOLERATING PO MEDS AND FEW SIPS CL. ABD SOFT NON-TENDER, NON-DISTENDED. OG REMOVED WITH OETT.
+
+GU: PT VOIDING LARGE AMOUNTS CLEAR YELLOW URINE PER FOLEY CATH. 
+
+SKIN: INTACT
+
+SOCIAL: NEPHEW CALLED TWICE THIS SHIFT. STATUS REPORT GIVEN. QUESTI9ONS ANSWERED.
+
+HEME: LAST PTT 91.9. AWAITING RESULTS FOR NEXT PTT.
+
+A/P: PT WAS OVER SEDATED IN ROUTE TO [**Hospital1 3**], INTUBATED AND THEN EXTUBATED TO NEXT MORNING. PT IS HYPERTENSIVE AND ON NITRO GTT. WILL CONTINUE TO MONITOR PTT AND HEMODYNAMICS. 
+",,
+24436,21847,,,2540-07-15 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2540-7-15**] 6:15 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 2607**]
+     Reason: patient with hemoptysis.  Please evaluate for pneumonia vers
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      79 year old man with CAD
+     REASON FOR THIS EXAMINATION:
+      patient with hemoptysis.  Please evaluate for pneumonia versus lower source of
+      obvious bleed.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Hemoptysis.
+     
+     TECHNIQUE SINGLE VIEW CHEST:  The right lateral hemithorax is not included on
+     the radiograph.  Comparison is made of [**2540-7-13**].  The patient has been
+     extubated and NG tube has been removed in the interval.  The visualized lungs
+     are unchanged and no focal consolidations are identified.  No pleural
+     effusions are present, but again the right hemidiaphragm is not included in
+     the radiograph.
+     
+     IMPRESSION:  No focal consolidations to suggest pneumonia.  The patient is S/P
+     extubation.
+
+",,

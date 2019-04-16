@@ -1,0 +1,1452 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+24252,,,,2607-07-14 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2607-7-14**] 8:41 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 1010**]
+     Reason: eval for pna                                                
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      25 year old woman with sickle cell, intraparenchymal hemorrhage, fever          
+     REASON FOR THIS EXAMINATION:
+      eval for pna                                                                    
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Sickle cell, intraparenchymal hemorrhage, fever.
+     
+     COMPARISONS:  None available.
+     
+     SINGLE VIEW CHEST, AP:  There are low lung volumes.  There is a right-sided
+     Port-A-Cath with the tip extending into the right atrium.  No focal opacities
+     are identified.  There are no pleural effusions.  The pulmonary vasculature is
+     within normal limits.  The patient is status post cholecystectomy with
+     surgical clips in the right upper quadrant.
+     
+     IMPRESSION:  Low lung volumes.  No radiographic evidence of pneumonia.
+
+",,
+24252,,,,2607-07-14 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2607-7-14**] 11:43 PM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 1011**]
+     Reason: assess interval change in ?intracranial hemorrhage          
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      25 year old woman with CVA/cranial hemorrhage                                   
+     REASON FOR THIS EXAMINATION:
+      assess interval change in ?intracranial hemorrhage                              
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+     WET READ: EEZ WED [**2607-7-15**] 12:38 AM
+      focal hyperdense area right basal ganglia, likely calcifications, but cannot
+      exclude hemorrhage. Certainly no larger than at outside hospital head CT.
+      Multiple chronic infarcts and expanded calvarium/frontal sinuses c/w mental
+      retardation.
+     ______________________________________________________________________________
+                                     FINAL REPORT *ABNORMAL!
+     INDICATIONS:  Questionable intracranial hemorrhage seen at outside hospital.
+     
+     TECHNIQUE:  Noncontrast head CT.
+     
+     COMPARISON:  Noncontrast CT scans from an outside hospital, which is not
+     labeled on the films, which were acquired on [**2607-7-14**] at 5:35 PM.
+     
+     NONCONTRAST HEAD CT:  There are multiple bilateral, remote hemispheric
+     infarcts bilaterally, mostly in an MCA distribution, but also involving the
+     brain stem.  There is expansion of the maxillary sinuses and flat bones of the
+     calvarium, consistent with chronic organic brain disease/mental retardation.
+     
+     Within the right basal ganglia and in the subinsular white matter and
+     periventricular white matter adjacent to the atrium of the right lateral
+     ventricle is an amorphous area of increased attenuation which is somewhat
+     linear.  This has the appearance of calcification, but acute blood products
+     cannot be excluded.  This region is certainly no larger than on the outside
+     hospital images, and the fact that it is not a well defined collection argues
+     against an acute parenchymal hemorrhage.  There is no shift of normally
+     midline structures or hydrocephalus. No skull fractures are seen.
+     
+     IMPRESSION:
+     1.  Amorphous area of increased attenuation in the right basal
+     ganglia/subinsular white matter/periventricular white matter near the atrium
+     of the right lateral ventricle.  This has the appearance of calcification, but
+     blood products cannot be excluded.  The area has not increased in size since
+     the head CT scan from eight hours earlier.
+     2.  Multiple bilateral hemispheric infarcts, and likely pontine infarct as
+     well.
+     3.  Decreased size of brain with expansion of maxillary sinuses and inner
+     table, consistent with the patient's chronic mental retardation.
+     
+                                                                 (Over)
+
+     DATE: [**2607-7-14**] 11:43 PM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 1011**]
+     Reason: assess interval change in ?intracranial hemorrhage          
+     ______________________________________________________________________________
+                                     FINAL REPORT *ABNORMAL!
+     (Cont)
+
+",,
+24252,2210,,,2607-07-15 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+ 
+ 
+ 
+Admission Date:  [**2607-7-15**]              Discharge Date:   [**2607-7-24**]
+ 
+Date of Birth:  [**2581-10-2**]             Sex:   F
+ 
+Service: MED
+ 
+Allergies: 
+Patient recorded as having No Known Allergies to Drugs
+ 
+Attending:[**First Name3 (LF) 682**] 
+Chief Complaint:
+CC: Increasing lethargy, malaise and chest secretions 
+ 
+Major Surgical or Invasive Procedure:
+Replacement of G-tube on [**2607-7-23**] after it fell out.  
+
+ 
+History of Present Illness:
+25 year old female with h/o sickle cell anemia, 2 strokes, 
+wheelchair bound, recently had aspiration pneunomia which was 
+treated with ceftriaxone and Unasyn. Patient was sent to rehab 
+after a brief hospitalization and then from rehab to home. 
+Patient had increased secretions from 5 days PTA. From the 
+morning of 07/27, patient had increased lethargy and had fevers 
+to 102. Seen at [**Hospital 2811**] Hospital where there was concern for 
+stroke; she was noted also to have guaic positive drainage from 
+J-tube site. CT raised the concern of possible stroke with new 
+bleed in the R external capsule. INR measured there was 3.9, as 
+patient had been on coumadin since stroke in [**2604**]. Patient was 
+transferred here because of concern for intracranial hemorrhage.
+  
+There is also a history of a bloody stool; it is unclear when 
+that bloody stool happened. Patient's mother reports dark 
+discharge from the J-tube.  
+
+ER Course: Patient had leukocytosis to 51.7 with 81% 
+neutrophils, 1% bands. Repeat head CT shows R basal ganglia 
+calcification, however bleed could not be excluded; size has not 
+increased from CT at OSH taken 8 hours earlier; multiple old 
+bilateral hemispheric infarcts and likely pontine infarct.  
+
+MICU Admission for: Initial concern for new intracranial 
+hemorrhage.
+  
+
+ 
+Past Medical History:
+PMH: s/p CVA x 2; 1st at age 7 years which left her mildly 
+mentally retarted, 2nd in [**2604**] gave her L foot and R arm plegia, 
+wheelchair bound, aphasic, s/p PEG, s/p J-tube, chronic 
+leukocytosis, urinary tract infections, seizure disorder, 
+chronic aspiration pneumonia, vertigo.  
+
+ 
+Social History:
+Lives at home; mother is primary caregiver[**Telephone/Fax (3) 4971**]) . Does 
+not smoke, drink alcohol or use illicit drugs. Patient has a 5 
+year old child. She receives VNA services. Patient at baseline 
+is unable to take care of herself; dependent on assistance for 
+ADLs.  
+
+ 
+Family History:
+Patient's son has [**Name2 (NI) 4972**] trait vs sickle disease, as does a 
+cousin.  
+ 
+Physical Exam:
+Examination: T:102, HR:110, BP: 112/69, R:13, 93% on RA.  
+Gen: Young AAF, eyes open, responsive through gestures, lying in 
+bed looking fatigued.  
+HEENT: PERRL, EOMI, Anicteric  
+Neck: Supple, NT.  
+Skin: WWP; no rashes.  
+Chest: Crackles at both bases; patient unable to respond to 
+request to cough.  
+CVS: Tachycardia, normal S1/S2.  
+Abd: J-tube and G-tube in place; purulent, greenish drainage 
+surrounding J-tube.  
+Ext: Tender L foot; no obvious swelling or sign of trauma; no 
+warmth.  
+Neuro: Mental status as described above.  
+CNII-XII: Appears to be grossly intact.  
+Motor: R arm 0/5, L arm [**1-22**]; able to grasp with L hand.  
+DTRs: Knee, Elbow 2+/2 bilat.  
+Sensory: Hard to examine.  
+
+ 
+Pertinent Results:
+CXR [**2607-7-14**]:  Low lung volumes, no radiographic evidence of 
+pneumonia.
+
+CT head w/o contrast [**2607-7-14**]:  1) Amorphous area of increased 
+attenuation in the right basal ganglia/subinsular white 
+matter/periventricular white matter near the atrium of the right 
+lateral ventricle.  This has the appearance of calcification, 
+but blood products cannot be excluded.  The area has not 
+increased in size since the head CT scan from eight hours 
+earlier. 2) Multiple bilateral hemispheric infarcts and likely 
+pontine infarct as well.  3)  Decreased size of brain, with 
+expansion of maxillary sinuses and inner table, consistent with 
+the patient's chronic mental retardation.
+
+MR head w/o contrast [**2607-7-15**]:  1) No evidence of acute 
+infarction, although diffusion-weighted imagining would be more 
+sensitive for acute infarction. 2) Evidence of multiple past 
+infarcts, including evidence of past hemorrhage in the right 
+putamen and in a small region of the right parietal lobe.
+
+CT head w/o contrast [**2607-7-15**]:  1) Stable appearance of the brain 
+with no interval change noted since the previous exam.  Multiple 
+old hemispheric infarcts noted.  Diffusion-weighted images are 
+more sensitive to detect acute infarct. 2) A small area of 
+increased attenuation in the right basal ganglia is suggestive 
+of amorphous calcificatinos rather than blood by-products.  A 
+followup scan might be helpful based on clinical findings. 
+
+CXR [**2607-7-16**]:  Interval development of bibasilar patchy 
+opacities, which may represent aspiration.
+
+MRA brain w/o contrast [**2607-7-17**]:  1)  No significant interval 
+change in the brain MR.  On this study, however, diffusion 
+weighted images were performed, and these showed no evidence of 
+acute infarction.  There is evidence of a chronic resolved slit 
+hemorrhage in the right putamen, likely related to previous 
+ischemic infarction.  There are widespread areas of chronic 
+infarction in the subcortical white matter.  2)  The MRA shows 
+absent flow signals in multiple major arteries of the circle of 
+[**Location (un) **] with evidence of extensive formation of collaterals. This 
+appearance is consistent with Moyamoya syndrome related to 
+chronic occlusions among the major cerebral arteries.  
+
+CXR [**2607-7-18**]:  1) Since the previous study there has been some 
+improvement in the degree of right lower lobe partial 
+atelectasis.  2) Areas of patchy infiltration in the right upper 
+lobe and left upper lobe and left lower lobe are unchanged.  3) 
+The tip of the SVP line remains in the right atrium.
+
+CT head w/o contrast [**2607-7-18**]:  1) No new intracranial 
+hemorrhage.  Appearance of brain unchanged since [**2607-6-15**].
+
+CT abd/pelvis w contrast [**2607-7-18**]:  1)  Bilateral lower lobe 
+patchy consolidations consistent with patient's known chronic 
+aspiration.  2) No evidence of acute intraabdominal abnormality. 
+ Multiple small mesenteric lymph[**MD Number 298**] are present which do not 
+meet CT criteria for pathological enlargement.  Spleen small and 
+dense, likely reflecting calcification.
+
+Video oropharyngeal swallow study [**2607-7-20**]:  Penetration and 
+aspiration with nectar thick and thin liquids secondary to poor 
+bolus control and premature spillover.  Aspiration was silent, 
+and cued coughs were inefective for clearing the airway of 
+barium.  She showed evidence of phonatory apraxia in her delayed 
+and discoordinated cued coughs.  Pureed and honey think liquids 
+(by tsp) were not penetrated or aspirated during this study 
+today.  1) Maintain PEG for primary source of nutrition, 
+hydration, meds.  2) Pureed foods and honey thick liquids by 
+teaspoon for pleasure may be allowed.  
+ 
+[**2607-7-14**] 08:50PM   PT-19.3* PTT-44.8* INR(PT)-2.5
+[**2607-7-14**] 08:50PM   PLT COUNT-453*
+[**2607-7-14**] 08:50PM   HYPOCHROM-2+ ANISOCYT-2+ POIKILOCY-3+ 
+MACROCYT-1+ MICROCYT-1+ POLYCHROM-2+ SPHEROCYT-OCCASIONAL 
+SICKLE-2+ STIPPLED-2+ PAPPENHEI-2+
+[**2607-7-14**] 08:50PM   NEUTS-81* BANDS-1 LYMPHS-9* MONOS-9 EOS-0 
+BASOS-0 ATYPS-0 METAS-0 MYELOS-0 NUC RBCS-1*
+[**2607-7-14**] 08:50PM   WBC-51.7* RBC-2.84* HGB-9.1* HCT-26.1* MCV-92 
+MCH-31.9 MCHC-34.7 RDW-21.7*
+[**2607-7-14**] 08:50PM   CALCIUM-9.3 PHOSPHATE-4.4 MAGNESIUM-2.1
+[**2607-7-14**] 08:50PM   GLUCOSE-114* UREA N-15 CREAT-0.4 SODIUM-144 
+POTASSIUM-4.8 CHLORIDE-106 TOTAL CO2-26 ANION GAP-17
+[**2607-7-14**] 10:45PM URINE  RBC->50 WBC-[**2-20**] BACTERIA-OCC YEAST-NONE 
+EPI-0-2
+[**2607-7-14**] 10:45PM URINE  BLOOD-LG NITRITE-NEG PROTEIN-TR 
+GLUCOSE-NEG KETONE-NEG BILIRUBIN-SM UROBILNGN-8* PH-7.0 LEUK-SM
+[**2607-7-14**] 10:45PM URINE  COLOR-Amber APPEAR-Hazy SP [**Last Name (un) 223**]-1.014
+[**2607-7-15**] 04:15AM   WBC-34.9* RBC-2.59* HGB-8.0* HCT-24.2* MCV-93 
+MCH-30.8 MCHC-33.0 RDW-21.2*
+[**2607-7-15**] 06:30AM   HAPTOGLOB-<20*
+[**2607-7-15**] 01:33PM   HCT-23.1*
+[**2607-7-15**] 06:30AM   TSH-1.2
+ 
+Brief Hospital Course:
+MICU course:  While in the MICU, the patient was seen by 
+neurology and neurosurgery to further evaluate the possibility 
+of a new intracranial hemorrhage.  In light of this, coumadin 
+was discontinued, pending the results of the workup.  The 
+patient had multiple head CTs, described in pertinent results 
+section.  The conclusion from the scans was that Ms. [**Known patient lastname 1149**] did 
+not have any new CVA, ischemic or hemorrhagic.  Of note, the 
+findings raised a suggestion of Moyamoya disease.  Also while in 
+the MICU, the patient was found to have one blood culture bottle 
+positive for enterococcus that was ampicillin sensitive.  The 
+change in mental status and elevated wbc count and temperature 
+on admission were thought to be secondary to chronic aspiration, 
+as a CXR on [**7-16**] revealed bilateral opacities consistent with 
+aspiration pneumonia.  
+
+Also while in the MICU the patient was seen by gastroenterology 
+to investigate the guaiac positive drainage noted from the 
+J-tube site while the patient was at [**Hospital 2811**] hospital, and the 
+report of one episode of bloody stool, as per the mother.  They 
+did not feel that the patient was having a GI bleed, as the 
+patient's hematocrit remained stable, and there was noted to be 
+no melanotic drainage from J-tube since arrival in our hospital, 
+nor hematochezia.  Stool was found to be negative for 
+salmonella, shigella, campylobacter, C.Difficile.  We followed 
+with serial hematocrits, which have been stable between 19 and 
+22 (unclear baseline), with no further melena/hematochezia 
+noted.      
+
+The patient was transferred from the MICU to the general floors 
+on [**2607-7-16**].
+
+While on the floors, we addressed the patient's numerous 
+problems, with the common difficulty being uncertainty regarding 
+the rational for medical decisions made for her in the past.
+
+1)  Infectious disease:  We continued to treat the patient for 
+her presumed aspiration pneumonia with ceftriaxone and flagyl.  
+A TTE was performed to rule out endocarditis in light of the 
+enterococcus cultured from her blood, which was negative.  At 
+this time, on [**2607-7-20**], flagyl was discontinued and a two week 
+course of IV ampicillin for treatment of the positive 
+enterococcal blood culture was begun. At the time of this 
+discharge summary ([**2607-7-24**]), the patient is on day [**5-1**] of 
+ampicillin, and has completed a 10 day course of ceftriaxone.    
+ 
+
+2)  Neuro:  An extensive effort was made at obtaining CT scan 
+reports from the patient's 2002 stroke, which the mother says 
+was managed at MCO (Medical College of [**State 4973**]), phone number 
+([**Telephone/Fax (1) 4974**], however they claim that the patient was not there 
+in [**2604**].  After a review of all CT/MRI reports from our 
+hospital, and a thorough investigation of the issue, we have 
+decided to stop this patient's coumadin treatment.  The 
+rationale behind this is many-fold.  First, we have to assume 
+that the coumadin was initially begun due to concern for strokes 
+that were embolic in nature.  However, patients with sickle cell 
+disease are known to develop ischemic strokes, and coumadin has 
+no demonstrated efficacy in these patients (see review in the 
+American Journal of Medicine, [**2606-12-1**]).  
+Additionally, there is still some uncertaintly as to whether or 
+not the patient has had a hemorrhagic stroke in the past, as the 
+MRI of 7/28 revealed evidence of past hemorrhage, in which case 
+coumadin would most definitely be contraindicated.  
+Additionally, the finding of changes characteristic of Moyamoya 
+syndrome on MRI also preclude the use of coumadin, as these 
+patients are prone to ischemic strokes as children, followed by 
+hemorrhagic strokes as adults due to the fragility of the 
+collateral vessles that develop in response to the stenotic 
+vessels of the Circle of [**Location (un) 337**].  For all of these reasons, we 
+believe that holding coumadin is the most rational approach to 
+the management of this patient's unfortunate neurologic status.  
+
+
+The patient also has a history of seizures, and was maintained 
+on Oxcarbazepine 300 mg PO BID without any seizure activity.  
+
+3)  Heme:  The patient continued to have a chronically low 
+hematocrit, which fluctuated between 19 and 22 without receiving 
+any transfusions.  We obtained iron studies, which demonstrated 
+iron overload, which was expected in this patient who has been 
+transfusion dependent, as per mother, and was on deferoxamine 
+therapy 12 mL IV before admission to our hospital.  We restarted 
+her deferoxamin at 1g IM per day, however the patient should be 
+switched to IV so that she doesn't have to get painful IM shots 
+everyday in the future.  Her reticulocyte count was 10.4, which 
+indicates appropriate marrow response to her severe anemia.  A 
+B12 level was within normal limits.  We started the patient on 
+Folic Acid 3 mg per day, which should be continued in this 
+patient with chronic hemolysis from sickle cell disease.  
+
+Additionally, her peripheral smear persistently demonstrates not 
+only sickled cells but also target cells, which is not typical 
+of SSD, therefore a hemoglobin electrophoresis was ordered, and 
+the patient was seen by hematology.  She will follow up with Dr. 
+[**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **] with whom she has an appointment on [**2607-9-1**] 
+([**Telephone/Fax (1) 4975**]).  
+
+[**Known patient firstname 4976**] should be on iron chelators chronically however it would 
+be safe for her not to be on chelators for a few weeks while at 
+rehab.  This would only be acceptable for 2-3 weeks at most.
+
+Ms. [**Known patient lastname 1149**] also appears to have a chronic leukocytosis, usually in 
+the 20,000 range.  She is currently at her baseline after being 
+as high as 50,000 on admission.  
+
+4)  GI: The patient has had a G and a J tube for unknown 
+duration, with multiple adjustments and replacements.  There was 
+noted to be scant purulent drainage around both tubes, which 
+surgery evaluated.  As per the mother, there is always some 
+drainage around the tubes, however it was noted to have 
+increased.  Surgery felt that the drainage was simply the tube 
+feeds, as the areas were not noted to be erythematous, 
+indurated, or tender.  A would culture from [**7-15**] revealed sparse 
+growth of MRSA, which was presumed to be colonization rather 
+than infection in this chronically ill and hospitalized patient, 
+without obvious signs of infection around the tube site.  
+
+The question of the rationale behind the coexistance of a G-tube 
+and a J-tube was discussed.  We do not have any records, however 
+it was assumed that the G-tube may have been placed in order to 
+decompress the stomach and prevent aspiration if gastroparesis 
+was present.  The patient was also on Reglan, assumedly for the 
+same rationale.  The G-tube has not been used while in our 
+hospital, as the J-tube is used for the tube feeds, therefore it 
+is unclear whether or not the patient really needs this 
+additional tube.  We are keeping it capped for now, not on 
+continuous suction, and flushing it periodically to maintain 
+patency.  This tube should be kept in and flushed periodically 
+for now, but if there continues to be no use for the tube, Dr. 
+[**Last Name (STitle) **] (her new PCP) will consider having the tube removed. 
+Additionally, the patient has not received Reglan for the 3 days 
+prior to discharge, without any problems, therefore we will 
+leave this medication on a PRN basis, and it may be safe to 
+completely discontinue if there continues to be no need. 
+
+There continued to be no evidence of GI bleed for the remainder 
+of the [**Hospital 874**] hospital course.  GI recommended that if there 
+is ever again any suspicion, the patient can at that time have 
+an EGD.  
+
+5) FEN - The patient had a video swallow study in light of the 
+suspicion of chronic aspiration, which is detailed in the 
+pertinent results section.  The outcome of this was that the 
+patient may try pureed and honey thick foods for pleasure, still 
+maintaining tube feeds as her primary source of nutrition - 
+Probalance Full strength at 55 mL/hour.  The patient aspirated 
+with non-thickened fluids.  For now, the patient has been taking 
+pureed and honey-thick foods, however if the patient continues 
+to develop aspiration pneumonias, these may have to be 
+discontinued.  The patient's aspiration, however, is most likely 
+gastric contents rather than food.
+
+6) Chronic Pain: The patient has a history of chronic pain and 
+came in on a Fentanyl patch, which was continued while in house. 
+ In the future it would be useful to clarify the necessity of 
+maintaining this.  In light of the chronic opiate use and 
+immobility, Ms. [**Known patient lastname 1149**] was given a bowel regimen while here, which 
+should be continued.
+
+7) Psych: Ms. [**Known patient lastname 1149**] was on Lexapro 20 mg PO qd on admission, and 
+was maintained on this.  However, the mother reports that the 
+patient has continued to have depressed mood and lack of 
+motivation, with behavior indicating hopelessness since her 
+stroke in [**2604**], and therefore psychiatry was consulted regarding 
+the appropriate medication choice.  In patients with multiple 
+medical problems and a clear organic basis for depression, 
+Ritalin can be helpful, and this should be considered in the 
+future.  
+
+8) Lines: Ms. [**Known patient lastname 1149**] has had a portacath for 4 years, as per 
+admission note.  For now this should be left in as she is on IV 
+abx and with chronic aspiration is likely to need IV abx in the 
+future, in addition to multiple other IV medications.  Also see 
+discussion of G and J tubes above.  
+
+9) Prophylaxis: Ms. [**Known patient lastname 1149**] was given Lansoprazole Oral Suspension 
+30 mg NG QD while here, which does not need to be continued as 
+there is no clear indication (no high dose steroids, respirator, 
+sepsis, etc.) for a PPI.  However, if the G-tube were ever to 
+resume function this might be a good addition, as it could help 
+prevent the development of alkalosis (would be removing a less 
+acidic fluid from the stomach). 
+
+She was started on prophylactic lovenox 40 mg SQ per day on the 
+day of discharge, as she is largely immobile with multiple 
+medical problems.  
+
+10) PT/OT - [**Known patient firstname 4976**] was seen by PT and OT on [**2607-7-23**], who both 
+felt that the patient could benefit from continued therapy.  PT 
+felt the patient has good potential to improve her functioning, 
+and felt she would benefit from a rehab facility to include [**2-20**] 
+hours of combined therapy per day.  OT also felt that [**Known patient firstname 4976**] 
+has good potential for progress given cognitive status, 
+willingness to work with therapy, and AROM of all 4 extremities, 
+and recommended d/c to acute rehab facility with goal of 
+eventually returning home with family once functional status is 
+maximized.  
+ 
+Medications on Admission:
+Coumadin 10 mg po once daily, Deferoxamine, escitalopram 20 mg 
+qpm, miralax, colace 100, reglan 10 mg q6, Xanax 0.125 mg bid 
+prn, morphine 20 mg q6, baclofen, fentanyl patch 150 Q72H, 
+Trileptal 300 mg Q6H, Percocet. 
+ 
+Discharge Medications:
+1. Oxcarbazepine 300 mg Tablet Sig: One (1) Tablet PO BID (2 
+times a day).  
+2. Fentanyl 75 mcg/hr Patch 72HR Sig: One (1) Patch 72HR 
+Transdermal Q72H (every 72 hours).  
+3. Docusate Sodium 150 mg/15 mL Liquid Sig: One (1)  PO BID (2 
+times a day).  
+4. Escitalopram Oxalate 10 mg Tablet Sig: Two (2) Tablet PO QD 
+(once a day).  
+5. Acetaminophen 325 mg Tablet Sig: 1-2 Tablets PO Q4-6H (every 
+4 to 6 hours) as needed.  
+6. Bisacodyl 5 mg Tablet, Delayed Release (E.C.) Sig: Two (2) 
+Tablet, Delayed Release (E.C.) PO QD (once a day) as needed.  
+7. Lorazepam 0.5 mg Tablet Sig: One (1) Tablet PO Q4-6H (every 4 
+to 6 hours) as needed.  
+8. Folic Acid 1 mg Tablet Sig: Three (3) Tablet PO QD (once a 
+day).  
+9. Deferoxamine Mesylate 500 mg Recon Soln Sig: Two (2) Recon 
+Soln Injection Q24H (every 24 hours).  
+10. Metoclopramide HCl 10 mg Tablet Sig: One (1) Tablet PO QID 
+(4 times a day) as needed.  
+11. Enoxaparin Sodium 40 mg/0.4mL Syringe Sig: One (1)  
+Subcutaneous Q24H (every 24 hours).  
+12. Ampicillin Sodium 2 g Recon Soln Sig: One (1) Recon Soln 
+Injection Q6H (every 6 hours).  
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+[**Hospital3 718**] Rehabilitation Hospital - [**Location (un) **]
+ 
+Discharge Diagnosis:
+Sickle Cell Disease, previously transfusion dependent
+Cerebrovascular accident x 2 with residual aphasia, mild mental 
+retardation, plegia L>R.  
+Chronic pain syndrome
+Chronic aspiration
+Aspiration pneumonia
+Absence seizure disorder
+Recurrent UTI
+Chronic leukocytosis
+
+ 
+Discharge Condition:
+Stable, at baseline.
+ 
+Discharge Instructions:
+Please continue medications as directed.
+Please keep G-tube capped for now, with TID flushes to maintain 
+patency (will consider removal at a later date).
+Continue IV Ampicillin for 9 more days (pt. on day 5 out of 14 
+on [**2607-7-24**]).  
+Acute PT/OT.
+Can wean off O2, keeping sats above 90-93% (currently on NC 1L).
+ 
+Followup Instructions:
+Provider: [**First Name11 (Name Pattern1) 1664**] [**Last Name (NamePattern4) 4977**], MD [**MD Number 52**]: [**Hospital6 53**] 
+HEMATOLOGY/ONCOLOGY Phone:[**Telephone/Fax (1) 54**] Date/Time:[**2607-9-1**] 11:00
+-call to confirm appointment
+
+Primary Care Provider: [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **], MD. Call for appointment 
+([**Telephone/Fax (1) 2245**].
+
+ 
+                             [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 696**] MD [**MD Number 697**]
+ 
+Completed by: [**First Name11 (Name Pattern1) 2921**] [**Last Name (NamePattern4) 2922**] MD [**MD Number 2923**] [**2607-7-24**] @ 1531
+Signed electronically by: DR. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) **]
+ on: WED [**2607-7-29**] 9:35 PM
+(End of Report)
+
+
+",,
+24252,2210,,,2607-07-15 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2607-7-15**] 2:05 PM
+     G/GJ TUBE CHECK PORT                                            Clip # [**Clip Number (Radiology) 1015**]
+     Reason: Eval for leak.  PLEASE BE SURE TO DO J STUDY BEFORE G STUDY.
+     Admitting Diagnosis: INTRA CRANIAL HEMORRHAGE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      25 year old woman with fever, apparaent leak around J tube.                     
+     REASON FOR THIS EXAMINATION:
+      Eval for leak.  PLEASE BE SURE TO DO J STUDY BEFORE G STUDY.                    
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  25 year old woman with fever and apparent leak around J-tube
+     site.
+     
+     FINDINGS:  Fluoroscopic imaging was obtained after injection of approximately
+     40 cc of Conray 60 into the patient's J tube and G-tube.  No extravasation of
+     contrast was noted.  There are no dilated loops of small bowel.  Significant
+     gastroesophageal reflux was noted on the exam.  Surgical clips are noted in
+     the right upper abdominal region.  There are no obvious osseous abnormalities
+     seen.
+     
+     IMPRESSION:  No extravasation of contrast from the patient's G-tube and J-
+     tube.  Gastroesophageal reflux.
+
+",,
+24252,2210,,,2607-07-15 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2607-7-15**] 2:27 PM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 1016**]
+     Reason: please assess for interval change                           
+     Admitting Diagnosis: INTRA CRANIAL HEMORRHAGE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       25 year old woman with h/o CVAx2 w/ concern for R internal capsule hemorrhage  
+                              
+     REASON FOR THIS EXAMINATION:
+      please assess for interval change                                               
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  CVA and right-sided internal capsular hemorrhage.
+     
+     Multiple axial images are obtained from the base to vertex without intravenous
+     contrast administration.  Comparison is made to the prior head CT from [**7-14**], 2004.
+     
+     There is a small area of increased attenuation involving the right basal
+     ganglia near the atrium of the right lateral ventricle.  The appearance is
+     suggestive of calcification, however, blood products cannot be totally
+     excluded.  There are multiple bilateral hemispheric infarcts, unchanged from
+     the previous exam.  There is no midline shift or mass effect.  No
+     hydrocephalus is noted.
+     
+     Overall size of the brain is diminished, most likely related to the patient's
+     mental retardation.  There is thickening of the calvarium.  No subdural
+     hemorrhage is seen.
+     
+     IMPRESSION:  Stable appearance of the brain with no interval change noted
+     since the previous exam.  Multiple old hemispheric infarcts noted.  Diffusion-
+     weighted images are more sensitive to detect acute infarct.
+     
+     A small area of increased attenuation in the right basal ganglia is suggestive
+     of amorphous calcifications rather than blood by-products.  A followup scan
+     might be helpful based on clinical findings.
+
+",,
+24252,2210,,,2607-07-15 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2607-7-15**] 4:36 AM
+     MR HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 1012**]
+     Reason: w/ susceptibility images, evaluate for acute pathology      
+     Admitting Diagnosis: INTRA CRANIAL HEMORRHAGE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      25 year old woman with Sickle cell, hx of repeated strokes presenting w/AMS     
+     REASON FOR THIS EXAMINATION:
+      w/ susceptibility images, evaluate for acute pathology                          
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATIONS: 25-year-old woman with sickle cell anemia and multiple strokes
+     presenting with acute mental status changes. Evaluation for acute pathology.
+     
+     COMPARISONS: Noncontrast head CT of [**2607-7-14**].
+     
+     TECHNIQUE: Multiplanar T1, T2, and susceptibility images were obtained.
+     
+     FINDINGS: The study is limited by patient motion, and diffusion-weighted
+     images were not obtained. There is no evidence of hydrocephalus, mass effect,
+     or shift of the normally midline structures. There are widespread areas of
+     increased T2 signal which indicate multiple previous deep and subcortical
+     white matter infarctions, accompanied by broadening of the sulci.
+     Susceptibility artifact in the right putamen and a similar small focus in the
+     right parietal lobe suggest past hemorrhages in these areas. There is no
+     evidence of acute intracranial hemorrhage or infarction, although diffusion-
+     weighted imaging would be more sensitive for acute infarct. The surrounding
+     osseous and soft tissue structures are unremarkable. The major vascular flow
+     voids appear patent.
+     
+     IMPRESSION:
+     1. No evidence of acute infarction, although diffusion-weighted imaging would
+     be more sensitive for acute infarction.
+     2. Evidence of multiple past infarcts, including evidence of past hemorrhage
+     in the right putamen and in a small region of the right parietal lobe. We
+     discussed the findings with [**First Name8 (NamePattern2) 1013**] [**Last Name (NamePattern1) 1014**] at 2:30 PM on [**7-15**].
+     
+     
+
+",,
+24252,2210,30127,0,2607-07-15 05:54:00 EST,2607-07-15 06:19:00 EST,2783,"N",69,"Nursing/Other","Nursing Admit/Progress Note 0530-0700","
+Nursing Admit/Progress Note 0530-0700
+This 25yo woman with PMH sickle cell anemia, chronic asp PNA, chronic leukocytosis, S/P CVA's @ 7yrs old and 2002(the 2nd with residual paresis of L foot, R arm->wheelchair dependent, aphasia, J-tube dependent for TF), simple or complex seizures. She is admitted from an OSH ([**Hospital1 **]) where she presented with C/O malaise, asp PNA, + guaiac stool, fever, chronic leukocytosis, MS changes. Pt had been on Coumadin, and was reversed with 2u FFP and Vit K. CT scan there showed ? IC bleed in R external capsule. Pt transferred to [**Hospital1 3**] for further workup of ? bleed. Repeat CT showed old bleeds, and pt sent to MRI for ? non-hemorrhagic stroke->results pndg.
+
+Review of Systems:
+
+Neuro: Pt lethargic, but follows commands consistantly. Initially restrained during foley insertion when pt scratching staff, now unrestrained. Pt aphasic, writes notes which are approp. Extremeties weak L>R, ? diminished sensation. No C/O pain.
+
+Resp: Sating 94-96% on 2l NC, RR 11-14 and regular. Lungs with rhonchi throughout. Suctionned NT for large amt thick tan/bloody secretions. Pt with weak cough effort.
+
+CV: HR 101-104ST without ectopy. BP 102/69-116/52. D5 .45NS @ 100ml/hr. AM labs pndg. 
+
+GI: PEG site swabbed, spec sent and DSD replaced. PEG to collection bag, draining bilious with sed. PEJ (for fdg)clamped. Bowel snds present, no stool. NPO. 
+
+GU: Foley cath inserted without difficulty, drained 75ml yellow/clear urine. Spec sent for urinalysis and HCG. 
+
+ID: Temp 98.4po. WBC in EW 51->given Vanco X 1 on admit to MICU. To receive Ceftriaxone X 1.
+
+Access: Portacath via LSC with 2 ports patent. 
+
+Social: Pt lives with mother(Mrs. [**First Name (STitle) 1563**]), who is health proxy. Contact is @ Townplace Suites Hotel in [**Location (un) 3003**] [**Telephone/Fax (1) 4367**] Rm 218. Pt has a 5yr old child that also lives with them. 
+
+Plan: CIWA scale assessments. Seizure/aspiration precautions. Follow-up AM labs.
+
+
+",,
+24252,2210,30127,0,2607-07-15 15:35:00 EST,2607-07-15 15:58:00 EST,2755,"N",69,"Nursing/Other",,"
+
+
+
+
+NURSING NOTE 0700HRS - 1700HRS
+
+
+
+EVENTS - REVIWED BY G/I, [**Doctor First Name 125**] FLUROSCOPY STUDY TOOK PLACE OF J/G TUBES - REVIWED BY NUERO REPEAT CT OF HEAD AND ONE OF ABDOMEN, AWAIT REPEAT MRA
+
+
+
+NEURO - TIRED/LETARGIC BUT MOVING ALL LIMBS, EXCEPT RT ARM AFFECTED BY PREVIOUS STROKE, FOLLOWING COMMANDS, APPEARS TO UNDERSTAND WHAT EVENTS ARE TAKING PLACE AND COMMUNICATING VIA WRITING ON BOARD APPROPRIATE - REPEAT CT OF HEAD PERFORMED AWAIT RESULTS  - FOR REPEAT MRA AT SOME POINT - NO COMPLAINTS OF PAIN BUT DID HAVE C/O LOWER BACK DISCOMFORT SETTELED WITH RE-POSTIONING - NEED TO ESTABLISH WHEN PRESENT FENT PATCH APPLIED WITH FAMILY IN ORDER TO CAHNGE
+
+
+CVS - B/P REMAINED STABLE 90-120 SYSTOLIC, HR REDUCED TO SINUS 80-100BPM - NA HIGH THIS AM IV FLUIDS SWITCHED TO DW5 [K ADDED AS ALSO LOW THIS AM]  - HCT THIS PM @ 23.1 TEAM AWARE FOR Q6HRLY HCT CHECKS - NO ACTION ON PTT/PT INR THIS AM - ALL BLOODS CHECKED THIS PM AWAIT RESULTS - NOT TO RE-START COUMADIN AT PRESENT
+LFT'S RAISED ? FOR ULTRASOUND @ SOME POINT
+
+I.D -  GRAM POS COOCI IN X1 BLOOD CULTURE, VANC/AB'S CONTINUE, AFEBRILE TODAY - SPUTUM SPEC SENT
+
+
+
+RESP - UPON ACULTATION SOUNDS VERY RHONCHUS/COURSE - VERY WEAK COUGH ENCOURAGED TO COUGH /DEEP BREATH, ASPIRATION PRECAUTIONS CONTINUE - ON 5L VIA N/C DOES DESAT TO 90% WHEN OF O2 THERPAY OTHERWISE SATS MAINTAINED AT 95-98% - NT SUCTIONED FOR THICK YELLOW SECRETIONS X1
+
+
+G/I -  REMAINED NPO/NO MEDS VIA J TUBE UNTIL [**Doctor First Name 125**] ,G/I REVIWED J &G TUBES - BILIOUS/BROWN FLUID DRAINING FROM G TUBE TOTAL 500CC AND J TUBE CAPPED OF - FLUROSCOPY PERFORMED DEEMMED AS PATENT/NO OBSTRUCTION THEREFORE OK TO USE J FOR MEDS, SURGICAL TEAM NOT IMPRESSED WITH YELLOW DRAINAGE FROM INSERTION SIGHTS OF BOTH TUBES - WITH HCT DROP TEAM TO GASTRIC LAVAGE THIS PM - NO BOWEL MOTION STOOL SPECIMEN REQUIRED
+
+
+G/U - URINE OUTPUT MAINTAINED 30-60CC/HR - IV FLUIDS @ 150/HR TO MAINTAIN HYDRATION
+
+
+LINES - PORTACATH PATENT
+
+
+SKIN - INTACT, HELPS MOVE AROUND THE BED
+
+
+SOCIAL - NO CALLS FROM FAMILY - NEED TO ESTABLISH STSTUS WITH FENT PATCH WHEN NEXT IN CONTACT
+
+
+PLAN - MRA ? U/S LIVER - CALLED OUT TO FLOOR
+",,
+24252,2210,30127,0,2607-07-15 16:05:00 EST,2607-07-15 16:15:00 EST,2235,"N",69,"Nursing/Other",,"
+
+RESPIRATORY CARE: PT. IS A 25 YO FEMALE W/ PMH INCLUDING
+SICKLE CELL ANEMIA/APHASIA/LEFT FOOT AND RIGHT ARM WEAKNESS/
+CHRONIC ASPIRATION PNA. CURRENTLY ADMITTED FOR PNEUMONIA
+AND EVALUATION AND R/O GI BLEED. CURRENTLY AVSS WITHOUT
+C/O DYSPNEA WEARING O2 AT 5 LPM WITH A RR OF 15-20 AND
+AN SPO2 OF 96 %. PT HAS AN EXTREMELY POOR COUGH AND GAG
+REFLEX DUE TO PRIOR CVA. BS C/W RHONCHI OVER BOTH LUNGS
+WHICH REQUIRES OCCASIONAL NT SUCTION (GENTLE DUE TO ELEVATED
+INR). NTS FOR MODERATE AMT OF THICK YELLOW SPUTUM. SUB/OBJ
+RX TO TX. WILL FOLLOW WHEN GOES OUT TO FLOOR.
+
+                           [**First Name11 (Name Pattern1) 322**] [**Last Name (NamePattern1) 323**], RRT
+
+",,
+24252,2210,30127,,2607-07-16 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2607-7-16**] 10:37 PM
+     CHEST (PA & LAT)                                                Clip # [**Clip Number (Radiology) 1017**]
+     Reason: assess for pna/aspiration                                   
+     Admitting Diagnosis: INTRA CRANIAL HEMORRHAGE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      25 year old woman with sickle cell, s/p cva x 2                                 
+     REASON FOR THIS EXAMINATION:
+      assess for pna/aspiration                                                       
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: Sickle cell, history of strokes.
+     
+     COMPARISON: [**2607-7-14**].
+     
+     UPRIGHT AP & LATERAL VIEWS: Left subclavian central venous catheter remains in
+     stable and satisfactory position. Allowing for rotational differences, the
+     cardiac and mediastinal contours are likely stable. The pulmonary vascularity
+     is within normal limits. There has been interval development of bibasilar
+     patchy opacities, which may represent aspiration. No definite pleural
+     effusions or pneumothorax is seen.
+     
+     IMPRESSION: Interval development of bibasilar patchy opacities, which may
+     represent aspiration.
+
+",,
+24252,2210,30127,0,2607-07-16 03:29:00 EST,2607-07-16 03:54:00 EST,2783,"N",69,"Nursing/Other","Nursing Progress Note 1900-0700","
+Nursing Progress Note 1900-0700
+Review of Systems:
+
+Neuro: No change in MS, with pt following commands consistantly, writing approp. Able to raise/hold UE, moves RLE on bed, and no spont movement of LLE seen. PEARL @ 3mm. Pt remains lethargic/sleepy, and after receiving regular PM doses Restoril & Remeron slept soundly most of noc. Fentanyl patches replaced, 75mcg X 2.
+
+Resp: Sating >95% on 5l NC, but drops to high 80's without O2. RR 10-20 and regular. Lungs rhonchorous. Cough and gag remain impaired. Pt NT suctionned X 1 for mod amt thick, yellow secretions.
+
+CV: HR 78-95SR without ectopy, BP 98/57-112/69.  Hct stable @ 25.1/24.6. INR 1.5. Na 140, K+ 3.7, Mg 1.8. Pt rec'ing D5W + KCL 20meq @ 100ml/hr X 1000ml.
+
+GI: G-tube cont to drain mod amt bilious liq, with mucous-looking plugs, via gravity to collection bag. J-tube clamped except for meds.
+Abd soft, slightly distended, bowel snds present. No stool since admit.
+
+GU: Foley draining marginal amt yellow->amber urine with occas small clots. Fluid blance for LOS @ MN +1542ml.
+
+ID: Afebrile. AM WBC 23.2(34.9)
+
+Social: Mother and brother visited in evening, both approp and very informed re pt's care. MD spoke with them.
+
+Plan: MRA when machine available. Replete lytes as ordered. Cont Q6hr Hct. Transfer to floor when bed available.
+
+
+",,
+24252,2210,,,2607-07-17 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2607-7-17**] 10:44 AM
+     MR HEAD W/O CONTRAST; MRA BRAIN W/O CONTRAST                    Clip # [**Clip Number (Radiology) 1018**]
+     Reason: please evaluate vasculature given concern for bleed         
+     Admitting Diagnosis: INTRA CRANIAL HEMORRHAGE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       25 year old woman with Sickle cell, hx of repeated strokes presenting w/AMS, 
+      concern for R internal capsule hemorrhage     
+     REASON FOR THIS EXAMINATION:
+      please evaluate vasculature given concern for bleed                             
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATIONS:  25 year-old woman with sickle cell anemia and history of
+     repeated strokes, presenting with acute mental status changes.  There is a
+     concern for a right internal capsular hemorrage, and request for follow up
+     assessment.
+     
+     COMPARISONS:  Brain MR [**First Name (Titles) **] [**Last Name (Titles) 1019**] head CT of [**2607-7-15**].
+     
+     TECHNIQUE:  Multiplanar T1, T2, susceptibility, and diffusion weighted images
+     of the brain were obtained.
+     
+     An MR angiogram with 3 dimensional time-of-flight images of the circle of
+     [**Location (un) 309**] was also obtained.
+     
+     FINDINGS:  On the MR study of the brain, there has been no significant
+     interval change.  The quality of this study is improved.  There is no evidence
+     of hydrocephalus, mass effect, or shift of the normally midline structures.
+     The previously seen susceptibility artifacts are again seen.  The larger one
+     in the right putamen, which is associated with a linear area of
+     encephalomalacia and a neighboring calcification, better seen on the CT scan,
+     likely corresponds to an old slit hemorrhage.  There are no areas of
+     restricted diffusion to suggest an acute infarct.  However, there is wide
+     spread atrophy of the sulci with diffuse areas of increased T2 in the deep and
+     subcortical white matter, suggesting chronic infarcts.  The surrounding
+     osseous structure, soft tissues, and paranasal sinuses are unremarkable.
+     
+     On the MR angiogram, the flow signal of the M1 segment of the right middle
+     cerebral artery is absent.  There is also a segment of strongly reduced flow
+     signal in the proximal left middle cerebral artery. No flow signals are seen
+     from the anterior cerebral arteries. Flow signal of the left posterior
+     cerebral artery is strongly reduced, and the size of the right posterior
+     cerebral artery is enlarged. There is widespread enlargement of the smaller
+     perforating arteries suggesting extensive collateral circulation. This
+     appearance is consistent with Moyamoya syndrome related to chronic occlusions
+     among of the major cerebral arteries.
+     
+     IMPRESSION:  1.  There has been no significant interval change in the brain
+     MR.  On this study, however, diffusion weighted images were performed, and
+     these showed no evidence of acute infarction.  There is evidence of a chronic
+     resolved slit hemorrhage in the right putamen, likely related to previous
+     ischemic infarction.  There are widespread areas of chronic infarction in the
+     subcortical white matter, as previously discussed.
+                                                                 (Over)
+
+     DATE: [**2607-7-17**] 10:44 AM
+     MR HEAD W/O CONTRAST; MRA BRAIN W/O CONTRAST                    Clip # [**Clip Number (Radiology) 1018**]
+     Reason: please evaluate vasculature given concern for bleed         
+     Admitting Diagnosis: INTRA CRANIAL HEMORRHAGE
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     
+     2.  The MR angiogram shows absent flow signals in multiple major arteries of
+     the circle of [**Location (un) 309**] with evidence of extensive formation of collaterals as
+     discussed.
+     
+     
+     
+
+",,
+24252,2210,,,2607-07-17 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+",,
+24252,2210,,,2607-07-17 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2607-7-17**] 10:44 AM
+     MR HEAD W/O CONTRAST; MRA BRAIN W/O CONTRAST                    Clip # [**Clip Number (Radiology) 1018**]
+     Reason: please evaluate vasculature given concern for bleed         
+     Admitting Diagnosis: INTRA CRANIAL HEMORRHAGE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       25 year old woman with Sickle cell, hx of repeated strokes presenting w/AMS, 
+      concern for R internal capsule hemorrhage     
+     REASON FOR THIS EXAMINATION:
+      please evaluate vasculature given concern for bleed                             
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATIONS:  25 year-old woman with sickle cell anemia and history of
+     repeated strokes, presenting with acute mental status changes.  There is a
+     concern for a right internal capsular hemorrage, and request for follow up
+     assessment.
+     
+     COMPARISONS:  Brain MR [**First Name (Titles) **] [**Last Name (Titles) 1019**] head CT of [**2607-7-15**].
+     
+     TECHNIQUE:  Multiplanar T1, T2, susceptibility, and diffusion weighted images
+     of the brain were obtained.
+     
+     An MR angiogram with 3 dimensional time-of-flight images of the circle of
+     [**Location (un) 309**] was also obtained.
+     
+     FINDINGS:  On the MR study of the brain, there has been no significant
+     interval change.  The quality of this study is improved.  There is no evidence
+     of hydrocephalus, mass effect, or shift of the normally midline structures.
+     The previously seen susceptibility artifacts are again seen.  The larger one
+     in the right putamen, which is associated with a linear area of
+     encephalomalacia and a neighboring calcification, better seen on the CT scan,
+     likely corresponds to an old slit hemorrhage.  There are no areas of
+     restricted diffusion to suggest an acute infarct.  However, there is wide
+     spread atrophy of the sulci with diffuse areas of increased T2 in the deep and
+     subcortical white matter, suggesting chronic infarcts.  The surrounding
+     osseous structure, soft tissues, and paranasal sinuses are unremarkable.
+     
+     On the MR angiogram, the flow signal of the M1 segment of the right middle
+     cerebral artery is absent.  There is also a segment of strongly reduced flow
+     signal in the proximal left middle cerebral artery. No flow signals are seen
+     from the anterior cerebral arteries. Flow signal of the left posterior
+     cerebral artery is strongly reduced, and the size of the right posterior
+     cerebral artery is enlarged. There is widespread enlargement of the smaller
+     perforating arteries suggesting extensive collateral circulation. This
+     appearance is consistent with Moyamoya syndrome related to chronic occlusions
+     among of the major cerebral arteries.
+     
+     IMPRESSION:  1.  There has been no significant interval change in the brain
+     MR.  On this study, however, diffusion weighted images were performed, and
+     these showed no evidence of acute infarction.  There is evidence of a chronic
+     resolved slit hemorrhage in the right putamen, likely related to previous
+     ischemic infarction.  There are widespread areas of chronic infarction in the
+     subcortical white matter, as previously discussed.
+                                                                 (Over)
+
+     DATE: [**2607-7-17**] 10:44 AM
+     MR HEAD W/O CONTRAST; MRA BRAIN W/O CONTRAST                    Clip # [**Clip Number (Radiology) 1018**]
+     Reason: please evaluate vasculature given concern for bleed         
+     Admitting Diagnosis: INTRA CRANIAL HEMORRHAGE
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     
+     2.  The MR angiogram shows absent flow signals in multiple major arteries of
+     the circle of [**Location (un) 309**] with evidence of extensive formation of collaterals as
+     discussed.
+     
+     
+     
+
+",,
+24252,2210,,,2607-07-18 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2607-7-18**] 12:30 AM
+     CHEST (SINGLE VIEW)                                             Clip # [**Clip Number (Radiology) 1020**]
+     Reason: increasing infiltrate?  Pt. with episode of hypoxia, with sa
+     Admitting Diagnosis: INTRA CRANIAL HEMORRHAGE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       25 year old woman with sickle cell, intraparenchymal hemorrhage, fever         
+       
+     REASON FOR THIS EXAMINATION:
+      increasing infiltrate?  Pt. with episode of hypoxia, with sat 83 percent on RA. 
+       On abx.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  25 year old with sickle cell anemia, parenchymal hemorrhage and
+     fever.  Question of increasing infiltrate.
+     
+     FINDINGS:  Comparison is made to the previous study dated two days earlier and
+     shows the left subclavian line with tip in the right atrium.  Poor inspiratory
+     effort and elevation of the diaphragms.  Some partial atelectasis is involving
+     the right lower lobe.  In addition, there are areas of patchy infiltration in
+     the left upper lobe, left lower lobe and right upper lobe.the  degree of right
+     lower lobe partial atelectasis has improved since the prior study and the
+     right hemidiaphragm is again visualized.  No evidence of pleural effusion or
+     pneumothorax.
+     
+     IMPRESSION:
+     
+     1.  Since the previous study, there has been some improvement in the degree of
+     right lower lobe partial atelectasis.
+     
+     2.  Areas of patchy infiltration in the right upper lobe and left upper lobe
+     and left lower lobe are unchanged.
+     
+     3.  The tip of the SVP line remains in the right atrium.
+     
+
+",,
+24252,2210,,,2607-07-18 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2607-7-18**] 3:01 AM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 1022**]
+     CT 100CC NON IONIC CONTRAST
+     Reason: Source of enterococcal seeding/rule out GI bleed.  hct drop.
+     Admitting Diagnosis: INTRA CRANIAL HEMORRHAGE
+     Field of view: 38 Contrast: OPTIRAY Amt: 100
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       25 year old woman with mental retardation, CVA x 2, chronic asp pna, SCD, with 
+       recent blood cx of enterococcus in setting of ?asp pna, hct drop
+     REASON FOR THIS EXAMINATION:
+      Source of enterococcal seeding/rule out GI bleed.  hct drop.  pt. currently 
+      with decreased responsiveness.
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     
+     INDICATION: Chronic aspiration pneumonia, sickle cell disease, enterococcus
+     positive blood cultures, evaluate for source.  Patient also with hematocrit
+     drop.
+     
+     TECHNIQUE: Axial images of the abdomen and pelvis were aquired helically
+     following the administration of oral and 100 cc of Optiray IV contrast.
+     
+     COMPARISON: None.
+     
+     CT ABDOMEN WITH IV CONTRAST: There are patchy areas of ground glass opacity in
+     both lung bases, with several areas of air bronchograms.  The findings are
+     consistent with the patient's known chronic aspiration.  Evaluation of the
+     upper abdomen is limited due to  the patient's arm position, as the arms are
+     not able to be placed above the head.  Allowing for the limitations, the liver
+     is unremarkable.  The spleen is small and dense, likely reflecting
+     calficication. Both kidneys enhance without evidence of obstruction. It is
+     difficult to evaluate for the presence of striated nephrogram due to extensive
+     beam hardening artifact from the patient's arms. Surgical clips are present in
+     the right upper quadrant from prior cholecystectomy.  The pancreas, stomach,
+     and small bowel loops are all unremarkable.  A J-tube is present within small
+     bowel. There is no ascites. Note is made of multiple small mesenteric lymph
+     nodes which do not meet CT criteria for pathologic enlargement.
+     
+     CT PELVIS WITH IV CONTRAST: The appendix is visualized, and is normal, filled
+     with oral contrast.  The bladder contains a Foley catheter but is otherwise
+     unremarkable.  Sigmoid colon and rectum are normal.  There is no free fluid in
+     the pelvis.  The CT appearance of the female reproductive structures is within
+     normal limits.
+     
+     There is no retroperitoneal hematoma or evidence of fluid collection.  Osseous
+     structures are unremarkable.
+     
+     IMPRESSION:
+     1) Bilateral lower lobe patchy consolidations consistent with patient's known
+     chronic aspiration.
+     
+                                                                 (Over)
+
+     DATE: [**2607-7-18**] 3:01 AM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 1022**]
+     CT 100CC NON IONIC CONTRAST
+     Reason: Source of enterococcal seeding/rule out GI bleed.  hct drop.
+     Admitting Diagnosis: INTRA CRANIAL HEMORRHAGE
+     Field of view: 38 Contrast: OPTIRAY Amt: 100
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     2) No evidence of acute intraabdominal abnormality.  Multiple small mesenteric
+     lymph nodes are present which do not meet CT criteria for pathological
+     enlargement.
+     
+
+",,
+24252,2210,,,2607-07-18 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2607-7-18**] 3:01 AM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 1022**]
+     CT 100CC NON IONIC CONTRAST
+     Reason: Source of enterococcal seeding/rule out GI bleed.  hct drop.
+     Admitting Diagnosis: INTRA CRANIAL HEMORRHAGE
+     Field of view: 38 Contrast: OPTIRAY Amt: 100
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       25 year old woman with mental retardation, CVA x 2, chronic asp pna, SCD, with 
+       recent blood cx of enterococcus in setting of ?asp pna, hct drop
+     REASON FOR THIS EXAMINATION:
+      Source of enterococcal seeding/rule out GI bleed.  hct drop.  pt. currently 
+      with decreased responsiveness.
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     
+     INDICATION: Chronic aspiration pneumonia, sickle cell disease, enterococcus
+     positive blood cultures, evaluate for source.  Patient also with hematocrit
+     drop.
+     
+     TECHNIQUE: Axial images of the abdomen and pelvis were aquired helically
+     following the administration of oral and 100 cc of Optiray IV contrast.
+     
+     COMPARISON: None.
+     
+     CT ABDOMEN WITH IV CONTRAST: There are patchy areas of ground glass opacity in
+     both lung bases, with several areas of air bronchograms.  The findings are
+     consistent with the patient's known chronic aspiration.  Evaluation of the
+     upper abdomen is limited due to  the patient's arm position, as the arms are
+     not able to be placed above the head.  Allowing for the limitations, the liver
+     is unremarkable.  The spleen is small and dense, likely reflecting
+     calficication. Both kidneys enhance without evidence of obstruction. It is
+     difficult to evaluate for the presence of striated nephrogram due to extensive
+     beam hardening artifact from the patient's arms. Surgical clips are present in
+     the right upper quadrant from prior cholecystectomy.  The pancreas, stomach,
+     and small bowel loops are all unremarkable.  A J-tube is present within small
+     bowel. There is no ascites. Note is made of multiple small mesenteric lymph
+     nodes which do not meet CT criteria for pathologic enlargement.
+     
+     CT PELVIS WITH IV CONTRAST: The appendix is visualized, and is normal, filled
+     with oral contrast.  The bladder contains a Foley catheter but is otherwise
+     unremarkable.  Sigmoid colon and rectum are normal.  There is no free fluid in
+     the pelvis.  The CT appearance of the female reproductive structures is within
+     normal limits.
+     
+     There is no retroperitoneal hematoma or evidence of fluid collection.  Osseous
+     structures are unremarkable.
+     
+     IMPRESSION:
+     1) Bilateral lower lobe patchy consolidations consistent with patient's known
+     chronic aspiration.
+     
+                                                                 (Over)
+
+     DATE: [**2607-7-18**] 3:01 AM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 1022**]
+     CT 100CC NON IONIC CONTRAST
+     Reason: Source of enterococcal seeding/rule out GI bleed.  hct drop.
+     Admitting Diagnosis: INTRA CRANIAL HEMORRHAGE
+     Field of view: 38 Contrast: OPTIRAY Amt: 100
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     2) No evidence of acute intraabdominal abnormality.  Multiple small mesenteric
+     lymph nodes are present which do not meet CT criteria for pathological
+     enlargement.
+     
+
+",,
+24252,2210,,,2607-07-18 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2607-7-18**] 3:01 AM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 1022**]
+     CT 100CC NON IONIC CONTRAST
+     Reason: Source of enterococcal seeding/rule out GI bleed.  hct drop.
+     Admitting Diagnosis: INTRA CRANIAL HEMORRHAGE
+     Field of view: 38 Contrast: OPTIRAY Amt: 100
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       25 year old woman with mental retardation, CVA x 2, chronic asp pna, SCD, with 
+       recent blood cx of enterococcus in setting of ?asp pna, hct drop
+     REASON FOR THIS EXAMINATION:
+      Source of enterococcal seeding/rule out GI bleed.  hct drop.  pt. currently 
+      with decreased responsiveness.
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     
+     INDICATION: Chronic aspiration pneumonia, sickle cell disease, enterococcus
+     positive blood cultures, evaluate for source.  Patient also with hematocrit
+     drop.
+     
+     TECHNIQUE: Axial images of the abdomen and pelvis were aquired helically
+     following the administration of oral and 100 cc of Optiray IV contrast.
+     
+     COMPARISON: None.
+     
+     CT ABDOMEN WITH IV CONTRAST: There are patchy areas of ground glass opacity in
+     both lung bases, with several areas of air bronchograms.  The findings are
+     consistent with the patient's known chronic aspiration.  Evaluation of the
+     upper abdomen is limited due to  the patient's arm position, as the arms are
+     not able to be placed above the head.  Allowing for the limitations, the liver
+     is unremarkable.  The spleen is small and dense, likely reflecting
+     calficication. Both kidneys enhance without evidence of obstruction. It is
+     difficult to evaluate for the presence of striated nephrogram due to extensive
+     beam hardening artifact from the patient's arms. Surgical clips are present in
+     the right upper quadrant from prior cholecystectomy.  The pancreas, stomach,
+     and small bowel loops are all unremarkable.  A J-tube is present within small
+     bowel. There is no ascites. Note is made of multiple small mesenteric lymph
+     nodes which do not meet CT criteria for pathologic enlargement.
+     
+     CT PELVIS WITH IV CONTRAST: The appendix is visualized, and is normal, filled
+     with oral contrast.  The bladder contains a Foley catheter but is otherwise
+     unremarkable.  Sigmoid colon and rectum are normal.  There is no free fluid in
+     the pelvis.  The CT appearance of the female reproductive structures is within
+     normal limits.
+     
+     There is no retroperitoneal hematoma or evidence of fluid collection.  Osseous
+     structures are unremarkable.
+     
+     IMPRESSION:
+     1) Bilateral lower lobe patchy consolidations consistent with patient's known
+     chronic aspiration.
+     
+                                                                 (Over)
+
+     DATE: [**2607-7-18**] 3:01 AM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 1022**]
+     CT 100CC NON IONIC CONTRAST
+     Reason: Source of enterococcal seeding/rule out GI bleed.  hct drop.
+     Admitting Diagnosis: INTRA CRANIAL HEMORRHAGE
+     Field of view: 38 Contrast: OPTIRAY Amt: 100
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     2) No evidence of acute intraabdominal abnormality.  Multiple small mesenteric
+     lymph nodes are present which do not meet CT criteria for pathological
+     enlargement.
+     
+
+",,
+24252,2210,,,2607-07-18 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2607-7-18**] 2:59 AM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 1021**]
+     Reason: stroke?  Pt. with decreased responsiveness.                 
+     Admitting Diagnosis: INTRA CRANIAL HEMORRHAGE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        25 year old woman with h/o CVAx2 w/ concern for R internal capsule hemorrhage 
+                                
+     REASON FOR THIS EXAMINATION:
+      stroke?  Pt. with decreased responsiveness.                                     
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: Decreased responsiveness.  Concern for right internal capusle
+     hemorrhage.
+     
+     TECHNIQUE: Noncontrast head CT.
+     
+     COMPARISON: [**2607-7-15**].
+     
+     NONCONTRAST HEAD CT: Allowing for differences in technique, the appearance of
+     the brain is unchanged compared to [**2607-6-15**].  The focal area of increased
+     attenuation in the right basal ganglia/periventricular white matter adjacent
+     to the atrium of the right lateral ventricle is unchanged, and likely
+     represents calcification.  Bilateral chronic infarcts are again noted. There
+     is no acute intracranial hemorrhage or evidence of acute stroke.  Osseous and
+     soft tissue structures are unchanged.
+     
+     IMPRESSION: No new intracranial hemorrhage.  Appearance of brain unchanged
+     since [**2607-6-15**]. 
+
+",,
+24252,2210,,,2607-07-20 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2607-7-20**] 3:13 PM
+     ABDOMEN (SUPINE & ERECT); REPEAT, (REQUEST BY RADIOLOGIST)      Clip # [**Clip Number (Radiology) 1024**]
+     Reason: ?STATUS
+     Admitting Diagnosis: INTRA CRANIAL HEMORRHAGE
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     
+     ABDOMEN 2 VIEWS:
+     
+     No clinical information provided.
+     
+     There is retained contrast throughout the colon and no evidence for intestinal
+     obstruction. Surgical clips are present in the right upper quadrant s/p
+     cholecystectomy.( A single clip at the inferior level could represent a
+     dropped clip.)_ Small irregular density overlies lower portion of liver in the
+     right upper quadrant of uncertain location or significance as no calcification
+     is noted in this location on the prior CT scan of [**2607-7-18**]. No free
+     intraperitoneal gas. A G tube overlies left upper quadrant.
+     
+     IMPRESSION: No evidence for intestinal obstruction. 
+
+",,
+24252,2210,,,2607-07-20 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2607-7-20**] 9:29 AM
+     VIDEO OROPHARYNGEAL SWALLOW                                     Clip # [**Clip Number (Radiology) 1023**]
+     Reason: Able to swallow?                                            
+     Admitting Diagnosis: INTRA CRANIAL HEMORRHAGE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      25 year old woman with SCD, CVA x 2, aphasic, chronic asp pna now wanting to 
+      take PO as she has in the past; bedside S+S performed
+     REASON FOR THIS EXAMINATION:
+      Able to swallow?                                                                
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Dysphagia and suspected aspiration.
+     
+     FINDINGS:  Fluoroscopic imaging performed during ingestion of barium material
+     of varying consistencies in conjunction with the Speech Therapy Department.
+     There was impaired bolus control and AP tongue movement with premature
+     spillover into the pharynx.  There was significant oral residue.  Delayed
+     closure of the laryngeal vestibule with penetration of aspiration with thin
+     and nectar thick barium.  There is no pharyngeal residue after swallowing.
+     
+     IMPRESSION:  Penetration and aspiration with nectar thick and thin liquids
+     secondary to poor bolus control and premature spillover.  Please refer to a
+     Speech Therapy report available on OMR for comprehensive evaluation of this
+     swallow study.
+
+",,
+24252,2210,,,2607-07-20 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2607-7-20**] 3:13 PM
+     ABDOMEN (SUPINE & ERECT); REPEAT, (REQUEST BY RADIOLOGIST)      Clip # [**Clip Number (Radiology) 1024**]
+     Reason: ?STATUS
+     Admitting Diagnosis: INTRA CRANIAL HEMORRHAGE
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     
+     ABDOMEN 2 VIEWS:
+     
+     No clinical information provided.
+     
+     There is retained contrast throughout the colon and no evidence for intestinal
+     obstruction. Surgical clips are present in the right upper quadrant s/p
+     cholecystectomy.( A single clip at the inferior level could represent a
+     dropped clip.)_ Small irregular density overlies lower portion of liver in the
+     right upper quadrant of uncertain location or significance as no calcification
+     is noted in this location on the prior CT scan of [**2607-7-18**]. No free
+     intraperitoneal gas. A G tube overlies left upper quadrant.
+     
+     IMPRESSION: No evidence for intestinal obstruction. 
+
+",,
+24252,2210,,,2607-07-22 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2607-7-22**] 2:41 PM
+     G/GJ TUBE CHECK                                                 Clip # [**Clip Number (Radiology) 1025**]
+     Reason: assess g and j tube placement.                              
+     Admitting Diagnosis: INTRA CRANIAL HEMORRHAGE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      25 year old woman with sickle cell anemia.                                      
+     REASON FOR THIS EXAMINATION:
+      assess g and j tube placement.                                                  
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     ABDOMEN SINGLE FILM:
+     
+     HISTORY:   Sickle cell anemia and G/J tube placement.
+     
+     There is retained contrast throughout the colon.  J tube overlies left
+     abdomen.  Contrast introduced via the tube shows normal caliber loops of
+     jejunum.  Allowing for the overlapping contrast in the colon no definite
+     extraluminal contrast.
+
+",,
+24252,2210,,,2607-07-23 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2607-7-23**] 8:43 AM
+     PORTABLE ABDOMEN                                                Clip # [**Clip Number (Radiology) 1026**]
+     Reason: Evalute position of J-tube, G-tube.  G-tube replaced yesterd
+     Admitting Diagnosis: INTRA CRANIAL HEMORRHAGE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      25 year old woman with SSD, CVA x 2.  Has a portacath, G-tube, J-tube.          
+     REASON FOR THIS EXAMINATION:
+      Evalute position of J-tube, G-tube.  G-tube replaced yesterday.                 
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  G-J tube placement.
+     
+     There is retained contrast throughout the colon.  No contrast has been
+     introduced via the G-J tube to evaluate location.
+
+",,
+24252,2210,,,2607-07-24 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2607-7-24**] 11:10 AM
+     ABDOMEN (SUPINE ONLY)                                           Clip # [**Clip Number (Radiology) 1027**]
+     Reason: Please use gastrograffin through G-tube to evaluate position
+     Admitting Diagnosis: INTRA CRANIAL HEMORRHAGE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       25 year old woman with sickle cell anemia.                                     
+       
+     REASON FOR THIS EXAMINATION:
+      Please use gastrograffin through G-tube to evaluate position of G-tube (patient 
+      has G and J tubes - we already know J-tube is functioning).  
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     ABDOMEN SINGLE FILM:
+     
+     HISTORY: G tube placement in patient with sickle cell anemia.
+     
+     There is retained contrast throughout the colon. No definite contrast is
+     introduced via the G tube is identified on this film. Surgical clips are
+     present in the right upper quadrant.
+
+",,
+24252,11427,30128,0,2608-10-08 02:47:00 EST,2608-10-08 03:05:00 EST,3273,"N",53,"Nursing/Other",,"
+
+NPN (NOC):  PLEASE SEE FHPA AND FLOWSHEET FOR DETAILS OF PMHX, HPI AND ASSESSMENT.  BRIEFLY, PT IS A 27 Y/O FEMALE W/ A PMHX OF SICKLE CELL ANEMIA S/P CVA X2 WHO HAD A GRAND MAL SZ AT HOME TODAY.  HEAD CT AT OSH SHOWED LG THALAMIC BLEED W/ L> R SUBFALCINE HERNIATION AND INTRAVENTRICULAR BLEED W/ MARKED HYDROCEPHALUS.  TRANS TO [**Hospital1 3**] FOR FURTHER EVALUATION AND MANAGEMENT.  RPT HEAD CT IS UNCHANGED, BUT SHE IS NOT A SURGICAL CANDIDATE.  ADM TO SICU FOR FURTHER CONSERVATIVE CARE.
+
+ROS:  CV- HR 70'S, NSR W/O ECTOPY.  LABETOLOL DRIP MAINTAINED TO KEEP SBP < 140.
+
+RESP:  INTUBATED.  CURRENT VENT SETTINGS AC 16X450X50%.  NOT OVERBREATHING SET RATE.  SATS 100%.  BS'S CLEAR.  SX'D X 1 FOR NO SECRETIONS.  TMAX 100.  
+
+NEURO:  PT IS UNRESPONSIVE. PUPILS ARE NON EQUAL, L> R AND NON REACTIVE.  SHE HAS A COUGH BUT POOR GAG AT BASELINE D/T PRIOR CVA.  NO RESPONSE TO PAIN IN ANY EXTREMITIES EXCEPT TOES ARE SLIGHTLY UPGOING BILAT.  NEURO MED IS AWARE.  PT IS TO RECEIVE MANNITOL Q 6 HRS.  LOADED W/ DILANTIN AT OSH.  TO RECEIVE DIALTIN 100 IV TID.  PAST SZ D/O WAS [**Doctor Last Name 1055**] MAL SZ SINCE CHILDHOOD, NO NEED TO CONTINUE TRILEPTAL PER NEURO. 
+
+GI:  HAS J-TUBE.  IS NPO FOR NOW BUT RECEIVES TF AT HOME.
+
+F/E:  UO IS BRISK S/P MANNITOL.  WILL CHECK 'LYTES AND OSOMS IN AM. 
+
+SOCIAL:  PT'S MO AND FA INTO VISIT.  THEY HAVE SPOKEN TO NEURO MED AND NEURO [**Doctor First Name 125**].  PT ALSO HAS A YOUNG SON WHO ALSO HAS SCD.  PT'S MO TAKES CARE OF BOTH OF THEM (PT WAS APHASIC AND WHEELCHAIR BOUND PRIOR TO THIS CVA.)     
+",,
+24252,11427,30128,0,2608-10-08 16:17:00 EST,2608-10-08 16:19:00 EST,4428,"N",53,"Nursing/Other","Resp Care","
+Resp Care
+Pt remains on mech vent-parameters noted.  No wean this shift.  ABG within parameters.  Team would like PaCO2 to remain within 35-40.  Head CT today shows increase bleed in ventricles.  Suction for small amt of thick whitish secretions.  Will continue mech vent and wean as tol.
+",,
+24252,11427,30128,0,2608-10-08 18:48:00 EST,2608-10-08 18:59:00 EST,4194,"N",53,"Nursing/Other","focus update note","
+focus update note
+please see flowsheet for details
+
+pt with large thalmic bleed with herniation, pupils now fixed and dilated,no corneal reflex, negative dolls eyes,no nystagmus to cold ice water in ear, no gag repeat stat head ct [**Last Name (un) 2695**] worsening of bleed, minimal breaths when pt taken off the ventilator.  pt requiring neo gtt at 5 mcq/kg/min to keep sbp 110-140, total iv bolus given 2 liters, K 3.0 repleated with 40 kcl, urine output increased, sodium 157, free water bolus' 250cc q 6 hours ordered, pt temp range 92.7-101.4 pt on/off bair hugger/ cooling blanket. q 6 hours serum osmos, mannitol q 6 hours for serum osmo < 325.
+
+poor prognosis discussed multiple times with pt mother and father(health care proxy's) and family would like to have pt full code at this time. social work notified 
+
+plan: continue with above mentioned plan of care, provide emotional support to family, continue to monitor neuro status closely.
+",,
+24252,11427,30128,0,2608-10-08 20:42:00 EST,2608-10-08 20:49:00 EST,5219,"N",53,"Nursing/Other",,"
+
+[**10-8**]    19/07 SHIFT
+    PT REMAINS IN COMA STATE NO DEEP TENDON NEG DOLLS NEG CORNEAL PUPILS FIX DIALATED 
+    RESP NO EFFORT CMV CLEAR FIELDS 
+    HEART S1S2 ST ON MAX NEO TO MAINTAIN BP 110 SYS PLEASE CAREVIEW FOR DETAILS 
+    GI NO B/S NOTED ABD DISTENDED N/G IN PLACE SUCTION IN PROGRESS 
+     SUPPORTIVE CARE MONITOR LYTES OSMO ABG S/S DI DDAVP IF NEEDED 
+            HELP FAMILY WITH [**Known patient firstname 4368**] SITUATION 
+",,
+24252,,30128,0,2608-10-09 04:37:00 EST,2608-10-09 04:39:00 EST,3971,"N",53,"Nursing/Other","Respiratory Care:","
+Respiratory Care:
+Patient remains on A/C ventilatory support.  FIO2 decreased from 50% to 40%.  Morning abg results on 50% revealed a normal acid-base balance with excellent oxygenation.
+
+No RSBI determined at this time, due to patient's instability. 
+",,
+24252,,30128,0,2608-10-09 13:11:00 EST,2608-10-09 13:12:00 EST,4428,"N",53,"Nursing/Other","Resp Care","
+Resp Care
+Pt received on mech vent-parameters noted.  Apnea test performed.  Pt passed (no attempt at resp made, PaCO2 greater than 60).  Per family's wishes, pt removed from mech vent.  Extubated to room air.
+",,
+24252,,30128,0,2608-10-09 15:15:00 EST,2608-10-09 15:23:00 EST,4194,"N",53,"Nursing/Other","focus update: pt made care and comfort measures","
+focus update: pt made care and comfort measures
+neuro status remains unchanged, pt requiring increased amounts of levophed and neo gtts to maintain blood pressure, brain death protocol performed by Dr [**Last Name (STitle) **] attending neurologist, icu resident present [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 4369**], nursing and respiratory therapist at bedside, pt health care proxy (pt's mother) as well as her step father were present and social work.  pt was declared brain dead.  family meeting occured with attending neurologist following at which time the decision was made to make the pt care and comfort measures only.  pt was extubated and levophed/neo gtts were discontinued at 1400, pt was pronounced dead at 1428.  pts parents were in the pts room at the time.  social work was notified to facilitate funeral arrangements and pts primary care physician was notified. 
+",,

@@ -1,0 +1,125 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+24614,8066,,,3164-12-04 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+
+",,
+24614,8066,30564,1,3164-12-04 21:24:00 EST,3164-12-04 22:03:00 EST,3204,"Y",54,"Nursing/Other",,"
+
+RAISED RED RASH NOTED PRIMARILY CONTAINED ON TRUNK ON ARRIVAL. BENADRYL GIVEN W RESOLUTION. FAMILY REPORTS NO ALLERGIES INCL. PCN.
+",,
+24614,8066,30564,0,3164-12-04 21:24:00 EST,3164-12-04 21:42:00 EST,3204,"N",54,"Nursing/Other",,"
+
+NEURO 4+ ANXIOUS,AGITATED,GESTURING WHILE WAKING. EXTUBATED ASAP W SOME RELIEF BUT HALDOL 1 MG GIVEN AS NEEDED FOR UNSAFE MOVEMENT,SITTING UP W IABP ETC. C/O SEVERE INCISONAL PAIN DESPITE MSO4. PERCOCET GIVEN W GOOD RELIEF OF PAIN. SLEEPING IN LONG NAPS.
+RESP. NO ISSUES.NEEDS REMINDERS TO C & DB. SPLINTING PILLOW PROVIDED & USE DEMONSTRATED. POST OP ACTIVITY BOOK GIVEN TO WIFE. 
+CV A PACED FOR UNDERLYING SB 50'S. RATE INCREASED FROM 77->88 FOR BP SUPPORT. DROPPING FILLING PRESSURRES W INCREASED NEO REQUIREMENTS->VOLUME. SEE FLOW SHEET. EXCELLENT HEMODYNAMICS.IABP @ 1:2 W VARIABLE PARAMETERS. POOR TRACE DESPITE FEEQ. A LINE FLUSHING. PLAN REMOVAL IN A.M. KNEE IMMOBILIZER APPLIED. DOPPLERABLE PULSES PRESENT X 4.
+GI TOLERATING ICE CHIPS,SIPS W PILLS.
+GU NO ISSUES
+ENDO SSRI FOR ELEV. GLUCOSES SEE INSULIN FLOW SHEET FOR DOSING
+PLAN CONT. PRESENT CARE,REMOVE IABP,PROGRESS ACTIVITY,CONTROL GLUCOE,ASSIST W PULM. TOILET,PAIN CONTROL
+",,
+24614,8066,30564,0,3164-12-05 07:54:00 EST,3164-12-05 08:10:00 EST,3169,"N",54,"Nursing/Other",,"
+
+[**12-4**] 2300-0700 CSRU SHIFT SUMMARY NOTE;
+
+NEURO;  ALERT, ORIENT, PLEASANTLY ANXIOUS. FOLLOWS COMMANDS AND MAE'S WELL.
+
+RESP; LUNGS CLEAR DIM IN THE BASES. 02 SAT'S AND RR WNL ON 2L N/C. CHEST TUBES DRAINING MINIMAL SEROSANQ. DRAINAGE. ABG WNL OVER NOC.
+
+CARDIOVAS;  A-PACED FOR BP SUPPORT UNDERLYING RHYTHM SB 50'S TO SR 60'S.  PT DID HAVE 8BEAT RUN OF VTACH WHICH DR [**Last Name (STitle) **] NOTIFIED AND PT TX WITH 2 GMS OF MG SULFATE AND POTASSIUM ALONG WITH ION CA REPLACED. CI>2 ALL NOC WITH IABP ON 1:2 AND 1:3. BILATERAL DP'S AND PT'S PRESENT BY DOPPLER. BILATERAL FEMERAL LINES CDI WITH NO HEMATOMA NOTED. IABP WITH POOR WAVEFORM AND POOR AGUMENTATION EVEN WITH TIMING ADJUSTMENTS. PT INITALLY ON NEO AND DRIP TITRATED TO MAINTAIN MAP >60 AND <90.  PT GIVEN 500CC HESPAN X1 FOR LOW FILLING PRESSURES AND INCREASING NEO REQUIREMENT.
+
+GI; BS ABSENT TAKING AND TOLERATING ICE CHIPS ALONG WITH SIPS OF H20 WITH MEDS.
+
+GU; HOURLY URINE OP WNL ALL NOC
+
+COMFORT; MED WITH PERCOCETS 1 TAB PO SEVERAL TIMES WITH MINIMAL EFFECT. PT ALSO GIVEN MS04 4MG SQ WITH GOOD EFFECT. 
+
+PLAN;  CONT TO MONITOR AND ASSESS. WEAN AND DC IABP THIS AM. WEAN NEO AS TOLERATES. 
+",,
+24614,8066,30564,0,3164-12-05 18:34:00 EST,3164-12-05 18:45:00 EST,-1,"N",54,"Nursing/Other",,"
+
+NEURO: A+Ox3, MAE, pleasantly anxious. Given 2 percocet and mso4 sc/iv intermittently for c/o incisional discomfort for shorterm pain relief.
+
+CV: VSS. IABP, R femline d/c'd. Positive pedal pulses with palpation. Weaning NEO. Bp and CI are sufficient. MAP 70's. D/c'd PA line. Apaced 88. Underlying rhythm 50-60's sb-nsr. Given 1 prbc's. Groin sites are benign.
+
+RESP: Denies sob. Lungs are clear with diminished bases. Spo2 >95% 2L np. Sero-sangiunous drainage in CT's. See flow sheet for output.
+
+RENAL: U/O adequate. output > 40cc.
+
+GI: + BS. ABD softly distended and non tender. Tolerating solid foods. Fair appetite.
+
+ASSESS: Hemodynamically stable.
+
+PLAN: Continue to wean neo. Increase activity as tol. Pain mgmt. ? D/C to [**Hospital Ward Name **] 2 tomorrow if stable. 
+
+
+",,
+24614,8066,30564,0,3164-12-06 06:22:00 EST,3164-12-06 06:34:00 EST,-1,"N",54,"Nursing/Other",,"
+
+Neuro: Pt awake, alert & oriented x3, MAE, follows commands, conversation appropiate.
+
+CV: Heart rate 88 A paced, 100%, underlying SB rate 60's. MAP 60's
+Neo remained off all night. Chest tubes with minimal SS drainage, A & V pacing wires secure to temp pacer box.
+
+RESP: NC at 2l with O2 sats 95 to 96%. Lungs clear upper lobes and dim
+lower lobes, occ end exp wheeze noted, albuterol Neb x1 helped. Chest PT done, Pt using IS to 750 and coughing up clear secretions.
+
+GI: ABD soft, +BS, tolerating water during the night.
+
+GU: Foley to gravity draining clear yel urine
+
+Endocrine: Blood sugars covered with insulin per insulin protocol. 
+",,
+24614,8066,30564,0,3164-12-06 17:24:00 EST,3164-12-06 17:35:00 EST,-1,"N",54,"Nursing/Other",,"
+
+NEURO: A+Ox3, anxious today. Refused anxiolytic. Afraid it would make him jump out of bed. MAE. @ percocet tabs given this am for discomfort with coughing. Good effect noted. Ambulated with PT.
+
+CV: BP stable off neo. Now in NSR 70's-80's. Pacer turned off. 
+
+RESP: Anxious in the am. Lungs had exp wheezes and bibasilar. Spo2 > 95%. Not relieved with neb tx. Gave 20mg iv lasix. Diuresed well. Cleared exp wheezes. Still has bibasilar crackles. Will recieve lasix iv bid. CT d/c'd.
+
+RENAL: Diuresing well with lasix.
+
+ACT: Ambulated with PT. OOB to chair for 6hrs.
+
+ASSESS: Stable
+
+PLAN: Continue diureing, INH prn. Transfer to floor in am.
+",,
+24614,8066,30564,0,3164-12-07 04:29:00 EST,3164-12-07 04:41:00 EST,-1,"N",54,"Nursing/Other",,"
+
+Neuro: pt alert and oriented x3 for most of the night. When woke from a sound [**Doctor Last Name **] he is a bit disoriented but reorients easily. MAE, follows commands and conversation is appropiate.
+
+CV: Heartrate 70 A paced most of the night. occ has a rhythm 74 to 80
+underlying rhythm 60 to 64 and SBP 90's. No ectopy noted. Lasix at 2300 with good response. 
+
+RESP: pt on 2l NC with O2 sats 99%. Lungs clear most of the night
+till early morning with increased activity end exp wheezing. Chest PT
+done, pt using IS when awake, occ productive cough.
+
+GI: Abd soft, +BS, tolerating water during the night.
+
+GU: Foley to gravity drainage draining clear yel urine.
+
+Endocrine: Blood sugars being covered with Insulin per protocol
+",,
+24614,8066,30564,0,3164-12-07 14:33:00 EST,3164-12-07 14:43:00 EST,3556,"N",54,"Nursing/Other",,"
+
+NURSING PROGRESS NOTE SEE CAREVIEW FOR DETAILS AND NURSING TRANSFER NOTE.
+
+NEURO:AWAKE,ALERT,ORIENTED X3.PUPILS PERL,SPEECH CLEAR FOLLOWS COMMANDS BUT HAS PERIODS OF LETHARGY.ABGS WERE CHECKED AND HAD UNIT OF BLOOD.
+
+CV:BP STABLE LOPRESSOR WAS INCREASED TO 50MG PO TID AND STARTED ON AMLODIPINE PO TODAY.HAS HAD FEW PVCS MAG WAS WNL THIS AM.
+
+RESP:BREATH SOUNDS DIMINISHED,SPO2 98% ON 2LMIN.INSTUCTED IN USE OF IS,ABGS WERE DRAWN DUE TO LETHARGY.
+
+GU:NO LASIX VOIDS IN GOOD AMOUNTS.
+
+GI:ABD SOFT WITH POSITIVE BOWEL SOUNDS,BELCHING GIVEN REGLAN WITH GOOD RELIEF.
+
+ACCESS:HAS #18 PERIPHERAL IV IN PLACE.
+
+SOCIAL:SON CALLED AND WILL COME TO VISIT.
+",,
+24614,8066,30564,0,3164-12-07 14:45:00 EST,3164-12-07 14:46:00 EST,3556,"N",54,"Nursing/Other",,"
+
+PLEASE DISREGARD NOTE ABOVE DOES NOT APPLY TO THIS PT 
+",,

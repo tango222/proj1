@@ -1,0 +1,2114 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+24896,17667,,,2900-04-28 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+ 
+ 
+ 
+Admission Date:  [**2900-4-28**]              Discharge Date:   [**2900-5-11**]
+ 
+Date of Birth:  [**2826-9-3**]             Sex:   F
+ 
+Service: CARDIOTHORACIC
+ 
+Allergies: 
+Patient recorded as having No Known Allergies to Drugs
+ 
+Attending:[**First Name3 (LF) 3421**] 
+Chief Complaint:
+constipation, dizziness, nausea, weakness
+ 
+Major Surgical or Invasive Procedure:
+repair right common femoral pseudoaneurysm    [**2900-5-2**]
+cabg x5  [**2900-5-4**]   (LIMA to LAD, SVG to PDA, SVG to 
+Diag2,sequentially to OM1, sequentially to OM3
+exploratory laparoscopy/open cholecystectomy  [**2900-5-6**]
+bedside abd. washout and segmental colectomy  [**2900-5-7**]
+completion right colectomy/ileostomy          [**2900-5-9**]
+
+ 
+History of Present Illness:
+73 yo female presented to OSH on [**4-23**] with c/o nausea, weakness, 
+constipation and dizziness. Also found to be anemic with Hct 
+27.6. Work-up revealed NSTEMI with troponin 11.7. Cath on [**4-27**] 
+showed three vessel CAD.Prior echo [**6-7**] showed EF 60-65% and 
+[**1-4**]+ MR. [**First Name (Titles) **] [**Last Name (Titles) 6276**] did not suggest GI source for anemia. Also 
+treated for a UTI at OSH. Developed CHF and transferred to [**Hospital1 25**] 
+for further management. 
+ 
+Past Medical History:
+HTN
+NSTEMI
+anemia
+elev. lipids
+GERD
+duodenal ulcer/gastritis
+MI [**2880**]
+chronic constipation
+
+no prior surgeries
+ 
+Social History:
+no ETOH or tobacco
+lives alone
+ 
+Family History:
+father and sister died of MI in their 50's
+ 
+Physical Exam:
+frail, cachectic appearing elderly woman in NAD
+39.9 kg    96% 2L NC  111/63   HR 73   RR 20
+non-icteric sclera
+no JVD
+bilat. carotid bruits
+lungs CTAB
+RRR   3/6 systolic murmur
+soft, NT, ND, no organomegaly or masses
+extrems without edema or varicosities
+2+ bil radials/2+ right femoral trace left femoral
+ 1+ right DP/PT, non-palpable left DP/PT
+
+ 
+Pertinent Results:
+[**2900-4-29**] 07:51AM BLOOD WBC-10.6 RBC-4.79 Hgb-14.1 Hct-41.7 
+MCV-87 MCH-29.4 MCHC-33.8 RDW-13.8 Plt Ct-356
+[**2900-5-11**] 12:29AM BLOOD WBC-30.6* RBC-3.74* Hgb-10.9* Hct-32.6* 
+MCV-87 MCH-29.3 MCHC-33.5 RDW-17.6* Plt Ct-86*
+[**2900-5-11**] 12:29AM BLOOD PT-35.9* PTT-94.1* INR(PT)-3.9*
+[**2900-5-11**] 12:29AM BLOOD Plt Ct-86*
+[**2900-4-29**] 07:51AM BLOOD PT-14.3* PTT-150* INR(PT)-1.3*
+[**2900-5-11**] 12:29AM BLOOD Glucose-190* UreaN-39* Creat-2.0* Na-131* 
+K-5.1 Cl-92* HCO3-17* AnGap-27*
+[**2900-4-29**] 07:51AM BLOOD Glucose-105 UreaN-23* Creat-1.5* Na-137 
+K-4.3 Cl-105 HCO3-20* AnGap-16
+[**2900-5-10**] 02:37AM BLOOD ALT-568* AST-384* LD(LDH)-514* 
+AlkPhos-110 Amylase-17 TotBili-17.0*
+[**2900-4-29**] 07:51AM BLOOD ALT-95* AST-75* LD(LDH)-253* AlkPhos-104 
+TotBili-0.5
+[**2900-5-10**] 02:37AM BLOOD Lipase-11
+[**2900-5-11**] 12:29AM BLOOD Calcium-7.8* Phos-4.1 Mg-2.1
+[**2900-4-29**] 07:51AM BLOOD %HbA1c-5.9 [Hgb]-DONE [A1c]-DONE
+[**2900-5-9**] 09:17PM BLOOD TSH-0.43
+[**2900-5-10**] 09:56AM BLOOD Cortsol-37.6
+
+Cardiology Report ECHO Study Date of [**2900-5-4**]   
+ 
+  
+  
+PATIENT/TEST INFORMATION: 
+Indication: cabg 
+Status: Inpatient 
+Date/Time: [**2900-5-4**] at 10:02 
+Test: TEE (Complete) 
+Doppler: Full Doppler and color Doppler 
+Contrast: None 
+Tape Number: 2006AW595-: 
+Test Location: Anesthesia West OR cardiac 
+Technical Quality: Adequate 
+ 
+
+ 
+ 
+REFERRING DOCTOR: DR. [**First Name11 (Name Pattern1) **] [**Initial (NamePattern1) **] [**Last Name (NamePattern4) **] 
+  
+MEASUREMENTS:  
+Left Ventricle - Inferolateral Thickness: 0.9 cm (nl 0.6 - 1.1 
+cm) 
+Left Ventricle - Diastolic Dimension: 3.9 cm (nl <= 5.6 cm) 
+Left Ventricle - Ejection Fraction: 50% to 55% (nl >=55%) 
+Aorta - Valve Level: 1.9 cm (nl <= 3.6 cm) 
+Aorta - Ascending: 2.8 cm (nl <= 3.4 cm) 
+Aorta - Descending Thoracic: 2.5 cm (nl <= 2.5 cm) 
+Aortic Valve - Peak Gradient: 18 mm Hg 
+Aortic Valve - LVOT Diam: 1.5 cm 
+Aortic Valve - Valve Area: *0.8 cm2 (nl >= 3.0 cm2) 
+Mitral Valve - MVA (P [**1-4**] T): 3.1 cm2 
+  
+INTERPRETATION:  
+      
+Findings:  
+  
+LEFT ATRIUM: No spontaneous echo contrast is seen in the LAA.  
+  
+RIGHT ATRIUM/INTERATRIAL SEPTUM: Normal interatrial septum.  
+  
+LEFT VENTRICLE: Wall thickness and cavity dimensions were 
+obtained from 2D  
+images. Normal LV wall thicknesses and cavity size.  
+  
+LV WALL MOTION: basal anterior - normal; mid anterior - normal; 
+basal  
+anteroseptal - normal; mid anteroseptal - normal; basal 
+inferoseptal - normal;  
+mid inferoseptal - normal; basal inferior - normal; mid inferior 
+- normal;  
+basal inferolateral - normal; mid inferolateral - normal; basal 
+anterolateral  
+- normal; mid anterolateral - normal; anterior apex - normal; 
+septal apex -  
+normal; inferior apex - normal; lateral apex - normal; apex - 
+normal;  
+  
+RIGHT VENTRICLE: Normal RV chamber size and free wall motion.  
+  
+AORTA: Normal aortic root diameter. Simple atheroma in aortic 
+root. Normal  
+ascending aorta diameter. Simple atheroma in ascending aorta. 
+Normal  
+descending aorta diameter. Simple atheroma in descending aorta.  
+
+  
+AORTIC VALVE: Three aortic valve leaflets. Moderate AS. Mild 
+(1+) AR.  
+  
+MITRAL VALVE: Mildly thickened mitral valve leaflets. Moderate 
+(2+) MR.  
+  
+TRICUSPID VALVE: Normal tricuspid valve leaflets. Mild [1+] TR.  
+
+  
+PULMONIC VALVE/PULMONARY ARTERY: Physiologic (normal) PR.  
+  
+PERICARDIUM: No pericardial effusion.  
+  
+GENERAL COMMENTS: A TEE was performed in the location listed 
+above. I certify  
+I was present in compliance with HCFA regulations. The patient 
+was under  
+general anesthesia throughout the procedure.  
+   
+Conclusions:  
+Pre-CPB: No spontaneous echo contrast is seen in the left atrial 
+appendage.  
+Left ventricular wall thicknesses and cavity size are normal. 
+Right  
+ventricular chamber size and free wall motion are normal. There 
+are simple  
+atheroma in the aortic root. There are simple atheroma in the 
+ascending aorta.  
+There are simple atheroma in the descending thoracic aorta. 
+There are three  
+aortic valve leaflets. There is moderate aortic valve stenosis, 
+with a  
+gradient of 18 mmHg. Area 0.8 by planimetry, 0.7 by continuity. 
+Discussed with  
+surgeons. . Mild (1+) aortic regurgitation is seen. The mitral 
+valve leaflets  
+are mildly thickened. Moderate (2+) mitral regurgitation is 
+seen. There is no  
+pericardial effusion.  
+Epi-aortic scan showed isolated atheroma in ascending aorta and 
+helped in  
+deciding location of aortic cannula and cross-clamp.  
+  
+Post- CPB: Preserved biventricular systolic function. 1+ MR, 
+trace AI. Aorta  
+intact. Other parameters as pre-bypass.  
+  
+Electronically signed by [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 833**], MD on [**2900-5-4**] 12:29.  
+READING PHYSICIAN:   
+ 
+ 
+  
+(06-06479P) 
+
+ 
+ 
+Cardiology Report ECHO Study Date of [**2900-5-4**]   
+ 
+  
+  
+PATIENT/TEST INFORMATION: 
+Indication: cabg 
+Status: Inpatient 
+Date/Time: [**2900-5-4**] at 10:02 
+Test: TEE (Complete) 
+Doppler: Full Doppler and color Doppler 
+Contrast: None 
+Tape Number: 2006AW595-: 
+Test Location: Anesthesia West OR cardiac 
+Technical Quality: Adequate 
+ 
+
+ 
+ 
+REFERRING DOCTOR: DR. [**First Name11 (Name Pattern1) **] [**Initial (NamePattern1) **] [**Last Name (NamePattern4) **] 
+  
+MEASUREMENTS:  
+Left Ventricle - Inferolateral Thickness: 0.9 cm (nl 0.6 - 1.1 
+cm) 
+Left Ventricle - Diastolic Dimension: 3.9 cm (nl <= 5.6 cm) 
+Left Ventricle - Ejection Fraction: 50% to 55% (nl >=55%) 
+Aorta - Valve Level: 1.9 cm (nl <= 3.6 cm) 
+Aorta - Ascending: 2.8 cm (nl <= 3.4 cm) 
+Aorta - Descending Thoracic: 2.5 cm (nl <= 2.5 cm) 
+Aortic Valve - Peak Gradient: 18 mm Hg 
+Aortic Valve - LVOT Diam: 1.5 cm 
+Aortic Valve - Valve Area: *0.8 cm2 (nl >= 3.0 cm2) 
+Mitral Valve - MVA (P [**1-4**] T): 3.1 cm2 
+  
+INTERPRETATION:  
+      
+Findings:  
+  
+LEFT ATRIUM: No spontaneous echo contrast is seen in the LAA.  
+  
+RIGHT ATRIUM/INTERATRIAL SEPTUM: Normal interatrial septum.  
+  
+LEFT VENTRICLE: Wall thickness and cavity dimensions were 
+obtained from 2D  
+images. Normal LV wall thicknesses and cavity size.  
+  
+LV WALL MOTION: basal anterior - normal; mid anterior - normal; 
+basal  
+anteroseptal - normal; mid anteroseptal - normal; basal 
+inferoseptal - normal;  
+mid inferoseptal - normal; basal inferior - normal; mid inferior 
+- normal;  
+basal inferolateral - normal; mid inferolateral - normal; basal 
+anterolateral  
+- normal; mid anterolateral - normal; anterior apex - normal; 
+septal apex -  
+normal; inferior apex - normal; lateral apex - normal; apex - 
+normal;  
+  
+RIGHT VENTRICLE: Normal RV chamber size and free wall motion.  
+  
+AORTA: Normal aortic root diameter. Simple atheroma in aortic 
+root. Normal  
+ascending aorta diameter. Simple atheroma in ascending aorta. 
+Normal  
+descending aorta diameter. Simple atheroma in descending aorta.  
+
+  
+AORTIC VALVE: Three aortic valve leaflets. Moderate AS. Mild 
+(1+) AR.  
+  
+MITRAL VALVE: Mildly thickened mitral valve leaflets. Moderate 
+(2+) MR.  
+  
+TRICUSPID VALVE: Normal tricuspid valve leaflets. Mild [1+] TR.  
+
+  
+PULMONIC VALVE/PULMONARY ARTERY: Physiologic (normal) PR.  
+  
+PERICARDIUM: No pericardial effusion.  
+  
+GENERAL COMMENTS: A TEE was performed in the location listed 
+above. I certify  
+I was present in compliance with HCFA regulations. The patient 
+was under  
+general anesthesia throughout the procedure.  
+   
+Conclusions:  
+Pre-CPB: No spontaneous echo contrast is seen in the left atrial 
+appendage.  
+Left ventricular wall thicknesses and cavity size are normal. 
+Right  
+ventricular chamber size and free wall motion are normal. There 
+are simple  
+atheroma in the aortic root. There are simple atheroma in the 
+ascending aorta.  
+There are simple atheroma in the descending thoracic aorta. 
+There are three  
+aortic valve leaflets. There is moderate aortic valve stenosis, 
+with a  
+gradient of 18 mmHg. Area 0.8 by planimetry, 0.7 by continuity. 
+Discussed with  
+surgeons. . Mild (1+) aortic regurgitation is seen. The mitral 
+valve leaflets  
+are mildly thickened. Moderate (2+) mitral regurgitation is 
+seen. There is no  
+pericardial effusion.  
+Epi-aortic scan showed isolated atheroma in ascending aorta and 
+helped in  
+deciding location of aortic cannula and cross-clamp.  
+  
+Post- CPB: Preserved biventricular systolic function. 1+ MR, 
+trace AI. Aorta  
+intact. Other parameters as pre-bypass.  
+  
+Electronically signed by [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 833**], MD on [**2900-5-4**] 12:29.  
+READING PHYSICIAN:   
+ 
+ 
+  
+(06-06479P) 
+
+   RADIOLOGY  Final Report
+
+CT ABDOMEN W/CONTRAST  [**2900-5-5**] 8:51 PM
+
+CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST
+
+Reason: r/o ischemic bowel 
+Field of view: 36 Contrast: OPTIRAY
+
+UNDERLYING MEDICAL CONDITION:
+73 year old woman with abd pain RLQ s/p Cardiac cath/R groin, 
+and flu, w/ Elevated WBC count, and HCT drop 
+REASON FOR THIS EXAMINATION:
+r/o ischemic bowel 
+CONTRAINDICATIONS for IV CONTRAST: None.
+
+INDICATION: 73-year-old woman with abdominal pain, right lower 
+quadrant, status post cardiac catheterization and elevated 
+lactate and white blood cell count. Please evaluate for ischemic 
+bowel.
+
+COMPARISON: [**2900-5-2**].
+
+TECHNIQUE: Contrast-enhanced axial CT imaging of the abdomen and 
+pelvis was compared to [**2900-5-2**].
+
+CT ABDOMEN WITH CONTRAST: There are new moderate sized bilateral 
+pleural effusions with bilateral atelectasis that is moderate in 
+severity. Patient is status post recent CABG with chest tubes in 
+the mediastinum. The liver enhances homogeneously. There is a 
+small amount of ascites. The density of the gallbladder is 
+increased suggesting sludge. There is minimal pericholecystic 
+fluid. The common bile duct is not clearly seen but does not 
+appear dilated. The pancreas, spleen, kidneys, stomach, are 
+unchanged from [**2900-5-2**]. The small bowel loops are normal 
+caliber. Examination of the small bowel wall is somewhat limited 
+secondary to artifact from previous contrast in the colon, but 
+there is no evidence for pneumatosis or small bowel wall 
+thickening. There is no portal venous air. A large heterogeneous 
+retroperitoneal structure representing a hematoma is unchanged 
+in size from [**2900-5-2**].
+
+CT PELVIS WITH CONTRAST: There is a new ascites in the pelvis. 
+There is evidence for anasarca throughout the soft tissues. 
+Evaluation of the large bowel wall is somewhat limited due to 
+artifact from retained contrast. The bowel is caliber is normal. 
+Evaluation for pneumatosis and bowel wall thickening is limited. 
+The distal ureters and bladder are normal. A Foley is present in 
+the bladder. Air is present throughout the medial and anterior 
+compartment of the thigh. This is likely secondary to a graft 
+harvest, but clinical correlation at this site is recommended. 
+Subcutaneous edema is present in both extremities (right greater 
+than left).
+
+BONE WINDOWS: The osseous structures are unchanged except for 
+new sternotomy wires.
+
+IMPRESSION:
+
+1. Moderate bilateral pleural effusions and moderate atelectasis 
+that is new.
+
+2. New ascites and anasarca.
+
+3. Gallbladder sludge.
+
+4. Evaluation of the bowel wall is limited secondary to contrast 
+artifact, but there is no portal venous air or obvious bowel 
+wall thickening to indicate ischemia.
+
+5. Stable right retroperitoneal hematoma.
+
+6. Right thigh gas that is likely secondary to graft harvest, 
+but clinical correlation recommended. 
+The study and the report were reviewed by the staff radiologist.
+DR. [**First Name5 (NamePattern1) **] [**Last Name (NamePattern1) 5265**]
+DR. [**First Name (STitle) 6277**] [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 6278**]
+Approved: [**Doctor First Name 122**] [**2900-5-6**] 9:44 AM
+
+ 
+ 
+
+ 
+ 
+
+ 
+Brief Hospital Course:
+Admitted [**4-28**] and heparin started. Tamiflu continued for URI/? 
+flu. Cipro continued for UTI.  Carotid US showed bilat. ICA < 
+40% stenoses.Chest CT done [**5-1**] showed an atrophic kidney and 
+coronary and aortic calcifications.Had nausea and vomiting on 
+[**5-2**] and vascular consult done to r/o retroperitoneal bleed due 
+to prior cath. Hct decreased from 38 to 22 and she c/o 
+abd/back/unilateral LE pain. Pt. also became hypotensive with 
+SBP in 80's during vasc. exam. Transferred to CSRU for further 
+management. CT scan showed retroperitoneal bleed. Emergent right 
+femoral arterial repair done [**5-2**] by Dr. [**Last Name (STitle) 1057**]. Extubated the 
+following morning. Underwent cabg x5 with Dr. [**Last Name (STitle) **] on [**5-4**]. 
+Transferred to the CSRU in stable condition on titrated 
+phenylephrine and propofol drips. Became hypotensive later that 
+day and epinephrine and levophed drips started.Milrinone and 
+insulin drips also started. Acidosis progressively worsened and 
+distending abdomen with RUQ tenderness prompted an evaluation by 
+general surgery on [**5-5**]. LFTs also continued to rise.CT scan and 
+RUQ ultrasound done showing gall bladder edema and sludge, 
+ascites, and no obvious portal venous air or bowel ischemia.
+
+Dr. [**First Name (STitle) **] elected to take the pt. to the OR for exploratory 
+laparoscopy to definitively rule out ischemia and a diagnosis of 
+gangrenous cholecystitis was made. Converted to open 
+cholecystectomy with significant bleeding due to hepatic 
+congestion and coagulopathy.Abdomen tense with decreasing urine 
+output and increasing ventilatory requirements noted the 
+following morning.She developed atrial flutter/fib and was seen 
+by the EP service.Abdomen opened at the bedside for 
+decompression and washout on [**5-6**].She developed right hand and L 
+leg ischemia on [**5-7**] while on continuing pressor support, and 
+vasc. surgery re-consulted. On [**5-7**] exploratory lap done by gen. 
+surgery and partial colectomy done for ischemia. She developed 
+ATN and thrombocytopenia. Renal and hematology consults done 
+with diagnosis of DIC and liver failure. IV Amiodarone started 
+for recurrent arrhythmias per EP. She remained critically ill on 
+significant pressor support.
+
+Epinephrine drip restarted [**5-9**] for additional support and CVVH 
+started. Pt. returned to OR for completion right colectomy and 
+ileostomy on [**5-9**]. She had a brief period of asystole in surgery. 
+Prognosis grim with multi-system organ failure. She required 
+increasing pressors and lactic acid rose to 19 on [**5-11**]. She went 
+into PEA and pacer unable to capture. No resuscitation 
+performed. Expired at approx. 5:55 AM and pronounced by Dr. 
+[**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **]. 
+ 
+Medications on Admission:
+protonix 40 mg daily
+labetalol 100 ng BID
+ASA 325 mg daily
+lisinopril 20 mg daily
+simvastatin 80 mg daily
+isosorbide mononitrate 30 mg daily
+tamiflu 75 mg BID
+ 
+Discharge Disposition:
+Expired
+ 
+Discharge Diagnosis:
+CAD  s/p CABG x5
+NSTEMI
+CHF
+bowel ischemia s/p colectomy/ileostomy/cholecystectomy
+multi-system organ failure
+retroperitoneal bleed
+DIC
+HTN
+GERD
+gastritis/duodenal ulcer
+anemia
+elev. lipids
+prior MI [**2880**]
+ 
+Discharge Condition:
+expired
+ 
+                             [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 3423**] MD [**MD Number 3424**]
+ 
+Completed by: [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 1185**] NP[**MD Number 1186**] [**2901-8-10**] @ 1209
+Signed electronically by: DR. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **]
+ on: WED [**2901-8-10**] 12:58 PM
+(End of Report)
+
+
+",,
+24896,17667,,,2900-04-29 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2900-4-29**] 8:24 AM
+     CHEST (PRE-OP PA & LAT)                                         Clip # [**Clip Number (Radiology) 7213**]
+     Reason: CAD
+     Admitting Diagnosis: CAD
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      73 year old woman with                                                          
+     REASON FOR THIS EXAMINATION:
+      preop cabg                                                                      
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CHEST X-RAY FROM [**4-29**]
+     
+     HISTORY:  Coronary artery disease.  Preop for CABG.
+     
+     PA and lateral views of the chest show small right pleural effusion.  There is
+     some suggestion of hyperinflation with mildly depressed hemidiaphragms and
+     slight prominence of the AP diameter of the chest.  No focal parenchymal
+     consolidation is seen or any nodules evident.  Calcified atherosclerotic
+     plaque is seen in the coronary arteries and thoracic aorta and the origins of
+     the great vessels to the head and neck.  Cardiac size is normal and no
+     pulmonary vascular congestion or edema is evident.  Thoracic vertebral bodies
+     have maintained height and alignment.  Dense contrast (barium) is seen in the
+     splenic flexure.
+     
+     CONCLUSION:
+     1.  Atherosclerosis including calcified plaque in the coronary arteries.
+     2.  No edema or pneumonia.
+     3.  Right pleural effusion (versus unfolding of costophrenic angle related to
+     pleural thickening and diaphragmatic depression).
+
+",,
+24896,17667,,,2900-04-29 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2900-4-29**] 2:30 PM
+     CAROTID SERIES COMPLETE                                         Clip # [**Clip Number (Radiology) 7214**]
+     Reason: PREOP
+     Admitting Diagnosis: CAD
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      73 year old woman with                                                          
+     REASON FOR THIS EXAMINATION:
+      r/o carotid artery stenosis                                                     
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CLINICAL INFORMATION:  73-year-old woman, preoperative evaluation to rule out
+     carotid artery stenosis.
+     
+     FINDINGS:  Duplex ultrasonography was performed at the cervical level of
+     bilateral carotid and the vertebral arteries.
+     
+     Mild plaques are noted at the proximal portion of bilateral internal carotid
+     artery and left common carotid artery.  On the right, the peak systolic
+     velocities at ICA, CCA, ECA are 90, 61, and 93 cm/sec, giving a ratio of 1.5
+     between ICA and CCA.  On the left, the peak systolic velocities at ICA, CCA,
+     ECA are 53, 69, and 77 cm/sec, giving a ratio of 0.77 between ICA and CCA.
+     
+     There is antegrade flow in the right vertebral artery.  The left vertebral
+     artery was not visualized.
+     
+     IMPRESSION:  Mild plaques at the bilateral internal carotid artery with
+     estimated stenosis less than 40%.
+                                                                           
+
+",,
+24896,17667,,,2900-05-01 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2900-5-1**] 2:20 PM
+     CT CHEST W/O CONTRAST                                           Clip # [**Clip Number (Radiology) 7215**]
+     Reason: Check aortic ca++                                           
+     Admitting Diagnosis: CAD
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      73 year old woman with                                                          
+     REASON FOR THIS EXAMINATION:
+      Check aortic ca++                                                               
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Preoperative CABG.  Aortic calcifications.
+     
+     COMPARISONS:  None.
+     
+     TECHNIQUE:  Axial non-contrast MDCT images were obtained through the lungs.
+     
+     CT CHEST WITHOUT IV CONTRAST:  There are extensive coronary artery
+     atherosclerotic calcifications.  There are calcifications of the aortic root
+     and scattered atherosclerotic calcifications involving the wall of the aorta.
+     There is no significant axillary, mediastinal or hilar lymphadenopathy.  There
+     is bibasilar dependent atelectasis.  The lungs are otherwise clear.  Limited
+     views of the upper abdomen show an atrophic left kidney.  There are multiple
+     hypoattenuating areas within both kidneys, compatible with simple cysts.
+     
+     BONE WINDOWS:  There are no suspicious lytic or sclerotic osseous lesions.
+     
+     IMPRESSION:
+     1.  Extensive coronary artery and scattered aortic atherosclerotic
+     calcifications.
+     2.  Atrophic left kidney.
+
+",,
+24896,17667,,,2900-05-02 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2900-5-2**] 8:47 PM
+     CHEST (PORTABLE AP); -59 DISTINCT PROCEDURAL SERVICE            Clip # [**Clip Number (Radiology) 7220**]
+     Reason: check for ET tube placement                                 
+     Admitting Diagnosis: CAD
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       73 year old woman with s/p repair of bleeding pseudoaneurysm                   
+     REASON FOR THIS EXAMINATION:
+      check for ET tube placement                                                     
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     POTABLE CHEST, ON [**5-2**]
+     
+     INDICATION:  Status post repair bleeding femoral pseudoaneurysm.  Check tube
+     placements.
+     
+     FINDINGS:  Compared with [**2900-4-29**], the tip of the ETT projects approximately 1
+     cm above the carina.  The left subclavian central line tip is at the level of
+     the mid SVC.  No pneumothorax identified.  The tip of the NGT projects in the
+     mid abdomen laterally, its exact position uncertain.  It could lie within the
+     mid stomach, or possibly in a jejunal loop if the patient has had a
+     gastrojejunostomy. 
+     
+     Allowing for the supine position, no overt CHF.  There is mild patchy
+     atelectasis at the left lung base.  The lungs are otherwise clear.
+     
+     IMPRESSION:  Tube positions as above.  Discussed with Dr. [**Last Name (STitle) 6426**].
+
+",,
+24896,17667,,,2900-05-02 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2900-5-2**] 8:47 PM
+     CHEST (PORTABLE AP); -59 DISTINCT PROCEDURAL SERVICE            Clip # [**Clip Number (Radiology) 7220**]
+     Reason: check for ET tube placement                                 
+     Admitting Diagnosis: CAD
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       73 year old woman with s/p repair of bleeding pseudoaneurysm                   
+     REASON FOR THIS EXAMINATION:
+      check for ET tube placement                                                     
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     POTABLE CHEST, ON [**5-2**]
+     
+     INDICATION:  Status post repair bleeding femoral pseudoaneurysm.  Check tube
+     placements.
+     
+     FINDINGS:  Compared with [**2900-4-29**], the tip of the ETT projects approximately 1
+     cm above the carina.  The left subclavian central line tip is at the level of
+     the mid SVC.  No pneumothorax identified.  The tip of the NGT projects in the
+     mid abdomen laterally, its exact position uncertain.  It could lie within the
+     mid stomach, or possibly in a jejunal loop if the patient has had a
+     gastrojejunostomy. 
+     
+     Allowing for the supine position, no overt CHF.  There is mild patchy
+     atelectasis at the left lung base.  The lungs are otherwise clear.
+     
+     IMPRESSION:  Tube positions as above.  Discussed with Dr. [**Last Name (STitle) 6426**].
+
+",,
+24896,17667,,,2900-05-02 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2900-5-2**] 12:06 PM
+     ABDOMEN (SUPINE & ERECT)                                        Clip # [**Clip Number (Radiology) 7216**]
+     Reason: please assess for obstruction, etc                          
+     Admitting Diagnosis: CAD
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      73 year old woman with nausea,vomiting                                          
+     REASON FOR THIS EXAMINATION:
+      please assess for obstruction, etc                                              
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     AN ABDOMEN STUDY DATED [**2900-5-2**]
+     
+     INDICATION:  Nausea and vomiting.
+     
+     There were no prior radiographs for comparison.
+     
+     Oral contrast is present within nondistended colon.  Air and contrast are seen
+     throughout the colon with air visualized in the rectosigmoid region.  There is
+     no evidence of intestinal obstruction or free intraperitoneal air.
+     
+     Diffuse vascular calcifications are noted as well as degenerative changes in
+     the spine.
+     
+     IMPRESSION:  No evidence of obstruction or free intraperitoneal air.  At the
+     time of this dictation, a CT abdomen has been performed and is dictated
+     separately.  Please see report of that exam under clip [**Clip Number (Radiology) 7217**].
+                                                                           
+
+",,
+24896,17667,,,2900-05-02 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2900-5-2**] 3:52 PM
+     CT ABD W&W/O C; CT PELVIS W&W/O C                               Clip # [**Clip Number (Radiology) 7218**]
+     CT 150CC NONIONIC CONTRAST
+     Reason: Please perform CT abd w/ and w/o contrast to assess for appe
+     Admitting Diagnosis: CAD
+     Field of view: [**Hospital Unit Name 7219**] Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      73 year old woman with abd pain RLQ s/p Cardiac cath/R groin, and flu, w/ 
+      Elevated WBC count, and HCT drop
+     REASON FOR THIS EXAMINATION:
+      Please perform CT abd w/ and w/o contrast to assess for appendicitis, 
+      retroperitoneal bleed, etc
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATIONS:  73-year-old woman with right lower quadrant pain status post
+     cardiac catheterization, on anticoagulation.  Also with elevated white blood
+     cell count and positive urinalysis.
+     
+     COMPARISONS:  Limited comparison to chest CT of [**2900-5-1**].
+     
+     TECHNIQUE:  Initial non-contrast axial CT images of the abdomen and pelvis
+     were obtained.  These were followed by CT images with oral and intravenous
+     contrast. Following the initial CT images without contrast, a retroperitoneal
+     hematoma and atrophic left kidney were noted.  These findings were discussed
+     with the referring team, Dr. [**First Name (STitle) **], and it was decided to proceed with post-
+     contrast scan because of suspicion of pyelonephritis.
+     
+     CT OF THE ABDOMEN WITH AND WITHOUT IV CONTRAST:  There are dependent changes
+     at the bases, and a small amount likely peripheral atelectasis in the right
+     middle lobe.  The liver, gallbladder, pancreas, spleen, and adrenal glands are
+     unremarkable.
+     
+     There are multiple hypoattenuating foci in the right kidney which are less
+     than 1 cm in diameter and are most likely represent simple cysts, although
+     they are too small to characterize.  A larger lesion measures 2.7 x 1.8 cm and
+     shows no enhancement consistent with a simple cyst.  There is also a
+     hypoattenuating parapelvic cyst of 21 mm in diameter.  It is probably not
+     enhancing, and likely also represents a cyst. Posterior thinning of the right
+     posterior cortex is noted. The left kidney is atrophic with a delayed
+     nephrogram. A hypoattenuating focus in the left kidney of 1.4 cm in diameter
+     is probably a cyst.  Two smaller subcentimeter foci are too small to
+     characterize. There are no focal perfusion abnormalities to suggest
+     pyelonephritis. The stomach, small and large bowel are unremarkable. There is
+     no mesenteric or retroperitoneal lymphadenopathy, or free air or fluid.
+     
+     There is expansion and hematoma within the right iliac and psoas muscles with
+     multiple areas with fluid-fluid levels consistent with acute hematomas, with
+     surrounding inflammatory change surrounding the right iliacus muscle. Although
+     the right iliac artery courses adjacent to this area, no active extravasation
+     is seen in the deep pelvis.
+     
+                                                                 (Over)
+
+     DATE: [**2900-5-2**] 3:52 PM
+     CT ABD W&W/O C; CT PELVIS W&W/O C                               Clip # [**Clip Number (Radiology) 7218**]
+     CT 150CC NONIONIC CONTRAST
+     Reason: Please perform CT abd w/ and w/o contrast to assess for appe
+     Admitting Diagnosis: CAD
+     Field of view: [**Hospital Unit Name 7219**] Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     In the right groin as well, there is a lesion of 2 cm in diameter with fluid-
+     fluid level consistent with an acute hematoma. Following contrast
+     administration, contrast layers in the lower portion of the right groin
+     hematoma and others in the pelvis, within multiple areas, consistent with
+     ongoing bleeding.
+     
+     There is also a small focus of extraluminal contrast near the hematoma in the
+     right groin, probably extravasation of contrast into the muscle lateral to the
+     right external iliac artery and vein.  This is the largest single focus of
+     extravascular contrast.
+     
+     CT OF THE PELVIS WITH IV CONTRAST:  The uterus, bladder, sigmoid, and rectum
+     are unremarkable.  There is a Foley catheter in the bladder.  There is some
+     presacral stranding, probably tracking of hemorrhagic products into the
+     posterior pelvis.
+     
+     BONE WINDOWS:  There are no suspicious lytic or blastic lesions.
+     
+     IMPRESSION:
+     1.  Moderately large right retroperitoneal hematoma with continuing
+     extravasation of contrast into hematomas with multiple fluid-fluid levels.
+     2. Appearance is associated with a more nodular area of extravasation near a
+     hematoma in the right groin of 2 cm in diameter.  Contrast is not seen on
+     these images to emanate directly from the right iliac artery or vein but
+     ultrasound could be helpful to exclude a pseudoaneurysm that is leaking.
+     3. Multiple hypoattenuating lesions in both kidneys, probably simple cysts,
+     although many are too small to characterize.
+     4.  Atrophic left kidney with delayed excretion.
+     
+     The findings were discussed with Dr. [**First Name (STitle) **] shortly after the study.
+     
+
+",,
+24896,17667,,,2900-05-02 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2900-5-2**] 3:52 PM
+     CT ABD W&W/O C; CT PELVIS W&W/O C                               Clip # [**Clip Number (Radiology) 7218**]
+     CT 150CC NONIONIC CONTRAST
+     Reason: Please perform CT abd w/ and w/o contrast to assess for appe
+     Admitting Diagnosis: CAD
+     Field of view: [**Hospital Unit Name 7219**] Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      73 year old woman with abd pain RLQ s/p Cardiac cath/R groin, and flu, w/ 
+      Elevated WBC count, and HCT drop
+     REASON FOR THIS EXAMINATION:
+      Please perform CT abd w/ and w/o contrast to assess for appendicitis, 
+      retroperitoneal bleed, etc
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATIONS:  73-year-old woman with right lower quadrant pain status post
+     cardiac catheterization, on anticoagulation.  Also with elevated white blood
+     cell count and positive urinalysis.
+     
+     COMPARISONS:  Limited comparison to chest CT of [**2900-5-1**].
+     
+     TECHNIQUE:  Initial non-contrast axial CT images of the abdomen and pelvis
+     were obtained.  These were followed by CT images with oral and intravenous
+     contrast. Following the initial CT images without contrast, a retroperitoneal
+     hematoma and atrophic left kidney were noted.  These findings were discussed
+     with the referring team, Dr. [**First Name (STitle) **], and it was decided to proceed with post-
+     contrast scan because of suspicion of pyelonephritis.
+     
+     CT OF THE ABDOMEN WITH AND WITHOUT IV CONTRAST:  There are dependent changes
+     at the bases, and a small amount likely peripheral atelectasis in the right
+     middle lobe.  The liver, gallbladder, pancreas, spleen, and adrenal glands are
+     unremarkable.
+     
+     There are multiple hypoattenuating foci in the right kidney which are less
+     than 1 cm in diameter and are most likely represent simple cysts, although
+     they are too small to characterize.  A larger lesion measures 2.7 x 1.8 cm and
+     shows no enhancement consistent with a simple cyst.  There is also a
+     hypoattenuating parapelvic cyst of 21 mm in diameter.  It is probably not
+     enhancing, and likely also represents a cyst. Posterior thinning of the right
+     posterior cortex is noted. The left kidney is atrophic with a delayed
+     nephrogram. A hypoattenuating focus in the left kidney of 1.4 cm in diameter
+     is probably a cyst.  Two smaller subcentimeter foci are too small to
+     characterize. There are no focal perfusion abnormalities to suggest
+     pyelonephritis. The stomach, small and large bowel are unremarkable. There is
+     no mesenteric or retroperitoneal lymphadenopathy, or free air or fluid.
+     
+     There is expansion and hematoma within the right iliac and psoas muscles with
+     multiple areas with fluid-fluid levels consistent with acute hematomas, with
+     surrounding inflammatory change surrounding the right iliacus muscle. Although
+     the right iliac artery courses adjacent to this area, no active extravasation
+     is seen in the deep pelvis.
+     
+                                                                 (Over)
+
+     DATE: [**2900-5-2**] 3:52 PM
+     CT ABD W&W/O C; CT PELVIS W&W/O C                               Clip # [**Clip Number (Radiology) 7218**]
+     CT 150CC NONIONIC CONTRAST
+     Reason: Please perform CT abd w/ and w/o contrast to assess for appe
+     Admitting Diagnosis: CAD
+     Field of view: [**Hospital Unit Name 7219**] Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     In the right groin as well, there is a lesion of 2 cm in diameter with fluid-
+     fluid level consistent with an acute hematoma. Following contrast
+     administration, contrast layers in the lower portion of the right groin
+     hematoma and others in the pelvis, within multiple areas, consistent with
+     ongoing bleeding.
+     
+     There is also a small focus of extraluminal contrast near the hematoma in the
+     right groin, probably extravasation of contrast into the muscle lateral to the
+     right external iliac artery and vein.  This is the largest single focus of
+     extravascular contrast.
+     
+     CT OF THE PELVIS WITH IV CONTRAST:  The uterus, bladder, sigmoid, and rectum
+     are unremarkable.  There is a Foley catheter in the bladder.  There is some
+     presacral stranding, probably tracking of hemorrhagic products into the
+     posterior pelvis.
+     
+     BONE WINDOWS:  There are no suspicious lytic or blastic lesions.
+     
+     IMPRESSION:
+     1.  Moderately large right retroperitoneal hematoma with continuing
+     extravasation of contrast into hematomas with multiple fluid-fluid levels.
+     2. Appearance is associated with a more nodular area of extravasation near a
+     hematoma in the right groin of 2 cm in diameter.  Contrast is not seen on
+     these images to emanate directly from the right iliac artery or vein but
+     ultrasound could be helpful to exclude a pseudoaneurysm that is leaking.
+     3. Multiple hypoattenuating lesions in both kidneys, probably simple cysts,
+     although many are too small to characterize.
+     4.  Atrophic left kidney with delayed excretion.
+     
+     The findings were discussed with Dr. [**First Name (STitle) **] shortly after the study.
+     
+
+",,
+24896,17667,,,2900-05-02 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2900-5-2**] 3:52 PM
+     CT ABD W&W/O C; CT PELVIS W&W/O C                               Clip # [**Clip Number (Radiology) 7218**]
+     CT 150CC NONIONIC CONTRAST
+     Reason: Please perform CT abd w/ and w/o contrast to assess for appe
+     Admitting Diagnosis: CAD
+     Field of view: [**Hospital Unit Name 7219**] Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      73 year old woman with abd pain RLQ s/p Cardiac cath/R groin, and flu, w/ 
+      Elevated WBC count, and HCT drop
+     REASON FOR THIS EXAMINATION:
+      Please perform CT abd w/ and w/o contrast to assess for appendicitis, 
+      retroperitoneal bleed, etc
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATIONS:  73-year-old woman with right lower quadrant pain status post
+     cardiac catheterization, on anticoagulation.  Also with elevated white blood
+     cell count and positive urinalysis.
+     
+     COMPARISONS:  Limited comparison to chest CT of [**2900-5-1**].
+     
+     TECHNIQUE:  Initial non-contrast axial CT images of the abdomen and pelvis
+     were obtained.  These were followed by CT images with oral and intravenous
+     contrast. Following the initial CT images without contrast, a retroperitoneal
+     hematoma and atrophic left kidney were noted.  These findings were discussed
+     with the referring team, Dr. [**First Name (STitle) **], and it was decided to proceed with post-
+     contrast scan because of suspicion of pyelonephritis.
+     
+     CT OF THE ABDOMEN WITH AND WITHOUT IV CONTRAST:  There are dependent changes
+     at the bases, and a small amount likely peripheral atelectasis in the right
+     middle lobe.  The liver, gallbladder, pancreas, spleen, and adrenal glands are
+     unremarkable.
+     
+     There are multiple hypoattenuating foci in the right kidney which are less
+     than 1 cm in diameter and are most likely represent simple cysts, although
+     they are too small to characterize.  A larger lesion measures 2.7 x 1.8 cm and
+     shows no enhancement consistent with a simple cyst.  There is also a
+     hypoattenuating parapelvic cyst of 21 mm in diameter.  It is probably not
+     enhancing, and likely also represents a cyst. Posterior thinning of the right
+     posterior cortex is noted. The left kidney is atrophic with a delayed
+     nephrogram. A hypoattenuating focus in the left kidney of 1.4 cm in diameter
+     is probably a cyst.  Two smaller subcentimeter foci are too small to
+     characterize. There are no focal perfusion abnormalities to suggest
+     pyelonephritis. The stomach, small and large bowel are unremarkable. There is
+     no mesenteric or retroperitoneal lymphadenopathy, or free air or fluid.
+     
+     There is expansion and hematoma within the right iliac and psoas muscles with
+     multiple areas with fluid-fluid levels consistent with acute hematomas, with
+     surrounding inflammatory change surrounding the right iliacus muscle. Although
+     the right iliac artery courses adjacent to this area, no active extravasation
+     is seen in the deep pelvis.
+     
+                                                                 (Over)
+
+     DATE: [**2900-5-2**] 3:52 PM
+     CT ABD W&W/O C; CT PELVIS W&W/O C                               Clip # [**Clip Number (Radiology) 7218**]
+     CT 150CC NONIONIC CONTRAST
+     Reason: Please perform CT abd w/ and w/o contrast to assess for appe
+     Admitting Diagnosis: CAD
+     Field of view: [**Hospital Unit Name 7219**] Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     In the right groin as well, there is a lesion of 2 cm in diameter with fluid-
+     fluid level consistent with an acute hematoma. Following contrast
+     administration, contrast layers in the lower portion of the right groin
+     hematoma and others in the pelvis, within multiple areas, consistent with
+     ongoing bleeding.
+     
+     There is also a small focus of extraluminal contrast near the hematoma in the
+     right groin, probably extravasation of contrast into the muscle lateral to the
+     right external iliac artery and vein.  This is the largest single focus of
+     extravascular contrast.
+     
+     CT OF THE PELVIS WITH IV CONTRAST:  The uterus, bladder, sigmoid, and rectum
+     are unremarkable.  There is a Foley catheter in the bladder.  There is some
+     presacral stranding, probably tracking of hemorrhagic products into the
+     posterior pelvis.
+     
+     BONE WINDOWS:  There are no suspicious lytic or blastic lesions.
+     
+     IMPRESSION:
+     1.  Moderately large right retroperitoneal hematoma with continuing
+     extravasation of contrast into hematomas with multiple fluid-fluid levels.
+     2. Appearance is associated with a more nodular area of extravasation near a
+     hematoma in the right groin of 2 cm in diameter.  Contrast is not seen on
+     these images to emanate directly from the right iliac artery or vein but
+     ultrasound could be helpful to exclude a pseudoaneurysm that is leaking.
+     3. Multiple hypoattenuating lesions in both kidneys, probably simple cysts,
+     although many are too small to characterize.
+     4.  Atrophic left kidney with delayed excretion.
+     
+     The findings were discussed with Dr. [**First Name (STitle) **] shortly after the study.
+     
+
+",,
+24896,17667,,,2900-05-02 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+",,
+24896,17667,30912,0,2900-05-03 03:29:00 EST,2900-05-03 03:31:00 EST,7597,"N",54,"Nursing/Other","Respiratory Care Note:","
+Respiratory Care Note:
+     Received patient this shift from OR.  Fio2 weaned to 40%.  For other specific changes/settings please see carevue.  BS are clear.  SX for none, minimal oral secretions noted.  RSBI this am is 52.6 on 0 peep and 5 psv.  SPO2 remained 94-99%.  Latest ABG within normal limits.  
+",,
+24896,17667,30912,0,2900-05-03 05:18:00 EST,2900-05-03 05:33:00 EST,1622,"N",54,"Nursing/Other",,"
+
+Pt admitted to CSRU last evening for retroperitoneal bleed. Pt had a Cardiac Cath on the 25th has been c/o of right groin pain for several days and yesterday had a drop in Hct to 27 with episode of hypotension. pt transfused with 2units of PRBC and sent to OR. Exloratory of Right Groin done small bleeed noted reparied and closed. pt returned on Propofol no other drips. AS pt awoke she became hypertensive nitro started up to 1mcg for several hours then weaned off. 
+Neuro: pt sedated on Propofol overnight per vascular service will plan to possiblly awake in am if CABG surgery canceled. MAE when sedation lightened.
+Resp: Vented on SIMV Fio2 50% with Peep 5 rate of 10. Breath sounds coarse in bases.
+C/V: pt hypertensive SBP up to 160's nitro started up to 1mcg then slowly weaned off through night. Heart rate in the 70's no ectopy. pt has dopplerable pulses bilaterally in feet. Hct 40 post op. pt acidotic treated with 250cc bolus x2 with improvement in acidosis. Hct down to 34 after fluild boluses but repeat several hours later back up to 40
+GI: NGT draining brown fluild positive bolwel sounds.
+Endo: blood sugars within normal limits.
+GU: adequate urine outputs 40cc amber color 
+Skin: right fem dsg intact no drainage. Chlorhexidine scrub done 2nd to poteniall CABG surgery today.
+Social: Son at bedside postop spoke with vascular service about surgery will be in today.
+Plan: Possible OR today if not wake wean and extubate.   
+",,
+24896,17667,30912,0,2900-05-03 16:49:00 EST,2900-05-03 17:12:00 EST,7959,"N",54,"Nursing/Other",,"
+
+O:  Neuro:  Pt. off Propofol @ 1030.  A&O X 3.  Obeys commands.  Equal, average strength on all extremities.  PERRL.  2 mg Morphine given for right femoral site pain @ 1430.  Answers questions appropriately.  
+
+Resp:  Pt. weaned off vent and extubated @ 1100.  On 2L NC.  O2 Sats 94-96%.    
+
+GI/GU:  NG tube removed @ 1100.  (NG tube draining brown fluid before removal.  70cc this shift).  Pt. voiding marginal amts amber colored urine.  Given 20 mg Lasix @ 1730.  No BM.  +BS.  Pt. declining food (able to eat until midnight tonight).
+
+CV:  Pt. in NSR with few PVCs.  B/P range 118-161/38-67.  
+
+Endo:  FSBS within normal limits.  No insulin needs at this time.
+
+Integ:  Skin warm and dry.  Rt. femoral dressing CDI. 
+
+Invasive lines:  Rt. lower forearm peripheral line not flushing.
+
+A:  Resp:  Pt. tolerated extubation well.  Pt. breathing well on 2L NC (O2 Sat 96%).
+
+P:  CV:  Monitor pt's B/P, Hct, and WBC.  Prepare pt. for CABG surgery tomorrow am.  Monitor urine output.  Assess pt. for pain.     
+",,
+24896,17667,30912,,2900-05-04 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2900-5-4**] 6:01 PM
+     CHEST (PORTABLE AP); -77 BY DIFFERENT PHYSICIAN                 [**Name Initial (PRE) 232**] # [**Clip Number (Radiology) 7222**]
+     Reason: Please assess for Swann position, pneumo, etc               
+     Admitting Diagnosis: CAD
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       73 year old woman with CAD s/p CABG. Pt still in OR, please perform when in  
+      CSRU.
+     REASON FOR THIS EXAMINATION:
+      Please assess for Swann position, pneumo, etc                                   
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Status post CABG.  Assess for Swan position, pneumothorax, etc.
+     
+     TECHNIQUE:  AP portable radiograph of the chest.
+     
+     COMPARISONS:  Chest radiograph four hours earlier.
+     
+     FINDINGS:  There has been advancement of the Swan-Ganz catheter.  The tip is
+     now projecting over a lobar branch of the right pulmonary artery.  A left
+     subclavian central line is in unchanged position.  The endotracheal tube is
+     unchanged with the tip at the level of the clavicles.  An NG tube projects
+     with the tip over the gastroesophageal junction and should be advanced.  The
+     mediastinal and left-sided chest tube are in unchanged position.  No
+     pneumothorax is seen.  The cardiac silhouette and mediastinal contours are
+     stable.  There is a hazy density at the left lung base which may represent
+     atelectasis.  There is a left retrocardiac opacity which may represent
+     consolidation.  Old contrast material is again seen within the colon.
+     
+     IMPRESSION:
+     1.  Advancement of Swan-Ganz catheter.
+     2.  NG tube has been retracted, tip now projecting over GE junction.
+     Advancement is recommended.
+     4.  Left basilar atelectasis.
+     5.  No evidence of pneumothorax.
+     
+
+",,
+24896,17667,30912,,2900-05-04 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2900-5-4**] 2:52 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 7221**]
+     Reason: r/o PTX/Effusion/Tamponade                                  
+     Admitting Diagnosis: CAD
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      73 year old woman with CAD s/p CABG. Pt still in OR, please perform when in 
+      CSRU.
+     REASON FOR THIS EXAMINATION:
+      r/o PTX/Effusion/Tamponade                                                      
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CHEST ONE VIEW PORTABLE
+     
+     INDICATION:  73-year-old woman with CAD, status post CABG.
+     
+     COMMENTS:  Portable supine AP radiograph of the chest is reviewed, and
+     compared with the previous study of [**2900-5-2**].
+     
+     The patient is status post CABG and median sternotomy.  The tip of the
+     endotracheal tube is identified at the thoracic inlet.  The right jugular
+     Swan-Ganz catheter terminates in the right main PA.  A nasogastric tube
+     terminates in the stomach.  The left chest tube and mediastinal drain remain
+     in place.  No pneumothorax is identified.
+     
+     The lung volume is small.  There is probably a small bilateral pleural
+     effusion and atelectasis in both lower lobes.
+                                                                           
+
+",,
+24896,17667,30912,,2900-05-04 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2900-5-4**] 6:01 PM
+     CHEST (PORTABLE AP); -77 BY DIFFERENT PHYSICIAN                 [**Name Initial (PRE) 232**] # [**Clip Number (Radiology) 7222**]
+     Reason: Please assess for Swann position, pneumo, etc               
+     Admitting Diagnosis: CAD
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       73 year old woman with CAD s/p CABG. Pt still in OR, please perform when in  
+      CSRU.
+     REASON FOR THIS EXAMINATION:
+      Please assess for Swann position, pneumo, etc                                   
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Status post CABG.  Assess for Swan position, pneumothorax, etc.
+     
+     TECHNIQUE:  AP portable radiograph of the chest.
+     
+     COMPARISONS:  Chest radiograph four hours earlier.
+     
+     FINDINGS:  There has been advancement of the Swan-Ganz catheter.  The tip is
+     now projecting over a lobar branch of the right pulmonary artery.  A left
+     subclavian central line is in unchanged position.  The endotracheal tube is
+     unchanged with the tip at the level of the clavicles.  An NG tube projects
+     with the tip over the gastroesophageal junction and should be advanced.  The
+     mediastinal and left-sided chest tube are in unchanged position.  No
+     pneumothorax is seen.  The cardiac silhouette and mediastinal contours are
+     stable.  There is a hazy density at the left lung base which may represent
+     atelectasis.  There is a left retrocardiac opacity which may represent
+     consolidation.  Old contrast material is again seen within the colon.
+     
+     IMPRESSION:
+     1.  Advancement of Swan-Ganz catheter.
+     2.  NG tube has been retracted, tip now projecting over GE junction.
+     Advancement is recommended.
+     4.  Left basilar atelectasis.
+     5.  No evidence of pneumothorax.
+     
+
+",,
+24896,17667,30912,0,2900-05-04 03:22:00 EST,2900-05-04 03:37:00 EST,7789,"N",54,"Nursing/Other",,"
+
+nursing note (7p-7a): to OR 0730 for CABG
+
+neuro: A&Ox3, MAE's, answers questions and follows commands, no c/o pain throughout night, slept good portion of night, afebrile
+
+resp: sats >96% 2l/nc, rr wnl, UL clear & LL diminished, encourage cough and deep breathing
+
+cv: hr 80's nsr w/no ectopy, sbp 110-130's, s/p retro peritoneal bleed in right groin w/exporation staple in right groin, palpable pedal pulses on left & doppler on right, lytes replete
+
+gi/gu: not much of an appetite, ate jello, NPO since midnight, foley in place w/good UO, +BS w/no BM
+
+endo: no coverage needed
+
+plan: 1st case in OR @ 0730 & return to CSRU for post CABG care 
+",,
+24896,17667,30912,0,2900-05-04 16:39:00 EST,2900-05-04 16:41:00 EST,5241,"N",54,"Nursing/Other",,"
+
+Resp Care
+
+Pt admitted s/p CABG. Currently intubated and vented on SIMV/PS 400x10 PS 5 PEEP 5. Last ABG with compensated metabolic acidosis with adequate oxygenation. ABG pending on present vent settings. Will cont with vent support as needed.
+",,
+24896,17667,30912,0,2900-05-04 17:28:00 EST,2900-05-04 17:53:00 EST,2511,"N",54,"Nursing/Other",,"
+
+s/p cabg x5.  arrived sedated on propofol.  st w/hr 110-120.  low dose neo.  ci~1.8.  ct minimal drainage.  good uop.  
+
+neuro:  cont to be sedated on propofol.  pearl.  
+
+cv/skin:  st w/hr 110-120.  sudden drop in hr 50-60's ?junctional vs afib.  [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **] aware.  awires not working.  able to vpace sensing/capturing appropriately.  sbp<80 neo started increased to 4mcg/kg/min w/min effect.  levo & epi added.  1u prbc given.  ci drop.  svo2 drop from 71 to 48.  team at bedside.  cxray done.  multiple ekgs done.  eccho done & tee done.  currently vpaced at 90.  slowly weaning neo off.  ct drainage minimal.  +dopp pp w/exception of right pt.  lytes repleted.    
+
+resp:  lungs clear.  abgs acceptable.  cont on simv.  see flow sheet.  
+
+gi/gu:  abd soft initially.  currently distended & firm.  -bs.  og->lws w/small amt billious drainage.  uop adequate.
+
+endo:  insulin gtt per protocol.
+
+social:  son called prior to pt arrival.  no family contact since.
+
+plan:  remain sedated/intubated.  cont epi.  wean neo first then levo. cont to monitor hemodynamics, labs.  review eccho.      
+",,
+24896,17667,30912,,2900-05-05 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2900-5-5**] 8:51 PM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 7225**]
+     CT 150CC NONIONIC CONTRAST
+     Reason: r/o ischemic bowel                                          
+     Admitting Diagnosis: CAD
+     Field of view: 36 Contrast: OPTIRAY Amt: 130
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       73 year old woman with abd pain RLQ s/p Cardiac cath/R groin, and flu, w/  
+      Elevated WBC count, and HCT drop
+     REASON FOR THIS EXAMINATION:
+      r/o ischemic bowel                                                              
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  73-year-old woman with abdominal pain, right lower quadrant,
+     status post cardiac catheterization and elevated lactate and white blood cell
+     count.  Please evaluate for ischemic bowel.
+     
+     COMPARISON:  [**2900-5-2**].
+     
+     TECHNIQUE:  Contrast-enhanced axial CT imaging of the abdomen and pelvis was
+     compared to [**2900-5-2**].
+     
+     CT ABDOMEN WITH CONTRAST:  There are new moderate sized bilateral pleural
+     effusions with bilateral atelectasis that is moderate in severity.  Patient is
+     status post recent CABG with chest tubes in the mediastinum.  The liver
+     enhances homogeneously.  There is a small amount of ascites.  The density of
+     the gallbladder is increased suggesting sludge.  There is minimal
+     pericholecystic fluid.  The common bile duct is not clearly seen but does not
+     appear dilated.  The pancreas, spleen, kidneys, stomach, are unchanged from
+     [**2900-5-2**].  The small bowel loops are normal caliber.  Examination of the
+     small bowel wall is somewhat limited secondary to artifact from previous
+     contrast in the colon, but there is no evidence for pneumatosis or small bowel
+     wall thickening.  There is no portal venous air.  A large heterogeneous
+     retroperitoneal structure representing a hematoma is unchanged in size from
+     [**2900-5-2**].
+     
+     CT PELVIS WITH CONTRAST:  There is a new ascites in the pelvis.  There is
+     evidence for anasarca throughout the soft tissues.  Evaluation of the large
+     bowel wall is somewhat limited due to artifact from retained contrast.  The
+     bowel is caliber is normal.  Evaluation for pneumatosis and bowel wall
+     thickening is limited.  The distal ureters and bladder are normal.  A Foley is
+     present in the bladder.  Air is present throughout the medial and anterior
+     compartment of the thigh.  This is likely secondary to a graft harvest, but
+     clinical correlation at this site is recommended.  Subcutaneous edema is
+     present in both extremities (right greater than left).
+     
+     BONE WINDOWS:  The osseous structures are unchanged except for new sternotomy
+     wires.
+     
+     IMPRESSION:
+     
+                                                                 (Over)
+
+     DATE: [**2900-5-5**] 8:51 PM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 7225**]
+     CT 150CC NONIONIC CONTRAST
+     Reason: r/o ischemic bowel                                          
+     Admitting Diagnosis: CAD
+     Field of view: 36 Contrast: OPTIRAY Amt: 130
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     1.  Moderate bilateral pleural effusions and moderate atelectasis that is new.
+     
+     2.  New ascites and anasarca.
+     
+     3.  Gallbladder sludge.
+     
+     4.  Evaluation of the bowel wall is limited secondary to contrast artifact,
+     but there is no portal venous air or obvious bowel wall thickening to indicate
+     ischemia.
+     
+     5.  Stable right retroperitoneal hematoma.
+     
+     6.  Right thigh gas that is likely secondary to graft harvest, but clinical
+     correlation recommended.
+
+",,
+24896,17667,30912,,2900-05-05 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2900-5-5**] 1:00 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 7223**]
+     Reason: Please assess for volume overload, etc                      
+     Admitting Diagnosis: CAD
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        73 year old woman with CAD s/p CABG. Pt still in OR, please perform when in   
+      CSRU.
+     REASON FOR THIS EXAMINATION:
+      Please assess for volume overload, etc                                          
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  73-year-old female with CAD status post CABG.  Assess for volume
+     overload.
+     
+     COMPARISON:  [**2900-5-4**].
+     
+     PORTABLE SEMI-UPRIGHT CHEST RADIOGRAPH:
+     Tip of Swan-Ganz catheter is 2-3 cm centimeters beyond standard position in
+     right pulmonary arterial tree. Nasogastric tube passes below the diaphragm and
+     out of view.  Other lines and drains in standard placements. Bilateral small
+     pleural effusions have increased in size, right greater than left. No focal
+     opacities within the lungs.  Heart and mediastinum are normal and unchanged.
+     
+     IMPRESSION:
+     1.  Swan-Ganz catheter tip may be excessively peripheral. .
+     2.  Nasogastric tube extending well below the diaphragm out of field of view,
+     now advanced compared to prior study.
+     3.  Increase in bilateral pleural effusions, right greater than left.
+     
+     Findings discussed with Dr. [**Last Name (STitle) 7224**] on [**2900-5-6**].
+     
+
+",,
+24896,17667,30912,,2900-05-05 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2900-5-5**] 10:11 PM
+     LIVER OR GALLBLADDER US (SINGLE ORGAN) PORT                     Clip # [**Clip Number (Radiology) 7226**]
+     Reason: PLease assess for cholecystitits, etc                       
+     Admitting Diagnosis: CAD
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      73 year old woman with elevated tbili, acidotic, post-op CABG                   
+     REASON FOR THIS EXAMINATION:
+      PLease assess for cholecystitits, etc                                           
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  73-year-old woman with elevated bili, acidosis, postop CABG.
+     Please eval for cholecystitis.
+     
+     FINDINGS:  The echotexture of the liver is normal.  The portal vein, hepatic
+     veins are patent with normal waveforms.  Hepatic arteries are likely patent,
+     normal waveforms are demonstrated in the main hepatic artery and right hepatic
+     artery.  Patient motion limited evaluation of the left hepatic artery.  The
+     gallbladder wall measures 4 mm, there is minimal pericholecystic fluid.  There
+     is no evidence for a shadowing stone.  These findings are likely secondary to
+     third spacing.  Sludge is likely present in the gallbladder.  The common bile
+     duct is not dilated measuring 4 mm.
+     
+     IMPRESSION:  No evidence for acute cholecystitis.  Edematous gallbladder wall
+     secondary to third spacing.  Patent hepatic vessels and normal-appearing
+     liver.
+
+",,
+24896,17667,30912,,2900-05-05 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2900-5-5**] 8:51 PM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 7225**]
+     CT 150CC NONIONIC CONTRAST
+     Reason: r/o ischemic bowel                                          
+     Admitting Diagnosis: CAD
+     Field of view: 36 Contrast: OPTIRAY Amt: 130
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       73 year old woman with abd pain RLQ s/p Cardiac cath/R groin, and flu, w/  
+      Elevated WBC count, and HCT drop
+     REASON FOR THIS EXAMINATION:
+      r/o ischemic bowel                                                              
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  73-year-old woman with abdominal pain, right lower quadrant,
+     status post cardiac catheterization and elevated lactate and white blood cell
+     count.  Please evaluate for ischemic bowel.
+     
+     COMPARISON:  [**2900-5-2**].
+     
+     TECHNIQUE:  Contrast-enhanced axial CT imaging of the abdomen and pelvis was
+     compared to [**2900-5-2**].
+     
+     CT ABDOMEN WITH CONTRAST:  There are new moderate sized bilateral pleural
+     effusions with bilateral atelectasis that is moderate in severity.  Patient is
+     status post recent CABG with chest tubes in the mediastinum.  The liver
+     enhances homogeneously.  There is a small amount of ascites.  The density of
+     the gallbladder is increased suggesting sludge.  There is minimal
+     pericholecystic fluid.  The common bile duct is not clearly seen but does not
+     appear dilated.  The pancreas, spleen, kidneys, stomach, are unchanged from
+     [**2900-5-2**].  The small bowel loops are normal caliber.  Examination of the
+     small bowel wall is somewhat limited secondary to artifact from previous
+     contrast in the colon, but there is no evidence for pneumatosis or small bowel
+     wall thickening.  There is no portal venous air.  A large heterogeneous
+     retroperitoneal structure representing a hematoma is unchanged in size from
+     [**2900-5-2**].
+     
+     CT PELVIS WITH CONTRAST:  There is a new ascites in the pelvis.  There is
+     evidence for anasarca throughout the soft tissues.  Evaluation of the large
+     bowel wall is somewhat limited due to artifact from retained contrast.  The
+     bowel is caliber is normal.  Evaluation for pneumatosis and bowel wall
+     thickening is limited.  The distal ureters and bladder are normal.  A Foley is
+     present in the bladder.  Air is present throughout the medial and anterior
+     compartment of the thigh.  This is likely secondary to a graft harvest, but
+     clinical correlation at this site is recommended.  Subcutaneous edema is
+     present in both extremities (right greater than left).
+     
+     BONE WINDOWS:  The osseous structures are unchanged except for new sternotomy
+     wires.
+     
+     IMPRESSION:
+     
+                                                                 (Over)
+
+     DATE: [**2900-5-5**] 8:51 PM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 7225**]
+     CT 150CC NONIONIC CONTRAST
+     Reason: r/o ischemic bowel                                          
+     Admitting Diagnosis: CAD
+     Field of view: 36 Contrast: OPTIRAY Amt: 130
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     1.  Moderate bilateral pleural effusions and moderate atelectasis that is new.
+     
+     2.  New ascites and anasarca.
+     
+     3.  Gallbladder sludge.
+     
+     4.  Evaluation of the bowel wall is limited secondary to contrast artifact,
+     but there is no portal venous air or obvious bowel wall thickening to indicate
+     ischemia.
+     
+     5.  Stable right retroperitoneal hematoma.
+     
+     6.  Right thigh gas that is likely secondary to graft harvest, but clinical
+     correlation recommended.
+
+",,
+24896,17667,30912,,2900-05-05 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2900-5-5**] 8:51 PM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 7225**]
+     CT 150CC NONIONIC CONTRAST
+     Reason: r/o ischemic bowel                                          
+     Admitting Diagnosis: CAD
+     Field of view: 36 Contrast: OPTIRAY Amt: 130
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       73 year old woman with abd pain RLQ s/p Cardiac cath/R groin, and flu, w/  
+      Elevated WBC count, and HCT drop
+     REASON FOR THIS EXAMINATION:
+      r/o ischemic bowel                                                              
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  73-year-old woman with abdominal pain, right lower quadrant,
+     status post cardiac catheterization and elevated lactate and white blood cell
+     count.  Please evaluate for ischemic bowel.
+     
+     COMPARISON:  [**2900-5-2**].
+     
+     TECHNIQUE:  Contrast-enhanced axial CT imaging of the abdomen and pelvis was
+     compared to [**2900-5-2**].
+     
+     CT ABDOMEN WITH CONTRAST:  There are new moderate sized bilateral pleural
+     effusions with bilateral atelectasis that is moderate in severity.  Patient is
+     status post recent CABG with chest tubes in the mediastinum.  The liver
+     enhances homogeneously.  There is a small amount of ascites.  The density of
+     the gallbladder is increased suggesting sludge.  There is minimal
+     pericholecystic fluid.  The common bile duct is not clearly seen but does not
+     appear dilated.  The pancreas, spleen, kidneys, stomach, are unchanged from
+     [**2900-5-2**].  The small bowel loops are normal caliber.  Examination of the
+     small bowel wall is somewhat limited secondary to artifact from previous
+     contrast in the colon, but there is no evidence for pneumatosis or small bowel
+     wall thickening.  There is no portal venous air.  A large heterogeneous
+     retroperitoneal structure representing a hematoma is unchanged in size from
+     [**2900-5-2**].
+     
+     CT PELVIS WITH CONTRAST:  There is a new ascites in the pelvis.  There is
+     evidence for anasarca throughout the soft tissues.  Evaluation of the large
+     bowel wall is somewhat limited due to artifact from retained contrast.  The
+     bowel is caliber is normal.  Evaluation for pneumatosis and bowel wall
+     thickening is limited.  The distal ureters and bladder are normal.  A Foley is
+     present in the bladder.  Air is present throughout the medial and anterior
+     compartment of the thigh.  This is likely secondary to a graft harvest, but
+     clinical correlation at this site is recommended.  Subcutaneous edema is
+     present in both extremities (right greater than left).
+     
+     BONE WINDOWS:  The osseous structures are unchanged except for new sternotomy
+     wires.
+     
+     IMPRESSION:
+     
+                                                                 (Over)
+
+     DATE: [**2900-5-5**] 8:51 PM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 7225**]
+     CT 150CC NONIONIC CONTRAST
+     Reason: r/o ischemic bowel                                          
+     Admitting Diagnosis: CAD
+     Field of view: 36 Contrast: OPTIRAY Amt: 130
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     1.  Moderate bilateral pleural effusions and moderate atelectasis that is new.
+     
+     2.  New ascites and anasarca.
+     
+     3.  Gallbladder sludge.
+     
+     4.  Evaluation of the bowel wall is limited secondary to contrast artifact,
+     but there is no portal venous air or obvious bowel wall thickening to indicate
+     ischemia.
+     
+     5.  Stable right retroperitoneal hematoma.
+     
+     6.  Right thigh gas that is likely secondary to graft harvest, but clinical
+     correlation recommended.
+
+",,
+24896,17667,30912,0,2900-05-05 03:26:00 EST,2900-05-05 03:51:00 EST,2506,"N",54,"Nursing/Other",,"
+
+NPN: S/P CABG X5
+
+Neuro: Remains sedated with propofol -weaned to 10. PERRLA. Pt not arousable yet. Sedated overnight r/t low CI. 
+CV: Remains V paced at 90 with breakthrough ? junc escape beats per EP. Lytes WNL. Initially on epi .02, levo .1 and neo .75. Neo weaned off. MVO2 sat 63 @ 2030pm. Pt with cont low BP. LR and Albumin given. CVP corrected-16-18. PAD 24-26. MVO2 sats decreased to 50-epi ^ .04 with sl ^ 54. Milrinone started with marked improvement in BP and MVO2 sat. Weaned off levo. CVP decreased to 13-15 with PAD 22-20. CI by FICK->2 now. Pedal pulses by doppler. Feet cool. Hct 31.5
+ID: Pt tmax 97.7. WBC 15.6. Cont on postop Vanco.
+Resp: Ventilated on SIMV/50%/400/10 with good ABG's RR-[**10-20**]. O2 sats 98-100%. Sxn for small blood tinged secretions. CT/MT to sxn-no airleak and min serosang dng.
+GU: Foley to gd. UO low despite volume. Cr1.0. Pt given lasix 5mg IV X1. Foley irrigated and repositioned. 
+GI: Abd round,softly distended with no BS. OGT to LWS-Min dng. Carafate and zantac given. NPO. 
+Endo: On insulin gtt per CTS protocol for glucoses 159-77. See flowsheet. 
+Incisions: Bil legs with endo harvest sites-ace wraps removed and reapplied. Sternum and CT with DSD-D/I.
+Activity: Bedrest-turned side to side. initially not tolerating position changes with dropping BP -Now stable. 
+Comfort: MSO4 1-2 mg given sparingly. No apparent discomfortseen by monitoring VS.
+A: Low CO/CI, hypotension-Cardiogenic shock
+P: Cont epi and milr, EP following for brady arrythmia/junc escape-Epicardial pacing, replete lytes prn, Discuss waking and weaning this am.
+
+",,
+24896,17667,30912,0,2900-05-05 03:47:00 EST,2900-05-05 03:48:00 EST,2183,"N",54,"Nursing/Other",,"
+
+Resp Care Note:
+
+Pt cont intub with OETT and on mech vent as per Carevue. Lung sounds ess clear suct sm th tan sput. ABGs stable;no vent changes required overnoc. Cont mech vent support.
+",,
+24896,17667,30912,0,2900-05-05 17:19:00 EST,2900-05-05 17:21:00 EST,2450,"N",54,"Nursing/Other","Respiratory Care","
+Respiratory Care
+Pt recieved on Simv weaned to cpap+ps pt with met. acidosis converted to A/C vent 746/20/68/15/-[**6-/2887**] tidal vol decreased to 350cc, Plan to treat metabolic acidosis. 
+",,
+24896,17667,30912,0,2900-05-05 18:30:00 EST,2900-05-05 18:44:00 EST,1742,"N",54,"Nursing/Other",,"
+
+CSRU NPN
+
+Neuro:  Arousable to voice off propofol.  MAE weakly to request.  Nodding head appropriately to questions.  Resedated on propofol d/t respiratory alkalosis.
+
+CV:  Initially in NSR w/ junctional beats.  With coughing, pt reverted to V demand at rate of 50, SBP down to 80's.  V pacing rate increased to support BP.  Remained v paced until ~1800->tachycardic to low 100's ->ECG obtained and reviewed by MD. [**First Name (Titles) **] [**Last Name (Titles) 5211**] to 70's junctional rhythm.  V demand currently at 50.  MVO2's 52-59 during day w/ CI's 2.0-3.0 by FICK.  Epi weaned to off throughout day.  Milrinone gradually increased to 0.5mcg/kg/min.  Received both lasix and volume/albumin per PA requests for marginal u/o and low MVO2's respectively.  PAD's [**12-21**].  Persistent metabolic acidosis w/ increasing lactate.  Treated w/ Bicarb x 2.  
+
+Resp: Weaned to CPAP initially tolerating well.  CPAP 5/5 ABG poor->IPS up to 8.  Significant resp alkalosis w/ PCO2's in low 20's->attempted placing pt back on rate to decrease RR without improvement.  Currently resedated to attempt to decrease MV.  CXR ""wet"" per PA.
+
+GI:  Abd distended, slightly firm to touch.  No BS.  Pt denied pain w/ palpation.  Bladder pressure 15 this evening.  Plan for Abd CT this evening.
+
+GU:  Lasix/volume/albumin as above.  Cr 1.2 this afternoon.
+
+Endo:  Insulin gtt off.  SSRI per protocol.
+
+Skin:  Fluid blisters at right groin dsg site.  Groin dsd's changed.  Coccyx slightly pink, intact skin, transparent dsg removed.
+
+Social:  Son into visit.  Questions answered.  Plan of care explained to him.
+
+A: Marginal MVO2's.  Persistent metabolic acidosis and lactate increase.  Significant resp alkalosis.
+
+P:  Monitor CI/MVO2's.  Sedation to allow for improved alkalosis.  Monitor abd closely.  Abd CT.  Monitor u/o.  Skin care. 
+",,
+24896,17667,30912,,2900-05-06 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2900-5-6**] 5:06 AM
+     CHEST PORT. LINE PLACEMENT                                      Clip # [**Clip Number (Radiology) 7227**]
+     Reason: line placement                                              
+     Admitting Diagnosis: CAD
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      73 year old woman with                                                          
+     REASON FOR THIS EXAMINATION:
+      line placement                                                                  
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     REASON FOR EXAMINATION:  Evaluation of right line placement in patient after
+     cardiopulmonary surgery.
+     
+     Portable AP chest radiograph was compared to the previous film from [**2900-5-5**].
+     
+     The Swan-Ganz has extended peripherally with its tip within the right
+     interlobar artery.  The nasogastric tube tip is within the stomach.  The ET
+     tube and the mediastinal chest tube are in the same position, as well as the
+     left chest tube.  There is some improvement of the right pleural effusion with
+     left pleural effusion unchanged.
+     
+     No changes in the cardiomediastinal silhouette are seen.
+     
+     IMPRESSION:
+     1.  Improvement of the right pleural effusion.
+     2.  Stable appearance of the post-surgery cardiomediastinal silhouette.
+                                                                           
+
+",,
+24896,17667,30912,0,2900-05-06 00:02:00 EST,2900-05-06 00:10:00 EST,2723,"N",54,"Nursing/Other","TO OR","
+TO OR
+pt cont w/ worsening acidosis as lactate increasing to 10.5..pt to ct scan of abd. tol procedure. return to csru and  u/s GB,CBD,liver done. hct down to 24. coags ,liver functions up. 2 unit PRBC, 2 unit FFP. Surgical team(transplant team) to evaluate. filling pressures increasing w/ volume. cvp and pad 22-28. team aware. bladdder pressure 15 and 18. pao2 also worsening (131 on 1.00). son updated by surgical team as well as csru team. consent for OR obtained. pt to OR w/ anesthesia ~0055. 
+",,
+24896,17667,30912,0,2900-05-06 04:46:00 EST,2900-05-06 04:48:00 EST,2827,"N",54,"Nursing/Other","RESPIRATORY CARE NOTE","
+RESPIRATORY CARE NOTE
+
+Pt remains intubated and fully ventilated on AC settings this AM.  Pt transported to CT scan and back without incident.  Pt went to OR.  Now metabolic acidosis with lactate 13.4.  PaO2 also decreasing to 70 on 100%.  peep increased but must be careful with labile BP.
+
+                           [**First Name11 (Name Pattern1) 310**] [**Last Name (NamePattern4) 311**], RRT
+",,
+24896,17667,30912,0,2900-05-06 06:50:00 EST,2900-05-06 07:01:00 EST,2723,"N",54,"Nursing/Other","csru update","
+csru update
+return from OR for cholecystectomy. worsening acidosis w/ increase pressor requirements. 
+
+remains sedate on propofol. perl mm. does overbreathe vent at times.
+increased pressor requirements post-op w/ acidosis also worse. treated w/ nahco3 as well as blood products. received total 4 unit prbc, 2 ffp, 1 cryo since OR. pt w/ drop in bp ~0550 team to bedside ->transfusions and vasopressin added. sang dng from jp though acceptable amts. refer to flowsheet for vs/hemos. mvo2 60-70 most of shift. bladder pressure mid teens though abd seems increased by end of shift. v paced since Or, underlying 50's junctional. did have brief tachycardia after last does of nahco3. uop decreasing, am creat 1.4. hypothermic w/ bair hugger and fluid warmer. wbc down to 8. feet dusky, pulses diff to find by doppler, rt index finger cyanotic. face very edematous, dusky. pt hypoxic team aware, peep to 12 cm(didn't tol pcv). family in to see pt x2. updated by surgey anf cardiac surgery md. 
+
+
+",,
+24896,17667,30912,0,2900-05-06 15:51:00 EST,2900-05-06 16:08:00 EST,8110,"N",54,"Nursing/Other","Narrative Note","
+Narrative Note
+Neuro:  Pt sedated and paralyzed on versed, fentanyl, and cisatracurium gtts.  Pupils 3mm sluggish.  TOF [**2-6**]. No spontaneous breaths noted and no cough when suctioned.
+
+Resp:  Lungs coarse and sometimes rhonchous.  Sats 95-97%  Pt currently on PC 28, RR14, 80% and peep 12. No secretions noted when suctioned. CT to 20cm wall suction. Minimal serosang CT output. No airleak noted.  pO2 70-80's. mVo2 70's.
+
+CV:  Levophed weaned off. Pt on milrinone and vasopressin gtts. junctional vs Afib/flutter.  Occassional PVC's noted.  Ca, K repleted. Reeived 1000cc of NS bolus for hypovolemia, metab acidosis, and hypotension.  Gave 2u FFP for INR 2.4. Cardioverted (100j200j) pt for presumed Aflutter.  No change in cardiac rhythm after cardioversion.
+PAP 30/20's CVP 15-20's.  SBP 90-140's MAP 60-80.
+
+GI/GU:  Abdomen opened and irrigated by surgical team.  Placed 2 JP drainage.  Minimal drainage to JP but with moderate amount of serosang drainage around abdomen.  Belly soft, distended.  Bladder pressure decreased from 20 to 13. No BS.  OGT to LCS.  Bilious drainage. Foley cath.  UO adequate. Clear, lt yellow urine. 
+
+Endoc:  Insulin gtt FSBG 90-130's
+
+Social:  Son and granddaughter visited
+
+Pain:  Fentanyl gtt
+
+Plan:  Possible irrigation of abdomen tomorrow.  Keep sedated and paralyzed.  Maintain SBP >90<140. Keep normothermic. Maintain electrolytes.  Watch hepatic functions closely.  Monitor coags and HCT Q4h. FSBG <110
+",,
+24896,17667,30912,0,2900-05-06 16:47:00 EST,2900-05-06 16:50:00 EST,2450,"N",54,"Nursing/Other","respiratory care","
+respiratory care
+Pt remains paralyzed and sedated on PCV of 16  improving abgs 740/33/71/21/-[**2-/2889**], Pt with open belly  secondary increased pressure. Will wean support slowly.
+",,
+24896,17667,30912,,2900-05-07 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2900-5-7**] 9:17 AM
+     BILAT LOWER EXT VEINS                                           Clip # [**Clip Number (Radiology) 7228**]
+     Reason: r/o DVT                                                     
+     Admitting Diagnosis: CAD
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      73 year old woman with                                                          
+     REASON FOR THIS EXAMINATION:
+      r/o DVT                                                                         
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Rule out DVT.
+     
+     COMPARISON:  None.
+     
+     TECHNIQUE:  Bilateral lower extremity venous ultrasound.
+     
+     LOWER EXTREMITY VENOUS ULTRASOUND (BILATERAL):
+     
+     RIGHT LOWER EXTREMITY:  Grayscale, color, and Doppler images of the right
+     common femoral, superficial femoral, and popliteal veins were obtained. Normal
+     flow, compressibility, augmentation, and waveforms are demonstrated. No
+     intraluminal thrombus is identified.
+     
+     LEFT LOWER EXTREMITY:  The left common femoral vein could not be imaged due to
+     overlying dressing material within the left groin.  Grayscale, color, and
+     Doppler images of the left superficial femoral, and popliteal veins were
+     obtained.  Normal flow, compressibility, augmentation, and waveforms are
+     demonstrated.  No intraluminal thrombus is identified.
+     
+     IMPRESSION:  No deep venous thrombosis in right or left lower extremity,
+     although left common femoral vein is not visualized due to the presence of
+     dressing material in the left groin.
+     
+     
+
+",,
+24896,17667,30912,,2900-05-07 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2900-5-7**] 5:07 PM
+     CHEST (PORTABLE AP); -77 BY DIFFERENT PHYSICIAN                 [**Name Initial (PRE) 232**] # [**Clip Number (Radiology) 7230**]
+     Reason: Please perform to assess for pneumo, etc                    
+     Admitting Diagnosis: CAD
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+         73 year old woman s/p CABG [**5-4**], s/p ex lap [**5-5**], s/p line change L side       
+                               
+     REASON FOR THIS EXAMINATION:
+      Please perform to assess for pneumo, etc                                        
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  73-year-old status post CABG and exploratory laparotomy, now with
+     left-sided line change.  Assess for pneumothorax.
+     
+     COMPARISON:  [**2900-5-7**].
+     
+     SUPINE CHEST RADIOGRAPH:  Left-sided subclavian dual-lumen catheter is seen
+     with tip in the SVC.  There is no evidence of pneumothorax.  Right-sided
+     internal jugular Swan-Ganz catheter, endotracheal tube, and nasogastric tube
+     are in unchanged positions.  Mediastinal and abdominal drains are again seen.
+     Cardiomediastinal silhouette is unchanged.  Accounting for differences in
+     technique, pulmonary vasculature is unchanged.  There is a small right-sided
+     pleural effusion.  Left retrocardiac opacity may represent atelectasis.
+     
+     IMPRESSION:
+     
+     1.  Left-sided dual-lumen catheter in SVC.  Previously seen lucency in the
+     region of the left hemidiaphragm is no longer seen.  There is no evidence of
+     pneumothorax.
+
+",,
+24896,17667,30912,,2900-05-07 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2900-5-7**] 5:07 PM
+     CHEST (PORTABLE AP); -77 BY DIFFERENT PHYSICIAN                 [**Name Initial (PRE) 232**] # [**Clip Number (Radiology) 7230**]
+     Reason: Please perform to assess for pneumo, etc                    
+     Admitting Diagnosis: CAD
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+         73 year old woman s/p CABG [**5-4**], s/p ex lap [**5-5**], s/p line change L side       
+                               
+     REASON FOR THIS EXAMINATION:
+      Please perform to assess for pneumo, etc                                        
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  73-year-old status post CABG and exploratory laparotomy, now with
+     left-sided line change.  Assess for pneumothorax.
+     
+     COMPARISON:  [**2900-5-7**].
+     
+     SUPINE CHEST RADIOGRAPH:  Left-sided subclavian dual-lumen catheter is seen
+     with tip in the SVC.  There is no evidence of pneumothorax.  Right-sided
+     internal jugular Swan-Ganz catheter, endotracheal tube, and nasogastric tube
+     are in unchanged positions.  Mediastinal and abdominal drains are again seen.
+     Cardiomediastinal silhouette is unchanged.  Accounting for differences in
+     technique, pulmonary vasculature is unchanged.  There is a small right-sided
+     pleural effusion.  Left retrocardiac opacity may represent atelectasis.
+     
+     IMPRESSION:
+     
+     1.  Left-sided dual-lumen catheter in SVC.  Previously seen lucency in the
+     region of the left hemidiaphragm is no longer seen.  There is no evidence of
+     pneumothorax.
+
+",,
+24896,17667,30912,,2900-05-07 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2900-5-7**] 12:48 PM
+     CHEST PORT. LINE PLACEMENT                                      Clip # [**Clip Number (Radiology) 7229**]
+     Reason: PLease assess for pneumo, etc, s/p line change L side       
+     Admitting Diagnosis: CAD
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        73 year old woman s/p CABG [**5-4**], s/p ex lap [**5-5**], s/p line change L side        
+                             
+     REASON FOR THIS EXAMINATION:
+      PLease assess for pneumo, etc, s/p line change L side                           
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     AP CHEST, 1:00 P.M., ON [**5-7**]
+     
+     HISTORY:  Status post CABG.  Line change.  Possible pneumothorax.
+     
+     IMPRESSION:  AP chest compared to [**5-4**], 3 and 4:
+     
+     Lucency in the region of the left hemidiaphragm traversed by both a pleural
+     drain and nasogastric tube is probably due largely to anterior pneumothorax. 
+     Left lower lobe atelectasis is improved.  Upper lungs clear.  Small right
+     pleural effusion is stable.  Heart size normal.  Mediastinum midline.  ET tube
+     dual-channel left subclavian line, Swan-Ganz catheter and a midline pleural
+     drain were in standard placements.
+                                                                           
+
+",,
+24896,17667,30912,0,2900-05-07 03:30:00 EST,2900-05-07 03:34:00 EST,7781,"N",54,"Nursing/Other","Respiratory Care","
+Respiratory Care
+Pt. intubated on PVC ventilation. ABG's gradually improving overshift, able to wean FiO2 to 60%.  Will continue to modify ventilatory support as patient status improves.
+",,
+24896,17667,30912,0,2900-05-07 03:31:00 EST,2900-05-07 03:58:00 EST,2723,"N",54,"Nursing/Other","csru update","
+csru update
+neuro: pt remains sedate on versed. cistatrcurium drip cont, pt w/ [**4-6**] twitches w/ TOF. no movememnt noted and vent w/out diff. [**Doctor Last Name 556**] PA aware and no change in gtt at present. fentanyl drip and versed drip increase for increase in BP w/ stim. perl. 
+
+cv: vs/hemos as per flowsheet. tol wean of milrinone to .25 w/ mvo2 sats in the 70's. bp on the rise -> vasopressin to .6 [**First Name8 (NamePattern2) 59**] [**Doctor Last Name **] PA. remains w/ hr 100-110 w/ rare pvc. feet w/ pedal pulses by doppler diff to find rt dp at times. rt fingers cyanotic (index worst). left rad art line attempt by team w/out success. facial edema less. as tol reverse t-[**Last Name (un) **] this shift. total body taught w/ edema. pt up 20kg from dry wt. 2 unit ffp for inr 1.8. cvp high teens w/ pad low 20's. lasix 10mg x1 for marginal uop after ffp. hct stable at 31.
+
+resp; lungs essentially clear. remains on pcv.see flow for specifics. only fio2 wean to .60 this shift. 
+
+gi/gu: abd open. some serosang dng. bladder pressures remain mid teens. uop marginal, no responce from lasix 10mg. creat to 2 this am. k+ gently repleted. insulin drip on /off. lft  stable fromlast pm though quite elevated. large amt foul liquid stool. fib app.
+
+id: wbc 8.5, hypothermic. bair hugger on much of shift. 
+
+assess: remains critical though stable on gtts. tol wean of vasopressin/milrinone.
+
+plan: slow wean of fio2 as able. ? [**Doctor First Name **] on abd. monitor hemos/vs/labs closely.
+",,
+24896,17667,30912,0,2900-05-07 03:58:00 EST,2900-05-07 03:59:00 EST,2723,"N",54,"Nursing/Other","addendum","
+addendum
+plt down to 60 from 120 [**5-6**] am. HIT sent.
+",,
+24896,17667,30912,0,2900-05-07 16:53:00 EST,2900-05-07 17:21:00 EST,8110,"N",54,"Nursing/Other","Narrative Note","
+Narrative Note
+Neuro:  Pt paralyzed and sedated on cisat, versed and fent gtts.  TOF 1-3/4.  Pupils 3mm sluggish.  Pt unresponsive.  No cough or gag reflex.  No spont respirations and movements noted.
+
+CV:  BP labile.  Pt received IVF bolus and albumin bolus for low BP. BP improved after boluses. Titrated vasopressin for SBP >95<140.  Presently, ABP 100/60's MAP 80's on vasopressin at 1.8u/hr.  Milrinone weaned off.  CI >[**3-6**]. Aline changed to Lt femoral and MLC changed to dialysis cath over wire. PT/DP dooplerable.  Rt fingers (esp index) color improved since Rt rad aline d/c'd this afternoon. Lt foot is mottled after fem aline was placed. LT foot with sluggish capi refill but warm to touch and pulses dopplerable.  Vascular team consulted. HCT 29 down from 31. INR >2. HemeOnc consulted.  HIT panel yesterday was negative.  Sent another HIT today. U/S to lower extremeties was negative for dvt. Lasix gtt started today for decreased UO. Lasix d/c'd since no diurese was noted. Lytes WNL.  Hypothermic requiring [**Doctor Last Name **] hugger therapy. Increaseing edema +2. 
+
+Resp:  Able to wean fio2 down to 40% and peep to 10.  Pt oxygenating well. Sats 100% on PC 28, rr8, 40%, peep 10.  No secretions noted via ETT. Metabolic alkalosis improved.
+
+GI:  Abdomen opened today by surgical team for irrigation and exploration.  6 inches of necrotic colon was resected. JP drainage to wall suction with minimal serosanguinous drainage but oozing moderate amount of serosang around the abdomen. No BS present. Small soft stool via rectal pouch. Abdomen soft, distended. Last bladder pressure was 20.  Pt will possibly go to OR on [**5-9**] for possible reconnection of colon vs. stoma placement.
+
+GU:  UO marginal. 20-50cc/hr.  Clear,yellow urine.  Lasix gtt started but now d/c'd due to lack of diurese.  Creat increased to 2.3.  Will evaluate need for CRRT.
+
+Endoc:  Insulin off. FSBG <110.
+
+Nutri:  TPN started. 
+
+Pain:  Fentanyl gtt
+
+Social:  Son called today and will attempt to visit tonight.
+
+Plan:  OR [**5-9**] for colon reconnection vs. stoma placement. r/o DIC, HIT pending. Monitor lytes, coags, and hct closely. Wean vasopressin. Decrease PEEP as tolerated. Pain management. Neurovasc checks. SBP >95<140. Possible dialysis.
+",,
+24896,17667,30912,0,2900-05-07 18:48:00 EST,2900-05-07 18:49:00 EST,1742,"N",54,"Nursing/Other",,"
+
+CSRU Update
+
+Neuro:  Anesthesia in attendance for surgical procedure and directed sedation/narcotic med dosages.
+
+
+",,
+24896,17667,30912,,2900-05-08 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2900-5-8**] 7:30 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 7231**]
+     Reason: r/o effusion                                                
+     Admitting Diagnosis: CAD
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+          73 year old woman s/p CABG [**5-4**], s/p ex lap [**5-5**], s/p line change L side      
+                                 
+     REASON FOR THIS EXAMINATION:
+      r/o effusion                                                                    
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CHEST, SINGLE AP FILM
+     
+     History of CABG and Swan-Ganz placement.
+     
+     Tip of Swan-Ganz catheter is in intralobar division of right pulmonary artery.
+     Endotracheal tube is 4 cm above carina.  NG tube is in fundus of stomach. 
+     Mediastinal and left chest tubes in situ.  No pneumothorax.  There are
+     bilateral pleural effusions, right great than left with associated bibasilar
+     atelectases.
+                                                                           
+
+",,
+24896,17667,30912,0,2900-05-08 03:40:00 EST,2900-05-08 04:14:00 EST,2518,"N",54,"Nursing/Other",,"
+
+SEE CAREVUE FOR Q15-30"" VS, Q1H I&O, Q2H NEURO ASSESSMENTS AND Q4H CV ASSESSMENTS, LABS AND ALL OTHER OBJECTIVE DATA.
+
+NEURO:  ORALLY INTUBATED, PARALYZED ON CISATRACURIUM GTT AT 0.075 MG/KG/HR, SEDATED WITH VERSED GTT AT 3MG/HR, PAIN CONTROLLED WITH FENTANYL GTT AT 75 MCG/HR. TOF 0 VIA R FACIAL.
+
+PULM:  INTUBATED ON PCV MODE, NO VENT CHANGES THIS SHIFT.  ABG'S WNL. LUNGS CLEAR. CHEST TUBES WITHOUT DRAINAGE, NO AIR LEAK, NO CREPITUS.
+
+CV:  HYPOTENSIVE AT 1930 WITH SBP AS LOW AS 76 DESPITE INCREASING VASOPRESSING UP TO 2.4 UNITS/HR AND 500CC LR BOLUS (CVP DROPPED TO 14 WITH PAD'S 17).  LEVOPHED GTT ADDED AND TITRATED TO KEEP MAP >60. RHYTHM SINUS- SINUS TACH WITH OCCASION MULTIFOCAL PVC'S AND PAC'S, INTERMITTENTLY IN RAF WITH VR UP TO 128, AMIODARONE GTT STARTED AT 0300 AT 0.5MG/HR WITHOUT BOLUS. MVO2 70'S WITH FICK CO/CI.  PEDAL PULSES DOPPLED, LLE PULSES VERY FAINT WITH DOPPLER, FEET WARM/PINK. R INDEX FINGER AND MIDDLE FINGER TIPS CYANOTIC/BLACK. 4+ GENERALIZED EDEMA.  MANY BLISTERS ON SKIN, OOZING LARGE AMTS SEROUS DRAINAGE FROM MULTIPLE INCSIONS, SKIN TEARS, PUNCTURE SITES OVER ENTIRE BODY, DSD'S CHANGED FREQUENTLY. LACTIC ACID DOWN TO 5.1. LFT'S IMPROVING. REMAINS COAGULOPATHIC
+
+ENDO: INSULIN GTT TITRATED PER CSRU PROTOCOL.  BS 125-200. 
+
+GI:  ABDOMEN OPEN, VAC DSG INTACT, 5 J-P DRAINS FROM OPEN ABDOMEN, MINIMAL SANGUINOUS DRAINAGE. ABDOMEN SOFTLY DISTENDED, NO BS. OGT TO LCS WITH MINIMAL BILIOUS DRAINAGE, + PLACEMENT CHECK X 3. TPN AT 41.7CC/HR. 
+
+GU: FOLEY TO CD DRAINING 13-35CC AMBER URINE/HR.  BLADDER PRESSURES Q4H, 8-16 RANGE. BUN 44/CREATININE 2.5. 
+
+SOCIAL:  SON CALLED IN FOR UPDATE, ASKED IF DIALYSIS HAD BEEN STARTED.
+
+PLAN:  CONTINUE AGGRESSIVE MULTI-SYSTEMS SUPPORT. KEEP MAP > 60 WITH PRESSORS, WEAN AS TOLERATED. START CRRT TODAY TO ACHIEVE NEGATIVE FLUID BALANCE. ? TRANSFUSE FFP FOR ELEVATED CLOTTING STUDIES PER HEMETOLOGY SUGGESTION. KEEP PARALYZED/SEDATED WHILE ABDOMEN IS OPEN.
+",,
+24896,17667,30912,0,2900-05-08 04:26:00 EST,2900-05-08 04:28:00 EST,7781,"N",54,"Nursing/Other","RESPIRATORY CARE","
+RESPIRATORY CARE
+Pt. remains intubated and ventilated on heavy sedation. Remains hemodynamically labile but tol ventilatory support well. BS clear not requiring much suctioning.
+",,
+24896,17667,30912,0,2900-05-08 06:47:00 EST,2900-05-08 06:57:00 EST,2518,"N",54,"Nursing/Other",,"
+
+ADDENDUM:
+~0615 INTERMITTENT RUNS OF SVT WITH VR 166 WITH ATRIAL FIB WITH VR 70'S. SBP 120'S WHEN IN SVT, DROPS TO 70'S WHEN IN ATRIAL FIB.  INCREASE IN MFPVC'S WHEN IN A FIB. DR [**Last Name (STitle) 5212**] AT BEDSIDE,  CARDIOVERTED X 2 FOR RUNS OF SVT. LIDOCAINE 50MG IV BOLUS X 1 WITH DECREASE IN FREQUENCY OF MFPVC'S. AMIODARONE GTT DC'D D/T SLOW A FIB.  LEVOPHED GTT INCREASED TO 0.3MCG/KG/HR FOR SBP 70'S [**First Name8 (NamePattern2) **] [**First Name8 (NamePattern2) **] [**Name8 (MD) **] NP AND [**Last Name (NamePattern4) 5213**] MD [**First Name (Titles) **] [**Last Name (Titles) 5214**] GTT STARTED AT 0.02MCG/KG/HR. REPORT GIVEN TO [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 5215**] RN AT 0715.
+",,
+24896,17667,30912,0,2900-05-08 16:09:00 EST,2900-05-08 16:25:00 EST,1946,"N",54,"Nursing/Other",,"
+
+PATIENT CONTINUES TO BE IN/OUT OF AFIB TO 150'S WITH SBP TOLERATING FAST AFIB, DROPS TO SR IN THE 70-90'S WOTH OCCASIONAL PVC, THIS AM INCREASED VE AMIODARONE RESTARTED AT .5MG/MIN. LESS VE THIS PM, BUT PAC'S CONTINUES. K/MAG REPLETED , NL ICA. EP BY THIS AM PATIENT PLACED ON VVI AT 60 , SEE PACER SETTINGS IN FLOW SHEET, OCASIONALLY PATIENT HAS VPACED .SBP KEEP 80 OR GREATER WITH EPI INCREASED TO .05MCG/KG/MIN, SLOWLY WEANING LEVOPHED DOWN TO .26MCG/KG/MIN. PATIENT APPEARS TO LIKE SBP GREATERV THAN 110 FOR RENAL PERFUSION. RESP VENT CHANGED THRU OUT THE DAT FOR ACIDOSIS, CHANGED RATE, I:E RATIO WITH GOOD RESULTS, GOOD ABG AT 1630 ON 10 PEEP, FIO2 70% RATE AT ?12 OR 14 PRESENTLY. SUNCTIONING THICK YELLOW SECRETIONS APPROX. Q3-4HRS. RENAL PLAN TO REEVALUATE IN AM FOR CVVHD, PRESENTLY MAKING APPROX. 0-20CC/HR, BLADDER PSE APPROX. 12, CLEAR YELLOW URINE, BUN/CREAT PENDING. GI ABD REMAINS OPENED WITH JPX4 INTREMITTENT SUNCTIONING DRAINING NIL!!!!!, ALSO 1JP TO SELF SUNCTION DRAINING NIL!!!!. CT DRAINING NIL AS WELL.OGT DRAINING BILIOUS SECRETIONS, NO BM YET. NEURO SEDATED ON FENTANYL/VERSED WITH CISTACURIUM BEING WEANED D/T NO EYE TWICTHES!! NUTRITION TPN CONTINUES WITH INSULIN ADDED TO TPN, BS ELEVATED INSULIN DRIP TIRATED PER PROTOCOL SEE FLOW SHEET. I/D CONTINUES ON ZOSYN Q6HRS, WITH VANCO HELD THIS AM D/T VANCO LEVEL AT 24. VASCULAR LHAND FINGER TIPS REMAIN BLACK BUT WITH PALPABLE RADIAL PULSE, BOTH FEET PTS ARE DOPPERABLE WITH DPS FAINT TO DOPPLER, FEET WARM TO TOUCH. PATIENT CONTINUES TO LEAK FROM ANY OPENING IN SKIN!! LOTS OF SEROUS FLUID SEE FLOW SHEET FOR DETAILS!!!FAMILY INTO VISIT, SON GIVEN UPDATE, AWARE OF PATIENT'S CRITICAL STATUS. 
+",,
+24896,17667,30912,0,2900-05-08 16:58:00 EST,2900-05-08 17:01:00 EST,7744,"N",54,"Nursing/Other",,"
+
+BS occ rhonchi. Remains in Afib and requiring pressors. Possibly will need CVVH though U/O somewhat improved. MAP (via I-time and rate) increased for oxygenation as service is reluctant to increase PEEP level. FiO2 varying now at 70% but will decrease per last ABG.
+",,
+24896,17667,30912,0,2900-05-09 05:37:00 EST,2900-05-09 05:45:00 EST,2452,"N",54,"Nursing/Other","Resp Care","
+Resp Care
+Pt. received on PCV mode. Initially tolerating well however had acute episode of desaturations following amio bolus and transition to T-bird. Followed by a bed malfunction which resulted in mattress deflating. When bed deflated Vt's dropped to 100-150cc with MV 1-2lpm. Changed to AC, PEEP ^12, FIo2^ 100%  which resulted in marginal PaO2 and mild resp. acidosis. Changed to APRV with good results (see CV for details). Current setting Thigh 3.2s/Tlow 0.5s/Phigh 33cmH20/Plow 12cmH20. FiO2 weaned down to 70% following most recent abg: hyperoxygenated metabolic acidosis with resp. compensation.
+Bs: coarse with crackles bibasilar.
+PlaN:Wean FiO2, cont. current settings.
+",,
+24896,17667,30912,0,2900-05-09 05:50:00 EST,2900-05-09 06:33:00 EST,2518,"N",54,"Nursing/Other",,"
+
+SEE CAREVUE FOR Q20""-1H VS, Q1H I&O, Q2H NEURO ASSESSMENTS, Q4H CV ASSESSMENTS, LABS AND ALL OTHER OBJECTIVE DATA.
+
+NEURO:  PEARL AT 3MM, SLIGHTLY SLUGGISH.  PARALYZED ON CISATRACURIUM GTT WITH TOF CONSISTENTLY O VIA L EYELID STIMULATION. CISATRACURIUM GTT DECREASED TO 0.04MG/KG/HR. SEDATED ON VERSED, PAIN CONTROL WITH FENTANYL GTTS.
+
+PULM:  INTUBATED ON PCV MODE WITH GOOD ABGS'S INITIALLY UNTIL EPISODE OF DESATURATION TO 85%, PO2 66 WITH HYPOTENSION FROM AMIODARONE BOLUS AND SUDDEN DEFLATION OF KINAIR MATTRESS. PCV MODE CHANGED TO APRV MODE WITH GRADUAL CORRECTION OF ABG'S. CT WITH SCAN DRAINAGE, + AIR LEAK, NO CREPITUS. WBC UP TO 18.5K.
+
+CV:  RHYTHM CHAOTIC, ATRIAL FIB, RUNS OF ABERRANT PAC'S, V PACED AT 80, 2:1 FLUTTER.  HYPOTENSIVE WITH SLOWER HEART RATES. HYPOTENSIVE AFTER AMIO BOLUS FOR 2:1 FLUTTER. 2 UNIT FFP FOR COAGULOPATHY, 1 UNIT FFP FOR FCT 29.2 AND LOW BP. LEVO TITRATED TO KEEP MAP > 60. EPI AND VAOPRESSIN GTTS NOT TITRATED. 4+ GENERALIZED EDEMA.  PEDAL PULSES DOPPLED WEAKLY. PLATELETS 35K. 
+
+GI:  ABDOMEN FIRMLY DISTENDED, NO BS, ABDOMEN REMAIN OPEN WITH VAC DSG TO INTERMITTENT SX VIA 5 J-P DRAINS. BLADDER PRESSURES [**12-20**].
+
+GU: FOLEY TO CD.  1 DOSE OF LASIX WITH POOR RESPONSE. UO 100 CC X 1H AFTER REPOSITIONING.
+
+ENDO:  INSULIN GTT AT 20 UNITS/HR WITH BS ~ 115.
+
+SOCIAL:  SON CALLED IN FOR UPDATE.
+
+PLAN:  CONTINUE AGGRESSIVE MULTI-ORGAN SUPPORT. WEAN LEVO AS TOLERATED FOR MAP > 60.  ? CVVHD TODAY.
+
+",,
+24896,17667,30912,0,2900-05-09 14:19:00 EST,2900-05-09 15:08:00 EST,2830,"N",54,"Nursing/Other",,"
+
+
+Significant events: To OR for ostomy placement.
+
+Neuro: Paralyzed and sedated on cisatracurium, midaz, fentanyl. TOF = 0/0. Does have 1 twitch w/buzz of 50. PEARRLA.
+
+CV: A fib 60-80, rate high of 130 w/good BP. At 1300 noted decrease in BP w/o change in pressor rates, noted to be 100% V paced w/o any breakthrough a fib, noted to be asystolic under being V paced. Changed to AV pace w/good response in BP.  This lasted approx 15 min then started to have a few breakthrough beats and then 5 more minutes is AF rate 130's. Pacer changed to V pace w/back up rate of 80. On amiodarone .5mg/min. Dr. [**Last Name (STitle) **] [**Last Name (NamePattern4) 1993**] notified, no new orders. Peripheral pulses w/doppler. On vasopressin, epi, and levophed. Levophed rate decreased first thing this AM and then no further adjustments tolerated. Sternal/mediastinal dressings CDI. Has RIJ cordis w/SWAN, see flow record for PA #'s. Has left femoral A line.  
+
+Resp: Remains orally intubated and on Vent in APRV mode. FIO2 weaned to 50 % w/good ABGs. Sats 98-99%. Lungs clear and diminished. Has right chest tube to 20 cm sx drained 530cc w/in first hour of this shift then little to no more drng. 
+
+GI: Abd soft distended and open w/occlusive modified VAC dressing (connected to wall sx) draining serosang fluid in scant amt. Oral [**Hospital1 555**] sump draining scant bloody drng. Protonix for GI prophylaxis. Bladder pressure 15.
+
+GU: Foley patent drained 25 cc first hour of this shift then no further UO.  Lasix 40 IVP followed by albumin w/o any response. 
+
+Endo: Insulin gtt on at 19 units/hr No titration required, glucose w/in  90-110. 10 units in TPN.  TPN and insulin off when sent to OR.
+
+ID: On zosyn. Afebrile. Tmax 99.1
+
+Heme: Plt 35, 1 pk of plt given. Recheck of Plt is 90's. 2 units FFP given preop for coags.
+
+Skin: Multiple weeping areas on extremities. Drng leaking out from Abd drsg. Large amt drng from coccyx area. Finger tips on right hand dark. ? necrotic.
+
+Social: Son phoned for update.
+
+Plan: Receive from OR, resume orders for meds/gtt. Begin CRRT, when returns from OR. Wean vent as tolerates. Keep MAP > 60 and SBP >80. Monitor, tx, support, and comfort.
+",,
+24896,17667,30912,1,2900-05-09 14:19:00 EST,2900-05-09 19:00:00 EST,2830,"Y",54,"Nursing/Other",,"
+
+OR procedure = right colectomy ileostomy. EBL 200. Cardiac arrested, received epi and about 3 minutes of CPR and returns to Afib. 
+
+Stable post op w/o changes in orders. Hct 23.6 post op, orders to transfuse received.
+
+CVVHD initiated w/associated gtt in BP and then returns to baseline w/only a few minutes of ^ rate of levo momentarly.
+
+Plan: Monitor ABGs, watch acidosis closely! Transfusions as ordered.
+
+
+",,
+24896,17667,30912,0,2900-05-09 16:38:00 EST,2900-05-09 16:40:00 EST,7744,"N",54,"Nursing/Other",,"
+
+BS few coarse crackles. Remains on pressors, antiarrhythmics, AV paced. To OR today for colostomy. Stayed on [**Last Name (un) 726**] vent, APRV to OR and intra-op without difficulty. Able to wean FiO2 to 50% with adequate oxygenation. Metabolic acidosis slightly improving though U/O scant. Will start on CRRT. Continue to wean vent as appropriate.
+",,
+24896,17667,30912,,2900-05-10 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2900-5-10**] 10:38 AM
+     CHEST PORT. LINE PLACEMENT                                      Clip # [**Clip Number (Radiology) 7232**]
+     Reason: check line placement                                        
+     Admitting Diagnosis: CAD
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+           73 year old woman s/p CABG [**5-4**], s/p ex lap [**5-5**], s/p line change L side     
+                                   
+     REASON FOR THIS EXAMINATION:
+      check line placement                                                            
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     PORTABLE CHEST X-RAY
+     
+     INDICATION:  Line change.
+     
+     A left subclavian catheter terminates at the junction of the left
+     brachiocephalic vein and superior vena cava.  There is a new hyperlucency at
+     the left lung base, as well as apparent inversion of the left hemidiaphragm,
+     concerning for a left basilar pneumothorax with possible component of tension.
+     A left chest tube is in place.  Endotracheal tube and Swan-Ganz catheter
+     remain in place, with tip of Swan-Ganz catheter projecting in the right upper
+     lobe pulmonary artery.  Nasogastric tube terminates below the diaphragm. 
+     Cardiac and mediastinal contours are normal.  Right pleural effusion has
+     decreased in size and left effusion has resolved.
+     
+     IMPRESSION:  Findings concerning for left basilar pneumothorax with possible
+     component of tension, as communicated by telephone to [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 5543**] on [**5-10**], 2006.  Pneumothorax could be confirmed with additional right lateral
+     decubitus radiograph.
+                                                                           
+
+",,
+24896,17667,30912,0,2900-05-10 04:42:00 EST,2900-05-10 04:53:00 EST,2452,"N",54,"Nursing/Other","Resp Care","
+Resp Care
+Pt. remains intubated/sedated/on APRV mode and CVVHD. Oxygenation improving t/o shift. Settings weaned slightly (see careview for details) with MV kept at 6.2-6.4L. Abgs on these settings reveal slight metabolic acidemia with hyperoxygenation and normal ph.
+Bs: crackles bibasilar, coarse uppers with minimal secreations.
+PlaN: continue APRV mode, would recommend waiting 6-8hrs before weaning pressure to allow for equilbration to occur with reduced MAP.If oxygenation continues to trend upwards wean Phigh by 2cmH20 and adjust Phigh accordingly to maintain MV.
+",,
+24896,17667,30912,0,2900-05-10 05:34:00 EST,2900-05-10 05:56:00 EST,2518,"N",54,"Nursing/Other",,"
+
+SEE CAREVUE FOR Q30""-1H VS, Q1H I&0, Q2H NEURO ASSESSMENTS, Q4H CV ASSESSMENTS, ALL LABS AND OTHER OBJECTIVE DATA.
+
+NEURO:  PARALYZED ON CISATRACURIUM GTT AT 0.04MG/KG/GR, TOF 0-1 TWITCH L FACIAL STIMULATION. FENTNAYL GTT AT 75MVG/HR FOR PAIN CONTROL, VERSED AT 3MG/HR FOR SEDATION WHILE PARALYZED. PEARL/SUGGISH AT 3-4MM.
+
+PULM:  INTUBATED ON APRV MODE,  PRESSURES TITRATED PER ABG'S BY RESPIRATORY THERAPIST, SEE CAREVUE. LUNGS DIMINSHED BASES. CHEST TUBE WITH MINIMAL SEROUS DRAINAGE. 
+
+CV:  INTERMITTENT ATRIAL FIB WITH VR ~100 AND PACED RHYTHM ~80.  LEVOPHED GTT WEANED PER MAP. VASOPRESSIN, EPI AND AMIODARONE GTTS NOT TITRATED. MVO2 54-71 RANGE. CI 1.9 WHEN MVO2 54.GROSS GENERALIZED EDEMA PERSISTS WITH CONSTANT OOZING SEROUS DRAINAGE FROM EVERYWHERE. SKIN SHINY AND TAUT.  PEDAL PULSES DOPPLED WEAKLY.  CVP AS HIGH AS 34, PAD PRESSURES 37, DECREASED TO 23/29 RESPECTIVELY AFTER LASIX AND DIURIL. R SUBCLAVIAN DIALYSIS ACCESS PROT SLUGGISH TO FLUSH, NO BLD ASPIRATION,  ATTMEPTS AT CVVHD UNSUCCESSFUL X 2 D/T HIGH ACCESS PRESSURES DESPITE SWITCHING ACCESS PORTS. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **] MD AWARE. BASELINE CORTISOL LEVEL SENT, HIT SCREEN SENT.
+
+ENDO:  NS WNL. NO INSULIN COVERAGE.
+
+GI:  ABDOMEN REMAINS OPEN, VAC DSG TO INTERMITTED SX VIA 3 J-P DRAINS. COPIOUS AMTS SEROUS FLUID CONSTANTLY DRAINING FROM AROUND VAC DSG. OGT TO LCS WITH SCANT BILIOUS DRAINAGE.  PLACEMENT CHECKED X 2. BLADDER PRESSURES ~15.
+
+GU:  FOLEY TO CD, NO DRAINAGE X 3 HOURS DESPITE LASIX 40MG IV X 1.  LASIX 160MG IV AT 0400 AND DIURIL 250MG IV AT 0430 WITH  ~35CC UO.
+
+SKIN:  MULTIPLE SKIN TEARS, BLISTERS, GROSS EDEMA. CHANGED TO KINAIR BED.
+
+SOCIAL: SON CALLED IN FOR UPDATE.
+
+PLAN:  CONTINUE AGGRESSIVE MULTI-SYSTEMS SUPPORT. HO TO ASSESS DIALYSIS CATHETER, RESUME CVVHD WHEN CATHETER PATENT. CORTICOTROPIN TEST THIS AM, CHECK CORTISOL LEVEL 1/2 HOUR AFTER MED IN. WEAN LEVO AS TOLERATED KEEPING MAP >60. 
+
+
+",,
+24896,17667,30912,0,2900-05-10 16:56:00 EST,2900-05-10 17:01:00 EST,7624,"N",54,"Nursing/Other","Respiratory Care","
+Respiratory Care
+Pt remains intubated/sedated on APRV. Pt's sat has been high 90's all day. Pt's vent settings are in carevue. Pt's care plan is to remain the same. Wean Phigh as tol.
+",,
+24896,17667,30912,0,2900-05-10 19:04:00 EST,2900-05-10 19:32:00 EST,2830,"N",54,"Nursing/Other",,"
+
+ROS:
+
+Neuro: Cisatracurium, midaz, and fentanyl gtts on. PEARLA, sluggish.
+
+CV: Afib rate hi of 116, low of <20 when pacer being checked. A wires not sensing or capturing. V paced 80-90 w/break though AFib rates.  Sternal/mediastinal drsg [**Name5 (PTitle) **]. BP labile, on vasopressin, levophed, and epi. Epi being titrated up at the end of this shift d/t low CI and SVO2, see flow record for detailed #'s. Levophed titrated for hypotension. Following FICKs. Has RIJ Cordis/swan. Has left fem A line and left subclavian Quentin cath being used for CRRT. Peripheral pulses via doppler. Gross generalized edema. 
+
+Resp: Remains orally intubated and on vent APRV mode and 40 %. Lungs clear diminished, sx back nothing via ET. Right chest tube to 20 cm sx, draining seros fluid, minimal amt. 
+
+GI: Oral [**Hospital1 555**] sump draining dark bile to brown old looking blood, small amt. Abd remains open w/transparent drsg and [**Name5 (PTitle) 5216**] connected to Low intermitent wall sx, draining serosang fluid in mod amt. Protonix for Gi prophylaxis. Bladder presure = 5. TPN infusing. Ileostomy w/old dark red clots in bag, stoma dark, unchanged from admission for OR yesterday.
+
+GU: Foley patent draining clear yellow urine in scant amt. CVVHDF initiated and running from noon on. Creat rising, Bun coming down slightly.
+
+SKin: Gross generalized edema. Multiple weeping areas scattered all over body. Posterior labia  and rectum purplish/black as are index and thumb finger tips on right hand. 
+
+ID: Tmax 36 core. Blood and urine cultures sent as well as quintin cath tip sent for culture. Urine also sent for culture. Bare Hugger and Air bed heaters on attempting to rewarm.
+
+Endo: FSG covered w/RSSI SQ x's 1 this AM. Has insulin in TPN.
+
+Heme: One unit pc given d/t low SVO2, CO/CI, and earlier AM Hct of 27. Repeat Hct 32. 
+
+Coag: INR 2.3, Dr. [**Last Name (STitle) **] aware.
+
+Lytes: K and Ca+ Gluc continuous repletion per sliding scale CVVHD orders. 
+
+Social: Son, [**Doctor Last Name **] phoned several times for up date and Dr. [**Last Name (STitle) **] to have spoken to him.
+
+Plan: Change over to NaCO3- base repletion solution to stabilize Metabolic Acidosis. Remove fluids 0-50 Net as tolerates. Notify Transplant of rising lactate. Monitor Acidosis closely. Attempt to to rewarm w/bare hugger and air bed heaters, blankets and warm fluids w/repletion on CVVHD. Fluid mngt. Monitor, tx, support,  and comfort.
+
+
+",,
+24896,,30912,0,2900-05-11 01:50:00 EST,2900-05-11 02:43:00 EST,1730,"N",54,"Nursing/Other",,"
+
+NEURO: SEDATED & PARALYZED ON FENTANYL,MIDAZOLAM & NIMBEX GTTS. NO TITRATION OR WEANING OF DOSES. PERRLA/SLUGGISH. VENT ALARM SOUNDS ""HIGH FREQUENCY"" WHEN PT TURNED.
+
+CV: RATE/RHYTHM CHANGES FROM V-PACED @ 92,AFIB @ 105, SYPMTOMATIC SVT @ 118 WITH HYPOTENSION REQUIRING TITRATION OF VASOPRESSIN,EPI,LEVO.PT WITH NO UNDERLYING RHTYHM SO PT  AV-PACED AT 92 WITH SLOW RESOLUTION OF BP.1 FLUID BOLUS OF 250CC NS FOR ?INTRAVASCULAR DRYNESS? SLOWLY WEANING VASOPRESSIN DOWN BUT UNABLE TO TOUCH EPI D/T HYPOTENION AND C.I. =1.28 DR.[**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **] UPDATED PRN AND INTO ASSESS PT.
+
+
+RESP-NO VENT CHANGES MADE. CONTINUES ON APRV 40%. ABG SHOWS MET.ACIDOSIS. TX WITH NAHCO3 AMP AND CRRT REPLACEMENT FLUID WITH BICARB. LS DIM THROUGHOUT. NO CT DRG.
+
+GI-ABD TAUT DISTENDED. REMAINS OPEN WITH IOBAN INTACT.ILEOSTOMY  MAROON COLORED WITH DEEP PURPLE/BLACK MUCOID DRG. JP X 4 TO INTERMITTENT WALL SX WITH SCANT BROWN FLUID. OGT WITH DARK GREEN BILE. TPN VIA CENTRAL LINE. LACTATE=11.6
+
+GU- SEE DIALYSIS SECTION ON CAREVUE FOR CRRT #'S. FILTER CHANGED X1. K+/CA+ GTT PER CRRT SLIDING SCALE. BLADDER PRESSURE MEASURED X1 =4.
+BUN/CR DOWN THIS AM.
+
+I.D.: WBC= 30.5. CONTINUES ON VANCO. URINE CULTURE NEEDS TO RE-SENT.
+
+ENDO: INSULIN GTT RE-STARTED FOR GLUCOSE LEVELS > 116,180
+
+SKIN: GROSSLY EDEMATOUS. SKIN WEEPING COPIOUS AMTS SEROUS FLUID.TIP OF RT INDEX FINGER NECROTIC.PALMS & SOLES BEGINING TO MOTTLED. 
+
+TRANSPLANT MD IN TO SEE PT.  WILL DISCUSS PROGNOSIS WITH TRANSPLANT/C-[**Doctor First Name 125**] TEAMS. 
+
+PLAN- CONTINUE TO MONITOR HEMODYNAMICS. WEAN EPI/VASOPRESSIN AS TOLERATED.MONITOR GLUCOSE,ACIDOSIS LEVELS. ??FAMILY MEETING?? TODAY TO DISCUSSS PLAN OF CARE. 
+
+
+
+
+",,
+24896,,30912,0,2900-05-11 05:59:00 EST,2900-05-11 06:09:00 EST,1730,"N",54,"Nursing/Other",,"
+
+ADDENDUM: 
+
+SEVERE,QUICK DECREASE IN BP WHILE CHANGING EPI BAG OVER TO A NEW ONE. SYSTOLIC BP PLUMMETED FROM 72->35 W/I SECONDS, ALONG WITH ALL OTHER MONITORED HEMODYNAMICS. 4 RN'S PRESENT AND BEGAN RESUSITATION MEASURES.PT'S BED IN T-[**Last Name (un) **],EPI,VASO,LEVO GTTS WIDE OPEN AND VASO BAG UNDER SQUEEZE PRESSURE. PT WAS AV-PACED PRIOR TO EPISODE AND AV WIRES LOSS [**Last Name (un) **]/CAPTURE DURING CODE. UNDERLYING RHTHYM WAS ASYTOLE.MD [**First Name (Titles) **] [**Last Name (Titles) **] AND IMMEDIATELY WAS IN PT'S ROOM. ATTENDING MD [**Doctor Last Name 71**] NOTIFIED AND A DECICSION WAS MADE TO CEASE FURTHER LIFE SUPPORT. FAMILY NOTIFIED BY DR [**Last Name (STitle) **] AND REQUESTED AN AUTOPSY. TELEPHONE CON SENT GIVEN AND FORM COMPLETED.
+",,

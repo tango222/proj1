@@ -1,0 +1,562 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+24653,22172,,,2864-02-03 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+
+Admission Date:  [**2864-2-3**]       Discharge Date:  [**2864-2-14**]
+
+Date of Birth:   [**2781-8-13**]       Sex:  M
+
+Service:  ACOVE
+The patient was originally admitted to the Intensive Care
+Unit and then transferred to the Acove Service.
+
+Mr. [**Known patient lastname 5804**] is
+an 82-year-old gentleman with an extensive past medical
+summary information is as follows:  He was hospitalized
+[**2863-12-19**] to [**2863-12-20**] for a G-tube placement secondary to
+difficulty swallowing and chronic aspiration.  This was done
+without complication.
+
+He had a workup in [**10/2863**] for worsening dyspnea, and his sputum
+grew Mycobacterium avium complex and given the patient's wasting
+treatment for [**Doctor First Name **] with ethambutol 400 mg b.i.d., Ofloxacin
+200 mg b.i.d. and azithromycin 250 mg b.i.d.
+
+He continued to have worsening respiratory distress, dyspnea on
+exertion, with minimal activity and the Lasix he was on
+chronically was was increased from 80 mg to 120 mg q.d. by his
+Cardiologist, Dr. [**First Name4 (NamePattern1) 2188**] [**Last Name (NamePattern1) **] at the [**Hospital6 3163**].  The hematocrit was noted to be 26 at that time and he
+was transfused two units packed red blood cells without any
+relief. He continued dyspnea with minimal exertion, such as
+dressing himself. Zaroxolyn 2.5 mg and also continuing the
+Lasix at 120 mg q.d. He was then changed to Torsinide and
+Zaroxolyn over the past several days prior to admission on
+the [**12-6**].
+
+Per the patient, on the day of admission he felt ""rough"".  He
+complained of decreased urine output for approximately one
+week.  Also, he complained of decreased energy with waxing
+and [**Doctor Last Name 501**] mental status over the past week by report from his
+daughter.  The patient has a stable chronic cough, which is
+productive of white sputum.  He has stable shortness of breath
+and dyspnea on exertion and also orthopnea, as well as lower
+extremity edema.  He had been gaining weight the several weeks
+prior to admission.  He increased from 120 pounds to 140
+pounds, and he and his family attributed this to the G tube
+feedings that he was getting.
+
+The patient denied chest pain, fever, chills, nausea, vomiting,
+or abdominal pain.  He did report intermittent diarrhea and
+constipation, as well as difficulty swallowing.  No palpitations,
+no dysuria noted.
+
+The patient presented to the emergency department at which time
+he was given a liter of normal saline and one gram of Ancef and
+admitted to the Intensive Care Unit for a congestive heart
+failure exacerbation, anemia, and acute renal failure.
+
+PAST MEDICAL HISTORY:
+1.  Cervical nerve injury with difficulty swallowing status
+post PEG in [**2863-11-27**].
+2.  Coronary artery disease status post MI times two, status
+post CABG in [**2841**] and 1984.
+3.  Congestive heart failure with systolic dysfunction,
+echocardiogram [**11/2861**] showed EF 40%.  Echocardiogram
+subsequent to that was obtained at the [**Hospital1 **] [**Hospital5 **] [**Hospital6 5805**]
+Hospital.  There was no report.
+4.  The patient also has left atrial enlargement, focal
+inferior and septal hypokinesis, moderate mitral
+regurgitation and severe pulmonary hypertension.  The patient
+is status post pacer for complete heart block.
+5.  Peptic ulcer disease status post upper GI bleed.
+6.  Gastroesophageal reflux disease.
+7.  Diverticulosis of the stomach and duodenum.
+8.  Arteriovenous malformations of the stomach and colon.
+9.  Parkinson's disease.,
+10. Chronic obstructive pulmonary disease requiring
+approximately 2 liters to 4 liters oxygen at baseline.
+11. Benign prostatic hypertrophy status post transurethral
+resection of the prostate 1981.
+12. Status post cholecystectomy and appendectomy.
+13. Restless leg syndrome.
+14. Peripheral vascular disease.
+15. Cerebrovascular accident in [**2857**].
+16. Cervical spondylosis.
+17. History of B12 deficiency and iron-deficiency anemia.
+18. History of Aspergillosis on a bronchoalveolar lavage in
+[**2853**].
+20. Recurrent cervical zoster.
+21. HIV diagnosed in [**2862-2-25**] with the most recent viral
+load noted to be less than 50 and CD4 count of 248 on the
+[**2864-1-9**].
+
+ALLERGIES:  The patient is allergic to PENICILLIN,
+NIFEDIPINE, QUINIDINE, PROCAINAMIDE, DILTIAZEM, AND ACE
+INHIBITORS.
+
+MEDICATIONS ON ADMISSION:
+1.  Albuterol 2 puffs q.i.d.
+2.  Aldactone 25 q.d.
+3.  Aspirin 81 q.d.
+4.  Ceftin 250 t.i.d.
+5.  Cozaar 25 b.i.d.
+6.  Vitamin B12 every month.
+7.  Digoxin .125 Tuesday, Thursday, Saturday, and Sunday; .25
+Monday, Wednesday, and Friday.
+8.  Fentanyl patch 25 mcg q.72h.
+9.  Flovent 4 puffs b.i.d.
+10. Lasix 80 b.i.d. with a recent increase up to 120 q.d.
+11. Neurontin 200 q.d.
+12. Nevirapine 200 b.i.d.
+13. Percocet.
+14. Pravachol 10 q.d.
+15. Prilosec 20 q.d.
+16. .................... 250 q.i.d.
+17. Procrit 20,000 units every week.
+18. Reglan 10 q.6.
+19. Serevent 2 puffs b.i.d.
+20. Sinemet 25/100.
+21. Salsalate 500 q.d.
+22. Bactrim.
+23. Ultrase.
+24. Mycelex 10 b.i.d.
+25. Mucomyst nebs.
+26  Combivir 150/300 b.i.d.
+
+SOCIAL HISTORY:  History is positive for tobacco, two to
+three packs per day times 50 years.  The patient quit 20
+years ago.  The patient is negative for alcohol.  He lives at
+home with his daughter and a male friend.  They were very
+involved in his care.
+
+PHYSICAL EXAMINATION:  Examination revealed the following:
+VITAL SIGNS:  Afebrile 96, heart rate 83, blood pressure
+100/60, respiratory rate 21, breathing 99% on four liters via
+nasal cannula.  Examination revealed the skin to be pale
+without any evidence of a rash.  GENERAL:  The patient is
+cachectic, however, not toxic appearing.  Mouth has thrush
+over the oral mucosa.  HEENT:  Pupils equal, round, and
+reactive to light.  EOMI.  CARDIOVASCULAR:  Distant heart
+sounds, normal S1 and S2, 2/6 systolic murmur at the left
+lower sternal border.  LUNGS:  Intermittent wheezing with
+decreased breath sounds over the lower fields.  No rales and
+no wheezes.  There was no dullness to percussion.  ABDOMEN:
+Tense, but nontender, nondistended with good bowels.  G-tube
+without any drainage.  EXTREMITIES:  Left knee revealed a
+laceration on it.  Bilateral lower extremity redness.  There
+was no warmth, no pain.  Bilateral lower extremity edema.
+RECTAL:  Guaiac negative, nonenlarged prostate per EW report.
+NEUROLOGICAL:  The patient was oriented to hospital year,
+2002.  Daughter's name is [**Name (NI) **].  Cranial nerves intact.
+Strength was [**2-29**] upper, [**2-29**] lower.
+
+LABORATORY DATA:  Initial laboratory data revealed the
+following:  White count 5.7, 73 polys, 1 band, 18 lymphs,
+hematocrit 26.3, platelet count 303, MCV 128, sodium 124,
+potassium 5.2, chloride 80, bicarbonate 38, BUN 114,
+creatinine 2.7, baseline 1.1, Digoxin level 2.2.  Urinalysis:
+Negative, sodium 18, creatinine 59, osmolarity 316.  Blood
+cultures were sent.  Urine cultures were sent.  Chest CT done
+on [**2864-2-3**] showed an interval development of bilateral
+pleural effusions, worsening parenchymal ground-glass
+opacities, when compared to a chest CT done on the [**2863-11-11**], which showed an ill-defined nodular central
+lobular opacity of bilateral lung fields, right peribronchial
+ground-glass opacities, as well as diffuse severe emphysema,
+calcified right middle lobe granuloma.  The EKG showed a
+paced rhythm, rate 100, intermittent atrial pacing with a
+left bundle branch block morphology.
+
+SUMMARY:  This is an 82-year-old gentleman with a very
+extensive past medical history.  The patient was admitted on
+the [**11-4**] to the Intensive Care Unit for
+progressively worsening dyspnea on exertion, as well as
+anemia.  He was admitted with acute renal failure, anemia, as
+well as congestive heart failure exacerbation.
+
+HOSPITAL COURSE:  (by issue)
+
+#1.  The patient was in the Intensive Care Unit from the [**11-4**] through the [**11-8**].  Summary of the MICU
+course, which is an abbreviated summary, is as follows:  For
+acute renal failure he was gently hydrated and transfused.
+He was followed by the renal team.  It was felt that he had a
+prerenal azotemia due to his heart failure.  Foley catheter
+was placed to follow inputs and outputs.  Weights were
+followed.  Electrolytes were followed closely.  The renal
+function gradually improved, such that, at the time of
+transfer to the medical floor his creatinine decreased to
+1.2.  He was diuresed with IV Lasix and also with Zaroxolyn.
+He was then transitioned to p.o. Lasix and Zaroxolyn by the
+time he was transferred to the medical floor.  On the [**11-8**], he was off standing diuretics.  However, Acetazolamide
+was intermittently used at 125 mg p.o.q.d. for elevated
+bicarbonate.  The patient, upon arrival to the medical floor,
+continued to have daily weights followed, as well as
+electrolytes followed.  The goal was for him to have his
+fluid intake and output even.  The patient will plan to be
+discharged with Foley catheter in place.
+
+CONGESTIVE HEART FAILURE:  The patient had an echocardiogram
+done on [**2864-2-5**], which showed EF 30%to 35% as well as ASD
+with left-to-right flow, decreased LV function compared to
+[**2861-11-26**], however, improvement of his mitral
+regurgitation.
+
+The congestive heart failure was treated with gentle diuresis
+as previously mentioned.  He was stable when he arrived to
+the medical floor.  He was continued on Cozaar and Digoxin.
+Digoxin level was initially 2.2.  It was held while he was in
+the Intensive Care Unit and restarted when he came to the
+medical floor.
+
+PULMONARY:  The patient does have a history of chronic
+obstructive pulmonary disease.  He was continued on Flovent,
+Serevent, and Combivent.  He was noted to have bilateral
+effusions, thought secondary to congestive heart failure.  At
+baseline, the oxygen requirement is approximately 4 liters
+via nasal cannula.  Pulmonary status was not felt to be due
+to a chronic obstructive pulmonary disease flare and,
+therefore, steroids were not initiated during this hospital
+course.  As mentioned, the shortness of breath and the
+dyspnea on exertion were thought to be secondary to
+congestive heart failure exacerbation and not to chronic
+obstructive pulmonary disease exacerbation.  Pulmonary status
+was completely stable while he was on the medical floor
+requiring 2 units to 4 units of oxygen via nasal cannula.
+
+INFECTIOUS DISEASE:  The patient completed a course of
+antibiotics for [**Doctor First Name **], including Ethambutol, Ofloxacin and
+Azithromycin.  That course was completed on the [**2864-2-7**].  He was continued on his HIV medications
+including Nevirapine and Combivir during his hospital course.
+ He was also started on Ciprofloxacin 250 q.d. for a ten-day
+course in response to a [**2-4**] wound culture, which grew out
+pansensitive Pseudomonas.  The patient remained afebrile
+while he was on the medical floor.
+
+ANEMIA:  The patient has a multifactorial anemia, including
+iron-deficiency anemia, B12 deficiency, as well as anemia of
+chronic disease.  He was continued on Procrit and B12.  He
+was transfused in the Intensive Care Unit.  However, he did
+not require any blood transfusions on the medical floor.  The
+goal was to keep his hematocrit greater than 30 owing to his
+coronary artery disease.  The patient will be continued on
+his Procrit and monthly B12 injections, following discharge.
+
+FLUIDS, ELECTROLYTES, AND NUTRITION:  The patient initially
+presented with hyponatremia and he was fluid restricted while
+he was in the Intensive Care Unit.  Following aggressive
+diuresis then he became hypernatremic and he was treated with
+free-water boluses.  He has chronically elevated bicarbonate
+secondary to metabolic compensation for a respiratory
+acidosis, as well as a metabolic alkalosis owing to
+aggressive diuresis during this hospital stay.  The patient
+was intermittently put on Acetazolamide 125 mg p.o.q.d. for
+the elevated bicarbonate.  In terms of his nutrition, he
+continued to be on Respalor at 60 cc per hour and he was on
+aspiration precautions.  Potassium was repleted as needed.
+The electrolytes, including the entire Chem 10 panel was
+followed daily with repletion made accordingly.
+
+PAIN:  The patient was continued on his Fentanyl patch at 25
+mcg q.72h. as well as Percocet and Neurontin.  In terms of
+neurological, the patient was continued on Sinemet for his
+Parkinson's disease.  In terms of prophylaxis, the patient
+was continued on Prevacid and subcutaneous heparin.
+
+At the time of discharge, the active medical issues on him
+are the following:  Following sodium for the hypernatremia,
+as mentioned, as well as following the bicarbonate for the
+elevated bicarbonate owing to a combination of respiratory
+acidosis with a compensatory metabolic alkalosis, as well as
+contraction alkalosis; also continuing to follow his volume
+status such that he is even for his intake and output every
+day.  Free water boluses given as necessary to keep him even
+from a volume standpoint.
+
+RENAL:  BUN and creatinine are stable at this time.
+Pulmonary-wise, he has stable oxygen saturation on two liters
+via nasal cannula.  We are continuing with his MDIs.
+
+CARDIOVASCULAR:  The patient is hemodynamically stable.  We
+are continuing the Cozaar, Digoxin and Pravachol.
+
+INFECTIOUS DISEASE:  The patient has not had any temperature
+spikes.  We will continue his HIV medications, Combivir, and
+the Nevirapine, as well as a Cipro for a ten-day course.  The
+end date is [**2864-2-18**].  This is for the Pseudomonas in his
+wound.  Culture date is [**2-4**].  From a hematology standpoint,
+he is continued on Procrit and he will get monthly B12 shots.
+From a pain standpoint, he will continue on the Fentanyl
+patch and the Neurontin.  From a neurological standpoint, he
+will continue on the Sinemet.
+
+DISCHARGE DIAGNOSES:  Discharge diagnoses are numerous and
+summarized his past medical history.  Discharge diagnoses
+during this admission revealed the following active issues:
+
+ACTIVE ISSUES:
+1.  Acute renal failure.
+2.  Congestive heart failure exacerbation.
+3.  Anemia.
+
+OTHER DISCHARGE DIAGNOSES:  (those outlined in his past
+medical history including, but abbreviated at this time)
+
+1.  Cervical nerve injury, status post PEG.
+2.  Coronary artery disease status post MI and status post
+CABG.
+3.  Congestive heart failure status post pacer.
+4.  Peptic ulcer disease status post upper GI bleed.
+5.  Gastroesophageal reflux disease.
+6.  Diverticulosis.
+7.  History of arteriovenous malformations.
+8.  Parkinson's disease.
+9.  Chronic obstructive pulmonary disease.
+10. Benign prostatic hypertrophy status post transurethral
+resection of the prostate.
+11. Status post cholecystectomy.
+12. Status post appendectomy.
+13. Restless-leg syndrome.
+14. Peripheral vascular disease status post cerebrovascular
+accident.
+15. Cervical spondylosis.
+16. Anemia.
+17. History of Aspergillosis.
+18. Recurrent cervical zoster.
+19. HIV.
+
+DISCHARGE MEDICATIONS:
+1.  Lactulose 30 cc b.i.d.
+2.  Respalor tube feeds 60 cc per hour.
+3.  Vitamin C, 500 p.o.b.i.d.
+4.  Zinc 220 mg p.o.q.d.
+5.  Cozaar 25 mg p.o.b.i.d.
+6.  Combivir 150 mg p.o.q.a.m.
+7.  Combivir 300 mg p.o.q.p.m.
+8.  Prevacid 30 mg p.o.b.i.d.
+9.  Ciprofloxacin 250 mg p.o.b.i.d. times ten days, ending on
+[**2864-2-18**].
+10. Calcium carbonate 500 mg p.o.b.i.d.
+11. Nystatin 5 cc p.o.t.i.d. swish and spit.
+12. ....................250 mg p.o. q.d.
+13. Mirapex 0.125 mg every breakfast, every noon, every
+3  p.m.
+14. Mirapex 0.25 mg p.o.q.h.s.
+15. Sinemet 25/200 one tablet p.o.q.h.s.
+16. Ultravas two cups with meals t.i.d.
+17. Nevirapine 200 mg p.o.b.i.d.
+18. Oxandrolone 10 mg p.o.b.i.d.
+19. Percocet one to two tablets q.6h.p.r.n.
+20. Neurontin 200 mg p.o.q.d.
+21. Bactrim suspension 5 ml per G-tube q.d.
+21. Flovent 8 puffs b.i.d.
+22. Fentanyl patch 25 mcg q.72h.
+23. Atrovent 2 puffs q.i.d.
+24. Pravachol 10 mg q.d.
+25. Procrit twenty million units per milliliter, 1 ml q.
+Friday subcutaneously.
+26. Digoxin 0.125 mg q.d.
+27. Albuterol and Atrovent nebs p.r.n.
+
+
+
+PLAN:  Plan is for the patient to be discharged to the
+[**Hospital3 1916**] Facility.  He will be followed by his
+primary care physician, [**Last Name (NamePattern4) **]. [**Last Name (STitle) 3258**], who also followed him
+while he was hospitalized during this admission and he was
+the attending of record during this admission.
+
+CONDITION ON DISCHARGE:  Stable.
+
+
+
+
+                            [**First Name11 (Name Pattern1) 185**] [**Last Name (NamePattern4) 5806**], M.D.  [**MD Number 5807**]
+
+Dictated By:[**Last Name (NamePattern1) 5808**]
+MEDQUIST36
+
+D:  [**2864-2-14**]  11:27
+T:  [**2864-2-14**]  12:21
+JOB#:  [**Job Number 5809**]
+Signed electronically by: DR. [**First Name4 (NamePattern1) 185**] [**Last Name (NamePattern1) **]
+ on: [**Doctor First Name 122**] [**2864-2-14**] 5:05 PM
+(End of Report)
+
+
+",,
+24653,22172,30611,0,2864-02-04 02:12:00 EST,2864-02-04 03:08:00 EST,-1,"N",69,"Nursing/Other",,"
+
+MICU-ADMISSION NOTE
+
+82yo male transferred from west campus ED, dx with acute renal failure.
+PMH: HIV+ dx [**2-/2862**], CAD s/p MIx2, s/p CABG [**2841**]/84, CHF, PVD, GERD, diverticulitis, Parkinson's Dx, COPD with home O2@3L, BPH s/p TURP 1981, Appendectomy, restless leg syndrome,CVA [**2857**], B12 deficiency, anemia, aspergillas 1992, recurrent cervical zoster, cervical nerve injury with difficulty swallowing s/p PEG placement in 2/02.
+ 
+NEURO: A&Ox2, reoriented to place prn, PERRL, brisk, follows commands appropriately.
+
+CV: pt. remains afebrile, VSS, see carevue for details. 3+ pitting edema in lower extremities, weak +PP, Bilat. LE red,warm/painful to touch. Has pacemaker/AV paced with occasional PVC's. Upon arrival to unit HCT 26 - transfused with 2units PRBC's via PIV. Pt has poor access. NA 114, repeat NA 123 after 1L NS, will recheck with am labs.
+ 
+RESP: currently on 3LNC, pt. does require home O2@3L. O2sat's 89-96%, RR 18-24, ABG obtained: 86/78/7.36/44/-12, MD aware. Denies SOB at this time. nonproductive cough.
+
+GI: abdomen soft and non-distended, GT dsg D&I, hold TF at this time, Hypo BS. Denies N/V. No stool this shift, guiac all stools. Daily weights, admit weight 75.5kg.
+
+GU: Foley catheter draining adequate amt's of yellow urine. Will send urine Cl,NA,Cr, and eosinophils with am labs.
+
+ID: received ancef 1gm in ED, Protonix, po Zithromax.
+
+PAIN: severe generalized pain, percocet, duragesic patch (left arm) Q72 hr's. repositioned frequently for comfort.
+
+SKIN: Stage 1 decub on coccyx- duoderm applied. Left knee with quarter size abraison, DSD applied. Right forearm with small abraison - tegaderm applied. 
+
+SOC: pt has daughter, very supportive, works in hospital on East campus.
+",,
+24653,22172,30611,0,2864-02-04 06:44:00 EST,2864-02-04 06:47:00 EST,-1,"N",69,"Nursing/Other",,"
+
+MICU- addendum
+
+pt's. BS was 54, 1 amp of D50 given through PIV. Potassium 5.6, Kayexyalate given x1. 
+",,
+24653,22172,30611,0,2864-02-04 14:48:00 EST,2864-02-04 15:01:00 EST,511,"N",69,"Nursing/Other",,"
+
+RESP: BS'S BASICALLY CLEAR DESPITE PT'S TACHPNEIC STATUS. PT. SUCTIONED THIS AM BY RESP. SUCTIONED LARGE PLUG. SECRETIONS BLOODY AFTERWARDS. CONTINUED C&R CLOTS AND BLOODY SECRETIONS. SPUTUM SENT FOR CX. NP AT 4L. CHANGED TO 540% VENTI MASK FOR DECREASED O2 SATS. PT. STILL MENTATING WITH SAT IN 70'S. O2 SATS IN 90'S AT PRESENT. GIVEN 80MG LASIX IVP AND 2MG MS IVP. CXR INCREASED CHF. DESATS QUICKLY WHEN MASK OFF. WILL NEED HCT CHECK AT 16PM. MAY NEED INTUBATION IF UNABLE TO CONTROL CHF. 
+CV: REMAINS IN V-PACED WITH MIN. AV PACING. [**Last Name **] PROBLEM WITH BP'S. 
+NEURO: AWAKE AND ALERT. 
+RENAL: CREAT 2.5 TODAY. SLIGHTLY LESS THEN YESTERDAY. U/O'S OK. URINE LYTES SENT. AWAITING DIURESIS FROM LASIX. 
+GI: MEDS VIA PEG. TF'INGS TO RESTARTED AFTER NUTRITIONAL CONSULT. 
+ID: ANTIBIOTICS CHANGED FOR RENAL STATUS. PEG SITE PURELENT AND CX SENT. AFEBRILE. 
+ENDOC: BS 65. NO TX. CONTINUE TO CHECK. K+ 5.6 BUT SLIGHTLY HEMOLIZED THIS AM. GIVEN 15GMS OF K=EXYLATE, BUT NO STOOL YET. WOULD RECHECK LYTES TOO.
+SKIN INTEGRITY: MULTIPLE BRUISES AND SKIN TEARS. 
+
+SOCIAL: DAUGHTER INTO SEE PT. DEVOTED, BUT NEEDS DIRECTION. 
+",,
+24653,22172,30611,0,2864-02-04 17:57:00 EST,2864-02-04 18:16:00 EST,-1,"N",69,"Nursing/Other",,"
+
+Nursing Note [**2864-2-4**] at 1800
+Neuro : A&O * 3, speech concise and voice hoarse. Able to MAE. C/O pain in LLE, given MSO4 4mg IV at 1600, MD aware that pain persists, no new orders at present. Neurontin given at 1730.No facial grimaces noted, at present pt. resting comfortably in bed. 
+Resp: pt. received on a venti mask 40%, RR thirties to forties, + use of abdominal muscles to breathe. Sats 98-99%, lung auscultation revealed rhonchi, crackles, diminished breath sounds. MD aware, ABG drawn at 1500 results: 7.31/83/76/11/44, pt given Lasix 120mg IV, Zaroxlyn ordered and then held. MSO4 4mg given at 1600. After lasix lungs where coarse and clear.ABG at 1600 : 7.35/74/52/10/43 pt stated he feels much better, RR in teens, FIO2 titrated to keep sat of 90%, at present on 35%vm, when titrated lower, he desats to 86%. Pt has a productive cough for copious amounts of thick blood tinged sputum. Chest pt given with good effects. Will try to keep sat 90-93%, due to CO2 retention. Pt had a CxR earlier ? results.
+CV : vpaced. see flow sheet for vital signs. + peripheral pulses, skin warm and dry SKIN : stage 2 decub on coccyx, duoderm applied today, pt turned off coccyx, left knee skin tear from falling at home, bleeding small amounts, DSD applied. BLE skin shiny. LINES : heplocks * 2 intact both #20s
+ELECTROLYTES : from am K 5.6 and hemolyzed, given kayexalate, no bm noted, repeat k at 1500 down to 5.o and pt. is due for more kayexalate./ Na 126 in am and up to 131, no new orders. / ICA 1.02 at 1600 no new orders/ glucose up to 73.
+HEME : Hct 30.7, no post transfusion Hct drawn [**Name8 (MD) 59**] MD.Plt 312
+ID:wbc 5/ afebrile/ on ABTs for Bactrim for PCP [**Name Initial (PRE) **]. and other abts for [**Doctor First Name **]( atypical TB ).not on any precautions. To start antivirals
+GI : NPO, PEG clamped, + hypoactive BS, denies N/V
+GU : foley to SGD for clear yellow urine, + diuresis from lasix, see I/o for balance. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) 2617**] RN
+
+
+
+
+
+
+
+
+
+",,
+24653,22172,30611,0,2864-02-04 19:23:00 EST,2864-02-04 19:27:00 EST,69,"N",69,"Nursing/Other",,"
+
+Patient coughed frank blood on occasion, placed on venturi-mask 40% ABG indicated compensated resp acidosis. Treated with albuterol/atrovent x 2.
+",,
+24653,22172,30611,0,2864-02-05 04:12:00 EST,2864-02-05 04:28:00 EST,-1,"N",69,"Nursing/Other","MICU NPN 7P-7A","
+MICU NPN 7P-7A
+Neuro: Alert and orientated, follows commands, mae well. PERL react briskly. 
+
+RESP: Continues in venti mask @ fio2 of 35%. Sats drop to mid 80's if he comes out of 02 for any period of time. Is expextorating large amts. of thick bloody sputum and uses yanker sx. indep. SOB with any excertion. Last ABG 7.38/76/ 68/ 15/ 47. Lungs are clear to course bilat.
+
+CV: Bp stable, hr 80-90's with some pvc's noted. Pt. is a-paced.
+
+GI: TF of nepro was started this am @ 10cc/hr goal is 45cc/hr. Tolerating them so far min. residual. 
+
+GU: U/O qs > 50cc/hr. 
+
+K+ 4.6 last noc after kayelexate.
+
+Social: Very supportive family, daughter called x2 last noc after she left here.
+
+
+",,
+24653,22172,30611,0,2864-02-05 04:29:00 EST,2864-02-05 04:30:00 EST,-1,"N",69,"Nursing/Other","Addendum to above note","
+Addendum to above note
+Pt. c/o of lower extremity pain was med x2 @ 00 and 0400 with 2 percocet with fair effect.
+",,
+24653,22172,30611,0,2864-02-05 15:05:00 EST,2864-02-05 15:14:00 EST,511,"N",69,"Nursing/Other",,"
+
+RESP: BS'S COARSE WITH CRACKLES. REMAINS ON VENTI-MASK AT 35%. SPUTUM INDUCED BY RESP. SENT FOR PCP. [**Name10 (NameIs) **] ONE FOR CYTOLOGY. C&R BROWNISH SECRETIONS. USING YANKOR MOST OF THE TIME. O2 SATS IN HIGH 90'S. EXCEPT WHEN MASK OFF.
+GI; TF'INGS INCREASED TO 20CC/HR. TOL. WELL. MIN . RESIDUALS. 
+RENAL: GIVEN 120MG LASIX IVP X1 WITH EXCELLENT DIURESIS. 
+ENDOC: K+ 4.6. 
+CV: IN PACED RYTHYMS WITH BURSTS OF SVT. EKG AND ECHO WAS DONE. CARDIOLOGY INTO SEE PT. HE'S HAD EPS STUDIES IN THE PAST AND WAS UNABLE TO OBTAIN SVT. 
+RESTARTED ON HIS COZAAR. 
+NEURO: AWAKE AND ALERT.
+PAIN CONTROL: GIVEN PERCOCET 2 TABS X2 FOR LEG AND FOOT PAIN. PT. HAS BEEN ABLE TO [**Doctor Last Name 7**] AFTER BEING MEDICATED. 
+SOCIAL: DAUGHTER INTO VISIT. 
+",,
+24653,22172,30611,0,2864-02-05 17:55:00 EST,2864-02-05 18:04:00 EST,-1,"N",69,"Nursing/Other",,"
+
+Nursing Note [**2864-2-5**] at 1800
+Neuro : A&O *3/ Moves upper extremities without difficulty. Denies pain, was given percocet by previous RN with + effects. SRs up , call bell in reach.
+RESP : on venti mask at 35%, no sob ,Tachypneic, which seems to be his baseline.Lung auscultation reveals coarse breath sounds in Bilateral upper lobes, crackles in Bilateral lower lobes. + productive cough for thick yellow sputum. Sats 95%. RR thirties. 
+CV : v paced with QRS complexes in between at times that are not captured, MDs aware, no new orders. Skin : duoderm applied to coccyx decub, awaiting air matress. LABS : electrolytes drawn at 1500 and hemolyzed, electrolytes redrawn at 1730 and pending
+ID : [**Name6 (MD) 59**] previous RN, Sputum sent for PCP and another needed for a different test. 
+GI : remains on NEPRO tubefeeds, No bm, + bowelsounds all four quads, no N/V
+GU : foley to SGD for clear yellow urine. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) 2617**] RN
+",,
+24653,22172,30611,0,2864-02-06 06:06:00 EST,2864-02-06 06:14:00 EST,-1,"N",69,"Nursing/Other",,"
+
+PT VSS, SLIGHTLY FEBRILE ALL NOC.  PERCOCET 2 TABS GIVEN X2 FOR GENERAL DISCOMFORT.  PT RESTLESS, NOT SLEEPING FOR MORE THAN AN HOUR AT A TIME.  PT ATTEMPTED BEDPAN USE X1; NO SUCCESS DUE TO PT'S DISCOMFORT ON HARD PLASTIC.  DAUGHTER SPOKEN WITH-SHE WILL BRING HIS SOFT TOILET ""DONUT"" PAD IN THIS MORNING. RESP STATUS-LS UNCHANGED.  CO2 45 THIS AM.  TOL TF THROUGH PEG WELL-NOW AT GOAL OF 45.  GOOD UOP THROUGH THE NIGHT.  
+",,
+24653,22172,30611,0,2864-02-06 11:49:00 EST,2864-02-06 12:50:00 EST,-1,"N",69,"Nursing/Other",,"
+
+NURSING NOTE [**2864-2-6**] at 1149
+Transfer Note:
+Pt is a 82 year old male , with an extensive PMH: cervical nerve surgery with difficulty swallowing, s/p peg [**11-28**] : CAD, MI * 2, CABG [**41**] and 84 : CHF [**11/2861**] ECHO 40% : DDD for Complete heart block : PVD: UGI bleed : GERD : Parkinson's : BPH s/p TURP 81 :Appendectomy : COPD was on O2 at 4liters at home :Restless leg syndrome : CVA [**57**] : B12 deficiency history : FE anemia : Hx epiglottic repair : Hx aspergillosis on BAL 92 : Recurrent cervical zoster : HIV Dx [**2-/2862**] after diarrhea and fever  ? cause of blood transfusions from surgery
+ALLERGIES : PCN/ Nifedipine/ Procardia / ACE inhibitors / Dilt /
+Meds at home : see list attached.
+Hospitalization course : Pt was hospitalized on [**12-19**] to [**2863-12-20**] for GTube placement due to difficulty swallowing  and aspiration risk without complication. Sputum on [**10-26**] + Mycobacterium and was treated for such. at that time pt. was noted to have pulmonary infiltrates and was treated for that also. Pt went home and on [**2864-1-9**] pt described having worsening respiratory distress, dyspnea on exertion with minimal activity. At that point his Lasix was increased from 80mg to 120mg QD. On [**1-28**] a chest CT was completed ? results.  On [**1-30**] pt. continued to have SOB , Zaroxlyn was added and lasix changed to torsemide. Pt reported that he continued to feel "" rotten "" and stated he had decreased urine output  200 - 700 ml/day for last week. He also stated he had decreased energy, pt had a productive cough for white sputum. Pt also had increased leg edema , gaining weight over the last several weeks froom 121 - 140 lbs. on [**2-3**] pt came to the hospital for a CT scan and Labs. He presented to the ED with Hct 26.3/ Na 124  /K 5.2 / BUN 114 / Creat 2.7 /CO2 38. Her Ct scan revealed bilateral pleural effusions. he was given two units of PRBCs . He was admitted on [**2864-2-3**] and was transferred to the east campus on [**2864-2-4**]. His events while in the MICU where : pulmonary edema /sputum cultures sent / high K and kayexalate given / at present no futher issues noted.
+NEURO : A&O * 3/ Moves upper extremities without difficulty/ c/o pain in BLE wich he has at home : received Percocet 2 tabs via PEG at 0900 with relief, also received his fentanyl patch 25mcg today , which was applied to his left chest. Pt was OOB to Chair via slideboard, and seems to be much more comfortable in the cardiac chair, then in his bed. He is awaiting an air mattress. 
+RESP : Pt presently on a ventimask at 35%, which works well for him, when a lower FIO2 applied, his sats decrease to 88%. Lung  auscultation reveals crackles at bases, coarse in upper lobes with occ. wheezes. Pt receives inhalers which help with the wheezes. RR in thirties, tachypneic, No SOB, no dyspnea noted while in chair, however pt. does have dyspnea on exertion. + productive cough for thick yellow blood tinged sputum, which has been sent off for different tests on [**2864-2-5**].Goal is for sats 90 - 92 %, since pt. is a CO2 retainer.
+CV : V paced with runs
+",,
+24653,22172,30611,0,2864-02-06 11:50:00 EST,2864-02-06 12:50:00 EST,-1,"N",69,"Nursing/Other",,"
+
+(Continued)
+ of VTACH, which MDs are aware of but pt had an EPP study and VTACH was not able to be induced, no futher actions where taken. Pt's B/P  120 - 160s/50 - 70s. + periheral pulses, radial pulses easily palpable, pedal pulses difficult to palpate on right , easy to palpate on left. + capillary refill SKIN : warm and dry, Stage two decub noted on coccyx, duoderm applied. left knee old skin tear open to air, old abrasion on right forearm remains covered with a tegaderm , pt. has pitting edema from feet to calfs, which is much less than previous, he also has swelling to his penis. LINES : right FA #20 gauge and left FA # 20 gauge both intact form [**2864-2-6**], will attempt to get another heplock. ELECTROLYTES : From 0400 : Na 139/ K 4.2 ? Cl 89/ CO2 45/ BUN 85/ Creat 1.3/ Glucose 127/ Mg 2.4/ PO4 3.7 Ca 7.8/ No replacements needed. HEME : From0400 Hct 35.7, pt is on Epogen Qweek  ID : afebrile : on antivirals , on renal dosed ABTs for infections, PCP [**Name Initial (PRE) **].GI : peg TF was Nepro at goal, which will be changed to Respalor, goal for Respalor is 60ml/hr.Pt to start Vit c/zinc/ for skin. Abdomen soft nontender ? last BM / Denies N/V
+GU : foley to SGD for clear yellow urine > 30ml/hr. See flow sheet for I/O. pt to start po lasix and [**First Name9 (NamePattern2) 4877**] [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) 2617**] RN
+[**Name8 (MD) **] MD [**First Name (Titles) 4878**] [**Last Name (Titles) 4879**]< turn TF off 1/2hr prior to T&P 
+",,
+24653,22172,30611,0,2864-02-07 06:10:00 EST,2864-02-07 06:14:00 EST,-1,"N",69,"Nursing/Other",,"
+
+VS/TEMP STABLE. NEURO UNCHANGED.  V-PACED. LUNGS COARSE, WITH OCC. I/E WHEEZES THROUGHOUT. OCC. PRODUCTIVE COUGH-WHITE/YELLOW SPUTUM.  SEE RESP NOTES.  TOL TF WELL VIA PEG. GOOD UOP.  PERCOCET 2 TABS GIVEN PRN X3 LAST NOC, AS WELL AS 1X DOSE OF MSO4 IV FOR PAIN/DISCOMFORT UNRELIEVED BY PERCOCET AND PATCH. PT RESTING COMFORTABLY POST THIS. 
+",,
+24653,22172,30611,0,2864-02-07 15:01:00 EST,2864-02-07 15:14:00 EST,721,"N",69,"Nursing/Other","FINARD 4 NURSING NOTE","
+[**Hospital Ward Name 312**] 4 NURSING NOTE
+S-""THE PAIN IS LOUSY""  ""I COULD USE SOMETHING"".
+O-PLEASE SEE CAREVUE FOR ALL OBJECTIVE DATA.
+  THIS AM-EASILY REORIENTED-NOT SURE WHAT YEAR IT WAS OR IF THIS WAS A HOSPITAL-ONCE TOLD-HE REMEMBERED-C/O PAIN WITH GETTING OUT OF BED.  4 PERSON LIFT.  BP-190/94-WITH RR IN THE 40 AND DIAPHORETIC. GRIMACING IN CHAIR-REQUESTING ""SOMETHING""-GAVE PERCOCET PER G-TUBE. HAS DURAGESIC PATCH ON. MSO4 D/C'D THIS AM AS PT SL. CONFUSED WITH IT.  FAMILY IN THIS AFTERNOON-THOUGHT HE LOOKED BAD-LETHARGIC-UPON AWAKING-KNEW FAMILY.  FAMILY FELT HE HAD TOO MUCH MEDS. EXPLAINED THAT HE WAS UNCOMFORTABLE THIS AM AND REQUESTING MEDS.  FAMILY WOULD LIKE HIM MORE AWAKE IF POSSIBLE BUT DOES NOT WANT HIM TO BE UNCOMFORTABLE.
+  VSS. AFEBRILE.
+  LUNGS WITH COARSE SOUNDS-SOME I/E WHEEZING. CPT GIVEN. COUGHING AND DEEP BREATHING ENCOURAGED. SUCTIONING SPUTUM FROM BACK OF THROAT. ON AM ZAROXYLYN AND LASIX. GOOD U/O.
+  NO CHANGE IN DECUB'S. OOB TO CHAIR-TOLERATING WELL.
+A-PAIN
+  FLUID AND LYTES
+  ALT IN RESP STATUS.
+P-MONITOR PAIN LEVEL. EVALUATE EFFECTIVENESS OF PAIN MANAGEMENT. MONITOR NEURO STATUS. KEEP IN A SAFE ENVIRONMENT.
+  FOLLOW FLUID BALANCE. MONIOTR LYTES.
+  CONTINUE CARE.
+
+
+  
+",,
+24653,22172,30611,0,2864-02-07 17:20:00 EST,2864-02-07 17:30:00 EST,511,"N",69,"Nursing/Other",,"
+
+RESP: BS'S CLEAR, DIMINISHED IN BASES. PT. IS 6L NEG TODAY. C&R THICK YELLOW-BROWN SPUTUM. NEB. TX X1 TODAY. ALL SPUTUM CX'S WERE NEG.
+GI: TF'INGS CHANGED TO RESPILAR AND IS PRESENTLY AT 50CC/HR WITH MIN. RESIDUALS. GOAL IS 60CC/HR. PT HAS BS'S, BUT HAS NOT PASSED ANY STOOL. 
+ID: ALL ANTIBIOTICS D/C'ED. PEG CX DID SHOW PSEUDOMONAS. SOME YEAST IN SPUTUM. PT. IS AFEBRILE. BLOOD CX'S ALSO NEG.
+RENAL: GIVEN ZAROXYLN AND LASIX TODAY WITH GOOD DIURESIS. DIURETICS HAVE BEEN D/C'ED. 
+CV: VSS. REMAINS PACED.
+PAIN CONTROL: PT. GIVEN PERCOCET TODAY AFTER EXPERIENCING PAIN ALL DAY. WAS SLEEPING IN CHAIR AND SON BECAME ANXIOUS THAT HE WASN'T WAKING UP. PT. NEEDS PERCOCET TO [**Doctor Last Name 7**]. 
+ACTIVITY: OOB IN CHAIR AND TOL WELL. MUCH MORE COMFORTABLE. 
+SOCIAL: SON AND DAUGHTER ARE VERY UNREALISTIC ABOUT PT'S CONDITION. PT. IS A FULL CODE. 
+LABS:
+
+RECENT V/S'S: 
+
+FAMILY IN AWARE THAT PT IS BEING TRANSFERRED.
+",,
+24653,,30612,0,2864-02-25 05:06:00 EST,2864-02-25 05:19:00 EST,-1,"N",69,"Nursing/Other",,"
+
+PT ADM THIS EVE AT 2000 VIA ED FROM ECF/REHAB FACILITY FOR RESP DIFFICULTY.  DNR/DNI PER FAMILY FROM E.D.  1 UNIT PRBCS INFUSING UPON ARRIVAL OF PT.  INFUSION FINISHED, FLUSHED WITH NS 250CC. PT ROUSES TO SOME VERBAL STIM, NOT FOLLOWING COMMANDS, GARBLED UNINTELLIGABLE SPEECH.  PEERLA. HYPOTENSIVE, INTERNAL AV PACED. SATS 85-90% LUNGS RHONCHOROUS THROUGHOUT.  OROPHARYNGEALLY SXNED FOR COPIOUS AMTS THICK GREEN/YELLOW SPUTUM.  POST SXN, SATS IMPROVED TO 90-97% ON 2L O2 VIA NC.  ABD SOFT, HYPO.  PEG IN PLACE. CLEAR YELLOW UOP VIA FOLEY CATH.  FAMILY AT BEDSIDE.  PTS BP SLOWLY BUT STEADILY DECREASING THROUGHOUT THE NIGHT, AS WELL AS RESP RATE DROPPING AND BECOMING INCREASINGLY AGONAL.  PT. BECAME LESS RESPONSIVE, UNTIL UNRESPONSIVE TO STIMULI.  0410-PT RESP EFFORT CEASED, BP-0, PACER SPIKES STILL SEEN ON MONITOR WITHOUT CARDIAC ACTIVITY.  INTERN NOTIFIED, FAMILY NOTIFIED.
+",,

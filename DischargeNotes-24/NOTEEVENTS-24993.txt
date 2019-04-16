@@ -1,0 +1,1423 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+24993,24981,,,3068-09-11 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+ 
+ 
+ 
+Admission Date:  [**3068-9-11**]              Discharge Date:   [**3068-9-15**]
+ 
+Date of Birth:  [**3018-10-20**]             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Morphine
+ 
+Attending:[**First Name3 (LF) 2847**] 
+Chief Complaint:
+Cirhhosis; Observation s/p TIPS
+ 
+Major Surgical or Invasive Procedure:
+Trans-intrahepatic portosystemic shunt procedure (TIPS)
+
+ 
+History of Present Illness:
+49 y/o m with EtOH induced cirrhosis, h/o SBP, H63D homozygosity 
+who was recently admitted to [**Location (un) **] [**2988-9-7**] for hyponatremia 
+and worsening ascites. He was given IVF per his report and his 
+Na improved and he recieved a paracentesis as well, and per his 
+report was not infected. Although he takes daily cipro for 
+prophylaxis. He went to [**Location (un) **] today for follow up blood work 
+and was found to have Na of 123, and he was transferred here to 
+[**Hospital1 23**] as his hepatologist, Dr. [**Last Name (STitle) **], is here.  
+He otherwise denies fever/chills/diarrhea/black or bloody 
+stool/confusion/fatigue. He has not had EtOH for the past month, 
+and is currently abstaining as he is waiting for a transplant.  
+
+ 
+Past Medical History:
+sbp
+cirrhosis
+caogulapathy
+hypoalbuminemia
+ 
+Social History:
+Social hx: continues to drink- 6 beers a day and sometimes wine 
+had stopped in 198 then restrated 5 years ago, smokes 1 pack per 
+day had stopped smoking in [**3051**], restarted 3 years ago, lives 
+alone, divorced and has been on temp. disability for 2 years and 
+has been working as a floor refinisher.
+
+ 
+Family History:
+family hx: alcoholism in father, h/o emphysema and lung cancer
+
+ 
+Physical Exam:
+T 97.5 HR 91 BP 114/57 R 18 sat 98% RA  
+gen alert, NAD,  
+HEENT mmm, mild scleral icterus, no OP lesions , RIJ CDI  
+CV RRR no m/r/g  
+pulm ctab  
+abd s/nt/distended, + fluid wave +BS  
+ext no edema, 2+ pulses  
+
+ 
+Pertinent Results:
+[**3068-9-11**] 05:37PM   GLUCOSE-95 UREA N-7 CREAT-0.5 SODIUM-123* 
+POTASSIUM-4.6 CHLORIDE-89* TOTAL CO2-30 ANION GAP-9
+[**3068-9-11**] 05:37PM   ALT(SGPT)-42* AST(SGOT)-74* ALK PHOS-189* 
+AMYLASE-79 TOT BILI-1.6*
+[**3068-9-11**] 05:37PM   LIPASE-45
+[**3068-9-11**] 05:37PM   ALBUMIN-2.7*
+[**3068-9-11**] 05:37PM   OSMOLAL-260*
+[**3068-9-11**] 05:37PM   WBC-10.2 RBC-4.02* HGB-13.7* HCT-39.4* MCV-98 
+MCH-34.1* MCHC-34.8 RDW-14.2
+[**3068-9-11**] 05:37PM   NEUTS-76.4* LYMPHS-15.1* MONOS-7.0 EOS-1.3 
+BASOS-0.3
+[**3068-9-11**] 05:37PM   PT-15.2* PTT-33.8 INR(PT)-1.5
+
+Abdominal u/s: There is marked ascites seen. The liver itself 
+appears with relatively normal echogenicity and no evidence of 
+mass. Hepatofugal flow is noted within the right, left, and main 
+portal veins. Vasculature appears patent, but with reversed 
+flow. The right kidney measures 11.6 cm. The left kidney 
+measures 10.9 cm. There is no hydronephrosis or stones. The 
+gallbladder appears normal without evidence of stones. The 
+common duct is not dilated. There is splenomegaly. Pancreas is 
+not well visualized secondary to abdominal gas.
+
+IMPRESSION:
+1. Marked ascites consistent with cirrhosis.
+2. Hepatofugal flow within the portal veins consistent with 
+portal hypertension.
+3. Splenomegaly.
+
+TIPS: 1. Paracentesis with a total of 4.4 liters of ascitic 
+fluid removed.
+2. Successful placement of a transjugular intrahepatic 
+portosystemic shunt between the right hepatic vein and main 
+portal vein by way of the right portal vein. A total of 2 10 x 
+68 mm Wallstents were used in overlap.
+3. A 9-French triple-lumen central venous catheter was placed 
+through the right internal jugular venous access with tip at the 
+superior vena cava-right atrial junction. The catheter may be 
+used immediately.
+A single 3-0 nylon suture was placed at the paracentesis site in 
+the right lower quadrant of the abdomen. This can be removed in 
+7 days' time. Please note that another suture was in place in 
+the right lower quadrant of the abdomen that was present prior 
+to the beginning of today's procedure.
+
+ 
+Brief Hospital Course:
+Mr [**Known patient lastname 6476**] was admitted to the MICU for one day for monitoring 
+after his TIPS procedure.  He remained hemodynamically stable 
+and afebrile throughot his stay. He was to be transferred to the 
+floor the morning following his procedure, but was doing well 
+without acute issue and for this reason was discharged directly 
+from the MICU one day following admission.
+ 
+Medications on Admission:
+1. Lasix 80 mg q day  
+2. Aldactone 200 mg q day  
+3. Lactulose tid  
+4. Potassium prn  
+5. Folic acid, thiamine, and MVI  
+6. Cipro 500 mg daily  
+
+ 
+Discharge Medications:
+1. Ciprofloxacin 750 mg Tablet Sig: One (1) Tablet PO once a 
+week.
+Disp:*2 Tablet(s)* Refills:*2*
+2. Nadolol 20 mg Tablet Sig: One (1) Tablet PO once a day.
+Disp:*30 Tablet(s)* Refills:*2*
+3. Lasix 40 mg Tablet Sig: One (1) Tablet PO once a day.
+Disp:*30 Tablet(s)* Refills:*2*
+4. Aldactone 50 mg Tablet Sig: One (1) Tablet PO once a day.
+Disp:*30 Tablet(s)* Refills:*2*
+5. Lactulose 10 g/15 mL Syrup Sig: Thirty (30) ML PO TID (3 
+times a day).
+Disp:*2700 ML(s)* Refills:*2*
+6. Oxycodone 5 mg Tablet Sig: One (1) Tablet PO every six (6) 
+hours as needed for pain for 2 weeks.
+Disp:*30 Tablet(s)* Refills:*0*
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Primary
+1. Alcoholic Cirrhosis
+2. Coagulopathy
+3. Hypoalbuminemia
+
+ 
+Discharge Condition:
+Good
+
+ 
+Discharge Instructions:
+Please continue your home medications. Please call the liver 
+center [**Telephone/Fax (1) 354**] or go to the ER for increased confusion, 
+fevers, chills, or any other problems.  [**Doctor First Name 27**] should not drink 
+more than 6 cups of fluid a day.  (1500 cc)
+ 
+Followup Instructions:
+Provider: [**Last Name (NamePattern4) **]. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **] Where: LM [**Hospital Ward Name 353**] BUILDING LIVER 
+CENTER Phone:[**Telephone/Fax (1) 354**] Date/Time:[**3068-10-2**] 10:40
+
+Do not drink more than 6 cups of fluid (1500 cc) a day
+
+ 
+                             [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 743**] MD [**MD Number 744**]
+ 
+Completed by: [**First Name11 (Name Pattern1) 255**] [**Last Name (NamePattern4) 3616**] MD [**MD Number 3617**] [**3069-6-16**] @ 0007
+Signed electronically by: DR. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) **]
+ on: WED [**3069-6-16**] 9:10 PM
+(End of Report)
+
+
+",,
+24993,24981,,,3068-09-14 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3068-9-14**] 9:34 AM
+     TIPS                                                            Clip # [**Clip Number (Radiology) 8180**]
+     Reason: please place TIPS                                           
+     Admitting Diagnosis: HYPONATREMIA
+      Contrast: OPTIRAY Amt: 330
+     ********************************* CPT Codes ********************************
+     * 37182 INSERT HEPATIC HUNT TIPS       36556 NON-TUNNELED                  *
+     * -51 MULTI-PROCEDURE SAME DAY         49080 PARACENTESIS  INITAL PROC     *
+     * -51 MULTI-PROCEDURE SAME DAY         75998 FLUOR GUID PLCT/REPLCT/REMOVE *
+     * 76942 UD GUID FOR NEEDLE PLACMENT    -59 DISTINCT PROCEDURAL SERVICE     *
+     * CATH, TRANSLUM ANGIO NONLASER        CATH, TRANSLUM ANGIO NONLASER       *
+     * C1769 GUID WIRES INCL INF            C1769 GUID WIRES INCL INF           *
+     * C1769 GUID WIRES INCL INF            C1769 GUID WIRES INCL INF           *
+     * STENT NOCOAT.NOCOVER W/[**Doctor First Name **] SYSTEM    STENT NOCOAT.NOCOVER W/[**Doctor First Name **] SYSTEM   *
+     * C1894 INT.SHTH NOT/GUID,EP,NONLASER  NON-IONIC 200 CC SUPPLY             *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      49 year old man with diuretic resistant ascites                                 
+     REASON FOR THIS EXAMINATION:
+      please place TIPS                                                               
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY: Ascites refractory to treatment. Cirrhosis with portal hypertension.
+     
+     PHYSICIANS: The procedure was performed by Drs. [**First Name8 (NamePattern2) 8181**] [**Name (STitle) 281**], [**Name5 (PTitle) 674**]
+     [**Last Name (LF) 675**], [**First Name8 (NamePattern2) 8182**] [**Last Name (NamePattern1) 2263**], [**First Name4 (NamePattern1) 431**] [**Last Name (NamePattern1) 432**] and [**Doctor First Name 455**] [**Doctor Last Name 456**] d'Othee, with Dr.
+     [**Last Name (STitle) 456**] [**Name (STitle) 457**], the attending radiologist, being present and supervising
+     throughout the procedure. Arghavan [**Doctor Last Name 8183**], senior medical student, also
+     assisted on the procedure.
+     
+     PROCEDURE: Following written informed consent, the patient was positioned
+     supine on the angiography table. A preprocedure timeout was performed to
+     confirm the patient, procedure and site. Standard sterile prep and drape of
+     the right lower quadrant of the abdomen. Using realtime ultrasound guidance
+     and after 5 cc of 1% lidocaine for local anesthesia, a 19-gauge needle was
+     advanced into ascitic fluid in the right flank/lower quadrant. A 0.035-inch
+     Bentson guidewire was advanced through the needle and the needle was exchanged
+     for a 4-French Omniflush catheter. The wire was removed and the Omniflush
+     catheter was attached to sequential evacuated bottles to perform paracentesis.
+     Fluoroscopy showed the catheter tip to be located under the right
+     hemidiaphragm. A total of 4.4 liters of ascites was removed during the
+     procedure, and the catheter was eventually removed at the end of the TIPS
+     procedure. As ascitic fluid was leaking from the tube site, a single 3-0 nylon
+     suture was placed to seal the tract. This suture should be removed in 7 days.
+     
+     Standard sterile prep and drape of the right neck. General anesthesia was
+     performed by the anesthesiology team. Local anesthesia with 5 cc of 1%
+     lidocaine. Ultrasound evaluation demonstrated the right internal jugular vein
+     to be patent and compressible. Using realtime ultrasound guidance, a 21-gauge
+     micropuncture needle was advanced into the right internal jugular vein. A
+     0.018-inch guidewire was advanced through the needle and the needle was
+     exchanged for the micropuncture sheath. The in situ guidewire was exchanged
+                                                                 (Over)
+
+     DATE: [**3068-9-14**] 9:34 AM
+     TIPS                                                            Clip # [**Clip Number (Radiology) 8180**]
+     Reason: please place TIPS                                           
+     Admitting Diagnosis: HYPONATREMIA
+      Contrast: OPTIRAY Amt: 330
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     for a 0.035-inch [**Doctor Last Name 100**] guidewire and the micropuncture sheath was exchanged
+     for a 9-French vascular sheath. The vascular sheath was attached to continuous
+     heparinized saline flush. A 4-French Cobra catheter was advanced through the
+     vascular sheath and a 0.035-inch angled Glidewire was advanced through the
+     Cobra catheter. The combination of catheter and guidewire was used to select
+     the right hepatic vein using fluoroscopic guidance. The Cobra catheter was
+     exchanged for [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 8184**] balloon catheter and the [**Doctor Last Name 8184**] catheter was wedged
+     peripherally in the liver. Wedged hepatic venograms in the anterior and
+     subsequently the lateral projections were performed using carbon dioxide
+     contrast. This confirmed placement within the right hepatic vein and confirmed
+     that the right, left and main portal veins were patent with hepatofugal flow.
+     This corresponds to the ultrasound performed earlier the same day. In
+     addition, there were numerous dilated portal system collateral veins.
+     
+     [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 5031**]-Ushida needle system was used to puncture the right portal vein by way
+     of the right hepatic vein using fluoroscopic guidance. Multiple passes were
+     required before the right portal vein was successfully punctured. A 0.035-inch
+     angled Glidewire was advanced into the inferior mesenteric vein (IMV) and then
+     the [**Last Name (un) 5031**]-[**Last Name (un) 5032**] system was exchanged for a 4-French Cobra catheter. Then, the
+     Glidewire was exchanged for an Amplatz guidewire. The Cobra catheter was then
+     positioned in the main portal vein at the confluence of the superior
+     mesenteric vein (SMV) and splenic veins and portal venography was performed
+     with iodinated contrast. This demonstrates patency of the right, left and main
+     portal veins, splenic vein, IMV, and left gastric vein. The left gastric vein
+     is dilated with gastric varices. In addition, numerous other collateral portal
+     venous system pathways are demonstrated. The portal venogram also confirmed
+     puncture of the right portal vein. The Cobra catheter was then exchanged for a
+     4 mm x 4 cm angioplasty balloon over the Amplatz guidewire and the hepatic
+     tract was sequentially dilated. This balloon was then exchanged for a 10 mm x
+     6 cm angioplasty balloon and the tract was dilated sequentially to 10 mm.
+     Then, the balloon catheter was exchanged for a 10 mm x 6.8 cm Wallstent, which
+     was deployed in the hepatic parenchymal tract over the Amplatz guidewire. This
+     was then dilated with the 10 mm x 6 cm balloon.
+     
+     A post-stent portal venogram was performed which demonstrated patency of the
+     stent with flow of contrast from the portal vein through the TIPS stent to the
+     right hepatic vein. There was ongoing opacification of portal venous system
+     collaterals. Of note, pressure measurements were made prior to any balloon
+     dilation of the hepatic parenchymal tract. At that time, predilation, portal
+     venous pressure was 36 mm Hg and right hepatic venous pressure was 11 mm Hg
+     for a gradient of 25 mm Hg. After deployment of the stent pressure
+     measurements were repeated revealing a portal vein pressure of 34 mm Hg and a
+     right hepatic vein pressure of 24 mm Hg for a gradient of 10 mm Hg. The portal
+     venogram also demonstrated that the superior portion of the Wallstent was just
+     within the hepatic vein just proximal to the puncture site. As such, we
+                                                                 (Over)
+
+     DATE: [**3068-9-14**] 9:34 AM
+     TIPS                                                            Clip # [**Clip Number (Radiology) 8180**]
+     Reason: please place TIPS                                           
+     Admitting Diagnosis: HYPONATREMIA
+      Contrast: OPTIRAY Amt: 330
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     elected to place a second overlapping 10 mm x 6.8 cm Wallstent. There was
+     approximately 50% overlap and the proximal aspect of the second Wallstent was
+     at the right hepatic vein just upstream of its insertion on the inferior vena
+     cava. This Wallstent was also dilated with the 10 mm x 6 cm balloon.
+     
+     Portal venogram was then performed which demonstrated ongoing patency of the
+     TIPS stents with decreased opacification of portal venous system collaterals.
+     Pressure measurements obtained after the deployment of the second stent
+     demonstrated a portal venous pressure of 30 mm Hg and a right hepatic venous
+     pressure of 21 mm Hg for a gradient of 9 mm Hg. Following this, the 9-French
+     vascular sheath was exchanged over wire for a 9-French triple-lumen central
+     venous catheter with its tip positioned in the superior vena using
+     fluoroscopic guidance. All 3 ports of the catheter flushed and aspirated well,
+     were capped, and hep-locked. The catheter was sutured in place with two 2-0
+     silk sutures and a sterile transparent dressing was applied.
+     
+     MEDICATIONS: A total of 330 mL of Optiray 320 intravenous contrast was
+     utilized during the procedure. A total of 60 cc of intravenous carbon dioxide
+     was utilized during the procedure. A total of 10 mL of lidocaine 1%
+     subcutaneously was utilized during the procedure.
+     
+     COMPLICATIONS: No immediate complications.
+     
+     IMPRESSION:
+     
+     1.  Paracentesis with a total of 4.4 liters of ascitic fluid removed.
+     
+     2.  Successful placement of a transjugular intrahepatic portosystemic shunt
+     between the right hepatic vein and main portal vein by way of the right portal
+     vein. A total of two 10 x 68 mm Wallstents were used in overlap and were
+     balloon dilated to 10mm.
+     
+     3.  A 9-French triple-lumen central venous catheter was placed through the
+     right internal jugular venous access with tip in the superior vena cava. The
+     catheter may be used immediately.
+     
+     4. A single 3-0 nylon suture was placed at the paracentesis site in the right
+     lower quadrant of the abdomen. This can be removed in 7 days' time. Please
+     note that another suture was in place in the right lower quadrant of the
+     abdomen that was present prior to the beginning of today's procedure.
+                                                                 (Over)
+
+     DATE: [**3068-9-14**] 9:34 AM
+     TIPS                                                            Clip # [**Clip Number (Radiology) 8180**]
+     Reason: please place TIPS                                           
+     Admitting Diagnosis: HYPONATREMIA
+      Contrast: OPTIRAY Amt: 330
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+
+",,
+24993,24981,,,3068-09-14 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3068-9-14**] 9:34 AM
+     TIPS                                                            Clip # [**Clip Number (Radiology) 8180**]
+     Reason: please place TIPS                                           
+     Admitting Diagnosis: HYPONATREMIA
+      Contrast: OPTIRAY Amt: 330
+     ********************************* CPT Codes ********************************
+     * 37182 INSERT HEPATIC HUNT TIPS       36556 NON-TUNNELED                  *
+     * -51 MULTI-PROCEDURE SAME DAY         49080 PARACENTESIS  INITAL PROC     *
+     * -51 MULTI-PROCEDURE SAME DAY         75998 FLUOR GUID PLCT/REPLCT/REMOVE *
+     * 76942 UD GUID FOR NEEDLE PLACMENT    -59 DISTINCT PROCEDURAL SERVICE     *
+     * CATH, TRANSLUM ANGIO NONLASER        CATH, TRANSLUM ANGIO NONLASER       *
+     * C1769 GUID WIRES INCL INF            C1769 GUID WIRES INCL INF           *
+     * C1769 GUID WIRES INCL INF            C1769 GUID WIRES INCL INF           *
+     * STENT NOCOAT.NOCOVER W/[**Doctor First Name **] SYSTEM    STENT NOCOAT.NOCOVER W/[**Doctor First Name **] SYSTEM   *
+     * C1894 INT.SHTH NOT/GUID,EP,NONLASER  NON-IONIC 200 CC SUPPLY             *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      49 year old man with diuretic resistant ascites                                 
+     REASON FOR THIS EXAMINATION:
+      please place TIPS                                                               
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY: Ascites refractory to treatment. Cirrhosis with portal hypertension.
+     
+     PHYSICIANS: The procedure was performed by Drs. [**First Name8 (NamePattern2) 8181**] [**Name (STitle) 281**], [**Name5 (PTitle) 674**]
+     [**Last Name (LF) 675**], [**First Name8 (NamePattern2) 8182**] [**Last Name (NamePattern1) 2263**], [**First Name4 (NamePattern1) 431**] [**Last Name (NamePattern1) 432**] and [**Doctor First Name 455**] [**Doctor Last Name 456**] d'Othee, with Dr.
+     [**Last Name (STitle) 456**] [**Name (STitle) 457**], the attending radiologist, being present and supervising
+     throughout the procedure. Arghavan [**Doctor Last Name 8183**], senior medical student, also
+     assisted on the procedure.
+     
+     PROCEDURE: Following written informed consent, the patient was positioned
+     supine on the angiography table. A preprocedure timeout was performed to
+     confirm the patient, procedure and site. Standard sterile prep and drape of
+     the right lower quadrant of the abdomen. Using realtime ultrasound guidance
+     and after 5 cc of 1% lidocaine for local anesthesia, a 19-gauge needle was
+     advanced into ascitic fluid in the right flank/lower quadrant. A 0.035-inch
+     Bentson guidewire was advanced through the needle and the needle was exchanged
+     for a 4-French Omniflush catheter. The wire was removed and the Omniflush
+     catheter was attached to sequential evacuated bottles to perform paracentesis.
+     Fluoroscopy showed the catheter tip to be located under the right
+     hemidiaphragm. A total of 4.4 liters of ascites was removed during the
+     procedure, and the catheter was eventually removed at the end of the TIPS
+     procedure. As ascitic fluid was leaking from the tube site, a single 3-0 nylon
+     suture was placed to seal the tract. This suture should be removed in 7 days.
+     
+     Standard sterile prep and drape of the right neck. General anesthesia was
+     performed by the anesthesiology team. Local anesthesia with 5 cc of 1%
+     lidocaine. Ultrasound evaluation demonstrated the right internal jugular vein
+     to be patent and compressible. Using realtime ultrasound guidance, a 21-gauge
+     micropuncture needle was advanced into the right internal jugular vein. A
+     0.018-inch guidewire was advanced through the needle and the needle was
+     exchanged for the micropuncture sheath. The in situ guidewire was exchanged
+                                                                 (Over)
+
+     DATE: [**3068-9-14**] 9:34 AM
+     TIPS                                                            Clip # [**Clip Number (Radiology) 8180**]
+     Reason: please place TIPS                                           
+     Admitting Diagnosis: HYPONATREMIA
+      Contrast: OPTIRAY Amt: 330
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     for a 0.035-inch [**Doctor Last Name 100**] guidewire and the micropuncture sheath was exchanged
+     for a 9-French vascular sheath. The vascular sheath was attached to continuous
+     heparinized saline flush. A 4-French Cobra catheter was advanced through the
+     vascular sheath and a 0.035-inch angled Glidewire was advanced through the
+     Cobra catheter. The combination of catheter and guidewire was used to select
+     the right hepatic vein using fluoroscopic guidance. The Cobra catheter was
+     exchanged for [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 8184**] balloon catheter and the [**Doctor Last Name 8184**] catheter was wedged
+     peripherally in the liver. Wedged hepatic venograms in the anterior and
+     subsequently the lateral projections were performed using carbon dioxide
+     contrast. This confirmed placement within the right hepatic vein and confirmed
+     that the right, left and main portal veins were patent with hepatofugal flow.
+     This corresponds to the ultrasound performed earlier the same day. In
+     addition, there were numerous dilated portal system collateral veins.
+     
+     [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 5031**]-Ushida needle system was used to puncture the right portal vein by way
+     of the right hepatic vein using fluoroscopic guidance. Multiple passes were
+     required before the right portal vein was successfully punctured. A 0.035-inch
+     angled Glidewire was advanced into the inferior mesenteric vein (IMV) and then
+     the [**Last Name (un) 5031**]-[**Last Name (un) 5032**] system was exchanged for a 4-French Cobra catheter. Then, the
+     Glidewire was exchanged for an Amplatz guidewire. The Cobra catheter was then
+     positioned in the main portal vein at the confluence of the superior
+     mesenteric vein (SMV) and splenic veins and portal venography was performed
+     with iodinated contrast. This demonstrates patency of the right, left and main
+     portal veins, splenic vein, IMV, and left gastric vein. The left gastric vein
+     is dilated with gastric varices. In addition, numerous other collateral portal
+     venous system pathways are demonstrated. The portal venogram also confirmed
+     puncture of the right portal vein. The Cobra catheter was then exchanged for a
+     4 mm x 4 cm angioplasty balloon over the Amplatz guidewire and the hepatic
+     tract was sequentially dilated. This balloon was then exchanged for a 10 mm x
+     6 cm angioplasty balloon and the tract was dilated sequentially to 10 mm.
+     Then, the balloon catheter was exchanged for a 10 mm x 6.8 cm Wallstent, which
+     was deployed in the hepatic parenchymal tract over the Amplatz guidewire. This
+     was then dilated with the 10 mm x 6 cm balloon.
+     
+     A post-stent portal venogram was performed which demonstrated patency of the
+     stent with flow of contrast from the portal vein through the TIPS stent to the
+     right hepatic vein. There was ongoing opacification of portal venous system
+     collaterals. Of note, pressure measurements were made prior to any balloon
+     dilation of the hepatic parenchymal tract. At that time, predilation, portal
+     venous pressure was 36 mm Hg and right hepatic venous pressure was 11 mm Hg
+     for a gradient of 25 mm Hg. After deployment of the stent pressure
+     measurements were repeated revealing a portal vein pressure of 34 mm Hg and a
+     right hepatic vein pressure of 24 mm Hg for a gradient of 10 mm Hg. The portal
+     venogram also demonstrated that the superior portion of the Wallstent was just
+     within the hepatic vein just proximal to the puncture site. As such, we
+                                                                 (Over)
+
+     DATE: [**3068-9-14**] 9:34 AM
+     TIPS                                                            Clip # [**Clip Number (Radiology) 8180**]
+     Reason: please place TIPS                                           
+     Admitting Diagnosis: HYPONATREMIA
+      Contrast: OPTIRAY Amt: 330
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     elected to place a second overlapping 10 mm x 6.8 cm Wallstent. There was
+     approximately 50% overlap and the proximal aspect of the second Wallstent was
+     at the right hepatic vein just upstream of its insertion on the inferior vena
+     cava. This Wallstent was also dilated with the 10 mm x 6 cm balloon.
+     
+     Portal venogram was then performed which demonstrated ongoing patency of the
+     TIPS stents with decreased opacification of portal venous system collaterals.
+     Pressure measurements obtained after the deployment of the second stent
+     demonstrated a portal venous pressure of 30 mm Hg and a right hepatic venous
+     pressure of 21 mm Hg for a gradient of 9 mm Hg. Following this, the 9-French
+     vascular sheath was exchanged over wire for a 9-French triple-lumen central
+     venous catheter with its tip positioned in the superior vena using
+     fluoroscopic guidance. All 3 ports of the catheter flushed and aspirated well,
+     were capped, and hep-locked. The catheter was sutured in place with two 2-0
+     silk sutures and a sterile transparent dressing was applied.
+     
+     MEDICATIONS: A total of 330 mL of Optiray 320 intravenous contrast was
+     utilized during the procedure. A total of 60 cc of intravenous carbon dioxide
+     was utilized during the procedure. A total of 10 mL of lidocaine 1%
+     subcutaneously was utilized during the procedure.
+     
+     COMPLICATIONS: No immediate complications.
+     
+     IMPRESSION:
+     
+     1.  Paracentesis with a total of 4.4 liters of ascitic fluid removed.
+     
+     2.  Successful placement of a transjugular intrahepatic portosystemic shunt
+     between the right hepatic vein and main portal vein by way of the right portal
+     vein. A total of two 10 x 68 mm Wallstents were used in overlap and were
+     balloon dilated to 10mm.
+     
+     3.  A 9-French triple-lumen central venous catheter was placed through the
+     right internal jugular venous access with tip in the superior vena cava. The
+     catheter may be used immediately.
+     
+     4. A single 3-0 nylon suture was placed at the paracentesis site in the right
+     lower quadrant of the abdomen. This can be removed in 7 days' time. Please
+     note that another suture was in place in the right lower quadrant of the
+     abdomen that was present prior to the beginning of today's procedure.
+                                                                 (Over)
+
+     DATE: [**3068-9-14**] 9:34 AM
+     TIPS                                                            Clip # [**Clip Number (Radiology) 8180**]
+     Reason: please place TIPS                                           
+     Admitting Diagnosis: HYPONATREMIA
+      Contrast: OPTIRAY Amt: 330
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+
+",,
+24993,24981,,,3068-09-14 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3068-9-14**] 9:34 AM
+     TIPS                                                            Clip # [**Clip Number (Radiology) 8180**]
+     Reason: please place TIPS                                           
+     Admitting Diagnosis: HYPONATREMIA
+      Contrast: OPTIRAY Amt: 330
+     ********************************* CPT Codes ********************************
+     * 37182 INSERT HEPATIC HUNT TIPS       36556 NON-TUNNELED                  *
+     * -51 MULTI-PROCEDURE SAME DAY         49080 PARACENTESIS  INITAL PROC     *
+     * -51 MULTI-PROCEDURE SAME DAY         75998 FLUOR GUID PLCT/REPLCT/REMOVE *
+     * 76942 UD GUID FOR NEEDLE PLACMENT    -59 DISTINCT PROCEDURAL SERVICE     *
+     * CATH, TRANSLUM ANGIO NONLASER        CATH, TRANSLUM ANGIO NONLASER       *
+     * C1769 GUID WIRES INCL INF            C1769 GUID WIRES INCL INF           *
+     * C1769 GUID WIRES INCL INF            C1769 GUID WIRES INCL INF           *
+     * STENT NOCOAT.NOCOVER W/[**Doctor First Name **] SYSTEM    STENT NOCOAT.NOCOVER W/[**Doctor First Name **] SYSTEM   *
+     * C1894 INT.SHTH NOT/GUID,EP,NONLASER  NON-IONIC 200 CC SUPPLY             *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      49 year old man with diuretic resistant ascites                                 
+     REASON FOR THIS EXAMINATION:
+      please place TIPS                                                               
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY: Ascites refractory to treatment. Cirrhosis with portal hypertension.
+     
+     PHYSICIANS: The procedure was performed by Drs. [**First Name8 (NamePattern2) 8181**] [**Name (STitle) 281**], [**Name5 (PTitle) 674**]
+     [**Last Name (LF) 675**], [**First Name8 (NamePattern2) 8182**] [**Last Name (NamePattern1) 2263**], [**First Name4 (NamePattern1) 431**] [**Last Name (NamePattern1) 432**] and [**Doctor First Name 455**] [**Doctor Last Name 456**] d'Othee, with Dr.
+     [**Last Name (STitle) 456**] [**Name (STitle) 457**], the attending radiologist, being present and supervising
+     throughout the procedure. Arghavan [**Doctor Last Name 8183**], senior medical student, also
+     assisted on the procedure.
+     
+     PROCEDURE: Following written informed consent, the patient was positioned
+     supine on the angiography table. A preprocedure timeout was performed to
+     confirm the patient, procedure and site. Standard sterile prep and drape of
+     the right lower quadrant of the abdomen. Using realtime ultrasound guidance
+     and after 5 cc of 1% lidocaine for local anesthesia, a 19-gauge needle was
+     advanced into ascitic fluid in the right flank/lower quadrant. A 0.035-inch
+     Bentson guidewire was advanced through the needle and the needle was exchanged
+     for a 4-French Omniflush catheter. The wire was removed and the Omniflush
+     catheter was attached to sequential evacuated bottles to perform paracentesis.
+     Fluoroscopy showed the catheter tip to be located under the right
+     hemidiaphragm. A total of 4.4 liters of ascites was removed during the
+     procedure, and the catheter was eventually removed at the end of the TIPS
+     procedure. As ascitic fluid was leaking from the tube site, a single 3-0 nylon
+     suture was placed to seal the tract. This suture should be removed in 7 days.
+     
+     Standard sterile prep and drape of the right neck. General anesthesia was
+     performed by the anesthesiology team. Local anesthesia with 5 cc of 1%
+     lidocaine. Ultrasound evaluation demonstrated the right internal jugular vein
+     to be patent and compressible. Using realtime ultrasound guidance, a 21-gauge
+     micropuncture needle was advanced into the right internal jugular vein. A
+     0.018-inch guidewire was advanced through the needle and the needle was
+     exchanged for the micropuncture sheath. The in situ guidewire was exchanged
+                                                                 (Over)
+
+     DATE: [**3068-9-14**] 9:34 AM
+     TIPS                                                            Clip # [**Clip Number (Radiology) 8180**]
+     Reason: please place TIPS                                           
+     Admitting Diagnosis: HYPONATREMIA
+      Contrast: OPTIRAY Amt: 330
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     for a 0.035-inch [**Doctor Last Name 100**] guidewire and the micropuncture sheath was exchanged
+     for a 9-French vascular sheath. The vascular sheath was attached to continuous
+     heparinized saline flush. A 4-French Cobra catheter was advanced through the
+     vascular sheath and a 0.035-inch angled Glidewire was advanced through the
+     Cobra catheter. The combination of catheter and guidewire was used to select
+     the right hepatic vein using fluoroscopic guidance. The Cobra catheter was
+     exchanged for [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 8184**] balloon catheter and the [**Doctor Last Name 8184**] catheter was wedged
+     peripherally in the liver. Wedged hepatic venograms in the anterior and
+     subsequently the lateral projections were performed using carbon dioxide
+     contrast. This confirmed placement within the right hepatic vein and confirmed
+     that the right, left and main portal veins were patent with hepatofugal flow.
+     This corresponds to the ultrasound performed earlier the same day. In
+     addition, there were numerous dilated portal system collateral veins.
+     
+     [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 5031**]-Ushida needle system was used to puncture the right portal vein by way
+     of the right hepatic vein using fluoroscopic guidance. Multiple passes were
+     required before the right portal vein was successfully punctured. A 0.035-inch
+     angled Glidewire was advanced into the inferior mesenteric vein (IMV) and then
+     the [**Last Name (un) 5031**]-[**Last Name (un) 5032**] system was exchanged for a 4-French Cobra catheter. Then, the
+     Glidewire was exchanged for an Amplatz guidewire. The Cobra catheter was then
+     positioned in the main portal vein at the confluence of the superior
+     mesenteric vein (SMV) and splenic veins and portal venography was performed
+     with iodinated contrast. This demonstrates patency of the right, left and main
+     portal veins, splenic vein, IMV, and left gastric vein. The left gastric vein
+     is dilated with gastric varices. In addition, numerous other collateral portal
+     venous system pathways are demonstrated. The portal venogram also confirmed
+     puncture of the right portal vein. The Cobra catheter was then exchanged for a
+     4 mm x 4 cm angioplasty balloon over the Amplatz guidewire and the hepatic
+     tract was sequentially dilated. This balloon was then exchanged for a 10 mm x
+     6 cm angioplasty balloon and the tract was dilated sequentially to 10 mm.
+     Then, the balloon catheter was exchanged for a 10 mm x 6.8 cm Wallstent, which
+     was deployed in the hepatic parenchymal tract over the Amplatz guidewire. This
+     was then dilated with the 10 mm x 6 cm balloon.
+     
+     A post-stent portal venogram was performed which demonstrated patency of the
+     stent with flow of contrast from the portal vein through the TIPS stent to the
+     right hepatic vein. There was ongoing opacification of portal venous system
+     collaterals. Of note, pressure measurements were made prior to any balloon
+     dilation of the hepatic parenchymal tract. At that time, predilation, portal
+     venous pressure was 36 mm Hg and right hepatic venous pressure was 11 mm Hg
+     for a gradient of 25 mm Hg. After deployment of the stent pressure
+     measurements were repeated revealing a portal vein pressure of 34 mm Hg and a
+     right hepatic vein pressure of 24 mm Hg for a gradient of 10 mm Hg. The portal
+     venogram also demonstrated that the superior portion of the Wallstent was just
+     within the hepatic vein just proximal to the puncture site. As such, we
+                                                                 (Over)
+
+     DATE: [**3068-9-14**] 9:34 AM
+     TIPS                                                            Clip # [**Clip Number (Radiology) 8180**]
+     Reason: please place TIPS                                           
+     Admitting Diagnosis: HYPONATREMIA
+      Contrast: OPTIRAY Amt: 330
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     elected to place a second overlapping 10 mm x 6.8 cm Wallstent. There was
+     approximately 50% overlap and the proximal aspect of the second Wallstent was
+     at the right hepatic vein just upstream of its insertion on the inferior vena
+     cava. This Wallstent was also dilated with the 10 mm x 6 cm balloon.
+     
+     Portal venogram was then performed which demonstrated ongoing patency of the
+     TIPS stents with decreased opacification of portal venous system collaterals.
+     Pressure measurements obtained after the deployment of the second stent
+     demonstrated a portal venous pressure of 30 mm Hg and a right hepatic venous
+     pressure of 21 mm Hg for a gradient of 9 mm Hg. Following this, the 9-French
+     vascular sheath was exchanged over wire for a 9-French triple-lumen central
+     venous catheter with its tip positioned in the superior vena using
+     fluoroscopic guidance. All 3 ports of the catheter flushed and aspirated well,
+     were capped, and hep-locked. The catheter was sutured in place with two 2-0
+     silk sutures and a sterile transparent dressing was applied.
+     
+     MEDICATIONS: A total of 330 mL of Optiray 320 intravenous contrast was
+     utilized during the procedure. A total of 60 cc of intravenous carbon dioxide
+     was utilized during the procedure. A total of 10 mL of lidocaine 1%
+     subcutaneously was utilized during the procedure.
+     
+     COMPLICATIONS: No immediate complications.
+     
+     IMPRESSION:
+     
+     1.  Paracentesis with a total of 4.4 liters of ascitic fluid removed.
+     
+     2.  Successful placement of a transjugular intrahepatic portosystemic shunt
+     between the right hepatic vein and main portal vein by way of the right portal
+     vein. A total of two 10 x 68 mm Wallstents were used in overlap and were
+     balloon dilated to 10mm.
+     
+     3.  A 9-French triple-lumen central venous catheter was placed through the
+     right internal jugular venous access with tip in the superior vena cava. The
+     catheter may be used immediately.
+     
+     4. A single 3-0 nylon suture was placed at the paracentesis site in the right
+     lower quadrant of the abdomen. This can be removed in 7 days' time. Please
+     note that another suture was in place in the right lower quadrant of the
+     abdomen that was present prior to the beginning of today's procedure.
+                                                                 (Over)
+
+     DATE: [**3068-9-14**] 9:34 AM
+     TIPS                                                            Clip # [**Clip Number (Radiology) 8180**]
+     Reason: please place TIPS                                           
+     Admitting Diagnosis: HYPONATREMIA
+      Contrast: OPTIRAY Amt: 330
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+
+",,
+24993,24981,,,3068-09-14 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3068-9-14**] 9:34 AM
+     TIPS                                                            Clip # [**Clip Number (Radiology) 8180**]
+     Reason: please place TIPS                                           
+     Admitting Diagnosis: HYPONATREMIA
+      Contrast: OPTIRAY Amt: 330
+     ********************************* CPT Codes ********************************
+     * 37182 INSERT HEPATIC HUNT TIPS       36556 NON-TUNNELED                  *
+     * -51 MULTI-PROCEDURE SAME DAY         49080 PARACENTESIS  INITAL PROC     *
+     * -51 MULTI-PROCEDURE SAME DAY         75998 FLUOR GUID PLCT/REPLCT/REMOVE *
+     * 76942 UD GUID FOR NEEDLE PLACMENT    -59 DISTINCT PROCEDURAL SERVICE     *
+     * CATH, TRANSLUM ANGIO NONLASER        CATH, TRANSLUM ANGIO NONLASER       *
+     * C1769 GUID WIRES INCL INF            C1769 GUID WIRES INCL INF           *
+     * C1769 GUID WIRES INCL INF            C1769 GUID WIRES INCL INF           *
+     * STENT NOCOAT.NOCOVER W/[**Doctor First Name **] SYSTEM    STENT NOCOAT.NOCOVER W/[**Doctor First Name **] SYSTEM   *
+     * C1894 INT.SHTH NOT/GUID,EP,NONLASER  NON-IONIC 200 CC SUPPLY             *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      49 year old man with diuretic resistant ascites                                 
+     REASON FOR THIS EXAMINATION:
+      please place TIPS                                                               
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY: Ascites refractory to treatment. Cirrhosis with portal hypertension.
+     
+     PHYSICIANS: The procedure was performed by Drs. [**First Name8 (NamePattern2) 8181**] [**Name (STitle) 281**], [**Name5 (PTitle) 674**]
+     [**Last Name (LF) 675**], [**First Name8 (NamePattern2) 8182**] [**Last Name (NamePattern1) 2263**], [**First Name4 (NamePattern1) 431**] [**Last Name (NamePattern1) 432**] and [**Doctor First Name 455**] [**Doctor Last Name 456**] d'Othee, with Dr.
+     [**Last Name (STitle) 456**] [**Name (STitle) 457**], the attending radiologist, being present and supervising
+     throughout the procedure. Arghavan [**Doctor Last Name 8183**], senior medical student, also
+     assisted on the procedure.
+     
+     PROCEDURE: Following written informed consent, the patient was positioned
+     supine on the angiography table. A preprocedure timeout was performed to
+     confirm the patient, procedure and site. Standard sterile prep and drape of
+     the right lower quadrant of the abdomen. Using realtime ultrasound guidance
+     and after 5 cc of 1% lidocaine for local anesthesia, a 19-gauge needle was
+     advanced into ascitic fluid in the right flank/lower quadrant. A 0.035-inch
+     Bentson guidewire was advanced through the needle and the needle was exchanged
+     for a 4-French Omniflush catheter. The wire was removed and the Omniflush
+     catheter was attached to sequential evacuated bottles to perform paracentesis.
+     Fluoroscopy showed the catheter tip to be located under the right
+     hemidiaphragm. A total of 4.4 liters of ascites was removed during the
+     procedure, and the catheter was eventually removed at the end of the TIPS
+     procedure. As ascitic fluid was leaking from the tube site, a single 3-0 nylon
+     suture was placed to seal the tract. This suture should be removed in 7 days.
+     
+     Standard sterile prep and drape of the right neck. General anesthesia was
+     performed by the anesthesiology team. Local anesthesia with 5 cc of 1%
+     lidocaine. Ultrasound evaluation demonstrated the right internal jugular vein
+     to be patent and compressible. Using realtime ultrasound guidance, a 21-gauge
+     micropuncture needle was advanced into the right internal jugular vein. A
+     0.018-inch guidewire was advanced through the needle and the needle was
+     exchanged for the micropuncture sheath. The in situ guidewire was exchanged
+                                                                 (Over)
+
+     DATE: [**3068-9-14**] 9:34 AM
+     TIPS                                                            Clip # [**Clip Number (Radiology) 8180**]
+     Reason: please place TIPS                                           
+     Admitting Diagnosis: HYPONATREMIA
+      Contrast: OPTIRAY Amt: 330
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     for a 0.035-inch [**Doctor Last Name 100**] guidewire and the micropuncture sheath was exchanged
+     for a 9-French vascular sheath. The vascular sheath was attached to continuous
+     heparinized saline flush. A 4-French Cobra catheter was advanced through the
+     vascular sheath and a 0.035-inch angled Glidewire was advanced through the
+     Cobra catheter. The combination of catheter and guidewire was used to select
+     the right hepatic vein using fluoroscopic guidance. The Cobra catheter was
+     exchanged for [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 8184**] balloon catheter and the [**Doctor Last Name 8184**] catheter was wedged
+     peripherally in the liver. Wedged hepatic venograms in the anterior and
+     subsequently the lateral projections were performed using carbon dioxide
+     contrast. This confirmed placement within the right hepatic vein and confirmed
+     that the right, left and main portal veins were patent with hepatofugal flow.
+     This corresponds to the ultrasound performed earlier the same day. In
+     addition, there were numerous dilated portal system collateral veins.
+     
+     [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 5031**]-Ushida needle system was used to puncture the right portal vein by way
+     of the right hepatic vein using fluoroscopic guidance. Multiple passes were
+     required before the right portal vein was successfully punctured. A 0.035-inch
+     angled Glidewire was advanced into the inferior mesenteric vein (IMV) and then
+     the [**Last Name (un) 5031**]-[**Last Name (un) 5032**] system was exchanged for a 4-French Cobra catheter. Then, the
+     Glidewire was exchanged for an Amplatz guidewire. The Cobra catheter was then
+     positioned in the main portal vein at the confluence of the superior
+     mesenteric vein (SMV) and splenic veins and portal venography was performed
+     with iodinated contrast. This demonstrates patency of the right, left and main
+     portal veins, splenic vein, IMV, and left gastric vein. The left gastric vein
+     is dilated with gastric varices. In addition, numerous other collateral portal
+     venous system pathways are demonstrated. The portal venogram also confirmed
+     puncture of the right portal vein. The Cobra catheter was then exchanged for a
+     4 mm x 4 cm angioplasty balloon over the Amplatz guidewire and the hepatic
+     tract was sequentially dilated. This balloon was then exchanged for a 10 mm x
+     6 cm angioplasty balloon and the tract was dilated sequentially to 10 mm.
+     Then, the balloon catheter was exchanged for a 10 mm x 6.8 cm Wallstent, which
+     was deployed in the hepatic parenchymal tract over the Amplatz guidewire. This
+     was then dilated with the 10 mm x 6 cm balloon.
+     
+     A post-stent portal venogram was performed which demonstrated patency of the
+     stent with flow of contrast from the portal vein through the TIPS stent to the
+     right hepatic vein. There was ongoing opacification of portal venous system
+     collaterals. Of note, pressure measurements were made prior to any balloon
+     dilation of the hepatic parenchymal tract. At that time, predilation, portal
+     venous pressure was 36 mm Hg and right hepatic venous pressure was 11 mm Hg
+     for a gradient of 25 mm Hg. After deployment of the stent pressure
+     measurements were repeated revealing a portal vein pressure of 34 mm Hg and a
+     right hepatic vein pressure of 24 mm Hg for a gradient of 10 mm Hg. The portal
+     venogram also demonstrated that the superior portion of the Wallstent was just
+     within the hepatic vein just proximal to the puncture site. As such, we
+                                                                 (Over)
+
+     DATE: [**3068-9-14**] 9:34 AM
+     TIPS                                                            Clip # [**Clip Number (Radiology) 8180**]
+     Reason: please place TIPS                                           
+     Admitting Diagnosis: HYPONATREMIA
+      Contrast: OPTIRAY Amt: 330
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     elected to place a second overlapping 10 mm x 6.8 cm Wallstent. There was
+     approximately 50% overlap and the proximal aspect of the second Wallstent was
+     at the right hepatic vein just upstream of its insertion on the inferior vena
+     cava. This Wallstent was also dilated with the 10 mm x 6 cm balloon.
+     
+     Portal venogram was then performed which demonstrated ongoing patency of the
+     TIPS stents with decreased opacification of portal venous system collaterals.
+     Pressure measurements obtained after the deployment of the second stent
+     demonstrated a portal venous pressure of 30 mm Hg and a right hepatic venous
+     pressure of 21 mm Hg for a gradient of 9 mm Hg. Following this, the 9-French
+     vascular sheath was exchanged over wire for a 9-French triple-lumen central
+     venous catheter with its tip positioned in the superior vena using
+     fluoroscopic guidance. All 3 ports of the catheter flushed and aspirated well,
+     were capped, and hep-locked. The catheter was sutured in place with two 2-0
+     silk sutures and a sterile transparent dressing was applied.
+     
+     MEDICATIONS: A total of 330 mL of Optiray 320 intravenous contrast was
+     utilized during the procedure. A total of 60 cc of intravenous carbon dioxide
+     was utilized during the procedure. A total of 10 mL of lidocaine 1%
+     subcutaneously was utilized during the procedure.
+     
+     COMPLICATIONS: No immediate complications.
+     
+     IMPRESSION:
+     
+     1.  Paracentesis with a total of 4.4 liters of ascitic fluid removed.
+     
+     2.  Successful placement of a transjugular intrahepatic portosystemic shunt
+     between the right hepatic vein and main portal vein by way of the right portal
+     vein. A total of two 10 x 68 mm Wallstents were used in overlap and were
+     balloon dilated to 10mm.
+     
+     3.  A 9-French triple-lumen central venous catheter was placed through the
+     right internal jugular venous access with tip in the superior vena cava. The
+     catheter may be used immediately.
+     
+     4. A single 3-0 nylon suture was placed at the paracentesis site in the right
+     lower quadrant of the abdomen. This can be removed in 7 days' time. Please
+     note that another suture was in place in the right lower quadrant of the
+     abdomen that was present prior to the beginning of today's procedure.
+                                                                 (Over)
+
+     DATE: [**3068-9-14**] 9:34 AM
+     TIPS                                                            Clip # [**Clip Number (Radiology) 8180**]
+     Reason: please place TIPS                                           
+     Admitting Diagnosis: HYPONATREMIA
+      Contrast: OPTIRAY Amt: 330
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+
+",,
+24993,24981,,,3068-09-14 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3068-9-14**] 9:34 AM
+     TIPS                                                            Clip # [**Clip Number (Radiology) 8180**]
+     Reason: please place TIPS                                           
+     Admitting Diagnosis: HYPONATREMIA
+      Contrast: OPTIRAY Amt: 330
+     ********************************* CPT Codes ********************************
+     * 37182 INSERT HEPATIC HUNT TIPS       36556 NON-TUNNELED                  *
+     * -51 MULTI-PROCEDURE SAME DAY         49080 PARACENTESIS  INITAL PROC     *
+     * -51 MULTI-PROCEDURE SAME DAY         75998 FLUOR GUID PLCT/REPLCT/REMOVE *
+     * 76942 UD GUID FOR NEEDLE PLACMENT    -59 DISTINCT PROCEDURAL SERVICE     *
+     * CATH, TRANSLUM ANGIO NONLASER        CATH, TRANSLUM ANGIO NONLASER       *
+     * C1769 GUID WIRES INCL INF            C1769 GUID WIRES INCL INF           *
+     * C1769 GUID WIRES INCL INF            C1769 GUID WIRES INCL INF           *
+     * STENT NOCOAT.NOCOVER W/[**Doctor First Name **] SYSTEM    STENT NOCOAT.NOCOVER W/[**Doctor First Name **] SYSTEM   *
+     * C1894 INT.SHTH NOT/GUID,EP,NONLASER  NON-IONIC 200 CC SUPPLY             *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      49 year old man with diuretic resistant ascites                                 
+     REASON FOR THIS EXAMINATION:
+      please place TIPS                                                               
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY: Ascites refractory to treatment. Cirrhosis with portal hypertension.
+     
+     PHYSICIANS: The procedure was performed by Drs. [**First Name8 (NamePattern2) 8181**] [**Name (STitle) 281**], [**Name5 (PTitle) 674**]
+     [**Last Name (LF) 675**], [**First Name8 (NamePattern2) 8182**] [**Last Name (NamePattern1) 2263**], [**First Name4 (NamePattern1) 431**] [**Last Name (NamePattern1) 432**] and [**Doctor First Name 455**] [**Doctor Last Name 456**] d'Othee, with Dr.
+     [**Last Name (STitle) 456**] [**Name (STitle) 457**], the attending radiologist, being present and supervising
+     throughout the procedure. Arghavan [**Doctor Last Name 8183**], senior medical student, also
+     assisted on the procedure.
+     
+     PROCEDURE: Following written informed consent, the patient was positioned
+     supine on the angiography table. A preprocedure timeout was performed to
+     confirm the patient, procedure and site. Standard sterile prep and drape of
+     the right lower quadrant of the abdomen. Using realtime ultrasound guidance
+     and after 5 cc of 1% lidocaine for local anesthesia, a 19-gauge needle was
+     advanced into ascitic fluid in the right flank/lower quadrant. A 0.035-inch
+     Bentson guidewire was advanced through the needle and the needle was exchanged
+     for a 4-French Omniflush catheter. The wire was removed and the Omniflush
+     catheter was attached to sequential evacuated bottles to perform paracentesis.
+     Fluoroscopy showed the catheter tip to be located under the right
+     hemidiaphragm. A total of 4.4 liters of ascites was removed during the
+     procedure, and the catheter was eventually removed at the end of the TIPS
+     procedure. As ascitic fluid was leaking from the tube site, a single 3-0 nylon
+     suture was placed to seal the tract. This suture should be removed in 7 days.
+     
+     Standard sterile prep and drape of the right neck. General anesthesia was
+     performed by the anesthesiology team. Local anesthesia with 5 cc of 1%
+     lidocaine. Ultrasound evaluation demonstrated the right internal jugular vein
+     to be patent and compressible. Using realtime ultrasound guidance, a 21-gauge
+     micropuncture needle was advanced into the right internal jugular vein. A
+     0.018-inch guidewire was advanced through the needle and the needle was
+     exchanged for the micropuncture sheath. The in situ guidewire was exchanged
+                                                                 (Over)
+
+     DATE: [**3068-9-14**] 9:34 AM
+     TIPS                                                            Clip # [**Clip Number (Radiology) 8180**]
+     Reason: please place TIPS                                           
+     Admitting Diagnosis: HYPONATREMIA
+      Contrast: OPTIRAY Amt: 330
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     for a 0.035-inch [**Doctor Last Name 100**] guidewire and the micropuncture sheath was exchanged
+     for a 9-French vascular sheath. The vascular sheath was attached to continuous
+     heparinized saline flush. A 4-French Cobra catheter was advanced through the
+     vascular sheath and a 0.035-inch angled Glidewire was advanced through the
+     Cobra catheter. The combination of catheter and guidewire was used to select
+     the right hepatic vein using fluoroscopic guidance. The Cobra catheter was
+     exchanged for [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 8184**] balloon catheter and the [**Doctor Last Name 8184**] catheter was wedged
+     peripherally in the liver. Wedged hepatic venograms in the anterior and
+     subsequently the lateral projections were performed using carbon dioxide
+     contrast. This confirmed placement within the right hepatic vein and confirmed
+     that the right, left and main portal veins were patent with hepatofugal flow.
+     This corresponds to the ultrasound performed earlier the same day. In
+     addition, there were numerous dilated portal system collateral veins.
+     
+     [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 5031**]-Ushida needle system was used to puncture the right portal vein by way
+     of the right hepatic vein using fluoroscopic guidance. Multiple passes were
+     required before the right portal vein was successfully punctured. A 0.035-inch
+     angled Glidewire was advanced into the inferior mesenteric vein (IMV) and then
+     the [**Last Name (un) 5031**]-[**Last Name (un) 5032**] system was exchanged for a 4-French Cobra catheter. Then, the
+     Glidewire was exchanged for an Amplatz guidewire. The Cobra catheter was then
+     positioned in the main portal vein at the confluence of the superior
+     mesenteric vein (SMV) and splenic veins and portal venography was performed
+     with iodinated contrast. This demonstrates patency of the right, left and main
+     portal veins, splenic vein, IMV, and left gastric vein. The left gastric vein
+     is dilated with gastric varices. In addition, numerous other collateral portal
+     venous system pathways are demonstrated. The portal venogram also confirmed
+     puncture of the right portal vein. The Cobra catheter was then exchanged for a
+     4 mm x 4 cm angioplasty balloon over the Amplatz guidewire and the hepatic
+     tract was sequentially dilated. This balloon was then exchanged for a 10 mm x
+     6 cm angioplasty balloon and the tract was dilated sequentially to 10 mm.
+     Then, the balloon catheter was exchanged for a 10 mm x 6.8 cm Wallstent, which
+     was deployed in the hepatic parenchymal tract over the Amplatz guidewire. This
+     was then dilated with the 10 mm x 6 cm balloon.
+     
+     A post-stent portal venogram was performed which demonstrated patency of the
+     stent with flow of contrast from the portal vein through the TIPS stent to the
+     right hepatic vein. There was ongoing opacification of portal venous system
+     collaterals. Of note, pressure measurements were made prior to any balloon
+     dilation of the hepatic parenchymal tract. At that time, predilation, portal
+     venous pressure was 36 mm Hg and right hepatic venous pressure was 11 mm Hg
+     for a gradient of 25 mm Hg. After deployment of the stent pressure
+     measurements were repeated revealing a portal vein pressure of 34 mm Hg and a
+     right hepatic vein pressure of 24 mm Hg for a gradient of 10 mm Hg. The portal
+     venogram also demonstrated that the superior portion of the Wallstent was just
+     within the hepatic vein just proximal to the puncture site. As such, we
+                                                                 (Over)
+
+     DATE: [**3068-9-14**] 9:34 AM
+     TIPS                                                            Clip # [**Clip Number (Radiology) 8180**]
+     Reason: please place TIPS                                           
+     Admitting Diagnosis: HYPONATREMIA
+      Contrast: OPTIRAY Amt: 330
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     elected to place a second overlapping 10 mm x 6.8 cm Wallstent. There was
+     approximately 50% overlap and the proximal aspect of the second Wallstent was
+     at the right hepatic vein just upstream of its insertion on the inferior vena
+     cava. This Wallstent was also dilated with the 10 mm x 6 cm balloon.
+     
+     Portal venogram was then performed which demonstrated ongoing patency of the
+     TIPS stents with decreased opacification of portal venous system collaterals.
+     Pressure measurements obtained after the deployment of the second stent
+     demonstrated a portal venous pressure of 30 mm Hg and a right hepatic venous
+     pressure of 21 mm Hg for a gradient of 9 mm Hg. Following this, the 9-French
+     vascular sheath was exchanged over wire for a 9-French triple-lumen central
+     venous catheter with its tip positioned in the superior vena using
+     fluoroscopic guidance. All 3 ports of the catheter flushed and aspirated well,
+     were capped, and hep-locked. The catheter was sutured in place with two 2-0
+     silk sutures and a sterile transparent dressing was applied.
+     
+     MEDICATIONS: A total of 330 mL of Optiray 320 intravenous contrast was
+     utilized during the procedure. A total of 60 cc of intravenous carbon dioxide
+     was utilized during the procedure. A total of 10 mL of lidocaine 1%
+     subcutaneously was utilized during the procedure.
+     
+     COMPLICATIONS: No immediate complications.
+     
+     IMPRESSION:
+     
+     1.  Paracentesis with a total of 4.4 liters of ascitic fluid removed.
+     
+     2.  Successful placement of a transjugular intrahepatic portosystemic shunt
+     between the right hepatic vein and main portal vein by way of the right portal
+     vein. A total of two 10 x 68 mm Wallstents were used in overlap and were
+     balloon dilated to 10mm.
+     
+     3.  A 9-French triple-lumen central venous catheter was placed through the
+     right internal jugular venous access with tip in the superior vena cava. The
+     catheter may be used immediately.
+     
+     4. A single 3-0 nylon suture was placed at the paracentesis site in the right
+     lower quadrant of the abdomen. This can be removed in 7 days' time. Please
+     note that another suture was in place in the right lower quadrant of the
+     abdomen that was present prior to the beginning of today's procedure.
+                                                                 (Over)
+
+     DATE: [**3068-9-14**] 9:34 AM
+     TIPS                                                            Clip # [**Clip Number (Radiology) 8180**]
+     Reason: please place TIPS                                           
+     Admitting Diagnosis: HYPONATREMIA
+      Contrast: OPTIRAY Amt: 330
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+
+",,
+24993,24981,,,3068-09-14 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3068-9-14**] 9:01 AM
+     ABDOMEN U.S. (COMPLETE STUDY)                                   Clip # [**Clip Number (Radiology) 8179**]
+     Reason: liver lesions? portal vein flow?                            
+     Admitting Diagnosis: HYPONATREMIA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      49 year old man with alcoholic cirrhosis w/ persistent ascites.                 
+     REASON FOR THIS EXAMINATION:
+      liver lesions? portal vein flow?                                                
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  49-year-old man with alcoholic cirrhosis with persistent ascites.
+     Evaluate for liver lesions and portal flow.
+     
+     COMPARISONS:  [**3068-4-26**].
+     
+     FINDINGS:  There is marked ascites seen.  The liver itself appears with
+     relatively normal echogenicity and no evidence of mass.  Hepatofugal flow is
+     noted within the right, left, and main portal veins.  Vasculature appears
+     patent, but with reversed flow.  The right kidney measures 11.6 cm.  The left
+     kidney measures 10.9 cm.  There is no hydronephrosis or stones.  The
+     gallbladder appears normal without evidence of stones.  The common duct is not
+     dilated.  There is splenomegaly.  Pancreas is not well visualized secondary to
+     abdominal gas.
+     
+     IMPRESSION:
+     1.  Marked ascites consistent with cirrhosis.
+     2.  Hepatofugal flow within the portal veins consistent with portal
+     hypertension.
+     3.  Splenomegaly.
+     
+     
+     
+     
+     
+     
+     
+     
+
+",,
+24993,24981,,,3068-09-14 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3068-9-14**] 9:34 AM
+     TIPS                                                            Clip # [**Clip Number (Radiology) 8180**]
+     Reason: please place TIPS                                           
+     Admitting Diagnosis: HYPONATREMIA
+      Contrast: OPTIRAY Amt: 330
+     ********************************* CPT Codes ********************************
+     * 37182 INSERT HEPATIC HUNT TIPS       36556 NON-TUNNELED                  *
+     * -51 MULTI-PROCEDURE SAME DAY         49080 PARACENTESIS  INITAL PROC     *
+     * -51 MULTI-PROCEDURE SAME DAY         75998 FLUOR GUID PLCT/REPLCT/REMOVE *
+     * 76942 UD GUID FOR NEEDLE PLACMENT    -59 DISTINCT PROCEDURAL SERVICE     *
+     * CATH, TRANSLUM ANGIO NONLASER        CATH, TRANSLUM ANGIO NONLASER       *
+     * C1769 GUID WIRES INCL INF            C1769 GUID WIRES INCL INF           *
+     * C1769 GUID WIRES INCL INF            C1769 GUID WIRES INCL INF           *
+     * STENT NOCOAT.NOCOVER W/[**Doctor First Name **] SYSTEM    STENT NOCOAT.NOCOVER W/[**Doctor First Name **] SYSTEM   *
+     * C1894 INT.SHTH NOT/GUID,EP,NONLASER  NON-IONIC 200 CC SUPPLY             *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      49 year old man with diuretic resistant ascites                                 
+     REASON FOR THIS EXAMINATION:
+      please place TIPS                                                               
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY: Ascites refractory to treatment. Cirrhosis with portal hypertension.
+     
+     PHYSICIANS: The procedure was performed by Drs. [**First Name8 (NamePattern2) 8181**] [**Name (STitle) 281**], [**Name5 (PTitle) 674**]
+     [**Last Name (LF) 675**], [**First Name8 (NamePattern2) 8182**] [**Last Name (NamePattern1) 2263**], [**First Name4 (NamePattern1) 431**] [**Last Name (NamePattern1) 432**] and [**Doctor First Name 455**] [**Doctor Last Name 456**] d'Othee, with Dr.
+     [**Last Name (STitle) 456**] [**Name (STitle) 457**], the attending radiologist, being present and supervising
+     throughout the procedure. Arghavan [**Doctor Last Name 8183**], senior medical student, also
+     assisted on the procedure.
+     
+     PROCEDURE: Following written informed consent, the patient was positioned
+     supine on the angiography table. A preprocedure timeout was performed to
+     confirm the patient, procedure and site. Standard sterile prep and drape of
+     the right lower quadrant of the abdomen. Using realtime ultrasound guidance
+     and after 5 cc of 1% lidocaine for local anesthesia, a 19-gauge needle was
+     advanced into ascitic fluid in the right flank/lower quadrant. A 0.035-inch
+     Bentson guidewire was advanced through the needle and the needle was exchanged
+     for a 4-French Omniflush catheter. The wire was removed and the Omniflush
+     catheter was attached to sequential evacuated bottles to perform paracentesis.
+     Fluoroscopy showed the catheter tip to be located under the right
+     hemidiaphragm. A total of 4.4 liters of ascites was removed during the
+     procedure, and the catheter was eventually removed at the end of the TIPS
+     procedure. As ascitic fluid was leaking from the tube site, a single 3-0 nylon
+     suture was placed to seal the tract. This suture should be removed in 7 days.
+     
+     Standard sterile prep and drape of the right neck. General anesthesia was
+     performed by the anesthesiology team. Local anesthesia with 5 cc of 1%
+     lidocaine. Ultrasound evaluation demonstrated the right internal jugular vein
+     to be patent and compressible. Using realtime ultrasound guidance, a 21-gauge
+     micropuncture needle was advanced into the right internal jugular vein. A
+     0.018-inch guidewire was advanced through the needle and the needle was
+     exchanged for the micropuncture sheath. The in situ guidewire was exchanged
+                                                                 (Over)
+
+     DATE: [**3068-9-14**] 9:34 AM
+     TIPS                                                            Clip # [**Clip Number (Radiology) 8180**]
+     Reason: please place TIPS                                           
+     Admitting Diagnosis: HYPONATREMIA
+      Contrast: OPTIRAY Amt: 330
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     for a 0.035-inch [**Doctor Last Name 100**] guidewire and the micropuncture sheath was exchanged
+     for a 9-French vascular sheath. The vascular sheath was attached to continuous
+     heparinized saline flush. A 4-French Cobra catheter was advanced through the
+     vascular sheath and a 0.035-inch angled Glidewire was advanced through the
+     Cobra catheter. The combination of catheter and guidewire was used to select
+     the right hepatic vein using fluoroscopic guidance. The Cobra catheter was
+     exchanged for [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 8184**] balloon catheter and the [**Doctor Last Name 8184**] catheter was wedged
+     peripherally in the liver. Wedged hepatic venograms in the anterior and
+     subsequently the lateral projections were performed using carbon dioxide
+     contrast. This confirmed placement within the right hepatic vein and confirmed
+     that the right, left and main portal veins were patent with hepatofugal flow.
+     This corresponds to the ultrasound performed earlier the same day. In
+     addition, there were numerous dilated portal system collateral veins.
+     
+     [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 5031**]-Ushida needle system was used to puncture the right portal vein by way
+     of the right hepatic vein using fluoroscopic guidance. Multiple passes were
+     required before the right portal vein was successfully punctured. A 0.035-inch
+     angled Glidewire was advanced into the inferior mesenteric vein (IMV) and then
+     the [**Last Name (un) 5031**]-[**Last Name (un) 5032**] system was exchanged for a 4-French Cobra catheter. Then, the
+     Glidewire was exchanged for an Amplatz guidewire. The Cobra catheter was then
+     positioned in the main portal vein at the confluence of the superior
+     mesenteric vein (SMV) and splenic veins and portal venography was performed
+     with iodinated contrast. This demonstrates patency of the right, left and main
+     portal veins, splenic vein, IMV, and left gastric vein. The left gastric vein
+     is dilated with gastric varices. In addition, numerous other collateral portal
+     venous system pathways are demonstrated. The portal venogram also confirmed
+     puncture of the right portal vein. The Cobra catheter was then exchanged for a
+     4 mm x 4 cm angioplasty balloon over the Amplatz guidewire and the hepatic
+     tract was sequentially dilated. This balloon was then exchanged for a 10 mm x
+     6 cm angioplasty balloon and the tract was dilated sequentially to 10 mm.
+     Then, the balloon catheter was exchanged for a 10 mm x 6.8 cm Wallstent, which
+     was deployed in the hepatic parenchymal tract over the Amplatz guidewire. This
+     was then dilated with the 10 mm x 6 cm balloon.
+     
+     A post-stent portal venogram was performed which demonstrated patency of the
+     stent with flow of contrast from the portal vein through the TIPS stent to the
+     right hepatic vein. There was ongoing opacification of portal venous system
+     collaterals. Of note, pressure measurements were made prior to any balloon
+     dilation of the hepatic parenchymal tract. At that time, predilation, portal
+     venous pressure was 36 mm Hg and right hepatic venous pressure was 11 mm Hg
+     for a gradient of 25 mm Hg. After deployment of the stent pressure
+     measurements were repeated revealing a portal vein pressure of 34 mm Hg and a
+     right hepatic vein pressure of 24 mm Hg for a gradient of 10 mm Hg. The portal
+     venogram also demonstrated that the superior portion of the Wallstent was just
+     within the hepatic vein just proximal to the puncture site. As such, we
+                                                                 (Over)
+
+     DATE: [**3068-9-14**] 9:34 AM
+     TIPS                                                            Clip # [**Clip Number (Radiology) 8180**]
+     Reason: please place TIPS                                           
+     Admitting Diagnosis: HYPONATREMIA
+      Contrast: OPTIRAY Amt: 330
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     elected to place a second overlapping 10 mm x 6.8 cm Wallstent. There was
+     approximately 50% overlap and the proximal aspect of the second Wallstent was
+     at the right hepatic vein just upstream of its insertion on the inferior vena
+     cava. This Wallstent was also dilated with the 10 mm x 6 cm balloon.
+     
+     Portal venogram was then performed which demonstrated ongoing patency of the
+     TIPS stents with decreased opacification of portal venous system collaterals.
+     Pressure measurements obtained after the deployment of the second stent
+     demonstrated a portal venous pressure of 30 mm Hg and a right hepatic venous
+     pressure of 21 mm Hg for a gradient of 9 mm Hg. Following this, the 9-French
+     vascular sheath was exchanged over wire for a 9-French triple-lumen central
+     venous catheter with its tip positioned in the superior vena using
+     fluoroscopic guidance. All 3 ports of the catheter flushed and aspirated well,
+     were capped, and hep-locked. The catheter was sutured in place with two 2-0
+     silk sutures and a sterile transparent dressing was applied.
+     
+     MEDICATIONS: A total of 330 mL of Optiray 320 intravenous contrast was
+     utilized during the procedure. A total of 60 cc of intravenous carbon dioxide
+     was utilized during the procedure. A total of 10 mL of lidocaine 1%
+     subcutaneously was utilized during the procedure.
+     
+     COMPLICATIONS: No immediate complications.
+     
+     IMPRESSION:
+     
+     1.  Paracentesis with a total of 4.4 liters of ascitic fluid removed.
+     
+     2.  Successful placement of a transjugular intrahepatic portosystemic shunt
+     between the right hepatic vein and main portal vein by way of the right portal
+     vein. A total of two 10 x 68 mm Wallstents were used in overlap and were
+     balloon dilated to 10mm.
+     
+     3.  A 9-French triple-lumen central venous catheter was placed through the
+     right internal jugular venous access with tip in the superior vena cava. The
+     catheter may be used immediately.
+     
+     4. A single 3-0 nylon suture was placed at the paracentesis site in the right
+     lower quadrant of the abdomen. This can be removed in 7 days' time. Please
+     note that another suture was in place in the right lower quadrant of the
+     abdomen that was present prior to the beginning of today's procedure.
+                                                                 (Over)
+
+     DATE: [**3068-9-14**] 9:34 AM
+     TIPS                                                            Clip # [**Clip Number (Radiology) 8180**]
+     Reason: please place TIPS                                           
+     Admitting Diagnosis: HYPONATREMIA
+      Contrast: OPTIRAY Amt: 330
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+
+",,
+24993,24981,,,3068-09-14 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3068-9-14**] 8:08 PM
+     CHEST PORT. LINE PLACEMENT                                      Clip # [**Clip Number (Radiology) 8185**]
+     Reason: Line placement                                              
+     Admitting Diagnosis: HYPONATREMIA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      49 year old man s/p Portal vein angioplasty                                     
+     REASON FOR THIS EXAMINATION:
+      Line placement                                                                  
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CHEST ONE VIEW, PORTABLE
+     
+      INDICATION:  49-year-old man status post portal vein angioplasty.
+     
+     COMMENTS:  Portable semi-erect AP radiograph of the chest is reviewed.  No
+     previous study is available for comparison.
+     
+     The right jugular IV catheter terminates in the SVC.  No pneumothorax is seen.
+     
+     There is mild pulmonary edema with patchy atelectasis at the lung bases.  The
+     heart and mediastinum are within normal limits.
+     
+     The patient has prior TIPS procedure.
+                                                                           
+
+",,
+24993,24981,31035,,3068-09-15 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3068-9-15**] 1:38 PM
+     LIVER OR GALLBLADDER US (SINGLE ORGAN); DUPLEX DOPP ABD/PEL     Clip # [**Clip Number (Radiology) 8186**]
+     Reason: s/p TIPS [**3068-9-14**], assess shunt patency                     
+     Admitting Diagnosis: HYPONATREMIA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       49 year old man with alcoholic cirrhosis w/ persistent ascites.                
+       
+     REASON FOR THIS EXAMINATION:
+      s/p TIPS [**3068-9-14**], assess shunt patency                                         
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     ABDOMINAL ULTRASOUND
+     
+     CLINICAL HISTORY:  Cirrhosis, status post TIPS placement day 1, evaluate TIPS
+     patency.
+     
+     FINDINGS:  The liver echotexture is coarsened and the liver contour is
+     nodular.  There is a large amount of ascites.  Evaluation for an intrahepatic
+     liver mass is limited.
+     
+     Flow in the distal TIPS is 86 cm/sec, flow in the mid TIPS is 252 cm/sec, flow
+     in the proximal TIPS is 26 cm/sec. Flow in the left portal vein is toward the
+     shunt and flow in the right portal vein is away from the shunt.
+     
+     Flow in the left hepatic artery demonstrates brisk upstroke with a resistive
+     index of 0.55.  Flow in the main hepatic artery demonstrates brisk upstroke
+     with a resistive index of 0.54.
+     
+     Wall-to-wall blood flow is seen within the TIPS.
+     
+     The IVC and hepatic veins are patent.
+     
+     IMPRESSION:
+     1.  The TIPS is patent.  Blood flow in the left and right portal veins is in
+     the appropriate direction following TIPS placement.
+     2.  Flow in the mid TIPS is higher than expected.  Flow in the main portal
+     vein is not visualized secondary to technical factors.  Short-term followup is
+     recommended to re-evaluate flow in the TIPS.
+
+",,
+24993,24981,31035,,3068-09-15 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3068-9-15**] 1:38 PM
+     LIVER OR GALLBLADDER US (SINGLE ORGAN); DUPLEX DOPP ABD/PEL     Clip # [**Clip Number (Radiology) 8186**]
+     Reason: s/p TIPS [**3068-9-14**], assess shunt patency                     
+     Admitting Diagnosis: HYPONATREMIA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       49 year old man with alcoholic cirrhosis w/ persistent ascites.                
+       
+     REASON FOR THIS EXAMINATION:
+      s/p TIPS [**3068-9-14**], assess shunt patency                                         
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     ABDOMINAL ULTRASOUND
+     
+     CLINICAL HISTORY:  Cirrhosis, status post TIPS placement day 1, evaluate TIPS
+     patency.
+     
+     FINDINGS:  The liver echotexture is coarsened and the liver contour is
+     nodular.  There is a large amount of ascites.  Evaluation for an intrahepatic
+     liver mass is limited.
+     
+     Flow in the distal TIPS is 86 cm/sec, flow in the mid TIPS is 252 cm/sec, flow
+     in the proximal TIPS is 26 cm/sec. Flow in the left portal vein is toward the
+     shunt and flow in the right portal vein is away from the shunt.
+     
+     Flow in the left hepatic artery demonstrates brisk upstroke with a resistive
+     index of 0.55.  Flow in the main hepatic artery demonstrates brisk upstroke
+     with a resistive index of 0.54.
+     
+     Wall-to-wall blood flow is seen within the TIPS.
+     
+     The IVC and hepatic veins are patent.
+     
+     IMPRESSION:
+     1.  The TIPS is patent.  Blood flow in the left and right portal veins is in
+     the appropriate direction following TIPS placement.
+     2.  Flow in the mid TIPS is higher than expected.  Flow in the main portal
+     vein is not visualized secondary to technical factors.  Short-term followup is
+     recommended to re-evaluate flow in the TIPS.
+
+",,
+24993,,31035,0,3068-09-15 02:42:00 EST,3068-09-15 03:09:00 EST,7271,"N",69,"Nursing/Other","MICU A Admission Note","
+MICU A Admission Note
+Pt is a 49 yo male with h/o ETOH cirrhosis with frequent paracentisis's for treatment of ascites. Other hx includes associated coagulopathy (baseline INR 1.5), grade 1 varices, hypoalbuminemia (baseline 2.4), and H63D homozygosity (predisposed to iron overload in setting of ETOH and gets 1 unit of phlebotomy q1-2 wks.). Pt was adm to [**Hospital1 **] on [**9-11**] to [**Hospital Ward Name 41**] 10 (transplant unit) with Na of 123 after having a paracentisis and IVF tx a few days prior. Pts hepatologist is here, Dr. [**Last Name (STitle) 5357**]. Pt is allergic to Morphine-gets itchy and is a full code. Pt reports he smokes 1PPD, and drinks 6 beers/day, but has not had a drink in over a month as he is abstaining because he is waiting for a transplant. Pt had a portal angioplasty and a paracentisis on [**9-14**] that was uneventful, and over 4L were taken off. Pt was stable upon arrival to MICU.
+
+Pt arrived with set of upper and lower dentures, currently wearing them. [**Hospital Ward Name 41**] 10 called about pts other belongings and they are expecting him back today, so they will keep them in his old room at this time. 
+
+Neuro: Irritable and demanding, c/o ""feeling lousy"" but denies pain. Was given ambien 5mg with good effect as pt is sleeping now. MAE, PERRL. Pt able to turn self in bed.
+
+Pulm: LS CTA. Pt initially arrived on 60% cold steam neb face tent and was saturating in high 90's to 100%. NC 2L placed and pt has maintained sats in mid 90's, denies SOB. 
+
+CV: SR 90's, no ectopy noted. Mg 1.7 and was given po repletion. Albumin 2.0, pt rec'd Albumin 25gms. BP stable with SBP's ranging 100-120's. 2+ pulses, no edema. R IJ TLC in place, Right FA PIV intact. 
+
+GI/GU: Abd softly distended. Right lower quadrant with sutures x2 from paracentisis today and last week at OSH, small amt of serous oozing from those sites. Hypoactive BS, no BM overnight. Pt refused pm dose of lactulose. Pt is on 1.5L water fluid restriction and does try to manipulate others into giving more fluid than allowed. F/C intact draining clear amber urine. U/O >30cc/hr. Will remove F/C in am. 
+
+Plan: Cont to sodium restrict diet, monitor i/o's and wts. Cont to monitor VS, u/o, and pain levels. Tx pain with dilaudid as needed/indicated. Plan for pt to be called out later this morning. [**Hospital Ward Name 41**] 10 holding pts old room for him. 
+",,
+24993,,31035,0,3068-09-15 14:36:00 EST,3068-09-15 14:57:00 EST,2651,"N",69,"Nursing/Other","Nursing Progress Note 0700-1900","
+Nursing Progress Note 0700-1900
+Pt is c/o to the floor and is awaiting a bed. [**Hospital Ward Name 41**] 10 was unable to hold his previous bed overnoc. has remained hemodynamically stable since admission last noc. no events. 
+
+ROS-
+
+CV- NSR, HR 60-90's, no ectopy. NiBP 100-120's systolic. Pt has been off of the monitor all day, does not need tele or frequent vitals. hct stable at 32.5. 
+
+RESP- 92-95% on RA. LS clear, no cough or SOB. 
+
+NEURO- intact. no neurological defecits. interacts appropriately and follows commands. denies pain. pt has been venting frustrations about needing to stay in the MICU while we wait for a bed. pt is OOB ad lib in the room. ambulating w/o difficulty or weakness. 
+
+GI/GU- tolerating a low-NA diet, good appetite. Pt is on a 1500cc fluid restriction a day, poor compliance. making numerous requests for more fluid. foley dc'ed this am, has been voiding well in the the urinal. recieving Lactulose TID. abd firm, + ascites. 
+
+SKIN- R IJ site oozing a bit of blood. 2 paracentesis sites w/ sutures, OTA, intact. 
+
+ACCESS- R IJ trauma line (from TIPS procedure). 
+
+[**Hospital 65**] transfer to floor when bed is available. It may be possible to just DC pt home since his hyponatremia is resolving and pt has remained stable s/p TIPS yesterday. continue fluid restriction. offer support and encouragement. FULL CODE. 
+
+
+",,
+24993,,31035,0,3068-09-15 15:54:00 EST,3068-09-15 16:03:00 EST,2651,"N",69,"Nursing/Other","Nursing Discharge Note","
+Nursing Discharge Note
+Pt being dc'ed hme. [**Location (un) 4710**] WC car to transport pt back as he states that he has no ride home to [**Location (un) 5358**], MA. R IJ trauma line pulled by MICU resident. Piv pulled by this RN. no further bleeding from sites. SW consulted, pt refusing any further ETOH referrals or SW referrals. Pt dc'ed in good condition. able to ambulate w/o difficulty. A&O. denies pain. DC instructions reviewed w/ pt and pt verbalizes a good understanding of the need to adhere to low NA diet and fluid restriction, keep all f/u appointments, and watch closely for warning signs such as fever, reddness, pain, etc.  
+",,

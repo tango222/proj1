@@ -1,0 +1,1489 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+24593,8978,,,3098-05-08 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+
+                                                             
+Unit No:  [**Telephone/Fax (1) 5662**]
+Admission Date: [**3098-5-8**]
+Discharge Date: [**3098-5-19**]
+Date of Birth:  [**3020-3-9**]
+Sex:  M
+Service:  VSU
+
+
+ADMISSION DIAGNOSIS:  Neck mass.
+
+DISCHARGE DIAGNOSIS:  Death.
+
+CHIEF COMPLAINT:  This is a 78-year-old male with an
+enlarging neck mass.
+
+HISTORY OF PRESENT ILLNESS:  This 78-year-old male with a 6-
+week history of a sore throat, dysphagia and difficulty
+breathing who appeared to have a thyroid mass on exam by his
+physician. [**Name10 (NameIs) **] underwent a CT scan with fine needle aspiration
+which was indeterminate in an outside hospital and he was
+seen by Dr. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) **] who felt that based on the
+symptoms of his thyroid mass that it may be a thyroid cancer.
+He was therefore booked for an operative thyroidectomy. The
+patient was admitted to the hospital on [**3-8**] of 2006 for
+thyroidectomy.
+
+PAST MEDICAL HISTORY:  Past medical history is significant
+for peripheral vascular disease, aortic aneurysm, CREST
+syndrome, scleroderma, CAD with CHF, paroxysmal atrial
+fibrillation, iron deficiency anemia, gout, chronic renal
+failure, deep venous thrombosis, asbestosis, hypertension,
+hypothyroidism.
+
+PAST SURGICAL HISTORY:  Past surgical history is significant
+for bilateral femoral to dorsal pedal bypass grafts with
+saphenous vein for treatment of bilateral thrombosed
+popliteal aneurysms.
+
+MEDICATIONS ON ADMISSION:  Aspirin, Synthroid, Lopressor,
+Protonix, Lasix, insulin.
+
+ALLERGIES:  An allergy to Coumadin as well as a questionable
+allergy to heparin.
+
+SOCIAL HISTORY:  He is married with 6 children, a retired
+electrician, 1 pack per day smoking history for 4 years. He
+quit 45 years ago. He rarely drank alcohol.
+
+REVIEW OF SYSTEMS:  Significant for occasional shortness of
+[**Last Name (LF) 680**], [**First Name3 (LF) 348**] on exertion, otherwise unremarkable.
+
+HOSPITAL COURSE:  The patient was admitted to the surgical
+service and on [**5-10**], underwent a neck exploration with
+biopsy of the central portion of the thyroid and tracheostomy
+for an obstructing goiter. That was subsequently revealed to
+be lymphoma. On the 31st, he underwent a percutaneous
+endoscopic gastrostomy for nutrition. He was seen by
+hematology/oncology on [**5-12**] for treatment of his B-cell
+lymphoma and he was transferred to the hematology/oncology
+service for that. On [**5-17**], however, he underwent a CT scan
+for abdominal pain and was found to have a ruptured
+retroperitoneal aortic aneurysm. He was emergently taken to
+the operating room by Dr. [**Last Name (STitle) 943**] and he underwent a repair
+of a ruptured aortic aneurysm. Postoperatively, he was noted
+to have pale bilateral lower extremities. By postoperative
+day #1, these were beginning to demarcate at the mid thigh.
+At this time, he was intubated in the intensive care unit. He
+was taken back to the operating room for bilateral femoral
+embolectomies because of progressive ischemia of his
+bilateral lower extremities. This happened on [**5-18**].
+Postoperatively, however, he had persistent ischemia of both
+lower extremities. By [**5-19**], he was respirator-dependent
+with rising creatinine kinase. His extremities were
+completely demarcated at the mid thigh and given his degree
+of progressive renal failure/anuria, hypotension requiring
+pressors, respiratory failure requiring ventilator support
+and peripheral vascular disease with ischemia of both lower
+extremities that was going to require bilateral lower
+extremity amputations, his family deemed that they did not
+want to pursue any further aggressive treatment options and
+the patient was made comfort measures only. The patient
+expired on [**5-19**] at 6:50 p.m.
+
+
+
+                        [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern1) **], [**MD Number 4747**]
+
+Dictated By:[**Last Name (NamePattern4) 5663**]
+MEDQUIST36
+D:  [**3098-5-19**] 21:43:32
+T:  [**3098-5-19**] 22:08:25
+Job#:  [**Job Number 5664**]
+
+                              
+
+Signed electronically by: DR. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) **]
+ on: MON [**3098-5-23**] 6:19 AM
+(End of Report)
+
+
+",,
+24593,8978,,,3098-05-09 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3098-5-9**] 7:59 AM
+     CHEST (PRE-OP PA & LAT)                                         Clip # [**Clip Number (Radiology) 3981**]
+     Reason: GOITER
+     Admitting Diagnosis: GOITER
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      78 year old man with thyroid mass                                               
+     REASON FOR THIS EXAMINATION:
+      pre-op                                                                          
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CHEST
+     
+     INDICATION:  Preop thyroidectomy.
+     
+     The patient is somewhat rotated with the suggestion of a superior mediastinal
+     mass on the right with slight displacement of the trachea to the left.  The
+     heart is slightly enlarged. There are no focal infiltrates and there is no
+     evidence of failure. There is considerable tortuosity of the intrathoracic
+     aorta.
+     
+     IMPRESSION: No cardiopulmonary abnormalities.
+
+",,
+24593,8978,,,3098-05-09 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3098-5-9**] 9:41 AM
+     MRI SOFT TISSUE NECK, W/O & W/CONTRAST; MR CONTRAST GADOLIN     Clip # [**Clip Number (Radiology) 3982**]
+     Reason: 78M w/ enlarging thyroid goitre - is there infiltration into
+     Admitting Diagnosis: GOITER
+      Contrast: MAGNEVIST Amt: 20
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      78 year old man with 5 week history of dysphagia, found to have large thryroid 
+      mass that is enlarging w/ 15% increase in size from [**3098-5-7**], partial airway 
+      obstruction.
+     REASON FOR THIS EXAMINATION:
+      78M w/ enlarging thyroid goitre - is there infiltration into esophagus/trachea  
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     History: Enlarging thyroid mass.
+     
+     Neck MR performed with T1 and T2 wieghted images, followed by T1 post
+     contrast. No prior neck MR available for comparison. The images are degraded
+     by motion artifact and are of limited diagnostic usefulness.
+     
+     Fidings: There is a large mass arising from the right thyroid gland. This
+     causes leftward displacement of the trachea, and infiltrates posterior and
+     anterior to the trachea. There appears to be an intact ring of cartilege
+     separating the bulk of the mass from the trachea. I cannot separate the mass
+     from the esophagus, nor can I exclude posterior invasion into the trachea via
+     the cartilage defect posteriorly.
+     
+     There is lateral displacement of the carotid artery and internal jugular vein,
+     both of which appear patent. At its greatest extent, the mass appears to
+     surround the carotid artery greater than 270 degrees. In the setting of
+     malignant squamous cell tumors, this would imply encasement. its significance
+     in thyroid tumors is unknown. the mass extends inferiorly just below the top
+     of the manubrium.
+     
+     There is a mass lateral to the carotid and jugular that most likely represents
+     adenopathy, but may be contiguous spread from the dominant mass. The mass has
+     inhomogeneous intensity and may contain several areas of necrosis. There is
+     inhomogenenous intensity within the slightly enlarged left thyroid lobe.
+     
+     There is a single enlarge left level 3 node.
+     
+     These findings were discussed with Dr. [**First Name (STitle) 69**] on 5.29/06.
+     
+     Conclusion: Large right thyroid mass with displacement but no definite
+     invasion of the trachea, although the study is of limited quality due to
+     motion artifact.
+     
+     Possible right neck node vs direct extension. single left neck node.
+     Possible encasement of the right carotid artery.
+     
+                                                                 (Over)
+
+     DATE: [**3098-5-9**] 9:41 AM
+     MRI SOFT TISSUE NECK, W/O & W/CONTRAST; MR CONTRAST GADOLIN     Clip # [**Clip Number (Radiology) 3982**]
+     Reason: 78M w/ enlarging thyroid goitre - is there infiltration into
+     Admitting Diagnosis: GOITER
+      Contrast: MAGNEVIST Amt: 20
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+
+",,
+24593,8978,,,3098-05-09 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3098-5-9**] 9:41 AM
+     MRI SOFT TISSUE NECK, W/O & W/CONTRAST; MR CONTRAST GADOLIN     Clip # [**Clip Number (Radiology) 3982**]
+     Reason: 78M w/ enlarging thyroid goitre - is there infiltration into
+     Admitting Diagnosis: GOITER
+      Contrast: MAGNEVIST Amt: 20
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      78 year old man with 5 week history of dysphagia, found to have large thryroid 
+      mass that is enlarging w/ 15% increase in size from [**3098-5-7**], partial airway 
+      obstruction.
+     REASON FOR THIS EXAMINATION:
+      78M w/ enlarging thyroid goitre - is there infiltration into esophagus/trachea  
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     History: Enlarging thyroid mass.
+     
+     Neck MR performed with T1 and T2 wieghted images, followed by T1 post
+     contrast. No prior neck MR available for comparison. The images are degraded
+     by motion artifact and are of limited diagnostic usefulness.
+     
+     Fidings: There is a large mass arising from the right thyroid gland. This
+     causes leftward displacement of the trachea, and infiltrates posterior and
+     anterior to the trachea. There appears to be an intact ring of cartilege
+     separating the bulk of the mass from the trachea. I cannot separate the mass
+     from the esophagus, nor can I exclude posterior invasion into the trachea via
+     the cartilage defect posteriorly.
+     
+     There is lateral displacement of the carotid artery and internal jugular vein,
+     both of which appear patent. At its greatest extent, the mass appears to
+     surround the carotid artery greater than 270 degrees. In the setting of
+     malignant squamous cell tumors, this would imply encasement. its significance
+     in thyroid tumors is unknown. the mass extends inferiorly just below the top
+     of the manubrium.
+     
+     There is a mass lateral to the carotid and jugular that most likely represents
+     adenopathy, but may be contiguous spread from the dominant mass. The mass has
+     inhomogeneous intensity and may contain several areas of necrosis. There is
+     inhomogenenous intensity within the slightly enlarged left thyroid lobe.
+     
+     There is a single enlarge left level 3 node.
+     
+     These findings were discussed with Dr. [**First Name (STitle) 69**] on 5.29/06.
+     
+     Conclusion: Large right thyroid mass with displacement but no definite
+     invasion of the trachea, although the study is of limited quality due to
+     motion artifact.
+     
+     Possible right neck node vs direct extension. single left neck node.
+     Possible encasement of the right carotid artery.
+     
+                                                                 (Over)
+
+     DATE: [**3098-5-9**] 9:41 AM
+     MRI SOFT TISSUE NECK, W/O & W/CONTRAST; MR CONTRAST GADOLIN     Clip # [**Clip Number (Radiology) 3982**]
+     Reason: 78M w/ enlarging thyroid goitre - is there infiltration into
+     Admitting Diagnosis: GOITER
+      Contrast: MAGNEVIST Amt: 20
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+
+",,
+24593,8978,,,3098-05-10 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3098-5-10**] 9:25 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 3983**]
+     Reason: r/o PTX                                                     
+     Admitting Diagnosis: GOITER
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      78 year old man s/p neck biopsy, trach                                          
+     REASON FOR THIS EXAMINATION:
+      r/o PTX                                                                         
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Status post neck biopsy and tracheostomy.
+     
+     COMPARISON:  [**3098-5-9**].
+     
+     SUPINE AP VIEW OF THE CHEST:  Tracheostomy tube has been placed in the
+     interval with tip approximately 3 cm from the carina.  Apparent widening of
+     the mediastinum is likely projectional.  Lungs are clear.  There is no
+     pulmonary edema.  The right costophrenic angle is excluded from the study.
+     Stable pleural calcifications are again noted.
+     
+     IMPRESSION:  Status post tracheostomy with tube in standard position.
+                                                                           DFDdp
+
+",,
+24593,8978,,,3098-05-12 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3098-5-12**] 2:26 PM
+     CT CHEST W/CONTRAST; CT ABD W&W/O C                             Clip # [**Clip Number (Radiology) 3984**]
+     CT PELVIS W/CONTRAST; CT 150CC NONIONIC CONTRAST
+     Reason: ? metastasis                                                
+     Admitting Diagnosis: GOITER
+     Field of view: 44 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      78 year old man with large B cell lymphoma of neck - need staging info          
+     REASON FOR THIS EXAMINATION:
+      ? metastasis                                                                    
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Large B-cell lymphoma of the neck.
+     
+     TECHNIQUE:  After administration of oral contrast, MDCT was used to obtain
+     contiguous axial images of the liver, followed by IV contrast-enhanced images
+     through the chest, abdomen and pelvis and 3-minute delayed images through the
+     kidneys.  No prior CT available for comparison.
+     
+     CT CHEST WITH IV CONTRAST:  As identified on previous studies, there is a
+     large mass centered in the right thyroid bed, causing mass effect on the
+     trachea.  A tracheostomy tube is seen.  Multiple prominent mediastinal lymph
+     nodes are identified, for example, subcarinal node measuring 10 mm, another
+     paratracheal node measuring 11 mm.  There is a 9-mm lymph node seen anterior
+     to the aortic root.  A subcarinal node measuring 12 x 20 mm is seen.  No
+     axillary lymphadenopathy is identified. There is no hilar lymphadenopathy.
+     There are coronary vascular calcifications.  Calcified pleural plaques are
+     seen in the right hemithorax inferior aspect.  There is a 6 mm ill-defined
+     pulmonary nodule in the right upper lobe.  A second one is seen measuring 6
+     mm, also in the right upper lobe.  There is dependent atelectasis in both lung
+     bases.
+     
+     CT ABDOMEN BEFORE AND AFTER IV CONTRAST:  There is a large amount of free air
+     within the abdomen.  A small amount of air is seen outlining the porta
+     hepatis, in the right renal fossa, and also air between the peritoneum and the
+     left rectus muscle and in subcutaneous tissues, consistent with the patient's
+     history of recent surgically placed gastrostomy tube.  The liver is homogenous
+     in density.  Layering material within the gallbladder may represent layering
+     sludge versus vicarious excretion of contrast.  Low-density lesions in the
+     kidney are too small to fully characterize; the largest is in the upper pole,
+     measuring 7 mm.  The left kidney is atrophic.  Pancreas, spleen, stomach, and
+     bowel loops are unremarkable.  There are small lymph nodes in the
+     retroperitoneum, for example, 9 mm aortocaval node is seen.  There is
+     aneurysmal dilatation of the infrarenal aorta measuring 50 x 52 mm in greatest
+     axial diameter.  The wall is calcified, and there is a small-moderate mural
+     hematoma. No evidence of dissection is seen.  A PEG is seen in the fundus of
+     the stomach.
+     
+     CT PELVIS WITH IV CONTRAST:  A small amount of nondependent air is seen in the
+     bladder, likely iatrogenic.  There are sigmoid diverticula without evidence of
+     diverticulitis.  Calcifications within the common iliac artery and external
+                                                                 (Over)
+
+     DATE: [**3098-5-12**] 2:26 PM
+     CT CHEST W/CONTRAST; CT ABD W&W/O C                             Clip # [**Clip Number (Radiology) 3984**]
+     CT PELVIS W/CONTRAST; CT 150CC NONIONIC CONTRAST
+     Reason: ? metastasis                                                
+     Admitting Diagnosis: GOITER
+     Field of view: 44 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     and internal iliac arteries.  There is no dilatation.  No lymphadenopathy is
+     seen in the pelvis.  Bilateral fat-containing small inguinal hernias are
+     identified.  A surgical defect around the umbilicus in the abdominal wall is
+     identified.
+     
+     There are degenerative changes of the spine.  No suspicious sclerotic or lytic
+     lesions are identified.
+     
+     IMPRESSION:
+     
+     1.  Large mass centered in the right thyroid lobe The mass is inseperable from
+     the posterior wall of the trachea and from the esophagus which is
+     compressed in the proximal portion. Tumor infiltration cannot be excluded.
+     2. Mediastinal lymphadenopathy
+     3. Small pulmonary nodules in the right upper lobe. The significance of this
+     finding is unclear and while these may represent granulomas, metastatic
+     disease cannot be excluded.
+     4. No evidence of intra- abdominal disease.
+     5.  Infrarenal abdominal aortic aneurysm measuring 52 mm in greatest axial
+     dimension (transverse).
+     6.  Large amount of intra-abdominal free air, probably due to patient's recent
+     gastrostomy tube placement.
+     7.  Low-density lesions in kidney, too small to fully characterize.
+     8.  Sigmoid diverticulosis without diverticulitis.
+     
+     
+     
+     
+     
+
+",,
+24593,8978,,,3098-05-12 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3098-5-12**] 2:26 PM
+     CT CHEST W/CONTRAST; CT ABD W&W/O C                             Clip # [**Clip Number (Radiology) 3984**]
+     CT PELVIS W/CONTRAST; CT 150CC NONIONIC CONTRAST
+     Reason: ? metastasis                                                
+     Admitting Diagnosis: GOITER
+     Field of view: 44 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      78 year old man with large B cell lymphoma of neck - need staging info          
+     REASON FOR THIS EXAMINATION:
+      ? metastasis                                                                    
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Large B-cell lymphoma of the neck.
+     
+     TECHNIQUE:  After administration of oral contrast, MDCT was used to obtain
+     contiguous axial images of the liver, followed by IV contrast-enhanced images
+     through the chest, abdomen and pelvis and 3-minute delayed images through the
+     kidneys.  No prior CT available for comparison.
+     
+     CT CHEST WITH IV CONTRAST:  As identified on previous studies, there is a
+     large mass centered in the right thyroid bed, causing mass effect on the
+     trachea.  A tracheostomy tube is seen.  Multiple prominent mediastinal lymph
+     nodes are identified, for example, subcarinal node measuring 10 mm, another
+     paratracheal node measuring 11 mm.  There is a 9-mm lymph node seen anterior
+     to the aortic root.  A subcarinal node measuring 12 x 20 mm is seen.  No
+     axillary lymphadenopathy is identified. There is no hilar lymphadenopathy.
+     There are coronary vascular calcifications.  Calcified pleural plaques are
+     seen in the right hemithorax inferior aspect.  There is a 6 mm ill-defined
+     pulmonary nodule in the right upper lobe.  A second one is seen measuring 6
+     mm, also in the right upper lobe.  There is dependent atelectasis in both lung
+     bases.
+     
+     CT ABDOMEN BEFORE AND AFTER IV CONTRAST:  There is a large amount of free air
+     within the abdomen.  A small amount of air is seen outlining the porta
+     hepatis, in the right renal fossa, and also air between the peritoneum and the
+     left rectus muscle and in subcutaneous tissues, consistent with the patient's
+     history of recent surgically placed gastrostomy tube.  The liver is homogenous
+     in density.  Layering material within the gallbladder may represent layering
+     sludge versus vicarious excretion of contrast.  Low-density lesions in the
+     kidney are too small to fully characterize; the largest is in the upper pole,
+     measuring 7 mm.  The left kidney is atrophic.  Pancreas, spleen, stomach, and
+     bowel loops are unremarkable.  There are small lymph nodes in the
+     retroperitoneum, for example, 9 mm aortocaval node is seen.  There is
+     aneurysmal dilatation of the infrarenal aorta measuring 50 x 52 mm in greatest
+     axial diameter.  The wall is calcified, and there is a small-moderate mural
+     hematoma. No evidence of dissection is seen.  A PEG is seen in the fundus of
+     the stomach.
+     
+     CT PELVIS WITH IV CONTRAST:  A small amount of nondependent air is seen in the
+     bladder, likely iatrogenic.  There are sigmoid diverticula without evidence of
+     diverticulitis.  Calcifications within the common iliac artery and external
+                                                                 (Over)
+
+     DATE: [**3098-5-12**] 2:26 PM
+     CT CHEST W/CONTRAST; CT ABD W&W/O C                             Clip # [**Clip Number (Radiology) 3984**]
+     CT PELVIS W/CONTRAST; CT 150CC NONIONIC CONTRAST
+     Reason: ? metastasis                                                
+     Admitting Diagnosis: GOITER
+     Field of view: 44 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     and internal iliac arteries.  There is no dilatation.  No lymphadenopathy is
+     seen in the pelvis.  Bilateral fat-containing small inguinal hernias are
+     identified.  A surgical defect around the umbilicus in the abdominal wall is
+     identified.
+     
+     There are degenerative changes of the spine.  No suspicious sclerotic or lytic
+     lesions are identified.
+     
+     IMPRESSION:
+     
+     1.  Large mass centered in the right thyroid lobe The mass is inseperable from
+     the posterior wall of the trachea and from the esophagus which is
+     compressed in the proximal portion. Tumor infiltration cannot be excluded.
+     2. Mediastinal lymphadenopathy
+     3. Small pulmonary nodules in the right upper lobe. The significance of this
+     finding is unclear and while these may represent granulomas, metastatic
+     disease cannot be excluded.
+     4. No evidence of intra- abdominal disease.
+     5.  Infrarenal abdominal aortic aneurysm measuring 52 mm in greatest axial
+     dimension (transverse).
+     6.  Large amount of intra-abdominal free air, probably due to patient's recent
+     gastrostomy tube placement.
+     7.  Low-density lesions in kidney, too small to fully characterize.
+     8.  Sigmoid diverticulosis without diverticulitis.
+     
+     
+     
+     
+     
+
+",,
+24593,8978,,,3098-05-12 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3098-5-12**] 2:26 PM
+     CT CHEST W/CONTRAST; CT ABD W&W/O C                             Clip # [**Clip Number (Radiology) 3984**]
+     CT PELVIS W/CONTRAST; CT 150CC NONIONIC CONTRAST
+     Reason: ? metastasis                                                
+     Admitting Diagnosis: GOITER
+     Field of view: 44 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      78 year old man with large B cell lymphoma of neck - need staging info          
+     REASON FOR THIS EXAMINATION:
+      ? metastasis                                                                    
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Large B-cell lymphoma of the neck.
+     
+     TECHNIQUE:  After administration of oral contrast, MDCT was used to obtain
+     contiguous axial images of the liver, followed by IV contrast-enhanced images
+     through the chest, abdomen and pelvis and 3-minute delayed images through the
+     kidneys.  No prior CT available for comparison.
+     
+     CT CHEST WITH IV CONTRAST:  As identified on previous studies, there is a
+     large mass centered in the right thyroid bed, causing mass effect on the
+     trachea.  A tracheostomy tube is seen.  Multiple prominent mediastinal lymph
+     nodes are identified, for example, subcarinal node measuring 10 mm, another
+     paratracheal node measuring 11 mm.  There is a 9-mm lymph node seen anterior
+     to the aortic root.  A subcarinal node measuring 12 x 20 mm is seen.  No
+     axillary lymphadenopathy is identified. There is no hilar lymphadenopathy.
+     There are coronary vascular calcifications.  Calcified pleural plaques are
+     seen in the right hemithorax inferior aspect.  There is a 6 mm ill-defined
+     pulmonary nodule in the right upper lobe.  A second one is seen measuring 6
+     mm, also in the right upper lobe.  There is dependent atelectasis in both lung
+     bases.
+     
+     CT ABDOMEN BEFORE AND AFTER IV CONTRAST:  There is a large amount of free air
+     within the abdomen.  A small amount of air is seen outlining the porta
+     hepatis, in the right renal fossa, and also air between the peritoneum and the
+     left rectus muscle and in subcutaneous tissues, consistent with the patient's
+     history of recent surgically placed gastrostomy tube.  The liver is homogenous
+     in density.  Layering material within the gallbladder may represent layering
+     sludge versus vicarious excretion of contrast.  Low-density lesions in the
+     kidney are too small to fully characterize; the largest is in the upper pole,
+     measuring 7 mm.  The left kidney is atrophic.  Pancreas, spleen, stomach, and
+     bowel loops are unremarkable.  There are small lymph nodes in the
+     retroperitoneum, for example, 9 mm aortocaval node is seen.  There is
+     aneurysmal dilatation of the infrarenal aorta measuring 50 x 52 mm in greatest
+     axial diameter.  The wall is calcified, and there is a small-moderate mural
+     hematoma. No evidence of dissection is seen.  A PEG is seen in the fundus of
+     the stomach.
+     
+     CT PELVIS WITH IV CONTRAST:  A small amount of nondependent air is seen in the
+     bladder, likely iatrogenic.  There are sigmoid diverticula without evidence of
+     diverticulitis.  Calcifications within the common iliac artery and external
+                                                                 (Over)
+
+     DATE: [**3098-5-12**] 2:26 PM
+     CT CHEST W/CONTRAST; CT ABD W&W/O C                             Clip # [**Clip Number (Radiology) 3984**]
+     CT PELVIS W/CONTRAST; CT 150CC NONIONIC CONTRAST
+     Reason: ? metastasis                                                
+     Admitting Diagnosis: GOITER
+     Field of view: 44 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     and internal iliac arteries.  There is no dilatation.  No lymphadenopathy is
+     seen in the pelvis.  Bilateral fat-containing small inguinal hernias are
+     identified.  A surgical defect around the umbilicus in the abdominal wall is
+     identified.
+     
+     There are degenerative changes of the spine.  No suspicious sclerotic or lytic
+     lesions are identified.
+     
+     IMPRESSION:
+     
+     1.  Large mass centered in the right thyroid lobe The mass is inseperable from
+     the posterior wall of the trachea and from the esophagus which is
+     compressed in the proximal portion. Tumor infiltration cannot be excluded.
+     2. Mediastinal lymphadenopathy
+     3. Small pulmonary nodules in the right upper lobe. The significance of this
+     finding is unclear and while these may represent granulomas, metastatic
+     disease cannot be excluded.
+     4. No evidence of intra- abdominal disease.
+     5.  Infrarenal abdominal aortic aneurysm measuring 52 mm in greatest axial
+     dimension (transverse).
+     6.  Large amount of intra-abdominal free air, probably due to patient's recent
+     gastrostomy tube placement.
+     7.  Low-density lesions in kidney, too small to fully characterize.
+     8.  Sigmoid diverticulosis without diverticulitis.
+     
+     
+     
+     
+     
+
+",,
+24593,8978,,,3098-05-12 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3098-5-12**] 2:26 PM
+     CT CHEST W/CONTRAST; CT ABD W&W/O C                             Clip # [**Clip Number (Radiology) 3984**]
+     CT PELVIS W/CONTRAST; CT 150CC NONIONIC CONTRAST
+     Reason: ? metastasis                                                
+     Admitting Diagnosis: GOITER
+     Field of view: 44 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      78 year old man with large B cell lymphoma of neck - need staging info          
+     REASON FOR THIS EXAMINATION:
+      ? metastasis                                                                    
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Large B-cell lymphoma of the neck.
+     
+     TECHNIQUE:  After administration of oral contrast, MDCT was used to obtain
+     contiguous axial images of the liver, followed by IV contrast-enhanced images
+     through the chest, abdomen and pelvis and 3-minute delayed images through the
+     kidneys.  No prior CT available for comparison.
+     
+     CT CHEST WITH IV CONTRAST:  As identified on previous studies, there is a
+     large mass centered in the right thyroid bed, causing mass effect on the
+     trachea.  A tracheostomy tube is seen.  Multiple prominent mediastinal lymph
+     nodes are identified, for example, subcarinal node measuring 10 mm, another
+     paratracheal node measuring 11 mm.  There is a 9-mm lymph node seen anterior
+     to the aortic root.  A subcarinal node measuring 12 x 20 mm is seen.  No
+     axillary lymphadenopathy is identified. There is no hilar lymphadenopathy.
+     There are coronary vascular calcifications.  Calcified pleural plaques are
+     seen in the right hemithorax inferior aspect.  There is a 6 mm ill-defined
+     pulmonary nodule in the right upper lobe.  A second one is seen measuring 6
+     mm, also in the right upper lobe.  There is dependent atelectasis in both lung
+     bases.
+     
+     CT ABDOMEN BEFORE AND AFTER IV CONTRAST:  There is a large amount of free air
+     within the abdomen.  A small amount of air is seen outlining the porta
+     hepatis, in the right renal fossa, and also air between the peritoneum and the
+     left rectus muscle and in subcutaneous tissues, consistent with the patient's
+     history of recent surgically placed gastrostomy tube.  The liver is homogenous
+     in density.  Layering material within the gallbladder may represent layering
+     sludge versus vicarious excretion of contrast.  Low-density lesions in the
+     kidney are too small to fully characterize; the largest is in the upper pole,
+     measuring 7 mm.  The left kidney is atrophic.  Pancreas, spleen, stomach, and
+     bowel loops are unremarkable.  There are small lymph nodes in the
+     retroperitoneum, for example, 9 mm aortocaval node is seen.  There is
+     aneurysmal dilatation of the infrarenal aorta measuring 50 x 52 mm in greatest
+     axial diameter.  The wall is calcified, and there is a small-moderate mural
+     hematoma. No evidence of dissection is seen.  A PEG is seen in the fundus of
+     the stomach.
+     
+     CT PELVIS WITH IV CONTRAST:  A small amount of nondependent air is seen in the
+     bladder, likely iatrogenic.  There are sigmoid diverticula without evidence of
+     diverticulitis.  Calcifications within the common iliac artery and external
+                                                                 (Over)
+
+     DATE: [**3098-5-12**] 2:26 PM
+     CT CHEST W/CONTRAST; CT ABD W&W/O C                             Clip # [**Clip Number (Radiology) 3984**]
+     CT PELVIS W/CONTRAST; CT 150CC NONIONIC CONTRAST
+     Reason: ? metastasis                                                
+     Admitting Diagnosis: GOITER
+     Field of view: 44 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     and internal iliac arteries.  There is no dilatation.  No lymphadenopathy is
+     seen in the pelvis.  Bilateral fat-containing small inguinal hernias are
+     identified.  A surgical defect around the umbilicus in the abdominal wall is
+     identified.
+     
+     There are degenerative changes of the spine.  No suspicious sclerotic or lytic
+     lesions are identified.
+     
+     IMPRESSION:
+     
+     1.  Large mass centered in the right thyroid lobe The mass is inseperable from
+     the posterior wall of the trachea and from the esophagus which is
+     compressed in the proximal portion. Tumor infiltration cannot be excluded.
+     2. Mediastinal lymphadenopathy
+     3. Small pulmonary nodules in the right upper lobe. The significance of this
+     finding is unclear and while these may represent granulomas, metastatic
+     disease cannot be excluded.
+     4. No evidence of intra- abdominal disease.
+     5.  Infrarenal abdominal aortic aneurysm measuring 52 mm in greatest axial
+     dimension (transverse).
+     6.  Large amount of intra-abdominal free air, probably due to patient's recent
+     gastrostomy tube placement.
+     7.  Low-density lesions in kidney, too small to fully characterize.
+     8.  Sigmoid diverticulosis without diverticulitis.
+     
+     
+     
+     
+     
+
+",,
+24593,8978,,,3098-05-13 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3098-5-13**] 8:15 PM
+     CHEST PORT. LINE PLACEMENT                                      Clip # [**Clip Number (Radiology) 3985**]
+     Reason: Please read for right PICC placement. Thanks! [**Doctor First Name 3986**]      
+     Admitting Diagnosis: GOITER
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       78 year old man s/p neck biopsy, trach req. Chemotx                            
+                   
+     REASON FOR THIS EXAMINATION:
+      Please read for right PICC placement. Thanks! [**Doctor First Name 3986**]                          
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Right PICC line placement.
+     
+     COMPARISON:  CT of the chest from [**3098-5-12**].
+     
+     SINGLE PORTABLE AP UPRIGHT CHEST RADIOGRAPH:  There is a new right-sided PICC
+     line with the tip terminating in the mid superior vena cava.  No pneumothorax
+     is identified.  Again seen is a tracheostomy.  There is bibasilar atelectasis
+     in the lungs.  Cardiac and mediastinal contours are unchanged.  There is free
+     air seen under both hemidiaphragms, as seen on the recent CT from one day
+     prior.
+     
+     IMPRESSION:  New right-sided PICC line in appropriate position.  No
+     pneumothorax.  Persistent free intraperitoneal air, likely related to recent
+     gastrostomy tube placement.
+     
+     Findings discussed with the IV nurse.
+                                                                           
+
+",,
+24593,8978,,,3098-05-16 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3098-5-16**] 11:35 AM
+     CT NECK W/CONTRAST (EG:PAROTIDS)                                Clip # [**Clip Number (Radiology) 3987**]
+     Reason: pls eval thyroid mass, trach/esoph. compression             
+     Admitting Diagnosis: GOITER
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      78 year old man with CREST, PVD, with thyroid mass found to be lymphoma, s/p 
+      trach/PEG, s/p chemo with diminished size of mass-- ?possible resection
+     REASON FOR THIS EXAMINATION:
+      pls eval thyroid mass, trach/esoph. compression                                 
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Thyroid mass found to be lymphoma, status post Trach and PEG,
+     status post chemo diminished size of mass.  Evaluate for possible resection.
+     
+     COMPARISON:  MR neck [**3098-5-9**].
+     
+     TECHNIQUE:  Axial images of the neck were obtained with IV contrast.
+     
+     FINDINGS:  Patient is status post tracheostomy.  There is some evidence of
+     postoperative edema and subcutaneous gas consistent with recent procedure.
+     Again noted is a large mass arising from the right thyroid gland causing
+     leftward displacement of the trachea, infiltrating posteriorly and anterior to
+     the trachea.  Compared to prior study, the left lobe of the thyroid appears
+     larger.  The posterior aspect of the mass also appears larger.  Again seen is
+     likely adenopathy.  Visualized portion of the lung apices appear unremarkable.
+     
+     IMPRESSION:  Status post tracheostomy with postoperative changes seen.
+     Compared to [**5-9**], there appears to have been interval enlargement of the
+     left lobe of the thyroid as well as the posterior aspect of the large thyroid
+     mass.  Large right thyroid mass again noted.  These findings were discussed
+     with Dr. [**Name (STitle) 3988**] at 3:30 p.m. on [**3098-5-17**].
+
+",,
+24593,8978,,,3098-05-16 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3098-5-16**] 11:36 AM
+     CT CHEST W/CONTRAST; CT 150CC NONIONIC CONTRAST                 Clip # [**Clip Number (Radiology) 3989**]
+     Reason: please eval extension into chest, RUL nodules               
+     Admitting Diagnosis: GOITER
+      Contrast: OPTIRAY Amt: 
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      78 year old man with CREST, PVD, with thyroid mass found to be lymphoma, s/p 
+      trach/PEG, s/p chemo with diminished size of mass-- ?possible resection
+     REASON FOR THIS EXAMINATION:
+      please eval extension into chest, RUL nodules                                   
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Thyroid mass found at the lymphoma, status post tracheostomy and
+     PEG, status post chemotherapy.
+     
+     COMPARISON:  CT chest dated [**3098-5-12**] and CT neck performed the same day.
+     
+     TECHNIQUE:  Multidetector CT scan of the chest was performed following
+     intravenous administration of 75 cc of Optiray contrast.
+     
+     FINDINGS:  There is again demonstrated a large soft tissue density mass in the
+     lower neck/superior mediastinum centered in the right lobe of the thyroid.
+     Allowing for differences in slice selection, this mass is not significantly
+     changed in size or configuration.  There is again demonstrated associated
+     encasement of the adjacent trachea and esophagus with obliteration of the
+     expected fat planes.  Focal narrowing of the adjacent esophagus and narrowing
+     posteriorly of the trachea at the level of the mass makes it unclear whether
+     there is associated invasion of these structures.  Multiple enlarged
+     mediastinal nodes and paratracheal nodes are again demonstrated which are not
+     significantly changed in size.  For instance, a subcarinal node now measures
+     22 x 13 mm compared to 20 x 12 mm on the prior study.  The right hilum appears
+     slightly more full than the prior study, though this may be due to differences
+     in slice selection.  The lung demonstrates heterogeneous areas of attenuation
+     with areas of air trapping on this relatively expiratory scan.  The previously
+     identified right upper lobe nodular density is not seen on the current study,
+     likely due to differences in technique and expiratory phase of scanning.  Note
+     is also made of development of areas of septal thickening which could relate
+     to superimposed fluid overload in addition to areas of air trapping.  There is
+     no pleural or pericardial effusion.  Bilateral calcified pleural plaques are
+     noted which could be consistent with a history of prior asbestos exposure.
+     Coronary artery calcifications and calcifications of the mitral annulus are
+     noted.  The patient is status post tracheostomy tube and PEG tube placement.
+     No new masses are identified.  The visualized portions of the upper abdomen
+     again demonstrate a large amount of free intraperitoneal air, presumably
+     secondary to PEG tube insertion.
+     
+     BONE WINDOWS:  No suspicious lytic or sclerotic lesions are demonstrated.
+     
+     IMPRESSION:
+     
+     1.  No short-term interval change since [**3098-5-12**] in large mass centered in the
+                                                                 (Over)
+
+     DATE: [**3098-5-16**] 11:36 AM
+     CT CHEST W/CONTRAST; CT 150CC NONIONIC CONTRAST                 Clip # [**Clip Number (Radiology) 3989**]
+     Reason: please eval extension into chest, RUL nodules               
+     Admitting Diagnosis: GOITER
+      Contrast: OPTIRAY Amt: 
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     right thyroid, consistent with the patient's history of lymphoma.  There is at
+     least severe encasement of the adjacent trachea and esophagus with
+     obliteration of fat planes, and invasion of these structures cannot be
+     excluded. Direct visual inspection could help clarify this issue.
+     2.  Heterogeneous lung attenuation due to areas of air trapping on expiratory
+     scan.  The prior right upper lobe nodule is not well seen likely due to
+     technical factors.
+     3.  No significant interval change in mediastinal adenopathy.
+     4.  Calcified pleural plaques, consistent with prior asbestos exposure.
+     5.  Status post tracheostomy tube and PEG tube with note of large amount of
+     free intraperitoneal air, unchanged from prior study.
+     
+     Please refer to the accompanying CT of the neck for additional details.
+     
+
+",,
+24593,8978,,,3098-05-16 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3098-5-16**] 11:36 AM
+     CT CHEST W/CONTRAST; CT 150CC NONIONIC CONTRAST                 Clip # [**Clip Number (Radiology) 3989**]
+     Reason: please eval extension into chest, RUL nodules               
+     Admitting Diagnosis: GOITER
+      Contrast: OPTIRAY Amt: 
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      78 year old man with CREST, PVD, with thyroid mass found to be lymphoma, s/p 
+      trach/PEG, s/p chemo with diminished size of mass-- ?possible resection
+     REASON FOR THIS EXAMINATION:
+      please eval extension into chest, RUL nodules                                   
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Thyroid mass found at the lymphoma, status post tracheostomy and
+     PEG, status post chemotherapy.
+     
+     COMPARISON:  CT chest dated [**3098-5-12**] and CT neck performed the same day.
+     
+     TECHNIQUE:  Multidetector CT scan of the chest was performed following
+     intravenous administration of 75 cc of Optiray contrast.
+     
+     FINDINGS:  There is again demonstrated a large soft tissue density mass in the
+     lower neck/superior mediastinum centered in the right lobe of the thyroid.
+     Allowing for differences in slice selection, this mass is not significantly
+     changed in size or configuration.  There is again demonstrated associated
+     encasement of the adjacent trachea and esophagus with obliteration of the
+     expected fat planes.  Focal narrowing of the adjacent esophagus and narrowing
+     posteriorly of the trachea at the level of the mass makes it unclear whether
+     there is associated invasion of these structures.  Multiple enlarged
+     mediastinal nodes and paratracheal nodes are again demonstrated which are not
+     significantly changed in size.  For instance, a subcarinal node now measures
+     22 x 13 mm compared to 20 x 12 mm on the prior study.  The right hilum appears
+     slightly more full than the prior study, though this may be due to differences
+     in slice selection.  The lung demonstrates heterogeneous areas of attenuation
+     with areas of air trapping on this relatively expiratory scan.  The previously
+     identified right upper lobe nodular density is not seen on the current study,
+     likely due to differences in technique and expiratory phase of scanning.  Note
+     is also made of development of areas of septal thickening which could relate
+     to superimposed fluid overload in addition to areas of air trapping.  There is
+     no pleural or pericardial effusion.  Bilateral calcified pleural plaques are
+     noted which could be consistent with a history of prior asbestos exposure.
+     Coronary artery calcifications and calcifications of the mitral annulus are
+     noted.  The patient is status post tracheostomy tube and PEG tube placement.
+     No new masses are identified.  The visualized portions of the upper abdomen
+     again demonstrate a large amount of free intraperitoneal air, presumably
+     secondary to PEG tube insertion.
+     
+     BONE WINDOWS:  No suspicious lytic or sclerotic lesions are demonstrated.
+     
+     IMPRESSION:
+     
+     1.  No short-term interval change since [**3098-5-12**] in large mass centered in the
+                                                                 (Over)
+
+     DATE: [**3098-5-16**] 11:36 AM
+     CT CHEST W/CONTRAST; CT 150CC NONIONIC CONTRAST                 Clip # [**Clip Number (Radiology) 3989**]
+     Reason: please eval extension into chest, RUL nodules               
+     Admitting Diagnosis: GOITER
+      Contrast: OPTIRAY Amt: 
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     right thyroid, consistent with the patient's history of lymphoma.  There is at
+     least severe encasement of the adjacent trachea and esophagus with
+     obliteration of fat planes, and invasion of these structures cannot be
+     excluded. Direct visual inspection could help clarify this issue.
+     2.  Heterogeneous lung attenuation due to areas of air trapping on expiratory
+     scan.  The prior right upper lobe nodule is not well seen likely due to
+     technical factors.
+     3.  No significant interval change in mediastinal adenopathy.
+     4.  Calcified pleural plaques, consistent with prior asbestos exposure.
+     5.  Status post tracheostomy tube and PEG tube with note of large amount of
+     free intraperitoneal air, unchanged from prior study.
+     
+     Please refer to the accompanying CT of the neck for additional details.
+     
+
+",,
+24593,8978,,,3098-05-17 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3098-5-17**] 10:51 AM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 3991**]
+     CT 150CC NONIONIC CONTRAST
+     Reason: ? diverticulitis                                            
+     Admitting Diagnosis: GOITER
+      Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      78 year old man with Lymphoma that now has LLQ pain.                            
+     REASON FOR THIS EXAMINATION:
+      ? diverticulitis                                                                
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Lymphoma, new left lower quadrant pain.
+     
+     COMPARISONS:  None.
+     
+     TECHNIQUE:  A CT enterography protocol was used.  Axial MDCT images were
+     obtained from the lung bases through the symphysis pubis after administration
+     of non-ionic Optiray contrast.
+     
+     CT OF THE ABDOMEN WITH IV CONTRAST:  There is a small, left-sided pleural
+     effusion.  There are pleural calcifications along the right lung base and
+     diaphragm.  Free air is identified within the abdomen, likely related to
+     recent percutaneous gastrostomy tube placement.  Subcutaneous emphysema is
+     also identified within the left anterior chest wall.  There is a large
+     retroperitoneal hematoma which extends from the level of the diaphragm down to
+     the left lower quadrant.  This is seen adjacent to the abdominal aortic
+     aneurysm and is consistent with an abdominal aortic aneurysm leak/rupture.
+     When comparing the abdominal aorta to the previous CT from [**3098-5-12**], the
+     retroperitoneal hematoma is new and the size of the abdominal aortic aneurysm
+     has increased from 5.2 to 6.0 cm.  The abdominal aorta also shows a slightly
+     different shape compatible with interval change.  There appears to be
+     interruption of the calcium within the abdominal aortic aneurysm suggesting
+     the hemorrhage originates from the abdominal aorta.  The abdominal aortic
+     aneursym is completely infrarenal in extension.  No active extravasation of
+     contrast is identified on this single phase. The left kidney is atrophic.  The
+     liver, right kidney, and spleen are unremarkable.  Mesenteric atherosclerotic
+     calcifications are identified.
+     
+     CT OF THE PELVIS WITH IV CONTRAST:  Small, fat-containing inguinal hernias are
+     seen bilaterally.  There is extensive diverticulosis of the sigmoid and
+     descending colon without evidence of acute diverticulitis.
+     
+     IMPRESSION:
+     1)  Large, left-sided retroperitoneal hematoma which is associated with a
+     large abdominal aortic aneurysm.  There is apparent disruption of the
+     calcifications within the wall of the aneurysm which has changed in appearance
+     in the short interval, compatible with abdominal aortic aneurysm leak/rupture.
+     2) Free intraperitoneal air, likely related to recent percutaneous gastrostomy
+     tube placement.
+     
+                                                                 (Over)
+
+     DATE: [**3098-5-17**] 10:51 AM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 3991**]
+     CT 150CC NONIONIC CONTRAST
+     Reason: ? diverticulitis                                            
+     Admitting Diagnosis: GOITER
+      Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     These findings were emergently communicated at 11:30 a.m. to Dr. [**Last Name (STitle) 3992**] and
+     Dr. [**First Name (STitle) 1013**] from hematology/oncology.  Subsequently, these images were reviewed
+     at the time of the study with the [**Hospital Unit Name 1297**] staff and vascular surgery.
+
+",,
+24593,8978,,,3098-05-17 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3098-5-17**] 10:51 AM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 3991**]
+     CT 150CC NONIONIC CONTRAST
+     Reason: ? diverticulitis                                            
+     Admitting Diagnosis: GOITER
+      Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      78 year old man with Lymphoma that now has LLQ pain.                            
+     REASON FOR THIS EXAMINATION:
+      ? diverticulitis                                                                
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Lymphoma, new left lower quadrant pain.
+     
+     COMPARISONS:  None.
+     
+     TECHNIQUE:  A CT enterography protocol was used.  Axial MDCT images were
+     obtained from the lung bases through the symphysis pubis after administration
+     of non-ionic Optiray contrast.
+     
+     CT OF THE ABDOMEN WITH IV CONTRAST:  There is a small, left-sided pleural
+     effusion.  There are pleural calcifications along the right lung base and
+     diaphragm.  Free air is identified within the abdomen, likely related to
+     recent percutaneous gastrostomy tube placement.  Subcutaneous emphysema is
+     also identified within the left anterior chest wall.  There is a large
+     retroperitoneal hematoma which extends from the level of the diaphragm down to
+     the left lower quadrant.  This is seen adjacent to the abdominal aortic
+     aneurysm and is consistent with an abdominal aortic aneurysm leak/rupture.
+     When comparing the abdominal aorta to the previous CT from [**3098-5-12**], the
+     retroperitoneal hematoma is new and the size of the abdominal aortic aneurysm
+     has increased from 5.2 to 6.0 cm.  The abdominal aorta also shows a slightly
+     different shape compatible with interval change.  There appears to be
+     interruption of the calcium within the abdominal aortic aneurysm suggesting
+     the hemorrhage originates from the abdominal aorta.  The abdominal aortic
+     aneursym is completely infrarenal in extension.  No active extravasation of
+     contrast is identified on this single phase. The left kidney is atrophic.  The
+     liver, right kidney, and spleen are unremarkable.  Mesenteric atherosclerotic
+     calcifications are identified.
+     
+     CT OF THE PELVIS WITH IV CONTRAST:  Small, fat-containing inguinal hernias are
+     seen bilaterally.  There is extensive diverticulosis of the sigmoid and
+     descending colon without evidence of acute diverticulitis.
+     
+     IMPRESSION:
+     1)  Large, left-sided retroperitoneal hematoma which is associated with a
+     large abdominal aortic aneurysm.  There is apparent disruption of the
+     calcifications within the wall of the aneurysm which has changed in appearance
+     in the short interval, compatible with abdominal aortic aneurysm leak/rupture.
+     2) Free intraperitoneal air, likely related to recent percutaneous gastrostomy
+     tube placement.
+     
+                                                                 (Over)
+
+     DATE: [**3098-5-17**] 10:51 AM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 3991**]
+     CT 150CC NONIONIC CONTRAST
+     Reason: ? diverticulitis                                            
+     Admitting Diagnosis: GOITER
+      Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     These findings were emergently communicated at 11:30 a.m. to Dr. [**Last Name (STitle) 3992**] and
+     Dr. [**First Name (STitle) 1013**] from hematology/oncology.  Subsequently, these images were reviewed
+     at the time of the study with the [**Hospital Unit Name 1297**] staff and vascular surgery.
+
+",,
+24593,8978,,,3098-05-17 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3098-5-17**] 10:51 AM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 3991**]
+     CT 150CC NONIONIC CONTRAST
+     Reason: ? diverticulitis                                            
+     Admitting Diagnosis: GOITER
+      Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      78 year old man with Lymphoma that now has LLQ pain.                            
+     REASON FOR THIS EXAMINATION:
+      ? diverticulitis                                                                
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Lymphoma, new left lower quadrant pain.
+     
+     COMPARISONS:  None.
+     
+     TECHNIQUE:  A CT enterography protocol was used.  Axial MDCT images were
+     obtained from the lung bases through the symphysis pubis after administration
+     of non-ionic Optiray contrast.
+     
+     CT OF THE ABDOMEN WITH IV CONTRAST:  There is a small, left-sided pleural
+     effusion.  There are pleural calcifications along the right lung base and
+     diaphragm.  Free air is identified within the abdomen, likely related to
+     recent percutaneous gastrostomy tube placement.  Subcutaneous emphysema is
+     also identified within the left anterior chest wall.  There is a large
+     retroperitoneal hematoma which extends from the level of the diaphragm down to
+     the left lower quadrant.  This is seen adjacent to the abdominal aortic
+     aneurysm and is consistent with an abdominal aortic aneurysm leak/rupture.
+     When comparing the abdominal aorta to the previous CT from [**3098-5-12**], the
+     retroperitoneal hematoma is new and the size of the abdominal aortic aneurysm
+     has increased from 5.2 to 6.0 cm.  The abdominal aorta also shows a slightly
+     different shape compatible with interval change.  There appears to be
+     interruption of the calcium within the abdominal aortic aneurysm suggesting
+     the hemorrhage originates from the abdominal aorta.  The abdominal aortic
+     aneursym is completely infrarenal in extension.  No active extravasation of
+     contrast is identified on this single phase. The left kidney is atrophic.  The
+     liver, right kidney, and spleen are unremarkable.  Mesenteric atherosclerotic
+     calcifications are identified.
+     
+     CT OF THE PELVIS WITH IV CONTRAST:  Small, fat-containing inguinal hernias are
+     seen bilaterally.  There is extensive diverticulosis of the sigmoid and
+     descending colon without evidence of acute diverticulitis.
+     
+     IMPRESSION:
+     1)  Large, left-sided retroperitoneal hematoma which is associated with a
+     large abdominal aortic aneurysm.  There is apparent disruption of the
+     calcifications within the wall of the aneurysm which has changed in appearance
+     in the short interval, compatible with abdominal aortic aneurysm leak/rupture.
+     2) Free intraperitoneal air, likely related to recent percutaneous gastrostomy
+     tube placement.
+     
+                                                                 (Over)
+
+     DATE: [**3098-5-17**] 10:51 AM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 3991**]
+     CT 150CC NONIONIC CONTRAST
+     Reason: ? diverticulitis                                            
+     Admitting Diagnosis: GOITER
+      Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     These findings were emergently communicated at 11:30 a.m. to Dr. [**Last Name (STitle) 3992**] and
+     Dr. [**First Name (STitle) 1013**] from hematology/oncology.  Subsequently, these images were reviewed
+     at the time of the study with the [**Hospital Unit Name 1297**] staff and vascular surgery.
+
+",,
+24593,8978,,,3098-05-17 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3098-5-17**] 2:48 PM
+     CHEST (SINGLE VIEW) IN O.R.; -77 BY DIFFERENT PHYSICIAN         [**Name Initial (PRE) 232**] # [**Clip Number (Radiology) 3994**]
+     Reason: NEEDLE COUNT
+     Admitting Diagnosis: GOITER
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     REASON FOR EXAMINATION:  Needle count.
+     
+     Portable AP chest radiograph was reviewed.
+     
+     IMPRESSION: The left lateral part of the chest is outside the film view. The
+     Swan- Ganz catheter tip is in the main pulmonary artery.  The metallic
+     tracheostomy is unchanged.  The NG tube tip is in the stomach.  The subclavian
+     line tip is in distal portion of superior vena cava.  There are no radiopaque
+     object which may represent foreign bodies seen on the chest x-ray. There is no
+     lung infiltrates or right pleural effusion.
+
+",,
+24593,8978,,,3098-05-17 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3098-5-17**] 7:02 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 3990**]
+     Reason: ? aspiration, ? air under the diaphragm                     
+     Admitting Diagnosis: GOITER
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        78 year old man s/p neck biopsy, trach req. Chemotx  that has LLQ pain and 
+      vomitted.                                        
+     REASON FOR THIS EXAMINATION:
+      ? aspiration, ? air under the diaphragm                                         
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     AP CHEST, 6:19 [**Initials (NamePattern4) 202**] [**5-17**].
+     
+     HISTORY:  Neck biopsy.  Pneumoperitoneum.
+     
+     IMPRESSION:  AP chest compared to [**5-13**]:
+     
+     Significant pneumoperitoneum persists.  Consolidation at the medial aspect of
+     the right lung base is probably atelectasis.  Upper lungs clear.  Heart size
+     top normal.  Tracheostomy tube in standard placement.  Right subclavian line
+     tip projects over the SVC.  No pneumothorax.  Focal pleural calcification
+     projecting over the right mid lung should not be mistaken for lung nodule. 
+     Mediastinal widening, particularly due to the mass at the thoracic inlet is
+     better evaluated on yesterday's chest CT scan.
+                                                                           
+
+",,
+24593,8978,,,3098-05-17 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3098-5-17**] 2:49 PM
+     ABD (SINGLE VIEW ONLY) IN O.R.                                  Clip # [**Clip Number (Radiology) 3995**]
+     Reason: NEEDLE COUNT
+     Admitting Diagnosis: GOITER
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     
+     INDICATION:  Needle count.
+     
+     Note is made of the CT abdomen of [**3098-5-17**].
+     
+     SUPINE ABDOMEN:  Contrast is seen in loops of small and large bowel.  There
+     are no radiopaque objects consistent with needles seen overlying the abdomen
+     or pelvis.  A right-sided catheter overlies the pelvis.
+     
+     IMPRESSION:  
+     
+     No evidence of radiopaque foreign body.
+
+",,
+24593,8978,,,3098-05-17 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3098-5-17**] 2:48 PM
+     CHEST (SINGLE VIEW) IN O.R.; -77 BY DIFFERENT PHYSICIAN         [**Name Initial (PRE) 232**] # [**Clip Number (Radiology) 3994**]
+     Reason: NEEDLE COUNT
+     Admitting Diagnosis: GOITER
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     REASON FOR EXAMINATION:  Needle count.
+     
+     Portable AP chest radiograph was reviewed.
+     
+     IMPRESSION: The left lateral part of the chest is outside the film view. The
+     Swan- Ganz catheter tip is in the main pulmonary artery.  The metallic
+     tracheostomy is unchanged.  The NG tube tip is in the stomach.  The subclavian
+     line tip is in distal portion of superior vena cava.  There are no radiopaque
+     object which may represent foreign bodies seen on the chest x-ray. There is no
+     lung infiltrates or right pleural effusion.
+
+",,
+24593,8978,,,3098-05-17 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3098-5-17**] 11:51 AM
+     VIDEO OROPHARYNGEAL SWALLOW                                     Clip # [**Clip Number (Radiology) 3993**]
+     Reason: please eval swallow function                                
+     Admitting Diagnosis: GOITER
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      78 year old man with thyroid lymphoma and large neck mass, s/p trach and PEG, 
+      passed bedside swallow eval
+     REASON FOR THIS EXAMINATION:
+      please eval swallow function                                                    
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Laryngeal tumor.
+     
+     TECHNIQUE:  Video oropharyngeal swallow examination.   
+     
+     An oropharyngeal swallowing video fluoroscopy study was performed in
+     collaboration with the speech and language pathology division.  Thin liquid
+     and nectar thick liquid were administered.
+     
+     FINDINGS:  Swallow initiation was timely but adequate palatal elevation.
+     Laryngeal elevation was moderately reduced with relative no anterior movement.
+     The laryngeal valve closure was mild to moderately reduced with absence of
+     epiglottic deflection.  These findings were thought to be due to pharyngeal
+     prominence due to tumor at the level of C4 to C6.  There was a moderate amount
+     of residue in the piriform sinuses after thin and nectar liquids.  The patient
+     had penetration during the swallow due to decreased laryngeal valve closure
+     with thin and nectar-thick liquids.  The patient did not aspirate during the
+     swallow.  However, he was unable to clear the penetration and did aspirate
+     trace to mild amounts of nectar-thick liquids after the swallow.
+     
+     IMPRESSION:   Tumor at C4 to C6 causing reduced epiglottic deflection and
+     absence of laryngeal valve closure.  There was residue in the piriform
+     sinuses, more than in the valleculae.  There was aspiration with the first sip
+     of thick liquids with the head in normal position.
+     
+     For further details, please refer to the full report of the speech and swallow
+     evaluation team on CareWeb under patient's note section.
+     
+
+",,
+24593,8978,30541,,3098-05-18 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3098-5-18**] 8:20 PM
+     CHEST (PORTABLE AP); -77 BY DIFFERENT PHYSICIAN                 [**Name Initial (PRE) 232**] # [**Clip Number (Radiology) 3998**]
+     Reason: acute cardiopulm process                                    
+     Admitting Diagnosis: GOITER
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+          78 year old man s/p neck biopsy, trach req. Chemotx  that has LLQ pain and  
+       vomitted.                                        
+     REASON FOR THIS EXAMINATION:
+      acute cardiopulm process                                                        
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     REASON FOR EXAMINATION:  Left lower quadrant pain and vomiting.
+     
+     Portable AP chest radiograph compared to [**3098-5-17**] done  at 09:46 a.m.
+     
+     IMPRESSION: The tracheostomy tube tip, the Swan-Ganz tip are in standard
+      position. The heart is moderately enlarged but stable.  The left pleural
+     effusion is unchanged.  Several areas of discoid atelectasis in the left lower
+     lobe are new. There is no pulmonary edema.  A diaphragmatic pleural plaque is
+     seen on the right.
+
+",,
+24593,8978,30541,,3098-05-18 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3098-5-18**] 3:31 PM
+     ART DUP EXT LOW/BILAT COMP PORT                                 Clip # [**Clip Number (Radiology) 3997**]
+     Reason: portable to eval L superficial fem artery to dorsal pedis by
+     Admitting Diagnosis: GOITER
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      78 year old man with B cell lymphoma  h/o L [**Doctor First Name **][perficial fem artery to dorsal 
+      pedis bypass graft, now s/p AAA repair w/ mottling 
+     REASON FOR THIS EXAMINATION:
+      portable to eval L superficial fem artery to dorsal pedis bypass graft graft 
+      perfusion
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CLINICAL INFORMATION:  78-year-old man with bilateral superficial femoral
+     artery to  dorsal pedis bypass graft, now present with cold melting of both
+     legs, needs ultrasound evaluation for graft patency.
+     
+     FINDINGS:  Duplex ultrasonography was performed at the bilateral lower
+     extremity.
+     
+     No blood flow signal was identified in the bilateral superficial femoral
+     artery to dorsal pedis bypass grafts, which sugests graft occlusion. The left
+     superficial femoral and deep femoral arteries, proximal to the graft, are
+     patent.
+     
+     IMPRESSION:  Occluded bilateral superficial femoral to dorsal pedis bypass
+     grafts.
+     Results were communicated over the phone to the resident taking care of the
+     patient on [**3098-5-18**].
+
+",,
+24593,8978,30541,,3098-05-18 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3098-5-18**] 8:20 PM
+     CHEST (PORTABLE AP); -77 BY DIFFERENT PHYSICIAN                 [**Name Initial (PRE) 232**] # [**Clip Number (Radiology) 3998**]
+     Reason: acute cardiopulm process                                    
+     Admitting Diagnosis: GOITER
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+          78 year old man s/p neck biopsy, trach req. Chemotx  that has LLQ pain and  
+       vomitted.                                        
+     REASON FOR THIS EXAMINATION:
+      acute cardiopulm process                                                        
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     REASON FOR EXAMINATION:  Left lower quadrant pain and vomiting.
+     
+     Portable AP chest radiograph compared to [**3098-5-17**] done  at 09:46 a.m.
+     
+     IMPRESSION: The tracheostomy tube tip, the Swan-Ganz tip are in standard
+      position. The heart is moderately enlarged but stable.  The left pleural
+     effusion is unchanged.  Several areas of discoid atelectasis in the left lower
+     lobe are new. There is no pulmonary edema.  A diaphragmatic pleural plaque is
+     seen on the right.
+
+",,
+24593,8978,30541,,3098-05-18 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3098-5-18**] 6:40 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 3996**]
+     Reason: eval chf                                                    
+     Admitting Diagnosis: GOITER
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+         78 year old man s/p neck biopsy, trach req. Chemotx  that has LLQ pain and  
+      vomitted.                                        
+     REASON FOR THIS EXAMINATION:
+      eval chf                                                                        
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Status post neck biopsy, tracheostomy required.
+     
+     COMPARISON:  Chest x-ray obtained one day prior.
+     
+     FINDINGS:  The tracheostomy tube and NG tube are in stable position.  A Swan-
+     Ganz catheter terminates in the right pulmonary artery.  There has been
+     interval increase in bilateral pleural effusions, greater on the left side.
+     There is also left retrocardiac opacity which could represent atelectasis.
+     There is slight improvement in mild failure.
+     
+     IMPRESSION:  Increased effusions, greater on the left side.
+
+",,
+24593,8978,30541,0,3098-05-18 04:37:00 EST,3098-05-18 04:42:00 EST,7817,"N",1,"Nursing/Other","Resp Care","
+Resp Care
+Pt remains on MV in AC mode as noted on Careview.  BBS-Clear w/coarse bs in bases.  Sx'ed for scant amt thin, white secretions.  Bag and mask at bedside.  Alarms on and functioning.  Continue to monitor closely.  
+",,
+24593,8978,30541,0,3098-05-18 05:41:00 EST,3098-05-18 05:52:00 EST,208,"N",1,"Nursing/Other",,"
+
+NEURO; SEDATED ON PROPOFOL, AND FENTANYL GTT FOR PAIN CONTROL, PUPILS PINPOINT BUT REACTIVE, RT PUPIL SL SLUGGISH, LEFT PUPIL BRISK, MOVES RT HAND SLIGHTLY ON BED, DOES NOT WITHDRAW EXTREMITIES TO NAILBED PRESSURE, CORNEAL REFLEX INTACT, GAG REFLEX NOT ELICITED DURING SUCTIONING OF TRACH
+
+CARDIOVASCULAR; HR 70'S-80'S A FIB WITH RARE PVC, GIVEN LOPRESSOR AND HYDRALAZINE EARLIER IN SHIFT FOR SYS 150'S-160 (GOAL IS SYS 110 OR <), PRESENTLY ON NICARDIPINE GTT, RANGE HAS BEEN 90.5-1.5 MCG/KG/MIN AND GTT HAS BEEN SHUT OFF OCCAS FOR SYS 90'S, RECEIVED MULTIPLE BLOOD PRODUCTS, CRY, P CELLS, PLATELETS, ALBUMIN, AND PROTAMINE FOR > PTT AND INR 1.3, HYPOTHERMIC INITIALLY AND ON [**Doctor Last Name 159**] HUGGER, TEMP PRESENTLY 99 VIA CORE, CVP 6-13, NOT ABLE TO WEDGE, SICU HO INFORMED, NOT ABLE TO DOPPLER PEDAL, PT OR POPLITEAL PULSES, DR. [**First Name (STitle) **] AND [**Doctor Last Name **] AWARE, GENERALIZED EDEMA OF ALL EXTREMITIES, 
+
+RESPIR; TRACH INTACT, SX FOR SCANT LIGHT WHITE SECRETIONS, SEVERAL ABGS DONE, IMPROVEMENT ON LAST WITH P02 OF 114 AFTER INCREASING FI02 TO 60%, NO OTHER VENT CHANGES
+
+GU; U/O MARGINAL, DR. [**First Name (STitle) **] AND [**Doctor Last Name **] INFORMED, PT GIVEN 2 L FLUID BOLUS ERALIER IN SHIFT FOR HYPOTENSION AND LOW U/O, LITTLE IMPROVEMENT IN HRLY OUTPUT
+
+GI; NGT TO LWSX-SMALL AMT BILIOUS DGE, G TUBE TO GRAVITY, 150CC MILKY MATERIAL IN TUBING (? CONTRAST MATERIAL), 
+
+WOUND; ABD DSG-MODER SERO-SANGE DGE CONTAINED UNDER TEGADERM, ORIGINAL DSG LEFT ON PER DR. [**Last Name (STitle) **], 
+
+PLAN; MAITAIN MAP > 60 AND SYS > 100, MONITOR C.O., ATTEMPT TO IMPROVE  U/O, CLOSELY MONITOR EXTREMITIES FOR FURTHER MOTTLING, KEEP PT COMFORTABLE AND SEDATED, 
+
+ADDENDUM; PT NOW SQUEEZING WITH BOTH HANDS TO COMMAND
+",,
+24593,8978,30541,0,3098-05-18 15:48:00 EST,3098-05-18 16:02:00 EST,940,"N",1,"Nursing/Other","Condition Update","
+Condition Update
+D: See carevue flowsheet for specifics
+ Patient remained in afib all day with rate climbing up to 120's at times at which point SBP would drop into the low 80's. Otherwise BP remained 90-100 with MAP>60. Nicardipine gtt was turned off at 8am. CVP 11-12 and after 1u PRBC went up to 14 (HCT stable at 26), and PA numbers elevated (still unable to wedge). But still continued to make 10-20cc/hr of urine. ARF worsening with Creat increasing from 1.6 to 2.2 by afternoon with bump in BUN and K rising from 5.1 up to 5.9.
+ Vascular team/attending notified by night RN on am rounds of absent BLE extremeties and cool/dusky CSM. When ppf turned off pt able to move legs slightly on bed but became aggitated so ppf restarted. BLE CSM worsened throughout the day with LLE becoming more mottled then RLE. Vascular team notified again and came to bedside to assess. Heparin gtt was started, NIVS done quickly and pt was brought to OR at 1630. 
+ Family (children/wife) in and out all day and consented to OR. 
+ Patient kept lightly sedated and comfortable on ppf/fent gtts. Denied any discomfort by nodding head and followed commands/moved extremeties on command.
+ No vent changes were made all day abg's acceptable on AC 650/14 PEEP 5 FIO2 60%. Trach had an occassional leak which resolved with putting more air in balloon. Pt had some pluggy secretions in am but no further significant secretions. 
+PLAN:
+ Pt currently in OR
+ Will further eval plan upon return from OR
+",,
+24593,8978,30541,0,3098-05-18 16:06:00 EST,3098-05-18 16:09:00 EST,1069,"N",1,"Nursing/Other","Resp Care:","
+Resp Care:
+   Patient on full vent support today. Presently in OR. Earlier on A/C of 650 x 14, 60% and +5 PEEP. BS=bilat with scattered rales. Earlier am he desated to 91% and was suctioned for small tannish mucous plugs with improved oxygenation afterwards. He is on a humidified circuit. Plan to continue with aggressive pulmonary hygiene and supportive care.
+",,
+24593,8978,30541,,3098-05-19 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3098-5-19**] 4:05 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 3999**]
+     Reason: r/o chf                                                     
+     Admitting Diagnosis: GOITER
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+           78 year old man s/p neck biopsy, trach req. Chemotx  that has LLQ pain and 
+         vomitted.                                        
+     REASON FOR THIS EXAMINATION:
+      r/o chf                                                                         
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     REASON FOR EXAMINATION:  Left lower quadrant pain and vomiting in a patient
+     after neck biopsy and tracheostomy.
+     
+     Portable AP chest radiograph compared to [**3098-5-17**].
+     
+     The left pleural effusion is increased being now of mild-to-moderate size. 
+     Several areas of discoid atelectasis in the left lower lobe are new.
+     
+     The heart size is moderately enlarged but stable.  The tracheostomy position,
+     the Swan-Ganz tip, and the NG tube are in standard positions.  There is still
+     a lucency below the right hemidiaphragm which might represent intraperitoneal
+     free air.  The diaphragmatic pleura on the right contains calcified plaques.
+     
+     IMPRESSION:
+     1.  Slight increase in the left pleural effusion.
+     2.  Several areas of left lower lobe discoid atelectasis.
+     3.  Remaining pneumoperitoneum cannot be excluded.
+     4.  Calcified pleural plaques.
+                                                                           
+
+",,
+24593,,30541,0,3098-05-19 03:39:00 EST,3098-05-19 04:03:00 EST,751,"N",1,"Nursing/Other","conditon update","
+conditon update
+d: pt arrived from the or not reversed. pt restarted on fentanyl and propofol drip. pt not woken up due to poor oxygenation and high fio2 and peep requirement. pupils are equal and reactive to light. no movement of extremities.
+cardiac: pt in afib with rate of 90-114. sbp down to 80;s and pt started on neo drip and titrated from .5 to 1.5mcg/kg/min. pt currently on .7 of neo. pt given 500cc fluid bolus for hypotension. pt transfused with 1 unit of prbc and pooled platelets. map remains in the low 60's and sbp 96-120. pa numbers are 50-70/30's and swan does not wedge. cvp is 15. co is 5 with index of greater than 2.5. pt arrived from or with palpable rt dp and foot cool to touch with dusky toes. left dp absent and dr. [**Last Name (STitle) **] aware and in to exam pt. leg cool to touch and mottled on foot. During the night, left leg has become increasing mottled up to thigh and right leg has become increasingly cool and mottled. Dr. [**Last Name (STitle) **] and Dr. [**Last Name (STitle) **] are aware. right dp is still palpable and audible with the doppler. Heparin drip restarted and remains at 500 units/hr. k up to 6.1 and treated with insulin, dextrose and sodium bicarb and kayexalate. k down to  5.1 and currently up to 5.9.  
+resp: pt arrived from the or with 02 sat of 92%. pt ambued and suctioned for thick tan/brown plug. see flowsheet for multiple abgs. and vent changes. pt continues to require large amts of fio2 and peep. current po2 is 78. mixed venous gas sent and o2 sat 60. Dr. [**Last Name (STitle) **] aware and no vent changes at this time.  repeat cxr x2 done. breath sounds are diminished in the bases.  
+gi: ngt to lcws draining thick bilious drainage. no bowel sounds. positive placement with ascultation. gtube remains clamped. 
+gu: minimal urine output and Dr. [**Last Name (STitle) **] and Dr. [**Last Name (STitle) **] aware. 
+skin: some bloody drainage from abd incision. dressing changed. legs continue  to have worsening mottling. 
+a: continue to monitor labs. keep sedated on propofol and fentanyl at this time. decrease iv fluid to 80cc/hr per Dr. [**Last Name (STitle) **]. 
+r: pt appears comfortable on propofol and fentanyl. pt continues to require large amt of peep and fio2. pt continues with minimal urine output.  
+",,
+24593,,30541,0,3098-05-19 04:53:00 EST,3098-05-19 04:55:00 EST,7817,"N",1,"Nursing/Other","Resp Care","
+Resp Care
+Pt remains on MV in AC mode as noted on Careview.  BBS-coarse/clear in upper lung fields, very diminished in bases.  Pt required ambu/sx on return from OR and mucus plug retrieved.  Pt continues to need 90% and 15 Peep.  Pt sx'ed for increasingly thick, creamy secretions.  Bag and mask at bedside.  Alarms on and functioning.  Continue to monitor closely.
+",,
+24593,,30541,0,3098-05-19 16:12:00 EST,3098-05-19 16:17:00 EST,940,"N",1,"Nursing/Other","Condition Update","
+Condition Update
+D: See carevue flowsheet for specifics
+ Patient's condition remained unchanged from overnight. LLE mottled with no pulses and RLE mottled with DP and graph pulses. Vascular attending came by this am and stated that in his past conversations with family pt would not want an amputation of LE-at this point BLE amputation is only option. Family came in ~11am and met with vascular resident/ICU resident, oncology resident, RN and social worker and stated emphatically that family were all aware of patient's wishes and would not want an amputation-entire family had had discussion re:pt's wishes a couple of months ago. 
+ This evening at 1700 neo, heparin and all fluids d/c'd only gtts continued fent/ppf. CMO plan initiated-vent FIO2 turned down to room air from 90% and PEEP from 15 to 5. Will continue to wean vent-?place trach collar. 
+PLAN:
+ Cont CMO efforts
+",,
+24593,,30541,0,3098-05-19 17:54:00 EST,3098-05-19 17:55:00 EST,940,"N",1,"Nursing/Other","Condition Update","
+Condition Update
+Patient expired at 1950. Vascular surgery and ICU resident notified.
+",,

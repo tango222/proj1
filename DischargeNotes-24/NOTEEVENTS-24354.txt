@@ -1,0 +1,177 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+24354,6954,,,3029-07-24 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+
+",,
+24354,6954,,,3029-07-24 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3029-7-24**] 5:35 PM
+     CT ABDOMEN W/O CONTRAST; CT PELVIS W/O CONTRAST                 Clip # [**Clip Number (Radiology) 1805**]
+     CT RECONSTRUCTION
+     Reason: please evaluate for renal mass
+     Field of view: 40
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      78 year old woman with severe hematuria and concern for invading mass in
+      urinary system.  s/p CVAs, nursing home resident.
+     REASON FOR THIS EXAMINATION:
+      please evaluate for renal mass
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CT OF THE ABDOMEN AND PELVIS WITHOUT IV CONTRAST FROM [**3029-7-24**] AT 17:50.
+     
+     INDICATION:  Hematuria through Foley catheter in a pseudodemented patient who
+     is a nursing home resident.
+     
+     TECHNIQUE:  Axial CT images were obtained from the lung bases through the
+     pubic symphysis without the use of oral or IV contrast (patient has an
+     elevated creatinine).
+     
+     There are no prior studies for comparison.
+     
+     CT ABDOMEN WITHOUT IV CONTRAST:  There is a small left pleural effusion and
+     basilar atelectasis bilaterally. There are pleural calcifications at the lung
+     bases.  The right hemidiaphragm is elevated. Scattered calcifications are seen
+     throughout a fatty liver.  The gallbladder is poorly visualized but has a
+     normal appearance.  The pancreas and spleen appear grossly normal.
+     
+     There are multiple vascular calcifications along the aorta, renal arteries,
+     SMA, splenic arteries, and iliac vessels.
+     
+     Multiple punctate calcifications are seen within the kidneys.  The kidneys are
+     grossly normal on this non-contrast examination.  There are no exophytic
+     lobulations or areas of hypodensity.  There is no hydronephrosis or
+     perinephric stranding.  The ureters are non-dilated throughout their course.
+     The bladder contains a Foley and is partially collapsed.  There is some high-
+     density material within the bladder which could represent soft tissue or clot.
+      In the absence of IV contrast it is difficult to differentiate.
+     
+     There is no free air or free fluid within the abdomen.  The large and small
+     bowel are non-opacified but adequately visualized.  There are no areas of wall
+     thickening or luminal dilatation or focal adjacent mesenteric stranding.
+     
+     CT PELVIS WITHOUT IV CONTRAST:  Within the mid pelvis is a 4 x 3 cm ovoid
+     lesion containing frank fat in a mural nodular soft-tissue density.  This
+     structure is adjacent to the expected location of the uterus and likely
+     represents a dermoid cyst.  Multiple diverticula are seen along the course of
+     the colon but there is no evidence of diverticulitis.  There are no enlarged
+     pelvic, mesenteric or retroperitoneal lymph nodes.  There are scattered non-
+     enlarged inguinal lymph nodes.
+     
+                                                                 (Over)
+
+     DATE: [**3029-7-24**] 5:35 PM
+     CT ABDOMEN W/O CONTRAST; CT PELVIS W/O CONTRAST                 Clip # [**Clip Number (Radiology) 1805**]
+     CT RECONSTRUCTION
+     Reason: please evaluate for renal mass
+     Field of view: 40
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     Bone windows show no suspicious lytic or blastic lesions.
+     
+     IMPRESSION:
+     
+     1) On this non-contrast CT examination there is no evidence of renal mass.
+     High-density material within the bladder is likely blood clot but a small
+     bladder wall mass cannot be excluded in this non-distended bladder in the
+     absence of IV contrast.  An ultrasound examination of the kidneys and bladder
+     with the Foley catheter clamped would be a useful study for better
+     visualization of these structures.
+     
+     2) Dermoid within the pelvis.
+     
+     These results were discussed by telephone with Dr. [**First Name4 (NamePattern1) 1806**] [**Last Name (NamePattern1) **].
+
+",,
+24354,6954,,,3029-07-24 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3029-7-24**] 5:35 PM
+     CT ABDOMEN W/O CONTRAST; CT PELVIS W/O CONTRAST                 Clip # [**Clip Number (Radiology) 1805**]
+     CT RECONSTRUCTION
+     Reason: please evaluate for renal mass
+     Field of view: 40
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      78 year old woman with severe hematuria and concern for invading mass in
+      urinary system.  s/p CVAs, nursing home resident.
+     REASON FOR THIS EXAMINATION:
+      please evaluate for renal mass
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CT OF THE ABDOMEN AND PELVIS WITHOUT IV CONTRAST FROM [**3029-7-24**] AT 17:50.
+     
+     INDICATION:  Hematuria through Foley catheter in a pseudodemented patient who
+     is a nursing home resident.
+     
+     TECHNIQUE:  Axial CT images were obtained from the lung bases through the
+     pubic symphysis without the use of oral or IV contrast (patient has an
+     elevated creatinine).
+     
+     There are no prior studies for comparison.
+     
+     CT ABDOMEN WITHOUT IV CONTRAST:  There is a small left pleural effusion and
+     basilar atelectasis bilaterally. There are pleural calcifications at the lung
+     bases.  The right hemidiaphragm is elevated. Scattered calcifications are seen
+     throughout a fatty liver.  The gallbladder is poorly visualized but has a
+     normal appearance.  The pancreas and spleen appear grossly normal.
+     
+     There are multiple vascular calcifications along the aorta, renal arteries,
+     SMA, splenic arteries, and iliac vessels.
+     
+     Multiple punctate calcifications are seen within the kidneys.  The kidneys are
+     grossly normal on this non-contrast examination.  There are no exophytic
+     lobulations or areas of hypodensity.  There is no hydronephrosis or
+     perinephric stranding.  The ureters are non-dilated throughout their course.
+     The bladder contains a Foley and is partially collapsed.  There is some high-
+     density material within the bladder which could represent soft tissue or clot.
+      In the absence of IV contrast it is difficult to differentiate.
+     
+     There is no free air or free fluid within the abdomen.  The large and small
+     bowel are non-opacified but adequately visualized.  There are no areas of wall
+     thickening or luminal dilatation or focal adjacent mesenteric stranding.
+     
+     CT PELVIS WITHOUT IV CONTRAST:  Within the mid pelvis is a 4 x 3 cm ovoid
+     lesion containing frank fat in a mural nodular soft-tissue density.  This
+     structure is adjacent to the expected location of the uterus and likely
+     represents a dermoid cyst.  Multiple diverticula are seen along the course of
+     the colon but there is no evidence of diverticulitis.  There are no enlarged
+     pelvic, mesenteric or retroperitoneal lymph nodes.  There are scattered non-
+     enlarged inguinal lymph nodes.
+     
+                                                                 (Over)
+
+     DATE: [**3029-7-24**] 5:35 PM
+     CT ABDOMEN W/O CONTRAST; CT PELVIS W/O CONTRAST                 Clip # [**Clip Number (Radiology) 1805**]
+     CT RECONSTRUCTION
+     Reason: please evaluate for renal mass
+     Field of view: 40
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     Bone windows show no suspicious lytic or blastic lesions.
+     
+     IMPRESSION:
+     
+     1) On this non-contrast CT examination there is no evidence of renal mass.
+     High-density material within the bladder is likely blood clot but a small
+     bladder wall mass cannot be excluded in this non-distended bladder in the
+     absence of IV contrast.  An ultrasound examination of the kidneys and bladder
+     with the Foley catheter clamped would be a useful study for better
+     visualization of these structures.
+     
+     2) Dermoid within the pelvis.
+     
+     These results were discussed by telephone with Dr. [**First Name4 (NamePattern1) 1806**] [**Last Name (NamePattern1) **].
+
+",,
+24354,,30241,0,3029-07-25 04:51:00 EST,3029-07-25 05:10:00 EST,2353,"N",69,"Nursing/Other","ADMISSION/EXPIRATION NOTE:","
+ADMISSION/EXPIRATION NOTE:
+PT ADM TO MICU FROM ER WITH HEMATURIA AND HYPOTENSION. PT SPENT SEVERAL HOURS IN ER WERE THEY TREATED PT WITH FLUID AND BP RESPONDED WELL BUT TRANSIENTLY DROPPED AND WAS DECIDED TO SEND HER HERE TO THE MICU FOR FURTHER TREATMENT AND POSSIBLE PRESSORS. PT IS DNR/DNI. PT WAS A RESIDENT AT THE [**Hospital3 2017**], PMH INCLUDED IDDM, BILATERAL AKA, CVA, ULCER, AND HEMATURIA. 
+PT ARRIVED IN MICU LETHARGIC, WITH FOLEY CATH DRAINING BLOODY URINE WITH CLOTS. TEMP ON ARRIVAL WAS 102 ORALLY. BP STABLE IN THE 100'S. HR IN NSR NO ECTOPY IN THE 70'S -80'S. IV FLUID INF AT 200/HR NS. 
+PT TRANSFUSED WITH 2 UNITS PACKED CELLS FOR LOW HCT. FOLEY CATH NOT DRAINING MUCH URINE, CATHETER FLUSHED FOR LRG AMT'S OF CLOTS AND DK RED URINE. 
+UNABLE TO DRAW LABS, INTERN STUCK PT IN R GROIN, PT RULING FOR MI. PT RECEIVED A DOSE OF ASA VIA NGT, AND STARTED ON ANTIBIOTICS. WBC 26. 
+BY 0430 PT BECAME INCREASINGLY MORE TACHYPEIC AND DROPPED HER O2 SAT'S TO THE HIGH 80'S, HR DROPPED TO THE 50'S FROM THE 60'S VERY QUICKLY. HO NOTIFIED, REPEATED EKG, INTERN OBTAINED ABG,  LACTATE 18, PH 7.00,HR RATE DROPPED TO 40'S AND THEN QUIKCLY TO ASYSTOLE. PT DNR/DNI. FAMILY NOTIFIED AND ARE COMING IN. PT'S PRIMARY CARE PHYSICIAN [**Name Initial (PRE) 852**]. PT PRONOUNCED 0534. 
+
+",,

@@ -1,0 +1,2307 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+24369,,,,2545-04-23 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2545-4-23**] 10:30 AM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 1960**]
+     Reason: VOMITING DOUBLE VISION F/U SHUNT MALFORMATION
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       75 year old man s/p shunt revision double vision and vomiting.
+     REASON FOR THIS EXAMINATION:
+      F/U FOR SHUNT MALFUNCTION.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  75 y/o woman status post shunt revision with vomiting and diplopia.
+     
+     COMPARISONS:  CT study of [**2545-3-5**] and MR study of [**2545-3-8**].
+     
+     TECHNIQUE:  Non-contrast head CT.
+     
+     FINDINGS:  There is no intra or extra-axial hemorrhage.  There is no mass
+     effect or shift of normally midline structures.  The frontal horns of the
+     lateral ventricles are small.  The remainder of the ventricles, sulci and
+     cisterns are unremarkable.  Again seen is a ventricular catheter, terminating
+     in the right frontal [**Doctor Last Name 79**].  There are multiple areas of low attenuation in the
+     cerebellum and cerebellar hemispheres, unchanged in appearance from the prior
+     studies, likely representing chronid infarctions.  There is no significant
+     change in the previously seen pituitary fossa mass.  The visualized paranasal
+     sinuses are clear.  Bone windows demonstrate again a frontal craniotomy
+     defect.  No fractures identified.
+     
+     IMPRESSION:  No acute bleed or shift of normally midline structures.
+     
+
+",,
+24369,13218,,,2545-04-27 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+
+Admission Date:  [**2545-4-27**]       Discharge Date:  [**2545-5-31**]
+
+Date of Birth:   [**2469-7-20**]       Sex:  M
+
+Service:  Neurosurgery
+
+HISTORY OF PRESENT ILLNESS:  The patient is a 75-year-old
+gentleman with a history of hydrocephalus with a couple of
+revisions of ventriculoperitoneal shunt who was admitted on
+[**2545-4-27**] with decreased mental status.  It was found the
+patient's ventriculoperitoneal shunt was not working.  The
+patient was admitted to [**Hospital1 4**]
+for further evaluation and management.
+
+PAST MEDICAL HISTORY:
+1.  Hydrocephalus.
+2.  Pituitary microadenoma.
+3.  Hypertension.
+
+PAST SURGICAL HISTORY:
+1.  Sinus surgery.
+2.  Ventriculoperitoneal shunt placement plus revision.
+3.  Status post appendectomy.
+4.  Frontal sinus surgery.
+
+HOSPITAL COURSE BY ISSUE/SYSTEM:  The patient was admitted to
+the Neurosurgery Service.  He underwent ventriculoperitoneal
+shunt revision of his new shunt and valve placement.
+
+1.  NEUROLOGIC ISSUES:  Initially, after the operation, the
+patient showed an improvement in mental status changes.
+However, on [**2545-5-7**] the patient's mental status started
+to deteriorate again, to the point where he became
+unresponsive.  He had to be intubated and
+transferred to the intensive Unit.  At the same time, the
+patient's
+white blood cell count decreased.  He spiked a fever.  He had
+a computed tomography scan of the head which showed dilated
+ventricles.  The patient's reservoir was accessed with [**Known patient firstname **]
+pus expressed.  The VP shunt was externalized.
+
+For the next four weeks the patient had multiple drain
+revisions due to poor flow and clogging by cell debris.  All
+changes were made on the right side with left side being
+saved for potential ventriculoperitoneal shunt placement in
+the future.
+
+The patient's mental status was depressed with localizing
+bilaterally and withdrawing to pain; however, this level was
+intermittently changing, mostly in correlation with well
+functioning of ventriculoperitoneal shunt.  On [**2545-5-30**], the
+patient's mental status was slightly
+improving with eyes opening and spontaneous movement of all
+extremities.  However, in the evening of that day, after his
+tracheostomy was suctioned, the patient's blood pressure
+increased to 190.  After that, he had bright red blood
+showing up in his drain, and his pupils became nonreactive.
+On examination, he was not moving extremities and was not
+withdrawing from pain.  He did not have gag reflex.
+
+He underwent an emergency head computed tomography scan which
+showed very large hemorrhage in the left hemisphere with
+midline shift
+and herniation. 
+His repeat examination was the same.  The patient had two
+apnea tests which were both showed no spontaneous respirations..
+
+On [**2545-5-31**], after discussing with the patient 's family his
+ventilator was disconnected the patient expired.
+
+2.  CARDIOVASCULAR SYSTEM:  The patient's blood pressure was
+somewhat labile throughout the whole stay in the hospital;
+however, mostly staying in the 90 to 150 range,
+intermittently requiring a Nipride drip and neosynephrine in
+order
+to meet blood pressure parameters.
+
+On [**5-30**], after right hemispheric bleed, the patient's
+blood pressure was low, requiring neosynephrine for blood pres
+sure
+support.
+
+3.  RESPIRATORY:  The patient remained intubated for all that
+time.  Intermittently, the patient was on continuous positive
+airway pressure with pressure support; however, we were
+unable to wean him off the ventilator because of his poor
+mental status.  Given the chronicity of the problems, the
+patient underwent a tracheostomy on [**2545-5-21**].
+
+On [**2545-5-30**] and [**2545-5-31**] the patient had an apnea
+test both of which he failed and expired upon withdrawing
+ventilator support.
+
+4.  GASTROINTESTINAL:  Once transferred to the Intensive Care
+Unit, the patient had a nasogastric tube placed and was
+started on tube feeds.  Also on [**2545-5-23**], the patient
+had percutaneous endoscopic gastrostomy tube placement and
+was continued on tube feeds per percutaneous endoscopic
+gastrostomy tube.  Throughout his stay in the hospital, there
+were no concerns or issues with gastrointestinal tract or
+liver.
+
+5.  RENAL:  The patient continued having good urinary output.
+No renal issues.
+
+6.  ENDOCRINE ISSUES:  In the beginning of the patient's
+Intensive Care Unit stay, he developed signs of syndrome of
+inappropriate secretion of antidiuretic hormone with low
+serum sodium.  However, it was corrected by fluid
+restriction.  The patient was intermittently receiving doses
+of dexamethasone to decrease his edema; otherwise,
+unremarkable.
+
+7.  INFECTIOUS DISEASE:  Concurrently with the patient's
+initial decompensation on [**2545-5-7**] he was found to have a
+urinary tract infection.  Once the initial VP shunt was
+accessed and drained, it was cultured which eventually grew
+Pseudomonas aeruginosa and pan-sensitive enterococcus.  The
+patient was initially treated with vancomycin, gentamicin,
+and ceftazidime; however, later on it was switched to
+vancomycin and gentamicin.
+
+Also, for a period of about two weeks, the patient was
+receiving IT injections of gentamicin.  Approximately after
+one week of initial antibiotic treatment, his urinary tract
+infection cleared.  His cerebrospinal fluid had cleared also,
+and the last three consecutive cultures were negative for
+bacteria.
+
+8.  MUSCULOSKELETAL:  The patient was seen by Physical
+Therapy and Occupational Therapy.  He had no active issues.
+
+Once it was evident the patient was taking a turn for the
+worse on [**2545-5-30**], the patient's family was contacted
+who arrived to be with the patient.  The situation and
+prognosis were explained by both the primary team as well as
+the Intensive Care Unit team.
+
+The family changed the patient's status to do not
+resuscitate/do not intubate and then eventually to comfort
+measures only, and the patient expired after withdrawing
+respiratory support.
+
+CONDITION AT DISCHARGE:  Death.
+
+DISCHARGE DISPOSITION:  The patient's body was released to
+the family.
+
+DISCHARGE DIAGNOSES:
+ 1.  Hydrocephalus; status post ventriculoperitoneal shunt
+revision.
+ 2.  Status post ventricular drain placement.
+ 3.  Status post meningitis.
+ 4.  Status post ventriculitis.
+ 5.  Status post left cerebral hemisphere bleed.
+ 6.  Status post cerebral herniation.
+ 7.  Hypertension.
+ 8.  Failure to thrive.
+ 9.  Respiratory failure.
+10.  Urinary tract infection.
+
+
+
+
+                            [**First Name11 (Name Pattern1) 1196**] [**Last Name (NamePattern4) 1197**], M.D.  [**MD Number 1198**]
+
+Dictated By:[**Last Name (STitle) 3706**]
+MEDQUIST36
+
+D:  [**2545-5-31**]  13:47
+T:  [**2545-5-31**]  16:23
+JOB#:  [**Job Number 5253**]
+
+
+
+
+
+
+
+Signed electronically by: DR. [**First Name8 (NamePattern2) 1196**] [**Last Name (NamePattern1) **]
+ on: TUE [**2545-7-13**] 1:15 PM
+(End of Report)
+
+
+",,
+24369,13218,,,2545-04-28 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2545-4-28**] 8:50 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 1963**]
+     Reason: S/p intubation.  Eval placement.  Eval pneumothorax         
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       75 year old man s/p VP shunt w/ pneumoceph                                     
+       
+     REASON FOR THIS EXAMINATION:
+      S/p intubation.  Eval placement.  Eval pneumothorax                             
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  S/P intubation.  VP shunt.
+     
+     AP CHEST:  In comparison to the prior study of 8:05pm the same day, there is a
+     new endotracheal tube approximately 7 cm above the carina.  Obscuration of the
+     left hemidiaphragm and left volume loss with hyperlucency of the right lung
+     are consistent with persistent left lower lobe atelectasis.  The heart size
+     and mediastinal and hilar contours are stable.
+     
+     IMPRESSION:  Tip of endotracheal tube approximately 7 cm above the carina.
+     Persistent left lower lobe atelectasis.
+     
+
+",,
+24369,13218,,,2545-04-28 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2545-4-28**] 8:35 AM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 1961**]
+     Reason: 75 yr old male s/p vp shunt revision now unresponsive please
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        75 year old man s/p shunt revision double vision and vomiting.                
+     REASON FOR THIS EXAMINATION:
+      75 yr old male s/p vp shunt revision now unresponsive please assess for new 
+      hemorrhage vs infarct or pneumocephalus
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT  (REVISED)
+     HISTORY:  75 y/o man status post shunt revision with double vision and
+     vomiting.  Now unresponsive.
+     
+     COMPARISON:  [**2545-4-23**].
+     
+     TECHNIQUE:  Non-contrast head CT.
+     
+     FINDINGS:  Compared to the study 5 days prior, there is now prominent
+     dilatation of the ventricular system.  Again seen is a ventricular catheter
+     traversing the right frontal lobe, and terminating in the left frontal [**Doctor Last Name 79**].
+     In addition to the dilated ventricles, there is air present in the non-
+     dependent portions.  Despite the dilatation of the ventricles, there is no
+     discernable effacement of the sulci or midline shift.  Again seen are multiple
+     areas of hypoattenuation in the cerebellum and cerebellar hemispheres,
+     reflecting of chronic infarction, unchanged since the prior study.  Previously
+     seen pituitary fossa mass is again identified and remains unchanged.  There is
+     a frontal epidural collection, unchanged from the prior study, most likely
+     post-operative in nature.  Again seen are craniotomy defects on the bone
+     windows. Images through the mid brain show regions of calcific arachnoiditis.
+     
+     These findings were communicated to [**Doctor First Name 14**] at the time of the interpretation.
+     
+     IMPRESSION:  Interval development of moderate pan-ventricular dilatation.
+     
+     
+
+",,
+24369,13218,,,2545-04-28 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2545-4-28**] 8:07 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 1962**]
+     Reason: eval pneumothorax, effusions                                
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      75 year old man s/p VP shunt w/ pneumoceph                                      
+     REASON FOR THIS EXAMINATION:
+      eval pneumothorax, effusions                                                    
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: VP shunt and respiratory distress.
+     
+     AP CHEST: Comparison to the prior PA and lateral chest radiograph of [**1-17**], 2003, there is new opacification of the left hemidiaphragm as well as
+     hyperlucency of the right lung and shift of the heart and mediastinum to the
+     left. These findings are indicative of left lower lobe atelectasis. The
+     remaining lung fields are clear and no pleural effusion is identified. The
+     heart is mildly enlarged, a finding which is stable. The VP shunt extends from
+     the right neck to the left upper quadrant and off the film.
+     
+     IMPRESSION: Interval development of left lower lobe atelectasis.
+
+",,
+24369,13218,,,2545-04-28 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2545-4-28**] 10:33 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 1964**]
+     Reason: assess for improvement in lung collapse                     
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        75 year old man s/p VP shunt w/ pneumoceph                                    
+         
+     REASON FOR THIS EXAMINATION:
+      assess for improvement in lung collapse                                         
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: History of lung collapse after VP shunt.
+     
+     AP CHEST: Comparison to the prior study of [**2545-4-28**], left lower lobe
+     atelectasis is markedly improved, and there has been reexpansion of the left
+     lung. The heart size, mediastinal and hilar contours and pulmonary vasculature
+     are within normal limits. Both costophrenic angles are excluded from the
+     study. The endotracheal tube terminates approximately 3-1/2 cm from the
+     carina.
+     
+     IMPRESSION: Interval improvement in left lower lobe atelectasis.
+
+",,
+24369,13218,30259,0,2545-04-28 14:56:00 EST,2545-04-28 15:10:00 EST,1951,"N",69,"Nursing/Other",,"
+
+MICU NURSING ADMIT NOTE:
+    Pt is a 75 yr old male with PMH sig for HTN, CVA, VP shunt.. Pt was admitted for and had revision of VP shunt on [**4-27**] by Dr. [**First Name (STitle) **]. O/n pt became inceasingly somnolent, and was unresponsive this am.. Head CT showed pneumocephalus and ? small SD hematoma.. Pt's shunt was tappled, and external butterfly needlw placed to drain.. attached to drainage, to be leveled at 10cm h2o above the tragus.. drainage only, not to be transduced. Pt arrives to MICU unresponsive. to cont with frequent nuero checks, leave shunt to drainage. 
+   Review of Systems
+  neuro: pupils equal.. sluggishly react to light. shunt draining clear fluid about 10cc's since admit. HOB to be kept > or = 60 degrees. has spontaneous tremors of lower ext.. no other spont movement.. withdraws all ext to pain.. transiently extended to pain on L arm x 1. team aware.
+   CV: HR 80's -90's, nsr, down to 70's after lorpessor 5mg iv.. bp 140's/80's. 
+    RESP: sats high 90's on 4L o2nc. rr 16-20.. nt sx x 1 for thick yellow secretions.. sent for cx. 
+    ID: tmax 101... blood cx sent x 1. urine cx sent and sputum cx. to start ceftriaxone when available.  WBC 15.5.
+    FE: NS with 20meq kcl at 80cc's/hr. fb negative, as uo excellent..
+     GU: foley was placed by GU last noc.. draining well. 
+   Access: 2 piv's placed. 
+   social: pt's wife and daughter into visit.. spoke with MD and received update.
+     Integ: buttocks and heels reddened on admit.. turned q [**1-11**].. reddness has diminished, cont to follow. 
+   A/p: pt with pneumocephalus after VP revision.. cont to follow freqent neuro checks. start abx, follow tcurve. 
+",,
+24369,13218,30259,,2545-04-29 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2545-4-29**] 2:02 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 1965**]
+     Reason: r/o shift, pneumo\                                          
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+         75 year old man s/p VP shunt w/ pneumoceph                                   
+           
+     REASON FOR THIS EXAMINATION:
+      r/o shift, pneumo\                                                              
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Status post VP shunt with pneumocephalus.  ? pneumothorax.
+     
+     TECHNIQUE:  A single portable AP upright view of the chest is compared with 4
+     hours prior.
+     
+     FINDINGS:  Again seen is a VP catheter crossing on this AP view from the right
+     neck to the left paraspinal area in the abdomen.  The left extreme
+     costophrenic angle is excluded from the study.  No definite pneumothorax is
+     seen.  The cardiac and mediastinal silhouettes are unremarkable.  There is no
+     shift of the heart or mediastinum.  No definite pulmonary opacities.  There is
+     mild degenerative change of the spine.  The endotracheal tube ends 7 mm from
+     the carina.
+     
+     IMPRESSION:  No evidence of acute cardiopulmonary disease.
+
+",,
+24369,13218,30259,,2545-04-29 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2545-4-29**] 11:49 AM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 1966**]
+     Reason: s/p vp shunt revision and hydrocephalus. mental status [**Doctor Last Name **]
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+         75 year old man s/p shunt revision double vision and vomiting.               
+       
+     REASON FOR THIS EXAMINATION:
+      s/p vp shunt revision and hydrocephalus. mental status changes. please evaluate 
+      for any change
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CLINICAL INFORMATION:  S/P shunt revision, now with double vision and
+     vomiting.
+     
+     NONCONTRAST HEAD CT:
+     
+     The exam was compared to prior study of [**2545-4-28**].
+     
+     FINDINGS:  On today's examination the patient was not able to go into the head
+     holder and the exam was done on the table with a larger field of view
+     therefore resorting in increased quantum model.  There is no change in
+     ventricular size from previous day's examination.  There is some absorption of
+     the gas within the ventricular system.  The small epidural collection
+     frontally is again noted.  There are no definite new findings.  The
+     ventricular catheter is unchanged in position.
+     
+     IMPRESSION:  Stable appearance of ventricles compared to prior day's study.
+
+",,
+24369,13218,30259,0,2545-04-29 04:30:00 EST,2545-04-29 04:48:00 EST,2437,"N",69,"Nursing/Other",,"
+
+event: as SPO2 dropped last evening, pt was NT suctioned, then intubated and bronched with removal of large amount of thick pale yellow sputum; see serial CXRs from last evening; pt's son was notified of this by phone; pt remains a full code
+
+neuro: remains unresponsive to verbal stimulus; at first responded to nailbed pressure only with very weak nonpurposeful withdrawal, but throughout the night has lightened up and now has weak random nonpurposeful movement of all four extremities; pupils remain 2-3mm and sluggish; butterfly drain from VP shunt with 25cc cumulative drainage of clear fluid
+
+cv: arterial line inserted last evening; BP has been very labile, profoundly sensitive to propofol given during procedures last evening; twice required fluid boluses and brief use of neosynephrine drip;  early AM hypotensive episode not due to any identifiable cause;  HR stable, lopressor held @ 0200 for low BP
+
+resp: lung sounds initially very diminished throughout, now clear throughout since bronch; continued moderate amount pale yellow sputum to suction; SP02 much improved since intubation, now high 90's on 40% FI02
+
+GI: needs nutrition addressed; abdomen benign
+
+GU: foley was inadvertently tugged during procedures with transient hematuria, now clearing; also transiently oliguric during hypotensive period, now with improving UOP
+
+skin: note macular rash over mid-back and re-assess; otherwise intact
+
+dispo/plan: continue mechanical ventilation and frequent neuro and respiratory reassessment
+
+[**First Name8 (NamePattern2) 2386**] [**Last Name (NamePattern1) 4520**], RN
+",,
+24369,13218,30259,1,2545-04-29 04:46:00 EST,2545-04-29 04:59:00 EST,2161,"Y",69,"Nursing/Other",,"
+
+BS improved aeration bilaterally.
+",,
+24369,13218,30259,0,2545-04-29 04:46:00 EST,2545-04-29 04:58:00 EST,2161,"N",69,"Nursing/Other",,"
+
+Respiratory Care:
+
+Patient intubated for low O2 sats 70's-80's on NRM. Decreased Bs L lung. ? L Lung collapse. Intubated with 8.0 ETT taped at 21cm. O2 sats slowly increasing with peep and sx'd. 4cc of 20% Mucomsyt given via ETT. Pt. ambu'd and sx'd for moderate amount of thick yellow sputum. O2 sats increasing to 97-100%.  Bronch done. Fio2 at 100%. Pt. maintaining adequate O2 sats.  Tolerated well. Thick secretions. BAL sent for cx's. Vent settings Vt 600, A/c 20, Fio2 100%, and Peep 10. Fio2 weaned to 50%. Repeat Abg 7.47, 29, 170, 22. Fio2 further weaned to 40% and A/c rate to 18. No further changes made. Continue with mechanical support.  
+",,
+24369,13218,30259,0,2545-04-29 14:32:00 EST,2545-04-29 15:07:00 EST,2412,"N",69,"Nursing/Other",,"
+
+MICUB 7A-7P RN Note
+Neuro:  Responds to verbal stimuli, attempts to open eyes to command pupils equal 2-3mm reaction sluggish, unable to open eyes follow visual field, impaired corneal reflexes. Moves extremities minimally on bed, grasps weak equal. Withdraws to painful stimuli. @1200 to CT for Head CT result pending.  VP shunt to drainage bag via butterfy @ 10cm, drainging clear CSF fluid with noted air escape.  CSF fluid sample collected by Neuro HO for Cult and gram stain. Pending results.
+
+CV:  HR 86-104 NSR-ST No ectopy, SBP 174-142 MAP 105-121, received Lopressor according to parameters. Peripheral Pulses Palp 3+ DP&DT, Neg peripheral edema. R radial aline zero sharp wave form. peripheral IV LR 10cc/hr, IV D5/.45NS with 20KCL infusing @80cc/hr, K+/3.9
+
+Resp: Vent CMV to SIMV Oral ET positioned right side vent Changes to SIMV 600-8-40%-8peep- 10PS  @1400 ABG 7.41-38-128-25. RR 8-14,
+Spont TV 320-380. PIP 18-23, O2 sat 95-100%. 
+ID:  Afebrile, Cont on Antibiotics
+GI:  Abd soft nondistented +BS hypoactive 4 Quadrants, @1145 [**Hospital1 **] Sump places Left nares by HO palacement verified by Gastric auscultation place on low intermittent suction. Draining sm amt of bile drainage.  No BM passing Flatus.
+GU:  Foley draining Hematuria with sm clots Cath irrig. with NS for sm alamt of stingy clots. U/O 100-18cc/hr. BUN 20 creat 0.9 
+Derm:  Color flush skin warm and dry, Turned and positioned q2hrs skin care/back care.
+Social:  Wife and family visiting most of afternoon.  
+",,
+24369,13218,30259,,2545-04-30 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2545-4-30**] 1:00 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 1967**]
+     Reason: h/o of mucous plugs please evaluate for consolidation       
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+          75 year old man s/p VP shunt w/ pneumoceph                                  
+             
+     REASON FOR THIS EXAMINATION:
+      h/o of mucous plugs please evaluate for consolidation                           
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Mucous plugging.
+     
+     Comparison is made to previous chest radiograph dated one day earlier.
+     
+     An endotracheal tube remains in place, with the tip terminating at
+     approximately the level of thoracic inlet, about 8 cm above the carina.  A
+     nasogastric tube courses below the diaphragm.  A catheter traversing the right
+     hemithorax and projecting over the left upper abdomen likely represents a VP
+     shunt catheter.
+     
+     Allowing for rotation of the patient, cardiac and mediastinal contours are
+     considered within normal limits.  The right lung appears clear.  Within the
+     left lung, there is some patchy opacity within the retrocardiac region which
+     does not obscure the hemidiaphragm.
+     
+     The left costophrenic angle has been excluded from the radiograph and cannot
+     be assessed.  The right costophrenic sulcus appears clear.
+     
+     IMPRESSION:
+     
+     1.  Small patchy focus of increased opacity in the left retrocardiac region.
+     Differential diagnosis includes patchy atelectasis, aspiration, and early
+     pneumonia.  Follow up radiographs may be helpful.
+     
+     2.  Slightly proximal location of endotracheal tube, terminating approximately
+     8 cm above the carina.
+
+",,
+24369,13218,30259,0,2545-04-30 05:11:00 EST,2545-04-30 05:19:00 EST,2485,"N",69,"Nursing/Other",,"
+
+Neuro: continues lethargic throughout the night, rousing when awakened for bath and demonstrating eye-opening to voice, attempting to move arms to command, but promptly became lethargic again when stimulation ceased--VP shunt drain gradually lowered to the level of the tragus during the night and very little drainage noted
+
+CV: vs remain stable with no hypotensive episodes during the night
+
+resp: good ABG's this AM and good SP02 all night on 40%/simv8x600/8p10ps; moderate amounts thin pale yellow sputum to suction
+
+GI: abdomen soft and benign; scant bilious drainage from NG tube
+
+GU: urine beginning to clear of sediment but still cloudy; no [**Known patient firstname **] blood or clots noted, although output still low
+
+skin: again a macular rash was noted over mid-back area but unchanged since yesterday
+
+plan/dispo: continue mechanical ventilation until more awake, consider nutrition; remains full code
+
+
+",,
+24369,13218,30259,0,2545-04-30 14:33:00 EST,2545-04-30 15:15:00 EST,2412,"N",69,"Nursing/Other",,"
+
+MICUB 7A-7P RN Note
+Neuro: Inconsistent neuro response. refer to CareVue, opened eyes to veral command one time, otherwise eyes remain closed noted attempts to open eyes to verbal command by eye lid fickering. Pupils equal 3mm sluggish to brisk movement to light throughout day, moves extemities on bed and to verbal command. grasps equal weak strength. follows commands inconsistently. moves toes to commamnd and bends up knees to command.
+VP shunt drain open to gravity drainage/ level collection container positioned to maintain CSF fluid drainage 5-10cc/hr. CSF drainage 6- 16cc/hr total drainage refer to CareVue. VP cath drsg D&I.
+
+CV:  HR 68-79, NSR no ectopy, SBP 162-120 MAP 109-124, Lopressor 5mgx2 per parameters. R radial Aline wave form sharp. Peripheral Pulses 3+ DP&DT, Neg. peripheral edema. IV D5/.45NS 20KCL 80cc/hr @1100 decreased to 50cc/hr. LR maintenance 10cc/hr.  K+ 3.5
+
+Resp:  Vent oral ETT #8 positioned right side,  RSBI 62.9 @ 0700 vent wean to CPAP 40% 5PS, RR 18-20 Spont Tv 320-400, O2 sat 95-100%, Suctioned via ET for mod amt thick yellow secretions and orally for thick white. @1400 returned to SIMV 600-8-40% 8Peep 10PS ABG pending. sat 98-100%. Lungs: clear bilateral.
+
+GI:  Abd soft nontender +BS, Passing flatus, Sm BM soft brown.  [**Hospital1 **] Sump to intermittent suction draining bileous color drainage 200cc.
+
+GU:  Foley u/o 60-140cc/hr clear yellow urine BUN 20 Creat 0.8
+
+Derm: Color pink skin Warm and Dry, skin intact, Afebrile.
+
+Social:  Family visiting [**Last Name (un) 717**] support system.  Family udated by Medical team. 
+",,
+24369,13218,30259,,2545-05-01 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2545-5-1**] 2:12 PM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 1968**]
+     Reason: HX. BRAIN BLEED, EVALUATE INTERVAL CHANGE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+          75 year old man s/p shunt revision double vision and vomiting.              
+         
+     REASON FOR THIS EXAMINATION:
+      eval interval change                                                            
+     CONTRAINDICATIONS for IV CONTRAST:
+      do not want
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: History of brain bleed, status post shunt revision, now with
+     double vision and vomiting.
+     
+     TECHNIQUE: Routine noncontrast head CT.
+     
+     COMPARISON: [**2545-4-29**].
+     
+     FINDINGS:  Again noted is a right frontal ventricular catheter.  There has
+     been interval absorption of some gas within the ventricular system.  The
+     ventricles may be slightly smaller than on the prior study.  The frontal
+     epidural collection is unchanged in appearance.  No new areas of hemorrhage
+     are identified.  There is no significant mass effect or shift of normally
+     midline structures.
+     
+     IMPRESSION: Slight interval decrease in size of the ventricles.  Unchanged
+     frontal epidural collection.
+
+",,
+24369,13218,30259,0,2545-05-01 04:08:00 EST,2545-05-01 04:10:00 EST,2183,"N",69,"Nursing/Other",,"
+
+Resp Care Note:
+
+Pt cont intub on mech vent as per Carevue. Lung sounds coarse suct mod th yellow. RSBI~31 this AM. No vent changes made overnoc. Wean as tol with PSV.
+",,
+24369,13218,30259,0,2545-05-01 04:19:00 EST,2545-05-01 04:30:00 EST,2393,"N",69,"Nursing/Other","npn 7-7am","
+npn 7-7am
+
+neuro: Pt arouses to stimuli. Opens eyes slightly when name is called, follows commands consistently, MAE. PERL. VP shunt in place and is open to gravity. Goal is for 5-10 cc/h CSF drainage. CSF fluid is clear and has drained as expected overnight.
+
+resp: SIMV 600/8/40% PEEP 8  PS 10. Sats 98-100%. LS coarse. Suctioned for moderate amounts of thick yellow sputum.
+
+CV: SR 56-70's. Occasional pvc's this am. At 0400 BP 180-190 systolic with map 125. Dr [**Last Name (STitle) **] made aware and ordered pt to start on nipride gtt. Gtt is currently at 0.7 mcg/kg/min with BP 140's/70's.
+
+access: L radial aline, 2 piv.
+
+GI/GU: Belly soft with + BS. Small bm overnoc. NGT in place to LIWS draining light green bile.  Patent foley draining ~ 30cc/h. U/O dropped off at 2200 and Dr [**Last Name (STitle) **] was informed.
+
+Skin: Intact.
+
+Social: Son in visiting last eve.
+
+Plan: Monitor BP, shunt output.
+",,
+24369,13218,30259,0,2545-05-01 16:15:00 EST,2545-05-01 16:39:00 EST,1589,"N",69,"Nursing/Other","MICU Nuring Progress Note 7am-7pm","
+MICU Nuring Progress Note 7am-7pm
+See Carevue for Additional Objective Data
+#1:Impaired Neuro Fx s/p SDH/External drain of Shunt
+D:Easily arousable, opens eyes to commands, follows commands PERRL 3mm/brisk. MAE, lifts and holds. Made attempts to communicate this afternoon by mouthing words. Making some efforts to reach for ETT tube. Hands remain restrained
+  Family in to visit this afternoon, recognized them
+  Drain is patent, draining clear fluid 5-10cc/hr. Drained >10cc x2, HOB adjusted.
+  HR:68-84 SR BP:stable in 145-160 on .7 mcg/kg/min of Nipride.
+  U/O:15-75cc/hr IVF @ 50cc/hr
+
+A:Increased Lopressor to 10mg IV QID
+  Added Hydralazine QID
+  Repeat Head CT
+  Nipride weaned
+  Lasix 20mg x1
+
+R:Tolerated increase dose of lopressor, and addition of hydralazine, Nipride down to .2 mcg/kg/min, Brisk response to lasix I/O's negative almost 800cc.Cont to monitor neuro fx, consider extubation when a more alert and able to participate in care and protect airway. Continue with supportive care as previously documented
+
+#2 Respiratory Failure
+D:Remains intubated and mechanically ventilated. BS with some scattered rhonchi in upper airway, clear with suctioning. Suctioned q 1-3 hours for small to moderate amounts of thick yellow secreations. RSBI:31 this am. SpO2:98-100% RR:14-24/min
+  Afebrile
+
+A Weaning trial PEEP:0 PSV:5 x approx 3 hours- RR:16-20/min
+ SpO2:97-99%
+  Placed on PSV:5 PEEP:5 after weaning trial
+
+R:Tolerated weaning trial, ABG:76/39/7.42. Decision not to extubate-secreations, still on Nipride, + fluid balance, marginal ability to DB&C and expectorate secreations. Responded well to lasix, nipride being weaned. Continue with aggressive pulmonary hygeine, evaluate for extubation in the morning
+
+",,
+24369,13218,30259,0,2545-05-02 04:09:00 EST,2545-05-02 04:19:00 EST,2353,"N",69,"Nursing/Other","NURSING PROGRESS NOTE:","
+NURSING PROGRESS NOTE:
+PT REMAINS INTUB AND MECH VENTILATED, PRESENTLY ON CPAP 40% WITH SPON TV 400-500, RESP RATED 15-20'S, [**4-12**] PS AND PEEP. PT HAS BEEN SX OCC FOR THICK CLEAR/WHITE SECRETIONS. LUNG SOUNDS OCC COARSE BUT CLEARS WITH SUCTIONING. O2 SAT'S HAVE [**Last Name (un) **] HIGH 90'S TO 100%. 
+NEURO: PT RESPONDS TO VOICE AND OBEYS SIMPLE COMMANDS. HANDS RESTRAINED AS PT ATTEMPTS TO PULL ETT WHEN ABLE. PUPILS EQUAL AND REACTIVE TO LIGHT. MAE, GAG/COUGH REFLEX INTACT. HEAD DRAIN DRAINING SMALL AMT'S OF CLEAR FLUID. PRESENTLY AT 10CM AT TRAGUS OR WHATEVER FACILITATES DRAINAGE.
+CV: HR SINUS WITH RARE TO OCC PVC'S RATES IN 60'S TO 70'S. BP IN 130-150 RANGE, TOL INC DOSE OF LOPRESSOR AND NEWLY ADDED HYDRALAZINE. NIPRIDE TURNED OFF SINCE 8PM. AFEBRILE. 
+GI: PT HAS NGT, OCC TO LWS DRAINING SMALL AMT'S OF BILIOUS DRAINAGE. CLAMPED AT PRESENT. ABD SOFT WITH BOWEL SOUNDS. INCONT OF MOD AMT' OF SOFT FORMED STOOL, GUIAIC NEG. 
+GU: FOLEY CATH DRAINING SM AMT'S OF YELLOW URINE THROUGHOUT THE NIGHT.
+SKIN: PT'S SKIN INTACT, SMALL AREA ON CHEEK OF BUTTOCKS THAT IS SLIGHTLY REDENED BUT NOT BROKEN DOWN. SLIGHTLY RASHY ON BACK.
+HAVE NOT HEARD FROM FAMILY OVERNIGHT.
+SEE FLOWSHEET FOR OBJECTIVE DATA.
+",,
+24369,13218,30259,0,2545-05-02 15:24:00 EST,2545-05-02 15:44:00 EST,1831,"N",69,"Nursing/Other","MICU B RN NOTE---REVISED VP SHUNT","
+MICU B RN NOTE---REVISED VP SHUNT
+THIS IS A 75 YO MAN WHO ON [**4-27**] HAD HIS 5YO VP-SHUNT REVISED (VALVE STOPPED WORKING). ON [**4-29**] HE WAS INTUBATED, BRONCHED, AND ALINE PLACED. TODAY WAS EVENTFUL FOR EXTUBATION AND HIS AWAKENING MORSO THAN HE HAS.
+
+CV:SR. GOAL BP= 130-150MMHG. LOPRESSOR AND HYDRALIZINE CONT. (HYDRAL DOSE INC TODAY). RECEIVED 40PO KCL REPLETION FOR AM K=3.4. 1500 K=4.2. 
+
+RESP: EXTUBATED AT 0745, POST EXTUBATION ABG EXCELLENT, REMAINS ON 35% FACE TENT. VERY WEAK COUGH, AND YANKAURING THE BACK OF HIS THROAT Q3 HOURS IS NECESSARY. CPT CONTINUES AS ORDERED Q3 HOURS. INTERMITTANTLY PRODUCTIVE AFTER CPT.
+
+GI/GU: NGT CLAMPED. PT FAILED A TRIAL OF TUBE FEEDING D/T HIGH RESIDUALS. FOLEY. HE IS ABOUT 300(+) THUS FAR TODAY. 
+
+ID: NO ISSUES. CEFTRIAXONE CONTS. 
+
+NEURO: INTERMITTANTLY FOLLOWS COMMANDS. WAXES AND WANES BETWEEN BEING AWAKE ENOUGH TO FOLLOW COMMANDS, AND TOO SLEEPY. HAVE, PER ORDERS, MAINTAINED 5-10CC OUT THE VP-DRAIN. IS IS ON THE POLE AT 10CM H2O, WITH GOAL BEING: ADJUST HOB TO FACILITATE THE 5-10CC PER HOUR OUT. PEARL. SOFT RESTRAINTS REMOVED WITH EXTUBATION. MAE. 
+",,
+24369,13218,30259,0,2545-05-03 04:05:00 EST,2545-05-03 04:13:00 EST,2353,"N",69,"Nursing/Other","NURSING PROGRESS NOTES:","
+NURSING PROGRESS NOTES:
+PT ALERT WHEN AWAKE, ORIENTED X 1. DOES NOT KNOW WHERE HE IS OR WHAT DAY IT IS. ABLE TO ANSWER SIMPLE QUESTIONS APPROP. SPEECH IMPROVING AS TIME GOES ON. PUPILS EQUAL AND BRISKLY REACT TO LIGHT. MAE IN THE BED.
+CLEAR FLUID DRAINING FROM VENTRICULAR DRAIN, ADJUSTING HEAD OF BED OR LEVEL OF HOB TO ACHIEVE 5-10CC DRAINAGE EACH HOUR. PT FREQ TAKING OXYGEN MASK OFF AND IN MIDDLE OF NIGHT HAS PULLED OUT NGT. 
+CV: HR IN 60'S TO 60'S WITH OCC PVC'S NOTED, TOLERATING LOPRESSOR. BP STABLE MAINTAINING 130-140'S WITH HYDRALAZINE/LOPRESSOR. 
+GI: NGT PULLED OUT BY PT. ASKED FOR BEDPAN AND HAD SMALL SOFT BM. STARTED ON REGLAN IV, GOOD BOWEL SOUNDS.
+GU: FOLEY CATH PATENT, DRAINING SMALL AMT'S OF CLEAR YELLOW URINE. 
+IV FLUIDS; CONT ON NS WITH 20KCL AT 50/HR. 
+IV ACCESS: PT CONT TO HAVE 2PERIPHERAL IV AND AN ALINE.
+HAVE NOT HEARD FROM ANY FAMILY OVERNIGHT.
+WBC DRAWN THIS AM IS TRENDING DOWNWARD AND IS AFEBRILE.
+PT TURNED AND CPT DONE, PT HAS GOOD COUGH BUT UNABLE TO RAISE TO MOUTH. PT HAS SLEPT IN NAPS.
+",,
+24369,13218,30259,0,2545-05-03 14:53:00 EST,2545-05-03 15:29:00 EST,1831,"N",69,"Nursing/Other","MICU B RN NOTE--0700-1900--REVISION OF VP SHUNT","
+MICU B RN NOTE--0700-1900--REVISION OF VP SHUNT
+STABLE DAY. WITH SOME NEURO IMPROVEMENT.
+
+ROS: 
+CV: VSS. NO ISSUES. CONT METOPROLOL AND HYDRALIZINE.
+
+RESP: CPT Q3 HOURS. BBS: NOTABLY IMPROVED TODAY, MOSTLY CLEAR, OCC DIMINISHED (FROM PT'S LACK OF TAKING A DEEP BREATH). HE IS COARSE/JUNKY WITH COUGHING THAT CLEARS WITH THE YANKAUER-->TO THE BACK OF HIS THROAT. 35% FACE TENT FOR HUMIDIFICATION
+
+GI/GU: FOLEY. SMEAR STOOL. TOL GOAL RATE IMPACT AT 70CC/HOUR. NEW NGT PLACED BY [**Name8 (MD) **],MD. 250CC IVF BOLUS FOR LOW UOP. FOLEY
+
+LINES: 2-PIV'S. AND A RT RAD A LINE. 
+
+ID: NO ISSUES. CONT CEFTRIAXONE
+
+NEURO: VP SHUNT OUTPUT IS CLEAR. HAS BEEN ADJUSTED TO FACILITATE 5-10CC/HOUR OUTPUT. HIS SPEECH IS MUCH CLEARER, BUT HE CONTS TO WHISPER/HAVE A WEAK VOICE. MAE. BILATERALLY EQUAL IN STRENGTH. INTERMITTENTLY ORIENTED X2. PEARL. FOLLOWS COMMANDS, AND IS VERY HELPFUL TO HELP STAFF TURN HIM.
+
+PLAN: 
+1) 5-10CC/HOUR OUT OF VP DRAIN.
+2)REGLAN FOR GUT MOTILITY
+3) CT TOMORROW (ROUTINE ON POD 4 TO ASSESS FOR AIR
+",,
+24369,13218,30259,,2545-05-04 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2545-5-4**] 9:10 AM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 1969**]
+     Reason: S/P SHUNT HX: VOMITTING AND DOUBLE VISION
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+           75 year old man s/p shunt revision double vision and vomiting. Now w/ 
+      external drain for roughly a week.              
+     REASON FOR THIS EXAMINATION:
+      Evaluate hydroceph.                                                             
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CT SCAN OF THE BRAIN [**2545-5-4**]
+     
+     INDICATION:  Shunt revision with external drainage for hydrocephalus, double
+     vision and vomiting.
+     
+     TECHNIQUE:  Axial non-contrast CT scans of the brain were obtained.
+     
+     FINDINGS:  Comparison is made to the previous CT scans of [**2545-5-1**] and [**2545-4-29**].
+     
+     In the interval since the previous studies, the ventricles have further
+     decreased in size. They are not dilated at this time. There is no change in
+     the position of the right frontal ventricular catheter. There is also a stable
+     frontal epidural collection. Small areas of decreased attenuation scattered
+     throughout the white matter and deep [**Doctor Last Name 66**] structures are stable and likely
+     represent infarctions. There is no acute intracranial hemorrhage. There is no
+     shift of mid-line structures.
+     
+     There are dense calcifications of vertebral common basilar and carotid
+     arteries.
+     
+     IMPRESSION:   Non-dilated ventricles. Stable appearance of the brain.
+
+",,
+24369,13218,30259,,2545-05-04 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2545-5-4**] 10:37 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 1970**]
+     Reason: Eval placement of ngt.  XRAY per [**Hospital Unit Name 1297**] protocols             
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+           75 year old man s/p VP shunt w/ pneumoceph                                 
+               
+     REASON FOR THIS EXAMINATION:
+      Eval placement of ngt.  XRAY per [**Hospital Unit Name 1297**] protocols                                 
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Placement of NGT.  S/P VP shunt placement.
+     
+     TECHNIQUE:  Single AP view of the chest is compared with prior study of four
+     days ago.
+     
+     FINDINGS:  Again seen is a VP shunt crossing the torso from the right neck to
+     the left abdomen.  There is an NGT in place, with the tip in the stomach, but
+     this appears shallow, and the sideport is not definitely below the diaphragm.
+     The NGT could be advanced another 10 cm.  The cardiac silhouette is within
+     normal limits given technique; there is a small left-sided pleural effusion.
+     There is a left-sided chest tube, terminating in the apex (the tip cannot be
+     clearly visualized due to the patient's chin).  The osseous structures are
+     within normal limits.
+     
+     IMPRESSION:  NGT tip is in the stomach, though the sideport may be above the
+     diaphragm.  NGT could be advanced another 10 cm.
+
+",,
+24369,13218,30259,0,2545-05-04 04:54:00 EST,2545-05-04 05:04:00 EST,2353,"N",69,"Nursing/Other","NURSING PROGRESS NOTE:","
+NURSING PROGRESS NOTE:
+NO CHG'S OVERNIGHT. CONTINUES TO BE ALERT AND ORIENTED TO NAME. PT VERBALIZING BETTER AND EASIER TO UNDERSTAND. MAE AND PUPILS EQUAL AND REACTING. HEAD DRAIN OPEN AND DRAINING 5-15CC/HR OF CLEAR FLUID. SOME OLD DRIED BLOOD IN LEFT EAR, CLEANED AND NO FURTHER BLEEDING NOTED. UNKNOWN SOURCE. 
+RESP: RECEIVED ON 35% SHOVEL MASK, PT PULLING AT IT AND COMPLAINING THAT IT WAS COLD ON HIS FACE, O2 CHG'D TO 4LNC WITH GOOD O2 SAT'S AND NOT PULLING IT OFF. LUNG SOUNDS CLEAR AND DIMINISHED AT THE BASES. GOOD O2 SAT'S ALL NIGHT.
+CV: CONT ON LOPRESSOR AND HYDRALAZINE, NO UNTOWARD EFFECTS. NSR WITH RARE PVC, RATE 60-70. BP STABLE, ONE DOSE OF LOPRESSOR HELD FOR 2/HRS BECAUSE BP ON THE LOW SIDE WHILE ASLEEP. TEMP AX 99.8 MAX.
+GI: PT RECEIVING TUBE FEEDS VIA NGT AND TOLERATING WELL WITH MINIMAL RESIDUALS. NO STOOL OVERNIGHT, CONT ON REGLAN, BOWEL SOUNDS PRESENT. 
+GU: FOLEY CATH PATENT WITH LOW U/O. 
+IV FLUID, CONT WITH NS WITH 20KCL AT 50/HR. 
+SKIN INTACT, TURNED Q [**1-11**]/HRS. CPT, PROD COUGH BUT UNABLE TO RAISE TO MOUTH. MOUTH CARE GIVEN AND SX FOR THICK SECRETIONS AT BACK OF THROAT. 
+
+",,
+24369,13218,30259,0,2545-05-04 15:38:00 EST,2545-05-04 15:50:00 EST,2437,"N",69,"Nursing/Other","NURSING NOTE: 7A-7P","
+NURSING NOTE: 7A-7P
+NEURO- PT VERY EASILY AROUSABLE BY VOICE. ORIENTED TO SELF AD OCCASIONALLY TO BEING SPECIFICALLY AT [**Hospital1 3**]. CONTINUES TO BE DISORIENTED TO TIME AND PLACE. PT VERY COOPERATIVE AND FOLLOWING COMMANDS CONSISTENTLY. MAE WITH EQUAL STRENGTH. DENIES ANY PAIN OR DISCOMFORTS. BUTTERFLY DRAIN WAS CLAMPED AT APPROX 11AM S/P HEAD CT. PT'S NEURO STATUS UNCHANGED FROM TIME OF CLAMPING.
+
+RESP- LS CLEAR BUT DIMINSHED AT BASES. O2 TITRATED TO 2L WITH SATS >95%. CPT CONTINUED, WITH STRONG COUGH BUT NEEDS YANKUER TO FULLY EXPECTORATE.
+
+CV- HR 70-80'S SR NO ECTOPY. SBP 118-140'S ON IV LOPRESSOR AND HYDRALIZINE. PLAN IS TO CHANGE TO PO'S TOMOORW MOST LIKELY. +PPP. AFEBRILE. 
+
+GI- ABD SOFT +BS , SMALL SOFT BM, TOLERATING TF AT GOAL 70CC/H. SWALLOW STUDY DONE TODAY AT BEDISDE WAS UNSATISFACTORY. PT NEEDS VIDEO STUDY TOMORROW AM.
+
+ACCESS- 2 #18 PIV, BOTH PATENT AND WNL.
+
+SOCIAL- DAUGHTER AND WIFE VISITED AT BEDSIDE. QUESTIONS ANSWERED.
+
+DISPO- REMAINS IN MICU, FULL CODE. PTX AT BEDSIDE AT PRESENT, TO GET OOB. VIDEO STUDY TOMORROW. CONTINUE TO MONITOR NEURO STATUS FOR CHANGES SINCE DRAIN CLAMPED.
+",,
+24369,13218,30259,,2545-05-05 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2545-5-5**] 6:03 AM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 1971**]
+     Reason: r/o increasing ventricular size.                            
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+            75 year old man s/p shunt revision double vision and vomiting. Now w/  
+      external drain for roughly a week.              
+     REASON FOR THIS EXAMINATION:
+      r/o increasing ventricular size.                                                
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT  (REVISED)
+     CT OF THE BRAIN WITHOUT CONTRAST:
+     
+     INDICATION:  75 year old male status-post shunt revision with double vision
+     and vomiting. Evaluate for increased ventricular size.
+     
+     TECHNIQUE:  Non-contrast CT imaging of the brain. Comparison is made to a
+     prior study from the previous day.
+     
+     FINDINGS:  There is evidence of moderate increase in size of the ventricles
+     when compared to the prior day's examination. At this time, the ventricular
+     system is mild to moderately dilated, most evident involving the fourth
+     ventricle.  There is evidence of intraventricular hemorrhage, with a tiny
+     amount high attenuation material within the dependent portion of the left
+     lateral ventricle. There is an unchanged appearance of a drainage catheter
+     within the right frontal [**Doctor Last Name 79**]. There is a stable appearance of a right- sided
+     low attenuation lesion consistent with chronic microvascular infarct. There is
+     no evidence of acute major vascular territorial infarct. There is no evidence
+     of shift of normally mid-line structures. There is dense calcification of the
+     vertebral, basilar and carotid arteries.
+     
+     IMPRESSION:
+     1) Generally moderate increase in  size of the ventricular system when
+     compared to the previous day.
+     
+     These findings were relayed shortly after interpretation to the neurosurgical
+     team responsible for this patient's care.
+     
+
+",,
+24369,13218,30259,0,2545-05-05 04:48:00 EST,2545-05-05 04:56:00 EST,2393,"N",69,"Nursing/Other","7-7pm","
+7-7pm
+Change in mental status noted at 0545. Dr [**Last Name (STitle) **] notified immediately.  Pt is no longer oriented to time and place, staring off into space, speech is not coherent and pt is not as interactive as he he was last night.  Also notified Dr [**Last Name (STitle) 4479**] and he has ordered a head CT.   
+
+resp: 2 L NC. LS clear.
+
+CV: VSS. NSR, no ectopy.
+
+GI/GU: Belly soft with + BS. TF at 70cc/h. Pt pulled out NGT last eve and it was reinserted and placement confirmed by CXR. Received 500cc bolus for decreased u/o at 2130. Good u/o since.
+
+Skin: Intact.
+
+Social: No contact with family overnight.
+
+Plan: Head CT and swallow study.
+",,
+24369,13218,30259,0,2545-05-05 17:22:00 EST,2545-05-05 17:32:00 EST,-1,"N",69,"Nursing/Other","NSICU Nursing Progress Note","
+NSICU Nursing Progress Note
+Neuro:  Pt has VP shunt that that is accessed via butterfly and is acting as a ventriculostomy.  Currently level of drain is adjusted to mediate 10-15 cc's of CSF.  Pt to OR at 1845 to have shunt revision.  Pt inconsistantly follows commands.  Unable to track.  Moves legs on bed and UE able to lift and hold.  Pupils pearl.  Pt only A&O x1 abd arousible to voice.
+
+Cardiac:  PT in SR HR 60-70's.  Minimal Vent ectopy.  BP 140-170's sys.  Goal sys is <180.
+
+Resp:  Pt O2 sat 95-98% on 2L via NC.  BS clear and equal bilaterally.
+
+GI:  Pt NPO since about noon for OR this evening.  +BS, -BM.  Abd soft NT.
+
+GU:  Pt has f/c with good u/o.  IVF at 60 cc/hr.
+
+Access:  PIV x2 and R rad [**Doctor Last Name **].
+
+ID:  Pt afebrile on kefsol.
+
+MISC:  Pt will most likely recover up in the ICU.
+",,
+24369,13218,30259,,2545-05-06 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+",,
+24369,13218,30259,,2545-05-06 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2545-5-6**] 11:01 AM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 1973**]
+     Reason: Eval stroke, bleed, ventricular change                      
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+             75 year old man s/p shunt revision double vision and vomiting. Now w/   
+      external drain for roughly a week. S/P VP shunt revision [**5-6**].
+     REASON FOR THIS EXAMINATION:
+      Eval stroke, bleed, ventricular change                                          
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: S/P shunt revision, double vision, vomiting.
+     
+     TECHNIQUE: Routine non-contrast head CT.
+     
+     COMPARISON: [**2545-5-5**].
+     
+     FINDINGS: There has been interval decrease in the size of the ventricles from
+     yesterday's study, though they are slightly more prominent than on the study
+     dated [**2545-5-4**]. There is non-dependent air in the right frontal [**Doctor Last Name 79**],
+     likely related to recent drain manipulation. There is also a tiny amount of
+     increased attenuation lying dependently in the left occipital [**Doctor Last Name 79**], which is
+     not significantly changed from yesterday's study. There is no significant mass
+     effect or shift of normally midline structures. There has been no other
+     significant change in the interval. There are no new territorial infarcts
+     identified.
+     
+     IMPRESSION: Interval decrease in the size of the ventricles from yesterday's
+     study. No other significant change.
+
+",,
+24369,13218,30259,,2545-05-06 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2545-5-6**] 10:00 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 1972**]
+     Reason: Eval pneumonia                                              
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      75 year old man s/p VP shunt w/ pneumoceph s/p VP shunt revision                
+     REASON FOR THIS EXAMINATION:
+      Eval pneumonia                                                                  
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: VP shunt and pneumocephalus, assess for pneumonia.
+     
+     COMPARISON: [**2545-5-4**].
+     
+     FINDINGS: New skin staples are noted overlying the right upper chest along the
+     course of the VP shunt. Shunt tip is not visualized. The cardiac and
+     mediastinal contours are stable. There is no pulmonary vascular congestion,
+     definite pleural effusion, focal infiltrate, or pneumothorax. NG tube tip
+     projects just below the diaphragm. Slight increased linear markings are noted
+     in the left lower lung zone, likely atelectasis. Allowing for rotation, this
+     is probably not changed in the interval.
+     
+     IMPRESSION: Recent shunt revision. No definite evidence of pneumonia.
+
+",,
+24369,13218,30259,0,2545-05-06 02:30:00 EST,2545-05-06 02:47:00 EST,2404,"N",69,"Nursing/Other",,"
+
+D Adm from Or S/p revision VP shunt.  VSS 1500 fld in responds to voice , responses are difficult to understand moving arms off bed  leg slightly on bed PERL.
+Nuero: curently pt awake speaking more clearly. oriented to self but not time or place.HOB remain s >60 as orderd. PERL @ 4-5mm. moving arms and legs off bed with more ease .Demonstated not normal strength but increased  strength.
+CV: NSR rare PAC noted easily palp pulses. initially Temp 93 up to 95 with in 45min.97-98 currently. NS @ 80 with 20meg KCL.Will KVO when at goal for TF.
+Lungs: initially on FM now RA O2 SAT remain > 94. upper lobs clear. bases coarse to deminish Pt does not take good deep breaths improving as pt becomes more alert.
+GI: NG initially to LWS scant drainage placement checked by ascultation TF started at 2300 residual 20 will increase TF as order [**E-mail address 4521**] soft BS present.
+GU: foley to CD clear yellow urine > 30 an hour
+Skin head and chest dsg D/I. skin dry and scaley . buttock red. HOB @ >60 as order but turned with skin care q4.
+A stable more responsive  thoughout shift.
+R continue monitor Neuro signs closely continue TF increase  as able check residuals.send am Labs repleate as needed.
+
+",,
+24369,13218,30259,0,2545-05-06 14:21:00 EST,2545-05-06 14:49:00 EST,2481,"N",69,"Nursing/Other","nsg progress note 7a-7p","
+nsg progress note 7a-7p
+Pt had an eventful day. At 0730 pt was found to have a temp of 102.8 His neuro assessment did not coincide with that from the previous shift and pt. was found to be less reponsive. At this point he was able to say his wife's name but speech was garbled and he did not focus his eyes nor follow commands.  Neuro sicu team notified. Within an hour pt became unresponsive. Pt was pan cx'd including blood cx's X2, urine cx, and culture of thick yellow discharge on pt's meatus.  During this pt started coughing and ? vomitus on his gown. NT sx'd for thick yellow/tan secretions appearing almost like bile mixed with tube feeds, but unclear. Residual checked just prior and revealed 50cc residual. Sputum Sent for CX and ng placed on sx. 
+  CXR done and ABG drawn 7.48/35/186/27. ABG drawn d/t pt's sats dropping after he started his coughing spell. Pt was somewhat tachypneic and sats dropped to 88% on 4l. Placed on FT w/ 60%Fio2 with sats increasing to 97%. Pt was then taken to heat CT which apparently revealed that the shunt placed [**5-5**] was working however there was some air that may be the cause or adding to his change in mental status.
+   Review of systems:
+Neuro: Since ~2:30pm pt has become more responsive. Follows simple commands ie, smile. He is also moving all extremities upper more than lower. Pupils unchanged and cont to be reactive. Answers yes and no questions and was interacting slowly with family.
+
+CV: vss. Pt's BP was elevated this am with increase in temp and coughing and required Lopressor 5mg IV X! with effect. Currently pt's Bp has been 140-150's/70's. No ectopy. Good pedal pulses, extremities warm.  On po hydralazine Q6hr with good effect.
+
+RESP: Fio2 decreased to 40% FT for humidification. lungs are less coarse...appear clear but difficult to assess as pt does not take lg breaths. Dim t/o. Coughing has diminished. Receivin neb tx's per resp.
+
+GI: Tube feeds held when pt was noted to be coughing and he's been NPO except meds with small amounts of water. Per Dr. [**Last Name (STitle) **] ok to take NG off suction since no more ouput stopped. Will cont to be NPO tonight. Abd soft with good bos. Pt has had several small brown smears of stool t/o day. May need colace to soften .
+
+GU: urine ouput more than adequate t/o day. Pt is receiving NS w/ 20KCL @80cc/hr. 
+
+SKIN: intact but slight pink on coccyx. No breakdown. ROM done, pt's tends to get stiff.
+
+ID: Am WBC 16.6 1500 WBC 34.2. Temp decreased to 100.8. Tmax 102.8. On cefazolin. awaiting cx's for change in tx.
+
+DISPO: pt is a full code and the plan was to send him to the floor today however since his change and today's events that is on hold. Family in to visit and aware of todays events, [**Last Name (un) **] updated by Dr. [**Last Name (STitle) **]. 
+",,
+24369,13218,30259,0,2545-05-06 17:29:00 EST,2545-05-06 17:34:00 EST,2477,"N",69,"Nursing/Other",,"
+
+Respiratory Care Note:
+    Patient started on albuterol and atrovent med nebs. Tolerated well. Cough moist and non-prod. Suctioned orally for small amounts of yellow tinged sputum. NT suctioned earlier by RN today for med amount of thick green tinged secretions, sent for culture. He was placed on a 60% high flow face tent earlier today and weaned down to 40% with SpO2>95%. BS bilat with few rhonchi noted LUL. CXR reviewed with bilateral expansion noted.
+",,
+24369,13218,30259,,2545-05-07 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2545-5-7**] 10:32 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 1974**]
+     Reason: Eval pneumonia                                              
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       75 year old man s/p VP shunt w/ pneumoceph s/p VP shunt revision               
+       
+     REASON FOR THIS EXAMINATION:
+      Eval pneumonia                                                                  
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     SINGLE VIEW CHEST:
+     
+     INDICATION: VP shunt revision. Assess for pneumonia.
+     
+     COMPARISON: [**2545-5-6**].
+     
+     FINDINGS: NG tube and right sided VP shunt are unchanged. Cardiac and
+     mediastinal contours are unchanged. There is no pulmonary vascular congestion
+     or pneumothorax. Left hemidiaphragm contour is obscured, possibly from small
+     left pleural effusion. Small focal patchy density at the right base is of
+     uncertain significance and may represent overlapping of shadows or
+     atelectasis.
+     
+     IMPRESSION: Probable small left pleural effusion.
+
+",,
+24369,13218,30259,0,2545-05-07 04:50:00 EST,2545-05-07 04:52:00 EST,2476,"N",69,"Nursing/Other","Respiratory Care:","
+Respiratory Care:
+Patient treated at 10 PM last noc and 5:30A with nebulized atrovent, 0.5/2NS.
+",,
+24369,13218,30259,0,2545-05-07 05:24:00 EST,2545-05-07 05:42:00 EST,-1,"N",69,"Nursing/Other","MICU-B NPN 1900-0700","
+MICU-B NPN 1900-0700
+Neuro - Pt. alert and oriented x person.  Answering short answer questions appropriately. Following commands. +MAE. (Lift/Hold extremities x4.)No c/o pain. Head of bead 90 degrees; pt. s/p VP shunt revision [**5-5**].
+
+C/V- Hemodynamically stable. HR 80'S-90'S, NSR with no ectopy noted.  Did have x1 burst up to 150's, very short in duration @ 0300.  ABP 120'S-140'S SYSTOLIC. On PO Metoprolol and hydralazine.  Extremities warm & pink.  Peripheral pulses palpable. On IVF NS with 20 KCL @ 80CC/HR.
+
+Resp - Remains on 4L NC and Hi-[**Last Name (un) **] neb. with O2Sats. 96-99%.  Cont. to have cough; productive.  Will cough to back of throat for yankauer sx. Thick, yellow.  LS clear> diminished. ABG this a.m. 7.47/36/77
+
+GI - NGT in place; patent and clamped secondary to ? aspiration yest. Pt. coughing and with ?vomitus yest. afternoon.  NPO over/noc except meds. with minimal H20 per team.  Very minimal aspirates noted, bilious. Abd. soft, NTND, with +BS. +Stool early a.m.  Had a couple of smears prior, and very, large, soft stool early a.m. Heme. neg.
+
+GU - Indwelling foley; patent with u/o tapering off this a.m.  Urine amber with sediment > clots noted as well. 
+
+ID - WBC cont. to climb.  Up to 35.1 this a.m.  TMAX 100.2 Over/noc.  On Cefazolin.  Pan. cx. yest; results pending.
+
+Skin - Reddened area noted to coccyx area.  Repositioning frequently trying to keep pt. off his back.
+
+Endo. - On sliding scale insulin coverage.  No coverage needed over/noc.
+
+Social - Wife called last eve.  Updated on pt. status and cont. plan of care.
+
+
+",,
+24369,13218,30259,0,2545-05-07 16:00:00 EST,2545-05-07 16:28:00 EST,2437,"N",69,"Nursing/Other","nursing note: 7a-7p","
+nursing note: 7a-7p
+neuro- pt's mental status waxes and wanes. does at times arouse more easily and other times requires alot of stimulation. oriented to self and being at [**Hospital1 **], never oriented to date. mae. perla. follows commands. nsurg team aware of labile neuro status.
+
+resp- ls coarse. pt able to cough secretions to back of throat but requires yankeur to remove. sats >95% on 40% high flow neb face tent. rr 20's. no acute resp distress, and per sicu team cxr ""looks good""
+nts done x1  after vomiting,  for small amount of thick tan secretions
+  
+cv- hr 70-90's sbp 130-160's. pt on hydralizine and lopressor via ngt however received  10mg iv lopressor this afternoon secondary to vomiting after administering lopressor down ngt. +palpable pedal pulses. k 3.7. maintenance ivf ns with 20kcl at 80cc/h infusing.
+
+gi- abd soft +bs. med soft brown guiac neg stool. ngt kept to lcs most of day for bilious drainage. as above, pt vomiting when given meds down ngt. + placement by air auscultation and per sicu team placement of ngt by cxr was acceptable. concerns re: pt's high risk for aspiration voiced to both sicu and neuro-[**Doctor First Name **] teams as well as dr [**First Name (STitle) **]. nutrition will need to be addressed, ? need for post pyloric or j-tube placement if persists. all meds may need to be converted to iv as well.
+
+gu- foley patent for marginally adequate u/o amber with sediment and occasional clots.
+
+activity- pt oob to chair with two assist, stood well and beared weight pt needed to be pivoted. v-boots while in bed. 
+
+access- 2 piv's an r rad art line.
+
+social- wife and daughter at bedside this afternoon. 
+
+dispo- pt called out to neuro floor at present no beds available. continue to monitor neuro status as well as resp status with the high risk for aspiration. full code.
+",,
+24369,13218,30259,0,2545-05-07 17:15:00 EST,2545-05-07 17:17:00 EST,2437,"N",69,"Nursing/Other","NURSING ADDENDUM:","
+NURSING ADDENDUM:
+NGT ADVANCED PER DR [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **]. + PLACEMENT BY AIR AUSCULATION. HYDRALAZINE GIVEN DOWN NGT WITH MD PRESENT. PT TOLERATED THIS WITHOUT VOMITING LIKE PREVIOUSLY. TF TO BE RESTARTED AS TOLERATED AS WELL.CONTINUE TO MONITOR FOR ASPIRATION RISK
+",,
+24369,13218,30259,,2545-05-08 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2545-5-8**] 2:31 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 1975**]
+     Reason: CHANGE IN CXR                                               
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        75 year old man s/p VP shunt w/ pneumoceph s/p VP shunt revision              
+         
+     REASON FOR THIS EXAMINATION:
+      CHANGE IN CXR                                                                   
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: Statust post VP shunt revision.
+     
+     COMMENT: Portable erect AP radiograph of the chest is reviewed, and compared
+     with previous study of yesterday.
+     
+     The previously identified left lower lobe patchy opacity has been markedly
+     improved. The lungs are clear otherwise. The nasogastric tube courses toward
+     the stomach. The heart is normal in size. Again note is made of mild
+     tortuousity of the thoracic aorta with calcification. There is no evidence of
+     pneumothorax. There is revised VP shunt coursing overlying the right side of
+     the thoracic spine. The distal portion of the VP shunt is not clearly seen.
+
+",,
+24369,13218,30259,0,2545-05-08 05:06:00 EST,2545-05-08 05:17:00 EST,2393,"N",69,"Nursing/Other","npn 7-7am","
+npn 7-7am
+Pt hypertensive overnight. Spiked temp to 101.8.
+
+neuro: Pt continues to wax and wane. Oriented x 2 sometimes. MAE, follows commands, lifts an dholds extremities. Eyes continue to be deviated towards midline. No c/o pain.
+
+resp: Nebulizer changed to 2L nc this am and sats remain 97-98%. LS coarse. Pt is able to raise secretions, but they need to be suctioned from the back of mouth.
+
+CV: Hypertensive to the 180's/100. received a total of 20 mg iv lopressor, 20 mg iv hydralazine and 20 mg iv labetolol. Bp has now stabilized to 150/70's. Goal is to kep SBP < 150. there is a prn order for labetolol. SR with occasional pvc's.
+
+access: R radial aline, 2 piv.
+
+ID: Temp 101.8 rectally at 0100. Pt was pan cultured and received tylenol.
+
+GI/GU: TF restarted last night. Currently at 30/h with a goal of 70cc/h. Minimal residuals. Small BM. Foley with adequate u/o. Urine is yellow but with sediment. 
+
+Skin: Intact.
+
+Plan: Continue to increase TF, monitor mental status, goal BP <150.
+",,
+24369,13218,30259,0,2545-05-08 16:03:00 EST,2545-05-08 16:11:00 EST,-1,"N",69,"Nursing/Other","MICU-B NPN 0700-1700","
+MICU-B NPN 0700-1700
+Please see. transfer note for details. Pt. c/o to [**Hospital Ward Name 41**] 511.
+
+Neuro - Pt. lethargic, oriented x1-2.  Following commands. Lift-Holds all extremities. PERRLA 4mm/4mm with brisk response. No c/o pain.
+
+C/V- Hemodynamically stable.  HR 80'S-90'S NSR with occasional PVCs noted.  ABP 110-160 systolic.  Given x1 Labetolol 20 mg. for SYSTOLIC ABP >150 per team. with good effect.  Peripheral pulses palpable.
+
+Resp. - Pt. on 4L NC, with O2Sats. 93-99%.. LS clear >diminished.  LS coarse @ 1100, requiring NT sx. which appreciated copious amts. thick, tan, secretions. Given Neb. tx. with good effect and placed on hi-[**Last Name (un) **] cool neb. for a couple of hours.
+
+GI/GU - Pt. unable to tol TF. High resid. @ 240 this afternoon.  Per team may need PPT placed.  Abd. soft, NTND with +BS. No stool this shift.  Indwelling foley in place, patent with low u/o this shift, amber, urine with sediment.  Pt. with +Urine cx. [**5-6**] (Pseudomonas).  To be written for abx. coverage.
+
+Endo - On QID Sliding scale insulin coverage.  Tx. x1 this afternoon for FS 172 PER SLIDING SCALE.
+
+ID - Febrile this shift, tx. x2 with Tylenol 650 PNGT.  wbc 33.4.
+
+Social - Pt. family in t/o shift.  Updated on pt. status and cont. plan of care.
+",,
+24369,13218,30259,,2545-05-09 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+",,
+24369,13218,30259,,2545-05-09 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2545-5-9**] 9:42 AM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 1976**]
+     Reason: eval for worsening hydrocephalus                            
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      75 year old man s/p shunt revision double vision and vomiting. Now w/external 
+      drain for roughly a week. S/P VP shunt revision [**5-6**]. Decreased level of 
+      arousal.
+     REASON FOR THIS EXAMINATION:
+      eval for worsening hydrocephalus                                                
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     
+     HISTORY:  Decreased level of arousal in patient 3 days, s/p shunt revision.
+     
+     TECHNIQUE: Non-contrast head CT.
+     
+     COMPARISON;  [**2545-5-5**].
+     
+     CT HEAD W/O CONTRAST:  There is no interval change in the size or appearance
+     of the ventricles.  The VP shunt position is also unchanged.   The bifrontal
+     epidural collection is stable.  There is interval decrease in the amount of
+     non-dependent air in the right frontal [**Doctor Last Name 79**].  There are no new territorial
+     infarctions.
+     
+     IMPRESSION:
+     1)  No evidence of enlargement of the ventricles.
+     
+     2)  Interval resorption of air from the right frontal [**Doctor Last Name 79**].  Otherwise, no
+     change from [**2545-5-6**].
+     
+     
+
+",,
+24369,13218,30259,,2545-05-09 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2545-5-9**] 1:32 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 1977**]
+     Reason: ett placement, r/o consolidation/infiltrate                 
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       75 year old man s/p VP shunt w/ pneumoceph s/p VP shunt revision s/p 
+      intubation  for mucous plugging now with increased respiratory rate and up 
+      airway  secretions.
+     REASON FOR THIS EXAMINATION:
+      ett placement, r/o consolidation/infiltrate                                     
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CHEST 1 VIEW:
+     
+     INDICATION:  75 y/o man status post VP shunt.
+     
+     COMMENT:  Portable AP radiograph of the chest is reviewed, and compared to the
+     previous study of yesterday.
+     
+     The tip of the endotracheal tube is identified 5 cm above the carina.  A
+     nasogastric tube courses towards the stomach.
+     
+     There is new consolidation in the left lower lobe indicating pneumonia.
+     Patchy opacity is also seen in the right lung base also worrisome for
+     aspiration.
+     
+     The heart is normal in size.  There is tortuosity of the thoracic aorta with
+     calcification.  There is no evidence for pneumothorax.
+     
+     IMPRESSION:
+     
+     1)  Left lower lobe pneumonia.
+     
+
+",,
+24369,13218,30259,0,2545-05-09 15:37:00 EST,2545-05-09 15:38:00 EST,-1,"N",54,"Nursing/Other","RESPIRATORY CARE","
+RESPIRATORY CARE
+PT INTUBATED ON FLOOR FOR RESPIRATORY FAILURE. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) **] RRT
+",,
+24369,13218,30259,0,2545-05-09 17:41:00 EST,2545-05-09 17:58:00 EST,3790,"N",54,"Nursing/Other","ADMISSION NOTE/CONDITION UPDATE:","
+ADMISSION NOTE/CONDITION UPDATE:
+PT WITH RESPIRATORY FAILURE ON [**Hospital Ward Name **] 5, INTUBATED, AND TX TO SICU.  
+
+D/A:  T MAX 101.2, TX WITH TYLENOL, TEMP NOW 100.3
+
+NEURO:  EXAM CHANGES EVERY TIME EVALUATED.  PT UNRESPONSIVE TO OPENS EYES TO PAINFUL STIMULI.  PT WITH NO SPONTANEOUS MOVEMENTS TO OCCASSIONAL MOVEMENTS OF LEFT LEG AND ARM.  RUE DECERABRATE POSTURING/EXTENSION WITH NAIL BED PRESSURE, ALL OTHER EXTREMITIES WITHDRAW TO NAIL BED PRESSURE.  RIGHT PUPIL LARGER THAN LEFT, BOTH SLUGGISHLY RESPONSIVE TO PUPILS EQUAL IN SIZE, BARELY REACTIVE.  DR. [**First Name (STitle) **] FIELDS AWARE OF EVER CHANGING NEURO EVAL, PT HAS PRESENTED THIS WAY > 24 HOURS APPARENTLY.  HEAD CT DONE THIS AM WITH IMPROVED RESULTS PER DR. [**Last Name (STitle) 2810**].
+
+CV:  UPON ARRIVAL TO SICU, HR TO 120'S, ABP 201/104.  PROPOFOL GTT STARTED BRIEFLY WITH POOR EFFECT ON HTN/TACHYCARDIA.  LOPRESSOR 5MG IV IN CONJUNCTION WITH 1 GM OF TYLENOL FOR TEMP WITH IMPROVED VITALS.  HR NOW 80'S NSR, ABP ~ 117/58.  FLUID BALANCE MN-1800 ~ +750 CC'S.
+
+RESP:  PT TRIALED ON CPAP AND ON SIMV MODES OF VENTILATION WITH MD AND RESP THERAPIST PRESENT.  PT FAILED THOSE MODES.  PT ON AC 50% FIO2, PEEP 5, 14X700, RR ~ 16 SO BREATHING OVER VENT.  ABG:  7.50, 35, 97, 28, 3, 98.  O2 SATS ~ 97 %.  SUCTIONED FOR THICK TAN/BLOODY SPUTUM, SPECIMEN SENT.  ETT RESECURED AND POSITIVE PLACEMENT CONFIRMED BY CHEST X-RAY PER DR. [**Last Name (STitle) 957**].
+
+GI:  NGT FOR MEDS, OTHERWISE CLAMPED.
+
+GU:  FOLEY-BSD WITH ~ 24 CC U/O Q 1 HOUR.
+
+ID:  PT BEING TREATED WITH ZOSYN FOR UTI.  BLOOD CULTURES SENT, ONE SET ON [**Hospital Ward Name **] 5, ONE SET (INCLUDING MYCOLYTIC) FROM SICU.  SPUTUM SAMPLE SENT.  WBC ~ 35.
+
+SX:  FAMILY UPDATED AND VISITED.
+
+R:  FEBRILE, NEURO STATUS WAXES AND WANES AND IS CONCERNING, RESP STATUS ACCEPTABLE ON AC VENTILATION MODE.
+
+P:  CONTINUE WITH CLOSE HEMODYNAMIC AND RESP STATUS MONITORING.   CONTINUE TO MONITOR NEURO STATUS, UPDATE HO WITH CHANGES.  CONTINUE WITH PT/FAMILY SUPPORT.
+",,
+24369,13218,30259,0,2545-05-10 03:22:00 EST,2545-05-10 03:34:00 EST,3876,"N",54,"Nursing/Other",,"
+
+11p-7a: Full assessment in flow sheet.
+
+neuro; Unresponsive to  Withdrawal to painful stimuli (RUE - withdrawal inward, LUE and lower ext withdrawal). Do not follow commands. Inconsistent movement in bed of RLL and LUE only. Open eyes inconsistently - R>L pupil, Right pupil off center - toward center, sluggish reaction, do not track. Good gag and strong cough. 
+
+cv; NSR with PAC (76-88). BP 145-180/60-70. temp max 101 - tylenol PO - temp to 100. Warm, dry, no edema.
+
+resp; Coarse to clear lung sound. Intubated. Ballon inflated. Please see flow sheet for setting. Suction for blood [**Doctor Last Name **]/white secretion thick moderate.
+
+gu/gi; soft abd, +BSX4. no flatus, no bm. foley patent, clear yellow urine 20-40 cc/hr. AM lab done. 
+
+
+Plan: continue to monitor. 
+
+",,
+24369,13218,30259,0,2545-05-10 14:29:00 EST,2545-05-10 14:30:00 EST,-1,"N",54,"Nursing/Other","Respiratory Care","
+Respiratory Care
+Pt remains mechaniclly ventilated, weaning to cpap. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) 516**] RRT
+",,
+24369,13218,30259,0,2545-05-10 16:04:00 EST,2545-05-10 16:18:00 EST,-1,"N",54,"Nursing/Other",,"
+
+
+FULL CODE        NKDA     Universal precautions
+
+Neuro:  Less responsive than he was this am.  This am, w/ painful stim/nail bed pressure he would open his eyes a little, move his uppper and lower extrems some.  This afternoon, he is less responsive to the same stim.  Not openeing his eyes or moving his extrems.  Neurosurg team cultured head incision and CSF fluid to r/o menigitis.  Pt was also fully cx yesterday for sputum, urine and blood.  Pupils=3mm, ? responsive.  R eye deviates to the left.
+
+Cardiac:  HR=80-90 until this afternoon when temp up to 102 orally.  Currently, HRis 90s again.  NSR, no ectopy.  +periph pulses, extrems a bit cool, +generalized edema.  BP stable at 130-160/70-80s.  On hdralazine and lopressor.
+
+Resp:  Pt was placed on PS 15/CPAP5 50% at 10am.  ABG good, and fi02 was <to 40%.  Repeat ABG pending.  Pt does have periods of apnea and Vt varies from 200 to 650.  BS very diminished bilat, sx large amts thick tan secretions/blood tinged at times.  Also, tan secretions via mouth.  02 sat = 97to99%.
+
+GI:  +BS, abd soft.  TF FS Impact w/ fiber currently at 50cc/hr (goal=70).  Initailly this am when rate was 30cc/hr, resid was 100cc; TF on hold.  On rounds this was noted and per team, they do not want to hold TF unless resid >200cc.  Resids since this time have been minimal at 5cc.  One large amt loose stool.  
+
+GU:  foley cath, clear dark yellow urine, adequate amt.
+
+Skin:  Head incision intact w/ staples.
+
+Antibx:  T=102 - tylenol given.  On Zosyn q6hr. Cx urine and sputum +pseudomonas.
+
+Social:  Wife and daughter in this afternoon and spoke to Dr. [**Last Name (STitle) **] for update on pt's condition.
+
+Plan:  Monitor neuro status, check cx reports, tylenol/antibx for temp.
+",,
+24369,13218,30259,1,2545-05-10 16:04:00 EST,2545-05-10 18:22:00 EST,-1,"Y",54,"Nursing/Other",,"
+
+Vent shunt removed from abd via chest incion and placed to gravity bag drainage by Dr. [**Last Name (STitle) 4522**].  CSF sent for cx - cloudy w/ large amt pus noted.  Valve on top of skin and may be pumped prn to assist CSF flow to maintain a flow of 10-15cc/hr.    Antibx changed - Zosyn d/c'd and started on Gent, Vanco and Ceftaz.  Temp down to 99.8 orally after tylenol and removal of vent drain from abd.  Remains unresponsive and but did notice that pt moved L leg spont.
+",,
+24369,13218,30259,,2545-05-11 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2545-5-11**] 12:58 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 1978**]
+     Reason: please evaluate L-SC TLC line position                      
+     Admitting Diagnosis: HYDROCEPHALUS/SDA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        75 year old man s/p VP shunt w/ pneumoceph s/p VP shunt revision s/p  
+      intubation  for mucous plugging now with increased respiratory rate and up  
+      airway  secretions.
+     REASON FOR THIS EXAMINATION:
+      please evaluate L-SC TLC line position                                          
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: Status post central line placement. Assess position.
+     
+     Comparison is made to the prior examination of [**2545-5-8**].
+     
+     FINDINGS: The lateral-most extent of the left hemithorax is cut from view. A
+     newly placed left subclavian central venous line is seen with its tip at the
+     proximal SVC in good position. There is no pneumothorax. The
+     cardiomediastinal borders are unchanged. The pulmonary vasculature is normal.
+     There is partial resolution of previously identified bibasilar ill-defined
+     opacities, with partial re-expansion of the previously partially collapsed
+     left lower lobe. An NG tube a ET tube are seen in stable position. A reported
+     VP shunt is not identified.
+     
+     IMPRESSION:
+     1. Satifsactory placement of a left subclavian central venous line. No
+     pneumothorax.
+     2. Slight improvement of bibasilar ill-defined opacities consistent with
+     probable prior aspiration.
+
+",,
+24369,13218,30259,0,2545-05-11 03:44:00 EST,2545-05-11 03:46:00 EST,3752,"N",54,"Nursing/Other",,"
+
+Resp Care,
+Pt. remains intubated on IPS 15/.4/5peep. Vt varies, 400's, RR 8-20's. Suctioned bloody sputum. ABG 7.47/39/108/29. Had periods of apnea early in shift, now resolved. RSBI this am 157. See carevue.
+",,
+24369,13218,30259,0,2545-05-11 04:58:00 EST,2545-05-11 05:15:00 EST,3439,"N",54,"Nursing/Other","gen'l update","
+gen'l update
+data/action: temp max 101.4-tylenol given. hr 90's nsr down to 70's after lopressor 50mg via ngt. rr-irreg [**10-2**] w/ periods of apnea approx. 10secs. sx'd bloodly sputum.  neuro- flexes lt foot. no mvmt in other extremies.  external vp shunt not draining beginning of shift irrig by neuro resid. shunt bulb pressed freq for it to drain. drainage cloudy/clear w/ cream color sludge.   urine 60cc/hr w/ yellow drainage around foley cath.  piv assess very difficult-several attempts iv nurse not able to start-pt has only one iv (lt anticub) pt rec'ing 4 antibx->needs a central line. t fdg 70cc impact w/ fiber @ goal-no bm-+bs.   
+",,
+24369,13218,30259,0,2545-05-11 15:11:00 EST,2545-05-11 15:13:00 EST,-1,"N",54,"Nursing/Other","Respiratory Care","
+Respiratory Care
+Pt remains on CPAP with minimal vent changes this shift. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) 516**] RRT
+",,
+24369,13218,30259,0,2545-05-11 16:00:00 EST,2545-05-11 16:38:00 EST,-1,"N",54,"Nursing/Other","focus: status update.","
+focus: status update.
+NEURO: PT UNRESPONSIVE. FLEXING TO PAINFUL STIMULI. PERL. PT ACTIVITIES.
+1: SHUNT TAKEN SUBCUTANEOUS FOR IMPROVED DRAINAGE--NO EFFECT.
+2: SHUNT LINE CHANGED TO DRAINAGE TUBING FOR IMPROVED DRAINAGE--NO EFFECT. 
+3: SHUNT D/C VENT DRAIN PLACED FOR IMPROVED DRAINAGE--NO EFFECT.
+4:VENT DRAIN D/C A NEW VENT DRAIN PLACED RESULTS PENDING.
+SMALL AMOUNTS OF CSF C/ THICK WHITE SECREATIONS + FOR BATERIAL ENCEPHALITIS. ICP 5 TO 10.
+
+CV: NSR TO SINUS TACH WHILE PROCEDURES. NORMOTENSIVE. MILDLY HYPERTENSIVE C/ ACTIVITY. PULSES PRESENT. FLUID QVO.
+
+RESP: LUNG SOUNDS COARSE. SX FOR LARGE AMOUNTS OF BLOODY THICK SPUTUM SATS.
+
+GI: TF AT GOAL. BOWEL SOUNDS PRESENT. ABD SOFT MILDLY DISTENDED.
+
+GU: FOLEY CATH IN SITU DRAINING ADEQUATE AMOUNTS OF CLOUDY YELLOW URINE. URINE CLEAR AT TIMES.
+
+SOCIAL: FAMILY MEETING C/ NEURO [**Doctor First Name 125**] DR [**Last Name (STitle) **]. FAMILY AWARE OF PROGNOSIS. 
+
+PLAN: CONTINUE ON ANTIBIOTICS. START INTRATHECAL IV THERAPY. VENT DRAIN TO GRAVITY TO MAINTAIN 20 CC/H. CONTINU C/ CURRENT PLAN OF CARE. 
+
+",,
+24369,13218,30259,,2545-05-12 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2545-5-12**] 2:50 AM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 1979**]
+     Reason: DECREADE ALETERNESS
+     Admitting Diagnosis: HYDROCEPHALUS/SDA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       75 year old man s/p shunt revision double vision and vomiting. Now w/external  
+      drain for roughly a week. S/P VP shunt revision [**5-6**]. Decreased level of  
+      arousal.
+     REASON FOR THIS EXAMINATION:
+      rule out ventricular blockage                                                   
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT  (REVISED)
+     INDICATION:  Status-post shunt revision with double vision and vomiting.
+     Please assess for ventricular blockage.
+     
+     TECHNIQUE:  Non-contrast axial images of the head were obtained from the
+     occiput to the vertex without intravenous contrast.
+     
+     Comparison: [**2545-5-9**]
+     
+     HEAD CT:  A ventricular shunt seen entering the right frontal lobe with tip in
+     the left basal ganglia region. This has changed in position in the interval.
+     Air is seen along the ventricular drainage catheter tract. Air is also
+     demonstrated in both frontal horns. There is mild dilatation of the left
+     lateral ventricle, which has increased in the interval. No mass effect or
+     shift of normally mid-line structures is seen. There is no evidence of acute
+     hemorrhage. Bifrontal small epidural fluid collections are again demonstrated,
+     which are unchanged in the interval. There are no large territorial infarcts.
+     
+     IMPRESSION:
+     1) Ventricular drainage catheter malpositioned with its tip in the left basal
+     ganglia region.
+     2) Mild dilatation of the left lateral ventricle, increased in the interval.
+     
+     
+
+",,
+24369,13218,30259,,2545-05-12 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2545-5-12**] 12:11 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 1980**]
+     Reason: please evaluate for infiltrate/failure                      
+     Admitting Diagnosis: HYDROCEPHALUS/SDA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+         75 year old man s/p VP shunt w/ pneumoceph s/p VP shunt revision s/p   
+      intubation  for mucous plugging now with increased respiratory rate and up   
+      airway  secretions.
+     REASON FOR THIS EXAMINATION:
+      please evaluate for infiltrate/failure                                          
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Status post VP shunt revision.  Intubation for mucous plugging.
+     Check for pulmonary infiltrate, failure.
+     
+     FINDINGS:  Single AP supine view.  Comparison study dated [**2545-5-11**].  There
+     is again evidence of left lower lobe collapse/consolidation behind the heart
+     and some infiltrate is also noted in the right lower lobe.  Otherwise, the
+     lungs appear clear. The heart shows slight LV enlargement. There is no
+     evidence of cardiac failure.  No effusions are seen.  The ET tube and left IJ
+     central line remain in satisfactory positions. The right IJ line is no longer
+     visible.  The reported VP shunt is not identified on this image.  The patient
+     is rotated to the left.  The shunt may be overlying the mediastinum.
+     
+     IMPRESSION:  Appearances unchanged. Left lower lobe collapse/consolidation
+     again noted.  Chest line satisfactory and unchanged.  VP shunt not identified.
+
+",,
+24369,13218,30259,0,2545-05-12 03:23:00 EST,2545-05-12 04:02:00 EST,3992,"N",54,"Nursing/Other","nsg note","
+nsg note
+NEURO: PT OPENING EYES INCONSISTENTLY TO PAIN , UNABLE TO FOLLOW COMMANDS, RESPONDS TO PAINFUL STIMULI ON ALL EXTREMITIES BY FLEXING AND WITHDRAWING, PERRL. VENT DRAIN DRAINING ON/OFF. NEUROSURG IN TO EVAL DRAIN FREQ AND FLUSH X FEW. DRAIN POSITIONED TO TITRATE 10-20CC/HR OF CSF, BUT CON'T WITH MIN DRG DESPITE VERY LOW POSITION. ICP MEASURED AT TRAGUS PER NEUROSURG. VENT DRAIN DSG C/D/I. NEUROSURG AWARE OF DRAIN'S FUNCTIONNING. HEAD CT DONE.
+
+CARDIOVASCULAR: NSR, NO ECTOPIES, BP AND HR STABLE. +DP&PTP PULSES. PT NOTED TO HAVE PULSATILE AREA ON ABD, NEUROSURG AWARE AND IN TO EVAL. ?IMAGING. 
+
+RESP: PT ON CPAP+PSUPP 5PEEP/15PSUPP. PT SUCTIONNED FOR SMALL-COPIOUS BLOOD TINGED THICK SECRETIONS. PT NOTICED TO HYPERVENTILATE OCC. RESP RATE DEC TO 5 FOR BRIEF MOMENTS, NEUROSURG AWARE.
+
+GI: ABD SOFT NT/ND BS+. TOLERATING TUBE FEEDS @ GOAL 70CC/HR. MINIMAL AMT RESIDUALS. 
+
+GU: FOLEY DRAINING ADEQ U/O CLEAR/YELLOW URINE.
+
+INTEGUMENT: OLD VP SHUNT SITE COVERED W/ DRSG. DRSG [**Name5 (PTitle) 2985**] [**Name5 (PTitle) **]/ SMALL AMT SEROUS FLUID. SKIN ON BUTTOCKS ERYTHEMATOUS, STAGE I. PT TURNED AND REPOSITIONNED FREQUENTLY. FIRST STEP AIR MATTRESS HIGHLY BENEFICIAL. 
+
+PLAN: MONITOR NEURO STATUS, F/U CT HEAD RESULTS, MONITOR VENT DRAIN & DRAINAGE. ?ABD IMAGING. ?CODE STATUS 
+",,
+24369,13218,30259,0,2545-05-12 04:40:00 EST,2545-05-12 04:48:00 EST,3044,"N",54,"Nursing/Other","RESPIRATORY CARE:","
+RESPIRATORY CARE:
+
+Pt remains intubated, vent supported.  Sxing bloody secretions from ETT throughout shift.  Vent settings= PSV15 PEEP5 40%. ABG=7.52-36-142 Transported pt SICU->CTscan->SICU, pt tolerated transport well. No other changes/events made thru noc.
+Plan:  Maintain vent support.
+",,
+24369,13218,30259,0,2545-05-12 15:17:00 EST,2545-05-12 15:42:00 EST,-1,"N",54,"Nursing/Other","focus: status update.","
+focus: status update.
+NEURO: PT OPENS EYES TO PAINFUL STIMULI INCONSISTENTLY--DOES NOT TRACK. FLEXES EXTREMITIES TO PAINFUL STIMULI. NO SPONTANEOUS MOVEMENT. PERL. GAG AND COUGH REFLEXES INTACT. VENT DRAIN FLUSHED X2, PULLED BACK X1 2.5 CM, AND INTRATHECAL ANTIBIOTIC THERAPY STARTED PER NEURO-[**Doctor First Name 125**]. VENT DRAIN DROPPED TO 80 TO 85 CM BELOW TRAGUS C/ MINIMAL TO NONE DRAINAGE. CURRENTLY ICP DRAIN WAS LOST--DR [**Last Name (STitle) **] MADE AWARE-HE WAS PERFORMING PROCEDURE IN OR DR [**Last Name (STitle) **] WILL CHECK VENT DRAIN WHEN DONE C/ PROCEDURE.
+
+CV: NORMOTENSIVE-HYPERTENSIVE C/ ACTIVITY. NSR C/ NO ECTOPY. PULSES PALPABLE. MAIN FLUID STARTED DUE TO METABOLIC ALKALOSIS C/ IMPROVED RESULTS. 
+
+RESP: LUNG SOUNDS [**Last Name (un) **] SE TO CLEAR AFTER SX. SXED FOR MODERATE AMOUNTS OF BLOODY SPUTUM C/ BLOODY PLUGS. VENT TUBING CHANGED. MINIMAL VENT CHANGES MOSTLY FOR CONFORT.
+
+GI: TF AT GOAL, BOWEL SOUNDS PRESENT PASSING FLATTUS NO BM TODAY. ABD SOFT NO MASSES TO PALPATION. 
+
+GU: FOLEY CATH IN SITU DRAINING MODERATE AMOUNTS OF YELLOW CLEAR URINE HOURLY. 
+
+ENDO: RISS
+
+SOCIAL: FAMILY IN TO SEE PT. FAMILY REQUESTED CATHOLIC PRIEST TO [**Name2 (NI) **] C/ THEM.
+
+PLAN: CONTINUE MONITORING VENT DRAIN OUTPUT, NEURO STATUS, METABOLIC ALKALOSIS. CONTINUE C/ CURRENT PLAN OF CARE.
+
+
+
+
+ 
+",,
+24369,13218,30259,0,2545-05-13 02:33:00 EST,2545-05-13 02:43:00 EST,3495,"N",54,"Nursing/Other","condition update","
+condition update
+D: NEURO: ESSENTIALLY UNCHANGED, OPENS EYES TO PAINFUL STIMULI ONLY, DOES NOT TRACK. PUPILS 3MM WITH EQUAL REACTION. MOVES FEET SPONT ON BED BUT NOT TO COMMAND. NO MOVEMENT OF UPPER EXTREMITIES SEEN. WITHDRAWS TO PAINFUL STIMULI. ICP 0-6. VENT DRAIN AT 85CM BELOW TRAGUS-(ON FLOOR) WITH MINIMAL AMTS CLEAR FLUID DRAINAGE. 
+RESP: BS COARSE. SX FOR SM AMTS BLOOD TINGED TAN SECRETIONS. NO VENT CHANGES.
+GI: TF RESIDUAL AT 2000= 320CC. TF HELD, AND RESIDUAL RECHECKED AT 2400= STILL 150CC. HO AWARE. ABD SOFT AND NON-TENDER WITH + BS. NO STOOL. 
+GU: CLEAR AMBER VIA FOLEY IN GOOD AMTS
+CV: HEMODYNAMICALLY STABLE. SBP 114-170 DEPENDING ON DEGREE OF STIMULATION. 
+A: HEMODYNAMICS AND NEURO STATUS MONITORED, SX PRN, REPOSITIONED Q2HRS
+R: NEURO STATUS REMAINS POOR, CONTINUE ANTIBIOTICS AS ORDERED WITH P/T LEVELS AS ORDERED, RESUME TF WHEN RESIDUAL <100
+",,
+24369,13218,30259,0,2545-05-13 13:56:00 EST,2545-05-13 14:12:00 EST,-1,"N",54,"Nursing/Other","FOCUS: STATUS UPDATE.","
+FOCUS: STATUS UPDATE.
+NEURO: FLEXES EXTREMITIES TO PAINFUL STIMULI. PERL. GAG AND COUGH REFLEXES PRESENT,CORNEAL REFLEXES PRESENT. SMALL MOVEMENT NOTICED TO BOTH FEET. SECOND DOSE OF INTRATHECAL GENTA DONE TODAY.
+
+CV: NORMO TO HYPERTENSIVE. NSR C/ NO ECTOPY. PULSES PALPABLE.  VANCO D/C GENTA LEVELS THERAPEUTIC. MAINT FLUID KVO. 2 UNITS OF PRBC TRANSFUSED FOR LOW HTC. 
+
+RESP: PLUGS BEING SX FROM ET TUBE-- NO FURTHER BLEEDING. LUNG SOUNDS CLEAR VENT SETTINGS REMAIN THE SAME. SATS 86 TO 100.
+
+GI: ABD SOFT, BOWEL SOUNDS PRESENT. PASSING FLATTUS NO BM. TF RESIDUALS UP TO 160 DR [**Last Name (STitle) **] MADE AWARE--CONTINUE FEEDINGS UNTIL >200. 
+
+GU: FOLEY CATH IN SITU DRAINING MODERATE AMOUNTS OF YELLOW CLEAR URINE. 
+
+ENDO. RISS.
+
+PLAN: CONTINUE MONITORING NEURO STATUS. CONTINUE C/ CURRENT PLAN OF CARE.
+",,
+24369,13218,30259,0,2545-05-13 14:35:00 EST,2545-05-13 14:36:00 EST,3492,"N",54,"Nursing/Other",,"
+
+RESP CARE NOTE - PT. REMAINES INTUBATED AND VENTED, PS 12 PEEP 5 40% FIO2, SPON TV 250-500CC, SPON RR 8-30PMIN.
+",,
+24369,13218,30259,,2545-05-14 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2545-5-14**] 11:10 AM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 1982**]
+     Reason: hydrocephalus                                               
+     Admitting Diagnosis: HYDROCEPHALUS/SDA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        75 year old man s/p shunt revision double vision and vomiting. Now w/external 
+        drain for roughly a week. S/P VP shunt revision [**5-6**]. Decreased level of   
+      arousal.
+     REASON FOR THIS EXAMINATION:
+      hydrocephalus                                                                   
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Status post shunt revision, double vision, vomiting, decreased
+     level of arousal, evaluate for hydrocephalus.
+     
+     COMPARISON:  CT head, [**2545-5-12**].
+     
+     TECHNIQUE:  CT head with no IV contrast.
+     
+     CT HEAD WITH NO IV CONTRAST:  The patient is status post placement of
+     a ventricular shunt via the right frontal approach and its end appears to have
+     been slightly pulled back since the prior study, but still apposing to the
+     lateral wall of the third ventricle.  There is interval decrease in the amount
+     of air in the ventricles.  The ventricles are not enlarged in size. There is
+     also a small amount of air along the track of the ventricular shunt. A chronic
+     extraaxial collection is again seen in the frontal region.  There is no
+     evidence of acute intracranial hemorrhage. There is no shift of the normally
+     midline structures.  Multiple foci of decreased density are noted in the
+     periventricular white matter, indicative of microvascular infarcts.
+     
+     Bone windows reveal again postsurgical changes in the frontal bone and
+     sinuses.
+     
+     Coarse vascular calcifications are noted.
+     
+     IMPRESSION:  No evidence of hydrocephalus.  Interval decrease in the amount of
+     pneumocephalus.  The ventricular shunt appears slightly pulled back since the
+     prior study, but its end still appears to be at least apposed to the lateral
+     wall of the third ventricle.
+
+",,
+24369,13218,30259,,2545-05-14 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2545-5-14**] 8:44 AM
+     ABDOMEN U.S. (PORTABLE)                                         Clip # [**Clip Number (Radiology) 1981**]
+     Reason: pt with palpable pulse on abdominal wall, r/o AAA           
+     Admitting Diagnosis: HYDROCEPHALUS/SDA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      75 year old man with                                                            
+     REASON FOR THIS EXAMINATION:
+      pt with palpable pulse on abdominal wall, r/o AAA                               
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Palpable pulse along abdominal wall, question abdominal aortic
+     aneurysm.
+     
+     ABDOMINAL ULTRASOUND:  The abdominal aorta is normal without aneurysmal
+     dilatation.  Limited assessment of the kidneys reveals no hydronephrosis.  No
+     intraabdominal free fluid.
+     
+     IMPRESSION:  No evidence of abdominal aortic aneurysm.
+     
+
+",,
+24369,13218,30259,0,2545-05-14 04:06:00 EST,2545-05-14 04:10:00 EST,3317,"N",54,"Nursing/Other",,"
+
+Resp Care: Pt continues intubated and on ventilatory support with psv 12/+5 peep/fio2 .4 maintaining Vt 2-300's with Ve 4-8 L, irreg breathing pattern with alkalotic abg, good oxygenation; BS rhonchorous with occ wheeze, sxn thick tan secretions, rx with mdi albuterol/atrovent as ordered, see carevue for details.
+",,
+24369,13218,30259,0,2545-05-14 15:09:00 EST,2545-05-14 15:13:00 EST,-1,"N",54,"Nursing/Other","Respiratory Care:","
+Respiratory Care:
+Pt continues on ventialatory support with PSV settings; periods of hiccupping precipitated low pressure vent alarm, but resolves itself.  Pt also does hypoventilate at times triggering low minute ventilation alarms, but this also resolves.  Transport for Head CT without incident.  Suctioned for mod amt of thick/tan/yellow secs t/o day.  MDI's of Alb & Atr given approx q4 as ordered.  Please see carvue flowsheet for details.  Plan to continue ventilatory support.
+",,
+24369,13218,30259,0,2545-05-14 17:56:00 EST,2545-05-14 18:08:00 EST,3950,"N",54,"Nursing/Other","CONDITION UPDATE","
+CONDITION UPDATE
+PLEASE SEE CAREVUE FLOWSHEET FOR SPECIFICS.
+NEURO: PT UNRESPONSIVE. DOES NOT OPEN EYES. MOVES R FOOT SPONTANEOUSLY, BUT NOT PURPOSEFULLY. WITHDRAWS L FOOT TO LIGHT TOUCH. DECEREBRATES BUE TO NAIL BED PRESSURE. PERRL AND BRISK AT 3MM. GAG AND COUGH INTACT. VENT DRAIN OPEN TO DRG AT LEVEL OF FLOOR PER [** **]. FLUSHED THIS AM FOR 37 CC CLEAR DRG X1 HOUR, THEN 0 CC DRG THE NEXT HOUR. [** **] INFORMED. PT TAKEN TO HEAD CT. READ PENDING. DRAIN CURRENTLY OPEN AT LEVEL OF FLOOR WITH 0-5 CC/HOUR DRG. INTRATHECAL ABX NOT INSTILLED PER [** **] TODAY. IV ABX CONT. UNABLE TO OBTAIN ICP WAVEFORM. [**Name8 (MD) **] NP [**Doctor Last Name 870**] INFORMED.
+RESP: RESP PATTERN IRREGULAR. LS CTA, OCCASIONALLY COURSE. ET SUCTIONED FOR MOD AMTS THICK SPUTUM. 
+CV: NSR. SBP ELEVATED THIS AM, IMPROVED AFTER 1X DOSE IV HYDRALAZINE. CURRENTLY SBP 120'S, GOAL 110-160. LOW GRADE TEMPS.
+GI: ABD SOFTLY DISTENDED. POS BOWEL SOUNDS. NGT WITH TF'S INFUSING. RESIDUALS 75-100. OKAY TO ADVANCE RATE TO GOAL OF 70 [**Name8 (MD) **] MD [**Last Name (Titles) 957**]. TO BE HELD FOR RESIDUAL > 200.
+GU: COPIOUS AMTS LIGHT YELLOW U/O. URINE OSM AND LYTES SENT. SERUM OSM SENT.
+ENDO: FSBG WNL.
+SKIN: SM REDDENED AREA AT COCCYX. DUODERM INTACT. AIR MATTRESS PLACED.
+PLAN: CONT TO MONITOR CLOSELY. CONT PER CURRENT MGMT.
+",,
+24369,13218,30259,0,2545-05-15 16:07:00 EST,2545-05-15 16:11:00 EST,-1,"N",54,"Nursing/Other","Respiratory Care:","
+Respiratory Care:
+Pt placed on PS of 10 this am with Peep of 5 and 40% Fi02; tol well t/o day.  Suctioned sm/mod amt yellow thick secs.  BS=insp wheezes scattered t/o with clearing after tx.  Alb/Atr MDI given q4hour.  Please see Carevue flowsheet for details.  Plan to continue ventilatory support as ordered.
+",,
+24369,13218,30259,0,2545-05-15 16:26:00 EST,2545-05-15 16:32:00 EST,3950,"N",54,"Nursing/Other","CONDITION UPDATE","
+CONDITION UPDATE
+PLEASE SEE CAREVUE FLOWSHEET FOR SPECIFICS.
+NEURO: PT CONTINUES TO BE UNARROUSABLE. NOTED TO MOVE BILAT FEET SPONTANEOUSLY. DECEREBRATE POSTURING OF BUE TO NAIL BED PRESSURE IS LESS PRONOUNCED THIS AFTERNOON. PERRL AT 3MM. NOT FOLLOWING ANY COMMANDS. INTRATHECAL GENTA INSTILLED THIS AM BY [**Name8 (MD) **] NP [**Doctor Last Name **].
+RESP: LS CTA. ET SUCTIONED PER RESP THER.
+CV: LOW GRADE TEMPS. NSR. ABP SL ELEVATED THIS AM, AND IMPROVED AFTER 1 DOSE IV HYDRALAZINE AS ORDERED. EPISODE OF HYPOTENSION TO 80S SYSTOLIC THIS EVE, RESOLVED SPONTANEOUSLY, ? DAMPENED A-LINE (SBP 114 BY CUFF). CURRENTLY SBP 140S ON PO MED REGIMEN.
+GI: ABD SOFTLY DISTENDED. POS BOWEL SOUNDS. TF'S AT GOAL. MIN RESIDUALS. NO BM.
+GU: LG AMTS CLEAR YELLOW U/O VIA FOLEY.
+ENDO: FSBG WNL.
+SKIN: NO CHANGES.
+PLAN: CONT TO MONITOR. CONT PER CURRENT MGMT.
+",,
+24369,13218,30259,0,2545-05-16 15:42:00 EST,2545-05-16 15:49:00 EST,3950,"N",54,"Nursing/Other","CONDITION UPDATE","
+CONDITION UPDATE
+PLEASE SEE CAREVUE FLOWSHEET FOR SPECIFICS.
+NEURO: UNCHANGED. INTRATHECAL ABX INSTILLED BY [** **] THIS AFTERNOON. VENT DRAIN OPEN TO DRG AT FLOOR LEVEL, BUT NO DRG. [** **] AWARE. 
+RESP: LS OCCASIONALLY SL COARSE, BUT IMPROVED AFTER ET SUCTIONED. ET SUCTIONED Q4 HOURS FOR MOD AMTS THICK TAN TO WHITE SPUTUM. IPS DECREASED TO 5, ABG STABLE. 
+CV: LOW GRADE TEMPS. BP STABLE. IVF KVO'D. NO ISSUES.
+GI: ABD SOFTLY DISTENDED. TF'S CONTINUE AT GOAL OF 70 WITH RESIDUALS 175-180 (SICU TEAM INFORMED). ? LAST BM. DULCOLAX GIVEN. EFFECT PENDING. 
+GU: ADEQUATE U/O VIA FOLEY.
+ENDO: FSBG WNL. 
+PLAN: CONT TO MONITOR, CONT PER CURRENT MGMT. EMOTIONAL SUPPORT TO PT AND FAMILY.
+",,
+24369,13218,30259,,2545-05-17 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2545-5-17**] 11:30 AM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 1983**]
+     Reason: eval for bleed or shift or hydrocephalus                    
+     Admitting Diagnosis: HYDROCEPHALUS/SDA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+         75 year old man s/p shunt revision double vision and vomiting. Now 
+      w/external    drain for roughly a week. S/P VP shunt revision [**5-6**]. Decreased 
+      level of    arousal.
+     REASON FOR THIS EXAMINATION:
+      eval for bleed or shift or hydrocephalus                                        
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT  (REVISED)
+     INDICATIONS: Status post shunt revision. Patient is nauseated and vomiting.
+     
+     NONCONTRAST HEAD CT SCAN:
+     
+     TECHNIQUE:   Noncontrast CT scan of the brain.
+     
+     FINDINGS:   Since the prior study of 6/6,  there has been development of
+     massive dilatation of the ventricular system, particularly the fourth
+     ventricle which is enormously dilated.  There is the presence of a right
+     lateral ventricular drainage catheter with a small amount of gas along the
+     catheter tract.  There is also small amount of hemorrhage in the dependent
+     portion of the right occipital [**Doctor Last Name 79**]. There is no new parenchymal hemorrhage
+     identified. There is no shift of normally midline structures.
+     
+     CONCLUSION: Massive interval dilatation of the ventricular system. The
+     surgical ICU resident was notified immediately of this finding with
+     anticipated  expeditious notification of the neurosurgical team as well.
+     
+
+",,
+24369,13218,30259,0,2545-05-17 04:17:00 EST,2545-05-17 04:25:00 EST,3683,"N",54,"Nursing/Other","CONDITION UPDATE","
+CONDITION UPDATE
+S/O:  VSS, AFEBRILE.  UNRESPONSIVE.  NOT FOLLOWING COMMANDS.  SEE FLOW SHEET FOR NEURO ASSESSMENT. VENT DRAIN DRAINING VERY LITTLE CLEAR DRAINAGE (<5CC).  ICP NOT WORKING.  DR. [**Last Name (STitle) 331**] NOTIFIED - NO NEW ORDERS. LUNGS CLEAR THROUGHOUT. OCC SUCTIONING FOR THICK, WHITE SPUTUM. ABG'S ACCEPTABLE - NO VENT CHANGES. ABD SOFT - BOWEL SOUNDS PRESENT.  TOLERATING TUBE FEEDS.  MIN RESIDUAL.  U/O QS VIA FOLEY.  
+A/P:  CONT CURRENT ICU CARE AND TREATMENTS. PLAN FOR FAMILY TEAM MEETING THIS AM.
+  
+",,
+24369,13218,30259,0,2545-05-17 16:30:00 EST,2545-05-17 16:42:00 EST,3919,"N",54,"Nursing/Other",,"
+
+[**5-17**] NPN
+NEURO: PT UNRESPONSIVE TO STIMULI. WILL FLEX TO NAIL BED PRESSURE. DECEREBRATE POSTURING IN UPPER EXT. TEAM AWARE. VENT DRAIN NOT DRAINING THIS AM AND UNABLE TO FLUSH BY [**Last Name (NamePattern4) **] NP. PT SENT FOR STAT HEAD CT TO REVEAL VENTRICULAR SWELLING. DRAIN REPLACED THIS AFTERNOON BY DR. [**Last Name (STitle) **] AND DRAINING BLOOD TINGED CLEAR CSF. DRAIN REPOSITIONED AS NEEDED FOR GOAL OF 10-15CC/HR. PERRL. OCCASIONALLY SPONTANEOUSLY MOVING LOWER EXT. CSF SENT FOR CX. AND INTRATHECAL GENT. GIVEN BY [**Last Name (STitle) **] X 1.
+CV: BP INCREASED TO 170'S THIS AM AND HYDRALAZINE GIVEN IV WITH GOOD EFFECT. HR 80'S WITH NO ECTOPY. 
+RESP: VENT REMAINS UNCHANGED. LUNGS COARSE AT TIMES WITH DIMINISHED BASES. SXN'D SEVERAL TIMES FOR THICK WHITE SPUTUM. PT WITH + COUGH/GAG. 
+GI/GU: ABDOMEN SOFT WITH + BS. NO BM TODAY. NG TUBE RESIDUAL >300 AND PT WITH TF OOZING OUT CORNER OF MOUTH. TEAM AWARE AND TF STOPPED FOR NOW. ALL MEDS TO BE GIVEN IV, AND NG TUBE TO LCWS.
+ID: PT REMAINS AFEBRILE
+",,
+24369,13218,30259,0,2545-05-17 17:39:00 EST,2545-05-17 17:45:00 EST,3733,"N",54,"Nursing/Other",,"
+
+RESPIRATORY CARE: PT W/ 8.0 ORAL ETT @ 23 LIP.
+RSBI 43 THIS AM SO SBT BEGUN ON PS 5/.40/0.
+DOING WELL ON THESE SETTINGS. CT HEAD TODAY.
+SX WHITE SPUTUM. ALBUTEROL/ATROVENT MDI 6P Q4.
+
+                          [**Name6 (MD) 322**] [**Name8 (MD) **], RRT
+",,
+24369,13218,30259,,2545-05-18 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2545-5-18**] 10:34 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 1984**]
+     Reason: please evaluate for a r-sided effusion or infiltrate, patien
+     Admitting Diagnosis: HYDROCEPHALUS/SDA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+          75 year old man s/p VP shunt w/ pneumoceph s/p VP shunt revision s/p    
+      intubation  for mucous plugging now with increased respiratory rate and up    
+      airway  secretions.
+     REASON FOR THIS EXAMINATION:
+      please evaluate for a r-sided effusion or infiltrate, patient with markedly 
+      decreased BS on exam today on the r-side, pt with known PsA LLL pneumoniae
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CLINICAL INDICATION:  75 y/o man status post VP shunt revision.  Status post
+     intubation for mucus plugging.  Now with increased respiratory rate.  Evaluate
+     for right sided effusion or infiltrate.
+     
+     TECHNIQUE:  A single AP view of the chest is provided.
+     
+     FINDINGS:  Again are noted areas of increased density in both lung bases
+     consistent with pulmonary infiltrates.  Compared with the previous film from
+     [**2545-5-12**], there is a slight improvement in the aeration of both lung bases.
+     The cardiac silhouette is within normal limits.  The mediastinum is
+     unremarkable.  An NG tube is noted and, although its distal tip is not
+     visualized, it seems to be within the stomach.  A left subclavian line is also
+     demonstrated with the distal tip at the level of the confluence between the
+     brachiocephalic vein and superior vena cava.  ET tube is approximately 2 cm
+     above the carina and correctly positioned.  No clear pneumothorax is
+     demonstrated.  A linear density seen in the periphery of the left lung is most
+     likely related to skin fold and seems to be pulmonary vasculature lateral to
+     this linear density.  A repeat x-ray is suggested to confirm this finding.
+     There are degenerative changes in the thoracic spine.
+     
+     IMPRESSION:
+     
+     1)  Bibasilar pulmonary infiltrates.  Mild improvement compared with previous
+     film from [**2545-5-12**].
+     2)  Correct positioning of IV lines and ET tube.
+     3)  Linear density in the left lung likely artifactual.  Recommend repeat
+     chest x-ray. Findings communicated to the medical team at the time of the
+     examination.
+     
+     
+
+",,
+24369,13218,30259,,2545-05-18 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2545-5-18**] 11:57 AM
+     N-G TUBE PLACEMENT (W/ FLUORO)                                  Clip # [**Clip Number (Radiology) 1986**]
+     Reason: please place a post-pyloric tube in this patient with severe
+     Admitting Diagnosis: HYDROCEPHALUS/SDA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      75 year old man with NPH s/p VP shunt now with meningitis                       
+     REASON FOR THIS EXAMINATION:
+      please place a post-pyloric tube in this patient with severe Pseudomonal 
+      meningitis and high residuals with NG tube...unable to place dobhoff at  
+      bedside secondary to coiling (pt had high residuals with NG tube)
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CLINICAL INDICATION: 75-year-old male with meningitis and high nasogastric
+     tube residuals. Please place postpyloric feeding tube.
+     
+     TECHNIQUE: NG tube placement with fluoro.
+     
+     COMPARISON: None.
+     
+     FINDINGS: Using fluoroscopic guidance, an 8 Fr Dubbhoff tube was advanced to
+     the level of the ligament of Treitz. No immediate postprocedure complications
+     occurred.
+
+",,
+24369,13218,30259,,2545-05-18 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2545-5-18**] 11:36 AM
+     CT HEAD W/ & W/O CONTRAST; CT 100CC NON IONIC CONTRAST          Clip # [**Clip Number (Radiology) 1985**]
+     Reason: please evaluate ventricles and drain placement              
+     Admitting Diagnosis: HYDROCEPHALUS/SDA
+      Contrast: OPTIRAY Amt: 100CC
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      75 year old man w/ NPH now with externalized VP drain, pseudomonas meningitis 
+      and poor mental status
+     REASON FOR THIS EXAMINATION:
+      please evaluate ventricles and drain placement                                  
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  MPH, externalized VP drain, Pseudomonas meningitis and poor
+     mental status.
+     
+     TECHNIQUE:  Contiguous axial images were obtained from the skull base to the
+     cranial vertex pre and post-administration of 100 cc Optiray.  Non-ionic
+     contrast was used secondary to patient debility.
+     
+     COMPARISON:  [**2545-5-17**]
+     
+     FINDINGS:  There has been interval decrease in size of the ventricles.  The
+     ventricular catheter terminates in the region of the 3rd ventricle. There is a
+     small amount of hemorrhage along the tract of the catheter. Again noted is a
+     small extra-axial collection anteriorly.  There is no mass effect or shift of
+     normally mid-line structures.  Again noted is a suprasellar mass lesion, which
+     has been identified on prior studies.  No meningeal enhancement is appreciated
+     after contrast administration.  Also again noted are calcifications at the
+     level of the foramen magnum.
+     
+     IMPRESSION:  1)  Interval decompression of the ventricular system.
+     2)  No evidence for a meningeal enhancement.  Please note that meningitis
+     cannot be excluded by the lack of enhancement by CT.
+
+",,
+24369,13218,30259,,2545-05-18 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2545-5-18**] 11:36 AM
+     CT HEAD W/ & W/O CONTRAST; CT 100CC NON IONIC CONTRAST          Clip # [**Clip Number (Radiology) 1985**]
+     Reason: please evaluate ventricles and drain placement              
+     Admitting Diagnosis: HYDROCEPHALUS/SDA
+      Contrast: OPTIRAY Amt: 100CC
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      75 year old man w/ NPH now with externalized VP drain, pseudomonas meningitis 
+      and poor mental status
+     REASON FOR THIS EXAMINATION:
+      please evaluate ventricles and drain placement                                  
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  MPH, externalized VP drain, Pseudomonas meningitis and poor
+     mental status.
+     
+     TECHNIQUE:  Contiguous axial images were obtained from the skull base to the
+     cranial vertex pre and post-administration of 100 cc Optiray.  Non-ionic
+     contrast was used secondary to patient debility.
+     
+     COMPARISON:  [**2545-5-17**]
+     
+     FINDINGS:  There has been interval decrease in size of the ventricles.  The
+     ventricular catheter terminates in the region of the 3rd ventricle. There is a
+     small amount of hemorrhage along the tract of the catheter. Again noted is a
+     small extra-axial collection anteriorly.  There is no mass effect or shift of
+     normally mid-line structures.  Again noted is a suprasellar mass lesion, which
+     has been identified on prior studies.  No meningeal enhancement is appreciated
+     after contrast administration.  Also again noted are calcifications at the
+     level of the foramen magnum.
+     
+     IMPRESSION:  1)  Interval decompression of the ventricular system.
+     2)  No evidence for a meningeal enhancement.  Please note that meningitis
+     cannot be excluded by the lack of enhancement by CT.
+
+",,
+24369,13218,30259,0,2545-05-18 04:07:00 EST,2545-05-18 04:13:00 EST,3495,"N",54,"Nursing/Other","CONDITION UPDATE","
+CONDITION UPDATE
+D: NEURO: ESSENTIALLY UNCHANGED FROM PREVIOUS NOTES. UNRESPONSIVE, MOVES LE IN BED BUT NOT TO COMMAND. POSTURES WITH UPPER EXTREMITIES TO ANY STIMULATION. DOES NOT OPEN EYES. PUPILS 2MM WITH EQUAL REACTION. VENT DRAIN PATENT AND DRAINING 5-10CC CLEAR FLUID HOWEVER DRAINAGE HAS DECREASED AS SHIFT HAS PROGRESSED REQUIRING DRAIN TO BE PLACED ALMOST ON BASE OF IV POLE
+CV: AFEBRILE. SBP 110-140- HYDRALAZINE HELD BUT LOPRESSOR GIVEN AS SLOW IV GTT WITH NO SIGNIFICANT DROP IN BP
+RESP: NO CHANGES, CPAP WITH 5 IPS, NO PEEP. SX FOR SM AMTS THICK TAN BLOOD TINGED SECRETIONS. BS COARSE AND DIMINISHED IN BASES
+GI: NGT TO LCWS SINCE DAY SHIFT, PT NOTED TO HAVE SM AMT BLOOD TINGED DRAINAGE AROUND 23OO- HO NOTIFIED AND NGT CLAMPED AND RESIDUALS CHECKED Q4HRS (0-5CC). ABD SOFT AND NON-TENDER, +BS
+GU: NO ISSUES, GOOD URINE OUTPUT
+A: NEURO STATUS MONITORED, 
+R: UNCHANGED, ? RESUME TF TODAY
+",,
+24369,13218,30259,0,2545-05-18 15:21:00 EST,2545-05-18 15:28:00 EST,-1,"N",54,"Nursing/Other",,"
+
+the pt has tolerated the5/0 without any complications .The RSBI 50.
+He was transported to CT and fluoroscopy for a feeding tube which he
+tolerated very well.BS:ronchi and moderate amount of secretions was
+suctionned.I also administered albuterol and atrovent inhalers.
+",,
+24369,13218,30259,0,2545-05-18 16:12:00 EST,2545-05-18 16:22:00 EST,3919,"N",54,"Nursing/Other",,"
+
+[**5-18**] NPN
+NEURO: PT MORE RESPONSIVE TODAY. OCCASIONALLY FOLLOWING COMMAND TO SQUEEZE HAND. UPPER EXTREMETIES SEEM TO CONTINUE TO POSTURE. MAE. PERRL 2MM. OPENING EYES TO VOICE AT TIMES. VENT DRAIN STOPPED DRAINING THIS AM. PT FOR REPEAT HEAD CT, REVEALING LESS SWELLING IN VENTRICLES. DRAIN REMAINING IN PLACE AND FLUSHES WELL PER [**Month/Year (2) **]. 
+CV: A-LINE VERY POSITIONAL AND CONFIRMED BY CUFF. BP120'S-130'S. HR WNL WITH NO ECTOPY. + STRONG PEDAL PULSES
+RESP: VENT SETTINGS UNCHANGED. NO DISCOMFORT OR SOB NOTED. SXN'D X 2 FOR THICK TANNISH SPUTUM. LUNGS COARSE IN UPPER AND DIMINISHED IN BASES
+GI/GU: POST-PYLORIC DOPHOFF PLACED IN FLUORO. IMPACT WITH FIBER RESTARTED AND MD REQUESTING INCREASE BY 20CC Q4HRS. ABDOMEN SOFT WITH NO DISTENTION. NO BM TODAY. 
+ID: REMAINS AFEBRILE
+",,
+24369,13218,30259,0,2545-05-19 03:07:00 EST,2545-05-19 03:09:00 EST,3495,"N",54,"Nursing/Other","condition update","
+condition update
+d: vss- see carevue for specifics. remains on cpap with 5 ips- sx for thick tan secretions. tol tf at goal via post-pyloric feeding tube- no stool, abd soft and non-tender. neuro unchanged although pt does appear somewhat lighter. opens eyes to painful stimuli only. vent drain without drainage all day (ho aware)
+",,
+24369,13218,30259,0,2545-05-19 04:46:00 EST,2545-05-19 04:49:00 EST,4038,"N",54,"Nursing/Other",,"
+
+Resp:  Rec'd pt on [**Last Name (un) **] cpap 5/+0/40%. Ambu/syringe @ hob.  Bs auscultated reveal sl coarse sounds which clear with suctioning. Suctioned x3 small amount of thick whitish secretions. MDI's administered q4 hrs with no adverse reactions. RSBI=48.  No further changes noted.
+",,
+24369,13218,30259,0,2545-05-19 15:17:00 EST,2545-05-19 15:30:00 EST,3450,"N",54,"Nursing/Other","STATUS UPDATE","
+STATUS UPDATE
+D: VSS,AFEBRILE, CVP 1-3. NEURO STATUS UNCHANGED, CONTINUES TO WITHDRAW TO PAINFUL STIMULI,AND HAS SOME UPPER EXTREMITY POSTURING DR. [**Last Name (STitle) 331**] AWARE. DRAIN REPOSITIONED BY [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 870**] AT 1400 CONTINUES NOT TO DRAIN WITH POOR ICP TRACING [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 870**] AWARE AND WILL INFORM [**Last Name (NamePattern4) **] TEAM. CSF CX DRAWN AND SENT. SUCTIONED FOR THICK YELLOW WITH LAVAGE. DUODERM ON COCCYX INTACT. FOLEY CATH DRAINING >70 CC/HR CLEAR YELLOW URINE. TUBE FEEDS AT GOAL OF 70 CC/HR NOTED TO HAVE SMALL AMOUNT OF BILIOUS DRAINAGE IN MOUTH, DR. [**Last Name (STitle) **] AWARE AND HOB INCREASED TO PREVENT REFLUX.    
+A: CONT PLAN OF CARE, AWAITING DR.[**Doctor Last Name 4523**] RETURN [**5-20**]
+R: UNCHANGED
+",,
+24369,13218,30259,0,2545-05-19 15:56:00 EST,2545-05-19 16:01:00 EST,3672,"N",54,"Nursing/Other","Respiratory note:","
+Respiratory note:
+Pt is unresponsive.Cont to be on mech vent with 0 psv/0 peep, spo2 98% on Fio2 40%. Is on automatic tube compensation,tol well. Stays intubated for airway protection. Lungs coarse with decreased BS on right, received albuterol and atrovent inhalers Q4H.
+",,
+24369,13218,30259,0,2545-05-20 14:31:00 EST,2545-05-20 14:33:00 EST,-1,"N",54,"Nursing/Other","Respiratory Care","
+Respiratory Care
+Pt remains on mechainical ventilation with minimal settings for airway protection. MDI's given as ordered. Scattered expiratory whezzes, clearing w/suctioning. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) 516**] RRT
+",,
+24369,13218,30259,0,2545-05-20 17:27:00 EST,2545-05-20 17:37:00 EST,4010,"N",54,"Nursing/Other",,"
+
+Neuro: Pt opens eyes spontaneously but noted to arouse slightly to voice, Pupils 2mm brisk. Continues to posture with bilat UE, noted to move bilat LE on bed, ICP with good tracing but -1 to 2. Drain leveled on floor draining goal of 10cc/hr of CSF. CSF sent to lab for culture, Pt continues on Genta via Vent drain.
+CV: afebrile, HR 60-70's NSR with no ectopy, SBP 100-130's  Extremities warm with palpable periferal pulses. CVP 2-4. Recieved all IV antihypertensives.
+RESP: lungs clear to dim at bases. requiring occasional suctioning for thick blood tinged sputum. O2 sats 99% on FIO2 40%. 
+GI: tolerating tube feed at goal. No stool today. 
+GU: foley draining adequate amounts of clear yellow urine.
+endocrine: blood sugars WNL no  covering insulin needed. 
+",,
+24369,13218,30259,0,2545-05-21 04:54:00 EST,2545-05-21 05:07:00 EST,4004,"N",54,"Nursing/Other","Condition Update B:","
+Condition Update B:
+Please refer to careview for details.
+D: A-line cont to be positional. SBP as low as 86/48, NBP correlating. CVP 0-1. U/o >=80cc/h, diuressing from Diamox. LS coarse to clear and dim at bases. ICP cont not to transduce. Draining clear fluid, 4-10cc/h.
+A: MN doses of Hydralazine and Lopressor held. Dr. [**Last Name (STitle) **] notified of SBP, NBP, and CVP. NS 250cc bolus x1. Sx for thin white secretions. ICP and CSF drainage monitored q1h. 
+R: SBP low 100's. CVP unchanged. Dr. [**Last Name (STitle) **] notified. Neuro signs and LOC unchanged. Slept in naps. Maintained Pox >=98%. ABG slightly improved. Monitored u/o q1h.
+
+PLAN: Possible trach later today. D5 1/2NS @ 70cc/h started, and TF stopped. Cont with current plan of care.
+",,
+24369,13218,30259,0,2545-05-21 05:20:00 EST,2545-05-21 05:21:00 EST,3311,"N",54,"Nursing/Other",,"
+
+RESP CARE
+Pt remained on 0psv/0peep and 40%. Spont vt=400cc and rr=18-24. Pt given alb/atr as ordered. Will follow as needed.
+",,
+24369,13218,30259,0,2545-05-21 16:12:00 EST,2545-05-21 16:19:00 EST,4010,"N",54,"Nursing/Other",,"
+
+Neuro: Pt initially opens eyes spontaneously. Pupils 2mm brisk. Bilat UE no movement, bilat LE flex to nail bed pressure. Poor gag and cough reflex. Pt recieved Vecuronium and propofol for trach, presently non-responsive.
+CV: afebrile, HR 70-90 NSR with no ectopy, SBP 110-130's, held 12pm hydralazine and lopressor per sedation for trach. extremities warm with palpable periferal pulses. 
+RESP: initially pt on CPAP 40%FIO2, Pt presently trach, SOMV 500X12. tolerating well. o2 sats remain >98%. requiring frequent suctioning for thin tan sputum.
+GI: NO stool today. Tube feed restarted at 1700 following trach.
+GU: foley draining good amounts of clear yellow urine.
+endocrine: Blood sugars WNL. no coverage needed.   
+",,
+24369,13218,30259,0,2545-05-21 17:15:00 EST,2545-05-21 17:16:00 EST,-1,"N",54,"Nursing/Other","Respiratory Care","
+Respiratory Care
+Pt trached at the bedside and placed on simv. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) 516**] RRT
+",,
+24369,13218,30259,0,2545-05-22 04:14:00 EST,2545-05-22 04:25:00 EST,3876,"N",54,"Nursing/Other",,"
+
+7p-7a; Full assessment in flow sheet.
+
+NEURO: Open eyes spontaneously and to stimuli. Do not track. Do not follow directions. MAE - slightly to stimuli - withdrawal inward for upper extremeties and movement of feet for lower ext. impair gag and weak cough reflex, spontaneous movement (random LE and RUE). PERL - 2mm brisk. ICP - 0-2 (Sharp wave - recalbriate and rezero. Negative -4, -6 in AM - Dr. [**Last Name (STitle) 4524**] notify). 
+
+CV: NSR without ectopy. Afebrile. Warm, dry, no edema. 
+
+RESP: Clear lung sound in upper lobes, dimish at bases. Trach site intact - no drainage, no hematoma, no grimace pain on palpation. Pt cough intermittent light blood - HO notify, RT notify. SIMV change to CPAP - no change in ABG. 
+
+GU/GI: Soft abd. +BSX4. no bm. no flatus. foley patent - clear yellow urine >60 cc/hr. Dobhoff - +placement, TF tolerated. 
+
+int; Skin intact - coccyx - slight redness - duoderm. AM lab done. 
+
+Plan: Continue to monitor. 
+",,
+24369,13218,30259,0,2545-05-22 04:54:00 EST,2545-05-22 05:04:00 EST,3090,"N",54,"Nursing/Other",,"
+
+PATIENT RECENTLY TRACHED,STILL ON MECHANICAL VENTILATION. MODE OF VENTILATION SWITCHED TO PSV THIS AM;NOW ON CPAP POST MECHANICS.VT 470, RR 16,VE 8.23,RSBI 34. ABG ON PSV 7.44-37-142-26-1-98%. ON MDI VENTOLIN/ATROVENT,BS DIMINISHED.
+",,
+24369,13218,30259,0,2545-05-22 13:25:00 EST,2545-05-22 13:32:00 EST,3409,"N",54,"Nursing/Other","nsg note","
+nsg note
+SEE FLOWSHEET FOR SPECIFICS. 
+
+NEURO-OPENS EYES TO STIMULI. PERRL. FLEXES/WITHDRAWS ALL EXTREMITIES TO PAIN AND SL MOVES THEM SPONT ON BED. VENT DRAIN REMAINS OPEN, ON FLOOR WITH YELLOW DRG. ICP READINGS IN NEGATIVE NUMBERS AND WAVEFORM FLAT. TEAM AWARE. NEURO [**Doctor First Name 125**] TO GIVE GENT IN TO SHUNT. OLD SHUNT SITE WNL.
+
+CV-AFEBRILE. CON'T ON IV ABX. HR/BP STABLE. ALINE D/C'D. SKIN W+D. +PP. PBOOTS ON. 
+
+RESP-ON TRACH COLLAR MOST OF DAY. TOL WELL. RR WNL. O2 SAT 99% ON 40% TRACH COLLAR. SXN FREQ FOR MOD AMT THICK BLOODTINGED SPUTUM. LS COARSE. 
+
+GI-ABD SOFT, NT/ND. +BS. TOL TF VIA FEEDING TUBE. 
+
+GU-VOIDING VIA FOLEY ADEQ AMTS CL YELLOW URINE. 
+
+ENDO-SSRI.
+
+PLAN-CON'T WITH CURRENT PLAN., NEURO CHECKS. ? REST ON VENT OVERNOC. 
+",,
+24369,13218,30259,0,2545-05-23 04:02:00 EST,2545-05-23 04:09:00 EST,3876,"N",54,"Nursing/Other",,"
+
+7p-7a; Full assessment in flow sheet.
+
+No neuro change. Open eyes to painful stimuli. MAE - withdrawal to pain weakly. RUE - inward withdrawal. Sponateaous slight movement. Impair gag and strong cough. PERL - [**2-7**] brisk. No visible grimace of pain. VSS, afebrile. Trach mask tolerated. RR 16-22. SaO2- >96%. Productive cough - moderate white, thick sputum. No accessory muscle use. Chest PT and vibration done X2. Soft abd. +BSX4. no bm. foley patent - clear yellow >60 cc/hr. At 2300 - Ventricular drain - ICP - no drainage, no wave form - Dr. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) 4524**] notify, recalibrate, rezero - No new order. At 0400 - ventricular drain started draining yellow/clear fluid, wave still very dampen, and negative number. Skin intact. AM lab done. 
+
+Plan; Continue to monitor. 
+",,
+24369,13218,30259,0,2545-05-23 15:06:00 EST,2545-05-23 15:13:00 EST,3409,"N",54,"Nursing/Other","nsg note","
+nsg note
+SEE FLOWSHEET FOR SPECIFICS. 
+
+NEURO-PT OPENS EYES TO STIMULI. FLEX/WITHDRAWS ALL EXTREMITIES TO PAIN AND SL MAE ON BED, ALTHOUGH VERY MIN ON RIGHT LEG. RIGHT PUPIL SL LARGER THAN LEFT, BOTH REACTIVE. VENT DRAIN REMAINS OPEN, LEVELED TO FLOOR, WITH YELLOW DRG. CON'T WITH FLAT ICP WAVEFORM AND INACCURATE READINGS.
+
+CV-AFEBRILE. HR/BP STABLE. SKIN W+D. +PP. PBOOTS ON. 
+
+RESP-CON'T ON 40% TRACH COLLAR. O2 SAT 99%. LS COARSE WITH SOME RHONCHI. SXN FOR LARGE AMT THICK WHITE/YELLOW SPUTUM. PT ALSO EXPECTORATES LARGE AMT THICK TAN BLOODTINGED SPUTUM FROM TRACH. 
+
+GI-ABD SOFT, NT/ND. +BS. SM AMT STOOL. TOL TF AT GOAL. 
+
+GU-VOIDING VIA FOLEY ADEQ AMTS CL YELLOW URINE. 
+
+PLAN-CON'T WITH CURRENT PLAN.  
+",,
+24369,13218,30259,0,2545-05-24 03:36:00 EST,2545-05-24 04:04:00 EST,3992,"N",54,"Nursing/Other",,"
+
+B SHIFT- STATUS UPDATE
+NEURO: PT DOES NOT FOLLOW COMMANDS. OPENING EYES TO PAINFUL STIMULI, OCC SPONT EYE OPENING BUT UNABLE TO TRACK. RT PUPIL 3MM/LT PUPIL 2MM- BRISK. WEAK CORNEAL REFLEX. MAE INCONSISTENTLY ON BED AND WITHDRWS TO PAINFUL STIMULI. COUGH AND GAG ELICITED. DAMPENED ICP WAVEFORM AND INACCURATE. VENT DRAIN DRAINING SEROUS AND BLOOD TINGED FLUID SMALL AMT. VENT DRAIN DSG C/D/I.
+
+CARDIOVASCULAR: HR NSR 70'S. BP STABLE EXCEPT WHEN PT RECEIVED 2AM HYDRALAZINE HAD SBP DROP TO 90'S. CVP WAVEFORM DAMPENED-?ACCURACY RANGES [**2-12**]
+
+RESP: 40% TRACH COLLAR W/ GOOD O2 SATS. PT REQUIRING FREQUENT SUCTIONNING-THICK YELLOW/TAN COLOUR SECRETIONS. TRACH CARE DONE AND INNER CANULA CHANGED
+
+GI: ABD SOFT NT/ND +BS. INC PASTY STOOL. TF VIA PEDI NGT - IMPACT W/FIBER @70 CC/HE @ GOAL.
+
+INTEGUMENT: EXCORIATED PERIANAL RASH ?YEAST AND SMALL ABRASIONS NOTICED ON BUTTOCKS. PT ON FIRST STEP MATTRESS AND REPOSITIONNED FREQUENTLY
+
+PLAN: FUTURE SHUNT PLACEMENT WHEN INFECTION CLEARS. ? DC VENT DRAIN
+? PEG TUBE FOR FEEDINGS
+
+
+",,
+24369,13218,30259,0,2545-05-24 15:43:00 EST,2545-05-24 15:50:00 EST,3085,"N",54,"Nursing/Other","CONDITION UPDATE","
+CONDITION UPDATE
+D. AFEBRILE,SR 70-80'S,RR=16-26,O2 SAT ON 40% HUMIDIFIED O2 =99,BP 97-130/40-60. HYDRALAZINE D/C'D AND LOPRESSOR INCREASED TODAY.CVP <5 AND Q 2 HR UO=100-200. IVF IN FORM OF TF AT 70ML/HR.
+ PT OPENS EYES SPONTANEOUSLY BUT DOES NOT CHANGE HIS GAZE.HE HAS NOT OPENED EYES TO COMMAND. PT HAS BEEN SEEN TO MOVE ALL EXTREMITIES SL. ON BED AND RIGHT SIDE MORE STIFF THAN LEFT. PT HAS NO GAG. HE FOLLOWS NO COMMANDS.
+ PT IS SPONTANEOUSLY COUGHING COPIOUS AMTS SECRETIONS VIA TRACH.COLOR HAS GONE FROM SL YELLOW,TAN TO WHITE.
+ TF ARE TOLERATED.. ACTIVELY MOVING BOWELS.
+A.PT AND OT IN..SPLINTS APPLIED AND TO BE ROTATED.
+R.THIS PM SBP DROPPED AGAIN BUT AFTER LOPRESSOR. ? DOSE ADJUSTMENT REQUIRED AGAIN.HO NOTIFIED.
+
+",,
+24369,13218,30259,0,2545-05-25 17:38:00 EST,2545-05-25 17:44:00 EST,3085,"N",54,"Nursing/Other","CONDITION UPDATE","
+CONDITION UPDATE
+D. VSS. PT REMAINS HYPOTHERMIC WITH ELEVATED WBC.. SPUTUM VIA TRACH. CHANGED TO CREAMY BROWN,NON ORALLY,? ASPIRATION. HO AWARE. SPUTUM FOR C&S SENT.AMOUNT REMAINS COPIOUS. PT CONTINUES TO REQUIRE VIGOROUS PULM. TOILETING.
+ PT APPEARS LIGHTER TODAY KEEPING EYES OPEN LONGER. BUT HE DOES NOT TRACK. HOWEVER WHEN WIFE WAS IN, HE APPEARED TO BE FORMING WORDS WEAKLY WITH HIS LIPS. HE DID NOT ATTEMPT TO FOLLOW ANY COMMANDS. PT HAS SLIGHTLY MOVED ALL EXTREMITIES ON BED.
+ ICP DRAIN CONTINUES TO DRAIN CLEAR YELLOW CSF WHEN ON FLOOR. AGAIN NO WAVEFORM THUS NO ICP READINGS.
+ PT APPEARS TO BE TOLERATING TF VIA POST PYLORIC FT. PT CONTINUES TO STOOL AND NEW TF WITHOUT FIBER STARTED.
+A.CONTINUE WITH VIGOROUS PULM. TOILETING.
+R. NO CHANGE 
+",,
+24369,13218,30259,0,2545-05-26 16:11:00 EST,2545-05-26 16:20:00 EST,3556,"N",54,"Nursing/Other",,"
+
+nursing progress note see careview for details.
+
+neuro:pupils perl,moves extremites on bed and withdraws to pain.has more movement of upper extremites than lower extremites.opens eyes to voice .vent drain patent and draining straw colored drainage.head dsg intact.
+
+cv:remains in nsr with stable bp,tolerates lopressor.feet warm to touch with palpable dp and pt pulses.dr [**Last Name (STitle) **] aware of body temp warm blankets applied and temp in room increased.
+
+resp:remains on trach collar suctioned for moderate amount of thick tan secretions.breath sounds coarse at times but clear with suctioning.sp02 97% to 98%.
+
+gi:abd soft with positive bowel sounds present.has had several small stools today.tolerating tube feed at goal of 70cc.
+
+gu:foley to cd draining good amounts of clear yello urine.
+
+endocrine:blood sugar followed by sliding scale.
+
+social:family in to visit.
+",,
+24369,13218,30259,0,2545-05-27 02:54:00 EST,2545-05-27 02:59:00 EST,3495,"N",54,"Nursing/Other","CONDITION UPDATE","
+CONDITION UPDATE
+D: NEURO: NEUROLOGICALLY UNCHANGED. OPENS EYES SPONT BUT NOT TO COMMAND AND DOES NOT TRACK. MOVES ALL EXTREMITIES ON BED. VENT DRAIN PATENT AND DRAINING CLEAR FLUID.
+CV: CONTINUES IN NSR, SBP 100-120- NO CHANGE AFTER PO LOPRESSOR
+RESP: BS COARSE, SX FOR LARGE AMTS THICK TAN SECRETIONS, SATS 100% ON TRACH MASK
+GI: TOL TF AT GOAL, SM BM X1
+GU: FOLEY TO CD DRAINING GOOD AMTS CLEAR YELLOW URINE
+A: HEMODYNAMICS AND RESP PARAMETERS MONITORED, SX PRN
+R: UNCHANGED
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+",,
+24369,13218,30259,0,2545-05-27 16:56:00 EST,2545-05-27 17:05:00 EST,3790,"N",54,"Nursing/Other","CONDITION UPDATE:","
+CONDITION UPDATE:
+D/A:  T MAX 98.9
+
+NEURO:  PT MORE SOMNULENT TODAY, OPENING EYES TO PAINFUL STIMULI.  FAMILY VISITED AND NOTICED MORE LETHARGY AS WELL.  DR. [**Last Name (STitle) 4525**] AWARE AND STATES TO BE EXPECTED.  VENT DRAIN WITH SMALL AMOUNT OF DRG. THIS SHIFT, NO ICP #'S TO RECORD AS HAS BEEN THE CASE.  SICU AND N-[**Doctor First Name 125**] AWARE.  NO S+S OF PAIN.  NEURO EVAL OTHERWISE UNCHANGED.  PLEASE SEE CAREVIEW.
+
+CV:  HR 70'S NSR, NBP ~ 112/50.  CVP 0-5.  + PPP BILAT, NO PEDAL EDEMA.  PBOOTS.  FLUID BALANCE MN-1700 ~ =.
+
+RESP:  LS CLEAR/INSP WHEEZE.  PT EXPECTORATING AND SUCTIONED FOR THICK/TENATIOUS TAN SECRETIONS.  CHEST PT DONE, O2 SATS ~99% ON 50% TRACH MASK.
+
+GI:  SMALL STOOL X1, SOFT, SENT FOR C-DIFF.  TUBE FEEDS @ GOAL RATE.  APPEARS TO BE TOLERATING WELL.  ABDOMEN SOFT, +BS.
+
+GU:  FOLEY-BSD WITH CLEAR YELLOW URINE.
+
+SX:  FAMILY VISITED, [**Doctor First Name **] [**Doctor Last Name **] SOCIAL WORK SPOKE WITH THEM, AND E-MAILED DR. [**First Name (STitle) **] TO POSSIBLY SET UP A FAMILY MEETING.
+
+R:  AFEBRILE, MORE SOMNULENT, RESP STATUS SLIGHTLY IMPROVED.
+
+P:  CONTINUE WITH CURRENT CLOSE MONITORING AND MANAGEMENT, PULMONARY TOILET, VENT DRAIN / NEURO MONITORING.  PT AND FAMILY SUPPORT.
+",,
+24369,13218,30259,0,2545-05-28 03:20:00 EST,2545-05-28 03:22:00 EST,3495,"N",54,"Nursing/Other","condition update","
+condition update
+d: hemodynamically unchanged. neuro unchanged- opens eyes to painful stimuli only. moves all extremities on bed. pupils 2mm with equal reaction. vent drain patent with sm amt clear drainage.  continues to be suctioned for large amts thick yellow-tan secretions.
+a: neurostatus monitored, pulm toilet
+r: unchanged, await meeting with Dr [**First Name (STitle) 100**] re: plan of care
+",,
+24369,13218,30259,0,2545-05-28 16:23:00 EST,2545-05-28 16:24:00 EST,3773,"N",54,"Nursing/Other",,"
+
+FOCUS:  CONDITION UPDATE
+D: HEMODYNAMICALLY STABLE. NEUROLOGICALLY NO CHANGE. VENT DRAIN REMAINS ON FLOOR, MINIMAL DRAINAGE. CSF SENT FOR CULTURE TODAY. FAMILY IN BRIEFLY.'
+A: NEED TO MAKE PLAN FOR REHAB/DISCHARGE. [**First Name8 (NamePattern2) 869**] [**Last Name (NamePattern1) 870**] AWARE.
+",,
+24369,13218,30259,0,2545-05-29 17:47:00 EST,2545-05-29 17:54:00 EST,-1,"N",54,"Nursing/Other","NPN 7A-7P","
+NPN 7A-7P
+Neuro: occ. opens eyes to voice, but usually to sternal rub. PERRLA 3mm bilat. not following commands. no visual tracking. bilat UE's deceribrate posturing w/ sternal rub. bilat LE's withdraw from nailbed stimulus. Ventriculostomy drain w/out any drainage noted this afternoon.  See carevue for last amts. Dr. [**First Name (STitle) **] & Dr. [**Last Name (STitle) 1144**] aware & up to eval drain patency.  No ICP waveform & reading out negative values when transduced.
+Resp: sxn'd Q2 for copious thick yellow now greenish yellow sputum. on multiple ABX for +sputum.  
+Plan: cont. to monitor neuro status & drain patency. cont. to sxn & monitor resp status.
+",,
+24369,13218,30259,,2545-05-30 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2545-5-30**] 11:34 PM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 1990**]
+     Reason: assess for ICH                                              
+     Admitting Diagnosis: HYDROCEPHALUS/SDA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+          75 year old man s/p shunt revision now fixed and dilated                    
+     REASON FOR THIS EXAMINATION:
+      assess for ICH                                                                  
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HEAD CT
+     
+     INDICATION: Fixed and dilated pupils.  Status post shunt revision.
+     
+     COMPARISON: [**2545-5-18**].
+     
+     TECHNIQUE: Noncontrast head CT.
+     
+     FINDINGS:  There is a large left frontoparietal intracranial hemorrhage,
+     probably acute on chronic given layering of blood products, which extends into
+     the left temporal lobe.  There is a moderate amount of mass effect, with shift
+     of the normally midline structures, and subfalcine herniation.  This
+     hemorrhage dissects into both lateral ventricles and into the fourth
+     ventricle.  A drainage catheter is noted within the third ventricle, and there
+     is a small bubble of gas within the frontal [**Doctor Last Name 79**] of the right lateral
+     ventricle. The ventricles are considerately more dilated [**First Name8 (NamePattern2) 1991**] [**5-18**]. There
+     is a moderate amount of parenchymal edema, substantially increased since the
+     previous exam. Hypodensity involving the white matter areas of the right
+     cerebrum has increased slightly in the interval.  There is probably tonsilar
+     herniation as well.
+     
+     The anterior aspects of the frontal lobes has been excluded bilaterally, but
+     the decision was made by the clinical ICU team to remove the patient from the
+     CT scanner without further imaging.
+     
+     The patient is status post frontal craniotomy.  Mucosal thickening is noted
+     within the ethmoid sinuses bilaterally, and there is fluid within the left
+     sphenoid sinus.
+     
+     IMPRESSION: Large left intraparenchymal hemorrhage with intraventricular
+     extent, a moderate amount of mass effect, and subfalcine herniation. There may
+     also be tonsillar herniation. Findings were discussed with the clinical team
+     at the time of image aquisition, and the patient was removed from the scanner
+     promptly.
+     
+     
+                                                                 (Over)
+
+     DATE: [**2545-5-30**] 11:34 PM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 1990**]
+     Reason: assess for ICH                                              
+     Admitting Diagnosis: HYDROCEPHALUS/SDA
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+
+",,
+24369,13218,30259,,2545-05-30 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2545-5-30**] 6:24 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 1987**]
+     Reason: aspiration                                                  
+     Admitting Diagnosis: HYDROCEPHALUS/SDA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+           75 year old man s/p VP shunt w/ pneumoceph s/p VP shunt revision s/p     
+      intubation  for mucous plugging now with increased respiratory rate and up     
+      airway  secretions.
+     REASON FOR THIS EXAMINATION:
+      aspiration                                                                      
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Aspiration follow up.
+     
+     PORTABLE CHEST:  Comparison is made to film dated [**2545-5-18**].
+     
+     A tracheostomy tube is in place.  An enteric tube is present, its tip within
+     the proximal stomach.  The tip of the left subclavian central venous catheter
+     is either in the SVC or just shy of it in the left brachycephalic vein.
+     Cardiac and mediastinal contours are grossly unchanged on this supine film.
+     There is improved aeration in the right lung base.  There is still nonspecific
+     patchy increased density in the left retrocardiac area, without significant
+     change.  There is also minimal patchy increased density more laterally at the
+     left base, not as clearly seen previously.  The lungs appear otherwise clear.
+     The lateral costophrenic angles are sharp without effusion.
+     
+     IMPRESSION: 1. Improved aeration right base.
+     2. No change patchy left retrocardiac density.
+     3. Minimal patchy increased density more laterally in left base, not clearly
+     appreciated on the prior film.
+     
+     
+     
+     
+     
+     
+
+",,
+24369,13218,30259,,2545-05-30 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2545-5-30**] 5:54 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 1989**]
+     Reason: assess for CHF                                              
+     Admitting Diagnosis: HYDROCEPHALUS/SDA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+             75 year old man s/p VP shunt w/ pneumoceph s/p VP shunt revision w/ 
+      trach collar and fruquent episodes of hypoxia
+     REASON FOR THIS EXAMINATION:
+      assess for CHF                                                                  
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     PORTABLE CHEST:
+     
+     This is a repeat dictation for a previously lost report.
+     
+     CLINICAL INDICATION:  Hypoxia.  Evaluate for congestive heart failure.
+     
+     Prior radiographs are not currently available for comparison.  A feeding tube
+     is present, terminating in the proximal stomach.  A tracheostomy tube is in
+     satisfactory position.  There is patchy increased opacity within the left
+     lower lobe with some associated mild elevation of the left hemidiaphragm.  The
+     right lung appears grossly clear.
+     
+     IMPRESSION:  Patchy left lower lobe opacity, for which differential diagnosis
+     includes atelectasis, aspiration, and pneumonia.
+
+",,
+24369,13218,30259,,2545-05-30 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2545-5-30**] 11:05 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 1988**]
+     Reason: NGTUBE PLACEMENT                                            
+     Admitting Diagnosis: HYDROCEPHALUS/SDA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+            75 year old man s/p VP shunt w/ pneumoceph s/p VP shunt revision s/p      
+      intubation  for mucous plugging now with increased respiratory rate and up      
+      airway  secretions.
+     REASON FOR THIS EXAMINATION:
+      NGTUBE PLACEMENT                                                                
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Assess for CHF. 
+     
+     PORTABLE CHEST:  Comparison is made to previous films from  6:24 a.m the same
+     day.  The previously noted tracheostomy tube and central venous catheter
+     remain in place. The tip of the feeding tube is in the proximal stomach. There
+     is no definite change in the appearance of the lung parenchyma. There is still
+     patchy increased density at the left base. This appears slightly more
+     pronounced than on the earlier film, possibly simply reflecting differences in
+     patient positioning. No definite new air space infiltrate is seen. There is no
+     overt CHF or pleural effusion.
+     
+     IMPRESSION:   1. No change in tubes or catheters.
+     
+     2. Persistent patchy increased density left base.  Increased prominence on the
+     current film could be a consequence of differences in patient positioning,
+     although the possibility of some worsening aeration here may be considered.
+
+",,
+24369,13218,30259,0,2545-05-30 05:08:00 EST,2545-05-30 05:13:00 EST,3601,"N",54,"Nursing/Other",,"
+
+PT SPEWING GREEN TO TAN SECRETIONS THROUGH TRACH ??? GASTRIC CONTENTS. DR [**Last Name (STitle) 852**] TUBE FDGS HELD FOR NOC. NGT ATTEMPTED BUT UNSUCESSFUL. WILLCXR THIS AM TO CHECK POSITION OF POST-PYLORIC FDG TUBE
+",,
+24369,13218,30259,0,2545-05-30 18:36:00 EST,2545-05-30 18:50:00 EST,-1,"N",54,"Nursing/Other","NPN 7A-7P","
+NPN 7A-7P
+NEURO: CSF SENT FOR CX, PROTEIN & GLUCOSE LEVELS. VENT DRAIN PATENT. OPENS EYES TO PAIN SOMETIMES VOICE. LOCALIZING TO PAIN W/ UE'S. 
+RESP: DROPPING SATS TO 90% THIS AFTERNOON DESPITE AMBU SXN. CXR +ASPIRATION OF TF. PLACED ON CPAP W/ 60% FIO2 FOR IMPROVED SATS UP TO 100%. ABG SENT. RESULTS PND. SEE CAREVUE. CONT. W/ SXN Q2 FOR TAN THICK SECRETIONS IN MOD AMTS. LS DIMINISHED THROUGHOUT W/ INSP/EXP WHEEZES IN UPPER LOBES. ALBUTEROL GIVEN W/ DEC WHEEZING NOTED. 
+CV: HYPOTENSIVE THIS AFTERNOON. TX'D W/ NS BOLUS FOR TOTAL OF 1L THIS SHIFT. TRANSIENT IMPROVEMENT FOLLOWING IVF BOLUS, BUT REQUIRED NEO @.5MCG/KG/MIN TO MAINT. MAP >70.  CVP 0-6. SLIGHTLY HYPOTHERMIC THAT IMPROVED SLIGHTLY W/ HEATED BLANKETS. LEFT RADIAL ARTERIAL LINE PLACED TO MONITOR BP WHILE ON NEO & FOR MONITORING ABG'S.
+GI: BM SM SOFT GUIAC NEG X3 THIS SHIFT. ON REGLAN. +BS. TF HELD UNTIL DOPHOFF TUBE REPLACED BY SICU RESIDENT. 
+GU: LOW U/O DURING HYPOTENSIVE STATES THAT IMPROVED W/ NS BOLUSES. CLEAR YELLOW URINE. 
+PLAN: MONITOR RESP STATUS, ABG'S, MAP TO MAINT. >70 & NEURO STATUS. RESUME TF WHEN DOPHOFF REPLACED.
+",,
+24369,,30259,0,2545-05-31 02:10:00 EST,2545-05-31 02:33:00 EST,3601,"N",54,"Nursing/Other",,"
+
+NEURO STATUS UNCHANGED UNTIL ~11PM. WHILE SUCTIONING, PT BECAME HYPERTENSIVE TO ~190'S NEO OFF @TIME. VENT DRAIN NOTED TO HAVE FRESH ""BLOODY"" DRNG ~ 40CC NEURO EXAM WAS SIGNIFICANT FOR PUPILS FIXED AND DILATED, NO SPONTANEOUS RESP AND COMPLETE UNRESPONSIVE TO PAINFUL STIMULI. [**Last Name (NamePattern4) **]. [**Doctor Last Name 762**], [**Doctor Last Name 1704**],VIATLY AND RESP NOTIFIED AND AT BEDSIDE STAT. BP LABILE (SBP 60-220) NEO/NIPRIDE TITRATED
+CT SCAN PERFORMED STAT AND SHOWED LG CEREBRAL BLEED W/MIDLINE SHIFT WHICH CONFIRMS ACUTE NEURO CHANGES. 
+WIFE NOTIFIED BY DR. [**First Name (STitle) 162**] AND NOW ALONG WITH CHILDREN AND SPOUSES ARE @ BEDSIDE. FR.[**Doctor Last Name 4526**] NOTIFIED AND AT BEDSIDE W/FAMILY.
+APNEA TEST PERFORMED W/FAMILY AT BEDSIDE AND PROCESS OF BRAIN DECLARATION EXPLAINED.
+WITHIN THE 10 MINUTE WINDOW FOR APNEA TESTING PT HAD NO VISUAL RESP EFFORT AND PCO2^ 68.
+",,
+24369,,30259,0,2545-05-31 03:36:00 EST,2545-05-31 03:40:00 EST,3681,"N",54,"Nursing/Other",,"
+
+Resp Care Note:
+
+Pt cont trached on mech vent as per Carevue. Lung sounds coarse suct sm th yellow sput. MDI given as per order. Pt transported to and from CT scan without incident. Pt had apnea test performed and met criteria for brain death PCO2 68 after 10 minutes (no spont resp noted). Cont mech vent support.
+",,
+24369,,30259,0,2545-05-31 10:37:00 EST,2545-05-31 10:50:00 EST,4115,"N",54,"Nursing/Other","Social Work Note","
+Social Work Note
+Met at length with pt's family (wife, 4 children and their spouses) for end of life discussion.  [**Name8 (MD) **] RN report, family came in at approx 1am when notified about pt's woring condition, and had further discussion w/ Dr [**Last Name (STitle) **] this AM.  Family appears exhausted, introduced them to NEOB staff and helped facilitate discussion re: option of organ donation.  Family opted not to condider donation due to their difficulty saying good bye to pt multiple times since early this AM.  They were disappointed that discussion with NEOB was delayed until this AM.  Support & reassurance re: the appropriateness of their decision provided.  Provided family with bereavement resources dorecetd towrd both adults and children.  Family has already made funeral arrangements, will document phone # in front of chart.  
+
+[**First Name4 (NamePattern1) 241**] [**Last Name (NamePattern1) 242**], LICSW #38435
+",,
+24369,,30259,0,2545-05-31 13:06:00 EST,2545-05-31 13:21:00 EST,4004,"N",54,"Nursing/Other","Condition Update A:","
+Condition Update A:
+Please refer to flowsheet for details.
+NEURO: Remain fixed and dilated. Pt unresponsive to stimuli. Pt declared brain dead at 0900 by Dr. [**Last Name (STitle) **]. MSO4 gtt started for comfort.
+SOCIAL: NEOB in to speak with family and present option to donate organs. After family declined, Dr. [**Last Name (STitle) **] spoke with family who decided pt would be DNR/DNI and CMO. Private conference room assigned to family for privacy and emotional support provided as need.
+
+PLAN: Awaiting transport to morgue.
+",,

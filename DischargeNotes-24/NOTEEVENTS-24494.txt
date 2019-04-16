@@ -1,0 +1,1036 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+24494,35266,,,2692-04-20 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+
+Admission Date:  [**2692-4-20**]       Discharge Date:  [**2692-5-8**]
+
+Date of Birth:   [**2617-7-27**]       Sex:  F
+
+Service:  Medicine
+
+ADDENDUM:  Since the last dictation the [**Hospital 874**] hospital
+course remained essentially the same except for notable
+changes:
+
+1. MRSA endocarditis:  The patient was continued on
+vancomycin and gentamicin as patient's culture never cleared.
+The patient only had one set of clear cultures but
+surveillance cultures revealed continued positive cultures.
+The patient's PR interval remained stable throughout the
+hospitalization.
+
+2. Pneumothorax:  The patient's pneumothorax did not resolve
+and once the chest tube was pulled the pneumothorax came
+back.  The patient was started on 100% nonrebreather and
+pneumothorax stabilized but did not resolve.  The patient was
+not given chest tube after discussion with family.
+
+3. Thrombocytopenia:  The patient had decreasing platelets
+down to the point of 11,000.  At 11,000 the patient's
+platelets were repleted by transfusion.  Hem/onc consult felt
+the most likely cause of platelet decrease was intensive care
+unit thrombocytopenia.
+
+4. Anemia:  The patient appeared to have some hemolytic
+anemia.  The patient's hematocrit was kept above 30 with one
+unit of packed red blood cells.
+
+5. Neurology:  The patient appeared to be having an ischemic
+stroke during the hospitalization.  MRI was obtained that
+showed MCA/PCA watershed lesions thought to be secondary to
+septic emboli from endocarditis.  The patient also had an EEG
+that just showed diffuse slowing.  The patient was not in
+status epilepticus.  The patient's neurologic status never
+improved.
+
+DISPOSITION:  The patient had a PEA arrest on the floor.  The
+patient was sent to the medical intensive care unit where she
+had a cardiac arrest multiple times for a total of an hour and a
+half and the patient expired on [**2692-5-8**].
+
+
+
+
+
+                            [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 2663**], M.D.  [**MD Number 2664**]
+
+Dictated By:[**Name8 (MD) 4920**]
+MEDQUIST36
+
+D:  [**2692-5-9**]  11:11
+T:  [**2692-5-9**]  11:29
+JOB#:  [**Job Number 5494**]
+Signed electronically by: DR. [**First Name8 (NamePattern2) **] [**Doctor Last Name **]
+ on: WED [**2692-5-11**] 5:02 PM
+(End of Report)
+
+
+",,
+24494,35266,,,2692-04-21 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2692-4-21**] 10:07 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 3028**]
+     Reason: check ngt position, chest for infiltrate                    
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      74 year old woman with                                                          
+     REASON FOR THIS EXAMINATION:
+      check ngt position, chest for infiltrate                                        
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Nasogastric tube placement.
+     
+     The nasogastric tube courses below the diaphragm.
+     
+     The heart demonstrates left ventricular configuration.  There is vascular
+     engorgement, perihilar haziness, and a bilateral interstitial pattern.  Small
+     pleural effusions are seen.
+     
+     IMPRESSION:
+     
+     1.  Nasogastric tube courses below the diaphragm.
+     
+     2.  Congestive heart failure pattern.
+
+",,
+24494,35266,,,2692-04-21 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2692-4-21**] 8:31 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 3029**]
+     Reason: replaced nasogastric tube                                   
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       74 year old woman with upper GI bleed                                          
+                     
+     REASON FOR THIS EXAMINATION:
+      replaced nasogastric tube                                                       
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CHEST SINGLE AP FILM:
+     
+     HISTORY: Upper GI bleed and NG tube placement.
+     
+     Tip of NG tube is in body of stomach. No other change since previous film of
+     same date.
+
+",,
+24494,35266,,,2692-04-27 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2692-4-27**] 3:47 PM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 3032**]
+     Reason: r/o subdural bleed,  r/o septic emboli/infarct from possible
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      74 year old woman with persistent MRSA bacteremia and mental status change.     
+     REASON FOR THIS EXAMINATION:
+      r/o subdural bleed,  r/o septic emboli/infarct from possible endocarditis       
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     
+     STUDY:  CT of the head without contrast.
+     
+     INDICATION:  74 year old female with persistent MRSA bacteremia and mental
+     status change, evaluate for subdural bleed or infarct.
+     
+     TECHNIQUE:  CT imaging of the brain without contrast.  There are no studies
+     available for comparison.
+     
+     FINDINGS:  There is no evidence of intra- or extraaxial hemorrhage.  There is
+     evidence of low attenuation within the periventricular white matter
+     immediately anterior to the frontal [**Doctor Last Name 79**] of the right lateral ventricle and
+     immediately lateral to the mid portion of the left lateral ventricle.  There
+     is another area of hypoattenuation within the left cerebellar hemisphere.
+     These findings likely represent areas of subacute-to-chronic infarct.  The
+     differentiation of the [**Doctor Last Name 66**] and white matter is normal throughout.  There is
+     evidence of mild prominence of the ventricles and sulci consistent with age-
+     appropriate involutional change.  There is no evidence of significant mass
+     effect.  There is no evidence of major vascular territorial infarct.  There is
+     evidence of dense calcification within the cavernous portions of the internal
+     carotid arteries bilaterally.
+     
+     Bone windows show no evidence of fracture.  The visualized portions of the
+     paranasal sinuses are clear.
+     
+     IMPRESSION:  No evidence of intra- or extraaxial hemorrhage.  No evidence of
+     visible acute infarct.  Areas of hypoattenuation within the right and left
+     periventricular white matter and left cerebellum that likely represent
+     subacute-to-chronic infarct.  Comparison with prior imaging would be helpful
+     in evaluating this finding.
+
+",,
+24494,35266,,,2692-04-27 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2692-4-27**] 2:45 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 3031**]
+     Reason: s/p new chest tube, eval change in pneumothorax             
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+         74 year old woman with upper GI bleed                                        
+                         
+     REASON FOR THIS EXAMINATION:
+      s/p new chest tube, eval change in pneumothorax                                 
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  74 y/o woman with upper GI bleed. Status post tube placement
+     after pneumothorax.
+     
+     PORTABLE AP VIEW OF THE CHEST
+     
+     Comparison study from approximately 4 hours earlier the same day.
+     
+     There has been interval placement of a left chest catheter extending towards
+     the left hilum.  There has been interval increase in size of the left apical,
+     lateral, and basilar pneumothorax now occupying approximately 50% of the left
+     hemithorax.  There is increased opacity within the left hilar region
+     consistent with atelectasis.  The cardiac silhouette remains centrally
+     located. There has been interval decrease in the prominence of the right sided
+     pulmonary vasculature consistent with improving failure.  There is a probable
+     right pleural effusion.
+     
+     IMPRESSION:
+     
+     1) Interval increase in size in left pneumothorax after left sided chest
+     catheter placement.
+
+",,
+24494,35266,,,2692-04-27 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2692-4-27**] 12:40 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 3030**]
+     Reason: PATIENT NOT IN ROOM, IN [**Hospital1 **] 2 PROCEDURE ROOMS/P LEFT SUBCLA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        74 year old woman with upper GI bleed                                         
+                       
+     REASON FOR THIS EXAMINATION:
+      PATIENT NOT IN ROOM, IN [**Hospital1 **] 2 PROCEDURE ROOMS/P LEFT SUBCLAVIAN, EVAL FOR 
+      PNEUMOTHORAX AND LINE POSITION
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  74 y/o woman with upper GI bleed. Status post line placement.
+     
+     PORTABLE AP SEMI UPRIGHT VIEW OF THE CHEST
+     
+     Comparison study dated [**2692-4-21**].
+     
+     A nasogastric tube is present with its tip terminating in the stomach. There
+     has been interval placement of a left central venous line with tip in the
+     lower SVC.  There is a new apical and lateral pneumothorax occupying
+     approximately 20% of the left hemithorax. The aorta is calcified. The heart
+     size is at the upper limits of normal for technique.  Interstitial markings
+     are present on the right and there is prominence of the pulmonary vasculature
+     consistent with mild failure.  There is a linear lucency immediately subjacent
+     to the right hemidiaphragm raising suspicion for free intraperitoneal gas.
+     Surgical clips are again noted within the right upper quadrant. Osseous
+     structures are grossly unremarkable.
+     
+     IMPRESSION:
+     
+     1) New left sided pneumothorax.  Mild pulmonary edema/volume overload.
+     Findings called to covering resident.
+
+",,
+24494,35266,,,2692-04-28 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2692-4-28**] 8:13 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 3033**]
+     Reason: eval patient's pneumothorax s/p chest tube/suction          
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+          74 year old woman with upper GI bleed                                       
+                           
+     REASON FOR THIS EXAMINATION:
+      eval patient's pneumothorax s/p chest tube/suction                              
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Pneumothorax, status post chest tube.
+     
+     CHEST X-RAY PORTABLE AP:
+     
+     COMPARISON:  [**2692-4-27**].
+     
+     Tubes and lines are unchanged in position.  A large left pneumothorax is again
+     identified.  There is very slight reexpansion of the lung in the interval.
+     The heart size is enlarged.  There has been interval increase interstitial
+     diffuse opacities in the right lung.  Increased perihilar haziness is also
+     appreciated.  There is a small right pleural effusion.
+     
+     IMPRESSION:
+     
+     1)  Slight improvement of large left pneumothorax.
+     2)  Congestive heart failure with pulmonary edema.
+
+",,
+24494,35266,,,2692-04-28 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2692-4-28**] 6:25 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 3035**]
+     Reason: eval feeding tube placement and size of pneumothorax        
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      s/p feeding tube, with recent pneumothorax                                      
+     REASON FOR THIS EXAMINATION:
+      eval feeding tube placement and size of pneumothorax                            
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CHEST AP:
+     
+     INDICATION: Evaluate position of feeding tube and size of recently documented
+     pneumothorax.
+     
+     COMPARISON: [**2692-4-28**].
+     
+     FINDINGS: Normal heart and mediastinal contours. The aorta is unfolded.
+     
+     There is a small apical pneumothorax on the left side essentially unchanged
+     since prior examination. The degree of pulmonary vascular congestion has
+     deteriorated slightly since the prior study. No pleural effusions. No
+     consolidations.
+     
+     There has been interval placement of an NG feeding tube the distal portion of
+     which is just within the stomach. Position of the other lines is unchanged.
+     
+     IMPRESSION:
+     
+     1) Stable pneumothorax.
+     
+     2) Slightly worsening pulmonary vascular congestion.
+     
+     3) Position of feeding tube slightly proximal within the
+     stomach.Repositioning may be indicated.
+
+",,
+24494,35266,,,2692-04-28 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2692-4-28**] 2:16 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 3034**]
+     Reason: PATIENT IN HEMODIALYSIS, [**Hospital Ward Name **] 7                             
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      EVAL CHANGE IN PNEUMOTHORAX                                                     
+            
+     REASON FOR THIS EXAMINATION:
+      PATIENT IN HEMODIALYSIS, [**Hospital Ward Name **] 7                                                 
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CHEST, AP PORTABLE, SINGLE VIEW
+     
+     INDICATION: Evaluate change in pneumothorax.  Patient on hemodialysis.
+     
+     FINDINGS:  The left sided sizable pneumothorax persists in spite of the
+     presence of a small draining tube.  The position of small caliber chest tube,
+     left subclavian central venous line, ad NG tube unchanged.  There is marked
+     improvement in the pulmonary vascular congestive pattern as it existed on the
+     preceding film of [**2692-4-28**].  No new parenchymal infiltrates have
+     developed.
+     
+     IMPRESSION: Persistent sizable left sided pneumothorax, improved pulmonary
+     vascular congestion.
+
+",,
+24494,35266,,,2692-04-29 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2692-4-29**] 8:05 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 3040**]
+     Reason: eval pneumothorax change                                    
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      74f with above                                                                  
+     REASON FOR THIS EXAMINATION:
+      eval pneumothorax change                                                        
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  History of pneumothorax. Please assess for change.
+     
+     CHEST X-RAY, PORTABLE AP
+     
+     Comparison study dated [**2692-4-28**].
+     
+     There has been repositioning of the dobbhoff tube. The end of the tube now
+     overlies the mid mediastinum. This could be in the esophagus or in the
+     airways.  A left subclavian central venous line is unchanged in position.
+     There is a small left chest tube with tip at the left upper lung zone. There
+     has been interval decrease in the left pneumothorax, with marked improved
+     aeration of that lung.  There is a residual pneumothorax that is visible.
+     Increased density is noted over the entire right lung likely consistent with a
+     layering pleural effusion.  No focal infiltrates. Persistent partial collapse
+     of the left lower lobe.
+     
+     IMPRESSION:
+     
+     1) Malpositioned dobbhoff tube in the mid mediastinal area, in either the
+     esophagus or airway.
+     2) Marked improved aeration of the left lung, with decreased size of the left
+     pneumothorax.
+     3) Right layering pleural effusion.
+     
+      Dr. [**First Name8 (NamePattern2) 3041**] [**Last Name (NamePattern1) 69**] was informed of these findings on date of examination.
+     
+
+",,
+24494,35266,,,2692-04-29 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2692-4-29**] 12:57 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 3042**]
+     Reason: clamped chest tube, eval ptx and new position of ng tube    
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       74f with above                                                                 
+       
+     REASON FOR THIS EXAMINATION:
+      clamped chest tube, eval ptx and new position of ng tube                        
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: 74 y/o female with left sided pneumothorax and chest tube.
+     
+     PORTABLE AP VIEW OF THE CHEST: Comparison [**2692-4-29**]. A left central venous
+     line is present with tip in the lower SVC. There has been interval placement
+     of a feeding tube with its tip in the stomach. Multiple lines overlie the
+     chest. The aorta is calcified. There is stable cardiomegaly. There is a
+     moderate left apical and basilar pneumothorax, unchanged in size. There is a
+     right pleural effusion. There is indistinctness of the pulmonary vasculature
+     consistent with mild failure, unchanged.
+     
+     IMPRESSION: Stable moderate left pneumothorax.
+     
+     Mild failure.
+
+",,
+24494,35266,,,2692-04-29 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     TC WHITE BLOOD CELL STUDY                                       Clip # [**Clip Number (Radiology) 3036**]
+     Reason: EVAL FOR INFECTION FOR PERSISTENT MRSA BACTEREMIA. 
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Seventy-four year old female with MRSA bacteremia.  Assess for 
+     infection in the left arm dialysis fistula.   
+      
+     INTERPRETATION:  Following the injection of autologous white blood cells labeled
+     with Tc-99m, images of the whole body as well as additional spot views of the
+     left arm were obtained at 4 hours.  These images show mild uptake in the left
+     arm which appears to be associated with the dialysis fistula.  The degree and
+     intensity of uptake, however, is not that expected at an infection site.  There
+     is a semicircular photopenic defect along the superior margin of the spleen
+     which may represent a site of splenic infarct or possibly from a cyst or mass in
+     the spleen.  No other sites of focal tracer uptake suggestive of an infective
+     focus are identified. 
+      
+     IMPRESSION:  1) No definite evidence of an infective focus in the left arm or
+     elsewhere.  2) Photopenic defect in the superior aspect of the spleen, of
+     unknown etiology. 
+     /nkg 
+                                                                           
+
+             [**Name6 (MD) 3037**] [**Name8 (MD) 3038**], M.D.(dictated)
+             [**Initials (NamePattern4) 111**] [**Last Name (NamePattern4) 112**] [**Last Name (NamePattern1) 113**], M.D.     Approved: FRI [**2692-4-29**] 7:11 PM
+
+
+             Date Mailed: [**2692-5-2**]                     West [**Medical Record Number 3039**]
+
+
+
+               RADLINE [**Telephone/Fax (1) 115**]; A radiology consult service.
+            To hear preliminary results, prior to transcription, call the
+                           Radiology Listen Line [**Telephone/Fax (1) 116**].
+
+",,
+24494,35266,,,2692-04-30 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2692-4-30**] 4:20 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 3043**]
+     Reason: eval of ptx                                                 
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      74 yo with ptx s/p line placement, esrd on hd.                                  
+     REASON FOR THIS EXAMINATION:
+      eval of ptx                                                                     
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CHEST
+     
+     Again noted is a moderate sized left pneumothorax.  The inferior component of
+     this is smaller and the superior component of it is slightly larger than on
+     the film from the prior day.  The feeding tube tip is too high at the
+     gastroesophageal junction.  This was called to the floor at the time of
+     reading this report.  There are bilateral pleural effusions, left greater than
+     right.  These are increased compared to the prior study.  There is increased
+     opacity in the retrocardiac region which may represent volume loss or
+     consilidation.  There is hazy vasculature suggesting fluid overload.
+
+",,
+24494,35266,,,2692-04-30 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2692-4-30**] 4:50 PM
+     CT ABDOMEN W/O CONTRAST; CT PELVIS W/O CONTRAST                 Clip # [**Clip Number (Radiology) 3044**]
+     Reason: abscess?  other source/cause of MRSA bacteremia             
+     Field of view: 36
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      74 year old woman with MRSA bacteremia of unknown etiology.  WBC scan negative. 
+       ESRD on HD.  Hx SVT.
+     REASON FOR THIS EXAMINATION:
+      abscess?  other source/cause of MRSA bacteremia                                 
+     CONTRAINDICATIONS for IV CONTRAST:
+      ESRD, but need to r/o abscess in abdomen
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: 74 year old woman with MRSA bacteremia, negative white blood cell
+     scan, endstage renal disease on dialysis.  Patient is s/p dialysis today.
+     Evaluate for abscess.
+     
+     TECHNIQUE: Multiple axial images from the lung bases to the pubic symphysis
+     were obtained without IV or oral contrast.
+     
+     CT ABDOMEN WITHOUT IV CONTRAST: There are bilateral pleural effusions, right
+     greater than left with associated bibasilar atelectasis.  There is a lft sided
+     pneumothorax, and this finding was clled to the team taking care of the
+     patient at the time of interpretation. There are calcifications seen in the
+     aorta extending to the iliacs bilaterally.  The patient is s/p
+     cholecystectomy. The liver, spleen are grossly normal. Both kidneys are
+     atrophic.  There are no fluid collections identified in the abdomen.  No free
+     air.  There is fecal material in the colon.  Anasarca in the soft tissues of
+     the abdominal wall. 
+     
+     CT PELVIS WITHOUT IV CONTRAST: The bladder and rectosigmoid colon are
+     identified. The bladder is partally collapsed.  There is no free air or free
+     fluid in the pelvis. Diverticulosis without diverticulitis of the sigmoid
+     colon.
+     
+     BONE WINDOWS: No suspicious lytic or blastic lesions.
+     
+     IMPRESSION: Limited noncontrast study shows no definite fluid collections.
+     
+     
+     
+     
+     
+     
+     
+
+",,
+24494,35266,,,2692-04-30 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2692-4-30**] 4:50 PM
+     CT ABDOMEN W/O CONTRAST; CT PELVIS W/O CONTRAST                 Clip # [**Clip Number (Radiology) 3044**]
+     Reason: abscess?  other source/cause of MRSA bacteremia             
+     Field of view: 36
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      74 year old woman with MRSA bacteremia of unknown etiology.  WBC scan negative. 
+       ESRD on HD.  Hx SVT.
+     REASON FOR THIS EXAMINATION:
+      abscess?  other source/cause of MRSA bacteremia                                 
+     CONTRAINDICATIONS for IV CONTRAST:
+      ESRD, but need to r/o abscess in abdomen
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: 74 year old woman with MRSA bacteremia, negative white blood cell
+     scan, endstage renal disease on dialysis.  Patient is s/p dialysis today.
+     Evaluate for abscess.
+     
+     TECHNIQUE: Multiple axial images from the lung bases to the pubic symphysis
+     were obtained without IV or oral contrast.
+     
+     CT ABDOMEN WITHOUT IV CONTRAST: There are bilateral pleural effusions, right
+     greater than left with associated bibasilar atelectasis.  There is a lft sided
+     pneumothorax, and this finding was clled to the team taking care of the
+     patient at the time of interpretation. There are calcifications seen in the
+     aorta extending to the iliacs bilaterally.  The patient is s/p
+     cholecystectomy. The liver, spleen are grossly normal. Both kidneys are
+     atrophic.  There are no fluid collections identified in the abdomen.  No free
+     air.  There is fecal material in the colon.  Anasarca in the soft tissues of
+     the abdominal wall. 
+     
+     CT PELVIS WITHOUT IV CONTRAST: The bladder and rectosigmoid colon are
+     identified. The bladder is partally collapsed.  There is no free air or free
+     fluid in the pelvis. Diverticulosis without diverticulitis of the sigmoid
+     colon.
+     
+     BONE WINDOWS: No suspicious lytic or blastic lesions.
+     
+     IMPRESSION: Limited noncontrast study shows no definite fluid collections.
+     
+     
+     
+     
+     
+     
+     
+
+",,
+24494,35266,,,2692-04-30 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+",,
+24494,35266,,,2692-05-01 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2692-5-1**] 11:16 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 3045**]
+     Reason: worsening of ptx?  please do UPRIGHT portable.              
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       74 yo with ptx s/p line placement, esrd on hd.                                 
+       
+     REASON FOR THIS EXAMINATION:
+      worsening of ptx?  please do UPRIGHT portable.                                  
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CHEST:
+     
+     INDICATION: Patient has pneumothorax. S/P line placement. End stage renal
+     disease on hemodialysis. Check current status.
+     
+     FINDINGS: A single AP supine view. Comparison study dated [**2692-4-30**]. The
+     previously demonstrated left pneumothorax cannot be identified at this time.
+     There is evidence of blunting of the left costophrenic angle suggesting a
+     small effusion. There is also evidence of some residual atelectasis in the
+     basal segments of the left lower lobe. The heart again shows some left
+     ventricular enlargement. Some illdefined patchy pulmonary infiltrates are
+     present in the left lung and to a lesser extent in the right lower lobe. The
+     infiltrates are slightly more extensive than before. The left subclavian
+     central line remains in good position. The NG tube has been removed.
+     
+     IMPRESSION: No residual pneumothorax demonstrated. Left lower lobe atelectasis
+     and left sided effusion noted. Patchy infiltrates could be residual pulmonary
+     edema.
+
+",,
+24494,35266,,,2692-05-01 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+",,
+24494,35266,,,2692-05-02 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2692-5-2**] 10:10 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 3046**]
+     Reason: Hemlock removed, ? eval pneumothorax size                   
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      74 yo woman with ESRD, MRSA bacteremia, s/p subclavian line placment with 
+      pneumothorax, s/p hemlock removal this am.
+     REASON FOR THIS EXAMINATION:
+      Hemlock removed, ? eval pneumothorax size                                       
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     PORTABLE CHEST:
+     
+     Compared to previous study of 1 day earlier.
+     
+     INDICATION: S/P Hemlock removal. Evaluate pneumothorax.
+     
+     Examination is limited due to marked patient rotation. There is a small left
+     apical pneumothorax present. A left subclavian line is unchanged in position.
+     
+     Cardiac and mediastinal contours are stable allowing for marked rotation of
+     the patient. There is some interval increase in left retrocardiac opacity and
+     there is a persistent small left pleural effusion. A small right pleural
+     effusion is unchanged.
+     
+     Bilateral interstitial pattern is noted.
+     
+     There remains a small amount of subcutaneous emphysema in the left chest wall.
+     
+     IMPRESSION: 1) Small left apical pneumothorax.
+     
+     2) Mild congestive heart failure pattern with associated bilateral pleural
+     effusions.
+     
+     3) Worsening left retrocardiac opacity, most likely due to atelectasis.
+
+",,
+24494,35266,,,2692-05-03 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2692-5-3**] 11:45 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 3047**]
+     Reason: please evaluate for pneumothorax                            
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       74 yo woman with ESRD, MRSA bacteremia, s/p subclavian line placment with  
+      pneumothorax, s/p hemlock removal this am.
+     REASON FOR THIS EXAMINATION:
+      please evaluate for pneumothorax                                                
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: End stage renal disease, MRSA bacteremia, s/p subclavian line
+     placement with pneumothorax.
+     
+     CHEST, PORTABLE AP: Comparison made to prior film of [**2692-5-2**]. A left
+     subclavian central venous line is demonstrated in proper position, with tip in
+     the mid superior vena cava. There is a small pneumothorax appreciated at the
+     left lung apex. Allowing for differences in technique, there is likely no
+     significant change in the size of this pneumothorax in the interval. The heart
+     size is persistently enlarged. There is an area of opacity in the left
+     retrocardiac region, representing atelectasis vs. infiltrate. There is likely
+     a small left pleural effusion.
+     
+     IMPRESSION: 1) No significant change in left apical pneumothorax.
+     
+     2) Unchanged left retrocardiac opacity, representing atelectasis vs.
+     infiltrate.
+     
+     3) Small left pleural effusion.
+
+",,
+24494,35266,,,2692-05-04 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2692-5-4**] 11:30 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 3048**]
+     Reason: please evaluate pneumothorax                                
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        74 yo woman with ESRD, MRSA bacteremia, s/p subclavian line placment with   
+      pneumothorax, s/p hemlock
+     REASON FOR THIS EXAMINATION:
+      please evaluate pneumothorax                                                    
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Re-evaluate pneumothorax.
+     
+     A single AP semiupright portable radiograph of the chest is compared with the
+     previous exam of approximately 11 hours earlier.  Since that examination,
+     there has been an increase in size in the left apical pneumothorax.  The left
+     subclavian line remains in good position.  There is persistent collapse and
+     consolidation of the left lower lobe with a left-sided pleural effusion.
+     There is also blurring of vascular detail throughout the right lung and the
+     left hilum, findings consistent with volume overload.  There is a probable
+     right pleural effusion.
+     
+     IMPRESSION:  Interval increase in size of left apical pneumothorax.
+     
+     Findings suggesting volume overload.
+
+",,
+24494,35266,,,2692-05-05 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2692-5-5**] 2:10 PM
+     CT HEAD W/ CONTRAST                                             Clip # [**Clip Number (Radiology) 3049**]
+     Reason: please evaluate for ishemic changes                         
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      74 year old woman with increased facial droop and endocarditis pt also has ESRD 
+      on dialysis
+     REASON FOR THIS EXAMINATION:
+      please evaluate for ishemic changes                                             
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CLINICAL INFORMATION:  Increased facial droop and endocarditis.  Patient on
+     dialysis.
+     
+     NON-CONTRAST HEAD CT:
+     
+     Exam is compared to prior study of [**2692-4-27**].
+     
+     FINDINGS: The focal low-density zone in the right frontal white matter is no
+     longer demonstrated, possibly representing some ""fogging"" of this lesion,
+     suggesting an evolving process. The low density in the left periventricular
+     white matter is again seen. The remote infarcts in the cerebellar hemispheres
+     are again identified.  There is no definite new lesion identified. There is no
+     mass, hemorrhage or displacement of normally midline structures. There is no
+     evidence of an extraaxial lesion.
+     
+     IMPRESSION:  The lesion in the right frontal lobe has undergone some
+     evolutionary change, perhaps representing an active ischemic lesion.
+
+",,
+24494,35266,,,2692-05-05 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2692-5-5**] 2:20 PM
+     CHEST (SINGLE VIEW)                                             Clip # [**Clip Number (Radiology) 3050**]
+     Reason: please evaluate pneumothorax                                
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+         74 yo woman with ESRD, MRSA bacteremia, s/p subclavian line placment with    
+      pneumothorax, s/p hemlock
+     REASON FOR THIS EXAMINATION:
+      please evaluate pneumothorax                                                    
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     EXAM:  Chest x-ray.
+     
+     HISTORY:  Re-evaluate pneumothorax.
+     
+     A single AP upright portable radiograph of the chest is compared with the
+     previous exam of one day earlier.  Since that study, there has been again a
+     slight interval increase in the size of the left pneumothorax.  There is an
+     opacity at the left apex with a sharp inferior margin, better seen on today's
+     study.  There is persistent vascular congestion noted in the right lung and
+     consolidation at the left base.
+     
+     IMPRESSION:  Slight interval increase in left pneumothorax.  Opacity at the
+     left apex could represent overlying soft-tissue structures but could also
+     represent loculated fluid.
+
+",,
+24494,35266,,,2692-05-06 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2692-5-6**] 1:33 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 3051**]
+     Reason: please evaluate for pneumothorax                            
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+          74 yo woman with ESRD, MRSA bacteremia, s/p subclavian line placment with 
+      pneumothorax
+     REASON FOR THIS EXAMINATION:
+      please evaluate for pneumothorax                                                
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Re-evaluate pneumothorax.
+     
+     A single AP supine portable chest radiograph is compared to prior study dated
+     [**2692-5-5**].  There is a persistent left sided pneumothorax though the air is
+     detected at the left base on this supine radiograph and thus the degree of
+     pneumothorax is difficult to compare directly with previous study. It is
+     probably unchanged in size.  There is persistent dense consolidation in the
+     left retrocardiac region.  Heart size and mediastinal contours are stable.
+     Vascular detail in the right lung remains mildly blurred.  There is a small
+     right pleural effusion.
+     
+     IMPRESSION:  Probably no significant interval change in size of left
+     pneumothorax though change in patient positioning makes direct comparison
+     difficult.
+
+",,
+24494,35266,,,2692-05-06 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2692-5-6**] 5:53 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 3052**]
+     Reason: please check NGT placement                                  
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+           74 yo woman with ESRD, MRSA bacteremia, s/p subclavian line placment with  
+      pneumothorax
+     REASON FOR THIS EXAMINATION:
+      please check NGT placement                                                      
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  NG tube.
+     
+     PORTABLE CHEST:  Comparison is made to film from 1:36 the same day.  The left
+     subclavian central venous catheter is in stable position.  The tip of a new
+     nasogastric tube is not on the film but is at least as far as the third
+     duodenum.  Cardiac and mediastinal contours are suboptimally evaluated due to
+     rotation, but do appear grossly unchanged.
+     
+     Diffuse increase in interstitial markings persists in the right hemithorax
+     without change.  The patient's known left pneumothorax persists, again
+     identified by virtue of a left deep sulcus sign.  Note that there is also
+     evidence of an apical component of this pneumothorax on the current film, not
+     seen earlier, raising the question of some interval enlargement.  Nonspecific
+     increased density persists in the left base.
+     
+     IMPRESSION: 1.  New nasogastric tube tip at least as far as the third
+     duodenum.
+     2.  Persistent left pneumothorax; as a new small apical component is noted on
+     the current film, it is questionably larger.
+     
+     Findings telephoned to the nurse caring for this patient.
+     
+     
+     
+
+",,
+24494,35266,,,2692-05-06 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+",,
+24494,35266,,,2692-05-07 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+",,
+24494,35266,,,2692-05-07 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2692-5-7**] 1:40 PM
+     MR HEAD W/O CONTRAST; MR-ANGIO HEAD                             Clip # [**Clip Number (Radiology) 3053**]
+     Reason: please evaluate for ischemic area and please evaluate blood 
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      74 year old woman with who is unresponsive with MRSA endocarditis, ESRD and new 
+      ischemic changes on head CT
+     REASON FOR THIS EXAMINATION:
+      please evaluate for ischemic area and please evaluate blood vessels             
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CLINICAL INFORMATION:  Patient with MRS [**Last Name (STitle) 3054**] and ? of ischemia on the
+     CT, for further evaluation.
+     
+     TECHNIQUE:  T1 sagittal and axial, and FLAIR, T2, susceptibility and diffusion
+     axial images of the brain were acquired.  3D TOF MRA of the circle of [**Location (un) 309**]
+     was obtained.
+     
+     FINDINGS:  BRAIN MRI:
+     
+     On the diffusion images multiple areas of restricted diffusion indicating
+     multiple small infarct, presumably embolic in nature, are identified.  Several
+     areas of restricted diffusion are seen in both cerebellar hemispheres and in
+     both frontal regions, predominantly in the subcortical region.  Areas of
+     restricted diffusion are also seen in the parietal region.  Mild changes of
+     small vessel disease are seen with mild to moderate prominece of ventricles
+     and sulci, indicating brain atrophy.  No MRI evidence of hemorrhage is
+     identified.  Vascular flow voids are maintained.  Incidentally noted is
+     slightly short basilar process, indicating mild basilar invagination.
+     
+     IMPRESSION:  Multiple small probable embolic infarcts, as described above.
+     Given patient's clinical history of MRAC endocarditis, gadolinium enhanced
+     images would be helpful for further evaluation, if clinically indicated.
+     
+     MRA OF THE HEAD:
+     
+     The head MRA demonstrates flow signal within the arteries of anterior and
+     posterior circulation.  Normal flow signal is seen in these vessels, except
+     sligltly diminished signal in the right middle cerebral artery, which could be
+     artifactual in nature.
+     
+     IMPRESSION:  No significant flow signal abnormalities detected on the MRA of
+     the head.
+
+",,
+24494,35266,,,2692-05-07 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2692-5-7**] 1:40 PM
+     MR HEAD W/O CONTRAST; MR-ANGIO HEAD                             Clip # [**Clip Number (Radiology) 3053**]
+     Reason: please evaluate for ischemic area and please evaluate blood 
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      74 year old woman with who is unresponsive with MRSA endocarditis, ESRD and new 
+      ischemic changes on head CT
+     REASON FOR THIS EXAMINATION:
+      please evaluate for ischemic area and please evaluate blood vessels             
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CLINICAL INFORMATION:  Patient with MRS [**Last Name (STitle) 3054**] and ? of ischemia on the
+     CT, for further evaluation.
+     
+     TECHNIQUE:  T1 sagittal and axial, and FLAIR, T2, susceptibility and diffusion
+     axial images of the brain were acquired.  3D TOF MRA of the circle of [**Location (un) 309**]
+     was obtained.
+     
+     FINDINGS:  BRAIN MRI:
+     
+     On the diffusion images multiple areas of restricted diffusion indicating
+     multiple small infarct, presumably embolic in nature, are identified.  Several
+     areas of restricted diffusion are seen in both cerebellar hemispheres and in
+     both frontal regions, predominantly in the subcortical region.  Areas of
+     restricted diffusion are also seen in the parietal region.  Mild changes of
+     small vessel disease are seen with mild to moderate prominece of ventricles
+     and sulci, indicating brain atrophy.  No MRI evidence of hemorrhage is
+     identified.  Vascular flow voids are maintained.  Incidentally noted is
+     slightly short basilar process, indicating mild basilar invagination.
+     
+     IMPRESSION:  Multiple small probable embolic infarcts, as described above.
+     Given patient's clinical history of MRAC endocarditis, gadolinium enhanced
+     images would be helpful for further evaluation, if clinically indicated.
+     
+     MRA OF THE HEAD:
+     
+     The head MRA demonstrates flow signal within the arteries of anterior and
+     posterior circulation.  Normal flow signal is seen in these vessels, except
+     sligltly diminished signal in the right middle cerebral artery, which could be
+     artifactual in nature.
+     
+     IMPRESSION:  No significant flow signal abnormalities detected on the MRA of
+     the head.
+
+",,
+24494,35266,,,2692-05-08 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2692-5-8**] 8:53 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 3055**]
+     Reason: please evaluate pneumothorax                                
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+             74 yo woman with ESRD, MRSA bacteremia, s/p subclavian line placment 
+      with    pneumothorax
+     REASON FOR THIS EXAMINATION:
+      please evaluate pneumothorax                                                    
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: Left pneumothorax followup.
+     
+     PORTABLE CHEST: Comparison is made to film from two days earlier. The NG tube
+     and left subclavian central venous catheter are in stable position. Cardiac
+     and mediastinal contours are unchanged. There is still a large area of non-
+     specific increased density in the left base, silhouetting the hemidiaphragm
+     and lateral costophrenic angle.
+     
+     The patient's known left pneumothorax is again identified, and is seen
+     primarily superolaterally on today's followup film. Allowing for differences
+     in patient positioning, it does not appear significantly changed in the
+     interval.
+     
+     IMPRESSION: 1. No change left pneumothorax.
+     2. No change left retrocardiac density.
+
+",,
+24494,35266,,,2692-05-08 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2692-5-8**] 4:05 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 3056**]
+     Reason: ptx                                                         
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      CODE BLUE                                                                       
+     REASON FOR THIS EXAMINATION:
+      ptx                                                                             
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Intubated.
+     
+     PORTABLE CHEST:  Comparison is made to film from 9AM the same day.  There is a
+     new ET tube in place.  Its tip is relatively low, 1.5 cm above the carina.  A
+     nasogastric tube and left subclavian line are in stable position.  The cardiac
+     and mediastinal contours are unchanged.
+     
+     There is interval worsening in the aeration of the right lung apex where there
+     appears to be a new airspace infiltrate.  This is, however, considerably
+     improved aeration in the left lung base.
+     
+     There is still an atypical air collection projecting just below the left
+     hemidiaphragm laterally, which presumably represents the previously described
+     pneumothorax. Minimal blunting of the right lateral costophrenic angle
+     persists.
+     
+     IMPRESSION:  ET tube slightly low (1.5 cm above the carina). This could
+     be pulled back 1 to 2 cm for better placement.
+     
+     New airspace infiltrate right apex.
+     
+     Improved aeration left base.
+     
+     The findings were phoned to the house staff caring for this patient.
+
+",,
+24494,,30408,0,2692-05-08 15:54:00 EST,2692-05-08 16:00:00 EST,1640,"N",69,"Nursing/Other","MICU-B Nursing Admission Note:","
+MICU-B Nursing Admission Note:
+74y.o. female transferred from the floor at 4PM after sustaining asystolic arrest. She has MRSA endocarditis and is in spetic shock and massive DIC with platelets of 6 today after getting a bag. She continues to arrest upon admission requiring frequent bicarb/atropine/epi rounds. Pt being bagged on/off and has IVF wide open. Neo and vasopressin infusing along with fluids. Family aware of poor prognosis and want all things done to get her through the code. Will update.
+",,
+24494,,30408,0,2692-05-08 18:13:00 EST,2692-05-08 18:14:00 EST,1640,"N",69,"Nursing/Other","MICU NPN Post Mortem Note:","
+MICU NPN Post Mortem Note:
+After long code pt expired and was pronounced by team. Pt's family waiting to come in to view the body and after this pt will need to be transported to morgue.
+",,

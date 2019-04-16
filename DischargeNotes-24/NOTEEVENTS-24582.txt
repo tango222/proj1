@@ -1,0 +1,1028 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+24582,,,,2925-11-13 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2925-11-13**] 3:59 PM
+     CHEST (SINGLE VIEW); HEB REB PRO FEE ONLY                       Clip # [**Clip Number (Radiology) 3847**]
+     Reason: COUGH / WHEEZING / RALES
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CHEST SINGLE VIEW ON [**11-13**]
+     
+     HRC NUMBER:  10192.
+     
+     INDICATION:  Cough, wheezing, rales at bases.  History of CHF, COPD.
+     
+     FINDINGS:  Compared with [**2925-10-5**] and with [**2925-9-11**], the previously noted CHF
+     now appears essentially resolved.  No active infiltrates or effusions are
+     seen.
+     
+     No acute process appreciated.
+                                                                           
+
+",,
+24582,,,,2925-11-13 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2925-11-13**] 3:59 PM
+     CHEST (SINGLE VIEW); HEB REB PRO FEE ONLY                       Clip # [**Clip Number (Radiology) 3847**]
+     Reason: COUGH / WHEEZING / RALES
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CHEST SINGLE VIEW ON [**11-13**]
+     
+     HRC NUMBER:  10192.
+     
+     INDICATION:  Cough, wheezing, rales at bases.  History of CHF, COPD.
+     
+     FINDINGS:  Compared with [**2925-10-5**] and with [**2925-9-11**], the previously noted CHF
+     now appears essentially resolved.  No active infiltrates or effusions are
+     seen.
+     
+     No acute process appreciated.
+                                                                           
+
+",,
+24582,,,,2925-11-29 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2925-11-29**] 3:51 PM
+     CHEST (SINGLE VIEW); HEB REB PRO FEE ONLY                       Clip # [**Clip Number (Radiology) 3848**]
+     Reason: CONGESTED COUGH
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CHEST, SINGLE VIEW
+     
+     HRC # 10192, room 136 West.
+     
+     INDICATION:  Congested cough.  Nonresolving.  History of CHF.
+     
+     FINDINGS:  Compared with [**2925-11-13**], no significant interval change.  No CHF or
+     pneumonia.
+                                                                           
+
+",,
+24582,,,,2925-11-29 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2925-11-29**] 3:51 PM
+     CHEST (SINGLE VIEW); HEB REB PRO FEE ONLY                       Clip # [**Clip Number (Radiology) 3848**]
+     Reason: CONGESTED COUGH
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CHEST, SINGLE VIEW
+     
+     HRC # 10192, room 136 West.
+     
+     INDICATION:  Congested cough.  Nonresolving.  History of CHF.
+     
+     FINDINGS:  Compared with [**2925-11-13**], no significant interval change.  No CHF or
+     pneumonia.
+                                                                           
+
+",,
+24582,24366,,,2925-12-12 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+ 
+ 
+ 
+Admission Date:  [**2925-12-12**]              Discharge Date:   [**2925-12-19**]
+ 
+Date of Birth:  [**2831-5-15**]             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Ciprofloxacin / Cisapride / Metoclopramide / Bactrim
+ 
+Attending:[**First Name3 (LF) 1501**] 
+Chief Complaint:
+Respiratory Distress
+ 
+Major Surgical or Invasive Procedure:
+None
+ 
+History of Present Illness:
+[**Age over 90 **] yo M w/ multiple medical problems (see below) who presents 
+from [**Hospital 409**] Rehab hypoxic and febrile with CP and bilat 
+infiltrates requiring intubation in the ED. At baseline per the 
+son Mr. [**Known patient lastname 5642**] is a wheelchair bound, russian speaking alert 
+and lively gentleman. He last saw his father on [**Name2 (NI) **] [**2925-12-9**] 
+and he was at his baseline. Per the records from the rehab the 
+patient was well up until the day of admission when he vomitted 
+a large ammount of bilious vomit x2 and appeared to be shaking 
+and cyanotic. Vitals at the time were T 104 (rectal) BP 120/60 
+O2 89%on RA. Aspiration pna was suspected and he was tx to [**Hospital1 25**] 
+for further care.  
+.  
+In the ED the patient was found to be febrile to 103 but 
+otherwise hemodynamically stable. Patient then experienced 
+oxygen desaturation to 70's and was intubated. Patient was found 
+to have large mucous plugs on suctioning consistent with 
+aspiration.  Dopamine was started for low BP while on vent.  
+
+ 
+Past Medical History:
+CRI (b/l 1.3-1.9 1.5 yrs ago) (Cr 2.3 on [**12-4**])  
+Afib/CHF s/p Pacemaker, EF 60% with 1+MR and mod PA HTN [**9-/2925**] 
+echo  
+COPD, recent steroid taper and augmentin regemin completed [**12-5**] 
+ 
+Urinary Retention (BPH)  
+Hypothyroidism  
+Restless Legs  
+Arthritis  
+DM type2  
+Depression  
+Gastritis  
+Glaucoma  
+Cataracts  
+Hard of Hearing  
+Persistent lyme disease  
+Pneumovax [**7-/2920**]  
+
+ 
+Social History:
+FH: Non-contributory  
+.  
+SH: lives at [**Hospital **] rehab, married, but 2nd wife in [**Country 1094**], sone 
+Mark is HCP currently out of country, paperwork from [**Hospital 409**] 
+Rehab says DNR/DNI since [**3-13**], but son [**Name (NI) **], youngest wants Full 
+CODe, distant smoker, no etoh, no drugs  
+
+ 
+Physical Exam:
+VS: T 103 P 60 BP 113/30 R 20 O2 97  
+AC 600/20/60/8  
+Gen - intubated, sedated  
+HEENT - PERRL, op clear, dry MM  
+Cor - RRR difficult to hear over breath sounds  
+Chest - diffuse ronchi, bilaterally  
+Abd- distended, soft, + BS  
+Ext - w/wp no c/c/e  
+
+ 
+Pertinent Results:
+ADMISSION LABS:
+[**2925-12-12**] 05:00AM BLOOD WBC-6.7 RBC-4.30* Hgb-13.4* Hct-39.8* 
+MCV-93 MCH-31.1 MCHC-33.6 RDW-15.2 Plt Ct-155
+[**2925-12-12**] 05:00AM BLOOD Neuts-64 Bands-12* Lymphs-8* Monos-3 
+Eos-2 Baso-0 Atyps-7* Metas-4* Myelos-0 NRBC-2*
+[**2925-12-12**] 05:00AM BLOOD PT-13.5* PTT-22.1 INR(PT)-1.2
+[**2925-12-12**] 05:00AM BLOOD Plt Smr-NORMAL Plt Ct-155
+[**2925-12-13**] 05:59PM BLOOD Fibrino-500*
+[**2925-12-13**] 06:35PM BLOOD FDP-10-40
+[**2925-12-12**] 05:00AM BLOOD Glucose-81 UreaN-106* Creat-3.1*# Na-135 
+K-5.8* Cl-102 HCO3-22 AnGap-17
+[**2925-12-12**] 05:00AM BLOOD ALT-28 AST-15 CK(CPK)-58 AlkPhos-64 
+Amylase-82 TotBili-0.3
+[**2925-12-12**] 05:00AM BLOOD cTropnT-0.25*
+[**2925-12-12**] 02:14PM BLOOD CK-MB-NotDone cTropnT-0.23*
+[**2925-12-12**] 09:57PM BLOOD CK-MB-6 cTropnT-0.18*
+[**2925-12-13**] 02:02AM BLOOD CK-MB-7 cTropnT-0.17*
+[**2925-12-12**] 05:00AM BLOOD Albumin-3.5 Calcium-8.4 Phos-3.7 Mg-2.0
+[**2925-12-12**] 05:43PM BLOOD Cortsol-14.4
+[**2925-12-12**] 08:46PM BLOOD Cortsol-13.8
+[**2925-12-12**] 09:22PM BLOOD Cortsol-15.1
+[**2925-12-13**] 02:02AM BLOOD Vanco-8.1*
+[**2925-12-12**] 05:20AM BLOOD Type-ART PEEP-10 FiO2-100 pO2-210* 
+pCO2-40 pH-7.35 calHCO3-23 Base XS--3 AADO2-482 REQ O2-80 
+Intubat-NOT INTUBA Vent-SPONTANEOU
+[**2925-12-12**] 05:04AM BLOOD Lactate-2.0
+[**2925-12-12**] 05:56PM BLOOD Glucose-96 K-5.1
+[**2925-12-13**] 02:20AM BLOOD freeCa-1.12
+.
+DISCHARGE LABS:
+
+[**2925-12-18**] 03:12AM BLOOD WBC-21.8*# RBC-3.62* Hgb-11.1* Hct-32.4* 
+MCV-90 MCH-30.7 MCHC-34.3 RDW-15.5 Plt Ct-224#
+[**2925-12-18**] 03:12AM BLOOD Plt Ct-224#
+[**2925-12-18**] 03:12AM BLOOD PT-18.8* PTT-115.5* INR(PT)-2.5
+[**2925-12-18**] 03:12AM BLOOD Glucose-161* UreaN-89* Creat-2.4* Na-138 
+K-4.3 Cl-102 HCO3-21* AnGap-19
+[**2925-12-13**] 02:02AM BLOOD CK(CPK)-131
+[**2925-12-18**] 03:12AM BLOOD Calcium-8.9 Phos-4.9* Mg-2.2
+[**2925-12-18**] 04:20AM BLOOD Type-ART pO2-71* pCO2-40 pH-7.46* 
+calHCO3-29 Base XS-4
+[**2925-12-18**] 04:20AM BLOOD Glucose-152* K-4.2
+ 
+Brief Hospital Course:
+A/P: [**Age over 90 **] yo man with multiple medical problems here with 
+multi-focal pneumonia, intubated for hypoxic respiratory 
+failure.  The pt was initially intubated for hypoxia, likely 
+secondary to multifocal MRSA pneumonia, which may also have been 
+due to aspiration given emesis x2 prior to arrival. Pt had also 
+been on steroids and lived in nursing home, thus was felt to be 
+at higher risk for nocosomial pneumonia. Patient may also had a 
+component of underlying COPD exacerbation.  The pt was treated 
+with vanc/CTX emperically, given aggressive inhalers and 
+steroids for COPD, diuresed with lasix initially, and was placed 
+on heparin infusion for a LENI study positive for DVT.  
+Hyperkalemia was treated and aldactone was discontinued.  Stress 
+dose hydrocort/fludrocort were initiated.  The pt was felt to 
+have prerenal failure and had some boluses of fluid (recognizing 
+that his volume status was tenuous).  Troponin showed no 
+increase.  
+.  
+CODE: pt was originally DNR/DNI, which was reversed just prior 
+to admission because the pt's son and HCP was out of the country 
+and could not be contacted. In his absence, the other son wanted 
+his father to be full code. This was readdressed and the pt was 
+made dnr/dni.  On [**12-18**], he was made CMO and passed away 
+thereafter.  
+
+ 
+Medications on Admission:
+recently on prednisone stopped [**12-5**]  
+Robitussin AC  
+RISS/NPH 18units qam, 8 units qpm  
+levothyroxine 150mcg qday  
+albuterol/atrovent inhaler  
+lido patch 5% to L deltoid posterior qday 12 hrs on/12 off  
+tamusolin 0.4mg qday  
+trazodone 75mg qpm  
+Avandia 2mg qam  
+glyburide 2mg qam  
+lasix 100mg qday  
+aldactone 12.5 mg recently d/c'd for hyperkalemia  
+
+ 
+Discharge Medications:
+N/A
+ 
+Discharge Disposition:
+Expired
+ 
+Discharge Diagnosis:
+Deceased
+ 
+Discharge Condition:
+Deceased
+ 
+Discharge Instructions:
+N/A
+ 
+Followup Instructions:
+N/A
+ 
+                             [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 1142**] MD [**MD Number 1143**]
+ 
+Completed by: [**Name6 (MD) 50**] [**Name8 (MD) 1331**] MD [**MD Number 1332**] [**2926-5-9**] @ 1413
+Signed electronically by: DR. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 1142**]
+ on: WED [**2926-6-5**] 6:38 PM
+(End of Report)
+
+
+",,
+24582,24366,,,2925-12-12 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2925-12-12**] 6:46 AM
+     CHEST (PORTABLE AP); -76 BY SAME PHYSICIAN                      [**Name Initial (PRE) 232**] # [**Clip Number (Radiology) 3850**]
+     Reason: please eval for ETT placement, PTX                          
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       [**Age over 90 **] year old man with hypoxia, rhonchi (b), hypotensive and febrile s/p ETI     
+         
+     REASON FOR THIS EXAMINATION:
+      please eval for ETT placement, PTX                                              
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Check ETT placement.
+     
+     SINGLE AP SUPINE PORTABLE CHEST:  Compared to study of several hours prior.
+     There has been interval and endotracheal tube placement, with its tip slightly
+     low only 1.3 cm above the carina and directed towards the left main stem
+     bronchus.  This should be retracted slightly.  Again, demonstrated are
+     multiple bilateral airspace opacities, most likely consistent with multifocal
+     pneumonia.  The heart remains large.  No other short interval change.  The
+     left CP angle is excluded from the study.
+     
+     IMPRESSION:
+     1) Endotracheal tube tip is slightly low, only 1cm above the carina; it could
+     be retracted slightly.
+     2) Multifocal oapcities, likely representing pneumonia; the opacity in the RUL
+     is more prominent than on the prior study.
+     
+
+",,
+24582,24366,,,2925-12-12 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2925-12-12**] 6:46 AM
+     CHEST (PORTABLE AP); -76 BY SAME PHYSICIAN                      [**Name Initial (PRE) 232**] # [**Clip Number (Radiology) 3850**]
+     Reason: please eval for ETT placement, PTX                          
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       [**Age over 90 **] year old man with hypoxia, rhonchi (b), hypotensive and febrile s/p ETI     
+         
+     REASON FOR THIS EXAMINATION:
+      please eval for ETT placement, PTX                                              
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Check ETT placement.
+     
+     SINGLE AP SUPINE PORTABLE CHEST:  Compared to study of several hours prior.
+     There has been interval and endotracheal tube placement, with its tip slightly
+     low only 1.3 cm above the carina and directed towards the left main stem
+     bronchus.  This should be retracted slightly.  Again, demonstrated are
+     multiple bilateral airspace opacities, most likely consistent with multifocal
+     pneumonia.  The heart remains large.  No other short interval change.  The
+     left CP angle is excluded from the study.
+     
+     IMPRESSION:
+     1) Endotracheal tube tip is slightly low, only 1cm above the carina; it could
+     be retracted slightly.
+     2) Multifocal oapcities, likely representing pneumonia; the opacity in the RUL
+     is more prominent than on the prior study.
+     
+
+",,
+24582,24366,,,2925-12-12 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2925-12-12**] 5:51 PM
+     CHEST PORT. LINE PLACEMENT; -77 BY DIFFERENT PHYSICIAN          [**Name Initial (PRE) 232**] # [**Clip Number (Radiology) 3851**]
+     Reason: Please evaluate placement of ETT, LSC line placement, for pn
+     Admitting Diagnosis: PNEUMONIA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        [**Age over 90 **] year old man with hypoxia, rhonchi (b), hypotensive and febrile s/p pull 
+      back of ETT and placement of LSC     
+     REASON FOR THIS EXAMINATION:
+      Please evaluate placement of ETT, LSC line placement, for pneumothorax          
+     ______________________________________________________________________________
+                                     FINAL REPORT  (REVISED)
+     INDICATION:  Febrile, hypoxic, status post pullback of endotracheal tube and
+     placement of left subclavian line.
+     
+     COMPARISON:  Radiograph dated [**2925-12-12**] at 6:53 a.m.
+     
+     AP SUPINE PORTABLE VIEW OF THE CHEST:  There is interval retraction of the
+     endotracheal tube, terminating within the thoracic inlet, in satisfactory
+     position.  There is interval placement of a left subclavian line terminating
+     in the SVC.  No evidence of pneumothorax.  Aortic knob calcifications are
+     again present.  NG tube terminates below the inferior margin of the film,
+     likely within the stomach.  Pacemaker device is unchanged.  Cardiac and
+     mediastinal contours are stable.  There is interval improvement in vague right
+     upper zone lung opacity, with stable appearance of left mid zone opacity and
+     worsening of left lower lobe opacity.
+     
+     IMPRESSION:
+     1.  Satisfactory position of endotracheal tube and left subclavian line.  No
+     evidence of pneumothorax.
+     2.  Interval improvement in right upper zone opacity, with stable left middle
+     zone opacity worrisome for pneumonia and interval worsening of left lower lobe
+     opacity that may represent atelectasis or pneumonia.
+     
+
+",,
+24582,24366,,,2925-12-12 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2925-12-12**] 5:51 PM
+     CHEST PORT. LINE PLACEMENT; -77 BY DIFFERENT PHYSICIAN          [**Name Initial (PRE) 232**] # [**Clip Number (Radiology) 3851**]
+     Reason: Please evaluate placement of ETT, LSC line placement, for pn
+     Admitting Diagnosis: PNEUMONIA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        [**Age over 90 **] year old man with hypoxia, rhonchi (b), hypotensive and febrile s/p pull 
+      back of ETT and placement of LSC     
+     REASON FOR THIS EXAMINATION:
+      Please evaluate placement of ETT, LSC line placement, for pneumothorax          
+     ______________________________________________________________________________
+                                     FINAL REPORT  (REVISED)
+     INDICATION:  Febrile, hypoxic, status post pullback of endotracheal tube and
+     placement of left subclavian line.
+     
+     COMPARISON:  Radiograph dated [**2925-12-12**] at 6:53 a.m.
+     
+     AP SUPINE PORTABLE VIEW OF THE CHEST:  There is interval retraction of the
+     endotracheal tube, terminating within the thoracic inlet, in satisfactory
+     position.  There is interval placement of a left subclavian line terminating
+     in the SVC.  No evidence of pneumothorax.  Aortic knob calcifications are
+     again present.  NG tube terminates below the inferior margin of the film,
+     likely within the stomach.  Pacemaker device is unchanged.  Cardiac and
+     mediastinal contours are stable.  There is interval improvement in vague right
+     upper zone lung opacity, with stable appearance of left mid zone opacity and
+     worsening of left lower lobe opacity.
+     
+     IMPRESSION:
+     1.  Satisfactory position of endotracheal tube and left subclavian line.  No
+     evidence of pneumothorax.
+     2.  Interval improvement in right upper zone opacity, with stable left middle
+     zone opacity worrisome for pneumonia and interval worsening of left lower lobe
+     opacity that may represent atelectasis or pneumonia.
+     
+
+",,
+24582,24366,,,2925-12-12 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2925-12-12**] 4:57 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 3849**]
+     Reason: pna, chf                                                    
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      [**Age over 90 **] year old man with hypoxia, rhonchi (b), hypotensive and febrile              
+     REASON FOR THIS EXAMINATION:
+      pna, chf                                                                        
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  [**Age over 90 **]-year-old with hypoxia and rhonchi, febrile, evaluate for
+     pneumonia or CHF.
+     
+     SINGLE AP UPRIGHT PORTABLE CHEST:  Compared to study of [**2925-5-24**].  The heart is
+     markedly enlarged but stable.  There are multiple bilateral alveolar
+     opacities, involving the right lower lung zone, left lower lung zone and left
+     mid and upper lung zones, likely consistent with multifocal pneumonia.  There
+     is no pneumothorax or large pleural effusion.
+     
+     IMPRESSION:  Multifocal opacities involving both lung bases as well as the
+     left mid lung zone, most suggestive of multifocal pneumonia, vs. less likely
+     asymetric pulmonary edema.
+     
+
+",,
+24582,24366,30528,0,2925-12-12 15:31:00 EST,2925-12-12 15:34:00 EST,2235,"N",54,"Nursing/Other",,"
+
+RESPIRATORY CARE: PT W/ A 7.5 ORAL ETT IN PLACE.
+ARRIVED FROM EW ON AC MODE RR 20/ VT 600/.60/ 8
+PEEP. SX FOR BROWN SPUTUM. INTUBATED FOR RESP
+IRATORY DISTRESS. A - LINE GOING TO PLACED BY 
+RESIDENT. SPO2 STABLE. WILL C/W AC MODE AS TOLERATED.
+",,
+24582,24366,30528,0,2925-12-12 18:22:00 EST,2925-12-12 18:36:00 EST,5735,"N",54,"Nursing/Other",,"
+
+11a-7p:
+
+[**Age over 90 347**] year old gentleman received from er s/p intubation for respiratory distress.  
+
+neuro:  sedated from fentanyl bolus.  started on fentanyl and versed gtt for increased anxiety with ett, grimacing with pain at times with stimulation.  perrl.  
+
+cv:  v paced at 60, no ectopy.  junctional rhythm initially.  remains on dopamine gtt to maintain sbp> 90.  left subclavian tlc placed, awaiting cxr.  plan to bolus with ns iv to keep cvp> 10.  dopplerable pedal pulses bilaterally.  afebrile.   
+
+resp:  lungs coarse, clear with suctioning.  moderate amounts of thick tan blood tinged sputum.  culture sent.  o2sat remains > 98%.  started on zosyn iv q 8 hours.  abg ok, see carevue.
+
+gi/gu:  abd softly distended.  bs positive.  ogt draining bilious drainage.  cr 3.0.  feeding tube placed by urology as catheter.  pt with stricture.  poor uo, team aware.  feel that pt is dry, will bolus when line placement confirmed. 
+
+endo:  fs wnl.  
+
+plan:  monitor respiratory and renal function.  wean dopamine gtt as tolerates.  
+
+  
+
+
+",,
+24582,24366,30528,,2925-12-13 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2925-12-13**] 11:18 PM
+     CT ABDOMEN W/O CONTRAST; CT PELVIS W/O CONTRAST                 Clip # [**Clip Number (Radiology) 3853**]
+     Reason: eval for obstruction                                        
+     Admitting Diagnosis: PNEUMONIA
+     Field of view: 44
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      [**Age over 90 **] year old man with abd distention and nausea vomiting, please eval for source 
+      of obstruction.
+     REASON FOR THIS EXAMINATION:
+      eval for obstruction                                                            
+     CONTRAINDICATIONS for IV CONTRAST:
+      CKD
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  [**Age over 90 **]-year-old with pneumonia, now with abdominal distention and
+     vomiting.  Evaluate for obstruction.
+     
+     COMPARISONS:  Abdominal plain film of the same day.
+     
+     TECHNIQUE:  Axial MDCT images through the abdomen and pelvis without IV
+     contrast but with oral contrast.  Coronal and sagittal reformatted images were
+     performed.
+     
+     CT ABDOMEN WITHOUT IV CONTRAST:  There is diffuse coronary artery
+     calcification.  There is consolidation at the left lung base, likely
+     representing pneumonia and a small pleural effusion at the right lung base.
+     Very limited assessment of the abdominal organs without IV contrast.  Allowing
+     for this, the liver, spleen, pancreas, stomach, proximal small bowel, and
+     adrenal glands appear grossly normal.  Several punctate calcifications within
+     the liver, likely the sequela of prior granulomatous disease.  There are
+     several large exophytic likely renal cysts, but not fully evaluated on this
+     non-contrast study.  There is no free fluid or free air in the abdomen.  There
+     is no evidence of small bowel obstruction.  There is no abnormal adenopathy.
+     
+     CT PELVIS WITHOUT IV CONTRAST:  There is no hydronephrosis.  The distal
+     ureters are not dilated.  The intrapelvic large and small bowel appear
+     unremarkable.  There is a Foley catheter in a minimally distended bladder.
+     Diffuse aortic and iliac calcification.  There is no free fluid in the deep
+     pelvis.  Fat-containing inguinal hernias.
+     
+     BONE WINDOWS:  Mild degenerative changes of the thoracic and lumbar spine.  No
+     suspicious lytic or blastic lesions are seen.  Note is made of severely
+     dysmorphic femoral head, the left femoral head is trophic, and not well seated
+     in a wide left acetabular cavity.
+     
+     MULTIPLANAR REFORMATS:  Coronal and sagittally reformatted images confirm the
+     above findings.  MPR value of 1.
+     
+     IMPRESSION:
+     1) No CT findings to explain the patient's abdominal pain and distention.
+     2) Left lower lobe consolidation, likely pneumonia.
+     3) Small right pleural effusion.
+                                                                 (Over)
+
+     DATE: [**2925-12-13**] 11:18 PM
+     CT ABDOMEN W/O CONTRAST; CT PELVIS W/O CONTRAST                 Clip # [**Clip Number (Radiology) 3853**]
+     Reason: eval for obstruction                                        
+     Admitting Diagnosis: PNEUMONIA
+     Field of view: 44
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     4) Multiple large exophytic, likely simple renal cysts, but not fully
+     evaluated on this non-contrast study.
+     5) Diffuse coronary and aortic calcification.
+     
+     
+     
+     
+
+",,
+24582,24366,30528,,2925-12-13 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2925-12-13**] 8:50 AM
+     ABDOMEN (SUPINE ONLY) PORT                                      Clip # [**Clip Number (Radiology) 3852**]
+     Reason: evidence obstruction?                                       
+     Admitting Diagnosis: PNEUMONIA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      [**Age over 90 **] year old man with likely multifocal PNA and distended abd                    
+     REASON FOR THIS EXAMINATION:
+      evidence obstruction?                                                           
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     ABDOMEN, SINGLE SUPINE FILM
+     
+     History of abdominal distention.
+     
+     A single gas-filled loop of nondistended small bowel is noted in the left
+     lower quadrant.  Gas is present throughout the colon.  No evidence of gastric
+     distention.  The diaphragms are not included on the film.  No radiopaque
+     calculi.  Narrow caliber overlies suprapubic region.  NG tube tip located in
+     fundus of stomach.
+     
+     IMPRESSION:  No evidence for intestinal obstruction or other diagnostic
+     abnormality.  Single loop of gas-filled small bowel in left lower quadrant,
+     nonspecific.  Correlate clinically and with followup or CT if indicated.
+
+",,
+24582,24366,30528,,2925-12-13 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2925-12-13**] 11:18 PM
+     CT ABDOMEN W/O CONTRAST; CT PELVIS W/O CONTRAST                 Clip # [**Clip Number (Radiology) 3853**]
+     Reason: eval for obstruction                                        
+     Admitting Diagnosis: PNEUMONIA
+     Field of view: 44
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      [**Age over 90 **] year old man with abd distention and nausea vomiting, please eval for source 
+      of obstruction.
+     REASON FOR THIS EXAMINATION:
+      eval for obstruction                                                            
+     CONTRAINDICATIONS for IV CONTRAST:
+      CKD
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  [**Age over 90 **]-year-old with pneumonia, now with abdominal distention and
+     vomiting.  Evaluate for obstruction.
+     
+     COMPARISONS:  Abdominal plain film of the same day.
+     
+     TECHNIQUE:  Axial MDCT images through the abdomen and pelvis without IV
+     contrast but with oral contrast.  Coronal and sagittal reformatted images were
+     performed.
+     
+     CT ABDOMEN WITHOUT IV CONTRAST:  There is diffuse coronary artery
+     calcification.  There is consolidation at the left lung base, likely
+     representing pneumonia and a small pleural effusion at the right lung base.
+     Very limited assessment of the abdominal organs without IV contrast.  Allowing
+     for this, the liver, spleen, pancreas, stomach, proximal small bowel, and
+     adrenal glands appear grossly normal.  Several punctate calcifications within
+     the liver, likely the sequela of prior granulomatous disease.  There are
+     several large exophytic likely renal cysts, but not fully evaluated on this
+     non-contrast study.  There is no free fluid or free air in the abdomen.  There
+     is no evidence of small bowel obstruction.  There is no abnormal adenopathy.
+     
+     CT PELVIS WITHOUT IV CONTRAST:  There is no hydronephrosis.  The distal
+     ureters are not dilated.  The intrapelvic large and small bowel appear
+     unremarkable.  There is a Foley catheter in a minimally distended bladder.
+     Diffuse aortic and iliac calcification.  There is no free fluid in the deep
+     pelvis.  Fat-containing inguinal hernias.
+     
+     BONE WINDOWS:  Mild degenerative changes of the thoracic and lumbar spine.  No
+     suspicious lytic or blastic lesions are seen.  Note is made of severely
+     dysmorphic femoral head, the left femoral head is trophic, and not well seated
+     in a wide left acetabular cavity.
+     
+     MULTIPLANAR REFORMATS:  Coronal and sagittally reformatted images confirm the
+     above findings.  MPR value of 1.
+     
+     IMPRESSION:
+     1) No CT findings to explain the patient's abdominal pain and distention.
+     2) Left lower lobe consolidation, likely pneumonia.
+     3) Small right pleural effusion.
+                                                                 (Over)
+
+     DATE: [**2925-12-13**] 11:18 PM
+     CT ABDOMEN W/O CONTRAST; CT PELVIS W/O CONTRAST                 Clip # [**Clip Number (Radiology) 3853**]
+     Reason: eval for obstruction                                        
+     Admitting Diagnosis: PNEUMONIA
+     Field of view: 44
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     4) Multiple large exophytic, likely simple renal cysts, but not fully
+     evaluated on this non-contrast study.
+     5) Diffuse coronary and aortic calcification.
+     
+     
+     
+     
+
+",,
+24582,24366,30528,0,2925-12-13 04:47:00 EST,2925-12-13 04:54:00 EST,1999,"N",54,"Nursing/Other",,"
+
+Resp. Care:
+     Pt. remains intubated and on vent.support.  ABG is good on present settings.  Atrovent given q4hrs.  BS-clear. Sx'd thick bloody secretions in mod. amt. x1.  Pt. continues on fent, midaz,dopa, and levo drips.  Will decrease PEEP as tolerated now that pa02 is better.
+",,
+24582,24366,30528,0,2925-12-13 05:13:00 EST,2925-12-13 05:38:00 EST,2653,"N",54,"Nursing/Other","CSRU B NPN:","
+CSRU B NPN:
+NEURO: Sedated on fentanyl and versed- intermittently becomes agitated with nsg care. Bilateral wrist restraints on - pt. reaching for ETT when unrestrained. MAE x4. PERL 3mm and brisk. 
+CV: Afeb. Pt. with internal pacemaker- paced at 60 bpm. Requiring 8-10mcg dopamine to maintain MAP >60 and switched to levophed- currently on .3mcg/kg/min with MAP 60-65. CVP 12-15. Extremities cool to touch- dopplerable pedal pulses bilaterally. Received 2 1L NS boluses due to micu team thinks pt. is dry. Triple lumen central line to L subclavian intact with small amt of old blood at insertion site. 
+RESP: Currently on CMV 550x18 +8peep 50% FiO2 with last abg
+98/37/7.31/20/-6. O2 Sat >95%. LS coarse to clear- sx'd for thick tan secretions in small to moderate amts. 
+GI/GU: Abd. softly distended with hypoactive bowel sounds, no BM. OGT was to LWS and now clamped- using for meds. Q6hr glucose checks with insulin ss as ordered. Feeding tube sutured in penis by urology acting as foley draining blood-tinged urine 30-50cc/hr. 
+ID: Continues on zosyn.
+SKIN: Rash to peri-area and groin- triple cream applied. Coccyx with stage one breakdown- duoderm applied. Scrotum with small skin tear- covered with tegaderm. Pt. with two peripheral ivs intact. 
+OTHER: No calls or visitors this shift. 
+",,
+24582,24366,30528,0,2925-12-13 18:28:00 EST,2925-12-13 18:38:00 EST,7846,"N",54,"Nursing/Other","07:00 to 19:00","
+07:00 to 19:00
+Pt continued on Fentanyl, Versed, and Levophed drips.  Ventilatory support maintained.   Pt. in critical but apparent stable condition.  See ICU flowsheet for ongoing VS, assessments, and IV drip titrations.  See MAR for all medications administered.  Visit from son today.  Updated on plan of care.  Family verbalized understanding of orientation.  Physician at bedside to discuss pt condition w/family.  Continue with plan of care.  CT of abdomen later today.  IV abx therapy per physician [**Name Initial (PRE) 386**].
+",,
+24582,24366,30528,,2925-12-14 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2925-12-14**] 10:36 AM
+     UNILAT LOWER EXT VEINS LEFT PORT                                Clip # [**Clip Number (Radiology) 3854**]
+     Reason: r/o DVT                                                     
+     Admitting Diagnosis: PNEUMONIA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      [**Age over 90 **] year old man from rehab here with multi-focal PNA, hypotensive, now with L 
+      leg increase in diameter.
+     REASON FOR THIS EXAMINATION:
+      r/o DVT                                                                         
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     
+     UNILATERAL LOWER EXTREMITY VEINS
+     
+     HISTORY:  [**Age over 90 **]-year-old man with multifocal PNA, hypertensive, now with left leg
+     increase in diameter, rule out DVT.
+     
+     FINDINGS:  Grayscale and Doppler sonograms of the left common femoral,
+     superficial femoral, and popliteal veins were performed.  Intraluminal
+     thrombus and absence of compressibility is seen in all the mentioned veins.
+     
+     IMPRESSION:  There is evidence of DVT in the popliteal, superficial, and
+     common femoral veins in the left lower extremity.
+
+",,
+24582,24366,30528,0,2925-12-14 03:57:00 EST,2925-12-14 03:58:00 EST,7475,"N",54,"Nursing/Other","psweeney,rrt","
+[**Name8 (MD) 1410**],rrt
+pt. remained on current settings t/o shift, to CT-uneventful, mdi given per order, will monitor pt./abg results.
+",,
+24582,24366,30528,0,2925-12-14 05:22:00 EST,2925-12-14 05:54:00 EST,2436,"N",54,"Nursing/Other","RN shift note","
+RN shift note
+neuro: sedate on medazolam and fentanyl gtts. Does not follow commands or open eyes; purposeful movement (attempts to self-extubate). MAE
+
+CV: v-paced @ 60, no ectopy. Neo titrated to MAP 60-90. Feeble periph pulses.
+
+Pulm: AC x 550 x 50% x PEEP 8; ABG's wnl.  Scant white secretions. BS CTAb, diminished bibasilarly. 
+
+GI: Abd softly distended; hypo BS. [**First Name9 (NamePattern2) 4761**] [**Last Name (un) 4762**], heme-neg stool.  OGT draining green bile.  Abd CT obtained 2330, results pending.
+
+GU: urine clear amber, 40-140cc/hr. via pedi feed tube.
+
+Skeletal: skin grossly intact, except: duoderm to coccyx and 
+perineal, scrotal rash.
+
+Endo: insulim gtt; BG remains labile, >150
+
+ID: Tmax 97.5; WBC up to 16.
+
+P: BG control (? [**Last Name (un) **] consult); Family conference to determine direction of care.
+
+
+
+
+",,
+24582,24366,30528,0,2925-12-14 16:24:00 EST,2925-12-14 16:51:00 EST,7694,"N",54,"Nursing/Other",,"
+
+nsg 7a-7p
+
+neuro: pt orally intubated.  sedated on versed and fentanyl, pupils 2mm sluggish.  does not follow commands.  responds to repositioning and pain.
+
+cv: 100% v-paced @ 60, no ectopy.  pedal/post tibial pulses w/ doppler.  levo down to 0.02. Kcl 40 meq via og for K 3.7
+
+resp: + staph in sputum, sensitivities pending. vanco and zosyn for abx.  lungs clear uppers dim bases.  no changes in vent today. strong cough.  sxn x2 for lg amt brown/blood tinged sputum.
+
+gi: tube feeds started probalance full strength @20cc/hour, increase by 10cc q6h for goal of 60cc/hr -  due to be increased @ 1930 if no residual.  +BOS no stool today.  abd large softly distended.
+
+gu: pedi foley sutured to urethra, inserted by urology, draining yellow w/ sediment.
+
+endo: insulin gtt @ 1 unit/hr.  hourly fingersticks 90's-100's.  now on CSRU insulin protocol.
+
+skin: duoderm to coccyx intact, red rash perineum tx w/ myconazole powder.
+
+a/p: afebrile, soft wrist restraints per protocol. followed by MICU service.  wean pressors.  left leg US ?DVT, results pending.  ? vent wean.
+",,
+24582,24366,30528,0,2925-12-14 16:40:00 EST,2925-12-14 16:43:00 EST,6692,"N",54,"Nursing/Other","Respiratory Care Note","
+Respiratory Care Note
+Pt received on AC as noted. No vent changes this shift. BS clear, but decreased in the bases. Pt suctioned for moderate amts thick, bloody secretions. Atrovent MDI given with slight improvement in aeration. Plan to remain on current settings at this time.
+",,
+24582,24366,30528,,2925-12-15 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2925-12-15**] 7:14 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 3855**]
+     Reason: daily cxr                                                   
+     Admitting Diagnosis: PNEUMONIA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+         [**Age over 90 **] year old man with hypoxia, rhonchi (b), hypotensive and febrile s/p pull  
+      back of ETT and placement of LSC     
+     REASON FOR THIS EXAMINATION:
+      daily cxr                                                                       
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     PORTABLE AP CHEST, SINGLE VIEW, DATED [**2925-12-15**]
+     
+     CLINICAL HISTORY:  [**Age over 90 **]-year-old male with hypoxia, rhonchi, hypotensive, and
+     febrile.
+     
+     FINDINGS:  Comparison is made to prior examination dated [**2925-12-12**].  The
+     endotracheal tube, NG tube, and left-sided subclavian line are unchanged in
+     position.  There has been slight interval improvement in the left mid lung
+     airspace opacity.  This likely represents improving pneumonia.  There is a
+     persistent small right-sided effusion.  No other significant change is noted.
+                                                                           
+
+",,
+24582,24366,30528,0,2925-12-15 03:59:00 EST,2925-12-15 04:00:00 EST,7475,"N",54,"Nursing/Other","psweeney,rrt","
+[**Name8 (MD) 1410**],rrt
+pt. remained on current settings t/o shift, et retaped with position change.
+",,
+24582,24366,30528,0,2925-12-15 06:56:00 EST,2925-12-15 07:14:00 EST,2436,"N",54,"Nursing/Other","RN shift note","
+RN shift note
+neuro: sedate on midazolam and fentanyl.  MAE purposefully; does not follow command nor open eyes.
+
+CV: v-paced at 60, no ectopy. MAP 60-95, no pressors.  + Doppler pulses throughout; feet slightly cool and mottled, L>R.  Heparin gtt adjusted to maintain PTT 60-100.
+
+Pulm: CMV 50% x 550 x PEEP 8 w/ excellent ABG's.  Attempt to wean FiO2 to 40%-->>PaO2 drop to 79, so returned to 50%.  Sx for thick pink secretions. BS clear anteriorly, diminished left base, bronchial right posterior.
+
+GI: abd softly distended, nl BS. Large soft brown BM, heme neg. Pro-balance via OGT titrating towards goal, 60cc; min residuals.
+
+GU: amber urine, with sediment, via pedi cath, 30-80cc/hr.BUN/Cr improving.
+
+skeletal: skin grossly intact.  Duoderm intact over cocyx. Red groin rash improving with miconazole powder.  
+
+ID: Tmax 96, po. WBC down to 13 from 16. Zosyn d/c's. Cont on Vanco.
+
+Endo: labile BG, spikes after hydrocrtisone q8h. Cont on insulin gtt.
+
+P: wean as able, ? CPAP/PS after reducing sedation. Adjust heparin to PTT 60-100. Monitor pulses LLE R/T +DVT. Turn q2h/CPT to break up pneumonia.  Increase TF to goal, 60cc.
+
+
+",,
+24582,24366,30528,0,2925-12-15 16:03:00 EST,2925-12-15 16:05:00 EST,6692,"N",54,"Nursing/Other","Respiratory Care Note","
+Respiratory Care Note
+Pt received on AC as noted. No vent changes this shift. ABG's within normal limits. BS are clear bilaterally, but diminished in L base. MDI's given with no change. Plan to remain on current settings at this time.
+",,
+24582,24366,30528,0,2925-12-15 17:03:00 EST,2925-12-15 17:03:00 EST,7271,"N",54,"Nursing/Other",,"
+
+Neuro: Sedation lightened today in hopes of extubating pt in near future. Versed 1mg/hr and fentanyl 25mcg/hr. Pt does not open eyes to name or follow commands, but is primarily Russian speaking. Moves all extremities and is purposeful. PERRL. 
+
+Pulm: Remains on AC 550 50% +8 and rate turned down to 14 from 18 with improvement in abg. Pt is rarely overbreathing the vent, only when stimulated with nursing care. +cough and gag. Sxned rarely for scant to mod amts of thick yellow sputum. Sputum growing back staph aureus, sensitivities not back yet. 
+
+CV: HR 60 100% v-paced, no ectopy noted. BP stable. A-line and L SC tlc intact. Doppler pedal pulses, feet cool to touch. Heparin gtt titrated per order, currently at 650units/hr, next PTT due at 9pm. Left AC old piv site bleeding a large amt, requiring extensive amt of time to hold pressure and several dressings as well. Site is currently not bleeding anymore, pressure dsg to area. HCT this afternoon is stable. Temp is hypothermic 95.6-96.0.
+
+GI: Abd softly distended, hypoactive BS. No BM this shift. TF Probalance is at goal of 60cc/hr, minimal residuals noted. 
+
+Endo: BS checks q1 hr while pt remains on an insulin gtt. 
+
+GU: U/O 25-50cc/hr of cloudy yellow urine. Pedi-catheter intact. Groin reddened, miconazole powder applied prn. 
+
+Skin: Coccyx with duoderm intact. Multiple ecchymoses on UE's. 
+
+Social: Pts grandson in to visit today. 
+
+Plan: Cont to wean sedation and then wean vent as pt tolerates. BS checks q1hr. Monitor PTTs and adjust heparin as indicated. 
+",,
+24582,24366,30528,0,2925-12-16 04:52:00 EST,2925-12-16 05:18:00 EST,1743,"N",54,"Nursing/Other",,"
+
+ekg vpaced at 60 most of night, rare pvcs.  sbp stable.  afebrile. uo 25-30cc/hr, clear yellow.  blood glucose addressed per insulin protocol.  continues on heparin with borderline therapeutic level.   breath sounds clear for the most part, ett suctioned for small amts thick yellow secretions.  no vent changes overnight, abgs are slightly acidotic this am.  to decrease peep this am, possibly progressing to cpap later today.  abd soft, some bowel sounds heard, tolerating probalance at 60cc/hr.  no stool overnight.  duoderm to coccyx intact, old bleeding sites seem to be contained for now.  sedated with versed and fentanyl, moves all extremities restlessly in bed, but does not open eyes or respond to voice in any way, pt does have a language barrier.  plan to advance weaning today, monitor clotting studies, needs interpreter for explanations and reassurance.
+",,
+24582,24366,30528,0,2925-12-16 18:18:00 EST,2925-12-16 18:21:00 EST,6692,"N",54,"Nursing/Other","Respiratory Care Note","
+Respiratory Care Note
+Pt received on AC as noted. BS coarse with expiratory wheezes. Atrovent MDI given with improved aeration, but wheezing persists. Pt placed on PSV 5/5 with VT mid 400's. Follow up ABG within normal limits with good oxygenation. Cuff leak positive. Pt extubated to cool aerosol w/o incident. 
+",,
+24582,24366,30528,0,2925-12-16 18:19:00 EST,2925-12-16 18:52:00 EST,7271,"N",54,"Nursing/Other",,"
+
+Neuro: Sedation turned off in am and pt extubated in afternoon. Pt is primarily Russian speaking, family was in to translate and they state the pt is oriented x2, and asking appropriate questions. Pt follows commands, MAEW. Denies pain. Does have periods of restlessness, mostly associated with nursing care.
+
+Pulm: Extubated to humidified face tent 40% and NC 4L added as well as pt manages to get face tent off on occasion and sats down to 91% on RA. Pt has strong cough, but no secretions produced. Nasal trumpet placed and pt NT sxned for thick white and yellow secretions. Pt had copious amts of secretions and mucous plugs early this am when intubated. Sputum cx grew back MRSA, pt placed on precautions. 
+
+CV: HR 60 v paced, no ectopy noted. BP elevated when sedation turned off, started on nitro gtt with good effect. Afebrile. Heparin gtt at 800units/hr, PTT pending. 
+
+GI: Abd distended, hypoactive BS. No BM, +flatus. TF off and OGT d/c'd when extubated, pt currently is NPO. Insulin gtt d/c'd, started on sliding scale. 
+
+GU: Pedi-cath intact, draining cloudy yellow urine. Given lasix 40mg iv with minimal effect prior to extubation, given additional 80mg iv   
+at 6pm. 
+
+Skin: Duoderm removed from coccyx, area is reddened. Site left open to air and pt turned q2hr.
+
+Social: Pts son in to visit, able to translate for staff. Updated on pts plan of care.
+
+Plan: f/u with pm labs, adjust PTT as indicated per scale. NTS as needed. BS checks q6hr. Pulmonary toileting. Wean NTG as tolerates.
+",,
+24582,24366,30528,,2925-12-17 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2925-12-17**] 7:54 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 3856**]
+     Reason: ? edema                                                     
+     Admitting Diagnosis: PNEUMONIA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+          [**Age over 90 **] year old man with hypoxia, rhonchi (b), hypotensive and febrile ? 
+      worsening CHF,
+     REASON FOR THIS EXAMINATION:
+      ? edema                                                                         
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     
+     INDICATION:  [**Age over 90 **] y/o with hypoxia, ronchi and worsening CHF.
+     
+     CHEST X-RAY AP PORTABLE VIEW.
+     
+     COMPARISON:  [**2925-12-15**].
+     
+     FINDINGS:  The chest radiograph is limited with motion and blurring .There is
+     persistent cardiomegaly.  The right-sided pacer lead terminates in the right
+     ventricle.  The right subclavian catheter tip is in the proximal SVC.  Slight
+     worsening of the perihilar haziness on the right, which may represent
+     asymmetric pulmonary edema or aspiration. Improvement in the left lower lobe
+     atelectasis. Small bilateral effusions.
+     
+     IMPRESSION:
+     
+     1)  Increasing perihilar haziness on the right, which may reflect
+     asymmetrical edema or aspirtion. 
+     
+     2)  Improving left lower lobe atelectasis.
+     
+     3)  Small bilateral effusions.
+
+",,
+24582,24366,30528,0,2925-12-17 05:13:00 EST,2925-12-17 05:42:00 EST,1743,"N",54,"Nursing/Other",,"
+
+ekg vpaced at 60, no ectopy.  sbp stable, ntg weaned off.  afebrile.  blood glucose rx per sliding scale.  breath sounds coarse to clear, decreased at bases, nt suctioned via nasal trumpet for mod amts thick tan bloodtinged mucus.  maintaining spo2 > 95% on 4l nc, using face tent for humidity, but will not keep it on.  has a good cough, seems to be productive and appears to swallow some secretions.  abd distended, soft, few bowel sounds heard, no stool overnight.  remains npo pending swallowing study.  buttocks are red, not broken dowm, peri area is moist and red.  mycostatin powder to peri area and aloe protective cream to buttocks and anal area.  opens eyes to voice, unable to assess orientation due to language barrier, but does follow commands expressed with gestures.  is restless, constantly moving head to dislodge oxygen.  occ says a few words in russian.  plan to continue pulm toilet, assess swallowing status, advance activity as tolerated.
+",,
+24582,24366,30528,0,2925-12-17 15:46:00 EST,2925-12-17 16:00:00 EST,2605,"N",54,"Nursing/Other",,"
+
+See [**Name6 (MD) **] data, MD notes and orders. Pt sob and having difficulty brathing per interpreter. Abg's/sats wnl. Pt oriented and answering questions appropriately. Pt stated he would not want breathing tube again but would want medication for comfort. Son ""[**Doctor First Name **]"" in to hospital and had long discussion with MD with decision made to make code status DNR/DNI with continued treatement for pneumonia. Pt has been alert, follows commands, communicates with gestures and interpreter. He is very sob when speaking with abdominal breathing noted. Chest xray shows worsening congestion. Diuresed this am with uo 50-100cc/hr. Currently on 6Lnc with 02 sats 98%. Lungs coarse with rhonci, Bilateral chest PT several times today with no mobilaztion of secretions. Abd is obese, bs+, inc on small stool x2. Currently npo, to be seen for speech/swallow eval when able. P: Will continue current plan of care, keep family up to date, morphine prn per mar for pt comfort. Will monitor uo/?further diuresis. ?ngt for meds/tube feed if unable to tolerate speech/swallow eval. R: As above, morphine sulfate 1mg IVP x 2 with pt appearing more comfortable and sleeping in short naps. 
+",,
+24582,24366,30528,,2925-12-18 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2925-12-18**] 7:54 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 3858**]
+     Reason: eval for CHF                                                
+     Admitting Diagnosis: PNEUMONIA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+           [**Age over 90 **] year old man with hypoxia, rhonchi (b), hypotensive and febrile ?  
+      worsening CHF,
+     REASON FOR THIS EXAMINATION:
+      eval for CHF                                                                    
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Hypoxia, bilateral rhonchi, hypotensive, and febrile.  Please
+     evaluate CHF.
+     
+     COMPARISONS:  Comparison is made to study performed seven hours earlier the
+     same day.
+     
+     AP chest radiograph shows slight interval improvement of the previously seen
+     mild-to-moderate pulmonary edema.  The pacing leads and left subclavian
+     line appear in stable position.  Again seen are small bilateral pleural
+     effusions.
+     
+     IMPRESSION:  Slight improvement of mild-to-moderate pulmonary edema.  Small
+     bilateral pleural effusions.
+
+",,
+24582,24366,30528,,2925-12-18 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2925-12-18**] 12:40 AM
+     CHEST (PORTABLE AP); -76 BY SAME PHYSICIAN                      [**Name Initial (PRE) 232**] # [**Clip Number (Radiology) 3857**]
+     Reason: Please evaluate fluid status                                
+     Admitting Diagnosis: PNEUMONIA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+            [**Age over 90 **] year old man with hypoxia, rhonchi (b), hypotensive and febrile ?   
+      worsening CHF,
+     REASON FOR THIS EXAMINATION:
+      Please evaluate fluid status                                                    
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Hypoxia, bilateral rhonchi, hypotensive, febrile.  Please
+     evaluate fluid status.
+     
+     COMPARISONS:  [**2925-12-17**].
+     
+     AP chest radiograph shows mild cardiomegaly.  Left-sided pacer is seen with
+     lead overlying the right ventricle.  Left-sided subclavian line is seen with
+     tip overlying the SVC.  There is evidence of vascular engorgement and
+     bilateral airspace opacities consistent with mild-to-moderate pulmonary edema.
+     Small bilateral pleural effusions are seen.
+     
+     IMPRESSION:  Mild-to-moderate pulmonary edema.  Small bilateral effusions.  No
+     significant change from prior study.
+
+",,
+24582,24366,30528,,2925-12-18 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2925-12-18**] 12:40 AM
+     CHEST (PORTABLE AP); -76 BY SAME PHYSICIAN                      [**Name Initial (PRE) 232**] # [**Clip Number (Radiology) 3857**]
+     Reason: Please evaluate fluid status                                
+     Admitting Diagnosis: PNEUMONIA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+            [**Age over 90 **] year old man with hypoxia, rhonchi (b), hypotensive and febrile ?   
+      worsening CHF,
+     REASON FOR THIS EXAMINATION:
+      Please evaluate fluid status                                                    
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Hypoxia, bilateral rhonchi, hypotensive, febrile.  Please
+     evaluate fluid status.
+     
+     COMPARISONS:  [**2925-12-17**].
+     
+     AP chest radiograph shows mild cardiomegaly.  Left-sided pacer is seen with
+     lead overlying the right ventricle.  Left-sided subclavian line is seen with
+     tip overlying the SVC.  There is evidence of vascular engorgement and
+     bilateral airspace opacities consistent with mild-to-moderate pulmonary edema.
+     Small bilateral pleural effusions are seen.
+     
+     IMPRESSION:  Mild-to-moderate pulmonary edema.  Small bilateral effusions.  No
+     significant change from prior study.
+
+",,
+24582,24366,30528,0,2925-12-18 07:35:00 EST,2925-12-18 07:51:00 EST,7285,"N",54,"Nursing/Other","Nursing Progress Note for 7p-7a:","
+Nursing Progress Note for 7p-7a:
+Pt is a russian speaking man that is difficult to assess without an interpreter. Pt mumbles words and seems to have difficulty breathing at times, assessory muscle use and occasional gasping for breath or thrashing head from side to side. O2 increased to 6l/nc to keep sats >92%. Abg now showing po2 of 71 this am with alkalosis noted. MD [**Location (un) 1056**] aware. BBS are very diminished with coasr sounds and rales noted. PCXR completed at 0100. MD [**Doctor Last Name **] states that minimal increase in congestion noted. Pt has a perm pacer rate of 60's with SBP very difficult to control at 140-180's. Nitro gt restarted for sbp control and increased lopressor doses. Morphine helpful for pt's discomfort. Ativan seems to make pt more restless. Pt continues to pull at o2, art line and Pediatric foley which is sutured in, despite meds. Bil wrist restraints applied. Urinary output is slowing down and bright red blood noted in catheter after pt pulling at line. Abd large and bs hypoactive. Remains NPO until swallow study can be completed. Pedal pulses via doppler. Skin warm and dry. 
+Plan is to continue comfort care. Pt is DNR/DNI. May need further family conference to determine the pt's care.
+",,
+24582,24366,30528,0,2925-12-18 16:17:00 EST,2925-12-18 16:30:00 EST,7846,"N",54,"Nursing/Other",,"
+
+Pt received in poor condition, in agitated state, on Nitroglycerine drip at 2.5 mcg/kg/min.  Pt not responding to staff, unknown if from language barrier.  Pt pulling at restraints.  Found foley in bed, pulled out, but still stitched to meatus.  Physician [**Name Initial (PRE) **].    Morphine and Ativan per physician [**Name Initial (PRE) 386**].  Heparin drip reinitated at 750 u/hr per physician [**Name Initial (PRE) 386**].  Pt in apparent respiratory distress, O2 per 100% NRB mask per physician [**Name Initial (PRE) 386**].  Use of abdominal muscles noted, breath sounds coarse, Bilateraly.  MICU physicans rounded and spoke with patient family, son [**Name (NI) 2283**].  Pt status changed to CMO and all lab work DC'd, all drips and medications stopped.  Morphine drip initiated at 5 mg/hr [**Name8 (MD) 59**] MD order.  Arterial line removed intact.  Pt appearing comfortable w/o restlessness.  Plan to transfer to floor as orders received.
+",,
+24582,,30528,0,2925-12-19 05:39:00 EST,2925-12-19 05:51:00 EST,7285,"N",54,"Nursing/Other","Nursing Progress Note:","
+Nursing Progress Note:
+Pt is now full DNR/CMO, Family came in last night and spoke to MD, 
+Dr. [**Last Name (STitle) 4763**] for over an hour. Pt's son, Mark, is the legal health care proxy and just returned from out of country. Grandson, [**Doctor First Name **] was also at bedside. Family is agreeable to continued plan of care and comfort measures only with morphine gtt at this time, however, Mark is unsure and state he will talk with the rest of family tonight and may change his mind later. Ethics consultant, [**First Name8 (NamePattern2) 3108**] [**Last Name (NamePattern1) 4764**] called and updated. She will speak to family in the am. Familt states they do want mophine titrated up for pt's comfort at this time and to be notified of changes.
+
+Pt is well sedated on Morphine gtt. Seems comfortable. Occasional periods of apnea. HR and SBP are stable. Sats are 70-100% while on 100% NRBM. Sats decreased afteran episode of vomiting green emesis, sats improved after nt sx x one. Skin is cool and mottled with large amt of BUE edema and some gen edema. Abd large and distended. Incont of rusty colored urine.   
+
+Plan to continue comfort measures only. No labs. Awaiting ethics person to speak with family.
+",,
+24582,,30528,0,2925-12-19 08:28:00 EST,2925-12-19 08:31:00 EST,7846,"N",54,"Nursing/Other",,"
+
+Pt. unresponsive to noxious stimuli. RR 3-4 bpm.  MAP 40's.  Son, Mark called to notify of condition.  Dr. [**Last Name (STitle) 4763**] called to notify of status.
+",,
+24582,,30528,0,2925-12-19 09:50:00 EST,2925-12-19 09:52:00 EST,7846,"N",54,"Nursing/Other",,"
+
+Sons at bedside.  Informed of gravity of situation.  MICU resident paged to talk to family per their request.  
+",,
+24582,,30528,0,2925-12-19 13:25:00 EST,2925-12-19 13:30:00 EST,7846,"N",54,"Nursing/Other",,"
+
+13:04  Patient w/o spontaneous respirations.  Unable to obtain blood pressure. Pupils fixed and dilated. No heart tones audible.  Patient pronouned at 13:04 by Dr.[**Last Name (STitle) **]. Bloom.  Family at bedside. Family decided no organ donation, no autopsy.  Funeral arrangements will be made by son, Mark.  Body prepared and sent to morgue.
+",,

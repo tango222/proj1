@@ -1,0 +1,573 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+24141,1521,,,2802-12-20 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+
+Admission Date:  [**2802-12-20**]       Discharge Date:
+
+Date of Birth:   [**2718-4-27**]       Sex:  F
+
+Service:  GENERAL SURGERY BLUE
+
+Discharge pending rehabilitation bed.
+
+HISTORY OF PRESENT ILLNESS:  The patient is an 84 year old
+woman who presented to [**Hospital1 4**]
+Emergency Department complaining of abdominal pain, nausea
+and vomiting.  The patient denies any fevers or chills.  Last
+bowel movement was the day prior to admission.  The patient
+said that over the course of the day, the pain has become
+more persistent and diffuse.  The patient has decreased p.o.
+tolerance.  The patient denies any new foods, sick contacts,
+travel history, history of inflammatory bowel disease or
+urinary symptoms.
+
+PAST MEDICAL HISTORY:
+1.  Congestive heart failure.
+2.  Peptic ulcer disease.
+3.  Hypercholesterolemia.
+4.  Atrial fibrillation.
+5.  Hypertension.
+6.  Severe aortic stenosis.
+
+PAST SURGICAL HISTORY:
+1.  Two cesarean sections.
+2.  Right inguinal hernia repair.
+3.  Ventral hernia repair.
+
+MEDICATIONS ON ADMISSION:
+1.  Allopurinol.
+2.  Amiodarone.
+3.  Lipitor.
+4.  Cozaar.
+5.  Lasix.
+6.  Lopressor.
+7.  Protonix.
+8.  Prozac.
+9.  Trazodone.
+10. Coumadin.
+
+ALLERGIES:  No known drug allergies.
+
+SOCIAL HISTORY:  The patient denies any history of tobacco,
+alcohol or drug use.  The patient lives alone.
+
+PHYSICAL EXAMINATION:  The patient was afebrile with a
+temperature of 95.8.  The patient's pulse was 58, blood
+pressure 130/86, respiratory rate 16, oxygen saturation 97%
+in room air.  The patient's heart was regular rate and
+rhythm.  The chest was clear to auscultation bilaterally.
+The patient had no costovertebral angle tenderness.  The
+patient's abdomen was distended, tympanitic, with mildly
+diffuse tenderness.  The patient had no rebound tenderness,
+no guarding and no percussion tenderness.  The extremities
+were without cyanosis, clubbing or edema.  The patient had
+trace heme positive stool on rectal examination.
+
+LABORATORY DATA:  The patient's white blood cell count was
+8.3, hematocrit 34.0, platelet count 253,000.  Urinalysis was
+negative.  Chemistries were within normal limits.
+
+The patient's electrocardiogram showed no changes from before
+and sinus rhythm.
+
+KUB showed no air fluid levels, no dilated loops of bowel, no
+free air.  The patient's CT scan showed dilated small bowel
+to about 4.0 centimeters, normal transition of bowel was
+identified.  CT scan was also showed positive diverticulosis,
+and decompressed distal small bowel.
+
+HOSPITAL COURSE:  The patient was admitted for rule out small
+bowel obstruction.  The patient was kept NPO, was started on
+intravenous fluids.  Nasogastric tube was placed as was Foley
+catheter.  On hospital day two, the patient was examined
+regularly for detecting worsening abdominal symptoms.  The
+patient underwent an exploratory laparotomy and lysis of
+adhesions secondary to worsening of her abdominal symptoms.
+Surgery was performed on [**2802-12-21**].  Estimated blood loss was
+200 cc and urine output during surgery was 230.  The patient
+was given one unit of packed red blood cells and five units
+of fresh frozen plasma.  The patient was given one liter of
+LR.  The patient was admitted to the Surgical Intensive Care
+Unit postoperatively for observation secondary to the
+patient's age and the patient's significant past medical
+history.
+
+On postoperative day number one, the patient was kept NPO
+with nasogastric tube in place and intravenous fluids
+running.  Foley catheter was kept in place as well.
+Cardiology consultation was obtained secondary to the
+patient's history of congestive heart failure and aortic
+stenosis.  Cardiology recommended that there is no indication
+for Amiodarone at this time.  Cardiology also recommended
+weaning the patient off Neo-Synephrine for blood pressure
+support.
+
+On postoperative day number two, the patient's blood pressure
+was 211/57.  We attempted to keep the patient's blood
+pressure at the 140 to 150 range secondary to the patient's
+aortic stenosis.  Nitroglycerin drip was increased, as well
+as Hydroxyzine was started.  On postoperative day number
+three, the patient's blood pressure stabilized to acceptable
+levels of 140s to 150s.  On postoperative day number four,
+nasogastric tube was taken out.  On postoperative day number
+five, the patient was doing a lot better.  The patient was
+started on clear diet with diet being advanced as tolerated.
+Dilaudid was discontinued and Tylenol was used for pain
+control.  Blood pressure has been controlled by Lopressor.
+Cozaar and Amiodarone have been discontinued.  On
+postoperative day number six, the patient tolerated p.o.
+diet.  Foley catheter was taken out.  On postoperative day
+number six, the patient developed a left facial swelling
+which was diagnosed to be parotiditis.  ENT was consulted who
+recommended starting the patient on intravenous Unasyn and
+hydration as well as sialogogues.  The patient's facial
+swelling gradually resolved.  On postoperative day number
+seven, the patient is well enough to be transferred to a
+rehabilitation facility for further rehabilitation.  The
+patient is currently awaiting discharge to a rehabilitation
+facility pending available beds.
+
+CONDITION ON DISCHARGE:  Stable.
+
+DISCHARGE STATUS:  To rehabilitation facility.
+
+MEDICATIONS ON DISCHARGE:
+1.  Heparin 5000 units subcutaneous twice a day.
+2.  Albuterol inhaler one puff p.r.n.
+3.  Insulin sliding scale.
+4.  Lopressor 25 mg p.o. twice a day.
+5.  Protonix 40 mg p.o. once daily.
+6.  Paxil 20 mg p.o. once daily.
+7.  Lipitor 10 mg p.o. once daily.
+8.  Tylenol p.r.n.
+9.  Unasyn three grams intravenously q6hours for seven days
+([**2803-1-3**]) until culture and sensitivity comes back.  We will
+contact the rehabilitation facility with the results.
+10. The patient needs to be restarted on Lasix, Amiodarone,
+Cozaar and Coumadin per Dr.[**Doctor Last Name 4727**] recommendations.  Dr.
+[**Last Name (STitle) **] will be following the patient at the rehabilitation
+facility.
+
+FOLLOW-UP:
+1.  The patient should follow-up with Dr. [**Last Name (STitle) **] in one
+week.  The patient was instructed to call Dr.[**Doctor Last Name 4728**]
+office for an appointment.
+
+2.  The patient should follow-up with Dr. [**Last Name (STitle) **].  The
+patient will be caring for the patient at the rehabilitation
+facility.
+
+3.  The patient should follow-up with ENT in one week,
+telephone [**Telephone/Fax (1) 4729**].
+
+4.  The patient also will be needing chest physical therapy
+q4hours, and Milkinol to parotid duct three times a day.  The
+patient should be on a regular diet with Boost three times a
+day.  The patient also needs rehabilitation for ambulating
+three times a day.
+
+
+
+
+                            [**Name6 (MD) **] [**Name8 (MD) **], M.D.  [**MD Number 2789**]
+
+Dictated By:[**Last Name (NamePattern1) 4730**]
+MEDQUIST36
+
+D:  [**2802-12-28**]  14:20
+T:  [**2802-12-28**]  14:38
+JOB#:  [**Job Number 4731**]
+Signed electronically by: DR. [**First Name (STitle) **] [**Doctor Last Name **]
+ on: FRI [**2803-1-3**] 10:09 AM
+(End of Report)
+
+
+",,
+24141,1521,,,2802-12-20 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2802-12-20**] 6:21 PM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 15919**]
+     CT 150CC NONIONIC CONTRAST; CT RECONSTRUCTION
+     Reason: Pt with inability to tolerate pos, abdominal pain, please as
+     Field of view: 36 Contrast: OPTIRAY Amt: 150CC
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      84 year old woman with see above
+     REASON FOR THIS EXAMINATION:
+      Pt with inability to tolerate pos, abdominal pain, please assess.
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+     WET READ: DRS [**Last Name (STitle) **] [**2802-12-20**] 7:06 PM
+      + SBO
+     ______________________________________________________________________________
+                                     FINAL REPORT *ABNORMAL!
+     INDICATION:  84 year old woman with inability to tolerated PO intake and
+     abdominal pain.
+     
+     TECHNIQUE:  Helically-acquired contiguous axial images were obtained from the
+     lung bases through the pubic symphysis, with the administration of oral and IV
+     contrast.  Coronal reformatted images were performed.
+     
+     CT OF THE ABDOMEN WITH IV CONTRAST:  There is a small right pleural effusion
+     and a small amount of atelectasis at both lung bases.  The liver is
+     unremarkable.  There is a large gallstone within the gallbladder, without
+     evidence of associated inflammatory changes.  The pancreas, spleen, adrenal
+     glands and kidneys are unremarkable.  There are multiple loops of dilated
+     small bowel, measuring up to approximately 4 cm in greatest diameter.  The
+     dilation of the bowel appears to begin in the distal duodenum/proximal jejunum
+     and ends somewhere in the region of the distal jejunum/proximal ileum.  No
+     definite transition point is visualized.  There is a moderate amount of free
+     ascites.  No free air is identified.  A prior ventral abdominal hernia repair
+     is noted.  The abdominal vasculature demonstrates marked degree of
+     calcifications throughout the aorta, mesenteric, renal and iliac vessels,
+     which all appear otherwise patent.  Scattered mesenteric and retroperitoneal
+     lymph nodes are noted, that do not meet CT criteria for pathologic
+     enlargement.
+     
+     CT OF THE PELVIS WITH ORAL AND IV CONTRAST:  The rectum is unremarkable. There
+     is extensive sigmoid diverticulosis without evidence of diverticulitis. The
+     bladder is unremarkable.  There is a small-to-moderate amount of free pelvic
+     fluid.  No deep pelvic lymphadenopathy.  The colon and distal ileum appear
+     otherwise relatively collapsed.
+     
+     Degenerative changes are seen throughout the thoracic and lumbar spine.
+     
+     IMPRESSION:
+     
+     1) Numerous loops of dilated small bowel, which appears to predominantly
+     affect the jejunum.  Although no distinct transition point is identified this
+     is highly suspicious for a small bowel obstruction.  The distal ileum and
+     colon are relatively collapsed.
+                                                                 (Over)
+
+     DATE: [**2802-12-20**] 6:21 PM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 15919**]
+     CT 150CC NONIONIC CONTRAST; CT RECONSTRUCTION
+     Reason: Pt with inability to tolerate pos, abdominal pain, please as
+     Field of view: 36 Contrast: OPTIRAY Amt: 150CC
+     ______________________________________________________________________________
+                                     FINAL REPORT *ABNORMAL!
+     (Cont)
+     
+     2) Gallstones, without evidence of cholecystitis.
+     
+     3) Extensive diverticulosis, without evidence of diverticulitis.
+     
+     4) Moderate amount of ascites, without definite free air.
+     
+     5) Extensive vascular calcifications, as described above.
+     
+     These findings were immediately communicated with the clinical staff.
+
+",,
+24141,1521,,,2802-12-20 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2802-12-20**] 6:21 PM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 15919**]
+     CT 150CC NONIONIC CONTRAST; CT RECONSTRUCTION
+     Reason: Pt with inability to tolerate pos, abdominal pain, please as
+     Field of view: 36 Contrast: OPTIRAY Amt: 150CC
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      84 year old woman with see above
+     REASON FOR THIS EXAMINATION:
+      Pt with inability to tolerate pos, abdominal pain, please assess.
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+     WET READ: DRS [**Last Name (STitle) **] [**2802-12-20**] 7:06 PM
+      + SBO
+     ______________________________________________________________________________
+                                     FINAL REPORT *ABNORMAL!
+     INDICATION:  84 year old woman with inability to tolerated PO intake and
+     abdominal pain.
+     
+     TECHNIQUE:  Helically-acquired contiguous axial images were obtained from the
+     lung bases through the pubic symphysis, with the administration of oral and IV
+     contrast.  Coronal reformatted images were performed.
+     
+     CT OF THE ABDOMEN WITH IV CONTRAST:  There is a small right pleural effusion
+     and a small amount of atelectasis at both lung bases.  The liver is
+     unremarkable.  There is a large gallstone within the gallbladder, without
+     evidence of associated inflammatory changes.  The pancreas, spleen, adrenal
+     glands and kidneys are unremarkable.  There are multiple loops of dilated
+     small bowel, measuring up to approximately 4 cm in greatest diameter.  The
+     dilation of the bowel appears to begin in the distal duodenum/proximal jejunum
+     and ends somewhere in the region of the distal jejunum/proximal ileum.  No
+     definite transition point is visualized.  There is a moderate amount of free
+     ascites.  No free air is identified.  A prior ventral abdominal hernia repair
+     is noted.  The abdominal vasculature demonstrates marked degree of
+     calcifications throughout the aorta, mesenteric, renal and iliac vessels,
+     which all appear otherwise patent.  Scattered mesenteric and retroperitoneal
+     lymph nodes are noted, that do not meet CT criteria for pathologic
+     enlargement.
+     
+     CT OF THE PELVIS WITH ORAL AND IV CONTRAST:  The rectum is unremarkable. There
+     is extensive sigmoid diverticulosis without evidence of diverticulitis. The
+     bladder is unremarkable.  There is a small-to-moderate amount of free pelvic
+     fluid.  No deep pelvic lymphadenopathy.  The colon and distal ileum appear
+     otherwise relatively collapsed.
+     
+     Degenerative changes are seen throughout the thoracic and lumbar spine.
+     
+     IMPRESSION:
+     
+     1) Numerous loops of dilated small bowel, which appears to predominantly
+     affect the jejunum.  Although no distinct transition point is identified this
+     is highly suspicious for a small bowel obstruction.  The distal ileum and
+     colon are relatively collapsed.
+                                                                 (Over)
+
+     DATE: [**2802-12-20**] 6:21 PM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 15919**]
+     CT 150CC NONIONIC CONTRAST; CT RECONSTRUCTION
+     Reason: Pt with inability to tolerate pos, abdominal pain, please as
+     Field of view: 36 Contrast: OPTIRAY Amt: 150CC
+     ______________________________________________________________________________
+                                     FINAL REPORT *ABNORMAL!
+     (Cont)
+     
+     2) Gallstones, without evidence of cholecystitis.
+     
+     3) Extensive diverticulosis, without evidence of diverticulitis.
+     
+     4) Moderate amount of ascites, without definite free air.
+     
+     5) Extensive vascular calcifications, as described above.
+     
+     These findings were immediately communicated with the clinical staff.
+
+",,
+24141,1521,29986,0,2802-12-21 20:28:00 EST,2802-12-21 20:42:00 EST,-1,"N",54,"Nursing/Other","NSG ADMIT note :","
+NSG ADMIT note :
+ROS:
+NEURO: A&Ox3, speach soft and clear. MAEfair strength. PERL 1-2/1-2 brisk. C/O abd pain aching 7(0-10).Dilaudid 0.25mg IVPx1 per Dr. [**Last Name (STitle) **] w/ good effect, 5(0-10).
+CV: T=100.0. SR no ectopy. SBP to 140's after pain med. Dr. [**Last Name (STitle) **] notified. No edema. Denies CP. See careview for FICK. Unable to wedge, Dr. [**Last Name (STitle) **] aware.
+RESP: LS CTA. NC 3l. Breathing nonlabored.
+GI: (R) NGT ILWS draining opaque bilious fliud. Abd soft distended, BS absent. 
+GU: Amber 30cc/h.
+SKIN: W/D/I. Midline abd inc w/ primary surgical dsg has mod amount serosang drainage.  
+
+PLAN: Monitor hemodynamics, FICK for CO only q4h. Monitor labs. Monitor I/O, notify HO for <30cc/h. Monitor pulmoary status. Monitor comfort level, offer pain med. Monitor MS.
+",,
+24141,1521,29986,0,2802-12-22 02:29:00 EST,2802-12-22 02:50:00 EST,3647,"N",54,"Nursing/Other","focus hemodynmics","
+focus hemodynmics
+data: vs as per flow sheet. bedrest maintained. abd distended but soft. abd appears more distended as the shift went on. dr [**Last Name (STitle) **] notified and in to examine pt. abd dsg intact  (original dsg) with visable bloody drainage on dsg. no bowel sounds heard. no flatus passed. ngt to lcws and draining bilious drainage. lactated ringers at 80cchr. neo gtt iv started due to bp <150. neo titrated to keep bp >150-180. mag =1.3 and received mag sulfate 2gms iv x2 and repeat done= 2.7. hct 28.3 and received 1unit of prbc and repeat 31.1. inr=1.7  and 5mg of vit k sc given along with 2units of ffp.  pad's = 30's. pt has hx of mitral regurg. cvp= 13-14.  fick output= 5.8 ci=3.5
+svr=938. o2 at 3liters np.  abg= 7.38-52-95-32.
+action: labs as ordered. on iv flagyl and cefazolin. ngt to lcws. fluid bolus = 500cc of lactated ringers given. 1unit of prbc given. 2 units of ffp  given. mag sulfate iv given  for low magnesium. 
+response: monitor closely . monitor abd  and labs closely. 
+",,
+24141,1521,29986,0,2802-12-22 18:03:00 EST,2802-12-22 18:30:00 EST,-1,"N",54,"Nursing/Other","Condition Update A:","
+Condition Update A:
+ROS:
+NEURO: A&O x3, period of confusion in morning resolved w/ MD reorientation. No further episodes. MAE, good strength. PERL [**3-17**] brisk. C/O abd pain w/ coughing and movemnt tx w/ Dilaudid 0.12mg PRN w/ good effect.
+CV: T=99.5-100.8. NSR, no ectopy. Neo gtt titrating to keep SBP 140-180. Transfused w/ 2 units FFP. Hct 27. Dr. [**Last Name (STitle) 76**] aware. CVP 12-17. PA mean 51-58. FICK 4.6 - 5.3. CI 2.79 - 3.21. No edema. Denies CP, SOB. 
+RESP: LC CTA w/ crackles. Dr. [**Last Name (STitle) 76**] aware. CPT done. Pt compliant w/ IS and C&DB. Cough weak raisong tan/brown thick secretions.
+GI: NGT patent, to CLWS w/ bilious drainage. BS absent. Abd soft distended appropriately tender. Monitoring FSBS. Denies N/V. No stool or flatus.
+GU: U/O 11-40cc/h amber and cloudy.
+SKIN: Midline abd inc w/ staples C/D/I covered w/ DSD.
+SOCIAL: Son and daughter in to visit. Discussed w/ pt HCP. Pt verbalized that her son [**Name (NI) **] is her HCP.
+
+PlAN: Transfuse 1 unit PRBC when ready. To keep Hct >30, K>4.0, Mg>2.0. Monitor resp status and assist w/ pulmonary toilet. Monitor hemodynamics, cont to check FICK q4h. Cont w/ current plan of care.
+",,
+24141,1521,29986,0,2802-12-23 07:27:00 EST,2802-12-23 07:50:00 EST,3647,"N",54,"Nursing/Other","focus hemodynmics","
+focus hemodynmics
+data: vss. bp being kept between 140-180. pt alert and oriented. abd distended and ho notified. no bowel sounds heard. hct 29.2 and 1unit of prbc given. post hct 31.7 and 32.2. inr 1.1 and within goal. k 3.9 and repleted with 20meq kcl iv. mag level 2.0 and repeated 2.2. ngt draining bilous drainage. medicated with hydromorphone .12mg iv x2 with effect. u.o 10-30cc. ho notified. pt positive at 2400 and  ho called dr [**Last Name (STitle) 4215**]. lasix 20mg ivp given with good diuresis. o2 at 3 liter np. abg 7.36-49-118-29. 
+action:ngt to lcws. lasix 20mg ivp. hydromorphone iv for pain control. 
+response: monitor closely. 
+",,
+24141,1521,29986,0,2802-12-23 20:03:00 EST,2802-12-23 20:31:00 EST,-1,"N",54,"Nursing/Other","Condition Update A:","
+Condition Update A:
+ROS:
+NEURO: A&O x3, no confusion, no MS changes. Dilaudid x2 for pain w/ good effect. 
+CV: Afebrile. HTN ^ 210's. Adjusting lopressor doses, single doses, and Lasix IV x1 , all w/ poor effect to BP. In afternoon SBP >185 when pt sleeping, W/A >195, w/ stimuli >200. NBP [**11-26**] point diff bilat arms.  This evening HR mid 60's one PVC obs. Denies CP, HA, SOB, numbness, weakness. Monitoring labs and repleting PRN. No edema. Dr. [**Last Name (STitle) 4216**] kept informed. Please refer to careview for details. FICK's not monitored per Dr. [**Last Name (STitle) **].
+RESP: LS per careview. Unable to perform CPT d/t HTN. Pt compilant w/ C&DB.
+GI: BS present. Pt c/o pressure in abd. Shortly thereafter pt passed gas. NGT patent w/ bilious drainage of 40cc's. FSBS did not require RISS tx. Denies nausea.
+GU: Diuressed after lasix x1. 
+SKIN: ABD inc c/d/i.
+SOCIAL: Son, [**Doctor Last Name **], and his wife in to visit, as well as daughter, [**Doctor First Name **]. Pt has verbalized multiple times desire for no visitors other then immediate family. 
+
+PLAN: Monitor hemodynamics to keep SBP<180. Monitor labs and replete lytes PRN. Monitor visitors. Monitor u/o, i/o's. Cont w/ current plan of care.
+",,
+24141,1521,29986,0,2802-12-24 06:15:00 EST,2802-12-24 06:22:00 EST,3439,"N",54,"Nursing/Other",,"
+
+data/action: pt inappropriate,paraniod (seeing bugs on the wall) pulled out ngt x2-reinserted. haldol .5mg iv given w/ good effect-slept 2hrs-behavior better-much calmer. 
+ntg gtt @ .5-.75mcg/kg/min to keep sb/p~170. lopressor 10mg iv q4hrs. lasix 20mg iv x1 w/ good diuresis. cvp 11-9.  k+ and mg+ repleted. 
+ngt bilious 50cc-bs present-passed flatus x1. abd. soft and tender
+didaulid .25mg x1 for pain w/ turning and coughing. 
+",,
+24141,1521,29986,0,2802-12-24 18:26:00 EST,2802-12-24 18:43:00 EST,-1,"N",54,"Nursing/Other","NPN","
+NPN
+pt OX3 in am, but pt confused at times & verbalized having hallucinations. stated the rain outside her window was popcorn falling all around her, and appeared to confuse am rounds w/ a brunch party.  confusion noted following administration of .25mg IVP dilaudid. team aware. will change PRN pain meds when tol po's. family state this is not per pt's baseline. pt easily reoriented & calm throughout shift. LSCTA. prod. cough for sm amt of tan thick sputum. tol chest PT well. sats 99% on 3L via n/c.  cont. to require NTG gtt for SBP goal <180. see new orders for Lopressor 25mg po, BID w/ 15mg IV PRN. NSR w HR 60-70's.  PA catheter changed over to a RIJ TLCL. cultures sent.  afebrile. no edema noted. Abd soft. no flatus this shift. hypoactive BS auscultated. midline inc. w/ staples in tact edges well approx. no drainage or erythema noted. DSD replaced by RN this am. foley draining clear yellow urine in adequate amts. plan is to monitor for return of bowel fxn. start on po HTN meds. wean down NTG gtt to maintain SBP 140-180. 
+",,
+24141,1521,29986,0,2802-12-25 06:22:00 EST,2802-12-25 06:32:00 EST,-1,"N",54,"Nursing/Other","Nursing note","
+Nursing note
+Alert/confused, irritable.  Oriented x1-2. MAE's to command. PERLA. Denies pain. Afebrile.
+NSR with no ectopy seen. HR 60-80's. Tachy when agitated. SBP 120-190's. Nitro weaned to off when sleeping.  Agitated when awake, pressure to 190's. Pt d/c'd aline despite restraints. Denies chest pain. Good peripheral pulses.
+LS clear/coarse at bases. CPT done x1. Pt refused all other attempts. Enc to cough/deep breathe. Raised sm amts thick yellow sputum. Refused IS. Sats 97-100 on 3L O2 by nc. 
+Abd soft with + bowel sounds, +flatus. NPO except sips with meds. No stool this shift. D5W conts at 50/h. Abd incision clean/dry. Staples intact. No drainage noted. DSD changed.
+Foley patent, draining clear yellow urine. UOP >50cc/h.
+Plan: Cont to wean Nitro. 
+
+",,
+24141,9363,29987,0,2806-04-18 05:56:00 EST,2806-04-18 06:18:00 EST,5601,"N",54,"Nursing/Other","Shift Note 1900-0700","
+Shift Note 1900-0700
+Pt 87 y/o female with h/o A-fib on coumadin, AS, CHF as well as peptic ulcer disease with h/o upper GIB. Pt presented to EW with c/o large amount of blood per rectum. Hct initially 32 with drop to 28. Pt given 10mg PO Vit K, 1unit FFP for INR 2.1 (1.7 following) and 2units PRBC's transfused prior to transfer to MICU for further monitoring. Immediately following 2nd unit PRBC's Hct sent and still 28. Following Q4hr serial Hct. Bleeding scan completed yesterday (-). Next Hct sent 26 and patient transfused with additional 2units PRBC's. Awaiting post-transfusion Hct. 
+
+CV: HR 60-80's SA with no ectopy noted, NIBP 120-150/20-40's with MAP >60. Pt with h/o HTN, holding antihypertensive meds but started on amiodarone last night. 
+
+Access: 20g and 18g PIV...patent
+
+Resp: Pt on 2L NC with sats >98%, RR 18-22. BBS clear in upper lobes, faint crackles auscultated posteriorly. Denies SOB. 
+
+Neuro: Pt A&O x3, pleasant and cooperative with care. c/o being very tired and dozing intermittently through night, but awoke frequently with care/labs. Denies pain or discomfort
+
+GI/GU: Abdomen soft, BS present. NPO except meds. Started on Golytely prep last evening and has received slightly over 3L of prep so far. Continues to have large amount BRBPR...mushroom cath and FIB attempted, but continues to leak around. Foley cath intact draining dark yellow urine, 30-60cc/hr. Maintenance fluid, D5 1/2NS at 75cc/hr continuous. Stopped while patient receiving PRBC's. 
+
+Social: Patient's daughter called and spoke with pt. Pt states that her is legal HCP. DNR/DNI. 
+
+Plan: Colonoscopy this am
+      Serial Hct Q4hr and transfuse 
+",,
+24141,9363,29987,0,2806-04-18 18:15:00 EST,2806-04-18 18:33:00 EST,4237,"N",54,"Nursing/Other","NPN 07:00-19:00 MICU","
+NPN 07:00-19:00 MICU
+*Please refer to Carevue for additional patient information
+*DNR/DNI
+
+Shift Events: 
+Continues to bleed via rectum. Mushroom catheter in place, oozing around mushroom catheter, bag changed this afternoon (~1500cc out) now ~500cc out of maroon stool. Tranfused: 2UPRBC's given this shift (total 6U PRBC's given since admit), 2bags FFP also given this shift for INR 1.5. Serial/q4hr hct ranging ~26 (9:30 this am, from ~29 at 5:30am), down to ~24, and while continues to get transfused. Red tag study done this evening (patient down in Nuclear med at this time), pndg results. *Next hct due upon return of patient from study. *Patient has PIV x2, 20g, both wnl, however IV nurse may have to be called if patient needs additional piv. *Go lytely ordered, [**Name8 (MD) 59**] md's bowel prep to be done throughout night (?colonoscoy tomorrow) ?if patient may need NGT d/t discomfort and unwillingness to drink fluid. 
+
+ROS: 
+Neuro: A/o x3, very pleasant and appropriate. Assists with turning, no c/o pain. 
+
+CV: HR 70's SA, SBP 140-150's/30's (~160's when anxious), Tmax 99.3 po. Pulses wnl. 
+
+Resp: LS clear upper, slight crackles lower, NC 2L, O2 sat's ~98%, RR ~20. 
+
+GI/GU: NPO except med's. To get golytely o/n, +bs, mushroom cath in place. U/O wnl ~30-40cc/hr, amber colored, c/o of ""burning"" at catheter site. 
+
+Access: piv x2 wnl. 
+
+SOcial: Son and daughter in to visit. Son with patient at this time, all questions answered. 
+",,
+24141,9363,29987,0,2806-04-19 05:00:00 EST,2806-04-19 05:18:00 EST,4200,"N",54,"Nursing/Other",,"
+
+7p to 7a Micu Progress Note
+
+Neuro - Pt alert and oriented x 3. Pleasant and conversive. MAE. Medicated with 10 mg oxazepam to aid [**Doctor Last Name **] with good effect.
+
+Resp - LS clear with a few bibasilar crackles. Maintained on 02 2 L NC with sats > 96% and RR 17-24. Expectorating sm amts clear phlegm.
+
+C-V - HR 67-80 Sinus Arrythmia with rare pvcs. NBP 140-170/35-50. Rx with amiodarone. Antihypertensives on hold given GIB.
+
+GI - Pt returned from red tag study at onset of shift. Per radiologist's report, study showed a slow bleed in the colon ? originating from the splenic flexure.  Pt initially had mushroom catheter in place but tube clogged due to clots. Diaper applied. NGT inserted into R nares and placement confirmed by x-ray. 4 L golytely administered via NGT over several hours resulting in increased production of liquid maroon stool with sm clots - MD aware. Pt remains NPO except meds. Abd soft. + BS. Plan is for colonoscopy today.
+
+Heme - Serial hcts sent q 4 hrs. Initial hct at 2000 was 24.2. Pt being transfused a total of 4 units PRBCS overnight. Most recent hct at 0400 was 28( after 2 [**2-13**] units packed cells). Goal hct 30-32 [**Name8 (MD) 59**] MD. INR 1.2 last eve. 
+
+F/E - TFB + ~ 6 1/2 liters yest. Urine output now marginal at 25-50ccs/hr via foley. Maintenance IVF being held during transfusions given hx of CHF. 
+
+Access - 2 #20 peripheral iv's
+
+Social - Son and [**Name2 (NI) 730**] visited last eve.
+
+A+P - Continue to monitor LGIB. Serial hcts. Transfuse PRBCS as indicated. ? colonoscopy this am.  
+",,
+24141,9363,29987,0,2806-04-19 18:01:00 EST,2806-04-19 18:05:00 EST,5862,"N",54,"Nursing/Other",,"
+
+Pt prepped with additional gallon of golytely as she was still not clear enough for procedure. After 3rd prep stool was clear liquid. GI team in with colonoscopy cart at 1745 to begin procedure. 
+
+Neuro: Pt a+ox3, pleasant and cooperative, mae, follows commands, c/o soreness in throat [**3-16**] ngt. 
+
+Resp: Weaned off O2 with sats mid to upper 90's. Lung sounds diminished throughout. breathing unlabored. 
+
+Cardiac: SR with irreg HR. no vent ectopy noted. no afib noted. B/P hypertensive as high as 170's systolic at times. Tx with 5mg IV hydral x2 with good effect
+
+GI: NPO prepped with 3rd gallon of go lytely. Colonoscopy pending. positive bowel sounds
+
+Heme: HCT at 0700 29.0  HCT at 1300 after 5th of 5uprbc since [**2800**] last noc 33.7  1800 HCT pending. 
+
+Plan: colonoscopy, follow cbc and coags, ?angio of colonoscopy unsuccessful. DNR/I
+",,
+24141,9363,29987,0,2806-04-19 19:03:00 EST,2806-04-19 19:05:00 EST,5862,"N",54,"Nursing/Other",,"
+
+Nsg addendum:   Bedside colonoscopy performed. Pt received total of 100mcg fentanyl and 1mg versed. No active bleeding noted. Diverticula on L side of colon found. Pt briefly became tachycardic to low 100's wit increase in b/p to 174 systolic. Current HR 85  B/P 145/30. Resting comfortably.
+",,
+24141,9363,29987,0,2806-04-20 05:16:00 EST,2806-04-20 05:27:00 EST,4200,"N",54,"Nursing/Other",,"
+
+7p to 7a Micu Progress Note
+
+Neuro - Pt remains alert and oriented x 3. MAE. Medicated with 15 mg serax for [**Doctor Last Name **] with good results.
+
+Resp - LS clear, diminished at bases. 02 sat fell to 90% while pt asleep off 02. 02 2 L NC applied - sat > 97%. RR 18-25.
+
+C-V - HR 70-90 SA  NBP 110-160/40's. + palp peripheral pulses. No edema.
+
+GI/Heme - Abd soft. +BS. Pt tolerating cl liqs without difficulty. No stool or BPR since yest prior to colonoscopy. + flatus. Hct drawn at 2300 fell to 27.9 from 32.3. MD notified. Pt transfused one unit PRBCs without incident. Am labs pend. Goal hct 30.
+
+F/E - TFB + ~ 3 liters yest. Urine output remains marginal at 20-45ccs/hr via foley. Urine sl pink and amber in appearance at times. 
+
+Skin - Dry and intact.
+
+Social - Son visited last eve.
+
+A+P - Continue with serial hcts. Advance diet as tolerated. ? call-out to floor. Nsg transfer note initiated.
+
+
+",,
+24141,9363,29987,0,2806-04-20 06:44:00 EST,2806-04-20 06:45:00 EST,4200,"N",54,"Nursing/Other",,"
+
+Addendum - Hct 31 this am. Plan is to call pt out after 2 stable hcts [**Name8 (MD) 59**] MD. Mg 1.5 and K 3.7 - orders being obtained by MD [**First Name (Titles) **] [**Last Name (Titles) 926**].
+",,
+24141,9363,29987,0,2806-04-20 18:00:00 EST,2806-04-20 18:22:00 EST,7929,"N",54,"Nursing/Other",,"
+
+Events: Pt. to be transferred to [**Hospital Ward Name 41**] 7. Bleeding controlled, Hct stable (31.7 @ 10:00). Dyspnea, increased BP (sbp 190s), with exertion (when dangling at bedside). Given hydralazine, losartan w/ good effect. Foley d/c'd 11:00; given Lasix 16:00; 250cc output 17:00. Advanced from clear liquid to soft diet, tolerated well.
+
+Neuro: A&Ox3, cooperative, no pain reported. MAE.
+
+Resp: O2sat mid-upper 90s on 2L NC. Dyspena upon dangling bedside. UL clear; LL crackles. Needs encouragement to take deep breaths.
+
+CV: BP increased upon dangling. Given hydralazine, losartan to control w/ good effect.
+
+GI/GU: Advanced to semi-solid diet, tolerates well. Foley d/c'd, incont. 250cc urine. No BM this shift.
+
+Skin: Grossly intact. Edema upper extremities. L arm access line removed r/t infiltration, bleeding. R arm access line replaced by phlebotomist.
+
+Heme: Labs at 10:00, Hct increased to 31.7; to be drawn again at 20:00.
+
+Musculoskeletal: MAE, able to turn w/o assistance. 1 person assist to help sit up/dangle.
+
+Plan: To be transferred to [**Hospital Ward Name 41**] 7. Cont. monitoring for increased BP, decreased O2sat, esp. w/ activity. Cont. monitoring for bleeding, output. Encourage deep breathing and activity.
+
+
+",,
+24141,,29988,0,2806-06-21 04:37:00 EST,2806-06-21 05:22:00 EST,1626,"N",1,"Nursing/Other","CCU ADMISSION/PROGRESS NOTE 11:30P-5:10AM/ CVA","
+CCU ADMISSION/PROGRESS NOTE 11:30P-5:10AM/ CVA
+
+S- PT NONRESPONSIVE
+
+O- PLEASE REFER TO EXTENSIVE PMH/HPI FROM [**Hospital Ward Name **] 6/CCU MEDICAL TEAM ADMISSION NOTES. PLEASE REFER TO [**Hospital Ward Name **] 6 ADMISSION NOTE FOR PT FHPA.
+
+IN BRIEF, THIS IS A 88 YR OLD PT WITH EXTENSIVE PMH SIGNIFICANT FOR CHF, AFIB, AS, SEVERE AND SIGNIIFCANT LOWER GIB( OFF COUMADIN SINCE)- AS WELL AS UPPER GIB/PEPTIC ULCER DISEASE [**11-16**] AT WHICH POINT ASA WAS D/C. WHO WAS ADMITTED TO [**Hospital Ward Name **] 6 -[**2806-6-17**] FOR C/O CHEST QUAKING/RUMBLING FEELING , SOB AS WELL AS OVERALL FATIGUE FOR THE PREVIOUS MONTH PTA/ PER DAUGHTER'S REPORT. 
+ON [**Hospital Ward Name **] 6- PT WAS R/O FOR MI, DIURESED FOR CHF, AND DEVELOPED RENAL FX WITHIN PAST 24-48 HOURS. SHE WAS RATE CONTROLLED WITH LOPRESSOR AND ON [**6-20**]- TEE WAS (-) FOR CLOT SO PT WAS SUCCESSFULLY CDV TO SR 5:45 PM. BY 9:45 PM, TRIGGER WAS CALLED BY [**Hospital Ward Name **] 6 NSG FOR DECREASED RESPONSIVENESS, FACIAL DROOP, HYPOTENSION AND NEURO CHANGES OVERALL. 
+NEURO CAME TO EVAL, PT PUT ON DOPA FOR BP AS WELL AS RECEIVING 1 LITER IVF AND SENT TO CT SCAN (-) FOR BLEED AND PROBABLE BASAL ARTERIAL CLOT BY EXAM.
+
+ALLERGIES:ASA, DOXYCYLCINE
+
+MEDS: PLEASE REFER TO [**Hospital Ward Name **] 6 MEDICAL TEAM/CCU ADMISSION FOR LIST OF MEDS
+
+CCU COURSE:
+
+PT ADMITTED TO CCU ON 5 DOPA GTT, NOT RESPONSIVE, NO REFLEXES, PUPILS UNEQUAL, NOT RESPONDING TO STIMULI BUT (+) OPENING EYES WHEN NAME CALLED. DAUGHTER AND SON IN LAW PRESENT. HR- 50 SB, BP- 112/20-116/20 ON DOPA. CV FELLOW PRESENT AND CCU ATTENDING AND PT'S ATTENDING CONSULTED - DAUGHTER STATING MOTHER'S WISHES TO BE MADE COMFORTABLE AND NOT HAVE "" ALL THIS DONE"". MRI RECOMMENDED BY NEURO BUT PT TOO UNSTABLE. 
+PLAN DECIDED TO KEEP PT ON DOPA WITH GOAL MAP >40 AND REASSESS IF PT BECAME MORE UNSTABLE, WHILE ATTEMPTING TO CALL SON, PROXY- (NOT REACHABLE ON ADMIT TO CCU.)
+DAUGHTER APPEARING COMFORTED BY FACT THAT PT WILL BE KEPT COMFORTABLE AND  NO MORE INVASIVE THINGS TO BE DONE. UNDERSTANDS AND AGREES TO DOPA TO CONTINUE, PER ATTENDINGS WISHES. DAUGHTER WENT HOME WITH HUSBAND 2:30 AM AND BY 3:00 AM, PT'S SON CALLED UNIT FROM OUT OF TOWN.
+CCU RESIDENT SPOKE TO SON, AS PROXY, AND HE AGREED TO OVERALL WISH OF MAKING PT COMFORTABLE, D/C MEDS.
+DOPA D/C 4:30AM, AND PT DROPPED HR AND BP AND EXPIRED BY 5:10AM.
+HO CALLED, MADE ALL APPROPRIATE CALLS AND BOTH FAMILY MEMBERS NOT COMING IN, NOT DESIRING POST MORTEM.
+ 
+A/P- PT ADMITTED TO CCU S/P LARGE CVA, DNR STATUS EVENTUALLY CHANGED TO COMFORT MEASURES. 
+PT EXPIRED 5:10 AM.
+
+CONTINUE TO PROVIDE SUPPORT TO FAMILY AS NEEDED.
+POST MORTEM CARE, SECURE ALL VALUABLES. SEND WITH PT.
+
+",,

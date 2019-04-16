@@ -1,0 +1,138 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+24091,15791,,,2756-08-15 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+
+Admission Date:  [**2756-8-15**]     Discharge Date:  [**2756-8-22**]
+
+Date of Birth:   [**2675-12-1**]     Sex:  F
+
+Service:  CCU
+
+DISCHARGE SUMMARY ADDENDUM: The patient was planned for
+discharge on [**2756-8-17**] when her hematocrit returned it was
+25. She was given one half unit of packed red blood cells
+over night and was slated for discharge the next morning when
+she became dyspneic and had a cough with a dark, green
+sputum. Chest x-ray showed mild CHF with cardiomegaly and
+minimal pleural effusion, a right middle lobe and left lower
+lobe bronchiectasis with associated opacities which may be
+chronic however acute pneumonia cannot be excluded. So the
+patient was begun on Levofloxacin 500 q day. Her respiratory
+status improved to her baseline.
+
+The patient also experienced on the morning of [**2756-8-22**]
+while she was sleeping a tachycardia which on tele appeared
+to be atrial fibrillation however when EKG was performed she
+was back in sinus fib. No intervention was done and the
+patient remained in sinus rhythm until the morning when she
+was discharged home.
+
+The patient is to follow up with primary care physician in
+one to two weeks.
+
+DISCHARGE MEDICATIONS: As written before. She was started on
+Levofloxacin 500 q day to finish in six more days. She was
+also given a prescription for Salmeterol inhaler two puffs
+qid and her NPH insulin was increased to 50 units q A.M., 30
+units q P.M. Her statin was changed to Pravastatin 20 mg po q
+day. She was also sent home on her Digoxin 0.125 mg po q day.
+
+DISCHARGE CONDITION: Stable.
+
+DISCHARGE STATUS: Discharged home with VNA and home health
+aides.
+
+DISCHARGE DIAGNOSIS:
+1.  Acute myocardial infarction.
+
+
+
+
+                          [**First Name11 (Name Pattern1) 328**] [**Last Name (NamePattern4) 1316**], M.D.  [**MD Number 1317**]
+
+Dictated By:[**Last Name (NamePattern1) **]
+
+MEDQUIST36
+
+D:  [**2756-8-22**]  14:42
+T:  [**2756-8-31**]  09:15
+JOB#:  [**Job Number 4594**]
+Signed electronically by: DR. [**First Name11 (Name Pattern1) 328**] [**Initials (NamePattern4) **] [**Last Name (NamePattern4) **]
+ on: WED [**2756-9-5**] 8:14 AM
+(End of Report)
+
+
+",,
+24091,15791,29920,0,2756-08-15 22:34:00 EST,2756-08-15 22:54:00 EST,118,"N",1,"Nursing/Other","CCU NPN 3-11","
+CCU NPN [**4-2**]
+Pt admitted at 3:30PM, see FHPA/adm note
+
+CV: BP 110-120/55, HR 90-110 NSR/ST, has had a couple short bursts of SVT to 150, resolved spontaneously, pt asymptomatic. R groin with sm eccymosis, soft, no bleeding. Pulses palpable. IV Nitro was at 3gtts/20mcg, DC'd at 2300. Pt not having CP, SOB is her baseline, states breathing OK. CK 1500. PA 40-50/20
+
+Resp: I/E wheezing, given alb/atro neb treatment by RT, to be given tid. Pt has audible crackles, states she has this at home. Sats 99-100%. Chronic cough present. 
+
+GU: had received total 30mg Lasix in cath lab, had 500cc out on arrival, has tapered off to 30cc/hr, discussing giving more Lasix.
+
+GI: pt has colostomy, stool soft brown OB(-).
+
+Neuro: A&Ox3, anxious, asking for Klonopin, given .5mg at 1630 and 2100, sleeping on and off alt with period of feeling very anxious, given 1 mg Ativan IV at 2300, may repeat if needed. Denies CP, increased SOB. Has anxiety problem at home. States she is usually up and down all night. Sleeps with light on. 
+
+Soc: daughter and other family in this eve, # in chart, will be back tomorrow, updated by RN/MD
+
+A/P: 80 yr old with AMI, s/p cath with stent to LAD, PTCA to ramus here for observation overnight, PA datheter, diurese prn. 
+",,
+24091,15791,29920,0,2756-08-16 03:56:00 EST,2756-08-16 04:30:00 EST,-1,"N",1,"Nursing/Other","END OF SHIFT/CLINICAL NURSE UPDATE","
+END OF SHIFT/CLINICAL NURSE UPDATE
+CARE OF PT ASSUMED AT 2300, [**6-14**]
+
+MOI: 80 YR OLD FEMALE ADMITTED INTO UNIT FOR CP WITH ANT. CHANGES, S/P CATH LAB-STENT TO LAD AND PTCA TO RAMUS (SEE ADMISSION HX AND MD H&P).
+
+NEURO: PT ALERT AND ORIENTED. FOLLOWS COMPLEX COMMANDS. PT WITH ANXIETY DISORDER. GIVEN CLONAZEPAM PO AND ATIVAN 1MG IV X2 WITH SOME RELIEF. PT AWAKE MOST OF NIGHT. ""DON'T TURN THE LIGHT OUT..""
+
+PULM: PT PO >90% ON 2LNC. PT WITH INS/EXP. WHEEZING...""NORMAL.."" PER PATIENT. HX OF COPD WITH SMOKING HX.
+
+CV: PT SINUS WITH OCCA. PVC/PAC. SBP STABLE ABOVE 100. HR HIGH 90'S, LOW 100. DILTIAZEM 10MG GIVEN ONCE BY MD ([**Doctor Last Name **]) FOR HR IN THE 100'S (SEE VS SCREEN). 
+
+GI/GU: U/O >30CC/HR, CLEAR YELLOW URINE. RESPONSIVE TO LASIX DOSE GIVEN (SEE I&O). NO BM NOTED. ABD. SOFT AND NON TENDER TO PALP.
+
+LINES: PT WITH RIGHT GROIN PA INPLACE FROM CATH LAB. RIGHT GROIN ART. SHEATH ALEADY DC'ED. 
+
+SKIN/WOUNDS: RIGHT GROIN SITE INTACT. NO BLEEDING/HEMATOMA NOTED. LE'S PULSES PRESENT, W/D. 
+
+FAMILY/PATIENT TEACHING: PT UPDATED ON POC AND CONDITION. VERBALIZES UNDERSTANDING. NO FAMILY CONTACT MADE FROM 23-0500.
+
+PAIN: PT HAS NO C/O PAIN AT THIS TIME. ""NO PAIN.."" DENIES CP.
+
+PLEASE SEE CLINICAL INFORMATION SCREENS. PLEASE ALSO SEE MD NOTES/ORDERS FOR 2300-0700.
+",,
+24091,15791,29920,0,2756-08-16 13:45:00 EST,2756-08-16 14:07:00 EST,-1,"N",1,"Nursing/Other","CCU NPN 7A-3P","
+CCU NPN 7A-3P
+Neuro: Alert and oriented x 3, refused clonazepam this AM.  Sl. tremors of hands noticed, pt. reports that a neurologist told her that she was getting Parkinson's disease.
+
+CV: PA pressures 40-52/20-30.  R groin swan d/c at 1400, BR til 1600.  Integrillin d/c @ 1100. Groin stable, no hematoma, no bruit, no ooze.  5mg lopressor IVP given to see if pt. would have bronchospasm d/t COPD, tol well. To start 12.5 mg lopressor bid this evening.
+
+Pulm: Pt. w/ exp. wheezes at bases and crackles throughout, given 20mg IV lasix x 2 with good effect.  Given atrovent neb x 2 by respiratory. Pt. reports some dyspnea but states that this is her baseline.  Coughing up yellow sputum, sputum culture sent.  Pt. reports that this has been frequent at home.
+
+GI/GU: Pt. has ostomy, soft, formed stool, stoma pink.  Seen by ostomy nurse, changed ostomy and left supplies.  Pt. reports that RN at home changes ostomy 3times/wk. Foley patent, draining clear yellow urine.
+
+Labs: K 3.9, 40mEq KCL IV given.  Mg 1.6, 2gm MgS04.  Hct 28.4 from 29 yesterday.  Recheck K, Mg, and Hct at 1700.
+
+ID: WBC 18.8, afebrile.  Monitor temp, WBC.
+
+Social: Pt. has HHA and RN at home, lives in elderly housing.  Daughter came in, updated by RN and MD, and CM.  Pt. referred to [**First Name5 (NamePattern1) **] [**Last Name (NamePattern1) 4148**] for STR pending PT consult.
+
+Plan: PT consult, diuresis, monitor groin, labs.
+
+",,
+24091,15791,29920,0,2756-08-16 14:08:00 EST,2756-08-16 14:10:00 EST,-1,"N",1,"Nursing/Other","CCU NPN addendum","
+CCU NPN addendum
+Endo-Pt. has history of IDDM, NPH to be restarted tonight, 20u NPH with breakfast and 10u NPH with dinner along with SSRI.
+",,
+24091,15791,29920,0,2756-08-16 14:12:00 EST,2756-08-16 14:13:00 EST,-1,"N",1,"Nursing/Other","CCU NPN addendum","
+CCU NPN addendum
+CV: Pt. with run of PAF this AM, no ectopy since.  No anticoagulation begun at this time, continue to monitor tele.
+",,
+24091,15791,29920,0,2756-08-17 00:03:00 EST,2756-08-17 00:20:00 EST,-1,"N",1,"Nursing/Other","7a-7p nursing note","
+7a-7p nursing note
+
+Pt transfering to [**Hospital Ward Name **] 321. VSS. SR. no c/o CP. Denies SOB. Afebrile. Rt.groin c/d/i no hematoma,bruising around site. Pedal pulses palpable. Tx pt per bed. 
+",,

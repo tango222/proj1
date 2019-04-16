@@ -1,0 +1,716 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+24452,23475,,,2716-04-01 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+ 
+ 
+ 
+Admission Date:  [**2716-4-1**]              Discharge Date:   [**2716-4-6**]
+ 
+Date of Birth:  [**2644-3-17**]             Sex:   M
+ 
+Service: ORTHOPAEDICS
+ 
+Allergies: 
+Sulfa (Sulfonamides)
+ 
+Attending:[**First Name3 (LF) 110**] 
+Chief Complaint:
+5 foot fall through broken railing
+ 
+Major Surgical or Invasive Procedure:
+[**2716-4-2**]: Right gamma nail
+[**2716-4-3**]: placement of halo
+
+ 
+History of Present Illness:
+Mr. [**Known patient lastname **] is a 72 year old male who sustained a 5 foot fall 
+through a broken railing landing on his head and his right side. 
+ There was a report of loss of consciousness at the scene, but 
+the patient was A+Ox3 on arrival at the hospital.  He was 
+complaining of right hip and neck pain.
+ 
+Past Medical History:
+HTN
+?remote stroke without deficit
+s/p laminectomy C3-C5
+ 
+Social History:
+maintenance worker at [**Hospital1 25**], retired. 2 cigarettes/day, no ETOH, 
+no SA.
+ 
+Family History:
+NC
+ 
+Physical Exam:
+98.8 89 165/83 20  100% Ra
+A&O x3
+HEENT: NC/AT small L forehead abrasion, TM clear, EOMI, PERRL
+lungs: CTA b/l
+heart: RRR, Nl S1,S2
+spine: no TTP, no step offs.
+abd: soft, NT, ND
+RLE: TTP R hip
+2+ DP/PT bilaterally
+ 
+Pertinent Results:
+[**2716-4-1**] 06:54PM   HCT-41.4
+[**2716-4-1**] 12:15PM   TYPE-[**Last Name (un) 93**] PH-7.39 COMMENTS-GREEN TOP
+[**2716-4-1**] 12:15PM   GLUCOSE-121* LACTATE-1.9 NA+-139 K+-4.8 
+CL--101 TCO2-28
+[**2716-4-1**] 12:15PM   HGB-16.0 calcHCT-48
+[**2716-4-1**] 12:15PM   freeCa-1.29
+[**2716-4-1**] 12:10PM   CREAT-0.8
+[**2716-4-1**] 12:10PM   AMYLASE-34
+[**2716-4-1**] 12:10PM   LIPASE-19
+[**2716-4-1**] 12:10PM   ASA-NEG ETHANOL-NEG ACETMNPHN-NEG 
+bnzodzpn-NEG barbitrt-NEG tricyclic-NEG
+[**2716-4-1**] 12:10PM   WBC-12.2* RBC-5.04 HGB-16.1 HCT-46.3 MCV-92 
+MCH-32.0 MCHC-34.8 RDW-14.1
+[**2716-4-1**] 12:10PM   PT-11.7 PTT-21.5* INR(PT)-1.0
+[**2716-4-1**] 12:10PM   PLT COUNT-332
+[**2716-4-1**] 12:10PM   FIBRINOGE-352
+
+FIVE VIEWS, RIGHT FEMUR: Again seen is a comminuted right 
+intertrochanteric fracture. The right hip joint is intact. The 
+remainder of the femur is unremarkable. There is a small right 
+knee joint effusion.
+
+NON-CONTRAST CERVICAL SPINE CT: No prior for comparison. There 
+is a fracture at the base of C2 dens suggestive of type II 
+fracture. There is approximately 3 mm of posterior subluxation 
+of the dens relative to C2 body. The remainder of the vertebral 
+bodies of the cervical spine appear intact, though there are 
+laminectomy defects at C3 through C5. Complete loss of disc 
+height at C2-3 through C6-7, with bone-on- bone appearance at 
+these levels. There is very slight retrolisthesis (grade I) of 
+C5 on C6 and grade I anterolisthesis of C6 on C7, with vacuum 
+disc phenomenon at C6-7. Exaggerated lordosis centered at C6. 
+Some prominence of soft tissue is seen anterior to C2, 
+consistent with the appearance of acute fracture. Lung apices 
+show no emphysematous changes. Imaged portions of the mastoid 
+air cells are clear.
+
+   RADIOLOGY   Preliminary Report
+
+C-SPINE SGL 1 VIEW  [**2716-4-3**] 6:08 PM
+
+C-SPINE SGL 1 VIEW; SPINAL FLUORO WITHOUT RADIOLOG
+
+Reason: HALO PLACEMENT
+
+INDICATION: Status post halo placement.
+
+FINDINGS: A single intraoperative operative fluoroscopic spot 
+film image is provided from intraoperative fluoroscopy without 
+radiologist present. The image is centered over the upper 
+cervical spine. No listhesis is identified. For further details, 
+please refer to the official operative report.
+
+DR. [**First Name8 (NamePattern2) 2055**] [**Name (STitle) 2056**]
+DR. [**First Name11 (Name Pattern1) 3496**] [**Initial (NamePattern1) **] [**Last Name (NamePattern4) 3497**]
+
+RADIOLOGY  Final Report
+
+CT PELVIS W/CONTRAST  [**2716-4-1**] 2:52 PM
+
+CT ABDOMEN W/CONTRAST; CT CHEST W/CONTRAST
+
+Reason: eval for injury 
+Contrast: OPTIRAY
+
+UNDERLYING MEDICAL CONDITION:
+72 year old s/p fall 
+REASON FOR THIS EXAMINATION:
+eval for injury 
+CONTRAINDICATIONS for IV CONTRAST: None.
+
+INDICATION: Status post fall, now chest pain.
+
+TECHNIQUE: MD[**MD Number 2395**] used to obtain contiguous axial images from 
+the thoracic inlet to the pubic symphysis after the 
+administration of IV contrast. Coronal and sagittal reformats 
+were also obtained.
+
+CT CHEST WITH IV CONTRAST: There are moderate dependent 
+atelectatic changes. Linear atelectasis is seen at left lung 
+base. There is increased interstitial markings, which, in this 
+case, probably indicate a degree of mild fluid overload. An 
+ill-defined 1-cm nodule is seen in the anterolateral right upper 
+lobe. A small rounded 3-mm pulmonary nodule is seen more 
+inferiorly in the right middle lobe. There are shotty 
+mediastinal lymph[**MD Number 298**] and a calcified lymph node in the right 
+paratracheal region, measuring 13 mm. Other lymph[**MD Number 298**] are not 
+pathologically enlarged. The aorta is normal in caliber, without 
+evidence of dissection. There are coronary vascular 
+calcifications, most notably in the left anterior descending and 
+circumflex arteries. No pericardial effusion is present.
+
+CT ABDOMEN WITH IV CONTRAST: No intra-abdominal free fluid is 
+seen. There is no free air. The liver, spleen, kidneys, 
+pancreas, and left adrenal all appear to be within normal 
+limits. A tiny 7-mm low-density lesion is seen in the adrenal 
+gland, of uncertain significance. The gallbladder is not 
+visualized; the extra-hepatic common bile duct appears 
+prominent, measuring approximately 1-cm in diameter. The aorta 
+is normal in caliber, with mural calcifications. The major 
+arteries are patent. There is some atheromatous plaque in the 
+aorta, but there is no evidence of dissection. In the right 
+lower quadrant, there is a 23 x 18 mm soft tissue lesion with a 
+central calcification. The appendix is not visualized. Please 
+note that this is non- oral contrast scan, and therefore is 
+limited in terms of evaluation of the bowel. The sigmoid 
+contains diverticulosis, without diverticulitis. The bladder 
+contains a Foley with non-dependent air. Distal ureters appear 
+unremarkable. Prostate appears slightly enlarged. No free air or 
+free fluid is seen in the pelvis.
+
+There is a chronic-appearing wedge configuration of T7 and T8, 
+without evidence of retropulsion of fragments into the spinal 
+canal. There are degenerative changes throughout, with loss of 
+disc height at several levels including L3-4 and L4-5. L5-S1 
+shows mild grade 1 anterolisthesis of L5. There is a comminuted 
+fracture through the right proximal femur.
+
+Multiplanar reformats were essential in delineating the findings 
+above.
+
+IMPRESSION:
+1. No evidence of aortic dissection. Coronary vascular 
+calcifications noted.
+
+2. Proximal right femoral fracture.
+
+3. 2.3 cm soft tissue mass in right lower quadrant with single 
+large calcification which may represent appendicolith. Followup 
+study in 3 months recommended to ensure stability.
+
+4. Mild cardiac failure.
+
+5. 3-mm nodule and ill-defined 1-cm nodule in right upper lobe. 
+In the absence of known primary malignancy, followup CT scan can 
+be obtained in one year to ensure stability.
+
+6. Prominence of biliary system probably related to absence of 
+gallbladder.
+
+7. Calcified mediastinal lymph node which may represent prior 
+tuberculosis.
+
+8. Emphysematous changes of the lungs.
+
+Preliminary findings were discussed with Dr. [**Last Name (STitle) 5399**] by telephone 
+at 4 o'clock p.m., [**2716-4-1**].
+
+The study and the report were reviewed by the staff radiologist.
+DR. [**First Name11 (Name Pattern1) 227**] [**Initial (NamePattern1) **] [**Last Name (NamePattern4) **]
+DR. [**First Name (STitle) 4839**] [**Initials (NamePattern4) **] [**Last Name (NamePattern4) **]
+Approved: SAT [**2716-4-1**] 10:12 PM
+
+   RADIOLOGY  Final Report
+
+FEMUR (AP & LAT) RIGHT  [**2716-4-1**] 12:54 PM
+
+FEMUR (AP & LAT) RIGHT
+
+Reason: R/O FX
+
+INDICATION: Rule out fracture seen on trauma series.
+
+FIVE VIEWS, RIGHT FEMUR: Again seen is a comminuted right 
+intertrochanteric fracture. The right hip joint is intact. The 
+remainder of the femur is unremarkable. There is a small right 
+knee joint effusion.
+
+IMPRESSION:
+
+1. Comminuted intertrochanteric fracture of the right femur.
+
+2. Small right knee joint effusion. 
+The study and the report were reviewed by the staff radiologist.
+DR. [**First Name (STitle) **] [**Doctor Last Name 5400**]
+DR. [**First Name11 (Name Pattern1) **] [**Initial (NamePattern1) **] [**Last Name (NamePattern4) 2828**]
+Approved: SUN [**2716-4-2**] 8:12 AM
+
+   RADIOLOGY  Final Report
+
+CT C-SPINE W/O CONTRAST  [**2716-4-1**] 12:24 PM
+
+CT C-SPINE W/O CONTRAST
+
+Reason: r/o fx 
+
+UNDERLYING MEDICAL CONDITION:
+70 year old man s/p fall, LOC 
+REASON FOR THIS EXAMINATION:
+r/o fx 
+CONTRAINDICATIONS for IV CONTRAST: None.
+
+INDICATION: Trauma.
+
+NON-CONTRAST CERVICAL SPINE CT: No prior for comparison. There 
+is a fracture at the base of C2 dens suggestive of type II 
+fracture. There is approximately 3 mm of posterior subluxation 
+of the dens relative to C2 body. The remainder of the vertebral 
+bodies of the cervical spine appear intact, though there are 
+laminectomy defects at C3 through C5. Complete loss of disc 
+height at C2-3 through C6-7, with bone-on- bone appearance at 
+these levels. There is very slight retrolisthesis (grade I) of 
+C5 on C6 and grade I anterolisthesis of C6 on C7, with vacuum 
+disc phenomenon at C6-7. Exaggerated lordosis centered at C6. 
+Some prominence of soft tissue is seen anterior to C2, 
+consistent with the appearance of acute fracture. Lung apices 
+show no emphysematous changes. Imaged portions of the mastoid 
+air cells are clear.
+
+IMPRESSION:
+
+1. Type II fracture of C2.
+
+2. Laminectomy defects at C3 through C4 with exaggerated 
+kyphosis at C6 and marked degenerative changes at all levels.
+
+Findings discussed with Dr [**First Name (STitle) **] in person at the time of 
+interpretation.
+
+The study and the report were reviewed by the staff radiologist.
+DR. [**First Name11 (Name Pattern1) 227**] [**Initial (NamePattern1) **] [**Last Name (NamePattern4) **]
+DR. [**First Name (STitle) 1843**] [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 1844**]
+Approved: SAT [**2716-4-1**] 6:45 PM
+
+   RADIOLOGY  Final Report
+
+CT HEAD W/O CONTRAST  [**2716-4-1**] 12:23 PM
+
+CT HEAD W/O CONTRAST
+
+Reason: r/o bleed 
+
+UNDERLYING MEDICAL CONDITION:
+70 year old man s/p fall, LOC 
+REASON FOR THIS EXAMINATION:
+r/o bleed 
+CONTRAINDICATIONS for IV CONTRAST: None.
+
+INDICATION: Status post fall and loss of consciousness.
+
+NON-CONTRAST HEAD CT: No priors for comparison. No 
+hydrocephalus, shift of normally midline structures, intra- or 
+extra-axial hemorrhage, or acute major vascular territorial 
+infarct is identified. The imaged mastoid air cells, sphenoid 
+sinuses, and right ethmoid air cells are clear. A nondependent 
+rounded soft tissue focus in the left maxillary sinus and in the 
+right maxillary sinus are probably retention cysts versus 
+polyps. The left ethmoid air cells appear somewhat opacified. 
+There is a prior fracture of the C2 body as identified on CT 
+cervical spine of the same day.
+
+IMPRESSION: No acute intracranial hemorrhage or mass effect. 
+Findings discussed with the trauma team at time of image 
+interpretation.
+
+The study and the report were reviewed by the staff radiologist.
+DR. [**First Name11 (Name Pattern1) 227**] [**Initial (NamePattern1) **] [**Last Name (NamePattern4) **]
+DR. [**First Name (STitle) 1843**] [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 1844**]
+Approved: SAT [**2716-4-1**] 3:04 PM
+
+ 
+
+ 
+Brief Hospital Course:
+The patient was evaluated in the emergency room and found to 
+have a right intertrochanteric hip fracture and a C2 dens type 
+fracture.  He was admitted to the trauma service.  The patient 
+was seen by medicine preoperatively for clearance.  He was taken 
+to the operating room on [**2716-4-2**] for a gamma nail.  See 
+operative note for details.  He tolerated the procedure well.  
+He was extubated and brought to the recovery room in stable 
+condition.  Once stable in the PACU he was transferred to the 
+floor on the orthopedic service.  On the floor he did well.  A 
+HALO was placed by the orthopedic spine service on [**2716-4-3**] for 
+management of his C2 fracture.  He tolerated this well.  
+
+He was evaluated by physical therapy and progressed well.  His 
+pain was well controlled.  His labs and vital signs remained 
+stable.  His hospital course was otherwise without incident.  He 
+is being discharged today in stable condition.
+ 
+Medications on Admission:
+folic acid
+lisinopril
+tylenol
+ 
+Discharge Medications:
+1. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2 
+times a day).  
+2. Methotrexate 2.5 mg Tablet Sig: Three (3) Tablet PO 1X/WEEK 
+([**Doctor First Name **]).  
+3. Folic Acid 1 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).  
+
+4. Verapamil 120 mg Tablet Sustained Release Sig: One (1) Tablet 
+Sustained Release PO Q24H (every 24 hours).  
+5. Metoprolol Tartrate 25 mg Tablet Sig: 0.5 Tablet PO BID (2 
+times a day): please hold for SBP <100, HR<60.  
+6. Enoxaparin 30 mg/0.3 mL Syringe Sig: One (1) 30 mg syringe 
+Subcutaneous Q12H (every 12 hours) for 4 weeks.  
+7. Senna 8.6 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).  
+8. Bisacodyl 5 mg Tablet, Delayed Release (E.C.) Sig: Two (2) 
+Tablet, Delayed Release (E.C.) PO BID (2 times a day) as needed 
+for constipation.  
+9. Oxycodone-Acetaminophen 5-325 mg Tablet Sig: 1-2 Tablets PO 
+Q4-6H (every 4 to 6 hours) as needed for pain.  
+10. Camphor-Menthol 0.5-0.5 % Lotion Sig: One (1) Appl Topical  
+QID (4 times a day) as needed.  
+11. Pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One 
+(1) Tablet, Delayed Release (E.C.) PO once a day: please take 
+while on lovenox.  
+12. Sodium Chloride 0.65 % Aerosol, Spray Sig: [**12-6**] Sprays Nasal 
+QID (4 times a day) as needed.  
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+[**Hospital 538**] Medical Center - [**Hospital1 539**]
+ 
+Discharge Diagnosis:
+C2 dens fracture
+right hip fracture
+
+ 
+Discharge Condition:
+Stable
+
+ 
+Discharge Instructions:
+Please keep incision clean and dry.  If [**Doctor First Name **] notice any increased 
+swelling, redness, drainage, temperature >101.4, or shortness of 
+breathe please [**Name8 (MD) **] MD or report to the emergency room.  Dry 
+sterile dressing daily as needed.
+
+Pincare daily to halo.  Watch for redness or drainage.
+
+Please take all medications as prescribed.  Please follow up as 
+below.  Call with any questions.
+Physical Therapy:
+WBAT
+continue halo
+Treatments Frequency:
+Dry sterile dressing daily as needed to right hip
+pincare daily to halo pinsites
+ 
+Followup Instructions:
+Please follow up with Dr. [**Last Name (STitle) **] at the [**Hospital1 25**] orthopedic 
+clinic in 2 weeks.  [**Doctor First Name 27**] should also make an appointment with Dr. 
+[**Last Name (STitle) 540**] in the spine clinic at this time.  Call [**Telephone/Fax (1) **] for 
+both appointments.
+
+ 
+                             [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern1) 117**] MD, [**MD Number 118**]
+ 
+Completed by: [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) 5401**] MD [**MD Number 5402**] [**2716-4-6**] @ 1013
+Signed electronically by: DR. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) **]
+ on: MON [**2716-4-10**] 10:14 AM
+(End of Report)
+
+
+",,
+24452,23475,,,2716-04-01 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2716-4-1**] 2:52 PM
+     CT ABDOMEN W/CONTRAST; CT CHEST W/CONTRAST                      Clip # [**Clip Number (Radiology) 2650**]
+     CT PELVIS W/CONTRAST; CT 150CC NONIONIC CONTRAST
+     Reason: eval for injury                                             
+      Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      72 year old s/p fall                                                            
+     REASON FOR THIS EXAMINATION:
+      eval for injury                                                                 
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+     WET READ: ACKe SAT [**2716-4-1**] 3:55 PM
+      no aortic dissection
+      right proximal femoral fracture
+      diverticulosis
+     WET READ AUDIT #1 ACKe SAT [**2716-4-1**] 3:55 PM
+      no aortic dissection
+      right proximal femoral fracture
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Status post fall, now chest pain.
+     
+     TECHNIQUE:  MDCT was used to obtain contiguous axial images from the thoracic
+     inlet to the pubic symphysis after the administration of IV contrast.  Coronal
+     and sagittal reformats were also obtained.
+     
+     CT CHEST WITH IV CONTRAST:  There are moderate dependent atelectatic changes.
+     Linear atelectasis is seen at left lung base.  There is increased interstitial
+     markings, which, in this case, probably indicate a degree of mild fluid
+     overload.  An ill-defined 1-cm nodule is seen in the anterolateral right upper
+     lobe.  A small rounded 3-mm pulmonary nodule is seen more inferiorly in the
+     right middle lobe.  There are shotty mediastinal lymph nodes and a calcified
+     lymph node in the right paratracheal region, measuring 13 mm.  Other lymph
+     nodes are not pathologically enlarged.  The aorta is normal in caliber,
+     without evidence of dissection.  There are coronary vascular calcifications,
+     most notably in the left anterior descending and circumflex arteries.  No
+     pericardial effusion is present.
+     
+     CT ABDOMEN WITH IV CONTRAST:  No intra-abdominal free fluid is seen.  There is
+     no free air.  The liver, spleen, kidneys, pancreas, and left adrenal all
+     appear to be within normal limits.  A tiny 7-mm low-density lesion is seen in
+     the adrenal gland, of uncertain significance.  The gallbladder is not
+     visualized; the extra-hepatic common bile duct appears prominent, measuring
+     approximately 1-cm in diameter.  The aorta is normal in caliber, with mural
+     calcifications.  The major arteries are patent.  There is some atheromatous
+     plaque in the aorta, but there is no evidence of dissection.  In the right
+     lower quadrant, there is a 23 x 18 mm soft tissue lesion with a central
+     calcification.  The appendix is not visualized.  Please note that this is non-
+     oral contrast scan, and therefore is limited in terms of evaluation of the
+     bowel.  The sigmoid contains diverticulosis, without diverticulitis.  The
+     bladder contains a Foley with non-dependent air.  Distal ureters appear
+     unremarkable.  Prostate appears slightly enlarged.  No free air or free fluid
+                                                                 (Over)
+
+     DATE: [**2716-4-1**] 2:52 PM
+     CT ABDOMEN W/CONTRAST; CT CHEST W/CONTRAST                      Clip # [**Clip Number (Radiology) 2650**]
+     CT PELVIS W/CONTRAST; CT 150CC NONIONIC CONTRAST
+     Reason: eval for injury                                             
+      Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     is seen in the pelvis.
+     
+     There is a chronic-appearing wedge configuration of T7 and T8, without
+     evidence of retropulsion of fragments into the spinal canal.  There are
+     degenerative changes throughout, with loss of disc height at several levels
+     including L3-4 and L4-5.  L5-S1 shows mild grade 1 anterolisthesis of L5.
+     There is a comminuted fracture through the right proximal femur.
+     
+     Multiplanar reformats were essential in delineating the findings above.
+     
+     IMPRESSION:
+     1.  No evidence of aortic dissection.  Coronary vascular calcifications noted.
+     
+     2.  Proximal right femoral fracture.
+     
+     3.  2.3 cm soft tissue mass in right lower quadrant with single large
+     calcification which may represent appendicolith.  Followup study in 3 months
+     recommended to ensure stability.
+     
+     4.  Mild cardiac failure.
+     
+     5.  3-mm nodule and ill-defined 1-cm nodule in right upper lobe. In the
+     absence of known primary malignancy, followup CT scan can be obtained in one
+     year to ensure stability.
+     
+     6.  Prominence of biliary system probably related to absence of gallbladder.
+     
+     7.  Calcified mediastinal lymph node which may represent prior tuberculosis.
+     
+     8.  Emphysematous changes of the lungs.
+     
+     Preliminary findings were discussed with Dr. [**Last Name (STitle) 2651**] by telephone at 4 o'clock
+     p.m., [**2716-4-1**].
+     
+
+",,
+24452,23475,,,2716-04-01 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2716-4-1**] 2:52 PM
+     CT ABDOMEN W/CONTRAST; CT CHEST W/CONTRAST                      Clip # [**Clip Number (Radiology) 2650**]
+     CT PELVIS W/CONTRAST; CT 150CC NONIONIC CONTRAST
+     Reason: eval for injury                                             
+      Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      72 year old s/p fall                                                            
+     REASON FOR THIS EXAMINATION:
+      eval for injury                                                                 
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+     WET READ: ACKe SAT [**2716-4-1**] 3:55 PM
+      no aortic dissection
+      right proximal femoral fracture
+      diverticulosis
+     WET READ AUDIT #1 ACKe SAT [**2716-4-1**] 3:55 PM
+      no aortic dissection
+      right proximal femoral fracture
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Status post fall, now chest pain.
+     
+     TECHNIQUE:  MDCT was used to obtain contiguous axial images from the thoracic
+     inlet to the pubic symphysis after the administration of IV contrast.  Coronal
+     and sagittal reformats were also obtained.
+     
+     CT CHEST WITH IV CONTRAST:  There are moderate dependent atelectatic changes.
+     Linear atelectasis is seen at left lung base.  There is increased interstitial
+     markings, which, in this case, probably indicate a degree of mild fluid
+     overload.  An ill-defined 1-cm nodule is seen in the anterolateral right upper
+     lobe.  A small rounded 3-mm pulmonary nodule is seen more inferiorly in the
+     right middle lobe.  There are shotty mediastinal lymph nodes and a calcified
+     lymph node in the right paratracheal region, measuring 13 mm.  Other lymph
+     nodes are not pathologically enlarged.  The aorta is normal in caliber,
+     without evidence of dissection.  There are coronary vascular calcifications,
+     most notably in the left anterior descending and circumflex arteries.  No
+     pericardial effusion is present.
+     
+     CT ABDOMEN WITH IV CONTRAST:  No intra-abdominal free fluid is seen.  There is
+     no free air.  The liver, spleen, kidneys, pancreas, and left adrenal all
+     appear to be within normal limits.  A tiny 7-mm low-density lesion is seen in
+     the adrenal gland, of uncertain significance.  The gallbladder is not
+     visualized; the extra-hepatic common bile duct appears prominent, measuring
+     approximately 1-cm in diameter.  The aorta is normal in caliber, with mural
+     calcifications.  The major arteries are patent.  There is some atheromatous
+     plaque in the aorta, but there is no evidence of dissection.  In the right
+     lower quadrant, there is a 23 x 18 mm soft tissue lesion with a central
+     calcification.  The appendix is not visualized.  Please note that this is non-
+     oral contrast scan, and therefore is limited in terms of evaluation of the
+     bowel.  The sigmoid contains diverticulosis, without diverticulitis.  The
+     bladder contains a Foley with non-dependent air.  Distal ureters appear
+     unremarkable.  Prostate appears slightly enlarged.  No free air or free fluid
+                                                                 (Over)
+
+     DATE: [**2716-4-1**] 2:52 PM
+     CT ABDOMEN W/CONTRAST; CT CHEST W/CONTRAST                      Clip # [**Clip Number (Radiology) 2650**]
+     CT PELVIS W/CONTRAST; CT 150CC NONIONIC CONTRAST
+     Reason: eval for injury                                             
+      Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     is seen in the pelvis.
+     
+     There is a chronic-appearing wedge configuration of T7 and T8, without
+     evidence of retropulsion of fragments into the spinal canal.  There are
+     degenerative changes throughout, with loss of disc height at several levels
+     including L3-4 and L4-5.  L5-S1 shows mild grade 1 anterolisthesis of L5.
+     There is a comminuted fracture through the right proximal femur.
+     
+     Multiplanar reformats were essential in delineating the findings above.
+     
+     IMPRESSION:
+     1.  No evidence of aortic dissection.  Coronary vascular calcifications noted.
+     
+     2.  Proximal right femoral fracture.
+     
+     3.  2.3 cm soft tissue mass in right lower quadrant with single large
+     calcification which may represent appendicolith.  Followup study in 3 months
+     recommended to ensure stability.
+     
+     4.  Mild cardiac failure.
+     
+     5.  3-mm nodule and ill-defined 1-cm nodule in right upper lobe. In the
+     absence of known primary malignancy, followup CT scan can be obtained in one
+     year to ensure stability.
+     
+     6.  Prominence of biliary system probably related to absence of gallbladder.
+     
+     7.  Calcified mediastinal lymph node which may represent prior tuberculosis.
+     
+     8.  Emphysematous changes of the lungs.
+     
+     Preliminary findings were discussed with Dr. [**Last Name (STitle) 2651**] by telephone at 4 o'clock
+     p.m., [**2716-4-1**].
+     
+
+",,
+24452,23475,30352,0,2716-04-01 19:29:00 EST,2716-04-01 19:47:00 EST,189,"N",74,"Nursing/Other","t/sicu nsg admit note","
+t/sicu nsg admit note
+1800>>2000
+
+72 yo male admitted s/p 5 ft fall from porch w brief(10 second LOC). INJURIES: C2 dense fx>>c-collar; R intertrochanter femur fx>>pre-op for [**4-2**] repair. GCS 15. NO other injuries.
+
+A&O x3; no c/o numbness or tingling in extemities. Normal strength & movement in all extemities but RLE which is limited d/t pain related injury. +CSM rle. Pt states [**4-12**] dull/aching pain that comes & goes in mid back of neck and right hip/right area. Pt refuses pain med at this time and understands he has order for pain med as needed. Pt is positioned supine in Rev [**Last Name (Titles) **]  w/c-collar in place.
+VSS on admission. Adequate u/o via foley. IVF started w/LR @ 85cc/hr. Pt is NPO x for meds and is pre-op for [**4-2**].
+
+Breath sounds are clear/diminished at bases. rr ~ 18; NAD. NC at 2L w/sats ~ 95%.
+
+Skin- abraision on forehead as noted in careview assessment. Eyes and mouth irrigated for retained dirt particles w/resolution. Pt noted to have 2 chipped teeth on right upper side. 2 spaces on rigth noted(1up, 1down) pt states this is pre-existing issue.
+..warm dry skin with palpable pulses throughout. Back is intact w/o signs of pressure. Routine MRSA swabbs obtained on admissin per current procedure.
+
+see FHA and detailed med consult note for PMH/PSH/Meds. Pt is allergic to SULFA- bracelet is in place.
+
+Social- family members visiting this evening. Pt and fmily aware of plans for OR in am.
+
+** awaiting formal clearing of TLS. Trauma resident adm note(ED) states no stepoffs/no tenderness. CT of chest and abd done but not apprived status yet. Pt not ordered for logroll but status is currently unclear. Pt currently on logroll stsatus with bed in RT position.
+
+Assess-  72 yo male s/p fall w/c2 fx and R femur fx w/o neuro deficits
+         stable vs and rsp status
+         [**4-12**] pain which pt does not wish to be medicated for at his time.
+         medical consult clears pt for surgical procedure.
+         >>anesthesia consent has been obtained; surgical consent has been obtained.
+
+PLAN- per POC. Provide routine meds per ICU orders.
+               npo x meds.
+               pain assessmnet/mngmnt per pt request.
+               prophylactic pulmonary measures with IS/CDB
+   
+",,
+24452,23475,30352,0,2716-04-02 05:01:00 EST,2716-04-02 05:08:00 EST,7797,"N",74,"Nursing/Other","T/SICU Nursing 19-07","
+T/SICU Nursing 19-07
+See CareVue for specific data.
+
+Neuro: A&Ox3, pleasant and cooperative. Requested sleeping pill, given ambien as ordered with good effect. MAE purposefully with normal strength except RLE (femur fracture), which moves on the bed. Pupils equal, round, reactive to light. Denies any numbness or tingling in extremities. TLS cleared as ordered, c-collar in place.
+
+Pain: Complaining of 6/10 (max) neck pain and lesser pain in RLE. Now on Morphine PCA with good effect - still rates pain at 5/10 however states he is comfortable and knows he can use more pain medication if needed.
+
+Resp: SPO2 high 90's on 2L NC, desats to low 90's on room air. Lung sounds clear, equal bilaterally, denies dyspnea.
+
+CV: Sinus rhythm without ectopy. NBP has been 120's-130's/50's-60's. Palpable pulses in all extremities. Subjectively, right leg swelling does not appear to be increasing in size. Hct 38.8 from 46.3 over 12 hrs. IVF infusing as ordered.
+
+GI: Abdomen obese, soft, non-tender. Positive bowel sounds. NPO. No BM.
+
+GU: Foley to gravity, clear amber/yellow urine in adequate amounts.
+
+Endo: RISS with coverage as ordered.
+
+Lytes: Given 20meq of potassium for 3.8 - pt reports history of hyperkalemia.
+
+Skin: Intact, abrasion on forehead with old dried blood, open to air.
+
+ID: Afebrile. WBC 8.5
+
+Social: Children visited in evening, supportive and involved.
+
+Plan:
+Maintain safety.
+Pain management.
+q2 hr neuro checks
+To OR today.
+Notify team of acute changes.
+",,
+24452,23475,30352,0,2716-04-02 19:39:00 EST,2716-04-02 19:45:00 EST,7797,"N",74,"Nursing/Other","T/SICU Nursing 19-21","
+T/SICU Nursing 19-21
+See CareVue for specific data.
+
+No significant events. Plan to transfer to floor shortly.
+
+Neuro: A&Ox3, pleasant and cooperative. MAE purposefully with normal strength except injured right leg, which he can lift & hold. Denies any numbness or tingling. Cervical collar in place.
+
+Pain: Well controlled with PCA, using effectively and appropriately. Also received percocet on prior shift.
+
+Resp: SPO2 95-96% on 2LNC, using IS frequently to >1500mL. Lung sounds clear, equal bilaterally, denies dyspnea except feels congested.
+
+CV: All vital signs stable. Sinus rhythm with rate in 60's. Palpable pulses in all extremities, RLE is very slightly cooler than LLE.
+
+GI: Abd soft, non-tender, non-distended. Bowel sounds present. Tolerating clear liquid diet. To be NPO after midnight for return to OR in am.
+
+GU: Foley to gravity, amber clear urine in adequate amounts.
+
+Endo: RISS with coverage as ordered.
+
+Lytes: None repleted this shift.
+
+Social: Multiple family visitors earlier in day.
+
+Plan:
+Maintain safety.
+Pain management.
+Notify team of acute changes.
+NPO after midnight.
+Transfer to ortho/trauma floor for continued management.
+",,

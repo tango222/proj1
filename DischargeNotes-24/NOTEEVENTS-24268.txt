@@ -1,0 +1,661 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+24268,1898,,,2654-01-16 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+
+Admission Date:  [**2654-1-16**]     Discharge Date:  [**2654-2-6**]
+
+Date of Birth:   [**2565-5-24**]     Sex:  M
+
+Service:  TRAUMA
+
+ADDENDUM:
+
+The patient remained in the hospital and was unable to
+improve from a cardiopulmonary status.  He had continued
+rapid ventricular response to his atrial fibrillation as well
+as persistent tachypnea and respiratory distress.  The
+patient was managed on the floor and ultimately transferred
+to the Intensive Care Unit for several days during his final
+days here at the hospital.  During that time, he had his rate
+well controlled with beta blockade.  He was ruled out for
+myocardial infarction.  He was diuresed p.r.n. with Lasix,
+however, his respiratory status continued to worsen and he
+had persistent respiratory failure.
+
+The family had already decided under the guidance of the
+daughter who is the primary caregiver for the patient as well
+as medical care proxy that he be made DNR/DNI.  This was
+decided with Dr. [**Last Name (STitle) **] some time over the days of
+[**2654-2-2**], and [**2654-2-3**].  After the patient was made DNR/DNI,
+he persisted and stayed in the Intensive Care Unit for
+continued pulmonary toiletting and pulmonary care.  His
+mental status really never improved. Ultimately, he became
+progressively more tachypneic.
+
+It was noted prior to his admission to the Intensive Care
+Unit and prior to his final days of admission, he did have a
+complication with his percutaneous enteral gastrostomy site.
+There was gross purulent exudate and he had a local
+percutaneous endoscopic gastrostomy site infection.  This was
+debrided and drained adequately.  The percutaneous endoscopic
+gastrostomy had actually been removed and he had a
+gastrocutaneous fistula that subsequently closed on its own.
+He never had any evidence of intra-abdominal sepsis.  He had
+TPN for his nutritional support in his final days.  Really
+the demise of this patient was ultimately secondary to
+respiratory failure thought to be secondary to failure to
+thrive, malnutrition secondary to poor p.o. intake and
+accessibility of his gastrointestinal tract, status post
+failed percutaneous endoscopic gastrostomy tube as well as
+his poor mental status secondary to his head trauma from his
+fall.
+
+He had inability to protect his airway and given his advanced
+age and relatively poor respiratory status at baseline and
+sedentary nature and inability to participate in aggressive
+pulmonary toiletting, it ultimately caught up to him and
+given his DNR/DNI status, we were unable to perform any
+heroic measures to sustain him.  Ultimately, the patient's
+family decided to make him comfort measures only.  Under
+discussion that was held with Dr. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) **], the covering
+trauma attending, the patient was made comfort measures only
+in the afternoon of [**2654-2-6**].
+
+Shortly thereafter, by 7:45 p.m. on the evening of [**2654-2-6**],
+the patient was declared dead by Dr. [**First Name8 (NamePattern2) 597**] [**Last Name (NamePattern1) 5016**].  The
+patient's family was in attendance and were well aware and
+actually handled this ordeal quite well.  Dr. [**Last Name (STitle) **], the
+covering trauma attending, was thereafter notified.
+Appropriate paperwork including death certificate and
+notification of the medical examiner was made.  Ultimately,
+the patient's postmortem was declined by the medical examiner
+and the remainder of his disposition will be held to the
+funeral director and family to coordinate.
+
+The patient's underlying cause of death is secondary to
+respiratory failure thought to be secondary to severe
+atelectasis and inability to clear secretions due to
+oropharyngeal dysfunction likely secondary to advanced age
+likely prior cerebrovascular accidents in the setting of a
+new head trauma. Other diagnoses include coronary artery
+disease, atrial fibrillation with rapid ventricular response,
+likely chronic obstructive pulmonary disease and failure to
+thrive.
+
+
+
+
+
+
+                          [**First Name11 (Name Pattern1) 328**] [**Last Name (NamePattern1) 1708**], M.D.  [**MD Number 1709**]
+
+Dictated By:[**Last Name (NamePattern4) 5017**]
+
+MEDQUIST36
+
+D:  [**2654-2-6**]  20:17
+T:  [**2654-2-6**]  20:39
+JOB#:  [**Job Number 5018**]
+Signed electronically by: DR. [**First Name (STitle) 328**] [**Doctor Last Name **]
+ on: FRI [**2654-2-10**] 3:26 PM
+(End of Report)
+
+
+",,
+24268,1898,,,2654-01-16 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2654-1-16**] 11:42 AM
+     CT C-SPINE W/O CONTRAST; CT RECONSTRUCTION                      Clip # [**Clip Number (Radiology) 1137**]
+     Reason: FALL
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      88 year old man with 
+     REASON FOR THIS EXAMINATION:
+      FALL
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT  (REVISED)
+     CT OF CERVICAL SPINE:
+     
+     HISTORY:  Recent fall.  Neck pain.
+     
+     TECHNIQUE:  Axial noncontrast imaging of the entire cervical spine was
+     obtained with multiplanar reconstructions.
+     
+     FINDINGS:   There is no obvious fracture or abnormal alignment of the
+     component vertebrae.  However, there is very extensive ossification of the
+     posterior longitudinal ligament which likely causes moderate spinal cord
+     compression, extending from C2 through C4.  There are multiple large anterior
+     bridging osteophyes within the cervical spine as well as a fairly solid
+     anterior longitudinal ligament fusion at the cervicothoracic junction.   The
+     caudal extent of that fusion cannot be assessed on these studies.  Extensive
+     uncovertebral spurs cause multilevel neural foraminal encroachment.
+     
+     Finally, the images raise the question of a 2 cm mass within the right lobe of
+     the thyroid gland.  Further evaluation of this finding with sonography would
+     be helpful.
+     
+     CONCLUSION:  No sign of a fracture.  Extensive ossificaiton of the posterior
+     longitudinal ligament,  and other degenerative findings as noted above. Right
+     thyroid mass.
+     
+     
+
+",,
+24268,1898,,,2654-01-16 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2654-1-16**] 11:42 AM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 1138**]
+     CT 150CC NONIONIC CONTRAST
+     Reason: FALL
+     Field of view: 48 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      88 year old man with 
+     REASON FOR THIS EXAMINATION:
+      FALL
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+     WET READ: MES MON [**2654-1-16**] 12:46 PM
+      no acute abnormalities
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:   Fall.
+     
+     TECHNIQUE:  Contiguous axial images were obtained from the lung bases through
+     the femoral heads after administration of 150 cc of Optiray, as per the trauma
+     protocol.
+     
+     CT OF THE ABDOMEN WITH CONTRAST:  There is right-sided pleural effusion and
+     associated right basilar atelectasis.  There is low-attenuation abutting the
+     pleura on the right which may represent a lipoma or extrapleural fat.
+     
+     There are several tiny, low-attenuation foci in the liver which are too small
+     to fully characterize but may represent simple hepatic cysts.  The gallbladder
+     is not visualized.  The spleen has an unremarkable appearance.  The pancreas
+     and right adrenal appear normal.  There is a 2.2 x 1.5 cm lesion arising from
+     the left adrenal which appears to contain fat and may represent a myelolipoma.
+     Both kidneys are atrophic. There are multiple low-attenuation lesions of both
+     kidneys which likely represent simple renal cysts.  There is a high-
+     attenuation mass lesion arising from the mid-portion of the right kidney which
+     has a more concerning appearance and neoplasm cannot be excluded.  No free air
+     or free fluid is identified in the abdomen.  There is no significant
+     mesenteric or retroperitoneal lymph adenopathy.  The aorta is very ectatic.
+     
+     CT OF THE PELVIS WITH CONTRAST:  The visualized loops of large and small bowel
+     are unremarkable.  A Foley catheter is in place.  There is no free air or free
+     fluid in the pelvis.  There is ectasia of the iliac arteries.
+     
+     Bone windows demonstrate degenerative changes of the spine.  There is
+     calcification of the L2-3 disc.
+     
+     IMPRESSION:
+     1.  No evidence of acute intra-abdominal traumatic injury.
+     2.  A 2.2 x 1.5 cm, fat containing structure arising from the left adrenal
+     gland which likely represents a myelolipoma.
+     3.  Multiple simple cysts in both kidneys which are atrophic.
+     4.  A 2.1 x 1.5 cm enhancing lesion arising from the right kidney which is
+     worrisome for renal cell carcinoma. MRI is recommended for further
+     characterization.
+                                                                 (Over)
+
+     DATE: [**2654-1-16**] 11:42 AM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 1138**]
+     CT 150CC NONIONIC CONTRAST
+     Reason: FALL
+     Field of view: 48 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     5.  Multiple tiny cysts in the liver which are too small to fully
+     characterize.
+     6.  Right pleural effusion with associated atelectasis.
+     
+
+",,
+24268,1898,,,2654-01-16 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2654-1-16**] 11:42 AM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 1138**]
+     CT 150CC NONIONIC CONTRAST
+     Reason: FALL
+     Field of view: 48 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      88 year old man with 
+     REASON FOR THIS EXAMINATION:
+      FALL
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+     WET READ: MES MON [**2654-1-16**] 12:46 PM
+      no acute abnormalities
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:   Fall.
+     
+     TECHNIQUE:  Contiguous axial images were obtained from the lung bases through
+     the femoral heads after administration of 150 cc of Optiray, as per the trauma
+     protocol.
+     
+     CT OF THE ABDOMEN WITH CONTRAST:  There is right-sided pleural effusion and
+     associated right basilar atelectasis.  There is low-attenuation abutting the
+     pleura on the right which may represent a lipoma or extrapleural fat.
+     
+     There are several tiny, low-attenuation foci in the liver which are too small
+     to fully characterize but may represent simple hepatic cysts.  The gallbladder
+     is not visualized.  The spleen has an unremarkable appearance.  The pancreas
+     and right adrenal appear normal.  There is a 2.2 x 1.5 cm lesion arising from
+     the left adrenal which appears to contain fat and may represent a myelolipoma.
+     Both kidneys are atrophic. There are multiple low-attenuation lesions of both
+     kidneys which likely represent simple renal cysts.  There is a high-
+     attenuation mass lesion arising from the mid-portion of the right kidney which
+     has a more concerning appearance and neoplasm cannot be excluded.  No free air
+     or free fluid is identified in the abdomen.  There is no significant
+     mesenteric or retroperitoneal lymph adenopathy.  The aorta is very ectatic.
+     
+     CT OF THE PELVIS WITH CONTRAST:  The visualized loops of large and small bowel
+     are unremarkable.  A Foley catheter is in place.  There is no free air or free
+     fluid in the pelvis.  There is ectasia of the iliac arteries.
+     
+     Bone windows demonstrate degenerative changes of the spine.  There is
+     calcification of the L2-3 disc.
+     
+     IMPRESSION:
+     1.  No evidence of acute intra-abdominal traumatic injury.
+     2.  A 2.2 x 1.5 cm, fat containing structure arising from the left adrenal
+     gland which likely represents a myelolipoma.
+     3.  Multiple simple cysts in both kidneys which are atrophic.
+     4.  A 2.1 x 1.5 cm enhancing lesion arising from the right kidney which is
+     worrisome for renal cell carcinoma. MRI is recommended for further
+     characterization.
+                                                                 (Over)
+
+     DATE: [**2654-1-16**] 11:42 AM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 1138**]
+     CT 150CC NONIONIC CONTRAST
+     Reason: FALL
+     Field of view: 48 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     5.  Multiple tiny cysts in the liver which are too small to fully
+     characterize.
+     6.  Right pleural effusion with associated atelectasis.
+     
+
+",,
+24268,1898,,,2654-01-16 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2654-1-16**] 11:41 AM
+     HUMERUS (AP & LAT) RIGHT; HUMERUS (AP & LAT) LEFT               Clip # [**Clip Number (Radiology) 1136**]
+     ELBOW (AP, LAT & OBLIQUE) LEFT
+     Reason: FALL, FALL, FALL
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      88 year old man with 
+     REASON FOR THIS EXAMINATION:
+      FALL
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: Fall.
+     
+     2 VIEWS RIGHT HUMERUS: There is partial visualization of the previously
+     identified fracture through the surgical neck. The remainder of the humerus
+     appears unremarkable without fracture or focal bone destruction.
+     
+     2 VIEWS LEFT HUMERUS: There is no evidence for fracture, dislocation, focal
+     bone destruction, or soft tissue abnormality.
+     
+     2 VIEWS LEFT ELBOW: The study is somewhat limited as a true lateral radiograph
+     could not be obtained due to patient discomfort. However, no fractures are
+     identified and no large effusion appears to be present. A repeat radiograph
+     when clinically appropriate may be considered.
+
+",,
+24268,1898,,,2654-01-16 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2654-1-16**] 11:41 AM
+     HUMERUS (AP & LAT) RIGHT; HUMERUS (AP & LAT) LEFT               Clip # [**Clip Number (Radiology) 1136**]
+     ELBOW (AP, LAT & OBLIQUE) LEFT
+     Reason: FALL, FALL, FALL
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      88 year old man with 
+     REASON FOR THIS EXAMINATION:
+      FALL
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: Fall.
+     
+     2 VIEWS RIGHT HUMERUS: There is partial visualization of the previously
+     identified fracture through the surgical neck. The remainder of the humerus
+     appears unremarkable without fracture or focal bone destruction.
+     
+     2 VIEWS LEFT HUMERUS: There is no evidence for fracture, dislocation, focal
+     bone destruction, or soft tissue abnormality.
+     
+     2 VIEWS LEFT ELBOW: The study is somewhat limited as a true lateral radiograph
+     could not be obtained due to patient discomfort. However, no fractures are
+     identified and no large effusion appears to be present. A repeat radiograph
+     when clinically appropriate may be considered.
+
+",,
+24268,1898,30145,0,2654-01-17 06:27:00 EST,2654-01-17 06:37:00 EST,3439,"N",54,"Nursing/Other",,"
+
+data/action: pt restless ,confused all night,picking at [**Doctor First Name 1181**], o2sat
+monitor,bed linens. mae, following command.  rt shoulder upper arm under arm pit very ecchymotic->sling applied. neck collar on-ecchymotic behind neck.
+cv-@ 2100 hr raf 130's w/ drop in b/p 86/68. rec'd fliud bolus x2, lopressor 5mg iv x2->convert to nsr 80's @ 0130-b/p better in nsr 130/70. 
+urines output low 7-25cc/hr-rec'd fliud bolus x3(total lr) despite fliud urine remains low. creat 2.4 w/ am labs. 
+bs-235-175 covered w/ reg. insulin ss. 
+",,
+24268,1898,30145,0,2654-01-17 18:49:00 EST,2654-01-17 19:14:00 EST,3825,"N",54,"Nursing/Other","FOCUS: STATUS UPDATE","
+FOCUS: STATUS UPDATE
+DATA:
+PT. AGITATED AND VERY CONFUSED AT TIMES BUT EASILY REORIENTED OR CALMED DOWN. HE IS CONSTANTLY FIDGETY AND TAKING OFF HIS CLOTHES. ALERT AND ORIENTED SOMETIMES TO PERSON AND TIME--PLACE IS ""HOSPITAL"" X1. MAE. X-RAYS OF CERVICAL NECK OK PER SICU TEAM BUT CANNOT RULE OUT SOFT TISSUE OR LIGAMENT DAMAGE SO COLLAR TO REMAIN ON AT ALL TIMES. PHILLY COLLAR CHANGED TO [**Location (un) 24**] J WHICH APPEARS TO BE TOO TALL FOR SHORT CHIN, DESPITE MEASUREMENT PRE-ORDER. XTRA SHORT ORDERED. BACK OF NECK EXTREMELY ECCHYMOTIC AND W/HEMATOMAS. BRUISES ALL OVER R SHOULDER AND L ELBOW. R SHOULDER IN SLING--X-RAYS DONE X2 TO F/U FX AND ATTEMPT TO DETERMINE DISLOCATION--PENDING FINAL READ. TYLENOL FOR PAIN W/GOOD RESULT. PT. HARDLY EVER TAKEN PAIN MEDICINE FOR ANYTHING PER FAMILY.
+
+LUNGS CLEAR BUT EXTREMELY LARGE AMOUNTS OF YELLOWISH TAN THICK MUCUS COUGHED UP AFTER NGT PLACEMENT. NGT PLACEMENT VERIFIED MANUALLY AND PER CXR. BILIOUS ASPIRATED. 
+
+L SUBCLAVIAN CVL PLACED WITH SOME DIFFICULTY. PLACEMENT CONFIRMED BY X-RAY. 
+
+ON AND OFF AFIB ALL AM UNTIL 1430 WHEN PT CONVERTED TO NSR AND REMAINED SO CONT. LOPRESSOR IV STARTED AND ANTIARRHYTHMIC TO START VIA NGT. 
+
+BOLUSED FOR LOW U/O EARLY IN SHIFT--IMPROVED U/O AND CREAT.   
+
+PLAN:
+FUTURE OR TO FIX R SHOULDER. CONTINUE TO MONITOR NEURO STATUS. 
+",,
+24268,1898,30145,0,2654-01-18 05:59:00 EST,2654-01-18 06:13:00 EST,-1,"N",54,"Nursing/Other","CONDITION UPATE","
+CONDITION UPATE
+PLEASE SEE CAREVUE FLOWSHEET FRO SPECIFICS.
+NEURO: PT SLEEPING ON AND OFF THROUGH NOC. EASILY AWAKENS TO VOICE. ORIENTED X1-2. NO PERIODS OF AGGITATION. FOLLOWS COMMANDS. PUPILS ROUND AND BRISKLY REACTIVE AT 3MM BILAT, DECREASING TO 2MM THIS AM AND SL MORE SLUGGISH. TRAUMA RES INFORMED.
+RESP: LS COURSE. DEEP BREATHING ENCOURAGED. PT PLACED ON COOL NEB AT 40%. COUGH PRODUCTIVE OF SM AMT THICK BROWN SPUTUM. 
+CV: NSR THROUGH NOC. BP STABLE. IVF CONTINUES. PT HCT DOWN TO 26 FROM 32. TRAUMA RES INFORMED. 
+GI: ABD OBESE. NGT CLAMPED.
+GU: FOLEY PATENT FOR MARGINAL AMTS CLEAR YELLOW U/O ~30 CC/HOUR.
+ENDO: FSBG COVERED PER RISS.
+SKIN: PT WITH MULTIPLE AREAS OF ECCHYMOSIS. KERLIX TO BLE CHANGED, PINK CELLULITIS APPEARS MOSTLY HEALED, NO OPEN OR WEEPING AREAS. [**Location (un) 24**] COLLAR CHANGED TO SUPER SHORT SIZE, NO BREAKDOWN AROUND COLLAR. RIGHT ARM IN SLING.
+PLAN: CONT TO MONITOR NEURO STATUS. MONITOR URINE OUTPUT AND BOLUS AS ORDERED. ?RESTART LASIX TODAY IF CVP UP. MONITOR BLOOD GLUCOSE LEVELS. CONT PER CURRENT MGMT.
+
+",,
+24268,1898,30146,0,2654-01-29 05:16:00 EST,2654-01-29 05:36:00 EST,-1,"N",53,"Nursing/Other","TRAUMA ADMIT NOTE","
+TRAUMA ADMIT NOTE
+88 Y.O. SUSTAINED A FALL AT EXT. CARE FACILITY ON [**1-16**]
++ LOC AT THE SCENE BROUGHOUT TO [**Hospital1 3**]
+INJURIES INCLUDED B/L SM INTRACRANIAL HEMMORHAGE AND RIGHT HUMERUS FX.
+TX OUT OF ICU DAY #2.
+FLOOR: SPEECHA ND SWALLOW DIFFICULTIES ESTIMATED SECONDARY TO SM HEAD INJURY. PEG PLACED
+
+[**1-25**] INCREASED WOB, O2 REQUIRMENTS, SPUTUM CHANGES. STARTED ON LEVAQUIN
+SPUTU,MRSA/GNR
+
+[**1-28**] TACHYCARDIAC TACHYPNIC WITH ELEVATED WBC. STARTED ON VANCO TRANSFERRED TO ICU FOR CLOSER MONITORING.
+
+PATIENT'S STATUS IS DNR/DNR
+
+ALLERGIES PCN
+
+PMH:CAD IDDM AFIB CVA/DEMNTIA.
+
+PSH CHOLE, CATARACTS.
+
+ROS:
+NEURO: ALERT TO SELF AND PLACE ""I'M IN A HOSPITAL"". FOLLOWS COMMANDS. ANSWERS QUESTIONS APPROPRIATELY ON AN INCONSISTENT BASIS. PUPILS 3MM/BSK. MAE. COUGH/GAG INTACT. DENIES NUMBNESS OR TINLING. ASPEN COLLAR.
+
+CV: HR 90 A-FIB LOPRESSOR 100/MG PO. BP 110'S/50'S PULSES EASILY PALPABLE THROUGHOUT. 
+
+RESP: RR28-35 SHORT AND SHALLOW RESPIRATIONS. COUGH PRODUCTIVE THICK TAN PLUGS. CPT PERFORMS. TURNED FREQEUNLT LUNG SOUNDS COARSE AT APICIES DIMINISHED AT BASES. SATS 98-100% HUMIDIFIED FACE MASK.
+
+GI: ABD SOFT SLIGHT OBESE + BOWEL SOUNDS. TOL PEG TUBE FEEDS [**12-15**] IMPACT WITH FIBER AT 100CC/HR. SM AMTS OF GOLDEN BROWN FORMED STOOL.
+
+GU: U/0 100CC YELLOW COLORED URINE/ HR VIA FOLEY. NA ELEVATED 150'S CHANGED FREE FLUID INTO A MIX WITH D5W. SERUM BLOOD/URINE SENT. 4800ML OF D5W GIVEN
+
+ENDO: GLUCOSE 200'S INSULIN GTT STARTED CURRENTLY AT 10UNITS/HR PLAN TO ACHIVE GOAL OF A GLUCOSE LESS THAN 130.
+
+ID: TMAX 99.8 ORALLY. VANCO/LEVO. WBC 18.4 (19.5)
+
+HEME: HCT 31.1 (32.2) HEPARIN/P-BOOTS.
+
+SKIN: LARGE AREA OF ECCHYMOSIS ALONG RIGHT ARM/THORAX. SKIN UNDER ASPEN COLLAR INTACT. BREAKDOWN NOTED IN MIDDLE OF BACK. SM DIME SIZED SUPERFICIAL SKINTAG WITH IRRITATION. DSD APPLIED.
+
+SOCIAL: DTR [**Name2 (NI) **] CALLED TO CHECK ON HER FATHER. PLANS TO BE IN ON MONDAY.
+
+A/P: CONT TO FOLLOW POTENTIAL SEPTIC PICTURE R/T PERSISTENT PNEUMONIA. CONT TO MONIOR BLOOD GLUCOSE. LYTES, SKIN, PLAN TO TRANSFERR TO FLOOR.
+",,
+24268,1898,30146,0,2654-01-29 16:07:00 EST,2654-01-29 16:27:00 EST,3535,"N",53,"Nursing/Other",,"
+
+O. neuro alert oriented x2 mae to command pearla brisk +3 face symmetrical
+cardiac hr 89-115 afib lopressor increased to 125mg bp 89/33-120/65 hct 30 na 150serum osmo 344 urine osmo 501 urine na 15 fluids LR 125 q hr increased to 150 at 1630 to decrease 80cc qhr at 2000pm skin W+D pp +2
+Resp 2lnp o2 sat 95-98% lungs diminished coughing up yellow sputum cxr taken pnding
+gu foley u/o >30cc qhr BUN 87 cr 1.8
+GI abd snt BS+ TF [**1-16**] impact with fiber 100cc ducolax supp given stool soft brown 
+ID wbc 18.4 temp max 99.4
+endo insulin gtt d/c on NPH 10 u q8 ss qid
+access 22 lt lower arm
+a. s/p fall NH ICH, Rt humerol avulsion fx admitted to sicu vigorous pulm toliet pnx
+hypernatrium
+p. vigorous pulm toliet cpt
+o2 as needed encourage CDB
+LR 125 q hr increased to 150cc at 1630 till 2000 pm decrease to 80
+insulin NPH 10 u q 8 check fs qid
+pt is dnr/dni
+",,
+24268,1898,30146,0,2654-01-29 16:54:00 EST,2654-01-29 16:56:00 EST,3535,"N",53,"Nursing/Other",,"
+
+ADD SKIN PEG SITE ERYTHEMATOUS HARD AREA AROUND,  COCCYX AREA ERYTHEMATOUS WITH  2MM SKIN TEAR DUODERM APPLIED,  CONT WITH ECCHYMOISIS RT FLANK AREA OVER BOTH ARMS.  
+[**Location (un) 24**] J COLLAR IN PLACE
+",,
+24268,1898,30146,0,2654-01-30 05:12:00 EST,2654-01-30 05:20:00 EST,-1,"N",53,"Nursing/Other","tsicu progress note","
+tsicu progress note
+neuro: alert and oriented x3, mae denies numbness and tingling follows all commands. pupils 3mm/bsk. cough/gag intact. c-collar.
+
+cv: hr 95 afib lopressor. bp 100/60's pulses easily palpable throughout.
+
+resp: lung sounds coarse/diminished at bases. cough productive self yankaur suctions for thick tan/green plugs. cpt performed. sats 95-98% on 2lnp. 
+
+gi: abd soft obese distended. tol tf at goal [**1-16**] impact with fiber at 100cc/hr. + bowel sounds + flatus sm soft golden brown bm. 
+
+gu: u/o 50-100 cc yellow clear urine. lytes within range.
+
+heme: hct 30.6 heparin/p-boots.
+
+id: tmax 98.6 axillary vanco/levo. wbc 15.8
+
+ssri: glucose control with glyburide/nph/ssri.
+
+skin: grossly intact. coccyx with + erythema sm tear noted. cleansed with ns and protected with duoderm. double guard cream applied to surounding areas. skin tag in midback with sm tear covered with dsd..
+right side with gross ecchymosis s/p fall in ext care facility.
+
+social: supportive dtr. 
+
+a/p: cont to follow resp status, possible septic picute, transfer to floor. 
+",,
+24268,1898,30146,0,2654-01-30 09:44:00 EST,2654-01-30 09:45:00 EST,3454,"N",53,"Nursing/Other",,"
+
+SOCIAL WORK NOTE:
+Pt and family known to this SW from arrival in ED on [**1-16**] s/p fall.  Please see original OMR notes from that day for further information.  This SW remains available as needed for family support while pt on T-SICU.  Pager [**Pager number 243**].
+",,
+24268,1898,,,2654-01-31 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2654-1-31**] 10:42 AM
+     CHEST (PORTABLE AP); REPEAT, (REQUEST BY RADIOLOGIST)           Clip # [**Clip Number (Radiology) 1139**]
+     Reason: REPEAT
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     
+     HISTORY:  History of intracranial hemorrhage.
+     
+     COMPARISON:  [**2654-1-29**].
+     
+     AP CHEST RADIOGRAPH:  The study has two AP images, both of which are
+     suboptimal.  The patient is rotated to the right.  The heart size is enlarged,
+     unchanged from the prior study.  There is no evidence of failure.  There is
+     unfolding of the aorta.
+     
+     Compared to the prior study, there is improvement in the left lower lobe
+     collapse/consolidation.  However, there is a possibility of a small right
+     lower lobe infiltrate.
+     
+     IMPRESSION:
+     
+     1. Improving left lower lobe collapse/consolidation.
+     2. Interval development of possible right lower lobe infiltrate.
+
+",,
+24268,1898,30147,0,2654-02-01 05:38:00 EST,2654-02-01 06:23:00 EST,-1,"N",54,"Nursing/Other","NSG ADMIT NOTE:","
+NSG ADMIT NOTE:
+Pt arrived to unit at 1945 with Dr. [**Last Name (STitle) **] and Dr. [**Last Name (STitle) **].
+NEURO: MS [**Last Name (Titles) 2183**]/wane. Oriented x1 (name). MAE, inconsistently follows commands. Bilat pupils irrg shaped 3mm/brisk reaction to light. Pt grimaces and moans when repositioned. Unable to stated where pain is, likely source d/t (R) humerous fx. LUE twitching lasting 10-95 seconds noted. Dr. [**Last Name (STitle) **] notified at 0425 when after LUE twitching started at 0420, then RUE twitching initiated at 0422. Pt had denied feeling cold. Ax temp 96.8. Dr. [**Last Name (STitle) **] in to assess. Warm blankets applied, twitching stopped.
+CV: Temp 96.1-97.1 ax. Afib with rare PVC's. BP 90-120's/40-50's. Weak bilat palp pedal pulses. Generalized 1+ pit edema. (L)SC 3L-CVL placed. CXR done to confirm placement.
+RESP: LS coarse thru out, insp wheeze RLL occ. CPT q2h and NTSx done. Secretions tan sm->mod amnts thin. Pt unable to use IS even with max cues and assist.
+GI: NPO. ADB obese s/nt/nd. NGT placed by Dr. [**Last Name (STitle) **]. CXR done to verify placement. Old PEG site covered with wound drainage bag, scant drainage since NGT placed to CLWS. Drainage from NGT and old PEG site initially bilious, currently brown. Soft unformed BM upon arrival to floor. FSBS QID tx'ing per RISS.
+GU: Urine yellow sediment > 50cc/h.
+SKIN: Head laceration healed, dsg removed. (R) shoulder and flank eccymotic. Coccxy/buttocks with skin tears, duoderm applied. Mid-back mole with abrasion, adaptic applied and covered with DSD. (L) shin with healing ulceration, adaptic applied covered with DSD. Old PEG site with tan slough at edges, wound drainage bag intact.
+SOCIAL: Daughter aware of events of the [**Name6 (MD) **] by MD's.
+
+PLAN: Possible abd CT with contrast today. Possible EEG today. Agrressive pulmonary toilet ( CPT q2h, IS, Sx PRN ). Monitor neuro signs q2h, ? seizure activity. Monitor for sepsis. Monitor drainage from NGT and old PEG site. Follow FSBS tx per RISS. 
+",,
+24268,1898,30147,0,2654-02-01 17:45:00 EST,2654-02-01 18:05:00 EST,-1,"N",54,"Nursing/Other","CONDITION UPDATE","
+CONDITION UPDATE
+PLEASE SEE CAREVUE FLOWSHEET FOR SPECIFICS.
+NEURO: PT LETHARGIC, BUT ARROUSABLE TO VOICE. ORIENTED TO PERSON ONLY. PUPILS SL. ODD-SHAPED, BUT EQUAL AND BRISKLY REACTIVE TO LIGHT. MOVING ALL EXTREMITIES. FOLLOWS MOST COMMANDS. SPEECH GARBLED. PT NOTED TO HAVE SUBTLE LEFT HAND RHYTHMIC TWITCHING THIS AM X'S APPRX 2MIN. DILANTIN LEVEL THIS AM 4.1. EEG AT BEDSIDE. RESULTS PENDING. DILANTIN LOADED AGAIN, AND DOSE INCREASED.
+RESP: LS COARSE THROUGHOUT. PT TACHYPNEIC. FREQUENT CPT. PT ABLE TO EXPECTORATE MODERATE AMTS THICK BROWN SPUTUM. NT SXN YIELDING ONLY SM AMTS THICK BLOODY SPUTUM. ABG STABLE. O2SAT STABLE ON 50% VIA HUMIDIFIED FACE MASK. 
+CV: AFEBRILE. ABP STABLE. CONTINUES IN AFIB 90S TO 130S. IV LOPRESSOR STARTED WITH SOME RATE CONTROL AND NO DROP IN SBP. PEDAL PULSES DOPPLERABLE TO WEAKLY PALPABLE. ALINE PLACED BY RES. EKG DONE THIS AM. CK'S CYCLING. HCT THIS EVE PENDING. TPN STARTED. 
+GI: ABD OBESE. NGT TO LCWS WITH MOD AMT BROWN O/P. PLACEMENT CHECKED WITH AIR WHICH COULD BE HEARD EXITING THROUGH WOUND DRG BAG TO ABD. UGI AND SBFT THIS AM IN FLURO. FISTULA DRAINING SM AMTS BROWN LIQUID (SIMILAR TO NG O/P). NO BM. NO N/V. 
+GU: FOLEY INTACT AND PATENT FOR ADEQUATE AMTS YELLOW U/O.
+ENDO: FSBG COVERED PER RISS THIS AM. INSULIN GTT STARTED AND CURRENTLY AT 6U/HOUR WITH GLUC 138. 
+SKIN: DUODERM TO COCCYX UNCHANGED. LLE SM ABRASION PINK, WITH SM AMT SEROSANG DRG, TEGADERM APPLIED [**Name6 (MD) **] ET RN RECOMMENDATIOM. RLE ABRASION HEALING WELL, SL SCAB, TEGADERM PLACED [**Name6 (MD) **] ET RN RECOMMENDATION. LARGE MOLE ON BACK WITH ? FRICTION TEAR, DRAINING SEROSANG, TEGADERM APPLIED, SICU RES AND FELLOW INFORMED. NEW DRG BAG PLACED TO FISTULA BY ET RN. LG AMT ERYTHEMA AROUND SITE. SEE ET RN NOTE. 
+PLAN: CONT FREQ/AGGRESSIVE PULM TOILET. MONITOR GLUCOSE LEVELS AND TITRATE GTT ACCORDINGLY. MONITOR FOR SEPSIS. CONT PER CURRENT MGMT.
+",,
+24268,1898,30147,0,2654-02-02 02:57:00 EST,2654-02-02 03:26:00 EST,-1,"N",54,"Nursing/Other","FOCUS: STATUS UPDATE","
+FOCUS: STATUS UPDATE
+NEURO: ALERT AND ORIENTED X1, MAE ON COMMAND BUT INCONSISTENTLY. IRREGULAR SHAPE PUPILS BUT REACTIVE TO LIGHT. BILAT HAND TREMOR--NOT AT THE SAME TIME. L SHOULDER TREMOR, DR [**Last Name (STitle) **] MADE AWARE ? SEIZURE--NO ACTION TAKEN. PT GRUNTING DENIES ANY PAIN.  
+
+CV: A-FIB AND NORMOTENSIVE, A-LINE VERY POSITIONAL BUT CORRELATING C/ CUFF. PRE-VANCO LEVEL DONE 13.5 THEREFORE VANCO DOSE GIVEN PER DR [**Doctor Last Name 4388**] PICK DRAWN. PULSES DOPLERABLE. GENERALIZED EDEMA--L ARM C/ PITTING EDEMA, ELEVATED ON PILLOW C/ MINIMAL IMPROVEMENT.
+
+RESP: LUNG SOUNDS COARSE ALL THROUGHOUT. PT ABLE TO RAISE SMALL AMOUNTS OF BROWN THICK SPUTUM. AGRESSIVE PULMONARY TOILETING DONE SXING SMALL AMOUNTS OF BROWN BLOOD TINGE SPUTUM. 
+
+GI: NGT TO LCS DRAINING SMALL AMOUNTS OF DARK BILIOUS LOOKING THICK DRAINAGE. BOWEL SOUNDS PRESENT, ABD OBESE, NON TENDER TO PALPATION, NO BM NO FLATTUS. ABD FISTULA DRAINING SMALL AMOUNTS OF DARK GREEN FLUID DR [**Last Name (STitle) **] MADE AWARE.
+
+GU: FOLEY CATH IN SITU DRAINING MODERATE AMOUNTS OF YELLOW CLOUDY URINE. 
+
+ENDO: REG INSULIN GTT TITRATED TO MAINTAIN BS <120. STARTED NPH 10 Q8H PER DR [**Last Name (STitle) **]. 
+
+SKIN: SMALL SCAB ON L LEG AND ANOTHER ON R LEG, AS WELL AS SMALL 1CM X1CM STAGE 1 ON BACK SIDE, DUODERN ON BACK TEGADERM OVE4R LEG WOUNDS.
+
+PLAN: CONTINUE TO MONITOR CV, PULMONARY TOILETING, SKIN CARE. CONTINUE C/ CURRENT PLAN OF CARE.
+",,
+24268,1898,30147,0,2654-02-02 19:16:00 EST,2654-02-02 19:24:00 EST,3450,"N",54,"Nursing/Other","STATUS UPDATE","
+STATUS UPDATE
+CONTINUES TO REQUIRE AGGRESSIVE PULM TOILET. NASOTRACHEAL SUCTIONED MULTIPLE TIMES FOR THICK TAN SPUTUM. PT. UNABLE TO COUGH PRODUCTIVELY. INSULIN GTT TITRATED TO MAINTAIN GLUCOSE 100 RANGE TO BE DC'D AND NPH TO RESTART. NARES SWAB ? POSITIVE FOR MRSA AWAITING SENSITVITIES TO CONFIRM. 
+",,
+24268,1898,30147,0,2654-02-03 03:44:00 EST,2654-02-03 04:02:00 EST,-1,"N",54,"Nursing/Other","FOCUS: STATUS UPDATE.","
+FOCUS: STATUS UPDATE.
+INSULIN GTT STOPPED NPH AND SLIDING SCALE FOR 4H C/ BS RISING RAPIDLY. INSULIN GTT RESTARTED C/ IMPROVED CONTROL OF BS. FREQUENT PULMONARY TOILETING AND SXING. SHALLOW BREATHING PT OVERALL HAVING MORE DIFICULTY DOING DEEP BREATHING. BACK WOUND OPEN, DRAINIG SMALL AMOUNTS OF BLOODY DRAINAGE. LARGER IN DIAMETER, DR [**Last Name (STitle) 2666**] MADE AWARE. 
+",,
+24268,1898,30147,0,2654-02-03 15:51:00 EST,2654-02-03 16:17:00 EST,-1,"N",54,"Nursing/Other","CONDITION UPDATE","
+CONDITION UPDATE
+PLEASE SEE CAREVUE FLOWSHEET FOR SPECIFICS.
+NEURO: PT MORE LETHARGIC TODAY. ARROUSABLE TO STIMULATION. PT MOANS IN RESPONSE TO QUESTIONING AT TIMES, OTHERWISE MINIMALLY VERBAL. PUPILS BRISKLY REACTIVE TO LIGHT. INCONSISTENTLY FOLLOWS COMMANDS. MOVING ALL EXTREMITIES ON BED WHEN STIMULATED. 
+RESP: LS DIM THROUGHOUT, COARSE, SHALLOW, RAPID RESPS, IMPROVES POST NEB TREATMENTS. FREQUENT CHEST PT.  NT SUCTIONED FOR ONLY SCANT AMTS THICK BROWN SPUTUM. COUGH WEAK AND NON PRODUCTIVE, ABGS WITH WORSENING RESP ACIDOSIS, SICU TEAM INFOMED IMMEDIATELY UPON RECEIPT OF RESULTS. 
+CV: PT IN AND OUT OF AFIB. NSR OCCASIONALLY WITH PERIODS OF VENTRICULAR TRIGEMINY AND BIGEMINY, RESOLVING WITHOUT INTERVENTION. SBP STABLE. CONTINUES TO BE HYPERNATREMIC. +2 PITTING EDEMA BLE. TPN RATE DECREASED TO 50CC/HOUR. 
+GI: NGT TO LCWS WITH MOD AMTS BROWN DRG. FISTULA DRG BAG WITH SM AMTS BROWN O/P. CONTINUES NPO. NO BM THIS SHIFT. BOWEL SOUNDS FAINT. 
+GU: FOLEY INTACT AND PATENT FOR ADEQUATE AMTS YELLOW U/O WITH SEDEMENT. 40MG IV LASIX ORDERED AND GIVEN WITH SOME DIURESIS. 
+ENDO: FSBG COVERED WITH INSULIN GTT. FSBG DECRESED AFTER TPN RATE DECREASED. GTT SURRENTLY OFF WITH MOST RECENT GLUCOSE 102.
+SKIN: UNCHANGED.
+PLAN: CONT REP MONITORING AND FREQ PULM TOILET. MONITOR GLUCOSE LEVELS AND TITRATE GTT ACCORDINGLY. MONITOR CARDIAC STATUS CLOSELY. CONT PER CURRENT MGMT.
+",,
+24268,1898,30147,0,2654-02-03 17:38:00 EST,2654-02-03 17:40:00 EST,-1,"N",54,"Nursing/Other","NPN ADDENDUM","
+NPN ADDENDUM
+PT MORE ALERT THIS EVE. INCREASING TACHYPNEA TO 40S. CPT WITH PT EXPECTORATING MOD AMTS THICK BROWN, BLOOD-TINGED SPUTUM. PT TOOK SEVERAL MINUTES TO RECOVER (RAPID RR WITH INCREASED WEAK COUGHING), RRT IN TO PLACE NASL TRUMPET FOR NT SUCTIONING.
+",,
+24268,1898,30147,0,2654-02-04 05:57:00 EST,2654-02-04 06:05:00 EST,3229,"N",54,"Nursing/Other",,"
+
+NEURO; LETHARGIC, RARELY FOLLOWS COMMANDS, OPENS EYES TO VOICE AND STIMULATION, MAE RANDOMLY, NOT ABLE TO ASSESS PUPILS ACCURATELY SECONDARY TO CATARACT SURGERY, TREMORS SEEN OF BOTH ARMS AND HANDS OCCAS, REMAINS ON IV DILANTIN, 
+
+RESPIR; RHONCHI AT START OF SHIFT, CHEST PT AND SUCTIONED ORALLY FOR THICK BROWN SECRETIONS, ABG'S ON EVE RESPIR ACIDOSIS BUT P02 WAS 136, RPT ABGS THIS AM SHOW RESPIR ACIDOSIS WITH P02 DOWN TO 83, RECEIVING NEB RX AT PRESENT, AND DID EARLIER, SITTING UP IN HIGH FOWLERS, 
+
+CARDIOVASCULAR; A FIB, RATE 90'S-UKP TO 130'S PRIOR TO DOSEAGE DUE ON LOPRESSOR IV, PRESENTLY 90'S-109, EXTREMITIES PALE AND PEDAL AND PT PULSES DOPPLERABLE EXCEPT ON LEFT FOOT-PEDAL NOT DOPPLERABLE, ? FAINT PALPABLE, 
+HCT ON EVES 22, RECEIVED 1 UNIT PRBC SLOWLY OVER 3/HRS.
+ABDOMEN; GASTROCUTANEOUS FISTULA DRAINING SMALL AMT PURULENT LIGHT BROWN MATERIAL, ABD SOFT, HYPOACTIVE BS
+
+SKIN; MULTIPLE ECCHYMOTIC AREAS ON ARMS, PITTING EDEMA BOTH FEET, VENODYNE BOOTS OFF TONOC DUE TO SEVERE DEMARCATION IN BOTH LOWER EXTREMITIES, PRESENTLY BACK ON, 
+
+ENDOCRINE; INSULIN GTT PRESENTLY AT 2 UNITS/HR, TITRATED DOWN FROM 8 UNITS/HR, BS 180'S-DOWN TO 96 AND PRESENTLY 117 VIA LAB.
+",,
+24268,1898,30147,0,2654-02-04 17:34:00 EST,2654-02-04 17:50:00 EST,-1,"N",54,"Nursing/Other","CONDITION UPDATE","
+CONDITION UPDATE
+PLEASE SEE CAREVUE FLOWSHEET FOR SPECIFICS.
+NEURO: PT'S MENTAL STATUS CONTINUES TO WAX AND WANE. ALERT AT TIMES. FOLLOWS SOME COMMANDS WHEN ALERT. MINIMALLY VERBAL. AT TIMES ARROUSES TO STIMULI. PUPILS EQUAL AND REACTIVE. MOVING ALL EXTREMITIES ON BED. THIS AM AT APROX 0815 PT HAD APPROX 3 MIN OF LEFT ARM AND LEG RHYTHMIC TWITCHING. MD [**Doctor Last Name 238**] CALLED IN TO WITNESS. NO INTERVENTION. CONTINUES ON DILANTIN DOSE. 
+RESP: LS LESS COARSE TODAY AND CLEAR BY THIS AFTERNOON. CHEST PT Q3 HOURS. DEEP ORAL SUCTIONING FOR LG AMTS THICK YELLOW SPUTUM. PT COUGH IS WEAK, BUT ALSO PRODUCTIVE OF LARGE AMTS THICK YELLOW SPUTUM. CONTINUES TO BE TAHCYPNEIC 30S TO 40S. O2SATS STABLE WITH 40% O2 VIA HUMIDIFIED FACE MASK.
+CV: CONT'S IN AFIB. EDEMA CONTINUES. 
+GI: NGT TO LCWS. WITH MOD AMT BROWN O/P. FISTULA DRAINING MOD AMTS BROWN LIQ. NO BM. CONTINUES NPO. 
+GU: ADEQUATE U/O VIA FOLEY.
+ENDO: INSULIN REMOVED FROM TPN, AND NPH DOSE INCREASED TO 15U Q8 HOURS. UNABLE TO WEAN REG INSULIN GTT, CURRENTLY AT 5U/HOUR WITH MOST RECENT FSBG 133. 
+PLAN: MONITOR NEURO STATUS. WEAN INSULIN GTT WHERE POSSIBLE. CONT PULM TOILET. EMOTIONAL SUPPORT TO FAMILY.
+",,
+24268,1898,30147,0,2654-02-05 05:24:00 EST,2654-02-05 05:38:00 EST,3229,"N",54,"Nursing/Other",,"
+
+NEURO; LETHARGIC BUT AROUSES EASILY, OCCAS GARBLED, INCOMPREHENSIBLE SOUNDS, DOES NOT FOLLOW COMMANDS, MAE, ABLE TO LIFT BOTH ARMS UP TOWARD TORSO, NOT ABLE TO ASSESS PUPILLARY RESPONSE DUE TO BILAT CATARACT SURGERY, OCCAS TREMORS NOTED OF BOTH ARMS, LEFT ARM USUALLY MORE INVOLVED, NO LEG TWITCHING OBSERVED TONOC, OCCAS OPENS EYES TO STIMULATION BUT DOES NOT APPEAR TO TRACK SPEAKER
+
+RESPIR; LUNGS CLEAR EARLIER IN SHIFT, PRESENTLY FAINT BIBASILAR RALES, CHEST PT X 4, SUCTIONED SMALL AMT LIGHT BROWN SECRETIONS FROM MOUTH, SUCTIONED VIA NASOPHARYNX FOR SMALL THICK TAN SECRETIONS TO LIGHT BLOODY-BROWNISH SECRETIONS, ABGS THIS AM SHOW RESPIR ACIDOSIS AND METAB ALKALOSIS, 
+
+CARDIOVASCULAR; HR 80'S-118, A FIB, RESPONDS TO LOPRESSOR BUT OF SHORT DURATION, EXTREMITIES REMAIN EDEMATOUS, 
+
+ENDOCRINE; INSULIN GTT PRESENTLY AT 4 UNITS/HR AND RANGE OF BLOOD GLUCOSE 120'S, 
+
+SKIN; ECCHYMOTIC AREAS OF ARMS AS DOCUMENTED ON FLOW SHEET, VENODYNE BOOTS OFF BRIEFLY TO PREVENT DEMARCATION OF EXTREMITIES THAT PT EXPERIENCES OCCAS SECONDARY TO FLUID
+",,
+24268,1898,30147,0,2654-02-05 16:53:00 EST,2654-02-05 16:58:00 EST,3495,"N",54,"Nursing/Other","CONDITION UPDATE","
+CONDITION UPDATE
+D: RESP STATUS REMAINS POOR, CPT DONE X3, NT SX X 1 FOR SM AMTS THICK TAN-BROWN SECRETIONS. SATS 92-96% ON OPEN FACE TENT AT 70%. NEURO STATUS UNCHANGED, INTERMITTENTLY OPENS EYES, DOES NOT FOLLOW COMMANDS, UNABLE TO UNDERSTAND PT WHEN HE ATTEMPTS TO SPEAK. FAMILY- SON AND DAUGHTER SPOKE WITH DR [**Last Name (STitle) **] THIS AFTERNOON RE: PT'S WISHES AND END OF LIFE ISSUES/ WITHDRAWAL OF CARE. THEY PLAN TO MEET AGAIN TOMORROW WITH DR [**Last Name (STitle) **] TO DISCUSS MR [**Known patient lastname 4389**] WISHES.
+
+",,
+24268,1898,30147,0,2654-02-06 06:50:00 EST,2654-02-06 07:00:00 EST,-1,"N",54,"Nursing/Other","CONDIDTION UPDATE","
+CONDIDTION UPDATE
+PLEASE SEE CAREVUE FLOWSHEET FOR SPECIFICS.
+NEURO: PT ALERT AT TIMES. DOES NOT FOLLOW COMMANDS. PUPILS EQUAL AND REACTIVE. MOANS AT TIMES IN RESPONSE TO QUESTIONING, BUT NO WORDS. MOVES ALL EXTREMITIES ON BED. 
+RESP: LS VERY DIM, COARSE. CPT DONE WITH MINIMAL SPUTUM PRODUCTION. PT O2SAT STABLE WITH 70% O2 VIA HUMIDIFIED TENT (REQUIRES ONLY 40% O2 VIA FACE MASK). ABG SOMEWHAT IMPROVED FROM YEST, BUT PCO2 REMAINS ELEVATED. 
+CV: CONVERTED TO NSR, OCCASIONAL PVC'S.  SBP UP TO 140S. CONTINUES WITH EDEMA. K REPLETED THIS AM. 
+GI: NGT TO LCWS WITH LARGE AMTS BROWN O/P. FISTULA DRG BAG WITH MOD AMT BROWN O/P. NO BM THIS SHIFT.
+GU: YELLOW U/O WITH SEDIMENT. HUO DECREASING THIS AM. LASIX ORDERED AND GIVEN. EFFECT PENDING.
+ENDO: RECEIVING STANDING NPH. INSULIN GTT TITRATED ACCORDING TO HOURLY FSBGS. 
+SKIN: NO CHANGES.
+PLAN: ? FAMILY MTG TODAY PER REQUEST OF FAMILY. EMOTIONAL SUPPORT. CONT PER CURRENT MGMT.
+",,
+24268,1898,30147,0,2654-02-06 16:45:00 EST,2654-02-06 17:01:00 EST,-1,"N",54,"Nursing/Other",,"
+
+NSICU Nursing Progress Note 7a-7p
+Episode of Resp distress early pm- Family meeting w/ SICU/ Trauma Attendings making patient comfort mearsures only in addition to DNR/DNI.
+Neuro-
+Mildly responsive w/groan to loud verbal stimuli, w/d to painful tactile stim, inconsis FC, moves LUE, and LE on bed. More lethargic.
+
+REsp- Face tent @.70; congested; course upper, diminished lower zones. CPT @ 10a to R; @2p to L w/ subsequent NT sx for copious tan thick secretions. Episode of resp distress in process of sx and clearing secretions w/ rr 50, sat 30%, then rate to [**1-17**] FT ^ 1.00%,BP 70/ HR 44-- w/o improvement requiring ambu x15-30 seconds to return RR 30; sat 90%.  abg-7.16/89/17/45/7. Morphine gtt started @1700 for comfort, titrating to RR ~20.
+
+CV- 140-160/50-60, HR80's NSR, x for resp distress episode as above.  u/o 70-100/hr this am p lasix, decreasing to 30-35/hr this pm.
+
+Endo- REmains on Insulin gtt @4u/hr w/ NPH increased to 30usq q8h in attempt to wean off gtt.  NPH 15u in TPN today. FS 99-131.
+
+Family- Very clear and in consensus that comfort measures be instituted today.  All are in agreement--Wife, daughters and son, w/ grandaughter.  All met w/ PatelMD and [**Name8 (MD) **] MD this afternoon for family meeting.
+",,
+24268,1898,30147,0,2654-02-06 18:41:00 EST,2654-02-06 18:45:00 EST,-1,"N",54,"Nursing/Other",,"
+
+NSICU Nursing Note Addendum 7a-7p
+
+GU- Pt  pulled out foley w/ result of hematuria despite bilat UE soft limb restraints. Condom cath placed as replacing foley attempt unsuccessful r/t reisistance.
+Mental Status- Ativan 1mg po given @ 1800 b/c of increase in aggitation, reaching for tubes, foley.  Foley ultimately d/c'd by pt and replaced w/ condom cath.  Will repeat ativan 1 mg po prn.
+Plan- Angio unable to arrange anesthesia for Angio this pm, therefore pt is scheduled for Angio [**2-7**] w/ Anesthesia arranged.  Family notified of change in plan by Nsurg.
+
+",,
+24268,1898,30147,0,2654-02-06 18:46:00 EST,2654-02-06 18:47:00 EST,-1,"N",54,"Nursing/Other",,"
+
+  ERROR--Above note written on  patient [**Last Name (LF) 4390**], [**First Name3 (LF) **]
+",,
+24268,1898,30147,0,2654-02-06 22:47:00 EST,2654-02-06 22:59:00 EST,-1,"N",54,"Nursing/Other","focus: status update.","
+focus: status update.
+PT DNR/DNI MADE CMO THIS AFTERNOON, MSO4 STARTED FOR COMFORT. PT AT 1930 STARTED HAVING CARDIAC ECTOPIES (PVC'S, LATER SINUS BRADY AND BLOCKS). RR INCREASED, BP STARTED TO FALL. AT 1945 PT WENT INTO ASYSTOLE RHYTHM AND WAS PRONOUNCED DEAD SHORTLY AFTER BY DR [**Last Name (STitle) 4391**]. EMOTIONAL SUPPORT FOR FAMILY. M.E. WAS CONTACTED AND NO EXAM WAS TO BE DONE PER DR [**Last Name (STitle) 1704**]. [**Male First Name (un) 4392**] FUNERAL HOME WAS CONTACTED AND PT BODY WILL BE RECOVERED TOMORROW IN AM. 
+",,

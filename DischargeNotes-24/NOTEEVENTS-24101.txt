@@ -1,0 +1,847 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+24101,26213,,,2674-03-16 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+ 
+ 
+ 
+Admission Date:  [**2674-3-16**]              Discharge Date:   [**2674-4-11**]
+ 
+Date of Birth:  [**2632-8-7**]             Sex:   M
+ 
+Service: PLASTIC
+ 
+Allergies: 
+Patient recorded as having No Known Allergies to Drugs
+ 
+Attending:[**First Name3 (LF) 4619**] 
+Chief Complaint:
+LLE necrotizing fasciitis
+ 
+Major Surgical or Invasive Procedure:
+LLE fasciotomy
+STSG from b/l thighs to LLE
+ 
+History of Present Illness:
+This is a 41-year-old morbidly obese gentleman who presented to 
+an outside hospital approximately a week prior with progressing 
+infection of his left lower extremity with bilateral heel 
+ulcers. He underwent radical debridement
+there of his lower extremity including the skin and soft tissue 
+below the knee, and extending up the posterior thigh behind the 
+knee. He was transferred to our facility for further management.
+ 
+Past Medical History:
+morbid obesity (360lbs), OSA, hyperglycemia, gout, ?COPD vs 
+restrictive lung dz, asthma, heel ulcers
+ 
+Social History:
+[**2-9**] PPD smoker
+ 
+Family History:
+n/c
+ 
+Physical Exam:
+99.2  105st  105/55  MAP 71  100% CMV
+Intubated, sedated, obese
+Lungs clear to auscultation b/l with distant bs at bases
+Regular rate/rhythm, no m/g/r
+Abd: B/l inguinal erythema with skin breakdown, right abdomial 
+pannus erythematours with sinus tract openings, no induration
+Obese, +NABS, soft
+R leg w/ chronic venous stasis skin changes, rt heel ulcer
+L leg debrided to mid thigh
+Palpaple DPs/PTs b/l
+ 
+Pertinent Results:
+[**2674-3-16**] 01:36AM BLOOD WBC-30.2* RBC-4.16* Hgb-11.7* Hct-33.4* 
+MCV-80* MCH-28.3 MCHC-35.2* RDW-15.2 Plt Ct-331
+[**2674-3-17**] 02:34AM BLOOD WBC-9.9 RBC-3.45* Hgb-9.5* Hct-28.5* 
+MCV-83 MCH-27.4 MCHC-33.2 RDW-16.0* Plt Ct-341
+[**2674-3-19**] 02:58AM BLOOD WBC-12.7* RBC-3.93* Hgb-10.3* Hct-32.5* 
+MCV-83 MCH-26.2* MCHC-31.7 RDW-15.6* Plt Ct-365
+[**2674-3-23**] 04:23AM BLOOD WBC-7.8 RBC-3.97* Hgb-11.1* Hct-32.9* 
+MCV-83 MCH-28.0 MCHC-33.8 RDW-16.6* Plt Ct-400
+[**2674-3-27**] 07:00AM BLOOD WBC-7.9 RBC-4.05* Hgb-10.9* Hct-33.3* 
+MCV-82 MCH-26.9* MCHC-32.6 RDW-16.1* Plt Ct-471*
+[**2674-3-16**] 01:36AM BLOOD PT-13.7* PTT-28.6 INR(PT)-1.2*
+[**2674-3-16**] 01:36AM BLOOD Glucose-112* UreaN-13 Creat-0.8 Na-133 
+K-3.7 Cl-90* HCO3-39* AnGap-8
+[**2674-3-18**] 04:23AM BLOOD Glucose-105 UreaN-13 Creat-0.8 Na-139 
+K-4.0 Cl-99 HCO3-38* AnGap-6*
+[**2674-3-21**] 12:35PM BLOOD Glucose-104 UreaN-9 Creat-0.6 Na-139 
+K-5.7* Cl-101 HCO3-31 AnGap-13
+[**2674-3-24**] 02:49AM BLOOD Glucose-372* UreaN-5* Creat-0.7 Na-130* 
+K-3.9 Cl-91* HCO3-33* AnGap-10
+[**2674-3-27**] 07:00AM BLOOD Glucose-92 UreaN-5* Creat-0.7 Na-135 
+K-4.8 Cl-96 HCO3-34* AnGap-10
+
+LEFT FOOT, TWO VIEWS [**2674-3-17**]
+There is a large skin defect overlying the posteroinferior 
+calcaneus. However, the calcaneus is within normal limits, 
+without evidence of osteomyelitis. A small inferior calcaneal 
+spur is noted. Probable diffuse osteopenia, but no focal bone 
+destruction.
+
+ANKLE (AP, MORTISE & LAT) RIGHT  [**2674-3-17**] 
+Considerable periosteal new bone formation along the mid and 
+distal fibula and tibia, with some surrounding soft tissue 
+edema. Differential diagnosis includes reactive changes, 
+hypertrophic osteoarthropathy, and osteomyelitis. Osteomyelitis 
+is considered somewhat less likely given the diffuse nature of 
+the abnormality, but should be correlated with clinical 
+findings.
+
+BIOPSY RESULTS
+Fascia, left thigh, biopsy [**2674-3-21**]
+Fibrous and adipose tissue with perivascular chronic 
+inflammation
+Culture
+STENOTROPHOMONAS (XANTHOMONAS) MALTOPHILIA   
+TRIMETHOPRIM/SULFA----   <=1 S
+
+ 
+Brief Hospital Course:
+The patient was admitted to the SICU on [**3-16**] after transfer from 
+OSH for rapidly worsening infection of LLE.  He was started on 
+broad spectrum triple antibiotic therapy and maintained on the 
+ventilator.  His vent was able to be weaned and he was extubated 
+on [**3-17**].  Plastic surgery and podiatric surgery were consulted 
+for further management of extensive wounds.  His antibiotics 
+were narrowed on [**3-20**] to clindamycin and oxacillin for outside 
+hospital culture data showing staph aureus (MSSA). Incision and 
+wash-out of left lower extremity was performed on [**3-21**].  A 
+tissue biopsy was sent to pathology and for culture at that 
+time.  Culture results were positive for stenotrophomonas 
+maltophilia sensitive to bactrim.  This [**Doctor Last Name 978**] was added to his 
+antibiotic regimen on [**3-27**].  A vac was placed on [**3-24**] and 
+continued with changes every 2-3days.
+
+On [**3-30**] plastic surgery performed a split thickness skin graft 
+from left and right thigh to the LLE.  A vac dressing was in 
+place for 5 days post-op.  On POD5 the vac was taken down and 
+the graft noted to have taken well with good granulation.  Twice 
+daily dressing changes were performed with iodoform covering new 
+graft, then kerlex wrapping, then an ACE bandage wrapped.  The 
+donor sites also had iodoform but these sites were left open to 
+air and the edges have been trimmed as they loosen.  Please do 
+not remove iodoform from thighs but continue to trim edges as 
+they curl away from skin.
+
+Patient also has an area of superficial denuded tissue at right 
+upper gluteal approx 1.5 cm x 1.5 cm with yellow base.  Wound 
+care followed the patient and recommended turning side to side q 
+1-2 hours; BID & prn bowel movement cleanse pt gluteals with 
+foam cleanser and pat dry applying double guard ointment then 
+aloe vesta barrier cream.
+ 
+Medications on Admission:
+theophylline 600"", lisinopril 20', HCTZ 25', Advair BID, Flovent 
+
+ 
+Discharge Medications:
+1. Clindamycin Phosphate 900 mg/6 mL Solution Sig: One (1)  
+Intravenous  Q8H (every 8 hours).
+Disp:*42 0* Refills:*0*
+2. Oxacillin 2 g Recon Soln Sig: One (1)  Intravenous  Q6H 
+(every 6 hours).
+Disp:*56 0* Refills:*0*
+3. Ipratropium Bromide 17 mcg/Actuation Aerosol Sig: Two (2) 
+Puff Inhalation QID (4 times a day).
+Disp:*qs qs* Refills:*2*
+4. Heparin (Porcine) 5,000 unit/mL Solution Sig: One (1)  
+Injection TID (3 times a day).
+Disp:*qs qs* Refills:*0*
+5. Ascorbic Acid 500 mg Tablet Sig: One (1) Tablet PO BID (2 
+times a day).  
+6. Oxycodone-Acetaminophen 5-325 mg Tablet Sig: One (1) Tablet 
+PO Q4-6H (every 4 to 6 hours) as needed for Breakthrough pain.  
+7. Gabapentin 300 mg Capsule Sig: One (1) Capsule PO Q8H (every 
+8 hours).  
+8. Dolasetron 12.5 mg/0.625 mL Solution Sig: One (1)  
+Intravenous  Q8H (every 8 hours) as needed.  
+9. Oxycodone 40 mg Tablet Sustained Release 12HR Sig: One (1) 
+Tablet Sustained Release 12HR PO Q8H (every 8 hours).  
+10. Metoprolol Tartrate 25 mg Tablet Sig: One (1) Tablet PO BID 
+(2 times a day).  
+11. Calcium Carbonate 500 mg Tablet, Chewable Sig: One (1) 
+Tablet, Chewable PO QID (4 times a day) as needed.  
+12. Zinc Sulfate 220 mg Capsule Sig: One (1) Capsule PO DAILY 
+(Daily).  
+13. Albuterol 90 mcg/Actuation Aerosol Sig: Six (6) Puff 
+Inhalation Q4H (every 4 hours) as needed.  
+14. Trimethoprim-Sulfamethoxazole 160-800 mg Tablet Sig: One (1) 
+Tablet PO BID (2 times a day).  
+15. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID 
+(2 times a day) as needed.  
+16. Lansoprazole 30 mg Tablet,Rapid Dissolve, DR [**Last Name (STitle) **]: One (1) 
+Tablet,Rapid Dissolve, DR [**Last Name (STitle) **] DAILY (Daily).  
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Discharge Diagnosis:
+LLE necrotizing fasciitis
+ 
+Discharge Condition:
+Good
+ 
+Discharge Instructions:
+[**Name8 (MD) **] M.D. for fevers, chills, worsening of symptoms, breakdown 
+of wounds, drainage from wounds, questions or concerns.
+
+Do no drive while taking narcotic pain medications.
+
+Daily dressing changes with layer of iodoform covering skin 
+graft areas on LLE, followed by dry kerlex wrap and Ace bandage 
+(not tight).
+
+Donor sites on thighs bilaterally with dry iodoform on 
+them...may be left open to air. Trim edges as they curl away
+Daily dressing changes with layer of iodoform covering skin 
+graft areas on LLE, followed by dry kerlex wrap and Ace bandage 
+(not tight).
+
+Donor sites on thighs bilaterally with dry iodoform on 
+them...may be left open to air. Trim edges as they curl away 
+from skin...do not pull off. 
+
+May dangle legs over edge of bed ad lib. Minimum of 4-5xper day, 
+increasing as tolerated. NWB on left leg. Will advance weight 
+bearing status with follow-up.
+
+ 
+Followup Instructions:
+Follow-up with plastic surgery clinic in 1-2 weeks. Please call 
+clinic to schedule [**Telephone/Fax (1) 2284**].
+
+Follow-up with podiatric clinic for management of feet wounds in 
+1-2 weeks, please call clinic to schedule [**Telephone/Fax (1) 480**].
+
+ 
+                             [**First Name11 (Name Pattern1) 2790**] [**Last Name (NamePattern4) **] MD [**MD Number 2791**]
+ 
+Completed by: [**First Name4 (NamePattern1) 3335**] [**Last Name (NamePattern1) 3336**] MD [**MD Number 3337**] [**2674-4-10**] @ 1139
+Signed electronically by: DR. [**First Name4 (NamePattern1) 2790**] [**Last Name (NamePattern1) 1797**]
+ on: MON [**2674-4-13**] 7:39 AM
+(End of Report)
+
+
+",,
+24101,26213,,,2674-03-16 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2674-3-16**] 5:18 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 15617**]
+     Reason: please eval ETT tip position, infiltrates                   
+     Admitting Diagnosis: NECROTIZING FASCIITIS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      41 year old man with LLE infection, intubated                                   
+     REASON FOR THIS EXAMINATION:
+      please eval ETT tip position, infiltrates                                       
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     AP CHEST, 5:37 A.M., [**3-16**].
+     
+     HISTORY:  Left lower extremity infection.  Intubated.
+     
+     IMPRESSION:  AP chest reviewed in the absence of prior chest radiographs:
+     
+     There is heterogeneous opacification in a partially atelectatic right upper
+     lobe, which may contain a discrete 24 mm right suprahilar nodule.  Both hila
+     are enlarged and the upper mediastinum is widened.  In the absence of prior
+     films, we cannot assess the chronicity of these findings, which should be
+     considered central adenopathy, right upper lobe nodule and atelectasis, until
+     proved otherwise.
+     
+     Cardiac silhouette is moderately enlarged.  There is no pleural effusion.  ET
+     tube tip is at the thoracic inlet, and a nasogastric tube can be traced only
+     as far as the mid esophagus, due in part to the large size of this patient.
+     
+     Dr. [**First Name8 (NamePattern2) 8866**] [**Last Name (NamePattern1) 9954**] and I discussed these findings at the time of dictation.
+
+",,
+24101,26213,29934,0,2674-03-16 04:19:00 EST,2674-03-16 04:36:00 EST,6441,"N",1,"Nursing/Other",,"
+
+Admit note (0100-0700) 04:40
+
+
+Pt admit to unit from OSH following fasciotomy of LL leg.
+
+Pt is 41yo male with Hx of morbid obesity, untreatd diabetes (? type 1 or 2), Asthma, 3pk/day smoker.  pt has ulcers to heels of both feet, covered with dsd by osh, left intact.
+
+Neuro.
+Recieved on propofol at 40mcg/kg/min, initially able to move all limbs and follow commands, though lethargicaly, became more sedate so propofol weaned to 35mcg/kg.
+
+Resp.
+pt recieved intubated, on ac.700/14/60%/peep 5.  pt with good abg's.  LS coarse to all fields.
+
+CVS.
+Pt initially tachy to 120's on arrival, settled to 70's-80's NSr with no ectopy seen, am lytes Na 133, K+ 3.7.
+HCT 33.4, type + screen sent as pt probably for OR this am.
+
+ID.
+Pt's WCC 30.2, A-Febrile at present, though was very diaphoretic on arrival, less so now.  blood Cx's sent.
+
+GI/GU.
+Pt NPO at present, with OG tube to LCS, slight billious drainage.
+Foley placed at OSH, draining good amounts of clear yellow urine.
+
+Skin.
+Pt with bandaged L leg post op, sero-sanguinous drainage to large area.  Pt with numerous small open ? tracking sores to lower abdominal skin fold with reddened area  above those on right side og abdomen.
+All other areas intact at present.
+
+social.
+Pt lives with his wife, no calls at this time,? if family travelled down to hospital overnight.
+
+Plan.
+Awaiting orders from primary team at this time.
+?? for OR this am.
+",,
+24101,26213,29934,0,2674-03-16 05:02:00 EST,2674-03-16 05:05:00 EST,7596,"N",1,"Nursing/Other","Respiratory Care Note:","
+Respiratory Care Note:
+     Received patient this shift from OSH in NH.  patient received intubated.  For current settings please see carevue.  Current ABG WNL.   patient remains afebrile.  Peak/Plat 32/19 respectively.  MV running [**10-19**].  SX none.  BS are coarse throughout.  No RSBI this am due to sedation and no spontaneous respirations.  Patient intubated with a #8.0ett, 26 at the lip.  Plan is to continue support and wean when tolerated.
+",,
+24101,26213,29934,0,2674-03-16 16:38:00 EST,2674-03-16 16:40:00 EST,5249,"N",1,"Nursing/Other",,"
+
+Respiratory Therapy
+
+Pt remains orally intubated on full mechanical support.  ETT advanced per CXR, retaped and secure.  BS diminished, coarse anteriorly, suctioned for small amounts of thick clear secretions.  MDIs started and given as ordered.  SpO2 remained >90%.  Currently on A/C ventilation w/ PIP/Pplat = 25/18.  Vt decreased and RR increased to remain in ARDSnet vent parameters based on IBW.  See resp flowsheet for specific vent settings/data/changes.
+
+Plan: maintain support
+",,
+24101,26213,29934,0,2674-03-16 16:57:00 EST,2674-03-16 17:11:00 EST,936,"N",1,"Nursing/Other","CONDITION UPDATE","
+CONDITION UPDATE
+ASSESSMENT:
+    PATIENT SEDATED ON PROPOFOL, OPENS EYES AND AROUSES TO PAIN.  REQUIRING INCREASED AMOUNTS SEDATION THROUGHOUT THE DAY.  PATIENT MOVES ALL EXTREMITIES PURPOSEFULLY.  MEDICATED WITH MORPHINE FOR PAIN WITH DRESSING CHANGES AND REPOSITIONING WITH FAIR EFFECT.
+    HEART RATE 80-110 NORMAL SINUS, BLOOD PRESSURE STABLE.  SEE FLOWSHEET FOR ALL DETAILS.  PATIENT MAKING ADEQUATE HOURLY URINE OUTPUT.  LUNG SOUNDS COARSE BUT MINIMAL SECRETIONS SUCTIONED.  PATIENT REMAINS ON ASSIST CONTROL, NO VENT CHANGES MADE IN AFTERNOON.  
+    LEFT LOWER EXTREMITY OOZING LARGE AMOUNTS MOSTLY SEROSANG FLUID, DRESSING CHANGED IN AM BY SURGERY TEAM.  AWAITING PLASTICS INPUT.  HEELS BILATERALLY WITH OPEN AREAS, TISSUE DRY, NO DRAINAGE.  HEELS CULTURED AND PACKED BY PODIATRY.  LOWER PART OF ABDOMEN WITH 2 SMALL OPENINGS (NOT DEEP) IN SKIN FOLD, PACKED WET-TO-DRY.  WBC COUNT COMING DOWN, PT AFEBRILE.
+    ABDOMEN ROUND & SOFT.  NO STOOL TODAY.  TUBE FEEDS STARTED THRU OGT, PATIENT TOLERATING WELL.
+PLAN:
+    CONTINUE WITH BID DRESSING CHANGES AND IV ABX.  PAIN CONTROL, ? IV GTT FOR PAIN.  
+",,
+24101,26213,29934,,2674-03-17 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2674-3-17**] 4:07 PM
+     ANKLE (AP, MORTISE & LAT) RIGHT                                 Clip # [**Clip Number (Radiology) 15619**]
+     Reason: R/O osteo of Right ankle                                    
+     Admitting Diagnosis: NECROTIZING FASCIITIS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        41 year old man with LLE infection, intubated                                 
+       
+     REASON FOR THIS EXAMINATION:
+      R/O osteo of Right ankle                                                        
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Left lower extremity infection, intubated, rule out osteomyelitis.
+     
+     RIGHT ANKLE, THREE VIEWS: No previous films on pacs record for comparison.
+     
+     There is mild soft tissue edema about the ankle.  There is periosteal new bone
+     formation about the distal tibia and visualized portion of the fibular shaft
+     and distal fibula, relatively aggressive in appearance.  No focal lytic lesion
+     or cortical interruption is identified.  No fracture is detected.
+     
+     IMPRESSION:  Considerable periosteal new bone formation along the mid and
+     distal fibula and tibia, with some surrounding soft tissue edema.
+     Differential diagnosis includes reactive changes, hypertrophic
+     osteoarthropathy, and osteomyelitis. Osteomyelitis is considered somewhat less
+     likely given the diffuse nature of the abnormality, but should be correlated
+     with clinical findings.
+
+",,
+24101,26213,29934,,2674-03-17 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2674-3-17**] 4:59 PM
+     FOOT 2 VIEWS LEFT                                               Clip # [**Clip Number (Radiology) 15620**]
+     Reason: LT FOOT INFECTION, LT FOOT DEBRIVEMENT
+     Admitting Diagnosis: NECROTIZING FASCIITIS
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Per doctor.
+     
+     LEFT FOOT, TWO VIEWS
+     
+     There is a large skin defect overlying the posteroinferior calcaneus. However,
+     the calcaneus is within normal limits, without evidence of osteomyelitis.  A
+     small inferior calcaneal spur is noted.  Probable diffuse osteopenia, but no
+     focal bone destruction.
+
+",,
+24101,26213,29934,,2674-03-17 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2674-3-17**] 4:36 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 15618**]
+     Reason: interval change                                             
+     Admitting Diagnosis: NECROTIZING FASCIITIS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       41 year old man with LLE infection, intubated                                  
+     REASON FOR THIS EXAMINATION:
+      interval change                                                                 
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     REASON FOR EXAMINATION:  Evaluation of the interval changes in 41-year-old man
+     with left lower lobe extremity infection which was intubated.
+     
+     Portable AP chest film was done and compared to the previous AP chest film
+     from yesterday [**2674-3-16**].
+     
+     Marked improvement of the heterogeneous opacifications in partly atelectatic
+     right upper lobe is seen with small residual opacification seen near the minor
+     fissure.  There is also improvement in the left upper lobe opacification with
+     almost complete clearing of it.  The tip of endotracheal tube is in a good
+     position.  The end of the NG tube project over the left upper abdomen.
+     
+     IMPRESSION:  Marked improvement of the right upper lobe and left upper lobe
+     atelectasis, with residual upper lobe opacities. Upright PA and lateral chest
+     films are recommended for the evaluation of the residual changes in the upper
+     lobes when the patient's condition permits.
+
+",,
+24101,26213,29934,0,2674-03-17 04:21:00 EST,2674-03-17 04:26:00 EST,1017,"N",1,"Nursing/Other","Resp Care","
+Resp Care
+Pt. remains intubated/sedated on vent AC mode. Abgs revealed resp. acidosis with metabolic compensation, hyperoxygenation. 
+Bs: exp. wheezes with prolonged phase. Secreations, thick white, minimal.
+CXR: revealed opacification in RUL/?of nodule)
+Plan: Continue support, wean as tolerated.
+",,
+24101,26213,29934,0,2674-03-17 04:56:00 EST,2674-03-17 05:11:00 EST,580,"N",1,"Nursing/Other","condition updated","
+condition updated
+s/p necrotizing fasc.
+Pt sedated on propofol (100mcg) and not reacting. discussed decreasing rate by starting pain med. responded to ivp fentanyl followed by fentanyl drip which needed titration to 50 mcg. Pt OFF PROPFOL and now is awake, follows commands and is in good pain control.
+AWAITING DSG CHANGES AND PPLAN FROM PLASTICS WILL MOST LIKELY RESEDATE FOR DSG CHANGES and FURTHER LEG MANAGEMENT  
+",,
+24101,26213,29934,0,2674-03-17 17:10:00 EST,2674-03-17 17:14:00 EST,175,"N",1,"Nursing/Other",,"
+
+Respiratory Care:
+
+Pt. extubated to a 50% cool neb. O2 sat between 93% and 99% 
+depending on DB and C (better post cough). 
+HR = 154,  RR = 17, bp = 174/83 (112). He is awake and alert
+responding appropriatly.
+",,
+24101,26213,29934,0,2674-03-17 17:27:00 EST,2674-03-17 17:34:00 EST,936,"N",1,"Nursing/Other","CONDITION UPDATE","
+CONDITION UPDATE
+ASSESSMENT:
+    PATIENT SEDATED ON PROPOFOL & FENTANYL GTTS MOST OF THE DAY.  PATIENT AROUSABLE AND FOLLOWS COMMANDS.  LUNG SOUNDS COARSE BUT PATIENT HAS MINIMAL SECRETIONS.  WOUND VAC PLACED ON LEFT LEG BY DR. [**Last Name (STitle) 63**], CURRENTLY MINIMAL DRAINAGE.  BILATERAL XRAYS DONE ON LOWER EXTREMITIES.  WET-TO-DRY HEEL DRESSINGS DONE BY PODIATRY THIS AM.  AFTER WOUND VAC, PATIENT PLACED ON CPAP 5/5, SEDATION DC'D.  PATIENT EXTUBATED WITHOUT INCIDENT BUT REMAINS ON FENTANYL GTT FOR PAIN CONTROL.  SEE FLOWSHEET FOR ALL VITALS. 
+    ABDOMEN ROUND, + BOWEL SOUNDS.  TUBE FEEDS OFF DUE TO EXTUBATION.  2 SMALL OPEN RED AREAS IN SKIN FOLD OF ABDOMEN, WET-TO-DRY DSG PLACED. RIGHT LOWER PART OF ABDOMEN PINK AND WARM, DR. [**Last Name (STitle) 63**] NOTIFIED.  
+PLAN:
+    CONTINUE WITH PAIN CONTROL.  ENCOURAGE PULMONARY HYGIENE.  CONTINUE WITH CURRENT ICU MONITORING AND TREATMENT.
+",,
+24101,26213,29934,,2674-03-18 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+",,
+24101,26213,29934,0,2674-03-18 06:06:00 EST,2674-03-18 06:33:00 EST,580,"N",1,"Nursing/Other","condition update","
+condition update
+SP/NECROTIZING FASCITIS
+ALERT, FOLLOWS COMMANDS AND HAS APPROPRIATE C/O PAIN IN LLE;
+FENTANYL GTT TITRATED TO 100MCG FOR AN ACCEPTABLE LEVEL OF PAIN.
+RESP STATUS POST EXTUBATION IMPROVED.
+LEG VAC INTACT INITIALLY BUT ALARMING MORE FREQUENTLY ""LEAK""
+INCREASED REDNESS ALSO NOTICED WHICH HAS NOW EXTEND TO GROIN. SURGICAL RESIDENT AS WELL AS SURGICAL TEAM NOTIFIED. VAC DSG REMOVED AND GAUZE REAPPLIED PT REQUIRED INCREASED SEDATION AND PAIN MED (NOW @125MCG FENTANYL) WITH ADDITIONAL 2MG ATIVAN. WILL KEEP NPO, START IV FLUID, CHANGE ABX AND MOST LIKELY SEND TO OR FOR FURTHER EXPLORATION 
+
+",,
+24101,26213,29934,0,2674-03-18 16:29:00 EST,2674-03-18 16:43:00 EST,6441,"N",1,"Nursing/Other",,"
+
+Nursing note (0700-1900) 16:30
+
+
+Neuro.
+Pt A+Ox3, follows commands, pain controlled with fentanyl gtt, effective at 125mcg/hr. Pt conversive and in pleasant mood this shift.
+
+Resp.
+Pt recieved on 100% NRB mask, able to place back to NC 4l once pt awake.  LS coarse to all fields, weak cough effort, encouraged woth C+DB and incentive spirometry.
+
+CVS.
+HR 80-90's NSR with no ectopy seen.
+BP 130's-170's/70's-80's, on Lopressor 10mg Q6hrs, with good effect.
+
+GI/GU.
+Pt tollerating clear liquids well, desperate for more substantial meal, but advised that need is to keep partially prepped for OR.  +BS with no BM as yet this shift.
+Foley patent for average amounts of clear yellow urine.
+
+Skin.
+LL leg re-dressed with wet to dry bandages, area appears clean and pink.  Areas of reddened skin to thigh outlined for monitoring, plastics felt areas may respond to Abx, and no need for surgery as yet.
+Left heel packed and open to air, R heel packed, with DSD in place.
+Wounds to abdomen packed, miconazole applied and left open to air.
+Pt OOB to chair this pm, tollerating well.
+
+Social.
+No calls or visits this shift.
+
+Plan.
+Continue with current POC.
+",,
+24101,26213,29934,0,2674-03-19 03:16:00 EST,2674-03-19 03:31:00 EST,6908,"N",1,"Nursing/Other","condition update","
+condition update
+neuro: alert, oriented, moves all extremities to command, pupils are equal and reactive.  Fentanyl gtt off at 0100, fentanyl ordered prn.  Pt denies pain at rest, but pt c/o severe pain with dressing changes. 
+CV: NSR, hr 60's-80's, no ectopy noted, sbp 110's-140's.  Iv lopressor q6 continues.  +palp. peripheral pulses. 
+Resp: LS coarse/diminished, 4 L n.c., no c/o sob.  02 Sat 97-99%, trends down to 94% while sleeping. Incentive spirometer encouraged. 
+GI: tolerating clear liquids, then npo after midnight for ? or.  Abd. is obese/soft, +bs, +flatus, no bm. 
+GU: foley draining adequate amts. clear yellow urine. 
+Endo: ssri
+ID afebrile, vanco trough drawn with pm dose, levo and clinda continue.  It was noted in the evening that erythema on the left leg was questionably extending beyond markings. Gold surgery on call ([**Doctor Last Name **]) was notified and at bedside to evaluate, Sicu resident also notified and at bedside to assess. No new orders at this time.  drsg.  changed times 1, drainage is serosang, no purulence noted. 
+Plan: npo for ? or today, continue drsg changes, [**Name5 (PTitle) **] [**Name5 (PTitle) 4186**] for pain to pre dsg changes, monitor erythema.  
+",,
+24101,26213,29934,0,2674-03-19 03:46:00 EST,2674-03-19 03:48:00 EST,6908,"N",1,"Nursing/Other","addendum","
+addendum
+addendum: it was also noted earlier this evening the erythema on abd. had extended beyond markings, sicu and gold surgery h.o.'s were notified and at bedside to evaluate while assessing erythema on left leg.  
+",,
+24101,26213,29934,0,2674-03-19 16:28:00 EST,2674-03-19 16:38:00 EST,6441,"N",1,"Nursing/Other",,"
+
+Nursing note (0700-1900) 16:30
+
+Neuro.
+Pt A+Ox3, mae within limits, PRN pain relief given with good effect.
+
+Resp.
+SpO2 97-100% on 4l nc, LS clear UL's, diminished LL's, C+DB encouraged.
+
+CVS.
+HR 80's NSR with no ectopy.
+BP 130-160's/70's, on Q6hr Lopressor.
+
+GI/GU.
+Pt on clear fluid diet, tollerating well, +BS with large formed stool passed this am.
+Adequate amounts of clear yellow urine passed via foley.
+
+ID.
+Levofloxacin changed to Oxacillin, continues on Vanco and Clindamycin.
+
+Skin.
+All wounds redressed, pt turning self at times with supervision, pressure areas intact.
+areas of erythema unchanged, no plan to take to OR.
+
+Social.
+No calls or visits so far this shift.
+
+Plan.
+Continue with current POC.
+If stable, to be called out in am.
+
+",,
+24101,26213,29934,0,2674-03-20 05:22:00 EST,2674-03-20 05:33:00 EST,7740,"N",1,"Nursing/Other","NURSING NOTE","
+NURSING NOTE
+NEURO: A & O X 3, FOLLOWS COMMANDS, MAE'S. PAIN WELL CONTROLLED WITH FENTANYL PRN
+
+CVS: HR 70S-80S, NSR, RARE PVC'S. SBP 130S-150S, LOPRESSOR GIVEN. AFEBRILE.
+
+RESP: O2 SATS 96-100% ON 4L N/C. LUNG SNDS DIMINISHED AT BASES, OTHERWISE CLEAR.
+
+GI/GU: NO N/V, TOL LIX/POPS WELL. FOLEY PATENT, DRNG LGE AMT U/O.
+
+WOUND: BILAT HEEL W-D DSG WITH MOD AMT SEROUS DRNG, BOTH DSG CHANGED. TWO ABD SITE WICKS CHANGED, COVERED WITH DSD. LLE FASCIOTOMY WITH COPIOUS AMTS SEROUS DRNG, W-D DSG/CURLEX CHANGED. 
+
+ENDO: NO INSULIN COVERAGE NEEDED
+
+INTEG: PT TURNED FREQUENTLY FOR SKIN CHECKS, NO NEW AREAS OF BREAKDOWN NOTED.
+
+PLAN: CONT TO MONITOR VS, WND CARE, PAIN MGMT, RESP STATUS, FAMILY SUPPORT, ?TRANSFER TO FLOOR IN AM
+",,
+24101,26213,29934,0,2674-03-20 16:18:00 EST,2674-03-20 16:30:00 EST,6441,"N",1,"Nursing/Other",,"
+
+Nursing note (0700-1900) 16:20
+
+Neuro.
+Pt A+Ox3, pain relieved with 50-100mcg fentanyl.  Pt becoming a little withdrawn due to length of time without proper nutrition.
+
+resp.
+4l nc, SpO2 95-99%, LS clear to diminished at bases.
+
+CVS.
+HR 80's NSR with no ectopy seen.
+BP 130-170/70-80.  On lopressor 10mg Q6hrs.
+
+GI/GU.
+Pt NPO as for OR.  +BS with moderate amount of brown formed stool passed this am.
+Passing adequate amounts of clear yellow urine via foley.
+
+Skin.
+Pt due to go to OR this pm for further exploration of left thigh, due to red area expanding past previous outline.
+Wound redressed this am, not done this pm as going to OR.
+Pressure areas intact.
+
+Social.
+Wife called for update, explained pt going to OR.
+
+Plan.
+Pt to OR, then to surgical floor post op.
+",,
+24101,26213,29934,0,2674-03-21 06:45:00 EST,2674-03-21 06:56:00 EST,1267,"N",1,"Nursing/Other","focus update","
+focus update
+t max 99.1, currently afebrile at 98.6 80-90s nsr, bp 130-180/70-80, rec'd extra dose lopressor 10 mg iv for bp 190/80
+
+resp: lsc, o2sat 94-98%on 4 liters via n/c
+
+ivf d5.45ns with 40 kcl cont kcl 5.3 at 0300 and repeat lab sent at 0600 lab pending
+
+gu/gi: uo >30cc/hr, liquid stool x 3, fecal bag placed to avoid stool on open wound,pt continues npo status
+
+OR: pt on call to OR all night, pt pt remains npo, ? pt on call to or this am. parents stayed overnight in room to see pt off to OR for moral support.
+
+dressing change pt requiring total of 200 mcq fentanyl over 1.5 hours for dressing change, ? pt may need ativan order as well. skin pink appears to be healthy tissue over left leg  
+
+neuro: alert oriented x 3, follows commands consistently, mae.
+
+plan: pt to go to or today, on call for or, to remain npo, provide adequate pain control for dressing changes.
+",,
+24101,26213,29934,0,2674-03-21 18:42:00 EST,2674-03-22 08:00:00 EST,7311,"N",1,"Nursing/Other","SICU nursing progress note- Addendum","
+SICU nursing progress note- Addendum
+Please refer to flowsheet for specific info.
+
+Neuro is unchanged from previous assessment.
+
+Resp: Breath sounds remain equal bilaterally. Clear with occasional exp wheeze in upper right lobe and diminished at bases. Sat's > 95% on 4L NC.
+
+CV: SR no ectopy. BP stable. Aline intact. 
+
+GI: NPO for debridement of wound today. Clear liquids well tolerated post op. Large loose stool in am. Active bowel sounds. Will be NPO post midnight for possible am surgery/ debridement of wound.
+",,
+24101,26213,29934,0,2674-03-22 18:51:00 EST,2674-03-22 18:58:00 EST,7311,"N",1,"Nursing/Other","SICU nursing progress note","
+SICU nursing progress note
+Please refer to flowsheet for specific info.
+
+Neuro: Alert Oriented x 3. no changes from previous assessment.
+
+REsp: Breath sounds clear and equal bilaterally. Cont to encourage incentive spirometry. Albuterol and atrovent for hx of asthma.Sat's >96% today on 4-6L/min NC. 
+
+CV: SR no ectopy. Aline good waveform. 
+
+GI: House diet well tolerated. Encourage protein in diet. Active bowel sounds. Large BM x 1. Possible that may need to be NPO post Midnight, please check with Dr. [**Last Name (STitle) **].
+
+Wound: Left leg with increased amount of erythema and induration this evening. Dr. [**Last Name (STitle) **] updated and examined, outline made of area and will continue to watch closely. Continue with dressing changes BID. Fentanyl 300 mcg and Versed 2 mg given IV with good effect. To start Dilaudid PCA this evening. 
+
+GU: Foley cath to gravity clear yellow urine. >50cc/hour. 
+
+Plan cont to follow glucose q 6 hours, follow labs, and antibiotics. 
+",,
+24101,26213,29934,,2674-03-23 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2674-3-23**] 10:40 AM
+     PICC LINE PLACMENT SCH                                          Clip # [**Clip Number (Radiology) 15621**]
+     Reason: please place PICC                                           
+     Admitting Diagnosis: NECROTIZING FASCIITIS
+     ********************************* CPT Codes ********************************
+     * 36569 PICC W/O [**State/Zipcode 185**] FLUOR GUID PLCT/REPLCT/REMOVE *
+     * 76937 US GUID FOR VAS. ACCESS        C1751 CATH [**Last Name (LF) 186**],[**First Name3 (LF) **]/CENT/MID(NOT D*
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      41 year old morbidly obese man with nec fasciitis and need for access           
+     REASON FOR THIS EXAMINATION:
+      please place PICC                                                               
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Necrotizing fasciitis requiring double lumen PICC line.
+     
+     PROCEDURE:  This procedure was performed by Dr. [**Last Name (STitle) **], with Dr. [**First Name (STitle) 2253**] [**Name (STitle) 188**]
+     [**Doctor Last Name 188**] d'Othee, the Attending Radiologist, being present and supervising
+     throughout. The right upper extremity was prepped and draped in the usual
+     sterile fashion. Since no suitable superficial vein was visible, ultrasound
+     was used to identify an appropriate right basilic vein.  Hardcopy ultrasound
+     images were obtained to confirm patency.  The right basilic vein was accessed
+     via a 21- gauge micropuncture needle, and under ultrasound guidance, 0.018
+     guide wire was advanced to the level of the atriocaval junction.  Over the
+     introducer sheath, the PICC line, trimmed to 39 cm, with advanced under
+     fluoroscopic guidance with its tip placed at the atriocaval junction.  The
+     PICC was statlocked, heplocked, and flushed.  It was secured to the skin by a
+     sterile dressing. The line is ready for use.
+     
+     IMPRESSION: Successful placement of double lumen, 39 cm, PICC via the right
+     basilic vein with its tip at the atriocaval junction; line is ready for use.
+
+",,
+24101,26213,29934,,2674-03-23 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2674-3-23**] 10:40 AM
+     PICC LINE PLACMENT SCH                                          Clip # [**Clip Number (Radiology) 15621**]
+     Reason: please place PICC                                           
+     Admitting Diagnosis: NECROTIZING FASCIITIS
+     ********************************* CPT Codes ********************************
+     * 36569 PICC W/O [**State/Zipcode 185**] FLUOR GUID PLCT/REPLCT/REMOVE *
+     * 76937 US GUID FOR VAS. ACCESS        C1751 CATH [**Last Name (LF) 186**],[**First Name3 (LF) **]/CENT/MID(NOT D*
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      41 year old morbidly obese man with nec fasciitis and need for access           
+     REASON FOR THIS EXAMINATION:
+      please place PICC                                                               
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Necrotizing fasciitis requiring double lumen PICC line.
+     
+     PROCEDURE:  This procedure was performed by Dr. [**Last Name (STitle) **], with Dr. [**First Name (STitle) 2253**] [**Name (STitle) 188**]
+     [**Doctor Last Name 188**] d'Othee, the Attending Radiologist, being present and supervising
+     throughout. The right upper extremity was prepped and draped in the usual
+     sterile fashion. Since no suitable superficial vein was visible, ultrasound
+     was used to identify an appropriate right basilic vein.  Hardcopy ultrasound
+     images were obtained to confirm patency.  The right basilic vein was accessed
+     via a 21- gauge micropuncture needle, and under ultrasound guidance, 0.018
+     guide wire was advanced to the level of the atriocaval junction.  Over the
+     introducer sheath, the PICC line, trimmed to 39 cm, with advanced under
+     fluoroscopic guidance with its tip placed at the atriocaval junction.  The
+     PICC was statlocked, heplocked, and flushed.  It was secured to the skin by a
+     sterile dressing. The line is ready for use.
+     
+     IMPRESSION: Successful placement of double lumen, 39 cm, PICC via the right
+     basilic vein with its tip at the atriocaval junction; line is ready for use.
+
+",,
+24101,26213,29934,,2674-03-23 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2674-3-23**] 10:40 AM
+     PICC LINE PLACMENT SCH                                          Clip # [**Clip Number (Radiology) 15621**]
+     Reason: please place PICC                                           
+     Admitting Diagnosis: NECROTIZING FASCIITIS
+     ********************************* CPT Codes ********************************
+     * 36569 PICC W/O [**State/Zipcode 185**] FLUOR GUID PLCT/REPLCT/REMOVE *
+     * 76937 US GUID FOR VAS. ACCESS        C1751 CATH [**Last Name (LF) 186**],[**First Name3 (LF) **]/CENT/MID(NOT D*
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      41 year old morbidly obese man with nec fasciitis and need for access           
+     REASON FOR THIS EXAMINATION:
+      please place PICC                                                               
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Necrotizing fasciitis requiring double lumen PICC line.
+     
+     PROCEDURE:  This procedure was performed by Dr. [**Last Name (STitle) **], with Dr. [**First Name (STitle) 2253**] [**Name (STitle) 188**]
+     [**Doctor Last Name 188**] d'Othee, the Attending Radiologist, being present and supervising
+     throughout. The right upper extremity was prepped and draped in the usual
+     sterile fashion. Since no suitable superficial vein was visible, ultrasound
+     was used to identify an appropriate right basilic vein.  Hardcopy ultrasound
+     images were obtained to confirm patency.  The right basilic vein was accessed
+     via a 21- gauge micropuncture needle, and under ultrasound guidance, 0.018
+     guide wire was advanced to the level of the atriocaval junction.  Over the
+     introducer sheath, the PICC line, trimmed to 39 cm, with advanced under
+     fluoroscopic guidance with its tip placed at the atriocaval junction.  The
+     PICC was statlocked, heplocked, and flushed.  It was secured to the skin by a
+     sterile dressing. The line is ready for use.
+     
+     IMPRESSION: Successful placement of double lumen, 39 cm, PICC via the right
+     basilic vein with its tip at the atriocaval junction; line is ready for use.
+
+",,
+24101,26213,29934,0,2674-03-23 19:13:00 EST,2674-03-23 19:18:00 EST,7311,"N",1,"Nursing/Other","SICU nursing progress note","
+SICU nursing progress note
+please refer to flowsheet for specific info.
+
+Neuro: No changes from previous assessment. Alert and Oriented x 3.
+
+Resp: Breath sounds clear and equal bilaterally. Inc spirometry and cough deep breathing encouraged q 1- 2 hours.
+
+CV: SR no ectopy. Aline with good waveform. 
+
+Wound: Please refer to careview for description. May place NPO post midnight for possible OR in am. 
+
+Social: Social services consulted r/t coping. 
+
+GI: Active bowel sounds x 4. NO stool today. 
+
+Pain: PCA with good effect. Wound / dressing changes with fentanyl and versed with good effect.
+
+Plan: cont PCA and pain management, follow glucose q 6 and RISS. Follow labs, provide antibiotics as ordered. Wound dsg changes by MD, may change BID. Cont to update and support family. D/C plan is ongoing. 
+",,
+24101,26213,29934,0,2674-03-24 04:20:00 EST,2674-03-24 04:28:00 EST,6441,"N",1,"Nursing/Other",,"
+
+Nursing note (1900-0700) 04:25
+
+Neuro.
+Pt A+Ox3, controlling pain with PCA well.  Slept for short periods during the night, seems in pleasant mood at present.
+
+Resp.
+6l nc, LS clear to UL's, diminished LL's, SpO2 93-99%.
+
+CVS.
+HR 70's NSR, no ectopy seen.
+BP 120-160's/50-70's, stable on lopressor.
+
+GI/GU.
+Tollerating diet, +BS with no BM as yet this shift.
+Adequate UOP via foley, yellow, clear.
+
+Skin.
+Awaiting primary team to re-dress pt's leg wound.
+Pressure areas intact.
+
+Social.
+No calls overnight.
+Awaiting SW input.
+
+Plan.
+Continue current POC.
+",,
+24101,26213,29934,0,2674-03-24 17:38:00 EST,2674-03-24 18:40:00 EST,7311,"N",1,"Nursing/Other","SICU nursing progress note","
+SICU nursing progress note
+Please refer to flowsheet for specific info.
+
+Neuro: Alert and oriented x 3. MAE. Appropriate.
+
+Pain: Management of pain with dilaudid PCA, tolerating well and is in moderate acceptable amount of pain. 
+
+Resp: Breath sounds clear and equal bilaterally. History of asthma, inhalers given per order. Breathing comfortably on 6L/min NC. Sat's >94%. Incentive spirometry, cough and deep breathing cont to encourage q 1-2 hours. 
+
+CV: SR with no ectopy. ST during dressing change. Aline with good waveform. 
+
+GI: Tolerating diet well. Active bs x 4. Obese. No stool thus far today. Stool softener started. 
+
+GU: Foley cath to gravity uop >50cc/hour. 
+
+Social: Wife called and updated, verbalizing understanding. 
+
+Wound: Dressing change at 1600 requiring large amounts of pain medicine, Fentanyl 300 mcg IV x in divided doses over 1 1/2 hours. Versed given at the start of the dressing change and ativan given at 1700 as anxiolytic. Wound description in flowsheet. 
+
+Plan: Cont to follow glucose q 6 hours, RISS. Cont pain management with pca Dilaudid. Follow labs. Vacuum dressing intact with plan to change in 3 days. Cont antibiotics as ordered. Levofloxacin added today for gm (-) rods/ positive culture x 2. Plan to transfer to [**Hospital Ward Name 41**] 9 in morning. PLan is also for dressing changes in future to be done in OR with anesthesia in attendance every 3 days. Cont to update and support family. D/C plan is ongoing. 
+",,
+24101,26213,29934,0,2674-03-25 04:23:00 EST,2674-03-25 04:27:00 EST,6441,"N",1,"Nursing/Other",,"
+
+nursing note (1900-0700) 16:30
+
+
+Uneventful night, pain controlled with PCA to adequate level, wound vac draining well, to be changed in OR on Friday.  Pt has slept for most of night.  Tollerating diet well, no BM this shift.
+
+Plan.
+Tx to [**Hospital Ward Name 41**] 9 this am.
+
+",,
+24101,26213,29934,0,2674-03-25 17:18:00 EST,2674-03-25 17:45:00 EST,7740,"N",1,"Nursing/Other","NURSING NOTE","
+NURSING NOTE
+NEURO: A & O X 3, MAE'S WITH MIN ASSIST, PAIN WELL CONTROLLED WITH DILAUDID PCA. 
+
+CVS: HR 80'S-100'S, NSR/SINUS TACHY. SBP 120'S-160'S, AFEBRILE.
+
+RESP: O2 SATS 93-100% ON 5L O2 VIA N/C, LUNGS SLIGHTLY DIMINSHED AT BASES, OTHERWISE CLEAR. 
+
+GI/GU: TAKING GOOD PO'S, FOLEY WITH LGE U/O. NO BM. 
+
+ENDO: BS CHECKED, NO INSULIN COVERAGE NEEDED.
+
+INTEG: ABD/PANNUS W-D DSG WITH SM AMT S/S DRNG, CHANGED THIS AM. BILAT HEEL W-D DSGS WITH MOD AMT S/S DRNG, CHANGED THIS PM. NO OTHER AREAS OF BREAKDOWN NOTED, LOTION APPLIED.
+
+PLAN: CONT O2 THERAPY, WND CARE, PAIN MGMT, ?TRANSFER TO FLOOR
+",,
+24101,26213,29934,0,2674-03-26 04:28:00 EST,2674-03-26 04:33:00 EST,6441,"N",1,"Nursing/Other",,"
+
+Nursing note (1900-0700) 04:30
+
+No change in pt condition from previous shift, continues on PCA for pain relief, has slept well overnight, de-sats at times when in deep [**Doctor Last Name **] if O2 off.
+AM labs WNL.
+Wound vac working well, dressing re-enforced due to slight leakage of air.
+
+Plan.
+Continue current POC, ?? Tx to floor.
+",,
+24101,26213,29934,0,2674-03-26 20:33:00 EST,2674-03-26 20:34:00 EST,6441,"N",1,"Nursing/Other",,"
+
+Pt TX to floor at 20:00.
+",,

@@ -1,0 +1,1424 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+24074,,,,2572-07-31 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2572-7-31**] 3:27 PM
+     HIP UNILAT MIN 2 VIEWS LEFT                                     Clip # [**Clip Number (Radiology) 15318**]
+     Reason: check hardware                                              
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        [**Age over 90 **] y/o M s/p ORIF L FEMUR                                                     
+     REASON FOR THIS EXAMINATION:
+      check hardware                                                                  
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Check hardware.
+     
+     LEFT FEMUR, TWO VIEWS:  Compared to [**2571-12-12**], there has been no change
+     in the appearance of the left femur and fixation construct.  Patient is status
+     post left hip hemiarthroplasty with allograft, lateral fixation plate, and
+     cerclage wires.  No evidence of fracture, hardware loosening, or complication.
+     No new fracture.  No soft tissue abnormalities.  Medial location of the tip of
+     the femoral stem is unchanged in appearance compared to prior exam.  The
+     cement component interface is normal.
+     
+     IMPRESSION:  Status post left hip hemiarthroplasty, unchanged.  No new
+     fracture.
+
+",,
+24074,26405,,,2572-08-08 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+ 
+ 
+ 
+Admission Date:  [**2572-8-8**]              Discharge Date:   [**2572-8-18**]
+ 
+Date of Birth:  [**2477-11-6**]             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Erythromycin Base
+ 
+Attending:[**First Name3 (LF) 1038**] 
+Chief Complaint:
+Sepsis/UTI
+ 
+Major Surgical or Invasive Procedure:
+PICC line placement, Pacer Interrogation
+
+ 
+History of Present Illness:
+HPI: 94M with PMH notable for CAD, CHF (EF 20-25%) was brought 
+to the ED this morning by his family with whom he lives. Prior 
+to this morning, the pt was at his baseline, and had taken a 
+number of day trips with his fmaily over the past 2 weeks.  This 
+morning, the pt's granddaughter went to his basement apt to look 
+in on him (his son and son's famly live upstairs) and found that 
+he was trembling and a bit confused. The pt's son then assessed 
+his father, and gave him Benadryl (1 tab) for the shaking. He 
+was sweating and clammy, but his temp later was >102 po The pt 
+then took his usual am meds with Glucerna, but vomited a frothy 
+emesis. He was then transported to the ED.  
+.  
+Per the pt's family, he had been feeling fine prior to this 
+morning. he had not complained of cough or SOB, nor had he 
+mentioned difficulty voiding or dysuria. His son empties a 
+bedside commode in the am for him, and has identified past UTIs 
+by malodorous urine, which he did not identify today. He had not 
+complained of CP or SOB. No GI sx, no bowel changes, no previous 
+fever/chills/malaise. He had not c/o HA or neck stiffness, or 
+pain of any kind. Pt had no recent exotic travel or known sick 
+contacts.  
+.  
+In the ED, the pt was initially stable but satting 84% RA. ON MD 
+exam, sat improved (?on NC), but temp was 104 with HR 60s, BP 
+134/61. He was minimally responsive (s/p benadryl) and exam was 
+notable for bibasilar rales. Because he was obtunded and had 
+ememis in ED with ?aspiration, he was intubated for airway 
+protection and quickly became hypotensive (BP min 105/50 prior 
+to sedation). He received 5L NS boluses (levophed started after 
+3L), as well as 2 g CTX, 1 gm vanc, 500 mg metronidazole, 1 g 
+tylenol, etomidate, succinylcholine, 10 mg dexamethasone, 2mg 
+midazolam x 2, levophed gtt, propofol gtt. He was subsequently 
+transferred to the FICU for further therapy and monitoring.  
+
+ 
+Past Medical History:
+CAD - s/p MI in [**2552**] tx with lytic therapy and rescue 
+angioplasty  
+CHF - EF 20-25%  
+DM2  
+History of PAF  
+S/p PPM  
+Status post permanent pacemaker insertion.  
+Hypertension  
+Hypercholesterolemia  
+L hip replacement 1997 c/b femur fx with ""slipped prosthetic"" 
+2005  
+Past UTIs, most recently with proteus mirabalis (ctx sensitive, 
+fluoroquinolone resistant)  
+S/p TURP  
+
+ 
+Social History:
+Pt is [**Age over 90 123**] yo male who lives in basement of sons house. Wife 
+passed away last year. Retired plumber who worked here at [**Hospital1 25**]. 
+
+Had been ambulating with a walker since leaving rehab, 
+participates in home PT few times a week.  
+
+ 
+Family History:
+non-contributory
+ 
+Physical Exam:
+Upon arrival to FICU:
+Gen: Elderly man, sedated and unresponsive  
+HEENT: B/l arcus, no scleral icterus, secretions around ETT  
+Neck: Large, no LAD  
+Heart: RR, no  
+Lungs: Coarse breath sounds b/l, no rales appreciated  
+Abd: Full with palpable spleen, not form or appreciably 
+distended, scan BS, soft  
+Ext: Thin, 1+ DPs, no c/c/e  
+Skin: No jaundice, icthyosison feet b/l  
+
+ 
+Pertinent Results:
+[**2572-8-8**] 11:22AM BLOOD Lactate-3.4*
+[**2572-8-10**] 03:21AM BLOOD Lactate-0.7
+[**2572-8-9**] 03:01AM BLOOD Carbamz-4.0
+[**2572-8-8**] 11:20AM BLOOD Cortsol-61.7*
+[**2572-8-12**] 06:15AM BLOOD calTIBC-229* VitB12-328 Folate-11.0 
+Ferritn-188 TRF-176*
+[**2572-8-8**] 11:20AM BLOOD cTropnT-<0.01
+[**2572-8-8**] 06:09PM BLOOD CK-MB-4 cTropnT-0.02*
+[**2572-8-8**] 11:20AM BLOOD ALT-21 AST-27 CK(CPK)-47 AlkPhos-129* 
+Amylase-77 TotBili-1.0
+[**2572-8-8**] 11:20AM BLOOD Glucose-334* UreaN-29* Creat-1.1 Na-140 
+K-3.8 Cl-98 HCO3-27 AnGap-19
+[**2572-8-16**] 06:15AM BLOOD UreaN-14 Creat-0.8 Na-134 K-3.7 Cl-99 
+HCO3-27 AnGap-12
+[**2572-8-8**] 11:20AM BLOOD WBC-35.0*# RBC-4.03* Hgb-12.7* Hct-37.0* 
+MCV-92 MCH-31.5 MCHC-34.3 RDW-13.3 Plt Ct-235
+[**2572-8-16**] 06:15AM BLOOD WBC-11.8* RBC-3.38* Hgb-10.5* Hct-32.0* 
+MCV-95 MCH-31.0 MCHC-32.7 RDW-13.8 Plt Ct-252
+[**2572-8-8**] 11:20AM URINE RBC->50 WBC->50 Bacteri-OCC Yeast-NONE 
+Epi-0
+[**2572-8-8**] 11:20AM URINE Blood-LG Nitrite-NEG Protein-30 
+Glucose-TR Ketone-NEG Bilirub-NEG Urobiln-NEG pH-6.0 Leuks-TR
+[**2572-8-8**] 11:20AM URINE Color-Red Appear-Cloudy Sp [**Last Name (un) **]-1.019
+.
+[**2572-8-8**] URINE URINE CULTURE-FINAL EMERGENCY [**Hospital1 **] 
+[**2572-8-8**] BLOOD CULTURE AEROBIC BOTTLE-FINAL {BETA 
+STREPTOCOCCUS GROUP B}; ANAEROBIC BOTTLE-FINAL {BETA 
+STREPTOCOCCUS GROUP B} EMERGENCY [**Hospital1 **] 
+[**2572-8-8**] BLOOD CULTURE AEROBIC BOTTLE-FINAL; ANAEROBIC 
+BOTTLE-FINAL {BETA STREPTOCOCCUS GROUP B} EMERGENCY [**Hospital1 **] 
+.
+Echo [**8-11**]:
+The left atrium is moderately dilated. Left ventricular wall 
+thicknesses and  cavity size are normal. There is severe 
+regional left ventricular systolic dysfunction with akinesis of 
+the distal half of the ventricle. Basal segments are 
+hypokinetic. No masses or thrombi are seen in the left 
+ventricle. Tissue velocity imaging E/e' is elevated (>15) 
+suggesting increased left ventricular filling pressure 
+(PCWP>18mmHg). Right ventricular chamber size and free wall 
+motion are normal. The aortic valve leaflets are mildly 
+thickened. Aortic stenosis is not suggested. No aortic 
+regurgitation is seen. The mitral valve leaflets are mildly 
+thickened. Moderate (2+) mitral regurgitation is seen. There is 
+mild pulmonary artery systolic hypertension. There is no 
+pericardial effusion.  
+.
+[**8-12**] Hip Film:
+AP film of the pelvis plus two added views of the left hip and 
+proximal left femur. There is a bipolar left hip 
+hemiarthroplasty with cemented femoral stem. A poorly visualized 
+fracture of the proximal femoral shaft has been fixated by 
+apparent large osseous allografts with associated cerclage wires 
+and long lateral plate (with four screws below the tip of the 
+femoral stem). Overall appearances are unchanged from [**0-0-0**] with no focal bone destruction or evidence of hardware 
+loosening. The right hip and SI joints are normal.
+.
+IMPRESSION: No short interval change. No radiographic evidence 
+infection or loosening.
+.
+[**8-14**] LLE U/S
+UNILAT LOWER EXT VEINS LEFT
+Reason: please image left hip and thigh to rule out fluid 
+collection
+.
+UNDERLYING MEDICAL CONDITION:
+[**Age over 90 **] year old man with grp B strep bacteremia with history of left 
+hip fracture last year, hardware in place. 
+REASON FOR THIS EXAMINATION:
+please image left hip and thigh to rule out fluid collection 
+INDICATION: Left leg swelling. Evaluate for deep venous 
+thrombosis.
+.
+LEFT LOWER EXTREMITY VENOUS ULTRASOUND: Grayscale and Doppler 
+sonograms of the left common femoral, superficial femoral, and 
+popliteal veins were performed. There is normal flow, 
+augmentation, compressibility, and waveforms. Intraluminal 
+thrombus is not identified.
+.
+IMPRESSION: No evidence of deep venous thrombosis.
+.
+ 
+Brief Hospital Course:
+Hospital Course, by Problem:
+.
+# Grp B strep septicemia: this was felt to be likely due to GU 
+source given active urinalysis, though urine cx negative.  A TTE 
+negative was negative for any vegetations adherent to the 
+patients valves or pacer wires.  The patients' family wished to 
+defer a TEE.  ID was consulted and recommended 4 weeks IV CTX as 
+well as 
+rechecking ESR/CRP in 2 weeks to see if rising.  Of note, a Left 
+hip plain film and LLE u/s to r/o fluid collection showed no 
+significant findings.  The longer course was recommended by ID 
+as the exact source of the bacteremia was unclear and 
+endocarditis was not fully ruled out.
+.
+#CVS 
+Ischemia:  the patient had several sets of CE during this 
+admission which were negative, despite lateral TWI on the 
+patients ECG.
+Pump:  the patient was slightly overloaded after fluid 
+resusciation in the ICU.  He was diuresed and then restarted on 
+his home Lasix dose.  Of note, repeat Echo during this admission 
+showed an EF of 25% with (worsening) 2+ MR.  His amlodipine and 
+long-acting nitrate were discontinued during this admission d/t 
+hypotension.
+Rhythm:  the patient was continued on Sotalol, as was 
+intermittently in A fib.  Per the family, the patient has a 
+history of several falls.  Further discussion of the 
+risks/benefits of AC will be deferred to the patient's PCP.  
+[**Name10 (NameIs) **] his ICU admission, given relative bradycardia, he had his 
+pacer interrogated and the settings were modified to increase 
+his baseline HR.  Per EP, pt should follow-up in pacemaker 
+clinic after his discharge.  
+Prevention:  the patient was kept on Aspirin.  The patient would 
+likely benefit from the addition of a statin as an outpatient.
+. 
+#Confusion: the patient was noted to be intermittently confused 
+during his hospitalization.  During the morning of 9/11, the 
+patient was almost obtunted and barely responsed to sternal rub. 
+ At this time, CT head/ABG/ECG/Fingerstick/CXR were all 
+unrevealing.  Later in the day the patient was noted to be 
+incredibly more alter and conversing with his family memebers.  
+Per discussion with his sons, the patient gets extremely 
+confused during most hospital admissions.  Detrol was 
+discontinued d/t possibility for anticholingeric effects.
+.
+#Hypoxia/COPD:  on the day of discharge the patient was noted to 
+be slightly hypoxic (88-92RA).  CXR from the day earlier did not 
+show over CHF but did show small (B) effusions.  Given the 
+patient's immoblitiy, a CT scan was ordered which did not show a 
+PE, but only RLL atelectasis and evidence of emphysema.  The 
+patient was amublated and did not desat (and in fact, O2 sats 
+improved to 92-94RA).  The etiology was felt to be from 
+atelectasis and immobility.  Upon discharge, the patient was 
+started on a Flovent Inhaler along with Atrovent given the CT 
+findings.  The patient would likely benefit from outpt PFTs to 
+characterize the degree of his obstructive lung disease.
+ 
+Medications on Admission:
+1. Carbamazepine 200 mg Tablet Sig: 0.5 Tablet PO BID  
+2. Sotalol 80 mg Tablet Sig: One (1) Tablet PO BID  
+3. Lorazepam 0.5 mg Tablet Sig: One (1) Tablet PO HS prn  
+4. ? Nexium filled in [**5-11**]. Amlodipine 5 mg Tablet Sig: One (1) Tablet PO DAILY  
+6. Isosorbide Dinitrate 20 mg Tablet Sig: One (1) Tablet PO TID  
+
+7. Tolterodine 1 mg Tablet Sig: One (1) Tablet PO BID  
+8. Aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable  
+
+PO DAILY  
+9. Glipizide 10 mg Tablet Sig: One (1) Tablet PO BID  
+10. Losartan 25 mg Tablet Sig: One (1) Tablet PO DAILY (in d/c 
+summary but never filled in pharmacy)  
+11. Furosemide 40 mg Tablet Sig: One (1) Tablet PO twice a day.  
+
+12. Potassium 20 mEq po qd 
+
+ 
+Discharge Medications:
+1. Carbamazepine 100 mg Tablet, Chewable Sig: One (1) Tablet, 
+Chewable PO BID (2 times a day).
+Disp:*60 Tablet, Chewable(s)* Refills:*2*
+2. Sotalol 80 mg Tablet Sig: One (1) Tablet PO BID (2 times a 
+day).
+Disp:*60 Tablet(s)* Refills:*2*
+3. Lorazepam 0.5 mg Tablet Sig: One (1) Tablet PO HS (at 
+bedtime).
+Disp:*15 Tablet(s)* Refills:*0*
+4. Aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable 
+PO DAILY (Daily).
+Disp:*30 Tablet, Chewable(s)* Refills:*2*
+5. Glipizide 10 mg Tablet Sig: One (1) Tablet PO BID (2 times a 
+day).
+Disp:*60 Tablet(s)* Refills:*2*
+6. Losartan 25 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+7. Furosemide 40 mg Tablet Sig: One (1) Tablet PO BID (2 times a 
+day).
+Disp:*60 Tablet(s)* Refills:*2*
+8. Ceftriaxone-Dextrose (Iso-osm) 2 g/50 mL Piggyback Sig: Two 
+(2) grams Intravenous  Q24H (every 24 hours) for 4 weeks: 
+through [**2572-9-8**].
+Disp:*46 grams* Refills:*0*
+9. Trazodone 50 mg Tablet Sig: 0.5 Tablet PO at bedtime as 
+needed for insomnia/agitation.
+Disp:*30 Tablet(s)* Refills:*0*
+10. Outpatient Lab Work
+Weekly CBC w/ diff, ALT, AST, BUN, and creatinine to be faxed to 
+Dr. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) 1012**], Fax: [**Telephone/Fax (1) 1020**]
+11. Outpatient Lab Work
+ESR and CRP to be drawn [**2572-8-27**].
+Fax to Dr. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) 1012**], Fax: [**Telephone/Fax (1) 1020**]
+12. Potassium Chloride 20 mEq Tab Sust.Rel. Particle/[**Doctor First Name 785**] 
+Sig: One (1) Tab Sust.Rel. Particle/[**Doctor First Name 785**] PO once a day.
+Disp:*30 Tab Sust.Rel. Particle/[**Doctor First Name 785**](s)* Refills:*2*
+13. Atrovent 18 mcg/Actuation Aerosol Sig: 1-2 puffs Inhalation 
+four times a day as needed for shortness of breath or wheezing.
+Disp:*1 inhaler* Refills:*0*
+14. Flovent 44 mcg/Actuation Aerosol Sig: Two (2) puffs 
+Inhalation twice a day.
+Disp:*1 inhaler* Refills:*2*
+
+ 
+Discharge Disposition:
+Home with Service
+ 
+Discharge Diagnosis:
+Primary Diagnoses: 
+Group B strep bacteremia, source unknown but likely [**1-9**] UTI 
+Delirium 
+Systolic congestive heart failure, resolved 
+Paroxysmal atrial fibrillation 
+Bradycardia 
+ 
+Secondary Diagnoses: 
+h/o of coronary artery disease 
+Type 2 diabetes 
+Hypertension  
+Hypercholesterolemia  
+L hip replacement 1997 c/b femur fx with ""slipped prosthetic"" 
+2005  
+
+ 
+Discharge Condition:
+good: afebrile, wbc improved
+
+ 
+Discharge Instructions:
+Please monitor for temperature > 101, rash, shortness of breath, 
+or other concerning symptoms.
+
+Stop taking your tolterodine (detrol), norvasc (amlodipine) and 
+isosorbide dinitrate (isordil).
+
+Please avoid taking benadryl, as this can worsen your confusion. 
+ Please take the trazodone or haldol instead, as prescribed.
+ 
+Followup Instructions:
+Please follow-up with Dr. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) 1012**] from infectious diseases 
+on [**2572-9-15**] at 10:30 AM.   Phone: ([**Telephone/Fax (1) 1034**].
+
+Please follow-up with Dr. [**Last Name (STitle) 134**] within 1-2 weeks to discuss 
+starting coumadin.  His phone number is [**Telephone/Fax (1) 135**].
+
+If [**Doctor First Name **] do not see someone regular for assessment of your 
+pacemaker, please schedule a follow-up appointment with our 
+pacer clinic within 3 months. Phone: [**Telephone/Fax (1) 463**].
+
+ 
+                             [**Name6 (MD) **] [**Last Name (NamePattern4) 1041**] MD [**MD Number 1042**]
+ 
+Completed by: [**Name6 (MD) **] [**Last Name (NamePattern4) 1041**] MD [**MD Number 1042**] [**2572-8-19**] @ 0843
+Signed electronically by: DR. [**First Name8 (NamePattern2) **] [**Name (STitle) **]
+ on: WED [**2572-8-19**] 8:46 AM
+(End of Report)
+
+
+",,
+24074,26405,,,2572-08-08 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2572-8-8**] 11:25 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 15319**]
+     Reason: post intubation film, r/o pna                               
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      [**Age over 90 **] year old man with                                                            
+     REASON FOR THIS EXAMINATION:
+      post intubation film, r/o pna                                                   
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  [**Age over 90 **]-year-old man with change in mental status, status post
+     intubation.
+     
+     Portable AP chest from [**2572-8-8**] is compared to the same examination from [**2572-2-5**].
+     A left-sided pacemaker is identified with leads in stable position within the
+     right atrium and right ventricle.  A nasogastric tube terminates below the
+     diaphragm within the stomach.  The endotracheal tube terminates 5 cm above the
+     carina.  The heart remains mildly enlarged, which is stable.  There is mild
+     pulmonary vascular engorgement.  The lung fields are clear.  There is no
+     pneumothorax or pleural effusion.  The surrounding osseous and soft tissue
+     structures are unremarkable.
+     
+     IMPRESSION:  Endotracheal tube terminating 5 cm above the carina.  Nasogastric
+     tube terminating within the stomach.  Stable cardiomegaly with new central
+     pulmonary venous congestion.  No evidence for infiltrate.
+                                                                           
+
+",,
+24074,26405,,,2572-08-08 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2572-8-8**] 1:26 PM
+     CHEST PORT. LINE PLACEMENT; -76 BY SAME PHYSICIAN               [**Name Initial (PRE) 36**] # [**Clip Number (Radiology) 15321**]
+     Reason: s/p line placement                                          
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       [**Age over 90 **] year old man with urosepsis                                                 
+                 
+     REASON FOR THIS EXAMINATION:
+      s/p line placement                                                              
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  [**Age over 90 **]-year-old man with urosepsis, status post line placement.
+     
+     Portable chest dated [**2572-8-8**] at 13:35 is compared to the same examination from
+     2 hours earlier.  The left hemithorax, lateral portion, has been excluded from
+     the film.  The left-sided pacemaker, endotracheal tube, and nasogastric tube
+     are in stable position.  There has been interval placement of a right
+     subclavian central venous catheter which terminates in the right atrium.  The
+     cardiomediastinal silhouette is stable, although the left lateral and lower
+     lung regions are not visualized on this examination.  There has been interval
+     increase in pulmonary vasculature engorgement.  Within the visualized lung
+     fields, there is no focal air space opacification to suggest consolidation.
+     There is no pneumothorax or large pleural effusion.  The surrounding osseous
+     and soft tissue structures that are visualized are stable.
+     
+     IMPRESSION:  1. Interval placement of a right subclavian central venous
+     catheter terminating in the right atrium.  If the desired location is within
+     the superior vena cava, pulling back the line approximately 7 cm is
+     recommended.
+     2. Interval increase in pulmonary vasculature engorgement without overt
+     congestive heart failure.  No pneumothorax.
+
+",,
+24074,26405,,,2572-08-08 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2572-8-8**] 1:26 PM
+     CHEST PORT. LINE PLACEMENT; -76 BY SAME PHYSICIAN               [**Name Initial (PRE) 36**] # [**Clip Number (Radiology) 15321**]
+     Reason: s/p line placement                                          
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       [**Age over 90 **] year old man with urosepsis                                                 
+                 
+     REASON FOR THIS EXAMINATION:
+      s/p line placement                                                              
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  [**Age over 90 **]-year-old man with urosepsis, status post line placement.
+     
+     Portable chest dated [**2572-8-8**] at 13:35 is compared to the same examination from
+     2 hours earlier.  The left hemithorax, lateral portion, has been excluded from
+     the film.  The left-sided pacemaker, endotracheal tube, and nasogastric tube
+     are in stable position.  There has been interval placement of a right
+     subclavian central venous catheter which terminates in the right atrium.  The
+     cardiomediastinal silhouette is stable, although the left lateral and lower
+     lung regions are not visualized on this examination.  There has been interval
+     increase in pulmonary vasculature engorgement.  Within the visualized lung
+     fields, there is no focal air space opacification to suggest consolidation.
+     There is no pneumothorax or large pleural effusion.  The surrounding osseous
+     and soft tissue structures that are visualized are stable.
+     
+     IMPRESSION:  1. Interval placement of a right subclavian central venous
+     catheter terminating in the right atrium.  If the desired location is within
+     the superior vena cava, pulling back the line approximately 7 cm is
+     recommended.
+     2. Interval increase in pulmonary vasculature engorgement without overt
+     congestive heart failure.  No pneumothorax.
+
+",,
+24074,26405,,,2572-08-08 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2572-8-8**] 11:36 AM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 15320**]
+     Reason: r/o ich                                                     
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      [**Age over 90 **] year old man with change in ms                                               
+     REASON FOR THIS EXAMINATION:
+      r/o ich                                                                         
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+     WET READ: BTCa SAT [**2572-8-8**] 3:12 PM
+      No intracranial hemorrhage or mass effect.  Extensive paranasal sinus
+      opacification with air fluid levels representing acute sinusitis.  Likely
+      large right nasal polyp.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  [**Age over 90 **]-year-old male with change in mental status.
+     
+     COMPARISONS:  None.
+     
+     TECHNIQUE:  Non-contrast head CT.
+     
+     FINDINGS:  There is no intra- or extra-axial hemorrhage, shift of normally
+     midline structures, mass effect or hydrocephalus.  There is prominence of the
+     ventricles and sulci consistent with age-related involutional change.
+     Periventricular white matter hypodensity is consistent with chronic
+     microvascular ischemia.  Focal areas of low attenuation within the cerebellar
+     hemispheres likely represent remote infarcts.  No major vascular territorial
+     infarct is identified.  Calcifications are noted within the supraclinoid
+     vertebral arteries.
+     
+     Soft tissue windows demonstrate diffuse opacification with air-fluid levels
+     involving the bilateral maxillary, ethmoid and sphenoid sinuses and nasal
+     passages with foci of hyperdense material due to blood or protinaceous fluid .
+     Hyperdense 13 x 8 mm ovoid structure gated along the right nasal septum likely
+     represents a blood clot or less likely a large nasal polyp.  No fractures are
+     identified on bone algorithm windows. Trace fluid is seen within the bilateral
+     mastoid air cells.
+     
+     IMPRESSION:
+     1.  No intracranial hemorrhage or mass effect.
+     2.  Extensive opacification of the paranasal sinuses with hyperdense material
+     indicating blood could be related to retained secretions in this intubated
+     patient.  
+     Findings were relayed to the ED dashboard at 3:00 p.m. on [**2572-8-8**].
+
+",,
+24074,26405,29899,0,2572-08-08 15:27:00 EST,2572-08-08 15:28:00 EST,712,"N",69,"Nursing/Other",,"
+
+Pt is a [**Age over 90 347**] yo male intubated in the EW for ARF 
+and transferred to the [**Hospital Ward Name **] 4 ICU.
+",,
+24074,26405,29899,0,2572-08-08 17:37:00 EST,2572-08-08 17:52:00 EST,762,"N",69,"Nursing/Other",,"
+
+NPN
+
+This is a [**Age over 90 347**] yo male who lives at home with his son, he was found to be shaking this morning, he was given benedryl and he became sommulent, was n/v, his FS was 300.  In the EW his temp was 104, he was intubated for airway protection, he dropped his BP to this requiring IVF (6 liters), CVP went up to 14, and levo.  His lactate was 3.4, he had a pre-cep cath placed and he was given triple abx.  He was transfered to the MICU.
+
+Neuro:  He is on propofol and he lightens up quickly when it is off for a few minutes.
+
+CV:  He is presently on .02 mcg/kg of levo, BP 105-115/50s, HR 65 and paced.  CVP was 6 here, he was given a fluid bolus.  His u/o has been ~ 200cc/hr per the EW nurse, it is light in color.
+
+Resp:  LS bronchial on the L base otherwise clear, 02 SAT on 50%  is 98%.  His vent setting are 600x14,5,50%.  Per EW, sputum was sent there.
+
+GI:  ABD obese, hypoactive BS, he has an OGT in place which is draining yellow fluid.
+
+GU:  A foley is in place which is draining light colored urine.  He is bleeding from around his meatus from the foley incerted in the EW.
+
+Soc:  his family has been up to visit.
+
+
+
+
+",,
+24074,26405,29899,,2572-08-09 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2572-8-9**] 5:27 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 15322**]
+     Reason: r/o infiltrate or other infectious process                  
+     Admitting Diagnosis: UROSEPSIS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        [**Age over 90 **] year old man with urosepsis                                                
+                   
+     REASON FOR THIS EXAMINATION:
+      r/o infiltrate or other infectious process                                      
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CLINICAL HISTORY:  Urosepsis.
+     
+     CHEST:  The heart remains enlarged and some failure is present with a right
+     and probably left pleural effusion.  The tip of the right IJ line now lies in
+     the mid-to-lower SVC and has been withdrawn since the prior chest x-ray.
+     
+     IMPRESSION:  Right IJ line in satisfactory position.  Worsening failure.
+                                                                           
+
+",,
+24074,26405,29899,0,2572-08-09 04:24:00 EST,2572-08-09 05:22:00 EST,6182,"N",69,"Nursing/Other","Nursing progress notes 7p-7a","
+Nursing progress notes 7p-7a
+Review of systems: 
+
+neuro: pt sedated throughout shift on 30mcq/kg/min of diprivan. lightened up at 0300 on 10mcq/kg/min of diprivan. pt mae follows simple commands squeezes hands. soft wrist restraints on for safety. pt perl 3mm sluggish. pt on tegretol 100mg bid, level pending
+
+Resp: pt orally intubated w/ 7.5 ett at 21cm at the lip retaped to left side of pt's mouth. suctioning small amounts of tan secretions spec sent for cx. pt on flagyl tid for ? aspiration d/t vomiting yesturda. ls clear w/ diminished bases. vent settings on ac w/ stable abgs throughout shift (see carevue) now on cpap 5/5 50% spont rr 14 spont tv 400-550. rsbi 32, abg 7.38/42/105/26/97%  pcxr ordered for this am. last pcxr showed precep cath in atrium ( micu intern aware, ok for now per intern) pulmonary vasculature engorgement w/o overt chf. 
+
+Cv: art line placed in left radial artery.  tele v paced in 60s however pt's rate dropped to 44 tele av paced, also had short burst of afib.  w/ hrt rate in 40s abp stable. pt on and off levophed gtt titrate for maps >60. hrt sounds S1S2. lytes (k+, mg,ca+, phos) repleted last evening. and k+ this am 3.3 repleating w/ 60meq kcl iv. mag 2.1 phos 1.7 to be repleated w/ neutra-phos. ion. ca 1.17. hct 30.3 (up from 29.9) cvp 8-14 pt on lasix 40mg at home d/t ef 20-25%. svo2 monitor recalibrated at 2000 svo2 69-75. ck neg x3 [**12**]/53/55 troponin neg x 2 (3rd pending) .01/.02
+
+gi: ogt to lcws for 50cc of billious drainage.  it was clamped this am for meds. tube feeding was not started d/t high bld sugars and possible extubation this am. abd obese. bs+ no stool this shift
+
+gu: uop last evening 100-140cc/hr of yellow urine early this am uop dropped off and became amber than to hematuria. foley irrigated for amber urine 1 small clot. bolus of 250cc ns given w/ no increase in uop, however since ef is only 20-25% no further boluses will be given for now until rounds (per micu intern). urine tox screen pos for benzo only, pt on ativan at hs at home. 
+
+skin: pt has an abrasion on left knee and on right shin. both covered w/ dsd and antibx oint. 
+
+access: precep cath rij, left radial aline, 3 piv. 
+
+id: pt has pos uti per ua, cx still pending, bc + 3/4 bottles for gpc in chains, clusters and pairs. sputum c/s sent this shift and pending. pt cont on vanco bid, rocephin qd and flagly tid. afebril. wbc 25 down from 32. lactate 1.6/1.9/2.0/1.3
+
+endo: [**Last Name (un) 414**] stim test preformed last evening, 6.3/12.3/17.3 per micu intern cont on decadron 4mg iv qid. pt on insulin gtt last evening as high as 12u/hr for bs 300-403 now insulin gtt down to 4u/hr bs 117/108
+
+code: full
+
+social: in contact w/ [**Doctor First Name **] (son pt lives w/) x 2 last night and this am. 
+
+plan: 
+
+? extubate this am
+cont to monitor lytes
+titrate levophed gtt to keep maps >60
+pcxr obtained this am f/u reading
+? need for more fluid boluses if uop does not increase. 
+last ck/troponin level due at 1100 (if they want to cont to do 4 serial ck)
+
+ 
+",,
+24074,26405,29899,0,2572-08-09 15:33:00 EST,2572-08-09 15:37:00 EST,712,"N",69,"Nursing/Other",,"
+
+RESPIRATORY CARE: PT REMAINS INTUBATED W/ A
+7.5 ORAL ETT IN PLACE. RSBI 37 THIS AM. PS 
+INCREASED TO 8 FOR THE DAY TO REST. ABG STABLE.
+SX FOR YELLOW SPUTUM. COUGH/ GAG PRESENT. WILL
+REEVALUATE FOR EXTUBATION IN AM.
+",,
+24074,26405,29899,0,2572-08-09 16:25:00 EST,2572-08-09 16:43:00 EST,762,"N",69,"Nursing/Other",,"
+
+NPN
+
+Neuro:  Pt remains sedated on propofol, he has required 2cc boluses fairly frequently through the day for aggitation, his gtt was increased from 10 mcg/kg/min to 15 and he has cont to need boluses with this increase.  
+
+CV:  His HR was in the 40s this morning and his SBP was 82, CVP 15, he was restarted on levo at .03mcg/kg/min.  He was given a 500cc NS bolus, his CVP increased to 17 from 15 but his U/O did not improve.  He was seen by cardiology, they changed his pacer so he will not drop below 60 and took him out of [**Doctor Last Name **] mode that he had been in causing his HR to drop to the 40s at night.  He was able to come off of the levo this afternoon and has remained off of it, he is again receiving a 500cc bolus for a low u/o - his CVP was 15 at the start of the bolus.
+
+Resp:  Pt remains vented on PSV, his PS was increased to 8 from 5, he is still on 5 of PEEP and 50%, 02 SATs have been in the upper 90s to 100%.  No plans on extubating his today due to his increased fluid requirements.  His sputum came back with 3+ budding yeast with pseudohyphae - awaiting sensativities.
+
+GI:  Started on TF, no stool today, abd is obese with pos BS.
+
+GU:  u/o 15-40cc/hr.  Red colored urine which was clearing some today but is again becoming a stronger colored red.  His foley was flushed - he didn't have any clots and his u/o did not improve with this.  He has received 2 NS boluses for his low u/o.
+
+Endo:  Remains on an insulin gtt 2-3 units/hr.
+
+Soc:  Two of his sons were in today, involved with his care, are interested in getting him home as soon as possible.  They said that he is very strong and he will pull out anything if able to.  He becomes very disoriented when he is out of his environment and has required sitters in the past.
+",,
+24074,26405,29899,,2572-08-10 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2572-8-10**] 5:50 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 15323**]
+     Reason: Interval change                                             
+     Admitting Diagnosis: UROSEPSIS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+         [**Age over 90 **] year old man with urosepsis and intubation for hypoxic respiratory 
+      failure.                                                     
+     REASON FOR THIS EXAMINATION:
+      Interval change                                                                 
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CLINICAL HISTORY:  Urosepsis, intubated for hypoxia, evaluate for change.
+     
+     CHEST:
+     
+     There has been an increase in the bilateral pleural effusions since the prior
+     chest x-ray of September the 3rd, consistent with continued failure.
+     
+     The heart remains enlarged.  Pulmonary plethora is again seen.
+     
+     IMPRESSION:  Worsening failure.
+                                                                           
+
+",,
+24074,26405,29899,0,2572-08-10 03:58:00 EST,2572-08-10 04:02:00 EST,8194,"N",69,"Nursing/Other","Resp. Care","
+Resp. Care
+Pt. remains on mech. vent. with a 7.5ETT patent and secured at 22 at the lip.B/S are few scat rhonchi clearing with sxing of mod amts yellow secr.RSBI was 38 and plan is to wean and extubate as tol.No changes made during the shift.
+",,
+24074,26405,29899,0,2572-08-10 04:48:00 EST,2572-08-10 05:27:00 EST,6182,"N",69,"Nursing/Other","Nursing progress notes 7p-7a","
+Nursing progress notes 7p-7a
+Review of systems:
+
+Neuro: received pt on 18mcq/kg/min of diprivan, pt very agitated pulling at clothes, diprivan gtt increased to 25mcq/kg/min. pt more calm and rested throughout shift. moving to noxious stimuli. At 0300 diprivan gtt decreased to 10mcq/kg/min  for ? of extubation this am. 
+
+Resp: vent settings cpap [**4-13**] 50% spont tv 400-550 spont. rr 14 abg this am 7.37/42/117/25/97% ls clear w/ diminished bases. suctioning small secretions of thick tan. Pcxr [**8-9**] right effusion and possibly left w/ worsening failure. 
+
+cv: Pacer interigated yesturday no a DDI R 60 pt seen in a paced and a-v paced at 60 . hrt sounds S1S2. K+ 3.8 this am repleated w/ 20meq kcl. cvp 8-15. fluid bolus of 500cc LR given for low uop
+
+gi: abd obese no stool this shift. tf promote full strgth. at 10cc/hr stopped this am ? of extubation. 
+
+gu: pt foley draining hematuria 18-80cc/hr pt received bolus of 500cc of LR for low uop w/ an increase to 40-801cc/hr. 
+
+skin: multyple abrasions noted on bilat shins, 2 open abrasions covered by gauze. 
+
+endo: pt cont on decadron qid, fs 76-151 now in low 100s on insulin gtt at 3u/hr 
+
+id: bc [**2-8**] pos for gpc in chains, pairs and clusters, sputum c/s jpos for 3+ budding yeast w/ pseudohyphae and gram pos rods. urine cx neg. pt cont on vanco bid, flagly tid, and ceftriaxone qd. lactate .7
+
+code: full
+
+
+social: son [**Name (NI) **] called in twice for updates on his father
+
+Plan:
+
+? extubation 
+restart promote full str if pt not extubated 
+
+
+",,
+24074,26405,29899,0,2572-08-10 05:58:00 EST,2572-08-10 05:59:00 EST,1047,"N",69,"Nursing/Other","Respiratory Care (addendum):","
+Respiratory Care (addendum):
+Patient started on SBT, with 0-PEEP and 5 cm PSV, per Team.  ABG to be drawn in 1/2 hour.
+",,
+24074,26405,29899,0,2572-08-10 15:11:00 EST,2572-08-10 15:57:00 EST,762,"N",69,"Nursing/Other",,"
+
+NPN
+
+Neuro:  Pt was on Propofol this morning but it was d/ced just prior to extubation.  After he was extubated he became very aggitated, he pulled out his aline, trying to kick and hit the staff.  He was in 3 point soft restraints and sitters were ordered.  He has been better with the sitters though at times he has been aggitated.  He was given .5 mg of IV ativan with some effect.  His granddaughter was in this afternoon, he did not recognize her.
+
+CV:  His SBP increased to 165  after he was extubated, HR to the 90s-100s, hewas given 20mg of IV lasix has has had a good responce to it without dropping his BP.  He is occationally in a paced rhythm otherwise he is a SR with occational PVCs.
+
+Resp:  Extubated, he has what sounds like sputum in the back of his throat but he won't let me suction it out.  He makes a poor effort to take a deep breath but it sounds like he has clear lungs. He is on 4 L NC with an 02 SAT in the mid to upper 90s.
+
+GI:  TF were stopped last night, ABD obese, pos BS.
+
+GU:  Good u/o after the lasix, he is ~ 6 liters pos for LOS.  His urine is no longer red, it is slightly pink.  Per his son he take 40mg PO lasix BID.
+
+
+",,
+24074,26405,29899,,2572-08-11 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2572-8-11**] 6:04 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 15324**]
+     Reason: r/o infection/pulm edema                                    
+     Admitting Diagnosis: UROSEPSIS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+          [**Age over 90 **] year old man with urosepsis and intubation for hypoxic respiratory 
+      failure s/p extubation.                                                     
+     REASON FOR THIS EXAMINATION:
+      r/o infection/pulm edema                                                        
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     AP CHEST 5:49 A.M. [**8-11**]
+     
+     HISTORY:  Urosepsis and hypoxic respiratory failure.
+     
+     IMPRESSION:  AP chest compared to [**8-9**] and 4:
+     
+     Pulmonary edema has largely cleared.  Residual pleural effusion, small to
+     moderate has decreased.  Opacification at the left lung base is probably due
+     to atelectasis as well.  Heart size is top normal.  Transvenous right atrial
+     and right ventricular pacer leads are in standard placements.  Right
+     subclavian line tip projects over the upper SVC.  No pneumothorax.  Heart size
+     top normal.
+                                                                           
+
+",,
+24074,26405,29899,0,2572-08-11 04:33:00 EST,2572-08-11 05:02:00 EST,5192,"N",69,"Nursing/Other","ficu nsg note: 19:00-7:00","
+ficu nsg note: 19:00-7:00
+this is a [**Age over 90 347**] y.o. man adm [**2572-8-8**] with chf, ef 20-25%, cad, paf s/p pacemaker placement p/w sepsis likely sec. to uti. also growing gpc in his blood. receiving ivabx: ceftriazone, vanco and flagyl (given witnessed aspiration). u.o. >30cc/hr. 
+
+neuro: alert at the beginning of the shift but very agitated attempting to pull at lines and kick this rn with nsg interventions. given 1mg iv ativan with good effect. not able to adequately assess orientation as pt not cooperative. did state his name though. mae. bilat wrist restraints maintained to prevent from pulling lines. 1:1 sitter maintained. 
+
+cv: hr ranging 60s-80s sr with frequent pvcs, couplets, 5 beat run pvcs-pt asymptomatic. +pp. 
+
+resp: lungs cta but sounds congested at times/refusing to cough. diminished at the bases. sp02 ranging 96-100% on 4lnc. 
+
+gi/gu: abd soft, nt, hypoactive bs. refusing po tegretol stating he can't swallow pills right now. refusing meds crushed in custard. foley patent draining >30cc/hr pink tinged urine as pt had pulled at foley prior shift. 
+
+skin: l knee and r leg abrasion- pink in color, ota.
+
+endo: receiving ss humalog insulin.
+
+access: rsc tlcl patent. lac with old dried blood. 
+
+plan: continue to monitor mental status, continue 1:1 sitters, iv ativan prn agitation, iv abx, monitor u.o. and need for further lasix if u.o. <30cc/hr. readress po status:refusing po tegretol with custard overnoc. 
+
+
+",,
+24074,26405,,,2572-08-12 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2572-8-12**] 11:04 AM
+     HIP UNILAT MIN 2 VIEWS LEFT                                     Clip # [**Clip Number (Radiology) 15325**]
+     Reason: r/o hardware loosening                                      
+     Admitting Diagnosis: UROSEPSIS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+         [**Age over 90 **] y/o M s/p ORIF L FEMUR w/ group B strep bacteremia                        
+                    
+     REASON FOR THIS EXAMINATION:
+      r/o hardware loosening                                                          
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  [**Age over 90 **]-year-old post-fixation left femoral fracture, bacteremia.
+     
+     AP film of the pelvis plus two added views of the left hip and proximal left
+     femur.  There is a bipolar left hip hemiarthroplasty with cemented femoral
+     stem.  A poorly visualized fracture of the proximal femoral shaft has been
+     fixated by apparent large osseous allografts with associated cerclage wires
+     and long lateral plate (with four screws below the tip of the femoral stem).
+     Overall appearances are unchanged from [**2572-7-31**] with no focal bone
+     destruction or evidence of hardware loosening.  The right hip and SI joints
+     are normal.
+     
+     IMPRESSION:  No short interval change.  No radiographic evidence infection or
+     loosening.
+
+",,
+24074,26405,,,2572-08-14 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2572-8-14**] 3:11 PM
+     CHEST PORT. LINE PLACEMENT; -59 DISTINCT PROCEDURAL SERVICE     Clip # [**Clip Number (Radiology) 15328**]
+     Reason: please check picc tip position. #4f,sl, 51cm, v-cath picc fo
+     Admitting Diagnosis: UROSEPSIS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+           [**Age over 90 **] year old man with urosepsis and intubation for hypoxic respiratory  
+      failure s/p extubation.                                                     
+     REASON FOR THIS EXAMINATION:
+      please check picc tip position. #4f,sl, 51cm, v-cath picc for abx. please page 
+      beeper #[**Pager number 1979**] with wet readasap. thanks
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CLINICAL HISTORY:  History of urosepsis and recent extubation.  Evaluate line
+     placement.
+     
+     PORTABLE CHEST RADIOGRAPH:  Compared to prior radiograph from [**2572-8-14**], a new right-sided PIC line has been placed with tip traveling up the
+     right internal jugular vein.  The distal end has been excluded from the image.
+     No pneumothorax is evident.  Small bilateral pleural effusions and bibasilar
+     atelectasis are unchanged.  No new consolidations are present.  The heart is
+     top normal in size. The  pulmonary vasculature is normal.  The two leads from
+     the left-sided pacer terminate in the right atrium and right ventricle.
+     Mediastinal and hilar contours are normal.
+     
+     IMPRESSION:  Placement of right-sided PIC line with tip travelling up the
+     right internal jugular vein.  IV nurse, [**Doctor First Name 2153**], notified of findings at
+     beeper #[**Pager number 1979**].
+
+",,
+24074,26405,,,2572-08-14 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2572-8-14**] 10:43 AM
+     CHEST (PA & LAT)                                                Clip # [**Clip Number (Radiology) 15327**]
+     Reason: r/o PNA                                                     
+     Admitting Diagnosis: UROSEPSIS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      [**Age over 90 **] year old man with elevated wbc and cough                                     
+     REASON FOR THIS EXAMINATION:
+      r/o PNA                                                                         
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     PA LATERAL CHEST, [**8-14**]
+     
+     HISTORY:  [**Age over 90 **]-year-old man with elevated white count and cough.
+     
+     IMPRESSION:  AP and lateral view compared to [**8-11**]:
+     
+     Small bilateral pleural effusions are probably stable.  The heart is top
+     normal size.  Lungs are clear.  Thoracic aorta is generally large but not
+     focally dilated.  Transsubclavian right atrial and right ventricular pacemaker
+     leads follow their expected courses from the left pectoral pacemaker.
+                                                                           
+
+",,
+24074,26405,,,2572-08-14 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2572-8-14**] 3:11 PM
+     CHEST PORT. LINE PLACEMENT; -59 DISTINCT PROCEDURAL SERVICE     Clip # [**Clip Number (Radiology) 15328**]
+     Reason: please check picc tip position. #4f,sl, 51cm, v-cath picc fo
+     Admitting Diagnosis: UROSEPSIS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+           [**Age over 90 **] year old man with urosepsis and intubation for hypoxic respiratory  
+      failure s/p extubation.                                                     
+     REASON FOR THIS EXAMINATION:
+      please check picc tip position. #4f,sl, 51cm, v-cath picc for abx. please page 
+      beeper #[**Pager number 1979**] with wet readasap. thanks
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CLINICAL HISTORY:  History of urosepsis and recent extubation.  Evaluate line
+     placement.
+     
+     PORTABLE CHEST RADIOGRAPH:  Compared to prior radiograph from [**2572-8-14**], a new right-sided PIC line has been placed with tip traveling up the
+     right internal jugular vein.  The distal end has been excluded from the image.
+     No pneumothorax is evident.  Small bilateral pleural effusions and bibasilar
+     atelectasis are unchanged.  No new consolidations are present.  The heart is
+     top normal in size. The  pulmonary vasculature is normal.  The two leads from
+     the left-sided pacer terminate in the right atrium and right ventricle.
+     Mediastinal and hilar contours are normal.
+     
+     IMPRESSION:  Placement of right-sided PIC line with tip travelling up the
+     right internal jugular vein.  IV nurse, [**Doctor First Name 2153**], notified of findings at
+     beeper #[**Pager number 1979**].
+
+",,
+24074,26405,,,2572-08-14 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2572-8-14**] 10:43 AM
+     UNILAT LOWER EXT VEINS LEFT                                     Clip # [**Clip Number (Radiology) 15326**]
+     Reason: please image left hip and thigh to rule out fluid collection
+     Admitting Diagnosis: UROSEPSIS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      [**Age over 90 **] year old man with grp B strep bacteremia with history of left hip fracture 
+      last year, hardware in place.
+     REASON FOR THIS EXAMINATION:
+      please image left hip and thigh to rule out fluid collection                    
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Left leg swelling.  Evaluate for deep venous thrombosis.
+     
+     LEFT LOWER EXTREMITY VENOUS ULTRASOUND:  Grayscale and Doppler sonograms of
+     the left common femoral, superficial femoral, and popliteal veins were
+     performed.  There is normal flow, augmentation, compressibility, and
+     waveforms.  Intraluminal thrombus is not identified.
+     
+     IMPRESSION:  No evidence of deep venous thrombosis.
+                                                                           
+
+",,
+24074,26405,,,2572-08-14 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2572-8-14**] 5:17 PM
+     US EXTREMITY NONVASCULAR LEFT                                   Clip # [**Clip Number (Radiology) 15329**]
+     Reason: PLEASE IMAGE LEFT HIP TO RULE OUT FLUID COLLECTION          
+     Admitting Diagnosis: UROSEPSIS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      [**Age over 90 **] year old man with grp B strep bacteremia with history of left hip fracture 
+      last year, hardware in place.
+     REASON FOR THIS EXAMINATION:
+      PLEASE IMAGE LEFT HIP TO RULE OUT FLUID COLLECTION                              
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  History of left hip fracture.  Group B streptococcus bacteremia.
+     Evaluate for joint effusion.
+     
+     LEFT HIP ULTRASOUND:  There is some subcutaneous edema seen overlying the left
+     femur.  There is no evidence of hip joint effusion.
+
+",,
+24074,26405,,,2572-08-17 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2572-8-17**] 12:49 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 15330**]
+     Reason: r/o CHF                                                     
+     Admitting Diagnosis: UROSEPSIS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+            [**Age over 90 **] year old man with CHF, delta MS, and hypoxia                           
+     REASON FOR THIS EXAMINATION:
+      r/o CHF                                                                         
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     EXAMINATION:  AP chest.
+     
+     INDICATION:  Congestive heart failure.
+     
+     AP view of the chest is obtained [**2572-8-17**] at 12:11 hours and is compared with
+     the recent radiograph of [**2572-8-14**].  The study is made somewhat suboptimal by
+     respiratory movement.  Within this limitation, there does not appear to have
+     been any marked change since the prior examination.  Cardiomegaly with
+     atherosclerosis and tortuosity of the aorta together with small bilateral
+     pleural effusions are evident.  The right-sided PICC line has been removed.  A
+     left-sided transvenous bipolar pacemaker is visualized.
+     
+     IMPRESSION:
+     
+     Respiratory motion making the study suboptimal.  Small bilateral pleural
+     effusions.
+                                                                           
+
+",,
+24074,26405,,,2572-08-17 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2572-8-17**] 1:37 PM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 15332**]
+     Reason: r/o new CVA, bleed, etc                                     
+     Admitting Diagnosis: UROSEPSIS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      [**Age over 90 **] year old man with episode of unresponsiveness                                
+     REASON FOR THIS EXAMINATION:
+      r/o new CVA, bleed, etc                                                         
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Episode of unresponsiveness.
+     
+     COMPARISON:  [**2572-8-8**], head CT.
+     
+     TECHNIQUE:  Non-contrast head CT.
+     
+     FINDINGS:  There is no intraparenchymal or extra-axial hemorrhage.  There is
+     no shift of normally midline structures, mass effect, or hydrocephalus.  The
+     appearance of brain parenchyma is unchanged.  Multifocal areas of
+     hypoattenuation involving the left parietal lobe, right frontal and cerebellum
+     are unchanged again likely representing small chronic infarcts.
+     Periventricular white matter hypoattenuation is also unchanged, consistent
+     with chronic microvascular ischemia.  There has been interval improvement in
+     the previously identified diffuse opacification of the visualized paranasal
+     sinuses, with residual mucosal thickening in the right maxillary sinus and
+     air-fluid level in left maxillary sinus.  The osseous structures are
+     unremarkable.
+     
+     IMPRESSION:
+     1.  No intracranial hemorrhage or mass effect.
+     2.  Stable appearance of the brain.
+     3.  Improving sinus disease as described previously.
+
+",,
+24074,26405,,,2572-08-17 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2572-8-17**] 1:06 PM
+     PICC LINE PLACMENT SCH                                          Clip # [**Clip Number (Radiology) 15331**]
+     Reason: please adjust PICC placed at bedside, in IJ                 
+     Admitting Diagnosis: UROSEPSIS
+     ********************************* CPT Codes ********************************
+     * 36584 PERIPHERAL W/O [**State/Zipcode 3238**] FLUOR GUID PLCT/REPLCT/REMOVE *
+     * C1751 CATH [**Last Name (LF) 186**],[**First Name3 (LF) **]/CENT/MID(NOT D                                     *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      [**Age over 90 **] year old man with poorly positioned bedside PICC                             
+     REASON FOR THIS EXAMINATION:
+      please adjust PICC placed at bedside, in IJ                                     
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION FOR THE EXAM:  [**Age over 90 **]-year-old man with group B streptococcus
+     bacteremia that needs PICC line to be repositioned into the central veins.
+     
+     RADIOLOGISTS:  The procedure was performed by Dr. [**Last Name (STitle) 1500**] and Dr. [**Last Name (STitle) 10**],
+     the attending radiologist, who was present and supervising throughout the
+     procedure.
+     
+     PROCEDURE AND FINDINGS:  Initial fluoroscopic image of the chest demonstrates
+     the tip of the catheter to be located in the right axillary vein.  A 0.018
+     guidewire was then advanced through the catheter into the distal part of the
+     SVC.  The catheter was then exchanged for a needle single-lumen catheter. 
+     Based on the markers in the guidewire it was decided that a length of 48 cm
+     would be suitable.  The line was then trimmed to this length and advanced over
+     the wire and under fluoroscopic guidance into the distal part of the SVC.  The
+     line was then flushed, heplocked, StatLocked.  The final fluoroscopic image of
+     the chest demonstrated the tip of the catheter to be located in the distal
+     part of the SVC.
+     
+     IMPRESSION:  Successful replacement of a PICC line for a 48 cm long single-
+     lumen line via the right basilic vein with tip positioned in the distal part
+     of the SVC.  The line is ready for use.
+
+",,
+24074,26405,,,2572-08-17 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2572-8-17**] 1:06 PM
+     PICC LINE PLACMENT SCH                                          Clip # [**Clip Number (Radiology) 15331**]
+     Reason: please adjust PICC placed at bedside, in IJ                 
+     Admitting Diagnosis: UROSEPSIS
+     ********************************* CPT Codes ********************************
+     * 36584 PERIPHERAL W/O [**State/Zipcode 3238**] FLUOR GUID PLCT/REPLCT/REMOVE *
+     * C1751 CATH [**Last Name (LF) 186**],[**First Name3 (LF) **]/CENT/MID(NOT D                                     *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      [**Age over 90 **] year old man with poorly positioned bedside PICC                             
+     REASON FOR THIS EXAMINATION:
+      please adjust PICC placed at bedside, in IJ                                     
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION FOR THE EXAM:  [**Age over 90 **]-year-old man with group B streptococcus
+     bacteremia that needs PICC line to be repositioned into the central veins.
+     
+     RADIOLOGISTS:  The procedure was performed by Dr. [**Last Name (STitle) 1500**] and Dr. [**Last Name (STitle) 10**],
+     the attending radiologist, who was present and supervising throughout the
+     procedure.
+     
+     PROCEDURE AND FINDINGS:  Initial fluoroscopic image of the chest demonstrates
+     the tip of the catheter to be located in the right axillary vein.  A 0.018
+     guidewire was then advanced through the catheter into the distal part of the
+     SVC.  The catheter was then exchanged for a needle single-lumen catheter. 
+     Based on the markers in the guidewire it was decided that a length of 48 cm
+     would be suitable.  The line was then trimmed to this length and advanced over
+     the wire and under fluoroscopic guidance into the distal part of the SVC.  The
+     line was then flushed, heplocked, StatLocked.  The final fluoroscopic image of
+     the chest demonstrated the tip of the catheter to be located in the distal
+     part of the SVC.
+     
+     IMPRESSION:  Successful replacement of a PICC line for a 48 cm long single-
+     lumen line via the right basilic vein with tip positioned in the distal part
+     of the SVC.  The line is ready for use.
+
+",,
+24074,26405,,,2572-08-17 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2572-8-17**] 1:06 PM
+     PICC LINE PLACMENT SCH                                          Clip # [**Clip Number (Radiology) 15331**]
+     Reason: please adjust PICC placed at bedside, in IJ                 
+     Admitting Diagnosis: UROSEPSIS
+     ********************************* CPT Codes ********************************
+     * 36584 PERIPHERAL W/O [**State/Zipcode 3238**] FLUOR GUID PLCT/REPLCT/REMOVE *
+     * C1751 CATH [**Last Name (LF) 186**],[**First Name3 (LF) **]/CENT/MID(NOT D                                     *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      [**Age over 90 **] year old man with poorly positioned bedside PICC                             
+     REASON FOR THIS EXAMINATION:
+      please adjust PICC placed at bedside, in IJ                                     
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION FOR THE EXAM:  [**Age over 90 **]-year-old man with group B streptococcus
+     bacteremia that needs PICC line to be repositioned into the central veins.
+     
+     RADIOLOGISTS:  The procedure was performed by Dr. [**Last Name (STitle) 1500**] and Dr. [**Last Name (STitle) 10**],
+     the attending radiologist, who was present and supervising throughout the
+     procedure.
+     
+     PROCEDURE AND FINDINGS:  Initial fluoroscopic image of the chest demonstrates
+     the tip of the catheter to be located in the right axillary vein.  A 0.018
+     guidewire was then advanced through the catheter into the distal part of the
+     SVC.  The catheter was then exchanged for a needle single-lumen catheter. 
+     Based on the markers in the guidewire it was decided that a length of 48 cm
+     would be suitable.  The line was then trimmed to this length and advanced over
+     the wire and under fluoroscopic guidance into the distal part of the SVC.  The
+     line was then flushed, heplocked, StatLocked.  The final fluoroscopic image of
+     the chest demonstrated the tip of the catheter to be located in the distal
+     part of the SVC.
+     
+     IMPRESSION:  Successful replacement of a PICC line for a 48 cm long single-
+     lumen line via the right basilic vein with tip positioned in the distal part
+     of the SVC.  The line is ready for use.
+
+",,
+24074,26405,,,2572-08-18 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2572-8-18**] 5:46 PM
+     CTA CHEST W&W/O C &RECONS                                       Clip # [**Clip Number (Radiology) 15333**]
+     Reason: r/o PE                                                      
+     Admitting Diagnosis: UROSEPSIS
+      Contrast: OPTIRAY Amt: 100
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      [**Age over 90 **] year old man with hypoxia, immobility                                        
+     REASON FOR THIS EXAMINATION:
+      r/o PE                                                                          
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  [**Age over 90 **]-year-old man with hypoxia and immobility.  Rule out pulmonary
+     embolism.
+     
+     COMPARISON:  CTA chest dated [**2572-1-16**].
+     
+     TECHNIQUE:  MDCT imaging of the chest was performed before and after the
+     administration of 120 cc of intravenous Optiray.  Nonionic contrast was
+     administered per protocol.  Coronal and sagittal reformatted images were
+     obtained.
+     
+     CT ANGIOGRAM CHEST:  There are no filling defects within the pulmonary artery,
+     proximal or distal branches to suggest the presence of a pulmonary embolism.
+     The patient is status post left chest wall pacemaker.  There are mild coronary
+     artery calcifications, and moderate calcifications along the aortic arch.  The
+     heart, pericardium, and great vessels are otherwise unremarkable.  There is no
+     pleural or pericardial effusion.  There is no mediastinal, axillary, or hilar
+     lymphadenopathy. A single right hilar lumph node measuring 1 cm is unchanged
+     for prior study. Debris is seen throughout the thoracic esophagus, and there
+     is a small hiatal hernia. On lung windows, there is mild primarily central
+     bilateral emphysema. There is a 15 x 3 mm pleural-based lesion (3/124) in the
+     right upper lobe, which is unchanged since prior exam. Few 3- mm nodules
+     adjacent to the right major fissure ([**2-/2539**] and [**2-/2535**]) are unchanged since prior
+     exam.  There is new right lower lobe atelectasis, and a focal area of ground
+     glass opacity at the left lung base that was not previously seen. Finally, a 9
+     x 7 mm nodular density within the left lingula appears slightly more prominent
+     than on prior exam.
+     
+     Limited imaging of the upper abdomen again reveals the small hiatal hernia.
+     
+     BONE WINDOWS:  There are no suspicious lytic or sclerotic osseous
+     abnormalities.
+     
+     IMPRESSION:
+     1.  No evidence of pulmonary embolism.
+     2.  Stable right upper lobe pleural thickening, and 2-3 mm nodules adjacent to
+     the right major fissure.
+     3.  Increased prominence of left lingular nodule as described above. Dedicated
+     chest CT within three months' time is recommended for further evaluation.
+                                                                 (Over)
+
+     DATE: [**2572-8-18**] 5:46 PM
+     CTA CHEST W&W/O C &RECONS                                       Clip # [**Clip Number (Radiology) 15333**]
+     Reason: r/o PE                                                      
+     Admitting Diagnosis: UROSEPSIS
+      Contrast: OPTIRAY Amt: 100
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+
+",,
+24074,,,,2572-08-21 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2572-8-21**] 11:42 AM
+     CHEST PORT. LINE PLACEMENT                                      Clip # [**Clip Number (Radiology) 15334**]
+     Reason: Check Right basilic PICC line placement.  PICC needed for IV
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      [**Age over 90 **] year old man with  bacteremia.  PICC for IV antibiotics.
+     REASON FOR THIS EXAMINATION:
+      Check Right basilic PICC line placement.  PICC needed for IV antibiotics.
+      Pacemaker on left side.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     AP PORTABLE CHEST, [**2572-8-21**] AT 11:53 HOURS
+     
+     HISTORY:  [**Age over 90 **]-year-old male with bacteremia.  PICC line placed for IV
+     antibiotics.  Check placement.
+     
+     COMPARISON:  Multiple priors, most recent dated [**2572-8-17**].
+     
+     FINDINGS:  Consistent with the given history, there has been a right upper
+     extremity approach PICC line.  Technique and body habitus combined to make
+     distal tip difficult to discern.  As best can be determined, however, the
+     distal tip does appear to be in the superior vena cava in the region of the
+     cavoatrial junction.  A dual chamber pacemaker is stable in course and
+     position.  Lung volumes are diminished with bibasilar atelectasis, right worse
+     than left.  Pulmonary vascular clarity is diminished likely indicative of a
+     mild element of hydrostatic edema.  A tortuous atherosclerotic aorta is seen.
+     The cardiac silhouette is within normal limits for size with a left
+     ventricular configuration.
+     
+     IMPRESSION:  PICC line tip difficult to definitively discern, however, as best
+     can be determined the distal tip is in appropriate position.  Right basilar
+     opacity is likely atelectasis.  An early developing pneumonia cannot be
+     entirely excluded.  Recommend followup exam as clinically indicated.
+
+             DR. [**First Name11 (Name Pattern1) 408**] [**Initial (NamePattern1) **] [**Last Name (NamePattern4) 409**]
+",,
+24074,,,,2573-04-06 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2573-4-6**] 3:32 PM
+     CHEST (PA & LAT)                                                Clip # [**Clip Number (Radiology) 15335**]
+     Reason: r/o acute cardiopulmonary process                           
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      [**Age over 90 **] year old man with cough ? aspiration, low-grade fevers                       
+     REASON FOR THIS EXAMINATION:
+      r/o acute cardiopulmonary process                                               
+     ______________________________________________________________________________
+     WET READ: SP TUE [**2573-4-6**] 4:38 PM
+      Ap- and lat views obtained with patient in semi-upright sitting
+      position.Borderline heart size with permanent pacer and dual electrode system
+      as before (only film of [**2572-8-11**]) available for comparision. No chf pattern in
+      pulm vessels. A parenchymal infiltrate is presen posteriorly on  the left lung
+      base, well compatible with the clinical suspicion of an aspiration. No
+      significant pleural effusion.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     
+     
+     
+     CHEST, PA AND LATERAL
+     
+     INDICATION:  Cough and low-grade fevers, evaluate for aspiration pneumonitis.
+     
+     FINDINGS:  Patient's condition does not permit examination in standard PA and
+     lateral views.  AP and lateral views are obtained with patient in sitting
+     semi-erect position with considerable left-sided tilt on the frontal view.
+     There is mild-to-moderate cardiac enlargement, and the presence of a left-
+     sided permanent pacer with dual electrode system is noted.  Termination points
+     of electrode compatible with right atrial appendage and apical portion of
+     right ventricle.  There is no evidence of pulmonary vascular congestion. In
+     the retrocardiac position on the left base, a triangular-shaped parenchymal
+     density is identified which on the lateral view matches a density in the
+     posterior basal segment of the left lower lobe.  Appearance and location is
+     compatible with the clinical suspicion of an aspiration pneumonitis.  No other
+     significant parenchymal abnormalities can be identified, and there is no
+     evidence of significant pleural effusion in either lateral or posterior
+     pleural sinuses.  There exist multiple previous chest examinations in this
+     patient's record; however, films are not available for direct comparison.
+     Search results in identification of a chest examination dated [**2572-8-11**].  On this portable examination, heart size was also considered to be top
+     normal, and the patient had already the pacer.  A pneumonic infiltrate was not
+     identified at that time.
+     
+     IMPRESSION:  Local parenchymal infiltrate in left lower lobe posterior segment
+     compatible with clinical suspicion of aspiration pneumonitis.  Stat report
+     delivered to [**Hospital Unit Name 1339**] board.
+     
+                                                                 (Over)
+
+     DATE: [**2573-4-6**] 3:32 PM
+     CHEST (PA & LAT)                                                Clip # [**Clip Number (Radiology) 15335**]
+     Reason: r/o acute cardiopulmonary process                           
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+
+",,
+24074,,40597,0,2573-11-04 16:38:00 EST,2573-11-04 17:08:00 EST,3881,"N",54,"Nursing/Other","MICU Nursing admit note 1030-1900","
+MICU Nursing admit note 1030-1900
+See FHPA for details surrounding admission.  
+
+Neuro:  On arrival to unit, pt agitated and combative, sons at bedside trying to de-escalate pt.  He had rec'd a total of 1mg of ativan on CC7 prior to transfer with no obvious effect.  He rec'd 5mg SL olanzapine with good efffect.  Pt has been sleeping on and off since.  Currently oriented to person only.  Sons are at bedside and are very helpful in keeping pt calm.
+
+CV:  HR 80's, NSR with PAC's.  Pt does have a pacemaker, but no paced beats noted.  Pt had CP on floor with EKG changes prior to transfer.  Rec'd SL NTG x1 with resolution of symptoms. CK's being followed.  BP had dropped to 60's on the floor, pt rec'd fluid bolus.  On arrival to unit, SBP 110's, however, dropped to 80's.  Pt rec'd IV bolus NS 1L over 2 hours.  Pt with #20 PIV.  Had #18 in LAC which was leaking and removed.  HCT on admission yesterday 38, has trended down to 28.  Next HCT to be drawn at 2000.
+
+Resp:  Limited ability to examine LS's as pt is uncooperative with assessment.  O2 sat 92-95% on RA, pt pulls of NC.  RR 18-20, non-labored.  C/o soar throat and sons report that he has had a cough recently.
+
+GI:  Abd softly distended with +BS's.  Tolerating [**Doctor First Name 458**] diet without difficulty - pt has a good appetite.  No BM this shift.  Pt did have vagal episode while having a BM last night.  BS at 1230 315 - rec'd insulin per sliding scale. 
+
+GU:  Pt with 3-way foley and CBI requiring NS irrigant to run wide open.  Urine is light to dark pink with irrigant running this fast, which is about 6L/hour.  Urology informed of this and plan on continuing  CBI as invasive intervention is not worth while at this point.  Making qs urine.
+
+ID:  Pt is ceftriaxone for suspected UTI.  WBC 20.3 from 14 yesterday. 
+
+Skin:  No breakdown noted to backside.  PIV x1, IV RN called to place another PIV.
+
+Social:  Pt lives with son and is well cared for at home.  Sons will go home tonight as they were here all night last night.  Pt is full code.
+
+Plan:  Attempt to wean down amount of CBI required to keep urine clear and foley patent.  Manually irrigate as needed.  Cont to monitor VS's, I&O, labs, and mental status.
+",,
+24074,,40597,0,2573-11-05 03:24:00 EST,2573-11-05 03:42:00 EST,5934,"N",54,"Nursing/Other","1900-0700 NPN","
+1900-0700 NPN
+Pt. agitated and combative with confusion.  Cont. bladder irrigation cont. through night.
+
+NEURO:  pt. agitated at times, combative, hitting at staff, confused to place and time.  knows name, good recall of past events.
+
+CV:  maps 50's responsive to fluid bolus, repeat hct 22 2 units of prbcs given slowly through night. urine bloody with clots early pm now light pink in color. betapace held due to low maps.  appears to pace atrial at 60, otherwise in sinus with multiple ectopy some [**Last Name (un) **] runs and pairs pvc.  denies cp, cont. with serial enzymes #3 with am labs.  negative to date. distal pulses good. skin warm, temp afebrile. 
+
+RESP:  no distress on room air, removes oxygen consistantly. lung field diminihsed throughout, rhonchi with dry non prod cough intermittant. sats high 90's to 100. blood given slowly to prevent fluid overload.
+
+GU/GI:  smear brwn stool, gu continuous irrigation on.  flow rate good, leaking around cath lrge amt. repositioned ballon and applied tape to leg for slight traction with good result of minimal leak.  did have clots early even now resolved with light pink urine. 100cc hr.
+
+ACCESS:  restarted all IV's tonight. adequeate access. tubes and lines concealed.  able to draw blood from both. 
+
+PAIN:  denies
+
+RESTRAINT:  applied hand mitts after pt began to become highly agitated and pulling out lines.  added wrist restraints bil. with pt. hitting staff. family aware.
+
+ENDO:  deferred eve. snack, bs 200, gave one half dose glargine and sliding scale regular insulin due to limited intake this night
+
+SOCIAL:  sons visiting and assisting in care.  Son [**Name (NI) **] has cared for pt at home well for many years.
+
+PLAN:  cont. bladder irrigation, monitor vs closely, restart sotalol as maps tol. , monitor bs and respond with sliding scale in am.  follow hct, card enzymes. meticulus skin care. mobilize as soon as possible. restraints cont. with freq trials dc.  decrease stim. for pt to assist in maintaining calm.
+",,
+24074,,40597,0,2573-11-05 16:50:00 EST,2573-11-05 17:14:00 EST,5919,"N",54,"Nursing/Other","NPN 7a-7p","
+NPN 7a-7p
+Please see carevue and FHP for additional data.
+Full Code
+Allergy: Erythromycin.
+
+Neuro: Pt. AO x1-2. MS waxing and [**Doctor Last Name **]. Does well with family at bedside. Unrestrained when family at bedside, other wise requiring restraints and ? mitts to prevent pulling of Foley and iv's. Intermittent c/o back pain, relieved with repositioning. Also c/o of sore throat, relieved with Tylenol 650mg x2 divided with good effect. Dozing off and on over most of day. 
+Resp: LS clear with occ. exp. wheeze. Sats 95-100% on RA. Occ. congested cough, noted to be productive for yellow/greenish, thick sputum. Encouraged production, plan to obtain sample if possible. 
+CV: NSR 66-94. Sbp 96-140. Last HCT 26.4, down from 30. Plan to draw again at 21:00. +pp. Holding Aspirin and SC Heparin changed to BID. Following enzymes, Trop. trending up, likely demand, CK's flat. EF 25%. 
+GI/GU: [**Doctor First Name 458**], well tolerated. Abd soft, +BS. Sm. brown stool. Cont.bladder irrigation on going. Urine pink. Urology at bedside today, irrigated (manually)  for many clots. Plan for cystogram once bleeding resolves. ? CT once bleeding subsides, of note urology reqs.for CT to be done with ~200-300cc in bladder for optimal study. ~100cc out per hour, pink urine. 
+Endo: ISS and SD. 
+SKin: Scrotum excoriated, and painful. Patient at times refusing application of cream [**1-8**] discomfort.
+ID: afeb. Bld cx pnding. Urine cx negative from [**11-3**].
+A/P: Hematuria- ? Malignancy. Urology following. Cont. bladder irrigation. Plan for cystoscopy and CT once bleeding subsides. Follow HCT next due at 21:00. 
+Leukocytosis- Unclear etiology. Cx data pnding. Sent. pancreatic/liver labs. Cont. Ceftriaxone. 
+Agitation- Family indicates patient sun downing at night. Zyprexa dose increased today. 
+Cont. providing supportive care.
+",,
+24074,,40597,0,2573-11-06 05:19:00 EST,2573-11-06 05:48:00 EST,9197,"N",54,"Nursing/Other",,"
+
+MICU 7 RN REPORT. 1900-0700
+
+EVENTS: 2 UNITS PRBC'S TRANSFUSED, CONFUSED AND PULLING LINES
+
+NEURO: Pt is alert and confused. Both arms restrained as he was  trying to pull the lines. Mittens placed on the hands but he will manipulate w/ fingers and removes the mittens every now  and then. He is confused and does not follow commands.
+
+CV: HR 90-106 NSR. SBP 86- 115. @ 2100 Hct 23 and received 2 units PRBC's. During second unit transfusion pt coiled the IV tubing in his hand, line was disconnected, noticed by sitter and found approximately 150cc blood on the floor and on the bed. MD aware. PIV in both hands patent.
+
+RESP: LS coarse. Has occ wet cough. No SOB. Sats > 94%.
+
+GI/GU: Abd soft, BS x4. He aspirated yesterday w/ supper pt is kept NPO except meds. 3 way foley in place. Bladder irrigation cont. Output remains bloody.
+
+SKIN: Imapired. Scrotum excoriated.
+
+ID: T max 98. Abx cefriaxone.
+
+ENDO: BS QACHS. Insulin sliding scale and fixed dose.
+
+SOCIAL: Full code. Sons very much involved in the care and went home @ 2030. Sitter @ bedside. 
+
+PLAN: Cont bladder irrigation.
+      Transfuse PRBC's if Hct drops.
+      Cont ICU care.
+      Speech swallow test on monday.
+      
+",,
+24074,,40597,0,2573-11-06 18:11:00 EST,2573-11-06 18:16:00 EST,3871,"N",54,"Nursing/Other",,"
+
+neuro: confused and oriented to self and family. +mae noted. 
+cv: monitor shows nsr-af with occ pac's/pvc's. bilat hand restraints d/c'd when family present in room. remains on 1:1 sitter. 
+resp: ls with wheezes througout. nebs per rt. denies resp or distress. 
+gi: abd soft and nontender. +bs noted. no stools this shift. 
+gu: foley intact and patent draining pink tinged urine, remians on CBI. 
+skin: c/d/i
+endo: remains on fingersticks q6hr with humalog s/s.
+i-d: afebrile. remains on empiric abx for uti.
+psy-soc: family at bediside. c/o to floor, transfer orders to be written. 
+",,

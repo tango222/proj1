@@ -1,0 +1,574 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+24223,19984,,,2635-08-09 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+ 
+ 
+ 
+Admission Date:  [**2635-8-9**]              Discharge Date:   [**2635-8-13**]
+ 
+Date of Birth:  [**2556-3-30**]             Sex:   F
+ 
+Service: SURGERY
+ 
+Allergies: 
+Iodine
+ 
+Attending:[**First Name3 (LF) 2801**] 
+Chief Complaint:
+sp cardiac arrest/colitis
+ 
+Major Surgical or Invasive Procedure:
+sp Left subclavian CVL placement
+sp Right femoral CVL placement
+ 
+History of Present Illness:
+79F Pmhx CHF,COPD, found down at home, pulseless- CPR initiated 
+w/conciousness regained on scene. At OSH ABG 7.19/94/110, BiPAP 
+started. Pt found to be hypothermic w/ WBC 17 (pt on steroids) 
+pnuemobilia and thickening of sigmoid. Currently on Nasal 
+cannula 02 + hemodymamically stable. 
+ 
+Past Medical History:
+CHF (EF 25%, mod AS,AR, mod MR, CAD,PAF, angina, COPD (O2 
+dependent-2 L) PVD, recurrent UTI's, Chronic bronchitis, ?h/o 
+DM,
+sp L ax-bifem, L fem-[**Doctor Last Name 2463**], ERCP '[**32**], T+A, Appy, CEA, L4-L5 
+laminectomy.  
+
+ 
+Social History:
+ex tobacco
+denies ETOH
+nursing home resident
+ 
+Family History:
+NC
+ 
+Physical Exam:
+thin, A&O X 1
+IRRR
+Decreased BS bilaterally
+soft, mild tenderness R and L lower quadrants-not reproducible
+visible fem-fem graft
+ext warm, + 1 edema
+ 
+Pertinent Results:
+[**2635-8-9**] 04:20AM BLOOD WBC-13.8* RBC-3.17* Hgb-8.9* Hct-28.4* 
+MCV-90 MCH-28.2 MCHC-31.4 RDW-15.0 Plt Ct-185
+[**2635-8-11**] 03:15AM BLOOD WBC-6.8 RBC-2.86* Hgb-7.7* Hct-25.9* 
+MCV-91 MCH-27.0 MCHC-29.9* RDW-15.1 Plt Ct-178
+[**2635-8-12**] 02:41AM BLOOD WBC-5.3 RBC-2.94* Hgb-8.2* Hct-27.4* 
+MCV-93 MCH-27.9 MCHC-29.9* RDW-15.0 Plt Ct-194
+[**2635-8-10**] 03:07AM BLOOD PT-14.0* PTT-30.1 INR(PT)-1.2*
+[**2635-8-9**] 04:20AM BLOOD Glucose-86 UreaN-18 Creat-0.8 Na-144 
+K-3.7 Cl-101 HCO3-40* AnGap-7*
+[**2635-8-11**] 09:36AM BLOOD Glucose-202* UreaN-25* Creat-1.1 Na-139 
+K-3.9 Cl-100 HCO3-37* AnGap-6*
+[**2635-8-12**] 02:41AM BLOOD Glucose-122* UreaN-31* Creat-1.3* Na-139 
+K-4.1 Cl-99 HCO3-35* AnGap-9
+[**2635-8-9**] 04:20AM BLOOD ALT-51* AST-86* CK(CPK)-638* AlkPhos-65 
+Amylase-120* TotBili-0.4
+[**2635-8-9**] 12:38PM BLOOD CK(CPK)-1086*
+[**2635-8-9**] 09:45PM BLOOD CK(CPK)-972*
+[**2635-8-12**] 02:41AM BLOOD CK(CPK)-218*
+[**2635-8-9**] 04:20AM BLOOD cTropnT-0.18*
+[**2635-8-9**] 12:38PM BLOOD CK-MB-18* MB Indx-1.7 cTropnT-0.17*
+[**2635-8-9**] 09:45PM BLOOD CK-MB-14* MB Indx-1.4
+[**2635-8-10**] 04:26AM BLOOD CK-MB-10 MB Indx-1.4 cTropnT-0.12*
+[**2635-8-12**] 02:41AM BLOOD CK-MB-5 cTropnT-0.10*
+[**2635-8-9**] 04:20AM BLOOD Calcium-8.1* Phos-3.2 Mg-2.0
+[**2635-8-12**] 02:41AM BLOOD Calcium-8.2* Phos-5.3* Mg-1.9
+[**2635-8-10**] 07:36AM BLOOD Vanco-16.2*
+[**2635-8-11**] 10:26AM BLOOD Type-ART pO2-105 pCO2-95* pH-7.19* 
+calTCO2-38* Base XS-4
+[**2635-8-11**] 11:05AM BLOOD Type-[**Last Name (un) 93**] pO2-35* pCO2-107* pH-7.17* 
+calTCO2-41* Base XS-5
+[**2635-8-11**] 11:31AM BLOOD Type-ART pO2-144* pCO2-80* pH-7.23* 
+calTCO2-35* Base XS-3
+[**2635-8-11**] 07:42PM BLOOD Type-ART pO2-127* pCO2-105* pH-7.16* 
+calTCO2-40* Base XS-4
+[**2635-8-11**] 09:19PM BLOOD Type-ART pO2-76* pCO2-85* pH-7.26* 
+calTCO2-40* Base XS-7
+[**2635-8-12**] 01:50AM BLOOD Type-ART pO2-47* pCO2-105* pH-7.15* 
+calTCO2-39* Base XS-3
+[**2635-8-12**] 02:54AM BLOOD Type-ART pO2-64* pCO2-91* pH-7.23* 
+calTCO2-40* Base XS-6
+
+CT CSpine: No evidence of cervical spine fracture. Cervical 
+spondylosis as described above.
+CXR post CVL placement [**8-10**]: 
+A left subclavian vascular catheter terminates in the superior 
+vena cava. Several skin folds are present in the left hemithorax 
+but there is no pneumothorax. There are bilateral moderate 
+pleural effusions, both of which have increased in size since 
+the previous study. New perihilar and basilar opacities may 
+reflect pulmonary edema sparing the upper lobes in the setting 
+of emphysema, but it is difficult to exclude underlying 
+aspiration or infectious pneumonia in the lung bases. Surgical 
+clips are present in the left axilla.
+
+[**8-12**] CXR: Interval development of large left pneumothorax with 
+almost complete collapse of the left lung.
+
+ 
+Brief Hospital Course:
+79F w/ a multiple medical problems including CHF (EF20%), COPD 
+(on home O2), found down at home, pulseless- CPR initiated 
+w/conciousness regained on scene. At OSH ABG 7.19/94/110, BiPAP 
+started. Pt found to be hypothermic w/ WBC 17 (pt on steroids) 
+pnuemobilia and thickening of sigmoid. Pt was transferred to 
+[**Hospital1 25**] for further management with wishes from the pt and family 
+to reverse DNR/DNI status if surgery was indicated.  On 
+transfer, the pt had VSS with a mildly tender abdomen without 
+peritoneal signs.  It was decided to treat her conservatively 
+with bowel and IV antibiotics.  She improved and was tolerating 
+PO's without difficulty after passing a swallow study.  Her 
+Cpine was clearly with both a negative CT Cspine and clinical 
+exam.  Her groin CVL was DC'd after a L SC SVL was palced.  CXR 
+confirmed good position and no PTx.
+
+Overnight on HD 3, pt became mildly agitated and an ABG was 
+drawn which showed a severe resp acidosis and BiPAP was 
+initiated. The pt subsequently developed severe hypoxia with 
+hypotension.  A CXR was obtained which showed complete collapse 
+of the L lung thought to be a result of bursting a bleb 
+associated with her severe COPD.  Family did not want a chest 
+tube placed and decided to make the pt CMO measures. 
+
+On HD 4 pt continued to show a severe respiratory acidosis, was 
+continued on a morphine drip, and was difficult to arouse.  At 
+6pm pt's respiratory status worsened and she died.
+ 
+Medications on Admission:
+coreg 6.25"", captopril 12.5"", effexor 150', colace 100"" prn, 
+calcium "", lasix 40', KCL 20', Pred 5', opscal', protonix 40', 
+diamoxx 250', albuterol prn, darvocet prn, senekot, trazadone 
+25' 
+ 
+Discharge Medications:
+NA
+ 
+Discharge Disposition:
+Expired
+ 
+Discharge Diagnosis:
+respiratory failure
+ 
+Discharge Condition:
+NA
+ 
+Discharge Instructions:
+NA
+ 
+Followup Instructions:
+NA
+ 
+                             [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) **] MD [**MD Number 2803**]
+ 
+Completed by: [**Name6 (MD) **] [**Name8 (MD) **] MD [**Doctor First Name 4900**] [**2635-8-14**] @ 0902
+Signed electronically by: DR. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **]
+ on: MON [**2635-8-31**] 8:51 PM
+(End of Report)
+
+
+",,
+24223,19984,,,2635-08-09 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2635-8-9**] 8:38 PM
+     CT C-SPINE W/O CONTRAST                                         Clip # [**Clip Number (Radiology) 530**]
+     Reason: s/p fall- eval for fracture for C-spine clearance.          
+     Admitting Diagnosis: RESPIRATORY DISTRESS;? BOWEL ISCHEMIA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      79 year old woman with CHD/COPD s/p fall at home.                               
+     REASON FOR THIS EXAMINATION:
+      s/p fall- eval for fracture for C-spine clearance.                              
+     CONTRAINDICATIONS for IV CONTRAST:
+      allergy
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  79-year-old woman status post fall.
+     
+     TECHNIQUE:  Multidetector axial images of the cervical spine were obtained
+     without contrast.  Coronal and sagittal reformatted images were obtained.
+     
+     COMPARISON:  [**Hospital1 531**] [**Location (un) 532**] cervical spine CT of the same day.
+     
+     FINDINGS:  There is no evidence of cervical spine fracture.  Multilevel
+     degenerative changes are noted with disc space narrowing, osteophyte
+     formation, uncovertebral spurring, and facet degeneration, most prominent at
+     C4 through C6.  The visualized outline of thecal sac is unremarkable.  There
+     is no prevertebral soft tissue swelling.  Large bilateral pleural effusions
+     are noted.
+     
+     IMPRESSION:  No evidence of cervical spine fracture.  Cervical spondylosis as
+     described above.
+     
+     NOTE ADDED AT ATTENDING REVIEW: The right mastoid air cells are largely
+     opacified. Three is a deformity of the right clavicle, likely due to old
+     fracture.
+
+",,
+24223,19984,,,2635-08-09 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2635-8-9**] 4:47 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 529**]
+     Reason: eval: PTX                                                   
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      79 year old woman with COPD, found down, +chest pain                            
+     REASON FOR THIS EXAMINATION:
+      eval: PTX                                                                       
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  79-year-old woman with COPD, found down with chest pain.
+     
+     CHEST AP:  There is marked cardiomegaly.  The aorta is calcified and tortuous.
+     Pulmonary vasculature is unremarkable.  There are bilateral pleural effusions,
+     greater on the right and bibasilar opacities.  Osseous and soft tissue
+     structures are unremarkable.
+     
+     IMPRESSION:  Bibasilar opacities which could represent atelectasis, pneumonia,
+     or aspiration.  Bilateral pleural effusions, larger on the right.  No evidence
+     of pneumothorax.
+                                                                           
+
+",,
+24223,19984,30089,0,2635-08-09 17:42:00 EST,2635-08-09 18:06:00 EST,889,"N",1,"Nursing/Other","SICU NPN","
+SICU NPN
+HPI: 79 year-old female who was found down at home after ""crash"" heard by son. EMS arriving and pt pulseless and hypothermic. CPR intiated with failed intubation. Bipaped to OSH. At OSH fluid rescuitated for hypotension, warm for hypothermia, pan cultured, filmed. CXR with question pleural effusion vs. CHF. Lasix 40mg IVP with ""good response"" [**Name6 (MD) 59**] [**Hospital1 3**] RN. Films (-) for bleeds or fractures. Pt improving and c/o of adb pain. CT of abdomen with thickening of bowel wall and free air in biliary trees. Pt then transfered to [**Hospital1 3**] ER for further work-up of question ischemic bowel. 
+
+SEE FHP for detailed PMH and ALLERGIES
+
+S-""I don't want him next to me..tell him to go.""
+
+O-Alert and oriented to self. Unable to recall events. Anxious and demented at times. C/o general discomfort. ""It hurts all over."" Given Dilaudid PRN for pain with affect. Arriving in neck collar from field. Switched to [**Location (un) **] J. Since pt and films from OSH  poor source for neck/spine clearance pt needing CT of spine tonight/AM. HR 70-100s, NSR with frequent PACs and SBPs 140-170s. EKG done admission to SICU to confirm rhythmn and pt not in Afib. Since significant cardiac history. Cards consulted and cardiac echo ordered for tommorow. CK elevated with low MB ratio. Continuing to cylce. Next set due at 8PM tonigh. and then in AM. Breath sounds diminished throughout. ? crackles at right base. O2Sats on 4L 95-98%. O2 dependent at home(2Ls). Pt denies smoking but fingers nales with orange yellow tinge. Denies SOB. Breathing even and non-labored. HUO 15-30cc. Fluid boluses time two with minimal affect. Lasix recived at OSH with reported ""good response."" D5LR continues at 100cc/hr. Dr. [**Last Name (STitle) 4317**] and primary team aware of urine outputs. Abd soft with (+) bowel sounds. Keeping NPO. No plans for further imaging of abdomen tonight. Normothermic since arrival to SICU. Broad antibiotic coverage for question of ischemic bowel. Suggest Vanco level in AM if urine outputs continue to be poor. Live alone, prior to event pt is DNR/DNI and is not a surgical canidate and will remain DNR/DNI for now. Pt has 7 children. Dtr, [**Location (un) 4318**] in from [**State **] and with pt all day. Many phone calls and spoke to dtr, [**Location (un) 4318**] about phone calls to unit. She is the HCP and phone calls should be directed towards her. 
+
+A/P: Questio ischemic bowel stable on current regimen. Unknown etiology for pulseless event at home. 
+Cyle CKs at 8PM, then at 4am
+CT of spine to clear neck/spine
+Question further imaging of abdomen if going to CT
+Cards consult in AM
+Cardiac echo in AM
+Suggest Vanco level in AM if UO do not pick up
+Monitor I/O closely
+
+",,
+24223,19984,30089,,2635-08-10 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2635-8-10**] 3:10 PM
+     CHEST PORT. LINE PLACEMENT                                      Clip # [**Clip Number (Radiology) 533**]
+     Reason: new line placement- location                                
+     Admitting Diagnosis: RESPIRATORY DISTRESS;? BOWEL ISCHEMIA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       79 year old woman with COPD, found down, +chest pain                           
+       
+     REASON FOR THIS EXAMINATION:
+      new line placement- location                                                    
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     PORTABLE CHEST X-RAY, [**2635-8-10**]
+     
+     COMPARISON:  [**2635-8-9**].
+     
+     INDICATION:  Line placement.
+     
+     A left subclavian vascular catheter terminates in the superior vena cava.
+     Several skin folds are present in the left hemithorax but there is no
+     pneumothorax.  There are bilateral moderate pleural effusions, both of which
+     have increased in size since the previous study.  New perihilar and basilar
+     opacities may reflect pulmonary edema sparing the upper lobes in the setting
+     of emphysema, but it is difficult to exclude underlying aspiration or
+     infectious pneumonia in the lung bases.  Surgical clips are present in the
+     left axilla.
+
+",,
+24223,19984,30089,0,2635-08-10 05:28:00 EST,2635-08-10 06:02:00 EST,5665,"N",1,"Nursing/Other","S/P PEA","
+S/P PEA
+NEURO:PT RECIEVED AWAKE ALERT OX1 (NAME ONLY). MAE EQUALLY. PT IS CONFUSED WORDS NOT MAKING SENSE AT TIMES.
+Resp:O2 4-5l NP on decreased to 4 l and tolerated. Pt took off o2 x1 and sats dropped to mid 80s. CXR shows bil pleural effusions. On predisone.
+GI:per Dr[**Doctor Last Name 4319**] note pt probably has focal and /or ischemic colitis and is on vanco, flagyl and levoflox. Abd soft bowel sounds present. No N/V. No BM overnoc. NPO.
+CV:cardiac monitor shows wandering atrial pacemaker variable rate 59-90's. no ectopics. Pt c/o 10/10 chest pain x 1, o/c sicu resident at bedside to eval, EKG done, cardiac enzymes sent, dilaudid .5mg IVP gien for CP prob related to yesterdays resusitation (CPR). cardiac consult in chart.
+
+GU:u/o oliguric all night treated with fluid boluses q2-3 hrs given pt cardiac status. No significant response to fluids boluses, urine lytes sent.
+Plan: Continue plan of care.cardiac echo today
+pain control with dilaudid as ordered 
+
+vanco trough with 0800 dose.
+
+
+",,
+24223,19984,30089,0,2635-08-10 14:35:00 EST,2635-08-10 15:29:00 EST,6568,"N",1,"Nursing/Other","NPN 7a-7P","
+NPN 7a-7P
+See carevue for specifics:
+
+Neuro-Initially sleepy, difficult to keep aroused. Narcotics held. Throughout day increased alertness noted.  Pt is currently A&Ox2 with periods of confusion. C-spine cleared, MAEs, C/O generalized aching pain all over. 
+
+RESP-End stage COPD, o2 sat 95-100% on 4L via n/c. rr, even, non-labored. no c/o sob. 
+
+Carido-AFIB/NSR, 60s-low 100s, SBP 100s-130s, CVP 12-20 Lytes WNLs, CKs trending down. No c/o chest pain.
+
+GI- Focal vs Ischemic collitis, triple ABX continues. Abd soft, tender to palp, speech & swallow eval at BS, no signs of aspiration noted. diet advanced to clr liquids tol well.
+
+GU-Foley with boarder line u/o 15-26cc/hr.  Multiple LR bolus without effect. ? need for lasix
+
+Endo-BS qid with SC coverage
+
+Social-Son & daughter very involved in pt Care, into visit spoke.  Pt is on hospice at home for endstage COPD.
+
+A/P-Stable, continue to monitor cks, lytes, and u/o closely.  Continue IV ABXs.
+
+",,
+24223,19984,30089,,2635-08-11 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2635-8-11**] 7:20 PM
+     CHEST (PORTABLE AP); -77 BY DIFFERENT PHYSICIAN                 [**Name Initial (PRE) 232**] # [**Clip Number (Radiology) 536**]
+     Reason: hypercarbia, eval pulm edema                                
+     Admitting Diagnosis: RESPIRATORY DISTRESS;? BOWEL ISCHEMIA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+           79 year old woman with COPD & lg pleural effusion                          
+         
+     REASON FOR THIS EXAMINATION:
+      hypercarbia, eval pulm edema                                                    
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  79-year-old woman with COPD and large pleural effusion, evaluate
+     for pulmonary edema.
+     
+     COMPARISON:  [**2635-8-11**] at 04:36.
+     
+     PORTABLE AP CHEST RADIOGRAPH:  There is stable cardiomegaly.  Again seen is a
+     left subclavian catheter, with the tip in the upper portion of the superior
+     vena cava.  The mediastinal contours are stable in appearance.  There are
+     bilateral pleural effusions with adjacent opacity, which may represent areas
+     of atelectasis. Additionally, there is left retrocardiac opacity, which is
+     unchanged.  The pulmonary vasculature within the upper lobes is within normal
+     limits.  Again seen are clips in the left upper lobe from prior surgery.  The
+     previously noted area of lucency overlying the cardiac apex is not definitely
+     appreciated on this study.  No definite pneumothorax is seen.  The osseous
+     structures are stable in appearance.  Specifically, contour abnormality of the
+     right clavicle is unchanged.
+     
+     IMPRESSION:  No significant interval change.
+
+",,
+24223,19984,30089,,2635-08-11 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2635-8-11**] 4:20 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 534**]
+     Reason: f/u effusion                                                
+     Admitting Diagnosis: RESPIRATORY DISTRESS;? BOWEL ISCHEMIA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+         79 year old woman with COPD & lg pleural effusion                            
+     REASON FOR THIS EXAMINATION:
+      f/u effusion                                                                    
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     AP CHEST, 4:36 A.M., [**8-11**] 
+     
+     HISTORY:  COPD and large pleural effusion.
+     
+     IMPRESSION:  AP chest compared to [**8-9**] and 28:
+     
+     Moderate right pleural effusion and moderate cardiomegaly have both increased
+     progressively since [**8-9**].  There is a new crescent of lucency
+     marginating the cardiac apex.  The anatomic location of this small air
+     collection is not entirely clear but pericardial or pleural, particularly if
+     patient has had a paracentesis from either compartment.  Small left pleural
+     effusion looks smaller compared to [**8-10**].  There is no apical or lateral
+     component to this possible pneumothorax.  Clinical correlation is advised.
+     
+     Pulmonary edema if any is minimal.
+     
+     Dr. [**Last Name (STitle) 535**] paged to report these findings at the time of dictation.
+                                                                           
+
+",,
+24223,19984,30089,,2635-08-11 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2635-8-11**] 7:20 PM
+     CHEST (PORTABLE AP); -77 BY DIFFERENT PHYSICIAN                 [**Name Initial (PRE) 232**] # [**Clip Number (Radiology) 536**]
+     Reason: hypercarbia, eval pulm edema                                
+     Admitting Diagnosis: RESPIRATORY DISTRESS;? BOWEL ISCHEMIA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+           79 year old woman with COPD & lg pleural effusion                          
+         
+     REASON FOR THIS EXAMINATION:
+      hypercarbia, eval pulm edema                                                    
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  79-year-old woman with COPD and large pleural effusion, evaluate
+     for pulmonary edema.
+     
+     COMPARISON:  [**2635-8-11**] at 04:36.
+     
+     PORTABLE AP CHEST RADIOGRAPH:  There is stable cardiomegaly.  Again seen is a
+     left subclavian catheter, with the tip in the upper portion of the superior
+     vena cava.  The mediastinal contours are stable in appearance.  There are
+     bilateral pleural effusions with adjacent opacity, which may represent areas
+     of atelectasis. Additionally, there is left retrocardiac opacity, which is
+     unchanged.  The pulmonary vasculature within the upper lobes is within normal
+     limits.  Again seen are clips in the left upper lobe from prior surgery.  The
+     previously noted area of lucency overlying the cardiac apex is not definitely
+     appreciated on this study.  No definite pneumothorax is seen.  The osseous
+     structures are stable in appearance.  Specifically, contour abnormality of the
+     right clavicle is unchanged.
+     
+     IMPRESSION:  No significant interval change.
+
+",,
+24223,19984,30089,0,2635-08-11 02:56:00 EST,2635-08-11 02:58:00 EST,940,"N",1,"Nursing/Other","Condition Update","
+Condition Update
+D: See carevue flowsheets for specifics
+ Patient stable overnight. Urine output remained marginal but >15cc-no fluid bolluses were given and planning to start diuresis in am with diamox. 
+ Patient confused overnight to place/time and recent events-requiring frequent re-orientation with little effect. Moves all extremeties but left leg a little swollen and complaining of a lot of pain when moved. 
+ Daughter called for update.
+PLAN:
+ ? transfer pt to floor today
+ Diurese today
+ Notify H.O. with any changes
+",,
+24223,19984,30089,0,2635-08-11 16:22:00 EST,2635-08-11 16:37:00 EST,6568,"N",1,"Nursing/Other","NPN 7a-7p","
+NPN 7a-7p
+See carevue for specifics:
+
+Neuro-Increased confusion and lethergy today. Easily arousable but drifts off to [**Doctor Last Name **]. Follows commands inconsistantly.
+
+Cardio- Hct stable 25.6 Hypotensive spb 80s-low 100s, HR 50s-70s NSR. 
+CVP 9-15
+
+Resp-o2 stat 90-100% on 4L via NC drops to 80s when o2 decreased.  RR even, with periods of labored breathing.  ABG Resp acidosis. End stage COPD with Pulmonary HBP per Team. Repostioned q2 hrs and PRN, encouraged C/D/I. ? need for Bipap if ABGs don't improve per SICU team.
+
+GI-Abd soft, NT/NT, (+)BSx4, poor po intake today
+
+GU-Foley with boarderline u/o, lasix 40mg po given without effect, additional 10mg IV given with minimal effect, additional 40mg IV given still with minimal effect.
+
+Endo-BS qid with sc coverage.
+
+A/P-Continue to monitor hemodynamics & resp status closely, antihypertensive meds decreased, hold coreg tonight, gently diuresis, 
+",,
+24223,19984,30089,,2635-08-12 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2635-8-12**] 2:17 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 537**]
+     Reason: acute hypoxia                                               
+     Admitting Diagnosis: RESPIRATORY DISTRESS;? BOWEL ISCHEMIA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+            79 year old woman with COPD & lg pleural effusion                         
+           
+     REASON FOR THIS EXAMINATION:
+      acute hypoxia                                                                   
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     EXAMINATION:  AP chest.
+     
+     INDICATION:  Chest pain.
+     
+     Single AP view of the chest is obtained [**2635-8-12**] at 0240 hours and is compared
+     with the prior radiograph performed on [**2635-8-10**] at 1526 hours.  Since that
+     time, the patient has developed a very large left-sided pneumothorax with
+     almost complete collapse of the left lung.  The patient also has bilateral
+     pleural effusions.  A right-sided subclavian line is unchanged in position.
+     
+     IMPRESSION:
+     
+     Interval development of large left pneumothorax with almost complete collapse
+     of the left lung.
+     
+     Findings were discussed with Dr. [**First Name8 (NamePattern2) 538**] [**Last Name (NamePattern1) 539**] at 0850 hours.  She was aware of
+     the findings.
+                                                                           
+
+",,
+24223,19984,30089,0,2635-08-12 03:55:00 EST,2635-08-12 03:59:00 EST,296,"N",1,"Nursing/Other",,"
+
+Resp Care: Pt placed on NIV with FFM for hypercarbia/resp acidosis with limited success d/t inability for seal mask, achieve acceptable Ve, back on ventimask titrated to spo2 90-95%, will cont conservative rx for resp failure.
+",,
+24223,19984,30089,0,2635-08-12 04:14:00 EST,2635-08-12 04:25:00 EST,940,"N",1,"Nursing/Other","Condition Update","
+Condition Update
+D: See carevue flowsheet for specifics
+ Patient very sommulent at beginning of shift and ABG with PCO2 up to 120's, otherwise vitals stable with SBP 90-100. Pt was placed on mask ventilation and over the course of a few hours pt started to wake up a little more, moving all extremeties and following commands but still confused. Pt then became more aggitated/moving around a lot and unable to maintain adequate seal for mask ventilation. O2 sats dropping down intermittently to 70's until redirected but only lasting for a few minutes. Mask was removed and pt placed on venti-mask and Sat's immediately dropped to 60-70's with BP following down as low as 50's but not sustained d/t pt was ambu'd back up to 90's and BP rose to 140's. CXR was done, daughter (contact person) was called, ICU attending notified of events. CXR showed left collapsed lung. Daughter arrived and discussed possible insertion of Chest tube with Dr. [**Last Name (STitle) **] (ICU attending) and ICU resident Dr. [**First Name (STitle) 1632**]. Second daughter arrived and after much discussions (appropriate questions and answers) Daughters decided against chest tube placement and to just make pt comfortable. The hope is that without any change in treatment pt may continue as critically stable until this afternoon when grandson should arrive home from [**Country 3968**]. At this time pt is becoming more aggitated and complaining of pain. Morphine gtt has been ordered but care is not being withdrawn at this time. SICU resident has explained treatment plan with nurse present and daughters have both expressed understanding. 
+ Currently pt is not having any respiratory distress on venti-mask. HR irregular rate 70's in sinus. BP 100/50's with O2 sats 92-94%. Pt is making very minimal amts of urine at this time.
+PLAN:
+ CMO later this afternoon
+ Provide support for family
+ 
+
+",,
+24223,19984,30089,0,2635-08-12 15:21:00 EST,2635-08-12 15:24:00 EST,1069,"N",1,"Nursing/Other","Respiratory Care Note:","
+Respiratory Care Note:
+   Patient on 40% venti mask with SpO2 of 95-96%. She is responsive at times, family members at bedside. Ventilator discontinued from room for mask ventilation as she is CMO and has an untreated L pnuemothorax. Chest tube is not to be placed per family meeting. Goal to keep SpO2 around 95%.
+",,
+24223,19984,30089,0,2635-08-12 16:21:00 EST,2635-08-12 16:31:00 EST,6779,"N",1,"Nursing/Other","Nursing Note--A Shift","
+Nursing Note--A Shift
+Please see Carevue for complete assessment and specifics:
+
+NEURO: PERRLA 3 and brisk. Waxes and wanes between somnolent and difficult to arouse and opening eyes spontaneously. Intermittently follows commands. Rarely answers questions appropriately.  MAE in bed. Denies pain consistently.
+
+PSYCH/SOCIAL: Social work called stat for Daughter [**Name (NI) 263**] who arrived to mothers room, yelling out, hyperventilating and crying hysterically. Social work came immediately and helped daughter and family. Daughter [**Name (NI) 263**] more calm for the rest of the shift.  Daughter [**Name (NI) 4318**] very involved with care and able to articulate her wish for her mother to be comfortable. Grandson arrived from [**Country 3968**] at 1530.  Son to arrive tonight at 2400.
+
+RESP: LS diminished. Non productive cough. Would bite down when attempting to suction.
+
+CARDIAC: Afebrile. HR 70-80's NSR. SBP 98-115. +PP.  
+
+GI: Abd soft +BS. Unable to swallow pills-MD aware.
+
+GU: Foley intact draining 3cc-11cc hour-MD aware. 40mg IVP lasix with no effect.
+
+INTEG: Coccyx erethematous. 
+
+PLAN: Possible d/c of meds when son arrives tonight at 2400, Assess for comfort will start Morphine gtt if needed, Provide extra comfort and support to patient and family. 
+
+",,
+24223,19984,30089,0,2635-08-13 03:48:00 EST,2635-08-13 04:10:00 EST,940,"N",1,"Nursing/Other","Condition Update","
+Condition Update
+D: See carevue flowsheet for specifics
+ No acute change in vital signs overnight. Patient's mental status has deteriorated a bit and does not always respond when spoken to does squeeze and and move feet a little, but does not open eyes.
+ Upon receiving patient plan of care was to wait for son to arrive from [**State 655**] and then put in place comfort measures. Pt requested mask be removed and HCP wanted to try to remove mask and place NC. Nasal cannula was placed and within minutes SaO2 went from 95 to 69% venti mask placed and O2 sats climbed back up to mid 90's. Lungs are diminished throughout and pt's work of breathing increasing slightly, RR unchanged but using accessory muscles and bottom jaw opening with each breath. HCP requested morphine gtt be started to ease breathing. At this time morphine gtt started at .5mg/hr and SICU resident notified. Dr. [**First Name (STitle) **] in to discuss code status with HCP (nurse present for discussion). During discussion it was explained that increasing morphine gtt if necessary after this point may affect vital signs and therefore focus of care needed to be addressed (continuing to tx with meds vs making patient comfortable). Daughter (HCP) stated she was aware that current meds and not at this point making pt better but did not want to make decision to go forward with CMO. Son ([**Name (NI) 4320**]) started expressing desire to be more aggressive with treatment and stating he wants to take pt home to [**State 655**] and take care of her there. HCP asked RN to come in and explain medical situation. Daughter [**Name (NI) 263**] then at bedside and HCP requested MD come in and speak to siblings d/t siblings accusing her of ""killing their mom"". [**Doctor First Name 263**] and [**Doctor First Name 4320**] both stated that they were not aware that [**Location (un) 4318**] was designated to make all [**Hospital 254**] medical decisions. [**Doctor First Name 4320**] reported not knowing how sick his mom had become and [**Doctor First Name 263**] last saw her mom 6 wks ago and both stated they think the patient made dnr/dni decision when depressed and if that could be fixed (with more support from family) that she may have more of a will to live. Both [**Doctor First Name 4320**]/[**Doctor First Name 263**] stated they didn't agree with HCP decision not to place chest tube and frequently asking if that decision has caused pt's grave situation with other organs (not making any urine). Due to obvious disagreement among all siblings re: patient's wishes family meeting should take place first thing in the am. An email to [**First Name8 (NamePattern2) 1061**] [**Last Name (NamePattern1) 2198**] (from Palliative care) was sent overnight to inform her of situation and [**First Name8 (NamePattern2) 117**] [**Last Name (NamePattern1) 118**] (social worker) also notified of overnight events. 
+PLAN:
+ Family meeting ASAP
+ Unsure of plan of care at this time DNR/DNI vs CMO
+ Continue family support
+ Notify H.O. with any changes
+",,
+24223,19984,30089,0,2635-08-13 04:33:00 EST,2635-08-13 04:35:00 EST,940,"N",1,"Nursing/Other","addendum","
+addendum
+no am labs drawn after discussing with sicu resident. Dr [**First Name (STitle) **] wants to wait until after rounds/family meeting and establish plan of care before drawing any labs.
+",,
+24223,19984,30089,0,2635-08-13 14:45:00 EST,2635-08-13 15:06:00 EST,6779,"N",1,"Nursing/Other","Nursing Note--A Shift","
+Nursing Note--A Shift
+Please see Carevue and Transfer note for complete assessment and specifics:
+
+NEURO: PERRLA 3 and brisk. Non-responsive. Occasionally will open eyes and moan with turning. Does not follow commands. Moves ext minimally but not purposefully. (-)gag, (-) cough.
+
+RESP: LS diminished. Sat's decreasing throughout shift. Sat 80-92%. Secretions increasing throughout shift.
+
+CARDIAC: afebrile. HR 60-76 SR. SBP 84-98. +PP. P-boots on.
+
+GI: Abd soft (-)BS. Unable to swallow pills. To be made NPO.
+
+GU: Foley intact draining 2-7cc/hr of dark brown urine.
+
+INTEG: Skin with small erethematous areas.  Edematous UE's elevated on pillows. 
+
+PAIN: Morphine gtt at .5mg/hr. Patient looks comfortable. Family instructed to notify RN if they feel that patient looks uncomfortable and Morphine gtt can be increased. 
+
+PSYCH/SOCIAL: Multiple family issues. Disorganized family communication. Social work involved. MD's spoke with family re: Diagnosis and plan of care several times throughout shift. Palliative care assessed and will continue to follow.  More family members to arrive tonight from the west coast.  
+
+PLAN: Transfer to floor pending single room availability. Provide extra comfort and support to patient and family.
+",,
+24223,19984,30089,0,2635-08-13 17:57:00 EST,2635-08-13 18:03:00 EST,6779,"N",1,"Nursing/Other","Nursing Note --Addendum","
+Nursing Note --Addendum
+1700: Went into a ventricular rhythm and then Heart block. Desatting slowly respirations became more agonal.HR continued to decrease. BP and Sat's decreasing. Morphine gtt increased for comfort. Daughter and son at bedside. Patient expired at 1840.  MD pronounced. 
+",,

@@ -1,0 +1,1498 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+24161,9146,,,3464-06-16 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+ 
+ 
+ 
+Admission Date:  [**3464-6-16**]              Discharge Date:   [**3464-6-24**]
+ 
+Date of Birth:  [**3421-4-7**]             Sex:   M
+ 
+Service: SURGERY
+ 
+Allergies: 
+Patient recorded as having No Known Allergies to Drugs
+ 
+Attending:[**First Name3 (LF) 2000**] 
+Chief Complaint:
+s/p Motorcycle crash
+ 
+Major Surgical or Invasive Procedure:
+Left thoracostomy tube placement
+
+ 
+History of Present Illness:
+43 yo male helemted driver, s/p motorcycle crash vs. car, 
+unknown rate of speed, + EtOH. + LOC reported. Patient 
+transferred from scene to [**Hospital1 25**] for continued trauma care.
+ 
+Past Medical History:
+None
+ 
+Social History:
++EtOH
+Lives with his girlfriend
+ 
+Family History:
+Noncontributory
+ 
+Physical Exam:
+VS upon arrival to trauma bay:
+BP  120/palp  HR 112  RR 18  O2 sats on NRB 97%
+GCS 14
+HEENT: PERRLA abrasion left cheek
+Neck: cervical collar on
+Chest: equal breath sounds
+Cor: RRR
+Back: Abrasion on sacral area
+Abd: soft, NT FAST negative
+Pelvis: stable
+Rectum: nl tone, guaiac negative
+Extr: abrasion [**Last Name (LF) **], [**First Name3 (LF) 4771**] x4
+ 
+Pertinent Results:
+[**3464-6-16**] 06:48PM   GLUCOSE-138* UREA N-6 CREAT-0.8 SODIUM-139 
+POTASSIUM-4.3 CHLORIDE-105 TOTAL CO2-25 ANION GAP-13
+[**3464-6-16**] 06:48PM   CALCIUM-7.9* PHOSPHATE-3.2 MAGNESIUM-2.2
+[**3464-6-16**] 06:48PM   WBC-15.9* RBC-3.88* HGB-12.0* HCT-33.4* 
+MCV-86 MCH-31.0 MCHC-36.0* RDW-13.2
+[**3464-6-16**] 06:48PM   PLT COUNT-242
+
+CT CHEST W/O CONTRAST  [**3464-6-23**] 10:41 AM
+
+CT CHEST W/O CONTRAST
+
+Reason: eval: pneumatocele 
+Field of view: 36
+
+UNDERLYING MEDICAL CONDITION:
+30 year old man motorcycle accident known pneumatocele 
+REASON FOR THIS EXAMINATION:
+eval: pneumatocele 
+CONTRAINDICATIONS for IV CONTRAST: None.
+
+HISTORY: Motorcycle accident with pneumatocele.
+
+COMPARISON: Chest CT from [**3464-6-18**].
+
+TECHNIQUE: MDCT acquired contiguous axial images from the 
+thoracic inlet through the upper abdomen were obtained without 
+intravenous contrast. Images were displayed with 5 mm and 1.25 
+mm collimation.
+
+CT OF THE CHEST WITHOUT IV CONTRAST: A small hydropneumothorax 
+is again demonstrated in the left hemithorax. The amount of 
+hyperdense fluid within the hydropneumothorax is unchanged since 
+the prior exam, but there has been interval decrease in the 
+density of this complex fluid ([**Doctor Last Name **] 30), consistent with evolving 
+hemothorax. Air within the apical component of the 
+hydropneumothorax has nearly resolved, but there is a slightly 
+increased amount of air within the basilar component. A left 
+chest tube is present with the tip located posterior to the left 
+upper lobe. The hyperdense bilobed pneumatocele containing an 
+air- fluid level in the left lower lobe is stable in size and 
+appearance from the prior exam. The ground glass opacification 
+surrounding the pneumatocele in the left lower lobe has improved 
+in the interval, representing resolving contusion. Improved 
+aeration is present in the right lower lobe, consistent with 
+improving atelectasis. Additionally, a focal cluster of tiny 
+ground glass nodular opacities in the posterior right upper lobe 
+may represent an area of focal subclinical aspiration. The 
+airways are patent to the level of segmental bronchi 
+bilaterally.
+
+A calcified right paratracheal lymph node is again demonstrated. 
+No pathologically enlarged mediastinal, hilar, or axillary lymph[**MD Number 2082**] are present. Heart, pericardium, and great vessels are 
+within normal limits. There is interval decrease in the amount 
+of subcutaneous emphysema within the anterior chest wall and 
+soft tissues.
+
+In the imaged portion of the upper abdomen, no abnormalities are 
+demonstrated.
+
+Bone windows again demonstrate multiple contiguous displaced rib 
+fractures on the left, unchanged in the interval.
+
+IMPRESSION:
+
+1) Stable appearance of post-traumatic left lower lobe 
+pneumatocele with intraluminal hemorrhage. Resolving surrounding 
+contusion.
+
+2) Small left hemopneumothorax with slight interval increase in 
+amount of air in the basilar component of the hemopneumothorax, 
+but near complete resolution of air within the apical component.
+
+3) Improving right lower lobe atelectasis.
+
+4) Focal clustered centrilobular opacities, likely due to 
+subclinical aspiration in posterior segment of the right lobe 
+upper lobe.
+
+CHEST (PA & LAT)  [**3464-6-23**] 5:55 PM
+
+CHEST (PA & LAT)
+
+Reason: eval: PTX (please perform CXR at 19:00) 
+
+UNDERLYING MEDICAL CONDITION:
+43 year old man with L pneumatocoele, L PTX s/p CT pulled. 
+(please perform CXR at 19:00) 
+REASON FOR THIS EXAMINATION:
+eval: PTX (please perform CXR at 19:00) 
+INDICATION: 43-year-old male with left pneumatocele and left 
+pneumothorax status post chest tube removal. Evaluate for 
+pneumothorax.
+
+COMPARISON: [**3464-6-22**].
+
+PA AND LATERAL CHEST RADIOGRAPHS:
+
+Heart size, mediastinal and hilar contours are normal and 
+unchanged. Left apical pneumothorax has decreased in size. 
+Patient is status post removal of left hemithorax chest tubes. 
+Left lower lung opacity corresponding with known pneumatocele 
+and unchanged compared to prior. No focal opacities. Small left 
+pleural effusion unchanged.
+
+IMPRESSION:
+1. Interval improvement in left apical pneumothorax with tiny 
+pneumothorax appreciated.
+2. Unchanged loculated small left pleural effusion.
+3. Unchanged left lower lobe opacity consistent with history of 
+pneumatocele.
+
+ 
+Brief Hospital Course:
+Patient admitted to the trauma service. He was intubated in the 
+emergency room; a left thoracostomy tube was also placed. 
+Neurosurgery was consulted because of his a small SAH identified 
+on CT imaging; a CTA revealed no dissection. Repeat head imaging 
+remained stable. No operative intervention warranted.
+
+Thoracic surgery was consulted because of a pneumatocele and 
+lung contusions. Serial chest radiographs performed, a chest CT 
+was also performed and was stable. His chest tube was removed on 
+HD #7. He will follow up in Trauma Clinic in 2 weeks for repeat 
+chest xray.
+
+Orthopedic spine surgery was consulted because of finding on CT 
+imaging of his cervical spine. No surgical intervention; he will 
+remain in a hard cervical collar for 2 weeks and will follow up 
+with the Spine surgeon for repeat imaging of his cervical spine. 
+
+
+Acute pain service was also consulted because of his rib 
+fractures; he was initially a PCA for pain control and later 
+changed to oral narcotics. His pain is currently controlled with 
+prn Ibuprofen and Oxycodone. He will be discharged with these 
+medications.
+
+He was also evaluated by Physical and Occupational therapy.
+ 
+Discharge Medications:
+1. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2 
+times a day).
+Disp:*60 Capsule(s)* Refills:*2*
+2. Bisacodyl 5 mg Tablet, Delayed Release (E.C.) Sig: Two (2) 
+Tablet, Delayed Release (E.C.) PO DAILY (Daily) as needed.  
+3. Ibuprofen 600 mg Tablet Sig: One (1) Tablet PO Q6H (every 6 
+hours) as needed for pain: Take with food.
+Disp:*90 Tablet(s)* Refills:*0*
+4. Oxycodone 5 mg Tablet Sig: Two (2) Tablet PO Q4-6H (every 4 
+to 6 hours) as needed for pain.
+Disp:*45 Tablet(s)* Refills:*0*
+5. Milk of Magnesia 800 mg/5 mL Suspension Sig: One (1)  PO 
+twice a day as needed for constipation.  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+s/p Motorcycle Crash
+Right Subarachnoid Hemorrhage/Intrparenchymal Hemorrhage
+Temporal Bone Fracture
+C5 Vertebral Fracture
+Left Rib Fracture
+Pneumatocele
+
+ 
+Discharge Condition:
+Stable
+
+ 
+Discharge Instructions:
+[**Doctor First Name 27**] must continue to wear your hard cervical collar until follow 
+up with Orthopedic Spine Surgery.
+
+Follow up with Orthopedic Spine Surgery in 2 weeks.
+
+Follow up in Trauma Clinic in 2 weeks for a repeat chest xray.
+ 
+Followup Instructions:
+Follow up with Dr. [**Last Name (STitle) 4772**], Orthopedic Spine Surery in 2 
+weeks. Call [**Telephone/Fax (1) 103**] for an appointment.
+
+Call [**Telephone/Fax (1) 2005**] for an appointment in the Trauma Clinic; a 
+chest xray will be arranged for [**Doctor First Name **] to have on that same day 
+prior to your appointment. [**Doctor First Name 27**] will need to be seen in 1 week 
+from next Tuesday.
+
+ 
+                             [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 2007**] MD [**MD Number 1344**]
+ 
+Completed by: [**First Name11 (Name Pattern1) 107**] [**Last Name (NamePattern4) 108**] [**MD Number 109**] [**3464-6-24**] @ 1106
+Signed electronically by: DR. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **]
+ on: SAT [**3464-7-2**] 9:38 PM
+(End of Report)
+
+
+",,
+24161,9146,,,3464-06-16 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3464-6-16**] 4:26 AM
+     CTA NECK W&W/OC & RECONS; CT 100CC NON IONIC CONTRAST           Clip # [**Clip Number (Radiology) 60**]
+     Reason: MVA.VERTEBRAL FX.?ARTERY INJURY
+     Admitting Diagnosis: S/P MOTOR VEHICLE ACCIDENT
+      Contrast: OPTIRAY Amt: 100
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      43 year old man s/p motorcycle crash with right C5 transverse process fx        
+     REASON FOR THIS EXAMINATION:
+      r/o vertebral artery injury                                                     
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT  (REVISED)
+     INDICATION:  43-year-old man status post motorcycle crash with right C5
+     transverse process fracture.  Evaluate for vertebral artery injury.
+     
+     TECHNIQUE:  CTA Neck from the lung apices to the skull base.  Awaiting 3-D
+     reconstructions.
+     
+     CTA NECK:  The carotid arteries are of normal caliber without evidence of
+     focal stenosis or aneurysmal dilatation.  The left vertebral artery is
+     dominant.  There is no evidence of dissection.
+     
+     There is a right C5 transverse process fracture.  There is a left third rib
+     fracture.
+     
+     There are non-pathologically enlarged level I and level II lymph nodes.
+     
+     A left-sided chest tube is seen coursing medially. A left sided high
+     attenuation effusion with associated atelectasis is noted.  Foci of air are
+     seen adjacent to the left ribs.  Foci of pneumocephalus are seen anterior to
+     the right temporal lobe.
+     
+     The patient is intubated.
+     
+     IMPRESSION:
+     1.  Dominant left vertebral artery with no evidence of dissection.
+     2.  Right C5 transverse process fracture traversing the foramen
+     transversarium.
+     3.  Left third rib fracture.
+     
+     Awaiting 3-D reconstructions.
+     
+     
+     NOTE ADDED AT ATTENDING REVIEW: The volume rendered images also appear normal.
+     Note that the sensitivity of CTA for detecting cervical arterial dissection is
+     unknown, but available evidence suggests that it is low.
+     
+     There is opacification of the right mastoid air cells. This finding, in
+     concert with the history of trauma and intracranial air, suggests a mastoid
+     fracture, although no such fracture is demonstrated on this study. 
+                                                                 (Over)
+
+     DATE: [**3464-6-16**] 4:26 AM
+     CTA NECK W&W/OC & RECONS; CT 100CC NON IONIC CONTRAST           Clip # [**Clip Number (Radiology) 60**]
+     Reason: MVA.VERTEBRAL FX.?ARTERY INJURY
+     Admitting Diagnosis: S/P MOTOR VEHICLE ACCIDENT
+      Contrast: OPTIRAY Amt: 100
+     ______________________________________________________________________________
+                                     FINAL REPORT  (REVISED)
+     (Cont)
+
+",,
+24161,9146,,,3464-06-16 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3464-6-16**] 12:59 AM
+     CTA CHEST W&W/O C &RECONS; CT ABDOMEN W/CONTRAST                Clip # [**Clip Number (Radiology) 58**]
+     CT PELVIS W/CONTRAST; CT 150CC NONIONIC CONTRAST
+     Reason: trauma                                                      
+     Field of view: 36 Contrast: OPTIRAY Amt: 130
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      30 year old man motorcycle accident                                             
+     REASON FOR THIS EXAMINATION:
+      trauma                                                                          
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  43-year-old man in motor cycle accident.
+     
+     No prior studies for comparison.
+     
+     TECHNIQUE: Trauma torso with sagittal and coronal reformatted images.
+     
+     CT CHEST WITH IV CONTRAST:  The heart and great vessels are unremarkable.  A
+     high attenuation fluid collection in the left lung represents hemothorax.
+     There is a left lung pneumatocele with layering blood.  There is a small
+     apical pneumothorax.  There are multiple displaced left rib fractures with
+     adjacent subcutaneous air.  There is no definitive evidence of aortic injury.
+     
+     CT ABDOMEN WITH IV CONTRAST:  There is no free fluid within the abdomen.  The
+     liver, gallbladder, spleen, kidneys, adrenal glands, pancreas, and abdominal
+     loops of small and large bowel appear unremarkable.  There is no definitive
+     evidence of mesenteric injury.  There are no pathologically enlarged
+     mesenteric or retroperitoneal lymph nodes.
+     
+     CT PELVIS WITH IV CONTRAST:  The rectum, prostate gland, bladder, and sigmoid
+     colon are unremarkable.  There is no free fluid within the pelvis.  No
+     pathologically enlarged pelvic or inguinal lymph nodes.
+     
+     OSSEOUS WINDOWS:  Demonstrate multiple left-sided rib fractures as described
+     above.  There is a large L1 anterior osteophyte.
+     
+     IMPRESSION:
+     1.  Multiple displaced left-sided rib fractures with accompanying left apical
+     pneumothorax as well as left hemothorax.  Left parenchymal pneumatocele
+     measuring 5.4 x 2.2 cm. There is no definitive evidence of aortic injury or
+     diaphragmatic injury.
+     
+     These findings were discussed with the trauma team.
+     
+     
+
+",,
+24161,9146,,,3464-06-16 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3464-6-16**] 12:59 AM
+     CTA CHEST W&W/O C &RECONS; CT ABDOMEN W/CONTRAST                Clip # [**Clip Number (Radiology) 58**]
+     CT PELVIS W/CONTRAST; CT 150CC NONIONIC CONTRAST
+     Reason: trauma                                                      
+     Field of view: 36 Contrast: OPTIRAY Amt: 130
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      30 year old man motorcycle accident                                             
+     REASON FOR THIS EXAMINATION:
+      trauma                                                                          
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  43-year-old man in motor cycle accident.
+     
+     No prior studies for comparison.
+     
+     TECHNIQUE: Trauma torso with sagittal and coronal reformatted images.
+     
+     CT CHEST WITH IV CONTRAST:  The heart and great vessels are unremarkable.  A
+     high attenuation fluid collection in the left lung represents hemothorax.
+     There is a left lung pneumatocele with layering blood.  There is a small
+     apical pneumothorax.  There are multiple displaced left rib fractures with
+     adjacent subcutaneous air.  There is no definitive evidence of aortic injury.
+     
+     CT ABDOMEN WITH IV CONTRAST:  There is no free fluid within the abdomen.  The
+     liver, gallbladder, spleen, kidneys, adrenal glands, pancreas, and abdominal
+     loops of small and large bowel appear unremarkable.  There is no definitive
+     evidence of mesenteric injury.  There are no pathologically enlarged
+     mesenteric or retroperitoneal lymph nodes.
+     
+     CT PELVIS WITH IV CONTRAST:  The rectum, prostate gland, bladder, and sigmoid
+     colon are unremarkable.  There is no free fluid within the pelvis.  No
+     pathologically enlarged pelvic or inguinal lymph nodes.
+     
+     OSSEOUS WINDOWS:  Demonstrate multiple left-sided rib fractures as described
+     above.  There is a large L1 anterior osteophyte.
+     
+     IMPRESSION:
+     1.  Multiple displaced left-sided rib fractures with accompanying left apical
+     pneumothorax as well as left hemothorax.  Left parenchymal pneumatocele
+     measuring 5.4 x 2.2 cm. There is no definitive evidence of aortic injury or
+     diaphragmatic injury.
+     
+     These findings were discussed with the trauma team.
+     
+     
+
+",,
+24161,9146,,,3464-06-16 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3464-6-16**] 12:59 AM
+     CTA CHEST W&W/O C &RECONS; CT ABDOMEN W/CONTRAST                Clip # [**Clip Number (Radiology) 58**]
+     CT PELVIS W/CONTRAST; CT 150CC NONIONIC CONTRAST
+     Reason: trauma                                                      
+     Field of view: 36 Contrast: OPTIRAY Amt: 130
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      30 year old man motorcycle accident                                             
+     REASON FOR THIS EXAMINATION:
+      trauma                                                                          
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  43-year-old man in motor cycle accident.
+     
+     No prior studies for comparison.
+     
+     TECHNIQUE: Trauma torso with sagittal and coronal reformatted images.
+     
+     CT CHEST WITH IV CONTRAST:  The heart and great vessels are unremarkable.  A
+     high attenuation fluid collection in the left lung represents hemothorax.
+     There is a left lung pneumatocele with layering blood.  There is a small
+     apical pneumothorax.  There are multiple displaced left rib fractures with
+     adjacent subcutaneous air.  There is no definitive evidence of aortic injury.
+     
+     CT ABDOMEN WITH IV CONTRAST:  There is no free fluid within the abdomen.  The
+     liver, gallbladder, spleen, kidneys, adrenal glands, pancreas, and abdominal
+     loops of small and large bowel appear unremarkable.  There is no definitive
+     evidence of mesenteric injury.  There are no pathologically enlarged
+     mesenteric or retroperitoneal lymph nodes.
+     
+     CT PELVIS WITH IV CONTRAST:  The rectum, prostate gland, bladder, and sigmoid
+     colon are unremarkable.  There is no free fluid within the pelvis.  No
+     pathologically enlarged pelvic or inguinal lymph nodes.
+     
+     OSSEOUS WINDOWS:  Demonstrate multiple left-sided rib fractures as described
+     above.  There is a large L1 anterior osteophyte.
+     
+     IMPRESSION:
+     1.  Multiple displaced left-sided rib fractures with accompanying left apical
+     pneumothorax as well as left hemothorax.  Left parenchymal pneumatocele
+     measuring 5.4 x 2.2 cm. There is no definitive evidence of aortic injury or
+     diaphragmatic injury.
+     
+     These findings were discussed with the trauma team.
+     
+     
+
+",,
+24161,9146,,,3464-06-16 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3464-6-16**] 12:59 AM
+     CTA CHEST W&W/O C &RECONS; CT ABDOMEN W/CONTRAST                Clip # [**Clip Number (Radiology) 58**]
+     CT PELVIS W/CONTRAST; CT 150CC NONIONIC CONTRAST
+     Reason: trauma                                                      
+     Field of view: 36 Contrast: OPTIRAY Amt: 130
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      30 year old man motorcycle accident                                             
+     REASON FOR THIS EXAMINATION:
+      trauma                                                                          
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  43-year-old man in motor cycle accident.
+     
+     No prior studies for comparison.
+     
+     TECHNIQUE: Trauma torso with sagittal and coronal reformatted images.
+     
+     CT CHEST WITH IV CONTRAST:  The heart and great vessels are unremarkable.  A
+     high attenuation fluid collection in the left lung represents hemothorax.
+     There is a left lung pneumatocele with layering blood.  There is a small
+     apical pneumothorax.  There are multiple displaced left rib fractures with
+     adjacent subcutaneous air.  There is no definitive evidence of aortic injury.
+     
+     CT ABDOMEN WITH IV CONTRAST:  There is no free fluid within the abdomen.  The
+     liver, gallbladder, spleen, kidneys, adrenal glands, pancreas, and abdominal
+     loops of small and large bowel appear unremarkable.  There is no definitive
+     evidence of mesenteric injury.  There are no pathologically enlarged
+     mesenteric or retroperitoneal lymph nodes.
+     
+     CT PELVIS WITH IV CONTRAST:  The rectum, prostate gland, bladder, and sigmoid
+     colon are unremarkable.  There is no free fluid within the pelvis.  No
+     pathologically enlarged pelvic or inguinal lymph nodes.
+     
+     OSSEOUS WINDOWS:  Demonstrate multiple left-sided rib fractures as described
+     above.  There is a large L1 anterior osteophyte.
+     
+     IMPRESSION:
+     1.  Multiple displaced left-sided rib fractures with accompanying left apical
+     pneumothorax as well as left hemothorax.  Left parenchymal pneumatocele
+     measuring 5.4 x 2.2 cm. There is no definitive evidence of aortic injury or
+     diaphragmatic injury.
+     
+     These findings were discussed with the trauma team.
+     
+     
+
+",,
+24161,9146,,,3464-06-16 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3464-6-16**] 12:46 AM
+     CT C-SPINE W/O CONTRAST                                         Clip # [**Clip Number (Radiology) 57**]
+     Reason: r/o fx                                                      
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      30 year old man with s/p MVC, LOC                                               
+     REASON FOR THIS EXAMINATION:
+      r/o fx                                                                          
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  43-year-old man status post motor vehicle collision with loss of
+     consciousness.  Evaluate for fracture.
+     
+     No prior studies for comparison.
+     
+     TECHNIQUE:  Non-contrast cervical spine with multiplanar reformatted images.
+     
+     FINDINGS:  On sagittal images, the skull base to top of the T3 vertebrae are
+     visualized.  There are no prevertebral soft tissue abnormalities.  There is a
+     fracture through the right C5 transverse process, which extends across the
+     foramen transversarium. No other fractures are seen.  There is anterior
+     widening of the C6/7 disc interspace with no significant prevertebral soft
+     tissue swelling. There is ligamentous calcification at this level.
+     
+     There is mild degenerative change of the cervical spine most pronounced at the
+     C3/4 through C5/6 levels manifested by anterior osteophytes and endplate
+     changes.
+     
+     CT does not provide intrathecal detail comparable to MRI.  There are no gross
+     thecal sac abnormalities.
+     
+     There is a small left apical pneumothorax.
+     
+     A small focus of pneumocephalus is seen at the brain base adjacent to the
+     right mastoid air cells.
+     
+     There are scattered level 1 and level 2 lymph nodes.  Do not meet the CT
+     criteria for pathologic enlargement.
+     
+     IMPRESSION:
+     1.  Fracture of the right C5 transverse process.  Given the proximity to the
+     vertebral artery, CTA of the neck can be performed to evaluate for vertebral
+     artery dissection.
+     2.  Mild widening of the anterior disc space of C6/7.  No gross prevertebral
+     swelling.  Flexion, extension radiographs or MRI are more sensitive in the
+     evaluation of ligamentous injury.
+     3.  Small left apical pneumothorax.
+     4.  Small focus of pneumocephalus adjacent to the right mastoid air cells.
+     5.  Degenerative changes of the cervical spine.
+     
+     The findings were discussed with the trauma team.
+                                                                           DFDgf
+                                                                 (Over)
+
+     DATE: [**3464-6-16**] 12:46 AM
+     CT C-SPINE W/O CONTRAST                                         Clip # [**Clip Number (Radiology) 57**]
+     Reason: r/o fx                                                      
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+
+",,
+24161,9146,,,3464-06-16 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3464-6-16**] 12:46 AM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 56**]
+     Reason: please eval for bleeding                                    
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      30 year old man with s/p MVC, LOC                                               
+     REASON FOR THIS EXAMINATION:
+      please eval for bleeding                                                        
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  30-year-old man status post MVC with loss of consciousness.
+     
+     No prior studies for comparison.
+     
+     TECHNIQUE:  Non-contrast head CT scan.
+     
+     FINDINGS:  Punctate foci of high attenuation are seen in the right frontal
+     lobe and in the sulci, concerning for intraparenchymal and subarachnoid
+     hemorrhage.  Similarly, small foci of increased attenuation are present along
+     the inferolateral surface of the right temporal lobe, probably indicating
+     small contusions.  No brain edema is evident. There is no shift of the
+     normally midline structures or hydrocephalus.  Small foci of pneumocephalus
+     are seen in the right middle cranial fossa, likely related to a fracture of
+     the adjacent temporal bone. There is opacification of a few superior mastoid
+     air cells with no definitive evidence of fracture. There is a scalp hematoma
+     posterior to the left parietal bone with scattered foci of air. An underlying
+     fracture through the left parietal and left occipital bone extends down into
+     the lambdoid suture.
+     
+     IMPRESSION:
+     1.  High-attenuation foci within the right frontal lobe cortex and sulci may
+     represent intraparenchymal and subarachnoid hemorrhage. There are likely
+     small right temporal lobe contusions as well.
+     2.  Fractues of the right temporal and left parietal and occipital bones.
+     
+                                                                           DFDgf
+
+",,
+24161,9146,,,3464-06-16 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3464-6-16**] 4:12 PM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 61**]
+     Reason: evaluation of head bleed, change from prior scan            
+     Admitting Diagnosis: S/P MOTOR VEHICLE ACCIDENT
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      43 year old man with head trauma                                                
+     REASON FOR THIS EXAMINATION:
+      evaluation of head bleed, change from prior scan                                
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CT HEAD
+     
+     CLINICAL INFORMATION:  Head trauma.  Evaluation of head bleed since the prior
+     scan.
+     
+     TECHNIQUE:  Non-contrast axial head CT.
+     
+     FINDINGS:  Comparison is made with CT head performed earlier on the same day.
+     
+     The previously described punctate foci of hyperattenuation at the right
+     frontal lobe are again noted, compatible with acute blood products (series 4A,
+     image 12 and 13).  Pockets of pneumocephalus in that region, however, have
+     resolved.  The pockets of pneumocephalus seen previously, now accumulates at
+     the nondependent portion of the right middle cranial cavity (series 4A, image
+     11).  Nondisplaced fracture at the left parietal and occipital bones are again
+     noted, unchanged in appearance.  There is now further opacification of the
+     right mastoid air cells, and underlying nondisplaced fracture is suspected,
+     although not clearly identified in this study.
+     
+     There is diffuse opacifications of the ethmoidal air cells and sphenoid sinus,
+     and an endotracheal tube is seen in situ There is no hydrocephalus,
+     displacement of the normally midline structures, or effacement of the basal
+     cisterns.  Scalp hematoma posteriorly with overlying skin staples are again
+     noted.
+     
+     A tiny focus of hyperdensity is again present at the interpedunculated cistern
+     (image 14) - likely to represent a small amount of acute blood.  This remains
+     unchanged in appearance.
+     
+     CONCLUSION:  Little interval change since the prior head CT performed earlier
+     on the same day.  Imaging features suggestive of an open occult fracture at
+     the right petrous temporal bone, and nondisplaced fracture at the left
+     parietal/occipital bones are again noted.  Foci of acute intraparenchymal
+     hemorrhage at the right frontal lobe are present, largely unchanged.  Pockets
+     of pneumocephalus now reaccumulates at the nondependent portion of the right
+     middle cranial fossa.
+                                                                           
+                                                                 (Over)
+
+     DATE: [**3464-6-16**] 4:12 PM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 61**]
+     Reason: evaluation of head bleed, change from prior scan            
+     Admitting Diagnosis: S/P MOTOR VEHICLE ACCIDENT
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+
+",,
+24161,9146,,,3464-06-16 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3464-6-16**] 4:26 AM
+     CTA NECK W&W/OC & RECONS; CT 100CC NON IONIC CONTRAST           Clip # [**Clip Number (Radiology) 60**]
+     Reason: MVA.VERTEBRAL FX.?ARTERY INJURY
+     Admitting Diagnosis: S/P MOTOR VEHICLE ACCIDENT
+      Contrast: OPTIRAY Amt: 100
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      43 year old man s/p motorcycle crash with right C5 transverse process fx        
+     REASON FOR THIS EXAMINATION:
+      r/o vertebral artery injury                                                     
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT  (REVISED)
+     INDICATION:  43-year-old man status post motorcycle crash with right C5
+     transverse process fracture.  Evaluate for vertebral artery injury.
+     
+     TECHNIQUE:  CTA Neck from the lung apices to the skull base.  Awaiting 3-D
+     reconstructions.
+     
+     CTA NECK:  The carotid arteries are of normal caliber without evidence of
+     focal stenosis or aneurysmal dilatation.  The left vertebral artery is
+     dominant.  There is no evidence of dissection.
+     
+     There is a right C5 transverse process fracture.  There is a left third rib
+     fracture.
+     
+     There are non-pathologically enlarged level I and level II lymph nodes.
+     
+     A left-sided chest tube is seen coursing medially. A left sided high
+     attenuation effusion with associated atelectasis is noted.  Foci of air are
+     seen adjacent to the left ribs.  Foci of pneumocephalus are seen anterior to
+     the right temporal lobe.
+     
+     The patient is intubated.
+     
+     IMPRESSION:
+     1.  Dominant left vertebral artery with no evidence of dissection.
+     2.  Right C5 transverse process fracture traversing the foramen
+     transversarium.
+     3.  Left third rib fracture.
+     
+     Awaiting 3-D reconstructions.
+     
+     
+     NOTE ADDED AT ATTENDING REVIEW: The volume rendered images also appear normal.
+     Note that the sensitivity of CTA for detecting cervical arterial dissection is
+     unknown, but available evidence suggests that it is low.
+     
+     There is opacification of the right mastoid air cells. This finding, in
+     concert with the history of trauma and intracranial air, suggests a mastoid
+     fracture, although no such fracture is demonstrated on this study. 
+                                                                 (Over)
+
+     DATE: [**3464-6-16**] 4:26 AM
+     CTA NECK W&W/OC & RECONS; CT 100CC NON IONIC CONTRAST           Clip # [**Clip Number (Radiology) 60**]
+     Reason: MVA.VERTEBRAL FX.?ARTERY INJURY
+     Admitting Diagnosis: S/P MOTOR VEHICLE ACCIDENT
+      Contrast: OPTIRAY Amt: 100
+     ______________________________________________________________________________
+                                     FINAL REPORT  (REVISED)
+     (Cont)
+
+",,
+24161,9146,,,3464-06-16 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3464-6-16**] 12:43 AM
+     TRAUMA #2 (AP CXR & PELVIS PORT)                                Clip # [**Clip Number (Radiology) 55**]
+     Reason: MOTORCYCLE
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     
+     INDICATION:  Motorcycle accident.
+     
+     Note is made of the CT torso of [**3464-6-16**].
+     
+     AP SUPINE CHEST RADIOGRAPH:  Evaluation is limited by overlying trauma board.
+     Cardiomediastinal silhouette is within normal limits.  The pulmonary
+     vasculature is normal.  Increased opacity over the left hemithorax likely
+     represents a layering effusion.  There are multiple displaced left-sided rib
+     fractures.
+     
+     ONE VIEW PELVIS:  There is no evidence of fracture.  Hip and sacroiliac joints
+     are intact.  The sacral arcuate lines are intact.
+     
+     IMPRESSION:
+     1.  Multiple left-sided displaced rib fractures with layering pleural
+     effusion.  Review of the CT torso demonstrates a left apical pneumothorax as
+     well as a left lung pneumatocele.
+     
+     Findings were discussed with the trauma team.
+     
+     
+     
+     
+
+",,
+24161,9146,,,3464-06-16 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3464-6-16**] 3:46 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 59**]
+     Reason: check tube placement                                        
+     Admitting Diagnosis: S/P MOTOR VEHICLE ACCIDENT
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      43 year old man with intubated                                                  
+     REASON FOR THIS EXAMINATION:
+      check tube placement                                                            
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     REASON FOR EXAMINATION:  Evaluation of the chest tube placement.
+     
+     The patient is after MVA.
+     
+     The ET tube tip projects 4 cm above the carina.  The left chest tube is
+     inserted with its tip projecting over the superomedial aspect of the left
+     lower lobe.
+     
+     The recent opacification of the whole left lung is more prominent in the lung
+     bases, which is most probably due to parenchymal contusion and pleural
+     effusion cannot be excluded.  There is no evidence of sizeable pneumothorax. 
+     There are several rib fractures on the left involving the fifth, sixth,
+     seventh, eighth, ninth ribs.
+     
+     There is _____ distention of stomach.
+     
+     IMPRESSION:
+     1.  Status post insertion of the ET tube and chest tube.
+     2.  Suspected contusion of the left lung and multiple rib fractures.
+     3.  Acute distention of the stomach.
+                                                                           
+
+",,
+24161,9146,30012,0,3464-06-16 06:33:00 EST,3464-06-16 06:44:00 EST,5246,"N",74,"Nursing/Other",,"
+
+Nursing Admission Note:
+Please refer to medical record and CareVue for specifics.
+
+Per report, pt is a 43 yr old man who was riding a motorcycle at unknown speed when he crashed into a car.  Pt was wearing a half-helmet, had loss of consciousness 6-8minutes, was oriented in the ER.  Pt's history taked prior to intubation in ER, denies allergies, meds, medical problems.  Smokes a pipe and consumes alcohol regularly.
+
+Injuries:
+Small Rt temporal SAH.
+Small pneumocephalus.
+Rt side transverse process process fracture at C5.
+C6-7 disk space widening.
+Multiple Lt side. rib fractures.
+Lt pneumothorax.
+?vertebral artery dissection.
+
+On exam:
+
+Resp:
+Chest clear, diminished on Lt but chest wall movement symmetrical.  Lt CT to suction with small amount of drainage since admission.  No palpable crepitus.  [**Last Name (un) **] cough.
+
+NEURO:
+Wakes off propofol, moves all 4 with great strength.  Ties to sit up, roll over, etc.  Regards examiner.  Nods head to answer questions.  Morphine for pain with good effect.  Logroll precautions maintained.
+
+HEMODYNAMICALLY:
+SR, BP stable.  A-line placed.  Labs pending.  No BP goal stated at this time.
+
+GI:
+Abd soft, non distended.  OGt to suction.
+
+RENAL:
+Foley patent and draining.  Fluid balance per CareVue.
+
+SKIN:
+Multiple abrasions and dirt on skin.  See CareVue.
+
+SOCIAL:
+No contact information at this time.  For social work consult.
+
+PLAN:
+Possible further imaging to determine plan of care.
+Continue neuro exams.
+Clear TLS spine.
+Analgesia prn.
+Routine admission MRSA screening.
+",,
+24161,9146,30012,0,3464-06-16 16:46:00 EST,3464-06-16 17:47:00 EST,189,"N",74,"Nursing/Other","T/SICU NSG NOTE","
+T/SICU NSG NOTE
+0700>>1900
+
+EVENTS: repeat head CT
+        remains on logroll status & sedation while awaiting official clearing of back.
+        tube feeds started
+        attempting to contact next of [**Doctor First Name **]- social service involved.
+
+
+NEURO- sedated on propofol; prn mso4 for pain and adjunctive sedation.
+       perrl/@ 3mm brisk to sluggish at times.
+       mae's @ normal strength; follows commnads; opens eyes to voice.
+       pt consistently responds to light stimulation and voice with propofol @ 80mcg/kg/min.
+       remains on logroll status until trauma team clears back: awaiting formal note/order to change status.
+       c-collar remains in place for C5 TP fx.
+       NS has reviewed repeat head CT and reports no new issues/concerns and pt may be woken up/extubated & transfered to floor care as per trauma & ICU approval.
+
+CVS- VSS ..see careview flowsheet for data.
+     electrolytes repleted
+     IVF infusing @ 125cc/hr
+
+RESP- intubated w/full vent support. Adequate sats on 60>50% fio2.
+      breath sounds generally clear w/diminished bases. Strong congested/productive cough for thick bloody sputum/plugs.
+      L pleural CT remains to 20cm suction w/NO air leak or crepitus detected; small amt of sanginous drainage this shift.
+
+Renal- adaquate hourly u/o via foley; clear/yellow.
+
+GI- ogt in place; tube feedings initiated w/promote with fiber; goal is 80c/hr. Adb is soft w/hypoactive bowel sounds. Pepcid continues.
+
+ID- temp max 100.5; no antibiotic coverage.
+
+Endo- ssri coveraga x1 
+
+Heme- no issues
+
+Skin- abrasions and lacerations as previously noted ; se careview for shift assessments. Compression boots in place; sc heparin initiated.
+Bil soft wrist restraints in use w/order obtained; adeqaute circulation w/q2/hr checks.
+..warm extremities with cool digits and palpable peripheral pulses
+
+SOCIAL- received calls from ex significant other- [**Doctor First Name 263**] who provided some medical & social information and who contacted pt's [**Doctor Last Name 1629**] family. We have since received calls from pt's [**Doctor Last Name 1629**] aunt- [**Doctor Last Name **].  [**First Name8 (NamePattern2) 627**] [**Last Name (NamePattern1) 628**](SW) has been in contact w/[**Doctor Last Name 1629**] mother- [**Doctor First Name **]. We have learned that pt has a NOK brother- [**First Name8 (NamePattern2) **] [**Known patient lastname 4242**]. [**Doctor Last Name **] mother- [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 4243**] is attempting to contact brother about pt's admission to hospital. We are attempting to establish spokesperson- contact person.
+**{Pt's ex-SO dors not want pt to know she has been in touch with us.}
+
+Assess- 43 yo male s/p MVC/motorcycle with head/neck/chest trauma.
+ Pt is hemodynamically stable with stable neuro exam.
+ 
+PLAN- wake/wean and atempt to extubate as tolerated.
+      monitor for ETOH withdrawal; CIWA scale
+      pain mngmnt
+      maintain c-collar for C5 fx
+      follow with contact person/social service situation.
+
+
+
+",,
+24161,9146,30012,0,3464-06-16 17:20:00 EST,3464-06-16 17:23:00 EST,7973,"N",74,"Nursing/Other",,"
+
+Respiratory care: Pt recieved on AC mode. Pt's breath sounds slighlty coarse which clear with suctioning. Pt Sx for moderate amounts of bloody thick/pluggy secretions. Pt traveled to CT without incident. Plan is to begin weaning for extubation as tolerated. will continue to follow.
+",,
+24161,9146,30012,0,3464-06-16 21:12:00 EST,3464-06-16 21:14:00 EST,7817,"N",74,"Nursing/Other","Resp Care","
+Resp Care
+Pt given 4p Albuterol fol by ETT/oral sx.  Good air leak and pt able to follow commands.  BBS-CTA and diminished w/o significant change post BD therapy.  Extubated w/o complications and placed on 60% Face Tent.  Pt instructed in IS/Deep breathing and taught splinting methods.  Good cough w/encouragement.  
+",,
+24161,9146,30012,,3464-06-17 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3464-6-17**] 5:11 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 62**]
+     Reason: f/u chest trauma, CT left                                   
+     Admitting Diagnosis: S/P MOTOR VEHICLE ACCIDENT
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       43 year old man with intubated                                                 
+       
+     REASON FOR THIS EXAMINATION:
+      f/u chest trauma, CT left                                                       
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     EXAMINATION:  AP chest, 5:59 a.m.
+     
+     HISTORY:  Intubated following chest trauma.
+     
+     IMPRESSION:  AP chest compared to [**6-16**], most recently 3:51 a.m.:
+     
+     Lung volumes have improved with decreasing edema or contusion in the left lung
+     now showing only mild edema and vascular congestion.  Left apical pleural tube
+     unchanged in position.  Little if any left pleural effusion despite multiple
+     displaced left rib fractures.  Tiny left apical pneumothorax projects just
+     above the head of the left clavicle.  Right lung is clear.  Heart is top
+     normal size and mediastinum remains shifted slightly to the right.  Gaseous
+     distension has resolved.
+                                                                           
+
+",,
+24161,9146,30012,0,3464-06-17 04:25:00 EST,3464-06-17 04:43:00 EST,7632,"N",74,"Nursing/Other","TSICU Nursing Progress Note","
+TSICU Nursing Progress Note
+Neuro - Off sedation and extubated beginning of shift.  Alert and oriented x2.  Does not remember accident or why he is in the hospital.  Knows he is in the hospital but thinks it is [**Location (un) **]/[**Hospital **] hospital.  MAE's with good strength, follows commands consistently.  Forgetful, asks same questions over and over again.  Pain through much of body, especially in Left chest, morphine given PRN with + effect.  PERRLA, slept through most of night, easily aroused and goes right back to [**Doctor Last Name **].  
+
+CV - HR 90-120, sinus rhythm, no ectopy noted.  BP 100-140 systolic.  Arterial line out this am due to no blood return and unable to be transduced.  + peripheral pulses, skin warm and dry. 
+
+Resp - Extubated at the beginning if shift, to cool mist face tent 100% fio2, sats drop to low 90's when sleeping, up to 96-98% when alert.  Lungs coarse to clear throughout, weak cough secondary to pain.  Left chest tube to suction putting out moderate amount sanguinous drainage, no leak, positive fluctuation.  No SOB or difficulty breathing.
+
+GI - Abdomen soft, nt, nd. Hypoactive bowel sounds throughout.  Remains NPO, OGT discontinued with extubation.  no BM.  
+
+GU - Foley draining clear yellow urine in adequate amounts.
+
+ENdo - FS covered per RISS.
+
+Id - Tmax 100.4 at beginning of shift, now 98.4.  Not currently on antibiotics,
+
+PSych/social - Biological sister and mother called at  beginning of shift.  Pt not in contact with mother in many years per report.  When mother called pt asked ""Why is she calling?""  Pt spoke with mother briefly on phone.  No other family or friend contact through shift.  Pt appears upset when told and reminded about motorcycle accident, and that another car was involved.  Asking questions about accident.
+
+A - Acute pain secondary to injuries.  Easily forgetful, reminders needed often.  
+
+Plan - Continue to monitor per routine.  Continue to monitor and treat for pain as needed.  Monitor respiratory status closely, wean Fio2 as tolerated.  Continue to monitor mental status.  Possible transfer to floor with team approval.  Start diet, and advance as tolerated with team approval.  
+",,
+24161,9146,,,3464-06-18 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3464-6-18**] 9:40 AM
+     CHEST (PA & LAT)                                                Clip # [**Clip Number (Radiology) 63**]
+     Reason: ? ptx                                                       
+     Admitting Diagnosis: S/P MOTOR VEHICLE ACCIDENT
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      43 year old man with L chest tube                                               
+     REASON FOR THIS EXAMINATION:
+      ? ptx                                                                           
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  43-year-old man with left chest tube.  Question pneumothorax.
+     
+     Comparison is made to [**3464-6-17**].
+     
+     FINDINGS:  A tiny left apical pneumothorax is again seen just projecting above
+     the left clavicle.  The left-sided chest tube is in unchanged position.  The
+     mediastinum is midline.  The cardiac silhouette is unchanged in size. Multiple
+     displaced rib fractures are again seen.  There is increased opacification at
+     the left lung base likely representing increasing pleural effusion or
+     hemothorax.
+     
+     IMPRESSION:
+     1.  Stable small left apical pneumothorax.  Increasing pleural effusion or
+     hemothorax.  A lateral view may be helpful to better assess its size.
+     
+     2.  A followup radiograph in several hours and/or clinical correlation is
+     recommended to assess for possible development of left hemothorax.
+     
+     This was communicated to Dr. [**Last Name (STitle) 64**] at approx. 10.30 AM on [**3464-6-18**].
+
+",,
+24161,9146,,,3464-06-18 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3464-6-18**] 1:54 PM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 65**]
+     Reason: ? worsening SAH                                             
+     Admitting Diagnosis: S/P MOTOR VEHICLE ACCIDENT
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      43 year old man with SAH now with confusion                                     
+     REASON FOR THIS EXAMINATION:
+      ? worsening SAH                                                                 
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  43-year-old man with subarachnoid hemorrhage, now with confusion.
+     Evaluate.
+     
+     COMPARISON:  Non-contract head CT dated [**3464-6-16**].
+     
+     TECHNIQUE:  Routine non-contrast head CT.
+     
+     FINDINGS:  Two subcentimeter foci of intraparenchymal hemorrhage are again
+     noted within the right temporal lobe, which are not changed in size or
+     appearance since prior exam.  No new intracranial hemorrhage is identified.
+     There is no mass effect or shift of normally midline structures.  The density
+     values of the remaining brain parenchyma are within normal limits, and the
+     [**Doctor Last Name 66**]-white matter differentiation is preserved.  The surrounding soft tissue
+     and osseous structures reveal an interval decrease in size of a left
+     cephalohematoma.  The visualized paranasal sinuses and mastoid air cells are
+     appropriately aerated.
+     
+     IMPRESSION:  No significant interval change since prior study dated [**3464-6-16**].
+     
+     
+     
+     
+
+",,
+24161,9146,,,3464-06-18 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3464-6-18**] 2:41 PM
+     CT CHEST W&W/O C ; CT 100CC NON IONIC CONTRAST                  Clip # [**Clip Number (Radiology) 67**]
+     Reason: MOTORCYCLE ACCIDENT NOW VOMITING BLOOD, ? BLEEDING INTO LUNGS
+     Admitting Diagnosis: S/P MOTOR VEHICLE ACCIDENT
+      Contrast: OPTIRAY Amt: 100
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       30 year old man motorcycle accident now vomiting blood                         
+                         
+     REASON FOR THIS EXAMINATION:
+      ? Bleeding into lung                                                            
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  30-year-old in motorcycle accident with hematemesis and
+     hemoptysis.
+     
+     TECHNIQUE:  MDCT images of the chest pre- and post-IV contrast.  90 cc of
+     Optiray were used for this examination.
+     
+     COMPARISON:  [**3464-6-16**].
+     
+     CT OF THE CHEST PRE- AND POST-IV CONTRAST:  There is a small left
+     pneumothorax, which is slightly increased compared to the prior study. 
+     Subcutaneous air is seen in the anterior left chest wall soft tissues as well
+     as a small amount of pneumomediastinum is present.  Opacities seen in the left
+     upper lobe have improved compared to the prior study.  However, a bilobed
+     hemorrhagic pneumatocele in the left lower lobe has increased in size.  It now
+     measures approximately 4.0 x 6.3 in greatest dimension, previously 2.2 x 5.4
+     cm.  A second lobe of the lesion measures 3.5 x 3.7 cm, previously 3.0 x 2.8
+     cm.  Ground-glass attenuation around this lesion consistent with parenchymal
+     hemorrhage is unchanged.  Atelectatic changes persist at the left lung base. 
+     There is increased consolidation in the right lower lobe.  A high-attenuation
+     pleural effusion persists in the left hemithorax, though decreased in size
+     from the prior study.
+     
+     Bronchi are patent to the segmental level.  Study is somewhat limited due to
+     streak and motion artifact, but the heart, pericardium, and great vessels
+     appear unremarkable.  No obvious area of extravasation of contrast is seen. 
+     There is no significant lymphadenopathy.  A left-sided chest tube remains in
+     place with its tip terminating in the posterior apex.  Numerous left-sided rib
+     fractures are stable.
+     
+     Liver is fatty.  The remainder of the visualized upper abdomen is
+     unremarkable.
+     
+     IMPRESSION:
+     
+     1.  Increase in size of a bilobed hemorrhagic pneumatocele seen in the left
+     lower lobe.  Hemothorax is also present, but the extent appears somewhat less.
+     
+     2.  Ground-glass opacity in the left lower lobe around the hemorrhagic
+     pneumatocele represents residual parenchymal hemorrhage.  The left upper lobe
+                                                                 (Over)
+
+     DATE: [**3464-6-18**] 2:41 PM
+     CT CHEST W&W/O C ; CT 100CC NON IONIC CONTRAST                  Clip # [**Clip Number (Radiology) 67**]
+     Reason: MOTORCYCLE ACCIDENT NOW VOMITING BLOOD, ? BLEEDING INTO LUNGS
+     Admitting Diagnosis: S/P MOTOR VEHICLE ACCIDENT
+      Contrast: OPTIRAY Amt: 100
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     has improved.
+     
+     3.  Developing right lower lobe pneumonia.
+     
+     4.  Left pneumothorax slightly increased.  Small amount of pneumomediastinum
+     and air in the subcutaneous soft tissues of the left chest wall.
+     
+     Findings were discussed with Dr. [**First Name8 (NamePattern2) 68**] [**Name (STitle) 69**] at the time of interpretation.
+                                                                           
+
+",,
+24161,9146,,,3464-06-18 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3464-6-18**] 2:41 PM
+     CT CHEST W&W/O C ; CT 100CC NON IONIC CONTRAST                  Clip # [**Clip Number (Radiology) 67**]
+     Reason: MOTORCYCLE ACCIDENT NOW VOMITING BLOOD, ? BLEEDING INTO LUNGS
+     Admitting Diagnosis: S/P MOTOR VEHICLE ACCIDENT
+      Contrast: OPTIRAY Amt: 100
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       30 year old man motorcycle accident now vomiting blood                         
+                         
+     REASON FOR THIS EXAMINATION:
+      ? Bleeding into lung                                                            
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  30-year-old in motorcycle accident with hematemesis and
+     hemoptysis.
+     
+     TECHNIQUE:  MDCT images of the chest pre- and post-IV contrast.  90 cc of
+     Optiray were used for this examination.
+     
+     COMPARISON:  [**3464-6-16**].
+     
+     CT OF THE CHEST PRE- AND POST-IV CONTRAST:  There is a small left
+     pneumothorax, which is slightly increased compared to the prior study. 
+     Subcutaneous air is seen in the anterior left chest wall soft tissues as well
+     as a small amount of pneumomediastinum is present.  Opacities seen in the left
+     upper lobe have improved compared to the prior study.  However, a bilobed
+     hemorrhagic pneumatocele in the left lower lobe has increased in size.  It now
+     measures approximately 4.0 x 6.3 in greatest dimension, previously 2.2 x 5.4
+     cm.  A second lobe of the lesion measures 3.5 x 3.7 cm, previously 3.0 x 2.8
+     cm.  Ground-glass attenuation around this lesion consistent with parenchymal
+     hemorrhage is unchanged.  Atelectatic changes persist at the left lung base. 
+     There is increased consolidation in the right lower lobe.  A high-attenuation
+     pleural effusion persists in the left hemithorax, though decreased in size
+     from the prior study.
+     
+     Bronchi are patent to the segmental level.  Study is somewhat limited due to
+     streak and motion artifact, but the heart, pericardium, and great vessels
+     appear unremarkable.  No obvious area of extravasation of contrast is seen. 
+     There is no significant lymphadenopathy.  A left-sided chest tube remains in
+     place with its tip terminating in the posterior apex.  Numerous left-sided rib
+     fractures are stable.
+     
+     Liver is fatty.  The remainder of the visualized upper abdomen is
+     unremarkable.
+     
+     IMPRESSION:
+     
+     1.  Increase in size of a bilobed hemorrhagic pneumatocele seen in the left
+     lower lobe.  Hemothorax is also present, but the extent appears somewhat less.
+     
+     2.  Ground-glass opacity in the left lower lobe around the hemorrhagic
+     pneumatocele represents residual parenchymal hemorrhage.  The left upper lobe
+                                                                 (Over)
+
+     DATE: [**3464-6-18**] 2:41 PM
+     CT CHEST W&W/O C ; CT 100CC NON IONIC CONTRAST                  Clip # [**Clip Number (Radiology) 67**]
+     Reason: MOTORCYCLE ACCIDENT NOW VOMITING BLOOD, ? BLEEDING INTO LUNGS
+     Admitting Diagnosis: S/P MOTOR VEHICLE ACCIDENT
+      Contrast: OPTIRAY Amt: 100
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     has improved.
+     
+     3.  Developing right lower lobe pneumonia.
+     
+     4.  Left pneumothorax slightly increased.  Small amount of pneumomediastinum
+     and air in the subcutaneous soft tissues of the left chest wall.
+     
+     Findings were discussed with Dr. [**First Name8 (NamePattern2) 68**] [**Name (STitle) 69**] at the time of interpretation.
+                                                                           
+
+",,
+24161,9146,,,3464-06-19 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3464-6-19**] 8:27 AM
+     CHEST (PA & LAT)                                                Clip # [**Clip Number (Radiology) 70**]
+     Reason: ? ptx                                                       
+     Admitting Diagnosis: S/P MOTOR VEHICLE ACCIDENT
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       43 year old man with L chest tube                                              
+        
+     REASON FOR THIS EXAMINATION:
+      ? ptx                                                                           
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CLINICAL HISTORY:  Left chest tube placed, check for pneumothorax.
+     
+     CHEST:  The left pneumothorax is still present, unchanged since the prior
+     chest x-ray.  The left chest tube remains in a satisfactory position. 
+     Opacifications in the left base is again noted along with the fractured ribs. 
+     Right lung remains clear.
+     
+     IMPRESSION:  Persistence of left pneumothorax.
+                                                                           
+
+",,
+24161,9146,,,3464-06-21 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3464-6-21**] 10:04 AM
+     CHEST (PA & LAT)                                                Clip # [**Clip Number (Radiology) 71**]
+     Reason: eval: PTX                                                   
+     Admitting Diagnosis: S/P MOTOR VEHICLE ACCIDENT
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        43 year old man with L pneumatocoele                                          
+     REASON FOR THIS EXAMINATION:
+      eval: PTX                                                                       
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     TWO VIEW CHEST [**3464-6-21**].
+     
+     COMPARISON:  [**3464-6-19**].
+     
+     INDICATION:  Pneumothorax.
+     
+     A left chest tube remains in place.  There is a persistent small left
+     pneumothorax.  The apical component has slightly decreased in the interval but
+     there is now a basilar component which was not visualized previously.
+     Loculated left pleural fluid collection most prominent laterally adjacent to
+     acute contiguous left sided rib fractures are again demonstrated.  There is
+     improving parenchymal opacity in the left lower lobe, likely due to resolving
+     pulmonary contusion and laceration.  The right lung is grossly clear.
+     
+     IMPRESSION:
+     1.  Persistent left pneumothorax, overall unchanged in size but with a new
+     basilar component.
+     2.  Improving left lower lobe opacity, likely due to a combination of
+     pulmonary contusion and known pneumatocele.
+     
+     
+
+",,
+24161,9146,,,3464-06-22 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3464-6-22**] 11:00 AM
+     CHEST (PA & LAT)                                                Clip # [**Clip Number (Radiology) 72**]
+     Reason: assess lung expansion, opacities                            
+     Admitting Diagnosis: S/P MOTOR VEHICLE ACCIDENT
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+         43 year old man with L pneumatocoele, L PTX                                  
+               
+     REASON FOR THIS EXAMINATION:
+      assess lung expansion, opacities                                                
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CHEST, TWO VIEWS
+     
+     INDICATION:  43-year-old man with left pneumothorax.
+     
+     COMMENTS:  PA and lateral radiographs of the chest are reviewed, and compared
+     with the previous study of yesterday.
+     
+     The left chest tube remains in place.  There is slight increase in left apical
+     pneumothorax (10%).  There is continued markedly loculated left small pleural
+     effusion.  There is also small right pleural effusion.  Again note is made of
+     left lower lobe opacity, which appears slightly decreased in size consistent
+     with patient's history of pneumatocele.
+     
+     The heart is normal in size.
+     
+     IMPRESSION:
+     1.  Slightly increased left apical pneumothorax (10%).
+     2.  Continued loculated small left pleural effusion.
+     3.  Slightly decreasing left lower lobe opacity, as described above.
+                                                                           
+
+",,
+24161,9146,,,3464-06-23 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3464-6-23**] 5:55 PM
+     CHEST (PA & LAT)                                                Clip # [**Clip Number (Radiology) 75**]
+     Reason: eval: PTX (please perform CXR at 19:00)                     
+     Admitting Diagnosis: S/P MOTOR VEHICLE ACCIDENT
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      43 year old man with L pneumatocoele, L PTX s/p CT pulled. (please perform CXR 
+      at 19:00)        
+     REASON FOR THIS EXAMINATION:
+      eval: PTX (please perform CXR at 19:00)                                         
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  43-year-old male with left pneumatocele and left pneumothorax
+     status post chest tube removal.  Evaluate for pneumothorax.
+     
+     COMPARISON:  [**3464-6-22**].
+     
+     PA AND LATERAL CHEST RADIOGRAPHS:
+     
+     Heart size, mediastinal and hilar contours are normal and unchanged.  Left
+     apical pneumothorax has decreased in size.  Patient is status post removal of
+     left hemithorax chest tubes.  Left lower lung opacity corresponding with known
+     pneumatocele and unchanged compared to prior.  No focal opacities. Small left
+     pleural effusion unchanged.
+     
+     IMPRESSION:
+     1.  Interval improvement in left apical pneumothorax with tiny pneumothorax
+     appreciated.
+     2.  Unchanged loculated small left pleural effusion.
+     3.  Unchanged left lower lobe opacity consistent with history of
+     post-traumatic pneumatocele.
+     
+
+",,
+24161,9146,,,3464-06-23 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3464-6-23**] 10:41 AM
+     CT CHEST W/O CONTRAST                                           Clip # [**Clip Number (Radiology) 73**]
+     Reason: eval: pneumatocele                                          
+     Admitting Diagnosis: S/P MOTOR VEHICLE ACCIDENT
+     Field of view: 36
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        30 year old man motorcycle accident known pneumatocele                        
+     REASON FOR THIS EXAMINATION:
+      eval: pneumatocele                                                              
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Motorcycle accident with pneumatocele.
+     
+     COMPARISON:  Chest CT from [**3464-6-18**].
+     
+     TECHNIQUE:  MDCT acquired contiguous axial images from the thoracic inlet
+     through the upper abdomen were obtained without intravenous contrast.  Images
+     were displayed with 5 mm and 1.25 mm collimation.
+     
+     CT OF THE CHEST WITHOUT IV CONTRAST:  A small hydropneumothorax is again
+     demonstrated in the left hemithorax.  The amount of hyperdense fluid within
+     the hydropneumothorax is unchanged since the prior exam, but there has been
+     interval decrease in the density of this complex fluid ([**Doctor Last Name 74**] 30), consistent
+     with evolving hemothorax. Air within the apical component of the
+     hydropneumothorax has nearly resolved, but there is a slightly increased
+     amount of air within the basilar component. A left chest tube is present with
+     the tip located posterior to the left upper lobe.  The hyperdense bilobed
+     pneumatocele containing an air- fluid level in the left lower lobe is stable
+     in size and appearance from the prior exam.  The ground glass opacification
+     surrounding the pneumatocele in the left lower lobe has improved in the
+     interval, representing resolving contusion.  Improved aeration is present in
+     the right lower lobe, consistent with improving atelectasis. Additionally, a
+     focal cluster of tiny ground glass nodular opacities in the posterior right
+     upper lobe may represent an area of focal subclinical aspiration.  The airways
+     are patent to the level of segmental bronchi bilaterally.
+     
+     A calcified right paratracheal lymph node is again demonstrated.  No
+     pathologically enlarged mediastinal, hilar, or axillary lymph nodes are
+     present.  Heart, pericardium, and great vessels are within normal limits.
+     There is interval decrease in the amount of subcutaneous emphysema within the
+     anterior chest wall and soft tissues.
+     
+     In the imaged portion of the upper abdomen, no abnormalities are demonstrated.
+     
+     Bone windows again demonstrate multiple contiguous displaced rib fractures on
+     the left, unchanged in the interval.
+     
+     IMPRESSION:
+     
+     1)  Stable appearance of post-traumatic left lower lobe pneumatocele with
+     intraluminal hemorrhage.  Resolving surrounding contusion.
+                                                                 (Over)
+
+     DATE: [**3464-6-23**] 10:41 AM
+     CT CHEST W/O CONTRAST                                           Clip # [**Clip Number (Radiology) 73**]
+     Reason: eval: pneumatocele                                          
+     Admitting Diagnosis: S/P MOTOR VEHICLE ACCIDENT
+     Field of view: 36
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     
+     2)  Small left hemopneumothorax with slight interval increase in amount of air
+     in the basilar component of the hemopneumothorax, but near complete resolution
+     of air within the apical component.
+     
+     3)  Improving right lower lobe atelectasis.
+     
+     4)  Focal clustered centrilobular opacities, likely due to subclinical
+     aspiration in posterior segment of the right lobe upper lobe.
+     
+                                                                           DFDdp
+
+",,
+24161,,,,3464-07-05 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3464-7-5**] 11:53 AM
+     CHEST (PA & LAT)                                                Clip # [**Clip Number (Radiology) 76**]
+     Reason: To rule out L pneumothorax. Previous chest Thoracostomy comp
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      43 year old man with L pneumatocoele, L PTX s/p CT pulled. (please perform CXR 
+      at 19:00) s/p mcc with L PTX.        
+     REASON FOR THIS EXAMINATION:
+      To rule out L pneumothorax. Previous chest Thoracostomy compared to previous
+      chest radiographs.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     PA AND LATERAL CHEST FROM [**7-5**]
+     
+     HISTORY:  Left pneumatocele.  Chest tube pulled.
+     
+     IMPRESSION:  PA and lateral chest compared to [**6-22**] and 25:
+     
+     Left pneumothorax has resolved, but small left pleural effusion has increased
+     and extending to the posterior aspect of the fluid-filled, presumably
+     hemorrhagic, pneumatocele in the left lower lobe.  More atelectasis medial to
+     the pneumatocele explains the obliteration of the margins of the descending
+     thoracic aorta and paraspinal mediastinal reflection.  The right lateral
+     costal pleural sulcus is shallow, as before, but the posterior reflection is
+     entirely normal and I doubt that any right pleural effusion is present.  Heart
+     is normal size and mediastinum is midline.
+                                                                           
+
+",,
+24161,,,,3464-07-06 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3464-7-6**] 3:50 PM
+     C-SPINE NON-TRAUMA W/FLEX & EXT 4 VIEWS                         Clip # [**Clip Number (Radiology) 77**]
+     Reason: 43 year old man with c5 tp fracture nondisplaced            
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      43 year old man with c5 tp fracture nondisplaced                                
+     REASON FOR THIS EXAMINATION:
+      43 year old man with c5 tp fracture nondisplaced                                
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Fracture C5.
+     
+     AP AND LATERAL PLUS FLEXION/EXTENSION LATERAL VIEWS OF THE CERVICAL SPINE DONE
+     UPRIGHT.  There is slight lordotic angulation of the spine in lateral
+     projection centered at C6, but normal vertebral body alignment.  There is
+     slight disc narrowing and associated osteophytes at all levels from C3 through
+     C6.  The spine is imaged to the T1-2 disc in lateral projection.  No abnormal
+     motion on flexion/extension.  No fracture or prevertebral soft tissue swelling
+     identified.  Lung apices clear.  This patient has no previous comparison
+     radiographs of cervical spine.
+     
+     IMPRESSION:  Degenerative changes and disc narrowing mid cervical spine.  No
+     fracture identified and normal motion.
+
+",,

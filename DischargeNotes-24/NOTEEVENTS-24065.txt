@@ -1,0 +1,777 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+24065,9998,,,2987-02-20 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+ 
+ 
+ 
+Admission Date:  [**2987-2-20**]              Discharge Date:   [**2987-2-24**]
+ 
+Date of Birth:  [**2901-9-20**]             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Patient recorded as having No Known Allergies to Drugs
+ 
+Attending:[**First Name3 (LF) 310**] 
+Chief Complaint:
+s/p fall, cerebral SDH & SAH
+ 
+Major Surgical or Invasive Procedure:
+none
+ 
+History of Present Illness:
+85 yo man w/ PMH of CAD, CHF, DMII, CLL, and recent TIA who fell 
+resulting in extensive SAH and SDH. Patient was walking when he 
+bent forward to pick up dropped mail, lost his balance, and fell 
+backwards hitting the posterior of his head on the ground. His 
+son who witnessed the event states that the patient had no LOC. 
+EMT was called and on arrival to OSH, he was nauseous, vomiting, 
+and had blood draining from his L ear. Head CT showed extensive 
+SAH and SDH and a L temporal bone fracture, and the patient was 
+transfered to [**Hospital1 25**] for further management. Patient had no 
+prodrome or preceeding palpitations, chest pain, dizziness, 
+headaches, no recent fever or chills, and no visual changes. No 
+seizure or fall history. Patient had a TIA 2 weeks ago 
+characterized by slurred speech. He had been on ASA and plavix, 
+but discontinued after the TIA and was switched to aggrenox.
+.
+The patient was admitted to neurosurgery, but due to the 
+extensive bleed, there were no surgical options, so he was 
+medically managed with seizure prophylaxis.  The NeuroICU course 
+was c/b NSTEMI ([**2987-2-21**] CK=1338), CHF exacerbation, and desats 
+into the 80's. Patient was on lasix gtt for volume overload. 
+ECHO on [**2-20**] showed EF>55%, moderate diastolic dysfunction. EKG 
+showed periods of SVT. Per cardiology consult, treatment options 
+were limited as the pt cannot be on anti-platelet agents or 
+anticoagulants due to SAH and SDH. The patient was medically 
+managed w/ beta blocker, ACE I, statin, and lasix IV for CHF. 
+The patient has a history of CLL and his WBC trended up from 66K 
+on admission to 88K. 
+ 
+Past Medical History:
+-Chronic lymphocytic leukemia, diagnosed one year ago
+-Transient Ischemic Attack 2 weeks ago causing slurred speech, 
+resolved without intervention
+-CAD s/p stenting 10 years ago  
+-DMII  
+-Congestive Heart Failure  
+-Hypertension
+-obstructive [**Doctor Last Name 209**] apnea
+
+ 
+Social History:
+Lives at home with his wife in [**Name2 (NI) 897**]. Community ambulator 
+with a cane. Has 7 children, 2 live nearby. Denies current 
+alcohol use, not since [**10**] yrs ago. Quit smoking 40 yrs ago, 
+smoked 2ppd. 
+ 
+Family History:
+father died of MI, mother had diabetes
+ 
+Physical Exam:
+Vitals: Tm 100.2 Tc 98.0 BP 116/55;116-150/55-72 HR 76; 70-110's 
+RR 20-24
+94% O2 on 5L FSG 281
+Gen: somnelent but arousable, awake, alert, AOx1 (only to 
+person, at home in [**Location (un) 897**], [**2987-3-21**])  
+HEENT: PEERL 2mm bilaterally, EOMI, full visual fields, no 
+nystagmus, dry oral mucous membranes.
+CVS: irregular rate and rhythm, [**2-27**] holosystolic murmur, JVP not 
+visualized
+Lungs: diffuse scattered rhonci  
+Abd: protuberant, soft, NT  
+Ext: no LE edema, warm, well perfused
+Neuro: MS: intact repetition, can recall [**2-24**] words on prompting, 
+can spell WORLD forwards, one incorrect letter in spelling WORLD 
+backwards, can repeat ""no ifs ands or buts."" +Babinski 
+bilaterally, unable to elicit patellar and biceps reflex. [**5-26**] 
+strength throughout. Gait not tested.
+
+ 
+ 
+Pertinent Results:
+Admission Labs:
+[**2987-2-20**] 06:55PM   WBC-66.4* RBC-3.89* HGB-10.8* HCT-32.1* 
+MCV-83 MCH-27.8 MCHC-33.7 RDW-15.7*
+
+[**2987-2-20**] 06:55PM   CK(CPK)-74
+[**2987-2-20**] 06:55PM   CK-MB-NotDone cTropnT-<0.01
+
+[**2987-2-20**]: Non-contrast head CT: IMPRESSION: 1. Extensive 
+subarachnoid hemorrhage seen within the frontal lobes 
+bilaterally, right frontal lobe, left parietal lobe. Layering 
+blood also seen within the lateral ventricles.
+2. Intraparenchymal contusion/hemorrhage seen within the 
+anterior frontal lobes bilaterally. 3. Subdural hematoma seen in 
+the frontal regions bilaterally, and tracking along the falx. 4. 
+Nondisplaced fractures of the left temporal bone, with 
+associated hemotympanum. 
+
+[**2987-2-22**] Cardiac ECHO: Conclusions: The left atrium is mildly 
+dilated. There is mild symmetric left ventricular hypertrophy 
+with normal cavity size and systolic function (LVEF>55%). 
+Regional left ventricular wall motion is normal. Grade II 
+(moderate) LV diastolic dysfunction. Right ventricular chamber 
+size and free wall motion are normal. The ascending aorta is 
+mildly dilated. The aortic valve leaflets are moderately 
+thickened. There is mild aortic valve stenosis (area 
+1.2-1.9cm2). No aortic regurgitation is seen. The mitral valve 
+leaflets are mildly thickened. There is no mitral valve 
+prolapse. Moderate (2+) mitral regurgitation is seen. Moderate 
+[2+] tricuspid regurgitation is seen. There is moderate 
+pulmonary artery systolic hypertension. There is no pericardial 
+effusion.  
+ 
+Brief Hospital Course:
+#Cerebral SAH/SDH: Initial head CT on [**2-20**] showed extensive SDH 
+and SAH with blood in the lateral ventricles, no mid-line shift, 
+left temporal bone fracture, and hemotympanum. Patient was 
+admitted to neurosurgical ICU. Neurosurgery was consulted and no 
+surgical intervention was indicated because of extensive nature 
+of SDH and SAH and poor prognosis. Repeat head CT on [**2-21**] showed 
+no significant interval change. He was started on phenytoin 
+100mg po tid for seizure prophylaxis. 
+.
+#NSTEMI: Patient had NSTEMI on [**2-20**]. EKG showed diffuse ST 
+depressions. Per cardiology, patient was not a good candidate 
+for catherization because of his extensive SAH and SDH such that 
+he could not be placed on anti-platlet therapy afterwards. 
+Patient medically managed with B blocker, nitroglycerin, ACEI, 
+and atorvastatin 80mg po daily. No anti-coagulation or 
+anti-platlet therapy added. Family discussion confirmed DNR/DNI 
+status and patient preference for non-invasive care. On [**2-21**], 
+CK-MB elevated to 88 and troponin elevated to 2.78.  He was 
+monitored on telemetry and had episodes of paroxysmal SVT to 
+120's, otherwise HR well controlled to 60's. Metoprolol dose was 
+increased to 50mg po bid. 
+.
+#SOB: Patient with desats to 70-80's on [**2987-2-23**] at night thought 
+to be due to flash pulmonary edma secondary to diastolic heart 
+failure and NSTEMI on [**2-20**]. Patient improved with 40mg IV lasix 
+and lopressor 5mg IV. The patient's urine output was monitored 
+and was good. On [**2987-2-24**] in the AM, patient had a desat to 
+mid-80's, HR's 60-80's, BP 148/62. He improved with 10L O2 by 
+facemask, nitropaste topically, and nebulizer. CXR did not show 
+worsening compared to prior. EKG showed ST depression in 
+anterolateral leads. Due to concern for aspiration and mucous 
+plugging, tube feeds were held and chest PT and deep suctioning 
+were performed with improved respiratory status. Later that day, 
+the patient had increased SOB, somnelence, tachycardia, and was 
+febrile. Medical team met with the family to discuss care 
+options of MICU with intubation or CMO given that patient was 
+DNI. During family discussion, patient began agonal breathing 
+and passed away. 
+.
+#Pneumonia: On [**2987-2-23**], there was concern for aspiration PNA due 
+to persistent R lower lobe hazy opacity since admission, low 
+grade fever to 100.8, and increased cough. The patient had 
+persistent leukocytosis due to CLL. Sputum gram stain and 
+culture were ordered. Patient was started on vancomycin 1000mg 
+IV q48 hrs and Zosyn 2.25 gm IV q6.
+.
+Diastolic Dysfunction/CHF: Patient had an ECHO on [**2987-2-22**] showing 
+LVEF>55%. Regional left ventricular wall motion is normal. Grade 
+II (moderate) LV diastolic dysfunction. Moderate (2+) mitral 
+regurgitation, moderate [2+] tricuspid regurgitation, and 
+moderate pulmonary artery systolic hypertension is seen. His 
+lisinopril 5mg was held because of creatinine trending up to 
+2.5.
+.
+#HTN: Patient was on atenolol 25mg qam on admission, this was 
+changed to metoprolol and was titrated to metoprolol 50mg BID 
+for improved HTN control. He was on lisinopril 5mg daily on 
+admission which was discontinued due to rising creatinine. 
+.
+#CLL: WBC trended up from 66k to 88k on [**2987-2-23**] and decreased to 
+76.7K on [**2987-2-24**]. Patient was on leukoram 2mg daily on admission, 
+this was held during admission due to acute medical issues and 
+was to be restarted on discharge.
+.  
+#Chronic renal disease: Patient has Cr has ranged from 1.4-2.5 
+during hospital course. Baseline per PCP office is 1.5 in 10/06. 
+Fractional excretion Urea: 18% based on urine electrolytes 
+indicated creatinine rise likely due to pre-renal disease. 
+.  
+#Anemia: Patient has chronic anemia per prior PCP notes due to 
+CLL and iron deficiency. On admission, the patient's Hct was 
+32.1 and it trended down to 28. Stool guaiac was ordered. 
+.  
+#DMII: Patient had hyperglycemia during hospital course, 
+transiently on insulin gtt. He was on glargine 10u daily and 
+RISS with QID FSBG. Glargine was decreased to 5u when patient's 
+tube feeds were held on [**2987-2-24**] due to concern for aspiration. 
+.
+#Obstructive [**Doctor Last Name 209**] apnea: patient was given a trial of CPAP on 
+[**2987-2-23**] in the evening. 
+.
+#Diet: SLP evaluated patient and determined he may be aspirating 
+PO's and given altered MS, so patient continued on NG tube 
+feeds. Tube feeds were held on [**2987-2-23**] due to concern for 
+aspiration.  
+.  
+#PPX: Patient was on pneumoboots for DVT prophylaxis. Bowel 
+regimen with colace and senna.
+.  
+#Code status: DNR/DNI per health care proxy discussion, 
+confirmed on [**2987-2-23**] with discussion with health care proxy. 
+ 
+Medications on Admission:
+metformin 1g qam 500mg qpm  
+glipizide 10mg BID  
+atenolol 25mg qam  
+lasix 20mg qam  
+aggrenox 200mg BID  
+lisinopril 5mg  
+leukeram 2mg qpm after food  
+ 
+Discharge Medications:
+n/a
+ 
+Discharge Disposition:
+Extended Care
+ 
+Discharge Diagnosis:
+Primary:
+1.  Traumatic Subarachnoid Hemmorhage.
+2.  Intraparenchymal contusion/hemorrhage.
+3.  Subdural hematoma.
+4.  Left temporal bone fracture and hemotympanum
+5.  NSTEMI.
+6.  Acute Renal Failure.
+7.  Dysphagia.
+8.  Aspiration Pneumonia.
+9.  Severe Cervical Spinal Stenosis.
+10. Diastolic Heart Failure.
+11. Mild Aortic Stenosis([**Location (un) **] 1.2-1.9cm2).
+12. 2+ Mitral and Tricuspid Regurgitation.
+
+Secondary:
+1.  Coronary Artery Disease s/p PCI-Stent.
+2.  Chronic Lymphocytic Leukemia.
+3.  Diabetes Mellitus Type II.
+4.  Transient Ischemic Attack.
+5.  Hypertension.
+6.  Diastolic Heart Failure.
+
+ 
+Discharge Condition:
+Expired
+ 
+                             [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 321**] MD [**MD Number 322**]
+ 
+Completed by: [**First Name8 (NamePattern2) 2330**] [**Last Name (NamePattern1) 2331**] MD [**MD Number 2332**] [**2987-2-27**] @ 0943
+Signed electronically by: DR. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) **]
+ on: TUE [**2987-2-27**] 9:28 PM
+(End of Report)
+
+
+",,
+24065,9998,,,2987-02-20 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2987-2-20**] 7:27 PM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 15201**]
+     Reason: S/P FALL
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      85 year old man with fall from standing, SDH, SAH on OSH CT, now w/ episodes of 
+      bradycardia
+     REASON FOR THIS EXAMINATION:
+      assess for ICH                                                                  
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+     WET READ: KCLd [**First Name8 (NamePattern2) 1207**] [**2987-2-20**] 10:21 PM
+      also seen are nondisplaced fractures involving left temporal bone, with
+      evidence of hemotypanum, d/w Dr. [**Last Name (STitle) 991**]
+      
+      
+      extensive subarachnoid hemorrhage seen, with blood within the sulci in the
+      frontal lobes bilaterally, right temporal lobe, and left parietal lobe
+      
+      layering blood seen within right lateral ventricle
+      
+      intraparenchymal contusion/hemorrhage seen in the anterior frontal lobes
+      bilaterally
+      
+      subdural hematoma also seen in frontal region bilaterally, and tracking along
+      falx
+      
+     WET READ AUDIT #1 KCLd [**First Name8 (NamePattern2) 1207**] [**2987-2-20**] 8:15 PM
+      extensive subarachnoid hemorrhage seen, with blood within the sulci in the
+      frontal lobes bilaterally, right temporal lobe, and left parietal lobe
+      
+      layering blood seen within right lateral ventricle
+      
+      intraparenchymal contusion/hemorrhage seen in the anterior frontal lobes
+      bilaterally
+      
+      subdural hematoma also seen in frontal region bilaterally, and tracking along
+      falx
+      
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  85-year-old man with fall from standing, subdural and
+     subarachnoid hemorrhage seen on outside CT.
+     
+     TECHNIQUE:  Non-contrast head CT scan.
+     
+     FINDINGS:  There is evidence of extensive subarachnoid hemorrhage, with blood
+     seen within the sulci of the frontal lobes bilaterally, the right temporal
+     lobe, as well as left parietal lobe.  High- density material also seen
+     layering within the lateral ventricles, consistent with
+     blood. There is also evidence of intraparenchymal contusion/hemorrhage seen
+     within the anterior frontal lobes bilaterally. Subdural hematoma is also seen
+     in the frontal regions bilaterally, with subdural blood also seen tracking
+                                                                 (Over)
+
+     DATE: [**2987-2-20**] 7:27 PM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 15201**]
+     Reason: S/P FALL
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     along the falx. There is no shift of normally midline structures. The basal
+     cisterns appear patent.  Nondisplaced longitudinal fracture of the left
+     temporal bone, with associated hemotympanum is seen. The fracture
+     extends into the squamosal tremporal bone as well.  Subgaleal hematoma seen in
+     left occipital region. Visualized paranasal sinuses appear normally aerated.
+     
+     IMPRESSION:
+     1.  Extensive subarachnoid hemorrhage seen within the frontal lobes
+     bilaterally, right frontal lobe, left parietal lobe. Layering blood also seen
+     within the lateral ventricles.
+     2.  Intraparenchymal contusion/hemorrhage seen within the anterior frontal
+     lobes bilaterally.
+     3.  Subdural hematoma seen in the frontal regions bilaterally, and tracking
+     along the falx.
+     4.  Nondisplaced fractures of the left temporal bone, with associated
+     hemotympanum.  Discussed with Dr. [**Last Name (STitle) 991**] following completion of study.
+     
+
+",,
+24065,9998,29885,,2987-02-21 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2987-2-21**] 11:07 PM
+     CHEST (PORTABLE AP); -76 BY SAME PHYSICIAN                      [**Name Initial (PRE) 36**] # [**Clip Number (Radiology) 15205**]
+     Reason: please evaluate for CHF                                     
+     Admitting Diagnosis: INTRACRANIAL HEMORRHAGE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       85 year old man with ICH, SAH, SDH                                             
+       
+     REASON FOR THIS EXAMINATION:
+      please evaluate for CHF                                                         
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     SINGLE AP PORTABLE VIEW CHEST.
+     
+     REASON FOR EXAM: Assess for CHF.
+     
+     COMPARISONS: Prior study performed the day before.
+     
+     FINDINGS: Mild cardiomegaly and mediastinal widening are stable. There has
+     been interval progression of mild pulmonary edema with more compromise of the
+     right lung. Hilar enlargement is unchanged. There is a small right pleural
+     effusion. NG tube tip is outside of view, below the diaphragm. Right
+     subclavian vein catheter is in unchanged position in the upper right atrium. 
+     
+     IMPRESSION: Progression of mild pulmonary edema.
+
+",,
+24065,9998,29885,,2987-02-21 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2987-2-21**] 2:13 PM
+     CT C-SPINE W/O CONTRAST                                         Clip # [**Clip Number (Radiology) 15204**]
+     Reason: F/U BLOOD CULTURES; SDH AND CONTUSIONS
+     Admitting Diagnosis: INTRACRANIAL HEMORRHAGE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      85 year old man s/p fall, ICH                                                   
+     REASON FOR THIS EXAMINATION:
+      fracture                                                                        
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Status post fall with intracranial hemorrhage.  Evaluate for
+     fracture.
+     
+     There are no prior studies for comparison.
+     
+     TECHNIQUE:  Contiguous axial images through the cervical spine were obtained
+     without IV contrast.  Coronal and sagittal reformatted images were generated.
+     
+     CT OF THE CERVICAL SPINE WITHOUT IV CONTRAST:  The C5 vertebral body is
+     decreased in height relative to other cervical vertebrae.  The finding appears
+     chronic, without associated prevertebral or paraspinal soft tissue swelling.
+     Other cervical vertebral body heights are relatively maintained. There is loss
+     of the normal cervical lordosis, which could be related to patient
+     positioning. The prevertebral soft tissues do not appear enlarged, and there
+     is a nasogastric tube in place.
+     
+     Multilevel degenerative changes are seen.  There is intervertebral disc space
+     narrowing at nearly all cervical levels, greatest at C5/6 and C6/7.
+     Spondylytic ridges result in moderately severe ventral spinal stenosis at
+     these levels, with flattening of the ventral cord and narrowing of the right
+     neural foramena. CT does not provide intrathecal detail comparable to that of
+     MR, however.
+     
+     There are calcifications of the nuchal ligament, posterior to the C7 and T1
+     spinous processes.  There are carotid artery calcifications, bilaterally.
+     There are pleural effusions evident at the lung apices, bilaterally. There is
+     a right subclavian central venous catheter in place, with the tip located
+     beyond the area imaged.  There is diffuse airspace opacification within the
+     right lung apex, possibly representing pneumonia or aspiration.
+     
+     IMPRESSION:
+     1.  Diffuse loss of height of the C5 vertebral body, chronic in appearance. No
+     acute fracture visualized.
+     
+     2.  Multilevel degenerative changes, with moderately severe cervical spinal
+     stenosis at C5/6 and C6/7 levels.
+     
+     3.  Pneumonia versus aspiration evident within the right lung apex. Bilateral
+     pleural effusions reaching the lung apices, partially imaged.
+     
+     4.  Carotid artery calcifications.
+                                                                 (Over)
+
+     DATE: [**2987-2-21**] 2:13 PM
+     CT C-SPINE W/O CONTRAST                                         Clip # [**Clip Number (Radiology) 15204**]
+     Reason: F/U BLOOD CULTURES; SDH AND CONTUSIONS
+     Admitting Diagnosis: INTRACRANIAL HEMORRHAGE
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+
+",,
+24065,9998,29885,,2987-02-21 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2987-2-21**] 2:12 PM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 15203**]
+     Reason: HEMATOMAS AND CONTUSIONS; F/U ON BLOOD CULTURES
+     Admitting Diagnosis: INTRACRANIAL HEMORRHAGE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      85 year old man with subural hematomas and contusions                           
+     REASON FOR THIS EXAMINATION:
+      Follow up on blood cultures                                                     
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Subdural hematomas and contusions.
+     
+     COMPARISON:  [**2987-2-20**].
+     
+     NON-CONTRAST HEAD CT SCAN:  Intraparenchymal hemorrhage along the anterior
+     inferior aspect of the frontal lobes is slightly more conspicuous on the
+     current study.  Small bifrontal subdural hematomas and subdural blood
+     extending along the falx cerebri is not significantly changed in the interim.
+     Extensive subarachnoid hemorrhage is not significantly changed, but there is a
+     slightly increased amount of blood layering posteriorly within the lateral
+     ventricles.  Subdural hemorrhage layering along the floor of the right middle
+     cranial fossa is minimally more conspicuous.  There is no shift of the
+     normally midline structures.  The ventricles are unchanged in configuration
+     compared with the prior exam.  The visualized paranasal sinuses remain well
+     aerated. Fracture of the left temporal bone and hemotympanum are again
+     appreciated.
+     
+     IMPRESSION:
+     1.  Bifrontal intraparenchymal hemorrhages and subdural hemorrhage layering
+     along the floor of the right middle cranial fossa appear slightly more
+     conspicuous on the current study.  Bifrontal subdural hematomas and subdural
+     hemorrhage along the falx cerebri appear not significantly changed in the
+     interim, and subarachnoid hemorrhage appears similar in degree.
+     2.  No shift of normally midline structures on the current study.  Unchanged
+     ventricular size.
+     3.  Left temporal bone fracture and hemotympanum again noted.
+
+",,
+24065,9998,29885,,2987-02-21 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2987-2-21**] 1:57 AM
+     CHEST PORT. LINE PLACEMENT                                      Clip # [**Clip Number (Radiology) 15202**]
+     Reason: right cvl placement, ng placement                           
+     Admitting Diagnosis: INTRACRANIAL HEMORRHAGE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      85 year old man with ICH, SAH, SDH                                              
+     REASON FOR THIS EXAMINATION:
+      right cvl placement, ng placement                                               
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     AP CHEST 2:15 A.M. [**2-21**]  
+     
+     HISTORY:  Intracerebral hemorrhage.  Right central venous line placement.
+     
+     IMPRESSION:  AP chest reviewed in the absence of prior chest radiographs:
+     
+     Heart is mildly enlarged, but there is appreciable mediastinal widening at the
+     level of the aortic knob that is due in part to a large aorta and mediastinal
+     vascular engorgement but may also be due to adenopathy, particularly since
+     there is poor definition of the bronchial tree.  Right hilar enlargement is
+     more likely vascular than nodal since there is a mild generalized interstitial
+     pulmonary edema.  There is no pleural effusion.  Nasogastric tube passes below
+     the diaphragm and out of view.  Tip of the right supraclavicular central
+     venous line projects over the upper right atrium.  Dr. [**Last Name (STitle) 1527**] was paged to
+     report these findings, at the time of dictation.
+                                                                           
+
+",,
+24065,9998,29885,,2987-02-21 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2987-2-21**] 11:07 PM
+     CHEST (PORTABLE AP); -76 BY SAME PHYSICIAN                      [**Name Initial (PRE) 36**] # [**Clip Number (Radiology) 15205**]
+     Reason: please evaluate for CHF                                     
+     Admitting Diagnosis: INTRACRANIAL HEMORRHAGE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       85 year old man with ICH, SAH, SDH                                             
+       
+     REASON FOR THIS EXAMINATION:
+      please evaluate for CHF                                                         
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     SINGLE AP PORTABLE VIEW CHEST.
+     
+     REASON FOR EXAM: Assess for CHF.
+     
+     COMPARISONS: Prior study performed the day before.
+     
+     FINDINGS: Mild cardiomegaly and mediastinal widening are stable. There has
+     been interval progression of mild pulmonary edema with more compromise of the
+     right lung. Hilar enlargement is unchanged. There is a small right pleural
+     effusion. NG tube tip is outside of view, below the diaphragm. Right
+     subclavian vein catheter is in unchanged position in the upper right atrium. 
+     
+     IMPRESSION: Progression of mild pulmonary edema.
+
+",,
+24065,9998,29885,0,2987-02-21 04:10:00 EST,2987-02-21 04:29:00 EST,1007,"N",1,"Nursing/Other",,"
+
+NPN (SEE CAREVUE FOR SPECIFICS)
+PT ADMITTED FROM ED AT 0030, TRANSFERRED FROM [**Hospital1 733**] S/P FALL WITH EXTENSIVE SAH.
+NEURO- UPON ARRIVAL FROM ED, PT AROUSABLE, SOMULENT WITHOUT STIMULATION, BECOMING MORE LETHARGIC BY AM, TEAMS AWARE. ORIENTED AT TIMES TO HOSPITAL, STATING ""[**Hospital3 **]"", REORIENTED EACH TIME, AND OCCASIONALLY THINKS HE'S AT HOME. REMEMBERS WHY HE IS ADMITTED, CONFUSED ABOUT YEAR, RECOGNIZING SON. MAE. PERRL. COMPLAINS OF MILD HA AT TIMES, CAN HAVE MSO4 PRN FOR PAIN IF NEEDED. 
+CV- BP STABLE IN 120-140 RANGE. GOAL TO KEEP LESS THAN 160 SYSTOLIC AND NIPRIDE GTT AT BEDSIDE IF NEEDED. HR 70'S-80'S, NSR WITH OCCASIONAL PVCS. HR WITH ST DEPRESSION, EKG REPEATED SHORTLY AFTER ARRIVAL AND CKS TO BE CYCLED. 
+RESP- LUNGS CLEAR WITH DIMINISHED BASES. PT HAS [**Doctor Last Name 7**] APNEA AT BASELINE PER SON. O2 SAT DROPPING TO 88% WHILE PT SLEEPING, FACE TENT APPLIED AND CURRENTLY AT 70% WITH NC 6L. DR. [**Last Name (STitle) **] NOTIFIED OF INCREASED O2 REQUIREMENTS, ? NEED TO INTUBATE. TEAM SPOKE WITH SON, AND SON SPOKE WITH OTHER FAMILY MEMBERS REGARDING INTUBATION, WILL FOLLOW UP. 
+GI/GU- ABD SOFT, HYPO SOUNDS. NO FURTHER VOMITING, NG TUBE PLACED AND CONNECTED TO LCWS WITH BILIOUS DRAINAGE. UOP ADEQUATE. RECEIVED LASIX 10MG FOLLOWING BAG OF PLATELETS AND UOP 80-100CC/HR. IV FLUIDS STARTED AT 80CC/HR.
+ID- TMAX 101.3, BLOOD CULTURED X 2. TYLENOL HAD BEEN GIVEN JUST BEFORE ARRIVAL.
+SOCIAL- SON (HCP) IS AT THE BEDSIDE AND UPDATED BY MDS. 
+",,
+24065,9998,29885,0,2987-02-21 15:26:00 EST,2987-02-21 15:46:00 EST,6779,"N",1,"Nursing/Other","Nursing Note--A Shift","
+Nursing Note--A Shift
+Please see Carevue for complete assessment and specifics:
+
+NEURO: PERRLA [**2-24**] and brisk. EOM's intact. A&Ox2-3. Speech slightly thick and garbled. Confused at times can be difficult to reorient. Occasionally hallucinates and confabulates. MAE. Lifts and holds UE's. LE's lift and fall back. +gag, +cough. Tongue midline, smile symmetrical, no drift. Very sensitive to light and sounds. Head and Neck CT done.
+
+RESP: LS Coarse. weak non productive cough. Needs lots of encouragement to cough up secretions..sometimes refuses. NT sxn for copious amts of tenacious blood tinged secretions. Sat 90-95% on Shovel mask at 100% and 4LNC. 
+
+CARDIAC: Afebrile. HR 58-80 SR. SBP 90-130. +PP. P-boots on.
+
+GU: Abd large soft +BS. +flatus. TF started at 1500.
+
+GU: Foley intact. Issues with low uop in the late am given with 1L NS bolus with minimal effect.
+
+INTEG: Skin cdi. Scant amts of bloody drainage from Left ear.
+
+PSYCH/SOCIAL: Mostly pleasant and cooperative, has short periods of agitation that resolve with talking, distraction and repositioning. Very supportive family at bedside. Pt has 7 children. Son from [**State **] flew up to see him today. Patient is much more relaxed and appropriate with family at bedside.
+
+ENDO: Insulin gtt on CSRU protocol.
+
+OTHER: MD's spoke with family re: plan of care.
+
+PLAN: Monitor neuro q1hr, Monitor hemodynamics, Provide extra comfort and support to patient and family.
+
+
+",,
+24065,9998,29885,,2987-02-22 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2987-2-22**] 2:07 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 15206**]
+     Reason: *PLEASE PERFORM XRAY AT 1400, assess fluid status           
+     Admitting Diagnosis: INTRACRANIAL HEMORRHAGE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        85 year old man with ICH, SAH, SDH and MI now on lasix drip for diuresis      
+                                      
+     REASON FOR THIS EXAMINATION:
+      *PLEASE PERFORM XRAY AT 1400, assess fluid status                               
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CHEST, SINGLE AP FILM
+     
+     History of cerebral hemorrhage, MI, and CHF.
+     
+     Tip of right-sided CV line is in region of cavoatrial junction.  NG tube is in
+     stomach with distal end not included on film.  There is probable cardiomegaly
+     allowing for the semi-upright AP technique with tortuosity of the thoracic
+     aorta, upper zone pulmonary vascular redistribution, and ill-defined opacities
+     throughout the right lung and at the left lung base with obscuration of the
+     left hemidiaphragm.  No pneumothorax.  Overall appearances are not
+     significantly changed since the prior study of [**2987-2-21**].
+     
+     IMPRESSION:  Probable CHF with pulmonary edema.  Superadded pulmonary
+     consolidation/aspiration especially at both lung bases could also be present.
+     No pneumothorax.
+
+",,
+24065,9998,29885,0,2987-02-22 02:17:00 EST,2987-02-22 02:38:00 EST,1007,"N",1,"Nursing/Other",,"
+
+NPN (SEE CAREVUE FOR SPECIFICS)
+NEURO- PT AROUSABLE TO VOICE, ALERT AT TIMES. FOLLOWS ALL COMMANDS, MAE. PERRL. ANXIOUS AT TIMES, PULLING AT TUBES, GOWN, TRYING TO GET OOB. FAMILY AT THE BEDSIDE AT ALL TIMES, MONITOR FOR SAFETY. DENIES HA, CAN HAVE MORPHINE PRN FOR PAIN. 
+CV- BP STABLE IN 120-140 RANGE. SINUS BRADY AT TIMES TO 56, OCCASIONAL PACS. LOPRESSOR RECOMMENDED PER CARDIOLOGY (WITH PARAMETERS) TEAM CONSULTED AS PT HAD TROPONIN 2.58. EKG DONE AND SHOWN TO TEAM. 
+RESP- PT DESATTING IN THE EVENING TO 88%, NC 6 L AND FACE TENT CONTINUED AT 100%. INCREASED SECRETIONS AND PT UNABLE TO RAISE, COUGH WEAK. DR. [**Last Name (STitle) 4095**] NOTIFIED, NSURG TEAM ALSO NOTIFIED. PT BECOMING INCREASINGLY ANXIOUS THROUGHOUT THE EVENING, UNABLE TO REDIRECT. O2 SAT BRIEFLY DROPPING TO 56%, RESIDENTS CALLED TO ROOM, NON REBREATHER PLACED AND PT NT SUCTIONED BY RESP FOR LARGE AMOUNTS OF THICK BROWNISH SPUTUM. LASIX 20MG GIVEN X 1, MORPHINE 2MG X1 ALSO GIVEN AT THAT TIME WITH FAIR EFFECT FOR ANXIETY /? PAIN. SATS INCREASING TO LOW 90'S WITH NON REBREATHER, MICU RESIDENT CONSULTED AT THAT TIME. CHEST X-RAY SHOWING ? CHF, LASIX GTT STARTED AND TO REMAIN AT 2 CC/HR. BIPAP PLACED AND O2 WEANED DOWN TO 50% SUCCESSFULLY WITH SATS 97-98%. 
+GI/GU- ABD SOFT, + BS. NO BM AT THIS TIME. TF PUT ON HOLD DURING BIPAP PER RESP RECOMMENDATION, RESIDENT NOTIFIED. INSULIN GTT RESTARTED AND TITRATED [**First Name8 (NamePattern2) **] [**Last Name (un) **] SCALE. UOP INCREASING WITH LASIX GTT, AVERAGING 100-160CC/HR OF CLEAR YELLOW URINE. 
+ID- AFEBRILE AT THIS TIME. 
+SOCIAL- CHILDREN AT BEDSIDE ALL SHIFT. CHAPLAIN IN TO VISIT AND PRAY WITH FAMILY. FAMILY SPEAKING ABOUT PT'S WISHES AND DECIDING THAT PT WOULD NOT WISH TO BE INTUBATED AND RESUSCITATED, ORDER WRITTEN BY RESIDENT. 
+",,
+24065,9998,29885,0,2987-02-22 05:01:00 EST,2987-02-22 05:05:00 EST,290,"N",1,"Nursing/Other",,"
+
+resp care
+Pt initially on 100% face tent/6lcan with sats in low 90's. Oral suct for thick tan sput. Pt became increasingly agitated with sats dec to 60's. 100% face mask applied and suctioned for thick bloody tinged sput. Sats improved to 90's again. Mask cpap applied per order. Pt on peep8/psv8 and fio2 weaned to 50%. Pt changed back to 100% high [**Last Name (un) **] neb with sats remaining at 95%.Will cont to follow sats.
+",,
+24065,9998,29885,0,2987-02-22 16:24:00 EST,2987-02-22 16:45:00 EST,6779,"N",1,"Nursing/Other","Nursing Note--A Shift","
+Nursing Note--A Shift
+Please see Carevue for complete assessment and specifics:
+
+Family meeting: With Dr [**Last Name (STitle) 4096**], Dr. [**Last Name (STitle) 784**], [**First Name8 (NamePattern2) 117**] [**Last Name (NamePattern1) 118**],Social worker, RN, and Patient's wife, Son [**Name (NI) **] (1st Health care proxy), Daughter [**Name (NI) 170**] (2nd Health care proxy), Sons [**Last Name (LF) 2**], [**First Name3 (LF) **], and [**Doctor Last Name **]. MD's discussed with family Bleeding in brain, extending MI, and all of the numerous medical issues that contribute to his outcome and quality of life.  Family understood issues discussed and they decided on having patient still be treated medically without surgical interventions, no intubation, and to be comfortable. Plan of care will be discussed daily with family and Health care proxy's. Patients comfort as being most important was reinforced with family.
+
+NEURO: Waxes and wanes between A&ox [**2-24**] and lethargic and difficult to arouse. PERRLA 3 and brisk. +EOM's. Follows commands consistently but needed lots of encouragement today. Intermittently answers questions appropriately. Does not initiate conversation. Moves UE purposefully. Moves LE's on bed.
+
+RESP: LS coarse and rhoncerous. Not coughing up any secretions today. NT sxn for copious amts of thick dark brown tenacious secretions. On face mask Sat 93-98%.
+
+CARDIAC: Tmax 99.1. HR 54-78 SR with occ pvc's. Lasix gtt titrated [**Name8 (MD) 59**] MD order to meet uop goal of (-)1L -1500cc. SBP 110-134. +PP. 
+
+GI: Abd soft +BS. TF increased towards goal. +Flatus.
+
+GU: Foley intact draining light yellow urine qs.
+
+INTEG: More diaphoretic today. Erethematous area on coccyx.
+
+PLAN: Monitor neuro, RESP, UOP, Monitor for comfort, Bipap tonight. Provide extra comfort and support to patient and family. Possible transfer to MICU team.
+",,
+24065,9998,,,2987-02-23 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2987-2-23**] 4:42 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 15207**]
+     Reason: ?volume overload, ?pna                                      
+     Admitting Diagnosis: INTRACRANIAL HEMORRHAGE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+         85 year old man with ICH, SAH, SDH and MI, c/b CHF, now acutely desating     
+                                       
+     REASON FOR THIS EXAMINATION:
+      ?volume overload, ?pna                                                          
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     SINGLE AP PORTABLE VIEW OF THE CHEST.
+     
+     reason for exam: Assess for CHF and pneumonia. Patient with ICH, SAH, and MI.
+     
+     Comparison is made with prior study performed the day before.
+     
+     FINDINGS:
+     Interval improvement of still mild-to-moderate pulmonary edema. Small right
+     pleural effusion is unchanged.  Enlarged cardiomediastinal silhouette is
+     stable.  NG tube tip is out of view below the diaphragm. Improving left lower
+     lobe atelectasis, and persistent right lower lobe opacity/atelectasis
+     
+     IMPRESSION:  Improvement of mild-to-moderate pulmonary edema and bibasal
+     atelectasis.
+
+",,
+24065,9998,,,2987-02-23 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2987-2-23**] 11:21 AM
+     CHEST (PORTABLE AP); -77 BY DIFFERENT PHYSICIAN                 [**Name Initial (PRE) 36**] # [**Clip Number (Radiology) 15208**]
+     Reason: Please check that NG tube placement is in stomach, had to be
+     Admitting Diagnosis: INTRACRANIAL HEMORRHAGE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      85 year old man w/ PMH CAD, NIDDM, CHF, CLL, and MI p/w fall and extensive SDH 
+      & SAH.                                
+     REASON FOR THIS EXAMINATION:
+      Please check that NG tube placement is in stomach, had to be repositioned b/c 
+      patient pulled it out
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CHEST, SINGLE AP FILM
+     
+     NG TUBE PLACEMENT
+     
+     NG tube overlies proximal body of stomach.  Right jugular CV line is in distal
+     SVC.  No pneumothorax.  Persistent ill-defined opacity is diffusely present in
+     right lung and in the left lower zone, essentially unchanged since the prior
+     study of the same date.  Possible small right pleural effusion.
+                                                                           
+
+",,
+24065,9998,,,2987-02-23 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2987-2-23**] 11:21 AM
+     CHEST (PORTABLE AP); -77 BY DIFFERENT PHYSICIAN                 [**Name Initial (PRE) 36**] # [**Clip Number (Radiology) 15208**]
+     Reason: Please check that NG tube placement is in stomach, had to be
+     Admitting Diagnosis: INTRACRANIAL HEMORRHAGE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      85 year old man w/ PMH CAD, NIDDM, CHF, CLL, and MI p/w fall and extensive SDH 
+      & SAH.                                
+     REASON FOR THIS EXAMINATION:
+      Please check that NG tube placement is in stomach, had to be repositioned b/c 
+      patient pulled it out
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CHEST, SINGLE AP FILM
+     
+     NG TUBE PLACEMENT
+     
+     NG tube overlies proximal body of stomach.  Right jugular CV line is in distal
+     SVC.  No pneumothorax.  Persistent ill-defined opacity is diffusely present in
+     right lung and in the left lower zone, essentially unchanged since the prior
+     study of the same date.  Possible small right pleural effusion.
+                                                                           
+
+",,
+24065,9998,,,2987-02-24 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2987-2-24**] 8:49 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 15209**]
+     Reason: patient SOB, concern for worsening pulmonary edema or PNA   
+     Admitting Diagnosis: INTRACRANIAL HEMORRHAGE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       85 year old man w/ PMH CAD, NIDDM, CHF, CLL, and MI p/w fall and extensive SDH 
+       & SAH.                                
+     REASON FOR THIS EXAMINATION:
+      patient SOB, concern for worsening pulmonary edema or PNA                       
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     EXAMINATION:  Single view chest dated [**2987-2-24**].
+     
+     COMPARISON:  Chest x-ray dated [**2987-2-23**].
+     
+     INDICATION:  85-year-old male with CAD, and IDDM, CHF, CLL and MI.  Now with
+     fall and extensive subdural hematoma,  shortness of breath.  Question
+     worsening pulmonary edema or pneumonia.
+     
+     FINDINGS:  Single frontal radiograph of the chest labelled upright again
+     demonstrates a right subclavian central line, distal tip not well seen.  There
+     is worsening opacity at the left lung base, likely atelectasis.  There is
+     improving pulmonary edema.  There is no pneumothorax.  A nasogastric tube is
+     seen with distal tip excluded by collimation.
+     
+     IMPRESSION:
+     1.  Improving pulmonary edema.
+     2.  Worsening opacity left base, likely atelectasis.  
+                                                                           
+
+",,

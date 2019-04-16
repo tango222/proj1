@@ -1,0 +1,1496 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+24591,,,,3029-08-30 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3029-8-30**] 2:56 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 3957**]
+     Reason: sob and fever
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       77 year old man above
+      r/o infiltrate, ptx,... 
+     REASON FOR THIS EXAMINATION:
+      sob and fever
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Shortness of breath and fever, rule out infiltrate or
+     pneumothorax.
+     
+     COMPARISON:  [**3029-7-24**].
+     
+     AP CHEST:  There has been no significant change in the interval.  Again noted
+     are diffuse nodular densities throughout both lungs.  The more confluent area
+     of opacity previously seen in the right upper lobe  is less conspicuous on
+     today's examination.  The cardiac and mediastinal contours are stable. There
+     are no pleural effusions.  Again noted are clips at the gastroesophageal
+     junction.
+     
+     IMPRESSION:  Diffuse nodular opacities throughout both lungs.  The more
+     confluent right upper lobe opacity is less conspicuous.
+     
+
+",,
+24591,4788,,,3029-08-31 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+
+Admission Date:  [**3029-8-31**]     Discharge Date:  [**3029-9-14**]
+
+Date of Birth:   [**2952-3-19**]     Sex:  M
+
+Service:
+
+HISTORY OF PRESENT ILLNESS:  Patient is a 77-year-old man
+with metastatic nonsmall cell lung cancer diagnosed in [**3029-6-30**], who presented to the Emergency Department on the
+night of [**8-30**] complaining of a three day history of
+chest pain and worsening shortness of breath.  He also
+reported increasing oxygen requirement at home.
+
+PAST MEDICAL HISTORY:
+1. Nonsmall cell lung cancer diagnosed in [**3029-6-30**] status
+post [**1-3**] cycles of Taxol/[**Doctor Last Name **].  His last treatment 2.5 weeks
+prior to admission, on home oxygen.
+2. Seizure disorder.
+3. Status post right hemicolectomy for a benign tumor in '[**24**].
+4. IHSS.
+
+BRIEF SUMMARY OF HOSPITAL COURSE:  After the cardiac
+catheterization (see below), it was determined by enzymes
+that the patient sustained an acute myocardial infarction,
+however, he remained hemodynamically stable throughout his
+hospital stay.  The patient was initially admitted to the CCU
+after his complaints of chest pain, worsening shortness of
+breath, and an EKG revealing sinus tachycardia with a right
+bundle branch block pattern, right axis deviation, and ST
+depressions in the inferolateral leads.  It was suspected
+that patient had cardiac tamponade.  He was taken to the
+catheterization laboratory and right heart catheterization
+revealed no effusion, normal right heart pressures.
+
+On his first day of admission, he dropped his hematocrit from
+35 to 17 and his stool was guaiac positive.  He was
+transferred from the CCU to the MICU after he was intubated
+secondary to hypoxia.
+
+Patient was in the ICU for approximately two weeks at which
+point there were daily attempts made to wean patient from the
+ventilator.  However, he continued to have an increased
+oxygen requirement likely secondary to worsening metastatic
+lung cancer as well as what was identified to be pneumonia
+from methicillin-resistant Staphylococcus aureus.
+
+Unfortunately, instead of clinically improve despite multiple
+attempts at weaning from the vent while on the appropriate IV
+antibiotics for his infection, these attempts were
+unsuccessful.  After multiple family meetings, it was
+determined that the patient would not like to go on like
+this, and the decision was made on [**9-14**] to
+discontinue the ventilator and extubate the patient.  He
+passed away a few hours after this was done.
+
+In terms of his GI bleed after one or two blood transfusions,
+hematocrit stabilized, and the decision was made for no
+intervention.
+
+CAUSE OF DEATH:  Metastatic nonsmall cell lung cancer leading
+to respiratory failure.
+
+
+
+                          [**Name6 (MD) **] [**Last Name (NamePattern4) 1410**], M.D.  [**MD Number 1411**]
+
+Dictated By:[**Last Name (NamePattern1) **]
+
+MEDQUIST36
+
+D:  [**3029-11-16**]  18:10
+T:  [**3029-11-17**]  12:34
+JOB#:  [**Job Number 5660**]
+Signed electronically by: DR. [**First Name (STitle) **] [**Name (STitle) **]
+ on: MON [**3029-12-14**] 12:44 PM
+(End of Report)
+
+
+",,
+24591,4788,,,3029-08-31 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3029-8-31**] 1:41 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 3958**]
+     Reason: post tube placement
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       77 year old man above
+      r/o infiltrate, ptx,... 
+     REASON FOR THIS EXAMINATION:
+      post tube placement
+     ______________________________________________________________________________
+     WET READ: JCCJ MON [**3029-8-31**] 2:05 AM
+      ETT should be advanced 2cm
+      marked interval worsening of b/l alveolar consolidation
+     ______________________________________________________________________________
+                                     FINAL REPORT *ABNORMAL!
+     PORTABLE AP CHEST:
+     
+     INDICATION:  ET tube placement.
+     
+     COMPARISON:  [**3029-8-30**].
+     
+     FINDINGS:  In the interval, an ET tube has been placed, with tip 6 cm above
+     the carina,  just above the thoracic inlet.  An NG tube is present with tip in
+     the stomach.  Surgical clips are noted at the GE junction.  Since the previous
+     exam, patchy air-space consolidation within the right upper and mid-lung zones
+     as well as the left mid-lung zone has dramatically worsened.  There is no
+     pleural effusion or pneumothorax.  Heart size and mediastinal contours are
+     stable.
+     
+     IMPRESSION:  Marked interval worsening of patchy bilateral air-space
+     consolidations.  ET tube could be advanced 2 cm.
+     
+     
+     
+
+",,
+24591,4788,,,3029-08-31 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3029-8-31**] 8:25 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 3960**]
+     Reason: eval for progressive white out in pt on vent with diffuse [**Doctor Last Name **]
+     Admitting Diagnosis: CHEST PAIN
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        77 year old man above r/o infiltrate, ptx,...                                 
+     REASON FOR THIS EXAMINATION:
+      eval for progressive white out in pt on vent with diffuse lung ca               
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: Diffuse lung cancer, please evaluate progress of pulmonary
+     infiltrate and r/o pneumothorax.
+     
+     VIEWS: Single AP supine portable view, comparison dated [**8-31**] at 1:47
+     hours.
+     
+     FINDINGS: The ETT and NG tube remain in unchanged and satisfactory position.
+     There has been interval placement of pulmonary artery catheter entering via
+     the IVC, with tip in the main pulmonary artery. The heart size and mediastinal
+     contours are unchanged. Diffuse bilateral interstitial opacities in the mid
+     and lower lung zones to a lesser extent the upper lung fields bilaterally
+     demonstrate slight improvement. Underlying diffuse nodular opacities are
+     unchanged. The previously seen right upper lobe confluent opacification shows
+     significant partial resolution. No pneumothorax. No pleural effusions.
+     Surgical clips once again noted in the lower mediastinum. The visualized
+     osseous structures are unchanged.
+     
+     IMPRESSION: Resolving right upper lobe pneumonia, and resolving acute
+     interstitial process. No change in underlying nodular opacities consistent
+     with lymphangitic spread of lung cancer.
+
+",,
+24591,4788,,,3029-08-31 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3029-8-31**] 10:59 AM
+     CT CHEST W/CONTRAST; CT ABDOMEN W/CONTRAST                      Clip # [**Clip Number (Radiology) 3959**]
+     CT PELVIS W/CONTRAST; CT 150CC NONIONIC CONTRAST
+     Reason: WEIGHT LOSS, UPPER ABDOMINAL PAIN, PROGRESSION OF NON SMALL CELL CANCERPULMONARY HEMORRHAGE
+     Admitting Diagnosis: CHEST PAIN
+     Field of view: 35 Contrast: OPTIRAY Amt: 150C C
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       77 year old man with history of 20 pound weight loss, pain with eating, 
+      multilobar infiltrate diffuse on xrya
+     REASON FOR THIS EXAMINATION:
+      Pulmonary hemorrhage; progression of non small cell CA                          
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: Weight loss, upper abdominal pain and known non small cell lung
+     cancer.
+     
+     TECHNIQUE: Helically acquired contiguous axial images were obtained from the
+     lung apices through the pubic symphysis, following the administration of 150
+     cc of intravenous Optiray.
+     
+     CT OF THE CHEST WITH IV CONTRAST: There are innumerable pulmonary nodules
+     scattered throughout the lung fields, predominantly involving the lung apices.
+     There is a 4 x 2.4 cm mass in the right hilar region, with spiculated edges.
+     In addition superimposed on the extensive nodules there is patchy and somewhat
+     confluent opacity involving the inferior right upper lobe and superior left
+     lower lobe. There are small bilateral pleural effusions. There is a small
+     pericardial effusion. The heart is of normal size but there is a Swan-Ganz
+     catheter extending into the left main pulmonary artery. Extensive athero-
+     sclerotic changes are noted throughout the aorta. No definite central
+     pulmonary arterial filling defects are noted. There are scattered
+     paratracheal, prevascular and subcarinal lymph nodes. The largest is noted in
+     the right paratracheal region, measuring up to 1 cm.
+     
+     CT OF THE ABDOMEN WITH IV CONTRAST: The liver timing is suboptimal but there
+     are no definite hepatic lesions. The gallbladder is not identified. There is a
+     polypoid mass in the gastric fundus region. The pancreas, adrenal glands and
+     kidneys are grossly unremarkable with nonspecific perinephric stranding. There
+     are several low attenuation foci throughout the spleen, probably representing
+     early arterial artifact. There is no free air or gross ascites. Extensive
+     vascular calcifications are noted throughout the aorta and iliac arteries.
+     There are scattered mesenteric and retroperitoneal lymph nodes, which do not
+     meet CT criteria for pathologic enlargement. The visualized loops of bowel are
+     grossly unremarkable, allowing for slight limitations related to respiratory
+     artifact.
+     
+     CT OF THE PELVIS WITH IV CONTRAST: The rectum, prostate and urinary bladder
+     are unremarkable. Scattered sigmoid diverticulae are noted, without evidence
+     of diverticulitis. No free pelvic fluid or deep pelvic lymphadenopathy.
+     
+     The osseous structures demonstrate lucent changes within the sacrum and in the
+     iliac bone and superior pubic rami.
+                                                                 (Over)
+
+     DATE: [**3029-8-31**] 10:59 AM
+     CT CHEST W/CONTRAST; CT ABDOMEN W/CONTRAST                      Clip # [**Clip Number (Radiology) 3959**]
+     CT PELVIS W/CONTRAST; CT 150CC NONIONIC CONTRAST
+     Reason: WEIGHT LOSS, UPPER ABDOMINAL PAIN, PROGRESSION OF NON SMALL CELL CANCERPULMONARY HEMORRHAGE
+     Admitting Diagnosis: CHEST PAIN
+     Field of view: 35 Contrast: OPTIRAY Amt: 150C C
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     
+     IMPRESSION:
+     1. Innumerable pulmonary nodules with superimposed consolidations in the right
+     upper and left lower lobes. This is consistent with diffuse metastatic
+     disease. Superimposed infection in the areas of consolidation cannot be
+     excluded
+     2. Extensive atherosclerotic changes.
+     3. Diffuse osteopenic changes throughout the pelvis.
+     4. Possible gastric fundal mass, although this could represent a prominent
+     fold during peristalsis. Further evaluation with upper GI should be
+     considered if clinically indicated.
+     
+     
+
+",,
+24591,4788,,,3029-08-31 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3029-8-31**] 10:59 AM
+     CT CHEST W/CONTRAST; CT ABDOMEN W/CONTRAST                      Clip # [**Clip Number (Radiology) 3959**]
+     CT PELVIS W/CONTRAST; CT 150CC NONIONIC CONTRAST
+     Reason: WEIGHT LOSS, UPPER ABDOMINAL PAIN, PROGRESSION OF NON SMALL CELL CANCERPULMONARY HEMORRHAGE
+     Admitting Diagnosis: CHEST PAIN
+     Field of view: 35 Contrast: OPTIRAY Amt: 150C C
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       77 year old man with history of 20 pound weight loss, pain with eating, 
+      multilobar infiltrate diffuse on xrya
+     REASON FOR THIS EXAMINATION:
+      Pulmonary hemorrhage; progression of non small cell CA                          
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: Weight loss, upper abdominal pain and known non small cell lung
+     cancer.
+     
+     TECHNIQUE: Helically acquired contiguous axial images were obtained from the
+     lung apices through the pubic symphysis, following the administration of 150
+     cc of intravenous Optiray.
+     
+     CT OF THE CHEST WITH IV CONTRAST: There are innumerable pulmonary nodules
+     scattered throughout the lung fields, predominantly involving the lung apices.
+     There is a 4 x 2.4 cm mass in the right hilar region, with spiculated edges.
+     In addition superimposed on the extensive nodules there is patchy and somewhat
+     confluent opacity involving the inferior right upper lobe and superior left
+     lower lobe. There are small bilateral pleural effusions. There is a small
+     pericardial effusion. The heart is of normal size but there is a Swan-Ganz
+     catheter extending into the left main pulmonary artery. Extensive athero-
+     sclerotic changes are noted throughout the aorta. No definite central
+     pulmonary arterial filling defects are noted. There are scattered
+     paratracheal, prevascular and subcarinal lymph nodes. The largest is noted in
+     the right paratracheal region, measuring up to 1 cm.
+     
+     CT OF THE ABDOMEN WITH IV CONTRAST: The liver timing is suboptimal but there
+     are no definite hepatic lesions. The gallbladder is not identified. There is a
+     polypoid mass in the gastric fundus region. The pancreas, adrenal glands and
+     kidneys are grossly unremarkable with nonspecific perinephric stranding. There
+     are several low attenuation foci throughout the spleen, probably representing
+     early arterial artifact. There is no free air or gross ascites. Extensive
+     vascular calcifications are noted throughout the aorta and iliac arteries.
+     There are scattered mesenteric and retroperitoneal lymph nodes, which do not
+     meet CT criteria for pathologic enlargement. The visualized loops of bowel are
+     grossly unremarkable, allowing for slight limitations related to respiratory
+     artifact.
+     
+     CT OF THE PELVIS WITH IV CONTRAST: The rectum, prostate and urinary bladder
+     are unremarkable. Scattered sigmoid diverticulae are noted, without evidence
+     of diverticulitis. No free pelvic fluid or deep pelvic lymphadenopathy.
+     
+     The osseous structures demonstrate lucent changes within the sacrum and in the
+     iliac bone and superior pubic rami.
+                                                                 (Over)
+
+     DATE: [**3029-8-31**] 10:59 AM
+     CT CHEST W/CONTRAST; CT ABDOMEN W/CONTRAST                      Clip # [**Clip Number (Radiology) 3959**]
+     CT PELVIS W/CONTRAST; CT 150CC NONIONIC CONTRAST
+     Reason: WEIGHT LOSS, UPPER ABDOMINAL PAIN, PROGRESSION OF NON SMALL CELL CANCERPULMONARY HEMORRHAGE
+     Admitting Diagnosis: CHEST PAIN
+     Field of view: 35 Contrast: OPTIRAY Amt: 150C C
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     
+     IMPRESSION:
+     1. Innumerable pulmonary nodules with superimposed consolidations in the right
+     upper and left lower lobes. This is consistent with diffuse metastatic
+     disease. Superimposed infection in the areas of consolidation cannot be
+     excluded
+     2. Extensive atherosclerotic changes.
+     3. Diffuse osteopenic changes throughout the pelvis.
+     4. Possible gastric fundal mass, although this could represent a prominent
+     fold during peristalsis. Further evaluation with upper GI should be
+     considered if clinically indicated.
+     
+     
+
+",,
+24591,4788,,,3029-08-31 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3029-8-31**] 10:59 AM
+     CT CHEST W/CONTRAST; CT ABDOMEN W/CONTRAST                      Clip # [**Clip Number (Radiology) 3959**]
+     CT PELVIS W/CONTRAST; CT 150CC NONIONIC CONTRAST
+     Reason: WEIGHT LOSS, UPPER ABDOMINAL PAIN, PROGRESSION OF NON SMALL CELL CANCERPULMONARY HEMORRHAGE
+     Admitting Diagnosis: CHEST PAIN
+     Field of view: 35 Contrast: OPTIRAY Amt: 150C C
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       77 year old man with history of 20 pound weight loss, pain with eating, 
+      multilobar infiltrate diffuse on xrya
+     REASON FOR THIS EXAMINATION:
+      Pulmonary hemorrhage; progression of non small cell CA                          
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: Weight loss, upper abdominal pain and known non small cell lung
+     cancer.
+     
+     TECHNIQUE: Helically acquired contiguous axial images were obtained from the
+     lung apices through the pubic symphysis, following the administration of 150
+     cc of intravenous Optiray.
+     
+     CT OF THE CHEST WITH IV CONTRAST: There are innumerable pulmonary nodules
+     scattered throughout the lung fields, predominantly involving the lung apices.
+     There is a 4 x 2.4 cm mass in the right hilar region, with spiculated edges.
+     In addition superimposed on the extensive nodules there is patchy and somewhat
+     confluent opacity involving the inferior right upper lobe and superior left
+     lower lobe. There are small bilateral pleural effusions. There is a small
+     pericardial effusion. The heart is of normal size but there is a Swan-Ganz
+     catheter extending into the left main pulmonary artery. Extensive athero-
+     sclerotic changes are noted throughout the aorta. No definite central
+     pulmonary arterial filling defects are noted. There are scattered
+     paratracheal, prevascular and subcarinal lymph nodes. The largest is noted in
+     the right paratracheal region, measuring up to 1 cm.
+     
+     CT OF THE ABDOMEN WITH IV CONTRAST: The liver timing is suboptimal but there
+     are no definite hepatic lesions. The gallbladder is not identified. There is a
+     polypoid mass in the gastric fundus region. The pancreas, adrenal glands and
+     kidneys are grossly unremarkable with nonspecific perinephric stranding. There
+     are several low attenuation foci throughout the spleen, probably representing
+     early arterial artifact. There is no free air or gross ascites. Extensive
+     vascular calcifications are noted throughout the aorta and iliac arteries.
+     There are scattered mesenteric and retroperitoneal lymph nodes, which do not
+     meet CT criteria for pathologic enlargement. The visualized loops of bowel are
+     grossly unremarkable, allowing for slight limitations related to respiratory
+     artifact.
+     
+     CT OF THE PELVIS WITH IV CONTRAST: The rectum, prostate and urinary bladder
+     are unremarkable. Scattered sigmoid diverticulae are noted, without evidence
+     of diverticulitis. No free pelvic fluid or deep pelvic lymphadenopathy.
+     
+     The osseous structures demonstrate lucent changes within the sacrum and in the
+     iliac bone and superior pubic rami.
+                                                                 (Over)
+
+     DATE: [**3029-8-31**] 10:59 AM
+     CT CHEST W/CONTRAST; CT ABDOMEN W/CONTRAST                      Clip # [**Clip Number (Radiology) 3959**]
+     CT PELVIS W/CONTRAST; CT 150CC NONIONIC CONTRAST
+     Reason: WEIGHT LOSS, UPPER ABDOMINAL PAIN, PROGRESSION OF NON SMALL CELL CANCERPULMONARY HEMORRHAGE
+     Admitting Diagnosis: CHEST PAIN
+     Field of view: 35 Contrast: OPTIRAY Amt: 150C C
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     
+     IMPRESSION:
+     1. Innumerable pulmonary nodules with superimposed consolidations in the right
+     upper and left lower lobes. This is consistent with diffuse metastatic
+     disease. Superimposed infection in the areas of consolidation cannot be
+     excluded
+     2. Extensive atherosclerotic changes.
+     3. Diffuse osteopenic changes throughout the pelvis.
+     4. Possible gastric fundal mass, although this could represent a prominent
+     fold during peristalsis. Further evaluation with upper GI should be
+     considered if clinically indicated.
+     
+     
+
+",,
+24591,4788,,,3029-08-31 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3029-8-31**] 10:59 AM
+     CT CHEST W/CONTRAST; CT ABDOMEN W/CONTRAST                      Clip # [**Clip Number (Radiology) 3959**]
+     CT PELVIS W/CONTRAST; CT 150CC NONIONIC CONTRAST
+     Reason: WEIGHT LOSS, UPPER ABDOMINAL PAIN, PROGRESSION OF NON SMALL CELL CANCERPULMONARY HEMORRHAGE
+     Admitting Diagnosis: CHEST PAIN
+     Field of view: 35 Contrast: OPTIRAY Amt: 150C C
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       77 year old man with history of 20 pound weight loss, pain with eating, 
+      multilobar infiltrate diffuse on xrya
+     REASON FOR THIS EXAMINATION:
+      Pulmonary hemorrhage; progression of non small cell CA                          
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: Weight loss, upper abdominal pain and known non small cell lung
+     cancer.
+     
+     TECHNIQUE: Helically acquired contiguous axial images were obtained from the
+     lung apices through the pubic symphysis, following the administration of 150
+     cc of intravenous Optiray.
+     
+     CT OF THE CHEST WITH IV CONTRAST: There are innumerable pulmonary nodules
+     scattered throughout the lung fields, predominantly involving the lung apices.
+     There is a 4 x 2.4 cm mass in the right hilar region, with spiculated edges.
+     In addition superimposed on the extensive nodules there is patchy and somewhat
+     confluent opacity involving the inferior right upper lobe and superior left
+     lower lobe. There are small bilateral pleural effusions. There is a small
+     pericardial effusion. The heart is of normal size but there is a Swan-Ganz
+     catheter extending into the left main pulmonary artery. Extensive athero-
+     sclerotic changes are noted throughout the aorta. No definite central
+     pulmonary arterial filling defects are noted. There are scattered
+     paratracheal, prevascular and subcarinal lymph nodes. The largest is noted in
+     the right paratracheal region, measuring up to 1 cm.
+     
+     CT OF THE ABDOMEN WITH IV CONTRAST: The liver timing is suboptimal but there
+     are no definite hepatic lesions. The gallbladder is not identified. There is a
+     polypoid mass in the gastric fundus region. The pancreas, adrenal glands and
+     kidneys are grossly unremarkable with nonspecific perinephric stranding. There
+     are several low attenuation foci throughout the spleen, probably representing
+     early arterial artifact. There is no free air or gross ascites. Extensive
+     vascular calcifications are noted throughout the aorta and iliac arteries.
+     There are scattered mesenteric and retroperitoneal lymph nodes, which do not
+     meet CT criteria for pathologic enlargement. The visualized loops of bowel are
+     grossly unremarkable, allowing for slight limitations related to respiratory
+     artifact.
+     
+     CT OF THE PELVIS WITH IV CONTRAST: The rectum, prostate and urinary bladder
+     are unremarkable. Scattered sigmoid diverticulae are noted, without evidence
+     of diverticulitis. No free pelvic fluid or deep pelvic lymphadenopathy.
+     
+     The osseous structures demonstrate lucent changes within the sacrum and in the
+     iliac bone and superior pubic rami.
+                                                                 (Over)
+
+     DATE: [**3029-8-31**] 10:59 AM
+     CT CHEST W/CONTRAST; CT ABDOMEN W/CONTRAST                      Clip # [**Clip Number (Radiology) 3959**]
+     CT PELVIS W/CONTRAST; CT 150CC NONIONIC CONTRAST
+     Reason: WEIGHT LOSS, UPPER ABDOMINAL PAIN, PROGRESSION OF NON SMALL CELL CANCERPULMONARY HEMORRHAGE
+     Admitting Diagnosis: CHEST PAIN
+     Field of view: 35 Contrast: OPTIRAY Amt: 150C C
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     
+     IMPRESSION:
+     1. Innumerable pulmonary nodules with superimposed consolidations in the right
+     upper and left lower lobes. This is consistent with diffuse metastatic
+     disease. Superimposed infection in the areas of consolidation cannot be
+     excluded
+     2. Extensive atherosclerotic changes.
+     3. Diffuse osteopenic changes throughout the pelvis.
+     4. Possible gastric fundal mass, although this could represent a prominent
+     fold during peristalsis. Further evaluation with upper GI should be
+     considered if clinically indicated.
+     
+     
+
+",,
+24591,4788,30539,0,3029-08-31 04:27:00 EST,3029-08-31 04:32:00 EST,540,"N",1,"Nursing/Other",,"
+
+Resp Care Note, Pt admitted to CCU from cath lab.Intubated in EU for resp failure.Placed on vent. See flow sheet for further details.C-XRAY shows CHF,?ARDS and a sml percardial effusion.EF 45% Suctioning sml amts thick white secretions. Needs sedation . Will cont to monitor resp status 
+",,
+24591,4788,30539,0,3029-08-31 06:46:00 EST,3029-08-31 07:11:00 EST,995,"N",1,"Nursing/Other",,"
+
+D 77 yo man  adm from cath lab. Intubated  bagged 100%.  L groin cortis, swan and a line in place.
+Neuro: responding to stimuli with restlessness. not following commands but breathing against  the vent propofol started at 10mcg/kg initially up to 20mcg later with effect.
+CV: ST no [**Last Name (LF) 4775**], [**First Name3 (LF) **] very positional leg immobilizer on. EKG done and red by HO. labs and MV and ABG sent see care view. HCT 19 and 3 unit of PRBC to be given 2 unit infused at present . Pt continue to be tachi but sbp is > 110 now .no dopplerable pulses in foot HO aware foot cool and white. rectal temp 96. blanket applied.Swan wave is good wedge 9 fick 5.58 improved from Cath lab.
+Lungs : vent as order ABG po2 > 200 decreased fio2 to 60%. BS coarse throughout.
+GI: NG draining pale green drainage lavage with 500 by Ho no blood seen. By rectal exam grossly guiac pos.GI fellow in to evaluate pt.ABD soft hypoactive BS.
+GU: clear yellow urine.
+Skin: very poor turgor.
+A low HCT suspect secondary to lower GI BLEED. 2 unit of PRBC given.
+R monitor closely give blood products as ordered.monitor HCT ,Fick, andABGs closely. study's as indicated.  
+",,
+24591,4788,30539,0,3029-08-31 14:57:00 EST,3029-08-31 14:59:00 EST,147,"N",1,"Nursing/Other",,"
+
+resp care
+
+pt remains intubated and mech ventilated.  no vent changes this shift.  b/s coarse.  sxn sm thk wh>>tan secretions.  pt tx w/o incident to/from ct scan.  plan: cont mech support.
+",,
+24591,4788,30539,0,3029-08-31 17:19:00 EST,3029-08-31 17:38:00 EST,620,"N",1,"Nursing/Other","ccu nursing progress note","
+ccu nursing progress note
+s: orally intubated, sedated. able to answer y/n ?s, follow commands when light
+o: pls see careue flowsheet for complete vs/data/events
+id: initially t 96, climbing to tmax this shift 99.8 po. started on po levo and flagyl for presumed pneumonia. cultures of bld and urine pend from [**8-30**]. needs sputum culture.
+cv: sr 90s, no vea. bp labile after completing 3rd transfusion and ivf at kvo. req occ ns bolus to support bp. very reactive to propofol and level of agitation, with wide bp swings. 78-150/60. avg generally in the low 90s/ . 
+cont w fem cath lines in place, art and venous/pa lines. ccu team was aware that no peripheral pulses could be detected, micu team now in charge and are also aware. no plans currently in place to remove these line. site is d/i, no hematoma. 
+cycling cks.
+resp: a/c 700 x18. 60% and 10peep. abg was improving on this from pervious profound met acidosis. but as afternoon progressed pt's oxygenation deteriorated, req^fio2 to 80% to support po2 >70, sat >92.
+bs scatt coarse throughout. was breathing in synch w vent until this eve when o2 sat dropped. req ^propofol. sxn'd q2-3hrs for thick white to v light tan secretion, req instillation prn.
+gi: ngt to sxn. neg for bld. clamped now after po meds. sm-mod melena, rectal bag in place. 
+abd dist, sl firm. +bs. had abd/chest ct today. did rec oral and iv contrast.
+gu: uop 20-80cc/hr.
+skin: intact but impaired at pressure pts, bony prominences. skin care. will order 1st step.
+ms: agitated w ett/lines, interventions. able to follow commands when light. req soft wrist restraints to maintain ett/ivs.
+social: family visiting in am. updated by physicians. remains full code.
+a: oxygenation worsening. bp labile. hct stable after 3rd unit.
+p: follow abg, sats. resp exam. follow hemodynamics, may need pressors. follow gi exam, hct q6hrs. med for comfort/safety. update family. provide support to pt and family.
+
+",,
+24591,4788,30539,,3029-09-01 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3029-9-1**] 8:00 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 3961**]
+     Reason: eval for progression of R-sided PNA                         
+     Admitting Diagnosis: CHEST PAIN
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      77 year old man with NSCLC, R-sided infiltrate, worsening hypoxia.              
+                          
+     REASON FOR THIS EXAMINATION:
+      eval for progression of R-sided PNA                                             
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: Non-small cell lung cancer, right sided infiltrate, worsening
+     hypoxia. Please evaluate for progression of pneumonia.
+     
+     VIEWS: Single AP portable semi-upright view, comparison dated [**3029-8-31**].
+     
+     FINDINGS: The heart size and mediastinal contours appear unchanged. Again seen
+     are diffuse bilateral nodular opacities, unchanged. The overlying bilateral
+     interstitial pattern has improved in the interval. Previously seen right upper
+     lobe consolidation also appears improved. An area of rounded opacity in the
+     right middle lung field can now be delineated which is consistent in location
+     with the mass noted on prior CT scan. The ETT and NG tube remain in stable and
+     satisfactory position. Pulmonary artery catheter remains in unchanged position
+     with tip in the main pulmonary artery. No pleural effusions or pneumothorax.
+     Surgical clips again noted in the inferior mediastinum.
+     
+     IMPRESSION: Unchanged diffuse nodular pattern consistent with lymphangitic
+     spread of tumor. Right middle lung field opacity may be consistent with
+     patient's tumor mass noted on CT. Improving right upper lobe pneumonic
+     consolidation. Lines and tubes in stable and satisfactory position.
+     
+     
+
+",,
+24591,4788,30539,,3029-09-01 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3029-9-1**] 5:25 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 3962**]
+     Reason: evaluate et placeement                                      
+     Admitting Diagnosis: CHEST PAIN
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        77 year old man with NSCLC, R-sided infiltrate, worsening hypoxia.            
+                              
+     REASON FOR THIS EXAMINATION:
+      evaluate et placeement                                                          
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY: Assess endotracheal tube placement.
+     
+     COMPARISON: [**3029-9-1**], approximately ten hours prior to the present
+     study.
+     
+     SUPINE AP PORTABLE CHEST: In the interval since the prior study, an
+     endotracheal tube has been advanced slightly and now is approximately 5 cm
+     above the carina. There is also a newly placed right internal jugular venous
+     line with tip well positioned in the lower SVC.
+     
+     No change in appearance of the heart and lungs since the prior study. There is
+     no pneumothorax.
+     
+
+",,
+24591,4788,30539,0,3029-09-01 04:16:00 EST,3029-09-01 04:42:00 EST,1202,"N",1,"Nursing/Other",,"
+
+s: pt intubated/sedated
+o/a: neuro: pt's pupils 2mm bil rx, cough and gag intact pt moves extremeties when lightened and follows commands when lightened
+resp: pt was on 80% fio2 weaned down to 60% ph 7.31, 28, 80 tv 700, rate 18 peep 12. ett will need to be repositioned per cxr per ho order this am. when pt repos sats on left side > than sats on r side. 98% vs. 93-95%. sx creamy secretions mod amts, sputum sent last eve. lungs coarse bil propofol at 60mcq tol well
+cv: st 90-110, bp 80-130's/50-60, vasopressin added bp inceased rate at .06 units/min. pa 30-40/20's generally, co/ci [**2-3**] generally. 
+gi abd soft distnded nontender pos bs, ngt pos guiac, 
+gu: foley yellow urine qs 30-110cc/hr, rectal bag with thick melena stool emptied 200cc out pt on prevacid
+id: pt with low grade temp < 100 po. pt on flagyl and levo
+skin: intact, left groin site dry and intact no hematoma, pedal pulses absent bil ho aware pt started on hydrocortisone iv
+plan: follow hct and met acidosis cont full support
+",,
+24591,4788,30539,0,3029-09-01 04:57:00 EST,3029-09-01 05:00:00 EST,978,"N",1,"Nursing/Other",,"
+
+Respiratory Care
+Pt remain intubated on vent support, increased PEEP in Order to wean FIO2, BS rhochai, SX mod amout thick white Sec.
+",,
+24591,4788,30539,,3029-09-02 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3029-9-2**] 8:17 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 3963**]
+     Reason: r/p infiltrate                                              
+     Admitting Diagnosis: CHEST PAIN
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       77 year old man with NSCLC, R-sided infiltrate, worsening hypoxia.             
+                            
+     REASON FOR THIS EXAMINATION:
+      r/p infiltrate                                                                  
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: Non-small cell lung cancer, right sided infiltrate, worsening
+     hypoxia.
+     
+     VIEWS: Single AP portable semi-upright view, comparison dated [**9-1**].
+     
+     FINDINGS: The ETT terminates with tip approximately 7 cm above the carina, in
+     satisfactory position. Right IJ venous access catheter remains in stable and
+     satisfactory position. NG tube extends below the diaphragm with tip extending
+     below the borders of the radiograph. PA catheter remains in unchanged position
+     with tip in main pulmonary artery. The heart size, mediastinal contour appear
+     unchanged. No change in diffuse bilateral nodular pattern most prominent in
+     the perihilar region. There is recurrent consolidation in the right upper lobe
+     bordered inferiorly by the minor fissure. There has been further loss of
+     definition of the more focal lesion demonstrated previously in the right
+     parahilar region. No pleural effusions or pneumothorax. The visualized osseous
+     structures are unchanged.
+     
+     IMPRESSION: Recurrent/worsening right upper lobe consolidation consistent with
+     pneumonic process. Unchanged diffuse bilateral nodular pattern consistent with
+     lymphangitic spread of tumor. Satisfactory position of lines and tubes.
+     
+
+",,
+24591,4788,30539,,3029-09-02 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3029-9-2**] 12:34 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 3964**]
+     Reason: eval for ET tube placement                                  
+     Admitting Diagnosis: CHEST PAIN
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       77 year old man with NSCLC, R-sided infiltrate, worsening hypoxia.             
+                                
+     REASON FOR THIS EXAMINATION:
+      eval for ET tube placement                                                      
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Non-small cell lung cancer, worsening hypoxia, evaluate ET tube
+     placement.
+     
+     VIEWS:  Erect portable AP view compared with portable AP view from [**9-1**], 2003.
+     
+     FINDINGS:  There has been interval advancement of the endotracheal tube tip
+     now approximately 2cm above the carina. A right IJ central venous catheter and
+     Swan-Ganz catheter are again present in stable satisfactory positions. The NG
+     tube tip is again seen extending beyond the edge of the film below the
+     diaphragm. Again seen are diffuse bilateral nodular opacities as well as a
+     confluent opacity within the right upper lobe. No pleural effusions are
+     identified. The heart size is normal.
+     
+     IMPRESSION:  Satisfactory position of endotracheal tube.
+     2) Unchanged diffuse bilateral nodular pattern consistent with metastatic
+     cancer.
+     3) Continued consolidation of the right upper lobe. 
+
+",,
+24591,4788,30539,0,3029-09-02 16:46:00 EST,3029-09-02 17:00:00 EST,40,"N",1,"Nursing/Other","MICU NPN","
+MICU NPN
+S: Pt intubated and sedated
+neuro: pt sedated w/ propofol 60 mcg/kg/min. PERL, responsive only to pain, not moving extremeties. 
+cv: Vasopressin d/c 0800, bp 108-166/53-72, hr 58-79 sr no vea.
+groin swan and art line pulled w/o difficulty. l groin d/i, no hematoma or ecchymoses, distal pulses dopplerable.
+resp: Vent rate decreased to 16, now AC 16/600/50%/10 peep w/ abg 7.41/35/104/-[**1-22**]. sx q 2 hrs for thick white secretions, lg amts oral secretions, lung cta.
+heme: hct this am 26.9, transfused w/ 2uprbc. f/u hct pnd.
+gu: foley draining cl yel urine, ^ in u/o since transfusions, currently ~ 250cc +
+gi: NPO, OGT in place for meds, FIB in place, draining sm amts melena. 
+id: afebrile today, wbc 3.04, abx unchanged.
+skin: intact, some reddened areas on bony prominences. 
+social: family met w/ oncologist and medical team. Pt is now DNR, we will continue treatment and attmpt to wean to extubate. Priest in to see pt.
+A: hemodynamically stable off vasopressin, will attempt to wean in am,
+P: monitor hct, wean sedation and attempt vent wean, cont abx, emotional support to family.
+",,
+24591,4788,30539,0,3029-09-02 17:09:00 EST,3029-09-02 17:15:00 EST,1299,"N",1,"Nursing/Other",,"
+
+Respiratory Care
+Pt remains intubated and sedated. Few changes made today. RR decr. to 16, Peep decr. to 10. BS-coarse, sxing thick white. Pt tx w/ Alb MDI Q4.
+",,
+24591,4788,30539,0,3029-09-02 17:13:00 EST,3029-09-02 17:15:00 EST,1299,"N",1,"Nursing/Other",,"
+
+Respiratory Care
+Pt remains intubated and sedated. Few changes made today. RR decreased to 16, Peep decreased to 10. BS- coarse, sxing thick white. Pt tx with Alb MDI Q4.
+",,
+24591,4788,30539,,3029-09-03 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3029-9-3**] 10:12 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 3965**]
+     Reason: eval for change of effusions/pna                            
+     Admitting Diagnosis: CHEST PAIN
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        77 year old man with NSCLC, R-sided infiltrate, worsening hypoxia.            
+                                  
+     REASON FOR THIS EXAMINATION:
+      eval for change of effusions/pna                                                
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Non-small cell lung cancer, hypoxia.
+     
+     VIEWS:  AP view, compared with erect AP view from [**3029-9-2**].
+     
+     FINDINGS:  The endotracheal tube, right internal jugular central venous
+     catheter, and nasogastric tube are all remain in stable and satisfactory
+     positions.  There has been interval removal of a Swan-Ganz catheter.  Again
+     seen are diffuse bilateral nodular opacities as well as confluent opacity
+     within the right upper lobe which are unchanged in appearance.  The heart is
+     normal in size.  No pleural effusions are identified.
+     
+     IMPRESSION:  No significant change in right upper lobe consolidation and
+     diffuse bilateral nodular opacities consistent with metastatic disease.
+
+",,
+24591,4788,30539,,3029-09-03 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+",,
+24591,4788,30539,0,3029-09-03 04:21:00 EST,3029-09-03 04:37:00 EST,330,"N",1,"Nursing/Other","CCU NPN 1900-0700","
+CCU NPN 1900-0700
+O:  afeb. contin. on vanco/azithromycin/piperacillin for pneumonia.
+CV:  HR 70's - 50's SR.  BP intitially 160-180/80's.  pt. appearing sedated , breathing overvent.  however, propofol inc. to 70mcq and pt. repositioned and BP coming down to 115-140's/50's for rest of night.  since then, propofol weaned back down to 60mcq.  
+
+CVP 9-12.  
+u/o 40-100cc/hr. (+) 8L LOS.  K+ 3.6 40meq KCL x1. 
+GI:  FIB with ~ 75cc of soft melena out.  ABD soft, hypoactive BS.  
+neuro:  no spont. movement.  sedated.  grimacing with suctioning/turning.  does not respond to name or command.  propofol decreased to 45mcq at 0600 for possible wean attempt today. 
+RESP:  no vent changes.  ABG pnd.  sats 99-100% on AC 600x16/.50/10peep.  LS diminished bases.  suctioned 2-4hours for thin white/pale yellow secretions.  clear oral secretions.  
+
+A:  stable BP off vasopressin.  propofol wean for vent wean.
+small amt. of melena.  
+P:  follow HCT, sats,  neuro status on reduced propofol.  pt. DNR per family meeting [**9-2**].  anticipate vent wean trial per family wishes.  
+",,
+24591,4788,30539,0,3029-09-03 04:44:00 EST,3029-09-03 04:48:00 EST,23,"N",1,"Nursing/Other","RESPIRATORY CARE:","
+RESPIRATORY CARE:
+
+Pt remains intubated, vent supported. No vent changes made overnoc. BS's sl decreased, coarse, with scattered wheezes. Sxing sm amts tan secretions.  Administering Albuterol MDI in line with vent. See flowsheet for rx times, further pt data.
+Plan: Maintain vent support.
+",,
+24591,4788,30539,0,3029-09-03 13:30:00 EST,3029-09-03 13:42:00 EST,620,"N",1,"Nursing/Other","ccu nursing progress note","
+ccu nursing progress note
+pls see carevue flowsheet for complete vs/data/events
+s/o: orally intubated, sedated
+id: afeb. cont on same abx.
+cv: hr 50-80s sr, no vea. rec'd 20kcl. bp 100-180/60-90. started lopressor at 12.5 per ngt.
+resp: weaning rate and peep. now a/c 700 x 10, 50%. peep down to 5 from 12. tol well. sxn'd for sm amt white to clear secretions.
+bs scatt coarse. has occ desat to high 80s, improved w sxn'ing, not clear plugging.
+last abg: 7.43/35/94/24 
+gi: min o/p from rectal bag. hct stable. pt to start tpn today.
+gu: uop 60-80cc/hr.
+ms: weaning sedation. now on propofol at 30mcg/kg. more responsive but comfortable. 
+social: family visiting, updated by rn and md.
+a: tol wean. hd stable, hct stable.
+p: cont vent wean as tol. pulm toilet. follow hemodynamics. check hct this eve. support to pt and family.
+",,
+24591,4788,30539,0,3029-09-03 15:03:00 EST,3029-09-03 15:06:00 EST,905,"N",1,"Nursing/Other",,"
+
+pt remained stable througout the shift.vent changes rr=10,peep=8.
+abg=7.43/35/94.dropped peep=5 cmh2o.
+bs:clear.white thick secretion suctionned.plateau pressure=23mmhg.
+",,
+24591,4788,30539,0,3029-09-03 17:28:00 EST,3029-09-03 17:41:00 EST,40,"N",1,"Nursing/Other","MICU NPN 1500-1900","
+MICU NPN 1500-1900
+Pt became hypertensive w/ sbp 190's and hr 90's. given 25mg po lopressor w/ slight decrease in hr, then given 5mg iv lopressor. Currently hr 69 and bp 126/58.
+   
+Vent changed to 5ps w/ 5peep,, pt not tolerated well and changed back to AC10/600/50%/5 peep. sx for mod amts thick white secretions and lg amt oral secretions.
+
+MRSA in sputum.
+",,
+24591,4788,30539,0,3029-09-04 03:12:00 EST,3029-09-04 03:56:00 EST,330,"N",1,"Nursing/Other","CCU NPN 1900-0700","
+CCU NPN 1900-0700
+S:  intubated, sedated
+O:  TM 98.6po.  last dose of vanco given.  contin. on zosyn and zithro
+CV: HR 65-77 SR. occas. PVC.  BP 128-165/50's.  up to 180's/60 and given 5mg IV lopressor with some effect.  contin. on 25mg lopressor via OGT.  
+CVP 3-8
+resp:  AC/600x10/5peep/50%.  RR 14-22.  sat down to 88-90% ~ 1900. suctioned 2-3 times in one hour for mod. amt. of white secretions and 2 small blood tinged plugs.  sats remaining 97-99% rest of night.  
+LS course .  
+pt. with strong cough.  large amt. of clear oral secretions.  depressed gag.  small positional air leak. 
+ETT rotated to right.  taped 26cm at lip.
+
+GU:  u/o 60-70cc/hr.  even for [**9-3**].  
+GI:  OGT clamped.  NPO.  small amt. of green bile aspirated.  guiac. neg.  FIB intact.  small amt of soft melena in bag.  abd soft, ND
+neuro:  propofol at 30mcq/k/min.  pt. grimacing often, esp. with suctioning and personal care.  does not open eyes to command.  no spont. movement.  plan to decrease propofol to 10mcq at 0600 per resident.  
+skin:  intact.  heels red. 
+right rad. aline, right IJ TLC.  
+
+A:  elevated BP despite IV/po lopessor.
+    maintaining u/o
+    lighter MS
+P:  plan attempt to wean.  ? increase lopressor.  monitor neuro status on lower propofol dose. 
+",,
+24591,4788,30539,0,3029-09-04 16:32:00 EST,3029-09-04 16:35:00 EST,547,"N",1,"Nursing/Other",,"
+
+Resp. Care Note
+Pt remains intubated and vented on settings as per resp. flowsheet. Pt changed from AC to PSV today. Tolerating PSV 15 peep 5 and 50% well with TV 400 range and RR <30. Attempted to decrease PSV to 12 but became tachypneic to 33-35. Albuterol MDI Q vent check. Cont present settings as tolerated, assess for further wean in AM.
+",,
+24591,4788,30539,0,3029-09-04 17:10:00 EST,3029-09-04 17:22:00 EST,40,"N",1,"Nursing/Other","MICU NPN","
+MICU NPN
+S: Intubated/unresponsive
+O: se carevue for all objective data
+neuro: Propofol turned off at 1200. Pt responsive only to painful stimuli. PERRL. Not following commands. Moving extremeties only slightly.
+cv: hr 80-90's sr no vea, bp 105-150/50-70. No changes in cv meds today.
+resp: Vent changed to PS15/5peep w/ TV 400-500, rr 25-30 abg-> 7.44/33/82/23/0, when ps decreased to 12 pt ^ tachypnic abg-> 7.42/36/65/0/24. PS ^ to 15. SX q2-3 hr for mod amts thin white secretions, lg amts oral secretions. lung sounds coarse.
+gi: FIB in place w/ no stooling today. TF (Promote) started at 10cc/hr, no residuals. Hct stable
+gu: foley draining cl yel urine. Currently ~ even
+id: afebrile wbc 7.5, cont on abx, 
+skin: intact
+social: wife, son and granddaughter in to visit and updated
+A: unresponsive to all but painful stimuli off propofol, tolerating slow ps wean, no stooling.
+P: monitor neuro status, rest overnoc and continue slow wean in am, monitor hct
+",,
+24591,4788,30539,,3029-09-05 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3029-9-5**] 12:32 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 3966**]
+     Reason: eval for acute changes                                      
+     Admitting Diagnosis: CHEST PAIN
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        77 year old man with NSCLC, R-sided infiltrate, worsening hypoxia.            
+                                     
+     REASON FOR THIS EXAMINATION:
+      eval for acute changes                                                          
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     History of lung cancer and worsening hypoxia.
+     
+     Endotracheal tube is 5 cm above carina. Right jugular CV line is in proximal
+     SVC. Heart size is normal. There are extensive bilateral nodular densities
+     with some confluent opacity in the right upper lobe unchanged since the prior
+     study of [**3029-9-3**]. No pneumothorax or other new lung lesions.
+     
+
+",,
+24591,4788,30539,0,3029-09-05 04:19:00 EST,3029-09-05 04:39:00 EST,199,"N",1,"Nursing/Other",,"
+
+NSG NOTE
+
+CV/RESP: PT INITIALLY ON CPAP/PS 15/5. ABG'S 7.44,34,60,24,0 VENT CHG MADE CPAP/PS 15/10 7.44,32,73,22,0  DURING REPOSITIONING PT BECAME TACHYPNIC WITH RR 28-40. DECLINING O2 SATS 89-90%. TACHYCARDIC WITH HR 110-123 AND BP 170/80 DR [**Last Name (STitle) **] NOTIFIED. PT GIVEN ATIVAN 2MG WITH LITTLE EFFECT. PT ALSO RECEIVED MSO4 2MG WITH LITTLE EFFECT. CON'T TACHYPNIC. PT PLACED BACK ON AC 50%,500X12 WITH PEEP 10. PT ALSO RECEIVED LOPRESSOR 5MG X2 DOSES. PO LOPRESSOR INCREASED TO 50MB BID. IMPROVING HR NOW 78-80. NSR NO VEA NOTED. ATTEMPTED TO WEAN PEEP TO 5 AM ABG'S 7.45,35,62,25,0,92%. DR [**Last Name (STitle) **] NOTIFIED OF ALL BG RESULTS. CURRENT SETTINGS. AC 60%,500X12 PEEP 5. PT SUCTIONED FOR THIN WHITE SECRETIONS. ON OCCASSION PT WILL HAVE COPIOUS AMT'S OD ORAL SECRETIONS. CVP 6-8. BS COURSE THRUOUT.
+
+GI: TF PROMOTE @ 10CC/HR INFUSING. RESIDUALS 30CC. ABD SOFT. HYPOACTIVE BS NOTED. NO STOOL NOTED.
+
+GU: AMBER URINE >30CC/HR NOTED
+
+NEURO: PROPOFOL @ 35MCG/KG. PRIOR TO RESTARTING PROPOFOL PT  UNABLE TO FOLLOW COMMANDS. MOVING EXT ONLY SLIGHTLY. RESPONDING TO STIMULUS BY FLEXING EXT. DOES NOT OPEN EYES.
+
+SKIN: INTACT
+
+ID: MRSA PRECAUTIONS/SPUTUM. TEMP MAX 99.8 CON'T ON VANCOMYCIN/PIPERACILLIN
+
+LABS: HCT STABLE @ 40.7
+
+SOCIAL: NO INQUIERES OVERNOC
+
+A: DIFFICULT WEAN COMPROMISED RESP STATUS
+
+P; CON'T PER NSG JUDGEMENT
+   FOLLOW ABG'S
+
+
+",,
+24591,4788,30539,0,3029-09-05 16:20:00 EST,3029-09-05 16:49:00 EST,226,"N",1,"Nursing/Other",,"
+
+CCU (MICU Border) 7a-7p:
+
+Neuro: Sedated on propfol gtt weaned to 30mcg/kg/min.  No spontaneous movement noted.  No response to painful stimuli.  Bilateral wrist restraints in place to maintain integrity of lines.
+
+CV: NSR HR 77-89 no ectopy noted.  BP 89-138/48-58.  CVP 5-9.  Pt remains off presssors for 72 hours.  Electrolytes repleted.  Dopperable pulses.  HCT stable 35.9.  L fem site C/D/I.  Tolerating lopressor 50mg po BID.  
+
+PULM: Mechanically ventilated on AC 500x12 5 peep fio2 60%. RR 19-24 pt overbreathing the vent 7-12 breaths.  LS coarse throughout.  Sxn'd for thick white sputum.  Copious clear oral secretions.  Sats 92-99%.  Pt decompensates when lying on R side sats drop to low 80's.  Sats dropped to 83% this afternoon pt recovered with sxning and being positioned on L side.  CXR preformed await results.  No plan to wean pt this shift.  
+
+GI: Abd soft with +BS.  OGT in place pt receiving promote with fiber at 30cc/hr GR 40cc/hr (nutrition recs per team).  Minimal residuals.  No stool this shift.
+
+GU: Foley cath patent draining amber urine.  u/o 30cc/hr. +8L LOS and +600cc since mn.  BUN 14 CR 0.6.
+
+ID: T max 100.2 rectally.  Pt rec'd tylenol 650mg po.  MRSA in sputum.  Pt completed vanco IV conts on pip and azithromycin IV.
+
+SKIN: dry.
+
+LINES: R radial a-line and R TLC.
+
+SOCIAL: Many family members in to visit today, updated on plan of care.
+
+A/P: Sedated on propofol gtt.  Conts on AC with stable ABG's, resp status decompensates with turining on R side.  BP stable.  Tolerating TF advance to GR.  +fluid status.  Skin care.  Provide support to family.
+",,
+24591,4788,30539,0,3029-09-06 02:53:00 EST,3029-09-06 02:57:00 EST,476,"N",1,"Nursing/Other",,"
+
+Resp. Care:
+     Pt. remains intubated and on vent.support.  Attempted wean on PS/C-PAP, which pt. tol. well until some interventional care given.  Pt. became tachypneic with desat's to low 80's.  Please see flow sheet.  Albuterol MDI q4 given.  BS-coarse.  Sx thick white in sm. amt.'s.  Will try C-PAP/PS mode again later today.
+",,
+24591,4788,30539,0,3029-09-06 03:13:00 EST,3029-09-06 03:39:00 EST,284,"N",1,"Nursing/Other","Nursing Progress Note 7p-7a","
+Nursing Progress Note 7p-7a
+s:  INTUBATED, SEDATED ON PROPOFOL
+
+O:  NEURO:  PT. SEDATED ON PROPOFOL 30MCG/KG/MIN.  NO SPONTANEOUS MOVEMENT, DOES NOT FOLLOW COMMANDS. SOME FACIAL GRIMMACING WITH STIMULI.  IMPAIRED GAG, STRONG COUGH WHEN SUCTIONING.  
+
+CV:  HR 80'S SR NO VEA NOTED.  BP RANGE 92/50 - 149/64, SYSTOLIC BP REACHES 200 WHEN STIMULATED.  CONT ON LOPRESSOR BID.
+
+PULM:  CPAP TRIAL FOR 3 HRS, TOL WELL.  WITH MOVEMENT/TURNING PT. DESAT TO LOW 80'S, RR 44  PLACED BACK ON AC 500X12, FIO2 60%, PEEP 5.  LUNGS COARSE.  SUCTIONING FOR THICK WHITE SPUTUM, LARGE AMT OF WHITE ORAL SECRETIONS.  O2 SATS 92%-94%.  
+
+GU:  URINE AMBER COLORED, U/O 30-90 CC/HR.  
+
+GI:  TF PROMOTE AT 40 CC/HR (GOAL),  MIN RESIDUALS.  ABD SOFT, + BOWEL SOUNDS, NO BM OVERNIGHT.
+
+ID:  T MAX 99.8 PO CONT ON ABX
+
+ACCESS:  LEFT RADIAL ALINE, RIGHT IJ MULTI-LUMEN.
+
+STABLE NOC.  TOL CPAP TRIAL X 4HR.  
+
+P:  CONTINUE PULM TIOLET, FOLLOW LYTES, MONITOR U/O.    
+",,
+24591,4788,30539,0,3029-09-06 16:02:00 EST,3029-09-06 16:04:00 EST,962,"N",1,"Nursing/Other","Respiratory Care","
+Respiratory Care
+Pt remains mechaniclly ventilated. Suction moderate amounts of pale white secreations. Breath sounds equal, coarse. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) 516**] RRT
+",,
+24591,4788,30539,0,3029-09-06 16:02:00 EST,3029-09-06 16:39:00 EST,226,"N",1,"Nursing/Other",,"
+
+CCU (MICU BORDER) Nursing Progress Note 7a-7p:
+
+Sedated and intubated.
+
+Neuro: Sedated on propofol gtt decreased to 20mcg from 30mcg this am during PS trial.  Pt slightly opening eyes but not on command.  +facial grimacing with sxning and occasionally yawning.  No spontaneous movement of extremities noted.  Propofol at 30mcg this pm.
+
+CV: NSR to ST HR 79-103 no ectopy noted.  BP 103-172/54-77 pt conts on lopressor 50mg BID post MI. SBP 170-180's with stimuli.  CVP 7-10.  Extremities warm and dry. +Third spacing of fluid.  L fem C/D/I.  Pulses dopperable.  K+ 3.8 repleted with 40meq KCL. Mg repleted with 2g mg sulfate IV and Ca 7.6 pt rec'd 2g ca gluconate.  HCT stable 36.0.  
+
+PULM: Mechanically ventilated tolerating PS 20 5 peep TV 500-700, PS 15 TV 300-400.  After four hours pt's RR 30's, sats 88-92%, BP 160's trialed increasing to peep of 10 with minimal change in hemodynamics.  12pm placed back on AC 500x12 5 peep 60% ABG 7.47/37/84/28.  RR 20's Sats 95%.  LS coarse throughout.  Pt's secretions increased today sxned for copious amts of white thick sputum and clear oral secretions.  Team aware sputum sent for culture.  Unable to preform CPT due to pt decompensating with turining.  Conts on ABX to treat PNA and MRSA in sputum.
+
+GI: Abd soft NT +BS.  No stool this shift.  Pt to start bowel regimen. TF promote with fiber reached goal rate of 55cc/hr today with minimal residuals via OGT.  GI team signed off with resolution of GIB.
+
+GU: Foley cath patent now draining cyu 50-100cc/hr.  Conts to be +9L LOS and +475 since mn.  BUN 14 CR 0.4.  
+
+ID: Tmax 99.4.  Pt restarted on vanco IV this afternoon.  Conts on pip IV q6hr and azithromycin Q24hr.  Await sputum cx results.
+
+PROPH: protonix and pneumoboots.
+
+SKIN: Duoderm to coccyx.  Lower extremites dry.  Pt turned side to side decompensates when placed on right side.
+
+LINES: R radial a-line and R IJ TLC.
+
+DISPO: DNR/DNI.
+
+SOCIAL:  Many family members in to visit today and updated on pt's condition.  Team to continue placing pt on trial vent weans and await effects of abx treatment.  Goal is to extubate pt and allow him to go home with family. Pt does not wish to have trach or peg placed. 
+
+A/P: 77 y/o with metastatic lung CA s/p MI, GIB and PNA.  Hemodynamically stable on current regimen.  Sedated while on vent.  Pt failing to wean off ventilator at this time ?due to underlying lung disease, CA, increased secretions and PNA.  Cont abx course and trial PS QD.  TF at goal rate.  Improved u/o.  Skin care.  Provide support to family. 
+",,
+24591,4788,30539,0,3029-09-06 16:55:00 EST,3029-09-06 16:59:00 EST,226,"N",1,"Nursing/Other",,"
+
+Addendum to Nursing Progress Note:
+
+Rare PVC's noted, lytes sent await results.
+Pt with oral thrush started on nystatin swish and sxn TID.  Pt's heels are redened with start of foot drop elevated, splint ordered.  Cont per plan.
+",,
+24591,4788,30539,0,3029-09-07 04:29:00 EST,3029-09-07 04:41:00 EST,199,"N",1,"Nursing/Other",,"
+
+NSG NOTE
+
+CV: REMAINS IN NSR WITH HR 88-104. LOPRESSOR INCREASE TO 50MG BID WITH BETTER BP AND HR CONTROLS. CVP 6-9. MAPS 78-104. OCCASSIONAL MULTIFOCAL PVC NOTED. K+ WNL
+
+RESP: REMAINS ON MECH VENT AC 60%,500X12 PEEP. ABG'S 7.49,35,66,27,3,94%. DR [**Last Name (STitle) **] [**Name (STitle) 441**]. PEEP INCREASE TO 10 REPEAT ABG'S 7.46,38,74,28,2. SUCTIONED FOR THIN WHITE/YELLOW SECRETIONS. BS COURSE TO DIMINISHED.
+
+GI: CON'T ON GOAL RATE OF PROMOTE WITH FIBER, @55CC/HR. RESIDUALS LOW 5-10CC/HR. NO STOOL THIS SHIFT. ABD SOFT.
+
+GU: U/O ADEQAUTE
+
+SKIN: DUODERM TO COCCYX INTACT. HEELS REDDENED BUT INTACT. SPLINTS ON. REPOSITIONED Q/2/HR.  
+
+ID: LOW GRADE TEMP PER FLOW. CON'T ON PIPERACILLIN/VANCOMYCIN FOR PNA.
+
+LABS: WNL
+
+NEURO: NO SIGN CHG. WILL GRIMCES OCCASSIONALY. UNABLE TO FOLLOW COMMANDS. ON PROPOFOL 30MCG. .
+
+SOCIAL: NO INQUIERES OVERNOC
+
+DISPOSITION: DNR/DNI
+
+A: DIFFICULT AND CHALLENGING WEAN
+
+P: ? RETRY CPAP TRIAL
+   CON'T WITH ABX
+    MAY BENEFIT FROM FIRST STEP BED
+    SUPPORT FAMILY AS NEEDED
+    
+",,
+24591,4788,30539,0,3029-09-07 05:10:00 EST,3029-09-07 05:11:00 EST,994,"N",1,"Nursing/Other",,"
+
+pt vent settings changed  to maximize ABG, pt sx'd for minimal secretions
+",,
+24591,4788,30539,0,3029-09-07 16:19:00 EST,3029-09-07 16:28:00 EST,40,"N",1,"Nursing/Other","MICU NPN","
+MICU NPN
+s: intubated/unresponsive
+O: see carevue for all objective data
+neuro: Propofol at 20 mcg/kg continues. turned off this am for several hours to wake. Pt responsive only to pain. MAE slightly in non purposeful manner. occasionally opens eyes spontaneously, not following any commands. 
+cv: hr 80-100 sr occ pvc, bp generally 95-140/50-60 but dropping to 75/40 this afternoon, 1600 dose lopressor held. 
+resp: no vent changes made this shift. sx q 1-2 hr for thick white secretions, at times lg amts oral secretions. lung sounds coarse.
+gi: tf at goal, tolerating well w/ minimal residuals. No stool this shift.
+gu: foley draining cl yel urine 40-100cc/hr.
+id: tm 99.4. cont on abx.
+skin: pt placed on 1st step mattress. coccyx w/ duoderm in place, r heel reddened, in multipodus boot. 
+social: wife and daughter here to visit.
+A: not tolerating vent wean, unresponsive except to pain.
+P: continue vigorous pulmonary toilet. monitor neuro status, ? family meeting.
+",,
+24591,4788,30539,,3029-09-08 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3029-9-8**] 9:17 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 3967**]
+     Reason: eval for pna                                                
+     Admitting Diagnosis: CHEST PAIN
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+         77 year old man with NSCLC, R-sided infiltrate, worsening hypoxia.           
+                                       
+     REASON FOR THIS EXAMINATION:
+      eval for pna                                                                    
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Non small cell lung cancer, worsening hypoxia.  Please evaluate
+     for pneumonia.
+     
+     VIEWS:  A single AP portable semi-upright view, comparison dated [**3029-9-5**].
+     
+     FINDINGS:  The endotracheal tube, nasogastric tube and right internal venous
+     access catheter remain in stable and satisfactory position.  Again seen are
+     diffuse bilateral nodular opacities consistent with history of metastatic
+     spread.  The previously seen focal infiltrate in the right upper lobe is
+     probably not significantly changed allowing for differences in patient
+     positioning.  The heart size and mediastinal contours are unchanged.  No
+     pleural effusions.  Metallic surgical clips in the midline overlying the upper
+     abdomen.
+     
+     IMPRESSION:  Persistent bilateral nodular densities consistent with metastatic
+     spread of tumor, and no significant change in appearance of right upper lobe
+     consolidation.  Lines and tubes in stable position.
+     
+
+",,
+24591,4788,30539,0,3029-09-08 04:20:00 EST,3029-09-08 04:50:00 EST,2519,"N",69,"Nursing/Other","NURSING ADMISSION AND PROGRESS NOTE 2300-0700","
+NURSING ADMISSION AND PROGRESS NOTE 2300-0700
+REPORT RECEIVED FROM CCU.  PT ARRIVED ON BED ACCOMPANIED BY RN.  PT TX TO MICU 772 WITH NO UNTOWARD INCIDENCE.  ALL ALARMS ON MONITOR AND VENTILATOR ARE FUNCTIONING PROPERLY.  PT'S ENVIRONMENT SECURED FOR SAFETY.
+
+THIS IS A 77 Y/O PT WITH A PMH SIGNIFICANT FOR NEWLY DIAGNOSED LUNG CA ON [**7-2**].  PT PRESENTED TO EW WITH COMPLAINTS OF CP FOR 3 DAYS AND WORSENING SOB.  PT WAS HYPOTENSIVE IN THE EW WITH SBP IN THE 70'S.  CXR SIGNIFICANT FOR DIFFUSE NODULAR DENSITIES THROUGHOUT BOTH LUNGS.  ECHO SIGNIFICANT FOR PA AND PV COLLAPSE- SENT TO THE CATH LAB.  CATH WAS SIGNIFICANT FOR PERICARDIAL EFFUSION BUT NO TAMPONADE. NO AGGRESSIVE MEASURES TAKEN IN CATH LAB DUE TO SEVERE PULMONARY PROCESS. SIGNIFICANT DRIT DROP FROM 35.3 TO 17.  REPLETED WITH 3 UNITS OF PRBC'S.  PT GUAIC POSITIVE- GI BLEED NOTED.  AT THIS POINT TX FROM CCU SERVICE TO MICU SERVICE.  EGD DONE ON [**8-1**] WAS SIGNIFICANT FOR GASTRITIS AND EROSION, OTHERWISE NORMAL.  PT HAS HAD PRGRESSIVELY STABLE COURSE ALTHOUGH IS STILL ADMITTED TO MICU DUE TO FAILURE TO WEAN.  
+
+PMH:  LUNG CA, HIATAL HERNIA, SEIZURES IN CONJUNCTION WITH ETOH, HTN, TESTICULAR CA, GLAUCOMA, CATARACT REPAIR, CHOLECYSECTOMY, HYPERTROPHIC CARDIOMYOPATHY.  
+
+NEURO:  PT SEDATED ON PROPOFOL AT 20MCG/KG/MIN, WHEN TURNED OFF PT WILL RESPIND TO PAINFUL STIMULI BUT DOES NOT FOLLOW COMMANDS.  PERRLA. 3/B.  NO SPONTANEOUS MOVEMENT NOTED.  AFEBRILE.  NO SEIZURE ACTIVITY NOTED.  
+
+RR:  BBS= ESSENTIALLY COARSE THROUGOUT. CURRENT VENT SETTINGS CMV/12/450/60%/10.  BILATERAL CHEST EXPANSION NOTED.  SP02 > OR = TO 95%.  SUCTIONING FOR SMALL, THICK, TAN SECRETIONS.  
+
+CV:  S1 AND S2 AS PER AUSCULTATION.  DIFFICULT TO PALPATE PULSES TO BILATERAL DORSALIS AND RADIALS.  NSR-ST, HR 90-110'S WITH NO SIGNS OF ECTOPY.  SBP > OR = TO 100 WITH NO HYPER OR HYPOTENSIVE CRISIS NOTED.  RIGHT SCL TLC IS SECURE AND PATENT.  RIGHT RADIAL ALINE IS SECURE AND PATENT- REZEROED AND RECALIBRATED DURING THE SHIFT.  
+
+GI:  ABD IS SOFT, NON-DISTENDED.  OGT IS SECURE AND PATENT.  NO RESIDUALS NOTED FROM TUBE FEEDING.  TF CURRENTLY AT 55/HR OF PROMOTE WITH FIBER.  NO BM THIS SHIFT. PASSING FLATUS.
+
+GU:  INDWELLING FOLEY CATHETER IS SECURE AND PATENT.  CLEAR, YELLOW URINE NOTED IN ADEQUATE AMOUNTS.
+
+INTEG:  DUODERM IS SECURE TO COCCXY.  LEFT HEEL REDNESS- HEEL PROTECTOR IS SECURE AND INTACT.
+
+SOCIAL:  NO CONTACT WITH FAMILY THIS PM.  DNR/DNI.
+
+MRSA PRECAUTIONS
+
+PLAN:  WEAN AS TOLERATED.  REPLETE ELECTROLYTES AS NEEDED. MONITOR NEURO STATUS, PT COMFORT.  PLEASE SEE FLOW SHEET AS NEEDED FOR ADDITIONAL INFORMATION. THANK [**Doctor First Name **].
+
+",,
+24591,4788,30539,0,3029-09-08 05:40:00 EST,3029-09-08 05:42:00 EST,2406,"N",69,"Nursing/Other",,"
+
+Pt. trasfered from the ccu on [**3029-9-7**] remains on full suffort no changes no abgs dnr dni no rsbi see carevue continue to tryto ween.
+",,
+24591,4788,30539,0,3029-09-08 16:18:00 EST,3029-09-08 16:45:00 EST,2815,"N",69,"Nursing/Other","Nursing Process Focus Note","
+Nursing Process Focus Note
+Neuro: Propofol held this AM; eyes open within 5 min. to verbal stim.  Resumed Propofol @ 20mcg/kg/min.  Eyes PERLA.  Withdraws to painful stim.
+
+Resp: Remains intubated.  This AM vent settings 60%/450/12/10.  On this setting, breathing 10-15 breaths above vent.  Sats mid 90's.  PO2 76.  PISB done - 85.  Weaned to 60%, 5 of PEEP, 5 pressure support.  ABG's on this: 7.45/42/67/30.  PEEP increased to 10.  On this setting, tidal volume 350 or > and RR mid 20's - 30's.  LS coarse bilat.  Sx. Q 3-4 hrs for small amt of thick, wht sputum.
+
+Cardio:  HR 80's - 90's.  No ectopy.  BP range consistently 90-120's with occasional increases to 170-180's during stimulation.  Lopressor dose decreased to 37.5 mg BID.  T max 100.2 rectal.  
+
+GI: Abd. soft, non distended.  Hypoactive BS though did produce brn, soft OB+ stool after Dulcolax Supp. TF Promote with fiber at 55cc/hr. 
+Residual < 5cc.  Hct stable at 36.7.
+
+GU: Foley patent for CYU.  Ouput [**Doctor Last Name 3430**]. suff. throughout shift.
+
+Skin:  Duoderm at coccyx.  Bilat heels pink, intact.  Slight abrasion noted on upper right torso.  Scrotum edematous.
+
+ID: Continues on triple ABX.  
+
+Social: Family visiting today.  Team to speak with family within couple of days to discuss D/C dispo/tx plan.
+
+Plan: Continue IV ABX
+      Vent. settings per Resp. Therapy
+      Maintain skin integrity
+      Monitor Temp
+      TF at 55cc/hr
+",,
+24591,4788,30539,0,3029-09-08 16:48:00 EST,3029-09-08 16:58:00 EST,1592,"N",69,"Nursing/Other",,"
+
+Patient RSBI on [**5-4**] is less then 100;he is placed on PSV 15/5, peep is
+ increased post ABG. Result indicated  sign of severe hypoxemia. will continue to wean patient as tolerated. Last ABG 7.45-42-67-30,Peep increased to 10cmH20. Patient is DNR/DNI.
+",,
+24591,4788,30539,0,3029-09-09 03:40:00 EST,3029-09-09 03:43:00 EST,2536,"N",69,"Nursing/Other",,"
+
+Resp:  Rec'd pt on [**Last Name (un) **] psv 15/10/60%.  Alarms on and functioning.  Ambu/syringe @ hob.  Bs auscultated reveal bilateral coarse sounds which improve with suctioning.  Suctioned x3 small to moderate amounts of thick yellow secretions, and from oral cavity.  MDI's administered Q4H Alb with no adverse reactions.  Pt ^ rr to 40, place back on AC 12/ 450/ 10+/ 60% where the settings remain. 02 Sats between 92-97% during noc.  No RSBI performed due to ^ peep/^ fio2.  No further changes noted.
+",,
+24591,4788,30539,0,3029-09-09 04:48:00 EST,3029-09-09 05:18:00 EST,2519,"N",69,"Nursing/Other","NURSING PROGRESS NOTE 1900-0700","
+NURSING PROGRESS NOTE 1900-0700
+REPORT RECEIVED FROM AM SHIFT.  ALL ALARMS ON MONITOR AND VENTILATOR ARE FUNCTIONING PROPERLY. PT'S ENVIRONMENT SECURED FOR SAFETY. 
+
+NEURO:  PT LIGHTLY SEDATED ON 20MCG/KG/MIN OF PROPOFOL.  PT IS QUICK TO RECOVER WHEN SEDATION IS TURNED OFF.  GRIMACES TO PAINFUL TO STIMULUS.  DOES NOT FOLLOW COMMANDS.  AFEBRILE.  NO SEIZURE ACTIVITY NOTED.  NOTED TO MOVE BILATERAL UPPER EXTREMETIES.  NO SPONTANEOUS MOVEMENT NOTED TO BILATERAL LOWER EXTREMITIES.  PERRLA.  3/BRISK.
+
+RR:  INTUBATED.  BBS=, ESSENTIALLY COARSE BREATH SOUNDS TO ALL LUNG FIELDS.  BILATERAL CHEST EXPANSION NOTED.  SUCTIONING FOR SMALL, THICK WHITE SECRETIONS Q 2-4 HOURS AS NEEDED.  PT INITIALLY ON CPAP/PS- DURING THE SHIFT BECAME TACHYPNIC AND NOTEABLY DISCOMFORTED.  SWITCHED TO CMV/12/450/60%/10.  AM LABS ON THESE SETTINGS ARE WNL.  SP02 > OR = TO 95%.  NOTED TO HAVE INTERMITTENT BRONCHOSPASMS THAT SELF REMEDY.  COPIOUS AMOUNTS OF THICK, CLEAR ORAL SECRETIONS NOTED. NO INCREASED WOB NOTED SINCE PLACED ON CMV.
+
+CV:  NSR TO ST 90-100'S WITH OCCASSIONAL PVC'S NOTED.  S1 AND S2 AS PER AUSCULTATION.  DOPPLER PULSES TO BILATERAL RADIALS AND DORSALIS PEDIS.  NO SIGNS OF JVD NOTED.  SBP > OR = TO 100.  TRANSIENT EPISODES OF SBP IN THE 80'S WHEN PT. IS SLEEPING- REMEDIED WITH STIMULATON.  NO NEED FOR OTHER INTERVENTIONS.  RIGHT RADIAL ALINE IS SECURE AND PATENT.  RECALIBRATED AND ZEROED DURING THE SHIFT.  CVL TO RT. SCL IS SECURE AND PATENT.  AM K OF 3.7- GIVEN 40MEQ OF K PO.
+
+GI:  ABD IS SOFT, NON-DISTENDED.  OGT IS SECURE AND IN PROPER PLCMT AS VERIFIED WITH AUSCULTATION OF 30CC/AIR.  TF AT 55CC/HR.  NO RESIDUALS NOTED.  MEDIUM, BROWN, GUIAC NEGATIVE, LIQUIDY STOOL THIS SHIFT.  PASSING FLATUS.
+
+GU:  INDWELLING FOLEY CATHETER IS SECURE AND PATENT.  ADEQUATE AMOUNTS OF CLEAR, YELLOW URINE NOTED.
+
+INTEG: DUODERM IS SECURE TO COCCYX.  REDNESS TO RT HEEL.
+
+SOCIAL:  NO CONTACT WITH FAMILY THIS SHIFT.
+
+PLAN:  CONTINUE TO ATTEMPT WEANING.  KEEP COMFORTABLE.  ADDRESS SOCIAL ISSUES WITH FAMILY. ELECTROLYTE REPLETION. PLEASE SEE FLOW SHEET AS NEEDED FOR ADDITIONAL INFORMATION.  
+",,
+24591,4788,30539,0,3029-09-09 15:30:00 EST,3029-09-09 16:17:00 EST,2815,"N",69,"Nursing/Other","Nursing Process Focus Note","
+Nursing Process Focus Note
+NEURO: Sedated.  Reponsive to tactile/painful stim.  Opens eyes at times especially during movement/intervention.  PERLA.  NO sz. activity noted.  
+
+RESP: Continues on vent.  Sats remain mid 90's.  LS coarse bilat.  Sx. for sm/mod amt. of thick, wht sputum. Weaned to ps 15 peep 10. Did 2 trials of this today. Lasted 45min and one hour respectively with resp rate increasing to 35 at end of trial and patient looking fatigued. abg at end of last trial 7.48/33/67/25. ? doing repeat trial later tonight on higher peep and higher ps per Dr [**Last Name (STitle) 1331**]    
+
+
+
+CARDIOVASC: BP labile at times.  SBP consistently 120's-130's with episodes of hypotension decreasing to 70's-80's.  Generally increases without intervention within few min.  Receiving Lopressor 37.5mg BID as sched.  HR 80's-90's.  No ectopy.  Hct. 36.9.  Remains afebrile.
+
+GI: Continues on Promote with Fiber at goal rate of 55cc/hr.  No residual.  Abdomen soft, nondistended; hypoactive BS.  No significant BM today though small smearing of stool.  
+
+GU: Foley patent for CYU.  Voiding QS.
+
+SKIN: Small abrasion at upper right back.  Duoderm remains intact as coccyx.  Heels slightly pink, intact.  Multipodus boot switching feet throughout shift.  Pedal/Post Tib. pulses by doppler.
+
+Social: Family supportive, visited today.  Team to speak with family this week RE: dispo/tx. plan.
+
+PLAN: Vent wean as tolerated. Family meeting in future.
+
+",,
+24591,4788,30539,0,3029-09-09 16:31:00 EST,3029-09-09 16:44:00 EST,2786,"N",69,"Nursing/Other",,"
+
+resp care:pt remains intubated and sedated with no remarkable changes in resp status.present vent settings cmv/450/12 60% peep10 and tol well.b/s diminished bilat with some scat rhonchi after sx for small amounts thick pale/yellow secretions.cpap attempted today x 2 with pt not tol well.will cont with present coarse,re-assess as needed and wean as tolerated.
+",,
+24591,4788,30539,0,3029-09-09 16:40:00 EST,3029-09-09 16:49:00 EST,2815,"N",69,"Nursing/Other","Addendum 1700","
+Addendum 1700
+CARDIOVASC: SBP decreased to 70's without spontaneously resolving. Notified DR. [**Last Name (STitle) 398**]. Gave NS 500cc bolus and decreased Propofol to 10mcg.  BP increased to 100's-120's.  
+
+",,
+24591,4788,30539,0,3029-09-10 04:32:00 EST,3029-09-10 04:47:00 EST,2751,"N",69,"Nursing/Other","MICU-B NPN 0700-1900","
+MICU-B NPN 0700-1900
+NEURO - PT. REMAINS INTUBATED AND LIGHTLY SEDATED ON PROPOFOL @ 20MCG. DOSE INC. FROM START OF SHIFT FOR INC. RESTLESSNESS; PT. ATTEMPTING TO PULL AT TUBE, LEGS OFF THE BED. PT. AROUSING TO VOICE, MAKING PURPOSEFUL MOVEMENTS, NOT FOLLOWING COMMANDS. +MAE. PERRLA 3MM/3MM WITH BRISK REPONSE NOTED. 
+
+C/V - HR 80'S-100'S, NSR TO ST WITH OCCAS. PVCS EARLY AM; AM LYTES PENDING. ABP 80'S-120'S/50'S-60'S, DECREASED WHEN RESTING, WITH X1 EPISODE ABP 200'S/100'S WITH HR TO 120'S (PT. WAS EXTREMELY RESTLESS/TACYPNIC TO 40'S, O2SATS TO 88%) SEDATION INC.; ABG OBTAINED; PT. SX. FOR SM. AMTS. VENT CHANGE MADE WITH IMPROVEMENT. HEMODYNAMICALLY STABLE REMAINDER OF SHIFT. PERIPHERAL PULSES DOPPLERABLE (WEAK PALPABLE). 1+EDEMA NOTED TO LOWER EXTREMITIES. CVP 2-5.
+
+RESP - PT. REMAINS INTUBATED. RECEIVED ON A/C .60/450 X12 WITH SPONT. RR 15-20/PEEP 10. AT START OF SHIFT PT. WITH O2SATS TO 88% AND RR TO 40'S. ABG SENT WITH REFLECTIVE RESULTS 7.37/41/63/-[**1-24**]. SX. FOR SM. AMTS. THICK, YELLOW SECRETIONS. PEEP INC. TO 12 AND FIO2 INC. TO 75%, WITH ABG RESULTS 7.42/36/75/0/24. AM ABG ON SAME AND CURRENT SETTINGS 7.42/38/99/0/25. LS COARSE T/O. SX. T/O SHIFT FOR SM. AMTS. THICK, YELLOW TO WHITE SECRETIONS. O2SATS 96-99%. 
+
+GU/GI - PT. WITH OGT IN PLACE; PATENT; PLACEMENT VERIFIED PER AUSCULTATION. TF (PROMOTE WITH FIBER)@ GOAL RATE 55/HR WITH MINIMAL RESIDUALS NTOED. ABD. SOFT, NTND WITH +BS. X2 SM SMEARS NOTED. INDWELLING FOLEY IN PLACE; PATENT WITH GOOD AMTS CLEAR,YELLOW URINE OUT.
+
+ID - AFEBRILE.
+
+SKIN - DUODERM TO COCCYX. MULTIPODUS BOOT ALTERNATING BETWEEN LOWER EXTREM.
+
+SOCIAL - NO CONTACT FROM FAMILY THIS SHIFT. 
+
+ 
+",,
+24591,4788,30539,0,3029-09-10 13:34:00 EST,3029-09-10 14:01:00 EST,1922,"N",69,"Nursing/Other","7a-3p","
+7a-3p
+cv: hr nsr-st(84-105), occasional pvc's, sbp labile(97-180), po lopressor dc'd today due to hypotension, bedside ekg & cardiac echo done(mod/lg effusion noted) 
+
+resp: continues on cmv mode, 75% fio2/rate 12/12peep, bs+ all lobes & course, sux sm/mod amt loose thick yellow/white sputum, sats 94-100, rr 24-30, inhalers by R.T.
+
+gi: goal TF(promote with fiber @ 55cc/hr), tol well, minimal residuals, incont scant amt brown stool, on iv protonix
+
+gu: foley cath patent, clear yellow urine, good uo, 40 mg iv lasix x 1 with lg diuresis
+
+neuro: sedated on propofol, attempts to open eyes to voice, perl, no response to command, moving all extremities
+
+other: k+ & mg+ replaced this am, family meeting today @ 1600, sister in to see pt this afternoon, continues on iv vanco, zosyn & azithromycin
+
+plan: continue with ventilatory support, plan per family meeting    
+",,
+24591,4788,30539,0,3029-09-10 15:45:00 EST,3029-09-10 15:50:00 EST,2786,"N",69,"Nursing/Other",,"
+
+resp care:pt remains intubated and sedated with no remarkable changes in resp status.b/s diminished bilat with some scat rhonchi,secretions in small amounts and thick pale/yellow.present vent settings as per order cmv/450/12/75% peep12 and tol well.will cont with present coarse,re-assess as needed and wean as tolerated.
+",,
+24591,4788,30539,0,3029-09-11 03:42:00 EST,3029-09-11 03:45:00 EST,2476,"N",69,"Nursing/Other","Respiratory Care:","
+Respiratory Care:
+Based on SPO2 and ABG results, patient was titrated from an FIO2 of 75% to 65%.  Received inline MDI albuterol with each vent check as recorded in CareVue.  Remained unchanged for VT, mode, rate, and PEEP.
+
+No RSBI performed due to the level of PEEP required at this time.
+",,
+24591,4788,30539,1,3029-09-11 03:42:00 EST,3029-09-11 04:26:00 EST,2476,"Y",69,"Nursing/Other","Respiratory Care:","
+Respiratory Care:
+Morning ABG's showed a PO2 of 70 mm.  FIO2 returned to 75%.
+",,
+24591,4788,30539,0,3029-09-11 03:45:00 EST,3029-09-11 04:08:00 EST,2751,"N",69,"Nursing/Other","MICU-B NPN 1900-0700","
+MICU-B NPN 1900-0700
+NO SIGNIFICANT EVENTS OVER/NOC.
+
+NEURO - PT. REMAINS INTUBATED AND LIGHTLY SEDATED ON PROPOFOL @ 20MCG/KG/MIN, TITRATED EARLY IN SHIFT FOR LABILE BP AND OCCAS. INC. RESTLESSNESS. PT. AROUSING TO VOICE, MAKING PURPOSEFUL MOVEMENTS, BUT NOT FOLLOWING COMMANDS. +MAE. PERRLA 3MM/3MM WITH BRISK RESPONSE NOTED.
+
+C/V - ABP LABILE, 80'S-120'S/50'S-60'S. HR 90'S-100'S, NSR>ST WITH OCCAS. TO FREQUENT PVCS NOTED. AM K+ PENDING. DIURESED WITH 40MG LASIX, WITH >1L YIELD. PER TEAM GOAL FLUID BALANCE _500/DAY. ALREADY -1500 24 HOUR NET BALANCE. +5L LOS (NOT ACCOUNTING FOR INSENSIBLE LOSSES). PERIPHERAL PULSES DOPPLERABLE. 1+ EDEMA NOTED TO LOWER EXTREM. NEW MURMUR ON PHYSICAL EXAM YEST. REPEAT ECHO UNCHANGED FROM PREVIOUS. PT. WITH MOD PERICARDIAL EFFUSION AS WITH PRIOR ECHO.
+
+RESP - PT. REMAINS INTUBATED. RECEIVED ON A/C .75/450X12 WITH SPONT. RR 10-15/PEEP12 O2SATS 100%. FIO2 DECREASED TO 65%, WITH REFLECTIVE ABG 7.45/39/99/2/29. LS COARSE T/O WITH DIMIN. BILAT. BASES. SX/ T/O SHIFT FOR SM>MOD. THICK, TAN SECRETIONS. MODERATE AMTS. ORAL SECRETIONS NOTED AS WELL. AS ABOVE DIURESED THIS SHIFT WITH 40 MG LASIX; CONT. ON ABX FOR + MRSA IN SPUTUM; PRESENTLY UNABLE TO TOL. WEAN FROM VENT. MOST LIKELY SECONDARY TO PROGRESSION OF DIFFUSE N/SC LUNG CA.
+
+ID - LOW-GRADE TEMP OVER/NOC. TMAX 99.5. TCURRENT 99.1. CONT. ON ABX. FOR MRSA SPUTUM. 
+
+GI/GU - OGT IN PLACE; PATENT; PLACEMENT VERIFIED PER AUSCULTATION. TF DELIVERING GOAL TF (PROMOTE WITH FIBER) @ 55/HR WITH MINIMAL RESID. EARLY. 50CC RESID. NOTED @ 0400, GIVEN BACK AND CONT. AT SAME RATE. ABD. SOFT, NTND WITH +BS TO ALL 4 QUADS. X3 SM>MOD. SOFT, STOOL OUT, GUIAC +. INDWELLING FOLEY IN PLACE; PATENT WITH CLEAR, YELLOW URINE OUT IN LG. AMTS. S/P DIURESIS.
+
+SKIN - DUODERM TO COCCYX FOR REDDENED AREA. MULTIPODUS BOOT ROTATED FOR REDDENED HEELS. 
+
+ACCESS - RIJ MULTI-LUMEN IN PLACE; ALL PORTS PATENT, SITE WNL. (R)RADIAL ART. LINE IN PLACE; SHARP WAVE FORM, GOOD DRAW/FLUSH, SITE WNL.
+
+SOCIAL - FAMILY MEETING HELD YEST. FAMILY CLEAR THAT PT. WOULD NOT WANT TO REMAIN ON VENT. SUPPORT LONG TERM. INABILITY TO WEAN MOST LIKELY RELATED TO PROGRESSION OF LUNG DX. FAMILY AWARE. WILL REVISIT CONT. PLAN OF CARE ON MONDAY WITH FAMILY. IF PT. STILL UNABLE TO WEAN; FAMILY MAY MOVE TO CMO.
+
+
+",,
+24591,4788,30539,0,3029-09-11 14:20:00 EST,3029-09-11 14:23:00 EST,2381,"N",69,"Nursing/Other","RESP. NOTE","
+RESP. NOTE
+Remains on vent support. ACV. FIO2 weaned-abgs with boarderline oxygenation although sats in high 90s. BBs course diminished at bases. Sx thin pale yelllow. Received albuterol MDIs Q6. 
+Cont support duireses, wean, possibly extubated if able.
+",,
+24591,4788,30539,0,3029-09-11 15:20:00 EST,3029-09-11 15:44:00 EST,2147,"N",69,"Nursing/Other","NPN MICU-B 7AM-7PM","
+NPN MICU-B 7AM-7PM
+S/O: RESPIR: Remains vented on A/C 65%/450/20 peep-12, O2 sats 93-99%, L/S course bilat. Suctioning for mod amts thick yellow secretions q2-3hrs. 
+
+C/V: BP remains labile from 80-120's/60, but no treatment needed, HR 80-106 ST with frequ PVC's. AM K+ 3.5 rec'd 40mEq PO. 
+
+GU: U/O 50-60cchr, attempting to keep 1L neg.,rec'd Lasix 40mg IV @ 1600, assessing response. 
+
+GI: Rec'ing TF's @ goal rate tolerating well. Having mod-lrge amts brown OB + stool. [**Last Name (un) 292**] soft with +BS's. 
+
+ID: Temps 99.3 PO max, remains just on IV Vanco. WBC- WNL. 
+
+Skin: Small red area on coccyx, with duoderm in place. Turning s/s frequ. No other red areas noted. 
+
+Social: Is a DNR, family is waiting through the weekend on will re-assess pt's condition on Monday and may make status Comfort Measures.
+
+A/P: Continue with aggressive Pulmonary toilet, monitor I&O's administer Lasix as needed to keep 1L neg. Support family through the weekend. 
+",,
+24591,4788,30539,,3029-09-12 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3029-9-12**] 1:51 PM
+     CT HEAD W/ & W/O CONTRAST; CT 100CC NON IONIC CONTRAST          Clip # [**Clip Number (Radiology) 3968**]
+     Reason: CHANGE IN MENTAL STATUS, END STAGE NSCLCA
+     Admitting Diagnosis: CHEST PAIN
+      Contrast: OPTIRAY Amt: 100
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      77 year old man with mi, gi bleed, end stage nsclc b/l lung , pna, change in 
+      mental status intubated.
+     REASON FOR THIS EXAMINATION:
+      evaluate for bleed, mets                                                        
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT  (REVISED)
+     HISTORY:  MI with GI bleed and end-stage non-small-cell lung cancer.
+     Pneumonia.  Change in mental status.  Evaluate for bleed and mets.
+     
+     TECHNIQUE:  Pre and post contrast CT of the head.
+     
+     FINDINGS:  There is no parenchyma or extraaxial hemorrhage.  There is no shift
+     of normally midline structures or mass effect.  The [**Doctor Last Name 66**]-white distinction is
+     preserved and the ventricles, cisterns and sulci are within normal limits.
+     There are two very small areas of focal enhancement in the right cerebral
+     hemisphere at the [**Doctor Last Name 66**]-white junction, one in the frontal lobe anteriorly on
+     series 4, image 24, and one in the anteroparietal lobe on series 4, image 23.
+     These are both on the right.  There are no definite additional foci of
+     abnormal enhancement.  There is no abnormal leptomeningeal enhancement
+     appreciated.  The patient is intubated and there are prior secretions in the
+     pharynx.  The bones demonstrate polypoid ossific lesion in the left frontal
+     sinus which probably represents an osteoma.  The mastoid air cells are
+     completely opacified bilaterally.  There is also fluid in the middle ear
+     cavity on the left extending into the eustachian tube.  These findings may
+     relate to intubation.
+     
+     IMPRESSION:  Two very small foci of abnormal enhancement in the right cerebral
+     hemisphere which may represent metastatic deposits.  MRI may be able to better
+     demonstrate these lesions and could perhaps unveil additional lesions not
+     visualized using CT.
+     Probable osteoma in the region of left frontal sinus, please exclude [**Location (un) 3969**]
+     syndrome.
+
+",,
+24591,4788,30539,,3029-09-12 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3029-9-12**] 1:51 PM
+     CT HEAD W/ & W/O CONTRAST; CT 100CC NON IONIC CONTRAST          Clip # [**Clip Number (Radiology) 3968**]
+     Reason: CHANGE IN MENTAL STATUS, END STAGE NSCLCA
+     Admitting Diagnosis: CHEST PAIN
+      Contrast: OPTIRAY Amt: 100
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      77 year old man with mi, gi bleed, end stage nsclc b/l lung , pna, change in 
+      mental status intubated.
+     REASON FOR THIS EXAMINATION:
+      evaluate for bleed, mets                                                        
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT  (REVISED)
+     HISTORY:  MI with GI bleed and end-stage non-small-cell lung cancer.
+     Pneumonia.  Change in mental status.  Evaluate for bleed and mets.
+     
+     TECHNIQUE:  Pre and post contrast CT of the head.
+     
+     FINDINGS:  There is no parenchyma or extraaxial hemorrhage.  There is no shift
+     of normally midline structures or mass effect.  The [**Doctor Last Name 66**]-white distinction is
+     preserved and the ventricles, cisterns and sulci are within normal limits.
+     There are two very small areas of focal enhancement in the right cerebral
+     hemisphere at the [**Doctor Last Name 66**]-white junction, one in the frontal lobe anteriorly on
+     series 4, image 24, and one in the anteroparietal lobe on series 4, image 23.
+     These are both on the right.  There are no definite additional foci of
+     abnormal enhancement.  There is no abnormal leptomeningeal enhancement
+     appreciated.  The patient is intubated and there are prior secretions in the
+     pharynx.  The bones demonstrate polypoid ossific lesion in the left frontal
+     sinus which probably represents an osteoma.  The mastoid air cells are
+     completely opacified bilaterally.  There is also fluid in the middle ear
+     cavity on the left extending into the eustachian tube.  These findings may
+     relate to intubation.
+     
+     IMPRESSION:  Two very small foci of abnormal enhancement in the right cerebral
+     hemisphere which may represent metastatic deposits.  MRI may be able to better
+     demonstrate these lesions and could perhaps unveil additional lesions not
+     visualized using CT.
+     Probable osteoma in the region of left frontal sinus, please exclude [**Location (un) 3969**]
+     syndrome.
+
+",,
+24591,4788,30539,0,3029-09-12 02:56:00 EST,3029-09-12 03:03:00 EST,1999,"N",69,"Nursing/Other",,"
+
+Respiratory Care:
+Pt.'s resp. status unchanged this shift.  Please see flow sheet for information.  Plan is to cont. pulm. toilet, diuresis, then wean Fi02/PEEP as tolerated.
+",,
+24591,4788,30539,0,3029-09-12 05:59:00 EST,3029-09-12 06:05:00 EST,1951,"N",69,"Nursing/Other",,"
+
+NPN 7p-7a:
+     Nuero: pt lightly sedated on propofol. Opens eyes  spontaneously, does not follow commands. moves upper extremities purposefully. 
+    rESP: cont vented A/C 450 x 12, peep 12, .65.. sats 95-100%. abg 7.47/39/103/29.. sx for thick blood tinged secretions in mod amts. LS course.
+     CV: hr 80's-90's nsr, pvc's occasionally. pm K+ 3.8.. repleated with 40 meq iv kcl o/n. bp ranging from 130's down to 80's, occasional dip to 70's, transiently, no intervetion necessary for return systolic to >90.. team aware.. no intervention. 
+     FE: fb 2L neg yesterday s/p lasix. uo adequate.
+    GI: tf's at goal. ab soft, stool x 3, brown ob +, constipated. 
+     ID: tmax 100, on vanco for mrsa pneumonia.
+   A/P: pt essentially unchanged o/n. plan is to readdress plan of care on monday. cont support as doing.
+",,
+24591,4788,30539,0,3029-09-12 15:59:00 EST,3029-09-12 16:28:00 EST,2751,"N",69,"Nursing/Other","MICU-B NPN 0700-1900","
+MICU-B NPN 0700-1900
+NEURO - PT. REMAINS INTUBATED AND SEDATED; SEDATION CHANGED FROM PROPOFOL TO FENT. & VERSED; CURRENTLY FENT. @ 25 MCG/HR & VERSED @ 5MG/HR; TO BE TITRATED FOR SEDATION AND COMFORT LEVEL. PT. AROUSING TO NOXIOUS STIMULI. +MAE. NOT FOLLOWING COMMANDS. CT-HEAD THIS AFTERNOON ?METS/OTHER PROCESS CHANGING NEURO STATUS; PT. NOT FOLLOWING COMMANDS WHEN LIGHTENED ON SEDATION. AWAITING FINAL READ. NO SIEZURE ACTIVITY NOTED.
+
+C/V - HR 80'S-100'S, NSR>ST WITH OCCAS. PVCS NOTED. ABP 80'S-130'S/40'S-80'S. REMAINS LABILE. GIVEN X1 500CC NS FLUID BOLUS FOR DECREASED U/O. ?WHETHER PT. IS DRY FOLLOWING DIURESIS OVER PAST FEW DAYS. PERIPHERAL PULSES DOPPLERABLE. 
+
+HEME - HCT SLOWLY TRENDING DOWN OVER COARSE OF STAY. 1700 HCT PENDING. TYPE AND SCREEN OBTAINED THIS SHIFT.
+
+RESP - REMAINS INTUBATED IN A/C .65/450X12 WITH SPONT.RR TEENS/PEEP 12 O2SATS. 93-98%. NO VENT CHANGES THIS SHIFT. LS COARSE T/O. SX. T/O SHIFT FOR MOD. AMTS. THICK, TAN SECRETIONS. 
+
+GI/GU - OGT IN PLACE; PATENT, PLACEMENT VERIFIED PER AUSCULTATION. DELIVERING TF (PROMOTE WITH FIBER) @ GOAL RATE 55/HR WITH MINIMAL RESIDUALS NOTED. ABD. SOFT, NTND WITH +BS. X3 SM. DARK, BROWN, SOFT STOOL. INDWELLING FOLEY IN PLACE; PATENT WITH DECREASED U/O THIS AM. AS ABOVE, GIVEN X1 500CC NS FLUID BOLUS WITH SOME IMPROVEMENT NOTED.
+
+SKIN - DUODERM TO COCCYX. MULTIPODUS BOOT ALTERNATED BETWEEN FEET FOR REDDENED.
+
+ACCESS - (R)RADIAL ART. LINE; SHARP WAVE FORM, GOOD DRAW, GOOD FLUSH, SITE WNL. RIJ TRIPLE-LUMEN IN PLACE; PATENT, SITE WNL.
+
+SOCIAL - PT. FAMILY IN T/O SHIFT. UPDATED ON PT. STATUS AND CONT. PLAN OF CARE.
+
+
+",,
+24591,4788,30539,0,3029-09-13 05:00:00 EST,3029-09-13 05:24:00 EST,2519,"N",69,"Nursing/Other","NURSING PROGRESS NOTE 1900-0700","
+NURSING PROGRESS NOTE 1900-0700
+REPORT RECEIVED FROM AM SHIFT.  ALL ALARMS ON MONITOR AND VENTILATOR ARE FUNCTIONING PROPERLY.  PT'S ENVIRONMENT SECURED FOR SAFETY.
+
+NEURO:  PT ACCEPTED ON VERSED AND FENTANYL GTTS.  INITIALLY ON 5MG/HR VERSED AND 25MCG/FENTANYL.  PT HAD AN EPISODE OF OBVIOUS DISCOMFORT AS EVIDENCED BY SQUIRMING AND GRIMACING- RESOLVED WHEN SEDATION INCREASED.  CURRENT SETTINGS ARE 8MG/HR OF VERSED AND 50MCG/HR OF FENTANYL.  PT WILL AROUSE TO PAINFUL STIMULUS.  DOES NOT FOLLOW COMMANDS.  ABLE TO MOVE BILATERAL UPPER EXTREMITIES WITHOUT DIFFICULTY.  AFEBRILE.  PERLA 3/B.  NO SEIZURE ACTIVITY NOTED.
+
+CV:  NSR-NST 90-110'S.  NO SIGNS OF ECTOPY NOTED.  SBP > OR = TO 100.  TRANSIENT EPISODES OF SELF RESOLVING SBP IN THE 70'S-80'S.  WOULD REMEDY AFTER A FEW MINUTES. RIJ CVL IS SECURE AND PATENT.  RIGHT RADIAL ALINE IS SECURE AND PATENT.  REZEROED AND RECALIBRATED DURING THE SHIFT.  DOPPLERABLE PULSES TO BILATERAL DORSALIS AND RADIALS.
+
+RR:  BBS= COARSE AND DIMINISHED TO BILATERAL LOWER LOBES.  BILATERAL CHEST EXPANSION NOTED. PT HAD STARTED TO HAVE 02 SATURATION IN THE LOW 90'S, TRANSIENT DIP TO HIGH 80'S.  ABG THIS AM SIGNIFICANT FOR PA02 OF 62- INCREASED PEEP FROM 12 TO 15 WITH SOMEWHAT GOOD RESULTS.  CURRENT VENT SETTINGS ARE CMV/12/450/65%/15, SP02 HAS INCREASED TO > OR = TO 94% SINCE INCREASE IN PEEP.  SBP ARE TOLERATING DESPITE INCREASE IN PEEP AND SEDATION.
+
+GI:  ABD IS SOFT, NON-DISTENDED.  TF AT GOAL OF 55CC/HR.  NG IS SECURE AND IN PROPER PLCMT AS VERIFIED WITH AUSCULTATION OF 30CC/AIR.  NO BM THIS SHIFT.  PASSING FLATUS.
+
+GU:  INDWELLING FOLEY CATHETER IS SECURE AND PATENT.  YELLOW AND CLEAR URINE NOTED.  
+
+SOCIAL:  FAMILY MEETING TO DISCUSS PLAN OF CARE.  PLEASE SEE FLOW SHEET AS NEEDED FOR ADDITIONAL INFORMATION. THANK [**Doctor First Name **].
+",,
+24591,4788,30539,0,3029-09-13 16:06:00 EST,3029-09-13 16:12:00 EST,2786,"N",69,"Nursing/Other",,"
+
+resp care:pt remains intubated and sedated with no remarkable changes in resp status and has been ordered for comfort measures only.present vent settings cmv/12/600/65% peep15 with pt tol well.will cont.with comfort measures as per order
+",,
+24591,4788,30539,0,3029-09-13 16:25:00 EST,3029-09-13 16:39:00 EST,2751,"N",69,"Nursing/Other","MICU-B NPN 0700-1900","
+MICU-B NPN 0700-1900
+NEURO - PT. REMAINS INTUBATED AND WELL SEDATED ON FENT. GTT. @ 50MCG/HR AND VERSED GTT. @ 8MG/HR. -MAE THIS SHIFT. PERRLA 3MM/3MM WITH BRISK RESPONSE. GRIMACING WITH NOXIOUS STIMULI. 
+
+C/V - HR 100'S-ONE-TEENS, ST WITH OCCAS. PVCS NOTED. ABP LABILE 60'S-160'S/40'S-60'S, WITH HYPOTENSIVE EPISODE THIS AFTERNOON REQUIRING X1 500CC NS FLUID BOLUS. PT. PLACED IN T-[**Doctor Last Name **] WITH GRADUAL IMPROVEMENT NOTED. PT. FAMILY CALLED DURING EPISODE TO ? ADDING PRESSORS. PER PT. WIFE NO PRESSORS TO BE ADDED AND PT. MADE CMO;NOT TO REMOVE VENT. SUPPORT; THOUGH THIS EVE. TEAM ? WHETHER TRUE CMO ORDER, TO BE CLARIFIED. PERIPHERAL PULSES DOPPLERABLE.
+
+RESP - PT. REMAINS INTUBATED; PLEASE SEE CAREVUE FOR VENT CHANGES. NUMEROUS MADE THIS AM; RESULTING IN CURRENT SETTING CMV .65/600X12 WITH SPONT. RR 1-15/PEEP 10/O2SATS 90-96%. LS REMAIN COARSE T/O WITH DIMIN. BILAT. BASES. SX. T/O SHIFT FOR THICK, WHITE-YELLOW SECRETIONS.
+
+ID - TMAX 99.8 THIS AM. TCURRENT 98.9. 
+
+GI/GU- OGT IN PLACE; PATENT, PLACEMENT VERIFIED PER AUSCULTATION; DELIVERING TF(PROMOTE WITH FIBER)@ GOAL RATE 55/HR WITH MINIMAL RESID. NOTED. ABD. SOFT, NTND WITH +BS. X1 SMALL. DARK, BROWN, SOFT, STOOL NOTED. INDWELLING FOLEY IN PLACE; PATENT, WITH CLEAR, YELLOW, URINE OUT IN ADEQUATE AMTS.
+
+SKIN - DUODERM TO COCCYX. REDDENED HEELS (MULTI-PODUS BOOTS ALTERNATING BETWEEN BILAT. LE.) REDDENED AREA TO BUTTOCK FOLDS (BARRIER CREAM APPLIED.
+
+ACCESS - TRIPLE-LUMEN RIJ IN PLACE; PATENT, SITE WNL. (R)RADIAL A-LINE IN PLACE; PATENT, SHARP WAVE FORM, GOOD DRAW,GOOD FLUSH, SITE WNL.
+
+SOCIAL - PT. FAMILY IN T/O SHIFT. UPDATED ON PT. STATUS AND CONT. PLAN OF CARE.
+
+DISPO - NEED TO CLARIFY CMO ORDER. PLAN FOR FAMILY MEETING TOMORROW.
+",,
+24591,,30539,0,3029-09-14 04:25:00 EST,3029-09-14 04:35:00 EST,2519,"N",69,"Nursing/Other","NURSING PROGRESS NOTE 1900-0700","
+NURSING PROGRESS NOTE 1900-0700
+REPORT RECEIVED FROM AM SHIFT.  ALL ALARMS ON MONITOR AND VENTILATOR ARE FUNCTIONING PROPERLY.  PT'S ENVIRONMENT SECURED FOR SAFETY.
+
+NEURO:  PT IS WELL SEDATED ON 8MG/HR OF VERSED AND 50MCG/HR OF FENTANYL.  WILL GRIMANCE TO NOXIOUS STIMULI.  PERRLA.  3/B.  NO SPONTANEOUS MOVEMENT NOTED TO EXTREMITIES.  AFEBRILE.  NO SEIZURE ACTIVITY NOTED.  APPEARS TO BE COMFORTABLE.
+
+RR:  BBS=, ESSENTIALLY COARSE THROUGHOUT ALL LUNG FIELDS AND DIMINISHED TO BILATERAL BASES.  SUCTIONING FOR SMALL TO MODERATE AMOUNTS OF WHITE, THICK SPUTUM.  BILATERAL CHEST EXPANSION NOTED.  CURRENT VENT SETTINGS ARE CMV/12/450/65%/15.  NO VENT CHANGES DURING THE NIGHT.  
+
+CV:  NSR-ST WITH OCCASSIONAL PVC'S NOTED.  SBP > OR = TO 90.  NO HYPER OR HYPOTENSIVE CRISIS NOTED.  S1 AND S2 AS PER AUSCULTATION.  DOPPLERABLE PULSES TO BILATERAL DORSALIS PEDIS AND RADIALS.  RT IJ CVL IS SECURE AND PATENT.  RT RADIAL ALINE IS SECURE AND PATENT.  REZEROED AND RECALIBRATED DURING THE SHIFT.  
+
+GI:  OGT IS SECURE AND PATENT.  IN PROPER PLCMT AS VERIFIED WITH AUSCULTATION OF 30CC/AIR.  TF AT GOAL RATE OF 55CC/HR.  ABD IS SOFT, NON-DISTENDED.  BS X 4 QUADRANTS.  NO BM THIS SHIFT.  PASSING FLATUS.  
+
+GU:  INDWELLING FOLEY CATHETER IS SECURE AND PATENT.  CLEAR, YELLOW URINE NOTED IN ADEQUATE AMOUNTS.
+
+INTEG:  DUODERM IS SECURE TO COCCYX.  REDNESS NOTED TO BILATERAL HEELS-  POSITIONED AS TO RELIEVE ANY FURTHER PRESSURE.  
+
+SOCIAL:  NO CONTACT WITH FAMILY.
+
+PLAN:  TO REDISCUSS COMFORT MEASURE STATUS.  FAMILY HAD STATED THAT THEY DID NOT WANT THE VENTILATOR TO BE TAKEN OFF OF PATIENT.  FAMILY MEETING TO DISCUSS AT LENGTH AND CLARIFY CODE STATUS AND FURTHER PLAN OF CARE. PLEASE SEE FLOW SHEET AS NEEDED FOR ADDITIONAL INFORMATION.  THANK [**Doctor First Name **].
+
+",,
+24591,,30539,0,3029-09-14 13:36:00 EST,3029-09-14 13:40:00 EST,2056,"N",69,"Nursing/Other","NPN/D/C note","
+NPN/D/C note
+Pt remained comfort measures and at 11 am, pt had his family at his bedside. There was a family meeting with the house staff and attending MD, DR.[**Last Name (STitle) **] and the decision was made to make him comfortable and 
+extubate him. This was done at 12pm and the pt died at 2:10pm with his family at his bedside.
+",,

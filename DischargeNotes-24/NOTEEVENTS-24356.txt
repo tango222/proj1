@@ -1,0 +1,316 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+24356,,,,2559-05-12 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2559-5-12**] 8:17 PM
+     T-SPINE; L-SPINE (AP & LAT)                                     Clip # [**Clip Number (Radiology) 1816**]
+     Reason: look for fracture                                           
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      [**Age over 90 **] year old man with fall                                                       
+     REASON FOR THIS EXAMINATION:
+      look for fracture                                                               
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: Status post fall.
+     
+     COMPARISON: None.
+     
+     AP VIEW OF THE THORACIC SPINE: No acute fracture is identified. Degenerative
+     changes are noted at all levels with loss of intervertebral disc space and
+     vertebral body height. Osteophyte formation is present. A lateral view was not
+     performed.
+     
+     TWO VIEWS OF THE L-SPINE: No acute fracture or malalignment is identified.
+     Severe degenerative changes are noted at all levels. Narrowing of the
+     intervertebral disc spaces, osteophyte formation, and loss of vertebral
+     height. There is scoliosis of the upper lumbar spine, convex to the right.
+     Calcifications are seen within the aorta and over the left upper quadrant.
+     
+     IMPRESSION:  No acute fracture or listhesis present. Severe degenerative
+     changes within the thoracic and lumbar spine.
+
+",,
+24356,,,,2559-05-12 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2559-5-12**] 8:24 PM
+     CT C-SPINE W/O CONTRAST; CT RECONSTRUCTION                      Clip # [**Clip Number (Radiology) 1818**]
+     Reason: s/p fall and syncope, evaluate for c spine injury (limited e
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      [**Age over 90 **] year old man with                                                            
+     REASON FOR THIS EXAMINATION:
+      s/p fall and syncope, evaluate for c spine injury (limited exam)                
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+     WET READ: AZm SAT [**2559-5-12**] 9:46 PM
+      No fracture
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: Fall and syncope evaluate for C-spine injury.
+     
+     TECHNIQUE: Axial noncontrast helical scanning of the cervical spine was
+     performed without IV contrast. Sagittal and coronal reconstructions were
+     obtained.
+     
+     FINDINGS: There are no fractures. Degenerative changes are seen at multiple
+     levels especially at the C4 to C6 levels. There is almost complete
+     obliteration of the disc space at the C5-6 levels. Facet joint and
+     uncovertebral degeneration is also present at multiple levels. There is no
+     paraspinal abnormality. No sign of abnormal alignment of the
+     vertebrae is present. Bridging osteophytes are present at C4/5 and C5/6 levels
+     both anteriorly and posteriorly. CT is not able to provide any intrathecal
+     detail. The visualized outline of the thecal sac appears unremarkable.
+     
+     IMPRESSION: Severe cervical spondylosis. No fractures.
+
+",,
+24356,,,,2559-05-12 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2559-5-12**] 8:24 PM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 1817**]
+     Reason: s/p syncope head trauma on coumadain evaluate for ICH       
+     ______________________________________________________________________________
+                                     FINAL ADDENDUM
+     The maxillary and ethmoid air cells are partially opacified.
+
+
+     DATE: [**2559-5-12**] 8:24 PM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 1817**]
+     Reason: s/p syncope head trauma on coumadain evaluate for ICH       
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      [**Age over 90 **] year old man with                                                            
+     REASON FOR THIS EXAMINATION:
+      s/p syncope head trauma on coumadain evaluate for ICH                           
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+     WET READ: AZm SAT [**2559-5-12**] 9:36 PM
+       L subdural hemorrhage
+     ______________________________________________________________________________
+                                     FINAL REPORT  (REVISED) *ABNORMAL!
+     INDICATION: Syncope. On Coumadin evaluate for intracerebral hemorrhage.
+     
+     TECHNIQUE: CT head without contrast.
+     
+     FINDINGS: There is a left subdural hematoma measuring about 6 mm in its widest
+     dimension. This is relatively hypodense and may represent either a
+     subacute hematoma, or acute superimposed on chronic bleeding. There is age
+     appropriate widening of sulci cisterns and ventricles. There is no
+     intracranial mass lesion, hydrocephalus, shift of normally midline structures,
+     minor or major vascular territorial infarcts. Surrounding soft tissue and
+     osseous structures appear unremarkable.
+     
+     There is hypodensity of the subinsular white matter bilaterally, likely due to
+     chronic ischemia.
+     
+     IMPRESSION: Left sided subdural hemorrhage of indeterminate age as discussed
+     above.
+     
+
+",,
+24356,,,,2559-05-12 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2559-5-12**] 8:17 PM
+     T-SPINE; L-SPINE (AP & LAT)                                     Clip # [**Clip Number (Radiology) 1816**]
+     Reason: look for fracture                                           
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      [**Age over 90 **] year old man with fall                                                       
+     REASON FOR THIS EXAMINATION:
+      look for fracture                                                               
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: Status post fall.
+     
+     COMPARISON: None.
+     
+     AP VIEW OF THE THORACIC SPINE: No acute fracture is identified. Degenerative
+     changes are noted at all levels with loss of intervertebral disc space and
+     vertebral body height. Osteophyte formation is present. A lateral view was not
+     performed.
+     
+     TWO VIEWS OF THE L-SPINE: No acute fracture or malalignment is identified.
+     Severe degenerative changes are noted at all levels. Narrowing of the
+     intervertebral disc spaces, osteophyte formation, and loss of vertebral
+     height. There is scoliosis of the upper lumbar spine, convex to the right.
+     Calcifications are seen within the aorta and over the left upper quadrant.
+     
+     IMPRESSION:  No acute fracture or listhesis present. Severe degenerative
+     changes within the thoracic and lumbar spine.
+
+",,
+24356,,,,2559-05-12 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2559-5-12**] 8:05 PM
+     CHEST (SINGLE VIEW)                                             Clip # [**Clip Number (Radiology) 1815**]
+     Reason: s/p syncope evaluate for PNA                                
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      [**Age over 90 **] year old man with                                                            
+     REASON FOR THIS EXAMINATION:
+      s/p syncope evaluate for PNA                                                    
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: Syncope.
+     
+     VIEWS: Supine AP view, no prior studies.
+     
+     FINDINGS: The patient is status post mediansternotomy. The heart is upper
+     limits of normal in size with a ventricular configuration. There is
+     calcification of the mitral annulus. There is perihilar haziness and upper
+     zone vascular redistribution, findings consistent with mild pulmonary edema.
+     No pleural effusions or focal consolidations are present. No pneumothorax is
+     identified. Degenerative changes are noted within the lower thoracic and upper
+     lumbar spine.
+     
+     IMPRESSION: Mild congestive heart failure. No focal consolidations.
+     
+
+",,
+24356,,,,2559-05-12 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2559-5-12**] 8:24 PM
+     CT C-SPINE W/O CONTRAST; CT RECONSTRUCTION                      Clip # [**Clip Number (Radiology) 1818**]
+     Reason: s/p fall and syncope, evaluate for c spine injury (limited e
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      [**Age over 90 **] year old man with                                                            
+     REASON FOR THIS EXAMINATION:
+      s/p fall and syncope, evaluate for c spine injury (limited exam)                
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+     WET READ: AZm SAT [**2559-5-12**] 9:46 PM
+      No fracture
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: Fall and syncope evaluate for C-spine injury.
+     
+     TECHNIQUE: Axial noncontrast helical scanning of the cervical spine was
+     performed without IV contrast. Sagittal and coronal reconstructions were
+     obtained.
+     
+     FINDINGS: There are no fractures. Degenerative changes are seen at multiple
+     levels especially at the C4 to C6 levels. There is almost complete
+     obliteration of the disc space at the C5-6 levels. Facet joint and
+     uncovertebral degeneration is also present at multiple levels. There is no
+     paraspinal abnormality. No sign of abnormal alignment of the
+     vertebrae is present. Bridging osteophytes are present at C4/5 and C5/6 levels
+     both anteriorly and posteriorly. CT is not able to provide any intrathecal
+     detail. The visualized outline of the thecal sac appears unremarkable.
+     
+     IMPRESSION: Severe cervical spondylosis. No fractures.
+
+",,
+24356,2047,,,2559-05-13 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+
+",,
+24356,2047,,,2559-05-13 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2559-5-13**] 10:02 AM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 1819**]
+     Reason: interval change in subdural hematoma                        
+     Admitting Diagnosis: SUBDURAL HEMATOMA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      [**Age over 90 **] yo male s/p fall w/ 6mm subdural hematoma w/oo midline shift. On coumadin 
+      for AVR                                                            
+     REASON FOR THIS EXAMINATION:
+      interval change in subdural hematoma                                            
+     CONTRAINDICATIONS for IV CONTRAST:
+      renal function
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Follow-up left subdural hematoma.
+     
+     Comparison is made to the prior CT dated [**2559-3-12**].
+     
+     TECHNIQUE:  Noncontrast head CT.
+     
+     FINDINGS:  There is again demonstrated a subdural hematoma extending along the
+     left convexity measuring approximately 6 mm in its maximal thickness.
+     There is still a very small right isodense subdural, likewise unchanged. There
+     is again no shift of normally midline structures, mass effect or
+     hydrocephalus. There is again demonstrated periventricular white matter
+     hypodensities consistent with chronic microvascular ischemia. There is also
+     evidence of an old lacune in the anterior limb of the left internal capsule.
+     The soft tissue and osseous structures are unchanged.
+     
+     IMPRESSION:
+     1.  Stable bilateral subdural hematomas.
+     2.  Chronic small vessel ischemic changes.
+     
+
+",,
+24356,2047,30243,0,2559-05-13 04:13:00 EST,2559-05-13 05:02:00 EST,1618,"N",69,"Nursing/Other","P-MICU Nursing Admission Note","
+P-MICU Nursing Admission Note
+     Pt is a [**Age over 90 **]yo male, who was found down in NH with question of head impact.  Unresponsive times 30minutes.  Transferred to [**Hospital1 3**].  Evaluated by neuro while in ED, transferred to MICU for frequent neuro checks.  Head CT revealed 5mm Left SDH, frontal/temporal, no shift.
+
+     Arrived to MICU @4am, alert and oriented to self and day, not month or year.  
+
+     PMH:  AVR on coumadin, CHF, Cepression/anxiety, CRI baseline Cr 1.5-1.8, Hyperlipdemia, Hypothyroid, B/L inguinal hernia repair, HTN, OA, DNR/DNI, anemia, h/o  falls, CAD, Chronic pancreatitis
+
+Review:  
+
+Neuro:  Alert and oriented to day, not to month or year.  Able to state name, but unclear as to why he is here.  Adamently denies that he may have fallen.  Unclear why he is in the hospital, pleasantly confused.  Here for neuro checks, repeat CT in am. Goal is to maintain BP <140, holding coumadin for now (receives it due to AVR.)  No plan to receive FFP at this time. Complete neuro data documented in carevue.
+
+CV:  CPK's being cycled, next draw due at 8am.  
+
+Resp:  On RA upon arrival with 02 sats of hi 90's, LS clear but diminished aeration.'
+
+GI:  Currently NPO, +BS, no stool.
+
+GU:  CRI at baseline.
+
+ID:  Afebrile.
+
+Lines:  #20 peripe     
+
+Status:  Pt is a DNR/DNI
+",,
+24356,,30243,0,2559-05-14 04:33:00 EST,2559-05-14 04:57:00 EST,1618,"N",69,"Nursing/Other","P-MICU NPN","
+P-MICU NPN
+     Pt was initially called out.  He was all set and ready to go, however the bed was no longer available. Neuro status unchanged.  
+
+Systems Review:
+
+Neuro:  No seizure activity.  Alert and oriented times [**1-12**].  Unchanged from previous shift.  Cooperates for the most part.  Does have short term memory deficit.  Bed alarm on, 4 SR up, and bed in low locked position.  Multiple attempts to climb OOB.  
+
+CV:  BP maintained less than 140.  HR has been 70's, SR, no ectopy.
+
+Resp:  RA 02sat 96%, RR 20-22, non labored.
+
+GI:  Able to tolerate pills very well. +BS, large BM times one, OB 1.
+
+GU:  Foley cath intact, draining clear yellow urine.  Diaper placed to deter pt not to pull at tubing.
+
+ID:  Afebrile.
+
+Social:  [**Hospital **] Rehab. called for an update.  No family contact this shift.
+
+IV's:  #20 intact right arm.
+
+",,
+24356,,30243,0,2559-05-14 14:36:00 EST,2559-05-14 14:42:00 EST,2776,"N",69,"Nursing/Other","MICU nursing proress note7A-1500","
+MICU nursing proress note7A-1500
+Neuro - Alert, oriented to person, ""hospital"", not to time or events. Pleasantly confused. MAE, normal strenghth, follows commands. PERL, brisk. No Seizure activity. Sitter at bedside until 1500 when none available as pt tries to get OOB periodically looking for his shoes. Easily redirected. Bed alarms on now. Sleeping on/off.
+
+Resp - Lungs clear, diminished at bases. 
+
+CV - SBP 101-140. NSR 80s, occ PAC. Extremities W&D. Cardiac echo done and team will determine anti-coagulation plan from that (? type of AVR is unknown, hopefully echo will determine.)
+
+GI - Abd soft +BS. Ate good breakfast, refused lunch.
+
+
+GU - Adequate UOP. Foley d/c'd priotr to d/c.
+
+Skin - Intact. Social - Son called from [**State 32**] for update.
+
+Plan - Pt to go back to [**Hospital 394**] Rehab where he is a resident. Awaiting ambulance for 1600. Pt aware of plan.
+",,

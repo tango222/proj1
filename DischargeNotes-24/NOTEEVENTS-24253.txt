@@ -1,0 +1,3183 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+24253,8492,,,2898-05-10 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+ 
+ 
+ 
+Admission Date:  [**2898-5-10**]              Discharge Date:   [**2898-5-19**]
+ 
+Date of Birth:  [**2813-7-8**]             Sex:   M
+ 
+Service: SURGERY
+ 
+Allergies: 
+Patient recorded as having No Known Allergies to Drugs
+ 
+Attending:[**First Name3 (LF) 2000**] 
+Chief Complaint:
+Fall 
+ 
+Major Surgical or Invasive Procedure:
+([**5-10**]) Reduction & anterior fusion c5,6 cervical spine
+([**5-13**]) Posterior fusion c5,6 cervical spine and IVC filter 
+placement
+ 
+History of Present Illness:
+84yo male was out with his son when he fell backwards onto a 
+car. His son brought him to the hospital concerned about a 
+stroke and he was then placed in a C collar. By report, he was 
+able to wiggle toes and have some grip in the right hand 
+initially but his strength decreased thereafter. 
+ 
+Past Medical History:
+1.htn 
+2.hypercholesterolemia 
+3.dementia (has been seen by Dr.[**First Name (STitle) 4978**] in BNU, predominantly 
+memory, visualspatial and verbal fluency difficulties. either 
+vascular dementia or mixed alzheimer's/vascular) 
+4.depression 
+5.s/p b/l CEAs (left in [**2891**], right in [**2888**]) 
+6.h/o right corona radiata stroke in 4/04 
+7.h/o prostate ca 
+
+ 
+Social History:
+widowed, lives in [**Location **] in assisted living. family lives 
+nearby and helps him with meds - organizing them in pill boxes 
+for the week. no EtOH, smoking or drug abuse. 
+
+ 
+Family History:
+noncontributory
+ 
+Physical Exam:
+GCS 15 comfortable
+Breath sounds coarse but unlaboured
+RRR
+Abd soft scaphoid nontender
+RUE: able to lift and hold; 
+LUE: Does not move 
+RLE: Moves on bed
+LLE: Moves on bed
+Foley catheter in place
+
+ 
+Brief Hospital Course:
+[**5-10**]: fiberoptically intubated, anterior cervical fusion, 
+admitted to ICU
+[**5-11**]: swann-ganz catheter placed to aid resuscitation as was 
+acidotic. Finished 48 hours of steroids
+[**5-13**]: uneventful return to OR for posterior fusion 
+[**5-14**]: Upper gi bleeding; spontaneously stopped.
+[**5-15**]: extubated 
+[**5-19**]: failed swallow eval due to swelling from cervical 
+operation.  Doing well from respiratory standpoint.  Not much 
+change in his motor/sensation exam
+ 
+Medications on Admission:
+asa 81 qd, aggrenox 1tab bid lisinopril 5 qd, celexa 20 qd, 
+famotidine 20 bid gemfibrozil 600 bid atorvastatin 10qd, 
+metoprolol 50bid docusate 100bid mvi, pyridoxine 50qd, b12 
+100qd, folic acid
+ 
+Discharge Medications:
+1. Citalopram Hydrobromide 20 mg Tablet Sig: One (1) Tablet PO 
+DAILY (Daily).  
+2. Atorvastatin Calcium 10 mg Tablet Sig: One (1) Tablet PO 
+DAILY (Daily).  
+3. Therapeutic Multivitamin     Liquid Sig: One (1) Cap PO DAILY 
+(Daily).  
+4. Aspirin 300 mg Suppository Sig: One (1) Suppository Rectal 
+DAILY (Daily).  
+5. Gemfibrozil 600 mg Tablet Sig: One (1) Tablet PO BID (2 times 
+a day).  
+6. Docusate Sodium 150 mg/15 mL Liquid Sig: One (1)  PO BID (2 
+times a day).  
+7. Lisinopril 5 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).  
+
+8. Lansoprazole 15 mg Capsule, Delayed Release(E.C.) Sig: One 
+(1) Capsule, Delayed Release(E.C.) PO DAILY (Daily).  
+9. Metoprolol Tartrate 50 mg Tablet Sig: One (1) Tablet PO BID 
+(2 times a day).  
+10. Insulin Regular Human 100 unit/mL Cartridge Sig: One (1)  
+Injection every six (6) hours.  
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+[**Hospital3 1848**] & Rehab Center - [**Hospital1 1849**]
+ 
+Discharge Diagnosis:
+1. Stroke x2 in right corona radiata, 2004. Has mild residual  
+left hand weakness per family. Also with multiple other old  
+strokes on imaging.  
+2. HTN  
+3. Hypercholesterolemia  
+4. Dementia, vascular vs mixed vascular/Alzheimer's. Seen by Dr. 
+ 
+[**Location (un) 4978**] in BNU.  
+5. Depression  
+6. s/p bilateral CEA (left in 88, right in 95)  
+7. h/o prostate cancer  
+8. C5-6 fracture and subluxation with cord injury 
+10. Cervical spinal subdural hematoma 
+11. Upper gi bleed 
+12. Hyperglycemia 
+13. 1 cm Pseudoaneurysm of aortic arch 
+14. Thrombus in Right superficial femoral vein 
+15. Mass in hepatic flexure of colon 
+16. Small mediastinal blood collection 
+
+ 
+Discharge Condition:
+Fair
+ 
+Followup Instructions:
+Provider: [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 4979**], MD [**MD Number 52**]: LM [**Hospital Ward Name 353**] BUILDING 
+INTERNAL MEDICINE Phone:[**Telephone/Fax (1) 4980**] Date/Time:[**2898-8-11**] 9:15
+
+Trauma Clinic with Dr. [**Last Name (STitle) **] in 4 weeks: ([**Telephone/Fax (1) 4981**]
+Dr. [**First Name8 (NamePattern2) 2042**] [**Name (STitle) 584**], orthopedics in 4 weeks: ([**Telephone/Fax (1) 4982**]
+
+ 
+                             [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 2007**] MD [**MD Number 1344**]
+ 
+Completed by: [**Name6 (MD) **] [**Name8 (MD) 4983**] MD [**MD Number 4984**] [**2898-5-19**] @ 1635
+Signed electronically by: DR. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **]
+ on: MON [**2898-6-2**] 7:12 PM
+(End of Report)
+
+
+",,
+24253,8492,,,2898-05-10 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2898-5-10**] 8:58 PM
+     C-SPINE NON-TRAUMA W/OBLS, FLEX &EXT 5 VIEWS                    Clip # [**Clip Number (Radiology) 1038**]
+     Reason: CK LEVEL
+     Admitting Diagnosis: C5-6 FRACTURE
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION::  Fusion.  Check level.
+     
+     Five intraoperative portable films taken in lateral projection lacking detail
+     demonstrates the sequence in events related to the anterior fusion with plate
+     and screw placed at C5-6.
+                                                                           
+
+",,
+24253,8492,,,2898-05-10 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2898-5-10**] 2:11 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 1034**]
+     Reason: r/o cardiopulmonary pathologies                             
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      84 year old man with hx of CVA, presents with new left sided deficicts          
+     REASON FOR THIS EXAMINATION:
+      r/o cardiopulmonary pathologies                                                 
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  History of stroke, now with left-sided deficits.  Evaluate for
+     cardiopulmonary pathology.
+     
+     COMPARISON:  [**2897-4-30**].
+     
+     SUPINE AP CHEST:  The heart size is normal.  The mediastinal contour is
+     normal.  There are low lung volumes.  There is focal opacity adjacent to the
+     superior right cardiac border, which likely represents a prominent right
+     hilum. No definite pneumonia.  No pleural effusion.  No pneumothorax is
+     detected on this supine radiograph.  The osseous structures are unremarkable.
+     
+     IMPRESSION: No evidence of acute cardiopulmonary process. Focal opacity
+     adjacent to the right superior cardiac border likely represents a prominent
+     right hilum. 
+
+",,
+24253,8492,,,2898-05-10 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2898-5-10**] 6:18 PM
+     MR CERVICAL SPINE                                               Clip # [**Clip Number (Radiology) 1035**]
+     Reason: eval for cord lesion                                        
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      84 year old man with left sided weakness                                        
+     REASON FOR THIS EXAMINATION:
+      eval for cord lesion                                                            
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CLINICAL INFORMATION:  Patient with trauma and left-sided weakness.
+     
+     TECHNIQUE:  T1, T2 and inversion recovery sagittal, and T2 and gradient echo
+     axial images of the cervical spine were acquired.
+     
+     FINDINGS:  There is evidence of diffuse idiopathic skeletal hyperostosis with
+     large anterior osteophytes.  There is fracture subluxation seen at C5-C6 level
+     with widening of the disc space anteriorly and jumped facet on the left side
+     as seen on the previous CT.  High-grade spinal stenosis is seen at the C5-C6
+     level secondary to buckling of the posterior ligament and increased signal is
+     seen within the spinal cord at this level.  Additionally, there is evidence of
+     subdural hematoma identified posteriorly to the spinal cord with compression
+     of the cord extending from C5-C6 inferiorly.  The inferior extent of the
+     hematoma is not visualized.  Prevertebral soft tissue swelling is visualized
+     on the sagittal images.  Mild multilevel degenerative changes are seen in the
+     cervical and upper thoracic region.
+     
+     IMPRESSION:  Fracture subluxation at C5-C6 level with jumped facet on the left
+     side.  Subdural hematoma posterior to the cord with compression of the cord
+     from C5-6 inferiorly . Increased signal within the spinal cord indicating cord
+     edema at C4 and C5 level. Findings were conveyed to Dr. [**First Name8 (NamePattern2) 1036**] [**Last Name (NamePattern1) 1037**] at
+     the time of interpretation of this study on [**2898-5-10**] at 9:00 p.m.
+     
+
+",,
+24253,8492,,,2898-05-10 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+",,
+24253,8492,,,2898-05-10 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2898-5-10**] 1:02 PM
+     CT C-SPINE W/O CONTRAST; CT RECONSTRUCTION                      Clip # [**Clip Number (Radiology) 1029**]
+     Reason: eval for fx                                                 
+     ______________________________________________________________________________
+                                     FINAL ADDENDUM
+     ADDENDUM:  At the conclusion of this examination, these findings were
+     telephoned to the ordering physician in the [**Name9 (PRE) **], Dr. [**First Name4 (NamePattern1) 1030**] [**Last Name (NamePattern1) 1031**].
+                                                                           
+
+
+     DATE: [**2898-5-10**] 1:02 PM
+     CT C-SPINE W/O CONTRAST; CT RECONSTRUCTION                      Clip # [**Clip Number (Radiology) 1029**]
+     Reason: eval for fx                                                 
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      84 year old man with fall, ?stroke                                              
+     REASON FOR THIS EXAMINATION:
+      eval for fx                                                                     
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+     WET READ: MJGe SAT [**2898-5-10**] 2:04 PM
+      Fracture of amterior bridging osteophyes of C5-C6 with anterior subluxation of
+      C5 on C6.  C5-C6 unilateral locked left facet joint.  Impression: rotary
+      subluxation of C5 on C6 with unilateral locked facet and anterior subluxation.
+      Cord cannot be assessed but if neuro signs and sx, obtain MRI.  Discussed with
+      neuro attending.
+     ______________________________________________________________________________
+                                     FINAL REPORT  (REVISED) *ABNORMAL!
+     INDICATION:  84-year-old man status post fall.  Please evaluate for fracture.
+     
+     TECHNIQUE:  Axial noncontrast helical scanning of the cervical spine was
+     performed without IV contrast.  Sagittal and coronal reconstructions were
+     obtained.
+     
+     FINDINGS:  The patient has diffuse idiopathic skeletal hyperostosis or DISH
+     involving the anterior cervical spine and visualized thoracic spine.
+     
+     At C5- C6, there is a fracture of this anterior anterior longitudinal ligament
+     ossificiation.  Additionally, there is anterior subluxation of C5 on C6 with a
+     locked left facet joint causing a moderate degree of rotary subluxation as
+     well.  There are freactures of the superior and inferior facets at this
+     level on the right. On both the axial and sagittal images, there appears to be
+     a disruption of the spinal canal; however, please note that CT is not able to
+     provide any intrathecal detail. At C5-C6, the intervertebral disc space is
+     widened.  The remaining visualized disc spaces are uniformly narrowed.  No
+     paraspinal abnormalities are identified.  Again noted is diffuse idiopathic
+     skeletal hyperostosis of the visualized thoracic spine.  Scattered arterial
+     calcifications are identified.
+     
+     IMPRESSION:  Fracture subluxation complex at C5-C6 with locked unilateral left
+     facet at this level.  If abnormality or injury to the spinal cord is
+     suspected, an MRI should be considered.  At the conclusion of this
+     examination, these findings were discussed with the neuro attending, Dr.
+     [**First Name (STitle) 1032**] [**Name (STitle) 1033**].
+     
+     NOTE ADDED AT ATTENDING REVIEW: There is right lateral subluxation of the
+     superior cervical spine at the fracture level.
+     
+     There is extensive intraspinal hemorrhage, probably epidural. This is most
+     severe at C5-6, where there is leftward displacement of the cord with cord
+     compression. There is also a fracture of the ossified ALL at C6-7 with
+     widening of the anterior disk space.
+     
+                                                                 (Over)
+
+     DATE: [**2898-5-10**] 1:02 PM
+     CT C-SPINE W/O CONTRAST; CT RECONSTRUCTION                      Clip # [**Clip Number (Radiology) 1029**]
+     Reason: eval for fx                                                 
+     ______________________________________________________________________________
+                                     FINAL REPORT  (REVISED) *ABNORMAL!
+     (Cont)
+     These findings are similar to those on the MR examination of the cervical
+     spine. 
+
+",,
+24253,8492,,,2898-05-10 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2898-5-10**] 1:02 PM
+     CT C-SPINE W/O CONTRAST; CT RECONSTRUCTION                      Clip # [**Clip Number (Radiology) 1029**]
+     Reason: eval for fx                                                 
+     ______________________________________________________________________________
+                                     FINAL ADDENDUM
+     ADDENDUM:  At the conclusion of this examination, these findings were
+     telephoned to the ordering physician in the [**Name9 (PRE) **], Dr. [**First Name4 (NamePattern1) 1030**] [**Last Name (NamePattern1) 1031**].
+                                                                           
+
+
+     DATE: [**2898-5-10**] 1:02 PM
+     CT C-SPINE W/O CONTRAST; CT RECONSTRUCTION                      Clip # [**Clip Number (Radiology) 1029**]
+     Reason: eval for fx                                                 
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      84 year old man with fall, ?stroke                                              
+     REASON FOR THIS EXAMINATION:
+      eval for fx                                                                     
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+     WET READ: MJGe SAT [**2898-5-10**] 2:04 PM
+      Fracture of amterior bridging osteophyes of C5-C6 with anterior subluxation of
+      C5 on C6.  C5-C6 unilateral locked left facet joint.  Impression: rotary
+      subluxation of C5 on C6 with unilateral locked facet and anterior subluxation.
+      Cord cannot be assessed but if neuro signs and sx, obtain MRI.  Discussed with
+      neuro attending.
+     ______________________________________________________________________________
+                                     FINAL REPORT  (REVISED) *ABNORMAL!
+     INDICATION:  84-year-old man status post fall.  Please evaluate for fracture.
+     
+     TECHNIQUE:  Axial noncontrast helical scanning of the cervical spine was
+     performed without IV contrast.  Sagittal and coronal reconstructions were
+     obtained.
+     
+     FINDINGS:  The patient has diffuse idiopathic skeletal hyperostosis or DISH
+     involving the anterior cervical spine and visualized thoracic spine.
+     
+     At C5- C6, there is a fracture of this anterior anterior longitudinal ligament
+     ossificiation.  Additionally, there is anterior subluxation of C5 on C6 with a
+     locked left facet joint causing a moderate degree of rotary subluxation as
+     well.  There are freactures of the superior and inferior facets at this
+     level on the right. On both the axial and sagittal images, there appears to be
+     a disruption of the spinal canal; however, please note that CT is not able to
+     provide any intrathecal detail. At C5-C6, the intervertebral disc space is
+     widened.  The remaining visualized disc spaces are uniformly narrowed.  No
+     paraspinal abnormalities are identified.  Again noted is diffuse idiopathic
+     skeletal hyperostosis of the visualized thoracic spine.  Scattered arterial
+     calcifications are identified.
+     
+     IMPRESSION:  Fracture subluxation complex at C5-C6 with locked unilateral left
+     facet at this level.  If abnormality or injury to the spinal cord is
+     suspected, an MRI should be considered.  At the conclusion of this
+     examination, these findings were discussed with the neuro attending, Dr.
+     [**First Name (STitle) 1032**] [**Name (STitle) 1033**].
+     
+     NOTE ADDED AT ATTENDING REVIEW: There is right lateral subluxation of the
+     superior cervical spine at the fracture level.
+     
+     There is extensive intraspinal hemorrhage, probably epidural. This is most
+     severe at C5-6, where there is leftward displacement of the cord with cord
+     compression. There is also a fracture of the ossified ALL at C6-7 with
+     widening of the anterior disk space.
+     
+                                                                 (Over)
+
+     DATE: [**2898-5-10**] 1:02 PM
+     CT C-SPINE W/O CONTRAST; CT RECONSTRUCTION                      Clip # [**Clip Number (Radiology) 1029**]
+     Reason: eval for fx                                                 
+     ______________________________________________________________________________
+                                     FINAL REPORT  (REVISED) *ABNORMAL!
+     (Cont)
+     These findings are similar to those on the MR examination of the cervical
+     spine. 
+
+",,
+24253,8492,,,2898-05-10 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2898-5-10**] 12:40 PM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 1028**]
+     Reason: eval for bleed                                              
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      84 year old man with ?bleed                                                     
+     REASON FOR THIS EXAMINATION:
+      eval for bleed                                                                  
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+     WET READ: MJGe SAT [**2898-5-10**] 5:18 PM
+      no acute intracranial pathology including hemmorhage.  unchanged old
+      infarction in R frontoparietal region.  chronic small vessel ischemic changes.
+       no significant change since [**2897-7-2**].
+     ______________________________________________________________________________
+                                     FINAL REPORT *ABNORMAL!
+     INDICATION:  84-year-old man with left-sided weakness.
+     
+     TECHNIQUE:  Noncontrast head CT.
+     
+     COMPARISONS:  Noncontrast head CT [**2897-7-2**].
+     
+     FINDINGS:  There is no evidence for intra-axial or extra-axial fluid
+     collections, including hemorrhage.  Again, there is no shift of normally
+     midline structures or mass effect identified.  There is likely age-related
+     brain atrophy and related ventricular enlargement, but no hydrocephalus. There
+     is diffuse periventricular low attenuation suggesting chronic small vessel
+     ischemia.  Additionally, there is an essentially unchanged area of subcortical
+     white matter hypodensity within the right frontoparietal region. Again, noted
+     are small punctate hypodensity suggestive of small lacunar infarctions within
+     the thalami, and a new low density focus within the periventricular white
+     matter adjacent to the right lateral ventricle, seen best on series 2, image
+     15.  The surrounding osseous structures are unremarkable.  The visualized
+     paranasal sinuses are clear. 
+     
+     IMPRESSION:
+     1)  No evidence for bleed.
+     2)  Chronic small vessel ischemic changes within the periventricular white
+     matter.
+     3)  Punctate hypodensities likely representing lacunar infarcts, which do not
+     appear acute in nature.
+     4)  Unchanged hypodensity within the right frontoparietal region, suggestive
+     of old infarction.
+     
+
+",,
+24253,8492,,,2898-05-10 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+",,
+24253,8492,,,2898-05-10 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+",,
+24253,8492,30129,,2898-05-11 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2898-5-11**] 3:04 PM
+     CT CHEST W&W/O C ; CT ABDOMEN W/CONTRAST                        Clip # [**Clip Number (Radiology) 1041**]
+     CT PELVIS W/CONTRAST; CT 150CC NONIONIC CONTRAST
+     Reason: evaluate for contusion/affusion                             
+     Admitting Diagnosis: C5-6 FRACTURE
+      Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      84 year old man sp fall, h/o cva w/ abdominal distention and lactic acidosis    
+     REASON FOR THIS EXAMINATION:
+      evaluate for contusion/affusion                                                 
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATIONS:  Fall.  Abdominal distention and lactic acidosis.
+     
+     TECHNIQUE:  MDCT images of the torso were acquired following administration of
+     oral and 150 cc of Optiray IV contrast.
+     
+     COMPARISON:  Torso CT scan from [**5-7**].
+     
+     CT OF THE CHEST WITH IV CONTRAST:  Extensive aortic calcifications are
+     present.  They are located along the inferior surface of the aortic arch,
+     projecting slightly to the left is a focal 10 x 8 x 6 mm pseudoaneurysm.  The
+     pseudoaneurysm is not surrounded by hematoma, and a fat planes around the
+     aorta from the remaining mediastinal structures.  Located in the posterior
+     mediastinum on the right, just above the azygos arch is an ovoid high
+     attenuation collection, which does not demonstrate significant enhancement,
+     but was not present on the prior study, and likely represents blood products.
+     An NG tube is present.  There is no pneumomediastinum within the thorax.
+     Several bubbles of air are seen along the left side of the neck just above the
+     left clavicular head.  A Swan-Ganz catheter is present with the tip in the
+     intralobar pulmonary artery on the right.  There is mild cardiomegaly.  There
+     is no pericardial effusion.  There are small bilateral pleural effusions,
+     which demonstrate low Hounsfield units consistent with simple fluid.
+     Evaluation of lung windows shows dense areas of consolidation in both lower
+     lobes.  There is no pneumothorax.  A tiny 3 mm nodule is seen within the left
+     upper lobe, and a 5 mm nodule is seen in the right middle lobe.
+     
+     CT OF THE ABDOMEN WITH IV CONTRAST:  The liver and spleen are intact.  The
+     gallbladder, adrenal glands, stomach, and small bowel are unremarkable.  Both
+     kidneys enhance symmetrically and demonstrate multiple bilateral likely renal
+     cysts, many of which are too small to fully characterize.  No pathologically
+     enlarged retroperitoneal lymph nodes are seen.
+     
+     Evaluation of the colon shows opacification of the entire cecum and ascending
+     colon with oral contrast.  The transverse colon and descending colon are
+     relatively collapsed and not filled with contrast.  Located in the hepatic
+     flexure is a suggestion of a soft tissue mass.  The colon is decompressed
+     distal to this soft tissue mass.  There is wall thickening in the ascending
+     colon proximal to the lesion.
+     
+     CT OF THE PELVIS WITH IV CONTRAST:  There is no free fluid in the pelvis.  The
+                                                                 (Over)
+
+     DATE: [**2898-5-11**] 3:04 PM
+     CT CHEST W&W/O C ; CT ABDOMEN W/CONTRAST                        Clip # [**Clip Number (Radiology) 1041**]
+     CT PELVIS W/CONTRAST; CT 150CC NONIONIC CONTRAST
+     Reason: evaluate for contusion/affusion                             
+     Admitting Diagnosis: C5-6 FRACTURE
+      Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     bladder contains a Foley catheter and air.  Air and stool are present within
+     the sigmoid colon and rectum.  No enlarged inguinal or pelvic nodes are seen.
+     There is a fat containing inguinal hernias bilaterally.
+     
+     BONE WINDOWS:  Degenerative changes are seen within the spine.  No acute
+     fractures are visualized.
+     
+     CT RECONSTRUCTIONS:  Coronal and sagittal reconstructions were helpful in
+     assessing the aortic pseudoaneurysm.
+     
+     IMPRESSION:
+     1.  Focal 10 mm aortic pseudoaneurysm along the inferior/left lateral
+     undersurface of the aortic arch. The pseudoaneurysm was likely present on
+     [**2897-4-30**] study, and is not surrounded by hematoma suggesting that this is a
+     chronic finding.
+     2.  Nonenhancing high attenuation material to the right of the esophagus and
+     the posterior mediastinum.  This is new from the prior study, and likely
+     represents a focal area of hemorrhage.  As it is intimately opposed to be
+     esophagus, esophageal injury is also on the differential diagnosis, but there
+     is no evidence of adjacent air. This could be further evaluated with
+     fluoroscopic evaluation of the esophagus. Several air bubbles are seen in the
+     anterior left neck just above the left clavicular head.  This could be due to
+     prior attempted intravenous access.  It would be atypical for the hematoma to
+     be originating from the aortic pseudoaneurysm as a fat plane is seen around
+     the aorta.
+     3.  Findings are worrisome for colonic adenocarcinoma in the hepatic flexure.
+     Further evaluation with colonoscopy or CT colonography is recommended.  No
+     focal liver lesions.
+     4.  No evidence of acute traumatic intra-abdominal injury.
+     5.  Multiple likely bilateral renal cysts.
+     
+     Results were discussed with Dr. [**First Name8 (NamePattern2) 1042**] [**Last Name (NamePattern1) 1043**], the surgical resident caring
+     for the patient, at 7:10 p.m. on [**2898-5-11**].
+     
+
+",,
+24253,8492,30129,,2898-05-11 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2898-5-11**] 3:07 PM
+     CT L-SPINE W/ CONTRAST; CT RECONSTRUCTION                       Clip # [**Clip Number (Radiology) 1045**]
+     -59 DISTINCT PROCEDURAL SERVICE
+     Reason: eval fxPLEASE INCLUDE S spine                               
+     Admitting Diagnosis: C5-6 FRACTURE
+      Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      84 year old man sp trauma                                                       
+     REASON FOR THIS EXAMINATION:
+      eval fxPLEASE INCLUDE S spine                                                   
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  84-year-old status post trauma, question fracture.
+     
+     TECHNIQUE:  Contiguous axial images through the lumbar spine were obtained
+     with coronal and sagittal reconstructions.  There are no prior studies for
+     comparison.
+     
+     FINDINGS:  There are mild disc degenerative disease throughout the lower
+     portion of the thoracic spine and lumbar spine with moderate to severe disc
+     degenerative disease at L5-S1 level with narrowing of the joint space and
+     subchondral sclerosis and anterior osteophyte formation.  There is, however,
+     no evidence of spinal stenosis or acute fracture.  Incidental note is made of
+     right upper pole renal cyst.
+     
+     IMPRESSION:  Multilevel disc degenerative disease throughout the lumbar spine
+     was prominently involving L5-S1.  No acute fracture.  No spinal stenosis.  No
+     cord compression.
+                                                                           
+
+",,
+24253,8492,30129,,2898-05-11 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2898-5-11**] 9:04 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 1039**]
+     Reason: evaluate swan/ptx                                           
+     Admitting Diagnosis: C5-6 FRACTURE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       84 year old man with hx of CVA, presents with new left sided deficicts         
+       
+     REASON FOR THIS EXAMINATION:
+      evaluate swan/ptx                                                               
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Swan-Ganz catheter insertion.
+     
+     Swan-Ganz catheter has been inserted via the left subclavian vein and there is
+     no pneumothorax.  The catheter extends to the right lower interlobar vessels. 
+     There are bilateral opacities likely due to bilateral effusions since
+     [**2898-5-10**].  An NGT is present terminating in the distal stomach, and an ETT
+     extends to approximately 6 cm above the carina.  A cervical fusion plate is
+     present in the lower levels of the cervical spine since the prior chest x-ray.
+     
+     IMPRESSION:  Swan-Ganz catheter insertion as described.  Bilateral lower lobe
+     opacities.
+                                                                           
+
+",,
+24253,8492,30129,,2898-05-11 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2898-5-11**] 3:07 PM
+     CT T-SPINE W/ CONTRAST; CT RECONSTRUCTION                       Clip # [**Clip Number (Radiology) 1044**]
+     -59 DISTINCT PROCEDURAL SERVICE
+     Reason: eval fx                                                     
+     Admitting Diagnosis: C5-6 FRACTURE
+      Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      84 year old man sp trauma                                                       
+     REASON FOR THIS EXAMINATION:
+      eval fx                                                                         
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  84-year-old male status post trauma.  Evaluate for fracture.
+     
+     TECHNIQUE:  Contiguous axial images of the thoracic spine were obtained with
+     coronal and sagittal reconstruction.  There are no prior studies for
+     comparison.
+     
+     FINDINGS:  There is multilevel disc degenerative disease throughout the
+     thoracic spine with an anterior bridging osteophyte, but no evidence of
+     fracture or cord compression at any level is seen.  The patient appears to be
+     intubated.  An NG tube also appears to be in place.  There is dense
+     opacification of the right lower lobe and to a lesser degree of the left lower
+     lobe, which could represent area of atelectasis versus pneumonia.  Clinical
+     correlation recommended.  Small bilateral pleural effusions are present.
+     
+     IMPRESSION:  Multilevel disc degenerative disease and a bridging osteophyte
+     anteriorly but no evidence of spinal fracture.
+                                                                           
+
+",,
+24253,8492,30129,,2898-05-11 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2898-5-11**] 3:07 PM
+     CT L-SPINE W/ CONTRAST; CT RECONSTRUCTION                       Clip # [**Clip Number (Radiology) 1045**]
+     -59 DISTINCT PROCEDURAL SERVICE
+     Reason: eval fxPLEASE INCLUDE S spine                               
+     Admitting Diagnosis: C5-6 FRACTURE
+      Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      84 year old man sp trauma                                                       
+     REASON FOR THIS EXAMINATION:
+      eval fxPLEASE INCLUDE S spine                                                   
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  84-year-old status post trauma, question fracture.
+     
+     TECHNIQUE:  Contiguous axial images through the lumbar spine were obtained
+     with coronal and sagittal reconstructions.  There are no prior studies for
+     comparison.
+     
+     FINDINGS:  There are mild disc degenerative disease throughout the lower
+     portion of the thoracic spine and lumbar spine with moderate to severe disc
+     degenerative disease at L5-S1 level with narrowing of the joint space and
+     subchondral sclerosis and anterior osteophyte formation.  There is, however,
+     no evidence of spinal stenosis or acute fracture.  Incidental note is made of
+     right upper pole renal cyst.
+     
+     IMPRESSION:  Multilevel disc degenerative disease throughout the lumbar spine
+     was prominently involving L5-S1.  No acute fracture.  No spinal stenosis.  No
+     cord compression.
+                                                                           
+
+",,
+24253,8492,30129,,2898-05-11 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2898-5-11**] 3:07 PM
+     CT T-SPINE W/ CONTRAST; CT RECONSTRUCTION                       Clip # [**Clip Number (Radiology) 1044**]
+     -59 DISTINCT PROCEDURAL SERVICE
+     Reason: eval fx                                                     
+     Admitting Diagnosis: C5-6 FRACTURE
+      Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      84 year old man sp trauma                                                       
+     REASON FOR THIS EXAMINATION:
+      eval fx                                                                         
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  84-year-old male status post trauma.  Evaluate for fracture.
+     
+     TECHNIQUE:  Contiguous axial images of the thoracic spine were obtained with
+     coronal and sagittal reconstruction.  There are no prior studies for
+     comparison.
+     
+     FINDINGS:  There is multilevel disc degenerative disease throughout the
+     thoracic spine with an anterior bridging osteophyte, but no evidence of
+     fracture or cord compression at any level is seen.  The patient appears to be
+     intubated.  An NG tube also appears to be in place.  There is dense
+     opacification of the right lower lobe and to a lesser degree of the left lower
+     lobe, which could represent area of atelectasis versus pneumonia.  Clinical
+     correlation recommended.  Small bilateral pleural effusions are present.
+     
+     IMPRESSION:  Multilevel disc degenerative disease and a bridging osteophyte
+     anteriorly but no evidence of spinal fracture.
+                                                                           
+
+",,
+24253,8492,30129,,2898-05-11 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2898-5-11**] 3:07 PM
+     CT L-SPINE W/ CONTRAST; CT RECONSTRUCTION                       Clip # [**Clip Number (Radiology) 1045**]
+     -59 DISTINCT PROCEDURAL SERVICE
+     Reason: eval fxPLEASE INCLUDE S spine                               
+     Admitting Diagnosis: C5-6 FRACTURE
+      Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      84 year old man sp trauma                                                       
+     REASON FOR THIS EXAMINATION:
+      eval fxPLEASE INCLUDE S spine                                                   
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  84-year-old status post trauma, question fracture.
+     
+     TECHNIQUE:  Contiguous axial images through the lumbar spine were obtained
+     with coronal and sagittal reconstructions.  There are no prior studies for
+     comparison.
+     
+     FINDINGS:  There are mild disc degenerative disease throughout the lower
+     portion of the thoracic spine and lumbar spine with moderate to severe disc
+     degenerative disease at L5-S1 level with narrowing of the joint space and
+     subchondral sclerosis and anterior osteophyte formation.  There is, however,
+     no evidence of spinal stenosis or acute fracture.  Incidental note is made of
+     right upper pole renal cyst.
+     
+     IMPRESSION:  Multilevel disc degenerative disease throughout the lumbar spine
+     was prominently involving L5-S1.  No acute fracture.  No spinal stenosis.  No
+     cord compression.
+                                                                           
+
+",,
+24253,8492,30129,,2898-05-11 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2898-5-11**] 3:04 PM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 1040**]
+     Reason: evaluate interval change                                    
+     Admitting Diagnosis: C5-6 FRACTURE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      84 year old man sp fall, h/o cva                                                
+     REASON FOR THIS EXAMINATION:
+      evaluate interval change                                                        
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  84-year-old male status post fall and history of strokes.  Please
+     evaluate for interval change.
+     
+     Essentially, since the previous exam, there has been no significant change. 
+     Again, noted are extensive chronic small vessel infarcts with subcortical
+     frontoparietal hypodensity, which are consistent with old infarcts. 
+     Additionally, there is area of hypodensity within the right cerebellar
+     hemisphere, which is consistent with old infarcts.  There are multiple lacunes
+     within bilateral basal ganglia, unchanged.  No intracranial hemorrhage is
+     visualized.  There are small areas of soft tissue changes within the left
+     parietal scalp, which is likely secondary to patient's recent trauma.  This
+     area also appears unchanged.
+     
+     IMPRESSION:  No intracranial hemorrhage.  No significant change as compared to
+     the previous exam.
+                                                                           
+
+",,
+24253,8492,30129,,2898-05-11 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2898-5-11**] 3:07 PM
+     CT T-SPINE W/ CONTRAST; CT RECONSTRUCTION                       Clip # [**Clip Number (Radiology) 1044**]
+     -59 DISTINCT PROCEDURAL SERVICE
+     Reason: eval fx                                                     
+     Admitting Diagnosis: C5-6 FRACTURE
+      Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      84 year old man sp trauma                                                       
+     REASON FOR THIS EXAMINATION:
+      eval fx                                                                         
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  84-year-old male status post trauma.  Evaluate for fracture.
+     
+     TECHNIQUE:  Contiguous axial images of the thoracic spine were obtained with
+     coronal and sagittal reconstruction.  There are no prior studies for
+     comparison.
+     
+     FINDINGS:  There is multilevel disc degenerative disease throughout the
+     thoracic spine with an anterior bridging osteophyte, but no evidence of
+     fracture or cord compression at any level is seen.  The patient appears to be
+     intubated.  An NG tube also appears to be in place.  There is dense
+     opacification of the right lower lobe and to a lesser degree of the left lower
+     lobe, which could represent area of atelectasis versus pneumonia.  Clinical
+     correlation recommended.  Small bilateral pleural effusions are present.
+     
+     IMPRESSION:  Multilevel disc degenerative disease and a bridging osteophyte
+     anteriorly but no evidence of spinal fracture.
+                                                                           
+
+",,
+24253,8492,30129,,2898-05-11 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2898-5-11**] 3:04 PM
+     CT CHEST W&W/O C ; CT ABDOMEN W/CONTRAST                        Clip # [**Clip Number (Radiology) 1041**]
+     CT PELVIS W/CONTRAST; CT 150CC NONIONIC CONTRAST
+     Reason: evaluate for contusion/affusion                             
+     Admitting Diagnosis: C5-6 FRACTURE
+      Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      84 year old man sp fall, h/o cva w/ abdominal distention and lactic acidosis    
+     REASON FOR THIS EXAMINATION:
+      evaluate for contusion/affusion                                                 
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATIONS:  Fall.  Abdominal distention and lactic acidosis.
+     
+     TECHNIQUE:  MDCT images of the torso were acquired following administration of
+     oral and 150 cc of Optiray IV contrast.
+     
+     COMPARISON:  Torso CT scan from [**5-7**].
+     
+     CT OF THE CHEST WITH IV CONTRAST:  Extensive aortic calcifications are
+     present.  They are located along the inferior surface of the aortic arch,
+     projecting slightly to the left is a focal 10 x 8 x 6 mm pseudoaneurysm.  The
+     pseudoaneurysm is not surrounded by hematoma, and a fat planes around the
+     aorta from the remaining mediastinal structures.  Located in the posterior
+     mediastinum on the right, just above the azygos arch is an ovoid high
+     attenuation collection, which does not demonstrate significant enhancement,
+     but was not present on the prior study, and likely represents blood products.
+     An NG tube is present.  There is no pneumomediastinum within the thorax.
+     Several bubbles of air are seen along the left side of the neck just above the
+     left clavicular head.  A Swan-Ganz catheter is present with the tip in the
+     intralobar pulmonary artery on the right.  There is mild cardiomegaly.  There
+     is no pericardial effusion.  There are small bilateral pleural effusions,
+     which demonstrate low Hounsfield units consistent with simple fluid.
+     Evaluation of lung windows shows dense areas of consolidation in both lower
+     lobes.  There is no pneumothorax.  A tiny 3 mm nodule is seen within the left
+     upper lobe, and a 5 mm nodule is seen in the right middle lobe.
+     
+     CT OF THE ABDOMEN WITH IV CONTRAST:  The liver and spleen are intact.  The
+     gallbladder, adrenal glands, stomach, and small bowel are unremarkable.  Both
+     kidneys enhance symmetrically and demonstrate multiple bilateral likely renal
+     cysts, many of which are too small to fully characterize.  No pathologically
+     enlarged retroperitoneal lymph nodes are seen.
+     
+     Evaluation of the colon shows opacification of the entire cecum and ascending
+     colon with oral contrast.  The transverse colon and descending colon are
+     relatively collapsed and not filled with contrast.  Located in the hepatic
+     flexure is a suggestion of a soft tissue mass.  The colon is decompressed
+     distal to this soft tissue mass.  There is wall thickening in the ascending
+     colon proximal to the lesion.
+     
+     CT OF THE PELVIS WITH IV CONTRAST:  There is no free fluid in the pelvis.  The
+                                                                 (Over)
+
+     DATE: [**2898-5-11**] 3:04 PM
+     CT CHEST W&W/O C ; CT ABDOMEN W/CONTRAST                        Clip # [**Clip Number (Radiology) 1041**]
+     CT PELVIS W/CONTRAST; CT 150CC NONIONIC CONTRAST
+     Reason: evaluate for contusion/affusion                             
+     Admitting Diagnosis: C5-6 FRACTURE
+      Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     bladder contains a Foley catheter and air.  Air and stool are present within
+     the sigmoid colon and rectum.  No enlarged inguinal or pelvic nodes are seen.
+     There is a fat containing inguinal hernias bilaterally.
+     
+     BONE WINDOWS:  Degenerative changes are seen within the spine.  No acute
+     fractures are visualized.
+     
+     CT RECONSTRUCTIONS:  Coronal and sagittal reconstructions were helpful in
+     assessing the aortic pseudoaneurysm.
+     
+     IMPRESSION:
+     1.  Focal 10 mm aortic pseudoaneurysm along the inferior/left lateral
+     undersurface of the aortic arch. The pseudoaneurysm was likely present on
+     [**2897-4-30**] study, and is not surrounded by hematoma suggesting that this is a
+     chronic finding.
+     2.  Nonenhancing high attenuation material to the right of the esophagus and
+     the posterior mediastinum.  This is new from the prior study, and likely
+     represents a focal area of hemorrhage.  As it is intimately opposed to be
+     esophagus, esophageal injury is also on the differential diagnosis, but there
+     is no evidence of adjacent air. This could be further evaluated with
+     fluoroscopic evaluation of the esophagus. Several air bubbles are seen in the
+     anterior left neck just above the left clavicular head.  This could be due to
+     prior attempted intravenous access.  It would be atypical for the hematoma to
+     be originating from the aortic pseudoaneurysm as a fat plane is seen around
+     the aorta.
+     3.  Findings are worrisome for colonic adenocarcinoma in the hepatic flexure.
+     Further evaluation with colonoscopy or CT colonography is recommended.  No
+     focal liver lesions.
+     4.  No evidence of acute traumatic intra-abdominal injury.
+     5.  Multiple likely bilateral renal cysts.
+     
+     Results were discussed with Dr. [**First Name8 (NamePattern2) 1042**] [**Last Name (NamePattern1) 1043**], the surgical resident caring
+     for the patient, at 7:10 p.m. on [**2898-5-11**].
+     
+
+",,
+24253,8492,30129,,2898-05-11 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2898-5-11**] 3:04 PM
+     CT CHEST W&W/O C ; CT ABDOMEN W/CONTRAST                        Clip # [**Clip Number (Radiology) 1041**]
+     CT PELVIS W/CONTRAST; CT 150CC NONIONIC CONTRAST
+     Reason: evaluate for contusion/affusion                             
+     Admitting Diagnosis: C5-6 FRACTURE
+      Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      84 year old man sp fall, h/o cva w/ abdominal distention and lactic acidosis    
+     REASON FOR THIS EXAMINATION:
+      evaluate for contusion/affusion                                                 
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATIONS:  Fall.  Abdominal distention and lactic acidosis.
+     
+     TECHNIQUE:  MDCT images of the torso were acquired following administration of
+     oral and 150 cc of Optiray IV contrast.
+     
+     COMPARISON:  Torso CT scan from [**5-7**].
+     
+     CT OF THE CHEST WITH IV CONTRAST:  Extensive aortic calcifications are
+     present.  They are located along the inferior surface of the aortic arch,
+     projecting slightly to the left is a focal 10 x 8 x 6 mm pseudoaneurysm.  The
+     pseudoaneurysm is not surrounded by hematoma, and a fat planes around the
+     aorta from the remaining mediastinal structures.  Located in the posterior
+     mediastinum on the right, just above the azygos arch is an ovoid high
+     attenuation collection, which does not demonstrate significant enhancement,
+     but was not present on the prior study, and likely represents blood products.
+     An NG tube is present.  There is no pneumomediastinum within the thorax.
+     Several bubbles of air are seen along the left side of the neck just above the
+     left clavicular head.  A Swan-Ganz catheter is present with the tip in the
+     intralobar pulmonary artery on the right.  There is mild cardiomegaly.  There
+     is no pericardial effusion.  There are small bilateral pleural effusions,
+     which demonstrate low Hounsfield units consistent with simple fluid.
+     Evaluation of lung windows shows dense areas of consolidation in both lower
+     lobes.  There is no pneumothorax.  A tiny 3 mm nodule is seen within the left
+     upper lobe, and a 5 mm nodule is seen in the right middle lobe.
+     
+     CT OF THE ABDOMEN WITH IV CONTRAST:  The liver and spleen are intact.  The
+     gallbladder, adrenal glands, stomach, and small bowel are unremarkable.  Both
+     kidneys enhance symmetrically and demonstrate multiple bilateral likely renal
+     cysts, many of which are too small to fully characterize.  No pathologically
+     enlarged retroperitoneal lymph nodes are seen.
+     
+     Evaluation of the colon shows opacification of the entire cecum and ascending
+     colon with oral contrast.  The transverse colon and descending colon are
+     relatively collapsed and not filled with contrast.  Located in the hepatic
+     flexure is a suggestion of a soft tissue mass.  The colon is decompressed
+     distal to this soft tissue mass.  There is wall thickening in the ascending
+     colon proximal to the lesion.
+     
+     CT OF THE PELVIS WITH IV CONTRAST:  There is no free fluid in the pelvis.  The
+                                                                 (Over)
+
+     DATE: [**2898-5-11**] 3:04 PM
+     CT CHEST W&W/O C ; CT ABDOMEN W/CONTRAST                        Clip # [**Clip Number (Radiology) 1041**]
+     CT PELVIS W/CONTRAST; CT 150CC NONIONIC CONTRAST
+     Reason: evaluate for contusion/affusion                             
+     Admitting Diagnosis: C5-6 FRACTURE
+      Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     bladder contains a Foley catheter and air.  Air and stool are present within
+     the sigmoid colon and rectum.  No enlarged inguinal or pelvic nodes are seen.
+     There is a fat containing inguinal hernias bilaterally.
+     
+     BONE WINDOWS:  Degenerative changes are seen within the spine.  No acute
+     fractures are visualized.
+     
+     CT RECONSTRUCTIONS:  Coronal and sagittal reconstructions were helpful in
+     assessing the aortic pseudoaneurysm.
+     
+     IMPRESSION:
+     1.  Focal 10 mm aortic pseudoaneurysm along the inferior/left lateral
+     undersurface of the aortic arch. The pseudoaneurysm was likely present on
+     [**2897-4-30**] study, and is not surrounded by hematoma suggesting that this is a
+     chronic finding.
+     2.  Nonenhancing high attenuation material to the right of the esophagus and
+     the posterior mediastinum.  This is new from the prior study, and likely
+     represents a focal area of hemorrhage.  As it is intimately opposed to be
+     esophagus, esophageal injury is also on the differential diagnosis, but there
+     is no evidence of adjacent air. This could be further evaluated with
+     fluoroscopic evaluation of the esophagus. Several air bubbles are seen in the
+     anterior left neck just above the left clavicular head.  This could be due to
+     prior attempted intravenous access.  It would be atypical for the hematoma to
+     be originating from the aortic pseudoaneurysm as a fat plane is seen around
+     the aorta.
+     3.  Findings are worrisome for colonic adenocarcinoma in the hepatic flexure.
+     Further evaluation with colonoscopy or CT colonography is recommended.  No
+     focal liver lesions.
+     4.  No evidence of acute traumatic intra-abdominal injury.
+     5.  Multiple likely bilateral renal cysts.
+     
+     Results were discussed with Dr. [**First Name8 (NamePattern2) 1042**] [**Last Name (NamePattern1) 1043**], the surgical resident caring
+     for the patient, at 7:10 p.m. on [**2898-5-11**].
+     
+
+",,
+24253,8492,30129,,2898-05-11 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2898-5-11**] 3:04 PM
+     CT CHEST W&W/O C ; CT ABDOMEN W/CONTRAST                        Clip # [**Clip Number (Radiology) 1041**]
+     CT PELVIS W/CONTRAST; CT 150CC NONIONIC CONTRAST
+     Reason: evaluate for contusion/affusion                             
+     Admitting Diagnosis: C5-6 FRACTURE
+      Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      84 year old man sp fall, h/o cva w/ abdominal distention and lactic acidosis    
+     REASON FOR THIS EXAMINATION:
+      evaluate for contusion/affusion                                                 
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATIONS:  Fall.  Abdominal distention and lactic acidosis.
+     
+     TECHNIQUE:  MDCT images of the torso were acquired following administration of
+     oral and 150 cc of Optiray IV contrast.
+     
+     COMPARISON:  Torso CT scan from [**5-7**].
+     
+     CT OF THE CHEST WITH IV CONTRAST:  Extensive aortic calcifications are
+     present.  They are located along the inferior surface of the aortic arch,
+     projecting slightly to the left is a focal 10 x 8 x 6 mm pseudoaneurysm.  The
+     pseudoaneurysm is not surrounded by hematoma, and a fat planes around the
+     aorta from the remaining mediastinal structures.  Located in the posterior
+     mediastinum on the right, just above the azygos arch is an ovoid high
+     attenuation collection, which does not demonstrate significant enhancement,
+     but was not present on the prior study, and likely represents blood products.
+     An NG tube is present.  There is no pneumomediastinum within the thorax.
+     Several bubbles of air are seen along the left side of the neck just above the
+     left clavicular head.  A Swan-Ganz catheter is present with the tip in the
+     intralobar pulmonary artery on the right.  There is mild cardiomegaly.  There
+     is no pericardial effusion.  There are small bilateral pleural effusions,
+     which demonstrate low Hounsfield units consistent with simple fluid.
+     Evaluation of lung windows shows dense areas of consolidation in both lower
+     lobes.  There is no pneumothorax.  A tiny 3 mm nodule is seen within the left
+     upper lobe, and a 5 mm nodule is seen in the right middle lobe.
+     
+     CT OF THE ABDOMEN WITH IV CONTRAST:  The liver and spleen are intact.  The
+     gallbladder, adrenal glands, stomach, and small bowel are unremarkable.  Both
+     kidneys enhance symmetrically and demonstrate multiple bilateral likely renal
+     cysts, many of which are too small to fully characterize.  No pathologically
+     enlarged retroperitoneal lymph nodes are seen.
+     
+     Evaluation of the colon shows opacification of the entire cecum and ascending
+     colon with oral contrast.  The transverse colon and descending colon are
+     relatively collapsed and not filled with contrast.  Located in the hepatic
+     flexure is a suggestion of a soft tissue mass.  The colon is decompressed
+     distal to this soft tissue mass.  There is wall thickening in the ascending
+     colon proximal to the lesion.
+     
+     CT OF THE PELVIS WITH IV CONTRAST:  There is no free fluid in the pelvis.  The
+                                                                 (Over)
+
+     DATE: [**2898-5-11**] 3:04 PM
+     CT CHEST W&W/O C ; CT ABDOMEN W/CONTRAST                        Clip # [**Clip Number (Radiology) 1041**]
+     CT PELVIS W/CONTRAST; CT 150CC NONIONIC CONTRAST
+     Reason: evaluate for contusion/affusion                             
+     Admitting Diagnosis: C5-6 FRACTURE
+      Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     bladder contains a Foley catheter and air.  Air and stool are present within
+     the sigmoid colon and rectum.  No enlarged inguinal or pelvic nodes are seen.
+     There is a fat containing inguinal hernias bilaterally.
+     
+     BONE WINDOWS:  Degenerative changes are seen within the spine.  No acute
+     fractures are visualized.
+     
+     CT RECONSTRUCTIONS:  Coronal and sagittal reconstructions were helpful in
+     assessing the aortic pseudoaneurysm.
+     
+     IMPRESSION:
+     1.  Focal 10 mm aortic pseudoaneurysm along the inferior/left lateral
+     undersurface of the aortic arch. The pseudoaneurysm was likely present on
+     [**2897-4-30**] study, and is not surrounded by hematoma suggesting that this is a
+     chronic finding.
+     2.  Nonenhancing high attenuation material to the right of the esophagus and
+     the posterior mediastinum.  This is new from the prior study, and likely
+     represents a focal area of hemorrhage.  As it is intimately opposed to be
+     esophagus, esophageal injury is also on the differential diagnosis, but there
+     is no evidence of adjacent air. This could be further evaluated with
+     fluoroscopic evaluation of the esophagus. Several air bubbles are seen in the
+     anterior left neck just above the left clavicular head.  This could be due to
+     prior attempted intravenous access.  It would be atypical for the hematoma to
+     be originating from the aortic pseudoaneurysm as a fat plane is seen around
+     the aorta.
+     3.  Findings are worrisome for colonic adenocarcinoma in the hepatic flexure.
+     Further evaluation with colonoscopy or CT colonography is recommended.  No
+     focal liver lesions.
+     4.  No evidence of acute traumatic intra-abdominal injury.
+     5.  Multiple likely bilateral renal cysts.
+     
+     Results were discussed with Dr. [**First Name8 (NamePattern2) 1042**] [**Last Name (NamePattern1) 1043**], the surgical resident caring
+     for the patient, at 7:10 p.m. on [**2898-5-11**].
+     
+
+",,
+24253,8492,30129,0,2898-05-11 04:27:00 EST,2898-05-11 04:46:00 EST,4422,"N",54,"Nursing/Other","adm note","
+adm note
+S/P FALL [**5-10**] WITH HIS SON AS A WITNESS, FELL BACKWARDS-->ED BY HIS SON, CT ?STROKE AND C5-C6 DISLOCATION FX,TO OR FOR FIBEROPTIC INTUBATION--> MRI CONFIRMED C5/6 FX-->BACK TO OR FOR AP SPINAL FUSION(BY DR [**First Name (STitle) 162**] ORTHO).WAS MOVING R ARM SLIGHTLY IN ED, ?SPEACH DIFICULTY, NO RECTAL TONE
+
+TO TSICU FROM OR 2300, INTUBATED, MOVES R. ARM, MOVES TOES BOTH FEET, L. ARM FLACCID.POOR GAG, WEAK COUGH, PERL, NO SEIZING ACTIVITY, IN C-COLLAR, ON SOLUMEDROL GTT STARTED IN ED FOR 48H
+
+RES: LS CLEAR, NO SECRETIONS, PO2>120, IN METABOLIC ACIDOSIS WITH CO2 COMPENSATION IN LOW 30S, BE-9
+
+CV:BRADY DOWN IN CT TO 30 AND RECOVERED, REMAINS IN 50S MOST OF THE TIME, IN 1DEG AV BLOCK AND BBB. BP STABLE, NO EDEMA, WEAK PEDAL PULSES
+ST WAVE INVERTED, ENZYMES WERE SENT AGAIN 
+
+ENDO: BS REMAINED >270 AND RI GTT WAS STARTED.LACTATE CLIMBING TO >6 AND PT 'S GOT 3 BOLUSES X 1000CC WITH MILD CORRECTION.
+
+SKIN: INTACT
+
+GU: FAIR 50-80/H
+
+GI: OGT IN DRAINS SM AMNT BILE, - BS, ABD SOFT
+
+ID: WBC>13000, NO FEVER
+
+SOCIAL: FAMILY WAS PRESENT IN OR BUT DID NOT COME IN TO TSICU
+
+A:S/P FALL ACUTE SPINAL INJURY
+
+P:FULL SUPPORT
+
+
+",,
+24253,8492,30129,0,2898-05-11 17:11:00 EST,2898-05-11 17:16:00 EST,3960,"N",54,"Nursing/Other","Respiratory Care","
+Respiratory Care
+Pt traveled to cat-scan for abd, head without incident. Pt weaned to PSV 10/5 40%, gas pending on these settings. Suctioning large amts of thick green. tube advanced to 25cm. Wean as tol.
+",,
+24253,8492,30129,0,2898-05-11 17:29:00 EST,2898-05-11 17:45:00 EST,3063,"N",54,"Nursing/Other","T-SICU Nsg NOte","
+T-SICU Nsg NOte
+  PA catheter placed this am.  SVO2 portion of catheter has not worked - no reading, not able to calibrate.  Cables changed, but still not functioning.  Pt to CT scan for head, chest and abd CT scans.  
+  Neuro - sedated on propofol to tolerate ET tube.  Off propofol, pt opens eyes spont, nods to questions, follows commands.  Able to lift both forearms and place hands on chest.  No movement of fingers observed.  Able to wiggle toes and move feet at ankle, able to lift L knee off bed.  Gag & cough reflexes intact. Head CT very similar to scan [**5-10**], compatible with old infarct.  No new abnormality seen. Pt clearly recognized his family.
+    CV - CO [**5-10**] today, usually about 6.5  Mixed venous O2 sats by blood draw have been 76% and 74%.  PA 20-35/12-18, wedge pressures [**7-15**].  HR has increased from 50's to 60-75.  No ectopy.
+   Resp - Lung sounds clear.  Scant sputum.  Strong cough.  Pt now on PSV 10cm above 5cm PEEP.  Resp rate 14-18, Vt 350-550cvc.
+    GU - urine output was low this am, much improved after bicarb and fluid boluses.  IV fluids to be maintanice of D5.45NS with 20 K once liter with bicarb finishes.  Lactate levels coming down.
+    GI - pt tolerated 1350cc of barocat for CT scan. Abd soft. OG draining bilous fluid and now barocat.  Plan to start tube feedings.
+    Heme - last Hct down to 26 from 30 this am.  Repeat Hct due at 2000.
+    Endo  - has been on insulin drip, off for BS of 74.  Fingerstick due soon.
+    Skin - back & buttocks intact.  Anterior neck dressing dry & intact.
+  SOcial - pt's son and daughter in to visit, as well as personal assistant, [**Doctor First Name **].  Family updated and had opportunity to ask questions.  ORiented to ICU environment.
+A: Metabolic acidosis improving.  Able to move all limbs, but no finger movement.  On PSV mode.
+P: continue to monitor lytes, Hct, glucose.  Informational support to pt & family.  OR for posterior stabilization of C-spine in future.  
+",,
+24253,8492,30129,,2898-05-12 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2898-5-12**] 11:28 AM
+     BILAT LOWER EXT VEINS                                           Clip # [**Clip Number (Radiology) 1046**]
+     Reason: ** Please evaluate B GROINS for evidence of DVT in preparati
+     Admitting Diagnosis: C5-6 FRACTURE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      84 year old man s/p Fall w/ C-Spine Fxr                                         
+     REASON FOR THIS EXAMINATION:
+      ** Please evaluate B GROINS for evidence of DVT in preparation for IVC Filter 
+      placement **  Thank [**Doctor First Name 14**]
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Status post fall with C-spine fracture, preparation for IVC
+     filter placement.
+     
+     Comparison is made to the report of the left lower extremity ultrasound dated
+     [**2897-7-2**].
+     
+     FINDINGS:  [**Doctor Last Name **] scale and Doppler sonograms of the bilateral common femoral,
+     superficial femoral, and popliteal veins was performed.  There is
+     eccentrically located non-occlusive thrombus demonstrated along the distal
+     right superficial femoral vein.  The remaining veins otherwise demonstrate
+     normal flow, compressibility and wave forms.  Note is also made of a right
+     popliteal artery aneurysm with transverse dimensions of 1.7 x 1.6 cm and
+     associated mural thrombus. No aneurysm is demonstrated on the left side.
+     
+     IMPRESSION:
+     1) Patent CFVs in both groins.
+     2) Non-occlusive eccentric thrombus along the distal right superficial femoral
+     vein of indeterminate chronicity.
+     3)  Right popliteal artery aneurysm measuring 1.7 cm in its greatest
+     transverse dimension.
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+
+",,
+24253,8492,30129,0,2898-05-12 03:21:00 EST,2898-05-12 03:34:00 EST,3671,"N",54,"Nursing/Other","RESPIRATORY CARE NOTE:","
+RESPIRATORY CARE NOTE:
+
+Pt remain orally intubated on spontaneous ventilation; CPAP 10/5 & 40% FIO2. No vent changes done. We are sxth scant to small yellow thick secretions.  RSBI done 43. Plan: Continue present ICU monitoring. will follow.
+",,
+24253,8492,30129,0,2898-05-12 05:22:00 EST,2898-05-12 05:41:00 EST,4422,"N",54,"Nursing/Other",,"
+
+ 
+ASSESSMENT AS NOTED
+
+RES: REMAINS ON 10 PS CPAP, SUCTIONED FOR SM AMNT THICK YELLOW, LS CLEAR, PO2 WNL
+
+CV: PA LINE INTACT WITH WEDGE [**12-18**], CVP7-11, BP STABLE, SVO2-80S, IN NSR, + PU;SES WITH [**Last Name (un) 209**], NO EDEMA
+
+NEURO: MAE, ARMS STRONGER THAN LEGS, PULED OUT OGT LAST NIGHT. OFF LOGROLL, C-COLLAR STILL ON, NODS, FOLLOWS, PERL
+
+ENDO: BS UP IN >250 AFTER T.FEEDING WAS STARTED, RESTARTED ON RI GTT, CON'T ON SOLUMEDROL GTT(LAST BAG) LACTATE JUMPED TO >5 . T FFEDING WAS STOPPED AND IVF CHANGED TO NS
+
+SKIN: INTACT, NECK INCISION BENIGN
+
+GU: FAIR U/O >40/H
+
+GI: SMALL RESIDUALS WHILE GETTING T FEED, ABD SOFT, +BS, + GAS
+
+LABS: CA WAS REPLACED, BS CORRECTING WITH RI GTT, LACTATE CLIMBING
+
+A:S/P FALL, ACUTE SPINAL INJURY, METABOLIC ACIDOSIS, 
+
+P: CORRECT ACIDOSIS
+
+
+",,
+24253,8492,30129,0,2898-05-12 15:47:00 EST,2898-05-12 15:48:00 EST,3123,"N",54,"Nursing/Other",,"
+
+resp care
+remains oett/vent supported in psv mode at ps 10/5/40%, VE consistent with Vts 400's,rate mid teens. sxning thick tan sputum. bs sl.coarse. return to o.r. planned thus no further weaning done. 
+",,
+24253,8492,30129,0,2898-05-12 18:29:00 EST,2898-05-12 19:15:00 EST,3210,"N",54,"Nursing/Other","T/SICU NSG PROGRESS NOTE","
+T/SICU NSG PROGRESS NOTE
+0700>>1900
+
+EVENTS: NO WEAN TODAY D/T PLANS FOR POST FUSION OF C-SPINE [**5-13**]
+        TRANSFUSED 2 UNITS FOR LOW HCT AND ELEVATED LACTATE
+        TUBE FEEDINGS RESTARTED
+
+SEE ASSESSMENT FOR SPECIFICS
+
+NEURO- PROPOFOL FOR SEDATION; WHEN LIGHTENED, PT TRACKS W/EYES TO SPEAKER AND NODS HIS HEAD TO QUESTIONS. RUE MOVES TO COMMAND INCONSISTENTLY. BIL LE'S BRISKLY WITHDRAW TO STIMULATION AND LUL HAS MINIMAL RESPONSE TO PAINFUL STIMULATION. RARE SPONTANEOUS MOVEMENTS.
++GAG/COUGH. PERRL @ 3MM/BRISK. PT  CONSISTENTLY DENIES PAIN.
+SOLUMEDROL INFUSION(X48 HR) IS COMPLETE.
+
+CVS- STABLE HEMODYNAMICS. INCREASE IN PCW FOLLOWING BLOOD TRANSFUSIONS
+     SEE CAREVIEW FOR SPECIFIC OBJECTIVE DATA.
+     NSR IN 58-65 RANGE..LOPRESSOR DOSES X2 HELD. NO ECTOPY.
+     IVF CONTINUES @ 100CC/HR. SERUM LACTATE CONTINUES TO BE ELEVATED IN 2-3 RANGE. CO/CI 5-7/3 RANGE. SVO2 CONSISTENTLY IN 80'S.
+
+RESP- NO VENT CHANGES. ABG WITHIN PT'S BASELINE RANGE. BREATH SOUNDS ARE CLEAR. SECRETIONS ARE SMALL AMOUNTS THICK TAN SPUTUM.
+
+RENAL- ADEQUATE HOURLY U/O. ELECTROLYTES WNL
+       CREAT 1.8(BASELINE 1.6)
+
+ID- AFEBRILE VIA CORE TEMPS. WBC WNL. NO ANTIBIOTICS
+
+HEME- HCT 24>>2 UINTS PC'S...REPEAT HCT TONIGHT
+      COAGS WNL
+
+ENDO- INSULIN DRIP TITRATED 6 UNITS TO 2 UNITS WITH BLOOD SUGARS RANGING 65 TO 140.
+
+GI- SOFT ABDOMEN WITH ACTIVE BOWEL SOUNDS; NO STOOL. PEPCID QD.
+    TUBE FEEDS RESTARTED WITH GOAL OF 70C/HR. ADVANCE AS TOLERATED.
+
+SKIN- INTACT. WARM EXTREMITES WITH WEAKLY PALPABLE PERIPHERAL PULSES. UE EDEMA +2. NECK DSG INTACT: C&D.
+COMPRESSION BOOTS IN USE. NO HEPARIN...?PLANS FPR IVC FILTER.
+LENI'S DONE TODAY.
+IV SITES WNL; 2 PERIPHERAL IV'S D/C'D..ONE REMAINS FOR PROPOFOL INFUSION.
+
+SOCIAL- PHONE CONTACT FROM CHILDREN X1 TODAY. NO VISITS. UPDATE PROVIDED. SPOKESPERSON(SON) PROVIDED PHONE CONSENT FOR TOMORROW'S ANESTHESIA.
+
+ASSESS-84 YO MALE S/P C-SPINE INJURY RELATED TO FALL; + CORD TRAUMA.
+       S/P ANTERIOR C-SPINE FUSION; SCHEDULED FOR POST PROCEDURE [**5-13**]
+       STABLE WITH ONGOING ELEVATED SERUM LACTATE LEVELS OF ?? CAUSE
+       
+PLAN- OR IN AM POSSIBLE WEAN FROM VENT POST-PROCEDURE AS TOLERATED.
+      CONT ALL CURRENT SUPPORTS
+      MONITOR NEURO EXAM FOR CHANGES.
+
+
+
+
+        
+",,
+24253,8492,30129,,2898-05-13 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2898-5-13**] 7:34 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 1049**]
+     Reason: eval for infiltrate                                         
+     Admitting Diagnosis: C5-6 FRACTURE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        84 year old man with hx of CVA, presents with new left sided deficicts, 
+      intubated          
+     REASON FOR THIS EXAMINATION:
+      eval for infiltrate                                                             
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  History of CVA with new left-sided deficits, intubated, evaluate
+     for infiltrate.
+     
+     COMPARISON:  [**2898-5-11**].
+     
+     TECHNIQUE:  Single AP portable supine chest.
+     
+     FINDINGS:  Endotracheal tube is in place with tip terminating 3.3 cm from the
+     carina.  Left subclavian venous access sheath with pulmonary artery catheter
+     with tip terminating in the right main pulmonary artery.  Nasogastric tube
+     with tip terminating in the stomach.  The heart size and mediastinal contours
+     are unchanged.  There are bilateral pleural effusions, right greater than
+     left, increased in the interval.  Adjacent bibasilar atelectasis and left
+     retrocardiac opacification consistent with atelectasis versus consolidation.
+     No pneumothorax.  An anterior cervical fusion plate is again seen, and there
+     are newly visualized posterior fixation rods with pedicle screws.
+     
+     IMPRESSION:
+     1)  Satisfactory position of lines and tubes.
+     2)  Bibasilar opacities consistent with bilateral pleural effusions, and
+     bibasilar atelectasis versus consolidation.
+     
+     
+
+",,
+24253,8492,30129,,2898-05-13 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2898-5-13**] 5:12 PM
+     SPINAL FLUORO WITHOUT RADIOLOGIST IN O.R.                       Clip # [**Clip Number (Radiology) 1048**]
+     Reason: CK SCREW
+     Admitting Diagnosis: C5-6 FRACTURE
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     A spinal fluoroscopy without radiologist was performed in the operating room
+     to assist with checking a screw.  4.6 minutes of fluoro time was used.  No
+     images were saved.
+                                                                           
+
+",,
+24253,8492,30129,,2898-05-13 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2898-5-13**] 2:48 PM
+     C-SPINE (PORTABLE) IN O.R.                                      Clip # [**Clip Number (Radiology) 1047**]
+     Reason: FUSION LAMINECTOMY CERVICAL POSTERIOR WITH INSTRUMENTATION C5-C6
+     Admitting Diagnosis: C5-6 FRACTURE
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Posterior cervical spine fusion.
+     
+     A single portable film from the OR lacking detail, shows previously existing
+     hardware with anterior plate and screw at C5-6 and localization of the C3
+     region in the lateral projection.
+                                                                           
+
+",,
+24253,8492,30129,0,2898-05-13 05:02:00 EST,2898-05-13 05:04:00 EST,4038,"N",54,"Nursing/Other",,"
+
+Resp: Rec'd pt on psv [**2833-10-8**]$. Alarms on and functioning. Ambu/syringe @ hob. BS auscultated reveal bilateral diminished sounds. Suctioned for small amounts of thick yellow secretions. AM ABG;s 7.47/29/103/22. RSBI=47. Returning to OR today then plan to wean to extubate appropriately.
+",,
+24253,8492,30129,0,2898-05-13 05:41:00 EST,2898-05-13 05:56:00 EST,4422,"N",54,"Nursing/Other",,"
+
+
+ ASSESSMENT AS NOTED
+
+RES: VENTED PSV CPAP, MAINTAINS PO2 WNL, MODERATE AMNT OF THICK SPUTUM, LS DIM AT BASES, 
+
+CV: HYPERTENSIVE UP TO 200 SYSTOLIC WITH HR IN 50-60S AT 0430AM , GOT HYDRALAZINE AND MORPHINE AND SBP CAME DOWN TO 130S, ON LOPRESSOR Q6H, CVP 10-7, PA PRESSURS 40S, WEDGE 19, IN SR WITH ST SEGMENT INVERTED(NOT NEW), PA SVO2 WAS CALIBRATED 6AM
+
+NEURO: MAE WHEN AWARE, R. ARM IS THE STRONGEST. NODS TO QUESTIONS, 
+PERL, C-COLLAR IS ON, IS PLANNED TO GO TO OR FOR POSTERIOR FUSION
+
+GI: T FEEDING UP TO 60/H, TOLERATES WELL, +BS, SOFT ABD, + GAS
+
+SKIN: INTACT
+
+LABS: LACTATE <2.5, CA WAS REPLETED, CREAT 1.8, HCT 30 AFTER 2U PC TRANSFUSED [**5-12**]
+
+A: S/P FALL ACUTE NECK INJURY, MULTIPLE CHRONIC  MEDICAL PROBLEMS
+
+P: TO OR TODAY FOR POSTERIOR FUSION
+",,
+24253,8492,30129,0,2898-05-13 16:15:00 EST,2898-05-13 16:17:00 EST,5242,"N",54,"Nursing/Other",,"
+
+RESP CARE
+PT REMAINS INTUBATED AND VENTED ON PSV 10/5 WITH VT AROUND 500CC AND RR 12-16. BS CLEAR TO SLIGHTLY COURSE SXING FOR SMALL AMTS OF THICK TAN/YELLOW SECRETIONS. NO PARAMETER CHANGES MADE THIS SHIFT. PT TO OR FOR POSTERIOR FUSION. WILL CONT WITH VENT SUPPORT WITH POSSIBLE EXTUBATION.
+",,
+24253,8492,30129,0,2898-05-13 16:19:00 EST,2898-05-13 16:27:00 EST,6232,"N",54,"Nursing/Other","TSICU Nursing Progress Note","
+TSICU Nursing Progress Note
+Pt sent to OR at 1345 for posterior C5-6 fusion.
+
+Neuro - Pt sedated on Propofol at 40 mcg/kg/min.  When lightened, pt opened eyes spontaneously, followed commands with all extremities.  PERRL.  Aspen collar in place.
+
+CV - SR without ectopy.  SBP 120s to 140s by arterial line.  CCO swan in place, CO 4 - 7, SVO2 70s to 80.  Generalized edema.  Pneumoboots for DVT prophylaxis.  Vascular to place IVC filter while pt in OR.
+
+Resp - Tolerating CPAP while sedated.  Suctioned for minimal secretions.  Lungs essentially clear.  Plan to extubate after OR or in AM.
+
+GI - Tolerating Promote with fiber at goal with minimal residuals.  + BS, no BM.  
+
+GU - Clear yellow urine via foley in adequate amounts.
+
+Endo - Regular insulin gtt at 5 units per hour with blood sugar 110s to 120s.  Gtt off for transport to OR.
+
+Skin - Anterior fusion dressing intact.  Skin otherwise intact.
+
+A - Stable neuro exam awaiting posterior fusion.  Stable resp status awaiting extubation.
+
+P - Full assessment on return from OR.  Advance TF back to goal.  Assess readiness for extubation.
+",,
+24253,8492,30129,,2898-05-14 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2898-5-14**] 12:29 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 1050**]
+     Reason: Eval Line Placement please.                                 
+     Admitting Diagnosis: C5-6 FRACTURE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+         84 year old man with hx of CVA, presents with new left sided deficicts,  
+      intubated          
+     REASON FOR THIS EXAMINATION:
+      Eval Line Placement please.                                                     
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CLINICAL HISTORY:  84-year-old man with CVA, intubated, check position of
+     lines.
+     
+     CHEST:  The tip of the left subclavian line lies in the SVC.  The tip of the
+     nasogastric tube lies within the stomach.  The endotracheal tube lies 3.5 cm
+     from the carinal angle.
+     
+     The size of the right effusion is slightly smaller than on the prior occasion.
+     The Swan-Ganz catheter, which is present on the prior film, has been removed.
+     
+     IMPRESSION:  Position of lines satisfactory, decrease in size of right
+     effusion.
+                                                                           
+
+",,
+24253,8492,30129,0,2898-05-14 03:51:00 EST,2898-05-14 03:56:00 EST,4038,"N",54,"Nursing/Other",,"
+
+Resp: Rec'd pt on [**Last Name (un) **] simv 12/600/+5/5/50%.  Alarms on and functioning. Ambu/syringe @ hob. Ett #7.5 taped and secured @ 25, cuff pressure @ 20. BS auscultated reveal bilateral coarse sounds. Suctioned for moderate amounts of thick yellow secretions. Suggested obtaining sputum sample.  AM ABG;s 7.45/30/116/21. Plan to wean appropriately.
+",,
+24253,8492,30129,0,2898-05-14 05:47:00 EST,2898-05-14 05:58:00 EST,4422,"N",54,"Nursing/Other",,"
+
+ASSESSMENT AS NOTED
+
+RES: REMAINS ON SIMV, LS CLEAR/DIM, SMALL AMNT SECRETIONS,
+
+CV: GOT HYDRALAZYNE ONCE FOR SBP>170, REMAINS IN S.BRADY, NO ECTOPY, 
+PA 40S, WEDGE WAS 11-->GOT 500CC BOLUS-->CAME UP TO 18. GENERAL EDEMA, 
++PULSES BY [**Last Name (un) 209**]
+
+NEURO: OPENS EYES, PARTIALLY FOLLOWS SIMPLE COMMANDS, MOVE R.ARM SPONT., AND OTHER EXTREMITIES TO PAIN STIMULI.C-[**Last Name (un) 1938**] IS ON.
+
+GI: 700CC IN OGT - COFFEGROUND(MD AWARE), PROTONIX WAS STARTED, T.FEEDING WAS OFF DURING THE NIGHT
+
+GU: FAIR U/O(SEE CAREVUE)
+
+LAS:K WAS REPLETED, BUN UP TO 45, HCT 29+
+
+SOCIAL: SON CALLED LAST NIGHT AND WAS ASKING ABOUT SURGERY, WAS UPDATED ON PT CONDITION
+
+ENDO: RI GTT ON , LACTATE LEVELS FLACTUATE(SEE CAREVUE)
+
+PLAN: WEAN OFF VENT
+",,
+24253,8492,30129,0,2898-05-14 15:19:00 EST,2898-05-14 15:23:00 EST,5242,"N",54,"Nursing/Other",,"
+
+RESP CARE
+PT REMAINS INTUBATED AND CURRENTLY VENTED ON SIMV 600X10 PEEP 5 WITH FEW SPONTANEOUS BREATHS NOTED. PT BREATHING OVER SET RATE BY 5-6 BREATHS WITH SPONT VT AROUND 300-350CC ON PS 10. BS CLEAR-SLIGHTLY COURSE SXING FOR SMALL TO MOD AMTS OF THICK YELLOW SECRETIONS. BS IMPROVE POST SXN. PT WEANED ON PSV 10/5 BUT WAS PLACED BACK ON RATE DUE TO CONTINUOUS APNEIC PERIODS. WILL CONT WITH VENT SUPPORT AND RESASESS FOR READINESS TO WEAN.
+",,
+24253,8492,30129,0,2898-05-14 18:02:00 EST,2898-05-14 18:12:00 EST,4267,"N",54,"Nursing/Other","T/SICU RN Progress Note","
+T/SICU RN Progress Note
+Neuro:  Propofol off, eyes open follows commands.  L upper extremity and lower extremities very weak, R arm moving more, purposfully.  Morphine for pain with effect.
+
+CV:  HR 50-60 Sinus no ectopy noted.  ABP 120-140's systolic.  CVP 10-15.  Swan d/c'd this morning changed to TLCL.  P-boots, IVC filter.
+
+Resp:  Currently on CPAP 10/5 earlier had periods of apnea, now tolerating well with RR 14-18 Sats 98-100%.  Suctioned for thick tan/yellow secretions.
+
+GU/GI:  Foley with clear yellow urine.  NPO, TF advancing towards goal of Promote with fiber 65cc/hr, no residual.  Protonix, +Bowel sounds, +RF.
+
+Skin/Mobility:  Skin grossly intact.  C-collar on care given.  Anterior/Posterior surgical dressings intact Hemovac to Posterior dressing.  Remains on bedrest.
+
+ID:  Afebrile on kefzol BID
+
+Endo:  Insulin gtt titrated as needed.  Decadron 10mg QD x2 days started today.
+
+Social:  Son, daughter, and caretaker in to visit updated by this RN.
+",,
+24253,8492,30129,,2898-05-15 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2898-5-15**] 12:30 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 1051**]
+     Reason: ? INFULTRATE
+     Admitting Diagnosis: C5-6 FRACTURE
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Assess Dobbhoff tube placement.
+     
+     Portable semi-upright frontal radiograph.  Comparison is made to one day
+     earlier.
+     
+     FINDINGS:
+       
+     The endotracheal tube and previously placed NG tube have been removed.  There
+     has been placement of a Dobhoff feeding tube with its tip in the stomach. 
+     Bibasilar patchy atelectasis and bilateral pleural effusions are unchanged in
+     appearance.  Spinal fusion hardware is again identified in the lower cervical
+     spine.  There have been no other changes compared to the study of 1 day
+     earlier.
+     
+     IMPRESSION:
+       
+     Dobbhoff tube within the stomach.  Interval extubation.  Unchanged appearance
+     of bibasilar pleural effusions and associated atelectasis.
+                                                                           
+
+",,
+24253,8492,30129,0,2898-05-15 04:38:00 EST,2898-05-15 04:58:00 EST,6327,"N",54,"Nursing/Other",,"
+
+1900-0700
+
+Neuro: Pt awake, alert, unable to assess orientation @ this time. Attempts to follow commands well. Moves RUE lift/hold, L ext/RLE moves on bed minimally. Eyes open spontaneously. Nodding to questions. Pupils 2/brisk bilaterally. 
+
+Resp: Pt remains orally intubated remaining on CPAP/PS through the night without difficulty. AM ABG: 7.39/35/133/22/-2. Lungs clear bilaterally. Suctions for thick yellow secretions/sent for culture. O2sat remain >97%. Strong productive cough noted. Rt radial aline with sharp waveform. 
+
+CV: S.Bradycardia without ectopy. SBP 120-180, hydralizine 10mg X1 dose given. CVP 13-15, medicated for pain with morphine X1. + pulses to ext difficult to palpate. Generalized edema. Ant/Pos neck dsg D+I with hemovac intact/Aspen collar. L SC multilumen intact. 
+
+GU/GI: Abd round soft + BS, tolerating promote with fiber @ 65cc/hr-minimal residuals. Receiving PPI. OGT intact. Foley intact draining clear yellow urine. 
+
+Endo: Insulin drip titrated per protocol.
+
+Plan: ?extubate, supportive care.
+",,
+24253,8492,30129,0,2898-05-15 05:03:00 EST,2898-05-15 05:09:00 EST,4038,"N",54,"Nursing/Other",,"
+
+Resp: Rec'd pt on psv 10/5/50%. Alarms on and functioning. Ambu/syringe @ hob. BS auscultated reveal bilateral clear with dimished bases. Suctioned for small amounts of thick yellow secrtions, sample sent. Am ABG's 7.39/35/103/22, RSBI=67. Plan to wean to extubate this am.
+",,
+24253,8492,30129,0,2898-05-15 14:43:00 EST,2898-05-15 14:55:00 EST,4439,"N",54,"Nursing/Other",,"
+
+RESPIRATORY----
+PT MAINTAINED ON 60% AEROSOL FOLLOWING EXTUBATION. PT TOLERATING WELL AND HAS DEVELOPED A FAIRLY GOOD COUGH AFTER TUBE REMOVAL. PLAN IS TO CONT. ON AEROSOL MASK.
+",,
+24253,8492,30129,0,2898-05-15 15:23:00 EST,2898-05-15 15:51:00 EST,5248,"N",54,"Nursing/Other",,"
+
+Nursing Progress Note.
+
+Pt condition improved today.
+
+EVENTS:
+Extubated.
+Dobhoff feeding tube placed.
+Sat out of bed to chair.
+
+Please see CareVue for specifics.
+
+On exam,
+
+RESP:
+Successfully extubated to face tent.  No resp distress.  Poor cough initially, impoving now.  Also soft voice initially, also improving although pt not speaking except with encouragement.
+Attempted incentive spirometry education but pt not quite understading and not using IS well.  Has weak cough, occasionally productive.
+
+HEMODYNAMICS:
+SR-SB with occasional bradying to 30s when dobhoff placed, and one spontaneous run of ST to 140s (self limiting).  Normotensive, hypertensive with agitation/restlesness.  Peripheries well perfused.
+Recommenced aspirin.
+
+NEURO:
+Awake and alert all day.  Initially nodding head to answer questions, now speaking short sentences.  Oriented to self, confused to date and reason for admission.  Aspen collar remains insitu.  
+Pt denying pain when asked, but calling out ""help"" spontaneously.  When asked, pt denied pain but acknowledged being ""afraid""- reoriented.  Did not settle so received morphine 1mg x2.  Settled.
+On exam, pt moves Rt arm spont and more frequently throughout afternoon.  Can lift Rt elbow off bed for moments.  Lt arm slight internal rotation only.  Wiggles toes to commands, Rt> Lt.
+
+ENDOCRINE:
+Insulin drip titrated per blood sugars.  Will reassess re: sliding scale.
+
+FLUIDS/LYTES:
+Fluids at TKVO, K repleted prn.
+Also diuresed with lasix, good result.
+
+GI:
+Abd soft, occasional bowel sounds.  OGT replaced with dobhoff tube.  Tube placement checked with CXR and advanced 10cm post film.
+Holding tube feeds today per order.
+
+ID:
+Afebrile.  Antibiotics as charted.
+
+RENAL:
+Good diuresis with lasix.
+
+SKIN:
+Skin intact.  C-collar care attended.
+
+SOCIAL:
+Family in to visit and also updated by phone.  
+
+PLAN:
+Continue prn morphine, pulmonary toilet prn, possible transfer to floor tomorrow.
+",,
+24253,8492,30129,0,2898-05-15 21:23:00 EST,2898-05-15 21:43:00 EST,3136,"N",54,"Nursing/Other","Nursing progress Note","
+Nursing progress Note
+S/O- Review of Systems 
+Neuro- pt remains alert,initally sleepy post morphine, pt able to say name and nodded yes to being in the hospital after nodding no to being home. pt speech is very slow and at times difficult to understand, he speaks only when spoken to but moans on occasion, although denies pain.Was able to verbalize the word hosptial on second exam. PERL. pt moves rt arm spontaneously able to lift and hold, I have seen no movement in his left arm, which is quite edematous. pt wiggles toes as only movement rt> than left. Pt is not always able to cough when asked. Aspen collar intact 
+CV- pt bradycardic in the 50's normal sinus with rare APC. Pt became hypertensive to 190 systolic, pt given lisinopril5mg per feeding tube . this was follwed with lopressor 25mg per Feeding tube. systolic pressure now 160/ with a diastolic of 65. Lopressor given with HR of 60-70. CVP 9-11. 
+Resp- pt remains extubated with RR of 18-20, pt has coarse breaths sounds to diminished. Pt Sats down to 93, FIO2 of facetent increased from 70% to 100%. with Sats of 97. Pt has weak spontaneosu cough with movement, and is unable to cough when asked. pt was Nasotracheal suctioned for copious amounts of thick tan sputum. Sats improved to 100%. 
+GI- Tube feeds started at 10cc hr of promote with fiber to be increased Q4 to a goal of 65. Hypoactive bowel sounds, no stool 
+GU- Good urine output, IVF at KVO, no lyte repletion necessary.
+ID - afebrile on cefazolin 
+Endo- Insulin gtt discontinued and sliding scale begun, 2 units per ss given for finger stick of 134. 
+skin- intact on back and buttucks, dressing on neck intact
+Social- family in to visit, will bring in comnplete list of meds [**5-16**]. 
+A/P- Pt remains extubated but unable to cough secretions. Speech is very slow and difficult to understand, do not know baseline. No movement of left upper extremity. Pt becoming hypertensive. 
+PO antihypertensives started. Tubefeedings to progress to goal. 
+  
+",,
+24253,8492,30129,0,2898-05-16 05:41:00 EST,2898-05-16 05:49:00 EST,3510,"N",54,"Nursing/Other","t-sicu nsg note:","
+t-sicu nsg note:
+neuro- pt alert, tracks, answers with few words however, very difficult to understand, hearing aids in place, moves r arm off bed, no movement noted in l arm, barely any movement of feet.
+
+resp- bs coarse, ft on 100% w/ sao2 97-99%, pt w/ very weak conjested cough, nts for mod-lg amt very thick tan secretions.
+
+cvs- hr 50's-60's sb occ apc, sbp 100-140's. cvp 3-5.  
+
+gi- promote w/ fiber @30cc/hr no residuals, goal of 65cc., abd soft and distended, +bs, +flatus.
+
+gu-uo wnl, cyu via foley.
+
+skin- edematous
+
+endo- bs elevated pt back on insulin gtt.
+
+a: stable
+
+p: monitor cvs per routine, enc c+db, nts as needed. monitor and rx bs, advance tf as tol.
+",,
+24253,8492,30129,0,2898-05-16 16:31:00 EST,2898-05-16 16:40:00 EST,6232,"N",54,"Nursing/Other","TSICU Nursing Progress Note","
+TSICU Nursing Progress Note
+Neuro - Alert, oriented x2 (self, hospital).  Able to lift right arm off bed, slight movement of other extremities.  Follows commands.  Converses appropriately.  C-collar in place.
+
+CV - SB to SR with rare PVCs.  SBP 110 - 180 by arterial line.  Generalized edema.  Weakly palpable peripheral pulses.  Pneumoboots for DVT prophylaxis.
+
+Resp - 100% face tent with O2 sats >96%.  Weak cough.  Requires NT suctioning q3-4 hours for thick tan secretions.  Vigorous chest PT by nursing and PT staff.  Pt unable to do IS.  Coarse BS, diminished left base.  
+
+GI - Advancing TF via pedi tube as ordered.  Hypoactive BS, no BM today.
+
+GU - Lasix x1 with good response.  Clear yellow urine via foley.
+
+Endo - Currently with insulin gtt off.  Will monitor BG.
+
+A - maintaining oxygen saturation with vigorous pulmonary hygene and NT suctioning.  Advancing TF.  Diuresing with lasix.  Stable neuro exam.
+
+P - Continue aggressive pulmonary toilet.  Monitor respiratory status.  C-collar AAT.  Insulin as needed.
+",,
+24253,8492,30129,0,2898-05-17 04:18:00 EST,2898-05-17 04:35:00 EST,3063,"N",54,"Nursing/Other","T-SICU Nsg Note","
+T-SICU Nsg Note
+S""Wash my nose.""  ""More water.""  ""I want to go home.""
+O  Pt alert in evening, then fell asleep.  Arouses easily to voice.  Pt did say it was Spring season, knew he was in the United States.  Did not know more exactly where he was.  Given choices, pt chose restaurant as place he was now.  Able to lift R arm at shoulder and move arm, but no finger movement noted.  Moves both feet, R more than L.  Sm lateral movement of L arm observed x 1 only, otherwise, no movement L arm.  Follows commands with feet and R arm & face.  Speech a bit difficult to understand as dentures out during night and pt has accent.  Pt denies pain.
+  Continues sinus brady at times.  HR 50-70.  BP 120-150sys by R rad art line.
+   Lung sounds clear to diminished. Pt cooperative with deep breathing.  Weak cough.  Suctioning back of mouth causes gag and sometimes cough.  NT suctioned x 1 only for copious amt of thick tan sputum, bloody at end of suctioning.  Face tent at 70% and sats 96-99%.  CPT bilat, pt tolerated well.
+   TF at goal of 65cc/hr.  Abd softly distended.  No stool yet.
+   Skin - back & buttocks intact.
+  Endo - insulin drip on most of shift.  Off briefly for glucose of 69.  Insulin drip back on for glucose of 142.
+Heme - Hct 27.0 this am, down from 29.3.
+  ID - afebrile, remains on IVPB cefzol.
+ Neck incisions dressed & dry.  Skin under collar intact.
+No contact with family during night shift.
+A: labile blood glucose levels.  Less sputum during night.  O2 sats good on 70% face tent.
+P: continue pulmonary care.  Re-orient often.  Encourage pt to speak.  Informational support to family. 
+",,
+24253,8492,30129,0,2898-05-17 19:00:00 EST,2898-05-17 19:19:00 EST,3246,"N",54,"Nursing/Other","T/SICU NPN:","
+T/SICU NPN:
+Brief ROS- 
+Neuro: Pt. has been [**Last Name (un) 39**] and cooperative all shift. He has some periods of confusion when he asks the same questions repeatedly, not absorbing the answer. He has not rcv'd any sedation today, or narcotics, he denies pain. He is conversant and appropriate. He is able to move toes on command, but does not squeeze on command. He moves his rt arm with purpose, lt arm not moving. Sml amts of mvnt of lower extremities, just shifting some in  bed. Has not required any restraints. Aspen collar in place.
+
+CV: Stable BP and HR. BP drifts up to sbp 180's occ, usually brief not requiring intervention. Pt. on metoprolol. Rcv'd lasix today and had a lrg diuresis. BP did start to climb once diuresis slowed. No ectopy noted. Skin warm and dry, pale. Periph edema throughout.
+
+Resp: Pt. remains on FT O2. He has a weak  cough, barely can move secretions around in his chest, non-productive. NTS'd this am for sml amt of mostly bldy secretions. More traumatic than beneficial today.
+CPT bilat this am before getting OOB, Stronger coughing. When pt. was up in chair, his cough was consistantly stronger, yet still non-productive. RR 20's. BS clear to rhonchorous.
+
+Endo: Cont. on insulin gtt, 2-4units with FS BS 90's to 141
+
+GI: Softly distended belly with gd bowel sounds. Tube feeds at goal, see care view. No BM's this shift. 
+
+GU: Rcv'd lasix 20mg with a brisk diuresis, see care view. Cl yellow urine out via foley. Rcv'd potassium 40meq during diuresis.
+
+Heme: Hct this am was 27, tm aware and no transfusion.
+
+ID: Kefzol dc'd today. Afeb.
+
+Skin: Intact overall.
+
+
+
+",,
+24253,8492,30129,0,2898-05-18 07:04:00 EST,2898-05-18 07:29:00 EST,3949,"N",54,"Nursing/Other",,"
+
+T/SICU NPN 1900-0700:
+
+REVIEW OF SYSTEMS:
+
+NEURO: PT ALERT/ORIENTED TO SELF, CONFUSED AS TO PLACE/DATE, OFTEN ASKS ""CAN I GO HOME NOW?""; SPEECH CLEAR, ABLE TO EFFECTIVELY COMMUNICATE NEEDS. WEAK COUGH/GAG - PUPILS 2-3MM/REACTIVE. MSO4 1 MG X2 - C/O OF PAIN TO NECK AND L SHOULDER - DENIES CARDIAC C/O'S. CONSISTENTLY F/C'S: MOVES FEET/TOES ON BED, ABLE TO LIFT/HOLD R EXTREMITY, L HAND W/FAINT GRASP WHEN ASKED, OTHERWISE NO SPONTANEOUS MOVEMENT NOTED. C-COLLAR INTACT, C-SPINE PRECAUTIONS MAINTAINED.
+
+CV: HR SR 60'S, NO ECTOPY NOTED ON TELEMETRY, SBP 130-180, CONTINUES ON BID LOPRESSOR (25MG) - (?)ADDING PRN HYDRALAZINE. CVP 1-4: MIDNIGHT LASIX DOSE HELD. PULSES WEAKLY PALPABLE, BRISK CAP REFILL TO ALL EXTREMITIES. PB'S ON FOR DVT PROPHYLAXIS.
+
+RESP: LUNG SOUNDS CLEAR IN UPPER FIELDS, BASES DIMINISHED B/L. WEAK COUGH EFFORT, PT OFTEN SWALLOWS SECRETIONS PRIOR TO ORAL SXN. NTSxn X1 - THICK/TAN SECRETIONS OUT/BLD TINGED (?) D/T SXN CATHETER INSERTION. RR 16-26, SATS 94-99% ON 70%COOL NEB FACE MASK. DENIES SOB, BREATHING PATTERN EQUAL/UNLABORED.
+
+GI: AND SOFT, (+)BS NO BM THIS SHIFT - TOLERATING TF (IMPACT W/FIBER) AT 65CC/HR GOAL RATE. PREVACID FOR GI PROPHYLAXIS. NPO - MEDS GIVEN VIA FEEDING TUBE.
+
+GU: FOLEY CATHETER PATENT. U/O CLEAR/YELLOW/ADEQUATE HOURLY VOLUMES OUT - MIDNIGHT RECURRING LASIX DOSE HELD OVER NOC D/T LOW CVP. BUN/CREAT ELEVATED - TEAM AWARE.
+
+ENDO: CONTINUES ON INSULIN GTT TITRATED TO THERAPEUTIC GLUCOSE LEVEL: REQUIRE APPROX 2-4UNITS/HR OVER NOC.
+
+ID: AFEBRILE
+
+SKIN: BACK/BUTTOCKS INTACT, NECK INCISIONS C/D/I, COVERED W/ OCCLUSIVE DSG. NO NEW ISSUES NOTED.
+
+SOCIAL: NO FAMILY CONTACT THIS SHIFT.
+
+A/P HEMODYNAMICALLY STABLE, IMPAIRED RESP STATUS - REQUIRES AGGRESSIVE PULMONARY HYGEINE, GLUCOSE MONITORING, PAIN MGT, NPO D/T SWALLOW ISSUES -> TF AS ORDERED, OOB->CHAIR AS TOLERATED. (?)POTENTIAL TXFER TO FLOOR WHEN BED AVAILABLE>
+",,
+24253,8492,30129,0,2898-05-18 14:48:00 EST,2898-05-18 15:02:00 EST,3246,"N",54,"Nursing/Other","T/SICU NPN:","
+T/SICU NPN:
+Brief ROS-
+Neuro- Pt. has been more quiet today, spoke [**Doctor Last Name **] yesterday. Today, his speech has been infreq and sl garbled. Cont. to move his rt hand freely, no movement noted of left hand. Minimal movement of bilat legs in bed. Moves legs on command but is also cooperative with other commands- stick tongue out or open mouth etc.. PERL. Aspen collar in place.
+
+CV- Pt. has been having occ periods of high BP, sbp 180's. He has not rcv'd any meds to lower bp, seems to resolve slowly on it's own. HR 60's, sinus. Skin warm and dry. 
+
+Resp- Pt. cont. to have very junky sounding resp pattern. He coughs occ but not strong enough to expectorate. NTS'd x 1 for lrg amt of thick yellow secretions. RR 20's. BS are clear to coarse on auscultation. Adequate sats.
+
+Gi- Tube feeds cont. at goal, belly remains soft. No BM's this shift as yet, will attempt an order for dulcolax. Smear of brn stool. +BS
+
+GU- Adequate u/o via foley. Rcv'd lasix 20mg with gd diuresis.
+
+Endo- FS BS covered with insulin gtt, to switch to NPH and sliding scale coverage shortly.
+
+ID- Afeb
+
+Skin- Intact overall.
+",,
+24253,8492,30129,,2898-05-19 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2898-5-19**] 1:27 PM
+     VIDEO OROPHARYNGEAL SWALLOW                                     Clip # [**Clip Number (Radiology) 1052**]
+     Reason: swallow ability                                             
+     Admitting Diagnosis: C5-6 FRACTURE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      84 year old man with s/p CVA C5-C6                                              
+     REASON FOR THIS EXAMINATION:
+      swallow ability                                                                 
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  An 84-year-old man status post cervical injury, evaluate for
+     aspiration.
+     
+     VIDEO OROPHARYNGEAL SWALLOW FINDINGS:  Study was performed with the speech
+     pathologist.  Under video fluoroscopic guidance, multiple consistencies of
+     barium were administered to the patient.  There is anterior and posterior
+     surgical fusion hardware.  There is diffuse swelling and edema, particularly
+     involving the epiglottis, which has difficulty reflecting.  There is delay in
+     the initial oropharyngeal phase of the swallow, with premature spillover. With
+     thin nectars, there was initially penetration and then frank aspiration, which
+     was not able to be cleared with cough.  Due to the amount of aspiration, the
+     study was terminated at this point.
+     
+     IMPRESSION: Significant paravertebral and epiglottic edema. Large amount of
+     aspiration with nectar, after which the study was terminated. The patient will
+     be re-evaluated after [**Hospital 1053**] rehabilitation. See speech pathologist report
+     for more detail.
+     
+
+",,
+24253,,30129,0,2898-05-19 04:19:00 EST,2898-05-19 04:47:00 EST,3949,"N",54,"Nursing/Other",,"
+
+T/SICU NPN 1900-0700:
+
+REVIEW OF SYSTEMS:
+
+NEURO: PT ALERT/ORIENTED TO SELF - REQUIRES FREQUENT REORIENTATION - REQUESTING ""WATER/COLD DRINK/HOT COFFEE/SOMETHING TO EAT"" THOUGH PT REMAINS NPO W/TF INFUSING D/T FAILED SWALLOW STUDY. SPEECH CLEAR WHEN PT ENCOURAGED TO SPEAK-UP/LOUDER. ABLE TO EFFECTIVELY COMMUNICATE NEEDS. DENIES PAIN. AS PREVIUOSLY NOTED, PT MOVES RUE BRISKLY, AND BOTH FEET TO COMMAND - NO MOVEMENT TO LUE. PERRLA 2MM/BSK. COUGH/GAG WEAK/INTACT. C-COLLAR IN PLACE, C-SPINE PRECAUTIONS MAINTAINED.
+
+CV: HR SR 60'S, NO ECTOPY, SBP 140-170'S. DENIES CARDIAC C/O'S. PERIPHERAL PULSES WEAKLY PALPABLE, BRISK CAP REFILL THROUGHOUT. ASA AND PB'S FOR DVT PROPHYLAXIS. NO PRN HYDRALAZINE GIVEN THIS SHIFT - MIDNIGHT LOPRESSOR DOSE HELD D/T HR PARAMETERS.
+
+RESP: LUNG SOUNDS CLEAR, CRACKLES AT BASES ON DEPENDENT SIDE. RR <24, SATS >95% ON 70%COOL NEB FACE MASK. NTSXN X 3 FOR SM<->MODERATE AMTS THICK/TAN SECRETIONS. COUGH EFFORT IMPROVED FROM PREVIOUS NOC - PT OFTEN SWALLOWS SECRETIONS PRIOR TO EXPECTORATING. BREATHING EQUAL/UNLABORED - DENIES SOB.
+
+GI: ABD SOFT, (+)BS AND SEVERAL SM/FORMED BM'S: TF IMPACT W/FIBER AT 65CC/HR GOAL RATE. PREVACID FOR GI PROPHYLAXIS. DENIES N/V.
+
+GU: LASIX GIVEN X1 ON PREVIOUS SHIFT - PT AUTO DIURESING W/ U/O >120CC/HR AND CONSISTENTLY RUNNING HOURLY NEG.FLUID BODY BALANCE. LYTES NOT REQUIRING REPLETION THIS SHIFT.
+
+ENDO: INSULIN GTT OFF AND NPH/REGULAR INSULIN REGIMEN INITIATED: CURRENTLY ORDERED FOR 10 UNITS NPH BID AND  S/S COVERAGE Q6HR.
+
+ID: TMAX 99.2
+
+SKIN: A & P NECK INCISIONS COVERED W/OCCLUSIVE DSG - D/I. NO OTHER ISSUES NOTED.
+
+SOCIAL: NO FAMILY CONTACT THIS SHIFT.
+
+A/P: RESPIRATORY IMPAIRMENT IMPROVED, NEURO EXAM UNCHANGED. CONTINUES NPO W/TF FOR HYDRATION/NUTRITION. CONTINUE W/AGGRESSIVE PULMONARY HYGEINE, MAINTAIN C-SPINE PRECAUTIONS, PAIN MGT, GLUCOSE MONITORING. F/U W/T-SICU TEAM FOR (?) TRANSFER TO FLOOR TODAY - FULL SUPPORT/COMFORT.
+",,
+24253,,30129,0,2898-05-19 15:26:00 EST,2898-05-19 15:36:00 EST,3433,"N",54,"Nursing/Other","NPN 0700-1600","
+NPN 0700-1600
+    Pt confused but pleasant, orientated to person only. Verbal at times otherwise smiles alot. HOH and hearing aides in, nods yes when asked if he can hear okay. FCs, LUE flacid, other ext weak with LLE weaker than R. Video swallow  attempted but stopped after nectar as pt was very obvious aspirating large amts. Therapist saw alot of swelling in neck which definetly impairing swallowing and recommends repeating study after several weeks.
+  Weaned to 1L nasal cannula with sats 95-97%. Lungs diminished in bases. [**Name8 (MD) **] NP cough. CP done and no indication for NT sxing today.
+  HTN with systolic in 1140-160s, on lopressor. SR no ectopy. PIV placed and TLC d/c'd. Afebrile. Edema of LUE. Skin intact. 
+   TF impact with fiber at 65cc/h and free water boluses for NA level. Abd soft, +BS. Pt incontinent stool x 2. Foley patent with good amt UO.
+  Pt transferring to [**Hospital **] rehab at 1630. Son [**Name (NI) 922**] notified by phone via case manager and sister [**Name (NI) 4370**] told when came to visit.
+",,
+24253,,,,2898-07-29 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2898-7-29**] 8:16 PM
+     G/GJ TUBE CHECK                                                 Clip # [**Clip Number (Radiology) 1054**]
+     Reason: eval placement of new G tube                                
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      85 year old man with blocked J tube, replaced today c new tube                  
+     REASON FOR THIS EXAMINATION:
+      eval placement of new G tube                                                    
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  85-year-old man with blocked J-tube, replaced.
+     
+     SUPINE ABDOMEN:  No definite free air is seen within the abdomen on this
+     supine view.  Air is seen within the transverse colon.  A second view shows
+     contrast being injected into a gastric tube, with its tip probably in the
+     antrum of the stomach.
+     
+     Bony structures are remarkable for degenerative changes of both hips.  An IVC
+     filter is seen in the right midline.  An opacity over the left lower quadrant
+     is probably extrinsic to the patient.
+     
+     IMPRESSION:  Successful placement of gastric tube. 
+
+",,
+24253,,,,2898-07-31 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2898-7-31**] 2:46 PM
+     ABDOMEN (SUPINE & ERECT)                                        Clip # [**Clip Number (Radiology) 1055**]
+     Reason: r/out obstruction, free air                                 
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      85 year old man with j-tube pulled out [**7-29**] and replaced now w/ abdominal 
+      tenderness
+     REASON FOR THIS EXAMINATION:
+      r/out obstruction, free air                                                     
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  J tube removed, abdominal tenderness.
+     
+     ABDOMEN, SUPINE AND UPRIGHT:  A percutaneous enteric tube is seen overlying
+     the abdomen.  There is an IVC filter in place.  No free air is identified.
+     There is degenerative change within the spine and hips.
+     
+     IMPRESSION: No free intraabdominal air.
+
+",,
+24253,,,,2898-07-31 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2898-7-31**] 3:51 PM
+     CT ABDOMEN W/O CONTRAST                                         Clip # [**Clip Number (Radiology) 1056**]
+     Reason: r/out traumatic rupture, please use gastrograffin           
+     Field of view: 38
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      85 y/o male w/ j-tube traumatically removed [**7-29**] please evaluated for bowel 
+      injury
+     REASON FOR THIS EXAMINATION:
+      r/out traumatic rupture, please use gastrograffin                               
+     CONTRAINDICATIONS for IV CONTRAST:
+      Cr increase
+     ______________________________________________________________________________
+     WET READ: SGA [**Doctor First Name 98**] [**2898-7-31**] 4:25 PM
+      percutaneous gastric tube seen entering body/antrum of stomach and coiling
+      with tip terminating in fundus, no extravasation of injected contrast seen, no
+      obstruction, wall of stomach is unremarkable within the limits of this exam,
+      gallstones
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  J-tube traumatically removed on [**7-29**], please evaluate for
+     bowel injury, abdominal pain.
+     
+     COMPARISON:  CT torso [**2898-5-11**].
+     
+     TECHNIQUE:  Axial non-contrast images were obtained from the lung bases
+     through the bottom of the kidneys without the administration of IV contrast,
+     due to the patient's elevated creatinine.  Oral contrast was injected through
+     the patient's feeding tube.
+     
+     CT OF THE ABDOMEN WITHOUT IV CONTRAST:  There is scarring at the right lung
+     base.  There are coronary artery calcifications.  The percutaneous gastric
+     tube is seen entering the antrum of the stomach and coiling with the tip
+     situated in the fundus.  The appearance of the stomach is unremarkable.  There
+     is no extravasation of contrast.  Oral contrast is seen extending into the
+     proximal loops of small bowel.  The patient has an IVC filter in place.  There
+     is a left renal cyst which is otherwise unremarkable.  There are scattered
+     vascular calcifications. Allowing for the lack of IV contrast, the liver,
+     spleen, adrenal glands and right kidney are unremarkable.  The pancreas
+     appears atrophic.  There are gallstones.
+     
+     BONE WINDOWS:  There are no suspicious lytic or sclerotic osseous lesions.
+     
+     IMPRESSION:  Percutaneous gastric tube seen entering the region of the
+     body/antrum of stomach with the tube coiling and the tip terminating near the
+     fundus.  There is no extravasation of contrast or abnormality of the gastric
+     mucosa identified.
+     
+                                                                 (Over)
+
+     DATE: [**2898-7-31**] 3:51 PM
+     CT ABDOMEN W/O CONTRAST                                         Clip # [**Clip Number (Radiology) 1056**]
+     Reason: r/out traumatic rupture, please use gastrograffin           
+     Field of view: 38
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+
+",,
+24253,,,,2898-07-31 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2898-7-31**] 8:13 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 1057**]
+     Reason: r/o infiltrate                                              
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      85 year old man with leukocytosis                                               
+     REASON FOR THIS EXAMINATION:
+      r/o infiltrate                                                                  
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Leukocytosis.
+     
+     COMPARISON:  [**2898-5-15**].
+     
+     UPRIGHT AP CHEST:  In the interim since [**5-15**], the Dobbhoff tube has been
+     removed.  Cardiac, mediastinal, and hilar contours are normal.  The lungs are
+     clear, without vascular congestion or consolidation.  No pleural effusion or
+     pneumothorax.  There are degenerative changes of the spine.  Cervical spinal
+     hardware is noted at the upper aspect of the image.
+     
+     IMPRESSION:  No evidence of pneumonia.
+                                                                           
+
+",,
+24253,,,,2898-08-01 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2898-8-1**] 4:27 PM
+     PERC G/G-J TUBE PLMT                                            Clip # [**Clip Number (Radiology) 1058**]
+     Reason: Please eval for placement of G-J tube in place of G tube.   
+     Admitting Diagnosis: DEHYDRATION;ACUTE RENAL FAILURE
+     ********************************* CPT Codes ********************************
+     * 43761 REPOSITION GASTRIC TUBE INTO D 74355 PERC PLCMT ENTROCLYSIS TUBE   *
+     * -52 REDUCED SERVICES                 CATHETER, DRAINAGE                  *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      85 year old man with G-tube in place [**2-5**] aspiration. G-tube clogged, and comes 
+      in for replacement of G-tube for G-J tube. 
+     REASON FOR THIS EXAMINATION:
+      Please eval for placement of G-J tube in place of G tube.                       
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  History of aspiration pneumonia and clogged G-tube.  Convert G to GJ
+     tube.
+     
+     RADIOLOGISTS:  The procedure was performed by Dr. [**First Name (STitle) **] and Dr. [**Last Name (STitle) 4**].  Dr.
+     [**Last Name (STitle) 4**], the attending radiologist, was present and supervising throughout.
+     
+     PROCEDURE/FINDINGS:  The risks and benefits of the procedure were explained to
+     the patient's son, and telephone consent was obtained from the patient's son.
+     Preprocedural timeout was performed to confirm the patient's identity and the
+     procedure to be undertaken.
+     
+     Preliminary scout view demonstrated the gastrostomy tube tip to be within the
+     stomach.  The gastrostomy tube was deflated.  A 0.035 Bentson guidewire was
+     advanced through the gastrostomy tube and into the stomach.  The gastrostomy
+     tube was removed, and a 6-French bright tip sheath was then advanced over the
+     Bentson guidewire.  The inner stiffener of the sheath was removed, and a 5-
+     French MPA catheter was then advanced through the sheath over the guidewire.
+     Using combination of the MPA catheter and the Bentson guidewire, access was
+     obtained beyond the pylorus into the duodenum and proximal jejunum.  The 0.035
+     Bentson guidewire was then exchanged for a 0.035 Amplatz Super Stiff wire.
+     Both the sheath and the MPA catheter were then removed.  A 14-French [**Doctor Last Name 1059**]
+     gastrojejunostomy catheter was then advanced over the Amplatz Super Stiff wire
+     with the tip beyond the ligament of Treitz, in the proximal jejunum.  The
+     guidewire was removed, and a pigtail was formed within the mid portion of the
+     catheter, within the second portion of the duodenum.  Using 5 cc of contrast,
+     the tip of the gastrojejunostomy catheter was confirmed to be within the
+     proximal jejunum.  The patient tolerated the procedure well without any
+     immediate post-procedural complications.
+     
+     IMPRESSION:  Successful conversion of gastrostomy tube to 14-French [**Doctor Last Name 1059**]
+     gastrojejunostomy catheter with tip in the proximal jejunum, beyond the
+     ligament of Treitz.
+     
+     
+     
+     
+     
+                                                                 (Over)
+
+     DATE: [**2898-8-1**] 4:27 PM
+     PERC G/G-J TUBE PLMT                                            Clip # [**Clip Number (Radiology) 1058**]
+     Reason: Please eval for placement of G-J tube in place of G tube.   
+     Admitting Diagnosis: DEHYDRATION;ACUTE RENAL FAILURE
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     
+     
+     
+     
+     
+     
+
+",,
+24253,,,,2898-08-01 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2898-8-1**] 4:27 PM
+     PERC G/G-J TUBE PLMT                                            Clip # [**Clip Number (Radiology) 1058**]
+     Reason: Please eval for placement of G-J tube in place of G tube.   
+     Admitting Diagnosis: DEHYDRATION;ACUTE RENAL FAILURE
+     ********************************* CPT Codes ********************************
+     * 43761 REPOSITION GASTRIC TUBE INTO D 74355 PERC PLCMT ENTROCLYSIS TUBE   *
+     * -52 REDUCED SERVICES                 CATHETER, DRAINAGE                  *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      85 year old man with G-tube in place [**2-5**] aspiration. G-tube clogged, and comes 
+      in for replacement of G-tube for G-J tube. 
+     REASON FOR THIS EXAMINATION:
+      Please eval for placement of G-J tube in place of G tube.                       
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  History of aspiration pneumonia and clogged G-tube.  Convert G to GJ
+     tube.
+     
+     RADIOLOGISTS:  The procedure was performed by Dr. [**First Name (STitle) **] and Dr. [**Last Name (STitle) 4**].  Dr.
+     [**Last Name (STitle) 4**], the attending radiologist, was present and supervising throughout.
+     
+     PROCEDURE/FINDINGS:  The risks and benefits of the procedure were explained to
+     the patient's son, and telephone consent was obtained from the patient's son.
+     Preprocedural timeout was performed to confirm the patient's identity and the
+     procedure to be undertaken.
+     
+     Preliminary scout view demonstrated the gastrostomy tube tip to be within the
+     stomach.  The gastrostomy tube was deflated.  A 0.035 Bentson guidewire was
+     advanced through the gastrostomy tube and into the stomach.  The gastrostomy
+     tube was removed, and a 6-French bright tip sheath was then advanced over the
+     Bentson guidewire.  The inner stiffener of the sheath was removed, and a 5-
+     French MPA catheter was then advanced through the sheath over the guidewire.
+     Using combination of the MPA catheter and the Bentson guidewire, access was
+     obtained beyond the pylorus into the duodenum and proximal jejunum.  The 0.035
+     Bentson guidewire was then exchanged for a 0.035 Amplatz Super Stiff wire.
+     Both the sheath and the MPA catheter were then removed.  A 14-French [**Doctor Last Name 1059**]
+     gastrojejunostomy catheter was then advanced over the Amplatz Super Stiff wire
+     with the tip beyond the ligament of Treitz, in the proximal jejunum.  The
+     guidewire was removed, and a pigtail was formed within the mid portion of the
+     catheter, within the second portion of the duodenum.  Using 5 cc of contrast,
+     the tip of the gastrojejunostomy catheter was confirmed to be within the
+     proximal jejunum.  The patient tolerated the procedure well without any
+     immediate post-procedural complications.
+     
+     IMPRESSION:  Successful conversion of gastrostomy tube to 14-French [**Doctor Last Name 1059**]
+     gastrojejunostomy catheter with tip in the proximal jejunum, beyond the
+     ligament of Treitz.
+     
+     
+     
+     
+     
+                                                                 (Over)
+
+     DATE: [**2898-8-1**] 4:27 PM
+     PERC G/G-J TUBE PLMT                                            Clip # [**Clip Number (Radiology) 1058**]
+     Reason: Please eval for placement of G-J tube in place of G tube.   
+     Admitting Diagnosis: DEHYDRATION;ACUTE RENAL FAILURE
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     
+     
+     
+     
+     
+     
+
+",,
+24253,,,,2898-08-01 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2898-8-1**] 4:27 PM
+     PERC G/G-J TUBE PLMT                                            Clip # [**Clip Number (Radiology) 1058**]
+     Reason: Please eval for placement of G-J tube in place of G tube.   
+     Admitting Diagnosis: DEHYDRATION;ACUTE RENAL FAILURE
+     ********************************* CPT Codes ********************************
+     * 43761 REPOSITION GASTRIC TUBE INTO D 74355 PERC PLCMT ENTROCLYSIS TUBE   *
+     * -52 REDUCED SERVICES                 CATHETER, DRAINAGE                  *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      85 year old man with G-tube in place [**2-5**] aspiration. G-tube clogged, and comes 
+      in for replacement of G-tube for G-J tube. 
+     REASON FOR THIS EXAMINATION:
+      Please eval for placement of G-J tube in place of G tube.                       
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  History of aspiration pneumonia and clogged G-tube.  Convert G to GJ
+     tube.
+     
+     RADIOLOGISTS:  The procedure was performed by Dr. [**First Name (STitle) **] and Dr. [**Last Name (STitle) 4**].  Dr.
+     [**Last Name (STitle) 4**], the attending radiologist, was present and supervising throughout.
+     
+     PROCEDURE/FINDINGS:  The risks and benefits of the procedure were explained to
+     the patient's son, and telephone consent was obtained from the patient's son.
+     Preprocedural timeout was performed to confirm the patient's identity and the
+     procedure to be undertaken.
+     
+     Preliminary scout view demonstrated the gastrostomy tube tip to be within the
+     stomach.  The gastrostomy tube was deflated.  A 0.035 Bentson guidewire was
+     advanced through the gastrostomy tube and into the stomach.  The gastrostomy
+     tube was removed, and a 6-French bright tip sheath was then advanced over the
+     Bentson guidewire.  The inner stiffener of the sheath was removed, and a 5-
+     French MPA catheter was then advanced through the sheath over the guidewire.
+     Using combination of the MPA catheter and the Bentson guidewire, access was
+     obtained beyond the pylorus into the duodenum and proximal jejunum.  The 0.035
+     Bentson guidewire was then exchanged for a 0.035 Amplatz Super Stiff wire.
+     Both the sheath and the MPA catheter were then removed.  A 14-French [**Doctor Last Name 1059**]
+     gastrojejunostomy catheter was then advanced over the Amplatz Super Stiff wire
+     with the tip beyond the ligament of Treitz, in the proximal jejunum.  The
+     guidewire was removed, and a pigtail was formed within the mid portion of the
+     catheter, within the second portion of the duodenum.  Using 5 cc of contrast,
+     the tip of the gastrojejunostomy catheter was confirmed to be within the
+     proximal jejunum.  The patient tolerated the procedure well without any
+     immediate post-procedural complications.
+     
+     IMPRESSION:  Successful conversion of gastrostomy tube to 14-French [**Doctor Last Name 1059**]
+     gastrojejunostomy catheter with tip in the proximal jejunum, beyond the
+     ligament of Treitz.
+     
+     
+     
+     
+     
+                                                                 (Over)
+
+     DATE: [**2898-8-1**] 4:27 PM
+     PERC G/G-J TUBE PLMT                                            Clip # [**Clip Number (Radiology) 1058**]
+     Reason: Please eval for placement of G-J tube in place of G tube.   
+     Admitting Diagnosis: DEHYDRATION;ACUTE RENAL FAILURE
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     
+     
+     
+     
+     
+     
+
+",,
+24253,,,,2898-08-01 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2898-8-1**] 4:27 PM
+     PERC G/G-J TUBE PLMT                                            Clip # [**Clip Number (Radiology) 1058**]
+     Reason: Please eval for placement of G-J tube in place of G tube.   
+     Admitting Diagnosis: DEHYDRATION;ACUTE RENAL FAILURE
+     ********************************* CPT Codes ********************************
+     * 43761 REPOSITION GASTRIC TUBE INTO D 74355 PERC PLCMT ENTROCLYSIS TUBE   *
+     * -52 REDUCED SERVICES                 CATHETER, DRAINAGE                  *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      85 year old man with G-tube in place [**2-5**] aspiration. G-tube clogged, and comes 
+      in for replacement of G-tube for G-J tube. 
+     REASON FOR THIS EXAMINATION:
+      Please eval for placement of G-J tube in place of G tube.                       
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  History of aspiration pneumonia and clogged G-tube.  Convert G to GJ
+     tube.
+     
+     RADIOLOGISTS:  The procedure was performed by Dr. [**First Name (STitle) **] and Dr. [**Last Name (STitle) 4**].  Dr.
+     [**Last Name (STitle) 4**], the attending radiologist, was present and supervising throughout.
+     
+     PROCEDURE/FINDINGS:  The risks and benefits of the procedure were explained to
+     the patient's son, and telephone consent was obtained from the patient's son.
+     Preprocedural timeout was performed to confirm the patient's identity and the
+     procedure to be undertaken.
+     
+     Preliminary scout view demonstrated the gastrostomy tube tip to be within the
+     stomach.  The gastrostomy tube was deflated.  A 0.035 Bentson guidewire was
+     advanced through the gastrostomy tube and into the stomach.  The gastrostomy
+     tube was removed, and a 6-French bright tip sheath was then advanced over the
+     Bentson guidewire.  The inner stiffener of the sheath was removed, and a 5-
+     French MPA catheter was then advanced through the sheath over the guidewire.
+     Using combination of the MPA catheter and the Bentson guidewire, access was
+     obtained beyond the pylorus into the duodenum and proximal jejunum.  The 0.035
+     Bentson guidewire was then exchanged for a 0.035 Amplatz Super Stiff wire.
+     Both the sheath and the MPA catheter were then removed.  A 14-French [**Doctor Last Name 1059**]
+     gastrojejunostomy catheter was then advanced over the Amplatz Super Stiff wire
+     with the tip beyond the ligament of Treitz, in the proximal jejunum.  The
+     guidewire was removed, and a pigtail was formed within the mid portion of the
+     catheter, within the second portion of the duodenum.  Using 5 cc of contrast,
+     the tip of the gastrojejunostomy catheter was confirmed to be within the
+     proximal jejunum.  The patient tolerated the procedure well without any
+     immediate post-procedural complications.
+     
+     IMPRESSION:  Successful conversion of gastrostomy tube to 14-French [**Doctor Last Name 1059**]
+     gastrojejunostomy catheter with tip in the proximal jejunum, beyond the
+     ligament of Treitz.
+     
+     
+     
+     
+     
+                                                                 (Over)
+
+     DATE: [**2898-8-1**] 4:27 PM
+     PERC G/G-J TUBE PLMT                                            Clip # [**Clip Number (Radiology) 1058**]
+     Reason: Please eval for placement of G-J tube in place of G tube.   
+     Admitting Diagnosis: DEHYDRATION;ACUTE RENAL FAILURE
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     
+     
+     
+     
+     
+     
+
+",,
+24253,,,,2898-08-02 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2898-8-2**] 4:52 PM
+     UNILAT UP EXT VEINS US LEFT                                     Clip # [**Clip Number (Radiology) 1060**]
+     Reason: L ARM SWELLING, EVAL FOR DVT IN UPPER EXTREMITY
+     Admitting Diagnosis: DEHYDRATION;ACUTE RENAL FAILURE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      85M L>R 3+ upper extremity edema.                                               
+     REASON FOR THIS EXAMINATION:
+      please eval for DVT in upper extremity.                                         
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Left greater than right upper extremity edema.
+     
+     There are no prior studies available for comparison.
+     
+     FINDINGS:  Grayscale and Doppler sonograms of the left subclavian, axillary,
+     brachial, and basilic veins was performed.  The internal jugular vein cannot
+     be imaged due to a cervical collar.  The visualized veins demonstrate normal
+     flow, compressibility, augmentation, and waveforms.  There is no intraluminal
+     thrombus identified.
+     
+     IMPRESSION:  No evidence of DVT.
+                                                                           
+
+",,
+24253,,,,2898-08-05 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2898-8-5**] 1:00 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 1062**]
+     Reason: ?pulmonary edema                                            
+     Admitting Diagnosis: DEHYDRATION;ACUTE RENAL FAILURE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       85 year old man with leukocytosis with tachypnea and cardiac disease.          
+                         
+     REASON FOR THIS EXAMINATION:
+      ?pulmonary edema                                                                
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     AP CHEST 13:39 HOURS:
+     
+     HISTORY:  85-year-old man with leukocytosis, tachypnea, and cardiac disease. 
+     Rule out pulmonary edema.
+     
+     IMPRESSION:  AP chest compared to a series of chest radiographs since [**5-14**],
+     most recently [**7-31**].
+     
+     Atelectasis and small right pleural effusion are new since [**7-31**].  Lungs are
+     otherwise clear.  The heart is top normal size.  There is no left-sided
+     pleural abnormality.  Tubing projecting over the upper abdomen may be a
+     gastrostomy or enterostomy but it cannot be properly localized.
+                                                                           
+
+             DR. [**First Name11 (Name Pattern1) 629**] [**Initial (NamePattern1) **] [**Last Name (NamePattern4) 630**]
+",,
+24253,,,,2898-08-05 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2898-8-5**] 10:00 AM
+     VIDEO OROPHARYNGEAL SWALLOW                                     Clip # [**Clip Number (Radiology) 1061**]
+     Reason: ?aspiration                                                 
+     Admitting Diagnosis: DEHYDRATION;ACUTE RENAL FAILURE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      85 year old man with C5-C6 subluxation s/p fixation and s/p CVA with incomplete 
+      quadraplegia in c-collar presents with dehydration, acute on chronic renal 
+      failure and GJ tube replacement (this past Friday).  Hx of failed swallow in 
+      april of this year.
+     REASON FOR THIS EXAMINATION:
+      ?aspiration                                                                     
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  History of failed swallow in April of this year.  Presents for GJ
+     tube replacement.  C5-6 subluxation status post fixation and history of
+     stroke.  Incomplete quadriplegia.  Evaluate swallowing.
+     
+     VIDEO OROPHARYNGEAL SWALLOW:  Study was performed in conjunction with a speech
+     pathologist.  Under video fluoroscopic guidance, multiple consistencies of
+     barium were administered to the patient including nectar thick, honey and
+     pudding.  There is a delayed oral phase with each of the consistencies.
+     Aspiration occurs during swallowing of the nectar-thick liquid.  Aspiration
+     does not occur with the pudding and honey consistencies.  When a small amount
+     of aspiration occurred, there was no spontaneous cough.  When larger amounts
+     of aspiration occurred, there was a spontaneous cough that was not effective
+     in clearing the aspirated material.  After swallowing the honey and pudding
+     consistencies, there is a small amount of residual barium within the
+     valleculae.
+     
+     IMPRESSION:  Aspiration occurred with nectar liquids.  Honey and pudding were
+     better tolerated by the patient.  Please see the report of the speech
+     pathologist for additional details.
+
+",,
+24253,,,,2898-10-01 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2898-10-1**] 3:44 PM
+     CHEST (SINGLE VIEW); ABDOMEN (SUPINE ONLY)                      Clip # [**Clip Number (Radiology) 1063**]
+     HEB REB PRO FEE ONLY
+     Reason: VOMITTING, FEVER
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CHEST SINGLE VIEW AND ABDOMEN SUPINE ON [**10-1**]
+     
+     HRC number H32152, room 136 West.
+     
+     INDICATIONS:  Vomiting.  Fever.  Scattered bilateral rhonchi.
+     
+     AP CHEST:  No prior comparisons.  The heart does not appear grossly enlarged.
+     There is a patchy infiltrate in the left lower lobe. Allowing for some
+     respiratory motion artifacts, the remainder of the lung fields are grossly
+     clear and there is no obvious CHF or effusions.
+     
+     AP SUPINE ABDOMEN:  A percutaneous gastrojejunostomy feeding tube is present
+     and appears in unremarkable position.  An IVC filter is noted at the L2-3
+     level. Allowing for some respiratory motion, the bowel gas pattern is
+     unremarkable without evidence to suggest obstruction.
+     
+     IMPRESSION:  Left lower lobe pneumonia.
+     
+     No acute process seen in the abdomen.
+     
+     
+     
+     
+
+",,
+24253,,,,2898-10-01 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2898-10-1**] 3:44 PM
+     CHEST (SINGLE VIEW); ABDOMEN (SUPINE ONLY)                      Clip # [**Clip Number (Radiology) 1063**]
+     HEB REB PRO FEE ONLY
+     Reason: VOMITTING, FEVER
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CHEST SINGLE VIEW AND ABDOMEN SUPINE ON [**10-1**]
+     
+     HRC number H32152, room 136 West.
+     
+     INDICATIONS:  Vomiting.  Fever.  Scattered bilateral rhonchi.
+     
+     AP CHEST:  No prior comparisons.  The heart does not appear grossly enlarged.
+     There is a patchy infiltrate in the left lower lobe. Allowing for some
+     respiratory motion artifacts, the remainder of the lung fields are grossly
+     clear and there is no obvious CHF or effusions.
+     
+     AP SUPINE ABDOMEN:  A percutaneous gastrojejunostomy feeding tube is present
+     and appears in unremarkable position.  An IVC filter is noted at the L2-3
+     level. Allowing for some respiratory motion, the bowel gas pattern is
+     unremarkable without evidence to suggest obstruction.
+     
+     IMPRESSION:  Left lower lobe pneumonia.
+     
+     No acute process seen in the abdomen.
+     
+     
+     
+     
+
+",,
+24253,,,,2898-10-01 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2898-10-1**] 3:44 PM
+     CHEST (SINGLE VIEW); ABDOMEN (SUPINE ONLY)                      Clip # [**Clip Number (Radiology) 1063**]
+     HEB REB PRO FEE ONLY
+     Reason: VOMITTING, FEVER
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CHEST SINGLE VIEW AND ABDOMEN SUPINE ON [**10-1**]
+     
+     HRC number H32152, room 136 West.
+     
+     INDICATIONS:  Vomiting.  Fever.  Scattered bilateral rhonchi.
+     
+     AP CHEST:  No prior comparisons.  The heart does not appear grossly enlarged.
+     There is a patchy infiltrate in the left lower lobe. Allowing for some
+     respiratory motion artifacts, the remainder of the lung fields are grossly
+     clear and there is no obvious CHF or effusions.
+     
+     AP SUPINE ABDOMEN:  A percutaneous gastrojejunostomy feeding tube is present
+     and appears in unremarkable position.  An IVC filter is noted at the L2-3
+     level. Allowing for some respiratory motion, the bowel gas pattern is
+     unremarkable without evidence to suggest obstruction.
+     
+     IMPRESSION:  Left lower lobe pneumonia.
+     
+     No acute process seen in the abdomen.
+     
+     
+     
+     
+
+",,
+24253,,,,2898-10-06 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2898-10-6**] 5:10 PM
+     CHEST (SINGLE VIEW); ABDOMEN (SUPINE ONLY)                      Clip # [**Clip Number (Radiology) 1064**]
+     HEB REB PRO FEE ONLY
+     Reason: DECREASED BOWEL SOUNDS / PNEUMONIA
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CHEST SINGLE VIEW AND SUPINE ABDOMEN
+     
+     HRC # H32152, room 310 North.
+     
+     INDICATION:  Pneumonia.  Decreased bowel sounds.  Evaluate for bowel
+     obstruction.
+     
+     FINDINGS:
+     
+     AP CHEST:  Compared with [**2898-10-1**], the suspected left lower lobe pneumonia is
+     confirmed with the patient holding his breath on the current chest x-ray.  A
+     left arm intravenous line is seen with its tip at the level of the left
+     axilla.  The right lung remains grossly clear.
+     
+     ABDOMEN:  Compared with [**2898-10-1**], the bowel gas pattern remains unremarkable
+     and without signs of bowel obstruction.  The percutaneous gastrojejunostomy
+     feeding tube has been pulled back with its tip now in the left upper quadrant
+     just beyond the ligament of Treitz.
+     
+     IMPRESSION:  Left lower lobe pneumonia.  No bowel obstruction.
+     
+     
+     
+     
+     
+     
+     
+
+",,
+24253,,,,2898-10-06 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2898-10-6**] 5:10 PM
+     CHEST (SINGLE VIEW); ABDOMEN (SUPINE ONLY)                      Clip # [**Clip Number (Radiology) 1064**]
+     HEB REB PRO FEE ONLY
+     Reason: DECREASED BOWEL SOUNDS / PNEUMONIA
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CHEST SINGLE VIEW AND SUPINE ABDOMEN
+     
+     HRC # H32152, room 310 North.
+     
+     INDICATION:  Pneumonia.  Decreased bowel sounds.  Evaluate for bowel
+     obstruction.
+     
+     FINDINGS:
+     
+     AP CHEST:  Compared with [**2898-10-1**], the suspected left lower lobe pneumonia is
+     confirmed with the patient holding his breath on the current chest x-ray.  A
+     left arm intravenous line is seen with its tip at the level of the left
+     axilla.  The right lung remains grossly clear.
+     
+     ABDOMEN:  Compared with [**2898-10-1**], the bowel gas pattern remains unremarkable
+     and without signs of bowel obstruction.  The percutaneous gastrojejunostomy
+     feeding tube has been pulled back with its tip now in the left upper quadrant
+     just beyond the ligament of Treitz.
+     
+     IMPRESSION:  Left lower lobe pneumonia.  No bowel obstruction.
+     
+     
+     
+     
+     
+     
+     
+
+",,
+24253,,,,2898-10-06 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2898-10-6**] 5:10 PM
+     CHEST (SINGLE VIEW); ABDOMEN (SUPINE ONLY)                      Clip # [**Clip Number (Radiology) 1064**]
+     HEB REB PRO FEE ONLY
+     Reason: DECREASED BOWEL SOUNDS / PNEUMONIA
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CHEST SINGLE VIEW AND SUPINE ABDOMEN
+     
+     HRC # H32152, room 310 North.
+     
+     INDICATION:  Pneumonia.  Decreased bowel sounds.  Evaluate for bowel
+     obstruction.
+     
+     FINDINGS:
+     
+     AP CHEST:  Compared with [**2898-10-1**], the suspected left lower lobe pneumonia is
+     confirmed with the patient holding his breath on the current chest x-ray.  A
+     left arm intravenous line is seen with its tip at the level of the left
+     axilla.  The right lung remains grossly clear.
+     
+     ABDOMEN:  Compared with [**2898-10-1**], the bowel gas pattern remains unremarkable
+     and without signs of bowel obstruction.  The percutaneous gastrojejunostomy
+     feeding tube has been pulled back with its tip now in the left upper quadrant
+     just beyond the ligament of Treitz.
+     
+     IMPRESSION:  Left lower lobe pneumonia.  No bowel obstruction.
+     
+     
+     
+     
+     
+     
+     
+
+",,
+24253,22719,,,2898-10-23 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2898-10-23**] 11:49 AM
+     CHEST (PORTABLE AP); -77 BY DIFFERENT PHYSICIAN                 [**Name Initial (PRE) 232**] # [**Clip Number (Radiology) 1068**]
+     Reason: R/O Pneumo                                                  
+     Admitting Diagnosis: FEVER
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        85 year old man with history of aspiration pneumonia and recurrent UTI now  
+      with fever s/p 6 attempts R subclav.
+     REASON FOR THIS EXAMINATION:
+      R/O Pneumo                                                                      
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Aspiration pneumonia and recurrent urinary tract infection with
+     multiple central line attempts.
+     
+     PORTABLE AP CHEST:  Comparison is made to study performed two hours earlier. 
+     Right subclavian central venous catheter remains in stable position.  There is
+     no pneumothorax.  Previously described patchy bibasilar opacities are again
+     noted, consistent with history of aspiration.  There are no pleural effusions.
+     
+     IMPRESSION:  No significant interval change in the short interval.  No
+     pneumothorax.
+                                                                           
+
+",,
+24253,22719,,,2898-10-23 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2898-10-23**] 9:23 AM
+     CHEST PORT. LINE PLACEMENT; -77 BY DIFFERENT PHYSICIAN          [**Name Initial (PRE) 232**] # [**Clip Number (Radiology) 1067**]
+     Reason: r/o ptx                                                     
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       85 year old man with history of aspiration pneumonia and recurrent UTI now 
+      with fever s/p 6 attempts R subclav.
+     REASON FOR THIS EXAMINATION:
+      r/o ptx                                                                         
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Aspiration pneumonia and urinary tract infection, now with fever
+     after multiple attempts at a right subclavian catheter.  Assess for
+     pneumothorax.
+     
+     PORTABLE AP CHEST:  Comparison is made to study performed 7 hours prior.  The
+     tip of the right subclavian central venous catheter is not well seen but it
+     appears to terminate within the mid SVC.  There is no pneumothorax.  There are
+     persistent bibasilar opacities, in keeping with patient history of aspiration
+     pneumonia.  There is increased confluence of the right basilar opacity in the
+     short interval.  There may be small pleural effusions.
+     
+     IMPRESSION:
+     1.  Satisfactory positioning of right subclavian central venous catheter
+     without discernable pneumothorax.
+     2.  Bibasilar opacities, consistent with thehistory of aspiration. Increasing
+     confluence of right basilar opacity.  A dedicated PA and lateral radiograph is
+     recommended when clinically feasible.
+
+",,
+24253,22719,,,2898-10-23 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2898-10-23**] 2:10 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 1066**]
+     Reason: fever 
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      85 year old man with history of aspiration pneumonia and recurrent UTI now with
+      fever 
+     REASON FOR THIS EXAMINATION:
+      fever 
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  History of aspiration pneumonia, recurrent urinary tract infection
+     with fever.
+     
+     COMPARISON:  [**2898-8-5**].
+     
+     UPRIGHT AP VIEW OF THE CHEST:  The heart is normal in size.  The mediastinal
+     and hilar contours are unremarkable.  Patchy opacities are present within both
+     lung bases, left greater than right, concerning for pneumonia. Pulmonary
+     vascularity is otherwise within normal limits given the patient's supine
+     positioning.  No definite pleural effusions or pneumothorax is demonstrated.
+     Anterior and posterior spinal fusion hardware is again noted within the
+     cervical spine.
+     
+     IMPRESSION:  Bibasilar patchy opacities, left greater than right, concerning
+     for pneumonia.
+                                                                           [**Month Day 134**]
+
+",,
+24253,22719,,,2898-10-23 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2898-10-23**] 9:23 AM
+     CHEST PORT. LINE PLACEMENT; -77 BY DIFFERENT PHYSICIAN          [**Name Initial (PRE) 232**] # [**Clip Number (Radiology) 1067**]
+     Reason: r/o ptx                                                     
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       85 year old man with history of aspiration pneumonia and recurrent UTI now 
+      with fever s/p 6 attempts R subclav.
+     REASON FOR THIS EXAMINATION:
+      r/o ptx                                                                         
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Aspiration pneumonia and urinary tract infection, now with fever
+     after multiple attempts at a right subclavian catheter.  Assess for
+     pneumothorax.
+     
+     PORTABLE AP CHEST:  Comparison is made to study performed 7 hours prior.  The
+     tip of the right subclavian central venous catheter is not well seen but it
+     appears to terminate within the mid SVC.  There is no pneumothorax.  There are
+     persistent bibasilar opacities, in keeping with patient history of aspiration
+     pneumonia.  There is increased confluence of the right basilar opacity in the
+     short interval.  There may be small pleural effusions.
+     
+     IMPRESSION:
+     1.  Satisfactory positioning of right subclavian central venous catheter
+     without discernable pneumothorax.
+     2.  Bibasilar opacities, consistent with thehistory of aspiration. Increasing
+     confluence of right basilar opacity.  A dedicated PA and lateral radiograph is
+     recommended when clinically feasible.
+
+",,
+24253,22719,,,2898-10-23 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2898-10-23**] 1:07 AM
+     EMERGENCY PELVIC U.S.                                           Clip # [**Clip Number (Radiology) 1065**]
+     Reason: frank blood in s/p foley placement, now not draining but flu
+     ______________________________________________________________________________
+     CLINICAL INFORMATION & QUESTIONS TO BE ANSWERED:
+     ______________________________________________________________________________
+     WET READ: [**First Name9 (NamePattern2) 134**] [**Doctor First Name 98**] [**2898-10-23**] 1:42 AM
+      successful repositioning of foley catheter balloon from within the prostatic
+      urethra into the bladder. blood clots noted in the bladder
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Frank blood after Foley placement.  Evaluate Foley catheter
+     placement.
+     
+     LIMITED ABDOMINAL ULTRASOUND:  Imaging over the bladder was performed.  The
+     bladder is distended and contains echogenic material within the dependent
+     portion, most consistent with hematoma.  A Foley catheter balloon was not
+     clearly visualized within the bladder and appeared to lie within the
+     prosthetic urethra.
+     
+     With the assistance of the emergency team, the Foley catheter balloon was
+     deflated and under direct ultrasound guidance was repositioned back into the
+     bladder.  Final images demonstrate the Foley catheter balloon to be located
+     within the bladder with surrounding echogenic material noted, consistent with
+     hematoma.
+     
+     IMPRESSION:
+     1.  Foley catheter balloon initially located within the prosthetic urethra
+     with hematoma noted in the bladder.
+     2.  Successful repositioning of the Foley catheter balloon within the bladder
+     with echogenic debris noted around the catheter, consistent with hematoma.
+     
+                                                                           [**Month Day 134**]
+
+",,
+24253,22719,,,2898-10-23 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2898-10-23**] 11:49 AM
+     CHEST (PORTABLE AP); -77 BY DIFFERENT PHYSICIAN                 [**Name Initial (PRE) 232**] # [**Clip Number (Radiology) 1068**]
+     Reason: R/O Pneumo                                                  
+     Admitting Diagnosis: FEVER
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        85 year old man with history of aspiration pneumonia and recurrent UTI now  
+      with fever s/p 6 attempts R subclav.
+     REASON FOR THIS EXAMINATION:
+      R/O Pneumo                                                                      
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Aspiration pneumonia and recurrent urinary tract infection with
+     multiple central line attempts.
+     
+     PORTABLE AP CHEST:  Comparison is made to study performed two hours earlier. 
+     Right subclavian central venous catheter remains in stable position.  There is
+     no pneumothorax.  Previously described patchy bibasilar opacities are again
+     noted, consistent with history of aspiration.  There are no pleural effusions.
+     
+     IMPRESSION:  No significant interval change in the short interval.  No
+     pneumothorax.
+                                                                           
+
+",,
+24253,22719,30130,0,2898-10-23 17:21:00 EST,2898-10-23 17:41:00 EST,7270,"N",69,"Nursing/Other","FICU NPN 7A-7P","
+FICU NPN 7A-7P
+Pt presented to BID ED after nursing home where pt resides tried to make scheuled f/c change, but unable to place new one. Urology called and placed #22 Kuday and initially got back pus, then clots and pink/red urine. While pt in ED, also became febrile, hypotensive and requiring fluid boluses (total of 6L), tachycardic, and lactic acid 4.6. ED unable to place central access in pt after several attempts. Pt not started on sepsis protocol d/t no presep catheter. 
+
+Neuro: Pt makes incomprehendible noises at times, does not communicate or follow commands. Right arm contracted, pt noted to move LUE slightly only. Moans upon patient care. 
+
+Pulm: On RA with O2 sats in high 90's to 100%. Difficult to obtain O2 sat reading. LS with fine bibasilar rales. No cough.
+
+CV: HR 100-110's ST, no ectopy noted. SBP 100-120's with MAPs >60. Afebrile. Skin warm and dry. HCT 22 from 31.
+
+GI: Abd soft, NT, hypoactive BS. +BM this shift. G-Tube intact, pt to start on Boost TF tonite. BS checks q6hr with scheduled doses of NPH.
+
+GU: Urology in to irrigate f/c and got back several clots. U/O >30cc/hr of pink/red urine. 
+
+Skin: Bilateral heels with stage II breakdown, currently elevated off bed with pillows. Coccyx with stage III pressure sore that was irrigated with NS and wet to dry dsg placed. 
+
+Social: Family updated by MD. There is a caretaker [**Doctor First Name **] who family gave permission for all infomation to be relayed to her as well as them. 
+
+Plan: Pt to get 1u PRBC tonite, then check HH. D5 with bicarb gtt to be stopped after 1L infused, then reassess fluid status. Pt is on several antibx. Next stool send for c.diff. 
+",,
+24253,22719,30130,,2898-10-24 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2898-10-24**] 3:58 PM
+     CHEST PORT. LINE PLACEMENT; -77 BY DIFFERENT PHYSICIAN          [**Name Initial (PRE) 232**] # [**Clip Number (Radiology) 1070**]
+     Reason: confirm position of RIJ central line, r/o PTX               
+     Admitting Diagnosis: FEVER
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+          85 year old man with sepsis, s/p central line placement (RIJ)               
+     REASON FOR THIS EXAMINATION:
+      confirm position of RIJ central line, r/o PTX                                   
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     Portable chest [**2898-10-24**].
+     
+     COMPARISON:  Previous study of earlier the same date.
+     
+     INDICATION:  Line placement.
+     
+     A right subclavian vascular catheter has been placed, terminating at the
+     junction of the superior vena cava and right atrium.  Cardiac and mediastinal
+     contours are stable allowing for patient rotation.  There are increasing
+     patchy areas of opacity in the left mid and lower lung zones, and there is
+     also minimal patchy opacity at the right base.
+     
+     IMPRESSION:  Increasing patchy opacities in the left mid and lower lung zones.
+     Although possibly due to patchy atelectasis, aspiration or evolving pneumonia
+     should be considered in the appropriate clinical setting.
+     
+     Central venous catheter tip at junction of superior vena cava and right atrium
+     with no pneumothorax.
+
+",,
+24253,22719,30130,,2898-10-24 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2898-10-24**] 6:14 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 1069**]
+     Reason: retrocardiac and/or RLL PNA??                               
+     Admitting Diagnosis: FEVER
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+         85 year old man with history of aspiration pneumonia and recurrent UTI now   
+      with fever s/p 6 attempts R subclav.
+     REASON FOR THIS EXAMINATION:
+      retrocardiac and/or RLL PNA??                                                   
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     AP CHEST 6:39 A.M. [**10-24**].
+     
+     HISTORY:  Aspiration pneumonia and recurrent UTI.
+     
+     IMPRESSION:  AP chest compared to [**10-23**]:
+     
+     The lung volumes are lower.  Pulmonary vascular congestion and borderline
+     interstitial edema are worse, although the heart size is normal and there is
+     no appreciable pleural effusion.
+                                                                           
+
+",,
+24253,22719,30130,,2898-10-24 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2898-10-24**] 3:58 PM
+     CHEST PORT. LINE PLACEMENT; -77 BY DIFFERENT PHYSICIAN          [**Name Initial (PRE) 232**] # [**Clip Number (Radiology) 1070**]
+     Reason: confirm position of RIJ central line, r/o PTX               
+     Admitting Diagnosis: FEVER
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+          85 year old man with sepsis, s/p central line placement (RIJ)               
+     REASON FOR THIS EXAMINATION:
+      confirm position of RIJ central line, r/o PTX                                   
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     Portable chest [**2898-10-24**].
+     
+     COMPARISON:  Previous study of earlier the same date.
+     
+     INDICATION:  Line placement.
+     
+     A right subclavian vascular catheter has been placed, terminating at the
+     junction of the superior vena cava and right atrium.  Cardiac and mediastinal
+     contours are stable allowing for patient rotation.  There are increasing
+     patchy areas of opacity in the left mid and lower lung zones, and there is
+     also minimal patchy opacity at the right base.
+     
+     IMPRESSION:  Increasing patchy opacities in the left mid and lower lung zones.
+     Although possibly due to patchy atelectasis, aspiration or evolving pneumonia
+     should be considered in the appropriate clinical setting.
+     
+     Central venous catheter tip at junction of superior vena cava and right atrium
+     with no pneumothorax.
+
+",,
+24253,22719,30130,0,2898-10-24 06:34:00 EST,2898-10-24 06:41:00 EST,1014,"N",69,"Nursing/Other",,"
+
+npn 7p-7a (see also carevue flownotes for objective data)
+
+dx: clotted foley catheter
+
+Pt's foley drained this 12 hours w/out difficutly; still reddish, but not frank blood appearing; vss; no temp spike this night; though did receive call from micro that 2 of pt's blood cx bottles reportedly grew out positive for gm positive cooci in chains;
+
+No new acute issues apparent;
+
+PLAN:
+IV Abx
+follow patency of foley
+follow quality of urine
+clarify tube feed order
+",,
+24253,22719,30130,0,2898-10-24 19:19:00 EST,2898-10-24 19:24:00 EST,1277,"N",69,"Nursing/Other",,"
+
+transfer to 11 r
+
+pt is demented and hard of hearing, rt sid weakness
+
+vs temp 96.8 orally at 2000 bp 145/49  hr 92 NSR resp 20 97 % sat on ra
+
+lg liq inc stool at 2000 hem neg
+
+foley with aduquzte drainage blood tinged no clots noted was flushed with 30 cc q 2-3 hr on day with no clots noted. pos bleeding around meatus with gauze in place.
+
+peg tube feeding 35 cc/hr of fs high protein boost on hold for transfer.
+
+all meds given for all times including 2000.
+
+plan transfer to 11r and prob back to rehab soon
+
+",,
+24253,22719,,,2898-10-27 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2898-10-27**] 8:47 AM
+     PERC G/J TUBE CHECK                                             Clip # [**Clip Number (Radiology) 1071**]
+     Reason: Please replace G-J tube.                                    
+     Admitting Diagnosis: FEVER
+      Contrast: OPTIRAY Amt: 25
+     ********************************* CPT Codes ********************************
+     * 43760 CHANGE GASTROSTOMY TUBE        75984 CHANGE PERC TUBE OR CATH W/CON*
+     * CATHETER, DRAINAGE                   C1769 GUID WIRES INCL INF           *
+     * C1769 GUID WIRES INCL INF                                                *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      85 year old man with clogged G-J tube placed by Dr. [**Last Name (STitle) 1072**] [**7-8**].              
+     REASON FOR THIS EXAMINATION:
+      Please replace G-J tube.                                                        
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CLINICAL INFORMATION: 85-year-old man, status post gastrojejunostomy (G-J)
+     tube placement in [**2898-7-4**], now clogged. Needs G-J tube replacement.
+     
+     PHYSICIANS: The procedure was performed by Dr. [**First Name (STitle) 2**] [**Name (STitle) 3**] and Dr. [**Last Name (STitle) 456**] [**Name (STitle) 457**].
+     Dr. [**Last Name (STitle) 456**] [**Name (STitle) 457**], the attending radiologist was present and supervising
+     throughout the procedure.
+     
+     PROCEDURE/FINDINGS: After the risks and benefits were explained to the
+     patient's son, verbal informed consent was obtained over the phone. The
+     patient was placed supine on the angiographic table. The left upper quadrant
+     and the preexisting GJ tube was prepped and draped in the standard sterile
+     fashion. Pre-procedure time-out was performed to confirm the patient's name,
+     procedure, and site. Initial scout film confirmed the position of the
+     preexisting G-J tube. A stiff Glidewire was advanced through the preexisting
+     tube with the tip in the proximal jejunum. The G-J tube was then removed and a
+     new 14-French [**Doctor Last Name 1059**] gastrojejunostomy tube was placed over the wire with the
+     tip in the proximal jejunum. Contrast was injected through the X-ray film
+     confirmed the appropriate position of the tip of the G-J tube. The tube was
+     capped and secured with skin.
+     
+     COMPLICATIONS: The patient tolerated the procedure well and there were no
+     immediate complications.
+     
+     MEDICATIONS: 5 cc of 1% lidocaine was applied for local anesthesia.
+     
+     IMPRESSION: Successful replacement of a new 14-French gastrojejunostomy tube,
+     with the tip in the proximal jejunum. Ready for use.
+
+",,
+24253,22719,,,2898-10-27 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2898-10-27**] 8:47 AM
+     PERC G/J TUBE CHECK                                             Clip # [**Clip Number (Radiology) 1071**]
+     Reason: Please replace G-J tube.                                    
+     Admitting Diagnosis: FEVER
+      Contrast: OPTIRAY Amt: 25
+     ********************************* CPT Codes ********************************
+     * 43760 CHANGE GASTROSTOMY TUBE        75984 CHANGE PERC TUBE OR CATH W/CON*
+     * CATHETER, DRAINAGE                   C1769 GUID WIRES INCL INF           *
+     * C1769 GUID WIRES INCL INF                                                *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      85 year old man with clogged G-J tube placed by Dr. [**Last Name (STitle) 1072**] [**7-8**].              
+     REASON FOR THIS EXAMINATION:
+      Please replace G-J tube.                                                        
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CLINICAL INFORMATION: 85-year-old man, status post gastrojejunostomy (G-J)
+     tube placement in [**2898-7-4**], now clogged. Needs G-J tube replacement.
+     
+     PHYSICIANS: The procedure was performed by Dr. [**First Name (STitle) 2**] [**Name (STitle) 3**] and Dr. [**Last Name (STitle) 456**] [**Name (STitle) 457**].
+     Dr. [**Last Name (STitle) 456**] [**Name (STitle) 457**], the attending radiologist was present and supervising
+     throughout the procedure.
+     
+     PROCEDURE/FINDINGS: After the risks and benefits were explained to the
+     patient's son, verbal informed consent was obtained over the phone. The
+     patient was placed supine on the angiographic table. The left upper quadrant
+     and the preexisting GJ tube was prepped and draped in the standard sterile
+     fashion. Pre-procedure time-out was performed to confirm the patient's name,
+     procedure, and site. Initial scout film confirmed the position of the
+     preexisting G-J tube. A stiff Glidewire was advanced through the preexisting
+     tube with the tip in the proximal jejunum. The G-J tube was then removed and a
+     new 14-French [**Doctor Last Name 1059**] gastrojejunostomy tube was placed over the wire with the
+     tip in the proximal jejunum. Contrast was injected through the X-ray film
+     confirmed the appropriate position of the tip of the G-J tube. The tube was
+     capped and secured with skin.
+     
+     COMPLICATIONS: The patient tolerated the procedure well and there were no
+     immediate complications.
+     
+     MEDICATIONS: 5 cc of 1% lidocaine was applied for local anesthesia.
+     
+     IMPRESSION: Successful replacement of a new 14-French gastrojejunostomy tube,
+     with the tip in the proximal jejunum. Ready for use.
+
+",,
+24253,22719,,,2898-10-27 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2898-10-27**] 8:47 AM
+     PERC G/J TUBE CHECK                                             Clip # [**Clip Number (Radiology) 1071**]
+     Reason: Please replace G-J tube.                                    
+     Admitting Diagnosis: FEVER
+      Contrast: OPTIRAY Amt: 25
+     ********************************* CPT Codes ********************************
+     * 43760 CHANGE GASTROSTOMY TUBE        75984 CHANGE PERC TUBE OR CATH W/CON*
+     * CATHETER, DRAINAGE                   C1769 GUID WIRES INCL INF           *
+     * C1769 GUID WIRES INCL INF                                                *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      85 year old man with clogged G-J tube placed by Dr. [**Last Name (STitle) 1072**] [**7-8**].              
+     REASON FOR THIS EXAMINATION:
+      Please replace G-J tube.                                                        
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CLINICAL INFORMATION: 85-year-old man, status post gastrojejunostomy (G-J)
+     tube placement in [**2898-7-4**], now clogged. Needs G-J tube replacement.
+     
+     PHYSICIANS: The procedure was performed by Dr. [**First Name (STitle) 2**] [**Name (STitle) 3**] and Dr. [**Last Name (STitle) 456**] [**Name (STitle) 457**].
+     Dr. [**Last Name (STitle) 456**] [**Name (STitle) 457**], the attending radiologist was present and supervising
+     throughout the procedure.
+     
+     PROCEDURE/FINDINGS: After the risks and benefits were explained to the
+     patient's son, verbal informed consent was obtained over the phone. The
+     patient was placed supine on the angiographic table. The left upper quadrant
+     and the preexisting GJ tube was prepped and draped in the standard sterile
+     fashion. Pre-procedure time-out was performed to confirm the patient's name,
+     procedure, and site. Initial scout film confirmed the position of the
+     preexisting G-J tube. A stiff Glidewire was advanced through the preexisting
+     tube with the tip in the proximal jejunum. The G-J tube was then removed and a
+     new 14-French [**Doctor Last Name 1059**] gastrojejunostomy tube was placed over the wire with the
+     tip in the proximal jejunum. Contrast was injected through the X-ray film
+     confirmed the appropriate position of the tip of the G-J tube. The tube was
+     capped and secured with skin.
+     
+     COMPLICATIONS: The patient tolerated the procedure well and there were no
+     immediate complications.
+     
+     MEDICATIONS: 5 cc of 1% lidocaine was applied for local anesthesia.
+     
+     IMPRESSION: Successful replacement of a new 14-French gastrojejunostomy tube,
+     with the tip in the proximal jejunum. Ready for use.
+
+",,
+24253,22719,,,2898-10-27 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2898-10-27**] 8:47 AM
+     PERC G/J TUBE CHECK                                             Clip # [**Clip Number (Radiology) 1071**]
+     Reason: Please replace G-J tube.                                    
+     Admitting Diagnosis: FEVER
+      Contrast: OPTIRAY Amt: 25
+     ********************************* CPT Codes ********************************
+     * 43760 CHANGE GASTROSTOMY TUBE        75984 CHANGE PERC TUBE OR CATH W/CON*
+     * CATHETER, DRAINAGE                   C1769 GUID WIRES INCL INF           *
+     * C1769 GUID WIRES INCL INF                                                *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      85 year old man with clogged G-J tube placed by Dr. [**Last Name (STitle) 1072**] [**7-8**].              
+     REASON FOR THIS EXAMINATION:
+      Please replace G-J tube.                                                        
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CLINICAL INFORMATION: 85-year-old man, status post gastrojejunostomy (G-J)
+     tube placement in [**2898-7-4**], now clogged. Needs G-J tube replacement.
+     
+     PHYSICIANS: The procedure was performed by Dr. [**First Name (STitle) 2**] [**Name (STitle) 3**] and Dr. [**Last Name (STitle) 456**] [**Name (STitle) 457**].
+     Dr. [**Last Name (STitle) 456**] [**Name (STitle) 457**], the attending radiologist was present and supervising
+     throughout the procedure.
+     
+     PROCEDURE/FINDINGS: After the risks and benefits were explained to the
+     patient's son, verbal informed consent was obtained over the phone. The
+     patient was placed supine on the angiographic table. The left upper quadrant
+     and the preexisting GJ tube was prepped and draped in the standard sterile
+     fashion. Pre-procedure time-out was performed to confirm the patient's name,
+     procedure, and site. Initial scout film confirmed the position of the
+     preexisting G-J tube. A stiff Glidewire was advanced through the preexisting
+     tube with the tip in the proximal jejunum. The G-J tube was then removed and a
+     new 14-French [**Doctor Last Name 1059**] gastrojejunostomy tube was placed over the wire with the
+     tip in the proximal jejunum. Contrast was injected through the X-ray film
+     confirmed the appropriate position of the tip of the G-J tube. The tube was
+     capped and secured with skin.
+     
+     COMPLICATIONS: The patient tolerated the procedure well and there were no
+     immediate complications.
+     
+     MEDICATIONS: 5 cc of 1% lidocaine was applied for local anesthesia.
+     
+     IMPRESSION: Successful replacement of a new 14-French gastrojejunostomy tube,
+     with the tip in the proximal jejunum. Ready for use.
+
+",,
+24253,22719,,,2898-10-27 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2898-10-27**] 8:47 AM
+     PERC G/J TUBE CHECK                                             Clip # [**Clip Number (Radiology) 1071**]
+     Reason: Please replace G-J tube.                                    
+     Admitting Diagnosis: FEVER
+      Contrast: OPTIRAY Amt: 25
+     ********************************* CPT Codes ********************************
+     * 43760 CHANGE GASTROSTOMY TUBE        75984 CHANGE PERC TUBE OR CATH W/CON*
+     * CATHETER, DRAINAGE                   C1769 GUID WIRES INCL INF           *
+     * C1769 GUID WIRES INCL INF                                                *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      85 year old man with clogged G-J tube placed by Dr. [**Last Name (STitle) 1072**] [**7-8**].              
+     REASON FOR THIS EXAMINATION:
+      Please replace G-J tube.                                                        
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CLINICAL INFORMATION: 85-year-old man, status post gastrojejunostomy (G-J)
+     tube placement in [**2898-7-4**], now clogged. Needs G-J tube replacement.
+     
+     PHYSICIANS: The procedure was performed by Dr. [**First Name (STitle) 2**] [**Name (STitle) 3**] and Dr. [**Last Name (STitle) 456**] [**Name (STitle) 457**].
+     Dr. [**Last Name (STitle) 456**] [**Name (STitle) 457**], the attending radiologist was present and supervising
+     throughout the procedure.
+     
+     PROCEDURE/FINDINGS: After the risks and benefits were explained to the
+     patient's son, verbal informed consent was obtained over the phone. The
+     patient was placed supine on the angiographic table. The left upper quadrant
+     and the preexisting GJ tube was prepped and draped in the standard sterile
+     fashion. Pre-procedure time-out was performed to confirm the patient's name,
+     procedure, and site. Initial scout film confirmed the position of the
+     preexisting G-J tube. A stiff Glidewire was advanced through the preexisting
+     tube with the tip in the proximal jejunum. The G-J tube was then removed and a
+     new 14-French [**Doctor Last Name 1059**] gastrojejunostomy tube was placed over the wire with the
+     tip in the proximal jejunum. Contrast was injected through the X-ray film
+     confirmed the appropriate position of the tip of the G-J tube. The tube was
+     capped and secured with skin.
+     
+     COMPLICATIONS: The patient tolerated the procedure well and there were no
+     immediate complications.
+     
+     MEDICATIONS: 5 cc of 1% lidocaine was applied for local anesthesia.
+     
+     IMPRESSION: Successful replacement of a new 14-French gastrojejunostomy tube,
+     with the tip in the proximal jejunum. Ready for use.
+
+",,

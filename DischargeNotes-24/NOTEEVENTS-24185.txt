@@ -1,0 +1,601 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+24185,4073,,,2985-09-07 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+ 
+ 
+ 
+Admission Date:  [**2985-9-7**]              Discharge Date:   [**2985-9-26**]
+ 
+Date of Birth:  [**2913-9-10**]             Sex:   F
+ 
+Service: MED
+ 
+Allergies: 
+Penicillins / Demerol / Heparin Agents
+ 
+Attending:[**First Name3 (LF) 536**] 
+Chief Complaint:
+Sharp neck pain with ""electric"" radiation into arms, right arm 
+weakness
+ 
+Major Surgical or Invasive Procedure:
+none
+ 
+History of Present Illness:
+71 yo female with a history of breast cancer, osteoarthritis and 
+
+osteoporosis who presents with 2 weeks of neck and arm pain. 
+She says that the pain began suddently two and a half weeks 
+prior to admission. The pain was [**11-13**], located in her cervical 
+spine and had an electric 
+quality. Several days later, the pain began to spread to both 
+arms (right worse than left) and she occasionally felt a burning 
+
+sensation in her arms.  She went to her PMD and had and an 
+X-ray, CT and MRI (w/o T1, T2 enhancement) of her cervical spine 
+demonstrating degenerative changes at C5-6 with mild narrowing 
+of the left neural foramen.  1 week prior to presentation she 
+noted decreased strength in her right arm. She says that it is 
+too weak to lift. According to the patient, her limited strength 
+is due to actual weakness rather than pain. Her pain has 
+continued and seems to 
+be worse in the early morning and night-time. Overall, her 
+symptoms seem to be increasing. She has tried multiple pain 
+medications including Vioxx, Neurontin, Valium and Roxicet 
+without significant relief.  She went to see a neurologist, Dr 
+[**Last Name (STitle) **] on [**9-2**].  He performed an MRI (T1, T2, STIR) of the 
+brachial plexus demonstrating ""Right apical soft tissue 
+extending into the chest wall and adjacent to the brachial 
+plexus at several locations with indistinctness of the right 
+brachial plexus approximately 5 cm from the midline"" thought to 
+be secondary to radiation fibrosis.  Her symptoms were 
+attriubted to C5 radiculopathy secondary to brachial neuritis.  
+An EMG/NCV study on [**2985-9-6**] demonstrated ""a moderately severe, 
+subacute, right cervical radiculopathy or
+ polyradiculopathy, most clearly involving the C5 root.""  She 
+was directly admitted to the neurology service for LP and 
+further work up. 
+
+ROS:
+She notes removing a tick (uncertain size) from her right 
+shoulder without subsequent rash several weeks prior to her 
+symptom onset for which she ""prophylactically"" took 1 dose of 2 
+different antibiotics (name unknown).  She denies having 
+fever/vision changes/hearing changes/facial droop. She does 
+report having chills when her pain is severe. She has 
+generalized arthralgias and myalgias which are chronic.  She has 
+noted an occasional, mild headache with her symptoms. No 
+photophobia/phonophobia. She denies cough, shortness of breath, 
+chest pain, or nausea/vomiting. She complains of constipation 
+from the pain medication and was recently seen in the ER for 
+severe constipation and manual disimpaction. She denies dysuria 
+or urinary retention/incontinence/weight loss. 
+
+ 
+Past Medical History:
+ 1.  Breast Cancer - First diagnosed 25yrs ago (right breast)
+ treated with lumpectomy and radiation therapy.  She had a
+ recurrence (bilaterally) 15 yrs ago which was treated with 
+right
+ mastectomy and left lumpectomy with adjuvant radiation.
+ 2. Osteoarthritis with cervical sponylosis at C5-C6.
+ 3. Osteoporosis
+ 4. Raynaud's Phenomenon
+ 6. Mitral Valve Prolapse
+ 7. Second Degree, Type I AV block noted on ETT stress test in 
+[**2983**].  [**Doctor Last Name 1149**] of Hearts monitor also demonstrated ~15 seconds of 
+Wenkebach A-V block.  Beta-blocker was discontinued but patient 
+is still considering a repeat [**Doctor Last Name **] of hearts study off 
+beta-blockers.  Followed by Dr. [**Last Name (STitle) **].
+ 8. Chronic, inactive MAC infection with hx of bronchiectasis 
+followed by Dr. [**Last Name (STitle) **]
+ 9. Fibromyalgia
+   
+ 
+Social History:
+The patient lives in [**Hospital1 1849**] and spends a significant amount 
+of time on [**Hospital3 2**]. She works as a clinical psychologist 
+(doctorate in psychology) in [**Hospital1 1849**]. No alcohol or drug use. 
+She smoked irregularly 
+for 10yrs (stopped many yrs ago).  Divorced, lives with partner 
+[**Name (NI) 4844**].
+
+ 
+Family History:
+Mother died at 98 of ""old age""
+Father died at 77 of pancreatic cancer.
+Brother at 75 with asthma and prostate cancer.
+Two daughters in good health.  
+ 
+Physical Exam:
+Per Neuro eval:
+
+Physical Exam 
+Vitals:T 97.1 BP120/80 HR60 RR18 
+General: Very thin female lying in bed no acute distress 
+HEENT: Normocephalic, atraumatic. No conjunctival injection or 
+pallor. No sinus tenderness. No pharyngeal erythema or exudate. 
+Neck: supple, mildly tender. No lymphadenopathy. Decreased ROM 
+Lungs: Clear to auscultation bilaterally 
+CV: Regular rate and rhythm, no murmur 
+Abdomen: Normal bowel sounds present, soft, non tender 
+Ext: No edema, clubbing or cyanosis 
+ 
+Neurologic Examination: 
+Mental Status: Awake and alert, cooperative with exam, normal 
+affect 
+Oriented to person, place, and date. 
+Attention: Able to recite months backwards 
+Language: Fluent speech, no dysarthria, repetition intact, 
+follows commands. 
+Registers [**4-6**], Recalls [**4-6**] at 3 minutes. 
+No apraxia, No neglect 
+ 
+ 
+Cranial Nerves: Visual fields full. Pupils equally round and 
+reactive to light, 3 to 2 mm bilaterally. Extraocular movements 
+intact, No nystagmus. Facial sensation intact. Face is 
+symmetric. 
+Tongue is midline, no fasciculations. Palate elevation is 
+symmetric. Sternocleidomastoid and trapezius strength normal. 
+ 
+Motor: 
+Muscle tone was normal 
+Generalized muscle atrophy, especially of intrinsic hand muscles 
+
+No fasciculations, tremorl 
+ 
+[**Doctor First Name **]/IS Tri [**Hospital1 **] Wfl Wext Fifl Fiext IP GL Q H AF AE TF TE 
+Right 3-/3 5 5 5 5 5- 5- 5- 5 5 5 5 5 5 5 
+Left [**6-8**] 5 5 5 5 5- 5- 5 5 5 5 5 5 5 5 
+Lumbricals [**5-9**], 5th digit abduction [**5-9**] 
+Sensation were intact to light touch, slightly decreased 
+pinprick 
+and vibration sensation in bilateral LE to ankles. 
+Proprioception is intact 
+ 
+ 
+Reflexes: 
+[**Hospital1 **] Tri BR Pat Ach Plantar 
+Right 2 2 2 2 (brisk) 2 Flexor 
+Left 2 2 2 2 (brisk) 2 Flexor 
+ 
+Coordination: 
+Normal finger-nose-finger, and heel to shin. 
+ 
+Gait: 
+Narrow based, tentative. 
+Negative Romberg 
+
+ 
+Pertinent Results:
+[**2985-9-7**] 04:09PM CEREBROSPINAL FLUID (CSF)  PROTEIN-76* 
+GLUCOSE-54
+[**2985-9-7**] 04:09PM CEREBROSPINAL FLUID (CSF)  CSF-PEP-OLIGOCLONA
+[**2985-9-7**] 04:09PM CEREBROSPINAL FLUID (CSF)  WBC-58 RBC-3* 
+POLYS-0 LYMPHS-93 MONOS-4 OTHER-3
+[**2985-9-7**] 04:09PM CEREBROSPINAL FLUID (CSF)  WBC-36 RBC-0 POLYS-0 
+LYMPHS-97 MONOS-1 ATYPS-2
+[**2985-9-9**] 12:17PM BLOOD LYME BY WESTERN BLOT: POSTIVE IGG and IGM
+[**2985-9-19**] 11:30AM BLOOD HEPARIN DEPENDENT ANTIBODIES: POSITIVE
+[**2985-9-8**] 05:25AM BLOOD WBC-6.8 RBC-3.76* Hgb-11.9* Hct-34.7* 
+MCV-93 MCH-31.7 MCHC-34.3 RDW-12.8 Plt Ct-337
+[**2985-9-8**] 05:25AM BLOOD Neuts-75.6* Lymphs-18.2 Monos-5.0 Eos-0.9 
+Baso-0.3
+[**2985-9-8**] 05:25AM BLOOD PT-12.4 PTT-32.4 INR(PT)-1.0
+[**2985-9-8**] 05:25AM BLOOD Albumin-3.6 Calcium-9.0 Phos-3.7 Mg-2.0
+ 
+Brief Hospital Course:
+The patient was initially admitted to the Neuromed service, 
+transferred to the MICU, then to the surgery service, back to 
+the MICU and then to the APG medicine floor team.
+
+1. Lyme Meningitis- Based on the patient's radiculopathy, 
+headache and LP in the ED with 58 WBC (93% Lymphs), 3 RBC, 
+mildly elevated protein at 76 and glucose 54.  Repeat serum 
+serology demonstrated positive Lyme IgG and IgM serology [**Doctor First Name **] 
+(confirmed by Western Blot) in the blood (after just the IgM 
+positive results 2 days prior).  Infectious Disease consult 
+service was consulted and recommended a 21 day course of 
+Ceftriaxone 2 gm qd, begun on [**2985-9-7**].  Her symptoms improved 
+somewhat, but she continued to experience aches and pains 
+associated with the meningitis.  The neurology service suggested 
+that her symptoms might not resolve for weeks, even after 
+treatment. Cessation of IV ceftriaxone is [**2985-9-28**]. 
+
+2. Hypotension and Bradycardia-
+After 1 day in the hospital the patient developed multiple 
+parasympathetic-mediated symptoms (diarrhea, nausea, 
+diaphoresis) and was noted to be bradycardic and hypotensive 
+(without response to fluids).  She was ruled out for MI.  The 
+hypotension was thought to be due to heightened vagal tone vs. 
+lyme sepsis vs volume depletion.  Cardiology was consulted to 
+consider heart block as a causative [**Doctor Last Name 978**] for her hypotension 
+given that an EKG demonstrated 3:2 Secondary Degree Type I A-V 
+block; they doubted that heart block was the causative [**Doctor Last Name 978**].  A 
+TTE on [**2985-9-6**] demonstrated hyperdynamic, EF 75-80%, 1+ MR, 1+ 
+AR, without pericardial effusion.  
+ She was admitted to the MICU and placed on a Dopamine drip, 
+with resulting normotension.  [**Initials (NamePattern4) **] [**Last Name (NamePattern4) **] stim test showed mild 
+adrenal insufficiency with random cortisol level of 14.  She was 
+placed on stress dose steroids and weaned off of dopamine after 
+24 hours with return to normal sinus rhythm.  Blood cultures to 
+date are negative.  Stool cultures were positive for C. Diff.  
+She was treated with IV Ceftriaxone, PO Vancomycin, IV flagyl, 
+and aggressive IVF.  She was intermittently on the surgery 
+service after developing ABD Pain with question of acute 
+cholecystitis, but U/S of gallbladder demonstrated only 
+distension, without wall thickening, stones, or bile duct 
+dilatation. CT ABD had evidence of toxic megacolon and 
+gallbladder distension but no other cause for ABD pain.  During 
+MICU stay, patient was placed on TPN in setting of C. diff 
+colitis and abdominal pain.   
+
+3. Infectious Disease Issues: We are treating C. diff with 
+metronidazole, and will continue this treatment 3 days past the 
+cessation of the ceftriaxone (last dose on [**2985-10-1**]). Blood 
+cultures negative to date.  See above.
+
+4. Pain: Throughout the hospitalization, pain continues and 
+still is a primary issue.  Multiple pain regimens have been 
+tried. Given Lyme disease, the nature of the patient's pain 
+changes unpredictably. She was initially on Gabapentin 800 mg 
+tida and IV dilaudid. The Gabapentin had to be titrated up due 
+to continued nighttime pain. Pain service was consulted on two 
+separate occations. The final regimen, based on their 
+recommendations was to increase Gabapentin to 1200 mg tid, add 
+oxycodone 10 mg bid with Dilaudid PO 4-6 mg every 4-6 hours. A 
+muscle relaxant, Flexeril (5 mg tid) was added to patient's pain 
+regimen two days prior to discharge. A benzodiazepine was tried, 
+but was stopped due to excessive sedation in setting of pain 
+regimen. At [**Hospital1 **], it will be necessary to get pain service 
+involved early as her pain will continue for weeks to months 
+according to the neurology team. 
+
+5. Pulmonary Issues: She initially had a 4L O2 requirement in 
+setting of pleural effusions s/p volume resusitation in the 
+MICU. With diuresis, she was eventually able to 
+ventilate/oxygenate well without supplemental O2. She was 
+diuresed with IV  Lasix and effectively diuresed off more than 
+10 L (over a one week period).  Her chronic bronchiectasis was 
+not thought to be an issue during this admission.
+
+6. HIT POSITIVE- Her admission Plt level was 370 but dropped to 
+a nadir of 129 on [**2985-9-18**].  Heparin products were discontinued 
+and she was tested by [**Doctor First Name **] for heparin antibodies (PF4) which 
+returned positive.  Hematology was consulted.  Despite the lack 
+of true thrombocytopenia (level was never below 129) she was 
+diagnosed with Type II HIT given Ab + (which carries a ~50% risk 
+of thrombosis at 30-days) and started on an argatroban drip.  
+After developing transaminitis and given advantage of qd dosing 
+without the need for monitoring levels, she was switched to 
+Fondapirinux 2.5 SC QD.  This was overlapped with coumadin with 
+a plan to discontinue fondapinanux after therapeutic INR of 
+2.0-3 was achieved. At [**Hospital1 **], she will need to have the 
+fondaparinux stopped after therapeutic levels (INR 2.0-2.5) are 
+achieved on Coumadin.  After diagnosis, she had LE pain and 
+LENIs were (-) for DVT.  She will follow-up with Dr. [**Last Name (STitle) 1130**] in 
+Hematology.
+
+6. Nutrition: Given inability to sustain adequate po in the 
+setting of C. Diff Colitis, she was started on TPN. Patient will 
+need to continue TPN until she has an adequate daily PO caloric 
+intake.  
+
+7. Access: Patient currently has a double lumen PICC line placed 
+for continued TPN administration.  Given concern for arm 
+swelling, she had an upper extremity U/S on [**9-24**] which was 
+negative for DVT.  
+
+8. Code: FULL
+
+ 
+Medications on Admission:
+Accupril 5mg po qd 
+Neurontin 900mg tid 
+Tramadol 50mg po q4-6h PRN 
+Valium 2.5-5mg po qd 
+
+ 
+Discharge Medications:
+1. Metronidazole 500 mg Tablet Sig: One (1) Tablet PO TID (3 
+times a day) for 6 days: until [**2985-10-1**].
+Disp:*30 Tablet(s)* Refills:*0*
+2. Gabapentin 400 mg Capsule Sig: Three (3) Capsule PO Q8H 
+(every 8 hours).
+Disp:*qs 1 month* Refills:*2*
+3. Fondaparinux Sodium 2.5 mg/0.5 mL Syringe Sig: One (1) 
+injection Subcutaneous qd () as needed for HIT: This medication 
+will be discontinued once your INR is at 2.0.
+Disp:*qs 1 week* Refills:*0*
+4. Sucralfate 1 g Tablet Sig: One (1) Tablet PO TID (3 times a 
+day).
+Disp:*90 Tablet(s)* Refills:*2*
+5. Oxycodone HCl 10 mg Tablet Sustained Release 12HR Sig: One 
+(1) Tablet Sustained Release 12HR PO Q12H (every 12 hours).
+Disp:*60 Tablet Sustained Release 12HR(s)* Refills:*2*
+6. Ceftriaxone Sodium in D5W 40 mg/mL Piggyback Sig: Two (2) 
+grams Intravenous  Q24H (every 24 hours) for 4 days: last dose 
+on [**9-28**].
+Disp:*qs 4 days* Refills:*0*
+7. Dilaudid 2 mg Tablet Sig: 1-2 Tablets PO every 6-8 hours as 
+needed for pain: Please do not take if [**Doctor First Name **] are feeling sedated.
+Disp:*120 Tablet(s)* Refills:*0*
+8. Flexeril 5 mg Tablet Sig: One (1) Tablet PO three times a 
+day.
+Disp:*90 Tablet(s)* Refills:*2*
+9. Coumadin 5 mg Tablet Sig: One (1) Tablet PO once a day: 
+TITRATE TO INR 2.0-2.5.  
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+[**Hospital3 1848**] & Rehab Center - [**Hospital1 1849**]
+ 
+Discharge Diagnosis:
+Lyme Meningitis
+C5 Radiculopathy
+Clostridium Difficile Colitis
+Heparin Induced Thrombocytopenia
+s/p Breast Cancer
+Type II Wenkebach A-V Block
+ 
+Discharge Condition:
+stable
+ 
+Discharge Instructions:
+Please notify nurses or doctors [**First Name (Titles) **] [**Last Name (Titles) 4845**] of breath, 
+weakness, sensory changes, chest pain, headache, fatigue, pain 
+or any other symptoms of concern.  Please let us know if [**Doctor First Name **] 
+have any questions regarding your fondapirinux and coumadin 
+dosing.
+
+ 
+Followup Instructions:
+1) Please call your new primary medical doctor, Dr. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 4846**] 
+([**Telephone/Fax (1) 4847**]), within 2 weeks of leaving the hospital to 
+arrange an appointment.
+
+[**Doctor First Name 27**] have three specialty appointments in the future, please take 
+note of them:
+2)Provider: [**Name10 (NameIs) 1313**] Where: EAST CAMPUS CLINICAL CENTER 
+RADIOLOGY Phone:[**Telephone/Fax (1) 1314**] Date/Time:[**2985-10-18**] 10:00
+
+3) Provider: [**Name10 (NameIs) 531**] [**Name8 (MD) 532**], M.D. [**MD Number 52**]: [**Hospital6 53**] 
+CARDIAC SERVICES Phone:[**Telephone/Fax (1) 2174**] Date/Time:[**2985-11-8**] 10:30
+
+4) Provider: [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern1) 4653**], MD [**MD Number 52**]: [**Hospital6 53**] 
+HEMATOLOGY/ONCOLOGY Phone:[**Telephone/Fax (1) 54**] Date/Time:[**2986-1-17**] 10:00
+
+5) Please call Dr. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 1130**] (hematology) [**Telephone/Fax (1) 4848**] 
+regarding your Heparin-induced Thrombocytopenia.
+
+ 
+                             [**First Name11 (Name Pattern1) 15**] [**Last Name (NamePattern1) 16**] MD [**MD Number 17**]
+ 
+Completed by: [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 4849**] MD [**MD Number 4850**] [**2985-9-26**] @ 1351
+Signed electronically by: DR. [**First Name (STitle) 15**] [**Doctor Last Name **]
+ on: SUN [**2985-10-2**] 7:07 PM
+(End of Report)
+
+
+",,
+24185,4073,30043,0,2985-09-12 17:47:00 EST,2985-09-12 18:05:00 EST,2807,"N",69,"Nursing/Other",,"
+
+NPN 7a-7p
+
+events: pt admitted to neuro service and treated for Lyme Disease on [**2985-9-7**]; transferred to MICU A/Orange Team for hypotension, bradycardia after receiving several boluses, Echo & EKG on floor, EKG revealing 2nd degree heart block
+
+neuro: pt lethargic but oriented x3, c/o chronic pain especially in her neck, applied ice packs and repositioned with some relief, MAE's
+
+cv: HR 40-60's (80-100's after Dopamine), 2nd degree heart block with rare PVC's, NBP 70-90's/20-40's (MAP's 40-55) started on Dopamine titrated up to 15mcg/kg/min with MAP's >55; team attempted TLCL placement in L SVC unsuccessful [**3-7**] narrowed vessels (CXR obtained), plan to retry in RIJ and place A-line later in evening; pt rc'd two 1 Litre boluses of NS with minimal effect before Dopamine; two EKG's before and after pt c/o chest pain (HO aware)
+
+resp: LS with inspiratory wheeze in LUL, clear RUL and diminished bilateral bases, Sats 92-94% upon arrival on RA, Sats 94-100% on 2L, Sats [**11-19**]
+
+gi: npo upon arrival (for possible procedures) currently tolerating sips of water, +bs/flatus, pt had liquid stool before arriving in MICU; Abd soft/ND/NT
+
+gu: u/o 30-200 light yellow and clear
+
+integ: warm/dry/intact with reddended buttocks
+
+social: life partner, daughter and sister in to visit and very involved; pt and family very anxious about new diagnosis and transfer to ICU (handouts given and social work consult ordered); family has paperwork for proxy to fill out
+",,
+24185,4073,30043,0,2985-09-13 04:39:00 EST,2985-09-13 05:13:00 EST,2037,"N",69,"Nursing/Other",,"
+
+Neuro alert oriented speech sl. slurred confused at times easily oriented by self pupils equal and reactive, mae able to turn with little help
+cardiac hr 90-[**Street Address 82**] bp dopamine on to maintain map > 60
+skin warm grey, Hct 33.2 INR 1.4, mag 1.7 tx 2gm mag sulf, calicium gluconate 2gm calicium 7.3 pp+ 3
+resp 2lnp lungs clear diminished bases o2 sat 97%, mixed venous gas 76%
+gi abd firm distended tender bs+ incont at times of liq brown stool ob neg
+gu foley u/o >30cc q hr + 720 bun 9 cr .6
+ID on ceftriaxone temp max 101.6 bld cx x 2, urine cx and stool for c diff sent wbc 12.7, lact 2.0
+access picc rt antecub, rt IJ placed
+a. hypotension fuo
+lyme disease teritary
+diarrhea 
+p. cont antibx as ordered course 21 days monitor temp await cx attempt to get sputum cx monitor wbc
+dopamine titrate to keep map > 60, replace fluids prn, replace lytes as needed
+? check LFT ?KUB
+",,
+24185,4073,30043,0,2985-09-13 16:13:00 EST,2985-09-13 17:03:00 EST,2807,"N",69,"Nursing/Other",,"
+
+NPN 7a-7p
+
+events: pt in A-fib/flutter in am, self converted back to 2nd degree AVB; abd significantly more distended than yesterday, abd CT, US, Levophed and Vasopressin started and Dopamine dc'd, multiple fluid boluses; A-line placement attempted 
+
+neuro: pt lethargic/sleepy, responds to verbal stimuli, oriented x3; MAE's; ^nauseous with percocets, good relief with fentanyl, baseline pain [**2991-8-12**] but pt reports relief with pain meds the numbers do not come down; pt becomes increasingly anxious/agitated with the increasing number of procedure, medications, discomfort, etc, psychiatry will be up to see later, social work has been consulted
+
+cv: HR 60-80's, occassionally bradys down to 20-40's but resolves within minutes, converted in and out of A fib/flutter this morning (two EKG's obtained) from 2nd degree AVB/Mobitz 1 with rare PVC's; EF >75%, AI w/ hyperdynamic LV function and mild MR [**First Name (Titles) 107**] [**Last Name (Titles) 4279**] on [**9-12**]; CVP 15 up from 3 (goal [**11-17**]) after 3 litres of NS boluses; attempted A-line placement, will try again in evening; Dopamine titrated off while levophed titrated up to .175 mcg/kg/min; vasopressin added with plan to titrate down levophed after A-line placement
+
+resp:  Sats 94-99% w/ RR 15-23 on 2L via NC; LS cta with bilateral diminished bases; mixed venous sats 76%
+
+gi: Abd significantly more distended that [**2985-9-12**] assessment, +tender to touch, +bs/flatus, moderate amounts of liquid brown (+trace OB) stool, rectal bag applied; Albumin 2.5, plan to start IV/TF nutrition after CT scan; pt c/o nausea and vomitted 50cc's of bile (? percocet also) & rc'd a total of 4mg Zofran with good effects, took am meds with Maalox, continue on protonix; unable to tolerate drinking baricat, ngt placed (confimed by CXR) and rc'd 950cc baricat for Abdominal CT; Ct showed enlarged gallbladder, US of gallbladder at 1700
+
+gu: u/o 40-100cc/hr, yellow and clear; Creat 0.6 and BUN 9
+
+endo: Cortisol 14, started on hydrocortisone and fludrocortisone
+
+id: Tmax 100.4, WBC 12.7, Lactic acid 2.0, treating for Sepsis; Bld Cx on [**9-12**] & 10 and urine cx on [**9-12**] pending; stool +C-diff and pt put on Contact precautions; plan to continue on Ceftriaxone, adding flagyl, levoquin and vancomycin; team requested PICC line to pulled but IV needs a clinical
+
+integ: pt is emaciated, her back and buttocks are reddened but intact, barrier cream applied, rectal bag in place and pt repositioned at tolerated (she reports that repositioning is very uncomfortable)
+
+social: family very involved and supportive; social work consulted for additional supports; pt requests that the team contact her oncologist (she does not like her PCP) [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) **], MD [**Telephone/Fax (1) 4280**] (information passed along to team)
+",,
+24185,4073,30043,0,2985-09-14 05:22:00 EST,2985-09-14 05:43:00 EST,2416,"N",69,"Nursing/Other",,"
+
+Nursing Note (1900-0700)  
+
+Ms. [**Known patient lastname 4281**]  was found to have a C-diff toxic megacolon; close observation overnoc by hourly abd exams to check for increased tenderness/distention. Surgical team consulted and has accepted pt on their team. At present, pt  does not require surgical intervention. Abd exam at 6am  was sl. improved since last eve. 
+
+Neuro: Quite anxious w/sudden turn of events. Multiple family in to visit as well as partner [**Name (NI) **]. Family conference w/Dr. [**Last Name (STitle) 2282**] for possible colectomy if abd exam worsens. Family at bedside lg part of  noc. Pt is A&Ox3; has chronic pain issues.  At present main complaint is throat discomfort from NGT. 
+
+CV:  Remained in 2nd degree HB, Mobitz 1. HR 60-80's most of shift. Requiring Levophed in sm  doses to maintain  MAP  >65. At present, levo at .07mcg/kg/min. Access line sites unremarkable, PICC/TLCL/A-line. K phos and calcium gluconate repletion. Transfused w/1unit PRBC for falling  HCt 27.4  Pboots. LR continuous at 200cc/hr. Multiple 1L boluses for rising lactates.
+
+Resp: LS ess clear. Increased 02 requirements to 4 L nc. ABg WnL- 7.39/34/94.
+
+Gi/GU; Increased abd distention/tenderness esp to  midline and RLQ. Tympanic bowel sounds. Mushroom cath freq leaking, fecal bag applied w/effect. lg amt stool, >700cc  for this shift for watery stool. Vanco enema x1 given prior to  transfer to surgical service, team aware. Enema given over 1hr. Urine adequate however decreasing this am for 30cc this am. NPO, NGT to mod cont suction. Hurricane spray for  throat discomfort w/min effect.
+
+ID: WBC 14.6,rising. ID consulted, receiving po/IV vanco,flagyl, and ceftriaxone. Lactate q2hrs, elevation of lactates  treated w/ boluses.
+LGT. 
+
+Social: Lifelong partner [**Name (NI) **] at bedside. [**Doctor First Name **] has taken pt's yellow band w/green stone committment ring in light of pt's digits swelling. Multiple discussions w/MD w/updates.
+
+Plan: Closely monitor abdomen. Lactates q2hrs. Lyte repletion. NGt to sx. Replete calcium w/additional 2 Gm. Monitor Na 131. Emotional support to family and partner. no sedatives/pain med.   
+",,
+24185,4073,30043,0,2985-09-14 17:53:00 EST,2985-09-14 18:22:00 EST,5645,"N",69,"Nursing/Other","Shift Summary","
+Shift Summary
+Stable shift. Ongoing generalized pain. MSO4 x2. Fentanyl PCA pump remains unavailable. Continued improved abdominal distension. Surgical team remains on consult surgical intervention on hold pending progressive abdominal distention. 
+
+N: Intact with bouts of forgetfulness. A&Ox3. Generalized weakness c/o poor strength r/t generalzed pain/fatique.
+
+CV: Telemetry converted 1st Degree AVB rare PVC. BP stable with Levophed weaned off. Sys murmur. [**2-4**] anasarca. SCD boots on. Aline w/ good wave form. R IJ TLC. CVP 0-2. TPN inititaed. LR reduced to 100cc/hr . R AC PICC patent. 
+
+R: Weaned to 3L pe NC. LS clear throughout with bilateral bases diminished. Needs encouragement with C&DB.
+
+GI/GU: Abdomin with less distension, continues tender to palpation. BS+x4. Vanco enema given with rectal tube remaining draining liquid yellow stool/enema. R NGT to low suction scant output clear. Urine output per Foley cath adequate for intake approximatley 60cc/hr. 
+
+Skin: Intact with sacral area, bilateral heals reddened.    
+
+ID: On consult following infectious Cdiff, Lymes dz. Remains low grade temp 99 throughout the day. 
+
+Plan; Monitor abdomin closely. Neuro status and s/s of infection. AM labs. 
+",,
+24185,4073,30043,0,2985-09-15 03:56:00 EST,2985-09-15 04:34:00 EST,5259,"N",69,"Nursing/Other",,"
+
+npn [**2985-9-14**] 1900-0700
+ pt is 71 yr old wf with hx of breast cax2.bb,fibromyalgia,osteoporsis
+
+pt recently dx with Lyme's dx. has had complicated admission developing c diff, hypotension,2nd degree HB,.
+
+neuro: pt becoming increasingly [**Doctor Last Name **] deprived and paranoid very agitated last night briefly restrained as attempting to pull out tubes. Ativan given and pt was worse,do not give anymore. may consider haldol if worsens.
+
+resp: pt with 4l nc but had a brief desat event during hieght of agitation and was on fm for 2 hours. chest clear but very dimished to bases .pt with cough productive for small amt secretions.
+
+cv: pt has very irregular hr and has been in afib/flutter, 1st and 2nd degreehb. b/p stable throughout 12 lead done x2 . pt had event around 0100 where she had rapid rate >130 but b/p stable 140's. pt was repleted with multiple lytes and still requires more see med record. lr @100cc/hr and tpn @42/hr. pt was given 1 time ns at 0100 for increased LA to 1.3 down to 1 this am.pt with r picc,r ij,l aline. cvp after fld bolus 5. pt on flagyl and ceftriaxone and vanc po and rectally IV [**Doctor Last Name **] c d/c'd last night.
+
+gi/gu: pt with rectal tube for mod amts liquid yellow stool pt recieves vanc enemas q6 so tube left in to ease administration. pt with firm sl tender abd but SO states less distended than previous night. pt with thickened sluggy gallblader and concerns that pt may develop and acute abd so [**Doctor First Name **] team monitoring closely. ng to lcws for scant clear output. pt [**Doctor First Name **] any n&v or worsening abd pain. foley patent to bsd for clear yellow.
+
+skin: very fragile and starting to redden on heels hips and buttocks . skin care down ad pt turned. 
+
+comfort: pt was on prn MSO4 then switched to pca hydromorphone at 2000 last night which was shortly d/c'd per on call service, still in room pending am rounds. pt c/o some neck pain but only when questioned so no prn MSO4 given.. again no ativan.
+
+social: pt has longterm [**First Name8 (NamePattern2) **] [**Doctor First Name **] who has been called back to night to help manage pt behavior and has been very helpful. 
+
+plan: follow abd S&S worsening
+        closely follow and replete electrolyes
+      monitor WBC and LA.
+      support fx 
+                     
+",,
+24185,4073,30043,0,2985-09-15 18:07:00 EST,2985-09-15 18:32:00 EST,2423,"N",69,"Nursing/Other",,"
+
+NPN 0700-1900
+
+NEURO; AOOX2 THEN BECAME INCREASINGLY AGITATATED AFTER RECEIVING MSO4 AFTER A COUPLE OF HOURS STARTED  TO CLEAR  NOW KNOWS THAT SHE IS AT [**Hospital1 **] AND  KNOWS YEAR IS 2004 AND MONTH IS AUGUST. AAND SEMMS LESS RESTLESS. 
+ PERLA 3MM. PREFERENCE TO USE HALDOL FOR AGITATION AND CALL MDS FOR PAIN MEDICATION.
+
+RESP; ON 6L O2 BREATHING 18-24 APPEARED LABOURED THIS AM LUNG SOUNDS  THIS AM CLEAR UPPER DIMINISHED AT BASES WET BY CXR GIVEN 10 MG LASIX WITH GOOD RESPONSE.APPEARS LESS LABOURED THIS AM SATS 94-96%. HAS PRODUCTIVE COUGH,
+
+CVS; T  BP STABLE MAX 97.8 PO IN AVB MOBITZ 1 NO EPISODES OF RAPID HEART RATES, OCCASS PVC. PPP CVP 3-7.
+
+GU; DRAINING MOD AMOUNTS YELLOW CLEAR URINE. GOOD RESPOONSE TO LASIX 10 MGS.VIA FOLEY.
+
+LYTES REPLACED  KCL DOWN TO 2.9.
+
+
+GI; NPO EXCEPT PO MEDS APPEARS TO BE TOLERATING. PO MEDS WITH VIA NGT. POS BELLY SOUNDS.  BELLY FIRM BUT NOT TAUGHT.SURGICAL STAFF FEEL THAT IT IS IMPROVINGING SLOWLY STILL BEING FOLLOWED FOR [**Last Name (un) 1672**] COLON.PER ID AND SURGERY. IS NOW BEING GIVEN VANCO PO ONLY. ANNNND FLAGYL CONTINUES I.V. CONTINUES ON TPN AAND LIPIDS WITH HHEPAARIN AND PEPCID
+PASSING LARGE AMOUNTS LIQUID STOOL BY PASSING RECTAL TUUBE THEREFORE CHANGED TO RECTAL BAG,AAT 1800. HAAAD ONE EPISODE OF NAUSEA AFTER MSO4. GIVEN
+
+SKIN ; REDDENED  OVER COCCYX AND HEELS ENCOURAGE TO ALTER POSITION FREQUENTLY AND NOT LIE ON BACK  FOR ANY LENGTH OF TIME. USING TYLENOL FOR PAIN IN SHOULDER ANND NECK WITH FAIR EFECT.
+
+SOOC; FAMILY AT BEDSIDE FOR MOST OF DAY,HAVE ENCOURAGED FAMILY MEMBERS TO ENCOURAGE PT TO [**Doctor Last Name 7**]  AND TAKE TURNS AT SLEEPINNNG HERE OVERNIGHT. [**Doctor First Name **] WILL GO HOME TONIGHT ANND DAUGHTER WILL STAY . 
+  
+
+
+
+",,
+24185,4073,30043,0,2985-09-16 04:50:00 EST,2985-09-16 05:19:00 EST,5571,"N",69,"Nursing/Other",,"
+
+Progress Note 7p-7a
+
+Condition Stable
+
+Neuro:  patient has been orientated x 3 spheres all night with receiving dilaudid 0.5mg IV regularly, newly ordered at 2100.  She does get relief from this, pain decreasing from severe to moderate.  Patient is severly [**Doctor Last Name **] deprived, family have been staying closly by all night. She will move upper extremities but not lower needing to be turned and repositioned by staff. Most of her pain is in  her back and both arms. 
+
+CV:  Was in NSR overnight, no ectopy.  Complained of chest pressure and SOB at in early evening, by the time the EKG was done it was gone, EKG has LBBB so unable to see ischemia. BP normotensive but dipped to below 100 at 0600 after lasix 10mg IV at 0300.  Maintaining MAP >65. 
+CVP 5-7. Left radial aline, right TLC,  and right PICC line working well. Afebrile overnight
+
+RESP: On NC 6 L via NC. Breath sounds clear, diminished to bases.
+
+GU: uo dropped to 15-20 for two hours  and lasix 10 iv given with excellent response.  Currently is in + balance for past 24 hours and +16000 for LOS. Since lasix, u/o 260-380. Calcium, Potassuim and Magnesium was replaced overnight. See MAR for details  
+
+GI:  Belly remains distended, firm but is much better according to oncall doc. NG to CLWS, except clamped post meds.  Has R/O'ed for megacolon. Is tender on palpation.  No stool overnight.  Continues on Flagyl, Ceftazidime, and [**Last Name (un) **] for C diff.
+
+[**Name6 (MD) 662**] [**Name8 (MD) 663**], RN
+
+
+",,
+24185,4073,30043,0,2985-09-16 16:46:00 EST,2985-09-16 17:07:00 EST,5645,"N",69,"Nursing/Other","Shift Summary","
+Shift Summary
+Progressing along pathway. Stable shift w/ VSS and WNL. Surgical teamed signed off to MICU team d/t no surgical needs at this time. 
+
+N: Intact. Good strength throughout all extremeties. Up to bedside chair w/ assistance x2, tolerated well. Activity increased with PRN pain control medication.
+
+CV: Remains in NSR borderline 1stAVB. Sys murmur. Generalized anasarc improved. R hand remains 2+ edema. L Radial a-line dc'd dressing in place. R IJ TLC intact with CVP 2-6. TPN infusing.  Repleted with Ca Gluconcate and MgSO4.
+
+R: Continued improvments. IS instrcted and initiated today. LS improve d from AM assessment, bilateral upper lobes remain clear. Sats remain >95% on 6 L per NC, FiO2 not weaned d/t sat range 94-98%.
+
+GI/GU: Tolerating NGT out denies increased abdominal pressure, n/v. Fecal pouch remains intact with small amount liquid green stool. Abdomin remains tender to palpation. Urine output adequate for intake approximately 60cc/hr per Foley.
+
+Skin: Intact with buttocks remaining reddened.
+
+ID: Continues with liquid stool small amounts compared to outputs last 48hrs. Hx Cdiff , no order for repeat culture. No s/s of infection
+
+Social: Good family support, emotional needs met, overall mood verbalized as happy and getting better. Rested well today and encourage to progress activity per PT guidance. 
+
+Plan: Monitor abdominal firmness/distension for acute changes. Cardiology on consultation continued f/u for hx/o telemetry changes. Encourage C&DB, IS and out of bed as tolerated. Medicate for pain as ordered PRN. Changed service to MICU with probable call out in AM.
+
+
+",,
+24185,4073,30043,0,2985-09-17 05:16:00 EST,2985-09-17 05:30:00 EST,5571,"N",69,"Nursing/Other",,"
+
+Progress Note 7p-&a
+Condition stable, Dx:  Lyme disease and + c diff complicated by hypotension and cardiac arrythmias, sepsis 
+
+Neuro:  Unremarkable, no confusion with dialudid IV.  Feels and looks so much better this shift that the previous night.  Sitting uo yesterday, chatting with dughter all evening
+
+Resp:  Using IS when awake. Chest X ray was done at 0600. Previous Xray showed atelectaisis and bilateral pleural effusions.  LS diminished to bases. Weaned Fi02 to 4 L overnight and she maintained Sp02 98%
+
+CV:  Remains in NSR, PR: 0.2.  BP stable 100-110 overnight. Still has right IJ TLC with TPN at 54 ml/hr and CVP transduced reading [**5-10**]. Afebrile
+
+GU:  Foley inplace. Reveived lasix 10mg IV and 2100 and diuresed well from this but did not meet requirements for fluid balence of -500. Was + 157 at MN and + 111 since MN.
+
+GI:  Belly seems less distended this am.  Taking liquids orally.  Still complaining of pain in belly (right side on palpation.  receiving Dilaudid for this and back and arm pain, getting 0.5mg at at time with good effect.Needing SSi coverage at MN and 0600, 2 units each time.
+
+Labs back and lytes will need replacing, On no PRN orders.  Will see Intern before shift change.
+
+Patient to be called out today.    
+
+[**Name6 (MD) 662**] [**Name8 (MD) 663**], RN
+",,

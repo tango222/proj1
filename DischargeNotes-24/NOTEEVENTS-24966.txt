@@ -1,0 +1,984 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+24966,,,,2552-01-26 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2552-1-26**] 9:51 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 7963**]
+     Reason: eval for acute pathology                                    
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      85 year old woman with syncope, abd pain                                        
+     REASON FOR THIS EXAMINATION:
+      eval for acute pathology                                                        
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  85-year-old woman with syncope and abdominal pain.  Evaluate for
+     acute pathology.
+     
+     No prior studies are available for comparison.
+     
+     AP UPRIGHT CHEST:  Heart size is difficult to evaluate due to lordotic view
+     and AP technique, but likely within normal limits.  The lungs are grossly
+     clear, no focal consolidations are seen.  There are slightly increased
+     interstitial markings.  No effusions are seen.
+                                                                           
+
+",,
+24966,14744,,,2552-01-27 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+ 
+ 
+ 
+Admission Date:  [**2552-1-27**]              Discharge Date:   [**2552-2-3**]
+ 
+Date of Birth:  [**2466-8-5**]             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Compazine / Prednisone / Sulfa (Sulfonamides) / Codeine / Floxin
+ 
+Attending:[**First Name3 (LF) 1482**] 
+Chief Complaint:
+hypotension s/p syncopal event  
+
+ 
+Major Surgical or Invasive Procedure:
+Pacemaker placement
+
+ 
+History of Present Illness:
+85F who was tx from [**Hospital1 **] after a reported syncopal event 
+today. Around noon, the patient was in the elevator when she 
+felt faint and hit the back of her head in the elevator. The 
+patient denies losing consciousness. She denied any chest pain, 
+shortness of breath, bowel or bladder incontinence. She reports 
+having breakfast this AM and participating in some physical 
+activity thereafter. She does report that her sugars have been 
+in the 400s the past couple of days. She does ambulate with a 
+cane.  
+.  
+On presentation to [**Hospital1 **], vitals were: T97.8, HR84, BP99/53, 
+R20, O2sat 98%RA.. Her BP later fell to the 80s which was 
+responsive to fluid boluses (received 3L total). Her EKG was 
+noteworthy for atrial fibrillation,intermittent LBBB and 
+biphasic T waves. Head CT was negative. She was started on a 
+heparin gtt for possible ischemia and afib. She later complained 
+of abdominal pain. CT of the abdomen was negative.  
+.  
+The patient was transferred to [**Hospital1 25**] for further care. Her BP 
+ranged from 90-101/38-46, HR 65; however her O2sats were 88%RA 
+which improved to 97% on 3L. Her FS were elevated, about 400. 
+She was treated with insulin. She also received CTX and Flagyll. 
+ 
+.  
+Of note she states for the past 2 weeks she hasn't been feeling 
+well. She's lost her appetite. She denies any thoughts of 
+harming herself or harming others. She still enjoys. She feels 
+safe where she lives.  
+.  
+ 
+ 
+
+ 
+Past Medical History:
+Diabetes Mellitus  
+Osteoporosis  
+Peripheral neuropathy  
+Macular degeneration  
+Glaucoma  
+Chronic recurrent diarrhea  
+.  
+
+ 
+Social History:
+SocHx: Smoked for 30 years. Retired secretary. No EtOH use. 
+Lives in ALF.  
+
+ 
+Family History:
+NC
+ 
+Physical Exam:
+afeb, HR 66, BP 88-101/41, R17,02sat 100% on 2l  
+GEN: elderly Caucasian female lying on side in mild distress 
+from back pain  
+HEENT: MM dry, OP clear; patient unable to follow finger with 
+eyes ([**1-28**] macular degeneration)  
+Heart: nl rate, S1S2, no gmr  
+LUNGS: CTA b/l, no rrw  
+BACK: RL flank pain to palpation, no spinal tenderness  
+NEURO: III-XII grossly intact  
+Ext: 4/5 strength in upper and lower extremity  
+.  
+PE on transfer to floor:
+BP 129/64 P 89 RR 20 95% on 3L  
+GEN: elderly Caucasian female, alert, lying comfortably in bed, 
+NAD  
+HEENT: PERRLA, anicteric, mmm, OP clear, no carotid bruit  
+Heart: irregularly irregular, no rubs/murmur/gallop  
+LUNGS: CTA anteriorly  
+NEURO: AAO x3, CN II-XII intact  
+ext: 1+ pedal edema at ankle, DP 1+ bilaterally  
+
+ 
+Pertinent Results:
+OSH imaging studes  
+CT head: negative  
+CXR: essentially unremarkable  
+.  
+
+[**2552-1-26**] 10:00PM   WBC-8.0 RBC-3.59* HGB-10.9* HCT-32.0* MCV-89 
+MCH-30.5 MCHC-34.1 RDW-13.0
+[**2552-1-26**] 10:00PM   NEUTS-92.8* BANDS-0 LYMPHS-6.3* MONOS-0.6* 
+EOS-0.2 BASOS-0
+[**2552-1-26**] 10:00PM   ALBUMIN-3.1* CALCIUM-8.4 PHOSPHATE-3.4 
+MAGNESIUM-2.1
+[**2552-1-26**] 10:00PM   CK-MB-NotDone cTropnT-0.06*
+[**2552-1-26**] 10:00PM   CK-MB-NotDone cTropnT-0.06*
+[**2552-1-26**] 10:00PM   ALT(SGPT)-18 AST(SGOT)-21 CK(CPK)-79 ALK 
+PHOS-74 AMYLASE-36 TOT BILI-0.3
+[**2552-1-26**] 10:00PM   GLUCOSE-417* UREA N-23* CREAT-1.0 SODIUM-135 
+POTASSIUM-4.9 CHLORIDE-99 TOTAL CO2-26 ANION GAP-15
+[**2552-1-26**] 10:27PM   LACTATE-1.5
+[**2552-1-26**] 11:00PM URINE  BLOOD-NEG NITRITE-NEG PROTEIN-NEG 
+GLUCOSE-1000 KETONE-50 BILIRUBIN-NEG UROBILNGN-NEG PH-5.0 
+LEUK-NEG
+[**2552-1-27**] 01:45AM   PT-12.6 PTT-81.9* INR(PT)-1.1
+[**2552-1-27**] 03:22AM   WBC-7.9 RBC-3.43* HGB-10.2* HCT-31.1* MCV-91 
+MCH-29.7 MCHC-32.8 RDW-12.8
+[**2552-1-27**] 03:22AM   ALBUMIN-3.1* CALCIUM-8.0* PHOSPHATE-3.3 
+MAGNESIUM-2.1
+[**2552-1-27**] 03:22AM   CK-MB-NotDone cTropnT-0.06*
+[**2552-1-27**] 03:22AM   CK(CPK)-62
+[**2552-1-27**] 03:22AM   GLUCOSE-340* UREA N-24* CREAT-1.0 SODIUM-136 
+POTASSIUM-4.1 CHLORIDE-100 TOTAL CO2-25 ANION GAP-15
+[**2552-1-27**] 08:19AM   CK-MB-NotDone cTropnT-0.06*
+[**2552-1-27**] 08:19AM   CK(CPK)-68
+[**2552-1-27**] 08:21AM   D-DIMER-1509*
+[**2552-1-27**] 08:21AM   PTT-134.3*
+.
+TTE [**1-27**]:
+The left atrium is normal in size. Left ventricular wall 
+thicknesses and  
+cavity size are normal. There is mild regional left ventricular 
+systolic  
+dysfunction with septal hypokinesis (may be in part secondary to 
+a conduction delay). Overall left ventricular systolic function 
+is mildly depressed. The aortic valve leaflets (3) are mildly 
+thickened but aortic stenosis is not present. Mild (1+) aortic 
+regurgitation is seen. The mitral valve leaflets are mildly 
+thickened. There is no mitral valve prolapse. Mild (1+) mitral 
+regurgitation is seen. The estimated pulmonary artery systolic 
+pressure is normal. There is no pericardial effusion. 
+.
+C/L spine films: 
+ 1.  Severe diffuse osteopenia. 
+2.  Anterior wedge compression fracture of L1 with approximately 
+30% loss of height, of indeterminate acuity. 
+3.  Exaggerated thoracic kyphosis, with compensatory exaggerated 
+cervical 
+lordosis. 
+4.  _____ of syndesmophytes in the thoracic spine.  Although 
+this can be seen with ankylosing spondylitis, there is only 
+minimal annulus calcification seen in the lumbar spine and 
+equivocal SI joint effusion.  Clinical correlation is requested. 
+ Nonvisualization of the posterior aspect of an upper thoracic 
+vertebral body is noted.  I suspect this is artifactual, but the 
+area is not completely evaluated.  No vertebral body compression 
+is seen in this area.  
+5.  Increased interstitial markings in both lungs with biapical 
+pleural 
+thickening. 
+.
+CXR [**2-1**]: 
+1.  Appropriate pacemaker lead placement. 
+2.  Stable appearance to mild-to-moderate pulmonary edema and 
+moderate-sized bilateral pleural effusions. 
+.
+B/l LE veins: 
+The right common femoral vein, right saphenofemoral junction, 
+right 
+superficial femoral vein, and right popliteal veins are all 
+normal to 
+compression and augmentation.  The left common femoral vein, 
+left 
+saphenofemoral junction, left superficial femoral vein and left 
+popliteal 
+veins are all normal to compression and augmentation.  No 
+evidence of any DVT in either lower limb. 
+.
+Labs at discharge:
+wbc 6.5
+hCT 30.7
+pLT 313
+K 4.7
+Cr 0.7
+
+ 
+Brief Hospital Course:
+A/P: 85 F w/MMP who presents today s/p syncopal episode course 
+complicated by atrial fibrillation and hypotension requiring 
+MICU level of monitoring  
+.  
+1. Fall s/p syncopal event: Patient was found to have 
+symptomatic paroxysmal atrial fibrillation w/ conversion pauses, 
+sometimes with pauses up to >10 seconds.  This was thought to be 
+the cause of her syncope.  The patient was also noted to have 
+complete heart block at times.  EP was consulted and determined 
+that the patient needed pacemaker placement.  A [**Company 184**] 
+enrhythm dual chamber PCM was placed without complication and 
+CXR confirmed proper lead placement and no pneumothorax. The 
+patient was monitored on tele and after pacer placement she did 
+not have any further pauses or syncopal events.  
+.  
+2. Atrial fibrillation- Patient was intially placed on heparin 
+drip for bridging to coumadin, however the patient developed 
+hematuria so the heparin was withheld.  A nodal [**Doctor Last Name 978**] was 
+withheld intitially given the long pauses, but metoprolol was 
+started for rate control after pacer placement.  The patient was 
+in and out of afib with occasional HR into 120's.  Her BP 
+remained stable during this time.  Her BB was uptitrated to 
+better rate control.  She was gradually increased to 50mg tid 
+which she tolerated.  Her HR remained in the 70s-80s.  
+Anticoagulation was disussed with the family and after the risks 
+and benefits were explained to them the decision was made to 
+hold off on anticoagulation at this point in time due to her 
+risk for falling.  The family stated they understand the risks 
+of stroke without coumadin and did not want anticoagulation at 
+this time.  This issue can be readdressed as an outpatient with 
+the patient's PCP. [**Name10 (NameIs) 6434**] was chcked given new onset afib and was 
+normal.
+.
+3. CHF: ECHO [**2552-1-27**] showed EF 45-50% w/ septal HK, 1+ AR/MR.  
+The patient received lasix as needed for diuresis initially, 
+however when she was on the floor the patient did not appear 
+overloaded on exam so she did not require any further diuresis. 
+The patient was started on ASA once hematuria resolved.
+.
+4. Back pain- Most likely [**1-28**] fall. Treated conservatively with 
+tylenol and heat pads.   Plain films showed compression fx at L1 
+probably old. Her tenderness is a the level of the sacrum. She 
+was treated conservatively with minimal tylenol and heat pads.
+.
+5. Fever: the patient was intitially febrile on admission.  
+There was no clear source, although UA was c/w infection.  CXR 
+showed no PNA and blood cultures were sent and showed no growth. 
+  She was started on empiric coverage with ceftriaxone.  She 
+remained afebrile and urine culture was negative.  A repeat UA 
+and culture was sent and was also negative as were her blood 
+cultures.  She had repeat CXR after pacer placement that again 
+showed no PNA, however the patient has a cough.  When no 
+infectious source could be identified her ceftriaxone was 
+discontinued.  The patient received 2 days of IV vancomycin 
+post-procedure per protocol and will need to complete a 5-day 
+course of Keflex upon d/c.  
+.  
+6. Hyperglycemia/DM- Patient was intially hyperglycemic and 
+showed resistance to oral antihyperglycemics; Urine significant 
+for 1000 glucose and 50 ketones.  She was initially on an 
+insulin gtt for control which was discontinued after her glucose 
+normalized.  [**Last Name (un) 279**] Diabetes clinic was consulted who 
+recommended starting long actin insulin.  She was started on 
+lantus 15U qhs and sliding scale.  Her lantus was decreased to 
+10U qhs due to AM FS in 50s. She was started on Repaglinide with 
+meals.
+.  
+7. Hypotension- probable [**1-28**] hypovolemia in setting of 
+hyperglycemia and recent h/o of poor PO intake. She responded 
+well to IVF hydration.
+.
+8. Hematuria: Patient developed hematuria while in the ICU.  It 
+was thought to be likely [**1-28**] foley trauma/heparin gtt.  The 
+hematuria resolved after heparin drip was discontinued. The 
+foley was discontinued after the patient was off bedrest from 
+the procedure.
+.  
+9. FEN regular diet; her electrolytes were followed and repleted 
+as needed  
+.  
+10. Code status: DNR/DNI  
+ 
+
+ 
+Medications on Admission:
+Meds at home:
+glyburide  
+metformin  
+lasix  
+lisinopril (recently dropped b/c of low BP)  
+neurontin 
+.
+Meds on transfer to floor:  
+Tylenol prn  
+Calcium carbonate 500mg PO bid  
+Ceftriaxone 1gm IV q24  
+Cephalexin 500mg PO q8h  
+Anzemet 12.5mg IV q8h prn  
+Colace 100mg bid  
+Insulin SS  
+Metoclopramide 10mg IV q6h prn  
+Senna prn  
+Vancomycin 1000mg IV q12  
+Vitamin D 400U daily  
+Ambien 2.5-5mg PO qhs prn  
+
+ 
+Discharge Medications:
+1. Calcium Carbonate 500 mg Tablet, Chewable Sig: One (1) 
+Tablet, Chewable PO BID (2 times a day).  
+2. Cholecalciferol (Vitamin D3) 400 unit Tablet Sig: One (1) 
+Tablet PO DAILY (Daily).  
+3. Cephalexin 500 mg Capsule Sig: One (1) Capsule PO Q8H (every 
+8 hours) as needed for post pr0codeure for 5 days.  
+4. Repaglinide 0.5 mg Tablet Sig: Two (2) Tablet PO TIDAC (3 
+times a day (before meals)).  
+5. Metoprolol Tartrate 50 mg Tablet Sig: One (1) Tablet PO TID 
+(3 times a day).  
+6. Aspirin 325 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).  
+7. Insulin Glargine 100 unit/mL Solution Sig: Ten (10) units 
+Subcutaneous at bedtime.  
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Discharge Diagnosis:
+Syncope
+Paroxysmal a fib with conversion pauses
+s/p pacemaker placement
+Diabetes, poorly controlled
+Fever
+Hematuria
+Back pain
+Macular degeneration
+Osteoporosis
+Glaucoma
+
+ 
+Discharge Condition:
+Afebrile. Hemodynamically stable. Tolerating PO
+
+ 
+Discharge Instructions:
+Please continue to take your medications as prescribed.
+.
+If [**Doctor First Name **] experience chest pain, worsening shortness of breath, 
+bleeding, inability to eat, or other concerning symptoms call 
+your doctor or come to the emergency room.
+ 
+Followup Instructions:
+Please follow up with Dr. [**First Name8 (NamePattern2) 4354**] [**Last Name (NamePattern1) 1523**] at [**Hospital1 **] regarding 
+your pacemaker.
+
+ 
+                             [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 136**] MD [**MD Number 137**]
+ 
+Completed by: [**First Name8 (NamePattern2) **] [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 4083**] MD [**Last Name (un) 4084**] [**2552-2-3**] @ 1404
+Signed electronically by: DR. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) **]
+ on: WED [**2552-2-9**] 4:23 PM
+(End of Report)
+
+
+",,
+24966,14744,,,2552-01-27 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2552-1-27**] 12:08 PM
+     BILAT LOWER EXT VEINS                                           Clip # [**Clip Number (Radiology) 7965**]
+     Reason: AFIB, ? DVT
+     Admitting Diagnosis: SYNCOPE-HYPERGLYCEMIA-EKG CHANGES
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      85 year old woman with new onset afib, hypoxia, DM                              
+     REASON FOR THIS EXAMINATION:
+      ?DVT                                                                            
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     EXAMINATION:  Bilateral lower limb duplex.  
+     
+     INDICATION:  A-fib and hypoxia.  
+     
+     FINDINGS:  The right common femoral vein, right saphenofemoral junction, right
+     superficial femoral vein, and right popliteal veins are all normal to
+     compression and augmentation.  The left common femoral vein, left
+     saphenofemoral junction, left superficial femoral vein and left popliteal
+     veins are all normal to compression and augmentation.  No evidence of any DVT
+     in either lower limb.
+     
+     IMPRESSION:  No evidence of any DVT in either lower extremity.
+                                                                           
+
+",,
+24966,14744,,,2552-01-27 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2552-1-27**] 11:12 AM
+     T-SPINE; L-SPINE (AP & LAT)                                     Clip # [**Clip Number (Radiology) 7964**]
+     SACRUM; C-SPINE, TRAUMA
+     Reason: evalaute for fracture                                       
+     Admitting Diagnosis: SYNCOPE-HYPERGLYCEMIA-EKG CHANGES
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      85 year old woman with fall and improving back pain                             
+     REASON FOR THIS EXAMINATION:
+      evalaute for fracture                                                           
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  _____ back pain, question fracture.
+     
+     CERVICAL SPINE, TWO VIEWS.
+     
+     There is exaggeration of usual cervical lordosis.  C1 through T1 is
+     demonstrated on the lateral view.  No prevertebral soft tissue swelling is
+     identified.  There is diffuse osteopenia.  Allowing for this, no fracture or
+     listhesis is identified.  Vertebral body heights are preserved.  There are
+     mild-to-moderate degenerative changes most pronounced at C4-5 with disc space
+     narrowing and marginal osteophytes.  Probable uncovertebral joint spurring
+     difficult to evaluate due to the patient's extreme lordosis.  Note is made of
+     extensive increased interstitial markings in both lungs, with prominent
+     biapical pleural scarring.
+     
+     THORACIC SPINE, TWO VIEWS.
+     
+     There is severe diffuse osteopenia.  There are apparent syndesmophytes, with
+     multiple calcified discs.  There are only mild degenerative changes, with
+     slight narrowing and spurring at several levels.  There is considerable
+     overlying artifact obscuring the posterior elements.  Posterior aspect of one
+     of the upper thoracic vertebral bodies is poorly defined on these views.  No
+     listhesis is detected.  Vertebral body heights are preserved.  Vascular
+     calcification noted.
+     
+     LUMBAR SPINE, TWO VIEWS.
+     
+     Assessment of fine bony detail is considerably limited by osteopenia,
+     overlying vascular calcification and bowel content as well as calcified
+     cartilage.  There are five non-rib-bearing vertebral bodies.  There is an
+     anterior wedge compression fracture of the L1 vertebral body with
+     approximately 30% loss of height, of indeterminate acuity.  No associated
+     kyphosis is identified.  There is slight disc space narrowing at T12/L1 and
+     L1/2.  Also mild narrowing at L5/S1 posteriorly.  The remaining vertebral body
+     heights are preserved.  No listhesis is identified.  I cannot exclude slight
+     increase in the degree of posterior convexity at L1 (retropulsion).  Scattered
+     disc calcification is noted.  No listhesis is identified.  No dense
+     syndesmophytes are seen.  However, faint calcification along the annulus is
+     suggested at L2/3 anteriorly.  Dense aortic calcification is noted.  The SI
+     joints are not well demonstrated due to considerable overlying bowel gas.
+     Portions of the SI joints are visible, but the possibility that there is some
+     SI joint effusion cannot be entirely excluded.
+                                                                 (Over)
+
+     DATE: [**2552-1-27**] 11:12 AM
+     T-SPINE; L-SPINE (AP & LAT)                                     Clip # [**Clip Number (Radiology) 7964**]
+     SACRUM; C-SPINE, TRAUMA
+     Reason: evalaute for fracture                                       
+     Admitting Diagnosis: SYNCOPE-HYPERGLYCEMIA-EKG CHANGES
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     
+     IMPRESSION:
+     
+     1.  Severe diffuse osteopenia.
+     
+     2.  Anterior wedge compression fracture of L1 with approximately 30% loss of
+     height, of indeterminate acuity.
+     
+     3.  Exaggerated thoracic kyphosis, with compensatory exaggerated cervical
+     lordosis.
+     
+     4.  Suggestion of syndesmophytes in the thoracic spine.  Although this can be
+     seen with ankylosing spondylitis, there is only minimal annulus calcification
+     seen in the lumbar spine and equivocal SI joint fusion.  Clinical correlation
+     is requested.
+     
+     4. Nonvisualization of the posterior aspect of an upper thoracic vertebral
+     body is noted.  I suspect this is artifactual, but the area is not completely
+     evaluated.  No vertebral body compression is seen in this area.
+     
+     5.  Increased interstitial markings in both lungs with biapical pleural
+     thickening.
+
+",,
+24966,14744,,,2552-01-27 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2552-1-27**] 11:12 AM
+     T-SPINE; L-SPINE (AP & LAT)                                     Clip # [**Clip Number (Radiology) 7964**]
+     SACRUM; C-SPINE, TRAUMA
+     Reason: evalaute for fracture                                       
+     Admitting Diagnosis: SYNCOPE-HYPERGLYCEMIA-EKG CHANGES
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      85 year old woman with fall and improving back pain                             
+     REASON FOR THIS EXAMINATION:
+      evalaute for fracture                                                           
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  _____ back pain, question fracture.
+     
+     CERVICAL SPINE, TWO VIEWS.
+     
+     There is exaggeration of usual cervical lordosis.  C1 through T1 is
+     demonstrated on the lateral view.  No prevertebral soft tissue swelling is
+     identified.  There is diffuse osteopenia.  Allowing for this, no fracture or
+     listhesis is identified.  Vertebral body heights are preserved.  There are
+     mild-to-moderate degenerative changes most pronounced at C4-5 with disc space
+     narrowing and marginal osteophytes.  Probable uncovertebral joint spurring
+     difficult to evaluate due to the patient's extreme lordosis.  Note is made of
+     extensive increased interstitial markings in both lungs, with prominent
+     biapical pleural scarring.
+     
+     THORACIC SPINE, TWO VIEWS.
+     
+     There is severe diffuse osteopenia.  There are apparent syndesmophytes, with
+     multiple calcified discs.  There are only mild degenerative changes, with
+     slight narrowing and spurring at several levels.  There is considerable
+     overlying artifact obscuring the posterior elements.  Posterior aspect of one
+     of the upper thoracic vertebral bodies is poorly defined on these views.  No
+     listhesis is detected.  Vertebral body heights are preserved.  Vascular
+     calcification noted.
+     
+     LUMBAR SPINE, TWO VIEWS.
+     
+     Assessment of fine bony detail is considerably limited by osteopenia,
+     overlying vascular calcification and bowel content as well as calcified
+     cartilage.  There are five non-rib-bearing vertebral bodies.  There is an
+     anterior wedge compression fracture of the L1 vertebral body with
+     approximately 30% loss of height, of indeterminate acuity.  No associated
+     kyphosis is identified.  There is slight disc space narrowing at T12/L1 and
+     L1/2.  Also mild narrowing at L5/S1 posteriorly.  The remaining vertebral body
+     heights are preserved.  No listhesis is identified.  I cannot exclude slight
+     increase in the degree of posterior convexity at L1 (retropulsion).  Scattered
+     disc calcification is noted.  No listhesis is identified.  No dense
+     syndesmophytes are seen.  However, faint calcification along the annulus is
+     suggested at L2/3 anteriorly.  Dense aortic calcification is noted.  The SI
+     joints are not well demonstrated due to considerable overlying bowel gas.
+     Portions of the SI joints are visible, but the possibility that there is some
+     SI joint effusion cannot be entirely excluded.
+                                                                 (Over)
+
+     DATE: [**2552-1-27**] 11:12 AM
+     T-SPINE; L-SPINE (AP & LAT)                                     Clip # [**Clip Number (Radiology) 7964**]
+     SACRUM; C-SPINE, TRAUMA
+     Reason: evalaute for fracture                                       
+     Admitting Diagnosis: SYNCOPE-HYPERGLYCEMIA-EKG CHANGES
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     
+     IMPRESSION:
+     
+     1.  Severe diffuse osteopenia.
+     
+     2.  Anterior wedge compression fracture of L1 with approximately 30% loss of
+     height, of indeterminate acuity.
+     
+     3.  Exaggerated thoracic kyphosis, with compensatory exaggerated cervical
+     lordosis.
+     
+     4.  Suggestion of syndesmophytes in the thoracic spine.  Although this can be
+     seen with ankylosing spondylitis, there is only minimal annulus calcification
+     seen in the lumbar spine and equivocal SI joint fusion.  Clinical correlation
+     is requested.
+     
+     4. Nonvisualization of the posterior aspect of an upper thoracic vertebral
+     body is noted.  I suspect this is artifactual, but the area is not completely
+     evaluated.  No vertebral body compression is seen in this area.
+     
+     5.  Increased interstitial markings in both lungs with biapical pleural
+     thickening.
+
+",,
+24966,14744,,,2552-01-27 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2552-1-27**] 11:12 AM
+     T-SPINE; L-SPINE (AP & LAT)                                     Clip # [**Clip Number (Radiology) 7964**]
+     SACRUM; C-SPINE, TRAUMA
+     Reason: evalaute for fracture                                       
+     Admitting Diagnosis: SYNCOPE-HYPERGLYCEMIA-EKG CHANGES
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      85 year old woman with fall and improving back pain                             
+     REASON FOR THIS EXAMINATION:
+      evalaute for fracture                                                           
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  _____ back pain, question fracture.
+     
+     CERVICAL SPINE, TWO VIEWS.
+     
+     There is exaggeration of usual cervical lordosis.  C1 through T1 is
+     demonstrated on the lateral view.  No prevertebral soft tissue swelling is
+     identified.  There is diffuse osteopenia.  Allowing for this, no fracture or
+     listhesis is identified.  Vertebral body heights are preserved.  There are
+     mild-to-moderate degenerative changes most pronounced at C4-5 with disc space
+     narrowing and marginal osteophytes.  Probable uncovertebral joint spurring
+     difficult to evaluate due to the patient's extreme lordosis.  Note is made of
+     extensive increased interstitial markings in both lungs, with prominent
+     biapical pleural scarring.
+     
+     THORACIC SPINE, TWO VIEWS.
+     
+     There is severe diffuse osteopenia.  There are apparent syndesmophytes, with
+     multiple calcified discs.  There are only mild degenerative changes, with
+     slight narrowing and spurring at several levels.  There is considerable
+     overlying artifact obscuring the posterior elements.  Posterior aspect of one
+     of the upper thoracic vertebral bodies is poorly defined on these views.  No
+     listhesis is detected.  Vertebral body heights are preserved.  Vascular
+     calcification noted.
+     
+     LUMBAR SPINE, TWO VIEWS.
+     
+     Assessment of fine bony detail is considerably limited by osteopenia,
+     overlying vascular calcification and bowel content as well as calcified
+     cartilage.  There are five non-rib-bearing vertebral bodies.  There is an
+     anterior wedge compression fracture of the L1 vertebral body with
+     approximately 30% loss of height, of indeterminate acuity.  No associated
+     kyphosis is identified.  There is slight disc space narrowing at T12/L1 and
+     L1/2.  Also mild narrowing at L5/S1 posteriorly.  The remaining vertebral body
+     heights are preserved.  No listhesis is identified.  I cannot exclude slight
+     increase in the degree of posterior convexity at L1 (retropulsion).  Scattered
+     disc calcification is noted.  No listhesis is identified.  No dense
+     syndesmophytes are seen.  However, faint calcification along the annulus is
+     suggested at L2/3 anteriorly.  Dense aortic calcification is noted.  The SI
+     joints are not well demonstrated due to considerable overlying bowel gas.
+     Portions of the SI joints are visible, but the possibility that there is some
+     SI joint effusion cannot be entirely excluded.
+                                                                 (Over)
+
+     DATE: [**2552-1-27**] 11:12 AM
+     T-SPINE; L-SPINE (AP & LAT)                                     Clip # [**Clip Number (Radiology) 7964**]
+     SACRUM; C-SPINE, TRAUMA
+     Reason: evalaute for fracture                                       
+     Admitting Diagnosis: SYNCOPE-HYPERGLYCEMIA-EKG CHANGES
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     
+     IMPRESSION:
+     
+     1.  Severe diffuse osteopenia.
+     
+     2.  Anterior wedge compression fracture of L1 with approximately 30% loss of
+     height, of indeterminate acuity.
+     
+     3.  Exaggerated thoracic kyphosis, with compensatory exaggerated cervical
+     lordosis.
+     
+     4.  Suggestion of syndesmophytes in the thoracic spine.  Although this can be
+     seen with ankylosing spondylitis, there is only minimal annulus calcification
+     seen in the lumbar spine and equivocal SI joint fusion.  Clinical correlation
+     is requested.
+     
+     4. Nonvisualization of the posterior aspect of an upper thoracic vertebral
+     body is noted.  I suspect this is artifactual, but the area is not completely
+     evaluated.  No vertebral body compression is seen in this area.
+     
+     5.  Increased interstitial markings in both lungs with biapical pleural
+     thickening.
+
+",,
+24966,14744,30998,0,2552-01-27 05:33:00 EST,2552-01-27 06:05:00 EST,3238,"N",54,"Nursing/Other",,"
+
+NURSING ADMISSION NOTE:
+
+Pt is an 85YO female transferred from OSH for further management of new-onset afib, hypotension, and hyperglycemia. 
+
+HPI: Pt has had increasing lethargy and weakness past 2 weeks at assisted-living facility, as well as increasing blood sugars for which increased oral agents were prescribed. On [**1-26**] pt had a syncopal episode in the elevator during which she fell backwards to the floor, striking her head on the wall. She was taken by her dtr to an OSH where she was found to have new-onset AF, transient LBBB, and hypotension as well as intermittent abd pain. She was given fluids and started on Heparin gtt after head CT was negative. Abd CT unrevealing; she was transferred to [**Hospital1 4342**] for further evaluation and admission. In [**Hospital1 4342**] she was in NSR but had intermittent hypotension which responded to fluids. Hep gtt was continued, and she was given IV Insulin X 2 for blood sugars in the 400's. Transferred to MICU 6 for further care. 
+
+PMH: see FHPA
+
+ALL: see MAR
+
+VALUABLES: none in possession
+
+ROS:
+NEURO: Pt A&O X 3, pleasant and cooperative. MAE with equal strength bilaterally. She c/o significant right lower back pain shortly after arrival which has been partially relieved with Tylenol, warm pack, and repositioning. 
+RESP: Sats mid-90's on 2L NC; LS diminished t/o (poor effort); RR WNL.
+C-V: HR 60's-70's, NSR, no ectopy. Lytes WNL, trop 0.06, CK's flat. On Heparin gtt at 900u/hr with therapeutic PTT. 
+ID: Afebrile, WBC and Lactate WNL; cultured and given empiric abx in EW. 
+GI: Belly softly distended (baseline per pt), active BS; pt states LBM yesterday. Tol clear lix; ordered for cardiac diet. 
+GU: Foley placed and is draining adequate amounts of clear yellow urine. BUN/creat 24/1.0. 
+ENDO: FSBS remained >350 despite IV insulin given in EW. Started on insulin gtt in MICU with slight improvement thus far. 
+HEME: Hct stable at 29, plt and INR WNL. PTT therapeutic as noted above. No evidence of active bleeding. 
+SKIN: intact
+ACCESS: PIV X 2
+SOCIAL: Dtr [**Name (NI) 3186**] (a nurse [**First Name (Titles) **] [**Last Name (Titles) **]) is the spokesperson. Pt has 4 children (2 out-of-state) and 7 grandchildren. no calls or visits since arrival. Pt DNR/DNI. 
+
+A: hemodynamically stable, sugars slowly improving
+
+P: Cont hep gtt; next PTT due 0800; ECHO today; monitor back pain;? CT for back pain; titrate insulin prn to bring glucose under control; routine ICU monitoring and care; support to pt and family. 
+
+",,
+24966,14744,30998,0,2552-01-27 18:06:00 EST,2552-01-27 18:50:00 EST,7996,"N",54,"Nursing/Other","NSG 7AM-7PM","
+NSG 7AM-7PM
+PLEASE REFER TO CAREVUE FOR OTHER OBJ DATA
+
+85 YR OLD FEMALE PRESENTS S/P SYNCOPAL EPISODE, ? NEW ONSET INTERMITTENT AFIB AND BBB, HYPOTENSION/ ADMITTED TO MICU FOR MANAGEMENT.
+
+
+PT A/OX3, SPONTENEOUS, FOLLOWS COMMANDS, MAE INDEPENDENT/PURPOSEFULLY. C/O INTERMITTENT BACK PAIN/ RESOLVED WITH REPOS/ XRAY OF SPINE AND COCCYX/ NEG FOR FX.
+
+HEART RYTHM SINUS AT TIME/ HR 60S-90S/ INTERMITTENT AFIB AND BBB/ EKG DONE/ TEAM AWARE. REMAINS ON HEP/ PTT ELEVATED 134/150/ NEXT PTT AT 2000/ CURRENT HEP GTT:400UNITS/HR. SBP REMAINS LOW 80S-90S/ POSS [**1-28**] TO HYPOVOLEMIA/ BOLUSED 3.5L OF NS WITH SOME EFFECT/ SBP REMAINS MAINLY IN 9OS/ LOW UOP: 0-100CC/HR.
+ECHO DONE TODAY/ EF 45-50/ BIL LOWER EXT US DONE NEG FOR DVT
+
+AFFEBRILE TMAX:97.5
+
+PT RECEIVED ON INSULIN GTT 8UNITS/HR/ TITRATE [**First Name8 (NamePattern2) **] [**Last Name (un) **] SCALE/ FSBS LABILE 60S-200S/ CURRENT INSULIN GTT:3UNITS/HR
+RESP EFFORT UNLABORED AND EVEN/ LUNG SOUNDS CLEAR IN UPPER AIRWAY AND DIMINISHED AT BASES/ MAINTAINS SATO2 94-98 ON 2LNC. DENIES SOB.
+
+
+SKIN W/D, GROSSLY INTACT EXCEPT L ANTECUB HEMATOMA AND EDEMA. TEAM EVALUATES
+
+DAUGHTERS VISITED/ INQUIRE APPROPRIATELY/ PT REMAINS DNRDNI
+
+CONT CURRENT POC
+MAY C/O TO FLOOR WHEN BLOOD SUGAR AND BP STABLE.
+",,
+24966,14744,30998,,2552-01-28 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2552-1-28**] 9:45 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 7966**]
+     Reason: Pls eval for infiltrate                                     
+     Admitting Diagnosis: SYNCOPE-HYPERGLYCEMIA-EKG CHANGES
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       85 year old woman with syncope, atrial fib with pauses, likely to get pacer 
+      placed. New fever   
+     REASON FOR THIS EXAMINATION:
+      Pls eval for infiltrate                                                         
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CLINICAL HISTORY:  Syncope, atrial fibrillation, now has fever.
+     
+     CHEST:  Comparison is made with the prior chest x-ray of [**1-26**]. 
+     Bilateral pleural effusions are now present, and upper zone redistribution is
+     seen consistent with failure.  No definite areas of consolidation are seen.
+     
+     IMPRESSION:  Evidence of failure.  No areas of consolidation identified.
+                                                                           
+
+",,
+24966,14744,30998,0,2552-01-28 05:56:00 EST,2552-01-28 06:29:00 EST,8121,"N",54,"Nursing/Other",,"
+
+Npn [**2552-1-28**] 1900-0700,written at 0608 est
+Review carevue for all objective data
+
+Code: DNR/DNI
+
+Neuro: Alert, [**Last Name (un) **], oriented x3, following commands and MAE. C/o ear ache good effect with tylenol po, denies any other pain.
+
+Resp:WAs on o2 2l nasal canula and tried on room air and o2 sats 91-93%. Bilateral lung sounds clear and diminished at the base. breathing un laboured.
+
+Cv: NSR without ectopy, continued on heparin gtt and titerated as per ss, next ptt due at 12noon. SBP 92-110, no fluid bolous indicated. Am labs pending. No chest pain.
+
+GI/Gu: Tolerating po diet and abd soft distended, bs present and small bowel movements. Urine out 20-80 ml/hr and MD aware about low urine out put.
+
+Endo: continued on insulin gtt and titerated as [**First Name8 (NamePattern2) 59**] [**Last Name (un) 399**] protocol and lantus 10u given in am as bedtime dose and aiming to switch to ss and fixed dose.
+
+Skin: intact
+Social: Daughter was present at the bed side in the evening.
+
+Plan: Continue monitor blood sugar closely and wean to ss and fixed dose if tolerated, monitor urine out put and titerate heparin gtt as per ptt. 
+",,
+24966,14744,30998,0,2552-01-28 18:10:00 EST,2552-01-28 18:26:00 EST,2748,"N",1,"Nursing/Other","Nursing Progress Note.","
+Nursing Progress Note.
+
+EVENTS/CV: Pt developed a 6 second NSR to afib conversion pause on EKG c pt c/o feeling terrible though no drop in SBP.  Pt returned to bed, 12 lead EKG obtained (no hypoxemic changes evident), Zoll pads placed and cardiology consult obtained.  Team now feels pt has classic afib/NSR conversion pauses (thats when she faints) c A-V disassociation and SSS and will likely require pacer placement.  The pt had a second three second conversion pause since this main event and remains in afib @ this time c occ PVC's.  Pt & family okay c Zoll pad placement though is a DNR/DNI.  Magnesium & Potassium repleted today, repeat labs sent @ 17:00 c a serum magnesium value of 2.7 and a serum potassium value of 3.9.  
+
+CV: Pt hemodynamically stable today despite conversion pause/afib.  +2 dependent edema in LE's noted.  Two 20# gauge PIV's remain in place, both c good blood return noted.  Adequate hourly urinary output today, the pt is currently net input 300ml today and is net input five liters LOS (pt admit dehydrated).  
+
+RESP: Pt received on 2LNCO2 on bed rest c nl RR and sats in low 90's.  Pt OOB to chair c sm assist times two this AM c improved sats, NC subsequently d/c'ed.  NC returned c conversion pause and remains in place @ 2L.  Fine [**Hospital1 **]-basilar crackles appreciated today, LS are clear in upper lobes.  Incentive spirometer provided today c instruction & encouragement, moving approx 700ml c fair technique noted.  
+
+DM: Insulin gtt successfully weaned off today c SQ Lantus fixed dosing & RISS in place.  Will cont to monitor FS closely to ensure normoglycemia.  
+
+MS: Pt is AAO times three, MAE, pleasant/cooperative.  Very frail & pail appearing elderly women.  Pt acutely began screaming in bed c family and RN present, pt calmed down after about 10 seconds and reported feeling as if she were falling (she was sitting stationary in bed).  Verbal and non-verbal support provided, team notified.  Panic attack?  Pt otherwise without c/o pain or anxiety all shift.  
+
+SOC: Multiple family members have called/visited today, all kept up to date c POC/pt status and are aware that the pt will need the placement of a pacemaker for definitive treatment.  The pt remain a DNR/DNI.  
+
+COAG: Pt maintained on IV Heparin gtt currently infusing @ 800units/hr c a repeat PTT value of 42.2.  Next PTT to be drawn @ 23:30 to ensure optimal anti-coag.  Pt now being called out to CCU for continuation of care.
+
+OTHER: Please see CareVue for additional pt care data/comments.  Univ isolation precautions remain in place.  
+",,
+24966,14744,30998,,2552-01-29 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2552-1-29**] 1:30 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 7967**]
+     Reason: evaluate for consolidation, change in effusion              
+     Admitting Diagnosis: SYNCOPE-HYPERGLYCEMIA-EKG CHANGES
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        85 year old woman with syncope, atrial fib with pauses, likely to get pacer  
+      placed  
+     REASON FOR THIS EXAMINATION:
+      evaluate for consolidation, change in effusion                                  
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CLINICAL HISTORY:  Syncope, atrial fibrillation.
+     
+     CHEST
+     
+     Comparison is made with the prior chest x-ray of [**9-26**].  There has been no
+     significant change, bilateral pleural effusions with evidence of failure is
+     again seen.  The degree of failure has not changed.
+     
+     IMPRESSION:  No change, persistent failure.
+                                                                           
+
+",,
+24966,14744,30998,0,2552-01-29 02:06:00 EST,2552-01-29 02:54:00 EST,1853,"N",1,"Nursing/Other","CCU NPN 1900-0700","
+CCU NPN 1900-0700
+O:  85yo female transferred to CCU service from MICU d/t new afib with long pauses/asystole.  
+MNH: DM, osteo, periph. neuropathy, macular degeneration, glaucoma
+HPI: [**1-27**]:  pt. had syncopal episode in elevator after feeling faint and hit her head.  no LOC.  went to OSH where she was found in afib, BP 80's- given fluid.  head CT negative, abd. CT neg.   started on heparin gtt. In the  MICU- afib contin. in 80-90's with PVC's.  [**1-28**]:  had ~ 3 long pauses 3-10sec. which would then convert to SR 70's.   pt. very anxious feeling like she would pass out.  BP stable during this.  EP consulted.  no temp. wire at this time.  pacing pads on  but not tested.  
+transferred to CCU. 
+
+Arrived to CCU ~ 2020- awake, alert, appearing calm.  A/O x3.  no c/o pain.  pt. r'd/o for MI on admit.  no c/o CP/SOB/palps/dizziness.  
+
+HR initially SR with first degree AV block PR .24-.25.  rare PVC's.  had 3 pauses [**1-29**] sec. long between arrival to CCU and  2130.  then went into Afib at 2240- rate 120-140- BP stable.  broke from afib at 2340 with 5.7sec. pause into brady 60's first degree block.  has remained in 1st deg. AV block since then with occas. PVC's.
+BP 93-120/50.  
+heparin gtt increased to 800units/hr at 2200 for subtherapeutic PTT.  
+no coumadin.  
+distal pulses [**12-28**]+.  2+ ankle edema.  
+
+Resp:  LS crackles bases.  sats on 2lnc on admit 90-92%.  increased to 4lnc, sats 97-98%.  CXR showing CHF:  given 10mg IV lasix ~ 800cc/ u/o responce.  denies SOB.  
+
+GU: foley - responding to lasix.  BUN/Cr 11/0.8.  
+GI:  abd soft, NT.  no stool.  cardiac diet.  asking for water.  
+ID:  TS to 102R on admit to CCU.  BC x2, urine sent.  tylenol x1.  down to 98.4po.  
+endo:  Hx elevated BS on admit to hosp. requring insulin gtt- this was d/c'd [**1-28**] and started on SSRI/glargine.  FS 75 at 2200.  given glargine at HS.  
+
+comfort:  pt. c/o some lower back pain.  per chart history, has compression fraction at L1- prob. old.  position change and heat pak with good relief.  did get OOB [**1-28**] but needed 2 assist per pt. - she states she felt very weak.  
+
+sleeping well through night-wakes easily and lucid.  
+
+Pt. is DNR/DNI but is agreeable to pacing.  order in chart
+
+A:  85yo female presents with syncopal episode found in Afib with conversion pauses.  now with new fever spike.  
+P:  follow HR/BP.  monitor lytes with diuresis. heparin gtt.  follow fever with cultures.  
+EP following and may require pacer/temp. wire.  
+daughter is proxy and is RN at NWH.  also had another daughter and son- here from out of town.  
+
+",,
+24966,14744,30998,0,2552-01-29 06:42:00 EST,2552-01-29 06:47:00 EST,1853,"N",1,"Nursing/Other","addendum:","
+addendum:
+had (approx) 3sec pause at 0334, 3.5sec at 0507, 5sec at 0519 and then approx. 11sec pause at 0538.  the patient was symptomatic during the 11sec pause where she started to moan while reaching arms up and out. no pain.  fell asleep after epidode.  HR 80's 1st deg. 
+FS 96 in AM.  lytes WNL.  HCT 27.  PTT 65 on 800u heparin gtt. 
+",,
+24966,14744,30998,0,2552-01-29 16:05:00 EST,2552-01-29 17:00:00 EST,7641,"N",1,"Nursing/Other",,"
+
+S:""I feel so sick to my stomach.""
+
+O:please see careview.
+
+CV:PT in afib/SR (tachybrady) 1st degree av block pr .24 with 8 episodes of 4-11sec conversion  pauses since she was admitted to the ccu yesterday.ECG Sinus Junctional Rythm. Pt is planned to have a pacemaker placed in the ep lab on [**2552-1-31**] (NPO Sunday night after midnight)heparin gtt 800units/hr ptt this a.m 65.1. Map < 60 pt received 250cc ns bolus with good effect maps > 65. Pt urin output decreased 15cc/hr pt received another ns bolus of 250cc.
+
+Resp: 4L NC, rr16-20, o2 sats 98%. LSC pt using IS.
+
+Neuro: A+Ox3
+
+GI:Pt c/o nausea all morning pt received a total of 37.5 of anzimet and 10mg of metoclopramide with good effect pt slept for a few hours and when she awoke she felt much better and was able to eat toast and crackers and she drank some gingerale.
+
+Pain:Pt has old compression fx at L1. pt c/o of back pain from laying on her back for so long she reeived some tylenol with good effect. pt will not have tylenol ordered prn for pain because of its fever reducing effect the team does not want the tylenol to mask a fever. if pt c/o pain team will reassess to find appropriate pain managment. 
+
+GU:Pt is -441cc for the day she has had decreased urin output from 100cc/hr earlier now 15-20cc/hr.
+
+endo: BS have been 70-112 for the day no coverage has been needed. pt is on  ss insulin and a fixed dose.
+
+ID: tmax 102 on arrival to ccu from micu last night now tepm is 97. ? UTI.
+
+skin: large bump on top of pts head from when she fell at home and a large purple hematoma on right side of neck also large purple hematoma on right arm.
+
+A:nausea, poor appetite, syncopal episodes from CHB.
+
+P:Continue to monitor HR, rhythm, pauses. external pace maker pads in place not being used at this time. treat pain and nausea prn. no tylenol for pain. monitor urin output.
+
+
+
+
+",,
+24966,14744,30998,0,2552-01-30 06:33:00 EST,2552-01-30 06:48:00 EST,2691,"N",1,"Nursing/Other","CCU NURSING PROGRESS NOTE","
+CCU NURSING PROGRESS NOTE
+S:I CAN'[**Initials (NamePattern4) **] [**Last Name (NamePattern4) 7**]. 
+O:PT ALERT AND ORIENTED, POOR EYE SIGHT D/T MACULAR [**Last Name (un) 5338**]. TYLENOL AND AMBIEN 2.5MG, PT SLEPT FOR FEW HOURS. PT 
+
+RESP:LS DIMINISHED BILAT W/ CRACKLE AT RIGHT BASE, CONGESTED COUGH, C/O RUNNING NOSE, WATERY EYES. SATS 98% ON 4L, ATTEMPTED TO WEAN, BUT SATS 92%
+CV:MHR SR, 1SR AVB, OCCASS PAUSE. +PULSES. HEPARIN AT 800UNIT/HR, PTT THERAPUTIC. 
+GI:+BS, SLT DISTENDED, 
+GU:HEMATURIA, MD AWARE. 
+ID:LOW GRADE TEMP 100.9, NO BC ORDERED. ON CEFTRIAXONE.
+A/P:PLAN PERM PACER MONDAY. FOLLOW UP XRAY, EVAL FOR FURTHER DIURESES. 
+FOLLOW TEMP. 
+",,
+24966,14744,30998,0,2552-01-30 16:31:00 EST,2552-01-30 17:33:00 EST,7641,"N",1,"Nursing/Other",,"
+
+S:""I felt like i was falling when I felt my heart stop.""
+
+O:please see careview.
+
+CV: 1st degree av block pr.23 with a 10 sec conversion pause today. atrial bigemity. transcutaneous temp pacer on and in place. pts heparin gtt stopped. pt will be going for her pacemaker placement in the afternoon on [**2552-1-31**]. pt will need to be NPO after midnight tonight. Pt c/o feeling shocked when she awoke once when she coughed another when she was blowing her nose and another time with just moving a little. MD aware continue to monitor.
+
+resp: pt is on 4L nc difficulty weaning down o2, sats  drop to low 90% when o2 decreased down to 2L. LS clear. 
+
+GI/endo: pts BS this a.m. was 52 pt received [**12-28**] amp of D5w BS increased to 128 BS high 256. Lantes dose decreased to 15units. Pt ate breakfast without difficulty. After pt had 10 sec pause she felt very nausea pt received anzimet and reglan with good effect. 
+
+GU:-1111cc for past 24hrs. yellow urin with sed.
+
+ID: tmax 97.5.
+
+A:nausea, conversion pauses
+
+P:external pacer on, contnue to monitor hr and rhythm. continue to monitor bp npo after midnight pt will have perm pacer placed
+",,
+24966,14744,30998,0,2552-01-31 06:37:00 EST,2552-01-31 06:55:00 EST,2691,"N",1,"Nursing/Other","CCU NURSING PROGRESS NOTE","
+CCU NURSING PROGRESS NOTE
+S""MY BREATHING IS BETTER""
+O:PT ALERT AND ORIENTED X3, MAE, AMBIEN HIVEN FOR [**Doctor Last Name 7**], W/ GOOD EFFECT. 
+CV;MHR SR W/ 1ST DEGREE AVB IN 80S. PT BECAME MORE TACHYCARDIC ON DOBUTAMINE. PT WENT IN TO RAPID AFIB 120-140S, DOBUT OFF, PT CONVERTED TO SR W/FREG PACS. ONE PAUSE OF 4.9SEC. PT ASYMPTOMATIC. ZOLL PAD ON PT. SOFT MUR, PEDAL PULSES PALP. +3EDEMA OF BOTH UPPER AND LOWER EXTREMITIES.  
+
+RESP:PT HAS HAD A MORE FREQUENT CONGESTED COUGH. LS W/ CRACKLES BILAT, PT C/O SOME DIFF BREATHING, DR [**Last Name (STitle) 2818**] NOTIFIED. ONCE PT IN RAPID AFIB, SATS DECREASE TO 93, SLT MORE TACHYPNEIC. DR.[**Last Name (STitle) 2818**] PAGED, NO RETURN CALL.  DR [**First Name (STitle) 449**] PAGED THEN PAGED AND NOTIED OF HR, AND RESP STATUS, LASIX GIVEN W/ GOOD DIURESIS. POTASSIUM REPLACEMENT GIVEN. COUGH NOT PRODUCTIVE, UNABLE TO OBTAIN SAMPLE. USING I/S WELL.  
+
+GI:SOFT, +BS, POOR APETITE. NPO AFTER MN. +FLATUS
+GU:GOOD U/O. 
+ID:T MAX 99.5, PT REMAINS ON CEFTRIAXONE AND VANCO. 
+
+SKIN:ECCHYMOSIS IN BACK OF ARM AND RIGHT AC. 
+
+A/P:PT AWAITING PERM PACER TODAY, WILL GOOD THIRD CASE. PT NPO AFTER MN. EP CONSENT SIGNED. CONTINUE ANTIBIOTICS, ZOLL PADS AND MONITOR ON. 
+",,
+24966,14744,,,2552-02-01 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2552-2-1**] 1:49 PM
+     CHEST (PA & LAT)                                                Clip # [**Clip Number (Radiology) 7968**]
+     Reason: post PCM lead placement                                     
+     Admitting Diagnosis: SYNCOPE-HYPERGLYCEMIA-EKG CHANGES
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      85 year old woman with long sinus pauses                                        
+     REASON FOR THIS EXAMINATION:
+      post PCM lead placement                                                         
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Status post pacemaker placement for long sinus pauses.
+     
+     Comparison is made to prior radiograph dated [**1-28**] and [**2552-1-29**].
+     
+     AP AND LATERAL CHEST RADIOGRAPH
+     
+     A left-sided dual lead pacemaker is identified with TIPS within the right
+     atrium and right ventricle.  No evidence of pneumothorax bilaterally.  Stable
+     appearance to mild-to-moderate pulmonary edema and moderate-sized bilateral
+     pleural effusions.  There is overall osseous demineralization and mild
+     degenerative changes of the thoracic spine.
+     
+     IMPRESSION:
+     1.  Appropriate pacemaker lead placement.
+     2.  Stable appearance to mild-to-moderate pulmonary edema and moderate-sized
+     bilateral pleural effusions.
+                                                                           
+
+",,

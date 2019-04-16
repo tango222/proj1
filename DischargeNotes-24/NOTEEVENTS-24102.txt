@@ -1,0 +1,360 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+24102,23251,,,2895-07-29 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+ 
+ 
+ 
+Admission Date:  [**2895-7-29**]              Discharge Date:   [**2895-8-19**]
+ 
+Date of Birth:  [**2807-1-22**]             Sex:   F
+ 
+Service: SURGERY
+ 
+Allergies: 
+Patient recorded as having No Known Allergies to Drugs
+ 
+Attending:[**Last Name (NamePattern1) 4620**] 
+Chief Complaint:
+abdominal pain
+ 
+Major Surgical or Invasive Procedure:
+exploratory laporotomy, lysis of adheasions, small bowel 
+resection
+
+ 
+History of Present Illness:
+88F with h/o DM, CHF, afib, recent pneumonia (Zosyn) and C diff 
+(course of Flagyl), among other med issues, presents with one 
+day of abdominal pain. Pain began at epigastrium and migrated by 
+presentation to ED to hypogastrium, and finally localized to RLQ 
+at time of admission. No N/V/BRBPR. Diarrhea per recent c diff, 
+but normal BM yesterday was her last BM. Dark stools secondary 
+to iron supplementation, but guiaic neg in ED. Pt denies nausea 
+per se, but had one episode of emesis yesterday brought on by 
+coughing spell.
+   Additional issues for this admission developed as patient was 
+in rapid afib in ED, tachypneic, and had B diffuse crackles on 
+lung exam. O2 sats stable on 100%, but patients normal 
+requirement is only 2L. CPAP was attempted in ED, but patient 
+refused and became agitated. After multiple doses of Diltiazem 
+IV brought pulse rate to 90's, O2 was pulled back to 4L and O2 
+sat was 98%.
+   Patient has had multiple admissions recently for pulmonary 
+edema, at [**Hospital1 1220**] and [**Hospital1 25**], treated effectively with diuresis and 
+diltiazem drip when patient in rapid afib.
+ 
+Past Medical History:
+CHF--> (last echo [**5-5**] showed good LVF with EF=60%, mild 
+symmetric .... LVH, and mildly increased pulm artery pressures)
+Afib
+DM Type 2
+Polycythemia [**Doctor First Name **]
+CRI (Cr 1.6 to 2.6)
+Hypothyroidism
+Pneumonia
+DVT few months ago; off coumadin based on risk of falls
+ 
+Social History:
+Since falling about a year ago the patient has been in and out 
+of [**Hospital1 1220**]. She is now living at [**Hospital3 4621**]. She was widowed 2 years ago.No alcohol and no smoking. 
+Her son is a urologist at [**Hospital6 1097**]. She has three 
+grandchildren.
+
+ 
+Family History:
+No h/o clotting disorders.
+ 
+Physical Exam:
+T:99r   P:126   BP:181/90  R:36   O2:98% on 5L
+Gen: elderly female, breathing rapidly and shallowly, otherwise 
+in NAD
+HEENT: NCAT, PERRLA, EOMI, +proptosis, +exotropia, MMM
+Neck: no bruit, JVP to level of superior thyroid cartilage
+CV: tachy, irreg rhythm, no m/g/r
+Pulm: crackles B from bases to 1/2 up, diffuse rhonchi
+Abd: distended with hypoactive bowel sounds; tender only to deep 
+palpation at LLQ
+Ext: 1+ pitting edema BLE to knees, but not grossly edematous
+Neuro:A&O to self, place, year; however, did not recognize 
+examiner on return to exam room after 5 minute absence. 
+Guiaic: neg
+ 
+Pertinent Results:
+[**2895-7-29**] 05:38PM   LACTATE-1.3
+[**2895-7-29**] 05:37PM   CK(CPK)-85
+[**2895-7-29**] 05:37PM   CK-MB-2 cTropnT-0.01
+[**2895-7-29**] 01:56PM   TYPE-ART PO2-199* PCO2-39 PH-7.35 TOTAL 
+CO2-22 BASE XS--3
+[**2895-7-29**] 12:20PM URINE  COLOR-Yellow APPEAR-Clear SP [**Last Name (un) 223**]-1.016
+[**2895-7-29**] 12:20PM URINE  BLOOD-NEG NITRITE-NEG PROTEIN-100 
+GLUCOSE-NEG KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-5.0 
+LEUK-NEG
+[**2895-7-29**] 12:20PM URINE  RBC-0 WBC-0 BACTERIA-NONE YEAST-NONE 
+EPI-0 RENAL EPI-<1
+[**2895-7-29**] 12:20PM URINE  AMORPH-OCC
+[**2895-7-29**] 11:46AM   LACTATE-1.49
+[**2895-7-29**] 11:40AM   GLUCOSE-140* UREA N-48* CREAT-1.8* SODIUM-142 
+POTASSIUM-4.0 CHLORIDE-107 TOTAL CO2-24 ANION GAP-15
+[**2895-7-29**] 11:40AM   CK(CPK)-26
+[**2895-7-29**] 11:40AM   CK-MB-NotDone cTropnT-0.03*
+[**2895-7-29**] 11:40AM   WBC-19.2*# RBC-3.56* HGB-12.0 HCT-39.2 
+MCV-110* MCH-33.8* MCHC-30.7* RDW-22.1*
+[**2895-7-29**] 11:40AM   NEUTS-87 BANDS-3 LYMPHS-8 MONOS-2 EOS-0 
+BASOS-0 ATYPS-0 METAS-0 MYELOS-0
+[**2895-7-29**] 11:40AM   HYPOCHROM-2+ ANISOCYT-3+ POIKILOCY-1+ 
+MACROCYT-3+ MICROCYT-NORMAL POLYCHROM-1+ OVALOCYT-1+ 
+SCHISTOCY-1+ TEARDROP-1+
+[**2895-7-29**] 11:40AM   PLT SMR-VERY HIGH PLT COUNT-1026*#
+ 
+Brief Hospital Course:
+Pt was admitted for obervation and control of her rapid a-fib.  
+It was hoped that controling the a-fib would help resolve her 
+CHF.  She was started on a diltiazem drip and on HD 1 her HR 
+began to normalize.  On HD 2 pt's abdominal pain worsened and 
+she was taken to the OR where she was found to have a possible 
+right ovarian mass and necrotic small bowel.  She underwent an 
+exploratory laporotomy, lysis of adheasions, repair of 
+enterotomy, resection of small bowel, and right oopherectomy.  
+
+Postoperatively she was noted to have a significantly decreased 
+urine output, and a nephrology consult was obtained.  By HD3 
+(POD1) the pt's creatinine had increased to 3.1 from 2.1.  
+Nephrology confirmed the diagnosis of post IV-contrast 
+nephropathy.  Pt was monitored in the SICU for the following 4 
+days to monitor closely her volume and renal status.  It was 
+during this time that she developed one episode of hemoptosis 
+after her swan was wedged.  The swan was removed and a CT 
+surgery consult was obtained when a chest x-ray was read as 
+having a possibly widened mediastienem.  CT showed no 
+abnormality and CT surgery signed off.  Mrs.[**Last Name (un) 4622**] urine 
+output was at this time minimally responsive to lasix, and her 
+creatinine ultimately peaked at a value of 4.1.  Mrs. [**Known patient lastname **] 
+slowly improved and was moved to the floor.  Her creatinine 
+slowly dropped to a new baseline of 2.2.  
+
+On POD 11 she developed diarrhea and the suspicion of repeat 
+c.diff enterocolitis was confirmed.  Pt was started on flagyl, 
+but her white counts remained persistently elevated and a UTI of 
+a poly resistant klebsiella grew.  ID was consulted and an 
+antibiotic regimen of vanco PO and ceftriaxone IV was initiated. 
+ 
+
+On several occations, pt's PO2 dropped from the mid 90s to the 
+high 80s, and her O2 requirement grew.  These episodes occured 
+on several nights, but seemed to be related to aspiration of 
+thin liquids at night.  A swallow study during the day 
+demonstrated no impairment, but aspiration precautions were 
+initiated, especially at night.
+
+Pt's WBC continued to increase and Heme-Onc was consulted to 
+rule out transformation of her [**Last Name (NamePattern4) 4623**] to lukemia.  They 
+confirmed that the WBCs were all mature forms, and a combination 
+of hydroyurea and epo was started to help resolve the pt's 
+anemia and high WBC count.  The pt's wbc peaked at 57'000.  It 
+then has declined to a value of 12'200 on [**8-18**].  Heme-onc has 
+reccommended that we continue the hydroxyurea and epo and follow 
+cbcs with diff every four days or so.  
+
+Pt ultimately was dced to rehab after her coumadin was 
+theraputic (INR=2.9), her SaO2 was stable, her diarrhea is 
+tapering, her CHF is much improved (now minimal crackles in b/l 
+bases, her UTI is being adequately treated, her anemia is 
+resolving (hct 33.9), her WBC count is normalizing (last 12.2), 
+her heart rate is controled (80s and 90s), and her creatinine is 
+much improved (now 2.2).  She still needs to improve her caloric 
+intake and begin physical rehab.
+ 
+Medications on Admission:
+Aranesp 200mg PO q14d
+Cardizem CD 240 PO qday
+Trazodone 25mg PO qhs
+Atrovent INH 2.5mLq6h PRN SOB
+Levoxyl 100mcg PO qam
+Hydrea 500mg PO qday
+Heparin 5000units SQ qday
+ASA EC 81mg PO qday
+Lasix 40mg PO qday
+Oscal 250+D 500mg po TID
+Allopurinol 100mg PO Qday
+Zocor 20mg PO qhs
+Thiamine 50mg PO qday
+Fosamax 70mg PO qday
+Lido 5% patch qam to lower back
+Bisacodyl 10mg PR PRN constipation
+FeSO4 325mg PO BID
+Lactinex 2 tabs PO BID
+MVI
+Vitamin C 500mg PO BID
+Insulin NPH 12 units qam, 8units qhs + sliding scale
+
+ 
+Discharge Medications:
+1. Ipratropium Bromide 0.02 % Solution Sig: One (1) neb 
+Inhalation q6 hrs prn as needed.
+Disp:*15 neb* Refills:*2*
+2. Allopurinol 100 mg Tablet Sig: One (1) Tablet PO EVERY OTHER 
+DAY (Every Other Day).
+Disp:*15 Tablet(s)* Refills:*2*
+3. Famotidine 20 mg Tablet Sig: One (1) Tablet PO Q24H (every 24 
+hours).
+Disp:*30 Tablet(s)* Refills:*2*
+4. Levothyroxine Sodium 100 mcg Tablet Sig: One (1) Tablet PO 
+DAILY (Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+5. Metoprolol Tartrate 25 mg Tablet Sig: Three (3) Tablet PO BID 
+(2 times a day).
+Disp:*180 Tablet(s)* Refills:*2*
+6. Docusate Sodium 100 mg Tablet Sig: One (1) Capsule PO BID (2 
+times a day).
+Disp:*60 Capsule(s)* Refills:*2*
+7. Amiodarone 200 mg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+8. Epoetin Alfa 10,000 unit/mL Solution Sig: Four (4) ml 
+Injection once a week.
+Disp:*20 ml* Refills:*2*
+9. Vancomycin 125 mg Capsule Sig: One (1) Capsule PO once a day 
+for 2 weeks.
+Disp:*14 Capsule(s)* Refills:*0*
+10. Diltiazem HCl 30 mg Tablet Sig: One (1) Tablet PO QID (4 
+times a day).
+Disp:*120 Tablet(s)* Refills:*2*
+11. Hydroxyurea 500 mg Capsule Sig: One (1) Capsule PO DAILY 
+(Daily).
+Disp:*30 Capsule(s)* Refills:*2*
+12. Ceftriaxone Sodium 1 g Recon Soln Sig: One (1) g Intravenous 
+ once a day for 7 days: if no IV than can give as IM shot. to 
+give IM, recon the ceftriaxone with 2.1 mL of strerile water or 
+lidocaine.  .
+Disp:*7 g* Refills:*0*
+13. Bisacodyl 10 mg Suppository Sig: One (1) Suppository Rectal 
+DAILY (Daily) as needed for constipation.
+Disp:*5 Suppository(s)* Refills:*0*
+14. Coumadin 2.5 mg Tablet Sig: One (1) Tablet PO once a day: 
+Currently being held.  Last INR 2.9 on [**8-18**].  Target INR 1.8 to 
+2.0 as per Dr. [**Last Name (STitle) 4624**] (Heme-Onc) .
+Disp:*30 Tablet(s)* Refills:*2*
+15. Outpatient Lab Work
+Pt will need to have her INR checked to maintain a target INR of 
+1.8-2.0
+16. Outpatient Lab Work
+Please monitor the pt's CBC as her hydroxyuria dose was just 
+decreased.
+17. Insulin Regular Human 100 unit/mL Solution Sig: sliding 
+scale  Injection four times a day: We have been maintaining her 
+on an insulin sliding scale QID for glycemic control.
+Disp:*5 mL* Refills:*2*
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+[**Hospital6 2841**] for the Aged - LTC
+ 
+Discharge Diagnosis:
+Primary:
+small bowel necrosis, treated with lysis of adheasions and small 
+bowel resection, c.diff colitis, UTI, post IV-contrast 
+nephropathy, malnutrution
+Secondary:
+A-fib, CHF, DM, polycythemia [**Doctor First Name **], HTN, hypothyroidism, chronic 
+renal insuff. incontinence  
+
+ 
+Discharge Condition:
+stable
+
+ 
+Discharge Instructions:
+[**Doctor First Name 27**] may retrun to [**Hospital 409**] Rehab.  [**Doctor First Name 27**] need to have two more weeks 
+of vancomycin and one more week of ceftriaxone.  [**Doctor First Name 27**] may eat a 
+regular diet and may resume your regular activities.  If [**Doctor First Name **] 
+develop worsening diarrhea, fevers, chills, or pain please call 
+the office or return to the hospital.
+ 
+Followup Instructions:
+Please follow up with Dr. [**Last Name (STitle) **].  Her phone number is [**Telephone/Fax (1) 4625**].  Please call to make an appointment.  
+
+Please also follow up with Dr. [**Last Name (STitle) 2267**] at [**Hospital Ward Name **] CENTER 
+HEMATOLOGY/ONCOLOGY Phone:[**Telephone/Fax (1) 54**] Date/Time:[**2895-8-22**] 10:00
+
+Please also follow up with your PCP [**Last Name (NamePattern4) **]. [**First Name (STitle) **].  His number is: 
+[**Telephone/Fax (1) 4626**]
+
+ 
+                             [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **] [**Name8 (MD) **] MD [**MD Number 4627**]
+ 
+Completed by: [**First Name8 (NamePattern2) 652**] [**Last Name (NamePattern1) 1859**] MD [**Last Name (un) 1860**] [**2895-8-19**] @ 0803
+Signed electronically by: DR. [**First Name (STitle) **] [**Doctor Last Name **]
+ on: TUE [**2895-10-11**] 4:51 PM
+(End of Report)
+
+
+",,
+24102,23251,29935,0,2895-08-03 05:24:00 EST,2895-08-03 05:58:00 EST,6327,"N",53,"Nursing/Other",,"
+
+0100-0700
+
+Pt admitted to [**Hospital1 3**] for diffuse abd pain on [**7-29**] from rehab center. 4 months ago pt fell and fx hip and received treatment at [**Hospital6 **]. Pt developed c-diff colitis which was treated successfully with flagyl, other medical hx of: CAD,CHF,Hypothyroid, HTN, CRI. Pt taken to OR on [**7-30**] for exp lap, SBR, R oopharectomy due to mass. Pt has been treated in PACU since surgery where she developed ATN.
+
+Neuro: Pt awake,alert,orientedX3. Follows commands well. MAEs. Speech clear, good swallowing. No neuro deficits noted. 
+
+Resp: NC 2L on, resp easy and regular.Lungs clear with crackles at the bases. Denies SOB. AM ABG: 7.27/35/121/17. O2sat 96%. No coughing noted.
+
+CV: Afib without ectopy noted. Afebrile, HR 90-100, BP 120-150. Receiving lopressor, tolerates well. + pulses to ext. minimal edema noted. Skin warm/dry/intact. Midline abd incision with dsg D+I. Pt medicated for pain X1. Receiving levafloxcin. L sc multilumen catheter.
+
+GI/GU: Abd softly distended, + BS, clear liquid diet. Tolerating liquids well. Advance today to solid diet. No N/V. Foley to BSD draining clear yellow urine. Cr:4.1, BUN: 60. Receiving lasix IV. Diueresing well. 
+
+PLan: Supportive care, pain control, ?OOB. 
+",,
+24102,23251,29935,0,2895-08-03 17:26:00 EST,2895-08-03 17:45:00 EST,3790,"N",53,"Nursing/Other","CONDITION UPDATE:","
+CONDITION UPDATE:
+D/A:  T MAX 97.5
+
+NEURO:  PT A+OX3, MAE'S, CO OF MINIMAL GENERLIZED PAIN.
+
+CV:  HR 90'S-110 AFIB.  DILT GTT STARTED WITH POOR EFFECT.  LOPRESSOR WITH TRANSIENT EFFECT.  ABP ~ 144/62.  CVP ~ 13.  FLUID BALANCE MN-1800 -800 CC'S.  + PPP BILAT.  CARDIAC ECHO DONE.  ULTRASOUND OF BOTH LEGS DONE, RESULTS PENDING.
+
+RESP:  LS CLEAR - COARSE, CHEST XRAY DONE.  IN METABOLIC ACIDOSIS IN AM WITH PH 7.25. POOR OXYGENATION AS WELL.  POST PULMONARY TOILET, FACE MASK WITH HUMIDIFIED O2 APPLIED ABG:  7.31, 37, 93, 20, -6.  
+
+GI:  ABDOMEN DISTENDED, PAINFUL WHEN PALPATED.  + BS.  PT WITH FEELING OF NEEDING TO MOVE BOWELS, HOWEVER NO FLATUS/BM.  SIPS OF CLEARS TOLERATED WELL.
+
+GU:  FOLEY-BSD WITH CLEAR YELLOW URINE.  NEW FOLEY PLACED DUE TO YEAST FOUND IN U/A.
+
+ENDO:  LOW GLUCOSE LEVELS, [**1-2**] AMP D50 GIVEN X2.
+
+SX:  SON CALLED 
+
+R:  AFEBRILE, PERSISTENT AFIB, METABOLIC ACIDOSIS.
+
+P:  CONTINUE WITH CURRENT CLOSE MONITORING AND MANAGEMENT.
+
+
+",,
+24102,23251,29935,0,2895-08-04 03:45:00 EST,2895-08-04 03:51:00 EST,3409,"N",53,"Nursing/Other","nsg note","
+nsg note
+SEE FLOWSHEET FOR SPECIFICS. 
+
+NEURO-A+OX3. MAE. FOLLOWS COMMANDS.
+
+CV-REMAIN IN AFIB. RATE STABLE ON IV DILT GTT AND LOPRESSOR. SBP STABLE. CVP 10. SKIN W+D. +PP. PBOOTS ON. DENIES CARDIAC COMPLAINTS. HAD THORACIC CT.CVL NOTED TO BE LEAKING AT INSERT SITE, TEAM AWARE AND IN TO CHANGE OVER WIRE. 
+
+RESP-O2 SAT 96% ON 4LNC. LS CLEAR, DECREASED AT BASES. NARD NOTED. 
+
+GI-ABD SOFTLY DISTENDED. +BS. NPO. NO N/V. PT REQUESTING DUCOLAX SUPP IN AM. DSG C/D/I. 
+
+GU-VOIDING VIA FOLEY ADEQ AMTS CL YELLOW URINE. LAIX GIVEN AS ORDERED. BUN/CREAT REMAIN ELEVATED.
+
+ENDO-NPH HELD D/R NPO AND NO IVF. FS STABLE.
+
+COMFORT-SLEPT ON/OFF OVER NOC. DENIES NEED FOR PAIN MED.
+
+A-STABLE. 
+
+P-CON'T WITH CURRENT PLAN. ? ADAT. SUPP IN AM. F/U CT RESULTS. MONITOR FOR CHANGES. SUPPORT. 
+
+",,
+24102,23251,29935,0,2895-08-04 13:26:00 EST,2895-08-04 13:26:00 EST,3209,"N",53,"Nursing/Other","SICU NURSING PROGRESS NOTE 0700-1500","
+SICU NURSING PROGRESS NOTE 0700-1500
+FOR NURSING PROGRESS NOTE, PLS REFER TO NURSING TRANSFER NOTE IN ""NURSING TRANSFER NOTE "" SECTION OF CAREVIEW. THANK [**Doctor First Name **].
+",,

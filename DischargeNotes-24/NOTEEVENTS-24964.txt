@@ -1,0 +1,347 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+24964,20255,,,2589-07-28 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+
+Admission Date:  [**2589-7-27**]     Discharge Date:  [**2589-8-12**]
+
+Date of Birth:                  Sex:  M
+
+Service:  Surgery
+
+HISTORY OF PRESENT ILLNESS:  This 87 year-old man with
+history of hypertension is admitted with abdominal pain and
+obstipation.  Patient was seen several days ago at an outside
+hospital, was given enemas without relief and was sent home
+with lactulose.  He has had increasing amounts of
+constipation associated with come cramping pain and nausea
+and vomiting.  He denies any fevers or chills.  In the
+emergency [**Hospital1 **] he was noted to have a sodium of 128,
+potassium of 3,1,  Past medical history notable for
+hypertension, benign prostatic hypertrophy and history of
+constipation.  Present medications include Mavik, lactulose,
+hydrochlorothiazide, Proscar and multivitamins.  He is not
+allergic to any medications.
+
+PHYSICAL EXAMINATION:  He is a well developed gentleman,
+temperature is 98.9.  He is awake and alert, nontoxic
+appearing.  The neck was supple.  The chest was clear.  The
+abdomen was softly distended with mild periumbilical
+tenderness and positive bowel sounds.  Rectal examination
+showed normal tone without any stool.  There was trace guaiac
+positive mucus.  Extremities notable for venous stasis
+changes.
+
+ADMISSION LABORATORY:  Was notable for a sodium of 128,
+potassium 3.1, chloride of 90, BUN of 30, creatinine of 1.0,
+glucose of 166, hematocrit of 34.5, white blood cell count of
+14,000.  KUB showed multiple dilated loops of bowel, both in
+the colon and in the small bowel.
+
+HOSPITAL COURSE:  Patient was admitted with the diagnosis of
+constipation, question intestinal obstruction.  He was made
+n.p.o.  He was seen in consultation by the gastrointestinal
+service.  Enemas were given without improvement.  This became
+more clear to be a colonic obstruction, though an ileus was a
+possibility with the hypokalemia.  The potassium was
+repleted. A barium was performed which showed a mass of the
+splenic flexure.  The patient was then seen in consultation
+by the surgical service where he was prepared for surgery.
+On [**2589-7-31**] he underwent a subtotal colectomy with findings of
+very dilated colon.  A primary anastomosis was performed.  In
+the operating room he developed a supraventricular
+tachycardia which was broken with magnesium and become more
+hypoxic requiring PEEP.  Postoperatively he was admitted to
+the Medical Intensive Care Unit for telemetry.  He required
+ventilation for several days.  He was begun on total
+parenteral nutrition.  He continued to be weaned on the
+ventilator and was begun on antibiotics for question of
+pneumonia.  He was extubated on [**2589-8-5**].  He continued to
+need some significant pulmonary toilet.  Bowels seemed to
+open up and he was progressed to diet.  His total parenteral
+nutrition was discontinued.  He was then discharged on
+[**2589-8-12**].
+
+FINAL DIAGNOSIS:
+1.      Obstructing colon cancer.
+2.      Supraventricular tachycardia.
+3.      Hypokalemia.
+4.      History of benign prostatic hypertrophy.
+5.      Hypertension.
+
+SURGICAL PROCEDURES:
+Subtotal colectomy.
+
+DISCHARGE MEDICATIONS:  Tylenol with codeine for pain, Mavik,
+hydrochlorothiazide, Proscar.
+
+
+
+
+                          [**First Name11 (Name Pattern1) 652**] [**Last Name (NamePattern4) 653**], M.D.  [**MD Number 654**]
+
+Dictated By:[**Dictator Info **]
+
+MEDQUIST36
+
+D:  [**2589-11-17**]  15:48
+T:  [**2589-11-22**]  14:44
+JOB#:  [**Job Number 6431**]
+Signed electronically by: DR. [**First Name8 (NamePattern2) 652**] [**Last Name (NamePattern1) **]
+ on: [**First Name8 (NamePattern2) 20**] [**2589-12-15**] 7:40 PM
+(End of Report)
+
+
+",,
+24964,20255,30996,0,2589-07-31 17:59:00 EST,2589-07-31 18:01:00 EST,102,"N",69,"Nursing/Other",,"
+
+Resp Care
+pt received in Phase one recovery unit. placed on simv 800x10x.5/10 peep. after abg changed to Vt 700 d/t Co2 20's. pt s/p colectomy with poor oxygenation peri and post op. pips/plat wnl. bs ess cta anteriorly. scant secretions. c/w vent support. borderline oxygenation.
+",,
+24964,20255,30996,0,2589-07-31 18:21:00 EST,2589-07-31 18:30:00 EST,-1,"N",69,"Nursing/Other","MICU admit note 1700-1900","
+MICU admit note 1700-1900
+Pt arrived to MICU at 1700 from PACU
+
+Neuro:  Pt is sedated on propofol, arousable to voice, cooperative with care.  He is very HOH.
+
+CV:  Hr 80's-100's with frequent PAC's.  Short bursts of SVT noted that break without intervention.  BP 100's/60's off levofed.  Requiring levo to keep MAP > 80.  CVP 12-15, goal is to keep >15.  IVF LR+20mEq kcl at 100cc/hr.
+
+ResP:  On arrival, pt's O2 sat 90-92, suctioned for minimal secretions.  Vented on SIMV 700 X 10, PEEP 10.  Pt not overbreathing vent, switched to AC.  Sat up to 97% without intervention.  LS's diminished throughout.
+
+GI:  Abd soft/hypo BS's.  NGT to LCS, no drainage.
+
+GU:  Foley draining small amount of amber urine.  IV bolused prior to transfer and on arrival without increase in u/o.
+
+Skin:  ML abd with primary dsd c/d/i.  Rt IJ TLCL with dressing c/d/i.  Left radial aline dressing c/d/i.  Rt ac #18 PIV, flushed and patent.  
+
+Plan:  Continue to monitor VS's, I&O, labs, resp status.
+",,
+24964,20255,30996,0,2589-08-01 03:57:00 EST,2589-08-01 03:59:00 EST,-1,"N",69,"Nursing/Other",,"
+
+PT's remain intubated vent setting AC 700 10 50% 10p.good Abg FIO2 was decreasd to 50 from 60%.tol well.
+",,
+24964,20255,30996,0,2589-08-01 05:10:00 EST,2589-08-01 05:41:00 EST,585,"N",69,"Nursing/Other","micu/sicu npn 1900-0700","
+micu/sicu npn 1900-0700
+     patient remains well sedated, but arousable on propofol 15mcg. abg's acceptable on a/c .6 fio2 700x10, breathing [**1-12**] above the vent. sats 98-100%. fio2 dropped to 50% this am, sats 100%. levophed titrated to off at 0100, maps remain >70 via l radial a line, at times positional, losing waveform.  +troponin leak this am. cvp 7-12 o/n and urine output 10-60cc/hr. patient received 5.5 L of ns bolus' for u/o to come up to >30cc/hr, cvp 12. +3L at midnight and another 3L already this am. patient continues to wait for an available pneumoboot machine.
+cont to pulm tolilet for multilobar pneumonia, support s/p colectomy. 
+
+",,
+24964,20255,30996,0,2589-08-01 17:08:00 EST,2589-08-01 17:14:00 EST,511,"N",69,"Nursing/Other",,"
+
+RESP: VENT SETTINGS UNCHANGES. ABG'S CHECKED Q2-4HRS. SUCTIONED FOR SMALL AMTS OF WHITE-LGT YELLOW. BS'S COARSE.
+NEURO: HEARING AID PLACED AND PT. NOW ABLE TO COMMUNICATE. OPENS EYES. FOLLOWS COMMANDS. REMAINS ON PROPOFOL. 
+GI: NGT TO LIS. SMALL AMTS OF LGHT GREEN BILIOUS. BS'S ABSENT THIS AM, BUT SLIGHTLY HYPOACTIVE NOW.
+RENAL: U/O'S HAVE INCREASED WITHOUT FURTHER BOLUSES. IVF'S REMAIN AT 100CC/HR. 
+ENDOC; MG+ AND CA+ REPLETED. K+ 3.4 AND GIVEN 40MEQ KCL IVBP. PT. HAS PRN ORDERS FOR MG+ AND K+ REPLACEMENT. NO SSI REQUIRED FOR Q6HRS BS'S.
+PAIN CONTROL: PT. GRIMACING WITH ACTIVITY. MEDICATED WITH 2MG MS X4 WITH MILD RELIEF. ABD TENDER TO TOUCH. DRSG. D/I. 
+CV: NO SVT NOTED. DOES HAVE RARE PVC AND OCCASS PAC'S. EKG DONE THIS AM. STARTED ON LOPRESSOR IV. RATE HAS DROPPED INTO 60'S. 
+SOCIAL: DAUGHTER AND HUSBAND INTO SEE PT. 
+",,
+24964,20255,30996,0,2589-08-01 17:28:00 EST,2589-08-01 17:29:00 EST,102,"N",69,"Nursing/Other",,"
+
+Resp Care
+remains intub/vented ac mode. decision made not to wean today on rounds. appears comfortable on 700x10x.5/10 peep with good abg. will wean peep slightly and assess for weaning in am.
+",,
+24964,20255,30996,0,2589-08-01 22:08:00 EST,2589-08-01 22:10:00 EST,667,"N",69,"Nursing/Other","Micu nsg prog note 7-11pm","
+Micu nsg prog note 7-11pm
+Remains stable. Noted to have increased pac's with increased rate, decreased after lopressor. v.s.s. Noted to have intermittent leak in ETT culf, maintaining his volumes. RT in to evaluate.  
+Great urine output. Replacing lytes, for am labs. For repeat ABG MN. Call for vent change if po2<90. (sats currently 100%). 
+Remains on propofol gtt.
+",,
+24964,20255,30996,0,2589-08-02 04:52:00 EST,2589-08-02 05:02:00 EST,-1,"N",69,"Nursing/Other","MICU 11P-7A","
+MICU 11P-7A
+Neuro: Lightly sedated with propofol 15mcg/kg/min. Follows commands when asked. Med. with morphine 2mg for pain and prior to turning with good effect.
+
+Resp: Continues on vent, settings are as follows a/c, fio2 50%, tv 500, rr 10, peep 10. Am gas 7.39/32/95/-4. 
+
+Cv: HR 70'S-140'S nsr-st, with freq. pvc's, lopressor 5mg iv given tid, pt responds well to lopressor.
+
+GI: BS hypoactive, no bm tonight. Abd, dsg. d&i.
+
+GU: U/O is adequate see carevue for numbers.
+",,
+24964,20255,30996,0,2589-08-02 17:34:00 EST,2589-08-02 17:35:00 EST,102,"N",69,"Nursing/Other",,"
+
+Resp Care
+remains on full ventilatory support at ac 700x10x.6/10 peep with p02 in 90's. pips/plat wnl. suctioning thick yellow sputum. 
+",,
+24964,20255,30996,0,2589-08-02 17:35:00 EST,2589-08-02 17:43:00 EST,511,"N",69,"Nursing/Other",,"
+
+RESP: DIFFUSE RHONCHI THROUGHOUT BOTH LUNG FIELDS. CHEST PT DONE X2 WITH INCREASED SECRETIONS. SUCTIONED FOR THICK WHITE-YELLOW AND 1X SLIGHTLY BLOOD-TINGED. SPUTUM SENT FOR CX. FIO2 INCREASED TO 60% AND ABG'S ADEQUATE. 
+NEURO: REMAINS ON PROPOFOL. FOLLOWS SIMPLE COMMANDS. MORE SLEEPY TODAY.
+PAIN CONTROL: GIVEN 2MG MS IVP Q24HRS. STILL GRIMACES WITH MOVEMENT. 
+GI: NGT TO LIS. PH [**4-14**]. SLIGHTLY GU.+. CONTINUES ON PROTONIX. BS'S ABSENT. 
+RENAL: CONTINUES WITH GOOD U/O'S. ALSO SLIGHTLY BLOOD-TINGED, BUT THIS HAS NOT REPEATED. IVF'S TO KVO. 
+HCT: 26.8. TRANSFUSED WITH 1U PC'S. NEED TO RECHECK HCT AT 20PM. 
+ENDOC: LYTES REPLETED. NEED TO RECHECK MG+ AND K+ AS LAST SPEC SLIGHTLY HEMOLYZED. NO SSI REQUIRED.
+ID: WBC'S INCREASED THIS AM. TEMP 100.2 AX. INCISION SITE D/I. STILL HAS AND. TENDERNESS. CONTINUE ANTIBIOTICS. 
+CV: LAST LOPRESSOR DOSE [**12-10**]'D AS HR 60. PT. NOTED TO HAVE MANY RUNS OF
+
+ SVT LAST NIGHT. CONTINUE WITH REPLETION OF LYTES.
+SOCIAL: FAMILY INTO VISIT AND SPOKE WITH SURGERY.  
+",,
+24964,20255,30996,0,2589-08-03 04:37:00 EST,2589-08-03 04:46:00 EST,-1,"N",69,"Nursing/Other",,"
+
+7A-7P SEE CAREVIEW FOR FURTHER DATA
+
+FULL CODE/UNIVERSAL PRECAUTIONS
+
+NEURO: SEDATED ON PROPOFOL GTT 16MCG/KG/MIN. OPENS EYES TO STIMULI. MAE SPONT/COMMAND. GRIMMICE W/ CARE AND REPOSITIONG MS IVP GIVEN FOR COMFORT.
+
+CV: MONITOR SR 60 W/ PAC ONE RUN SVT HR 140-150. BP 120-150/ 50-60 PER LEFT RADIAL ART LINE. PERIPHERAL PULSES PALPABLE NO EDEMA. T MAX 100.8. KCL AND MAG REPLACED. CVP 4-6.
+
+RESP: AC RATE 10 TV 700 FI02 60% PEEP 10. ABG Q4 AM ABG PENDING. [**Hospital1 1163**] W/ RHONCHI. SX THICK WHITE/YELLOW. RR 10-14.
+
+GI/GU: ABD ROUND SOFT BS ABSENT NO BM. NGT LIS W/ BILLIOUS DRAINAGE. GLUCOSE Q6 NO S/S NEEDED. FOLEY TO DD W/ 40-80ML/HR OUTPUT.
+
+SKIN: ABD INCISION W/ INTACT STAPLES NO DRAINAGE NOTED. RIJ TRIPLE LUMEN INTACT. LEFT RADIAL ART LINE POSITIONAL.
+",,
+24964,20255,30996,0,2589-08-03 15:12:00 EST,2589-08-03 15:17:00 EST,-1,"N",69,"Nursing/Other","Resp. Note","
+Resp. Note
+Remains intubated on vent support. Switched to PSV/CPAP this shift-doing well. Settings 5/10/40% with gases acceptable. TVs 500-700cc with RR in Plan to wean peep as tolerated/ ? extubation.
+",,
+24964,20255,30996,0,2589-08-03 16:18:00 EST,2589-08-03 16:35:00 EST,-1,"N",69,"Nursing/Other",,"
+
+Neuro: Propofol 5mcg/kg/min. Opens eyes to verbal stimuli. HO aware of non-reactive right pupil; left with brisk reaction, 3mm. 
+
+CV/Skin: Levo remains off. MAP in 80's most of shift. TLCL changed over wire to QLCL, clear to use. Abd incision open to air, no drng, staples intact. One episode of SVT, resolved without intervention. NSR with occ PAC'S. Troponin 0.7 however no upward trend. Hct 30.2. Ca 1.15, repleted in am with 2 amps. 
+
+GI/GU: [**Hospital1 **] sump to intermittent suction for bilious drng. Abd soft with +BS x4. Foley patent for 60-80cc/hr clear yellow urine. To begin TPN.  MAP maintained in >80's most of shift as ordered.
+
+Resp: Weaned to 40% PSV. Last ABG 1700. LS with rhonchi throughout, suctioned for sm/mod amount yellow drng. 
+
+ID: Remains on triple antibx for RLL pneumonia and surgical prep for past colectomy.  WBC 13.1
+
+Comf:  Med with 2 mg IV mso4 Q2-3 hours with good effect for incisional pain.  
+
+Social:  Visit by daughter [**Name (NI) **]; asking appropriate questions. Verbalized satisfaction with progress of father's status.
+
+
+",,
+24964,20255,30996,0,2589-08-04 05:22:00 EST,2589-08-04 05:40:00 EST,-1,"N",69,"Nursing/Other","MICU/SICU NPN POD #4","
+MICU/SICU NPN POD #4
+S/O:
+
+Neuro: pt remains lightly sedated with propofol, eyes open to verbal sitmuli, pt will shake/nod head to answer questions, intermittently following commands, medicated q2-3h with 2mg MSO4 with fair effect
+
+Resp: remains intubated on PSV 5 + 10 with FiO2 0.40, Vt 300-600, last ABG 7.38/99/38/23/1. LS are coarse throughout, scattered rhonchi, suctioned q3-4h for scant amounts clear secretions
+
+CV: AVSS, please see flowsheet, frequent PAC's with brief self-terminating episodes of SVT, continues on metoprolol IV ATC, [**12-10**]+ global edema
+
+Skin: surgical incision staples C/D/I, coccyx pink, blanches to touch
+
+GI/GU: abd firm , slightly distended, tender to touch, hyperactive BS, NGT to LCWS draining green bilious fluid, foley patent for clear yellow urine in adequate amounts
+
+Lines: right IJ QLCL, left radial art line, #22 angion left hand
+
+FEN: TPN initiated last PM, ""Quick-Mix"" x 24h, Ca2+ n Mg2+ repleted this AM
+
+ID: continues to have low grade fever on abx
+
+A:
+
+high risk for infection r/t surgical incision, invasive lines
+altered nutrition r/t poor caloric intake > 5 days
+high risk for injury r/t sedation, depressed sensorium
+pain r/t surgigal incision
+
+P:
+
+continue to monitor hemodynamic stability, continue to wean off ventilator, nutritional support as reccomended, continue abx as ordered, pan culture if spikes > 101, medicate for pain, consider changing sedative if plan to remain intubated > 24h longer
+",,
+24964,20255,30996,0,2589-08-04 15:50:00 EST,2589-08-04 15:54:00 EST,-1,"N",69,"Nursing/Other","Resp. Note","
+Resp. Note
+Remains intubated now on PSV 8/5/40%. TVs >500cc with RR low teens. Plan to keep intubated overnight-extubate tomorrow.
+",,
+24964,20255,30996,0,2589-08-04 16:06:00 EST,2589-08-04 16:31:00 EST,-1,"N",69,"Nursing/Other",,"
+
+CV/SKIN: Abd incision CD&I, LOTA. Brief episode of SBP's 170-180-IV lopressor with effect. Repeat Hct 28 at 1100hrs. Remained in NSR with occ PAC's. 
+
+Resp: LS coarse throughout. Weaned to PSV 5/5 at 40%. ABG' WNL. Suctioned x2 for small amount thin yellow mucous. Remains on antibx for preoperative pneumonia. Propofol restarted at 1600hrs for restlessness. 
+
+GI/GU: Right gastric tube to intermittent suctioned; drained 100 cc bilious drng. To begin TPN this eve. (+)BS; no gas noted. Lasix 10 mg IVP ; u/o >300cc over next hour. Cont with 2+ edema to arms.
+
+Endo: Covered with SSI- received 2 units 1200 for glucose 153. 
+
+Comf: IV mSO4 4 mg Q3 hrs with good effect in am. More discomfort noted in afternoon with propofol gtt off; propofol restarted and pt appears comfortable. Positioned Q2 hours. Surgery to consider NSAID once pt extubated.
+
+Neuro:  Pt responding with facial and hand gestures to questions while propofol off.  Daughter present most of afternoon- Concerned with father's interpretation of his present status.
+
+Plan: Await return of bowel function. Probably extubate am. Propofol overnight. Iv mso4 for pain control. Continue with iv antibx. Diuresis. Monitor abdominal status, HCT.  TPN. SSI. Emotional support 
+
+",,
+24964,20255,30996,0,2589-08-04 16:53:00 EST,2589-08-04 16:59:00 EST,-1,"N",69,"Nursing/Other","Nsg Add","
+Nsg Add
+ Pt. to rest on PS 8, PEEP+5 FiO2 40% overnight- TV 550-620. 
+",,
+24964,20255,30996,0,2589-08-05 02:31:00 EST,2589-08-05 02:34:00 EST,487,"N",69,"Nursing/Other","Respiratory care:","
+Respiratory care:
+Patient remains intubated and mechanically vented. Vent checked and alarms functioning. Current setting PS 8 peep 5 40%. Spon. Vt 550-600cc. Breathsounds are coarse. Last abg at 2300 7.44/39/95 Please see respiratory section of carevue for further data.
+Plan: Continue mechanical ventilation overnight. ? Extubate in am.
+",,
+24964,20255,30996,0,2589-08-05 05:12:00 EST,2589-08-05 05:27:00 EST,-1,"N",69,"Nursing/Other","MICU/SICU NPN POD #4","
+MICU/SICU NPN POD #4
+S/O:
+
+Neuro: remains lightly sedated on propofol, eyes open to speech, inconsistently follows commands, medicated for pain with 2mg MSO4 ~q2-3h
+
+Resp: remains intubated on PSV 8+5, FiO2 0.40, SRR 7-22, Vt 500-600, RSBI 55, LS coarse throughout, suctioned q3-4h for small amts thick bloody tinged sputum
+
+CV: VSS, continues to have occaisional to frequent PAC's, please see flowsheet for details, [**12-10**]+ global edema
+
+Skin: abd insicision staples C/D/I, no drainage, abraision on left posterior flank 
+
+GI/GU: abd firm/distended, tender to touch, NGT to LCWS draining green bilious fluid, Foley patent for clear yellow urine in adequate amounts
+
+Lines: right IJ QLCL, left radial art line
+
+A:
+
+high risk for infection r/t surgical proceedure/ invasive lines
+risk for injury r/t sedation
+pain r/t surgical proceedure
+
+P:
+
+contiune to monitor hemodynamic stability, contiue to wean PSV to goal of extubation, continue nutritional support as reccomended, medicate for pain, advance activity as tolerated after extubation
+",,
+24964,20255,30996,0,2589-08-05 12:06:00 EST,2589-08-05 12:09:00 EST,175,"N",69,"Nursing/Other",,"
+
+Respiratory Care:
+pt. EXTUBATED to a 40% open face tent. Sat. = 97%  hr = 71
+BP = 173/75  Seems to be tolerating extubation well at this time.
+",,
+24964,20255,30996,0,2589-08-05 15:56:00 EST,2589-08-05 16:07:00 EST,-1,"N",69,"Nursing/Other","MICU NPN:","
+MICU NPN:
+NEURO: Alert and follows commands but appears slightly confused at times. Complaining of incisional pain at times, especially with movement- MSO4 prn with good effect.  Very hard of hearing- ?if hearing aide battery should be changed. Using note cards to communicate.
+CV: Tmax 100.0 rectally. VSS (see carevue). Continues on IV Lopressor for HTN. Skin warm and dry with palpable radial and pedal pulses. 1+ generalized edema- received lasix with good u/o. 
+RESP: Extubated this afternoon and now on 40% humidified face tent with O2 Sats >95%. Lungs coarse with scattered rhonchi. Frequently encouraged to deep breathe and cough with good effect. CPT done with good effect. Minimal secretions currently.
+GI/GU: Abd. soft and distended with positive bowel sounds- no BM yet but slight smearing noted. No nausea or vommiting. NGT to CLWS with small amts bilious material. Continues on TPN. Foley draining clear yellow urine >50cc/hr. 
+SKIN: Abd. incision with staples C/D/I, no drainage. Coccyx noted to be slightly reddened- repositioned side to side q2-3hrs. Mouth very dry and frequent mouth care given. QLC line and A-line intact. 
+SOCIAL: Sister [**Name (NI) **] into visit and sister [**Name (NI) **] to visit this evening. Updated on pt's condition and plan of care. Plan to start screening for rehab. Pt's wife is at [**Hospital 394**] rehab.
+",,
+24964,20255,30996,0,2589-08-06 06:27:00 EST,2589-08-06 06:35:00 EST,-1,"N",69,"Nursing/Other",,"
+
+7P-7A 
+
+NEURO: MORE ALERT ABLE TO HEAR AFTER HEARING AID BATTERY CHANGED. LITTLE VERBALIZTION GRUNTS AND NODS HEAD YES AND NO. OBEYS VERBAL COMMANDS. APPEARS APPROPRIATE.
+
+CV: MONITOR SR 60W/O ECTOPY. BP 120-150/60 PER LEFT RADIAL ART LINE. PERIPHERAL PULSES PALPABLE. [**12-10**]+ GEN EDEMA. T MAX 98.8.
+
+RESP: RESP EVEN NONLABOURED [**11-29**] ON 40% HUMIDIFIED FACE TENT. POX 94-95%. [**Hospital1 1163**] W/ RHONCHI. ENCOURAGE COUGH AND DEEP BREATHING.
+
+GI/GU: NPO ON TPN ABD DISTENDED BS HYPOACTIVE NG W/ BILLIOUS DRAINAGE. FOLEY TO DD W/ 60-100ML/HR OUTPUT.
+
+SKIN: RIGHT IJ QUAD LUMEN INTACT. LEFT ART LINE POSITIONAL. ABD INC W/ INTACT STAPLES NO DRAINAGE NOTED.
+",,
+24964,20255,30996,0,2589-08-06 15:45:00 EST,2589-08-06 16:16:00 EST,-1,"N",69,"Nursing/Other","MSICU NURSING PROGRESS NOTE.","
+MSICU NURSING PROGRESS NOTE.
+     See careview for objective data.
+
+     Neuro:  Alert and oriented to person, place.  Speach is clear when not grunting in reply to questions. Able to make needs known verbally. Pupils rt 3 mm and nr, lt 2m and brisk.  Moves all extrem. weakly, stiff.  Temperature max.  97.8 axillary.
+     Respiratory:  Lung sounds are coarse throughout, weak congested cough with no sputum produced.RR 12-24 and non labored.  O2 saturation 93-98% on .40% humididfied o2 by shovel mask.  Pulmonary toilet strongly encouraged, is encouraged.
+     CV:  Sinus brady to norbal sinus rythm with no ectopy noted.  Rate 58-72.  Abp 116/57-178/73.  Bp elevated with movement and pain, improved with pain medication and repositioning.  Weak palpable pulses bilat lower extrem.  Transfused with 1 unit prbc's for hct 25.2.  
+     GI/GU: Abdomen soft with Hypoactive bs.  Ngt tube with good placement and draining hemocult - bile, ph 7.  Ngt d/c'd by surgery.  - flatus, - bm this shift.   Surgical incision intact, edges approx. and pink, staples intact, no drainage noted.  Foley catheter patent and draining clear yellow urine in good amts.
+     Endo:  bs at noon 300, covered with 8 units regular insulin.
+     Pain:  Toradol iv given with very good effect 
+     Social:  Daughter in with pt for several hours this pm.  
+     MS:  Oob to chair this pm with full assist, tolerated fair, did c/o pain but that was welieved upon sitting in chair
+",,

@@ -1,0 +1,716 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+24858,18171,,,2744-02-15 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+
+Admission Date:  [**2744-2-15**]     Discharge Date:  [**2744-2-26**]
+
+Date of Birth:   [**2665-3-10**]     Sex:  F
+
+Service:
+
+
+
+
+
+
+
+
+
+
+Dictated By:[**Last Name (NamePattern1) 6188**]
+
+MEDQUIST36
+
+D:  [**2744-2-26**]  10:26
+T:  [**2744-2-28**]  13:35
+JOB#:  [**Job Number 6189**]
+Signed electronically by: DR. [**First Name (STitle) 328**] [**Doctor Last Name **]
+ on: WED [**2744-3-1**] 7:31 PM
+(End of Report)
+
+
+",,
+24858,18171,,,2744-02-16 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2744-2-16**] 4:44 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 6736**]
+     Reason: rlq abscess w/ desaturation and dyspnea
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      78 year old woman with  rlq phlegmon
+     REASON FOR THIS EXAMINATION:
+      rlq abscess w/ desaturation and dyspnea
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  RIGHT LOWER QUADRANT PHLEGMON AND ABSCESS.  DESATURATION AND
+     DYSPNEA.  RULE OUT PULMONARY INFILTRATE.
+     
+     FINDINGS:  A single AP upright image is provided.  Comparison study dated
+     [**2743-3-21**].  There is again evidence of left ventricular enlargement of
+     the heart.  A dual chamber pacemaker is noted with both electrodes in
+     satisfactory portion.  A orogastric tube is noted with its tip satisfactorily
+     positioned in the stomach.  The pulmonary vessels show slight upper zone
+     redistribution.  No focal pulmonary infiltrates are seen though minimal
+     atelectasis may be present at the costophrenic angles.  No definite pleural
+     effusions are seen.  An oxygen mask is noted.
+     
+     IMPRESSION:  The findings suggest slight LV decompensation.  This is slightly
+     more marked on than the prior study of [**2743-3-19**].
+
+",,
+24858,18171,,,2744-02-16 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2744-2-16**] 1:43 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 6737**]
+     Reason: right SC triple lumen placement
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      78 year old woman with  rlq phlegmon
+     REASON FOR THIS EXAMINATION:
+      right SC triple lumen placement
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  78 year old female with right lower quadrant phlegmon and new
+     triple-lumen catheter placement.
+     
+     Portable AP radiograph of the chest dated [**2744-2-16**] at 1:42PM is compared with a
+     portable AP chest radiograph from 5:09AM of the same day.
+     
+     The endotracheal tube terminates with tip approximately 2.5 cm above the
+     carina.  The right subclavian central venous catheter tip is poorly visualized
+     but appears to lie within the proximal SVC.  There is no pneumothorax.  The
+     left-sided dual-chamber pacemaker and nasogastric tube are unchanged and in
+     satisfactory position.  Since the prior examination, there is apparent
+     widening of the mediastinum with numerous linear and circular lucencies
+     suggesting pneumomediastinum.  There is partial obscuration of the right
+     hemidiaphragm, indicative of right lower lobe consolidation/collapse.  Left
+     ventricular enlargement is stable.  Small pleural effusions cannot be
+     excluded.
+     
+     IMPRESSION:
+     
+     1) Right subclavian central venous line tip probably in proximal SVC although
+     difficult to visualize.  No pneumothorax.
+     
+     2) Widening of the mediastinum with probably pneumomediastinum that could be
+     the result of endotracheal tube or subclavian instrumentation.  Interval
+     follow-up radiographs are recommended.
+
+",,
+24858,18171,30865,0,2744-02-16 16:58:00 EST,2744-02-16 17:32:00 EST,3797,"N",53,"Nursing/Other","SICU/CTIC ADMISSION NOTE","
+SICU/CTIC ADMISSION NOTE
+
+   THIS IS A WOMAN WHO ONLY SPEAKS MALAYALAM - AN INDIAN DIALECT.  ADMITTED TO HOSP WITH 3D HX ABD PAIN, N/V, FEVERS AND DIARRHEA ON [**2-15**].    ON [**2-16**] TO OR AND FOUND PERF APPY, INTRAABD ABSCESS AND UNDERWENT EXP LAP, R COLECTOMY, AND BX LEFT LIVER LOBE.   PT ARRIVED TO CTIC/SICU AT 8AM INTUBATED AND SEDATED.  RECIEVED 2L I/OP, EBL 100, U/O 105CC.  I OP PT REQUIRED NEO AND LOPRESSOR.  HAS NOT REQUIRED ANY PRESSORS YET ALOT OF FLUID BOLUSES.
+
+PMH/PSH:  CAD S/P STENT [**8-/2742**], IDDM (NPH 90U AM, 80U PM), HTN, S/P PACER [**43**], S/P EXP LAP TAH, BSO FOR LARGE OVARIAN MASS [**3-17**]
+
+MEDS:  PLETAL 10MMG BID, DIOVAN 80MG QD, ATENOLOL 25MG QD, LASIX 40MG BID, AND INSULIN AS ABOVE.
+
+NEURO: PT ARRIVED SEDATED HAD RECIEVED MSO4 PRIOR TO TRANSFER.  PT DID WAKE WHEN FAMILY HERE AND F/C'S, NODDING APPROP TO QUESTIONS,  MAE'S.  PT INDIAN SPEAKING ONLY FAMILY INTERPRETING.
+
+CV:  HR SR TO ST 90- 100'S,  NO ECTOPY,  BP LABILE REQUIRING 2750 IN BOLUSES, IVF INCREASED TO 150CC/HR.  R TLC CL PLACED. CHECKED BY XRAY.  PLACEMENT FINE.  CVP 1 NOW UP TO [**4-18**].  SKIN OCCASS DIAPHORETIC.  PULSES WEAKLY PALP.  PB'S ON.
+
+RESP: LUNGS CLEAR TO DIMINISHED AT BASES.  PT VENTED ON IMV SETTINGS NOW 450 X 14, 40%, 5 PEEP.  PT SXN FOR SCANT WHITE SECRETIONS.  
+
+GI: ABD SOFT, DISTENDED, NO BS,  MIDLINE DSG WITH SCANT DNGE ON PRIMARY DSG.  PT NPO.  OGT DRAINING SCANT AMTS BILIOUS DNGE.
+
+GU: FOLEY DRAINING 20 - 40CC URINE /HR.  IMPROVEMENT WITH BOLUSES.
+
+ID:  T 99.4, ON FLAGYL, CEFTRIAXONE,  TO BE RESTARTED ON AMP.
+
+ENDO: PT BRITTLE DIABETIC STARTED ON INSULIN GTT UP TO 6U/HR WITH Q 1HR FS TO KEEP BS < 130.  ON D10 AT 10CC/HR PER PROTOCOL.
+
+SKIN: INTACT, NO BREAKDOWN NOTED
+
+SOCIAL: 2 DAUGHTERS AND SON INTO VISIT.  ALL SPEAK MALAYALAM AND ABLE TO TRANSLATE.  #'S LEFT FOR ANY TRANSLATION NEEDS.  FAMILY VERY SUPPORTIVE.
+
+A/P: CONT TO MONITOR, FLUID BALANCE, HEMODYNAMICS, PULM TOILET,  INSULIN GTT WITH CLOSE MONITORING,  SKIN CARE,  NPO, SUPPORT, AS PER PLAN.
+",,
+24858,18171,30865,0,2744-02-16 17:01:00 EST,2744-02-16 17:10:00 EST,3672,"N",53,"Nursing/Other","Respiratory note:","
+Respiratory note:
+78 yr F presented with abdominal pain, exp lap with right colectomy. Hx IDDM,HTN,MI. Intubated with #7 ETT , 22cm at the lip.Vent set at simv 450x14,40%Fio2, [**6-18**]. BS clear with min to no sec.
+Plan continue to suppport ventilation and start to wean tomorrow as tol. 
+",,
+24858,18171,30865,0,2744-02-17 05:33:00 EST,2744-02-17 05:47:00 EST,3469,"N",53,"Nursing/Other","CTIC SICU NURSING NOTE","
+CTIC SICU NURSING NOTE
+
+CURRENT REVIEW OF SYSTEMS:::
+
+NEURO-> PT FC AND MAE APPROPRIATELY TO COMMAND WHEN TRANSLATED BY FAMILY MEMBERS (PT IS INDIAN SPEAKING ONLY). MSO4 WITH ADEQUATE PAIN MGT PER PT, IVP APPROX 2MG Q3-4HRS. PERRLA. +GAG, COUGH, CORNEALS.
+
+CV-> HR SR 80-100 NO VEA. BP MAP > 60< 90. CVP 3->10 AFTER IVF. AFTER SUCTIONING ONCE OVERNIGHT, PT HR DROPPED TO 60 AT WHICH TIME HER PPM APPROPRIATELY PACED. PALP PEDAL PULSES. TROPONIN NEG (0.3) AND CPKS CYCLING TO R/O.
+
+RESP-> ABGS ADEUQATE FOR FULL VENT SUPPORT 450 X 14 IMV 40% PEEP 5. THICK WHITE SM AMOUNT OF SECRETIONS. LS CTS, DIMINISHED BILAT BASES.
+
+RENAL-> U/O 20-35CCHR YELLOW. IVF LR DECREASED FROM 175->150CCHR PER DR [**Last Name (STitle) **] AND CTICU/SICU TEAM. LYTES ALL REPLACED AND WITHIN NORMAL LIMITS. RENAL PROFILE NORMAL, PLEASE SEE CAREVIEW.
+
+GI-> NGT TO LWST WITH MINIMAL BILIOUS OUTPUT. ABD SOFTLY DISTENDED WITH HYPO BS. NO BM. PROTONIX QD. 
+
+HEME-> HCT STABLE, COAGS NORMAL. PNEUMOBOOTS. HEPARIN SC.
+
+ENDO-> PT HAS HX OF IDDM. BS GOAL MAINTAINED 100-130 WITH TITRATING INSULIN DOSE OF 7U->2U THIS SHIFT. D10 GTT AT 10CC PER PROTOCOL.
+
+ID-> PT REMAINS ON AMPICILLIN, FLAGYL, AND CEFTRIAXONE. WBC NORMAL [**6-23**]. LOW GRADE TEMPS. PAN CXS LAST IN OR [**2744-2-16**], CDIFF NEG AND ALL OTHERS PENDING.
+
+SKIN-> ABD WOUND STAPLES INTACT. DSD FROM OR INTACT WITH SM AMOUNT OF SEROSANG DRAINAGE ON DSG. BACK INTACT. OTHERWISE, NO IMPAIRMAENTS NOTED
+
+STATUS-> FULL CODE
+
+*********************************
+A: PT HEMODYN STABLE POSTOP DAY #2, ICU DAY #2 ON FULL VENT SUPPORT, ADEQUATE PAIN MGT AND BS CONTROL, WITH LRG FLUID REQUIREMENT.
+P: CONTINUE TO MONITOR PER PARAMETERS, FOLLOW FSBS CLOSELY WITH GOAL RANGE 100-130 ON INSULIN GTT AT THIS TIME, WEAN VENT AS TOLERATED, F/U PENDING CXS, FOLLOW VOLUME STATUS CLOSELY SECONDARY TO EF 30% AND EXTENSIVE CARDIAC HX. SUPPORT FAMILY AND PT AT THIS TIME.
+",,
+24858,18171,30865,0,2744-02-17 17:39:00 EST,2744-02-17 17:58:00 EST,3797,"N",53,"Nursing/Other","CTIC/SICU","
+CTIC/SICU
+
+S/O: NEURO: PT INDIAN DIALECT SPEAKING ONLY, YET F/C'S WITH GESTURES,  MAE'S, APPROPRIATE, FAMILY IN NODDINGAPPROP.  PT MED WITH MSO4 2MG PRN WITH GOOD EFFECT.  
+
+CV:  PT WITH PERMANENT DDD RATE SET AT 60 PACEMAKER.  PT BRADIED DOWN TO 58 AND PT A PACING THEN PT WITH MOSTLY V PACING THOUGHOUT DAY.  AT TIMES A/V PACING.  CARDIOLOGY UP TO SEE PT ? TO INTERROGATE PACER.  STATED DID NOT NEED IT NOW BUT SEE NOTE IN CHART.   WILL CONTINUE TO MONITOR.  PT REMAINED HEMODYNAMICALLY STABLE THROUGHOUT ALL RHYTHMS.  HR 80 -100, PT RECIEVING LOPRESSOR 5MG Q 6H,  BP STABLE 100-130/ 40-60.  CVP 12 -7,  IVF DECREASED TO 100CC/HR THIS AM.    SKIN WARM, PULSES PALP.  LYTES REPLETED.
+
+RESP: LUNGS CLEAR TO COARSE AT TIMES DIMINISHED AT BASES, SXN FOR THICK WHITE TO LIGHT YELLOW SECRETIONS.  PT CHANGED TO CPAP TODAY PS 15 TOL WELL  ATTEMPTED TRIAL OF 0/0 WHICH PT TOL FOR PERIOD THEN POOR BG.  PT BACK TO CPAP 15/ 5 PEEP WITH TV 2-300,  RR 10-20, SATS > 96%. 
+
+GI: ABD SOFT, SL DISTENDED, HYPOACTIVE BS.  NGT DRAINING LT BROWN DNGE SMALL AMTS,  NGT FLUSHED WITH RETURN YET MINIMAL OUTPUT.
+
+GU: FOLEY DRAINING 25-55 CC/HR YELLOW URINE.  IVF AT 100/HR NO BOLUS TODAY.
+
+ENDO:  ABLE TO WEAN INSULIN GTT TO OFF, D10 OFF,  BS 84 WILL NEED CLOSE MONITORING.  
+
+SKIN:  INTACT NO BREAKDOWN NOTED.
+
+SOCIAL: CHILDREN IN TO VISIT.  SUPPORT GIVEN EXPLAINED THAT PT WILL REMAIN INTUBATED OVERNIGHT.  SUPPORT GIVEN.  ASKING APPROP QUESTIONS.
+
+ID: T 100 PT ON CEFTRIAXONE AND FLAGYL, AMP DC'D.
+
+A/P:  PT WITH DDD SENSING AND PACING APPROPRIATELY.  HEMODYNAMICALLY STABLE.  BETABLOCKED WITH LOPRESSOR,  VENTED  ON CPAP MAY NEED TO BE RESTED OVERNIGHT,  MONITOR FLUID STATUS,  MONITOR BS CLOSELY,  SUPPORT, MED PRN, AS PER PLAN
+",,
+24858,18171,30865,0,2744-02-17 18:19:00 EST,2744-02-17 18:21:00 EST,3492,"N",53,"Nursing/Other",,"
+
+resp care note - pt. weaned to psv ps 15 peep 5 40%, toll ok spon tv 250 to 350 cc, spon rr 10 - 20 min, Spo2 96 - 98%.
+",,
+24858,18171,30865,,2744-02-18 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2744-2-18**] 7:49 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 6738**]
+     Reason: assess pneumomediatinum
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      78 year old woman s/p R colect 2d ago. Please c/w prior cxr
+     REASON FOR THIS EXAMINATION:
+      assess pneumomediatinum
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Post op day 2 after colectomy.  History of probable
+     pneumomediastinum.
+     
+     COMPARISONS:  AP chest [**2744-2-16**].
+     
+     AP CHEST:  There has been interval removal of the ET tube. The NG tube extends
+     into the stomach.  A left sided dual chamber pacemaker has leads overlying the
+     right atrium and right ventricle.  The heart has a left ventricular
+     configuration.  Central perihilar haziness and small bilateral pleural
+     effusions suggest mild to moderate CHF.  No definite pneumonic infiltrate is
+     appreciated.  There is probable bibasilar atelectasis.  The mediastinal
+     lucencies identified on the prior study are not well appreciated on the
+     current study.
+     
+     IMPRESSION: CHF with bilateral pleural effusions.
+     
+
+",,
+24858,18171,30865,0,2744-02-18 05:43:00 EST,2744-02-18 05:54:00 EST,3510,"N",53,"Nursing/Other","ctic/sicu nsg note:","
+ctic/sicu nsg note:
+O: NEURO- ALERT, CALM, FOLLOWS COMMANDS CONSISTENTLY. MAES PURPOSEFULLY.
+
+RESP- SUX Q2-3HRS FOR SM AMTS OF THICK LT YELLOW SECRETIONS. SAO2 100%, VT'S DOWN TO THE 200'S ON 15CM PSV THEREFORE INCREASED TO 20 WITH IMPROVEMENT. NO OTHER VENT CHANGES MADE. PCO2 REMAINS ELEVATED.
+
+CVS- PT IN INTRINSIC RATE OF 69-95NSR WITH OCC V OR AV PACING USUALLY AFTER LOPRESSOR DOSE. CVP-[**7-24**], RL @ 100CC/HR, AFEB, LABS WNL, PALP PEDAL PULSES.
+
+GI-NGT W/ SM AMT THICK LT GREEN DRAINAGE, NOT SUMPING PROPERLY DESPITE IRRIGATION. ABD REMAINS LG AND SOFTLY DISTENDED W/ HYPOACTIVE BS. NO FLATUS NOTED.
+
+GU-CONT TO MAKE ~30-50CC/HR OF CLEAR YELLOW URINE.
+
+SKIN- INTACT, ABD INCISION APROXIMATED AND DRY.
+
+A: STABLE POSTOP COURSE
+
+P: MONITOR PER ROUTINE, FOLLOW BS AS ORDERED, DILIGENT PUPM HYGIENE,
+WEAN AS TOL FROM VENT.MONITOR VOLUME STATUS CLOSELY.
+
+
+",,
+24858,18171,30865,0,2744-02-18 21:54:00 EST,2744-02-18 22:00:00 EST,3797,"N",53,"Nursing/Other","CTIC/SICU","
+CTIC/SICU
+
+S/O:  NEURO:  PT ALERT & O X 3, PER FAMILY TRANSLATION.  MAE'S, F/C'S. 
+
+CV:  HR SR OCCASS PACED,  BP STABLE. CONT ON LOPRESSOR.
+
+RESP: LUNGS CLEAR TO COARSE.  TOL WEAN AND EXTUBATED AT 2:15P.  PT WITH GOOD COUGH,  ABLE TO CLEAR SECRETIONS.
+
+GI: ABD SOFT, + BS, SCANT DNGE FROM NGT.  
+
+GU: FOLEY DRAINING QS RECIEVED 10MG LASIX [**Last Name (un) **] NOW - 1L.
+
+SKIN: INTACT.
+
+HEME: HCT STABLE.
+
+ID: CONT ON ABX.
+
+SOCIAL: SUPPORTIVE FAMILY IN WITH PT.
+
+A/P:  CONT TO MONITOR POST EXTUBATION,  MONITOR HEMODYNAMICS,  SUPPORT, AS PER PLAN.  
+
+",,
+24858,18171,30865,0,2744-02-19 03:44:00 EST,2744-02-19 04:12:00 EST,-1,"N",53,"Nursing/Other","TRANSFER NOTE","
+TRANSFER NOTE
+THIS IS A 78 YO WOMAN WHO ONLY SPEAKS MALAYALAM- AN RARE INDIAN DIALECT. ADMITTED ON [**2744-2-16**] AFTER C/O N/V, ABD PAIN, FEVERS AND DIARRHEA X 3 DAYS.  [**2-16**] TO OR FOUND PERF APPY, INTRA-ABD ABSCESS AND UNDERWENT EXP LAP, R COLECTOMY, AND BX LEFT LIVER LOBE.
+
+PMH/PSH- CAD S/P STENT [**8-/2742**], IDDM (NPH 90U AM, 80U PM), HTN, S/P INTERNAL PACER PLACEMENT 2001, S/P EXP LAP TAH, BSO FOR LG OVARIAN MASS [**3-17**].
+
+ROS-
+NEURO- ALERT OX3 ( WHEN TRANSLATED BY CHILDREN), FOLLOWS ALL COMMANDS, MAEW W/ PURPOSE AND EQUAL STRENGTH. ALL REFLEXES INTACT, PERRLA, 
+
+CV- PERMANENT PACER DDD MODE SET @ RATE OF 60. PACING AND SENSING APPROPRIATELY. NSR W/ OCC IRREGULAR BEATS. S1S2 NO R/M/G.  BP STABLE 100-160. IV LOPRESSOR Q6H. PULSES IN EXT WEAK TO PALPATION. GENERALIZED EDEMA PRESENT. CAP REFILL BRISK. 
+
+RESP- EXT 1415 ON [**2744-2-18**]. NOW ON 40% FACE MASK, SATS >97%. CHEST EXPANSION SYMMETRICAL, BBS CLEAR, DIMINISHED IN BASES. COUGH EFFORT STRONG, PRODUCTIVE. RR 12-22. 
+
+GI- ABD LARGE ROUND SOFT, SL DISTENDED. HYPOACTIVE BS PRESENT X 4 QUADS. NG VIA L NARES TO LCS W/ SMALL AMT BILIOUS DRAINAGE. PLACEMENT CONFIRMED W AUSCULTATED AIR BOLUS. 
+
+GU- FOLEY TO GRAVITY DRAINING ADEQUATE AMTS CLEAR YELLOW URINE. IVF KVO.
+
+ENDO- WAS ON INSULIN GTT. NOW ON SSI QID W CLOSE MONITORING.
+
+HEME- HCT STABLE, PNEUMO BOOTS, SQ HEPARIN. 
+
+ID- PT ON AMPICILLIN, FLAGYL, CEFTRIAXONE, 
+
+SKIN- ABD INCISION D/I. NO OTHER IMPAIRMENTS NOTED. 
+
+SOCIAL- 2 DAUGHTERS AND ONE SON. ALL SPEAK MALAYALAM AND ARE ABLE AND AVAILABLE TO TRANSLATE. FAMILY VERY SUPPORTIVE.
+
+A/P- OOB AS TOL, TX TO FLOOR. MONITOR RESP STATUS, AND GLUCOSE LEVELS CLOSELY.
+",,
+24858,18171,30865,0,2744-02-19 16:59:00 EST,2744-02-19 17:13:00 EST,3210,"N",53,"Nursing/Other","citic/sicu nsg progress note","
+citic/sicu nsg progress note
+0700>>1700
+
+please see above transfer note
+
+ROS
+NEURO- AWAKE, ORIENTED PER FAMILY VISIT. MAE'S AND FOLLOWS. PT HAS BEEN CALM AND COOPERATIVE THROUGHOUT THE DAY; USING INFORMAL SIGNALING TO COMMUNICATE TREATMENTS AND CARE.
+
+CVS- CONT ON LOPRESSOR 7.5MG. DIOVAN ORDERED TO BEGIN..NOT STARTED YET.
+    HR 80'S NSR NO ECTOPY. BP 155-170/45-50  CVP 4-7
+
+
+RESP- 50% NEB WITH SATS >96..ATTEMPTED TO USE FACE TENT BUT WAS ILL FITTING SO RETURNED TO FACE MASK. RR MID 20'S..NO C/O DISTREES. STRONG NONPRODUCTIVE COUGH.
+      BREATH SOUNDS ARE CLEAR ANTERIORALY AND DIMINISHED AT BASES WITH BIL. CRACKLES.
+
+RENAL- LASIX IVP TOTAL OF 40MG.. WITH AGGRESSIVE DIURESIS.(>3000CC TODAY). NO MORE LASIX TODAY PER SURGICAL TEAM.
+       ELECTROLYTES REPLETED PRN.
+
+GI- NPO.. NGT REMOVED BY TEAM..ABD IS SOFTLY DISTENDED WITH HYPOACTIVE BOWEL SOUNDS. PROTONIX.
+    REMAINS ON MAINTENANCE IVF'S
+
+ENDO- BLOOD SUGARS REMAINS WITHIN RANGE..NO INSULIN REQUIRED.
+
+
+ID -AFEBRILE, ANTIBIOTICS CONT UNCHANGED.
+    WOUND IS SUTURED , C&D, OPEN TO AIR.
+
+HEME- HCT STABLE
+      CONT ON BID MINI HEPARIN
+
+ACTIVITY- OOB TO CHAIR X 2 HOURS BY STAND AND PIVOT WITH ASSISST OF 2.
+          COMPRESSION BOOTS IN PLACE.
+
+PAIN- C/O MILD ABD PAIN AT SITE OF INCISION; WILL HAVWE SLIGHT CHANGE IN RR AND BP WITH ^^ DISCOMFORT. IV MSO4 2MG X2 WITH EFFECT- RETURN TO BASELINE VITAL SIGNS AND REST.
+          
+SKIN-INTACT, WARM & DRY; PALPABLE PERIPHRAL PULSES.
+
+A/P- PROGRESSING POST- EX-LAP AND RIGHT COLECTOMY FOR PERFORATION.
+     S/P BX LEFT LIVER LOBE.PND
+
+     CONT PER SURGICAL TEAM ORDERS.
+     ADVANCE ACTIVITY AS TOLERATED
+     NPO X FOR SIPS WITH PO MEDS
+     ADEQUATE PAIN MNGMNT.
+",,
+24858,18171,,,2744-02-24 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2744-2-24**] 3:04 PM
+     MAMMOGRAM (SCREENING)                                           Clip # [**Clip Number (Radiology) 6741**]
+     Reason: SCREENING
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     SCREENING MAMMOGRAM.
+     
+     INDICATION:  Routine.
+     
+     SCREENING BASELINE MAMMOGRAM:
+     
+     The breasts demonstrate scattered fibroglandular opacities.  Benign-appearing
+     calcifications are identified throughout the left breast.  Vascular
+     calcifications are noted.  There are no clustered microcalcifications,
+     dominant masses, or areas of architectural distortion.
+     
+     There are no comparison examinations available.
+     
+     IMPRESSION:  No mammographic evidence of malignancy.  BIRADS 2 - Benign.
+
+",,
+24858,18171,,,2744-02-24 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2744-2-24**] 9:18 AM
+     CT CHEST W/O CONTRAST                                           Clip # [**Clip Number (Radiology) 6739**]
+     Reason: Pt c metastatic adenocarcinoma to liver of unknown etiology 
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      78 year old woman with s/p colectomy c adeno ca of [**Last Name (un) 6740**] own etiology
+     REASON FOR THIS EXAMINATION:
+      Pt c metastatic adenocarcinoma to liver of unknown etiology please eval for
+      lung mass (also please assess for breast mass if possible via CT)
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  METASTATIC ADENOCARCINOMA TO THE LIVER OF UNKNOWN PRIMARY.
+     
+     Comparison is made to prior chest CT dated [**2742-9-3**].
+     
+     Helical CT of the thorax was performed with 5 mm collimation and 5 mm
+     reconstruction intervals without intravenous or oral contrast administration.
+     Additionally, a small series of images were retrospectively reconstructed with
+     2.5 mm collimation.
+     
+     Assessment of the lungs is somewhat limited by respiratory motion,
+     particularly through the lung apices and lung bases.  There is a tiny lung
+     nodule present near the minor fissure on image #22 of series 3.  This is
+     without change since [**2742-9-3**].  On thin section images, this shows
+     evidence of definitive benign calcification pattern, consistent with a small
+     granuloma.
+     
+     Assessment of the remaining portions of the lungs demonstrates a linear focus
+     of increased opacity in the anterior segment of the left upper lobe stable
+     from before and attributed to focal scarring.  There is new consolidation
+     involving the right lower lobe, particularly the dependent portions.  Within
+     the left lower lobe, there are patchy ground-glass opacities which are new in
+     the interval since the previous study.  No obstructing endobronchial lesions
+     are evident.
+     
+     Assessment of the skeletal structures of the thorax reveals degenerative
+     changes within the spine.
+     
+     Assessment of the soft tissue structures of the thorax demonstrates extensive
+     streak artifact in the upper left portion of the chest due to an implanted
+     pacemaking device in the anterior left chest wall.  Assessment of the
+     mediastinum demonstrates several small mediastinal nodes mostly in the lower
+     paratracheal and precarinal region, which do not appear significantly changed
+     in the interval.  No significant hilar lymph node enlargement is evident.  The
+     heart is mildly enlarged and coronary artery calcifications are noted.  No
+     pericardial effusion is evident.  There is a small right pleural effusion.
+     
+     Assessment of the abdominal viscera due to absence of intravenous contrast
+     administration which significantly decreases the sensitivity of CT for
+     detecting hepatic lesions.  There is a large low density lesion in the left
+     lobe of liver measuring approximately 4.1 cm in greatest dimension.  An
+     additional smaller lesion is seen just below this lesion.  No definite lesions
+     are seen in the right lobe of the liver, but absence of intravenous contrast
+                                                                 (Over)
+
+     DATE: [**2744-2-24**] 9:18 AM
+     CT CHEST W/O CONTRAST                                           Clip # [**Clip Number (Radiology) 6739**]
+     Reason: Pt c metastatic adenocarcinoma to liver of unknown etiology 
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     significantly limits the assessment of the liver.
+     
+     The spleen, adrenal glands, imaged portions of the pancreas and kidneys are
+     unremarkable. There is some sludge within the gallbladder.  Please note that
+     the liver, kidneys, and pancreas are incompletely imaged on this study as well
+     as the gallbladder.
+     
+     No gross masses are seen in either breast, but mammography is much more
+     sensitive than CT for detecting breast cancer.
+     
+     IMPRESSION:
+     
+     1.  No CT findings to suggest a primary lung mass as the cause of metastatic
+     disease.
+     
+     2.  A small calcified lung nodule is stable compared to [**2742-9-3**] and
+     consistent with a benign granuloma.
+     
+     3.  Low density lesions in the left lobe of the liver, in keeping with history
+     of neoplasm.  Please note that incomplete imaging of the liver as well as
+     absence of intravenous contrast markedly limits evaluation of this organ.  If
+     a dedicated liver study has not been performed previously, dedicated liver MR
+     would be recommended.
+     
+     4.  Right lower lobe consolidation and small right pleural effusion.  The
+     consolidation most likely represents an acute process such as pneumonia or
+     aspiration. If this fails to resolve, one should also consider a more chronic
+     process such as bronchoalveolar cell carcinoma.
+     
+
+",,
+24858,,,,2744-03-23 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2744-3-23**] 3:51 PM
+     CT ABD W&W/O C; CT PELVIS W/CONTRAST                            Clip # [**Clip Number (Radiology) 6742**]
+     CT CHEST W/CONTRAST; CT 150CC NONIONIC CONTRAST
+     Reason: f/u consolidation area in lung and liver lesion, ? site of p
+     Field of view: 36 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      79 year old woman with liver lesion, biopsied as adenoca of unknown origin
+     REASON FOR THIS EXAMINATION:
+      f/u consolidation area in lung and liver lesion, ? site of primary lesion.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:
+     Liver lesion, adenocarcinoma by biopsy. Evaluate for primary.
+     
+     TECHNIQUE:
+     The liver was scanned without IV contrast. This was followed by scanning of
+     the chest abdomen and pelvis with intravenous contrast.
+     
+     IV CONTRAST:
+     150 cc of Optiray was given because of history of diabetes.
+     
+     CT CHEST WITH CONTRAST:
+     The lungs have improved since the previous examination of [**2-24**]. It
+     appears the right lobe infiltrate has resolved. The tiny pulmonary nodule is
+     unchanged. There is no lymphadenopathy seen. The great vessels are
+     unremarkable.
+     
+     CT ABDOMEN WITHOUT AND WITH CONTRAST:
+     An inhomogeneously enhancing liver lesion is seen in the left lobe,
+     peripherally, measuring 3.2 cm. There are other smaller sattelite hypodense
+     lesions seen close by. The lesion has a thick peripheral enhancing rim. The
+     right lobe of the liver as well as the lateral (midline) segment of the left
+     lobe (segment IV) appear uninvolved. The pancreas, spleen and kidneys are
+     normal. The kidneys excrete contrast in normal fashion. No masses seen. There
+     is no peritoneal or retroperitoneal lymphadenopath or other masses
+     appreciated.
+     
+     CT PELVIS WITH CONTRAST:
+     Status post hysterectomy. There are no abnormal masses seen in the pelvis. The
+     urinary bladder is within normal limits. The ureters and visualized bowel is
+     normal. There appears to be a cystocele and rectocele present but no masses
+     appreciated.
+     
+     IMPRESSION: Liver nodules in the peripheral part of the left lobe of the
+     liver. In view of the relative local distribution the possiblity of primary
+     hepatoma is raised. No other extrahepatic mass appreiated. Status post
+     hysterectomy (? cause); please correlate.
+     
+                                                                 (Over)
+
+     DATE: [**2744-3-23**] 3:51 PM
+     CT ABD W&W/O C; CT PELVIS W/CONTRAST                            Clip # [**Clip Number (Radiology) 6742**]
+     CT CHEST W/CONTRAST; CT 150CC NONIONIC CONTRAST
+     Reason: f/u consolidation area in lung and liver lesion, ? site of p
+     Field of view: 36 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+
+",,
+24858,,,,2744-03-23 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2744-3-23**] 3:51 PM
+     CT ABD W&W/O C; CT PELVIS W/CONTRAST                            Clip # [**Clip Number (Radiology) 6742**]
+     CT CHEST W/CONTRAST; CT 150CC NONIONIC CONTRAST
+     Reason: f/u consolidation area in lung and liver lesion, ? site of p
+     Field of view: 36 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      79 year old woman with liver lesion, biopsied as adenoca of unknown origin
+     REASON FOR THIS EXAMINATION:
+      f/u consolidation area in lung and liver lesion, ? site of primary lesion.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:
+     Liver lesion, adenocarcinoma by biopsy. Evaluate for primary.
+     
+     TECHNIQUE:
+     The liver was scanned without IV contrast. This was followed by scanning of
+     the chest abdomen and pelvis with intravenous contrast.
+     
+     IV CONTRAST:
+     150 cc of Optiray was given because of history of diabetes.
+     
+     CT CHEST WITH CONTRAST:
+     The lungs have improved since the previous examination of [**2-24**]. It
+     appears the right lobe infiltrate has resolved. The tiny pulmonary nodule is
+     unchanged. There is no lymphadenopathy seen. The great vessels are
+     unremarkable.
+     
+     CT ABDOMEN WITHOUT AND WITH CONTRAST:
+     An inhomogeneously enhancing liver lesion is seen in the left lobe,
+     peripherally, measuring 3.2 cm. There are other smaller sattelite hypodense
+     lesions seen close by. The lesion has a thick peripheral enhancing rim. The
+     right lobe of the liver as well as the lateral (midline) segment of the left
+     lobe (segment IV) appear uninvolved. The pancreas, spleen and kidneys are
+     normal. The kidneys excrete contrast in normal fashion. No masses seen. There
+     is no peritoneal or retroperitoneal lymphadenopath or other masses
+     appreciated.
+     
+     CT PELVIS WITH CONTRAST:
+     Status post hysterectomy. There are no abnormal masses seen in the pelvis. The
+     urinary bladder is within normal limits. The ureters and visualized bowel is
+     normal. There appears to be a cystocele and rectocele present but no masses
+     appreciated.
+     
+     IMPRESSION: Liver nodules in the peripheral part of the left lobe of the
+     liver. In view of the relative local distribution the possiblity of primary
+     hepatoma is raised. No other extrahepatic mass appreiated. Status post
+     hysterectomy (? cause); please correlate.
+     
+                                                                 (Over)
+
+     DATE: [**2744-3-23**] 3:51 PM
+     CT ABD W&W/O C; CT PELVIS W/CONTRAST                            Clip # [**Clip Number (Radiology) 6742**]
+     CT CHEST W/CONTRAST; CT 150CC NONIONIC CONTRAST
+     Reason: f/u consolidation area in lung and liver lesion, ? site of p
+     Field of view: 36 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+
+",,
+24858,,,,2744-03-23 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2744-3-23**] 3:51 PM
+     CT ABD W&W/O C; CT PELVIS W/CONTRAST                            Clip # [**Clip Number (Radiology) 6742**]
+     CT CHEST W/CONTRAST; CT 150CC NONIONIC CONTRAST
+     Reason: f/u consolidation area in lung and liver lesion, ? site of p
+     Field of view: 36 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      79 year old woman with liver lesion, biopsied as adenoca of unknown origin
+     REASON FOR THIS EXAMINATION:
+      f/u consolidation area in lung and liver lesion, ? site of primary lesion.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:
+     Liver lesion, adenocarcinoma by biopsy. Evaluate for primary.
+     
+     TECHNIQUE:
+     The liver was scanned without IV contrast. This was followed by scanning of
+     the chest abdomen and pelvis with intravenous contrast.
+     
+     IV CONTRAST:
+     150 cc of Optiray was given because of history of diabetes.
+     
+     CT CHEST WITH CONTRAST:
+     The lungs have improved since the previous examination of [**2-24**]. It
+     appears the right lobe infiltrate has resolved. The tiny pulmonary nodule is
+     unchanged. There is no lymphadenopathy seen. The great vessels are
+     unremarkable.
+     
+     CT ABDOMEN WITHOUT AND WITH CONTRAST:
+     An inhomogeneously enhancing liver lesion is seen in the left lobe,
+     peripherally, measuring 3.2 cm. There are other smaller sattelite hypodense
+     lesions seen close by. The lesion has a thick peripheral enhancing rim. The
+     right lobe of the liver as well as the lateral (midline) segment of the left
+     lobe (segment IV) appear uninvolved. The pancreas, spleen and kidneys are
+     normal. The kidneys excrete contrast in normal fashion. No masses seen. There
+     is no peritoneal or retroperitoneal lymphadenopath or other masses
+     appreciated.
+     
+     CT PELVIS WITH CONTRAST:
+     Status post hysterectomy. There are no abnormal masses seen in the pelvis. The
+     urinary bladder is within normal limits. The ureters and visualized bowel is
+     normal. There appears to be a cystocele and rectocele present but no masses
+     appreciated.
+     
+     IMPRESSION: Liver nodules in the peripheral part of the left lobe of the
+     liver. In view of the relative local distribution the possiblity of primary
+     hepatoma is raised. No other extrahepatic mass appreiated. Status post
+     hysterectomy (? cause); please correlate.
+     
+                                                                 (Over)
+
+     DATE: [**2744-3-23**] 3:51 PM
+     CT ABD W&W/O C; CT PELVIS W/CONTRAST                            Clip # [**Clip Number (Radiology) 6742**]
+     CT CHEST W/CONTRAST; CT 150CC NONIONIC CONTRAST
+     Reason: f/u consolidation area in lung and liver lesion, ? site of p
+     Field of view: 36 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+
+",,
+24858,,,,2744-03-23 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2744-3-23**] 3:51 PM
+     CT ABD W&W/O C; CT PELVIS W/CONTRAST                            Clip # [**Clip Number (Radiology) 6742**]
+     CT CHEST W/CONTRAST; CT 150CC NONIONIC CONTRAST
+     Reason: f/u consolidation area in lung and liver lesion, ? site of p
+     Field of view: 36 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      79 year old woman with liver lesion, biopsied as adenoca of unknown origin
+     REASON FOR THIS EXAMINATION:
+      f/u consolidation area in lung and liver lesion, ? site of primary lesion.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:
+     Liver lesion, adenocarcinoma by biopsy. Evaluate for primary.
+     
+     TECHNIQUE:
+     The liver was scanned without IV contrast. This was followed by scanning of
+     the chest abdomen and pelvis with intravenous contrast.
+     
+     IV CONTRAST:
+     150 cc of Optiray was given because of history of diabetes.
+     
+     CT CHEST WITH CONTRAST:
+     The lungs have improved since the previous examination of [**2-24**]. It
+     appears the right lobe infiltrate has resolved. The tiny pulmonary nodule is
+     unchanged. There is no lymphadenopathy seen. The great vessels are
+     unremarkable.
+     
+     CT ABDOMEN WITHOUT AND WITH CONTRAST:
+     An inhomogeneously enhancing liver lesion is seen in the left lobe,
+     peripherally, measuring 3.2 cm. There are other smaller sattelite hypodense
+     lesions seen close by. The lesion has a thick peripheral enhancing rim. The
+     right lobe of the liver as well as the lateral (midline) segment of the left
+     lobe (segment IV) appear uninvolved. The pancreas, spleen and kidneys are
+     normal. The kidneys excrete contrast in normal fashion. No masses seen. There
+     is no peritoneal or retroperitoneal lymphadenopath or other masses
+     appreciated.
+     
+     CT PELVIS WITH CONTRAST:
+     Status post hysterectomy. There are no abnormal masses seen in the pelvis. The
+     urinary bladder is within normal limits. The ureters and visualized bowel is
+     normal. There appears to be a cystocele and rectocele present but no masses
+     appreciated.
+     
+     IMPRESSION: Liver nodules in the peripheral part of the left lobe of the
+     liver. In view of the relative local distribution the possiblity of primary
+     hepatoma is raised. No other extrahepatic mass appreiated. Status post
+     hysterectomy (? cause); please correlate.
+     
+                                                                 (Over)
+
+     DATE: [**2744-3-23**] 3:51 PM
+     CT ABD W&W/O C; CT PELVIS W/CONTRAST                            Clip # [**Clip Number (Radiology) 6742**]
+     CT CHEST W/CONTRAST; CT 150CC NONIONIC CONTRAST
+     Reason: f/u consolidation area in lung and liver lesion, ? site of p
+     Field of view: 36 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+
+",,

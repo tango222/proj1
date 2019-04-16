@@ -1,0 +1,497 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+24266,17703,,,3458-01-14 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+ 
+ 
+ 
+Admission Date:  [**3458-1-14**]              Discharge Date:   [**3458-1-27**]
+ 
+Date of Birth:  [**3372-8-25**]             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Patient recorded as having No Known Allergies to Drugs
+ 
+Attending:[**First Name3 (LF) 1187**] 
+Chief Complaint:
+hypotension following right hip arthroplasty
+ 
+Major Surgical or Invasive Procedure:
+right hip arthroplasty
+ 
+History of Present Illness:
+85 year old man admitted to the medical ICU from the 
+post-operative care unit for persistent hypotension post-op. He 
+was initially admitted [**3458-1-14**] with avascular 
+necrosis/osteoarthritis of the right femoral head s/p ORIF 
+intertrochanteric femur fracture. He underwent conversion of 
+prior right hip fracture to total hip replacement. Post 
+opeartively, he was agitated and hypotensive (sbp 90s). In PACU 
+he received 1.5mg haldol over several hours, and a total of 10mg 
+IV of morphine for agitation and pain control.
+
+ 
+Past Medical History:
+1. Early dementia.  
+2. Back pain/Vertebral compression fractures/kyphosis. MRI 
+L-dpine [**5-13**] - Diffuse disc bulge at L3-L4 asymmetric to the 
+right causing mild canal stenosis and mild right neural 
+foraminal narrowing. Vertebroplasty cement adjacent to L5 nerve 
+root resulting in mild  narrowing of the right neural foramen.  
+3. [**Doctor First Name **] on clarithromycin followed by Dr. [**Last Name (STitle) 5011**]  
+4. Abdominal aortic aneurysm.  
+5. Coronary artery disease.  
+6. Chronic obstructive pulmonary disease/emphysema home oxygen  
+(4L at night, 2L during day). FEV1/FVC 59% pred ([**3-15**]).  
+7. Bronchiectasis.  
+8. Retinal vein occlusion.  
+9. R hip fracture/surgery 1999/2005 s/p hardware removal in '[**57**]. 
+ 
+10. Seizures  
+11. Osteoporosis - bone density 2004  
+12. Anemia - chronic  
+ 
+Social History:
+Patient lives at home with his wife, who also uses home O2. 
+Patient ambulates with cane/walker at home. Despite dementia, he 
+was independent in his ADL's until his recent fracture/surgery
+
+ 
+Family History:
+Non-contributory
+ 
+Physical Exam:
+Physical Exam on admission:
+PE: T:98.1 BP:91/42 HR:94 O2:100%RA  
+Gen: Alert, not oriented  
+HEENT: Clear OP, MMM  
+NECK: Supple, No LAD, No JVD  
+CV: RR, NL rate. NL , ruS1, S2. No murmursbs or [**Last Name (un) 806**]  
+LUNGS: CTA, BS BL, No W/R/C  
+ABD: Soft, NT, ND. NL BS. No HSM  
+EXT: No edema. 2+ DP pulses BL, post-op  
+NEURO: A, not oriented. CN [**3-22**] grossly intact. Preserved 
+sensation throughout. Gait assessment deferred  
+
+ 
+Pertinent Results:
+Laboratory studies on admission
+[**3458-1-14**] 
+WBC-11.1 HGB-9.1 HCT-26.6 MCV-104 RDW-17.3 PLT COUNT-233
+GLUCOSE-207* UREA N-13 CREAT-0.5 SODIUM-137 POTASSIUM-3.9 
+CHLORIDE-106 TOTAL CO2-28 
+7.5* Phos-2.1* Mg-2.1
+
+Recent Laboratory studies 
+[**3458-1-27**] 
+WBC-7.5 Hgb-11.7 Hct-34.4 MCV-95 RDW-18.8 Plt Ct-371
+Glucose-143 UreaN-11 Creat-0.5 Na-145 K-3.6 Cl-108 HCO3-34 
+AnGap-7
+
+[**1-15**] EKG: Baseline artifact. Probable sinus rhythm with a 
+single. Vertical axis. Right bundle-branch block. Since the 
+previous tracing of [**3458-1-11**] decreased QRS voltage in leads VI-V2 
+may be related to lead position 
+
+Radiology
+[**1-14**] right hip plain films: The distal femoral component of the 
+THA is excluded from intraoperative frontal film. There has been 
+placement of a right total hip arthroplasty with a cemented 
+acetabular and femoral component. On this single AP view, 
+components are aligned.
+
+[**1-15**] CXR: No pneumonia or CHF. Subtle increased interstitial 
+markings at the bases are unchanged
+
+[**1-19**] CT Abdomen: Moderate-sized hematoma with residual air 
+pockets from recent surgery adjacent to right hip prosthesis. No 
+extension with into the retroperitoneum or more inferiorly into 
+the thigh. Bilateral small pleural effusions, mild subcutaneous 
+edema diffusely and some collection of fluid within the 
+perirectal fat. Findings consistent with mild anasarca.
+Stable bilateral adrenal adenomas
+
+[**1-20**] CT Chest: The heart size is normal. Extensive aortic and 
+coronary calcifications are identified. There is no axillary, 
+mediastinal or hilar lymphadenopathy. Evaluation of the lung 
+parenchyma is somewhat limited by respiratory motion. Again seen 
+are numerous small pulmonary nodules which are stable back to 
+2003. Scattered tree-in-[**Male First Name (un) 5012**] opacities are also unchanged. There 
+are moderate bilateral pleural effusions. Visualized portions of 
+the upper abdomen are stable with fullness of the adrenal glands 
+again noted. There are no suspicious lytic or sclerotic osseous 
+lesions. Degenerative changes of the thoracic spine are noted. 
+Right proximal humeral enchondroma or bone infarct is again 
+noted.
+
+[**1-25**] KUB/upright: There is no evidence of free intra-abdominal 
+air. Normal bowel gas [**Doctor Last Name 5013**] seen. Mild bibasilar atelectasis is 
+identified. There is unchanged appearance of a right prosthetic 
+hip. High-density material overlying the L5 vertebral body 
+unchanged and likely represents a prior history of 
+vertebroplasty.
+
+[**1-25**] CXR: No evidence of pneumonia. Stable small bilateral 
+pleural effusions.
+
+Pathology
+[**1-14**] right hip: The articular surface of the bone appears 
+focally eburnated with small osteophyte formation of which 
+representative sections are submitted in A-B. Decalcified.
+
+Transthoracic echochardiogram [**3458-1-19**]: EF 50%. Mid inferior 
+(and probable inferolateral) hypokinesis. Trace aortic 
+regurgitation is seen, [**2-9**]+ MR. 
+
+ 
+Brief Hospital Course:
+85 year old male initially admitted to the medical ICU with 
+hypotenstion following a right total hip replacement. He was 
+stabilized and transferred to the general medical floor 
+[**3458-1-18**]. His hospital course was notable for NSTEMI, right 
+hip/left groin hematomas, atrial fibrillation, and diarrhea 
+(likely C. diff).
+
+1) Hypotension: The patient's post-op hypotension was most 
+likely secondary to NSTEMI (see below) and peri-op blood loss. 
+His blood pressure stabilized and, at time of discharge, his sbp 
+was 120s.
+
+2) Coronary artery disease with NSTEMI: The patient's troponin 
+peaked at 0.27 on [**3458-1-17**]. An echocardiogram was obtained, 
+which showed an EF 50% (down from pre-op PMIBI 66%) with mid 
+inferior and probable inferolateral hypokinesis. The cardiology 
+service was consulted, who recommended medical management. He 
+was started on high dose statin, continued on beta-blocker 
+(sotolol), and aspirin. He will follow-up with his cardiologist 
+as an outpatient.  
+
+3) Supraventricular tachycardia: The patients telemetry 
+monitoring showed a predominantly sinus rhythm with PVCs and 
+occasional runs of atrial fibrillation/flutter along with rare 
+4-5 beats of NSVT. His sotalol dose was increased to 80 mg daily 
+with improved rate control.
+  
+4) Mental status change: The cause of the patient's poor mental 
+status, which was clearing by time of discharge, was likely 
+multifactorial - delirium due to multiple acute illnesses 
+(diarrhea, recent surgery/anesthesia, pain) superimposed on his 
+underlying dementia. The patient was restarted on Namenda and 
+Donepezil. Vitamin B12, RPR, and TSH were within normal limites. 
+The patient was very sensitive to narcotics, and, on the evening 
+of [**3458-1-21**] required multiple doses of Narcan for depressed 
+mental status. At time of discharge, his pain was controlled on 
+standing tylenol with tramadol as needed. 
+
+5) Right hip and left groin hematomas: These developed while the 
+patient had a supratherapeutic INR. He required 2 tranfusions of 
+PRBC (last [**1-22**]), and his INR was reversed with vitamin K and 
+FFP. His hematocrit remained stable (34.4 on discharge), and he 
+was restarted on coumadin. His hematocrit will need to be 
+closely monitored as an outpatient, particularly while he is 
+anticoagulated.
+
+6) Anemia: This was likely due to peri-operative bleeding as 
+well as to the hematomas mentioned above. The patient was 
+transfused 6 units of blood in the immediate post-op period, 
+followed by 2 units of blood (the last [**1-22**]) when he developed 
+the above hematomas. Further work-up included iron studies (not 
+consistent with deficiency, vitamin B12/folate (not deficient), 
+haptoglobin (not consistent with hemolysis), SPEP/UPEP 
+(negative), and fibrinogen (not consistent with DIC). His 
+hematocrit on discharge was stable at 34.4. He will need to have 
+his hematocrit monitored closely (especially while he is 
+anticoagulated).
+
+7) Right total hip replacement: The patient was followed by the 
+orthopedics service throughout his hospital stay. He will be 
+maintained on coumadin (goal INR 2-2.5) for a total of 6 weeks 
+from surgery (4 additional weeks following discharge). He was 
+briefly on Keflex given serosanguinous drainage from the right 
+hip incision site, which was discontinued once the incision was 
+dry. He will follow-up 1 week following discharge for staple 
+removal.
+
+8) Diarrhea: The patient developed copious diarrhea while 
+in-house. He was started on empiric metronidazole for suspected 
+C. diff with good effect, although C. diff A toxin was negative 
+X 5. C. diff toxin B is pending at discharge. Given clinical 
+improvement, he will continue metronidazole for a 14 day course 
+for presumed C. difficile colitis.
+
+9) COPD: The patient was continued on albuterol/atrovent and 
+flovent. He remained stable on his home O2 (2 liters).
+
+10) Chronic [**Doctor First Name **]: The patient was continued on azithromycin.
+
+11) Urinary retention: The patient failed multiple voiding 
+trials while in-house (most recent Foley placed [**3458-1-27**]). He 
+was started on Flomax and should have a repeat voiding trial at 
+rehab.
+ 
+Medications on Admission:
+Acetaminophen  
+Oxycodone 20 mg Tablet Sustained Release 12HR Sig  
+Oxycodone 5 mg Tablet Sig  
+Calcium Carbonate 500 mg Tablet  
+Cholecalciferol (Vitamin D3) 400 unit Tablet  
+Phenobarbital 30 mg Tablet  
+Sotalol 80 mg 0.5 tablet daily  
+Aspirin 81 mg Tablet  
+Donepezil 5 mg Tablet  
+Gabapentin 300 mg Capsule  
+Docusate Sodium 100 mg Capsule  
+Fluticasone 110 mcg/Actuation Aerosol  
+Albuterol-Ipratropium 103-18 mcg/Actuation Aerosol  
+Memantine 5 mg BID  
+Senna  
+Enoxaparin 30 mg/0.3 mL  
+Pantoprazole 40 mg Tablet  
+Lidocaine 5 %(700 mg/patch)  
+
+ 
+Discharge Medications:
+1. Acetaminophen 325 mg Tablet Sig: Two (2) Tablet PO Q6H (every 
+6 hours).  
+2. Calcium Carbonate 500 mg Tablet, Chewable Sig: One (1) 
+Tablet, Chewable PO TID (3 times a day).  
+3. Cholecalciferol (Vitamin D3) 400 unit Tablet Sig: One (1) 
+Tablet PO once a day.  
+4. Phenobarbital 30 mg Tablet Sig: Two (2) Tablet PO BID (2 
+times a day).  
+5. Sotalol 80 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).  
+6. Aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable 
+PO DAILY (Daily).  
+7. Donepezil 5 mg Tablet Sig: Two (2) Tablet PO HS (at bedtime). 
+ 
+8. Gabapentin 300 mg Capsule Sig: One (1) Capsule PO QAM (once a 
+day (in the morning)).  
+9. Gabapentin 300 mg Capsule Sig: Two (2) Capsule PO QPM (once a 
+day (in the evening)): at 9 p.m.  
+10. Fluticasone 110 mcg/Actuation Aerosol Sig: Two (2) Puff 
+Inhalation BID (2 times a day).  
+11. Ipratropium Bromide 0.02 % Solution Sig: One (1) neb 
+Inhalation Q6H (every 6 hours).  
+12. Albuterol Sulfate 0.083 % Solution Sig: One (1) neb 
+Inhalation Q6H (every 6 hours).  
+13. Memantine 5 mg Tablet Sig: One (1) Tablet PO BID (2 times a 
+day) as needed for dementia.  
+14. Pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One 
+(1) Tablet, Delayed Release (E.C.) PO Q24H (every 24 hours).  
+15. Atorvastatin 40 mg Tablet Sig: Two (2) Tablet PO DAILY 
+(Daily).  
+16. Azithromycin 250 mg Capsule Sig: Two (2) Capsule PO Q24H 
+(every 24 hours).  
+17. Tamsulosin 0.4 mg Capsule, Sust. Release 24HR Sig: One (1) 
+Capsule, Sust. Release 24HR PO HS (at bedtime).  
+18. Mirtazapine 30 mg Tablet Sig: One (1) Tablet PO HS (at 
+bedtime).  
+19. Metronidazole 500 mg Tablet Sig: One (1) Tablet PO TID (3 
+times a day) for 5 days: through [**3458-2-1**]. Tablet(s) 
+20. Tramadol 50 mg Tablet Sig: One (1) Tablet PO TID (3 times a 
+day) as needed for pain: hold for oversedation.  
+21. Warfarin 2 mg Tablet Sig: One (1) Tablet PO HS (at bedtime) 
+for 4 weeks: to complete 6 weeks of anticoagulation from 
+surgery.  
+22. Miconazole Nitrate 2 % Powder Sig: One (1) Appl Topical  TID 
+(3 times a day) as needed: to groin.  
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+[**Hospital6 694**] - [**Location (un) 695**]
+ 
+Discharge Diagnosis:
+Primary: total hip replacement for avascular necrosis
+Secondary: hypotension, coronary artery disease, NSTEMI, 
+congestive heart failure, atrial fibrillation, right thigh/left 
+groin hematoma, anemia, myocbacterium avium complex, diarrhea
+
+ 
+Discharge Condition:
+Stable
+
+ 
+Discharge Instructions:
+1) Please take all medications as prescribed.
+- [**Doctor First Name **] have been started on atorvastatin
+- [**Doctor First Name **] will complete a 14 day course of metronidazole for C. diff 
+colitis; it is important that [**Doctor First Name **] not drink alochol while taking 
+this medication.
+- Flomax was added to your regimen for benign prostatic 
+hypertrophy
+- [**Doctor First Name **] have been started on anticoagulation to prevent clots 
+following surgery; [**Doctor First Name **] will continue this for 4 weeks following 
+discharge.
+2)  Please follow-up as indicated below.
+2) Please come to the emergency room if [**Doctor First Name **] develop chest pain, 
+shortness of breath, increased pain, or other symptoms that 
+concern [**Doctor First Name **].
+ 
+Followup Instructions:
+1) Orthopedics
+Provider: [**First Name11 (Name Pattern1) 299**] [**Last Name (NamePattern4) 3929**], MD [**MD Number 161**]:[**Telephone/Fax (1) 116**] 
+Date/Time:[**3458-2-5**] 3:00
+- plan for staple removal at that time
+2) Primary Care: Please follow-up with your PCP [**Last Name (NamePattern4) **]. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) 5014**] 
+([**Telephone/Fax (1) 5015**]) within 1-2 weeks following discharge.
+3) Pulmonary:
+Provider: [**Last Name (NamePattern4) **]. [**Last Name (STitle) **]/DR. [**Last Name (STitle) **] Phone:[**Telephone/Fax (1) 1222**] 
+Date/Time:[**3458-4-22**] 12:00
+Provider: [**Name10 (NameIs) 1221**] BREATHING TESTS Phone:[**Telephone/Fax (1) 1222**] 
+Date/Time:[**3458-4-22**] 11:40
+
+ 
+                             [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **] MD [**MD Number 1191**]
+ 
+Completed by: [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **] MD [**MD Number 1191**] [**3458-1-27**] @ 1730
+Signed electronically by: DR. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **]
+ on: WED [**3458-1-27**] 5:30 PM
+(End of Report)
+
+
+",,
+24266,17703,30143,0,3458-01-15 03:21:00 EST,3458-01-15 04:00:00 EST,313,"N",69,"Nursing/Other","micu nsg admit note.","
+micu nsg admit note.
+85 yo male admitted to micu from pacu s/p r thr/acetabular graph fpr compete avn w degradation of femoral head & large circulatory defect of the acetabulum. micu admission due to persistant hypotension & agitation.
+
+pmh:extensive. copd w marked obstructive vent defect on home o2. old hip fx s/p hardware removal due to [**Hospital 4385**] rehab for improved ambulation. early dementia-lives w wife (?supports). [**Doctor First Name **]. aaa. cad. ca-colon/tongue.
+
+allergies:nkda.
+
+social:distant smoker quit 15yrs ago. lives @ home w wife-daughter [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **] spokesperson (h) [**Telephone/Fax (1) 4386**] & (c) [**Telephone/Fax (1) 4387**].
+
+present hx:admitted [**1-14**] for r thr/acetabular graph for complete avn w degradation of femoral head & large circulatory defect of acetabulum. post surgery to pacu. pacu-extubated. restless/agitated requiring haldol/morphine. hypotensive requiring fl & tx w total 2urbc for sbp 80's & hct 26. admitted to micu for persistant hypotension & restlessness/agitation.
+
+o:neuro=responsive. appropriate @ x's. restless/agitated requiring soft restraints to upper extrem. not following simple commands. not aware of surroundings or of events.
+  pulm=o2 3l nc w sats mid/upper 90's. breath sounds=deminished throughout. wo s/s sob/dyspnea.
+  cv=initially hypotensive w sbp upper 80's-bolused w 500ml ns & placed on maint ivf-lr @ 75ml/hr. subsequent sbp >90 & upper 100's w agitation. rhythm-sr to st w occasional pvc's. 
+  gi=taking sips cl liq.
+  gu=foley. borderline uo despite fl bolus.
+  id=afebrile. abx-vanco & azithromycin ordered post op. 
+  heme=tx w 2urbc prior to adm to micu for hct-26.
+  misc=r hip dsg d&i. hemovac draining serosang. dt/pt pulses 1+. c/p r hip discomfort-med w mso4 w limited effect.
+  labs=am sent.
+  
+a:85 yo male s/p r thr c/b hypotension & agitation.
+
+p:contin present managment. support pt/family as indicated. 
+",,
+24266,17703,30143,0,3458-01-15 18:33:00 EST,3458-01-15 18:35:00 EST,712,"N",69,"Nursing/Other",,"
+
+RESPIRATORY CARE: PT GIVEN ALBUTEROL/ ATROVENT SVN TX
+GIVEN. BS DECREASED W/OUT WHEEZE. NO CHANGE AFTER TX.
+NPC. WILL FOLLOW Q6.
+",,
+24266,17703,30143,0,3458-01-15 18:38:00 EST,3458-01-15 18:51:00 EST,379,"N",69,"Nursing/Other","MICU EAST NPN","
+MICU EAST NPN
+0700-1900
+
+Please see flowsheet for further details..
+
+Remains confused w/ intermittent periods of restlessness. C/O pain when moved. Able to swallow but often refusing meds. Somnulent after MSO4. Given po tylenol in jello x1 for pain. Meds changed to IV for now. 
+
+Troponin level 0.13. HR climbing throughout day despite IVBs x1L. Started on IV metoprolol q6hrs. No c/o CP. Hct 24.6 from 26 after 1uPRBCs (as well as >1L IVFs). No noted bleeding. Team aware.
+
+uo ~ 50cc/hr. Currently ~2700 cc + since midnight. On bicarb gtt at 100cc/hr x1L. No stool.
+
+T max 100.4 though he missed am dose of PO azithromycin. NOw changed to IV.
+
+Wrist restraints on for pt safety. Family aware. Wife, dgt and son-in-law visited this afternoon.
+",,
+24266,17703,30143,0,3458-01-16 03:42:00 EST,3458-01-16 03:44:00 EST,7780,"N",69,"Nursing/Other","Respiratory Care","
+Respiratory Care
+Pt seen Q6 for alb/atr adm via SVN.  Tol well with no appreciable change in BS, diminished T/O pre and post treatment. Fair to poor cough nonproductive,
+",,
+24266,17703,30143,0,3458-01-16 04:00:00 EST,3458-01-16 04:11:00 EST,5273,"N",69,"Nursing/Other",,"
+
+Nursing Note: pt S/P total hip replacement w/ dementia and agitation.
+
+Neuro: pt remains confused and disorited to time, person, and place. restless w/ occasional periods of agitation, medicated with haldol and morphine prn, minimal effect noted, alert most of night, pt attempting to pull at IV's and foley, wrist restraints applied.
+
+CV: HR 90-115 SR-ST no ectopy, afebrile, SBP 90-125 via [**Last Name (LF) 1493**], [**First Name3 (LF) 737**] not corralating and D/C'd overnight, increase in CK and Troponin, MD aware, EKG done, no new EKG changes, 5mg IV lopressor given, transfused w/ one unit PRBC's overnight for low HCT, generalized edema, pos distal pulses. ? CHF and fluid overload.
+
+Resp: sats 92-96 on 3L NC, lungs diminsihed bilaterally, no cough, resp tx given by RRT.
+
+GI: pos bowel sounds, refused jello overnight, no BM.
+
+GU: UO 30-60cc/hr clear yellow urine.
+
+IV: 18g PIV L FA, 20g PIV R FA, left radial aline D/C'd.
+
+Family: daughter called at home by MD [**First Name (Titles) **] [**Last Name (Titles) 460**] consent overnight, general update given, witnessed by RN.
+
+Plan: cont to monitor neuro status, monitor vitals and resp status, monitor for fluid overload, monitor cardiac enzymes and HCT, assessment ongoing.
+
+
+",,
+24266,17703,30143,0,3458-01-16 18:13:00 EST,3458-01-16 18:33:00 EST,8179,"N",69,"Nursing/Other",,"
+
+Neuro: alert, dementia patient oriented x 1 ( name ); has baseline of no short term memory. asking repetitive questions, wanted to get out of bed to go to bathroom. more agitated in am, pulling out foley catheter, unrobing. medicated with haldol x 1 for agitation with minimal effect. Received morphine 2 mg x 1 for incisional pain ( s/p RTH arthroplasty. more pain during turning and touch. Haldol and Morphine dc'd today, on oxycodone and tylenol for pain management.
+
+CV: SBP stable high 90-low 130's, NSR-ST most of the shift, patient had bundle branch block after getting out of bed to chair for almost 1 hr.. denies chest pain. appears tired, sleeping in chair. EKG done x 2, team aware of change in rhythm. Patient rhythm back to NSR when he was on bed. CPK and troponin trending up. Rpt labs @ 2100
+
+Respi: patient non-cooperative with deep breathing, lung sounds dim, episodes of I/E wheeze and crackles. on albuterol and atrovent inhalation, intermittently compliant. Sat's > 95% most of the time. denies SOB
+
+GI/GU: refusing to take anything by mouth this am, started to take jello late afternoon. took his PO tylenol, abdomen soft and non-tender. + bowel movement, golden yellow semi-formed. diet advance as tolerated. 5L positive for LOS, urine output ~ 30cc/hr, no urine output @ 1800 team aware that FC wasn't dc'd due to no urine. 
+
+Heme: receiving 1 unit PRBC for low hct level.
+
+Social: daughter and wife in to visit, updated with plan of care and patient's status.
+
+ID: on vancomycin and azithromycin IV T max - 98.7
+
+
+",,
+24266,17703,30143,0,3458-01-16 18:42:00 EST,3458-01-16 18:50:00 EST,8179,"N",69,"Nursing/Other",,"
+
+plan: 
+
+reorient patient to improve mentation, FC was dc'd for hasten improvement from delirium per geriatric consult. 
+
+encourage fluid intake, patient refusing to drink / eat today
+
+monitor hemodynamic status, rhythm change. check for urine output due to void within 8hrs post FC was dc'd.
+
+continue antibiotic for ? infection. surgical incision site + large amount of serosanguious drainage.
+
+
+
+
+",,
+24266,17703,30143,0,3458-01-17 01:31:00 EST,3458-01-17 01:34:00 EST,5273,"N",69,"Nursing/Other",,"
+
+Nursing Note:
+
+pt continuing agitation and restlessness during shift, continuously attempting to use urinal after voiding, repeating self frequently, disoriented to time and place, noted to be pointing and asking for non-existent things in room.  HR increased up to 130's ST when agitated, notified MD, administered 1 mg haldol IV, pt calm and sleeping at present, assessment ongoing.
+",,
+24266,17703,30143,0,3458-01-17 02:55:00 EST,3458-01-17 03:14:00 EST,5273,"N",69,"Nursing/Other",,"
+
+Nursing Note:
+
+Neuro: pt AAOx1 (name), continuing delerium and restlessness following total of 2mg IV haldol.  pt obsessing about using urinal, repeating self. unable to remember instructions or explanations, continuously calling out for RN and other staff, C/O pain in r leg at 0200, medicated w/ PO oxycodone. moving extremities well. aricept PO started for dementia.
+
+Resp: sats 95-100 on 3L NC, lungs clear and diminished. audible exp. wheezes heard during periods of agiation, resp tx effective, CXR done earlier in shift, no cough.
+
+CV: HR 80-90's when calm and resting, 100-130's when agitated, sinus rhythm-tachy with PAC's and occ PVC's, BBB noted.  BP stable 120-140 systolic. afebrile, received 1 unit PRBC's overnight for HCT goal of >30 r/t ?cardiac ischemia, 10mg IV lopressor given at 2000, switched to PO dose. generalized edema, warm extremities, pos distal pulses. SCDs on legs.
+
+GU: pt voiding clear yellow 100cc-200cc/void, 20mg lasix IV given overnight, using urinal but incontinent at times.
+
+GI: abd firm and non tender, pos bowel sounds, BM x2, golden-brown formed, administered pts PO meds earlier in shift, took with jello and H2O, swallowing well.
+
+Skin: DSG changed on incision on r thigh, lg amt serosanguanous drainage noted with each dsg change, wound stapled and well approx, wound cleansed with NS and DSD applied. no additional skin breakdown noted.
+
+IV: PIV L FA and R FA, sites intact, WNL.
+
+LAB: K, Ca, and Phos replaced per labs, following HCT and cardiac enzymes. 2nd set of blood cultures sent at 2000.
+
+Social: no phone calls or visits from family overnight.
+
+Plan: continue to monitor mental status and pain level and medicate as appropriate, cont to monitor vitals, resp status, and labs. assessment ongoing.
+
+
+
+
+",,

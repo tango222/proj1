@@ -1,0 +1,993 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+24110,,,,3015-07-13 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3015-7-13**] 8:46 AM
+     CHEST (PA & LAT)                                                Clip # [**Clip Number (Radiology) 15645**]
+     Reason: follow up right thoracotomy
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+          80 year old woman with RULobectomy   s/p pleural tap                       
+     REASON FOR THIS EXAMINATION:
+      follow up right thoracotomy
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     AP CHEST, 8:50 A.M. ON [**7-13**].
+     
+     HISTORY:  Right upper lobectomy.
+     
+     IMPRESSION:  PA and lateral chest compared to chest radiograph since [**6-15**], most recently [**6-26**]:
+     
+     Small-to-moderate bilateral pleural effusions are longstanding, with a
+     fissural component on the right.  The lungs are grossly clear.  The heart is
+     normal size.  No pneumothorax.
+
+",,
+24110,22854,,,3015-08-06 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+ 
+ 
+ 
+Admission Date:  [**3015-8-6**]              Discharge Date:   [**3015-8-13**]
+ 
+Date of Birth:  [**2934-10-1**]             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Penicillins
+ 
+Attending:[**First Name3 (LF) 536**] 
+Chief Complaint:
+dyspnea
+ 
+Major Surgical or Invasive Procedure:
+none
+ 
+History of Present Illness:
+HPI: 80 yo lady w/ h/o NHL dx'd 1998 tx w/ CHOP and rituximab, 
+remote breast ca, and recent RUL resection ([**5-23**]) for spiculated 
+lung mass (path c/w NHL recurrence), presents to ED w/ acute 
+worsening sob over last 24 hrs and subacute worsening over last 
+week. This is in the setting of stopping her daily lasix because 
+""I feel sick when I am on it.""  There was some confusion on her 
+part about whether to take her potassium, lasix, or both, as she 
+was seen in ED last week for hypokalemia and has not been sure 
+what to take since that visit. At that time, she was given K 
+repletion and sent home. She has been taking lasix 
+intermittently since last week, last dose today. Patient denies 
+fevers/chills/malaise/abd complaints. She sleeps in seated 
+position secondary to ""inner [**Last Name **] problem,"" but denies orthopnea. 
+She denies pedal edema or weight gain. Appetite has been good, 
+per her report. She was discharged with home oxygen in July, but 
+has not been using it until this past week. Cannot quantify how 
+far she can walk w/o fatigue. Denies palpitations, chest 
+discomfort. Of note, patient notes hoarse voice since her 
+extubation from her RUL resection.
+.
+On presentation, T 95.9, BP 160/100; HR 100; sat 83% RA. NRB 
+placed with sats to 100%.  Foley inserted, Lasix 20 mg IV given 
+w/ 2 L UOP and improvement of sats to 100% 3L NC. Also given 
+ceftriaxone 1 g IV and levoflox 500 mg IV x 1 for concern of 
+pna. Pulmonary consult obtained and patient admitted to the 
+FICU.
+.
+
+ 
+Past Medical History:
+Non- hodkins lymphoma s/p chemotherapy, Left breast cancer s/p 
+mastectomy, now with Right upper lobe lung mass.
+PMH:
+-admit [**Date range (1) 4644**] to CT surgery service for RUL resection 
+([**5-30**]) for enlarging, spiculated mass. Post-op course c/b afib 
+w/ RVR with amiodarone load, anticoagulation initiation; course 
+also c/b mild ileus and E. coli UTI. Also had bilateral 
+effusions post op, both tapped on [**6-15**] (1300 cc off right, 900 
+cc off left, both with negative cytology, ?transdutes but no 
+serum protein/LDH sent; pleural fluid LDH 140, 207; TP 3.3/3.7; 
+glucose 143, diff wbc 500 rbc 4700 7% bands, 21%lymphs, 14% 
+mesothelial; 55% macrophages). Lung biopsy consistent w/ CD10 
+positive B-cell lymphoproliferative disorder
+- h/o NHL s/p CHOP and rituximab 1998-2001, followed by Dr [**Last Name (STitle) 2267**]
+- remote Left breast Ca [**2983**] s/p mastectomy and no chemo
+- GERD
+- HTN
+- anxiety
+- benign thyroid nodule
+- h/o BPV
+- admit [**5-22**] w/ LE cellulitis
+- echo [**5-23**]: (LVEF> 55%); ascending aorta is mildly dilated. 
+Trace aortic regurgitation; Mild to moderate ([**11-20**]+) mitral 
+regurgitation Moderate [2+] tricuspid regurgitation is seen. 
+There is moderate pulmonary artery systolic hypertension.
+
+ 
+Social History:
+social: lifetime nonsmoker; occasional drinker but not daily; 
+lives w/ 85 year old brother, who is also ill. They have VNA 
+2x/week and homemakers daily. Was supposed to get home PT but 
+patient keeps ""getting ill"" when she is to have therapy. Has 
+nephew, Mark, who lives in [**Location 439**]: [**Telephone/Fax (1) 4645**]. Has her 
+medications delivered by local Stop and Shop.
+
+ 
+Family History:
+fam hx: various family members with cancer-- she is not sure of 
+all of their diagnoses, but thinks her aunt had gastric cancer, 
+one brother had prostate and bladder cancer, another brother had 
+throat cancer; father died of sudden MI at age 56; brother died 
+suddenly at age 67 of ?MI.
+
+ 
+Physical Exam:
+PE:  T  97.4   BP 131/59   P  91    R  20  93-95% 2L NC
+GEN: comfortable, hoarse, elderly lady, with make up on, not 
+able to speak in full sentences
+HEENT: hoarse, MM dry, NC in place, OP clear
+NECK: JVP at clavicle, supple, No lad
+CV: RRR, ?slight tachy; no m/r/g but quiet heart sounds- mostly 
+audible on right side of chest
+CHEST/back: Left mastectomy; well healed scar over RUL 
+posteriorly, decreased breath sounds w/ dullness to percussion 
+over left base [**12-22**] way up and right base [**11-20**] way up. No crackles 
+or egophany. Upper fields clear. No wheeze. No rales
+ABD: distented, soft, tympanitic to percussion, minimal HSM
+EXTRM: chronic venous stasis changes bilaterally with cracked, 
+scaling, erythematous skin on dorsal aspect of BLE up to 
+mid-shin, 1+ DP pulses bilaterally. Strong radial pulses 
+bilaterally, regular. Skin is warm with slight cooling in lower 
+extremities; minimal peripheral edema
+NODES: 2x2 cm, mobile node in left axilla; no LAD in clavicular, 
+para-aortic, or inguinal nodes.
+NEURO: vague historian but clear, alert and oriented to place/ 
+self/ time; follows all commands well, moves all extrm well; no 
+visible cranial nerve defects
+
+ 
+Pertinent Results:
+IMAGING: 
+[**3015-8-6**]
+BILATERAL DECUBITUS VIEWS OF THE CHEST: The pleural effusions 
+appear to be layering, with the right larger than left. 
+Underlying infiltrates, particularly in the right are also 
+possible. Followup is recommended.
+.
+[**3015-8-7**]
+CHEST X-RAY AP PORTABLE VIEW.
+COMPARISON: Decubitus film of [**3015-8-6**].
+FINDINGS: There is a moderate-to-severe right-sided pleural 
+effusion and a small left pleural effusion. The heart size is 
+normal. There is no other interval change.
+IMPRESSION: A moderate-to-large right pleural effusion and small 
+left pleural effusion
+.
+[**3015-8-8**]
+Comparison is made to the prior examination of [**3015-8-7**].
+FINDINGS: Heart is partially obscured, but unchanged and likely 
+of normal size. There are bilateral pleural effusions, large on 
+the right and moderate on the left, unchanged. No pneumothorax 
+identified. Bibasilar atelectasis persists.
+IMPRESSION: No change from previous exam
+.
+[**3015-8-9**]
+IMPRESSION: PA and lateral chest compared to [**8-8**]:
+Bilateral pleural effusions, moderate to large on the right and 
+moderate on the left, has increased in volume. There is new 
+atelectasis or conceivably consolidation in the lateral aspect 
+of the right mid lung, which should be reassessed following 
+decrease in pleural fluid. Mediastinum remains shifted slightly 
+to the right. Heart size is obscured by pleural effusion, but 
+has not changed in the interim. There is no pneumothorax.
+.
+[**3015-8-11**]
+History of right upper lobectomy and shortness of breath.
+
+There is loss of volume on the right with elevation of the right 
+hemidiaphragm and shift of heart and mediastinum to the right. 
+There are bilateral pleural effusions. The ill-defined right mid 
+zone opacity noted on the prior film of [**3015-8-9**], has 
+partially resolved. There is persistent ill-defined opacity at 
+the right lung base. In addition, there is ill-defined opacity 
+in the left lower zone that is either new or was partly hidden 
+by the left pleural effusion on the prior film. No definite 
+pneumothorax.
+IMPRESSION: Bilateral pleural effusions and bibasilar pulmonary 
+opacities consistent with atelectases/consolidation. No 
+pneumothorax. Partial resolution of the right mid zone opacity.
+.
+[**3015-8-12**]
+LEFT LATERAL DECUBITUS CHEST: A small pleural effusion is seen, 
+loculated, on the right. Right lateral decubitus films show no 
+evidence of nondependent air, i.e., no findings to suggest 
+pneumothorax. Otherwise, findings are not significantly changed 
+since the examination of 12:15 of the same day.
+.
+EKG: sinus vs sinus arrythmia, tachy, rate 104; nl axis; no LVH, 
+nl qwaves or ischemic changes
+.
+LABS:
+
+[**3015-8-6**] 09:05AM BLOOD WBC-14.9* RBC-3.37* Hgb-10.2* Hct-32.2* 
+MCV-96 MCH-30.3 MCHC-31.7 RDW-15.5 Plt Ct-343
+[**3015-8-6**] 09:05AM BLOOD Neuts-88.5* Lymphs-8.7* Monos-2.1 Eos-0.6 
+Baso-0.1
+[**3015-8-6**] 09:05AM BLOOD PT-15.0* PTT-30.3 INR(PT)-1.5
+[**3015-8-6**] 09:05AM BLOOD Glucose-107* UreaN-9 Creat-0.7 Na-145 
+K-3.7 Cl-104 HCO3-28 AnGap-17
+[**3015-8-6**] 09:05AM BLOOD CK(CPK)-56
+[**3015-8-6**] 09:05AM BLOOD Calcium-9.5 Phos-3.3 Mg-1.4*
+
+.
+[**3015-8-7**] 07:18AM BLOOD WBC-14.0* RBC-3.27* Hgb-10.0* Hct-30.4* 
+MCV-93 MCH-30.5 MCHC-32.9 RDW-15.4 Plt Ct-335
+[**3015-8-7**] 07:18AM BLOOD PT-16.8* PTT-35.6* INR(PT)-2.0
+[**3015-8-7**] 07:18AM BLOOD Glucose-106* UreaN-7 Creat-0.7 Na-145 
+K-3.3 Cl-102 HCO3-34* AnGap-12
+
+.
+[**3015-8-8**] 06:33AM BLOOD WBC-15.7* RBC-3.67* Hgb-11.2* Hct-34.7* 
+MCV-95 MCH-30.6 MCHC-32.3 RDW-15.4 Plt Ct-356
+[**3015-8-8**] 06:33AM BLOOD Neuts-82.8* Lymphs-11.8* Monos-3.5 
+Eos-1.6 Baso-0.2
+[**3015-8-8**] 06:33AM BLOOD PT-17.7* PTT-47.8* INR(PT)-2.2
+[**3015-8-8**] 06:33AM BLOOD Glucose-113* UreaN-7 Creat-0.6 Na-145 
+K-3.5 Cl-102 HCO3-34* AnGap-13
+[**3015-8-8**] 06:33AM BLOOD Calcium-9.1 Phos-2.9 Mg-1.8
+
+.
+[**3015-8-9**] 07:20AM BLOOD WBC-13.6* RBC-3.53* Hgb-10.6* Hct-32.4* 
+MCV-92 MCH-29.9 MCHC-32.6 RDW-14.9 Plt Ct-336
+[**3015-8-9**] 07:20AM BLOOD PT-19.7* PTT-37.1* INR(PT)-2.7
+[**3015-8-9**] 07:20AM BLOOD Glucose-97 UreaN-7 Creat-0.7 Na-145 
+K-3.0* Cl-100 HCO3-37* AnGap-11
+
+.
+[**3015-8-10**] 07:30AM BLOOD WBC-13.9* RBC-3.37* Hgb-10.2* Hct-31.8* 
+MCV-95 MCH-30.3 MCHC-32.1 RDW-15.1 Plt Ct-325
+[**3015-8-10**] 07:30AM BLOOD PT-22.0* PTT-39.5* INR(PT)-3.5
+[**3015-8-10**] 07:30AM BLOOD Glucose-94 UreaN-7 Creat-0.7 Na-143 K-3.3 
+Cl-103 HCO3-30 AnGap-13
+[**3015-8-10**] 07:30AM BLOOD Calcium-8.3* Phos-2.5* Mg-2.2
+
+.
+[**3015-8-11**] 06:35AM BLOOD WBC-17.0* RBC-3.38* Hgb-10.1* Hct-31.6* 
+MCV-93 MCH-29.7 MCHC-31.8 RDW-14.6 Plt Ct-330
+[**3015-8-11**] 06:35AM BLOOD PT-12.4 PTT-29.2 INR(PT)-1.0
+[**3015-8-11**] 06:35AM BLOOD Glucose-101 UreaN-9 Creat-0.6 Na-141 
+K-3.5 Cl-106 HCO3-27 AnGap-12
+[**3015-8-11**] 06:35AM BLOOD LD(LDH)-213
+
+.
+[**3015-8-12**] 06:50AM BLOOD WBC-19.8* RBC-3.36* Hgb-10.1* Hct-32.5* 
+MCV-97 MCH-30.1 MCHC-31.1 RDW-15.0 Plt Ct-298
+[**3015-8-12**] 06:50AM BLOOD PT-13.3 PTT-28.9 INR(PT)-1.2
+[**3015-8-12**] 06:50AM BLOOD Glucose-107* UreaN-12 Creat-0.8 Na-140 
+K-3.5 Cl-104 HCO3-25 AnGap-15
+[**3015-8-12**] 06:50AM BLOOD Calcium-8.8 Phos-2.8 Mg-1.7
+.
+[**3015-8-13**] 07:50AM BLOOD WBC-23.5* RBC-3.47* Hgb-10.5* Hct-32.5* 
+MCV-94 MCH-30.2 MCHC-32.3 RDW-14.5 Plt Ct-310
+.
+
+ 
+Brief Hospital Course:
+A/P: 80 yo lady w/ remote br ca, NHL w/ lung recurrence and s/p 
+RUL lobectomy, here w/ shortness of breath; re-accumulation of 
+pleural effusions.
+.
+1. dyspnea: likely [**12-21**] growing effusions in setting of erratic 
+lasix dosing. Likely transudative on last admission's tap, but 
+full chemistries not sent, so it remains unclear. Has good EF 
+but MR [**First Name (Titles) **] [**Last Name (Titles) **], which likely contribute to her fluid overload. 
+Patient was afebrile during the admission and did not need to be 
+on antibiotics. Cytology negative on previous tap. Breathing 
+markedly improved after IV diuresis and continued on PO diuresis 
+post ICU. The pleural effusions were serially monitored on CXR. 
+On HOD#6, patient had bilateral thoracenteses of her pleural 
+effusions (after reducing her INR with 5mg vit K). FLuid 
+analysis (LDH ration 0.6) was interpreted as borderline 
+exudative effusions. Patient had a questionable pneumothorax - 
+very small in RLL. She was monitored overnight and was not in 
+any respiratory distress. On HOD#7, she was comfortable on room 
+air and breath. Repeat CXR could not rule out a loculated 
+pneumothorax - hence a lateral decubitus film was sent which 
+showed:A small pleural effusion is seen, loculated, on the 
+right. Right lateral decubitus films show no evidence of 
+nondependent air, i.e., no findings to suggest pneumothorax. 
+Otherwise, findings are not significantly changed since the 
+examination of 12:15 of the same day.
+.
+2. NHL: known recurrence in right lung. Followed by Dr [**Last Name (STitle) 2267**]. 
+Candidate for more CHOP?. Performance status [**12-22**] so may need 
+more rehab before this is possible. Last rec'd chop several 
+years ago (w/ rituximab). Patient's WBC count began to rise in 
+July from 7->14. And on D/c, wbc count was also rising from 
+13.9->17->19->23. 
+.
+3. AF: on coumadin, dilt, amiodarone as outpatient. These meds 
+were continued. currently back in sinus arrythmia with stable BP 
+ alternates between afib and sinus arrhythmia. INR was reversed 
+for thoracentesis; restarted on coumadin 2.5mg qhs afterwards. 
+Also on Dilt 90mg po qid and continued amiodarone 200qd 
+.
+4. Voice hoarseness: due to past ET tube placement during the 
+surgery in [**3015-5-19**].  Consider ENT appt as outpt to eval
+.
+4. HTN: continue lisinopril 10 qd. Patient also was being 
+diuresed. BP well controlled throughout hospitalization.
+.
+5. BPV: on meclizine at home. Kept her on low dose here. 
+.
+6. FEN: replete K, Mg now. Watch lytes in setting of diuresis. 
+Heart healthy/ low sodium diet. Careful I/O and daily weights. 
+Check albumin.
+.
+7. communication: patient; brother is next of [**Doctor First Name **]: [**First Name8 (NamePattern2) 4646**] 
+[**Last Name (NamePattern1) 1815**]; Mark is her nephew in [**Name2 (NI) 439**] [**Telephone/Fax (1) 4647**]
+.
+8. code: full, discussed with patient. Patient kept insisting 
+that she could not bear to be hoarse again, but I believe she 
+still intends to be intubated, if necessary
+.
+9. access: peripheral IV's
+.
+10. ppx: heparin sc until INR >2. Protonix; encourage ambulation 
+as she is able. Will get PT to see patient.
+.
+dispo: likely to floor soon, tele bed.; consider thoracentesis 
+as above; may need placement or more home services. Social work 
+consult to help with this as well, since the patient's ability 
+to live at home may be limited.  She lives with 84 year old 
+brother who [**Name2 (NI) 4648**] is sick.  Patient was c/o'ed to the floor to 
+the East Wards teams
+
+----------
+Important phone no. [**Telephone/Fax (1) 4649**] Home #, also brother's no.
+Proxy: Mark (nephew) [**Telephone/Fax (1) 4650**]
+Pharmacy (stop&shop)[**Location (un) 3330**], ma: [**Telephone/Fax (1) 4651**].
+
+ 
+Medications on Admission:
+ON admission?? Obtained from last d/c summary. She is unsure of 
+her doses; she gave us her pharmacy number at Stop and Shop ([**Telephone/Fax (1) 4652**]) but they are closed today:
+lasix 20 mg qd
+meclizine 25 mg tid
+diltiazem 30 mg qid
+protonix 40 mg qd
+lisinopril ? dose
+amiodarone ""I take one a day""
+coumadin ""I take 1/2 per day""
+home oxygen - as needed since last discharge
+
+ 
+Discharge Medications:
+1. Meclizine 12.5 mg Tablet Sig: Two (2) Tablet PO TID (3 times 
+a day).
+Disp:*90 Tablet(s)* Refills:*2*
+2. Pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One 
+(1) Tablet, Delayed Release (E.C.) PO Q24H (every 24 hours).
+Disp:*30 Tablet, Delayed Release (E.C.)(s)* Refills:*2*
+3. Amiodarone 200 mg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).
+Disp:*35 Tablet(s)* Refills:*2*
+4. Warfarin 2.5 mg Tablet Sig: One (1) Tablet PO HS (at 
+bedtime).
+Disp:*35 Tablet(s)* Refills:*2*
+5. DILT-XR 180 mg Capsule,Degradable Cnt Release Sig: Two (2) 
+Capsule,Degradable Cnt Release PO once a day.
+Disp:*60 Capsule,Degradable Cnt Release(s)* Refills:*2*
+6. Lisinopril 10 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+7. Furosemide 40 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Disp:*35 Tablet(s)* Refills:*2*
+8. home oxygen 2 liters nasal cannula at rest, 3-4 liters with 
+exercise, keep o2 sats>93%
+9. Levofloxacin 250 q24 (started [**3015-8-11**])
+
+ 
+Discharge Disposition:
+Home with Service
+ 
+Discharge Diagnosis:
+Non hodkins lymphoma
+atrial fibrillation
+right pleural effusion
+
+ 
+Discharge Condition:
+stable
+
+ 
+Discharge Instructions:
+Please come to the ED if [**Doctor First Name **] have any shortness of breath or 
+chest pain.  
+ 
+Followup Instructions:
+Please go to your scheduled CT scan
+Provider: [**Name10 (NameIs) **] SCAN Where: [**Hospital6 53**] RADIOLOGY 
+Phone:[**Telephone/Fax (1) 1314**] Date/Time:[**3015-10-2**] 10:00
+
+Please f/u with Dr. [**Last Name (STitle) 2267**] as listed below
+Provider: [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern1) 4653**], MD [**MD Number 52**]: [**Hospital6 53**] 
+HEMATOLOGY/ONCOLOGY Phone:[**Telephone/Fax (1) 54**] Date/Time:[**3015-10-11**] 10:00
+
+F/u with oncology on [**3015-9-14**]
+Provider: [**Name10 (NameIs) **],[**First Name3 (LF) **] MULTISPECIALTY MULTI-SPECIALTY 
+THORACIC UNIT-CC9 Where: CLINICAL CTR. - 9TH FL. 
+HEMATOLOGY/ONCOLOGY Date/Time:[**3015-9-14**] 11:00
+
+ 
+                             [**First Name11 (Name Pattern1) 15**] [**Last Name (NamePattern1) 16**] MD [**MD Number 17**]
+ 
+Completed by: [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) 1940**] MD [**Last Name (un) 1941**] [**3015-8-24**] @ 1144
+Signed electronically by: DR. [**First Name (STitle) 15**] [**Doctor Last Name **]
+ on: FRI [**3015-9-1**] 6:33 PM
+(End of Report)
+
+
+",,
+24110,22854,,,3015-08-06 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3015-8-6**] 9:11 AM
+     CHEST (LAT DECUB ONLY)                                          Clip # [**Clip Number (Radiology) 15647**]
+     Reason: eval for acute process with lat views                       
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+           80 year old woman with RULobectomy   s/p pleural tap  now acutely dyspnic 
+      with CHF vs effusion                      
+     REASON FOR THIS EXAMINATION:
+      eval for acute process with lat views                                           
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Status post pleuracentesis, right upper lobectomy, dyspnea.
+     
+     BILATERAL DECUBITUS VIEWS OF THE CHEST:  The pleural effusions appear to be
+     layering, with the right larger than left.  Underlying infiltrates,
+     particularly in the right are also possible.  Followup is recommended.
+                                                                           
+
+",,
+24110,22854,,,3015-08-06 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3015-8-6**] 8:19 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 15646**]
+     Reason: eval for acute process                                      
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+            80 year old woman s/p RUL lobectomy now s/p thoracentesis now acutely SOB 
+                      
+     REASON FOR THIS EXAMINATION:
+      eval for acute process                                                          
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Right upper lobe lobectomy, status post thoracentesis, acute
+     shortness of breath.
+     
+     CHEST, ONE VIEW:  Comparison with [**3015-7-13**].  There are moderate
+     bilateral pleural effusions, right greater than left.  The cardiac contour
+     cannot be evaluated.  There is atelectasis in the right mid lung zone and
+     volume loss of the right lung.
+     No definite pneumothorax is visualized.  There appears to be an ill-defined
+     opacity in the right paratracheal region, but this is difficult to evaluate
+     due to the underlying effusion.  Followup is recommended.
+
+",,
+24110,22854,29944,0,3015-08-06 15:54:00 EST,3015-08-06 16:07:00 EST,977,"N",69,"Nursing/Other","MICU ADMIT NOTE","
+MICU ADMIT NOTE
+80 Y/O WOMEN ADMITTED TO MICU FROM ER WITH DX. OF PLEURAL EFFUSIONS, PT. CAME TO ER TODAY DUE TO INCREASED SOB. PMH INCLUDES NON-HODGKINS LYMPHOMA, BREAST CA, LEFT MASTECTOMY AND THORACOTOMY LAST MONTH FOR RIGTH UPPER LOBE MASS. SEE FHP FOR MORE FURTHER INFO.
+
+NEURO: ALERT AND ORIENTATED X3.
+
+RESP: IS NOW IN O2 AT 2L N/C SATS ARE 95-98%, WHEN SHE ARRIVED IN ER SAT WAS 83% ON ROOM AIR WAS PLACED IN NON-REBREATHER AT 100% AND GIVEN 40MG OF IV LASIX, PT. DUIRESED 2000CC OF URINE AND THEN WAS PLACED IN N/C.  PT. TO RECEIVED MORE LASIX.
+
+CV: BP AND HR ATBLE SEE CAREVUE FOR DETAILS, IS ON NUMEROUS CARDIAC MEDS.
+
+GI: NA+ DIET, ABD. SOFR BS PRESENT.
+
+GU: FOLEY IN PLACE DRAINING CLEAR YELLOW URINE.
+
+SOCIAL: PT.  LIVES AT HOME ALONE WITH HER BROTHER, PT. SHOULD HAVE A SOCIAL SERVICE CONSULT WHILE HERE UNSURE OF HOW WELL IS ABLE TO VARE FOR HERSELF AND HER BROTHER.
+
+PLAN: CONTINUE TO DUIRESE PT. WITH LASIX, REPLEATE LYTES, ? TAP OF EFFISION TOMORROW IF CXR IS NOT IMPROVED. PT. IS VERY STABLE AND MAY BE ABLE TO BE CALLED OUT TO MEDICAL FLOOR IN AM.
+",,
+24110,22854,29944,0,3015-08-06 16:28:00 EST,3015-08-06 16:29:00 EST,977,"N",69,"Nursing/Other","addendum","
+addendum
+PT. WAS TALKING ON THE TELEPHONE AROUN 1715 AND WENT INTO RAPID A-FIB WITH HR AS HIGH AS 150'S, EKG DONE AND 10MG OF IV DILT WAS PUSHED BY HOUSE STAFF.
+",,
+24110,22854,29944,,3015-08-07 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3015-8-7**] 9:59 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 15648**]
+     Reason: assess interval change                                      
+     Admitting Diagnosis: PULMONARY EFFUSION
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+             80 year old woman s/p RUL lobectomy now acutely SOB - improved w/ 
+      diuresis. re-assess interval change please                
+     REASON FOR THIS EXAMINATION:
+      assess interval change                                                          
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  80-year-old woman status post right upper lobectomy now with
+     shortness of breath, to assess for interval change.
+     
+     CHEST X-RAY AP PORTABLE VIEW.
+     
+     COMPARISON:  Decubitus film of [**3015-8-6**].
+     
+     FINDINGS:  There is a moderate-to-severe right-sided pleural effusion and a
+     small left pleural effusion.  The heart size is normal.  There is no other
+     interval change.
+     
+     IMPRESSION:  A moderate-to-large right pleural effusion and small left pleural
+     effusion.
+                                                                           
+
+",,
+24110,22854,29944,0,3015-08-07 04:48:00 EST,3015-08-07 04:55:00 EST,43,"N",69,"Nursing/Other","S/MICU Nursing Progress Note","
+S/MICU Nursing Progress Note
+  Respiratory: pt cont on NC at 2liters, O2 sat have been 90-95%, BS clear upper with crackles at the bases bilaterally,right greater than left. base at the left this morning is more diminished. 
+  Cardiac: HR 70-80 NSR, with frequent APC's rare PVC, BP 120-140/70. pt had received a dose of lasix on evenings with good diuresis, this morning I&O not all that accurate as foley leaking... however BS are louder crackles on the right and diminished at the left. another 20mg of IV lasix will be given at 6am. 
+  Neuro: pleasan woman, follows commands, MAE, A&O x3, 
+  GI; taking po without difficulty. stool x 1 abd distended soft. +BS
+  GU: foley in place and leaking 4cc of NS added. 
+  Plan: diuresis, follow Chest Xray, ?of thoracentesis. will be able to medical floor today.
+
+",,
+24110,22854,29944,0,3015-08-07 14:11:00 EST,3015-08-07 14:34:00 EST,6155,"N",69,"Nursing/Other","NPN 0700-1500","
+NPN 0700-1500
+Neuro: Alert and Oriented x 3, pleasant, states ""I am bored,""  talkative, no c/o pain, able to feed self, moves all extremities in bed, SR up x 4 for safety.
+
+Resp: Lungs Clear to upper lobes bilat, crackles to bases bilat., no thoracentesis today, will continue to diurese.  O2 at 2L NC, RR 18-22, even and unlabored, no c/o SOB, O2 sats 93-95%.
+
+CV: HR 83-90's. Pt had x 2 episodes of Afib with HR up to 129, given Diltiazem 10mg IVP x 2 with good effect, at 1100 pt experienced x 3 episodes of approx. 3 sec. pauses resolving spontaneously with activity no changes in BP, HO notified, no new interventions. BP's 105-140's/50-60's. K 3.3 this am, repleted with 40mEQ KCL po.
+
+GI: Abd softly distended, BS (+), (+)flatus, no bm this shift, tolerating foods, ate approx. 90% of breakfast and lunch tray.
+
+GU: 14Fr. foley cath dc'd d/t leakage, inserted 16 FR. foley cath, inflated balloon with 6cc NS.
+
+Skin: 1cm/1cm tear to L buttock, no bldg. site cleansed with soap and H2o, open to air, pt turned q 2-4hrs.
+
+Social: Pt spoke with brother on the telephone.
+
+Plan: Continue to monitor VS, monitor HR and adm. Diltiazem po as ordered, obtain additional orders for uncontrolled HR>110 from MD, monitor UO., ? transfer to floor today.
+",,
+24110,22854,29944,,3015-08-08 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3015-8-8**] 9:34 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 15649**]
+     Reason: ?progress of effusions                                      
+     Admitting Diagnosis: PULMONARY EFFUSION
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+             80 year old woman s/p RUL lobectomy now SOB                              
+     REASON FOR THIS EXAMINATION:
+      ?progress of effusions                                                          
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     PROCEDURE:  AP portable chest.
+     
+     INDICATION:  Right upper lobe lobectomy, now short of breath.
+     
+     Comparison is made to the prior examination of [**3015-8-7**].
+     
+     FINDINGS:  Heart is partially obscured, but unchanged and likely of normal
+     size.  There are bilateral pleural effusions, large on the right and moderate
+     on the left, unchanged.  No pneumothorax identified.  Bibasilar atelectasis
+     persists.
+     
+     IMPRESSION:  No change from previous exam.
+
+",,
+24110,22854,29944,0,3015-08-08 04:00:00 EST,3015-08-08 04:12:00 EST,7314,"N",69,"Nursing/Other","NPN 1900-0700:","
+NPN 1900-0700:
+NEURO: PT IS ALERT ORIENTED X 3, CALM AND COOPERATIVE, C/O NO PAIN.
+
+RESP: ON O2 NASAL CANULA, BREATHING REGULARLY, RR 20-26, SPO2 89-96, COUGHING BUT NOT EXPECTORATING, WITH COARSE BREATH SOUNDS, .
+
+CV: SR HR 70-112, BP 108-120/67-89, WITH RT IV CANULA, RECEIVED LASIX, RESPONDED WELL.
+
+GI/GU: WITH SOFT DISTENDED ABDOMEN, ON HOUSE DIET, DRANK FLUIDS AND ASKED TO RUSH HER TABLETS. ABDOMINAL SOUNDS PRESENT, WITH FOLEY CATH DRAINED 30 400 ML (IN RESPONSE TO LASIX)LIGHT YELLOW CLEAR U/O. 
+
+INT: T MAX 97.2 WITH RED AND DRY FEET SECNDARY TO CELLULITIS.
+",,
+24110,22854,29944,0,3015-08-08 15:48:00 EST,3015-08-08 15:49:00 EST,761,"N",69,"Nursing/Other",,"
+
+Pt transfered to Medical floor..see transfer note:
+",,
+24110,22854,,,3015-08-09 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3015-8-9**] 11:19 AM
+     CHEST (PA & LAT)                                                Clip # [**Clip Number (Radiology) 15650**]
+     Reason: Follow pleural effusions                                    
+     Admitting Diagnosis: PULMONARY EFFUSION
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+              80 year old woman s/p RUL lobectomy now acutely SOB - improved w/  
+      diuresis. re-assess interval change please                
+     REASON FOR THIS EXAMINATION:
+      Follow pleural effusions                                                        
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     PA AND LATERAL CHEST [**8-9**]
+     
+     HISTORY:  Right upper lobectomy.  Acutely short of breath improved with
+     diuresis.
+     
+     IMPRESSION:  PA and lateral chest compared to [**8-8**]:
+     
+     Bilateral pleural effusions, moderate to large on the right and moderate on
+     the left, has increased in volume.  There is new atelectasis or conceivably
+     consolidation in the lateral aspect of the right mid lung, which should be
+     reassessed following decrease in pleural fluid.  Mediastinum remains shifted
+     slightly to the right.  Heart size is obscured by pleural effusion, but has
+     not changed in the interim.  There is no pneumothorax.
+                                                                           
+
+",,
+24110,22854,,,3015-08-11 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3015-8-11**] 1:55 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 15651**]
+     Reason: improved pleural effusions                                  
+     Admitting Diagnosis: PULMONARY EFFUSION
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+               80 year old woman s/p RUL lobectomy now acutely SOB - improved w/   
+      diuresis. re-assess interval change please                
+     REASON FOR THIS EXAMINATION:
+      improved pleural effusions                                                      
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CHEST, SINGLE AP FILM
+     
+     History of right upper lobectomy and shortness of breath.
+     
+     There is loss of volume on the right with elevation of the right hemidiaphragm
+     and shift of heart and mediastinum to the right.  There are bilateral pleural
+     effusions.  The ill-defined right mid zone opacity noted on the prior film of
+     [**3015-8-9**], has partially resolved.  There is persistent ill-defined
+     opacity at the right lung base.  In addition, there is ill-defined opacity in
+     the left lower zone that is either new or was partly hidden by the left
+     pleural effusion on the prior film.  No definite pneumothorax.
+     
+     IMPRESSION:  Bilateral pleural effusions and bibasilar pulmonary opacities
+     consistent with atelectases/consolidation.  No pneumothorax.  Partial
+     resolution of the right mid zone opacity.
+                                                                           
+
+",,
+24110,22854,,,3015-08-11 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3015-8-11**] 5:06 PM
+     CHEST (PORTABLE AP); -76 BY SAME PHYSICIAN                      [**Name Initial (PRE) 36**] # [**Clip Number (Radiology) 15652**]
+     Reason: R/o any acute pathology s/p pleural taps.                   
+     Admitting Diagnosis: PULMONARY EFFUSION
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+                80 year old woman s/p RUL lobectomy now acutely SOB - s/p pleural 
+      taps - bilateral.
+     REASON FOR THIS EXAMINATION:
+      R/o any acute pathology s/p pleural taps.                                       
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CHEST, SINGLE AP FILM
+     
+     History of right upper lobectomy with acute shortness of breath and bilateral
+     thoracentesis.
+     
+     Since the prior film of [**3015-8-11**], there has been a significant
+     reduction in the size of the right pleural effusion.  A curvilinear density
+     overlies the right lower hemithorax, probably not a localized pneumothorax,
+     but suggest reevaluate  on followup study.  There is atelectasis at the right
+     base.  There is persistent ill-defined opacity at the left lung base. The
+     previously noted small right upper lobe opacity has resolved.
+     
+     IMPRESSION:  Persistent left lower lobe opacity, unchanged.  Suggest followup
+     film to evaluate curvilinear density in right lower zone and rule out
+     localized pneumothorax as described.
+
+",,
+24110,22854,,,3015-08-12 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3015-8-12**] 11:49 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 15653**]
+     Reason: pna? pneumothorax?                                          
+     Admitting Diagnosis: PULMONARY EFFUSION
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+               80 year old woman s/p RUL lobectomy now acutely SOB - improved w/   
+      diuresis. s/p tap on both sides. re-assess interval change please               
+       
+     REASON FOR THIS EXAMINATION:
+      pna? pneumothorax?                                                              
+     ______________________________________________________________________________
+                                     FINAL REPORT  (REVISED)
+     INDICATION:  Right upper lobectomy with pleural effusion, status post tap.
+     
+     SINGLE UPRIGHT CHEST:  Comparison with [**3015-8-11**], 5:30 p.m. film.
+     
+     Again seen is the linear opacity along the right lateral thorax, which may
+     represent a summation of shadows versus a localized pneumothorax.
+     Additionally, there is continued airspace consolidation in both lower lung
+     zones and accumulation of a small pleural effusion on the right. Cardiac,
+     mediastinal, and hilar contours are otherwise unchanged.  Bony structures are
+     stable.
+     
+     IMPRESSION:  1. Persistent linear opacity in right lateral thorax, which may
+     represent localized pneumothorax.  This was discussed with Dr. [**Last Name (STitle) 15654**] by
+     telephone at 3 o' clock p.m., [**3015-8-12**].
+     
+     2. Reaccumulation of small right pleural effusion.
+     
+     3. Bilateral lower lobe airspace opacities.
+
+",,
+24110,22854,,,3015-08-12 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3015-8-12**] 5:08 PM
+     CHEST (LAT DECUB ONLY)                                          Clip # [**Clip Number (Radiology) 15655**]
+     Reason: ?pneumothorax                                               
+     Admitting Diagnosis: PULMONARY EFFUSION
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      please compare with prior for pneumothorax                                      
+     REASON FOR THIS EXAMINATION:
+      ?pneumothorax                                                                   
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Please evaluate for presence of a pneumothorax, suggested on
+     upright film.
+     
+     LEFT LATERAL DECUBITUS CHEST:  A small pleural effusion is seen, loculated, on
+     the right.  Right lateral decubitus films show no evidence of nondependent
+     air, i.e., no findings to suggest pneumothorax.  Otherwise, findings are not
+     significantly changed since the examination of 12:15 of the same day.
+     
+     This was discussed with Dr. [**Last Name (STitle) 15654**] by telephone at 7:00 p.m., [**3015-8-12**].
+
+",,
+24110,,,,3015-09-14 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3015-9-14**] 10:14 AM
+     CHEST (PA & LAT)                                                Clip # [**Clip Number (Radiology) 15656**]
+     Reason: follow up lung cancer s/p right upper lobectomy [**5-23**]
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+               80 year old woman s/p RUL lobectomy [**5-23**]  
+                 
+     REASON FOR THIS EXAMINATION:
+      follow up lung cancer s/p right upper lobectomy [**5-23**]
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CHEST, TWO VIEWS:
+     
+     INDICATION:  80-year-old woman status post right upper lobectomy.
+     
+     COMMENTS:  PA and lateral radiographs of the chest are reviewed, and compared
+     with the previous study dated [**3015-8-12**].
+     
+     The patient is status post right upper lobectomy.  There is continued small
+     loculated bilateral pleural effusion.  The previously identified left lower
+     lobe pneumonia has been resolved.  The previously suspected small right
+     hydropneumothorax has been resolved.  The heart is normal in size.  The
+     mediastinum is within normal limit with mild tortuosity of the thoracic aorta.
+     
+     IMPRESSION:  Resolution of suspected loculated right pneumothorax.  Continued
+     loculated small bilateral pleural effusion.  Resolution of left lower lobe
+     pneumonia.
+                                                                           
+
+",,
+24110,,,,3015-10-10 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3015-10-10**] 7:19 AM
+     CT CHEST W/CONTRAST; CT ABDOMEN W/CONTRAST                      Clip # [**Clip Number (Radiology) 15657**]
+     CT PELVIS W/CONTRAST; CT 150CC NONIONIC CONTRAST
+     Reason: h/o lymphoma, restaging
+     Field of view: 36 Contrast: OPTIRAY Amt: 130
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      80 year old woman with h/o lymphoma, restaging
+     REASON FOR THIS EXAMINATION:
+      h/o lymphoma, restaging
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Lymphoma.
+     
+     COMPARISON:  CT torso dated [**3015-4-10**].
+     
+     TECHNIQUE:  MDCT-acquired images of the chest, abdomen, and pelvis were
+     obtained after the administration of IV and oral contrast.
+     
+     CT OF THE CHEST WITH IV CONTRAST:  The patient is status post interval right
+     upper lobectomy.  There is interval development of bilateral pleural
+     effusions, right greater than left.  The patient is status post left
+     mastectomy.  There is a stable left lower lobe nodule (series 2 image 25).
+     Note is made of a markedly dilated esophagus with reflux of oral contrast to
+     the subcarinal level.  No new pulmonary nodules are identified.
+     
+     CT OF THE ABDOMEN WITH IV CONTRAST:  There is a stable linear hypoenhancing
+     area in segment IV of the liver.  Atrophic left lateral segment of the liver
+     is unchanged.  Gallbladder, pancreas, and spleen are unremarkable.  There is a
+     stable subcentimeter low-attenuation lesion in the lower pole of the right
+     kidney that is too small to characterize.  No hydronephrosis or hydroureter.
+     There are multiple stable scattered retroperitoneal lymph nodes, the largest
+     measuring 11 mm in the left paraaortic region.  Small and large bowels are of
+     normal caliber with no wall thickening.  No free air in the abdomen.
+     
+     CT OF THE PELVIS WITH IV CONTRAST:  The bladder, rectum, and sigmoid colon are
+     unremarkable.  No pelvic or inguinal lymphadenopathy.
+     
+     Bone windows demonstrate scoliosis and degenerative changes with no suspicious
+     lytic or sclerotic lesions.
+     
+     IMPRESSION:
+     1.  Status post interval right upper lobectomy with interval development of
+     bilateral pleural effusions, right greater than left.
+     2.  Stable left lower lobe nodule.
+     3.  Interval development of markedly dilated esophagus with reflux of
+     contrast.  If cinically indicated, this may be further evaluated with a formal
+     barium swallow exam.
+     4.  Stable linear low-density lesion in the liver.
+     5.  Stable retroperitoneal lymph nodes, most prominent in the left paraaortic
+     region.
+                                                                 (Over)
+
+     DATE: [**3015-10-10**] 7:19 AM
+     CT CHEST W/CONTRAST; CT ABDOMEN W/CONTRAST                      Clip # [**Clip Number (Radiology) 15657**]
+     CT PELVIS W/CONTRAST; CT 150CC NONIONIC CONTRAST
+     Reason: h/o lymphoma, restaging
+     Field of view: 36 Contrast: OPTIRAY Amt: 130
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+
+",,
+24110,,,,3015-12-07 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3015-12-7**] 10:17 AM
+     CHEST (PA & LAT)                                                Clip # [**Clip Number (Radiology) 15658**]
+     Reason: follow up right thoracotomy
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+               80 year old woman s/p RUL lobectomy [**5-22**]  
+                 
+     REASON FOR THIS EXAMINATION:
+      follow up right thoracotomy
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     TYPE OF EXAMINATION:  Chest PA and lateral.
+     
+     INDICATION:  Status post right upper lobectomy in [**3015-5-19**].  Followup right
+     thoracotomy.
+     
+     FINDINGS:  PA and lateral chest examination is analyzed in direct comparison
+     with a similar study dated [**3015-9-14**].  Status post right upper
+     lobectomy is noted with apparent resection of the fifth rib on the right side.
+     There is a moderate volume loss in the right-sided hemithorax with mild
+     mediastinal shift towards the operated side and slight elevation of the
+     diaphragm.  Also the aerated remaining lung is surrounded by pleural scar
+     formations.  On the left side no pulmonary congestion is identified and no
+     acute parenchymal infiltrates are seen.  The low-positioned diaphragm and the
+     _____ favor the diagnosis of COPD which apparently the patient had already
+     prior to the operation for a pulmonary carcinoma.
+     
+     IMPRESSION:  Stable chest findings since [**3015-9-14**], findings compatible
+     with status post right-sided upper lobectomy.  No new masses identified.
+                                                                           
+
+",,
+24110,,,,3016-04-08 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3016-4-8**] 8:14 AM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 15659**]
+     CT CHEST W/CONTRAST; CT 150CC NONIONIC CONTRAST
+     Reason: r/o recurrence
+     Field of view: 36 Contrast: OPTIRAY Amt: 100
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      81 year old woman with hx of NHL
+     REASON FOR THIS EXAMINATION:
+      r/o recurrence
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Non-Hodgkin's lymphoma.
+     
+     COMPARISONS:  [**3015-10-10**].
+     
+     TECHNIQUE:  Axial MDCT images were obtained from the lung apices through the
+     symphysis pubis after the administration of nonionic Optiray contrast.
+     
+     CT OF THE CHEST WITH IV CONTRAST:  The patient is status post right upper
+     lobectomy with a small right-sided pleural effusion.  The pleural effusion has
+     decreased in size when compared to the previous exam.  Scarring is seen within
+     the left lung apex.  The patient is status post left mastectomy.  There is a
+     tiny nodule within the left lower lobe, which is stable when compared to the
+     previous exam.  The lungs are otherwise clear.  There is no evidence of
+     abnormal axillary, mediastinal, or hilar lymphadenopathy.  Dilatation of the
+     esophagus is again identified.  There are scattered aortic wall
+     calcifications.
+     
+     CT OF THE ABDOMEN WITH IV CONTRAST:  The liver, gallbladder, spleen, pancreas,
+     kidneys, and adrenal glands are unremarkable.  There are multiple
+     nonpathologically enlarged mesenteric and retroperitoneal paraaortic nodes,
+     stable when compared to the previous exam.  There are dense aortic and iliac
+     wall calcifications.
+     
+     CT OF THE PELVIS WITH IV CONTRAST:  There are small inguinal nodes
+     bilaterally.  No pathologic lymphadenopathy is identified.
+     
+     BONE WINDOWS:  There is a rotary scoliosis with degenerative changes within
+     the spine.
+     
+     IMPRESSION:
+     1.  No evidence of pathologic lymphadenopathy within the chest, abdomen or
+     pelvis.
+     2.  Stable scarring within the left lung apex and post-right upper lobe
+     lobectomy.  Interval decrease in size of right-sided pleural effusion.  Stable
+     left lower lobe pulmonary nodule.
+
+",,
+24110,,,,3016-06-06 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3016-6-6**] 9:25 AM
+     CHEST (PA & LAT)                                                Clip # [**Clip Number (Radiology) 15660**]
+     Reason: follow up lung cancer. Please compare to prior studies.
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      81 year old woman with h/o lung cancer s/p right upper lobectomy [**5-22**]
+     REASON FOR THIS EXAMINATION:
+      follow up lung cancer. Please compare to prior studies.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     REASON FOR EXAMINATION:  Followup of the patient after right upper lobectomy
+     due to lung cancer.
+     
+     PA and lateral upright chest radiograph compared to the previous film from
+     [**3015-12-7**].
+     
+     The post-right upper lobectomy changes are again demonstrated, stable.  There
+     is moderate volume loss of the right-sided hemithorax with mild ipsilateral
+     mediastinal shift and elevation of the right hemidiaphragm.  There are no
+     consolidations or masses on the right.  The right lung is unremarkable
+     demonstrating again the vascular poucity and architectural distortion,
+     representing known emphysema. Calcified granuloma in the left upper lobe with
+     volume loss and upward displacement of the left hila are also chronic.  There
+     is no pleural effusion or pneumothorax.
+     
+     The patient is after left mastectomy.
+     
+     IMPRESSION:
+     
+     Stable appearance of the post-surgical chest.
+     
+     Status post left mastectomy.
+     
+     Upward displacement of the left hilar due to most probably post granulomatous
+     exposure changes.
+
+",,
+24110,,40601,0,3018-04-23 14:09:00 EST,3018-04-23 14:27:00 EST,6922,"N",54,"Nursing/Other","MICU Nursing Admission Note 1145-1500","
+MICU Nursing Admission Note 1145-1500
+
+Code: DNR/DNI
+Allergies: PCN
+
+Pt arrived to unit, alert, oriented to self only.  Able to MAE, consistently following commands.  Pt denied pain.  Bilateral soft wrist restaints placed for pt safety.  Pt with known tachy/brady syndrome, HR upon arrival 50s NSR with no ectopy noted.  NBP 90-100 systolic.  PIV to left wrist, additonal PIV placed in EJ by Dr. [**Last Name (STitle) 1852**].  Pt with low temp, unable to register with thermometer, bair hugger placed.  Received pt on 2L NC, placed on BIPAP for hypercabia.  BS x 4, no stool this shift, pt NPO.  Foley inserted with minimal urine out, specs sent.  Family contacted regarding [**Hospital 254**] transfer to ICU.  At 1400 pt became brady to low 20s, RN and team at bedside, DNR/DNI status confirmed.  Agonal breathing noted, pt unresonsive.  Team to call and inform family, per Dr. [**Last Name (STitle) 1852**] no autopsy requested.  NEOB called, donation declined due to medical history.  
+
+Pt noted to have yellow watch and yellow ring with 4 clear stones (5 settings however 1 stone missing)
+",,

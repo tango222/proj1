@@ -1,0 +1,75 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+24605,4774,,,3114-10-15 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+
+Admission Date:  [**3114-10-15**]     Discharge Date:  [**3114-10-16**]
+
+Date of Birth:   [**3062-1-14**]     Sex:  M
+
+Service: Neurosurgery
+
+PATIENT EXPIRED:  [**3114-10-16**]
+
+Mr. [**Known patient firstname **] [**Known patient lastname **], a 52-year-old male, was admitted to our
+service through the emergency department at the [**Hospital1 374**].  He was found down with respiratory
+arrest.  At the time of admission, head CT showed a very
+extensive subarachnoid and intraventricular hemorrhage
+throughout the ventricular system as well as the basilar
+cistern, also, there was noted a diffuse, severe cerebral
+edema with lots of normal [**Doctor Last Name 314**]-white matter differentiation.
+
+Clinical examination at the time of admission showed a brain
+dead patient.  He was admitted to the intensive care unit and
+the family was notified.  By 9:45 a.m. on [**10-16**], the
+patient was declared brain dead following the appropriate
+protocols.  The patient's family was notified and they agreed
+with organ donation.
+
+The patient was taken to the operating room in late evening
+on [**3114-9-15**].
+
+
+
+
+                          [**Name6 (MD) 7**] [**Last Name (NamePattern4) 8**], M.D.  [**MD Number 9**]
+
+Dictated By:[**Last Name (NamePattern1) 5101**]
+
+MEDQUIST36
+
+D:  [**3114-10-16**]  23:42
+T:  [**3114-10-18**]  06:12
+JOB#:  [**Job Number 5702**]
+Signed electronically by: DR. [**First Name8 (NamePattern2) 7**] [**Name (STitle) **]
+ on: SAT [**3114-10-24**] 12:40 PM
+(End of Report)
+
+
+",,
+24605,4774,30552,1,3114-10-16 16:34:00 EST,3114-10-16 18:11:00 EST,2378,"Y",69,"Nursing/Other",,"
+
+Unable to transduce ICP and Dr. [**Last Name (STitle) 345**] aware.  K repleted per scale.  Pitressin decreased to 0.6 u/hr for drop in UO per NEOB.
+",,
+24605,4774,30552,0,3114-10-16 16:34:00 EST,3114-10-16 16:55:00 EST,2378,"N",69,"Nursing/Other",,"
+
+52 y.o. s/p resp arrest at home (?choking.  CT revealed lg diffuse SAH throughout ventricles.  Neuro exam this am consistent with brain death and NEOB in to assist with organ donation process. 
+
+NEURO:  Pt unresponsive, -gag, -corneals, -dolls eyes.  Pt does not respond to painful stimuli.  Pupils fixed and dilated.  Dr. [**Last Name (STitle) 345**] in to evaluate in am and declared brain dead.  Pt had cold calorics performed byDr. [**Location (un) **] at bedside with no response.  Apnea test performed and pre abg 7.26/44/73... pt with no spontaneous respirations x4 min with post abg of 7.12/71/36.  NEOB in to speak with family and have consented to harvest organs at this time.
+CV:  BP labile throughout shift and pressors titrated to maintain MAPS>65.  Pt was on Dopa short term which has been weaned to off.  Pt currently receiving Neo 4 mcg/kg/min, Norepi .35 mcg/kg/min, and Pitressin 1.2 u/hr.  Pt with 500 cc NS bolus x2. 
+RESP:  LSCTA.  Sxn mod amts thick tan secretions.  Pt on A/c 1000x18x100 =10.  Most recent abg 7.30/44/66.  plan for bronch this eve and Dr. [**Last Name (STitle) 4804**] consulted by NEOB for ventilator changes to maximize oxygenation.  Will cont to check ABG's Q2 hr,
+GI:  Abd soft and nontender.  +BS noted.  NGT with sm amt coffee ground secretions.  No stools this shift.
+GU:  Foley intact and patent draining yellow urine.  Pt with increased UO and pt started on Pitressin to be titrated to maintatin UO 100-300 cc/hr.
+SKIN:  D+I wiht no open areas noted,
+HEME:  Pt cont with lab work Q 4hr and lytes to be repleted as needed. Pt has 4 U PRBC on hold for OR anbd clot sent. 
+ENDO:  Pt remains on fingersticks Q6hr with prn RISS.
+I-D:  Pt febrile to 104.4 pr and on cooling blanket for short term.  Pt now afebrile and off blanket.  Pt started on Ceftriaxome for aspiration in field.
+PSY-SOC:  Dr. [**Last Name (STitle) 345**] spoke with wife and dtr about poor prognosis and findings of neuro exam and apnea test.  NEOB in to speak with family afterwards and family in agreement to harvest organs as this would have been the pt's wishes to help others.  Cont to provide emotional support.  Multiple family members in to visit and updated on status and plan of care.  
+ 
+",,
+24605,4774,30552,0,3114-10-16 20:26:00 EST,3114-10-16 20:30:00 EST,2353,"N",69,"Nursing/Other","NURSING PROGRESS NOTE:","
+NURSING PROGRESS NOTE:
+PT GETTING READY TO BE TRANSPORTED TO THE OR FOR ORGAN HARVESTING. FAMILY INTO SAY THEIR LAST GOODBYE'S. 
+PT RECEIVED ON LEVO/NEO, LEVO WEANED OFF. 
+PT ON 100% AND LAST ABG, THE PO2 IN THE 80'S. PT STARTED ON NITRIC OXIDE, PO2 CAME BACK GREATER THAN 200. 
+SEE FLOWSHEET FOR FURTHER HEMODYNAMIC DATA. 
+ANESTHESIA ARRIVED AND CHANGE PT OVER TO THEIR DRIPS. VITAL SIGNS STABLE. PT TRANSFERRED TO OR WITH RESPIRATORY, ORGAN DONOR TEAM AND ANESTHESIA AT 2015. 
+",,

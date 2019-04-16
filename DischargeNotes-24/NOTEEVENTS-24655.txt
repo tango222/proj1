@@ -1,0 +1,360 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+24655,,,,2663-08-12 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2663-8-12**] 10:39 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 4842**]
+     Reason: chest pain with sob, hypotensive
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      77 year old man with CABG, MI, toe infection, temporal arteritis
+     REASON FOR THIS EXAMINATION:
+      chest pain with sob, hypotensive
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: Shortness of breath and hypertension
+     
+     FINDINGS:
+     PORTABLE CHEST RADIOGRAPH COMPARISON [**2662-9-18**]: The patient is S/P CABG. There
+     is cardiomegaly with no significant change from the prior study. There is a
+     small left pleural effusion. No congestive heart failure or consolidation is
+     seen. No pneumothorax is present.
+     
+     IMPRESSION: Large heart with a small left pleural effusion. There is no
+     congestive heart failure.
+
+",,
+24655,21727,,,2663-08-13 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+
+Admission Date:  [**2663-8-13**]       Discharge Date:  [**2663-8-15**]
+
+Date of Birth:   [**2586-7-3**]       Sex:  M
+
+Service:
+
+CHIEF COMPLAINT:  Malaise and chest discomfort.
+
+HISTORY OF PRESENT ILLNESS:  The patient is a 77 year old
+male with coronary artery disease, status post coronary
+artery bypass graft in 12/99, with peripheral vascular
+disease, chronic renal insufficiency and congestive heart
+failure, who is admitted with left sided chest discomfort
+today, status post taking Lopressor 50 mg for an episode of
+atrial fibrillation.  The patient was in his usual state of
+health until today when he visited with a visiting nurse who
+noticed an irregularly irregular pulse.  The patient went to
+congestive heart failure clinic at [**Hospital6 3163**] where he normally goes.  He was found to be in
+atrial fibrillation with a rapid ventricular rate in the
+160s.  He was given Lopressor 50 mg, Coumadin 5 mg and
+advised to discontinue his Plavix.  He took the Lopressor of
+50 mg at 5:00 p.m.  At 6:00 p.m., he developed chest
+tightness, neck tightness and left sided chest pain two out
+of ten.  EMS found him with a heart rate of 72 and regular,
+blood pressure 60/palpable.  He was brought to the Emergency
+Department where he received a bolus of normal saline 500 cc
+times one and was placed on a Dopamine drip.
+
+PAST MEDICAL HISTORY:
+1.  Coronary artery disease, status post coronary artery
+bypass graft [**11/2661**].
+2.  Peripheral vascular disease, status post right femoral
+popliteal bypass [**11/2662**].
+3.  Temporal arteritis times four years on Prednisone.
+4.  Status post right toe osteomyelitis, begun on a six week
+course of Vancomycin [**2663-6-14**].
+5.  Chronic renal insufficiency, baseline creatinine 1.9.
+6.  Status post cholecystectomy.
+7.  Steroid induced glucose intolerance.
+8.  Cataract, status post surgery.
+9.  Anemia.
+
+MEDICATIONS ON ADMISSION:
+1.  Quinidine 324 mg b.i.d.
+2.  Zocor 20 mg q.d.
+3.  Celexa 20 mg q.d.
+4.  Keflex day number seven.
+5.  Coumadin 5 mg day number one.
+6.  Enteric Coated Aspirin 325 mg q.d.
+7.  Captopril 6.25 mg t.i.d.
+8.  Procrit 20,000 units t.i.week.
+9.  Prednisone 10 mg q.d.
+10. Iron 325 mg q.d.
+11. Metoprolol 50 mg b.i.d. day number one.
+12. Plavix 75 mg q.d. discontinued the day of admission.
+13. Torsemide.
+
+ALLERGIES:  The patient is allergic to Procainamide with
+gastrointestinal symptoms, Amiodarone caused agitation and
+confusion.  Intravenous dye caused acute renal failure.  The
+patient is allergic to shellfish.
+
+SOCIAL HISTORY:  The patient lives at home with his daughter.
+He has a past tobacco history and quit.  He has a history of
+recent increase in his alcohol consumption, three to five
+drinks per day.  His primary care physician is [**Last Name (NamePattern4) **]. [**Last Name (STitle) 5810**].
+Cardiologist is Dr. [**Last Name (STitle) 5811**] and his nurse practitioner [**First Name8 (NamePattern2) **]
+[**First Name5 (NamePattern1) 2188**] [**Last Name (NamePattern1) 5812**].
+
+REVIEW OF SYSTEMS:  The patient denies fever, chills, no
+cough, no shortness of breath, no paroxysmal nocturnal
+dyspnea, no orthopnea, no lower extremity edema, no angina,
+and positive lower extremity cellulitis.  The patient says
+this chest pain is the first chest pain he has had in at
+least one year and denies any chest pain prior to his
+myocardial infarction.
+
+PHYSICAL EXAMINATION:  On admission, the patient was resting
+comfortably in a bed, complaining of mild headache.  Vital
+signs revealed pulse 84, blood pressure 95/48 on 5 of
+Dopamine, respiratory rate 24, saturating 96% on two liters
+nasal cannula.  Head, eyes, ears, nose and throat examination
+revealed moist mucous membranes.  The neck was supple without
+jugular venous distention.  The lungs were clear to
+auscultation bilaterally.  Cardiovascular - regular rate and
+rhythm, normal S1 and S2, decreased carotid upstroke and
+jugular venous pressure six centimeters.  The abdomen is
+soft, nontender, nondistended with normoactive bowel sounds.
+Extremities revealed no cyanosis, clubbing with minimal
+edema.
+
+LABORATORY DATA:   On admission, the patient had white count
+8.2, hematocrit 39.9, platelets 258,000.  Sodium 138,
+potassium 4.9, chloride 102, bicarbonate 16, blood urea
+nitrogen 73, creatinine 3.9, glucose 131.  INR was 1.1 and
+partial thromboplastin time was 27.4.  The CKs initially was
+34 and increased to 38 and troponin was 0.3 increasing to
+1.4.
+
+Chest x-ray showed cardiomegaly, small left pleural effusion.
+Electrocardiogram showed normal sinus rhythm at 70 beats per
+minute with right bundle branch block as well as left
+anterior fascicular block, Q wave V1 through V3 and ST
+depressions 1.0 millimeter with T wave inversions in V1
+through V6 which are old.
+
+OTHER PREVIOUS HISTORY:  The patient has a history of an
+ejection fraction of 35% with 3+ mitral regurgitation, status
+post coronary artery bypass graft [**11/2661**] and aortic valve
+replacement [**11/2661**].  Coronary artery bypass graft anatomy was
+left internal mammary artery to the D1, saphenous vein graft
+to the left anterior descending, saphenous vein graft to the
+OM1 and saphenous vein graft to the posterior descending
+artery.
+
+ASSESSMENT:  The patient is a 77 year old with coronary
+artery disease, status post myocardial infarction, status
+post coronary artery bypass graft with aortic valve
+replacement, paroxysmal atrial fibrillation, dilated
+cardiomyopathy with ejection fraction of 35% and 3+ mitral
+regurgitation, 1+ aortic insufficiency, pulmonary
+hypertension with multiple admissions for right greater than
+left sided heart failure, status post a recent admission
+[**6-14**], to the [**Hospital1 408**] for osteomyelitis complicated by a
+bacteremia on a six week course of antibiotics, recently
+discontinued two weeks ago, now admitted with hypotension,
+chest pain in the setting of a beta blocker, treatment for an
+episode of rapid atrial fibrillation [**2663-8-12**], and likely a
+hypovolemic state.
+
+1.  Cardiovascular - The patient has known coronary artery
+disease, status post myocardial infarction, coronary artery
+bypass graft, no angina, with prior myocardial infarction,
+aura at home over the last year, presents now with complaints
+of chest discomfort in the setting of atrial fibrillation and
+hypotension, may be related to atrial fibrillation symptoms
+or demand ischemia related to decreased blood pressure.
+Troponin and CKs were negative on admission.  Troponin
+eventually increased to 3.7 possibly consistent with a non Q
+wave myocardial infarction secondary to a demand ischemia
+from hypotension.
+
+His electrocardiogram was unchanged.  His hypotension may be
+secondary to hypovolemia consistent with diarrhea as well as
+increasing diuretic dose as well as a beta blocker dose given
+yesterday.  The patient is now in normal sinus rhythm.
+Quinidine dose was within normal limits at the [**Hospital6 5813**] Clinic yesterday.
+
+The plan is to continue Aspirin and Heparin until rule out
+myocardial infarction, titrate off Dopamine as blood pressure
+improves with normal saline boluses, hold his ace and
+diuretic while hypotensive, continue Quinidine, hold Coumadin
+if remains in normal sinus rhythm, consider echocardiogram to
+evaluate for any worsening of function to explain worsening
+paroxysmal nocturnal dyspnea symptoms and weight gain,
+continue Zocor.
+
+2.  Pulmonary - Pulmonary hypertension reportedly increased
+right greater than left sided heart failure symptoms.  The
+lungs are clear.  Saturation within normal limits in room
+air.
+
+3.  Renal - Chronic renal insufficiency with creatinine
+around 2.0 at baseline.  Recently worsening secondary to
+possibly Vancomycin treatment or Torsemide.  Acute renal
+insufficiency on admission here could be consistent with
+hypotension in the setting of a prerenal state.
+
+4.  Infectious disease - The patient has a history of chronic
+osteomyelitis of the right toes complicated by recent
+bacteremia.  No active infection evident at this time.
+Hypotension may also represent possible sepsis if infection
+inadequately treated.  Will send blood cultures, urine
+cultures.  Hold antibiotics at this time.
+
+5.  Gastrointestinal - Epigastric discomfort likely secondary
+to gut edema, abdominal distention from right heart failure,
+no nausea or vomiting.  Positive diarrhea in the setting of
+long antibiotic course.  Reports recent increase in alcohol
+use.  Will send C. difficile, guaiac stools, start Zantac,
+will check liver function tests given history of ETOH use.
+
+6.  Hematology - The patient has chronic anemia on Procrit.
+Hematocrit increased on admission likely reflecting
+dehydration.  Platelets and coagulation studies are within
+normal limits.  Heparin as above.  Follow hematocrit with
+hydration.
+
+7.  Endocrine - On chronic Prednisone for temporal arteritis.
+The patient was given stress dose steroids in the Emergency
+Department without effect.  Will continue standing dose of
+Prednisone.
+
+8.  Prophylaxis - On Zantac and Heparin.
+
+9.  Lines - Will place a left A line, peripheral intravenous
+times two, Foley.
+
+10. Disposition - Full code.
+
+HOSPITAL COURSE:  The patient was stable after admission
+except for mildly decreased systolic blood pressure with
+decrease to 70s but responded to a fluid bolus at 4:00 p.m.
+The patient continued to be in normal sinus rhythm with
+episodes of atrial fibrillation, continued to be treated on
+Quinidine and anticoagulation was held.  The patient was
+transferred to the floor once he was weaned off Dopamine and
+his creatinine began to decrease.
+
+After arrival to the floor on [**2663-8-14**], the patient was
+placed on telemetry and noted to have a run of 10 beats of
+asymptomatic ventricular tachycardia at 4:00 a.m. on
+[**2663-8-15**].  The patient also went into atrial fibrillation
+where he remained throughout the remainder of the evening and
+morning with rates of between 120 to 160.
+
+The patient was felt to have possible benefit from
+electrophysiology study, possibly with an ICD placement.
+However, since the patient is mainly followed by cardiology
+at [**Hospital6 712**], it was decided to discuss
+transferring the patient to the [**Hospital6 712**].
+
+Other recommendations that we were considering at this time
+included changing the Quinidine to Dofetilide or seeing if
+the patient can tolerate Amiodarone.  Also we discussed the
+possibility of placing the patient on Heparin drip if he was
+still in atrial fibrillation after 24 hours.
+
+For his coronary artery disease, the patient was continually
+treated with Aspirin and Zocor. The patient continued to deny
+chest pain although he remained in atrial fibrillation with
+increasing rate on movement around the room.
+
+The patient has a history of pulmonary hypertension, however,
+he continued to have good oxygen saturation in room air.
+
+His creatinine decreased throughout the course of the
+hospital stay, however, it was still 3.2 on [**2663-8-15**],
+continue to hold his ace inhibitor for now.
+
+The patient has a history of osteomyelitis in his right toes.
+The patient was started on Keflex during hospitalization
+which will be continued for seven days.
+
+The patient had complained of some bloated feeling that he
+says he often gets with his congestive heart failure
+exacerbation and denies diarrhea.
+
+DISPOSITION:  The patient was decided to be transferred to
+[**Hospital6 712**] after attending to attending
+conversation and the transfer will probably take place in the
+afternoon of [**2663-8-15**].
+
+CONDITION ON DISCHARGE:  Guarded.
+
+DISCHARGE STATUS:  Transferred to [**Hospital6 3163**].
+
+DISCHARGE MEDICATIONS:
+1.  Zocor 20 mg p.o. q.d.
+2.  Celexa 20 mg p.o. q.d.
+3.  Aspirin 325 mg p.o. q.d.
+4.  Procrit 20,000 units Monday and Friday.
+5.  Iron 325 mg p.o. q.d.
+6.  Zantac 150 mg p.o. q.d.
+7.  Multivitamin one tablet p.o. q.d.
+8.  Quinidine 325 mg p.o. b.i.d.
+9.  Prednisone 10 mg p.o. q.d.
+10. Keflex 500 mg p.o. b.i.d. times three days.
+
+
+
+
+                            [**First Name8 (NamePattern2) **] [**First Name8 (NamePattern2) **] [**Name8 (MD) **], M.D.  [**MD Number 4751**]
+
+Dictated By:[**Last Name (NamePattern1) 3387**]
+MEDQUIST36
+
+D:  [**2663-8-15**]  15:04
+T:  [**2663-8-15**]  15:21
+JOB#:  [**Job Number 5814**]
+Signed electronically by: DR. [**First Name8 (NamePattern2) **] [**Doctor Last Name **]
+ on: TUE [**2663-11-10**] 8:38 PM
+(End of Report)
+
+
+",,
+24655,21727,,,2663-08-13 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2663-8-13**] 7:53 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 4843**]
+     Reason: s/p unsuccessful attempt at right IJ, please rule out pneumo
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     
+     
+     CHEST SINGLE FILM
+     
+     HISTORY:  Right IJ line placement.
+     
+     S/P CABG.  No pneumothorax following unsuccessful attempted line placement.
+     There is cardiomegaly but no evidence of CHF.  There is a small left pleural
+     effusion and tenting of the left cardiac ____ margin as previously
+     demonstrated.
+
+",,
+24655,21727,30614,0,2663-08-13 13:33:00 EST,2663-08-13 14:05:00 EST,3420,"N",54,"Nursing/Other","admission note","
+admission note
+pt admitted to csru at 1045 as ccu pt., pt admitted to er last noc with malaise and chest discomfort, hypotension in er and dopa gtt started at 4-5 mic/kg/min, pt admitted to icu for r/o mi, vs in icu = t 97.5, hr 73-80, bp 84/43-106/42, r 18, Cardiac: nsr, no ectopy, dopa gtt weaned down to 2.5 mic/kg/min from admission dose of 4.0 mic/kg/min,to wean dopa gtt to off keeping sbp >/= 100, left radial a-line inserted in icu, cordis/swan on hold at this time due to stable respiratory/fliud status once admitted to icu, iv heparin started in er but dc'd after hematoma noted to C.L. insertion site, C.L. attempted in er without success, to resume iv heparin in icu at 1100 u/hr until pt r/o for mi, # 3 ck/tropnin sent at 1330, no cp or sob noted in icu, respiratory: breath sounds audible all lobes and clear, decreased to bases, on 3 l np, sats 96-99, rr 18-20, gi: npo except ice chips at this time, gu: foley cath inserted in er, foley patent, uo clear, uo 20 cc/hr x 3 hr in icu, resident aware and 250 ns iv bolus x 2, neuro: intact, moving all extremities, pt irritable at times and refusing nursing care, resident aware, no sedation at this time, ? pt [**Doctor Last Name **] deprived, pt in er all noc without [**Doctor Last Name **] per family, pt able to [**Doctor Last Name **] in icu this afternoon, plan: plan to monitor pt in icu tonoc, tx to floor in am if stable and off dopa gtt 
+",,
+24655,21727,30614,0,2663-08-13 14:56:00 EST,2663-08-13 14:59:00 EST,3204,"N",54,"Nursing/Other",,"
+
+sbp < 100 w cont. dark amber urine but > 30 ml/hr. add'l volume given w effect & dopa dc'd.heparin resumed until mi r/o.
+",,
+24655,21727,30614,0,2663-08-13 19:18:00 EST,2663-08-13 19:27:00 EST,3204,"N",54,"Nursing/Other",,"
+
+c/o exertional sob that resolves w rest. denies cp,heaviness. heparin continues per protocol. pain & slight difficulty swallowing.able to locate area as previous line attempt. slight hematoma noted,trachea midline.occas.rare nodal beats w slight hypotension noted.will continue quiniglute after discussion w m.d.accepting sbp ~ 90. alert,oriented & maintaining huo > 30.
+",,
+24655,21727,30614,0,2663-08-14 04:00:00 EST,2663-08-14 04:07:00 EST,3714,"N",54,"Nursing/Other",,"
+
+neuro: a+o x3 mae to command. 
+cv/resp nsr with occ multifocal pvcs. o2 1lnc with clear lung sounds no resp distress. denies chest pain/pressure. ck troponin sent [**Name8 (MD) 59**] MD. 
+gi/gu foley qs uop no bm + bs
+integ. no issues. 
+misc bp low syst 80's while asleep. 250 ns fluid bolus given with good effect. Remains on heparin gtt. ? plan transfer to floor today if stable.
+ 
+
+",,
+24655,21727,30614,0,2663-08-14 13:38:00 EST,2663-08-14 13:44:00 EST,3760,"N",54,"Nursing/Other",,"
+
+77 y.o. male admitted [**8-12**] for CP. Long history of CABG, PVD, CHF, s/p chole, s/p total knee replacement. Arrived with hypotension. Dopamine gtt started, off since 1600 yesterday. Multiple fluid boluses throughout ICU stay for hypotension. BP stable, >90 systolic today. NO CP today. Lungs clear, 1L/NC to room air with good sats. Urine output adequate, foley in place. PIV x 2. Small hematoma right IJ from attempted central line placement. Ate 50% breakfast, 25% lunch. Daughters at bedside earlier. Plan: Transfer to [**Hospital Ward Name 41**] 3. 
+",,

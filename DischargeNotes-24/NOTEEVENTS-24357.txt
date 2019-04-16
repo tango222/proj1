@@ -1,0 +1,981 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+24357,,,,3129-07-09 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     EXERCISE MIBI                                                   Clip # [**Clip Number (Radiology) 1820**]
+     Reason: ROUTINE CAD EVALUATION. 
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Fifty-nine year old male with coronary artery disease.  S/p coronary 
+     artery bypass grafting in [**3119**] with known occlusion of the SVG-D1.  S/p stenting
+     of native right coronary artery.  Referred for routine coronary artery disease
+     evaluation.
+      
+     SUMMARY OF EXERCISE DATA FROM THE REPORT OF THE EXERCISE LAB:
+      
+     Exercise protocol:  [**Doctor First Name 362**].
+     Exercise duration:  8 minutes.   
+     Percent maximum predicted heart rate obtained:  80%.
+     Symptoms during exercise:  the patient reported mid sternal chest pressure 
+     beginning at 6 minutes of exercise (7/10 intensity) which progressed to [**10-24**]
+     intensity at 8 minutes.  The pain had some radiation to the back but was largely
+     negated to the sternum.  The pain diminished upon cessation of exercise and was
+     completely gone by 3 minutes of recovery.
+     Reason exercise terminated:  fatigue and chest pain.
+     ECG findings:  ECG showed downsloping ST depression in leads V5, V6, I and AVL
+     beginning at 6 minutes, with a maximal depression of 2.[**Street Address 1821**] depression in
+     lead V at 3 minutes of recovery.  The ST segments resolved by 15 minutes of
+     recovery.  
+      
+     INTERPRETATION: 
+      
+     Imaging Protocol: gated SPECT.
+      
+     Resting perfusion images were obtained with thallium.  
+     Tracer was injected 15 minutes prior to obtaining the resting images.
+     Exercise images were obtained with MIBI.
+      
+     The left ventricular cavity appears dilated with stress suggesting myocardial
+     ischemia.
+      
+     The SPECT images demonstrate a severe distal anterior and severe apical
+     reversible defects.  There is a severe inferior perfusion defect which is
+     partially reversible.
+       
+     Ejection fraction calculated from gated wall motion images obtained after
+     exercise shows a left ventricular ejection fraction of approximately 40%. The
+     wall motion is globally hypokinetic.  Contraction in the distal anterior,
+     inferior and apical walls is not accurately evaluated due to the reduced counts
+     in these areas.
+      
+     Comparison with the previous exercise thallium scan performed on [**3119-5-8**] has
+     been made.  Allowing for the marked changes in technique, the findings are
+     similar.
+      
+     IMPRESSION:  1) At the level of exercise achieved, there is a severe, reversible
+     defect involving the distal anterior and apical walls and a severe partially
+                                                                 (Over)
+
+     EXERCISE MIBI                                                   Clip # [**Clip Number (Radiology) 1820**]
+     Reason: ROUTINE CAD EVALUATION. 
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     reversible defect in the inferior left ventricular wall.  2) There is left
+     ventricle dilation at stress, suggesting ischemia.  3) The wall motion
+     demonstrates global hypokinesia with an ejection fraction of 40%.  4) Allowing
+     for differences in technique, there is no significant difference from the
+     previous exercise thallium scan performed in [**3119-4-16**]. /nkg
+                                                                           
+
+             [**First Name4 (NamePattern1) 1822**] [**Last Name (NamePattern1) 1823**], M.D.
+             [**First Name11 (Name Pattern1) 365**] [**Last Name (NamePattern1) 366**], M.D.        Approved: [**Doctor First Name 98**] [**3129-7-11**] 9:41 AM
+
+
+             Date Mailed: [**3129-7-12**]                     West [**Medical Record Number 1824**]
+
+
+
+               RADLINE [**Telephone/Fax (1) 115**]; A radiology consult service.
+            To hear preliminary results, prior to transcription, call the
+                           Radiology Listen Line [**Telephone/Fax (1) 116**].
+
+",,
+24357,,,,3129-07-17 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3129-7-17**] 11:38 AM
+     CHEST (PA & LAT)                                                Clip # [**Clip Number (Radiology) 1825**]
+     Reason: cath
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      59 year old man with 
+     REASON FOR THIS EXAMINATION:
+      cath
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: Cardiac catheterization related chest examination.
+     
+     FINDINGS: The heart shows minimal if any enlargement with a left ventricular
+     predominant configuration. Pulmonary vessels are normal. There is no evidence
+     of cardiac failure. There is evidence of a previous CABG procedure with
+     sternal sutures and cardiovascular clip noted. The lungs are clear. The
+     pulmonary vessels are unremarkable. There is no evidence of any pleural
+     effusion.
+     
+     IMPRESSION: Status post cardiac catheterization. No evidence of any acute
+     cardiopulmonary abnormality.
+
+",,
+24357,19199,,,3129-07-24 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+
+Admission Date:  [**3129-7-25**]     Discharge Date:  [**3129-7-28**]
+
+Date of Birth:   [**3070-7-4**]     Sex:  M
+
+Service:  CCU
+
+HISTORY OF PRESENT ILLNESS:  The patient is a 58 year-old
+male with a history of an inferior wall myocardial infarction
+status post coronary artery bypass graft done in [**3119**] with a
+left internal mammary coronary artery to left anterior
+descending coronary artery graft, saphenous vein graft to D2
+graft, saphenous vein graft to obtuse marginal graft.  He was
+doing fine until [**4-/3127**] when he began to have exertional
+chest pain.  His catheterization on [**3127-5-5**] revealed
+pathology in the mid right coronary artery, which was
+stented.  He returned in [**3128-12-3**] for
+catheterization, which again was due to exertional angina.
+This catheterization showed significant three vessel disease
+with a patent saphenous vein graft to obtuse marginal two,
+occluded saphenous vein graft to diagonal, patent left
+internal mammary coronary artery to left anterior descending
+coronary artery, patent stent to the mid right coronary
+artery, proximal right coronary artery had a focal 80%
+stenosis and the distal right coronary artery had a severe
+focal 90% stenosis prior to the origin of the posterior
+descending coronary artery, status post stent placement to
+the proximal and distal right coronary artery.
+
+The patient was doing well without any chest pain after this
+most recent intervention in November of last year.  However,
+he does report having shortness of breath with exertion and
+minimal exercise.  The patient denies claudication,
+orthopnea, edema, paroxysmal nocturnal dyspnea and
+lightheadedness.  A recent stress test revealed that the
+patient had a down sloping ST depression in V5 and V6, 1 and
+L with maximum ST depressions of 2.5 mm in V5 at 3 minutes.
+A nuclear study revealed severe reversible defect in the
+distal anterior and apical walls and severe partially
+reversible defect in the inferior left ventricular wall with
+global hypokinesis and an EF of 40%.
+
+The patient was electively taken to the catheterization
+laboratory on [**7-25**] where he was found to have a total
+occlusion of the proximal left anterior descending coronary
+artery, total occlusion of the proximal left circumflex, 60%
+mid segment stenosis in the previously stented right coronary
+artery, saphenous vein graft to D1 continued to be occluded
+as had been previously, saphenous vein graft to obtuse
+marginal one was mid segment 80% focal lesion.  The left
+internal mammary coronary artery to left anterior descending
+coronary artery was found to be patent with the left anterior
+descending coronary artery after the touch down showed a
+total occlusion.  The saphenous vein graft to obtuse marginal
+one was stented, however, the inferior pole from the outflow
+vessel of the obtuse marginal had moderate slow flow after
+intervention and was recrossed with the BMW wire plus
+dilation, which restored TIMI two flow.  The superior flow
+from the out flow of the obtuse marginal was dilated and
+restored TIMI three flow.
+
+Upon entering the wards after the catheterization, the
+patient underwent a ventricular fibrillation arrest within a
+few hours of his procedure.  The patient responded to one
+defibrillator shock, which returned a perfusing rhythm,
+however, the patient was diaphoretic, short of breath with
+chest pain after being revived.  Electrocardiogram showed ST
+elevations in the anterolateral leads, which led to the
+patient immediately being taken back to the catheterization
+laboratory.  During the second PCI it was noted that the
+recently placed stent was patent, but that the inferior pole
+had TIMI two flow and the prior study was completely occluded
+therefore the inferior pole lesion was crossed at the wires,
+stented open and TIMI three flow was returned to the vessel.
+The patient's symptoms resolved after the procedure.
+
+PAST MEDICAL HISTORY:  Coronary artery disease,
+hyperlipidemia, hypertension.
+
+MEDICATIONS PRIOR TO ADMISSION:  Atenolol 50 mg po q day,
+Lipitor 80 mg q day, Univasc 15 mg b.i.d., Norvasc 10 mg
+q.d., Ascriptin 325 mg q day, vitamin C 1000 mg q day, folic
+acid 1 mg q day and multivitamin.
+
+PHYSICAL EXAMINATION:  Temperature 97.4, pulse 72.  Blood
+pressure 121/62.  Respirations 14.  The patient was sating
+97% on 2 liters.  Generally, he was alert and oriented times
+three.  No acute distress.  Moderately obese male.  HEENT
+examination pupils are equal, round and reactive to light.
+Extraocular movements intact.  The patient was normocephalic,
+atraumatic.  Mucous membranes are moist.  Neck examination
+there is no JVP.  No thyromegaly.  No bruits.  No cervical
+lymphadenopathy.  Cardiovascular examination revealed a
+regular rate.  Normal S1 and normal S2 and a 2 out of 6
+systolic decrescendo murmur best auscultated at the left
+sternal border.  No rubs.  Pulmonary examination lungs were
+clear to auscultation bilaterally with no wheezes.  Abdominal
+examination soft, nontender, nondistended and bowel sounds
+were active.  Extremities, the patient had 1+ dorsalis pedis
+pulses bilaterally with 2+ capillary refill bilaterally.  The
+patient's groin site was free of hematoma, however, the
+sheaths were still in place on the right when he was admitted
+to the Coronary Care Unit.
+
+HOSPITAL COURSE:  1.  Cardiovascular:  A:  Coronary artery
+disease, the patient has extensive coronary artery disease
+based on his prior coronary artery bypass graft and most
+recent angiography, which demonstrated three vessel disease
+with restenosis to some extent of each of his bypass grafts.
+Dr. [**First Name (STitle) **] was to discuss the possibility of a second
+cardiothoracic surgery with the CT surgeons.  The patient was
+given Integrilin for 18 hours and started on Plavix for a
+thirty day course and given aspirin and Lipitor q day per his
+outpatient regimen for hypercholesterolemia.  Folate was
+continued throughout the hospitalization and the patient was
+restarted on Univasc at 15 mg q day, which was half his
+normal dose.  The patient ruled in for myocardial infarction
+with CK levels of 529, CKMB 88, with an index of 16.6 on the
+11th after the patient's defib arrest.  The patient's CKs
+peaked at that level and had declined to a CPK of 396 with a
+CKMB of 27 and an index of 6.8 on the [**7-27**].  These
+enzymes elevations were thought to be a result of the
+combination of the defibrillation shock and the occlusion of
+the lower pole vessel, which was stented open in the
+catheterization laboratory during the second percutaneous
+intervention.
+
+B:  Pump, the patient was initially started on Lopresor 25
+b.i.d. after returning from the catheterization laboratory.
+His heart rate, however, on hospital day number two was
+elevated in the high 90s and in to the 100s as high as 118.
+The patient was given intravenous Lopresor, which brought his
+rate down to the 60s and 70s.  His Lopressor dose was
+increased to 75 mg b.i.d., which is what he was discharged to
+home on.  This regimen can be modified to optimize his heart
+rate and blood pressure, however, at the time of discharge
+the patient's blood pressure could not tolerate an increase
+in this dose.  The patient's echocardiogram done on the [**7-26**] revealed a left ventricular cavity that was mildly
+dilated with severe global left ventricular hypokinesis and
+overall left ventricular systolic function that was severely
+depressed.  Additionally the aortic valve leaflets were found
+to be mildly thickened.  Mitral valve leaflets were also
+found to be mildly thickened and there was 1+ mild mitral
+regurgitation.  The patient's ejection fraction had been
+estimated to be 25 to 30%.  It was recommended by Dr. [**First Name (STitle) 77**]
+that a repeat stress echocardiogram be done in one month to
+evaluate the patient's left ventricular ejection fraction in
+light of the defibrillation and mild myocardial infarction
+that the patient had suffered during his hospitalization.  It
+would be expected that the patient's ejection fraction
+increase.
+
+C:  Rhythm, the patient experienced a V fibrillation arrest
+after his first percutaneous intervention, which was likely
+due to the thrombosis of the inferior pole vessel of the
+obtuse marginal.  When the vessel was stented open the
+patient was not thought to have any residual risk of
+arrhythmia after the twelve hour reperfusion arrhythmia
+window had closed.  The patient was kept on telemetry and
+serial electrocardiograms were checked.  Frequent ectopy was
+noted in the first 24 hours after the catheterization.
+However, with electrolyte correction his ectopy diminished
+and the patient's rhythm was relatively regular.  The patient
+did have several hours of sinus tachycardia that was treated
+with intravenous Lopressor as noted above.
+
+2.  Pulmonary:  The patient sated well throughout his
+hospitalization initially on 2 liters of oxygen, which was
+weaned to off on hospital day two.
+
+3.  Renal:  The patient's BUN and creatinine remained within
+normal limits despite the dye load of two catheterization
+procedures.  The patient maintained good urine output
+throughout the hospitalization.
+
+4.  Hematology:  The patient's hemoglobin and hematocrit
+remained stable and within normal limits throughout the
+hospitalization.
+
+5.  Endocrine:  The patient has no history of diabetes and
+his blood glucoses were in the high normal range throughout
+his hospitalization.  It is recommended that the hemoglobin
+A1C be checked on an outpatient basis to assess for
+burgeoning diabetes picture.
+
+6.  Prophylaxis:  The patient was given Docusate for
+constipation and Protonix for peptic ulcer disease throughout
+his hospitalization.
+
+7.  Activity:  The patient was visited by the physical
+therapist who evaluated the patient and helped arrange
+outpatient cardiac rehabilitation.  The patient was able to
+tolerate significant activities such as climbing stairs and
+walking the hallways without symptoms.  The patient was
+discharged to home in good condition.
+
+DISCHARGE DIAGNOSES:
+1.  Acute myocardial infarction.
+2.  Ventricular fibrillation.
+3.  Hypercholesterolemia.
+4.  Hypertension.
+5.  Coronary artery disease.
+
+
+
+
+
+
+                          [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 1078**], M.D.  [**MD Number 1685**]
+
+Dictated By:[**Last Name (NamePattern1) 5223**]
+
+MEDQUIST36
+
+D:  [**3129-7-28**]  14:35
+T:  [**3129-7-31**]  07:26
+JOB#:  [**Job Number 5224**]
+
+cc:[**8-13**]
+
+",,
+24357,19199,30244,0,3129-07-26 04:55:00 EST,3129-07-26 06:02:00 EST,-1,"N",1,"Nursing/Other","CCU ADMITTING NOTE","
+CCU ADMITTING NOTE
+58 YEAR OLD MALE ADMITTED TO CCU POST CATHETERIZATION & SHEATH PLACEMENT.
+
+ALLERGIES: NKDA
+
+PMH: Interior wall MI, CAD-(MULTIPLE SIBLINGS DIED OF PREMATURE CAD),       HTN, +CHOL, HYPERLIPIDEMIA, TOB USE 2-3PPDX30YRS> QUIT 10 YRS          AGO.
+     CABG '[**19**] WITH LIMA TO LAD, SVG TP D2, SVG TO OM. 
+     CATH [**4-/3127**] WITH STENT PLACEMENT TO NATIVE MID RCA 
+     [**11-15**] 3VD PATENT SVG TO OM2- OCCLUSIVE SVG TO DIAG, PATENT LIMA TO LAD, PATENT STENT TO THE MID RCA, PROX RCA HAD A FOCAL 80% STENOSIS & DISTAL RCA HAD A SEVERE FOCAL 90% STENOSIS PRIOR TO ORIGIN OF THE rPDA s/p stent placement to prox & distal RCA.
+
+ADMITTING HX: PT RECENTLY C/O ^SOB WITH EXERTION. WENT FOR ROUTINE ETT C/O CP. ST DEPRESSIONS SEEN IN V5, V6,I & aFL with max st depressions in V5. Nuclear medicine revealed severe reversible defect in distal anterior & apical walls. Severe partial reversible defect in the inferior LV wall. LV dilation @ stress, suggestive of ischemia. Global HK with sn EF of 40% noted. Pt went to cath on [**7-25**] found to of proximal LAD & proximal LCX. 60% midsegment stenosis in prev stented RCA. SVG-D1 known occl. SVG to OM1 midsegment w/ 80% focal lesion LIMA_LAD was patent w/LAD after touchdown TO. The SVG & OM1 was stented but infer pole outflow vessel of the OM had mod slow flow after intervention & was recrossed & dilated restoring flow. Superior pole was dilated and restored as well.  Pt entered V-fib arrest on floor secondary to thrombosis fo OM inferior pole vessel., defib X1, IVB amiod. EKG exhibited st^ in anterolateral leads which lead to recatheterization. 2nd PCI revealed stent patency but occlusion of inferior pole. CP resolved after inferior pole was reopened. Given 320cc of contrast. Arrived w/ no C/O CP but nausea. No vomiting occurred.
+
+NEURO: A&OX3. COOPERATIVE & APPROPRIATE. C/O BACK PAIN D/T CATH PROCEDURE. GIVEN MORPHINE 1MG X2 WITH MINIMAL EFFECT. GIVEN 2MG MORE WITH MOD EFFECT. GIVEN 5TH MG & SERAX @ 0100. PT SLEPT SOUNDLY UNTIL 0500.
+
+CV: NO C/O CP. HR 69-77 W/ PVC'S RARE-OCCASSIONAL. NBP 87-118/40-59. ABP 124-140/55-66. SHEATH PULLED @ 2300. PRESSURE APPLIED FOR 20 MIN. - OOZE OR HEMATOMA PRESENT. TRANS DSG APPLIED C&D. DP +2, PT +1. PT ON INTEGRELLIN 2 MCG/KG/MIN. RECEIVING 2 LITER OF 2 OF IVF. INITIAL LITER D5 1/2NS GLUCOSE 238, 2ND BAG CHANGED TO 1/2 NS 125CC/HR. AM GLUC 144
+HCT 35.2. K+ 3.6, CA 8.5, phos 5.0, MG 1.7, CK 825. CK/MB 128
+
+RESP: NO C/O SOB. LUNG SOUNDS CLEAR. RR 12-19. O2 SATS 95+ ON 3.0 L VIA NC. 
+
+ID: AFEBRILE. MAX PO TEMP 97.4. WBC 14.4.
+
+GI/GU: NPO EXCEPT WITH MEDS. C/O NAUSEA UPON ADMISSION. +BS ALL 4 QUADRANTS, -BM. CONDOM CATH DRAINING CLEAR YELLOW URINE. USING URINAL  @ 0600 W/OUT DIFFICULTY. RECEIVED 320 CC OF CONTRAST DURING STUDY- BUN/CR 11/0.7.
+
+SKIN: WNL
+
+ACCESS: LEFT WRIST #20G.
+
+DISP: FULL CODE
+SOCIAL: FAMILY VISITED. 
+
+A: POST CATH TOLERATED WELL. SHEATH PULLED TOLERATED WELL. - COMPLICATIONS. 
+
+P: FOLLOW CURRENT MEDICAL MANAGEMENT & C/O PT TO FLOOR. SUPPORT PT WHERE INDICATED. SOCIAL WORKER CONSULT- PT LIVE
+",,
+24357,19199,30244,0,3129-07-26 04:56:00 EST,3129-07-26 06:02:00 EST,-1,"N",1,"Nursing/Other","CCU ADMITTING NOTE","
+CCU ADMITTING NOTE
+(Continued)
+S ALONE PROVIDE AT HOME RESOURCES.
+
+",,
+24357,,,,3129-10-03 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3129-10-3**] 3:02 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 1826**]
+     Reason: check for pneumothorax and lead placement                   
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      59 year old man with new ICD via subclavian approach                            
+     REASON FOR THIS EXAMINATION:
+      check for pneumothorax and lead placement                                       
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  New ICD via subclavian approach. Evaluate for pneumothorax and
+     lead placement.
+     
+     COMPARISON:  [**3129-7-17**].
+     
+     CHEST, SINGLE VIEW:  There has been interval insertion of an ICD device with
+     leads apparently in the right atrium and right ventricle.  A second lateral
+     view would be helpful to confirm this.  No pneumothorax is identified. The
+     lungs are clear and there are no pleural effusions.
+     
+     IMPRESSION:
+     
+     1. New ICD placement with leads apparently in right atrium and right
+     ventricle.  Lateral view would help confirm this.  There is no pneumothorax.
+
+",,
+24357,,,,3129-10-04 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3129-10-4**] 10:12 AM
+     CHEST (PA & LAT)                                                Clip # [**Clip Number (Radiology) 1827**]
+     Reason: check lead placement and evaluate for pneumothorax          
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      59 year old man with new ICD via subclavian approach                            
+     REASON FOR THIS EXAMINATION:
+      check lead placement and evaluate for pneumothorax                              
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: New ICD via subclavian approach check lead placement and evaluate
+     for pneumothorax.
+     
+     COMPARISON STUDY: [**3129-10-3**].
+     
+     CHEST PA AND LATERAL: The heart is enlarged. The patient is status post
+     mediansternotomy and CABG. There is no pneumothorax. There is a small left
+     sided pleural effusion. Left ICD is identified with the ventricular lead
+     within the right ventricle and the atrial lead within the right atrium.
+     
+     IMPRESSION: ICD in good position without pneumothorax.
+     
+     2. Small left sided pleural effusion.
+
+",,
+24357,,,,3129-12-31 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     EXERCISE MIBI                                                   Clip # [**Clip Number (Radiology) 1828**]
+     Reason: CAD EVALUATION. 
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  CAD evaluation. 
+      
+     SUMMARY OF EXERCISE DATA FROM THE REPORT OF THE EXERCISE LAB: 
+      
+     Exercise protocol:  [**Doctor Last Name 1829**]. 
+     Exercise duration:  10 minutes.    
+     Percent maximum predicted heart rate obtained:  73%. 
+     Symptoms during exercise:  none. 
+     Reason exercise terminated:  fatigue. 
+     ECG findings:  paced rhythm. 
+      
+     INTERPRETATION:  
+      
+     Imaging Protocol: gated SPECT. 
+      
+     Resting perfusion images were obtained with thallium.   
+     Tracer was injected 15 minutes prior to obtaining the resting images. 
+     Exercise images were obtained with MIBI. 
+      
+     Stress and resting perfusion images demonstrate moderate ischemic defects  
+     involving the distal anterior, apical, and inferolateral walls, with partial
+     reversibility noted.   
+      
+     Ejection fraction calculated from gated wall motion images obtained after
+     exercise shows a left ventricular ejection fraction of approximately 29%. 
+      
+     The wall motion images demonstrate global hypokinesis. 
+      
+     Date of prior study:  [**3129-7-9**]. 
+      
+     There is interval development of a lateral wall ischemic defect when compared to
+     the prior study. 
+      
+     IMPRESSION:  1) At the level of exercise achieved, there is a moderate,
+     partially reversible defect involving the distal anterior, apical, and
+     inferolateral walls.  2) There is global hypokinesis, with an ejection fraction
+     of 29%.  3) Results were phoned to Dr.[**Doctor Last Name 1830**] office. /nkg  
+                                                                           
+
+             [**Name6 (MD) 1831**] [**Name8 (MD) 1832**], M.D.
+             [**First Name8 (NamePattern2) 944**] [**Last Name (NamePattern1) 945**], M.D.         Approved: WED [**3130-1-1**] 7:06 PM
+
+
+             Date Mailed: [**3130-1-2**]                     West [**Medical Record Number 1824**]
+
+
+
+               RADLINE [**Telephone/Fax (1) 115**]; A radiology consult service.
+            To hear preliminary results, prior to transcription, call the
+                           Radiology Listen Line [**Telephone/Fax (1) 116**].
+
+",,
+24357,,,,3130-02-05 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3130-2-5**] 11:29 AM
+     CHEST (PA & LAT)                                                Clip # [**Clip Number (Radiology) 1833**]
+     Reason: pre cardiac cath
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      59 year old man with 
+     REASON FOR THIS EXAMINATION:
+      pre cardiac cath
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  59 year old male awaiting cardiac catheterization.
+     
+     FINDINGS:  Comparison is made to a prior chest radiograph from [**3129-10-4**].
+     
+     There is evidence of previous median sternotomy and CABG.  There is a
+     pacemaker in position overlying the left hemithorax.  There is a pacemaker
+     wire with its distal tip located within the region of the right atrium.  There
+     is a second pacemaker wire in position with its distal tip located in the
+     region of the right ventricle.  There is evidence of mild cardiomegaly which
+     is stable when compared to the prior exam.  The mediastinal and hilar contours
+     are stable.  The pulmonary vascularity is normal with no evidence of failure.
+     The lungs are clear with no parenchymal consolidation or pulmonary nodules.
+     The previously-described left-sided pleural effusion has since resolved.
+     There is no pneumothorax.  The soft tissues and osseous structures are
+     unremarkable.
+     
+     IMPRESSION:  No evidence of an acute cardiopulmonary process.
+
+",,
+24357,,,,3130-02-12 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3130-2-12**] 10:03 PM
+     CHEST (PA & LAT)                                                Clip # [**Clip Number (Radiology) 1834**]
+     Reason: check ICD lead placement                                    
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       59 year old man with CAD, VT, s/p ICD placement [**9-16**].  ? ICD lead malfunction. 
+     REASON FOR THIS EXAMINATION:
+      check ICD lead placement                                                        
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     PA AND LATERAL CHEST:
+     
+     INDICATION:  ICD lead malfunction.  Check ICD lead placement.
+     
+     Comparison is made to the prior exam of [**3130-2-5**].
+     
+     FINDINGS:  A pacer device is seen in the left mid hemithorax with leads in
+     good and stable position in the right atrium and right ventricle.  There is no
+     lead fracture seen.  The patient is s/p CABG.  There is no pneumothorax.  The
+     heart is mildly enlarged.  The pulmonary vasculature is normal.  The
+     mediastinal and hilar contours are unremarkable.  The lungs are clear and
+     there are no pleural effusions.  There is no pneumothorax.  The soft tissue
+     and osseous structures are stable.
+     
+     IMPRESSION:  Mild enlargement of the heart with no evidence of cardiac
+     failure.  Satisfactory and stable positioning of pacemaker leads with no
+     evidence of lead fracture.
+
+",,
+24357,,,,3130-06-18 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3130-6-18**] 10:24 AM
+     CHEST (PA & LAT)                                                Clip # [**Clip Number (Radiology) 1835**]
+     Reason: r/o chf
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      59 year old man with 
+     REASON FOR THIS EXAMINATION:
+      r/o chf
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Congestive heart failure.
+     
+     PA & lateral x-ray were reviewed and compared to a study of [**3130-2-12**].
+     
+     There is prominence of the pulmonary vasculature with cardiomegaly, indicating
+     volume overload vs. very mild CHF.  There is probably a small pleural effusion
+     on the lateral radiograph.
+     
+     The patient has prior CABG and median sternotomy.  Again, note is made of
+     combined AICD and pacemaker leads terminating in the right atrium and right
+     ventricle.
+     
+     Note is made of a healing fracture of the posterolateral aspect of the right
+     7th rib.
+     
+     IMPRESSION:
+     
+     Mild CHF with cardiomegaly and small bilateral pleural effusions.
+
+",,
+24357,,,,3130-07-14 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     EXERCISE MIBI                                                   Clip # [**Clip Number (Radiology) 1836**]
+     Reason: CAD.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Sixty year old male with known CAD (s/p CABG, RCA, PTCA and  
+     pacer/AISD). 
+      
+     SUMMARY OF EXERCISE DATA FROM THE REPORT OF THE EXERCISE LAB: 
+     Exercise protocol:  [**Doctor Last Name 1829**]. 
+     Exercise duration:  12 minutes.    
+     Percent maximum predicted heart rate obtained:  72%. 
+     Symptoms during exercise:  no anginal symptoms. 
+     Reason exercise terminated:  fatigue. 
+     ECG findings:  no ischemic ECG changes.  
+      
+     INTERPRETATION:  
+     Imaging Protocol: gated SPECT. 
+     Resting perfusion images were obtained with Tl-201. 
+     Tracer was injected 15 minutes prior to obtaining the resting images. 
+     Exercise images were obtained with Tc-99m sestamibi. 
+      
+     Stress images show marked left ventricular dilatation.  There are moderate
+     defects involving the distal aspect of the anterior wall, apex and lateral wall.
+        Resting perfusion images demonstrate partial reversibility involving all
+     three defects.  There is a moderate fixed inferior wall defect  There is resting
+     dilatation of the left ventricle, less marked than at stress. 
+      
+     Ejection fraction calculated from gated wall motion images obtained after
+     exercise is 30%.  There is diffuse hypokinesia, with paradoxical movement
+     involving the distal anterior wall and apex. 
+      
+     There is a prior study dated [**3129-12-31**] as well as [**3129-7-9**].  There is no
+     significant change from the December study. 
+      
+     IMPRESSION:  At the level of exercise achieved, there is a moderate, partially
+     reversible defect involving the distal anterior wall, apex and lateral wall. 
+     There is a moderate fixed inferior wall defect. There is marked left ventricular
+     dilitation, more severe on stress imaging.  There is global hypokinesia with
+     paradoxical movement of the anterior/apical wall.  The EF is 30%. 
+     /nkg 
+                                                                           
+
+             [**Name6 (MD) 1837**] [**Name8 (MD) 1838**], M.D.
+             [**Initials (NamePattern4) 111**] [**Last Name (NamePattern4) 112**] [**Last Name (NamePattern1) 113**], M.D.     Approved: WED [**3130-7-16**] 8:51 AM
+
+
+             Date Mailed: [**3130-7-17**]                     West [**Medical Record Number 1824**]
+
+
+
+               RADLINE [**Telephone/Fax (1) 115**]; A radiology consult service.
+            To hear preliminary results, prior to transcription, call the
+                           Radiology Listen Line [**Telephone/Fax (1) 116**].
+
+",,
+24357,,30245,0,3131-12-01 04:57:00 EST,3131-12-01 05:50:00 EST,2540,"N",1,"Nursing/Other","CCU Nursing Progress Note 7p-7a","
+CCU Nursing Progress Note 7p-7a
+S: "" I feel congested""
+
+O: Please see careview for complete VS/additional objective data.
+
+MS: AAOx3. Pleasant and cooperative. Neuro checks q1 hr decreased to q4hrs. PEARL. No neurological deficits indicated. MAE. Slept poorly [** 68**] in naps despite Trazadone 25mg x2. Pt c/o back ache x1 w/ resolution achieved following repositioning and a back rub. Approximately 2 hrs later pt c/o HA pain which resolved after being administered 650mg Tylenol. 
+
+CV: SB/NSR. HR 48-71. Rare PVC noted. K+ 4.4 this am. NBP 87-117/37-57. MAPs 58 when asleep and return to >65 while awake. Pt tolerated wean of Neo gtt at 2300 x 1hr. Resumed pressor support and titrated accordingly remainder of noc to maintain SBP Goal >100. Neo gtt is currently at 0.5 mcg/kg/min. R femoral venous sheath site CDI. No hematoma noted. Hct stable. Distal pulses weakly palpable. Electrolytes wnl. Pt denies CP/discomfort. CPK most recently 49. Standing dose Lasix and Spironolactone held [** 68**] for SBP<120. HO aware.  ACT 135 at 2100. Sheath left in for central access [** 68**] while requiring pressor support.
+
+Resp: [**Name Prefix (Prefixes) **] [**Last Name (Prefixes) **]. RR 14-22. O2 sats 93-100% on RA. Pt c/o ""congestion feeling"" at 0300. Placed on 4L NC per pt request. 
+
+GI/GU: Abd soft. +BS x 4 quadrants. Tolerating advancement in low sodium diet and fluid restriction. No N/V. No stool. Post cath hydration cont at 100cc/hr. ^ infusion rate to 200cc/hr x 1hr in attempt to increase SBP which had minimal results. First liter completed, second liter started and 500cc to be infused. Condom catheter intact. UO 100-600cc cyu. Pt remains +1L LOS. 
+
+ID: Afebrile. Tmax 98.4 po. WBC 11.7 this am. No abx.
+
+Skin: Intact. No breakdown noted. Minimal peripheral edema.
+
+Social: Wife into visit. Very supportive. No other calls or visitors [**Name (NI) 68**].
+
+A/P: S/P Left carotid stent. Pt cont to require titration of Neo gtt [**Name (NI) 68**] to maintain SBP goal >100. Cont to wean gtt as tolerated. Cont postcath hydration in attempt increase preload and decrease need for pressor support. Neurologically intact. Pt restless most of noc sleeping and naps. Frustrated in lack of sound [**Doctor Last Name **] and discouraged in inability to become comfortable. Dc sheath as soon as possible and advance activity as tolerated. Cont heart failure education and importance in dietary compliance. Keep pt and family involved in POC. 
+
+
+",,
+24357,23558,30246,0,3132-07-25 16:37:00 EST,3132-07-25 17:05:00 EST,2029,"N",1,"Nursing/Other","CCU NSG NOTE: ALT IN CV/HEME","
+CCU NSG NOTE: ALT IN CV/HEME
+S: ""I'm completely pain free"".
+O: For complete VS see CCU flow sheet. This 62y old man with long hx of heart dx including CABG [**19**], poor ef of 20-30%, afib on coumadin, Pacer ICD placed [**5-18**] and more recent hx of back pain and chronic cough now productive of bloody sputum came to [**Hospital1 3**] [**7-24**] with 10/10 CP. He received IV nitro with decrease in pain intially, but pain waxed and waned. In AM CKs bumped and crit dropped from 29.2 to 26.7. BP was low and he was ashen. He went to cath lab and had stent to OM and IABP was placed. He became pain free. PA sat was 35 and he was started on milrinone. BP came up and he was again put on iv nitro. He also received and unit of PRBCs and dose of kefzol. He received 10u reg insulin for sugar of 222. He was transfered to the CCU pain free.
+CCU COURSE: CV: Pt arrived pain free on milrinone .75 mic/kilo and nitro at .5mic/kilo. IABP was 1:1. He has good augmentation and fair unloading. AS 119-98/ AD 111-94/ BAEDP 85-98 and maps 90-80s. PA sat was 51 with CO 5.1 and index 2.6. Index is so high for that sat due to very low hemaglobin of 8.5. PAP pressure very high at 60s/mid 30s. Groin is dry with no ooze or hematoma and all pulses are dopplerable. Feet are cool and pale, but movement and sensation is nl.
+HEME: First unit was finishing as pt arrive. Crit drawn shortly after was 26.2. He is now receiving a second unit.
+RESP: Pt has croupy non-productive cough. It responds to cough syrup. Breath sounds decreased.
+RENAL: Foley inserted in cath lab. Adequate urine output. He is 800cc pos for the day including blood.
+GI: Pt taking sips of ginger ale and tolerating well. 
+ENDO:  BS in 160 range. No insulin given as some of 10u given in lab may still be around. Will follow
+MS: A & O X 3. Feels so much better, and is now able to [**Doctor Last Name **]. Family in to visit.
+A: Pain free on IABP.?MI/bleeding of unknown origen
+P: Continue to follow crits. Monitor for pain. Monitor CO. Assist pt for position change. Follow CKS. 
+
+",,
+24357,23558,30246,0,3132-07-25 21:14:00 EST,3132-07-25 21:24:00 EST,2216,"N",1,"Nursing/Other",,"
+
+Neuro Alert and oriented. follows commands. Denies pain. Slightly restless due to constant cough and having to keep right leg strait.
+cv/resp internal pacer vpaced at tachy rate. 100 po lopressor given this eve. bp stable on .5 ntg gtt. occ-freq pvc's. K level ok this afternoon. lungs are coarse with very productive cough pt. expectorating bloody sputum. H.O. aware. 3rd unit of prbc given Post hct this eve.. 29. Right fem IABP 1:1 good augmentation helium tank replaced.
+gi/gu 2 loose brown stools guiac neg. foley w qs uop . No ivf due to creat level. no appetite. tol fluids. 
+integ: right fem site c+D with doppler pulses x4. 
+plan ? bronch tomorrow if continues with hemoptysis.
+d/c iabp when inr< 1.8. monitor hemodynamics. monitor hcts.
+",,
+24357,23558,30246,0,3132-07-26 05:01:00 EST,3132-07-26 05:19:00 EST,1836,"N",1,"Nursing/Other","ccu nsg progress note.","
+ccu nsg progress note.
+o:neuro=initially very/extremely restless w generalized discomfort. upset that iabp needs to stay in over night. med w percocet 2tabs @ 0000 & 0400 w effect-much more relaxed/comfortable.
+  pulm=nasally congested. o2 chged to shovel mask @ 100% w sats upper 90's. breath sounds=course w upper airway congestion & productive bloody cough-cough med w some effect. tolerates lying flat wo co sob/ dyspnea.
+  cv=#'s @ 0500-co/ci 7.6/3.9, pad 30, iabp mean 79 on 1:1, & hr 91 vpaced on milrinone 0.75mcg/kg/min & ntg 1.26mcg/kg/min. r fem site- c&d wo ooze/hematoma. pulses dopplerable. ck 1st 576/31 w 2nd 1081. not on heparin @ present due to elevated inr 2.8.
+  gi=wo stool. tolerating sips.
+  heme=am hct 27.1 down from 29.4-t&c for 2u. wo obvious sourse.
+  renal=adeq uo. am creat 1.6 down from 2.0.
+  id=low grade t.
+  labs=am sent.
+
+a:improved #'s on milrinone & ntg. inr remains elevated-?source. [**7-25**] tx w total 3urbc w hct 29.4-am hct 27.1 ?source.
+
+p:contin present management. percocet prn. reck inr w ?goal <2. ?wean/ dc iabp when inr normalized. support pt/family as indicated.
+",,
+24357,23558,30246,0,3132-07-26 17:14:00 EST,3132-07-26 17:33:00 EST,2143,"N",1,"Nursing/Other","ccu nursing progress note","
+ccu nursing progress note
+s: i feel a little better
+o: pls see carevue flowsheet for complete vs/data/events
+cv: no c/o cp. hr 80-100mostly vpaced. w freq pvcs. k and mg repleted. remains w iabp in place to r fem site. weaned to 1:2 at 4pm. maps remain 80-90s. ntg weaned as lopressor resumed, milrinone titrated down to .375 from .75 and pt tol usual enalapril dose of 10mg.
+ci has trended down overall from 3.9 to 3.0 to 2.7(on .375 and iabp 1:1) to 1.85 w co 3.6 at 6pm (on .375 milrinone and iabp 1:2). 
+paps have remained unchanged 60-70/22-30. 
+rec'd 2uprbcs over the day and hct 35 2hrs post last transfusion in.
+r fem site w sm ooze. pulses by doppler.
+inr 2.0 this am, rec'd 10mg po vit k. repeat inr pend from this eve.
+gi: nausea w sm amt vomiting this am(bilious w sm coffee grds). ate and drank a sm amt in afternoon. sm amt soft stool, ob+.
+gu: attempting diuresis. rec'd 20 then 40mg iv lasix. uop has improved from 40 to 270cc/hr. remains + w 2u prbcs today. cr 1.6(2.0) eve pend.
+resp: no sob. bs coarse w frank hemoptysis. exp mod amts bldy sputum. pulmonary consulted. on cn face tent at 70%.
+social: wife visiting, updated by rn, fellow.
+ms: alert, cooperative. taking percocet 2 tabs q4-6hr for back/rib pain(from coughing!) w some effect.
+a: s/p mi. chf. poor response w iabp wean. hct up w transfusion
+p: follow for chf exacerbation, response to diuresis, repeat co this eve. await eve labs. monitor hemoptysis. assess for bleeding complications. med for comfort. support to pt and family.
+
+",,
+24357,23558,30246,0,3132-07-27 05:21:00 EST,3132-07-27 05:45:00 EST,1865,"N",1,"Nursing/Other",,"
+
+62 YR. OLD MAN WITH LONG HX CARDIAC DISEASE INCLUDING CABG '[**19**], EF 20-
+30%, AFIB->COUMADIN, PACER ICD PLACED [**5-18**], & MORE RECENTLY, HX BACK PAIN & CHRONIC COUGH->BLOODY SPUTUM. PRESENTED TO [**Hospital1 3**] [**7-24**] WITH 10/10 CP->IV NTG STARTED->CATH LAB->STENT TO OM & IABP PLACED. PAIN FREE. PA SAT 35%->MILRINONE STARTED. RECEIVED TOTAL 5U PRBC OVER 2D FOR HCT DROP TO ~26 X2--???ETIOLOGY.
+
+NEURO: A&O X3. 
+
+RESP: O2->70% OFT. O2 SAT 95-100%. RR 15-21. BS CLEAR BUT DIMINISHED AT R. BASE. CONT. TO COUGH UP BLOODY SPUTUM.
+
+CARDIAC: HR 76-90 VP WITH OCC. PVC'S. BP 100-115/54-63, PAD 29->15
+(AFTER LASIX). ATTEMPTED TO WEAN MILRINONE TO .375MCG/KG & IABP 1:2->
+CO3.6/CI 1.85 PA SAT 55%. REPEATED->CO 3.4/CI 1.74 & PA SAT 51%. MILRINONE INCREASED TO .5MCG/KG & IABP 1:1. CO 3.7->5.9/ CI 1.9->3.03
+PA SAT 58->70%. NTG GTT CONT. AT .5MCG/KG. +BPPP. R. GROIN C&D. IABP WITH FAIR-POOR AUGMENTATION, SYSTOLIC UNLOADING [**1-23**]. DENIES CP/SOB.
+C/O BACK & RIB PAIN D/T COUGHING->PERCOCET X1. POST-TX HCT 36.6, K 3.8
+TX WITH KCL 40 MEQ IV X1. PT 20, PTT 31.6, INR 2.7.
+
+GI: ABD. SL. DISTENDED. BS+. NO STOOL.
+
+GU: FOLEY->CD PATENT & DRAINING CLEAR YELLOW URINE. U/O 35-70CC/HR.
+LASIX 80MG VP X1->DIURESED>1L. BUN/CREAT 35/1.4.
+
+ID: AFEBRILE.
+
+ENDO: BS 126->121. NO INSULIN PER SLIDING SCALE.
+
+AM LABS SENT.
+
+PLAN: CONT TO MONITOR HCT & CHEMISTRIES & TREAT ACCORDINGLY.
+      ? QD LASIX
+      WEAN MILRINONE AS TOL.
+",,
+24357,23558,30246,0,3132-07-27 14:56:00 EST,3132-07-27 14:58:00 EST,6692,"N",1,"Nursing/Other","Respiratory Care Note","
+Respiratory Care Note
+Pt given unit dose Atrovent via neb x 2. BS are diminished, but clear bilaterally with slight improvement in aeration after rx. Pt has a congested cough w/ no production at this time.
+",,
+24357,23558,30246,0,3132-07-27 17:45:00 EST,3132-07-27 18:06:00 EST,2750,"N",1,"Nursing/Other","CCU Nursing Progress Note 7am-7pm","
+CCU Nursing Progress Note 7am-7pm
+S:  My back is just so uncomfortable.  If I could just get out of bed.
+
+O:  Chief c/o above. Initially rx with 1000mg Tylenol, freq turn and positioning and back rub, with relief x5hrs.  Then medicated with Percocet ii also with relief, and pt also able to [**Doctor Last Name **].
+
+ID - Afebrile.  Ciprofloxacin po bid started for UTI.
+
+CV - Cont on IAPB 1:1 without attempt to wean today.  Rec'd pt on Milrinone 0.5mcgs/kg/min and NTG 0.5mcgs/kg/min wiht PAD 25-26 and CO/CI 5.9/3.03.  Rec'd 10mg po Hydralazine and Milrinone decreased to 4mcgs/.  MAP's dec from 105 to 89 post Hydralazine, but CO/CI also dec to 5.1/2.62.  Milrinone increased back to 0.5mcgs and Hydralazine was increased to 20mg and pt diuresed 1000cc post 80mg Lasix.  CO/CI after diuresis was 6.2/3.18.  MAP's continually down to 85-95.  HR has been 80's and increasing to 100's throughout day, v paced with occ vea.  Milrinone decreased to 0.4mcgs/kg at 7pm d/t increased HR.  Also given increased dose of 30mg Hydralazine at 7pm.  K+ pnd from 6pm.
+Heparin started at 800u/hr at 440pm.  Pulses +2/+3 bilaterally.
+
+Resp - LS are diminished at r base, then with scattered rales on l.  O2 face tent on 65% with O2 sats 95-99%.  Rec'd nebs by rt.  Pt continues to have productive bloody sputum, but has diminished in quantity.  
+
+GI - Fair appetite for meals.  Cont on RISS.  No stool today, with +bs and lg abdomen.
+
+GU - Foley cath to amber urine pre diuresis.  As above, pt diuresed >1.4 liter post 80mg Lasix.
+
+Heme - Hct stable at 34.7 today.  6pm Hct pnd.
+
+A:  62yom with chf/cg shock, unable to tolerated slow milrinone wean, but better co/ci post diuresis
+
+P:  Cont diuresis as tolerated, increasing hydralazine as necessary.  Attempt to decrease milrinone as pt is increasingly tachycardic, cont monitor vea and replace lytes as needed, PTT to check therapeautic heparin, turn and position for comfort and med with tylenol or percocet as tolerated, 
+
+ 
+",,
+24357,23558,30246,0,3132-07-28 03:27:00 EST,3132-07-28 03:31:00 EST,6856,"N",1,"Nursing/Other",,"
+
+Pt received Atrovent nebs x2. Pt in no resp distress. BS: Decreased but clear. Pt switched to nasal cannula @ 4liters. 02 sats in high 90's. HR stable in 90's.  Pt has strong congested but non-productive cough. 
+
+",,
+24357,23558,30246,0,3132-07-28 05:08:00 EST,3132-07-28 05:22:00 EST,1626,"N",1,"Nursing/Other","CCU NSG PROGRESS NOTE 7P-7A/ S/P MI, STENT OM/SHOCK","
+CCU NSG PROGRESS NOTE 7P-7A/ S/P MI, STENT OM/SHOCK
+
+S- "" I NEED TO GET OUT OF BED- MY BACK IN THIS BED ...I CAN'T TAKE IT..""
+
+O- SEE FLOWSHEET FOR OBJECTIVE DATA
+
+CV- PT REMAINS ON IABP 1:1 AS WELL AS HEPARIN, TNG, MILRINONE GTT.
+ATTEMPTED TO DECREASE MILRINONE TO 0.4 IN SETTING OF TACHYCARDIA 100'S BUT DROPPED CO/CI TO 4.1/2.1 SO INCREASED AGAIN TO 0.5 MCG.
+PTT LOW ON 800U HEPARIN- BOLUSED WITH 1000 AND INCREASED TO 900 AT 1AM. DUE FOR LABS 7AM. DECREASED TNG GTT SLIGHTLY FOR C/O HEADACHE.
+DENIES CP OR SOB.
+BACK ACHE WITH BEDREST/IABP PUMP X 4 DAYS. GIVEN PERCOCET 2 X 2 DOSES AS WELL AS TRAZADONE QHS FOR [**Doctor Last Name 7**].
+INCREASING HYDRALAZINE DOSES IN ANTICIPATION OF IABP WEAN TODAY.
+CURRENTLY UP TO 50MG QID.
+GROIN SITE DRY/INTACT- PULSES REMAIN (+).
+
+RESP- PT ON FACE TENT 60% - ALTERNATING WITH 5-6L NP 
+O2 SATS- HIGH 90'S. COMFORTABLE
+NO HEMOPTOSIS THIS SHIFT.
+LESS COUGHING /SECRETIONS PER PT.
+DIM AT BASE- OTHERWISE OCC I/E WHEEZE BUT CL.
+
+ID- AFEBRILE- REMAINS ON CIPRO FOR (+) UTI
+
+GU- FOLEY CATH IN PLACE- I/O (-) 800CC AND UO- 60-80CC/HOUR THIS SHIFT.
+NO FURTHER DIUIRESIS.
+REPLETED K -3.5 WITH 50 MEQ KCL EARLIER.
+
+GI- TAKING MEDS/LIX WELL THIS SHIFT.
+LARGE LOOSE BLACK BUT G (-) STOOL ON EVES.
+
+HEME- HCT -STABLE AT 36
+NO SIGN ACTIVE BLEEDING.
+
+MS - PT INITIALLY ANXIOUS, UNCOMFORTABLE.
+GOOD BACKRUBS AND PERCOCET X 2 AS WELL AS SUPPORT. GIVEN TRAZADONE FOR [**Doctor Last Name 7**] PER PT REQUEST FOR SLEEPER MED.
+SLEEPING ON/OFF OVERNITE
+HAS ""HAD IT"" WITH BEDREST.
+ENCOURAGED BY PLAN TO PROBABLY D/C / WEAN IABP TODAY.
+
+A/P PT S/P MI/SHOCK CURRENTLY STATUS QUO ON MILRINONE 0.5 AND IABP 1:1
+
+
+CONTINUE TO INCREASE HYDRALAZINE AS MAPS ALLOW AND CHECK AM CO/CI.
+PLAN TO BEGIN TO WEAN IABP TODAY. ? WEAN OFF TNG.
+CONTINUE MUCH SUPPORT/COMFORT AND DECREASE PT ANXIETY.
+REPLETE LYTES AS NEEDED. QID BLOOD SUGAR CHECKS.
+CLOSE MONITORING OF HCT/ANY SIGN ACTIVE BLEEDING.
+WEAN DOWN O2 AS TOLERATED, CONTINUE WITH NEBS/PULM TOILET.
+",,
+24357,23558,30246,0,3132-07-28 17:36:00 EST,3132-07-28 17:46:00 EST,2750,"N",1,"Nursing/Other","CCU Nursing Progress Note 7am-7pm","
+CCU Nursing Progress Note 7am-7pm
+S:  Will this tube come out today?
+
+O:  CV - HR cont 80-100'2 v paced with freq pvc's.  Pt currently remains on 0.5mcgs/kg Milrinone and 0.3mgs/kg NTg without change, as well as 50mg Hydralazine q6hrs.  Rec'd pt on IAPB 1:1 unloading 2-8points with MAP's 83-103.  CO/CI 4.1/2.1 after pt changed to 1:2, Pt was then diuresed with 80mg lasix with u/o 1400cc over 4hrs and was then on changed to 1:3.  co/ci 4.6/2.36.  PAD's 25-21 post diuresis. Heparin was dc'd at 1415 and IAPB and swan were dc'd at 1630.  Pulses +3/+3 bilat, and r knee immobilizer remains in place.  DSD placed after IABP dc'd.  No hematoma or bleed noted.  Pt is currently flat in bed.  
+
+Resp - ls are diminished at r, and prior to diuresis had scattered crackles on l.  O2 sat 96-97%.  Sputum production has decreased.  
+
+GI/ Endo- Appetite is fair for meals and RISS followed.  Abd is lg with +bs and no stool today.  
+
+GU - cont on Cipro and foley draining clear amber urine.
+
+ID- Afebrile 
+
+Social - wife and brother [**Name (NI) 857**] today.  Spoke at lenght with Dr. [**First Name (STitle) 781**] and are aware of plan.
+
+A: Able to tolerated IABP wean today.  Cont on 0.5mcgs Milrinone
+
+P:  Cont monitor hemodynamics on current med regime.  Continue to diurese to 1 liter negative today.  May elevate HOB 8-9pm.  Increase activity tomorrow, PT consult for activity increase,  cont monitor lytes and replete prn, keep pt and family informed of plan per multidisciplinary rounds.
+",,
+24357,23558,30246,0,3132-07-29 05:18:00 EST,3132-07-29 05:31:00 EST,1626,"N",1,"Nursing/Other","CCU NSG PROGRESS NOTE 7P-7A/ S/P MI; C/B SHOCK","
+CCU NSG PROGRESS NOTE 7P-7A/ S/P MI; C/B SHOCK
+
+S- "" CAN I GET THIS FOLEY OUT,,CAN I DANGLE..""
+
+O- SEE FLOWSHEET FOR OBJECTIVE DATA
+
+CV- PT REMAINS HEMODYNAMICALLY STABLE S/P IABP D/C AND ON MILRINONE 0.5, HYDRAL 50 [**Last Name (LF) 4502**], [**First Name3 (LF) 746**], PLAVIX. STARTED COUMADIN 2 MG QHS AND RESTARTED HEPARIN 800U WITHOUT BOLUS. AWAITING AM LABS/PTT/CBC.
+RT GROIN SITE D/I, PULSES (+).
+PT ANXIOUS TO MOVE AROUND IN BED S/P SHEATH REMOVAL 4:30P- ALLOWED TO MOVE BY 8:30 AND LESS ANXIOUS AND FEELING OF CONFINEMENT.
+ASKING FOR INCREASING ACTVITY TO DANGLE AND D/C FOLEY BUT TOLD PT THIS WOULD BE DEFERRED CURRENTLY.
+HR- 100-110'S V PACED WITH FREQ PVC'S, BP- 130-140/50-70.
+WEANING TNG TO OFF CURRENTLY.
+
+RESP- PT CONTINUES TO HAVE NONPRODUCTIVE COUGH- OCCASIONALLY EXPECTORATING TANNISH SPUTUM - MUCH LESS HEMOPTOSIS.
+O2 SATS- MID TO HIGH 90'S- TAKING CEPACOL LOZENGES.
+RESP NEBS Q 6 HOURS AS WELL
+
+ID- AFEBRILE- ON CIPRO FOR (+) UTI.
+
+GU- GOOD UO AFTER LASIX [**7-28**]- (-)1800CC AS OF 12A WITH GOAL (-)1 LITER. UO- 80-120CC VIA FOLEY. (-)700CC FROM 12-6A
+NO FURTHER DIURESIS TODAY
+PA LINE D/C ALONG WITH IABP.
+
+GI- TAKING SMALL AMOUNT FOOD- NOT HUNGRY IN SETTING OF LATE AFTERNOON SHEATH D/C AND BEDREST.
+REMAINS ON SS REG- WNL -NO INSULIN NEEDED THIS SHIFT.
+
+MS- PT ANXIOUS TO MOVE, GIVEN EXPLANATION FOR BEDREST ETC AND UNDERSTANDS- ASKING FOR SLEEPER- STATING HE TAKES TRAZADONE AT HOME BUT LAST NITE'S DOSE ""DIDN'T WORK TOO WELL"" GIVEN 50 MG THIS EVENING INSTEAD OF 25. AWAKE AND ANXIOUS AT 2-3 AM- GIVEN 0.5 ATIVAN WITH BETTER RESULTS. RESTING REST OF MORNING.
+
+A/P- PT HEMODYNAMICALLY STABLE S/P IABP D/C
+CONTINUES ON MILRINONE GTT 0.5 AS WELL AS HEPARIN AND TNG
+WEANING OFF TNG CURRENTLY.
+ANXIETY/INSOMNIA TX WITH MODERATE SUCCESS WITH ATIVAN.
+
+CONTINUE TO WEAN TNG TO OFF, KEEP HEPARIN AT THERAPEUTIC LEVELS UNTIL COUMADIN LOAD COMPLETE.
+DISCUSS ? MILRINONE WEAN TODAY.
+MAXIMIZE HYDRALAZINE DOSE AS WELL.
+REPLETE LYTES- WATCH FOR FURTHER DROPS IN HCTS OR INCREASE IN HEMOPTOSIS.
+DIURESIS AS NEEDED - CLOSE MONITORING FOR CHF- AM CXR.
+GRADUAL INCREASE IN ACTIVITY TODAY.
+LIMIT SETTING/DECREASE AXIETY- ? STANDING ORDER FOR SERAX/ATIVAN AS NEEDED.
+C/O TO FLOOR ONCE MEDICALLY STABLE.
+KEEP PT AND WIFE AWARE OF PLAN OF CARE
+",,
+24357,23558,30246,0,3132-07-29 16:07:00 EST,3132-07-29 17:45:00 EST,5517,"N",1,"Nursing/Other","Nursing Note 7a-7p","
+Nursing Note 7a-7p
+S:""Can I get up [**Last Name (un) **] this bed today"".
+O: Neuro- A+Ox3, pleasant but anxious @ baseline. Has prn ativan 0.5mg q6 order, not needed this shift. PEARL, oob-chair for lunch.
+CV- Tele V-paced, HR 95-120s on exertion. NBPs 91-140/52-79, remains on Milrinone @ 0.5mcg/kg/min. Nitro gtt off @ 1300. Went to cath for placement of PA line d/t his pacer, tol well. Swan in RIJ cd+i, PAPs 42-54/20-26, wedge 24, CVPs 6-8. Cardiac#s 5.3/2.72/1192 Increased Hydralazine to 75mg q6. Conts on Heparin gtt @ 900U/hr, last ptt 32.8, conts coumadin 2mg po qhs. No hemoptisis, HCT 41, R groin site c+d no hematoma, lytes wnl. 
+Resp- LS diminished in bases, occ productive coughing tan colored sputum, spec sent. On 2L nc sats >95%. Diuresed with 40mg ivp Lasix with >1L op. 
+ID- Tmax 98.4, wbc 11.7, conts on cipro for +UTI, u/a c+s sent.
+GI/GU- Abd soft +bs no bm, appetite poor only eating desert foods refusing all else. FS's wnls. Foley pulled @ 1000, voiding lg amts  bloody urine to clear yellow with the lasix. 
+A/P: 62yo male s/p MI with stent to OM, CHF, cardiogenic shock requiring IABP and very slow to wean. Conts on Milrinone gtt for BP support, hydralazine increased. Cont to monitor hemdynamics, cardiac numbers. Monitor ptt, HCT and lytes while diuresing.
+",,
+24357,23558,30246,0,3132-07-30 04:44:00 EST,3132-07-30 04:55:00 EST,2216,"N",1,"Nursing/Other",,"
+
+neuro alert and oriented. percocet x1 and ativan for [**Doctor Last Name **] with good effect. 
+cv/resp bp stable. vpaced low 100's. frequent multifocal ectopy noted. 
+o2 2lnp sats high 90's. low 90's on room air when asleep. nonproductive cough. seen by rrt for neb x1. clear breath sounds diminished bases.
+gi/gu voiding yellow urine. no stools. 
+integ: skin warm and dry. 
+pt/ptt last eve. repeated for false elevation. heparin increased for subtherapeutic level and repeat ptt done this am with am labs/pending. 
+plan. ? wean milrinone this am. progress with activity and diet. follow up on am labs replete lytes as needed.
+",,
+24357,23558,30246,0,3132-07-30 17:52:00 EST,3132-07-30 18:24:00 EST,5517,"N",1,"Nursing/Other","Nurses Note 7a-7p","
+Nurses Note 7a-7p
+S:""Can I get dis thing out today"".
+O: Neuro-Pt calm/cooperative less anxious today. No c/o sob/cp, oob-chair for meals.
+CV- Tele V-paced with occ-freq PVCs, HR 80s-110. Milrinone gtt wean started to 0.4 mcg/kg/min, given captopril 6.25mg and dig 0.25mg. Numbers drawn after 1hr, CI 2.26 (goal >2.0) NBPs 100-120s/54-68. Wean to cont as tol q6. PADs 18-26, CVP flat team aware, R IJ Swan site intact. Conts on heparin gtt @ 1100U/hr. R fem site cd+i, + pulses.
+Resp- LS diminished in bases, conts productive cough, nebs from RT q6. Given 40 ivp lasix with 1200cc op, goal -1L today.
+GI/GU- Abd soft, +bs +bm ob-, appetite better. Voiding qs tea colored urine, u/a sent off.
+A/P: Pt hemodynamically stable during slow wean from Milrinone. Cont to wean as tol while giving captopril/dig. Monitor cardiac numbers  keeping CI> 2.0, monitor coags on heparin. 
+",,
+24357,23558,30246,0,3132-07-31 07:01:00 EST,3132-07-31 07:42:00 EST,2691,"N",1,"Nursing/Other","CCU NURSING PROGRESS NOTE","
+CCU NURSING PROGRESS NOTE
+S: CAN I HAVE SOMETHING FOR [**Doctor Last Name 7**]. 
+O:PT ALERT AND ORIENTED X3. MAE, FOLLOWS COMMANDS. HOH. HEARING AID BATTERY DIED. WIFE WILL BRING IN BATTERIES THIS AM. 
+SKIN PINK WARM AND DRY. FACE FLUSHED. NO EDEMA. SATS 93-94% ON RA. LUNGS CLR AND DIMINISHED BILAT. DENIES SOB AND CP. 
+CV:MHR TACHY AT 100S VP W/ PVC. PAD 27, UNABLE TO WEDGE. CVP DAMPENED. FICK CI 2.3 W/ HIGH SVR. PT RECEIVED INCREASED DOSE OF CAPTOPRIL AND TOL THE DOSE WELL. PT HAD BRIEF HYPOTENTION AFTER MN DOSE OF HYDRALAZINE. SBP AS LOW AS 83 WHICH SPONTANEOUSLY INCREASED TO 100S. FICK CI IMPROVED THIS AM TO 2.36. PAD DOWN TO 16-17, SEE FLOW SHEET. 
+MILRINONE REMAINS AT 0.4MCG/KG/MIN. HEPARIN THERAPUTIC ON 1100UX/HR. 
+GI:ABD SOFT NON TENDER. 
+GU:VOIDING. I/O NEG 1500CC AS OF 2300 LAST EVENING. 
+ENDO:FS, UP AND COV'D AS PER SLIDING SCALE.
+HEME:RESTARTED ON COUMADIN.  
+A:PT S/P OM GRAFT STENTING. WEAM MILRINOE SLOWLY AS ORDERED. CONTINUE HEPARING WHILE PT NOT THERAPUTIC. MEDS CHANGED AND INCREASED FOR OPTIMAL AFTERLOAD REDUCTION. 
+",,
+24357,23558,30246,0,3132-07-31 13:14:00 EST,3132-07-31 13:48:00 EST,5517,"N",1,"Nursing/Other","Nursing Note 7a-7p","
+Nursing Note 7a-7p
+S:""So can I go home tomorrow"".
+Pt A+0x3, oob-chair independently, no c/o sob/cp. Tele V-paced with occ PVCs, HR 90s-108. NBPs 102-148/60s, Mirinone gtt weaned down to 0.20mcg/kg/min. Fick CI 2.10 (goal>2.0) Dig .25 qd added, conts on enalapril and hydralazine. Swan in R IJ intact, PADs 15-7, CVP remains damp, MV sats 62,65%. Conts on heparin gtt @ 1100U/hr, PTT therapeutic
+Coumadin 2mg qd.
+Resp- LS diminished in bases, r/a sats >95%, conts occ productive cough, gets nebs q6. No lasix given this shift.
+GI/GU- Abd soft, no bm today, appetite fair. Conts heme+ urine d/t foley trauma, u/a pending.
+ID- Afeb, wbc 10.9, cipro completed for +uti.
+A/P: Pt hemodynamically stable during milrinone wean. Cont to monitor BPs, cardiac numbers, coags and urine op. Poss d/c swan tomorrow.
+",,
+24357,23558,30246,0,3132-08-01 04:28:00 EST,3132-08-01 05:08:00 EST,2691,"N",1,"Nursing/Other","CCU NURSING PROGRESS NOTE","
+CCU NURSING PROGRESS NOTE
+S:I'M FEELING BETTER TODAY.
+O:PT S/P NSTEMI W/ +TROP, CATH'D SVG-OM STENTED. CARDIOGENIC SHOCK. CURRENTLY WEANING FROM INOTROPES. 
+PT STATES HE REGULARLY TAKES TRAZODONE FOR [**Doctor Last Name 7**]. SLEEPER AND ATIVAN PO GIVEN. PT WAS ABLE TO [**Doctor Last Name 7**] MOST OF THE NOC. 
+PT ALERT AND ORIENTED, SKIN PINK WARM AND DRY. FACE FLUSHED. SATS 94-96% ON RA. DENIES SOB. LUNGS W/ CLEAR AND DIM RIGHT BASE. COARSE BS AT LEFT BASE OTHERWISE CLEAR. NO EDEMA. RECIEVED PO LASIX 20MG W/ GOOD EFFECT 700CC SINCE MN. 
+CV: HEMODYNAMICS FICK CI 2.7,MILRINONE WAS TURNED OFF. PAD 16-20. REPEAT CI 2.36X 2 SINCE MILRINONE OFF. MHR AS LOW AS 80S-90S. V-PACED, ATRIALLY TRACKING. MUCH LESS VEA THROUGH THE NOC. SBP 99/-145, TOLERATING INCREASED DOSE OF ENALAPRIL. HYDRALAZINE REMAINS AT 75MG Q/6 W/ IMPROVED BP CONTROL. DP PALP R>L. CVP CONTINUES TO REMAINED DAMPENED.
+HEME: HEPARIN AT 1100UX/HR W/ THERAPUTIC PTT, PT/INR NOT THERAPUTIC AT THIS TIME ON COUMADIN 2MG. HCT STABLE.
+GI:ABD SOFT, +BS. LAST BM [**7-31**] ON DAYS. 
+GU:URINE CONTINUES TO BE BROWNISH TEA COLOR/ OLD BLD. 
+ENDO:HAS NOT REQUIRED SS COVERAGE THIS SHIFT. 
+A:PT W/ IMPROVED HEMODYNAMICS. ABLE TO D/C MILRINONE. D/C SWAN TODAY. FOLLOW LYTES, COAGS AND DIG LEVEL TOMORROW.  CONTINUE TO INCREASE ACTIVITY AS TOL. PROVIDE WRITTEN INFOR ON NEW MEDS. 
+",,
+24357,23558,30246,0,3132-08-01 13:40:00 EST,3132-08-01 13:48:00 EST,2143,"N",1,"Nursing/Other","ccu nursing progress note","
+ccu nursing progress note
+s: when are they getting this out?(pa line)
+o: pls see carevue flowsheet for complete vs/data/events
+co and pa numbers remained stable off milrinone. hr 90s vpaced and bp 110-140/60-70. tol all cardiac meds, doses unchanged. 
+last mv sat 69. ci 2.4. pa 40/18.
+no sob, sat >95% on ra.
+gu: started 24hr urine collection.
+gi: tol diet.
+ms: alert, cooperative. oob w min assist.
+a/p: stable off milrinone, cont transplant w/u(scheduled for carotid and abd u/s, pfts). monitor for chf, ischemia. support to pt and family. to [**Hospital Ward Name **] 6 when bed available.
+",,
